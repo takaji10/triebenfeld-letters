@@ -64,7 +64,7 @@ nicht reisen könne ([Auszug]({{ '/documents/ihagrrep7cnr1414/2/' | relative_url
 Forderung seiner Tochter von 1818 sagt, wozu es diente: Die preußischen Behörden hatten ihn
 aufgefordert, seine Ausreise zu rechtfertigen, die Aufforderungen erreichten ihn spät, und er
 übersandte das Attest, um eine längere Frist zu erbitten; er starb, bevor er Antwort erhielt
-([Darstellung der Forderung]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). Ein Aufsatz
+([Darstellung der Forderung]({{ '/documents/iiihamdaiiinr12366/1/' | relative_url }})). Ein Aufsatz
 eines Historikers von 1973 zählt „Antoni Prusiński“, Starost von Niszczewice, schon Ende 1794
 zu den polnischen Emigranten in Venedig ([Pachoński]({{ '/de/literatur/pachonski1973/#p-240' | relative_url }}), Anm. 10). Das
 Departement der auswärtigen Angelegenheiten gab den Bericht des Residenten im Januar 1797 an die Minister
@@ -141,17 +141,17 @@ Briefwechsel handelt nicht mehr vom Erwerb von Land, sondern davon, Geld aus ihm
 Auch von der anderen Seite wurde die Schenkung angefochten. Die noch minderjährige Michalina
 Prusimska klagte durch ihren Vormund vor der Regierung in Poznań (Posen) gegen
 Hohenlohe-Ingelfingen auf die Güter Brzyce, die sie als mütterliches Vermögen beanspruchte
-([Nr. 3709, Dokument 5]({{ '/documents/ihagrrep7cnr3709/5/' | relative_url }})). Auf ihre
+([Nr. 3709, Dokument 3]({{ '/documents/ihagrrep7cnr3709/3/' | relative_url }})). Auf ihre
 Beschwerde forderte der König im Juni 1800 die Akten ein und befahl dann, die Sache zu
 beschleunigen und einen Vergleich zu versuchen
-([2]({{ '/documents/ihagrrep7cnr3709/2/' | relative_url }}),
-[4]({{ '/documents/ihagrrep7cnr3709/4/' | relative_url }})). Im November bat
+([1]({{ '/documents/ihagrrep7cnr3709/1/' | relative_url }}),
+[2]({{ '/documents/ihagrrep7cnr3709/2/' | relative_url }})). Im November bat
 Hohenlohe-Ingelfingen den Großkanzler um andere Richter, weil die Räte in Poznań zugleich dem
 Pupillenkollegium angehörten, das ihren Prozess betrieb. Die Verfügung, die die Sache der
 Regierung in Warschau übertrug, kam zu spät: In Poznań war am 9. Dezember 1800 schon geurteilt
-([12]({{ '/documents/ihagrrep7cnr3709/12/' | relative_url }})). Wie das Gericht entschied,
+([7]({{ '/documents/ihagrrep7cnr3709/7/' | relative_url }})). Wie das Gericht entschied,
 sagt die Akte nicht. Im Januar 1802 bat die Prusimska den König aus Dresden, die Appellation
-zu beschleunigen ([15]({{ '/documents/ihagrrep7cnr3709/15/' | relative_url }})).
+zu beschleunigen ([10]({{ '/documents/ihagrrep7cnr3709/10/' | relative_url }})).
 bekannt.
 
 ## III. Die Aufteilung der Güter, 1798 bis 1806
@@ -163,7 +163,7 @@ danach jedes Jahr einen festen Zins, und besaß das Land erblich.
 Zuerst gingen die entfernten Güter. Glenck verkaufte das Vorwerk Szetlewek an den Müller
 Samuel Lucke für 12.333 Reichstaler, von denen 8.333 an Ignatz von Radzinski gingen, der Geld auf das
 Vorwerk geliehen und es bis zur Rückzahlung als Pfand innehatte
-([Vertrag]({{ '/documents/oe1bu14526/25/' | relative_url }})). Kamionna und Kolno wurden 1804
+([Vertrag]({{ '/documents/oe1bu14526/24/' | relative_url }})). Kamionna und Kolno wurden 1804
 für 142.000 Reichstaler an George Conrad Leixner verkauft, einen Beamten der Bank in Frankfurt
 an der Oder ([Vertrag]({{ '/documents/oe1bu14526/5/' | relative_url }});
 [Brief 136]({{ '/documents/oe1bu9454/136/' | relative_url }})). Im Juli 1804 wurde die ganze
@@ -172,7 +172,7 @@ jährlichen Grundzins von 1.000 Reichstalern überlassen; den größten Teil des
 die Übernahme der eingetragenen Schulden
 ([Vertrag]({{ '/documents/oe1bu14526/18/' | relative_url }})). Die Behörden in Poznań
 versagten im Mai 1805 die Genehmigung
-([Ablehnung]({{ '/documents/oe1bu14526/24/' | relative_url }})); eine königliche Genehmigung
+([Ablehnung]({{ '/documents/oe1bu14526/23/' | relative_url }})); eine königliche Genehmigung
 folgte erst 1806.
 
 Trąbczyn und Zagórów wurden unter Siedler aufgeteilt. Triebenfeld warb sie weit und breit an.
@@ -499,16 +499,16 @@ preußische Ministerium unternahm nichts weiter und gab die Sache an den Ministe
 Die Schulden, die Hohenlohe-Ingelfingen auf Trąbczyn hatte eintragen lassen, überdauerten ihn.
 Im Januar 1819 verlangte Prusimskis Tochter, inzwischen Gräfin Miączyńska, über den russischen
 Gesandten von Preußen, sie zu tilgen: nach ihrer Rechnung 156.000 Taler auf Trąbczyn und
-Szetlewek ([Bericht]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). Das preußische Ministerium lehnte
-im Mai ab ([Antwortentwurf]({{ '/documents/iiihamdaiiinr12366/3/' | relative_url }})). Die polnischen Gerichte
+Szetlewek ([Bericht]({{ '/documents/iiihamdaiiinr12366/1/' | relative_url }})). Das preußische Ministerium lehnte
+im Mai ab ([Antwortentwurf]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). Die polnischen Gerichte
 nahmen danach an, die Rückgabe der Güter 1807 habe die in der Zwischenzeit darauf aufgenommenen
 Schulden aufgehoben. Das Ziviltribunal in Kalisz (Kalisch) ließ 1819 die Hypothek Weigels, eines
 Kaufmanns in Wrocław (Breslau), löschen, und das Obertribunal in Warschau bestätigte das Urteil
 1826. Im Februar 1827 bat der preußische Gesandte in St. Petersburg, Schöler, den russischen
-Außenminister, es aufheben zu lassen ([Note]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})). Eine
+Außenminister, es aufheben zu lassen ([Note]({{ '/documents/iiihamdaiiinr12366/4/' | relative_url }})). Eine
 Antwort enthält die Akte nicht. Im Juli 1827 ließ das Tribunal in Kalisz auch die Hypotheken der
 Brüder Lichnowski und der Witwe Grotowski löschen
-([Urteil]({{ '/documents/iiihamdaiiinr12366/6/' | relative_url }})).
+([Urteil]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})).
 
 Preußen betrieb Weigels Sache in Warschau weiter durch seinen Generalkonsul Schmidt. Baron
 Mohrenheim, der die diplomatische Kanzlei des Großfürsten Konstantin leitete, teilte ihm mit,
@@ -518,7 +518,7 @@ der Rat habe anerkannt, dass gezahlt werden müsse ([Billett]({{ '/documents/iii
 Finanzminister, Fürst Lubecki, die Summe überhöht und ließ die Güter schätzen
 ([Schreiben]({{ '/documents/iiihamdaiiinr12367/6/' | relative_url }})); Weigel antwortete, nach der Taxe von 1803 sei sein Darlehen gedeckt
 gewesen ([Antwort]({{ '/documents/iiihamdaiiinr12367/7/' | relative_url }})). Der Aufstand vom November 1830 unterbrach die Sache. Im März
-1832 wurde die Schätzung von Trąbczyn erneut angeordnet ([Schreiben]({{ '/documents/iiihamdaiiinr12367/11/' | relative_url }})). Die bisher
+1832 wurde die Schätzung von Trąbczyn erneut angeordnet ([Schreiben]({{ '/documents/iiihamdaiiinr12367/10/' | relative_url }})). Die bisher
 veröffentlichten Dokumente zeigen nicht, ob Weigel bezahlt wurde.
 
 Hinter dem Zweifel des Ministeriums an der Zuständigkeit der Gerichte stand ein formeller
@@ -580,7 +580,7 @@ Fünfzehn Dokumente, in der Reihenfolge der Geschichte.
 3. [Brief 77]({{ '/documents/oe1bu9454/77/' | relative_url }}), der Tauschplan in Berlin
 4. [Brief 85]({{ '/documents/oe1bu9454/85/' | relative_url }}), die Ablehnung des Königs
 5. [Vertrag 15]({{ '/documents/oe1bu14526/15/' | relative_url }}), 270 Hufen ausgetan, unterzeichnet von siebzehn Männern, zehn davon mit einem Kreuz
-6. [Vertrag 24]({{ '/documents/oe1bu14526/24/' | relative_url }}), die Behörden versagen die Überlassung von Pszczew an seine eigenen Bewohner
+6. [Vertrag 23]({{ '/documents/oe1bu14526/23/' | relative_url }}), die Behörden versagen die Überlassung von Pszczew an seine eigenen Bewohner
 7. [Die Gerichtsakte Erbet]({{ '/documents/app5371057/1/' | relative_url }}), die Erbpacht eines Siedlers vom Vertrag bis zur Eintreibung
 8. [Die Bittschrift wegen Oleśnica]({{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}), eine Pacht, die nichts einbrachte
 9. [Die Majoratsurkunde von 1805]({{ '/documents/oe1u199/1/' | relative_url }})

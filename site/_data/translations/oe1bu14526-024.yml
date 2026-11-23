@@ -1,106 +1,188 @@
 status: draft
 segments:
 - page: 1
-  en: 'By the Grace of God, Friedrich Wilhelm, King of Prussia. Our friendship, royal grace and good will
-    beforehand, High-born Prince, particularly dear Friend and dear Faithful Subject! In pursuance of
-    the notification issued on the 5th of February of this year upon Your Lordship''s petition submitted
-    on the 31st of December of last year for permission to let out the lordship of Pszczew on lease to
-    the burgesses there and the remaining rural residents, We hereby give Your Lordship, with the return
-    of the hereditary-lease contract submitted, upon the ground of the rescript of Our South Prussian
-    Finance Department of the 15th of last month issued to Our Chamber in conformity with a Most High
-    Cabinet Resolution of the 11th of last month, the following decision: that the hereditary letting
-    in question has been found wholly inadmissible, and that the consent sought thereto cannot be granted
-    to Your Lordship; for, firstly, if this consent had not been refused Your Lordship, several landed
-    lordships would venture similar applications, and thereby the possessions of the nobility, which is
-    so numerous in this province and upon whose conservation regard must be had, would be diminished,
-    and the opportunities for the acquisition of estates would be taken from it. Even if, however, this
-    considerable obstacle did not already stand in the way of Your Lordship''s design, the aforementioned
-    letting could not be approved'
+  en: 'Be it known and made known, that between the authorised representative of His Most Serene Highness
+    the reigning Prince of Hohenlohe-Ingelfingen, the councillor of building and economy Johann Wilhelm
+    Glenck on the one part - and the grain miller Samuel Lucke, possessor of the grain mill Białobrzeg
+    near Wrąbczynek on the other part, subject to reservation of the most high princely ratification,
+    the following contract of sale has been deliberately agreed and concluded under the conditions set
+    out below.
+
+
+    There is sold
+
+
+    1mo, by the said authorised representative, the most princely estate of Szetlewek near Trąbczyn together
+    with the fields belonging thereto, of one thousand Morgen Magdeburg measure of demesne-farm field,
+    in the following extent and designation, of which a map and survey register are on hand, namely,
+
+
+    459 Morgen of arable field in 3 open fields
+
+
+    109 do - meadows
+
+
+    19 5/8 do — gardens
+
+
+    380 do fields to be cleared.
+
+
+    32 3/8 do standing woodland.
+
+
+    = 1,000 Morgen Magdeb. in sum.
+
+
+    together with
+
+
+    § 2, all the demesne-farm buildings, which consist of 1 manorial dwelling house, 4 barns, 4 stables,
+    1 granary floor and other appurtenances (excepting the brewery and distillery, as being comprised
+    under Rubric II), as free and permanent property.
+
+
+    for which
+
+
+    § 3, the purchaser promises to pay a cash sum of 12,333 Rthl, which are to be paid, with 8,333 Rthl
+    to the pledge-money possessor von Radzinski upon his vacating the premises, and 4,000 Rthl upon acceptance
+    of this contract out of the most princely manorial lordship (Dominium); to which purchase price there
+    is further to be rendered annually to the manorial lordship a continuing canon of 1/2 Rthl per Morgen
+    yearly, and consequently 500 Rthl for the above-named parcels of land.'
   names:
-  - de: Friedrich Wilhelm König von Preußen
-    en: Friedrich Wilhelm, King of Prussia
-    kind: person
-  - de: Preußen
-    en: Prussia
-    kind: place
-  - de: Betsche
-    en: Pszczew
-    kind: place
-  - de: SüdPreußl.
-    en: South Prussian
-    kind: place
-  numbers:
-  - 31sten
-  - 5ten
-  - 11ten
-  - 15ten
-  - 1tens
-  - 2tens
-- page: 2
-  en: 'because, secondly, the appropriate management of the Pszczew forest — which, since this forest
-    is the only considerable one in that district, merits every regard — could not take place, inasmuch
-    as, if free use of it were left to the hereditary lessees, even the best supervision could not wholly
-    prevent its devastation; thirdly, there is also this circumstance to be weighed, that if Your Lordship''s
-    application were deferred to, the lands to be taken in hereditary lease by the residents could not
-    even be managed in an orderly fashion, since every resident, and likewise every burgess of the town
-    of Pszczew, possesses as much land as he requires for a proper husbandry; and moreover, as regards
-    the burgesses, care is to be taken that they apply themselves rather to the pursuit of urban trades
-    than to that of agriculture, most of the residents being besides too lacking in means to be able to
-    raise the sums of money required for the management. In which We remain well disposed toward Your
-    Lordship with friendship, royal grace and good will.
-
-
-    Poznań, the 18th of May 1805. Royal South Prussian War and Domains Chamber [uncertain: G] v. Köller
-
-
-    To
-
-
-    The Reigning Prince
-
-
-    of Hohenlohe-Ingelfingen,
-
-
-    Your Lordship, Lieutenant-General
-
-
-    of Infantry and Governor
-
-
-    of the Residence of Wrocław, Chief of a Regiment of Foot, also Knight of the Order of the Black and
-    of the Red Eagle, at Wrocław 434 R. Anno
-
-
-    Raeder[uncertain: Raeder]'
-  names:
-  - de: Betscher Forst
-    en: Pszczew forest
-    kind: place
-  - de: Betsche
-    en: Pszczew
-    kind: place
-  - de: Posen
-    en: Poznań
-    kind: place
-  - de: SüdPreuß.
-    en: South Prussian
-    kind: place
-  - de: v Köller
-    en: v. Köller
-    kind: person
   - de: Hohenlohe Ingelfingen
     en: Hohenlohe-Ingelfingen
     kind: other
-  - de: Breslau
-    en: Wrocław
+  - de: Johann Wilhelm Glenck
+    en: Johann Wilhelm Glenck
+    kind: person
+  - de: Samuel Lucke
+    en: Samuel Lucke
+    kind: person
+  - de: Białobrzeg
+    en: Białobrzeg
     kind: place
-  - de: Raeder[?]
-    en: Raeder
+  - de: Wrąbczynek
+    en: Wrąbczynek
+    kind: place
+  - de: Szetlewek
+    en: Szetlewek
+    kind: place
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
+  - de: Magdeburgisch
+    en: Magdeburg
+    kind: place
+  - de: Magdeb.
+    en: Magdeb.
+    kind: place
+  - de: von Radzinsky
+    en: von Radzinski
     kind: person
   numbers:
-  - 2tens
-  - 3tens
-  - 18ten
-  - '1805'
-  - '434'
+  - '1'
+  - '2'
+  - '3'
+  - '459'
+  - '3'
+  - '109'
+  - 19 5/8
+  - '380'
+  - 32 3/8
+  - '1000'
+  - '1'
+  - '4'
+  - '4'
+  - '1'
+  - '12333'
+  - '8333'
+  - '4000'
+  - 1/2
+  - '500'
+- page: 2
+  en: 'Since 4thly the purchasers do not obtain sufficient dwelling-room for their many persons taking
+    possession, he further stipulates for himself, for the building of the further dwellings, the following
+    pine building timber out of the princely woodlands, namely 60 rods of saw-blocks of middling kind
+    at 10 Rtlr[?], with the offcut timber 80 firs of strong building timber for beams
+
+
+    200 do middling cross-pieces[?]
+
+
+    450 do light rafters, 160 cords of wood for brick-burning, and for covering flat work, together with
+
+
+    §5, free dead and fallen wood in the Trąbczyn forest according to the Royal Forest Ordinance.
+
+
+    Rubric II, the propination rights belonging to this demesne farm and village, the existing brewhouse
+    and distillery, the purchasers likewise receive as purchased property against an annual rent of 400,
+    in the same manner as this appurtenance belongs to the Prince. Rubric III, Excepted are the services
+    of the village subjects, which are not given along in the sale; but rather the release of them from
+    service remains reserved to the manorial lordship, as that which has already declared itself ready
+    to meet the wish of those owing service.
+
+
+    §6, The purchasers bear the Royal taxes and burdens and continue henceforth under the jurisdiction
+    of the most princely manorial lordship.
+
+
+    §7, Since the purchaser is not in a position to defray the estate for himself alone, but stands in
+    association with several persons desirous of purchasing, whose approval, being their signatures, he
+    wishes to collect; he therefore stipulates for himself 14 days to 4 weeks'' time, before and until
+    a judicial establishment of this contract can take place. The foregoing contract has been drawn up
+    in duplo, and by both parties'
+  names:
+  - de: Trąbczyner Wald
+    en: Trąbczyn forest
+    kind: place
+  numbers:
+  - '4'
+  - '60'
+  - '10'
+  - '80'
+  - '200'
+  - '450'
+  - '160'
+  - '5'
+  - '2'
+  - '400'
+  - '3'
+  - '6'
+  - '7'
+  - '14'
+  - '4'
+- page: 3
+  en: 'sealed and signed.
+
+
+    Thus done at Zagórów, the 1st October 1798. Johann Wilhelm Glenck, councillor of building and economy
+    and authorised representative of the Most Serene Prince of Hohenlohe-Ingelfingen.
+
+
+    Samuel Lucke, grain miller
+
+
+    as witness Johan Lindner.'
+  names:
+  - de: Zagorowo
+    en: Zagórów
+    kind: place
+  - de: Johann Wilhelm Glenck
+    en: Johann Wilhelm Glenck
+    kind: person
+  - de: Hohenlohe Ingelfingischer
+    en: Hohenlohe-Ingelfingen
+    kind: other
+  - de: Samuel Lucke
+    en: Samuel Lucke
+    kind: person
+  - de: Johan Lindner
+    en: Johan Lindner
+    kind: person
+  numbers:
+  - '1'
+  - '1798'

@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/dolsk/"
 alt_url: "/places/dolsk/"
 excerpt_separator: ""
-hits_docs: [{"id": "30", "uid": "oe1bu14526-30", "url": "/documents/oe1bu14526/30/", "unit_label": "Oe 1 Bü 14526", "n": 2}]
+hits_docs: [{"id": "29", "uid": "oe1bu14526-29", "url": "/documents/oe1bu14526/29/", "unit_label": "Oe 1 Bü 14526", "n": 2}]
 hits_docs_count: 1
 ---
 

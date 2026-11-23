@@ -86,14 +86,14 @@ bialobrzeg:
     url: /documents/adwl85/2/
     unit_label: ADWł 85
     n: 1
+  - id: '24'
+    uid: oe1bu14526-24
+    url: /documents/oe1bu14526/24/
+    unit_label: Oe 1 Bü 14526
+    n: 1
   - id: '25'
     uid: oe1bu14526-25
     url: /documents/oe1bu14526/25/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '26'
-    uid: oe1bu14526-26
-    url: /documents/oe1bu14526/26/
     unit_label: Oe 1 Bü 14526
     n: 1
 bieganszczyzna:
@@ -129,7 +129,7 @@ czerwonka:
   span: ''
   letters: []
 trabczyn:
-  docs: 254
+  docs: 253
   span: 1240–1936
   letters:
   - id: '2'
@@ -547,9 +547,9 @@ trabczyn:
     url: /documents/oe1bu14525/3/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '25'
-    uid: oe1bu14526-25
-    url: /documents/oe1bu14526/25/
+  - id: '24'
+    uid: oe1bu14526-24
+    url: /documents/oe1bu14526/24/
     unit_label: Oe 1 Bü 14526
     n: 2
   - id: '89'
@@ -582,19 +582,19 @@ trabczyn:
     url: /documents/ihagrrep7cnr421/6/
     unit_label: I. HA GR, Rep. 7 C, Nr. 421
     n: 4
+  - id: '26'
+    uid: oe1bu14526-26
+    url: /documents/oe1bu14526/26/
+    unit_label: Oe 1 Bü 14526
+    n: 1
   - id: '27'
     uid: oe1bu14526-27
     url: /documents/oe1bu14526/27/
     unit_label: Oe 1 Bü 14526
     n: 1
-  - id: '28'
-    uid: oe1bu14526-28
-    url: /documents/oe1bu14526/28/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '26'
-    uid: oe1bu14526-26
-    url: /documents/oe1bu14526/26/
+  - id: '25'
+    uid: oe1bu14526-25
+    url: /documents/oe1bu14526/25/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '1'
@@ -1282,9 +1282,9 @@ trabczyn:
     url: /documents/iiihamdaiiinr12765/21/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 3
   - id: '23'
@@ -1292,14 +1292,14 @@ trabczyn:
     url: /documents/iiihamdaiiinr12765/23/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
+  - id: '4'
+    uid: iiihamdaiiinr12366-4
+    url: /documents/iiihamdaiiinr12366/4/
+    unit_label: III. HA MdA, III. Nr. 12366
+    n: 3
   - id: '5'
     uid: iiihamdaiiinr12366-5
     url: /documents/iiihamdaiiinr12366/5/
-    unit_label: III. HA MdA, III. Nr. 12366
-    n: 3
-  - id: '6'
-    uid: iiihamdaiiinr12366-6
-    url: /documents/iiihamdaiiinr12366/6/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 6
   - id: '6'
@@ -1311,20 +1311,15 @@ trabczyn:
     uid: iiihamdaiiinr12367-7
     url: /documents/iiihamdaiiinr12367/7/
     unit_label: III. HA MdA, III. Nr. 12367
-    n: 2
+    n: 4
   - id: '8'
     uid: iiihamdaiiinr12367-8
     url: /documents/iiihamdaiiinr12367/8/
     unit_label: III. HA MdA, III. Nr. 12367
-    n: 2
-  - id: '9'
-    uid: iiihamdaiiinr12367-9
-    url: /documents/iiihamdaiiinr12367/9/
-    unit_label: III. HA MdA, III. Nr. 12367
     n: 1
-  - id: '11'
-    uid: iiihamdaiiinr12367-11
-    url: /documents/iiihamdaiiinr12367/11/
+  - id: '10'
+    uid: iiihamdaiiinr12367-10
+    url: /documents/iiihamdaiiinr12367/10/
     unit_label: III. HA MdA, III. Nr. 12367
     n: 1
   - id: '1'
@@ -1821,7 +1816,7 @@ jeziorko:
   span: ''
   letters: []
 kalisz:
-  docs: 119
+  docs: 118
   span: 1280–1897
   letters:
   - id: '6'
@@ -1864,14 +1859,14 @@ kalisz:
     url: /documents/oe1bu14525/42/
     unit_label: Oe 1 Bü 14525
     n: 1
+  - id: '26'
+    uid: oe1bu14526-26
+    url: /documents/oe1bu14526/26/
+    unit_label: Oe 1 Bü 14526
+    n: 1
   - id: '27'
     uid: oe1bu14526-27
     url: /documents/oe1bu14526/27/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '28'
-    uid: oe1bu14526-28
-    url: /documents/oe1bu14526/28/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '2'
@@ -1934,19 +1929,14 @@ kalisz:
     url: /documents/oe1bu14525/30/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '5'
-    uid: ihagrrep7cnr3709-5
-    url: /documents/ihagrrep7cnr3709/5/
+  - id: '3'
+    uid: ihagrrep7cnr3709-3
+    url: /documents/ihagrrep7cnr3709/3/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
+    n: 2
   - id: '6'
     uid: ihagrrep7cnr3709-6
     url: /documents/ihagrrep7cnr3709/6/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '11'
-    uid: ihagrrep7cnr3709-11
-    url: /documents/ihagrrep7cnr3709/11/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 2
   - id: '7'
@@ -2349,24 +2339,24 @@ kalisz:
     url: /documents/iiihamdaiiinr12765/18/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
+    unit_label: III. HA MdA, III. Nr. 12366
+    n: 1
+  - id: '3'
+    uid: iiihamdaiiinr12366-3
+    url: /documents/iiihamdaiiinr12366/3/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
   - id: '4'
     uid: iiihamdaiiinr12366-4
     url: /documents/iiihamdaiiinr12366/4/
     unit_label: III. HA MdA, III. Nr. 12366
-    n: 1
+    n: 5
   - id: '5'
     uid: iiihamdaiiinr12366-5
     url: /documents/iiihamdaiiinr12366/5/
-    unit_label: III. HA MdA, III. Nr. 12366
-    n: 5
-  - id: '6'
-    uid: iiihamdaiiinr12366-6
-    url: /documents/iiihamdaiiinr12366/6/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 3
   - id: '1'
@@ -2635,19 +2625,19 @@ konin:
     url: /documents/iiihamdaiiinr12765/13/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 2
+  - id: '4'
+    uid: iiihamdaiiinr12366-4
+    url: /documents/iiihamdaiiinr12366/4/
+    unit_label: III. HA MdA, III. Nr. 12366
+    n: 1
   - id: '5'
     uid: iiihamdaiiinr12366-5
     url: /documents/iiihamdaiiinr12366/5/
-    unit_label: III. HA MdA, III. Nr. 12366
-    n: 1
-  - id: '6'
-    uid: iiihamdaiiinr12366-6
-    url: /documents/iiihamdaiiinr12366/6/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
   - id: '1'
@@ -3338,9 +3328,9 @@ olesnica:
     url: /documents/oe1bu14525/8/
     unit_label: Oe 1 Bü 14525
     n: 2
-  - id: '28'
-    uid: oe1bu14526-28
-    url: /documents/oe1bu14526/28/
+  - id: '27'
+    uid: oe1bu14526-27
+    url: /documents/oe1bu14526/27/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '9'
@@ -3837,14 +3827,14 @@ pyzdry:
     url: /documents/ihagrrep7cnr421/6/
     unit_label: I. HA GR, Rep. 7 C, Nr. 421
     n: 1
-  - id: '28'
-    uid: oe1bu14526-28
-    url: /documents/oe1bu14526/28/
+  - id: '27'
+    uid: oe1bu14526-27
+    url: /documents/oe1bu14526/27/
     unit_label: Oe 1 Bü 14526
     n: 1
-  - id: '26'
-    uid: oe1bu14526-26
-    url: /documents/oe1bu14526/26/
+  - id: '25'
+    uid: oe1bu14526-25
+    url: /documents/oe1bu14526/25/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '23'
@@ -4146,9 +4136,9 @@ szetlewek:
     url: /documents/oe1bu14525/3/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '25'
-    uid: oe1bu14526-25
-    url: /documents/oe1bu14526/25/
+  - id: '24'
+    uid: oe1bu14526-24
+    url: /documents/oe1bu14526/24/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '103'
@@ -4156,14 +4146,14 @@ szetlewek:
     url: /documents/oe1bu9454/103/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '27'
-    uid: oe1bu14526-27
-    url: /documents/oe1bu14526/27/
-    unit_label: Oe 1 Bü 14526
-    n: 1
   - id: '26'
     uid: oe1bu14526-26
     url: /documents/oe1bu14526/26/
+    unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: '25'
+    uid: oe1bu14526-25
+    url: /documents/oe1bu14526/25/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '2'
@@ -4286,14 +4276,14 @@ szetlewek:
     url: /documents/iiihamdaiiinr12765/17/
     unit_label: III. HA MdA, III Nr. 12765
     n: 2
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 2
-  - id: '6'
-    uid: iiihamdaiiinr12366-6
-    url: /documents/iiihamdaiiinr12366/6/
+  - id: '5'
+    uid: iiihamdaiiinr12366-5
+    url: /documents/iiihamdaiiinr12366/5/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 2
 slupca:
@@ -4787,14 +4777,14 @@ wrabczynek:
     url: /documents/adwl85/2/
     unit_label: ADWł 85
     n: 1
+  - id: '24'
+    uid: oe1bu14526-24
+    url: /documents/oe1bu14526/24/
+    unit_label: Oe 1 Bü 14526
+    n: 1
   - id: '25'
     uid: oe1bu14526-25
     url: /documents/oe1bu14526/25/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '26'
-    uid: oe1bu14526-26
-    url: /documents/oe1bu14526/26/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '1'
@@ -5442,7 +5432,7 @@ bayreuth:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 berlin:
-  docs: 228
+  docs: 226
   span: 1794–1936
   letters:
   - id: '13'
@@ -5645,15 +5635,30 @@ berlin:
     url: /documents/oe1bu14525/1/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '3'
-    uid: ihagrrep7cnr3709-3
-    url: /documents/ihagrrep7cnr3709/3/
+  - id: '2'
+    uid: ihagrrep7cnr3709-2
+    url: /documents/ihagrrep7cnr3709/2/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '108'
     uid: oe1bu9454-108
     url: /documents/oe1bu9454/108/
     unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '4'
+    uid: ihagrrep7cnr3709-4
+    url: /documents/ihagrrep7cnr3709/4/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 1
+  - id: '5'
+    uid: ihagrrep7cnr3709-5
+    url: /documents/ihagrrep7cnr3709/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 4
+  - id: '6'
+    uid: ihagrrep7cnr3709-6
+    url: /documents/ihagrrep7cnr3709/6/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '7'
     uid: ihagrrep7cnr3709-7
@@ -5668,31 +5673,6 @@ berlin:
   - id: '9'
     uid: ihagrrep7cnr3709-9
     url: /documents/ihagrrep7cnr3709/9/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '10'
-    uid: ihagrrep7cnr3709-10
-    url: /documents/ihagrrep7cnr3709/10/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '11'
-    uid: ihagrrep7cnr3709-11
-    url: /documents/ihagrrep7cnr3709/11/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '12'
-    uid: ihagrrep7cnr3709-12
-    url: /documents/ihagrrep7cnr3709/12/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '13'
-    uid: ihagrrep7cnr3709-13
-    url: /documents/ihagrrep7cnr3709/13/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 2
-  - id: '14'
-    uid: ihagrrep7cnr3709-14
-    url: /documents/ihagrrep7cnr3709/14/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '109'
@@ -5715,9 +5695,9 @@ berlin:
     url: /documents/oe1bu9454/113/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '15'
-    uid: ihagrrep7cnr3709-15
-    url: /documents/ihagrrep7cnr3709/15/
+  - id: '10'
+    uid: ihagrrep7cnr3709-10
+    url: /documents/ihagrrep7cnr3709/10/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 3
   - id: '6'
@@ -6550,9 +6530,9 @@ berlin:
     url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
-  - id: '3'
-    uid: iiihamdaiiinr12366-3
-    url: /documents/iiihamdaiiinr12366/3/
+  - id: '2'
+    uid: iiihamdaiiinr12366-2
+    url: /documents/iiihamdaiiinr12366/2/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 2
   - id: '22'
@@ -6970,7 +6950,7 @@ brzesc-kujawski:
     unit_label: 53/17/0/-/Konin Gr.153
     n: 1
 brzyce:
-  docs: 19
+  docs: 17
   span: 1796–1815
   letters:
   - id: '39'
@@ -7008,34 +6988,24 @@ brzyce:
     url: /documents/oe1bu14525/1/
     unit_label: Oe 1 Bü 14525
     n: 1
+  - id: '3'
+    uid: ihagrrep7cnr3709-3
+    url: /documents/ihagrrep7cnr3709/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 1
+  - id: '4'
+    uid: ihagrrep7cnr3709-4
+    url: /documents/ihagrrep7cnr3709/4/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 1
   - id: '5'
     uid: ihagrrep7cnr3709-5
     url: /documents/ihagrrep7cnr3709/5/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '7'
-    uid: ihagrrep7cnr3709-7
-    url: /documents/ihagrrep7cnr3709/7/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
+    n: 3
   - id: '8'
     uid: ihagrrep7cnr3709-8
     url: /documents/ihagrrep7cnr3709/8/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '9'
-    uid: ihagrrep7cnr3709-9
-    url: /documents/ihagrrep7cnr3709/9/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '10'
-    uid: ihagrrep7cnr3709-10
-    url: /documents/ihagrrep7cnr3709/10/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '13'
-    uid: ihagrrep7cnr3709-13
-    url: /documents/ihagrrep7cnr3709/13/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '4'
@@ -7153,14 +7123,14 @@ charlottenburg:
   docs: 3
   span: 1800–1810
   letters:
+  - id: '1'
+    uid: ihagrrep7cnr3709-1
+    url: /documents/ihagrrep7cnr3709/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 1
   - id: '2'
     uid: ihagrrep7cnr3709-2
     url: /documents/ihagrrep7cnr3709/2/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '4'
-    uid: ihagrrep7cnr3709-4
-    url: /documents/ihagrrep7cnr3709/4/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '208'
@@ -7228,9 +7198,9 @@ dolsk:
   docs: 1
   span: '1799'
   letters:
-  - id: '30'
-    uid: oe1bu14526-30
-    url: /documents/oe1bu14526/30/
+  - id: '29'
+    uid: oe1bu14526-29
+    url: /documents/oe1bu14526/29/
     unit_label: Oe 1 Bü 14526
     n: 2
 dormowo:
@@ -7271,9 +7241,9 @@ dresden:
     url: /documents/oe1bu9454/97/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '15'
-    uid: ihagrrep7cnr3709-15
-    url: /documents/ihagrrep7cnr3709/15/
+  - id: '10'
+    uid: ihagrrep7cnr3709-10
+    url: /documents/ihagrrep7cnr3709/10/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '5'
@@ -7376,9 +7346,9 @@ dresden:
     url: /documents/oe1bu9454/274/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '6'
-    uid: iiihamdaiiinr12366-6
-    url: /documents/iiihamdaiiinr12366/6/
+  - id: '5'
+    uid: iiihamdaiiinr12366-5
+    url: /documents/iiihamdaiiinr12366/5/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
   - id: '303'
@@ -7512,9 +7482,9 @@ frankfurt-an-der-oder:
     url: /documents/oe1bu14526/4/
     unit_label: Oe 1 Bü 14526
     n: 3
-  - id: '23'
-    uid: oe1bu14526-23
-    url: /documents/oe1bu14526/23/
+  - id: '22'
+    uid: oe1bu14526-22
+    url: /documents/oe1bu14526/22/
     unit_label: Oe 1 Bü 14526
     n: 14
   - id: '2'
@@ -7743,9 +7713,9 @@ glazewo:
     url: /documents/oe1bu14525/8/
     unit_label: Oe 1 Bü 14525
     n: 2
-  - id: '30'
-    uid: oe1bu14526-30
-    url: /documents/oe1bu14526/30/
+  - id: '29'
+    uid: oe1bu14526-29
+    url: /documents/oe1bu14526/29/
     unit_label: Oe 1 Bü 14526
     n: 4
   - id: '9'
@@ -7793,9 +7763,9 @@ glazewo:
     url: /documents/oe1bu14525/22/
     unit_label: Oe 1 Bü 14525
     n: 2
-  - id: '29'
-    uid: oe1bu14526-29
-    url: /documents/oe1bu14526/29/
+  - id: '28'
+    uid: oe1bu14526-28
+    url: /documents/oe1bu14526/28/
     unit_label: Oe 1 Bü 14526
     n: 1
 glogau:
@@ -8054,7 +8024,7 @@ jena:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 kamionno:
-  docs: 59
+  docs: 58
   span: 1784–1820
   letters:
   - id: '1'
@@ -8176,12 +8146,7 @@ kamionno:
     uid: oe1bu14526-22
     url: /documents/oe1bu14526/22/
     unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '23'
-    uid: oe1bu14526-23
-    url: /documents/oe1bu14526/23/
-    unit_label: Oe 1 Bü 14526
-    n: 15
+    n: 16
   - id: '2'
     uid: agad11740273-2
     url: /documents/agad11740273/2/
@@ -8342,9 +8307,9 @@ kamionno:
     url: /documents/iiihamdaiiinr12765/21/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 4
   - id: '23'
@@ -8469,8 +8434,8 @@ coblenz:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 kolno:
-  docs: 67
-  span: 1767–1818
+  docs: 66
+  span: 1767–1819
   letters:
   - id: '1'
     uid: app53170koningr114-1
@@ -8746,12 +8711,7 @@ kolno:
     uid: oe1bu14526-22
     url: /documents/oe1bu14526/22/
     unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '23'
-    uid: oe1bu14526-23
-    url: /documents/oe1bu14526/23/
-    unit_label: Oe 1 Bü 14526
-    n: 13
+    n: 14
   - id: '2'
     uid: agad11740273-2
     url: /documents/agad11740273/2/
@@ -8802,9 +8762,9 @@ kolno:
     url: /documents/oe1bu9454/299/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 4
 kontop:
@@ -9755,7 +9715,7 @@ miedzibor:
     n: 1
 miedzyrzecz:
   docs: 12
-  span: 1794–1818
+  span: 1794–1819
   letters:
   - id: '13'
     uid: oe1bu14525-13
@@ -9782,9 +9742,9 @@ miedzyrzecz:
     url: /documents/oe1bu14526/19/
     unit_label: Oe 1 Bü 14526
     n: 1
-  - id: '23'
-    uid: oe1bu14526-23
-    url: /documents/oe1bu14526/23/
+  - id: '22'
+    uid: oe1bu14526-22
+    url: /documents/oe1bu14526/22/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '254'
@@ -9812,9 +9772,9 @@ miedzyrzecz:
     url: /documents/oe1bu9454/299/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
 mollna:
@@ -10082,9 +10042,9 @@ orzeszkowo:
   docs: 1
   span: '1799'
   letters:
-  - id: '30'
-    uid: oe1bu14526-30
-    url: /documents/oe1bu14526/30/
+  - id: '29'
+    uid: oe1bu14526-29
+    url: /documents/oe1bu14526/29/
     unit_label: Oe 1 Bü 14526
     n: 1
 ostrow:
@@ -10385,7 +10345,7 @@ potsdam:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 posen:
-  docs: 79
+  docs: 73
   span: 1794–1936
   letters:
   - id: '13'
@@ -10408,9 +10368,9 @@ posen:
     url: /documents/oe1bu14525/40/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '30'
-    uid: oe1bu14526-30
-    url: /documents/oe1bu14526/30/
+  - id: '29'
+    uid: oe1bu14526-29
+    url: /documents/oe1bu14526/29/
     unit_label: Oe 1 Bü 14526
     n: 3
   - id: '44'
@@ -10438,31 +10398,31 @@ posen:
     url: /documents/oe1bu9454/106/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '2'
-    uid: ihagrrep7cnr3709-2
-    url: /documents/ihagrrep7cnr3709/2/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 2
   - id: '1'
     uid: ihagrrep7cnr3709-1
     url: /documents/ihagrrep7cnr3709/1/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
+    n: 3
+  - id: '2'
+    uid: ihagrrep7cnr3709-2
+    url: /documents/ihagrrep7cnr3709/2/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 3
+  - id: '3'
+    uid: ihagrrep7cnr3709-3
+    url: /documents/ihagrrep7cnr3709/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 4
   - id: '4'
     uid: ihagrrep7cnr3709-4
     url: /documents/ihagrrep7cnr3709/4/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
-  - id: '3'
-    uid: ihagrrep7cnr3709-3
-    url: /documents/ihagrrep7cnr3709/3/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 2
   - id: '5'
     uid: ihagrrep7cnr3709-5
     url: /documents/ihagrrep7cnr3709/5/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 2
+    n: 3
   - id: '6'
     uid: ihagrrep7cnr3709-6
     url: /documents/ihagrrep7cnr3709/6/
@@ -10473,34 +10433,9 @@ posen:
     url: /documents/ihagrrep7cnr3709/7/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
-  - id: '8'
-    uid: ihagrrep7cnr3709-8
-    url: /documents/ihagrrep7cnr3709/8/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
   - id: '9'
     uid: ihagrrep7cnr3709-9
     url: /documents/ihagrrep7cnr3709/9/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '10'
-    uid: ihagrrep7cnr3709-10
-    url: /documents/ihagrrep7cnr3709/10/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '11'
-    uid: ihagrrep7cnr3709-11
-    url: /documents/ihagrrep7cnr3709/11/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 2
-  - id: '12'
-    uid: ihagrrep7cnr3709-12
-    url: /documents/ihagrrep7cnr3709/12/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '14'
-    uid: ihagrrep7cnr3709-14
-    url: /documents/ihagrrep7cnr3709/14/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '41'
@@ -10513,9 +10448,9 @@ posen:
     url: /documents/oe1bu14525/37/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '15'
-    uid: ihagrrep7cnr3709-15
-    url: /documents/ihagrrep7cnr3709/15/
+  - id: '10'
+    uid: ihagrrep7cnr3709-10
+    url: /documents/ihagrrep7cnr3709/10/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 2
   - id: '38'
@@ -10677,15 +10612,10 @@ posen:
     uid: oe1bu14526-22
     url: /documents/oe1bu14526/22/
     unit_label: Oe 1 Bü 14526
-    n: 1
+    n: 8
   - id: '23'
     uid: oe1bu14526-23
     url: /documents/oe1bu14526/23/
-    unit_label: Oe 1 Bü 14526
-    n: 7
-  - id: '24'
-    uid: oe1bu14526-24
-    url: /documents/oe1bu14526/24/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '180'
@@ -10758,14 +10688,14 @@ posen:
     url: /documents/oe1bu9454/301/
     unit_label: HZAN Oe 1 Bü 9454
     n: 2
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
+    unit_label: III. HA MdA, III. Nr. 12366
+    n: 2
   - id: '2'
     uid: iiihamdaiiinr12366-2
     url: /documents/iiihamdaiiinr12366/2/
-    unit_label: III. HA MdA, III. Nr. 12366
-    n: 2
-  - id: '3'
-    uid: iiihamdaiiinr12366-3
-    url: /documents/iiihamdaiiinr12366/3/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
   - id: '22'
@@ -10869,9 +10799,9 @@ betsche:
     url: /documents/oe1bu9454/84/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '30'
-    uid: oe1bu14526-30
-    url: /documents/oe1bu14526/30/
+  - id: '29'
+    uid: oe1bu14526-29
+    url: /documents/oe1bu14526/29/
     unit_label: Oe 1 Bü 14526
     n: 2
   - id: '99'
@@ -11054,14 +10984,14 @@ betsche:
     url: /documents/oe1bu9454/168/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '29'
-    uid: oe1bu14526-29
-    url: /documents/oe1bu14526/29/
+  - id: '28'
+    uid: oe1bu14526-28
+    url: /documents/oe1bu14526/28/
     unit_label: Oe 1 Bü 14526
     n: 1
-  - id: '24'
-    uid: oe1bu14526-24
-    url: /documents/oe1bu14526/24/
+  - id: '23'
+    uid: oe1bu14526-23
+    url: /documents/oe1bu14526/23/
     unit_label: Oe 1 Bü 14526
     n: 3
   - id: '166'
@@ -11863,9 +11793,9 @@ st-petersburg:
     url: /documents/iiihamdaiiinr12765/20/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
-  - id: '3'
-    uid: iiihamdaiiinr12366-3
-    url: /documents/iiihamdaiiinr12366/3/
+  - id: '2'
+    uid: iiihamdaiiinr12366-2
+    url: /documents/iiihamdaiiinr12366/2/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
   - id: '23'
@@ -11873,9 +11803,9 @@ st-petersburg:
     url: /documents/iiihamdaiiinr12765/23/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
-  - id: '5'
-    uid: iiihamdaiiinr12366-5
-    url: /documents/iiihamdaiiinr12366/5/
+  - id: '4'
+    uid: iiihamdaiiinr12366-4
+    url: /documents/iiihamdaiiinr12366/4/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
 stara-kuznia:
@@ -12320,7 +12250,7 @@ szedlemin:
     n: 1
 suedpreussen:
   docs: 40
-  span: 1794–1818
+  span: 1794–1819
   letters:
   - id: '13'
     uid: oe1bu14525-13
@@ -12447,9 +12377,9 @@ suedpreussen:
     url: /documents/iharep162nr295/3/
     unit_label: I. HA Rep. 162, Nr. 295
     n: 2
-  - id: '23'
-    uid: oe1bu14526-23
-    url: /documents/oe1bu14526/23/
+  - id: '22'
+    uid: oe1bu14526-22
+    url: /documents/oe1bu14526/22/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '177'
@@ -12517,9 +12447,9 @@ suedpreussen:
     url: /documents/oe1bu9454/265b/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
 schlawenschitz:
@@ -12951,7 +12881,7 @@ ungarn:
     n: 1
 venedig:
   docs: 4
-  span: 1796–1818
+  span: 1796–1819
   letters:
   - id: '2'
     uid: ihagrrep7cnr1414-2
@@ -12968,13 +12898,13 @@ venedig:
     url: /documents/ihagrrep7cnr1414/3/
     unit_label: I. HA GR, Rep. 7 C, Nr. 1414
     n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12366-2
-    url: /documents/iiihamdaiiinr12366/2/
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 3
 warschau:
-  docs: 80
+  docs: 78
   span: 1241–1882
   letters:
   - id: '22'
@@ -13057,16 +12987,21 @@ warschau:
     url: /documents/ihagrrep7cnr3570/1/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3570
     n: 3
-  - id: '30'
-    uid: oe1bu14526-30
-    url: /documents/oe1bu14526/30/
+  - id: '29'
+    uid: oe1bu14526-29
+    url: /documents/oe1bu14526/29/
     unit_label: Oe 1 Bü 14526
     n: 1
-  - id: '7'
-    uid: ihagrrep7cnr3709-7
-    url: /documents/ihagrrep7cnr3709/7/
+  - id: '4'
+    uid: ihagrrep7cnr3709-4
+    url: /documents/ihagrrep7cnr3709/4/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
+  - id: '5'
+    uid: ihagrrep7cnr3709-5
+    url: /documents/ihagrrep7cnr3709/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
+    n: 4
   - id: '8'
     uid: ihagrrep7cnr3709-8
     url: /documents/ihagrrep7cnr3709/8/
@@ -13075,21 +13010,6 @@ warschau:
   - id: '9'
     uid: ihagrrep7cnr3709-9
     url: /documents/ihagrrep7cnr3709/9/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '10'
-    uid: ihagrrep7cnr3709-10
-    url: /documents/ihagrrep7cnr3709/10/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 2
-  - id: '13'
-    uid: ihagrrep7cnr3709-13
-    url: /documents/ihagrrep7cnr3709/13/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '14'
-    uid: ihagrrep7cnr3709-14
-    url: /documents/ihagrrep7cnr3709/14/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '141'
@@ -13287,19 +13207,19 @@ warschau:
     url: /documents/iiihamdaiiinr12765/15/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
+    unit_label: III. HA MdA, III. Nr. 12366
+    n: 7
   - id: '2'
     uid: iiihamdaiiinr12366-2
     url: /documents/iiihamdaiiinr12366/2/
     unit_label: III. HA MdA, III. Nr. 12366
-    n: 7
+    n: 1
   - id: '3'
     uid: iiihamdaiiinr12366-3
     url: /documents/iiihamdaiiinr12366/3/
-    unit_label: III. HA MdA, III. Nr. 12366
-    n: 1
-  - id: '4'
-    uid: iiihamdaiiinr12366-4
-    url: /documents/iiihamdaiiinr12366/4/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
   - id: '22'
@@ -13307,9 +13227,9 @@ warschau:
     url: /documents/iiihamdaiiinr12765/22/
     unit_label: III. HA MdA, III Nr. 12765
     n: 3
-  - id: '5'
-    uid: iiihamdaiiinr12366-5
-    url: /documents/iiihamdaiiinr12366/5/
+  - id: '4'
+    uid: iiihamdaiiinr12366-4
+    url: /documents/iiihamdaiiinr12366/4/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 4
   - id: '1'
@@ -13332,6 +13252,11 @@ warschau:
     url: /documents/iiihamdaiiinr12367/5/
     unit_label: III. HA MdA, III. Nr. 12367
     n: 1
+  - id: '7'
+    uid: iiihamdaiiinr12367-7
+    url: /documents/iiihamdaiiinr12367/7/
+    unit_label: III. HA MdA, III. Nr. 12367
+    n: 1
   - id: '8'
     uid: iiihamdaiiinr12367-8
     url: /documents/iiihamdaiiinr12367/8/
@@ -13345,11 +13270,6 @@ warschau:
   - id: '10'
     uid: iiihamdaiiinr12367-10
     url: /documents/iiihamdaiiinr12367/10/
-    unit_label: III. HA MdA, III. Nr. 12367
-    n: 1
-  - id: '11'
-    uid: iiihamdaiiinr12367-11
-    url: /documents/iiihamdaiiinr12367/11/
     unit_label: III. HA MdA, III. Nr. 12367
     n: 1
   - id: '1'
@@ -14081,7 +14001,7 @@ konstadt:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 breslau:
-  docs: 155
+  docs: 154
   span: 1796–1936
   letters:
   - id: '39'
@@ -14244,24 +14164,19 @@ breslau:
     url: /documents/oe1bu14525/29/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '5'
-    uid: ihagrrep7cnr3709-5
-    url: /documents/ihagrrep7cnr3709/5/
+  - id: '3'
+    uid: ihagrrep7cnr3709-3
+    url: /documents/ihagrrep7cnr3709/3/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
+    n: 2
   - id: '6'
     uid: ihagrrep7cnr3709-6
     url: /documents/ihagrrep7cnr3709/6/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
-  - id: '11'
-    uid: ihagrrep7cnr3709-11
-    url: /documents/ihagrrep7cnr3709/11/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3709
-    n: 1
-  - id: '14'
-    uid: ihagrrep7cnr3709-14
-    url: /documents/ihagrrep7cnr3709/14/
+  - id: '9'
+    uid: ihagrrep7cnr3709-9
+    url: /documents/ihagrrep7cnr3709/9/
     unit_label: I. HA GR, Rep. 7 C, Nr. 3709
     n: 1
   - id: '41'
@@ -14499,9 +14414,9 @@ breslau:
     url: /documents/iharep162nr295/3/
     unit_label: I. HA Rep. 162, Nr. 295
     n: 1
-  - id: '23'
-    uid: oe1bu14526-23
-    url: /documents/oe1bu14526/23/
+  - id: '22'
+    uid: oe1bu14526-22
+    url: /documents/oe1bu14526/22/
     unit_label: Oe 1 Bü 14526
     n: 14
   - id: '170'
@@ -14514,9 +14429,9 @@ breslau:
     url: /documents/oe1bu9454/172/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '24'
-    uid: oe1bu14526-24
-    url: /documents/oe1bu14526/24/
+  - id: '23'
+    uid: oe1bu14526-23
+    url: /documents/oe1bu14526/23/
     unit_label: Oe 1 Bü 14526
     n: 2
   - id: '167'
@@ -14824,9 +14739,9 @@ breslau:
     url: /documents/oe1bu9454/7/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '5'
-    uid: iiihamdaiiinr12366-5
-    url: /documents/iiihamdaiiinr12366/5/
+  - id: '4'
+    uid: iiihamdaiiinr12366-4
+    url: /documents/iiihamdaiiinr12366/4/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 1
   - id: '7'
@@ -14834,9 +14749,9 @@ breslau:
     url: /documents/iiihamdaiiinr12367/7/
     unit_label: III. HA MdA, III. Nr. 12367
     n: 1
-  - id: '11'
-    uid: iiihamdaiiinr12367-11
-    url: /documents/iiihamdaiiinr12367/11/
+  - id: '10'
+    uid: iiihamdaiiinr12367-10
+    url: /documents/iiihamdaiiinr12367/10/
     unit_label: III. HA MdA, III. Nr. 12367
     n: 1
   - id: '1'

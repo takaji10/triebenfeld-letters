@@ -8,7 +8,7 @@
 # A first line that is edited must be edited here too; build_db.py stops if a
 # block cannot be found.
 blocks:
-  - letter: '3'
-    page: '0004_a'
-    first: "Pourriez Vous m'accorder pour 2 j. le [Rev…?] de [P…?] ?"
-    lines: 1
+- letter: '3'
+  page: 0004_a
+  first: Pourriez Vous m'accorder pour 2 j. le [Rev…?] de [P…?] ?
+  lines: 1

@@ -108,6 +108,17 @@ Paid runs: none.
   published; old `/letters/` and freed `/documents/` addresses forward to
   where their documents went.
 
+- **The rest** (2026-11-23, the editor's yes to the list): Nr. 3709 15 to 10
+  (1+2, 3+4 report and enclosed cabinet order; 5+6 petition and covering
+  letter; 8+9+10 three drafts), Nr. 12367 11 to 10 (7+8, two copies on one
+  page), Nr. 12366 6 to 5 (1+2, Alopeus's note and the enclosed report), Oe 1
+  Bü 14526 30 to 29 (22+23, the covering rescript and the confirmation it
+  sends). Left: Nr. 3132 and Nr. 421 (divided by the editor 20-21 Nov), Nr.
+  1414 1+2 (not sent together), Nr. 3709 9/13 and 11/14 (separate sheets). The
+  edition: 652 documents.
+- **The check**: `verify_site.py` fails when a page stands under two documents
+  outside the holdings listed in `reference/shared_pages.yml`.
+
 ## For the editor (asked before the answers)
 
 1. A reply or draft written on the same sheet as the letter: the second voice

@@ -4684,6 +4684,19 @@ Traps met in the pilot (Nr. 12765):
 - **The dataset build never prunes**: `dataset/documents/` and
   `dataset/text/` kept the retired numbers' files (Nr. 12765, 25-30) until
   removed by hand; merge_documents.py now removes them.
+- **More places name a document than the pilot showed** (the second batch):
+  the registers by key `slug-N` (people.yml `only_in`, glossary `only_in` /
+  `not_in`, connections `uid`, gazetteer sources), the family tree and the
+  gazetteer by address, the era pages by markdown links whose visible text
+  is the number ("[2]", "[Nr. 3709, document 5]", "[Contract 24]"), and
+  `catchwords.yml` by `letter:` (missed at first: a catchword was said twice
+  in Oe 1 Bü 14526, caught by `merge_check.py`). The tool now does them all;
+  `merge_refcheck.py --units …` checks every changed line of the shared files
+  against the maps, and the holding's own `[[n]]` citations are checked
+  separately. Read the era pages after a merge.
+- **A holding translated in session** keeps `intake/translation/doc<N>.yml`
+  and `write_cache.py` under the old numbers: never run them again after a
+  merge (said in the holding's notes).
 - **Citations come in three forms**: `[[4]]` in a holding's own about.md
   (checked by check_unit_text.py), `<a href="{{ '/documents/…/4/' … }}">4</a>`
   and plain `/documents/…/4/` (timeline). Map each once; check the changed

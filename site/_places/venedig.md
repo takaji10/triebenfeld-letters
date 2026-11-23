@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/venedig/"
 alt_url: "/de/orte/venedig/"
 excerpt_separator: ""
-hits_docs: [{"id": "2", "uid": "ihagrrep7cnr1414-2", "url": "/documents/ihagrrep7cnr1414/2/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr1414-1", "url": "/documents/ihagrrep7cnr1414/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 2}, {"id": "3", "uid": "ihagrrep7cnr1414-3", "url": "/documents/ihagrrep7cnr1414/3/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 1}, {"id": "2", "uid": "iiihamdaiiinr12366-2", "url": "/documents/iiihamdaiiinr12366/2/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 3}]
+hits_docs: [{"id": "2", "uid": "ihagrrep7cnr1414-2", "url": "/documents/ihagrrep7cnr1414/2/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr1414-1", "url": "/documents/ihagrrep7cnr1414/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 2}, {"id": "3", "uid": "ihagrrep7cnr1414-3", "url": "/documents/ihagrrep7cnr1414/3/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 1}, {"id": "1", "uid": "iiihamdaiiinr12366-1", "url": "/documents/iiihamdaiiinr12366/1/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 3}]
 hits_docs_count: 4
 ---
 

@@ -1,0 +1,18 @@
+# Holdings where one manuscript page may stand under two documents (the editor,
+# 2026-11-23, docs/DOCUMENT_MERGE_PLAN.md, question 3: "Leave them as-is").
+# Everywhere else a page stands under one document only, and
+# pipeline/verify_site.py fails if it does not: a letter and the reply or the
+# enclosure on its sheet are one document (pipeline/review/merge_documents.py).
+#
+# Here one act ends and the next begins on the page, and each act is a document:
+holdings:
+  - app53170koningr115     # Konin court registers
+  - app53170koningr116
+  - app53170koningr117
+  - app53170koningr118
+  - app53170koningr119
+  - app536036              # a court book of 1644
+  - app5314550221          # the Ląd copy-book of privileges
+  - app539680716           # Breyer's notebook, divided by content (the editor, 2026-10-14)
+  - iharep162nr295         # copies written one after another (the editor, 2026-10-05)
+  - apl399806603           # a later certification on a copy

@@ -1,6 +1,6 @@
 # III. HA MdA, III. Nr. 12367 (GStA PK)
 
-Eleven documents on 15 pages, plus the cover as front matter, 1828-1832:
+Ten documents (eleven until 2026-11-23, below) on 15 pages, plus the cover as front matter, 1828-1832:
 pieces from the second volume of the Prussian foreign ministry's file on
 Michalina Miączyńska's claim, which continues III. HA MdA, III. Nr. 12366.
 All of them concern the compensation of the Breslau banker Weigel, whose
@@ -8,6 +8,26 @@ mortgage on Trąbczyn the Polish courts had struck out. Added on 2026-10-04:
 scans staged and the one opening cut, the editor's text cut to pages,
 corrected, summarised, and given its place on the site; translated and its
 summaries claim-checked in session on 2026-10-05.
+
+## Documents joined and renumbered (2026-11-23)
+
+The editor: a page is shown once; a reply on a letter's sheet is a second voice of that letter's
+document, an enclosure's pages follow the letter's, and the holding is renumbered where
+documents are joined (docs/DOCUMENT_MERGE_PLAN.md). Carried out by
+`pipeline/review/merge_documents.py` from `intake/merges.yml`; the map is
+`intake/merge_map.json`. **Everywhere below this section, numbers are the OLD ones.**
+
+| new | old | what |
+|---|---|---|
+| 1-6 | 1-6 |  |
+| 7 | 7 + 8 | the copy of Weigel's reply of 14 Oct 1830; the copy of Lubecki's answer of 27 Nov 1830 follows on page 0009_a2, in the same copyist's hand |
+| 8-10 | 9-11 |  |
+
+What the joined-in parts' own records said, no longer a document's metadata (the main part's date, place, type and correspondents stand): old 8, Lubecki to Weigel, Warsaw 27 Nov 1830 (a copy, in Polish). The summaries of the joined documents are the parts' checked summaries joined (`intake/merges.yml`, `summaries:`).
+
+`intake/translation/doc<N>.yml` and `write_cache.py` were made with the old numbers and
+**must not be run again**: the English is in `site/_data/translations/` under the new numbers
+(the merged pages joined), and corrections in `reference/english_corrections.yml`.
 
 ## Provenance
 

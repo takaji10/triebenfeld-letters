@@ -1,7 +1,7 @@
 [
  {
   "place": "Berlin",
-  "count": 100,
+  "count": 98,
   "documents": [
    "ihagrrep7cnr3570-1",
    "ihagrrep7cnr1414-1",
@@ -30,13 +30,11 @@
    "ihagrrep7cnr421-3",
    "oe1bu9454-107",
    "ihagrrep7cnr421-7",
-   "ihagrrep7cnr3709-7",
+   "ihagrrep7cnr3709-4",
+   "ihagrrep7cnr3709-5",
+   "ihagrrep7cnr3709-6",
    "ihagrrep7cnr3709-8",
    "ihagrrep7cnr3709-9",
-   "ihagrrep7cnr3709-10",
-   "ihagrrep7cnr3709-11",
-   "ihagrrep7cnr3709-13",
-   "ihagrrep7cnr3709-14",
    "oe1bu9454-109",
    "oe1bu9454-111",
    "oe1bu9454-110",
@@ -99,7 +97,7 @@
    "iiihamdaiiinr12765-19",
    "iiihamdaiiinr12765-21",
    "iiihamdaiiinr12366-1",
-   "iiihamdaiiinr12366-3",
+   "iiihamdaiiinr12366-2",
    "iiihamdaiiinr12765-22",
    "iiihamdaiiinr12765-23",
    "iiihamdaiiinr12765-24"
@@ -201,7 +199,7 @@
  },
  {
   "place": "Breslau",
-  "count": 70,
+  "count": 69,
   "documents": [
    "oe1bu14525-39",
    "oe1bu14525-10",
@@ -220,8 +218,7 @@
    "oe1bu9454-104",
    "oe1bu9454-108",
    "oe1bu14525-29",
-   "ihagrrep7cnr3709-5",
-   "ihagrrep7cnr3709-6",
+   "ihagrrep7cnr3709-3",
    "oe1bu14525-41",
    "oe1bu14525-33",
    "oe1bu14525-4",
@@ -409,13 +406,13 @@
  },
  {
   "place": "Posen",
-  "count": 23,
+  "count": 22,
   "documents": [
    "oe1bu14525-44",
    "oe1bu14525-43",
    "ihagrrep7cnr3709-1",
-   "ihagrrep7cnr3709-3",
-   "ihagrrep7cnr3709-12",
+   "ihagrrep7cnr3709-2",
+   "ihagrrep7cnr3709-7",
    "oe1bu14525-37",
    "oe1bu14525-38",
    "oe1bu14525-27",
@@ -431,7 +428,6 @@
    "oe1bu9454-141",
    "oe1bu14526-22",
    "oe1bu14526-23",
-   "oe1bu14526-24",
    "iiihamdaiiinr12765-10",
    "oe1bu9454-295"
   ]
@@ -483,27 +479,7 @@
    "oe1bu14526-21",
    "iharep162nr295-3",
    "app539680801-2",
-   "iiihamdaiiinr12366-6"
-  ]
- },
- {
-  "place": "Warschau",
-  "count": 14,
-  "documents": [
-   "agad1174016-1",
-   "oe1bu9454-72d",
-   "oe1bu9454-72e",
-   "iiihamdaiiinr12366-2",
-   "iiihamdaiiinr12366-4",
-   "iiihamdaiiinr12367-1",
-   "iiihamdaiiinr12367-4",
-   "iiihamdaiiinr12367-6",
-   "iiihamdaiiinr12367-5",
-   "iiihamdaiiinr12367-8",
-   "iiihamdaiiinr12367-9",
-   "iiihamdaiiinr12367-10",
-   "iiihamdaiiinr12367-11",
-   "agad118501169-1"
+   "iiihamdaiiinr12366-5"
   ]
  },
  {
@@ -545,6 +521,24 @@
   ]
  },
  {
+  "place": "Warschau",
+  "count": 12,
+  "documents": [
+   "agad1174016-1",
+   "oe1bu9454-72d",
+   "oe1bu9454-72e",
+   "iiihamdaiiinr12366-3",
+   "iiihamdaiiinr12367-1",
+   "iiihamdaiiinr12367-4",
+   "iiihamdaiiinr12367-6",
+   "iiihamdaiiinr12367-5",
+   "iiihamdaiiinr12367-8",
+   "iiihamdaiiinr12367-9",
+   "iiihamdaiiinr12367-10",
+   "agad118501169-1"
+  ]
+ },
+ {
   "place": "Pyzdry",
   "count": 8,
   "documents": [
@@ -576,7 +570,7 @@
   "place": "Dresden",
   "count": 7,
   "documents": [
-   "ihagrrep7cnr3709-15",
+   "ihagrrep7cnr3709-10",
    "oe1bu9454-178",
    "agad11740273-2",
    "agad1174016-2",
@@ -620,7 +614,7 @@
    "oe1bu9454-140",
    "oe1bu14526-18",
    "oe1bu14526-19",
-   "oe1bu14526-29"
+   "oe1bu14526-28"
   ]
  },
  {
@@ -649,10 +643,10 @@
   "place": "Zagórów",
   "count": 5,
   "documents": [
-   "oe1bu14526-25",
-   "oe1bu14526-27",
-   "oe1bu14526-28",
+   "oe1bu14526-24",
    "oe1bu14526-26",
+   "oe1bu14526-27",
+   "oe1bu14526-25",
    "oe1bu14526-17"
   ]
  },
@@ -715,14 +709,6 @@
   "documents": [
    "oe1bu9454-78",
    "oe1bu9454-89"
-  ]
- },
- {
-  "place": "Charlottenburg",
-  "count": 2,
-  "documents": [
-   "ihagrrep7cnr3709-2",
-   "ihagrrep7cnr3709-4"
   ]
  },
  {
@@ -794,7 +780,7 @@
   "count": 2,
   "documents": [
    "iiihamdaiiinr12765-20",
-   "iiihamdaiiinr12366-5"
+   "iiihamdaiiinr12366-4"
   ]
  },
  {
@@ -851,7 +837,7 @@
   "place": "Dolsk",
   "count": 1,
   "documents": [
-   "oe1bu14526-30"
+   "oe1bu14526-29"
   ]
  },
  {

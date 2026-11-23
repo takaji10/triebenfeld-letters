@@ -21,27 +21,21 @@
  "sender": "Südpreußische Regierung zu Posen",
  "recipient": "König Friedrich Wilhelm III. von Preußen",
  "line_start": 8,
- "line_end": 43,
+ "line_end": 58,
  "uncertainty_count": 3,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
  "duplicate_of": "",
- "relations": [
-  {
-   "kind": "transmits",
-   "target": "2",
-   "note": "'Cabinets Ordre überreichen wir ... abschriftlich anliegend': document 2 is that copy."
-  }
- ],
+ "relations": [],
  "estates": [
   "brzyce"
  ],
  "is_missing": 0,
- "n_lines": 34,
- "n_pages": 1,
- "text": "Allerdurchlauchtigster Großmächtigster\nKönig\nAllergnädigster König und Herr!\nPosen den 18ten Juny 1800.\nDie Regierung überreicht aller¬\nunterthänigst Kopiam einer Cabi¬\nnets Ordre.\nDie in Sachen Prusimska contra den\nHerrn Fürsten von Hohenlohe an\nuns erlaßene Cabinets Ordre über\nreichen wir Ewr: Königlichen Majestaet\nabschriftlich anliegend alleruntertä¬\nnigst, und ersterben in devotester Treue\nEwr. Königlichen Majestaet\nalleruntertänigst treugehorsamste\nZu Allerhöchst dero Süd Preußischen Regierung\nverordenter[?] Praesident, Vice Praesident u. Räthe.\nHering\nDanckelman\nv Götz\nDiederichs\nDannenberg\nSchwarz\nBormann\nFromme\nHoening\nLeuchert\nRichter\nv Fischer\nden 18 Juni\nad acta. den 23\nJuni 1800.\nG[oldbeck]\nH[?]B[?]",
- "text_reading": "Allerdurchlauchtigster Großmächtigster König Allergnädigster König und Herr! Posen den 18ten Juny 1800. Die Regierung überreicht allerunterthänigst Kopiam einer Cabinets Ordre. Die in Sachen Prusimska contra den Herrn Fürsten von Hohenlohe an uns erlaßene Cabinets Ordre über reichen wir Ewr: Königlichen Majestaet abschriftlich anliegend alleruntertänigst, und ersterben in devotester Treue Ewr. Königlichen Majestaet alleruntertänigst treugehorsamste Zu Allerhöchst dero Süd Preußischen Regierung verordenter[?] Praesident, Vice Praesident u. Räthe. Hering Danckelman v Götz Diederichs Dannenberg Schwarz\n\nBormann\n\nFromme\n\nHoening Leuchert Richter v Fischer\n\nden 18 Juni ad acta. den 23 Juni 1800. G[oldbeck] H[?]B[?]",
+ "n_lines": 48,
+ "n_pages": 2,
+ "text": "Allerdurchlauchtigster Großmächtigster\nKönig\nAllergnädigster König und Herr!\nPosen den 18ten Juny 1800.\nDie Regierung überreicht aller¬\nunterthänigst Kopiam einer Cabi¬\nnets Ordre.\nDie in Sachen Prusimska contra den\nHerrn Fürsten von Hohenlohe an\nuns erlaßene Cabinets Ordre über\nreichen wir Ewr: Königlichen Majestaet\nabschriftlich anliegend alleruntertä¬\nnigst, und ersterben in devotester Treue\nEwr. Königlichen Majestaet\nalleruntertänigst treugehorsamste\nZu Allerhöchst dero Süd Preußischen Regierung\nverordenter[?] Praesident, Vice Praesident u. Räthe.\nHering\nDanckelman\nv Götz\nDiederichs\nDannenberg\nSchwarz\nBormann\nFromme\nHoening\nLeuchert\nRichter\nv Fischer\nden 18 Juni\nad acta. den 23\nJuni 1800.\nG[oldbeck]\nH[?]B[?]\nCopia\neingegangen den 16ten Juny 1800.\nSr Königlichen Majestaet von Preußen werden durch\ndie beykommende Beschwerde der von Prusims¬\nka veranlaßt, die in Sachen Ihrer wider des Für¬\nsten von Hohenlohe Ingelfingen Liebden, wegen\ndes mütterlichen Vermögens der Supplikantin\nbey der Regierung zu Posen verhandelten Acten\nwie sie liegen, einzufordern, und befehlen daher\ngedachter Regierung solche Angesichts dieses ein\nzusenden. Charlottenburg 14 Juny 1800.\nFriedrich Wilhelm\nAn\nDie Regierung zu Posen",
+ "text_reading": "Allerdurchlauchtigster Großmächtigster König Allergnädigster König und Herr! Posen den 18ten Juny 1800. Die Regierung überreicht allerunterthänigst Kopiam einer Cabinets Ordre. Die in Sachen Prusimska contra den Herrn Fürsten von Hohenlohe an uns erlaßene Cabinets Ordre über reichen wir Ewr: Königlichen Majestaet abschriftlich anliegend alleruntertänigst, und ersterben in devotester Treue Ewr. Königlichen Majestaet alleruntertänigst treugehorsamste Zu Allerhöchst dero Süd Preußischen Regierung verordenter[?] Praesident, Vice Praesident u. Räthe. Hering Danckelman v Götz Diederichs Dannenberg Schwarz\n\nBormann\n\nFromme\n\nHoening Leuchert Richter v Fischer\n\nden 18 Juni ad acta. den 23 Juni 1800. G[oldbeck] H[?]B[?]\n\nCopia eingegangen den 16ten Juny 1800. Sr Königlichen Majestaet von Preußen werden durch die beykommende Beschwerde der von Prusimska veranlaßt, die in Sachen Ihrer wider des Fürsten von Hohenlohe Ingelfingen Liebden, wegen des mütterlichen Vermögens der Supplikantin bey der Regierung zu Posen verhandelten Acten wie sie liegen, einzufordern, und befehlen daher gedachter Regierung solche Angesichts dieses ein zusenden. Charlottenburg 14 Juny 1800. Friedrich Wilhelm\n\nAn\n\nDie Regierung zu Posen",
  "pages": [
   {
    "page": 1,
@@ -62,7 +56,7 @@
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
-   "continues_next": false,
+   "continues_next": true,
    "para_lines": [
     23,
     24,
@@ -81,6 +75,32 @@
    ],
    "doc_line_start": 1,
    "doc_line_end": 34
+  },
+  {
+   "page": 2,
+   "page_id": "0003_a2",
+   "line_start": 45,
+   "line_end": 58,
+   "n_lines": 14,
+   "diplomatic": "Copia\neingegangen den 16ten Juny 1800.\nSr Königlichen Majestaet von Preußen werden durch\ndie beykommende Beschwerde der von Prusims¬\nka veranlaßt, die in Sachen Ihrer wider des Für¬\nsten von Hohenlohe Ingelfingen Liebden, wegen\ndes mütterlichen Vermögens der Supplikantin\nbey der Regierung zu Posen verhandelten Acten\nwie sie liegen, einzufordern, und befehlen daher\ngedachter Regierung solche Angesichts dieses ein\nzusenden. Charlottenburg 14 Juny 1800.\nFriedrich Wilhelm\nAn\nDie Regierung zu Posen",
+   "transcription": "Copia\neingegangen den 16ten Juny 1800.\nSr Königlichen Majestaet von Preußen werden durch\ndie beykommende Beschwerde der von Prusims-\nka veranlaßt, die in Sachen Ihrer wider des Für-\nsten von Hohenlohe Ingelfingen Liebden, wegen\ndes mütterlichen Vermögens der Supplikantin\nbey der Regierung zu Posen verhandelten Acten\nwie sie liegen, einzufordern, und befehlen daher\ngedachter Regierung solche Angesichts dieses ein\nzusenden. Charlottenburg 14 Juny 1800.\nFriedrich Wilhelm\nAn\nDie Regierung zu Posen",
+   "reading": "Copia eingegangen den 16ten Juny 1800. Sr Königlichen Majestaet von Preußen werden durch die beykommende Beschwerde der von Prusimska veranlaßt, die in Sachen Ihrer wider des Fürsten von Hohenlohe Ingelfingen Liebden, wegen des mütterlichen Vermögens der Supplikantin bey der Regierung zu Posen verhandelten Acten wie sie liegen, einzufordern, und befehlen daher gedachter Regierung solche Angesichts dieses ein zusenden. Charlottenburg 14 Juny 1800. Friedrich Wilhelm\n\nAn\n\nDie Regierung zu Posen",
+   "paragraphs": [
+    "Copia eingegangen den 16ten Juny 1800. Sr Königlichen Majestaet von Preußen werden durch die beykommende Beschwerde der von Prusimska veranlaßt, die in Sachen Ihrer wider des Fürsten von Hohenlohe Ingelfingen Liebden, wegen des mütterlichen Vermögens der Supplikantin bey der Regierung zu Posen verhandelten Acten wie sie liegen, einzufordern, und befehlen daher gedachter Regierung solche Angesichts dieses ein zusenden. Charlottenburg 14 Juny 1800. Friedrich Wilhelm",
+    "An",
+    "Die Regierung zu Posen"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "para_lines": [
+    12,
+    13
+   ],
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L1_02.jpg",
+   "doc_line_start": 35,
+   "doc_line_end": 48
   }
  ],
  "mentions": [
@@ -127,6 +147,28 @@
    "scan": "I_HA_Rep_7_C_Nr_3709_0002_a2-L1_01.jpg",
    "line": 42,
    "doc_line": 33
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface": "Prusimska",
+   "page": 2,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L1_02.jpg",
+   "line": 48,
+   "doc_line": 38
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 2,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L1_02.jpg",
+   "line": 50,
+   "doc_line": 40
   }
  ],
  "mentions_english": [
@@ -257,6 +299,46 @@
    "surface_de": "G[oldbeck]",
    "surface_en": "G[oldbeck]",
    "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Prusimska",
+   "kind": "person",
+   "surface_de": "von Prusimska",
+   "surface_en": "von Prusimska",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Charlottenburg",
+   "kind": "place",
+   "surface_de": "Charlottenburg",
+   "surface_en": "Charlottenburg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Friedrich Wilhelm",
+   "kind": "person",
+   "surface_de": "Friedrich Wilhelm",
+   "surface_en": "Friedrich Wilhelm",
+   "page": 2
   }
  ],
  "place_canonical": "Posen",
@@ -271,6 +353,39 @@
    "scan": "I_HA_Rep_7_C_Nr_3709_0002_a2-L1_01.jpg",
    "line": 13,
    "doc_line": 4
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L1_02.jpg",
+   "line": 52,
+   "doc_line": 42
+  },
+  {
+   "entity": "charlottenburg",
+   "display": "Charlottenburg",
+   "kind": "place",
+   "surface": "Charlottenburg",
+   "page": 2,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L1_02.jpg",
+   "line": 55,
+   "doc_line": 45
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 2,
+   "page_id": "0003_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0003_a2-L1_02.jpg",
+   "line": 58,
+   "doc_line": 48
   }
  ],
  "translation_status": "draft",
@@ -367,10 +482,47 @@
     "23",
     "1800"
    ]
+  },
+  {
+   "page": 2,
+   "en": "Copy. Received 16 June 1800. His Royal Majesty of Prussia is moved by the enclosed complaint of von Prusimska to call in the files, as they stand, of the case conducted before the Government at Poznań in her suit against His Lordship the Prince of Hohenlohe-Ingelfingen concerning the petitioner's maternal property, and therefore commands the said Government to send them in immediately upon sight of this. Charlottenburg, 14 June 1800. Friedrich Wilhelm\n\nTo\n\nThe Government at Poznań",
+   "names": [
+    {
+     "de": "von Prusimska",
+     "en": "von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Charlottenburg",
+     "en": "Charlottenburg",
+     "kind": "place"
+    },
+    {
+     "de": "Friedrich Wilhelm",
+     "en": "Friedrich Wilhelm",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "16",
+    "1800",
+    "14",
+    "1800"
+   ]
   }
  ],
- "text_english": "Most Serene and Most Mighty King, Most gracious King and Lord! Poznań, 18 June 1800. The Government most humbly submits a copy of a cabinet order. The cabinet order issued to us in the case of Prusimska against the Prince of Hohenlohe we most humbly submit to Your Royal Majesty in a copy enclosed, and remain, until death, in most devoted loyalty, Your Royal Majesty's most humble and faithfully obedient President, Vice-President and Councillors [uncertain: appointed] to Your Majesty's South Prussian Government. Hering Danckelman v Götz Diederichs Dannenberg Schwarz\n\nBormann\n\nFromme\n\nHoening Leuchert Richter v Fischer\n\n[Written by the receiving office:]\n\n18 June, to the files. 23 June 1800. G[oldbeck] H[illegible] B[illegible]",
- "summary_en": "The Government at Poznań submits to the King a copy of the cabinet order issued to it in the case of Prusimska against the Prince of Hohenlohe. The receiving office files the report on 23 June 1800.",
- "summary_de": "Die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre, die in der Sache Prusimska gegen den Fürsten von Hohenlohe an sie ergangen ist. Die empfangende Behörde legt den Bericht am 23. Juni 1800 zu den Akten.",
+ "text_english": "Most Serene and Most Mighty King, Most gracious King and Lord! Poznań, 18 June 1800. The Government most humbly submits a copy of a cabinet order. The cabinet order issued to us in the case of Prusimska against the Prince of Hohenlohe we most humbly submit to Your Royal Majesty in a copy enclosed, and remain, until death, in most devoted loyalty, Your Royal Majesty's most humble and faithfully obedient President, Vice-President and Councillors [uncertain: appointed] to Your Majesty's South Prussian Government. Hering Danckelman v Götz Diederichs Dannenberg Schwarz\n\nBormann\n\nFromme\n\nHoening Leuchert Richter v Fischer\n\n[Written by the receiving office:]\n\n18 June, to the files. 23 June 1800. G[oldbeck] H[illegible] B[illegible]\n\nCopy. Received 16 June 1800. His Royal Majesty of Prussia is moved by the enclosed complaint of von Prusimska to call in the files, as they stand, of the case conducted before the Government at Poznań in her suit against His Lordship the Prince of Hohenlohe-Ingelfingen concerning the petitioner's maternal property, and therefore commands the said Government to send them in immediately upon sight of this. Charlottenburg, 14 June 1800. Friedrich Wilhelm\n\nTo\n\nThe Government at Poznań",
+ "summary_en": "The Government at Poznań submits to the King a copy of the cabinet order issued to it in the case of Prusimska against the Prince of Hohenlohe. The receiving office files the report on 23 June 1800. The enclosed copy is the cabinet order of the King to the Government at Poznań, received there on 16 June 1800: prompted by an enclosed complaint of von Prusimska, the King calls in the files of her case against the Prince of Hohenlohe-Ingelfingen over the petitioner's maternal property, as they stand, and orders them sent in at once.",
+ "summary_de": "Die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre, die in der Sache Prusimska gegen den Fürsten von Hohenlohe an sie ergangen ist. Die empfangende Behörde legt den Bericht am 23. Juni 1800 zu den Akten. Die beigelegte Abschrift ist die Kabinettsordre des Königs an die Regierung zu Posen, dort eingegangen am 16. Juni 1800: Durch eine beiliegende Beschwerde der von Prusimska veranlasst, fordert der König die Akten ihrer Sache gegen den Fürsten von Hohenlohe-Ingelfingen wegen des mütterlichen Vermögens der Bittstellerin ein, so wie sie liegen, und befiehlt, sie sofort einzusenden.",
  "reading": {}
 }

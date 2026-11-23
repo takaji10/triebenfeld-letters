@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 272
+  docs: 271
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -55,7 +55,7 @@
   initial_en: "G"
   sort_de: "groschen"
   initial_de: "G"
-  docs: 99
+  docs: 98
 - id: "friedrich-dor"
   kind: "money"
   lang: "de_fr"
@@ -530,7 +530,7 @@
   initial_en: "V"
   sort_de: "taxe"
   initial_de: "T"
-  docs: 46
+  docs: 44
 - id: "competenz"
   kind: "land"
   lang: "de_la"
@@ -1366,7 +1366,7 @@
   initial_en: "R"
   sort_de: "rendant"
   initial_de: "R"
-  docs: 9
+  docs: 8
 - id: "conducteur"
   kind: "law"
   lang: "de_fr"
@@ -1480,7 +1480,7 @@
   initial_en: "G"
   sort_de: "regierung"
   initial_de: "R"
-  docs: 114
+  docs: 108
 - id: "fiscus"
   kind: "law"
   lang: "de"
@@ -1651,7 +1651,7 @@
   initial_en: "C"
   sort_de: "cabinets-ordre"
   initial_de: "C"
-  docs: 32
+  docs: 30
 - id: "landrath"
   kind: "law"
   lang: "de"
@@ -1727,7 +1727,7 @@
   initial_en: "K"
   sort_de: "kammergericht"
   initial_de: "K"
-  docs: 10
+  docs: 9
 - id: "friedensgericht"
   kind: "law"
   lang: "de"
@@ -1879,7 +1879,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 360
+  docs: 359
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1898,7 +1898,7 @@
   initial_en: "L"
   sort_de: "liebden"
   initial_de: "L"
-  docs: 28
+  docs: 27
 - id: "hochwohlgeboren"
   kind: "title"
   lang: "de"
@@ -1917,7 +1917,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 103
+  docs: 102
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1936,7 +1936,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 358
+  docs: 355
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -1974,7 +1974,7 @@
   initial_en: "H"
   sort_de: "unterthanigster diener, treuester knecht"
   initial_de: "U"
-  docs: 187
+  docs: 186
 - id: "ersterbe"
   kind: "phrase"
   lang: "de"
@@ -2202,7 +2202,7 @@
   initial_en: "S"
   sort_de: "sudpreußen"
   initial_de: "S"
-  docs: 101
+  docs: 99
 - id: "duchy-of-warsaw"
   kind: "event"
   lang: "de"

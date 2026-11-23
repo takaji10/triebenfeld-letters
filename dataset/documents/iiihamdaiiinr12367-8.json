@@ -9,53 +9,48 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1830-11-27",
+ "date_iso": "1831-12-14",
  "date_precision": "day",
  "date_source": "dateline",
- "date_display": "1830-11-27",
+ "date_display": "1831-12-14",
  "date_inferred_from": "read from the document's own dateline",
- "year": 1830,
- "month": 11,
- "day": 27,
+ "year": 1831,
+ "month": 12,
+ "day": 14,
  "place": "Warschau",
- "sender": "Lubecki",
- "recipient": "Weigel",
- "line_start": 116,
- "line_end": 123,
+ "sender": "Fuhrmann",
+ "recipient": "Schmidt",
+ "line_start": 122,
+ "line_end": 133,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
- "language": "pl",
+ "language": "fr",
  "duplicate_of": "",
- "relations": [
-  {
-   "kind": "answers",
-   "target": "7",
-   "note": "The minister answers the papers Weigel sent 'przy swem podaniu daty 14 Oktobra 1830', with his letter of 14 October."
-  }
- ],
+ "relations": [],
  "estates": [
   "trabczyn"
  ],
  "is_missing": 0,
- "n_lines": 5,
+ "n_lines": 9,
  "n_pages": 2,
- "text": "Nro. 77775 w Warszawie d. 27 List. 1830\nMinister Prezydujący w Komm. Rząd. Przych. i Skarbu do\nCelem zrobienia użytku z Materyałów do oszacowania wartości dóbr Trąbczyn, jakie mi WWPan przy swem podaniu daty 14 Oktobra 1830 nadesłałeś, udzieliłem je władzy, jaką do oszacowania obecney wartości dóbr tychże upoważniłem.\nJakkolwiek WWPan znaydujesz, że podług nadesłaney przez Niego taxy sądowey, Kapitał Jego zupełne na dobrach Trąbczyn miał oparcie, wszakże gdy taxa takowa została zdziałaną w roku 1803 a przeto w Epoce wygórowaney wartości dóbr ziemskich, wartość zaś realna wierżytelności WWPana, ocenioną bydź winna, podług stanu dzisiayszey dóbr nieruchomych cenności, albowiem ostatni Wyrok w sprawie Jego zapadł w r. 1826 a przeto od tey dopiero daty można było poszukiwania exekucyine rozwinąć. Gdy z drugiey strony w piśmie WWPana żadnych nie znalazłem dostępnieyszych do układu warunków, przeto chcąc postąpić z zupełną sprawiedliwością, oczekiwać muszę na sporządzenie dzieła, o jakiem w odpowiedzi mey z daty 22o Września r. b. nadmieniłem, a nad którego przyspieszeniem czuwam.\nsig. X. X. Lubecki",
- "text_reading": "Nro. 77,775 w Warszawie d. 27 List. 1830\n\nMinister Prezydujący w Komm. Rząd. Przych. i Skarbu do\n\nCelem zrobienia użytku z Materyałów do oszacowania wartości dóbr Trąbczyn, jakie mi WWPan przy swem podaniu daty 14 Oktobra 1830 nadesłałeś, udzieliłem je władzy, jaką do oszacowania obecney wartości dóbr tychże upoważniłem.\n\nJakkolwiek WWPan znaydujesz, że podług nadesłaney przez Niego taxy sądowey, Kapitał Jego zupełne na dobrach Trąbczyn miał oparcie, wszakże gdy taxa takowa została zdziałaną w roku 1803 a przeto w Epoce wygórowaney wartości dóbr ziemskich, wartość zaś realna wierżytelności WWPana, ocenioną bydź winna, podług stanu dzisiayszey dóbr nieruchomych cenności, albowiem ostatni Wyrok w sprawie Jego zapadł w r. 1826 a przeto od tey dopiero daty można było poszukiwania exekucyine rozwinąć. Gdy z drugiey strony w piśmie WWPana żadnych nie znalazłem dostępnieyszych do układu warunków, przeto chcąc postąpić z zupełną sprawiedliwością, oczekiwać muszę na sporządzenie dzieła, o jakiem w odpowiedzi mey z daty 22o Września r. b. nadmieniłem, a nad którego przyspieszeniem czuwam.\n\nsig. X. X. Lubecki",
+ "text": "Varsovie le 2/14 Decembre 1831 Nro. 301\nMonsieur le Conseiller [Schmidt],\nDesirant faire obtenir le plus prompt succes à la requête du Sieur Weigel en faveur du quel Vous avez bien voulu intervenir par votre office du 10 Decembre/28 Novembre 1831 je viens d’enjoindre à la Commission des finances de hâter l’estimation du domain de Trąbczyn, et d’examiner en méme tems la sureté du capital que le Sieur Weigel possede sur cette terre, travail dont elle a deja été chargée l’année passée, et de me presenter cette affaire.\nD’un autre côté comme l’autorisation spéciale que Sa Majesté avait donnée au Prince Lubecki pour traiter avec le Sieur Weigel ne peut servir à aucune autre personne, j’ai l’honneur de vous prévenir Monsieur le Conseiller qu’ayant deja pris en consideration cette\ncirconstance j’ai fait à cet égard les demarches nécessaires pour l’ecarter.\nVeuillez bien croire Monsieur le Conseiller qu’aussitôt que ces deux difficultes auront été levées, je ferai tout mon possible pour que les réclamations fondées d’un sujet de Sa Majesté le Roi de Prusse, et par conséquent Votre intervention dans cette affaire puissent obtenir le plus prompt succes.\nAgréez je vous prie le temoignage de la consideration distinguée avec la quelle j’ai l’honneur d’être\nMonsieur le Conseiller\nVotre très h[um]ble et très ob[éissan]t Serviteur",
+ "text_reading": "Varsovie le 2/14 Decembre 1831 Nro. 301\n\nMonsieur le Conseiller [Schmidt],\n\nDesirant faire obtenir le plus prompt succes à la requête du Sieur Weigel en faveur du quel Vous avez bien voulu intervenir par votre office du 10 Decembre/28 Novembre 1831 je viens d’enjoindre à la Commission des finances de hâter l’estimation du domain de Trąbczyn, et d’examiner en méme tems la sureté du capital que le Sieur Weigel possede sur cette terre, travail dont elle a deja été chargée l’année passée, et de me presenter cette affaire.\n\nD’un autre côté comme l’autorisation spéciale que Sa Majesté avait donnée au Prince Lubecki pour traiter avec le Sieur Weigel ne peut servir à aucune autre personne, j’ai l’honneur de vous prévenir Monsieur le Conseiller qu’ayant deja pris en consideration cette\n\ncirconstance j’ai fait à cet égard les demarches nécessaires pour l’ecarter.\n\nVeuillez bien croire Monsieur le Conseiller qu’aussitôt que ces deux difficultes auront été levées, je ferai tout mon possible pour que les réclamations fondées d’un sujet de Sa Majesté le Roi de Prusse, et par conséquent Votre intervention dans cette affaire puissent obtenir le plus prompt succes.\n\nAgréez je vous prie le temoignage de la consideration distinguée avec la quelle j’ai l’honneur d’être\n\nMonsieur le Conseiller\n\nVotre très h[um]ble et très ob[éissan]t Serviteur",
  "pages": [
   {
    "page": 1,
-   "page_id": "0009_a2",
-   "line_start": 118,
-   "line_end": 120,
-   "n_lines": 3,
-   "diplomatic": "Nro. 77775 w Warszawie d. 27 List. 1830\nMinister Prezydujący w Komm. Rząd. Przych. i Skarbu do\nCelem zrobienia użytku z Materyałów do oszacowania wartości dóbr Trąbczyn, jakie mi WWPan przy swem podaniu daty 14 Oktobra 1830 nadesłałeś, udzieliłem je władzy, jaką do oszacowania obecney wartości dóbr tychże upoważniłem.",
-   "transcription": "Nro. 77775 w Warszawie d. 27 List. 1830\nMinister Prezydujący w Komm. Rząd. Przych. i Skarbu do\nCelem zrobienia użytku z Materyałów do oszacowania wartości dóbr Trąbczyn, jakie mi WWPan przy swem podaniu daty 14 Oktobra 1830 nadesłałeś, udzieliłem je władzy, jaką do oszacowania obecney wartości dóbr tychże upoważniłem.",
-   "reading": "Nro. 77,775 w Warszawie d. 27 List. 1830\n\nMinister Prezydujący w Komm. Rząd. Przych. i Skarbu do\n\nCelem zrobienia użytku z Materyałów do oszacowania wartości dóbr Trąbczyn, jakie mi WWPan przy swem podaniu daty 14 Oktobra 1830 nadesłałeś, udzieliłem je władzy, jaką do oszacowania obecney wartości dóbr tychże upoważniłem.",
+   "page_id": "0011_a",
+   "line_start": 124,
+   "line_end": 127,
+   "n_lines": 4,
+   "diplomatic": "Varsovie le 2/14 Decembre 1831 Nro. 301\nMonsieur le Conseiller [Schmidt],\nDesirant faire obtenir le plus prompt succes à la requête du Sieur Weigel en faveur du quel Vous avez bien voulu intervenir par votre office du 10 Decembre/28 Novembre 1831 je viens d’enjoindre à la Commission des finances de hâter l’estimation du domain de Trąbczyn, et d’examiner en méme tems la sureté du capital que le Sieur Weigel possede sur cette terre, travail dont elle a deja été chargée l’année passée, et de me presenter cette affaire.\nD’un autre côté comme l’autorisation spéciale que Sa Majesté avait donnée au Prince Lubecki pour traiter avec le Sieur Weigel ne peut servir à aucune autre personne, j’ai l’honneur de vous prévenir Monsieur le Conseiller qu’ayant deja pris en consideration cette",
+   "transcription": "Varsovie le 2/14 Decembre 1831 Nro. 301\nMonsieur le Conseiller [Schmidt],\nDesirant faire obtenir le plus prompt succes à la requête du Sieur Weigel en faveur du quel Vous avez bien voulu intervenir par votre office du 10 Decembre/28 Novembre 1831 je viens d’enjoindre à la Commission des finances de hâter l’estimation du domain de Trąbczyn, et d’examiner en méme tems la sureté du capital que le Sieur Weigel possede sur cette terre, travail dont elle a deja été chargée l’année passée, et de me presenter cette affaire.\nD’un autre côté comme l’autorisation spéciale que Sa Majesté avait donnée au Prince Lubecki pour traiter avec le Sieur Weigel ne peut servir à aucune autre personne, j’ai l’honneur de vous prévenir Monsieur le Conseiller qu’ayant deja pris en consideration cette",
+   "reading": "Varsovie le 2/14 Decembre 1831 Nro. 301\n\nMonsieur le Conseiller [Schmidt],\n\nDesirant faire obtenir le plus prompt succes à la requête du Sieur Weigel en faveur du quel Vous avez bien voulu intervenir par votre office du 10 Decembre/28 Novembre 1831 je viens d’enjoindre à la Commission des finances de hâter l’estimation du domain de Trąbczyn, et d’examiner en méme tems la sureté du capital que le Sieur Weigel possede sur cette terre, travail dont elle a deja été chargée l’année passée, et de me presenter cette affaire.\n\nD’un autre côté comme l’autorisation spéciale que Sa Majesté avait donnée au Prince Lubecki pour traiter avec le Sieur Weigel ne peut servir à aucune autre personne, j’ai l’honneur de vous prévenir Monsieur le Conseiller qu’ayant deja pris en consideration cette",
    "paragraphs": [
-    "Nro. 77,775 w Warszawie d. 27 List. 1830",
-    "Minister Prezydujący w Komm. Rząd. Przych. i Skarbu do",
-    "Celem zrobienia użytku z Materyałów do oszacowania wartości dóbr Trąbczyn, jakie mi WWPan przy swem podaniu daty 14 Oktobra 1830 nadesłałeś, udzieliłem je władzy, jaką do oszacowania obecney wartości dóbr tychże upoważniłem."
+    "Varsovie le 2/14 Decembre 1831 Nro. 301",
+    "Monsieur le Conseiller [Schmidt],",
+    "Desirant faire obtenir le plus prompt succes à la requête du Sieur Weigel en faveur du quel Vous avez bien voulu intervenir par votre office du 10 Decembre/28 Novembre 1831 je viens d’enjoindre à la Commission des finances de hâter l’estimation du domain de Trąbczyn, et d’examiner en méme tems la sureté du capital que le Sieur Weigel possede sur cette terre, travail dont elle a deja été chargée l’année passée, et de me presenter cette affaire.",
+    "D’un autre côté comme l’autorisation spéciale que Sa Majesté avait donnée au Prince Lubecki pour traiter avec le Sieur Weigel ne peut servir à aucune autre personne, j’ai l’honneur de vous prévenir Monsieur le Conseiller qu’ayant deja pris en consideration cette"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
@@ -63,50 +58,101 @@
    "continues_next": true,
    "para_lines": [
     1,
-    2
+    2,
+    3
    ],
-   "scan": "III_HA_MdA_III_Nr_12367_0009_a2-L8_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12367_0011_a-L8_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 3,
+   "doc_line_end": 4,
    "by_paragraph": true
   },
   {
    "page": 2,
-   "page_id": "0010_a",
-   "line_start": 122,
-   "line_end": 123,
-   "n_lines": 2,
-   "diplomatic": "Jakkolwiek WWPan znaydujesz, że podług nadesłaney przez Niego taxy sądowey, Kapitał Jego zupełne na dobrach Trąbczyn miał oparcie, wszakże gdy taxa takowa została zdziałaną w roku 1803 a przeto w Epoce wygórowaney wartości dóbr ziemskich, wartość zaś realna wierżytelności WWPana, ocenioną bydź winna, podług stanu dzisiayszey dóbr nieruchomych cenności, albowiem ostatni Wyrok w sprawie Jego zapadł w r. 1826 a przeto od tey dopiero daty można było poszukiwania exekucyine rozwinąć. Gdy z drugiey strony w piśmie WWPana żadnych nie znalazłem dostępnieyszych do układu warunków, przeto chcąc postąpić z zupełną sprawiedliwością, oczekiwać muszę na sporządzenie dzieła, o jakiem w odpowiedzi mey z daty 22o Września r. b. nadmieniłem, a nad którego przyspieszeniem czuwam.\nsig. X. X. Lubecki",
-   "transcription": "Jakkolwiek WWPan znaydujesz, że podług nadesłaney przez Niego taxy sądowey, Kapitał Jego zupełne na dobrach Trąbczyn miał oparcie, wszakże gdy taxa takowa została zdziałaną w roku 1803 a przeto w Epoce wygórowaney wartości dóbr ziemskich, wartość zaś realna wierżytelności WWPana, ocenioną bydź winna, podług stanu dzisiayszey dóbr nieruchomych cenności, albowiem ostatni Wyrok w sprawie Jego zapadł w r. 1826 a przeto od tey dopiero daty można było poszukiwania exekucyine rozwinąć. Gdy z drugiey strony w piśmie WWPana żadnych nie znalazłem dostępnieyszych do układu warunków, przeto chcąc postąpić z zupełną sprawiedliwością, oczekiwać muszę na sporządzenie dzieła, o jakiem w odpowiedzi mey z daty 22o Września r. b. nadmieniłem, a nad którego przyspieszeniem czuwam.\nsig. X. X. Lubecki",
-   "reading": "Jakkolwiek WWPan znaydujesz, że podług nadesłaney przez Niego taxy sądowey, Kapitał Jego zupełne na dobrach Trąbczyn miał oparcie, wszakże gdy taxa takowa została zdziałaną w roku 1803 a przeto w Epoce wygórowaney wartości dóbr ziemskich, wartość zaś realna wierżytelności WWPana, ocenioną bydź winna, podług stanu dzisiayszey dóbr nieruchomych cenności, albowiem ostatni Wyrok w sprawie Jego zapadł w r. 1826 a przeto od tey dopiero daty można było poszukiwania exekucyine rozwinąć. Gdy z drugiey strony w piśmie WWPana żadnych nie znalazłem dostępnieyszych do układu warunków, przeto chcąc postąpić z zupełną sprawiedliwością, oczekiwać muszę na sporządzenie dzieła, o jakiem w odpowiedzi mey z daty 22o Września r. b. nadmieniłem, a nad którego przyspieszeniem czuwam.\n\nsig. X. X. Lubecki",
+   "page_id": "0012_a",
+   "line_start": 129,
+   "line_end": 133,
+   "n_lines": 5,
+   "diplomatic": "circonstance j’ai fait à cet égard les demarches nécessaires pour l’ecarter.\nVeuillez bien croire Monsieur le Conseiller qu’aussitôt que ces deux difficultes auront été levées, je ferai tout mon possible pour que les réclamations fondées d’un sujet de Sa Majesté le Roi de Prusse, et par conséquent Votre intervention dans cette affaire puissent obtenir le plus prompt succes.\nAgréez je vous prie le temoignage de la consideration distinguée avec la quelle j’ai l’honneur d’être\nMonsieur le Conseiller\nVotre très h[um]ble et très ob[éissan]t Serviteur",
+   "transcription": "circonstance j’ai fait à cet égard les demarches nécessaires pour l’ecarter.\nVeuillez bien croire Monsieur le Conseiller qu’aussitôt que ces deux difficultes auront été levées, je ferai tout mon possible pour que les réclamations fondées d’un sujet de Sa Majesté le Roi de Prusse, et par conséquent Votre intervention dans cette affaire puissent obtenir le plus prompt succes.\nAgréez je vous prie le temoignage de la consideration distinguée avec la quelle j’ai l’honneur d’être\nMonsieur le Conseiller\nVotre très h[um]ble et très ob[éissan]t Serviteur",
+   "reading": "circonstance j’ai fait à cet égard les demarches nécessaires pour l’ecarter.\n\nVeuillez bien croire Monsieur le Conseiller qu’aussitôt que ces deux difficultes auront été levées, je ferai tout mon possible pour que les réclamations fondées d’un sujet de Sa Majesté le Roi de Prusse, et par conséquent Votre intervention dans cette affaire puissent obtenir le plus prompt succes.\n\nAgréez je vous prie le temoignage de la consideration distinguée avec la quelle j’ai l’honneur d’être\n\nMonsieur le Conseiller\n\nVotre très h[um]ble et très ob[éissan]t Serviteur",
    "paragraphs": [
-    "Jakkolwiek WWPan znaydujesz, że podług nadesłaney przez Niego taxy sądowey, Kapitał Jego zupełne na dobrach Trąbczyn miał oparcie, wszakże gdy taxa takowa została zdziałaną w roku 1803 a przeto w Epoce wygórowaney wartości dóbr ziemskich, wartość zaś realna wierżytelności WWPana, ocenioną bydź winna, podług stanu dzisiayszey dóbr nieruchomych cenności, albowiem ostatni Wyrok w sprawie Jego zapadł w r. 1826 a przeto od tey dopiero daty można było poszukiwania exekucyine rozwinąć. Gdy z drugiey strony w piśmie WWPana żadnych nie znalazłem dostępnieyszych do układu warunków, przeto chcąc postąpić z zupełną sprawiedliwością, oczekiwać muszę na sporządzenie dzieła, o jakiem w odpowiedzi mey z daty 22o Września r. b. nadmieniłem, a nad którego przyspieszeniem czuwam.",
-    "sig. X. X. Lubecki"
+    "circonstance j’ai fait à cet égard les demarches nécessaires pour l’ecarter.",
+    "Veuillez bien croire Monsieur le Conseiller qu’aussitôt que ces deux difficultes auront été levées, je ferai tout mon possible pour que les réclamations fondées d’un sujet de Sa Majesté le Roi de Prusse, et par conséquent Votre intervention dans cette affaire puissent obtenir le plus prompt succes.",
+    "Agréez je vous prie le temoignage de la consideration distinguée avec la quelle j’ai l’honneur d’être",
+    "Monsieur le Conseiller",
+    "Votre très h[um]ble et très ob[éissan]t Serviteur"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "para_lines": [
-    1
+    1,
+    2,
+    3,
+    4
    ],
-   "scan": "III_HA_MdA_III_Nr_12367_0010_a-L8_02.jpg",
-   "doc_line_start": 4,
-   "doc_line_end": 5,
+   "scan": "III_HA_MdA_III_Nr_12367_0012_a-L8_02.jpg",
+   "doc_line_start": 5,
+   "doc_line_end": 9,
    "by_paragraph": true
   }
  ],
  "mentions": [
   {
+   "entity": "schmidt-konsul",
+   "display": "Schmidt (consul general)",
+   "kind": "person",
+   "surface": "Schmidt",
+   "page": 1,
+   "page_id": "0011_a",
+   "scan": "III_HA_MdA_III_Nr_12367_0011_a-L8_01.jpg",
+   "line": 125,
+   "doc_line": 2
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface": "Weigel",
+   "page": 1,
+   "page_id": "0011_a",
+   "scan": "III_HA_MdA_III_Nr_12367_0011_a-L8_01.jpg",
+   "line": 126,
+   "doc_line": 3
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface": "Weigel",
+   "page": 1,
+   "page_id": "0011_a",
+   "scan": "III_HA_MdA_III_Nr_12367_0011_a-L8_01.jpg",
+   "line": 126,
+   "doc_line": 3
+  },
+  {
    "entity": "lubecki",
    "display": "Lubecki",
    "kind": "person",
    "surface": "Lubecki",
-   "page": 2,
-   "page_id": "0010_a",
-   "scan": "III_HA_MdA_III_Nr_12367_0010_a-L8_02.jpg",
-   "line": 123,
-   "doc_line": 5
+   "page": 1,
+   "page_id": "0011_a",
+   "scan": "III_HA_MdA_III_Nr_12367_0011_a-L8_01.jpg",
+   "line": 127,
+   "doc_line": 4
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface": "Weigel",
+   "page": 1,
+   "page_id": "0011_a",
+   "scan": "III_HA_MdA_III_Nr_12367_0011_a-L8_01.jpg",
+   "line": 127,
+   "doc_line": 4
   }
  ],
  "mentions_english": [
@@ -114,16 +160,24 @@
    "entity": "",
    "display": "Warsaw",
    "kind": "place",
-   "surface_de": "Warszawie",
+   "surface_de": "Varsovie",
    "surface_en": "Warsaw",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyn",
-   "surface_en": "Trąbczyn",
+   "display": "[Schmidt]",
+   "kind": "person",
+   "surface_de": "[Schmidt]",
+   "surface_en": "[Schmidt]",
+   "page": 1
+  },
+  {
+   "entity": "weigel",
+   "display": "Weigel",
+   "kind": "person",
+   "surface_de": "Weigel",
+   "surface_en": "Weigel",
    "page": 1
   },
   {
@@ -132,14 +186,22 @@
    "kind": "place",
    "surface_de": "Trąbczyn",
    "surface_en": "Trąbczyn",
-   "page": 2
+   "page": 1
+  },
+  {
+   "entity": "lubecki",
+   "display": "Lubecki",
+   "kind": "person",
+   "surface_de": "Lubecki",
+   "surface_en": "Lubecki",
+   "page": 1
   },
   {
    "entity": "",
-   "display": "X. X. Lubecki",
-   "kind": "person",
-   "surface_de": "X. X. Lubecki",
-   "surface_en": "X. X. Lubecki",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Prusse",
+   "surface_en": "Prussia",
    "page": 2
   }
  ],
@@ -149,11 +211,11 @@
    "entity": "warschau",
    "display": "Warszawa (Warschau)",
    "kind": "place",
-   "surface": "Warszawie",
+   "surface": "Varsovie",
    "page": 1,
-   "page_id": "0009_a2",
-   "scan": "III_HA_MdA_III_Nr_12367_0009_a2-L8_01.jpg",
-   "line": 118,
+   "page_id": "0011_a",
+   "scan": "III_HA_MdA_III_Nr_12367_0011_a-L8_01.jpg",
+   "line": 124,
    "doc_line": 1
   },
   {
@@ -162,72 +224,68 @@
    "kind": "place",
    "surface": "Trąbczyn",
    "page": 1,
-   "page_id": "0009_a2",
-   "scan": "III_HA_MdA_III_Nr_12367_0009_a2-L8_01.jpg",
-   "line": 120,
+   "page_id": "0011_a",
+   "scan": "III_HA_MdA_III_Nr_12367_0011_a-L8_01.jpg",
+   "line": 126,
    "doc_line": 3
-  },
-  {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface": "Trąbczyn",
-   "page": 2,
-   "page_id": "0010_a",
-   "scan": "III_HA_MdA_III_Nr_12367_0010_a-L8_02.jpg",
-   "line": 122,
-   "doc_line": 4
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "No. 77,775 Warsaw, 27 Nov. 1830\n\nThe Minister Presiding in the Government Commission of Revenue and Treasury to\n\nIn order to make use of the materials for valuing the estates of Trąbczyn which Your Honour sent me with your application dated 14 October 1830, I have passed them to the authority which I have empowered to value the present worth of those estates.",
+   "en": "Warsaw, 2/14 December 1831 No. 301\n\nCouncillor [Schmidt],\n\nDesiring to bring the request of Mr Weigel, on whose behalf you were good enough to intervene by your communication of 10 December/28 November 1831, to the speediest success, I have just enjoined the Commission of Finances to hasten the valuation of the domain of Trąbczyn, and at the same time to examine the security of the capital which Mr Weigel holds on that estate, a task with which it was already charged last year, and to lay this affair before me.\n\nOn the other hand, as the special authorisation which His Majesty had given to Prince Lubecki to treat with Mr Weigel cannot serve any other person, I have the honour to inform you, Councillor, that having already taken this",
    "names": [
     {
-     "de": "Warszawie",
+     "de": "Varsovie",
      "en": "Warsaw",
      "kind": "place"
     },
     {
-     "de": "Trąbczyn",
-     "en": "Trąbczyn",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "77,775",
-    "27",
-    "1830",
-    "14",
-    "1830"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "Although Your Honour finds that, according to the judicial valuation you sent, your Capital had full security on the estates of Trąbczyn, yet since that valuation was made in the year 1803, and so in an Epoch of inflated value of landed estates, while the real value of Your Honour's claim ought to be assessed according to the present state of the value of immovable property, because the last Judgment in your case was given in the year 1826, and it was therefore only from that date that proceedings for execution could have been pursued; and since, on the other hand, I have found in Your Honour's letter no more accessible terms for an agreement, I must therefore, wishing to proceed with complete justice, await the completion of the work which I mentioned in my answer dated 22 September of this year, and over the hastening of which I am watching.\n\nsig. X. X. Lubecki",
-   "names": [
+     "de": "[Schmidt]",
+     "en": "[Schmidt]",
+     "kind": "person"
+    },
+    {
+     "de": "Weigel",
+     "en": "Weigel",
+     "kind": "person"
+    },
     {
      "de": "Trąbczyn",
      "en": "Trąbczyn",
      "kind": "place"
     },
     {
-     "de": "X. X. Lubecki",
-     "en": "X. X. Lubecki",
+     "de": "Lubecki",
+     "en": "Lubecki",
      "kind": "person"
     }
    ],
    "numbers": [
-    "1803",
-    "1826",
-    "22"
+    "2",
+    "14",
+    "1831",
+    "301",
+    "10",
+    "28",
+    "1831"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "circumstance into consideration, I have taken the necessary steps in this respect to remove it.\n\nPray believe, Councillor, that as soon as these two difficulties have been removed, I shall do everything in my power so that the well-founded claims of a subject of His Majesty the King of Prussia, and consequently your intervention in this affair, may obtain the speediest success.\n\nPray accept the testimony of the distinguished consideration with which I have the honour to be\n\nCouncillor,\n\nYour most h[um]ble and most ob[edien]t Servant",
+   "names": [
+    {
+     "de": "Prusse",
+     "en": "Prussia",
+     "kind": "place"
+    }
    ]
   }
  ],
- "text_english": "No. 77,775 Warsaw, 27 Nov. 1830\n\nThe Minister Presiding in the Government Commission of Revenue and Treasury to\n\nIn order to make use of the materials for valuing the estates of Trąbczyn which Your Honour sent me with your application dated 14 October 1830, I have passed them to the authority which I have empowered to value the present worth of those estates.\n\nAlthough Your Honour finds that, according to the judicial valuation you sent, your Capital had full security on the estates of Trąbczyn, yet since that valuation was made in the year 1803, and so in an Epoch of inflated value of landed estates, while the real value of Your Honour's claim ought to be assessed according to the present state of the value of immovable property, because the last Judgment in your case was given in the year 1826, and it was therefore only from that date that proceedings for execution could have been pursued; and since, on the other hand, I have found in Your Honour's letter no more accessible terms for an agreement, I must therefore, wishing to proceed with complete justice, await the completion of the work which I mentioned in my answer dated 22 September of this year, and over the hastening of which I am watching.\n\nsig. X. X. Lubecki",
- "summary_en": "Copy of a second letter from the minister of finance, Prince Lubecki, to Weigel (no. 77775), in Polish. He has passed the papers for valuing the Trąbczyn estates, which Weigel sent with his submission of 14 October 1830, to the authority he has charged with assessing what the estates are worth now. Weigel holds that by the court valuation his capital was fully secured on Trąbczyn; but that valuation was made in 1803, at a time of inflated land prices. The real value of the claim must be reckoned by what landed property is worth today, because the last judgment in Weigel's case was given in 1826 and only from then could execution have been sought. As Weigel's letter offers no more acceptable terms for a settlement, he must await the completion of the work he mentioned in his reply of 22 September, which he is seeing hastened.",
- "summary_de": "Abschrift eines zweiten Schreibens des Finanzministers Fürst Lubecki an Weigel (Nr. 77775), in polnischer Sprache. Die Unterlagen zur Schätzung der Güter von Trąbczyn, die Weigel mit seiner Eingabe vom 14. Oktober 1830 gesandt hat, hat er der Behörde übergeben, die er mit der Schätzung des heutigen Werts dieser Güter beauftragt hat. Weigel meine zwar, sein Kapital sei nach der gerichtlichen Taxe auf Trąbczyn vollkommen gesichert gewesen; diese Taxe sei aber 1803 aufgenommen worden, in einer Zeit überhöhter Güterpreise. Der wirkliche Wert der Forderung sei nach dem heutigen Wert der Liegenschaften zu schätzen, weil das letzte Urteil in Weigels Sache 1826 erging und erst von da an die Zwangsvollstreckung hätte betrieben werden können. Da Weigels Schreiben keine annehmbareren Bedingungen für einen Vergleich enthält, müsse er die Fertigstellung der Arbeit abwarten, die er in seiner Antwort vom 22. September erwähnt hat und deren Beschleunigung er überwacht.",
+ "text_english": "Warsaw, 2/14 December 1831 No. 301\n\nCouncillor [Schmidt],\n\nDesiring to bring the request of Mr Weigel, on whose behalf you were good enough to intervene by your communication of 10 December/28 November 1831, to the speediest success, I have just enjoined the Commission of Finances to hasten the valuation of the domain of Trąbczyn, and at the same time to examine the security of the capital which Mr Weigel holds on that estate, a task with which it was already charged last year, and to lay this affair before me.\n\nOn the other hand, as the special authorisation which His Majesty had given to Prince Lubecki to treat with Mr Weigel cannot serve any other person, I have the honour to inform you, Councillor, that having already taken this\n\ncircumstance into consideration, I have taken the necessary steps in this respect to remove it.\n\nPray believe, Councillor, that as soon as these two difficulties have been removed, I shall do everything in my power so that the well-founded claims of a subject of His Majesty the King of Prussia, and consequently your intervention in this affair, may obtain the speediest success.\n\nPray accept the testimony of the distinguished consideration with which I have the honour to be\n\nCouncillor,\n\nYour most h[um]ble and most ob[edien]t Servant",
+ "summary_en": "A letter from Warsaw to the consul general Schmidt (no. 301), signed on the scan “R. Fuhrmann”. Following Schmidt's intervention of 10 December 1831 in support of Weigel's request, the writer has ordered the finance commission to hasten the valuation of the domain of Trąbczyn, to examine at the same time how well secured the capital is that Weigel has on that estate, and to lay the matter before him. The commission was already charged with this work the year before. The special authority that His Majesty had given Prince Lubecki to treat with Weigel can serve no one else, and he has taken the steps needed to remove that obstacle. As soon as both difficulties are lifted he will do all he can so that the well-founded claims of a Prussian subject succeed promptly.",
+ "summary_de": "Ein Schreiben aus Warschau an den Generalkonsul Schmidt (Nr. 301), auf der Aufnahme mit „R. Fuhrmann“ unterzeichnet. Auf Schmidts Verwendung vom 10. Dezember 1831 für das Gesuch Weigels hat der Verfasser die Finanzkommission angewiesen, die Schätzung der Domäne Trąbczyn zu beschleunigen, zugleich die Sicherheit des Kapitals zu prüfen, das Weigel auf diesem Gut hat, und ihm die Sache vorzulegen; mit dieser Arbeit war die Kommission schon im Vorjahr beauftragt. Die besondere Vollmacht, die Seine Majestät dem Fürsten Lubecki zum Verhandeln mit Weigel erteilt hatte, könne keinem anderen dienen; er habe die nötigen Schritte getan, um dieses Hindernis zu beseitigen. Sobald beide Schwierigkeiten behoben sind, werde er alles tun, damit die begründeten Ansprüche eines preußischen Untertanen rasch Erfolg haben.",
  "reading": {}
 }

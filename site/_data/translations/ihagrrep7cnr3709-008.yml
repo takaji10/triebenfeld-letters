@@ -1,36 +1,49 @@
 status: draft
 segments:
 - page: 1
-  en: 'Berlin, 7 December 1800. To the South Prussian Government at Poznań.
+  en: 'Berlin, 31 December 1800. To the South Prussian Government at Warsaw.
 
 
-    ex officio
+    ex officio Friedrich Wilhelm, King, etc. Our, etc. By the rescript of the 7th of this month We instructed
+    you to undertake the drawing up of the judgment of first instance in the lawsuit pending between the
+    guardian of Michalina von Prusimska and the Prince of Hohenlohe-Ingelfingen concerning the recovery
+    of the Brzyce estates. The Poznań Government has, however, reported that the judgment was already
+    drawn up by it on the 9th, and so before the arrival of the order issued to it, and the rescript cited
+    above can consequently have no application; of which We hereby give you notice for your information.
+    And are, etc. Berlin, 31 December 1800. By command
 
 
-    Friedrich Wilhelm, King, etc. Our, etc. Since most of the councillors of your court are members of
-    the guardianship board there, and the suit of the guardian of the minor Michaelina von Prusimska against
-    the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was brought at the instance
-    of the latter, and the lawsuit itself has been conducted, and will continue to be conducted, under
-    its direction, We have found it necessary hereby to order that the said case shall be decided in the
-    first instance by the full bench of the Government at Warsaw, and in the second instance by the Superior
-    Appeal Senate of the Kammergericht. We hereby make this known to you for your information and observance,
-    together with the fact that the necessary orders have accordingly been sent today to both the said
-    courts; and are, etc. Berlin, 7 December 1800. By command.
+    G[oldbeck]
 
 
-    # # #'
+    acc. the 2nd.
+
+
+    ad rec. the 3rd.
+
+
+    [uncertain: enclosures] lie with it.
+
+
+    5 January 1801, to the post. Bamuzut[illegible]
+
+
+    the 4th Schroener
+
+
+    3 Jan.'
   names:
   - de: Berlin
     en: Berlin
     kind: place
-  - de: Posen
-    en: Poznań
+  - de: Warschau
+    en: Warsaw
     kind: place
   - de: Friedrich Wilhelm
     en: Friedrich Wilhelm
     kind: person
-  - de: Michaelina von Prusimska
-    en: Michaelina von Prusimska
+  - de: Michalina von Prusimska
+    en: Michalina von Prusimska
     kind: person
   - de: Hohenlohe Ingelfingen
     en: Hohenlohe-Ingelfingen
@@ -38,11 +51,25 @@ segments:
   - de: Brzezier
     en: Brzyce
     kind: place
-  - de: Warschau
-    en: Warsaw
+  - de: Posener
+    en: Poznań
     kind: place
+  - de: G[oldbeck]
+    en: G[oldbeck]
+    kind: person
+  - de: Schroener
+    en: Schroener
+    kind: person
   numbers:
-  - '7'
+  - '31'
   - '1800'
   - '7'
+  - '9'
+  - '31'
   - '1800'
+  - '2'
+  - '3'
+  - '5'
+  - '1801'
+  - '4'
+  - '3'

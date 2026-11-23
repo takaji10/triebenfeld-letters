@@ -42,7 +42,7 @@ die er nie geschlossen hatte
 
 Preußen ließ nicht los. Sein Gesandter in Petersburg bat 1827, das Urteil aufheben zu
 lassen; die Akte enthält keine Antwort
-([die Note]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})). In Warschau
+([die Note]({{ '/documents/iiihamdaiiinr12366/4/' | relative_url }})). In Warschau
 ermächtigte die polnische Regierung, von ihren eigenen Gerichten verlegen, 1829 einen
 Kompetenzkonflikt — und sagte dem preußischen Konsul zugleich, der Rat habe einstimmig
 anerkannt, dass gezahlt werden müsse
@@ -53,7 +53,7 @@ für überhöht und ließ die Güter schätzen
 Novemberaufstand von 1830 unterbrach alles; im März 1832 wurde die Schätzung Trąbczyns
 wieder angeordnet, und der Präsident der Bank von Polen mit der Regelung der Forderung
 beauftragt
-([der zweite Band der Akte]({{ '/documents/iiihamdaiiinr12367/9/' | relative_url }})). Die
+([der zweite Band der Akte]({{ '/documents/iiihamdaiiinr12367/8/' | relative_url }})). Die
 Instruktionskommission des Staatsrats beantwortete den Kompetenzkonflikt erst im Oktober
 1834: keiner habe bestanden und keiner bestehe, der Rekurs sei in der Sache eine
 Kassationsbeschwerde, als deren Gericht der Staatsrat nach seiner Organisation nicht

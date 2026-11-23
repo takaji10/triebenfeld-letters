@@ -5,18 +5,6 @@
     "recipient": "Schmidt",
     "sender": "Mohrenheim"
   },
-  "10": {
-    "basis": "ruling 2026-10-04: a copy, \"signé Engel\"; addressed at the foot of the scan \"A Mr. Schmidt, Consul G. de Prusse\"",
-    "confidence": "high",
-    "recipient": "Schmidt",
-    "sender": "Engel"
-  },
-  "11": {
-    "basis": "ruling 2026-10-04: signed on the scan with the same signature as document 9, \"R. Fuhrmann\" (not transcribed); addressed at the foot \"à Mr. Schmidt Cser. Pé. de légation Csul. Gal. de Sa Majesté le Roi de Prusse\"",
-    "confidence": "high",
-    "recipient": "Schmidt",
-    "sender": "Fuhrmann"
-  },
   "2": {
     "basis": "ruling 2026-10-04: a note signed with the initial M and the flourish of Mohrenheim's full signature (documents 1 and 4); it addresses \"mon cher Schmidt\"",
     "confidence": "high",
@@ -54,13 +42,19 @@
     "sender": "Weigel"
   },
   "8": {
-    "basis": "ruling 2026-10-04: a copy, \"sig. X. X. Lubecki\", same heading as document 6; it answers the addressee's letter of 14 October 1830, document 7",
+    "basis": "ruling 2026-10-04: signed on the scan \"R. Fuhrmann\" (the signature is not transcribed); addressed at the foot of the first page \"A Monsieur le Conseiller Privé de Legation Schmidt Consul General de Sa Majesté le Roi de Prusse dans le Royaume de Pologne\". The writer gives orders to the finance commission",
     "confidence": "high",
-    "recipient": "Weigel",
-    "sender": "Lubecki"
+    "recipient": "Schmidt",
+    "sender": "Fuhrmann"
   },
   "9": {
-    "basis": "ruling 2026-10-04: signed on the scan \"R. Fuhrmann\" (the signature is not transcribed); addressed at the foot of the first page \"A Monsieur le Conseiller Privé de Legation Schmidt Consul General de Sa Majesté le Roi de Prusse dans le Royaume de Pologne\". The writer gives orders to the finance commission",
+    "basis": "ruling 2026-10-04: a copy, \"signé Engel\"; addressed at the foot of the scan \"A Mr. Schmidt, Consul G. de Prusse\"",
+    "confidence": "high",
+    "recipient": "Schmidt",
+    "sender": "Engel"
+  },
+  "10": {
+    "basis": "ruling 2026-10-04: signed on the scan with the same signature as document 9, \"R. Fuhrmann\" (not transcribed); addressed at the foot \"à Mr. Schmidt Cser. Pé. de légation Csul. Gal. de Sa Majesté le Roi de Prusse\"",
     "confidence": "high",
     "recipient": "Schmidt",
     "sender": "Fuhrmann"

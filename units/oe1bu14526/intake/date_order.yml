@@ -2,7 +2,7 @@
 # 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;
 # an entry already carried out is skipped. Lines exactly as in corpus.txt.
 moves:
-- letter: '27'
+- letter: '26'
   date:
   - Zagorowo
   - d. 16. Aprill 1799.

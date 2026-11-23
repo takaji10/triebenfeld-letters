@@ -60,22 +60,10 @@
   "note": "Mondro is sent a copy of the answer of 21 October to his petition 'unter dem 7. d. M. eingereicht'."
  },
  {
-  "from": "ihagrrep7cnr3709-1",
-  "kind": "transmits",
-  "to": "ihagrrep7cnr3709-2",
-  "note": "'Cabinets Ordre überreichen wir ... abschriftlich anliegend': document 2 is that copy."
- },
- {
-  "from": "ihagrrep7cnr3709-4",
+  "from": "ihagrrep7cnr3709-2",
   "kind": "answers",
   "to": "ihagrrep7cnr3709-1",
   "note": "The King returns the case files 'mittelst Berichts vom 18ten v. M. ... eingesandten': sent in with the report of 18 June, of which this file holds the copy for the Grand Chancellor."
- },
- {
-  "from": "ihagrrep7cnr3709-3",
-  "kind": "transmits",
-  "to": "ihagrrep7cnr3709-4",
-  "note": "'in der Anlage eine Abschrift der Cabinets-Ordre vom 1ten ... hujus': document 4 is that copy."
  },
  {
   "from": "oe1bu14525-29",
@@ -84,39 +72,33 @@
   "note": "Written to obey 'Euer Königlichen Majestät allerhöchstem Befehl vom 18 November ... nach welchem der Titulus possessionis über die Hochfürstlich Hohenlohischen Güter Kopojno, Zagórów, Drzewce, p. p. berichtiget werden soll'. Document 30 is that order, of 18 November 1800, over the same estates. Note that 29 is subscribed 'Breslau den 3ten Novbr 1800', which is BEFORE the order it answers: ruled by the editor, 2026-09-17, an error in the original document rather than a misreading, so the link stands and the date is left as written."
  },
  {
+  "from": "ihagrrep7cnr3709-4",
+  "kind": "answers",
+  "to": "ihagrrep7cnr3709-3",
+  "note": "The decree on the Prince's petition, under the same journal number 5957; documents 8, 9 and 10 were written from it."
+ },
+ {
   "from": "ihagrrep7cnr3709-6",
-  "kind": "supplements",
-  "to": "ihagrrep7cnr3709-5",
-  "note": "The Prince's covering letter to his petition of the same day: 'mein Bittschreiben noch mit diesen wenigen Worten zu begleiten'."
+  "kind": "answers",
+  "to": "ihagrrep7cnr3709-3",
+  "note": "'Ew: Durchlauchten Wunsch, daß Hochdero Rechts-Sache ... nicht von der Regierung zu Posen abgeurtelt werde': the Prince's petition of 30 November."
  },
  {
   "from": "ihagrrep7cnr3709-7",
   "kind": "answers",
   "to": "ihagrrep7cnr3709-5",
-  "note": "The decree on the Prince's petition, under the same journal number 5957; documents 8, 9 and 10 were written from it."
- },
- {
-  "from": "ihagrrep7cnr3709-11",
-  "kind": "answers",
-  "to": "ihagrrep7cnr3709-5",
-  "note": "'Ew: Durchlauchten Wunsch, daß Hochdero Rechts-Sache ... nicht von der Regierung zu Posen abgeurtelt werde': the Prince's petition of 30 November."
- },
- {
-  "from": "ihagrrep7cnr3709-12",
-  "kind": "answers",
-  "to": "ihagrrep7cnr3709-8",
   "note": "'Ad Rescriptum clementissimum vom 7ten': the rescript of 7 December to the government at Poznań."
  },
  {
-  "from": "ihagrrep7cnr3709-13",
+  "from": "ihagrrep7cnr3709-8",
   "kind": "supersedes",
-  "to": "ihagrrep7cnr3709-9",
+  "to": "ihagrrep7cnr3709-5",
   "note": "'es kann folglich das obangezogene Rescript keine Anwendung finden': the rescript of 7 December to the government at Warsaw."
  },
  {
-  "from": "ihagrrep7cnr3709-14",
+  "from": "ihagrrep7cnr3709-9",
   "kind": "supplements",
-  "to": "ihagrrep7cnr3709-11",
+  "to": "ihagrrep7cnr3709-6",
   "note": "Tells the Prince that the order announced on 7 December came too late for the first instance."
  },
  {
@@ -247,18 +229,12 @@
  },
  {
   "from": "oe1bu14526-22",
-  "kind": "transmits",
-  "to": "oe1bu14526-23",
-  "note": "A covering rescript of the same day, transmitting an engrossment of the purchase contract confirmed under that date."
- },
- {
-  "from": "oe1bu14526-23",
   "kind": "confirms",
   "to": "oe1bu14526-4",
   "note": "The confirmation names the purchase contract of 16 and 25 January 1805; document 4 is that contract, subscribed at Breslau on 16 January 1805."
  },
  {
-  "from": "oe1bu14526-24",
+  "from": "oe1bu14526-23",
   "kind": "refuses",
   "to": "oe1bu14526-18",
   "note": "The War and Domains Chamber returns the hereditary-lease contract submitted to it and declares the hereditary leasing of the lordship of Betsche to the town's burgesses wholly inadmissible. Document 18 is that contract."
@@ -360,13 +336,7 @@
   "note": "'In Gemäßheit ... Schreibens vom 29sten April d. J.': the instruction to Schöler."
  },
  {
-  "from": "iiihamdaiiinr12366-1",
-  "kind": "transmits",
-  "to": "iiihamdaiiinr12366-2",
-  "note": "'le rapport ci-joint du Lieutenant du Royaume de Pologne': document 2 is that copy."
- },
- {
-  "from": "iiihamdaiiinr12366-3",
+  "from": "iiihamdaiiinr12366-2",
   "kind": "answers",
   "to": "iiihamdaiiinr12366-1",
   "note": "The ministry's reply to the envoy's note and the report sent with it ('la nôte et le mémoire'); the draft dates the note 20 February, the note itself is of 20 January."
@@ -388,12 +358,6 @@
   "kind": "answers",
   "to": "iiihamdaiiinr12367-6",
   "note": "Weigel replies 'auf die hohe Eröffnung vom 22 v. M. No. 59607/938', the minister's letter of 22 September 1830."
- },
- {
-  "from": "iiihamdaiiinr12367-8",
-  "kind": "answers",
-  "to": "iiihamdaiiinr12367-7",
-  "note": "The minister answers the papers Weigel sent 'przy swem podaniu daty 14 Oktobra 1830', with his letter of 14 October."
  },
  {
   "from": "apl399801333-2",

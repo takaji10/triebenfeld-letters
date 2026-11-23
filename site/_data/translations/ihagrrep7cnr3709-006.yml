@@ -1,60 +1,80 @@
 status: draft
 segments:
 - page: 1
-  en: 'Right Honourable Sir; Most Highly Honoured Lord Grand Chancellor! Your Excellency will forgive
-    me if I take the liberty of accompanying my petition with these few words.
+  en: 'To His Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, Royal Prussian General of
+    Infantry and Governor of
 
 
-    My trust in Your Excellency''s goodwill towards me is far too great for me not to look forward with
-    complete confidence to the granting of my most urgent request: "that Your Excellency might deign kindly
-    to give orders in accordance with the contents of the petition".
+    Wrocław
 
 
-    The following reasons have moved me to my request,'
-- page: 2
-  en: 'among others:
+    in the office
 
 
-    The very proposal for a settlement which the commissioned judge (Deputatus) made at the last hearing
-    makes me anxious that the Government at Poznań may not set about drawing up the judgment with the
-    impartiality that is due. The life interest which the plaintiff''s father, who is still living, had
-    to exercise in the property of his late wife is surely plainly a part of the property confiscated
-    from him, and by the confiscation of the entire present and future property of
+    to be fair-copied. Fair copy made, and to the post, the 8th of the same month.
 
 
-    von Prusimski the Treasury (Fiscus) has surely plainly made the life interest subject to itself. It
-    therefore struck me greatly that the commissioned judge, in his proposal for a settlement, could raise
-    the strange doubt against the validity of the life interest, that it would not belong to the Treasury
-    because the plaintiff''s late mother had not contracted with the Treasury concerning the life interest.
-    This, and likewise the circumstance that the guardianship board, which pursues the case with so much
-    zeal, is at the same time to be judge in it, and no less other reasons bearing solely on my individual
-    conviction, have therefore raised in me a misgiving about having the case decided by the Government
-    at Poznań. I therefore once more most urgently beg Your Excellency kindly to entrust the decision
-    of the case either to the Government at Kalisz or to any other South Prussian court. May Your Excellency
-    deign to accept the assurance of the un'
+    Most Serene Prince, Most gracious Prince and Lord, Your Serene Highness''s wish that Your Highness''s
+    lawsuit with the guardian of the minor Michalina von Prusimska should not be decided by the Government
+    at Poznań is so well founded, by the single circumstance that most of the councillors there are members
+    of the guardianship board of that place, which brought this lawsuit, that I have had no hesitation
+    in giving the order under today''s date that this case be decided in the first instance by the full
+    bench of the Government at Warsaw and in the second instance by the Appeal Senate of the Kammergericht.
+    The'
   names:
-  - de: Posen
-    en: Poznań
-    kind: place
-  - de: v. Prusimski
-    en: von Prusimski
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
     kind: person
-  - de: Kalisch
-    en: Kalisz
-    kind: place
-- page: 3
-  en: 'bounded reverence with which I shall remain for life Your Excellency''s most obedient servant,
-    F[riedrich] L[udwig] P[rince] of Hohenlohe.
-
-
-    Wrocław, 30 Nov. 1800'
-  names:
   - de: Breslau
     en: Wrocław
     kind: place
-  - de: F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe
-    en: F[riedrich] L[udwig] P[rince] of Hohenlohe
+  - de: Michalina von Prusimska
+    en: Michalina von Prusimska
+    kind: person
+  - de: Posen
+    en: Poznań
+    kind: place
+  - de: Warſchau
+    en: Warsaw
+    kind: place
+  numbers:
+  - '8'
+- page: 2
+  en: 'Government at Warsaw I chose instead of the Government at Kalisz that had been proposed, because
+    the President of the Government at Poznań, Count von Danckelmann, has recently moved to the Government
+    at Kalisz, and because Your Serene Highness deigns to declare that any other South Prussian provincial
+    court of justice apart from that of Poznań is acceptable to Your Highness. It gives me uncommon pleasure
+    to be able hereby to contribute something to Your Highness''s satisfaction, and on this occasion at
+    the same time to assure you of the boundless reverence with which I have the honour to be Your Serene
+    Highness''s
+
+
+    G[oldbeck]
+
+
+    Berlin, 7 Dec. 1800.'
+  names:
+  - de: Warſchau
+    en: Warsaw
+    kind: place
+  - de: Kalisch
+    en: Kalisz
+    kind: place
+  - de: Posen
+    en: Poznań
+    kind: place
+  - de: Graf von Danckelmann
+    en: Count von Danckelmann
+    kind: person
+  - de: Posenſchen
+    en: Poznań
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: G[oldbeck]
+    en: G[oldbeck]
     kind: person
   numbers:
-  - '30'
+  - '7'
   - '1800'

@@ -9,23 +9,23 @@
 # block cannot be found. A reply drafted on the page is not listed here: it is a
 # document of its own.
 blocks:
-  - letter: '1'
-    page: '0002_a2'
-    first: 'den 18 Juni'
-    lines: 5
-  - letter: '3'
-    page: '0004_a2'
-    first: 'd. 27. Juli 1800.'
-    lines: 7
-  - letter: '5'
-    page: '0007_a2'
-    first: 'd. 2. Dec 1800.'
-    lines: 3
-  - letter: '12'
-    page: '0016_a2'
-    first: 'Notificatur der Regierung zu'
-    lines: 7
-  - letter: '15'
-    page: '0020_a2'
-    first: '29 Jan.'
-    lines: 15
+- letter: '1'
+  page: 0002_a2
+  first: den 18 Juni
+  lines: 5
+- letter: '2'
+  page: 0004_a2
+  first: d. 27. Juli 1800.
+  lines: 7
+- letter: '3'
+  page: 0007_a2
+  first: d. 2. Dec 1800.
+  lines: 3
+- letter: '7'
+  page: 0016_a2
+  first: Notificatur der Regierung zu
+  lines: 7
+- letter: '10'
+  page: 0020_a2
+  first: 29 Jan.
+  lines: 15

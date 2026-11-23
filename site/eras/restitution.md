@@ -39,7 +39,7 @@ owner in the fullness of his rights, not burden him with debts he had never cont
 
 Prussia did not let go. Its envoy at St Petersburg asked in 1827 that the judgment be
 annulled; the file holds no answer
-([the note]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})). At Warsaw the
+([the note]({{ '/documents/iiihamdaiiinr12366/4/' | relative_url }})). At Warsaw the
 Polish government, embarrassed by its own courts, authorised a conflict of jurisdiction
 in 1829 — while telling the Prussian consul that the Council had agreed unanimously that
 payment must be made
@@ -50,7 +50,7 @@ sum excessive and had the estates valued
 Uprising of 1830 interrupted everything; in March 1832 the valuation of Trąbczyn was
 ordered again, and the president of the Bank of Poland was charged with settling the
 claim
-([the file's second volume]({{ '/documents/iiihamdaiiinr12367/9/' | relative_url }})).
+([the file's second volume]({{ '/documents/iiihamdaiiinr12367/8/' | relative_url }})).
 The Council of State's Instruction Commission answered the conflict of jurisdiction only
 in October 1834: none existed, the recourse was in substance an appeal in cassation,
 which the Council by its organisation is not, and the demand should be set aside as based

@@ -8,11 +8,11 @@ Die Güter lagen in der Provinz, die aus dem preußischen Anteil an den Teilunge
 
 #### Kamionna und Kolno
 
-Hohenlohe-Ingelfingen verkaufte beide Güter an George Conrad Leixner, einen Beamten der Bank in Frankfurt an der Oder, für 142.000 Rthl [[4, 5]]. Der Band enthält zwei Fassungen des Vertrags, die königliche Bestätigung mit den ihr beigelegten Vollmachten und das Schreiben, mit dem Hohenlohe-Ingelfingen seine Ausfertigung erhielt [[4, 5, 22, 23]].
+Hohenlohe-Ingelfingen verkaufte beide Güter an George Conrad Leixner, einen Beamten der Bank in Frankfurt an der Oder, für 142.000 Rthl [[4, 5]]. Der Band enthält zwei Fassungen des Vertrags, die königliche Bestätigung mit den ihr beigelegten Vollmachten und das Schreiben, mit dem Hohenlohe-Ingelfingen seine Ausfertigung erhielt [[4, 5, 22]].
 
 #### Pszczew
 
-Durch einen Vertrag vom Juli 1804 wurde die ganze Herrschaft Pszczew den Bürgern von Pszczew und sechs Dörfern für 180.000 Rthl und einen jährlichen Grundzins von 1.000 Rthl überlassen; 137.000 Rthl des Preises wurden durch Übernahme von Hypothekenschulden gedeckt [[18, 19]]. Der Vertrag liegt in zwei Abschriften vor. Ebenfalls vorhanden sind ein Bescheid der Behörde, der die Genehmigung der Verpachtung verweigert, und eine königliche Genehmigung von 1806 [[18, 24]]. Drei Dokumente betreffen einzelne Stellen in der Herrschaft, darunter ein Privileg des Bischofs von Poznań (Posen) von 1766 für eine Stelle in Głażewo, in deutscher Übersetzung mit dem lateinischen und polnischen Original [[3, 29, 30]].
+Durch einen Vertrag vom Juli 1804 wurde die ganze Herrschaft Pszczew den Bürgern von Pszczew und sechs Dörfern für 180.000 Rthl und einen jährlichen Grundzins von 1.000 Rthl überlassen; 137.000 Rthl des Preises wurden durch Übernahme von Hypothekenschulden gedeckt [[18, 19]]. Der Vertrag liegt in zwei Abschriften vor. Ebenfalls vorhanden sind ein Bescheid der Behörde, der die Genehmigung der Verpachtung verweigert, und eine königliche Genehmigung von 1806 [[18, 23]]. Drei Dokumente betreffen einzelne Stellen in der Herrschaft, darunter ein Privileg des Bischofs von Poznań (Posen) von 1766 für eine Stelle in Głażewo, in deutscher Übersetzung mit dem lateinischen und polnischen Original [[3, 28, 29]].
 
 #### Witów
 
@@ -26,7 +26,7 @@ Die Erbpachtverträge haben gemeinsame Bedingungen: Einstandsgeld und jährliche
 
 #### Szetlewek
 
-Glenck verkaufte das Vorwerk Szetlewek an den Müller Samuel Lucke für 12.333 Rthl, von denen 8.333 Rthl an den Pfandinhaber des Gutes, von Radzinski, gehen sollten [[25]]. Drei weitere Dokumente betreffen eine frühere Vereinbarung vom 20. November 1798 über die Besiedlung des Gutes, ihre Aufhebung und den Streit mit dem Pfandinhaber [[26, 27, 28]].
+Glenck verkaufte das Vorwerk Szetlewek an den Müller Samuel Lucke für 12.333 Rthl, von denen 8.333 Rthl an den Pfandinhaber des Gutes, von Radzinski, gehen sollten [[24]]. Drei weitere Dokumente betreffen eine frühere Vereinbarung vom 20. November 1798 über die Besiedlung des Gutes, ihre Aufhebung und den Streit mit dem Pfandinhaber [[25, 26, 27]].
 
 Vollmachten, königliche Bestätigungen und notarielle Beglaubigungen liegen bei den Verträgen, zu denen sie gehören, und sind Teil desselben Dokuments. Die Dokumente behalten die Zählung des Archivs, die nicht ihren Daten folgt. <!-- context -->
 

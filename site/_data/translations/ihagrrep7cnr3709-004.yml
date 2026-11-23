@@ -1,38 +1,55 @@
 status: draft
 segments:
 - page: 1
-  en: 'Copy. His Royal Majesty of Prussia, etc., commands the Government, on the return of the files sent
-    in with its report of the 18th of last month in the case of Michalina von Prusimska against His Lordship
-    the Prince of Hohenlohe-Ingelfingen, to apply all diligence to completing the preparation of this
-    case, which has been much delayed by too great indulgence towards the defendant''s authorised agent;
-    next, to have proposals for a settlement suited to the case put forward; but if the settlement, for
-    which the case nevertheless appears to be very well suited, should not come about, to take dutiful
-    care that judgment is hastened, especially in the event that, on mature consideration of all the circumstances,
-    the laws should require that judgment be given once more in the first instance. Charlottenburg, 1
-    July 1800. Friedrich Willhelm
+  en: 'Ex officio
 
 
-    To the Government
+    1. Let a rescript be sent to the Government at Poznań: since most of the councillors of its court
+    are members of the guardianship board there, and the suit of the guardian of the minor Michaelina
+    von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was
+    brought at the instance of the latter, and the lawsuit itself has been conducted, and will continue
+    to be conducted, under its direction, it has been found necessary hereby to order that the said case
+    be decided in the first instance by the full bench of the Government at Warsaw and in the second instance
+    by the Superior Appeal Senate of the Kammergericht; the necessary orders have accordingly been sent
+    to these two courts today, and this is hereby made known to it for its information and observance.
 
 
-    at Poznań'
+    2. Let the rescript to the Government at Warsaw be dispatched accordingly, and
+
+
+    3. to the Superior Appeal Senate of the Ca[illegible]. Richters. Berlin, 7 Dec. 1800.
+
+
+    G[oldbeck]
+
+
+    No. 5957.'
   names:
-  - de: Michalina v. Prusimska
-    en: Michalina von Prusimska
-    kind: person
-  - de: Hohenlohe Ingelfingen
-    en: Hohenlohe-Ingelfingen
-    kind: person
-  - de: Charlottenburg
-    en: Charlottenburg
-    kind: place
-  - de: Friedrich Willhelm
-    en: Friedrich Willhelm
-    kind: person
   - de: Posen
     en: Poznań
     kind: place
+  - de: Michaelina von Prusimska
+    en: Michaelina von Prusimska
+    kind: person
+  - de: Hohenlohe-Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: person
+  - de: Brzezier
+    en: Brzyce
+    kind: place
+  - de: Warschau
+    en: Warsaw
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: G[oldbeck]
+    en: G[oldbeck]
+    kind: person
   numbers:
-  - '18'
   - '1'
+  - '2'
+  - '3'
+  - '7'
   - '1800'
+  - '5957'

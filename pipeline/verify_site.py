@@ -12,7 +12,7 @@ Checks:
 Run after `jekyll build`. Exits non-zero on any failure.
 """
 import csv, io, sys, os, re, json, html, collections
-from collections import Counter
+from collections import Counter, defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import unitlib
 
@@ -178,6 +178,27 @@ def main():
                      f'the holding has scans (units/{u.slug}/page_scan_map.csv)')
     if not no_scan:
         print('  every page of a holding with scans shows one')
+
+    # ---- one page, one document (the editor, 2026-11-23; docs/DOCUMENT_MERGE_PLAN.md) ----
+    # A manuscript page stands under one document only, so the site does not
+    # show it twice. The exceptions are the editor's: registers and copy-books
+    # where one act ends and the next begins on the page, Breyer's notebook,
+    # the copies of Rep. 162 Nr. 295 (reference/shared_pages.yml).
+    import yaml as _yaml
+    sp = os.path.join(ROOT, 'reference', 'shared_pages.yml')
+    allowed = set((_yaml.safe_load(open(sp, encoding='utf-8')) or {}).get('holdings') or []) \
+        if os.path.isfile(sp) else set()
+    where = defaultdict(set)
+    for rec in recs:
+        for p in rec.get('pages') or []:
+            if p.get('page_id'):
+                where[(rec['unit'], p['page_id'])].add(str(rec['letter_id']))
+    shared = {k: v for k, v in where.items() if len(v) > 1 and k[0] not in allowed}
+    for (unit, pid), docs in sorted(shared.items()):
+        fail(f'{unit}: page {pid} stands under documents {", ".join(sorted(docs))} '
+             f'(one page, one document: join them, or list the holding in reference/shared_pages.yml)')
+    if not shared:
+        print('  no page stands under two documents (outside %d listed holdings)' % len(allowed))
 
     # ---- 3: internal links -----------------------------------------------
     print('checking internal links...'

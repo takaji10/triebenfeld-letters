@@ -6,386 +6,547 @@
  "uid": "oe1bu14526-24",
  "pad": "oe1bu14526-024",
  "permalink": "/documents/oe1bu14526/24/",
- "doc_type": "royal_rescript",
+ "doc_type": "contract",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1805-05-18",
+ "date_iso": "1798-10-01",
  "date_precision": "day",
  "date_source": "dateline",
- "date_display": "1805-05-18",
+ "date_display": "1798-10-01",
  "date_inferred_from": "read from the document's own dateline",
- "year": 1805,
- "month": 5,
- "day": 18,
- "place": "Posen",
+ "year": 1798,
+ "month": 10,
+ "day": 1,
+ "place": "Zagórów",
  "sender": "",
  "recipient": "",
- "line_start": 7637,
- "line_end": 7700,
+ "line_start": 7700,
+ "line_end": 7776,
  "uncertainty_count": 2,
- "has_damage": 1,
+ "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
  "duplicate_of": "",
- "relations": [
-  {
-   "kind": "refuses",
-   "target": "18",
-   "note": "The War and Domains Chamber returns the hereditary-lease contract submitted to it and declares the hereditary leasing of the lordship of Betsche to the town's burgesses wholly inadmissible. Document 18 is that contract."
-  }
- ],
+ "relations": [],
  "estates": [
-  "betsche"
+  "szetlewek"
  ],
  "is_missing": 0,
- "n_lines": 61,
- "n_pages": 2,
- "text": "Von Gottes Gnaden Friedrich Wilhelm König von Preußen\nUnsere Freundschaft, Königliche Gnade und guten Willen zuvor\nHochgebohrner Fürst, besonders Lieber Freund und Lieber\nGetreuer! Im Verfolg der Ewr. Liebden, auf das unterm\n31sten December v. J. angebrachte Gesuch um die Erlaubniß\nzur Verabpachtung der Herrschaft Betsche an die dortige\nBürgerschaft und die übrigen ländlichen Einsaßen, am\n5ten Februar d. J. gewordenen Bekanntmachung, laßen\nWir Ewr. Liebden mit Rückgabe des eingereichten Erbpachts\nContracts auf den Grund des in Gemäßheit einer Aller¬\nhöchsten Cabinets-Resolution vom 11ten v. M. an Unsere\nCammer ergangenen Rescripts Unsers SüdPreußl. Finanz\nDepartement vom 15ten v. M. hierdurch zum Bescheide\ngeben, daß die in Rede stehende Vererbpachtung ganz\nunzuläßig befunden worden ist, und Ewr. Liebden der\ndazu nachgesuchte Consens nicht ertheilt werden kann,\ndenn\n1tens würden, wenn Ewr. Liebden dieser Consens nicht ver¬\nsagt worden wäre, mehrere Grundherrschaften\nähnliche Anträge wagen, und dadurch die Besitzungen\ndes in hiesiger Provinz so zahlreichen Adels auf deßen Con¬\nservation Bedacht genommen werden muß, vermindert\nund demselben die Gelegenheiten zu Güter Acquisitionen\nbenommen werden. Falls indeß auch dieses erhebliche\nHinderniß in Ewr. Liebden Vorhaben nicht schon entgegen stünde,\nso würde die mehrerwähnte Verabpachtung nicht genehmiget\nwerden können, weil\n2tens die zweckmäßige Bewirthschaftung der Betscher\nForst, welche, da diese Forst die einzige beträchtliche\nin der dortigen Gegend ist, alle Rücksicht verdient, nicht\nstatt finden könnte, indem, wenn den Erbpächtern d.\nfreye Benutzung überlaßen wird, auch die beste Aufsicht\ndie Devastation nicht ganz verhütten könnte,\n3tens ist hierbey auch noch der Umstand zu erwägen\ndaß wenn Ewr. Liebden Antrage deferirt würde\ndie von den Einsaßen in Erbpacht zu nehmenden\nLändereyen nicht einmal ordnungsmäßig bewirth\nschaftet werden könnten, da jeder Einsaße und\nauch jeder Bürger der Stadt Betsche so viel an Land\nbesitzt als er zu einer ordentlichen Bewirthschaft\nnöthig hat über dem aber, in Absicht der Bürger\ndahin zu sehen ist, daß sie sich mehr auf den Betrie¬\nstädtischer Gewerbe als den des Ackerbaues lege\ndie mehrsten Einsaßen über dieß zu unbemittel¬\nsind, um die zur Bewirthschaftung erforderlichen\nGeldsummen aufbringen zu können. Sind Ewr\nLiebden, mit Freundschaft, Königlichen Gnade und\ngutem Willen, wohlbeygethan.\nPosen den 18ten May 1805\nKönigl. SüdPreuß. Krieges und Domainen Cammer\n[G?] v Köller\nAn\nDen Regierenden Fürsten\nzu Hohenlohe Ingelfingen\nLiebden, General Lieutenant\nder Infanterie und Gouverneur\nder Residenz Breslau Chef eines\nRegiments zu Fuß auch des schwarzen\nund rothen Adler Ordens Ritter zu Breslau\n434 R. Anno\nRaeder[?]",
- "text_reading": "Von Gottes Gnaden Friedrich Wilhelm König von Preußen Unsere Freundschaft, Königliche Gnade und guten Willen zuvor Hochgebohrner Fürst, besonders Lieber Freund und Lieber Getreuer! Im Verfolg der Ewr. Liebden, auf das unterm 31sten December v. J. angebrachte Gesuch um die Erlaubniß zur Verabpachtung der Herrschaft Betsche an die dortige Bürgerschaft und die übrigen ländlichen Einsaßen, am 5ten Februar d. J. gewordenen Bekanntmachung, laßen Wir Ewr. Liebden mit Rückgabe des eingereichten Erbpachts Contracts auf den Grund des in Gemäßheit einer Allerhöchsten Cabinets-Resolution vom 11ten v. M. an Unsere Cammer ergangenen Rescripts Unsers SüdPreußl. Finanz Departement vom 15ten v. M. hierdurch zum Bescheide geben, daß die in Rede stehende Vererbpachtung ganz unzuläßig befunden worden ist, und Ewr. Liebden der dazu nachgesuchte Consens nicht ertheilt werden kann, denn 1tens würden, wenn Ewr. Liebden dieser Consens nicht versagt worden wäre, mehrere Grundherrschaften ähnliche Anträge wagen, und dadurch die Besitzungen des in hiesiger Provinz so zahlreichen Adels auf deßen Conservation Bedacht genommen werden muß, vermindert und demselben die Gelegenheiten zu Güter Acquisitionen benommen werden. Falls indeß auch dieses erhebliche Hinderniß in Ewr. Liebden Vorhaben nicht schon entgegen stünde, so würde die mehrerwähnte Verabpachtung nicht genehmiget\n\nwerden können, weil 2tens die zweckmäßige Bewirthschaftung der Betscher Forst, welche, da diese Forst die einzige beträchtliche in der dortigen Gegend ist, alle Rücksicht verdient, nicht statt finden könnte, indem, wenn den Erbpächtern d. freye Benutzung überlaßen wird, auch die beste Aufsicht die Devastation nicht ganz verhütten könnte, 3tens ist hierbey auch noch der Umstand zu erwägen daß wenn Ewr. Liebden Antrage deferirt würde die von den Einsaßen in Erbpacht zu nehmenden Ländereyen nicht einmal ordnungsmäßig bewirth schaftet werden könnten, da jeder Einsaße und auch jeder Bürger der Stadt Betsche so viel an Land besitzt als er zu einer ordentlichen Bewirthschaft nöthig hat über dem aber, in Absicht der Bürger dahin zu sehen ist, daß sie sich mehr auf den Betriestädtischer Gewerbe als den des Ackerbaues lege die mehrsten Einsaßen über dieß zu unbemittelsind, um die zur Bewirthschaftung erforderlichen Geldsummen aufbringen zu können. Sind Ewr Liebden, mit Freundschaft, Königlichen Gnade und gutem Willen, wohlbeygethan.\n\nPosen den 18ten May 1805 Königl. SüdPreuß. Krieges und Domainen Cammer [G?] v Köller\n\nAn\n\nDen Regierenden Fürsten\n\nzu Hohenlohe Ingelfingen\n\nLiebden, General Lieutenant\n\nder Infanterie und Gouverneur\n\nder Residenz Breslau Chef eines Regiments zu Fuß auch des schwarzen und rothen Adler Ordens Ritter zu Breslau 434 R. Anno\n\nRaeder[?]",
+ "n_lines": 73,
+ "n_pages": 3,
+ "text": "Kund und zu wissen, daß zwischen dem Bevollmächtigten Sr des\nregierenden Herrn Fürsten zu Hohenlohe Ingelfingen Hochfürstlichen\nDurchlaucht, dem Bau, und Oeconomie Rath Johann Wilhelm Glenck\neiner - und dem Mahl Müller Samuel Lucke Besitzer der Mahl Mühle\nBiałobrzeg bey Wrąbczynek andererseits, unter Vorbehalt hoch\nster Fürstlicher Ratification nachfolgender Kauff Contract, unter\nnachstehenden Conditionen wohlbedächtig verabredet und geschlossen\nworden.\nEs verkauffet\n1mo, gedachter Bevollmächtigte das Hochfürstliche Gut Szetlewek\nbey Trąbczyn mit dessen hierzugehörigen Feldern von Eintausend\nMorgen Magdeburgisch Maaß Vorwerks Feld in nachfolgender\nGroße und Benennung, worüber eine Charte und Vermessungs\nRegister vorhanden ist, als,\n459 Morgen Ackerfeld in 3 Flure\n109 do - Wiesen\n19 5/8 do — Gärten\n380 do zu rödende Felder.\n32 3/8 do bestandenen Wald.\n= 1000 Morgen Magdeb. in Summa.\nnebst\n§ 2, sämmtlichen Vorwerksgebäuden, welche bestehen in 1 Herrschafft¬\nlichen Wohnhauß, 4 Scheunen, 4 Ställen, 1 Schüttboden und\nandern zugehörigen (ausgenommen der Brau und Brennerey, als\nwelche unter der in Rubrique II begriffen ist) zum freien beständ¬\ndigen Eigenthum.\nwofür\n§ 3, der Käufer eine baare Summe von 12333 rthlr zu bezahlen\nverspricht die mit 8333 rthlr bey der Räumung des Pand¬\nschillingsbesitzers von Radzinski demselben, und 4000 rthlr bey\nAcceptation dieses Contracts aus Hochfürstliche Dominium gezahlt\nwerden sollen; zu welchem Kauf Pretio annoch ein fortbestehen¬\nder Canon von 1/2 rt pro Morgen jährl. und folglich 500 rt.\nfür die obbenannte Grundstücke alljährlich an Canon zu Dominium zu\nentrichten sind.\nda\n4tens die Käuffer nicht hinreichende Wohnung für ihre viele Besitz\nnehmen erhalten; so bedingt er sich annoch zum Aufbauen der\nmehrern Wohnungen aus den fürstlichen Waldungen folgendes Kiefe¬\nBau Holz als\n60 Rud Säge blöcke von mittler Art a 10 Rtlr[?], mit dem Abholz\n80 Tannen stark Bauholz zu Balken\n200 do mittel Riegel[?]\n450 do schwaches Sparren\n160 Klafter Holz zum Ziegelbrennen, und Flachwerk decken\nnebst\n§5, freien, Raff und Lager Holz in Trąbczyner Wald nach Königlicher\nForstOrdnung.\nRubrique II,\ndie zu diesem Vorwerk und dorff gehörige Propination, das vor\nhandene Brauhauff und Brennerey erhalten, Käufere gleichfalls a\nein anerkaufftes Eigenthum gegen einen jährlichen Zinß von 400\nso wie diese Pertinenz dem Herrn Fürsten zustehet.\nRubrique III,\nAusgenommen sind die Dienste der Dorffs Unterthanen, welche nicht an\nin den Kauff gegeben werden; sondern deren Freylaßung von dienst\ndem Dominio vorbehalten bleibt, als welches bereits dem Wunsch\nder Dienstbaren zu begegnen, sich bereit erklärt hat.\n§6, Die Käufer tragen die Königl. Abgaben und Onera u stehen fort hin\nunter der Gerichtsbarkeit des Hochfürstlichen Dominii.\n§7, Da der Käufer das Gut nicht für sich allein zu bestreiten im\nStande ist, sondern in Verbindung mehrerer Kauflustigen stehet, als\nderen Genehmigung er die Unterschrifften einsammlen will; so be¬\ndingt sich derselbe 14 Tage biß 4 Wochen Zeit, ehe und bevor\neine gerichtliche Begründung dieses Contracts vor sich gehen könne.\nVorstehender Contract ist in duplo ausgefertiget, und von beeden Theilen\ngesiegelt und unterschrieben worden.\nSo geschehen Zagorowo den 1ten Octbr 1798.\nJohann Wilhelm Glenck, Hochfürstlich Hohen¬\nlohe Ingelfingischer Bau und Oeconomie Rath und\nBevollmächtigter.\nSamuel Lucke Mahl Müller\nals Zeuge Johan Lindner.",
+ "text_reading": "Kund und zu wissen, daß zwischen dem Bevollmächtigten Sr des regierenden Herrn Fürsten zu Hohenlohe Ingelfingen Hochfürstlichen Durchlaucht, dem Bau, und Oeconomie Rath Johann Wilhelm Glenck einer - und dem Mahl Müller Samuel Lucke Besitzer der Mahl Mühle Białobrzeg bey Wrąbczynek andererseits, unter Vorbehalt hoch ster Fürstlicher Ratification nachfolgender Kauff Contract, unter nachstehenden Conditionen wohlbedächtig verabredet und geschlossen worden.\n\nEs verkauffet\n\n1mo, gedachter Bevollmächtigte das Hochfürstliche Gut Szetlewek bey Trąbczyn mit dessen hierzugehörigen Feldern von Eintausend Morgen Magdeburgisch Maaß Vorwerks Feld in nachfolgender Große und Benennung, worüber eine Charte und Vermessungs Register vorhanden ist, als,\n\n459 Morgen Ackerfeld in 3 Flure\n\n109 do - Wiesen\n\n19 5/8 do — Gärten\n\n380 do zu rödende Felder.\n\n32 3/8 do bestandenen Wald.\n\n= 1,000 Morgen Magdeb. in Summa.\n\nnebst\n\n§ 2, sämmtlichen Vorwerksgebäuden, welche bestehen in 1 Herrschafftlichen Wohnhauß, 4 Scheunen, 4 Ställen, 1 Schüttboden und andern zugehörigen (ausgenommen der Brau und Brennerey, als welche unter der in Rubrique II begriffen ist) zum freien beständdigen Eigenthum.\n\nwofür\n\n§ 3, der Käufer eine baare Summe von 12,333 rthlr zu bezahlen verspricht die mit 8,333 rthlr bey der Räumung des Pandschillingsbesitzers von Radzinski demselben, und 4,000 rthlr bey Acceptation dieses Contracts aus Hochfürstliche Dominium gezahlt werden sollen; zu welchem Kauf Pretio annoch ein fortbestehender Canon von 1/2 rt pro Morgen jährl. und folglich 500 rt. für die obbenannte Grundstücke alljährlich an Canon zu Dominium zu entrichten sind.\n\nda 4tens die Käuffer nicht hinreichende Wohnung für ihre viele Besitz nehmen erhalten; so bedingt er sich annoch zum Aufbauen der mehrern Wohnungen aus den fürstlichen Waldungen folgendes KiefeBau Holz als 60 Rud Säge blöcke von mittler Art a 10 Rtlr[?], mit dem Abholz 80 Tannen stark Bauholz zu Balken\n\n200 do mittel Riegel[?]\n\n450 do schwaches Sparren 160 Klafter Holz zum Ziegelbrennen, und Flachwerk decken nebst\n\n§5, freien, Raff und Lager Holz in Trąbczyner Wald nach Königlicher ForstOrdnung.\n\nRubrique II, die zu diesem Vorwerk und dorff gehörige Propination, das vor handene Brauhauff und Brennerey erhalten, Käufere gleichfalls a ein anerkaufftes Eigenthum gegen einen jährlichen Zinß von 400 so wie diese Pertinenz dem Herrn Fürsten zustehet. Rubrique III, Ausgenommen sind die Dienste der Dorffs Unterthanen, welche nicht an in den Kauff gegeben werden; sondern deren Freylaßung von dienst dem Dominio vorbehalten bleibt, als welches bereits dem Wunsch der Dienstbaren zu begegnen, sich bereit erklärt hat.\n\n§6, Die Käufer tragen die Königl. Abgaben und Onera u stehen fort hin unter der Gerichtsbarkeit des Hochfürstlichen Dominii.\n\n§7, Da der Käufer das Gut nicht für sich allein zu bestreiten im Stande ist, sondern in Verbindung mehrerer Kauflustigen stehet, als deren Genehmigung er die Unterschrifften einsammlen will; so bedingt sich derselbe 14 Tage biß 4 Wochen Zeit, ehe und bevor eine gerichtliche Begründung dieses Contracts vor sich gehen könne. Vorstehender Contract ist in duplo ausgefertiget, und von beeden Theilen\n\ngesiegelt und unterschrieben worden.\n\nSo geschehen Zagorowo den 1ten Octbr 1798. Johann Wilhelm Glenck, Hochfürstlich Hohenlohe Ingelfingischer Bau und Oeconomie Rath und Bevollmächtigter.\n\nSamuel Lucke Mahl Müller\n\nals Zeuge Johan Lindner.",
  "pages": [
   {
    "page": 1,
-   "page_id": "0154_a2",
-   "line_start": 7639,
-   "line_end": 7664,
-   "n_lines": 26,
-   "diplomatic": "Von Gottes Gnaden Friedrich Wilhelm König von Preußen\nUnsere Freundschaft, Königliche Gnade und guten Willen zuvor\nHochgebohrner Fürst, besonders Lieber Freund und Lieber\nGetreuer! Im Verfolg der Ewr. Liebden, auf das unterm\n31sten December v. J. angebrachte Gesuch um die Erlaubniß\nzur Verabpachtung der Herrschaft Betsche an die dortige\nBürgerschaft und die übrigen ländlichen Einsaßen, am\n5ten Februar d. J. gewordenen Bekanntmachung, laßen\nWir Ewr. Liebden mit Rückgabe des eingereichten Erbpachts\nContracts auf den Grund des in Gemäßheit einer Aller¬\nhöchsten Cabinets-Resolution vom 11ten v. M. an Unsere\nCammer ergangenen Rescripts Unsers SüdPreußl. Finanz\nDepartement vom 15ten v. M. hierdurch zum Bescheide\ngeben, daß die in Rede stehende Vererbpachtung ganz\nunzuläßig befunden worden ist, und Ewr. Liebden der\ndazu nachgesuchte Consens nicht ertheilt werden kann,\ndenn\n1tens würden, wenn Ewr. Liebden dieser Consens nicht ver¬\nsagt worden wäre, mehrere Grundherrschaften\nähnliche Anträge wagen, und dadurch die Besitzungen\ndes in hiesiger Provinz so zahlreichen Adels auf deßen Con¬\nservation Bedacht genommen werden muß, vermindert\nund demselben die Gelegenheiten zu Güter Acquisitionen\nbenommen werden. Falls indeß auch dieses erhebliche\nHinderniß in Ewr. Liebden Vorhaben nicht schon entgegen stünde,\nso würde die mehrerwähnte Verabpachtung nicht genehmiget",
-   "transcription": "Von Gottes Gnaden Friedrich Wilhelm König von Preußen\nUnsere Freundschaft, Königliche Gnade und guten Willen zuvor\nHochgebohrner Fürst, besonders Lieber Freund und Lieber\nGetreuer! Im Verfolg der Ewr. Liebden, auf das unterm\n31sten December v. J. angebrachte Gesuch um die Erlaubniß\nzur Verabpachtung der Herrschaft Betsche an die dortige\nBürgerschaft und die übrigen ländlichen Einsaßen, am\n5ten Februar d. J. gewordenen Bekanntmachung, laßen\nWir Ewr. Liebden mit Rückgabe des eingereichten Erbpachts\nContracts auf den Grund des in Gemäßheit einer Aller-\nhöchsten Cabinets-Resolution vom 11ten v. M. an Unsere\nCammer ergangenen Rescripts Unsers SüdPreußl. Finanz\nDepartement vom 15ten v. M. hierdurch zum Bescheide\ngeben, daß die in Rede stehende Vererbpachtung ganz\nunzuläßig befunden worden ist, und Ewr. Liebden der\ndazu nachgesuchte Consens nicht ertheilt werden kann,\ndenn\n1tens würden, wenn Ewr. Liebden dieser Consens nicht ver-\nsagt worden wäre, mehrere Grundherrschaften\nähnliche Anträge wagen, und dadurch die Besitzungen\ndes in hiesiger Provinz so zahlreichen Adels auf deßen Con-\nservation Bedacht genommen werden muß, vermindert\nund demselben die Gelegenheiten zu Güter Acquisitionen\nbenommen werden. Falls indeß auch dieses erhebliche\nHinderniß in Ewr. Liebden Vorhaben nicht schon entgegen stünde,\nso würde die mehrerwähnte Verabpachtung nicht genehmiget",
-   "reading": "Von Gottes Gnaden Friedrich Wilhelm König von Preußen Unsere Freundschaft, Königliche Gnade und guten Willen zuvor Hochgebohrner Fürst, besonders Lieber Freund und Lieber Getreuer! Im Verfolg der Ewr. Liebden, auf das unterm 31sten December v. J. angebrachte Gesuch um die Erlaubniß zur Verabpachtung der Herrschaft Betsche an die dortige Bürgerschaft und die übrigen ländlichen Einsaßen, am 5ten Februar d. J. gewordenen Bekanntmachung, laßen Wir Ewr. Liebden mit Rückgabe des eingereichten Erbpachts Contracts auf den Grund des in Gemäßheit einer Allerhöchsten Cabinets-Resolution vom 11ten v. M. an Unsere Cammer ergangenen Rescripts Unsers SüdPreußl. Finanz Departement vom 15ten v. M. hierdurch zum Bescheide geben, daß die in Rede stehende Vererbpachtung ganz unzuläßig befunden worden ist, und Ewr. Liebden der dazu nachgesuchte Consens nicht ertheilt werden kann, denn 1tens würden, wenn Ewr. Liebden dieser Consens nicht versagt worden wäre, mehrere Grundherrschaften ähnliche Anträge wagen, und dadurch die Besitzungen des in hiesiger Provinz so zahlreichen Adels auf deßen Conservation Bedacht genommen werden muß, vermindert und demselben die Gelegenheiten zu Güter Acquisitionen benommen werden. Falls indeß auch dieses erhebliche Hinderniß in Ewr. Liebden Vorhaben nicht schon entgegen stünde, so würde die mehrerwähnte Verabpachtung nicht genehmiget",
+   "page_id": "0156_a2",
+   "line_start": 7702,
+   "line_end": 7736,
+   "n_lines": 35,
+   "diplomatic": "Kund und zu wissen, daß zwischen dem Bevollmächtigten Sr des\nregierenden Herrn Fürsten zu Hohenlohe Ingelfingen Hochfürstlichen\nDurchlaucht, dem Bau, und Oeconomie Rath Johann Wilhelm Glenck\neiner - und dem Mahl Müller Samuel Lucke Besitzer der Mahl Mühle\nBiałobrzeg bey Wrąbczynek andererseits, unter Vorbehalt hoch\nster Fürstlicher Ratification nachfolgender Kauff Contract, unter\nnachstehenden Conditionen wohlbedächtig verabredet und geschlossen\nworden.\nEs verkauffet\n1mo, gedachter Bevollmächtigte das Hochfürstliche Gut Szetlewek\nbey Trąbczyn mit dessen hierzugehörigen Feldern von Eintausend\nMorgen Magdeburgisch Maaß Vorwerks Feld in nachfolgender\nGroße und Benennung, worüber eine Charte und Vermessungs\nRegister vorhanden ist, als,\n459 Morgen Ackerfeld in 3 Flure\n109 do - Wiesen\n19 5/8 do — Gärten\n380 do zu rödende Felder.\n32 3/8 do bestandenen Wald.\n= 1000 Morgen Magdeb. in Summa.\nnebst\n§ 2, sämmtlichen Vorwerksgebäuden, welche bestehen in 1 Herrschafft¬\nlichen Wohnhauß, 4 Scheunen, 4 Ställen, 1 Schüttboden und\nandern zugehörigen (ausgenommen der Brau und Brennerey, als\nwelche unter der in Rubrique II begriffen ist) zum freien beständ¬\ndigen Eigenthum.\nwofür\n§ 3, der Käufer eine baare Summe von 12333 rthlr zu bezahlen\nverspricht die mit 8333 rthlr bey der Räumung des Pand¬\nschillingsbesitzers von Radzinski demselben, und 4000 rthlr bey\nAcceptation dieses Contracts aus Hochfürstliche Dominium gezahlt\nwerden sollen; zu welchem Kauf Pretio annoch ein fortbestehen¬\nder Canon von 1/2 rt pro Morgen jährl. und folglich 500 rt.\nfür die obbenannte Grundstücke alljährlich an Canon zu Dominium zu\nentrichten sind.",
+   "transcription": "Kund und zu wissen, daß zwischen dem Bevollmächtigten Sr des\nregierenden Herrn Fürsten zu Hohenlohe Ingelfingen Hochfürstlichen\nDurchlaucht, dem Bau, und Oeconomie Rath Johann Wilhelm Glenck\neiner - und dem Mahl Müller Samuel Lucke Besitzer der Mahl Mühle\nBiałobrzeg bey Wrąbczynek andererseits, unter Vorbehalt hoch\nster Fürstlicher Ratification nachfolgender Kauff Contract, unter\nnachstehenden Conditionen wohlbedächtig verabredet und geschlossen\nworden.\nEs verkauffet\n1mo, gedachter Bevollmächtigte das Hochfürstliche Gut Szetlewek\nbey Trąbczyn mit dessen hierzugehörigen Feldern von Eintausend\nMorgen Magdeburgisch Maaß Vorwerks Feld in nachfolgender\nGroße und Benennung, worüber eine Charte und Vermessungs\nRegister vorhanden ist, als,\n459 Morgen Ackerfeld in 3 Flure\n109 do - Wiesen\n19 5/8 do — Gärten\n380 do zu rödende Felder.\n32 3/8 do bestandenen Wald.\n= 1000 Morgen Magdeb. in Summa.\nnebst\n§ 2, sämmtlichen Vorwerksgebäuden, welche bestehen in 1 Herrschafft-\nlichen Wohnhauß, 4 Scheunen, 4 Ställen, 1 Schüttboden und\nandern zugehörigen (ausgenommen der Brau und Brennerey, als\nwelche unter der in Rubrique II begriffen ist) zum freien beständ-\ndigen Eigenthum.\nwofür\n§ 3, der Käufer eine baare Summe von 12333 rthlr zu bezahlen\nverspricht die mit 8333 rthlr bey der Räumung des Pand-\nschillingsbesitzers von Radzinski demselben, und 4000 rthlr bey\nAcceptation dieses Contracts aus Hochfürstliche Dominium gezahlt\nwerden sollen; zu welchem Kauf Pretio annoch ein fortbestehen-\nder Canon von 1/2 rt pro Morgen jährl. und folglich 500 rt.\nfür die obbenannte Grundstücke alljährlich an Canon zu Dominium zu\nentrichten sind.",
+   "reading": "Kund und zu wissen, daß zwischen dem Bevollmächtigten Sr des regierenden Herrn Fürsten zu Hohenlohe Ingelfingen Hochfürstlichen Durchlaucht, dem Bau, und Oeconomie Rath Johann Wilhelm Glenck einer - und dem Mahl Müller Samuel Lucke Besitzer der Mahl Mühle Białobrzeg bey Wrąbczynek andererseits, unter Vorbehalt hoch ster Fürstlicher Ratification nachfolgender Kauff Contract, unter nachstehenden Conditionen wohlbedächtig verabredet und geschlossen worden.\n\nEs verkauffet\n\n1mo, gedachter Bevollmächtigte das Hochfürstliche Gut Szetlewek bey Trąbczyn mit dessen hierzugehörigen Feldern von Eintausend Morgen Magdeburgisch Maaß Vorwerks Feld in nachfolgender Große und Benennung, worüber eine Charte und Vermessungs Register vorhanden ist, als,\n\n459 Morgen Ackerfeld in 3 Flure\n\n109 do - Wiesen\n\n19 5/8 do — Gärten\n\n380 do zu rödende Felder.\n\n32 3/8 do bestandenen Wald.\n\n= 1,000 Morgen Magdeb. in Summa.\n\nnebst\n\n§ 2, sämmtlichen Vorwerksgebäuden, welche bestehen in 1 Herrschafftlichen Wohnhauß, 4 Scheunen, 4 Ställen, 1 Schüttboden und andern zugehörigen (ausgenommen der Brau und Brennerey, als welche unter der in Rubrique II begriffen ist) zum freien beständdigen Eigenthum.\n\nwofür\n\n§ 3, der Käufer eine baare Summe von 12,333 rthlr zu bezahlen verspricht die mit 8,333 rthlr bey der Räumung des Pandschillingsbesitzers von Radzinski demselben, und 4,000 rthlr bey Acceptation dieses Contracts aus Hochfürstliche Dominium gezahlt werden sollen; zu welchem Kauf Pretio annoch ein fortbestehender Canon von 1/2 rt pro Morgen jährl. und folglich 500 rt. für die obbenannte Grundstücke alljährlich an Canon zu Dominium zu entrichten sind.",
    "paragraphs": [
-    "Von Gottes Gnaden Friedrich Wilhelm König von Preußen Unsere Freundschaft, Königliche Gnade und guten Willen zuvor Hochgebohrner Fürst, besonders Lieber Freund und Lieber Getreuer! Im Verfolg der Ewr. Liebden, auf das unterm 31sten December v. J. angebrachte Gesuch um die Erlaubniß zur Verabpachtung der Herrschaft Betsche an die dortige Bürgerschaft und die übrigen ländlichen Einsaßen, am 5ten Februar d. J. gewordenen Bekanntmachung, laßen Wir Ewr. Liebden mit Rückgabe des eingereichten Erbpachts Contracts auf den Grund des in Gemäßheit einer Allerhöchsten Cabinets-Resolution vom 11ten v. M. an Unsere Cammer ergangenen Rescripts Unsers SüdPreußl. Finanz Departement vom 15ten v. M. hierdurch zum Bescheide geben, daß die in Rede stehende Vererbpachtung ganz unzuläßig befunden worden ist, und Ewr. Liebden der dazu nachgesuchte Consens nicht ertheilt werden kann, denn 1tens würden, wenn Ewr. Liebden dieser Consens nicht versagt worden wäre, mehrere Grundherrschaften ähnliche Anträge wagen, und dadurch die Besitzungen des in hiesiger Provinz so zahlreichen Adels auf deßen Conservation Bedacht genommen werden muß, vermindert und demselben die Gelegenheiten zu Güter Acquisitionen benommen werden. Falls indeß auch dieses erhebliche Hinderniß in Ewr. Liebden Vorhaben nicht schon entgegen stünde, so würde die mehrerwähnte Verabpachtung nicht genehmiget"
+    "Kund und zu wissen, daß zwischen dem Bevollmächtigten Sr des regierenden Herrn Fürsten zu Hohenlohe Ingelfingen Hochfürstlichen Durchlaucht, dem Bau, und Oeconomie Rath Johann Wilhelm Glenck einer - und dem Mahl Müller Samuel Lucke Besitzer der Mahl Mühle Białobrzeg bey Wrąbczynek andererseits, unter Vorbehalt hoch ster Fürstlicher Ratification nachfolgender Kauff Contract, unter nachstehenden Conditionen wohlbedächtig verabredet und geschlossen worden.",
+    "Es verkauffet",
+    "1mo, gedachter Bevollmächtigte das Hochfürstliche Gut Szetlewek bey Trąbczyn mit dessen hierzugehörigen Feldern von Eintausend Morgen Magdeburgisch Maaß Vorwerks Feld in nachfolgender Große und Benennung, worüber eine Charte und Vermessungs Register vorhanden ist, als,",
+    "459 Morgen Ackerfeld in 3 Flure",
+    "109 do - Wiesen",
+    "19 5/8 do — Gärten",
+    "380 do zu rödende Felder.",
+    "32 3/8 do bestandenen Wald.",
+    "= 1,000 Morgen Magdeb. in Summa.",
+    "nebst",
+    "§ 2, sämmtlichen Vorwerksgebäuden, welche bestehen in 1 Herrschafftlichen Wohnhauß, 4 Scheunen, 4 Ställen, 1 Schüttboden und andern zugehörigen (ausgenommen der Brau und Brennerey, als welche unter der in Rubrique II begriffen ist) zum freien beständdigen Eigenthum.",
+    "wofür",
+    "§ 3, der Käufer eine baare Summe von 12,333 rthlr zu bezahlen verspricht die mit 8,333 rthlr bey der Räumung des Pandschillingsbesitzers von Radzinski demselben, und 4,000 rthlr bey Acceptation dieses Contracts aus Hochfürstliche Dominium gezahlt werden sollen; zu welchem Kauf Pretio annoch ein fortbestehender Canon von 1/2 rt pro Morgen jährl. und folglich 500 rt. für die obbenannte Grundstücke alljährlich an Canon zu Dominium zu entrichten sind."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
-   "para_lines": [],
-   "scan": "Oe_1_Bu_14526_0154_a2-L24_01.jpg",
+   "para_lines": [
+    8,
+    9,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    26,
+    27
+   ],
+   "scan": "Oe_1_Bu_14526_0156_a2-L24_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 26
+   "doc_line_end": 35
   },
   {
    "page": 2,
-   "page_id": "0155_a1",
-   "line_start": 7666,
-   "line_end": 7700,
-   "n_lines": 35,
-   "diplomatic": "werden können, weil\n2tens die zweckmäßige Bewirthschaftung der Betscher\nForst, welche, da diese Forst die einzige beträchtliche\nin der dortigen Gegend ist, alle Rücksicht verdient, nicht\nstatt finden könnte, indem, wenn den Erbpächtern d.\nfreye Benutzung überlaßen wird, auch die beste Aufsicht\ndie Devastation nicht ganz verhütten könnte,\n3tens ist hierbey auch noch der Umstand zu erwägen\ndaß wenn Ewr. Liebden Antrage deferirt würde\ndie von den Einsaßen in Erbpacht zu nehmenden\nLändereyen nicht einmal ordnungsmäßig bewirth\nschaftet werden könnten, da jeder Einsaße und\nauch jeder Bürger der Stadt Betsche so viel an Land\nbesitzt als er zu einer ordentlichen Bewirthschaft\nnöthig hat über dem aber, in Absicht der Bürger\ndahin zu sehen ist, daß sie sich mehr auf den Betrie¬\nstädtischer Gewerbe als den des Ackerbaues lege\ndie mehrsten Einsaßen über dieß zu unbemittel¬\nsind, um die zur Bewirthschaftung erforderlichen\nGeldsummen aufbringen zu können. Sind Ewr\nLiebden, mit Freundschaft, Königlichen Gnade und\ngutem Willen, wohlbeygethan.\nPosen den 18ten May 1805\nKönigl. SüdPreuß. Krieges und Domainen Cammer\n[G?] v Köller\nAn\nDen Regierenden Fürsten\nzu Hohenlohe Ingelfingen\nLiebden, General Lieutenant\nder Infanterie und Gouverneur\nder Residenz Breslau Chef eines\nRegiments zu Fuß auch des schwarzen\nund rothen Adler Ordens Ritter zu Breslau\n434 R. Anno\nRaeder[?]",
-   "transcription": "werden können, weil\n2tens die zweckmäßige Bewirthschaftung der Betscher\nForst, welche, da diese Forst die einzige beträchtliche\nin der dortigen Gegend ist, alle Rücksicht verdient, nicht\nstatt finden könnte, indem, wenn den Erbpächtern d.\nfreye Benutzung überlaßen wird, auch die beste Aufsicht\ndie Devastation nicht ganz verhütten könnte,\n3tens ist hierbey auch noch der Umstand zu erwägen\ndaß wenn Ewr. Liebden Antrage deferirt würde\ndie von den Einsaßen in Erbpacht zu nehmenden\nLändereyen nicht einmal ordnungsmäßig bewirth\nschaftet werden könnten, da jeder Einsaße und\nauch jeder Bürger der Stadt Betsche so viel an Land\nbesitzt als er zu einer ordentlichen Bewirthschaft\nnöthig hat über dem aber, in Absicht der Bürger\ndahin zu sehen ist, daß sie sich mehr auf den Betrie-\nstädtischer Gewerbe als den des Ackerbaues lege\ndie mehrsten Einsaßen über dieß zu unbemittel-\nsind, um die zur Bewirthschaftung erforderlichen\nGeldsummen aufbringen zu können. Sind Ewr\nLiebden, mit Freundschaft, Königlichen Gnade und\ngutem Willen, wohlbeygethan.\nPosen den 18ten May 1805\nKönigl. SüdPreuß. Krieges und Domainen Cammer\n[G?] v Köller\nAn\nDen Regierenden Fürsten\nzu Hohenlohe Ingelfingen\nLiebden, General Lieutenant\nder Infanterie und Gouverneur\nder Residenz Breslau Chef eines\nRegiments zu Fuß auch des schwarzen\nund rothen Adler Ordens Ritter zu Breslau\n434 R. Anno\nRaeder[?]",
-   "reading": "werden können, weil 2tens die zweckmäßige Bewirthschaftung der Betscher Forst, welche, da diese Forst die einzige beträchtliche in der dortigen Gegend ist, alle Rücksicht verdient, nicht statt finden könnte, indem, wenn den Erbpächtern d. freye Benutzung überlaßen wird, auch die beste Aufsicht die Devastation nicht ganz verhütten könnte, 3tens ist hierbey auch noch der Umstand zu erwägen daß wenn Ewr. Liebden Antrage deferirt würde die von den Einsaßen in Erbpacht zu nehmenden Ländereyen nicht einmal ordnungsmäßig bewirth schaftet werden könnten, da jeder Einsaße und auch jeder Bürger der Stadt Betsche so viel an Land besitzt als er zu einer ordentlichen Bewirthschaft nöthig hat über dem aber, in Absicht der Bürger dahin zu sehen ist, daß sie sich mehr auf den Betriestädtischer Gewerbe als den des Ackerbaues lege die mehrsten Einsaßen über dieß zu unbemittelsind, um die zur Bewirthschaftung erforderlichen Geldsummen aufbringen zu können. Sind Ewr Liebden, mit Freundschaft, Königlichen Gnade und gutem Willen, wohlbeygethan.\n\nPosen den 18ten May 1805 Königl. SüdPreuß. Krieges und Domainen Cammer [G?] v Köller\n\nAn\n\nDen Regierenden Fürsten\n\nzu Hohenlohe Ingelfingen\n\nLiebden, General Lieutenant\n\nder Infanterie und Gouverneur\n\nder Residenz Breslau Chef eines Regiments zu Fuß auch des schwarzen und rothen Adler Ordens Ritter zu Breslau 434 R. Anno\n\nRaeder[?]",
+   "page_id": "0157_a1",
+   "line_start": 7738,
+   "line_end": 7768,
+   "n_lines": 31,
+   "diplomatic": "da\n4tens die Käuffer nicht hinreichende Wohnung für ihre viele Besitz\nnehmen erhalten; so bedingt er sich annoch zum Aufbauen der\nmehrern Wohnungen aus den fürstlichen Waldungen folgendes Kiefe¬\nBau Holz als\n60 Rud Säge blöcke von mittler Art a 10 Rtlr[?], mit dem Abholz\n80 Tannen stark Bauholz zu Balken\n200 do mittel Riegel[?]\n450 do schwaches Sparren\n160 Klafter Holz zum Ziegelbrennen, und Flachwerk decken\nnebst\n§5, freien, Raff und Lager Holz in Trąbczyner Wald nach Königlicher\nForstOrdnung.\nRubrique II,\ndie zu diesem Vorwerk und dorff gehörige Propination, das vor\nhandene Brauhauff und Brennerey erhalten, Käufere gleichfalls a\nein anerkaufftes Eigenthum gegen einen jährlichen Zinß von 400\nso wie diese Pertinenz dem Herrn Fürsten zustehet.\nRubrique III,\nAusgenommen sind die Dienste der Dorffs Unterthanen, welche nicht an\nin den Kauff gegeben werden; sondern deren Freylaßung von dienst\ndem Dominio vorbehalten bleibt, als welches bereits dem Wunsch\nder Dienstbaren zu begegnen, sich bereit erklärt hat.\n§6, Die Käufer tragen die Königl. Abgaben und Onera u stehen fort hin\nunter der Gerichtsbarkeit des Hochfürstlichen Dominii.\n§7, Da der Käufer das Gut nicht für sich allein zu bestreiten im\nStande ist, sondern in Verbindung mehrerer Kauflustigen stehet, als\nderen Genehmigung er die Unterschrifften einsammlen will; so be¬\ndingt sich derselbe 14 Tage biß 4 Wochen Zeit, ehe und bevor\neine gerichtliche Begründung dieses Contracts vor sich gehen könne.\nVorstehender Contract ist in duplo ausgefertiget, und von beeden Theilen",
+   "transcription": "da\n4tens die Käuffer nicht hinreichende Wohnung für ihre viele Besitz\nnehmen erhalten; so bedingt er sich annoch zum Aufbauen der\nmehrern Wohnungen aus den fürstlichen Waldungen folgendes Kiefe-\nBau Holz als\n60 Rud Säge blöcke von mittler Art a 10 Rtlr[?], mit dem Abholz\n80 Tannen stark Bauholz zu Balken\n200 do mittel Riegel[?]\n450 do schwaches Sparren\n160 Klafter Holz zum Ziegelbrennen, und Flachwerk decken\nnebst\n§5, freien, Raff und Lager Holz in Trąbczyner Wald nach Königlicher\nForstOrdnung.\nRubrique II,\ndie zu diesem Vorwerk und dorff gehörige Propination, das vor\nhandene Brauhauff und Brennerey erhalten, Käufere gleichfalls a\nein anerkaufftes Eigenthum gegen einen jährlichen Zinß von 400\nso wie diese Pertinenz dem Herrn Fürsten zustehet.\nRubrique III,\nAusgenommen sind die Dienste der Dorffs Unterthanen, welche nicht an\nin den Kauff gegeben werden; sondern deren Freylaßung von dienst\ndem Dominio vorbehalten bleibt, als welches bereits dem Wunsch\nder Dienstbaren zu begegnen, sich bereit erklärt hat.\n§6, Die Käufer tragen die Königl. Abgaben und Onera u stehen fort hin\nunter der Gerichtsbarkeit des Hochfürstlichen Dominii.\n§7, Da der Käufer das Gut nicht für sich allein zu bestreiten im\nStande ist, sondern in Verbindung mehrerer Kauflustigen stehet, als\nderen Genehmigung er die Unterschrifften einsammlen will; so be-\ndingt sich derselbe 14 Tage biß 4 Wochen Zeit, ehe und bevor\neine gerichtliche Begründung dieses Contracts vor sich gehen könne.\nVorstehender Contract ist in duplo ausgefertiget, und von beeden Theilen",
+   "reading": "da 4tens die Käuffer nicht hinreichende Wohnung für ihre viele Besitz nehmen erhalten; so bedingt er sich annoch zum Aufbauen der mehrern Wohnungen aus den fürstlichen Waldungen folgendes KiefeBau Holz als 60 Rud Säge blöcke von mittler Art a 10 Rtlr[?], mit dem Abholz 80 Tannen stark Bauholz zu Balken\n\n200 do mittel Riegel[?]\n\n450 do schwaches Sparren 160 Klafter Holz zum Ziegelbrennen, und Flachwerk decken nebst\n\n§5, freien, Raff und Lager Holz in Trąbczyner Wald nach Königlicher ForstOrdnung.\n\nRubrique II, die zu diesem Vorwerk und dorff gehörige Propination, das vor handene Brauhauff und Brennerey erhalten, Käufere gleichfalls a ein anerkaufftes Eigenthum gegen einen jährlichen Zinß von 400 so wie diese Pertinenz dem Herrn Fürsten zustehet. Rubrique III, Ausgenommen sind die Dienste der Dorffs Unterthanen, welche nicht an in den Kauff gegeben werden; sondern deren Freylaßung von dienst dem Dominio vorbehalten bleibt, als welches bereits dem Wunsch der Dienstbaren zu begegnen, sich bereit erklärt hat.\n\n§6, Die Käufer tragen die Königl. Abgaben und Onera u stehen fort hin unter der Gerichtsbarkeit des Hochfürstlichen Dominii.\n\n§7, Da der Käufer das Gut nicht für sich allein zu bestreiten im Stande ist, sondern in Verbindung mehrerer Kauflustigen stehet, als deren Genehmigung er die Unterschrifften einsammlen will; so bedingt sich derselbe 14 Tage biß 4 Wochen Zeit, ehe und bevor eine gerichtliche Begründung dieses Contracts vor sich gehen könne. Vorstehender Contract ist in duplo ausgefertiget, und von beeden Theilen",
    "paragraphs": [
-    "werden können, weil 2tens die zweckmäßige Bewirthschaftung der Betscher Forst, welche, da diese Forst die einzige beträchtliche in der dortigen Gegend ist, alle Rücksicht verdient, nicht statt finden könnte, indem, wenn den Erbpächtern d. freye Benutzung überlaßen wird, auch die beste Aufsicht die Devastation nicht ganz verhütten könnte, 3tens ist hierbey auch noch der Umstand zu erwägen daß wenn Ewr. Liebden Antrage deferirt würde die von den Einsaßen in Erbpacht zu nehmenden Ländereyen nicht einmal ordnungsmäßig bewirth schaftet werden könnten, da jeder Einsaße und auch jeder Bürger der Stadt Betsche so viel an Land besitzt als er zu einer ordentlichen Bewirthschaft nöthig hat über dem aber, in Absicht der Bürger dahin zu sehen ist, daß sie sich mehr auf den Betriestädtischer Gewerbe als den des Ackerbaues lege die mehrsten Einsaßen über dieß zu unbemittelsind, um die zur Bewirthschaftung erforderlichen Geldsummen aufbringen zu können. Sind Ewr Liebden, mit Freundschaft, Königlichen Gnade und gutem Willen, wohlbeygethan.",
-    "Posen den 18ten May 1805 Königl. SüdPreuß. Krieges und Domainen Cammer [G?] v Köller",
-    "An",
-    "Den Regierenden Fürsten",
-    "zu Hohenlohe Ingelfingen",
-    "Liebden, General Lieutenant",
-    "der Infanterie und Gouverneur",
-    "der Residenz Breslau Chef eines Regiments zu Fuß auch des schwarzen und rothen Adler Ordens Ritter zu Breslau 434 R. Anno",
-    "Raeder[?]"
+    "da 4tens die Käuffer nicht hinreichende Wohnung für ihre viele Besitz nehmen erhalten; so bedingt er sich annoch zum Aufbauen der mehrern Wohnungen aus den fürstlichen Waldungen folgendes KiefeBau Holz als 60 Rud Säge blöcke von mittler Art a 10 Rtlr[?], mit dem Abholz 80 Tannen stark Bauholz zu Balken",
+    "200 do mittel Riegel[?]",
+    "450 do schwaches Sparren 160 Klafter Holz zum Ziegelbrennen, und Flachwerk decken nebst",
+    "§5, freien, Raff und Lager Holz in Trąbczyner Wald nach Königlicher ForstOrdnung.",
+    "Rubrique II, die zu diesem Vorwerk und dorff gehörige Propination, das vor handene Brauhauff und Brennerey erhalten, Käufere gleichfalls a ein anerkaufftes Eigenthum gegen einen jährlichen Zinß von 400 so wie diese Pertinenz dem Herrn Fürsten zustehet. Rubrique III, Ausgenommen sind die Dienste der Dorffs Unterthanen, welche nicht an in den Kauff gegeben werden; sondern deren Freylaßung von dienst dem Dominio vorbehalten bleibt, als welches bereits dem Wunsch der Dienstbaren zu begegnen, sich bereit erklärt hat.",
+    "§6, Die Käufer tragen die Königl. Abgaben und Onera u stehen fort hin unter der Gerichtsbarkeit des Hochfürstlichen Dominii.",
+    "§7, Da der Käufer das Gut nicht für sich allein zu bestreiten im Stande ist, sondern in Verbindung mehrerer Kauflustigen stehet, als deren Genehmigung er die Unterschrifften einsammlen will; so bedingt sich derselbe 14 Tage biß 4 Wochen Zeit, ehe und bevor eine gerichtliche Begründung dieses Contracts vor sich gehen könne. Vorstehender Contract ist in duplo ausgefertiget, und von beeden Theilen"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": true,
+   "para_lines": [
+    7,
+    8,
+    11,
+    13,
+    23,
+    25
+   ],
+   "scan": "Oe_1_Bu_14526_0157_a1-L24_02.jpg",
+   "doc_line_start": 36,
+   "doc_line_end": 66
+  },
+  {
+   "page": 3,
+   "page_id": "0157_a2",
+   "line_start": 7770,
+   "line_end": 7776,
+   "n_lines": 7,
+   "diplomatic": "gesiegelt und unterschrieben worden.\nSo geschehen Zagorowo den 1ten Octbr 1798.\nJohann Wilhelm Glenck, Hochfürstlich Hohen¬\nlohe Ingelfingischer Bau und Oeconomie Rath und\nBevollmächtigter.\nSamuel Lucke Mahl Müller\nals Zeuge Johan Lindner.",
+   "transcription": "gesiegelt und unterschrieben worden.\nSo geschehen Zagorowo den 1ten Octbr 1798.\nJohann Wilhelm Glenck, Hochfürstlich Hohen-\nlohe Ingelfingischer Bau und Oeconomie Rath und\nBevollmächtigter.\nSamuel Lucke Mahl Müller\nals Zeuge Johan Lindner.",
+   "reading": "gesiegelt und unterschrieben worden.\n\nSo geschehen Zagorowo den 1ten Octbr 1798. Johann Wilhelm Glenck, Hochfürstlich Hohenlohe Ingelfingischer Bau und Oeconomie Rath und Bevollmächtigter.\n\nSamuel Lucke Mahl Müller\n\nals Zeuge Johan Lindner.",
+   "paragraphs": [
+    "gesiegelt und unterschrieben worden.",
+    "So geschehen Zagorowo den 1ten Octbr 1798. Johann Wilhelm Glenck, Hochfürstlich Hohenlohe Ingelfingischer Bau und Oeconomie Rath und Bevollmächtigter.",
+    "Samuel Lucke Mahl Müller",
+    "als Zeuge Johan Lindner."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
    "para_lines": [
-    22,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30,
-    34
+    1,
+    5,
+    6
    ],
-   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
-   "doc_line_start": 27,
-   "doc_line_end": 61
+   "scan": "Oe_1_Bu_14526_0157_a2-L24_03.jpg",
+   "doc_line_start": 67,
+   "doc_line_end": 73
   }
  ],
  "mentions": [
   {
-   "entity": "friedrich-wilhelm-iii",
-   "display": "Friedrich Wilhelm III, King of Prussia",
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
    "kind": "person",
-   "surface": "Friedrich Wilhelm",
+   "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "0154_a2",
-   "scan": "Oe_1_Bu_14526_0154_a2-L24_01.jpg",
-   "line": 7639,
-   "doc_line": 1
+   "page_id": "0156_a2",
+   "scan": "Oe_1_Bu_14526_0156_a2-L24_01.jpg",
+   "line": 7703,
+   "doc_line": 2
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface": "Glenck",
+   "page": 1,
+   "page_id": "0156_a2",
+   "scan": "Oe_1_Bu_14526_0156_a2-L24_01.jpg",
+   "line": 7704,
+   "doc_line": 3
+  },
+  {
+   "entity": "radzinski",
+   "display": "Ignatz von Radzinski",
+   "kind": "person",
+   "surface": "Radzinski",
+   "page": 1,
+   "page_id": "0156_a2",
+   "scan": "Oe_1_Bu_14526_0156_a2-L24_01.jpg",
+   "line": 7731,
+   "doc_line": 30
+  },
+  {
+   "entity": "glenck",
+   "display": "Glenck",
+   "kind": "person",
+   "surface": "Glenck",
+   "page": 3,
+   "page_id": "0157_a2",
+   "scan": "Oe_1_Bu_14526_0157_a2-L24_03.jpg",
+   "line": 7772,
+   "doc_line": 69
   },
   {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
    "surface": "Hohenlohe",
-   "page": 2,
-   "page_id": "0155_a1",
-   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
-   "line": 7693,
-   "doc_line": 54
+   "page": 3,
+   "page_id": "0157_a2",
+   "scan": "Oe_1_Bu_14526_0157_a2-L24_03.jpg",
+   "line": 7772,
+   "doc_line": 69
   }
  ],
  "mentions_english": [
-  {
-   "entity": "",
-   "display": "Friedrich Wilhelm, King of Prussia",
-   "kind": "person",
-   "surface_de": "Friedrich Wilhelm König von Preußen",
-   "surface_en": "Friedrich Wilhelm, King of Prussia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prussia",
-   "kind": "place",
-   "surface_de": "Preußen",
-   "surface_en": "Prussia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Pszczew",
-   "kind": "place",
-   "surface_de": "Betsche",
-   "surface_en": "Pszczew",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "South Prussian",
-   "kind": "place",
-   "surface_de": "SüdPreußl.",
-   "surface_en": "South Prussian",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Pszczew forest",
-   "kind": "place",
-   "surface_de": "Betscher Forst",
-   "surface_en": "Pszczew forest",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Pszczew",
-   "kind": "place",
-   "surface_de": "Betsche",
-   "surface_en": "Pszczew",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Poznań",
-   "kind": "place",
-   "surface_de": "Posen",
-   "surface_en": "Poznań",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "South Prussian",
-   "kind": "place",
-   "surface_de": "SüdPreuß.",
-   "surface_en": "South Prussian",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "v. Köller",
-   "kind": "person",
-   "surface_de": "v Köller",
-   "surface_en": "v. Köller",
-   "page": 2
-  },
   {
    "entity": "",
    "display": "Hohenlohe-Ingelfingen",
    "kind": "other",
    "surface_de": "Hohenlohe Ingelfingen",
    "surface_en": "Hohenlohe-Ingelfingen",
-   "page": 2
+   "page": 1
   },
   {
    "entity": "",
-   "display": "Wrocław",
-   "kind": "place",
-   "surface_de": "Breslau",
-   "surface_en": "Wrocław",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Raeder",
+   "display": "Johann Wilhelm Glenck",
    "kind": "person",
-   "surface_de": "Raeder[?]",
-   "surface_en": "Raeder",
+   "surface_de": "Johann Wilhelm Glenck",
+   "surface_en": "Johann Wilhelm Glenck",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Samuel Lucke",
+   "kind": "person",
+   "surface_de": "Samuel Lucke",
+   "surface_en": "Samuel Lucke",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Białobrzeg",
+   "kind": "place",
+   "surface_de": "Białobrzeg",
+   "surface_en": "Białobrzeg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Wrąbczynek",
+   "kind": "place",
+   "surface_de": "Wrąbczynek",
+   "surface_en": "Wrąbczynek",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface_de": "Szetlewek",
+   "surface_en": "Szetlewek",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Magdeburg",
+   "kind": "place",
+   "surface_de": "Magdeburgisch",
+   "surface_en": "Magdeburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Magdeb.",
+   "kind": "place",
+   "surface_de": "Magdeb.",
+   "surface_en": "Magdeb.",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "von Radzinski",
+   "kind": "person",
+   "surface_de": "von Radzinsky",
+   "surface_en": "von Radzinski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn forest",
+   "kind": "place",
+   "surface_de": "Trąbczyner Wald",
+   "surface_en": "Trąbczyn forest",
    "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Zagórów",
+   "kind": "place",
+   "surface_de": "Zagorowo",
+   "surface_en": "Zagórów",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Johann Wilhelm Glenck",
+   "kind": "person",
+   "surface_de": "Johann Wilhelm Glenck",
+   "surface_en": "Johann Wilhelm Glenck",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "other",
+   "surface_de": "Hohenlohe Ingelfingischer",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Samuel Lucke",
+   "kind": "person",
+   "surface_de": "Samuel Lucke",
+   "surface_en": "Samuel Lucke",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Johan Lindner",
+   "kind": "person",
+   "surface_de": "Johan Lindner",
+   "surface_en": "Johan Lindner",
+   "page": 3
   }
  ],
- "place_canonical": "Posen",
+ "place_canonical": "Zagórów",
  "place_mentions": [
   {
-   "entity": "betsche",
-   "display": "Pszczew (Betsche)",
+   "entity": "bialobrzeg",
+   "display": "Białobrzeg",
    "kind": "place",
-   "surface": "Betsche",
+   "surface": "Białobrzeg",
    "page": 1,
-   "page_id": "0154_a2",
-   "scan": "Oe_1_Bu_14526_0154_a2-L24_01.jpg",
-   "line": 7644,
-   "doc_line": 6
+   "page_id": "0156_a2",
+   "scan": "Oe_1_Bu_14526_0156_a2-L24_01.jpg",
+   "line": 7706,
+   "doc_line": 5
   },
   {
-   "entity": "betsche",
-   "display": "Pszczew (Betsche)",
+   "entity": "wrabczynek",
+   "display": "Wrąbczynek",
    "kind": "place",
-   "surface": "Betscher",
-   "page": 2,
-   "page_id": "0155_a1",
-   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
-   "line": 7667,
-   "doc_line": 28
+   "surface": "Wrąbczynek",
+   "page": 1,
+   "page_id": "0156_a2",
+   "scan": "Oe_1_Bu_14526_0156_a2-L24_01.jpg",
+   "line": 7706,
+   "doc_line": 5
   },
   {
-   "entity": "betsche",
-   "display": "Pszczew (Betsche)",
+   "entity": "szetlewek",
+   "display": "Szetlewek",
    "kind": "place",
-   "surface": "Betsche",
-   "page": 2,
-   "page_id": "0155_a1",
-   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
-   "line": 7678,
-   "doc_line": 39
+   "surface": "Szetlewek",
+   "page": 1,
+   "page_id": "0156_a2",
+   "scan": "Oe_1_Bu_14526_0156_a2-L24_01.jpg",
+   "line": 7711,
+   "doc_line": 10
   },
   {
-   "entity": "posen",
-   "display": "Poznań (Posen)",
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Posen",
-   "page": 2,
-   "page_id": "0155_a1",
-   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
-   "line": 7688,
-   "doc_line": 49
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0156_a2",
+   "scan": "Oe_1_Bu_14526_0156_a2-L24_01.jpg",
+   "line": 7712,
+   "doc_line": 11
   },
   {
-   "entity": "breslau",
-   "display": "Wrocław (Breslau)",
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Breslau",
+   "surface": "Trąbczyner",
    "page": 2,
-   "page_id": "0155_a1",
-   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
-   "line": 7696,
-   "doc_line": 57
+   "page_id": "0157_a1",
+   "scan": "Oe_1_Bu_14526_0157_a1-L24_02.jpg",
+   "line": 7749,
+   "doc_line": 47
   },
   {
-   "entity": "breslau",
-   "display": "Wrocław (Breslau)",
+   "entity": "zagorowo",
+   "display": "Zagórów (Zagorowo)",
    "kind": "place",
-   "surface": "Breslau",
-   "page": 2,
-   "page_id": "0155_a1",
-   "scan": "Oe_1_Bu_14526_0155_a1-L24_02.jpg",
-   "line": 7698,
-   "doc_line": 59
+   "surface": "Zagorowo",
+   "page": 3,
+   "page_id": "0157_a2",
+   "scan": "Oe_1_Bu_14526_0157_a2-L24_03.jpg",
+   "line": 7771,
+   "doc_line": 68
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our friendship, royal grace and good will beforehand, High-born Prince, particularly dear Friend and dear Faithful Subject! In pursuance of the notification issued on the 5th of February of this year upon Your Lordship's petition submitted on the 31st of December of last year for permission to let out the lordship of Pszczew on lease to the burgesses there and the remaining rural residents, We hereby give Your Lordship, with the return of the hereditary-lease contract submitted, upon the ground of the rescript of Our South Prussian Finance Department of the 15th of last month issued to Our Chamber in conformity with a Most High Cabinet Resolution of the 11th of last month, the following decision: that the hereditary letting in question has been found wholly inadmissible, and that the consent sought thereto cannot be granted to Your Lordship; for, firstly, if this consent had not been refused Your Lordship, several landed lordships would venture similar applications, and thereby the possessions of the nobility, which is so numerous in this province and upon whose conservation regard must be had, would be diminished, and the opportunities for the acquisition of estates would be taken from it. Even if, however, this considerable obstacle did not already stand in the way of Your Lordship's design, the aforementioned letting could not be approved",
+   "en": "Be it known and made known, that between the authorised representative of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the councillor of building and economy Johann Wilhelm Glenck on the one part - and the grain miller Samuel Lucke, possessor of the grain mill Białobrzeg near Wrąbczynek on the other part, subject to reservation of the most high princely ratification, the following contract of sale has been deliberately agreed and concluded under the conditions set out below.\n\nThere is sold\n\n1mo, by the said authorised representative, the most princely estate of Szetlewek near Trąbczyn together with the fields belonging thereto, of one thousand Morgen Magdeburg measure of demesne-farm field, in the following extent and designation, of which a map and survey register are on hand, namely,\n\n459 Morgen of arable field in 3 open fields\n\n109 do - meadows\n\n19 5/8 do — gardens\n\n380 do fields to be cleared.\n\n32 3/8 do standing woodland.\n\n= 1,000 Morgen Magdeb. in sum.\n\ntogether with\n\n§ 2, all the demesne-farm buildings, which consist of 1 manorial dwelling house, 4 barns, 4 stables, 1 granary floor and other appurtenances (excepting the brewery and distillery, as being comprised under Rubric II), as free and permanent property.\n\nfor which\n\n§ 3, the purchaser promises to pay a cash sum of 12,333 Rthl, which are to be paid, with 8,333 Rthl to the pledge-money possessor von Radzinski upon his vacating the premises, and 4,000 Rthl upon acceptance of this contract out of the most princely manorial lordship (Dominium); to which purchase price there is further to be rendered annually to the manorial lordship a continuing canon of 1/2 Rthl per Morgen yearly, and consequently 500 Rthl for the above-named parcels of land.",
    "names": [
-    {
-     "de": "Friedrich Wilhelm König von Preußen",
-     "en": "Friedrich Wilhelm, King of Prussia",
-     "kind": "person"
-    },
-    {
-     "de": "Preußen",
-     "en": "Prussia",
-     "kind": "place"
-    },
-    {
-     "de": "Betsche",
-     "en": "Pszczew",
-     "kind": "place"
-    },
-    {
-     "de": "SüdPreußl.",
-     "en": "South Prussian",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "31sten",
-    "5ten",
-    "11ten",
-    "15ten",
-    "1tens",
-    "2tens"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "because, secondly, the appropriate management of the Pszczew forest — which, since this forest is the only considerable one in that district, merits every regard — could not take place, inasmuch as, if free use of it were left to the hereditary lessees, even the best supervision could not wholly prevent its devastation; thirdly, there is also this circumstance to be weighed, that if Your Lordship's application were deferred to, the lands to be taken in hereditary lease by the residents could not even be managed in an orderly fashion, since every resident, and likewise every burgess of the town of Pszczew, possesses as much land as he requires for a proper husbandry; and moreover, as regards the burgesses, care is to be taken that they apply themselves rather to the pursuit of urban trades than to that of agriculture, most of the residents being besides too lacking in means to be able to raise the sums of money required for the management. In which We remain well disposed toward Your Lordship with friendship, royal grace and good will.\n\nPoznań, the 18th of May 1805. Royal South Prussian War and Domains Chamber [uncertain: G] v. Köller\n\nTo\n\nThe Reigning Prince\n\nof Hohenlohe-Ingelfingen,\n\nYour Lordship, Lieutenant-General\n\nof Infantry and Governor\n\nof the Residence of Wrocław, Chief of a Regiment of Foot, also Knight of the Order of the Black and of the Red Eagle, at Wrocław 434 R. Anno\n\nRaeder[uncertain: Raeder]",
-   "names": [
-    {
-     "de": "Betscher Forst",
-     "en": "Pszczew forest",
-     "kind": "place"
-    },
-    {
-     "de": "Betsche",
-     "en": "Pszczew",
-     "kind": "place"
-    },
-    {
-     "de": "Posen",
-     "en": "Poznań",
-     "kind": "place"
-    },
-    {
-     "de": "SüdPreuß.",
-     "en": "South Prussian",
-     "kind": "place"
-    },
-    {
-     "de": "v Köller",
-     "en": "v. Köller",
-     "kind": "person"
-    },
     {
      "de": "Hohenlohe Ingelfingen",
      "en": "Hohenlohe-Ingelfingen",
      "kind": "other"
     },
     {
-     "de": "Breslau",
-     "en": "Wrocław",
+     "de": "Johann Wilhelm Glenck",
+     "en": "Johann Wilhelm Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Samuel Lucke",
+     "en": "Samuel Lucke",
+     "kind": "person"
+    },
+    {
+     "de": "Białobrzeg",
+     "en": "Białobrzeg",
      "kind": "place"
     },
     {
-     "de": "Raeder[?]",
-     "en": "Raeder",
+     "de": "Wrąbczynek",
+     "en": "Wrąbczynek",
+     "kind": "place"
+    },
+    {
+     "de": "Szetlewek",
+     "en": "Szetlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Magdeburgisch",
+     "en": "Magdeburg",
+     "kind": "place"
+    },
+    {
+     "de": "Magdeb.",
+     "en": "Magdeb.",
+     "kind": "place"
+    },
+    {
+     "de": "von Radzinsky",
+     "en": "von Radzinski",
      "kind": "person"
     }
    ],
    "numbers": [
-    "2tens",
-    "3tens",
-    "18ten",
-    "1805",
-    "434"
+    "1",
+    "2",
+    "3",
+    "459",
+    "3",
+    "109",
+    "19 5/8",
+    "380",
+    "32 3/8",
+    "1000",
+    "1",
+    "4",
+    "4",
+    "1",
+    "12333",
+    "8333",
+    "4000",
+    "1/2",
+    "500"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Since 4thly the purchasers do not obtain sufficient dwelling-room for their many persons taking possession, he further stipulates for himself, for the building of the further dwellings, the following pine building timber out of the princely woodlands, namely 60 rods of saw-blocks of middling kind at 10 Rtlr[?], with the offcut timber 80 firs of strong building timber for beams\n\n200 do middling cross-pieces[?]\n\n450 do light rafters, 160 cords of wood for brick-burning, and for covering flat work, together with\n\n§5, free dead and fallen wood in the Trąbczyn forest according to the Royal Forest Ordinance.\n\nRubric II, the propination rights belonging to this demesne farm and village, the existing brewhouse and distillery, the purchasers likewise receive as purchased property against an annual rent of 400, in the same manner as this appurtenance belongs to the Prince. Rubric III, Excepted are the services of the village subjects, which are not given along in the sale; but rather the release of them from service remains reserved to the manorial lordship, as that which has already declared itself ready to meet the wish of those owing service.\n\n§6, The purchasers bear the Royal taxes and burdens and continue henceforth under the jurisdiction of the most princely manorial lordship.\n\n§7, Since the purchaser is not in a position to defray the estate for himself alone, but stands in association with several persons desirous of purchasing, whose approval, being their signatures, he wishes to collect; he therefore stipulates for himself 14 days to 4 weeks' time, before and until a judicial establishment of this contract can take place. The foregoing contract has been drawn up in duplo, and by both parties",
+   "names": [
+    {
+     "de": "Trąbczyner Wald",
+     "en": "Trąbczyn forest",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "4",
+    "60",
+    "10",
+    "80",
+    "200",
+    "450",
+    "160",
+    "5",
+    "2",
+    "400",
+    "3",
+    "6",
+    "7",
+    "14",
+    "4"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "sealed and signed.\n\nThus done at Zagórów, the 1st October 1798. Johann Wilhelm Glenck, councillor of building and economy and authorised representative of the Most Serene Prince of Hohenlohe-Ingelfingen.\n\nSamuel Lucke, grain miller\n\nas witness Johan Lindner.",
+   "names": [
+    {
+     "de": "Zagorowo",
+     "en": "Zagórów",
+     "kind": "place"
+    },
+    {
+     "de": "Johann Wilhelm Glenck",
+     "en": "Johann Wilhelm Glenck",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe Ingelfingischer",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "other"
+    },
+    {
+     "de": "Samuel Lucke",
+     "en": "Samuel Lucke",
+     "kind": "person"
+    },
+    {
+     "de": "Johan Lindner",
+     "en": "Johan Lindner",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1",
+    "1798"
    ]
   }
  ],
- "text_english": "By the Grace of God, Friedrich Wilhelm, King of Prussia. Our friendship, royal grace and good will beforehand, High-born Prince, particularly dear Friend and dear Faithful Subject! In pursuance of the notification issued on the 5th of February of this year upon Your Lordship's petition submitted on the 31st of December of last year for permission to let out the lordship of Pszczew on lease to the burgesses there and the remaining rural residents, We hereby give Your Lordship, with the return of the hereditary-lease contract submitted, upon the ground of the rescript of Our South Prussian Finance Department of the 15th of last month issued to Our Chamber in conformity with a Most High Cabinet Resolution of the 11th of last month, the following decision: that the hereditary letting in question has been found wholly inadmissible, and that the consent sought thereto cannot be granted to Your Lordship; for, firstly, if this consent had not been refused Your Lordship, several landed lordships would venture similar applications, and thereby the possessions of the nobility, which is so numerous in this province and upon whose conservation regard must be had, would be diminished, and the opportunities for the acquisition of estates would be taken from it. Even if, however, this considerable obstacle did not already stand in the way of Your Lordship's design, the aforementioned letting could not be approved\n\nbecause, secondly, the appropriate management of the Pszczew forest — which, since this forest is the only considerable one in that district, merits every regard — could not take place, inasmuch as, if free use of it were left to the hereditary lessees, even the best supervision could not wholly prevent its devastation; thirdly, there is also this circumstance to be weighed, that if Your Lordship's application were deferred to, the lands to be taken in hereditary lease by the residents could not even be managed in an orderly fashion, since every resident, and likewise every burgess of the town of Pszczew, possesses as much land as he requires for a proper husbandry; and moreover, as regards the burgesses, care is to be taken that they apply themselves rather to the pursuit of urban trades than to that of agriculture, most of the residents being besides too lacking in means to be able to raise the sums of money required for the management. In which We remain well disposed toward Your Lordship with friendship, royal grace and good will.\n\nPoznań, the 18th of May 1805. Royal South Prussian War and Domains Chamber [uncertain: G] v. Köller\n\nTo\n\nThe Reigning Prince\n\nof Hohenlohe-Ingelfingen,\n\nYour Lordship, Lieutenant-General\n\nof Infantry and Governor\n\nof the Residence of Wrocław, Chief of a Regiment of Foot, also Knight of the Order of the Black and of the Red Eagle, at Wrocław 434 R. Anno\n\nRaeder[uncertain: Raeder]",
- "summary_en": "The War and Domains Chamber at Poznań, on a royal cabinet resolution, refuses the request of the Prince of Hohenlohe-Ingelfingen to give the lordship of Pszczew in hereditary lease to the burgesses and the other inhabitants, and returns the contract. Other lords, it says, would follow, and the estates of the province's numerous nobility, whose preservation must be considered, would be diminished; the Pszczew forest, the only large one in the area, could not be properly managed; the inhabitants have land enough, the burgesses should rather follow town trades, and most are too poor.",
- "summary_de": "Die Kriegs- und Domänenkammer zu Poznań lehnt, auf eine königliche Kabinettsresolution hin, das Gesuch des Fürsten zu Hohenlohe-Ingelfingen ab, die Herrschaft Pszczew an die Bürgerschaft und die übrigen Einsassen in Erbpacht zu geben, und gibt den Vertrag zurück. Andere Grundherren würden folgen, und die Güter des zahlreichen Adels der Provinz, auf dessen Erhaltung zu sehen sei, würden vermindert; der Pszczewer Forst, der einzige beträchtliche der Gegend, könnte nicht ordentlich bewirtschaftet werden; die Einsassen hätten genug Land, die Bürger sollten eher städtische Gewerbe treiben, und die meisten seien zu arm.",
+ "text_english": "Be it known and made known, that between the authorised representative of His Most Serene Highness the reigning Prince of Hohenlohe-Ingelfingen, the councillor of building and economy Johann Wilhelm Glenck on the one part - and the grain miller Samuel Lucke, possessor of the grain mill Białobrzeg near Wrąbczynek on the other part, subject to reservation of the most high princely ratification, the following contract of sale has been deliberately agreed and concluded under the conditions set out below.\n\nThere is sold\n\n1mo, by the said authorised representative, the most princely estate of Szetlewek near Trąbczyn together with the fields belonging thereto, of one thousand Morgen Magdeburg measure of demesne-farm field, in the following extent and designation, of which a map and survey register are on hand, namely,\n\n459 Morgen of arable field in 3 open fields\n\n109 do - meadows\n\n19 5/8 do — gardens\n\n380 do fields to be cleared.\n\n32 3/8 do standing woodland.\n\n= 1,000 Morgen Magdeb. in sum.\n\ntogether with\n\n§ 2, all the demesne-farm buildings, which consist of 1 manorial dwelling house, 4 barns, 4 stables, 1 granary floor and other appurtenances (excepting the brewery and distillery, as being comprised under Rubric II), as free and permanent property.\n\nfor which\n\n§ 3, the purchaser promises to pay a cash sum of 12,333 Rthl, which are to be paid, with 8,333 Rthl to the pledge-money possessor von Radzinski upon his vacating the premises, and 4,000 Rthl upon acceptance of this contract out of the most princely manorial lordship (Dominium); to which purchase price there is further to be rendered annually to the manorial lordship a continuing canon of 1/2 Rthl per Morgen yearly, and consequently 500 Rthl for the above-named parcels of land.\n\nSince 4thly the purchasers do not obtain sufficient dwelling-room for their many persons taking possession, he further stipulates for himself, for the building of the further dwellings, the following pine building timber out of the princely woodlands, namely 60 rods of saw-blocks of middling kind at 10 Rtlr[?], with the offcut timber 80 firs of strong building timber for beams\n\n200 do middling cross-pieces[?]\n\n450 do light rafters, 160 cords of wood for brick-burning, and for covering flat work, together with\n\n§5, free dead and fallen wood in the Trąbczyn forest according to the Royal Forest Ordinance.\n\nRubric II, the propination rights belonging to this demesne farm and village, the existing brewhouse and distillery, the purchasers likewise receive as purchased property against an annual rent of 400, in the same manner as this appurtenance belongs to the Prince. Rubric III, Excepted are the services of the village subjects, which are not given along in the sale; but rather the release of them from service remains reserved to the manorial lordship, as that which has already declared itself ready to meet the wish of those owing service.\n\n§6, The purchasers bear the Royal taxes and burdens and continue henceforth under the jurisdiction of the most princely manorial lordship.\n\n§7, Since the purchaser is not in a position to defray the estate for himself alone, but stands in association with several persons desirous of purchasing, whose approval, being their signatures, he wishes to collect; he therefore stipulates for himself 14 days to 4 weeks' time, before and until a judicial establishment of this contract can take place. The foregoing contract has been drawn up in duplo, and by both parties\n\nsealed and signed.\n\nThus done at Zagórów, the 1st October 1798. Johann Wilhelm Glenck, councillor of building and economy and authorised representative of the Most Serene Prince of Hohenlohe-Ingelfingen.\n\nSamuel Lucke, grain miller\n\nas witness Johan Lindner.",
+ "summary_en": "A contract subject to the approval of the Prince of Hohenlohe-Ingelfingen. His agent, the councillor for building and estate management Johann Wilhelm Glenck, sells to the miller Samuel Lucke of the Białobrzeg mill near Wrąbczynek 1,000 Morgen of the home-farm land of the estate of Szetlewek, with the farm buildings. It is sold for 12,333 Rthl, 8,333 Rthl of it to the pledge holder von Radzinski when he leaves, and a yearly rent of 500 Rthl. Lucke receives the drink monopoly, the brewhouse and the distillery for a yearly rent of 400; the services of the subjects are excepted, the manor having declared itself ready to free them from service at their wish. Lucke acts for several would-be buyers and asks for two to four weeks.",
+ "summary_de": "Vertrag, vorbehaltlich der Genehmigung des Fürsten zu Hohenlohe-Ingelfingen: Dessen Bevollmächtigter, der Bau- und Ökonomierat Johann Wilhelm Glenck, verkauft dem Mahlmüller Samuel Lucke von der Mühle Białobrzeg bei Wrąbczynek 1000 Morgen Vorwerksland des Guts Szetlewek mit den Vorwerksgebäuden für 12333 Rthl, davon 8333 Rthl an den Pfandbesitzer von Radzinski bei der Räumung, und einen jährlichen Kanon von 500 Rthl. Schankrecht, Brauhaus und Brennerei erhält Lucke gegen einen jährlichen Zins von 400; die Dienste der Untertanen sind ausgenommen, die Herrschaft hat sich bereit erklärt, sie auf ihren Wunsch davon freizulassen. Lucke handelt für mehrere Kaufinteressenten und erbittet zwei bis vier Wochen.",
  "reading": {}
 }

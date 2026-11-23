@@ -1,22 +1,30 @@
 status: draft
 segments:
 - page: 1
-  en: 'Warsaw, 2/14 December 1831 No. 301
+  en: 'Warsaw, 1/13 March 1832 No. 2216
 
 
-    Councillor [Schmidt],
+    Sir [Schmidt]!
 
 
-    Desiring to bring the request of Mr Weigel, on whose behalf you were good enough to intervene by your
-    communication of 10 December/28 November 1831, to the speediest success, I have just enjoined the
-    Commission of Finances to hasten the valuation of the domain of Trąbczyn, and at the same time to
-    examine the security of the capital which Mr Weigel holds on that estate, a task with which it was
-    already charged last year, and to lay this affair before me.
+    Referring to the communication which I had the honour to address to you on 31 January/12 February
+    last, No. 1871, I hasten to inform you that it is Mr Joseph Lubowidzki, Councillor of State, President
+    of the Bank of Poland, who has just been charged, by order of His Majesty the Emperor and King my
+    Master, with putting into execution the stipulations of the Convention of 17/29 May 1830, and that
+    he has received the necessary instructions in this regard.
 
 
-    On the other hand, as the special authorisation which His Majesty had given to Prince Lubecki to treat
-    with Mr Weigel cannot serve any other person, I have the honour to inform you, Councillor, that having
-    already taken this'
+    I have every reason to hope that this new Commissioner, who is likewise authorised to smooth out the
+    questions that derive from the claim raised by the Banker Weigel, will know how to justify the confidence
+    of His Imperial and Royal Majesty, by striving to note, in so far as it depends on him, the adjustment
+    of all the points which need to be definitively settled between the Government of Poland and that
+    of His Majesty the King of Prussia.
+
+
+    Pray accept, Sir, the eager expression of my most distinguished consideration.
+
+
+    signed Engel.'
   names:
   - de: Varsovie
     en: Warsaw
@@ -24,40 +32,32 @@ segments:
   - de: '[Schmidt]'
     en: '[Schmidt]'
     kind: person
+  - de: Joseph Lubowidzki
+    en: Joseph Lubowidzki
+    kind: person
+  - de: Banque de Pologne
+    en: Bank of Poland
+    kind: other
   - de: Weigel
     en: Weigel
     kind: person
-  - de: Trąbczyn
-    en: Trąbczyn
+  - de: Pologne
+    en: Poland
     kind: place
-  - de: Lubecki
-    en: Lubecki
-    kind: person
-  numbers:
-  - '2'
-  - '14'
-  - '1831'
-  - '301'
-  - '10'
-  - '28'
-  - '1831'
-- page: 2
-  en: 'circumstance into consideration, I have taken the necessary steps in this respect to remove it.
-
-
-    Pray believe, Councillor, that as soon as these two difficulties have been removed, I shall do everything
-    in my power so that the well-founded claims of a subject of His Majesty the King of Prussia, and consequently
-    your intervention in this affair, may obtain the speediest success.
-
-
-    Pray accept the testimony of the distinguished consideration with which I have the honour to be
-
-
-    Councillor,
-
-
-    Your most h[um]ble and most ob[edien]t Servant'
-  names:
   - de: Prusse
     en: Prussia
     kind: place
+  - de: Engel
+    en: Engel
+    kind: person
+  numbers:
+  - '1'
+  - '13'
+  - '1832'
+  - '2216'
+  - '31'
+  - '12'
+  - '1871'
+  - '17'
+  - '29'
+  - '1830'

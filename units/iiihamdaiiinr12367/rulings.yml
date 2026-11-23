@@ -18,7 +18,6 @@ places:
     "8": Warschau
     "9": Warschau
     "10": Warschau
-    "11": Warschau
 
 dates:
   # [year, month, day, precision]; read off the document's own dateline. The
@@ -30,10 +29,9 @@ dates:
     "5": [1830, 9, 29, "day"]      # "Varsovie le 29 7bre 1830"
     "6": [1830, 9, 22, "day"]      # "w Warszawie d. 22 Wrzes. 1830"
     "7": [1830, 10, 14, "day"]     # "Breslau d. 14 Octbre 1830."
-    "8": [1830, 11, 27, "day"]     # "w Warszawie d. 27 List. 1830"
-    "9": [1831, 12, 14, "day"]     # "Varsovie le 2/14 Decembre 1831"
-    "10": [1832, 3, 13, "day"]     # "Varsovie le 1/13 Mars 1832"
-    "11": [1832, 3, 20, "day"]     # "Varsovie le 8/20 mars 1832"
+    "8": [1831, 12, 14, "day"]     # "Varsovie le 2/14 Decembre 1831"
+    "9": [1832, 3, 13, "day"]     # "Varsovie le 1/13 Mars 1832"
+    "10": [1832, 3, 20, "day"]     # "Varsovie le 8/20 mars 1832"
   supplied: {}
   twin: {}
   inferred: {}
@@ -58,10 +56,9 @@ documents:
     "4": "fr"
     "5": "fr"
     "6": "pl"
-    "8": "pl"
+    "8": "fr"
     "9": "fr"
     "10": "fr"
-    "11": "fr"
 
   duplicate_of: {}
   split_note: {}
@@ -71,11 +68,6 @@ documents:
       - kind: answers
         target: "6"
         note: "Weigel replies 'auf die hohe Eröffnung vom 22 v. M. No. 59607/938', the minister's letter of 22 September 1830."
-    "8":
-      - kind: answers
-        target: "7"
-        note: "The minister answers the papers Weigel sent 'przy swem podaniu daty 14 Oktobra 1830', with his letter of 14 October."
-
   # The estate each document is ABOUT, as slugs from reference/places.yml:
   # every piece concerns Weigel's mortgage on Trąbczyn.
   estates:
@@ -89,7 +81,6 @@ documents:
     "8": [trabczyn]
     "9": [trabczyn]
     "10": [trabczyn]
-    "11": [trabczyn]
 
 damage:
   letters: []

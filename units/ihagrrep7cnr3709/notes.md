@@ -1,10 +1,29 @@
 # I. HA GR, Rep. 7 C, Nr. 3709 (GStA PK)
 
-Fifteen documents on 19 pages, plus the cover as front matter, 1800-1802: the
+Ten documents (fifteen until 2026-11-23, below) on 19 pages, plus the cover as front matter, 1800-1802: the
 file on Michalina Prusimska's lawsuit against the Prince of
 Hohenlohe-Ingelfingen for the Brzyce estates. Scans added 2026-10-01;
 transcribed, divided, corrected and summarised on 2026-10-04, and translated
 in session the same day.
+
+## Documents joined and renumbered (2026-11-23)
+
+The editor: a page is shown once; a reply on a letter's sheet is a second voice of that letter's
+document, an enclosure's pages follow the letter's, and the holding is renumbered where
+documents are joined (docs/DOCUMENT_MERGE_PLAN.md). Carried out by
+`pipeline/review/merge_documents.py` from `intake/merges.yml`; the map is
+`intake/merge_map.json`. **Everywhere below this section, numbers are the OLD ones.**
+
+| new | old | what |
+|---|---|---|
+| 1 | 1 + 2 | the Government's report to the King of 18 June 1800; the enclosed copy of the cabinet order of 14 June |
+| 2 | 3 + 4 | the report of 10 July 1800; the enclosed copy of the cabinet order of 1 July |
+| 3 | 5 + 6 | the Prince's petition of 30 Nov 1800; his covering letter of the same day follows on page 0008_a |
+| 4 | 7 |  |
+| 5 | 8 + 9 + 10 | Goldbeck's three drafts of 7 Dec 1800 (to the Governments at Poznań and Warsaw, to the Senate of Higher Appeal), one after another |
+| 6-10 | 11-15 |  |
+
+What the joined-in parts' own records said, no longer a document's metadata (the main part's date, place, type and correspondents stand): old 2 and 4, royal rescripts of the King to the Government at Poznań, Charlottenburg 14 June and 1 July 1800; old 6 the Prince to Goldbeck, Breslau 30 Nov 1800; old 9 and 10 Goldbeck's drafts to the Government at Warsaw and to the Senate of Higher Appeal, Berlin 7 Dec 1800. The summaries of the joined documents are the parts' checked summaries joined (`intake/merges.yml`, `summaries:`).
 
 ## Provenance
 

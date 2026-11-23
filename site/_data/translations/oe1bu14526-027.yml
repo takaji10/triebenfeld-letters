@@ -1,93 +1,97 @@
 status: draft
 segments:
 - page: 1
-  en: 'Your Honour, most particularly highly honoured Sir, Councillor of Building and Economy. The miller
-    Luka has disclosed to me his renunciation of keeping to the contract, and accordingly wishes, to this
-    end, to settle the particulars with Your Honour in Kalisz. He has also duly received the aforesaid
-    25 Rthl.
+  en: 'To the criminal-court councillor Grimm at Kalisz. In the enclosure I take the honour of transmitting
+    a Copy of my letter to [uncertain: Ehe] von Radzinski concerning the contract, together with his reply
+    and my answer thereto; according to these the contract between the two of us is therefore annulled.
 
 
-    On this occasion he also brought along with him 2 more men to take up some land; these have now been
-    put off with hopes until a later time, and assured that as soon as an end should have been made with
-    Trąbczyn and Mr. von Szucki, they too would obtain possession of all the land in'
+    Thereupon I have exerted myself to move the 3 contracting parties Luck, Kriede and Nüchler to withdraw,
+    but this did not succeed, because they have the prospective purchasers together in one consignment
+    list, and between yesterday and today have already brought forward 18 farmers who had themselves entered
+    upon lodging a pledge, and who are taking nearly 2/3 of the fields, and they intend also to bring
+    in the others within a short time. Besides this, the co-contracting party Griese has undertaken to
+    give a surety of 2/M. rt., which I shall apply for judicially on my journey through Pyzdry, so that
+    an earnest-money may be retained. Through the interruption of this contract by that of von Radzinski
+    much disadvantage has arisen, wherewith these people are charging their reckoning of damages against
+    me. This will nevertheless fall back upon von Radzinski; I shall take the liberty and send them to
+    you, whereby I beg that you might charge such to von Radzinski. but'
   names:
-  - de: Luka
-    en: Luka
+  - de: Criminal Rath Grimm
+    en: the criminal-court councillor Grimm
     kind: person
   - de: Kalisch
     en: Kalisz
     kind: place
-  - de: Trąbczyn
+  - de: von Radzinski
+    en: von Radzinski
+    kind: person
+  - de: Luck
+    en: Luck
+    kind: person
+  - de: Kriede
+    en: Kriede
+    kind: person
+  - de: Nüchler
+    en: Nüchler
+    kind: person
+  - de: Griese
+    en: Griese
+    kind: person
+  - de: Peysern
+    en: Pyzdry
+    kind: place
+  numbers:
+  - '3'
+  - '18'
+  - 2/3
+  - 2/M.
+- page: 2
+  en: 'Concerning the Slugoziner meadow dispute a map has already been prepared, and I enclose for you
+    the course[?] of the royal chamber surveyor Gunter for your more convenient consultation. In the contract
+    of the Trąbczyn Hollanders there is said to stand inserted — as only the commissary of von Prusimski,
+    Mr. von Kramplitz, assures me — the reservation that the privilege extends only to the first possessors,
+    their son and grandsons, and that they would already now have to apply for a new privilege.
+
+
+    At the same time I take the honour of sending along 5 ducks. For the old sick witness at Olesnica
+    I am having strong soups cooked, so that he may render you services in return. The surveyor Sprengel
+    I beg to be sent for, for the production of his map. I am p.p.
+
+
+    Glenck
+
+
+    Zagórów, the 27th of May 1799'
+  names:
+  - de: Slugoziner
+    en: Slugoziner
+    kind: place
+  - de: Gunter
+    en: Gunter
+    kind: person
+  - de: Trąbczyner
     en: Trąbczyn
     kind: place
-  - de: H. v. Szucki
-    en: Mr. von Szucki
+  - de: von Prusimsky
+    en: von Prusimsky
     kind: person
-  numbers:
-  - '25'
-  - '2'
-- page: 2
-  en: 'possession, but until then they would have to be patient a while longer. Concerning the withdrawal-payment
-    of Mr. von Szucki, may Your Honour have the kindness to report this to the Royal Government, and also,
-    if something over and above the 1,000 Rthl which the community is willing to give might be contributed
-    toward it by His Serene Highness, inasmuch as the same would be made good again within 10 days, and
-    thereafter there would be quiet and peace within the community. Your Honour can yourself perceive
-    how the pointed provocation of von Szucki upon the subjects is now increasing ever more through the
-    offer of the 1,000 Rthl withdrawal-payment; so that the poor people will have to suffer for it.
-
-
-    For the rest we beg most obediently that Your Honour be graciously pleased to let us have, through
-    the said Luke, closer instructions as to our conduct: what we are to do and to leave undone, both
-    with regard to such further men as may yet come, who might come into possession of land with money,
-    and also with regard to von Szucki''s mind as to'
-  names:
-  - de: p. v. Szucki
-    en: Mr. von Szucki
+  - de: H. von Kramplitz
+    en: Mr. von Kramplitz
     kind: person
-  - de: v. Szucki
-    en: von Szucki
-    kind: person
-  - de: p. Luke
-    en: Luke
-    kind: person
-  numbers:
-  - '1000'
-  - '10'
-  - '1000'
-- page: 3
-  en: 'his withdrawal. We shall assuredly do our best in the matter.
-
-
-    We who otherwise have the honour to remain, with high respect,
-
-
-    Your Honour''s
-
-
-    P. S.
-
-
-    The joiner who likewise wished to dwell in Szetlewek has, out of desperation, being wholly consternated,
-    at once bought a house in Zagórów and intends also to remain living here. Most obedient servants Titz
-
-
-    Bancke
-
-
-    Zagórów, the 16th of April 1799.'
-  names:
-  - de: Szetlewek
-    en: Szetlewek
+  - de: Olesnica
+    en: Olesnica
     kind: place
+  - de: Sprengel
+    en: Sprengel
+    kind: person
+  - de: Glenk
+    en: Glenck
+    kind: person
   - de: Zagorowo
     en: Zagórów
     kind: place
-  - de: Titz
-    en: Titz
-    kind: person
-  - de: Bancke
-    en: Bancke
-    kind: person
   numbers:
-  - '16'
+  - '5'
+  - 27ten
   - '1799'

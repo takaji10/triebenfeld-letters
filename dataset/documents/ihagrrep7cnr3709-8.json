@@ -9,48 +9,59 @@
  "doc_type": "draft",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1800-12-07",
+ "date_iso": "1800-12-31",
  "date_precision": "day",
  "date_source": "dateline",
- "date_display": "1800-12-07",
+ "date_display": "1800-12-31",
  "date_inferred_from": "read from the document's own dateline",
  "year": 1800,
  "month": 12,
- "day": 7,
+ "day": 31,
  "place": "Berlin",
  "sender": "Goldbeck",
- "recipient": "Südpreußische Regierung zu Posen",
- "line_start": 237,
- "line_end": 266,
- "uncertainty_count": 0,
+ "recipient": "Südpreußische Regierung zu Warschau",
+ "line_start": 423,
+ "line_end": 456,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
  "duplicate_of": "",
- "relations": [],
+ "relations": [
+  {
+   "kind": "supersedes",
+   "target": "5",
+   "note": "'es kann folglich das obangezogene Rescript keine Anwendung finden': the rescript of 7 December to the government at Warsaw."
+  }
+ ],
  "estates": [
   "brzyce"
  ],
  "is_missing": 0,
- "n_lines": 28,
+ "n_lines": 32,
  "n_pages": 1,
- "text": "Berlin, den 7. December 1800.\nAn die Süd. Preußische Regierung\nzu Posen.\nex officio\nFriedrich Wilhelm König p\nUnsern p. Da die meiſten Räthe Eürs\nCollegii Mitglieder des dortigen Vormund¬\nschafts-Collegii sind, und durch das letz¬\ntere die Klage des Vormundes der minoren¬\nnen Michaelina von Prusimska wider den\nHerrn Fürsten von Hohenlohe Ingelfingen\nauf Vindication der Brzezier Güther veran¬\nlaßt, auch unter dessen Direction der Pro¬\nceß selbst betrieben worden, und ferner wird\nbetrieben werden, so haben wir uns ver¬\nanlaßt gefunden, hiermit festzusetzen,\ndaß die benannte Rechts-Sache in erster\nInstanz von dem Pleno der Regierung zu\nWarschau, und in zweyter Instanz von\ndem Ober-Appellations-Senate des Kam¬\nmer Gerichtes abgeurthelt werden soll.\nWir machen Euch solches, und daß deshalb\nDato das Nothige an gedachte beyde Col¬\nlegia erlassen worden, zur Nachricht und\nAchtung hierdurch bekannt; und Sind p.\nBerlin, den 7. December 1800.\nAd mandatum.\n# # #",
- "text_reading": "Berlin, den 7. December 1800. An die Süd. Preußische Regierung zu Posen.\n\nex officio\n\nFriedrich Wilhelm König p Unsern p. Da die meiſten Räthe Eürs Collegii Mitglieder des dortigen Vormundschafts-Collegii sind, und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den Herrn Fürsten von Hohenlohe Ingelfingen auf Vindication der Brzezier Güther veranlaßt, auch unter dessen Direction der Proceß selbst betrieben worden, und ferner wird betrieben werden, so haben wir uns veranlaßt gefunden, hiermit festzusetzen, daß die benannte Rechts-Sache in erster Instanz von dem Pleno der Regierung zu Warschau, und in zweyter Instanz von dem Ober-Appellations-Senate des Kammer Gerichtes abgeurthelt werden soll. Wir machen Euch solches, und daß deshalb Dato das Nothige an gedachte beyde Collegia erlassen worden, zur Nachricht und Achtung hierdurch bekannt; und Sind p. Berlin, den 7. December 1800. Ad mandatum.\n\n# # #",
+ "text": "Berlin, den 31. December 1800.\nAn die Süd. Preußische Regierung zu\nWarschau.\nex officio\nFriedrich Wilhelm König p\nUnserm p. Wir haben Euch durch das\nRescript vom 7. d. M. aufgegeben, Euch\nder Abfaßung des Erkenntnißes erster\nInstanz in dem zwischen dem Vormunde\nder Michalina von Prusimska und dem\nHerrn Fürsten von Hohenlohe Ingelfin¬\ngen wegen Vindication der Brzezier\nGüter obwaltenden Processe zu unterzie¬\nhen. Die Posener Regierung hat aber\nangezeigt, daß das Erkenntniß von ihr\nbereits unter dem 9. mithin vor dem Ein¬\ngange der an dieselbe erlassenen Verfügung\nabgefaßt worden, und es kann folglich\ndas obangezogene Rescript keine Anwen¬\ndung finden; wovon Wir Euch hierdurch\nzu Eurer Nachricht Kenntniß geben.\nSind p. Berlin, den 31. December 1800.\nAd mandatum\nG[oldbeck]\nacc. d. 2.\nad rec. d. 3.\nau liegen bey.\nden 5. Januar 1801 zur Post.\nBamuzut[?]\nd. 4\nSchroener\nd. 3. Jan:",
+ "text_reading": "Berlin, den 31. December 1800. An die Süd. Preußische Regierung zu Warschau.\n\nex officio Friedrich Wilhelm König p Unserm p. Wir haben Euch durch das Rescript vom 7. d. M. aufgegeben, Euch der Abfaßung des Erkenntnißes erster Instanz in dem zwischen dem Vormunde der Michalina von Prusimska und dem Herrn Fürsten von Hohenlohe Ingelfingen wegen Vindication der Brzezier Güter obwaltenden Processe zu unterziehen. Die Posener Regierung hat aber angezeigt, daß das Erkenntniß von ihr bereits unter dem 9. mithin vor dem Eingange der an dieselbe erlassenen Verfügung abgefaßt worden, und es kann folglich das obangezogene Rescript keine Anwendung finden; wovon Wir Euch hierdurch zu Eurer Nachricht Kenntniß geben. Sind p. Berlin, den 31. December 1800. Ad mandatum\n\nG[oldbeck]\n\nacc. d. 2.\n\nad rec. d. 3.\n\nau liegen bey.\n\nden 5. Januar 1801 zur Post. Bamuzut[?]\n\nd. 4 Schroener\n\nd. 3. Jan:",
  "pages": [
   {
    "page": 1,
-   "page_id": "0012_a2",
-   "line_start": 239,
-   "line_end": 266,
-   "n_lines": 28,
-   "diplomatic": "Berlin, den 7. December 1800.\nAn die Süd. Preußische Regierung\nzu Posen.\nex officio\nFriedrich Wilhelm König p\nUnsern p. Da die meiſten Räthe Eürs\nCollegii Mitglieder des dortigen Vormund¬\nschafts-Collegii sind, und durch das letz¬\ntere die Klage des Vormundes der minoren¬\nnen Michaelina von Prusimska wider den\nHerrn Fürsten von Hohenlohe Ingelfingen\nauf Vindication der Brzezier Güther veran¬\nlaßt, auch unter dessen Direction der Pro¬\nceß selbst betrieben worden, und ferner wird\nbetrieben werden, so haben wir uns ver¬\nanlaßt gefunden, hiermit festzusetzen,\ndaß die benannte Rechts-Sache in erster\nInstanz von dem Pleno der Regierung zu\nWarschau, und in zweyter Instanz von\ndem Ober-Appellations-Senate des Kam¬\nmer Gerichtes abgeurthelt werden soll.\nWir machen Euch solches, und daß deshalb\nDato das Nothige an gedachte beyde Col¬\nlegia erlassen worden, zur Nachricht und\nAchtung hierdurch bekannt; und Sind p.\nBerlin, den 7. December 1800.\nAd mandatum.\n# # #",
-   "transcription": "Berlin, den 7. December 1800.\nAn die Süd. Preußische Regierung\nzu Posen.\nex officio\nFriedrich Wilhelm König p\nUnsern p. Da die meiſten Räthe Eürs\nCollegii Mitglieder des dortigen Vormund-\nschafts-Collegii sind, und durch das letz-\ntere die Klage des Vormundes der minoren-\nnen Michaelina von Prusimska wider den\nHerrn Fürsten von Hohenlohe Ingelfingen\nauf Vindication der Brzezier Güther veran-\nlaßt, auch unter dessen Direction der Pro-\nceß selbst betrieben worden, und ferner wird\nbetrieben werden, so haben wir uns ver-\nanlaßt gefunden, hiermit festzusetzen,\ndaß die benannte Rechts-Sache in erster\nInstanz von dem Pleno der Regierung zu\nWarschau, und in zweyter Instanz von\ndem Ober-Appellations-Senate des Kam-\nmer Gerichtes abgeurthelt werden soll.\nWir machen Euch solches, und daß deshalb\nDato das Nothige an gedachte beyde Col-\nlegia erlassen worden, zur Nachricht und\nAchtung hierdurch bekannt; und Sind p.\nBerlin, den 7. December 1800.\nAd mandatum.\n# # #",
-   "reading": "Berlin, den 7. December 1800. An die Süd. Preußische Regierung zu Posen.\n\nex officio\n\nFriedrich Wilhelm König p Unsern p. Da die meiſten Räthe Eürs Collegii Mitglieder des dortigen Vormundschafts-Collegii sind, und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den Herrn Fürsten von Hohenlohe Ingelfingen auf Vindication der Brzezier Güther veranlaßt, auch unter dessen Direction der Proceß selbst betrieben worden, und ferner wird betrieben werden, so haben wir uns veranlaßt gefunden, hiermit festzusetzen, daß die benannte Rechts-Sache in erster Instanz von dem Pleno der Regierung zu Warschau, und in zweyter Instanz von dem Ober-Appellations-Senate des Kammer Gerichtes abgeurthelt werden soll. Wir machen Euch solches, und daß deshalb Dato das Nothige an gedachte beyde Collegia erlassen worden, zur Nachricht und Achtung hierdurch bekannt; und Sind p. Berlin, den 7. December 1800. Ad mandatum.\n\n# # #",
+   "page_id": "0017_a2",
+   "line_start": 425,
+   "line_end": 456,
+   "n_lines": 32,
+   "diplomatic": "Berlin, den 31. December 1800.\nAn die Süd. Preußische Regierung zu\nWarschau.\nex officio\nFriedrich Wilhelm König p\nUnserm p. Wir haben Euch durch das\nRescript vom 7. d. M. aufgegeben, Euch\nder Abfaßung des Erkenntnißes erster\nInstanz in dem zwischen dem Vormunde\nder Michalina von Prusimska und dem\nHerrn Fürsten von Hohenlohe Ingelfin¬\ngen wegen Vindication der Brzezier\nGüter obwaltenden Processe zu unterzie¬\nhen. Die Posener Regierung hat aber\nangezeigt, daß das Erkenntniß von ihr\nbereits unter dem 9. mithin vor dem Ein¬\ngange der an dieselbe erlassenen Verfügung\nabgefaßt worden, und es kann folglich\ndas obangezogene Rescript keine Anwen¬\ndung finden; wovon Wir Euch hierdurch\nzu Eurer Nachricht Kenntniß geben.\nSind p. Berlin, den 31. December 1800.\nAd mandatum\nG[oldbeck]\nacc. d. 2.\nad rec. d. 3.\nau liegen bey.\nden 5. Januar 1801 zur Post.\nBamuzut[?]\nd. 4\nSchroener\nd. 3. Jan:",
+   "transcription": "Berlin, den 31. December 1800.\nAn die Süd. Preußische Regierung zu\nWarschau.\nex officio\nFriedrich Wilhelm König p\nUnserm p. Wir haben Euch durch das\nRescript vom 7. d. M. aufgegeben, Euch\nder Abfaßung des Erkenntnißes erster\nInstanz in dem zwischen dem Vormunde\nder Michalina von Prusimska und dem\nHerrn Fürsten von Hohenlohe Ingelfin-\ngen wegen Vindication der Brzezier\nGüter obwaltenden Processe zu unterzie-\nhen. Die Posener Regierung hat aber\nangezeigt, daß das Erkenntniß von ihr\nbereits unter dem 9. mithin vor dem Ein-\ngange der an dieselbe erlassenen Verfügung\nabgefaßt worden, und es kann folglich\ndas obangezogene Rescript keine Anwen-\ndung finden; wovon Wir Euch hierdurch\nzu Eurer Nachricht Kenntniß geben.\nSind p. Berlin, den 31. December 1800.\nAd mandatum\nG[oldbeck]\nacc. d. 2.\nad rec. d. 3.\nau liegen bey.\nden 5. Januar 1801 zur Post.\nBamuzut[?]\nd. 4\nSchroener\nd. 3. Jan:",
+   "reading": "Berlin, den 31. December 1800. An die Süd. Preußische Regierung zu Warschau.\n\nex officio Friedrich Wilhelm König p Unserm p. Wir haben Euch durch das Rescript vom 7. d. M. aufgegeben, Euch der Abfaßung des Erkenntnißes erster Instanz in dem zwischen dem Vormunde der Michalina von Prusimska und dem Herrn Fürsten von Hohenlohe Ingelfingen wegen Vindication der Brzezier Güter obwaltenden Processe zu unterziehen. Die Posener Regierung hat aber angezeigt, daß das Erkenntniß von ihr bereits unter dem 9. mithin vor dem Eingange der an dieselbe erlassenen Verfügung abgefaßt worden, und es kann folglich das obangezogene Rescript keine Anwendung finden; wovon Wir Euch hierdurch zu Eurer Nachricht Kenntniß geben. Sind p. Berlin, den 31. December 1800. Ad mandatum\n\nG[oldbeck]\n\nacc. d. 2.\n\nad rec. d. 3.\n\nau liegen bey.\n\nden 5. Januar 1801 zur Post. Bamuzut[?]\n\nd. 4 Schroener\n\nd. 3. Jan:",
    "paragraphs": [
-    "Berlin, den 7. December 1800. An die Süd. Preußische Regierung zu Posen.",
-    "ex officio",
-    "Friedrich Wilhelm König p Unsern p. Da die meiſten Räthe Eürs Collegii Mitglieder des dortigen Vormundschafts-Collegii sind, und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den Herrn Fürsten von Hohenlohe Ingelfingen auf Vindication der Brzezier Güther veranlaßt, auch unter dessen Direction der Proceß selbst betrieben worden, und ferner wird betrieben werden, so haben wir uns veranlaßt gefunden, hiermit festzusetzen, daß die benannte Rechts-Sache in erster Instanz von dem Pleno der Regierung zu Warschau, und in zweyter Instanz von dem Ober-Appellations-Senate des Kammer Gerichtes abgeurthelt werden soll. Wir machen Euch solches, und daß deshalb Dato das Nothige an gedachte beyde Collegia erlassen worden, zur Nachricht und Achtung hierdurch bekannt; und Sind p. Berlin, den 7. December 1800. Ad mandatum.",
-    "# # #"
+    "Berlin, den 31. December 1800. An die Süd. Preußische Regierung zu Warschau.",
+    "ex officio Friedrich Wilhelm König p Unserm p. Wir haben Euch durch das Rescript vom 7. d. M. aufgegeben, Euch der Abfaßung des Erkenntnißes erster Instanz in dem zwischen dem Vormunde der Michalina von Prusimska und dem Herrn Fürsten von Hohenlohe Ingelfingen wegen Vindication der Brzezier Güter obwaltenden Processe zu unterziehen. Die Posener Regierung hat aber angezeigt, daß das Erkenntniß von ihr bereits unter dem 9. mithin vor dem Eingange der an dieselbe erlassenen Verfügung abgefaßt worden, und es kann folglich das obangezogene Rescript keine Anwendung finden; wovon Wir Euch hierdurch zu Eurer Nachricht Kenntniß geben. Sind p. Berlin, den 31. December 1800. Ad mandatum",
+    "G[oldbeck]",
+    "acc. d. 2.",
+    "ad rec. d. 3.",
+    "au liegen bey.",
+    "den 5. Januar 1801 zur Post. Bamuzut[?]",
+    "d. 4 Schroener",
+    "d. 3. Jan:"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
@@ -58,12 +69,17 @@
    "continues_next": false,
    "para_lines": [
     3,
-    4,
-    27
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    31
    ],
-   "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L8_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 28
+   "doc_line_end": 32
   }
  ],
  "mentions": [
@@ -73,9 +89,9 @@
    "kind": "person",
    "surface": "Prusimska",
    "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
-   "line": 248,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L8_01.jpg",
+   "line": 434,
    "doc_line": 10
   },
   {
@@ -84,10 +100,21 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
-   "line": 249,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L8_01.jpg",
+   "line": 435,
    "doc_line": 11
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface": "G[oldbeck]",
+   "page": 1,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L8_01.jpg",
+   "line": 448,
+   "doc_line": 24
   }
  ],
  "mentions_english": [
@@ -101,10 +128,10 @@
   },
   {
    "entity": "",
-   "display": "Poznań",
+   "display": "Warsaw",
    "kind": "place",
-   "surface_de": "Posen",
-   "surface_en": "Poznań",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
    "page": 1
   },
   {
@@ -117,10 +144,10 @@
   },
   {
    "entity": "",
-   "display": "Michaelina von Prusimska",
+   "display": "Michalina von Prusimska",
    "kind": "person",
-   "surface_de": "Michaelina von Prusimska",
-   "surface_en": "Michaelina von Prusimska",
+   "surface_de": "Michalina von Prusimska",
+   "surface_en": "Michalina von Prusimska",
    "page": 1
   },
   {
@@ -141,10 +168,26 @@
   },
   {
    "entity": "",
-   "display": "Warsaw",
+   "display": "Poznań",
    "kind": "place",
-   "surface_de": "Warschau",
-   "surface_en": "Warsaw",
+   "surface_de": "Posener",
+   "surface_en": "Poznań",
+   "page": 1
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface_de": "G[oldbeck]",
+   "surface_en": "G[oldbeck]",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Schroener",
+   "kind": "person",
+   "surface_de": "Schroener",
+   "surface_en": "Schroener",
    "page": 1
   }
  ],
@@ -156,20 +199,20 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
-   "line": 239,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L8_01.jpg",
+   "line": 425,
    "doc_line": 1
   },
   {
-   "entity": "posen",
-   "display": "Poznań (Posen)",
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
    "kind": "place",
-   "surface": "Posen",
+   "surface": "Warschau",
    "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
-   "line": 241,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L8_01.jpg",
+   "line": 427,
    "doc_line": 3
   },
   {
@@ -178,21 +221,10 @@
    "kind": "place",
    "surface": "Brzezier",
    "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
-   "line": 250,
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L8_01.jpg",
+   "line": 436,
    "doc_line": 12
-  },
-  {
-   "entity": "warschau",
-   "display": "Warszawa (Warschau)",
-   "kind": "place",
-   "surface": "Warschau",
-   "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
-   "line": 257,
-   "doc_line": 19
   },
   {
    "entity": "berlin",
@@ -200,17 +232,17 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "0012_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0012_a2-L9_01.jpg",
-   "line": 264,
-   "doc_line": 26
+   "page_id": "0017_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0017_a2-L8_01.jpg",
+   "line": 446,
+   "doc_line": 22
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Berlin, 7 December 1800. To the South Prussian Government at Poznań.\n\nex officio\n\nFriedrich Wilhelm, King, etc. Our, etc. Since most of the councillors of your court are members of the guardianship board there, and the suit of the guardian of the minor Michaelina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was brought at the instance of the latter, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, We have found it necessary hereby to order that the said case shall be decided in the first instance by the full bench of the Government at Warsaw, and in the second instance by the Superior Appeal Senate of the Kammergericht. We hereby make this known to you for your information and observance, together with the fact that the necessary orders have accordingly been sent today to both the said courts; and are, etc. Berlin, 7 December 1800. By command.\n\n# # #",
+   "en": "Berlin, 31 December 1800. To the South Prussian Government at Warsaw.\n\nex officio Friedrich Wilhelm, King, etc. Our, etc. By the rescript of the 7th of this month We instructed you to undertake the drawing up of the judgment of first instance in the lawsuit pending between the guardian of Michalina von Prusimska and the Prince of Hohenlohe-Ingelfingen concerning the recovery of the Brzyce estates. The Poznań Government has, however, reported that the judgment was already drawn up by it on the 9th, and so before the arrival of the order issued to it, and the rescript cited above can consequently have no application; of which We hereby give you notice for your information. And are, etc. Berlin, 31 December 1800. By command\n\nG[oldbeck]\n\nacc. the 2nd.\n\nad rec. the 3rd.\n\n[uncertain: enclosures] lie with it.\n\n5 January 1801, to the post. Bamuzut[illegible]\n\nthe 4th Schroener\n\n3 Jan.",
    "names": [
     {
      "de": "Berlin",
@@ -218,8 +250,8 @@
      "kind": "place"
     },
     {
-     "de": "Posen",
-     "en": "Poznań",
+     "de": "Warschau",
+     "en": "Warsaw",
      "kind": "place"
     },
     {
@@ -228,8 +260,8 @@
      "kind": "person"
     },
     {
-     "de": "Michaelina von Prusimska",
-     "en": "Michaelina von Prusimska",
+     "de": "Michalina von Prusimska",
+     "en": "Michalina von Prusimska",
      "kind": "person"
     },
     {
@@ -243,21 +275,39 @@
      "kind": "place"
     },
     {
-     "de": "Warschau",
-     "en": "Warsaw",
+     "de": "Posener",
+     "en": "Poznań",
      "kind": "place"
+    },
+    {
+     "de": "G[oldbeck]",
+     "en": "G[oldbeck]",
+     "kind": "person"
+    },
+    {
+     "de": "Schroener",
+     "en": "Schroener",
+     "kind": "person"
     }
    ],
    "numbers": [
-    "7",
+    "31",
     "1800",
     "7",
-    "1800"
+    "9",
+    "31",
+    "1800",
+    "2",
+    "3",
+    "5",
+    "1801",
+    "4",
+    "3"
    ]
   }
  ],
- "text_english": "Berlin, 7 December 1800. To the South Prussian Government at Poznań.\n\nex officio\n\nFriedrich Wilhelm, King, etc. Our, etc. Since most of the councillors of your court are members of the guardianship board there, and the suit of the guardian of the minor Michaelina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was brought at the instance of the latter, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, We have found it necessary hereby to order that the said case shall be decided in the first instance by the full bench of the Government at Warsaw, and in the second instance by the Superior Appeal Senate of the Kammergericht. We hereby make this known to you for your information and observance, together with the fact that the necessary orders have accordingly been sent today to both the said courts; and are, etc. Berlin, 7 December 1800. By command.\n\n# # #",
- "summary_en": "Draft of a royal rescript to the Government at Poznań: most of its councillors are members of the guardianship board there, which occasioned and directs the suit of Michalina von Prusimska's guardian against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates. It is therefore laid down that the case will be decided in the first instance by the full bench of the Government at Warsaw and in the second by the Senate of Higher Appeal of the Kammergericht. Both courts have been instructed the same day.",
- "summary_de": "Entwurf eines königlichen Reskripts an die Regierung zu Posen: Die meisten ihrer Räte sind Mitglieder des dortigen Vormundschaftskollegiums, das die Klage des Vormunds der Michalina von Prusimska gegen den Fürsten von Hohenlohe-Ingelfingen auf Herausgabe der Brzycer Güter veranlasst hat und leitet. Deshalb wird festgesetzt, dass die Sache in erster Instanz vom Plenum der Regierung zu Warschau und in zweiter vom Oberappellationssenat des Kammergerichts entschieden wird. Beide Kollegien sind am selben Tag angewiesen worden.",
+ "text_english": "Berlin, 31 December 1800. To the South Prussian Government at Warsaw.\n\nex officio Friedrich Wilhelm, King, etc. Our, etc. By the rescript of the 7th of this month We instructed you to undertake the drawing up of the judgment of first instance in the lawsuit pending between the guardian of Michalina von Prusimska and the Prince of Hohenlohe-Ingelfingen concerning the recovery of the Brzyce estates. The Poznań Government has, however, reported that the judgment was already drawn up by it on the 9th, and so before the arrival of the order issued to it, and the rescript cited above can consequently have no application; of which We hereby give you notice for your information. And are, etc. Berlin, 31 December 1800. By command\n\nG[oldbeck]\n\nacc. the 2nd.\n\nad rec. the 3rd.\n\n[uncertain: enclosures] lie with it.\n\n5 January 1801, to the post. Bamuzut[illegible]\n\nthe 4th Schroener\n\n3 Jan.",
+ "summary_en": "Draft of a royal rescript to the Government at Warsaw: by the rescript of 7 December it had been charged with the judgment in the first instance in the suit between Michalina von Prusimska's guardian and the Prince of Hohenlohe-Ingelfingen over the Brzyce estates. The Government at Poznań has reported, however, that it gave judgment on the 9th, before the order reached it; the rescript therefore does not apply. Sent to the post on 5 January 1801.",
+ "summary_de": "Entwurf eines königlichen Reskripts an die Regierung zu Warschau: Ihr war durch das Reskript vom 7. Dezember das Urteil erster Instanz im Prozess zwischen dem Vormund der Michalina von Prusimska und dem Fürsten von Hohenlohe-Ingelfingen wegen der Brzycer Güter aufgetragen worden. Die Posener Regierung hat aber angezeigt, dass sie das Urteil bereits am 9. gefällt hat, also vor Eingang der Verfügung; das Reskript findet daher keine Anwendung. Zur Post gegeben am 5. Januar 1801.",
  "reading": {}
 }

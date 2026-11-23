@@ -1,12 +1,31 @@
 # III. HA MdA, III. Nr. 12366 (GStA PK)
 
-Six documents on 37 pages, plus the cover as front matter, 1818-1827: the
+Five documents (six until 2026-11-23, below) on 37 pages, plus the cover as front matter, 1818-1827: the
 Prussian foreign ministry's file on Michalina Miączyńska's claim to have the
 Trąbczyn estates freed of the Prince of Hohenlohe's debts, and on the Polish
 judgments against his creditors. Added on 2026-10-04: scans cut at the
 editor's folds, the text cut to pages, corrected, summarised, and given its
 place on the site; translated and its summaries claim-checked in session the
 same day.
+
+## Documents joined and renumbered (2026-11-23)
+
+The editor: a page is shown once; a reply on a letter's sheet is a second voice of that letter's
+document, an enclosure's pages follow the letter's, and the holding is renumbered where
+documents are joined (docs/DOCUMENT_MERGE_PLAN.md). Carried out by
+`pipeline/review/merge_documents.py` from `intake/merges.yml`; the map is
+`intake/merge_map.json`. **Everywhere below this section, numbers are the OLD ones.**
+
+| new | old | what |
+|---|---|---|
+| 1 | 1 + 2 | Alopeus's note to Bernstorff of 20 Jan 1819; the enclosed copy of the Warsaw report of 29 Apr 1818 follows |
+| 2-5 | 3-6 |  |
+
+What the joined-in parts' own records said, no longer a document's metadata (the main part's date, place, type and correspondents stand): old 2, a memorandum (the Viceroy Zajączek's report), Warsaw 29 Apr 1818 (a copy). The summaries of the joined documents are the parts' checked summaries joined (`intake/merges.yml`, `summaries:`).
+
+`intake/translation/doc<N>.yml` and `write_cache.py` were made with the old numbers and
+**must not be run again**: the English is in `site/_data/translations/` under the new numbers
+(the merged pages joined), and corrections in `reference/english_corrections.yml`.
 
 ## Provenance
 

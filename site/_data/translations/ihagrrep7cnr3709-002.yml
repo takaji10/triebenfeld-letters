@@ -1,35 +1,158 @@
 status: draft
 segments:
 - page: 1
-  en: 'Copy. Received 16 June 1800. His Royal Majesty of Prussia is moved by the enclosed complaint of
-    von Prusimska to call in the files, as they stand, of the case conducted before the Government at
-    Poznań in her suit against His Lordship the Prince of Hohenlohe-Ingelfingen concerning the petitioner''s
-    maternal property, and therefore commands the said Government to send them in immediately upon sight
-    of this. Charlottenburg, 14 June 1800. Friedrich Wilhelm
+  en: 'The South Prussian Government at Poznań most humbly submits a copy of the cabinet order of the
+    11th of this month in the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen.
+    In the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen we do not fail
+    most humbly to send Your Royal Majesty, enclosed, a copy of the cabinet order of the 1st, received
+    the 7th of this month, with reference to our most humble report of the 18th of last month, for Your
+    Majesty''s most exalted inspection, with the observation that the hearing for taking the evidence
+    and for the closing proceedings in this case is set for the 22nd of this month. Poznań, 10 July 1800.
+    The Government Danckelman
 
 
-    To
+    v Götz
 
 
-    The Government at Poznań'
+    Dühring
+
+
+    Hering
+
+
+    Fromme
+
+
+    Diederichs
+
+
+    Dannenberg
+
+
+    Bormann
+
+
+    v Fischer
+
+
+    Leuchert
+
+
+    Richter
+
+
+    Herford
+
+
+    [Written by the receiving office:]
+
+
+    27 July 1800. To the files. Berlin, 1 Aug. 1800 G[oldbeck]
+
+
+    h qu[illegible] B
+
+
+    B. 3681. 6027.'
   names:
-  - de: von Prusimska
-    en: von Prusimska
+  - de: Posen
+    en: Poznań
+    kind: place
+  - de: Michalina von Prusimska
+    en: Michalina von Prusimska
     kind: person
   - de: Hohenlohe Ingelfingen
     en: Hohenlohe-Ingelfingen
     kind: person
-  - de: Posen
-    en: Poznań
+  - de: Berlin
+    en: Berlin
     kind: place
+  - de: Danckelman
+    en: Danckelman
+    kind: person
+  - de: v Götz
+    en: v Götz
+    kind: person
+  - de: Dühring
+    en: Dühring
+    kind: person
+  - de: Hering
+    en: Hering
+    kind: person
+  - de: Fromme
+    en: Fromme
+    kind: person
+  - de: Diederichs
+    en: Diederichs
+    kind: person
+  - de: Dannenberg
+    en: Dannenberg
+    kind: person
+  - de: Bormann
+    en: Bormann
+    kind: person
+  - de: v Fischer
+    en: v Fischer
+    kind: person
+  - de: Leuchert
+    en: Leuchert
+    kind: person
+  - de: Richter
+    en: Richter
+    kind: person
+  - de: Herford
+    en: Herford
+    kind: person
+  - de: G[oldbeck]
+    en: G[oldbeck]
+    kind: person
+  numbers:
+  - '11'
+  - '1'
+  - '7'
+  - '18'
+  - '22'
+  - '10'
+  - '1800'
+  - '27'
+  - '1800'
+  - '1'
+  - '1800'
+  - 3,681
+  - 6,027
+- page: 2
+  en: 'Copy. His Royal Majesty of Prussia, etc., commands the Government, on the return of the files sent
+    in with its report of the 18th of last month in the case of Michalina von Prusimska against His Lordship
+    the Prince of Hohenlohe-Ingelfingen, to apply all diligence to completing the preparation of this
+    case, which has been much delayed by too great indulgence towards the defendant''s authorised agent;
+    next, to have proposals for a settlement suited to the case put forward; but if the settlement, for
+    which the case nevertheless appears to be very well suited, should not come about, to take dutiful
+    care that judgment is hastened, especially in the event that, on mature consideration of all the circumstances,
+    the laws should require that judgment be given once more in the first instance. Charlottenburg, 1
+    July 1800. Friedrich Willhelm
+
+
+    To the Government
+
+
+    at Poznań'
+  names:
+  - de: Michalina v. Prusimska
+    en: Michalina von Prusimska
+    kind: person
+  - de: Hohenlohe Ingelfingen
+    en: Hohenlohe-Ingelfingen
+    kind: person
   - de: Charlottenburg
     en: Charlottenburg
     kind: place
-  - de: Friedrich Wilhelm
-    en: Friedrich Wilhelm
+  - de: Friedrich Willhelm
+    en: Friedrich Willhelm
     kind: person
+  - de: Posen
+    en: Poznań
+    kind: place
   numbers:
-  - '16'
-  - '1800'
-  - '14'
+  - '18'
+  - '1'
   - '1800'

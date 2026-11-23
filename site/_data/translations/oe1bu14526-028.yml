@@ -1,97 +1,61 @@
 status: draft
 segments:
 - page: 1
-  en: 'To the criminal-court councillor Grimm at Kalisz. In the enclosure I take the honour of transmitting
-    a Copy of my letter to [uncertain: Ehe] von Radzinski concerning the contract, together with his reply
-    and my answer thereto; according to these the contract between the two of us is therefore annulled.
+  en: 'Most Serene Prince,
 
 
-    Thereupon I have exerted myself to move the 3 contracting parties Luck, Kriede and Nüchler to withdraw,
-    but this did not succeed, because they have the prospective purchasers together in one consignment
-    list, and between yesterday and today have already brought forward 18 farmers who had themselves entered
-    upon lodging a pledge, and who are taking nearly 2/3 of the fields, and they intend also to bring
-    in the others within a short time. Besides this, the co-contracting party Griese has undertaken to
-    give a surety of 2/M. rt., which I shall apply for judicially on my journey through Pyzdry, so that
-    an earnest-money may be retained. Through the interruption of this contract by that of von Radzinski
-    much disadvantage has arisen, wherewith these people are charging their reckoning of damages against
-    me. This will nevertheless fall back upon von Radzinski; I shall take the liberty and send them to
-    you, whereby I beg that you might charge such to von Radzinski. but'
+    Most gracious Prince and Lord!
+
+
+    From the deed of sale of the 28th of September of the current year, appended here in Copy, and from
+    its enclosures, Your Most Serene Highness will most graciously be pleased to gather that Sigismund
+    von Rzadkowski has sold the hereditary quit-rent estate situated in Głażewo to his half-sister Susanna,
+    née Treben. Since now the right of pre-emption belongs to Your Most Serene Highness, we beg the same
+    most highly (the contract has been approved under reservation of the princely rights) most graciously
+    to declare, within S. weeks, whether the same most highly will make use of the right of pre-emption;
+    because, after the expiry of this term, it is assumed in accordance with the laws that the same most
+    highly relinquishes this right for the present case.
+
+
+    In which we persist with deepest reverence, Your Serene Highness''s
+
+
+    most humble and obedient
+
+
+    The Court Office of this place
+
+
+    Metzig
+
+
+    Neumann
+
+
+    Pszczew
+
+
+    the 10th of April 1805'
   names:
-  - de: Criminal Rath Grimm
-    en: the criminal-court councillor Grimm
+  - de: Sigismund von Rzadkowski
+    en: Sigismund von Rzadkowski
     kind: person
-  - de: Kalisch
-    en: Kalisz
+  - de: Głazewo
+    en: Głażewo
     kind: place
-  - de: von Radzinski
-    en: von Radzinski
+  - de: Susanna geborne Treben
+    en: Susanna, née Treben
     kind: person
-  - de: Luck
-    en: Luck
+  - de: Metzig
+    en: Metzig
     kind: person
-  - de: Kriede
-    en: Kriede
+  - de: Neumann
+    en: Neumann
     kind: person
-  - de: Nüchler
-    en: Nüchler
-    kind: person
-  - de: Griese
-    en: Griese
-    kind: person
-  - de: Peysern
-    en: Pyzdry
+  - de: Betsche
+    en: Pszczew
     kind: place
   numbers:
-  - '3'
-  - '18'
-  - 2/3
-  - 2/M.
-- page: 2
-  en: 'Concerning the Slugoziner meadow dispute a map has already been prepared, and I enclose for you
-    the course[?] of the royal chamber surveyor Gunter for your more convenient consultation. In the contract
-    of the Trąbczyn Hollanders there is said to stand inserted — as only the commissary of von Prusimski,
-    Mr. von Kramplitz, assures me — the reservation that the privilege extends only to the first possessors,
-    their son and grandsons, and that they would already now have to apply for a new privilege.
-
-
-    At the same time I take the honour of sending along 5 ducks. For the old sick witness at Olesnica
-    I am having strong soups cooked, so that he may render you services in return. The surveyor Sprengel
-    I beg to be sent for, for the production of his map. I am p.p.
-
-
-    Glenck
-
-
-    Zagórów, the 27th of May 1799'
-  names:
-  - de: Slugoziner
-    en: Slugoziner
-    kind: place
-  - de: Gunter
-    en: Gunter
-    kind: person
-  - de: Trąbczyner
-    en: Trąbczyn
-    kind: place
-  - de: von Prusimsky
-    en: von Prusimsky
-    kind: person
-  - de: H. von Kramplitz
-    en: Mr. von Kramplitz
-    kind: person
-  - de: Olesnica
-    en: Olesnica
-    kind: place
-  - de: Sprengel
-    en: Sprengel
-    kind: person
-  - de: Glenk
-    en: Glenck
-    kind: person
-  - de: Zagorowo
-    en: Zagórów
-    kind: place
-  numbers:
-  - '5'
-  - 27ten
-  - '1799'
+  - '28'
+  - '10'
+  - '1805'

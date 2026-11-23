@@ -61,7 +61,7 @@ broken by the death of his wife, and had asked for a certificate that he could n
 what it was for: the Prussian authorities had summoned him to justify his leaving the country,
 the summonses reached him late, and he sent the certificate to ask for more time; he died
 before he had an answer
-([statement of the claim]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). A historian's
+([statement of the claim]({{ '/documents/iiihamdaiiinr12366/1/' | relative_url }})). A historian's
 article of 1973 already counts "Antoni Prusiński", starost of Niszczewice, among the Polish
 emigrés at Venice at the end of 1794 ([Pachoński]({{ '/literature/pachonski1973/#p-240' | relative_url }}), note 10). The department of foreign
 affairs passed the resident's report to the ministers for the new provinces in January 1797
@@ -136,16 +136,16 @@ correspondence turns from acquiring land to raising money from it.
 The grant was also challenged from the other side. Michalina Prusimska, still a minor, sued
 Hohenlohe-Ingelfingen through her guardian before the Government at Poznań for the Brzyce
 estates, which she claimed as her mother's property
-([Nr. 3709, document 5]({{ '/documents/ihagrrep7cnr3709/5/' | relative_url }})). On her
+([Nr. 3709, document 3]({{ '/documents/ihagrrep7cnr3709/3/' | relative_url }})). On her
 complaint the King called in the files in June 1800 and then ordered the case hurried and a
-settlement tried ([2]({{ '/documents/ihagrrep7cnr3709/2/' | relative_url }}),
-[4]({{ '/documents/ihagrrep7cnr3709/4/' | relative_url }})). In November
+settlement tried ([1]({{ '/documents/ihagrrep7cnr3709/1/' | relative_url }}),
+[2]({{ '/documents/ihagrrep7cnr3709/2/' | relative_url }})). In November
 Hohenlohe-Ingelfingen asked the Grand Chancellor for other judges, since the councillors at
 Poznań also sat on the guardianship board that conducted her suit. The order giving the case
 to the Government at Warsaw came too late: Poznań had given judgment on 9 December 1800
-([12]({{ '/documents/ihagrrep7cnr3709/12/' | relative_url }})). The file does not say how it
+([7]({{ '/documents/ihagrrep7cnr3709/7/' | relative_url }})). The file does not say how it
 decided. In January 1802 Prusimska petitioned the King from Dresden to hasten the appeal
-([15]({{ '/documents/ihagrrep7cnr3709/15/' | relative_url }})).
+([10]({{ '/documents/ihagrrep7cnr3709/10/' | relative_url }})).
 what she claimed is not yet known.
 
 ## III. Dividing the estates, 1798 to 1806
@@ -157,7 +157,7 @@ rent every year, and held the land as heritable property.
 The outlying estates went first. Glenck sold the farm of Szetlewek to the miller Samuel
 Lucke for 12,333 Rthl, of which 8,333 went to Ignatz von Radzinski, who had lent money on the farm
 and held it as security until he was repaid
-([contract]({{ '/documents/oe1bu14526/25/' | relative_url }})). Kamionna and Kolno were sold
+([contract]({{ '/documents/oe1bu14526/24/' | relative_url }})). Kamionna and Kolno were sold
 in 1804 to George Conrad Leixner, an official of the bank at Frankfurt an der Oder, for
 142,000 Rthl ([contract]({{ '/documents/oe1bu14526/5/' | relative_url }});
 [letter 136]({{ '/documents/oe1bu9454/136/' | relative_url }})). In July 1804 the whole
@@ -165,7 +165,7 @@ lordship of Pszczew was made over to its townspeople and six villages for 180,00
 yearly ground rent of 1,000 Rthl, most of the price being met by taking over its mortgage
 debts ([contract]({{ '/documents/oe1bu14526/18/' | relative_url }})). The authorities at
 Poznań refused permission for it in May 1805
-([refusal]({{ '/documents/oe1bu14526/24/' | relative_url }})), and a royal approval followed
+([refusal]({{ '/documents/oe1bu14526/23/' | relative_url }})), and a royal approval followed
 only in 1806.
 
 Trąbczyn and Zagórów were divided among settlers. Triebenfeld recruited widely. Moravian
@@ -484,15 +484,15 @@ Prussian ministry took no further step and passed the matter to the Minister of 
 The debts that Hohenlohe-Ingelfingen had secured on Trąbczyn outlasted him. In January 1819
 Prusimski's daughter, by then Countess Miączyńska, asked Prussia through the Russian envoy to
 pay them off: 156,000 Reichsthaler on Trąbczyn and Szetlewek by her count
-([report]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). The Prussian ministry refused in May
-([draft reply]({{ '/documents/iiihamdaiiinr12366/3/' | relative_url }})). The Polish courts then held that the
+([report]({{ '/documents/iiihamdaiiinr12366/1/' | relative_url }})). The Prussian ministry refused in May
+([draft reply]({{ '/documents/iiihamdaiiinr12366/2/' | relative_url }})). The Polish courts then held that the
 return of the estates in 1807 had cancelled the debts raised on them in the years between. The
 civil tribunal at Kalisz ordered the mortgage of Weigel, a merchant at Wrocław, struck out in
 1819, and the high tribunal at Warsaw confirmed the judgment in 1826. In February 1827 the
 Prussian envoy at St Petersburg, Schöler, asked the Russian foreign minister to have it annulled
-([note]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})). The file holds no answer. In July 1827 the
+([note]({{ '/documents/iiihamdaiiinr12366/4/' | relative_url }})). The file holds no answer. In July 1827 the
 tribunal at Kalisz also struck out the mortgages of the Lichnowski brothers and of the widow of
-Grotowski ([judgment]({{ '/documents/iiihamdaiiinr12366/6/' | relative_url }})).
+Grotowski ([judgment]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})).
 
 Prussia went on pressing Weigel's case at Warsaw through its consul general, Schmidt. Baron
 Mohrenheim, who directed Grand Duke Constantine's diplomatic chancellery, told him that the
@@ -502,7 +502,7 @@ that the Administrative Council held the competence of the courts open to questi
 finance, Prince Lubecki, called the sum excessive and had the estates valued
 ([letter]({{ '/documents/iiihamdaiiinr12367/6/' | relative_url }})); Weigel answered that by the valuation of 1803 his loan was covered
 ([reply]({{ '/documents/iiihamdaiiinr12367/7/' | relative_url }})). The rising of November 1830 interrupted the matter. In March 1832
-the valuation of Trąbczyn was ordered again ([letter]({{ '/documents/iiihamdaiiinr12367/11/' | relative_url }})). The documents published so
+the valuation of Trąbczyn was ordered again ([letter]({{ '/documents/iiihamdaiiinr12367/10/' | relative_url }})). The documents published so
 far do not show whether Weigel was paid.
 
 Behind the ministry's doubts about the courts' competence stood a formal step. On 4 October
@@ -562,7 +562,7 @@ Fifteen documents, in the order of the story.
 3. [Letter 77]({{ '/documents/oe1bu9454/77/' | relative_url }}), the exchange scheme in Berlin
 4. [Letter 85]({{ '/documents/oe1bu9454/85/' | relative_url }}), the King's refusal
 5. [Contract 15]({{ '/documents/oe1bu14526/15/' | relative_url }}), 270 *Hufen* let out, signed by seventeen men, ten of them with a cross
-6. [Contract 24]({{ '/documents/oe1bu14526/24/' | relative_url }}), the authorities refuse the lease of Pszczew to its own people
+6. [Contract 23]({{ '/documents/oe1bu14526/23/' | relative_url }}), the authorities refuse the lease of Pszczew to its own people
 7. [The Erbet court record]({{ '/documents/app5371057/1/' | relative_url }}), one settler's lease from contract to collection
 8. [The Oleśnica petition]({{ '/documents/ihagrrep7cnr3705/1/' | relative_url }}), a lease that did not pay
 9. [The entail charter of 1805]({{ '/documents/oe1u199/1/' | relative_url }})

@@ -10,31 +10,31 @@
 # A first line that is edited must be edited here too; build_db.py stops if a
 # block cannot be found.
 blocks:
-  - letter: '2'
-    page: '0003_a'
-    first: '[à la charge du Gouvernement Prussien:] als ob Preußen für Regierungs Acte im ehem. Südpreußen irgend jemand verantwortlich wäre!'
-    lines: 1
-  - letter: '2'
-    page: '0004_a1'
-    first: '[de la santé du dit Staroste et de celle de son épouse:] nun ist er auch krank gewesen! sie ist erst in Venedig krank geworden'
-    lines: 1
-  - letter: '2'
-    page: '0005_a2'
-    first: '[à la maladie dont il était atteint:] 1803. Oct.'
-    lines: 3
-  - letter: '2'
-    page: '0006_a1'
-    first: '[dont ils avaient été privés:] Nicht einmal Napoleon hat ihnen einen Anspruch wegen des in der Zwischenzeit geschehenen, zugestanden.'
-    lines: 2
-  - letter: '2'
-    page: '0006_a2'
-    first: '[replacés dans le même état:] wo steht das geschrieben? Nicht einmal im Napoleon. Decrete.'
-    lines: 2
-  - letter: '2'
-    page: '0007_a1'
-    first: '[le prouvèrent les événemens politiques:] aber so lang er es besessen, besaß er es rechtmäßig u. mit vollem Eigenthumsrecht'
-    lines: 2
-  - letter: '2'
-    page: '0007_a2'
-    first: '[n’auraient recouvré qu’un titre d’héritage onéreux:] sie bekamen zurück, was da war.'
-    lines: 2
+- letter: '1'
+  page: 0003_a
+  first: '[à la charge du Gouvernement Prussien:] als ob Preußen für Regierungs Acte im ehem. Südpreußen irgend jemand verantwortlich wäre!'
+  lines: 1
+- letter: '1'
+  page: 0004_a1
+  first: '[de la santé du dit Staroste et de celle de son épouse:] nun ist er auch krank gewesen! sie ist erst in Venedig krank geworden'
+  lines: 1
+- letter: '1'
+  page: 0005_a2
+  first: '[à la maladie dont il était atteint:] 1803. Oct.'
+  lines: 3
+- letter: '1'
+  page: 0006_a1
+  first: '[dont ils avaient été privés:] Nicht einmal Napoleon hat ihnen einen Anspruch wegen des in der Zwischenzeit geschehenen, zugestanden.'
+  lines: 2
+- letter: '1'
+  page: 0006_a2
+  first: '[replacés dans le même état:] wo steht das geschrieben? Nicht einmal im Napoleon. Decrete.'
+  lines: 2
+- letter: '1'
+  page: 0007_a1
+  first: '[le prouvèrent les événemens politiques:] aber so lang er es besessen, besaß er es rechtmäßig u. mit vollem Eigenthumsrecht'
+  lines: 2
+- letter: '1'
+  page: 0007_a2
+  first: '[n’auraient recouvré qu’un titre d’héritage onéreux:] sie bekamen zurück, was da war.'
+  lines: 2

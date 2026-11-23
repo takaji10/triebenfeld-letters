@@ -1,0 +1,128 @@
+# One page, one document (docs/DOCUMENT_MERGE_PLAN.md; the editor's yes, 2026-11-23).
+# Carried out by pipeline/review/merge_documents.py --unit ihagrrep7cnr3709 --write,
+# which renumbers the holding afterwards. The numbers here are the OLD ones.
+#   1 + 2: the Government's report to the King and the copy of the cabinet order it
+#     encloses ("abschriftlich anliegend"), on the next page.
+#   3 + 4: the same: a report and the enclosed copy of the order of 1 July 1800.
+#   5 + 6: the Prince's petition of 30 Nov 1800 and his covering letter of the same
+#     day, which begins on the petition's last page (0008_a).
+#   8 + 9 + 10: Goldbeck's three drafts of 7 Dec 1800, one after another across
+#     pages 0012_a2 and 0013_a.
+merges:
+- main: '1'
+  parts:
+  - {doc: '2', as: enclosure}
+- main: '3'
+  parts:
+  - {doc: '4', as: enclosure}
+- main: '5'
+  parts:
+  - {doc: '6', as: follows}
+- main: '8'
+  parts:
+  - {doc: '9', as: follows}
+  - {doc: '10', as: follows}
+
+summaries:
+  '1':
+    en: >-
+      The Government at Poznań submits to the King a copy of the cabinet order issued to it in the
+      case of Prusimska against the Prince of Hohenlohe. The receiving office files the report on
+      23 June 1800. The enclosed copy is the cabinet order of the King to the Government at Poznań,
+      received there on 16 June 1800: prompted by an enclosed complaint of von Prusimska, the King
+      calls in the files of her case against the Prince of Hohenlohe-Ingelfingen over the
+      petitioner's maternal property, as they stand, and orders them sent in at once.
+    de: >-
+      Die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre, die in der
+      Sache Prusimska gegen den Fürsten von Hohenlohe an sie ergangen ist. Die empfangende Behörde
+      legt den Bericht am 23. Juni 1800 zu den Akten. Die beigelegte Abschrift ist die
+      Kabinettsordre des Königs an die Regierung zu Posen, dort eingegangen am 16. Juni 1800: Durch
+      eine beiliegende Beschwerde der von Prusimska veranlasst, fordert der König die Akten ihrer
+      Sache gegen den Fürsten von Hohenlohe-Ingelfingen wegen des mütterlichen Vermögens der
+      Bittstellerin ein, so wie sie liegen, und befiehlt, sie sofort einzusenden.
+  '3':
+    en: >-
+      The Government at Poznań submits to the King a copy of the cabinet order of 1 July, received
+      on 7 July, with reference to its report of the 18th of the previous month. It notes that the
+      hearing for taking evidence and closing the proceedings in the case of Michalina von
+      Prusimska against the Prince of Hohenlohe-Ingelfingen is set for 22 July. The receiving office
+      files the report in Berlin on 1 August 1800. The enclosed copy is the cabinet order: the King
+      returns the files of the case of Prusimska against the Prince of Hohenlohe-Ingelfingen that
+      were sent in with the report of the 18th of the previous month. The Government is to finish
+      preparing the case, which has been much delayed by too much indulgence towards the
+      defendant's agent, with all diligence, and then to have suitable proposals for a settlement
+      made. If no settlement is reached, it is to see to a speedy judgment, especially if the laws
+      should require judgment to be given once more in the first instance.
+    de: >-
+      Die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre vom 1. Juli,
+      eingegangen am 7. Juli, unter Bezug auf ihren Bericht vom 18. des Vormonats. Sie bemerkt, dass
+      der Termin zur Beweisaufnahme und zum Schlussverfahren in der Sache der Michalina von
+      Prusimska gegen den Fürsten zu Hohenlohe-Ingelfingen auf den 22. Juli ansteht. Die empfangende
+      Behörde legt den Bericht am 1. August 1800 in Berlin zu den Akten. Die beigelegte Abschrift ist
+      die Kabinettsordre: Der König sendet die mit dem Bericht vom 18. des Vormonats eingesandten
+      Akten der Sache Prusimska gegen den Fürsten zu Hohenlohe-Ingelfingen zurück. Die Regierung soll
+      die Instruktion, die durch zu viel Nachsicht gegen den Bevollmächtigten des Beklagten sehr
+      verzögert worden sei, mit allem Fleiß beenden und dann angemessene Vergleichsvorschläge machen
+      lassen. Kommt der Vergleich nicht zustande, soll sie für ein rasches Urteil sorgen, besonders
+      falls nach den Gesetzen nochmals in erster Instanz erkannt werden müsste.
+  '5':
+    en: >-
+      The Prince of Hohenlohe writes to the Grand Chancellor: the minor Michalina von Prusimska has
+      sued him before the Government at Poznań for the recovery of the Brzyce estates, which the
+      King gave him; the case is now to be laid before the court for judgment. Since the
+      guardianship board at Poznań conducts the suit in the plaintiff's name and its members are
+      also members of the Government, and so would be his judges, he asks that the judgment be
+      entrusted to the Government at Kalisz and the files sent there. The receiving office marked it
+      with the date 2 December 1800. His covering letter of the same day follows: the settlement
+      proposal made by the court's deputy at the last hearing makes him fear that the Government at
+      Poznań will not judge impartially. The lifetime right of the plaintiff's father, who is still
+      living, in his late wife's property is, he says, part of the father's confiscated property;
+      the deputy nevertheless doubted that it belongs to the fisc. The Prince asks again, urgently,
+      that the judgment be entrusted to the Government at Kalisz or to another South Prussian court.
+    de: >-
+      Der Fürst von Hohenlohe schreibt dem Großkanzler: Die minderjährige Michalina von Prusimska
+      hat bei der Regierung zu Posen gegen ihn auf Herausgabe der ihm vom König geschenkten
+      Brzycer Güter geklagt; die Sache soll nun zum Spruch vorgelegt werden. Da das
+      Pupillenkollegium zu Posen den Prozess im Namen der Klägerin betreibt und seine Mitglieder
+      zugleich Mitglieder der Regierung sind, also seine Richter wären, bittet er, das Urteil der
+      Regierung zu Kalisch zu übertragen und ihr die Akten zuzuschicken. Die empfangende Behörde
+      vermerkte darauf den 2. Dezember 1800. Es folgt sein Begleitschreiben vom selben Tag: Der
+      Vergleichsvorschlag, den der Deputierte im letzten Termin gemacht hat, lasse ihn fürchten, dass
+      die Regierung zu Posen nicht unbefangen urteilen werde. Das Lebtagsrecht des noch lebenden
+      Vaters der Klägerin am Vermögen seiner verstorbenen Frau sei ein Teil des ihm konfiszierten
+      Vermögens; der Deputierte habe dennoch bezweifelt, dass es dem Fiskus zustehe. Der Fürst bittet
+      nochmals dringend, den Spruch der Regierung zu Kalisch oder einem anderen südpreußischen
+      Kollegium aufzutragen.
+  '8':
+    en: >-
+      Three drafts of royal rescripts of 7 December 1800, one after another. The first, to the
+      Government at Poznań: most of its councillors are members of the guardianship board there,
+      which occasioned and directs the suit of Michalina von Prusimska's guardian against the Prince
+      of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates. It is therefore laid down
+      that the case will be decided in the first instance by the full bench of the Government at
+      Warsaw and in the second by the Senate of Higher Appeal of the Kammergericht. Both courts have
+      been instructed the same day. The second, to the Government at Warsaw: a suit for the recovery
+      of the Brzyce estates is pending before the Government at Poznań between the guardian of the
+      minor Michalina von Prusimska and the Prince of Hohenlohe-Ingelfingen. Since the guardianship
+      board there occasioned and directs the suit and most of the Poznań councillors belong to it,
+      the case is to be decided in the first instance by the full bench of the Government at Warsaw.
+      The Government at Poznań has been informed. The rescripts went to the post on the 13th. The
+      third, to the Senate of Higher Appeal of the Kammergericht: the case is to be decided in the
+      first instance by the full bench of the Government at Warsaw and in the second by the Senate.
+      The Governments at Poznań and Warsaw have been instructed.
+    de: >-
+      Drei Entwürfe königlicher Reskripte vom 7. Dezember 1800, einer nach dem anderen. Der erste,
+      an die Regierung zu Posen: Die meisten ihrer Räte sind Mitglieder des dortigen
+      Vormundschaftskollegiums, das die Klage des Vormunds der Michalina von Prusimska gegen den
+      Fürsten von Hohenlohe-Ingelfingen auf Herausgabe der Brzycer Güter veranlasst hat und leitet.
+      Deshalb wird festgesetzt, dass die Sache in erster Instanz vom Plenum der Regierung zu Warschau
+      und in zweiter vom Oberappellationssenat des Kammergerichts entschieden wird. Beide Kollegien
+      sind am selben Tag angewiesen worden. Der zweite, an die Regierung zu Warschau: Bei der
+      Posener Regierung schwebt zwischen dem Vormund der minderjährigen Michalina von Prusimska und
+      dem Fürsten von Hohenlohe-Ingelfingen ein Prozess auf Herausgabe der Brzycer Güter. Da das
+      dortige Pupillenkollegium die Klage veranlasst hat und leitet und die meisten Posener Räte ihm
+      angehören, soll die Sache in erster Instanz vom Plenum der Regierung zu Warschau entschieden
+      werden. Die Regierung zu Posen ist benachrichtigt. Die Reskripte gingen am 13. zur Post. Der
+      dritte, an den Oberappellationssenat des Kammergerichts: Die Sache soll in erster Instanz vom
+      Plenum der Regierung zu Warschau und in zweiter Instanz vom Senat entschieden werden. Die
+      Regierungen in Posen und Warschau sind angewiesen.

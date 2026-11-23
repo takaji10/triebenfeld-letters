@@ -37,13 +37,12 @@ places:
     "21": "Kalisch"
     "22": "Posen"
     "23": "Posen"
-    "24": "Posen"
+    "24": "Zagórów"
     "25": "Zagórów"
     "26": "Zagórów"
     "27": "Zagórów"
-    "28": "Zagórów"
-    "29": "Betsche"
-    "30": "Dolsk"
+    "28": "Betsche"
+    "29": "Dolsk"
 
 dates:
   # Dates the editor read off the document's own dateline or subscription.
@@ -74,19 +73,18 @@ dates:
     "20": [1803, 4, 8, "day"]
     "21": [1805, 3, 9, "day"]
     "22": [1805, 3, 18, "day"]
-    "23": [1805, 3, 18, "day"]
-    "24": [1805, 5, 18, "day"]
-    "25": [1798, 10, 1, "day"]
-    "26": [1799, 7, 1, "day"]
-    "27": [1799, 4, 16, "day"]
-    "28": [1799, 5, 27, "day"]
-    "29": [1805, 4, 10, "day"]
+    "23": [1805, 5, 18, "day"]
+    "24": [1798, 10, 1, "day"]
+    "25": [1799, 7, 1, "day"]
+    "26": [1799, 4, 16, "day"]
+    "27": [1799, 5, 27, "day"]
+    "28": [1805, 4, 10, "day"]
     # Documents 30-32 are one package: the Posen chapter privilege copied
     # first in German, then in Latin and Polish, with the notary's
     # certificate of extraction from the chapter archive as the last page.
     # Dated by the extraction, 21 January 1799, not by the 1766 privilege
     # the copy reproduces. (Editor, 2026-09-11.)
-    "30": [1799, 1, 21, "day"]
+    "29": [1799, 1, 21, "day"]
 
   # Taken from the document's own duplicate.
   twin: {}
@@ -123,20 +121,19 @@ documents:
     "20": "donation"
     "21": "punctation"
     "22": "royal_rescript"
-    "23": "confirmation"
-    "24": "royal_rescript"
-    "25": "contract"
-    "26": "protocol"
+    "23": "royal_rescript"
+    "24": "contract"
+    "25": "protocol"
+    "26": "letter"
     "27": "letter"
     "28": "letter"
-    "29": "letter"
-    "30": "privilege"
+    "29": "privilege"
 
   # Language, where it is not the German of the rest of the volume.
   language:
     # German first, then the Latin and Polish original, then the Latin
     # certificate of extraction - all one document.
-    "30": "de,la,pl"
+    "29": "de,la,pl"
 
   # Same instrument, copied into this volume twice. The Betsche Erbpacht
   # contract is here as Copia No. 92 and Copia No. 93, each with its own
@@ -161,14 +158,10 @@ documents:
     # not have a typed relation to itself. The German rendering, the Latin and
     # Polish original and the notary's certificate are now pages 1-5 of 30.
     "22":
-      - kind: transmits
-        target: "23"
-        note: "A covering rescript of the same day, transmitting an engrossment of the purchase contract confirmed under that date."
-    "23":
       - kind: confirms
         target: "4"
         note: "The confirmation names the purchase contract of 16 and 25 January 1805; document 4 is that contract, subscribed at Breslau on 16 January 1805."
-    "24":
+    "23":
       - kind: refuses
         target: "18"
         note: "The War and Domains Chamber returns the hereditary-lease contract submitted to it and declares the hereditary leasing of the lordship of Betsche to the town's burgesses wholly inadmissible. Document 18 is that contract."
@@ -213,15 +206,14 @@ documents:
     "20": [swiecia]
     "21": [witow]
     "22": [kolno, kamionno]
-    "23": [kolno, kamionno]
-    "24": [betsche]
+    "23": [betsche]
+    "24": [szetlewek]
     "25": [szetlewek]
-    "26": [szetlewek]
-    "27": [trabczyn, szetlewek]
-    "28": [trabczyn]
-    "29": [glazewo]
+    "26": [trabczyn, szetlewek]
+    "27": [trabczyn]
+    "28": [glazewo]
     # A Hufe at Głażewo, which the privilege places "in the Betsche key".
-    "30": [glazewo, betsche]
+    "29": [glazewo, betsche]
 
 damage:
   # Damage is read from the text's own [...] markers. List document numbers
@@ -234,4 +226,4 @@ damage:
   # corrupt, the transcription does not mark it, and the lost ends cannot be
   # recovered without re-reading the scan. Flagged so the gap is declared
   # rather than silently passed off as a whole document.
-  letters: ["24"]
+  letters: ["23"]

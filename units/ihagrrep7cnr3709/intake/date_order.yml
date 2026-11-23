@@ -2,29 +2,29 @@
 # 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;
 # an entry already carried out is skipped. Lines exactly as in corpus.txt.
 moves:
-- letter: '5'
+- letter: '3'
   date:
   - Breslau, den 30. Novbr 1800.
   after: F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe.
   note: read by the Sonnet reader and Claude; date between salutation 154 and closing formula 156
-- letter: '6'
+- letter: '3'
   date:
   - Breslau, den 30. Novbr. 1800.
   after: F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.
   note: read by the Sonnet reader and Claude; date between salutation 206 and closing formula 208
-- letter: '11'
+- letter: '6'
   date:
   - Berlin
   - 'd. 7 Xbr: 1800.'
   after: G[oldbeck]
   note: 'read by the Sonnet reader and Claude; Goldbeck draft letter to Prince; date after salutation Ew: Durchlaucht, before initials; place on own line 388 belongs t'
-- letter: '14'
+- letter: '9'
   date:
   - Berlin
   - d. 31. Decbr. 1800.
   after: G[oldbeck]
   note: read by the Sonnet reader and Claude; Goldbeck draft letter; date after salutation 531, before initials; place on own line 532 belongs to date
-- letter: '15'
+- letter: '10'
   date:
   - Dresde ce 22 Janvier
   - '1802.'

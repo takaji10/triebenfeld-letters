@@ -3,6 +3,22 @@
 Cropped, split, staged and transcribed. 288 page images, 288 transcriptions,
 32 documents.
 
+## Documents joined and renumbered (2026-11-23)
+
+The editor: a page is shown once; a reply on a letter's sheet is a second voice of that letter's
+document, an enclosure's pages follow the letter's, and the holding is renumbered where
+documents are joined (docs/DOCUMENT_MERGE_PLAN.md). Carried out by
+`pipeline/review/merge_documents.py` from `intake/merges.yml`; the map is
+`intake/merge_map.json`. **Everywhere below this section, numbers are the OLD ones.**
+
+| new | old | what |
+|---|---|---|
+| 1-21 | 1-21 |  |
+| 22 | 22 + 23 | the King's covering rescript of 18 Mar 1805; the engrossed confirmation of the sale of Kolno and Kamionna it transmits follows (the editor agreed, though the enclosure outweighs the letter) |
+| 23-29 | 24-30 |  |
+
+What the joined-in parts' own records said, no longer a document's metadata (the main part's date, place, type and correspondents stand): old 23, a confirmation, Posen 18 Mar 1805. The summaries of the joined documents are the parts' checked summaries joined (`intake/merges.yml`, `summaries:`).
+
 ## Provenance
 
 Hohenlohe-Zentralarchiv Neuenstein. 172 archival scans, 675 MB, about 3400x2750 each.

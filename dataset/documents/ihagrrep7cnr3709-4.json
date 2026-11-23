@@ -6,23 +6,23 @@
  "uid": "ihagrrep7cnr3709-4",
  "pad": "ihagrrep7cnr3709-004",
  "permalink": "/documents/ihagrrep7cnr3709/4/",
- "doc_type": "royal_rescript",
+ "doc_type": "note",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1800-07-01",
+ "date_iso": "1800-12-07",
  "date_precision": "day",
  "date_source": "dateline",
- "date_display": "1800-07-01",
+ "date_display": "1800-12-07",
  "date_inferred_from": "read from the document's own dateline",
  "year": 1800,
- "month": 7,
- "day": 1,
- "place": "Charlottenburg",
- "sender": "König Friedrich Wilhelm III. von Preußen",
- "recipient": "Südpreußische Regierung zu Posen",
- "line_start": 101,
- "line_end": 128,
- "uncertainty_count": 0,
+ "month": 12,
+ "day": 7,
+ "place": "Berlin",
+ "sender": "Goldbeck",
+ "recipient": "",
+ "line_start": 206,
+ "line_end": 232,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
@@ -30,103 +30,88 @@
  "relations": [
   {
    "kind": "answers",
-   "target": "1",
-   "note": "The King returns the case files 'mittelst Berichts vom 18ten v. M. ... eingesandten': sent in with the report of 18 June, of which this file holds the copy for the Grand Chancellor."
+   "target": "3",
+   "note": "The decree on the Prince's petition, under the same journal number 5957; documents 8, 9 and 10 were written from it."
   }
  ],
  "estates": [
   "brzyce"
  ],
  "is_missing": 0,
- "n_lines": 26,
+ "n_lines": 25,
  "n_pages": 1,
- "text": "Copia\nSr. Königl. Majestaet von Preussen u befehlen der\nRegierung bei Remission der mittelst Be¬\nrichts vom 18ten v. M. in Sachen der Micha¬\nlina v. Prusimska wider des Fürsten zu\nHohenlohe Ingelfingen Liebden eingesandten\nActen, die Beendigung dieser, durch zu\nviele Nachsicht gegen den Mandatarium\ndes Beklagten sehr verzögerten In¬\nstruction, sich alles Fleisses ange¬\nlegen sein, hiernächst der Sache ange¬\nmeßene Vergleichs Vorschläge thun\nzu lassen, wenn aber der Vergleich\nwozu die Sache doch sehr geeignet zu\nsein scheint, nicht zu Stande kommen\nsollte, für die Beschleunigung des Er¬\nkenntnisses besonders auf den Fall\npflichtmässig Sorge zu tragen, wenn\nbei reiflicher Erwägung aller Um¬\nstände die Gesetze es mit sich brin¬\ngen sollten, daß nochmals in er¬\nster Instanz erkannt werden\nmüste. Charlottenburg 1ten July 1800.\nFriedrich Willhelm\nAn die Regierung\nzu Posen",
- "text_reading": "Copia Sr. Königl. Majestaet von Preussen u befehlen der Regierung bei Remission der mittelst Berichts vom 18ten v. M. in Sachen der Michalina v. Prusimska wider des Fürsten zu Hohenlohe Ingelfingen Liebden eingesandten Acten, die Beendigung dieser, durch zu viele Nachsicht gegen den Mandatarium des Beklagten sehr verzögerten Instruction, sich alles Fleisses angelegen sein, hiernächst der Sache angemeßene Vergleichs Vorschläge thun zu lassen, wenn aber der Vergleich wozu die Sache doch sehr geeignet zu sein scheint, nicht zu Stande kommen sollte, für die Beschleunigung des Erkenntnisses besonders auf den Fall pflichtmässig Sorge zu tragen, wenn bei reiflicher Erwägung aller Umstände die Gesetze es mit sich bringen sollten, daß nochmals in erster Instanz erkannt werden müste. Charlottenburg 1ten July 1800. Friedrich Willhelm\n\nAn die Regierung\n\nzu Posen",
+ "text": "Ex officio\n1., Rescribatur an die Regierung zu Posen:\nDa die meiſten Räthe ihres Collegii Mitglieder\ndes dortigen Vormundschafts. Collegii wären\nund durch das letztere die Klage des Vor¬\nmundes der minorennen Michaelina von\nPrusimska wider den H. Fürsten von Hohen¬\nlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen\ndirection der Proceß selbst betrieben worden\nund ferner werde betrieben werden; so\nhabe man sich veranlaßt gefunden hiemit\nfestzusetzen, daß die benante Rechts-Sache\nin erster Instanz von dem pleno der\nRegierung zu Warschau und in zweiter\nInstanz von dem Ober-Appellations-Senaten\ndes Cammergerichtes abgeurtelt werde, deshalb\ndato das nöthige an diese beyden Collegia\nerlaßen und mache ihr solches zur Nach¬\nricht und Achtung hiemit bekannt.\n2., Expediatur Hiernach das Rescript an die\nRegierung zu Warſchau und\n3., an den Ober-Appell. Senat des Ca[?]. Richters\nBerlin den 7 Xbr. 1800.\nG[oldbeck]\nNr. 5957.",
+ "text_reading": "Ex officio\n\n1., Rescribatur an die Regierung zu Posen: Da die meiſten Räthe ihres Collegii Mitglieder des dortigen Vormundschafts. Collegii wären und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den H. Fürsten von Hohenlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen direction der Proceß selbst betrieben worden und ferner werde betrieben werden; so habe man sich veranlaßt gefunden hiemit festzusetzen, daß die benante Rechts-Sache in erster Instanz von dem pleno der Regierung zu Warschau und in zweiter Instanz von dem Ober-Appellations-Senaten des Cammergerichtes abgeurtelt werde, deshalb dato das nöthige an diese beyden Collegia erlaßen und mache ihr solches zur Nachricht und Achtung hiemit bekannt.\n\n2., Expediatur Hiernach das Rescript an die Regierung zu Warſchau und\n\n3., an den Ober-Appell. Senat des Ca[?]. Richters Berlin den 7 Xbr. 1800.\n\nG[oldbeck]\n\nNr. 5957.",
  "pages": [
   {
    "page": 1,
-   "page_id": "0005_a2",
-   "line_start": 103,
-   "line_end": 128,
-   "n_lines": 26,
-   "diplomatic": "Copia\nSr. Königl. Majestaet von Preussen u befehlen der\nRegierung bei Remission der mittelst Be¬\nrichts vom 18ten v. M. in Sachen der Micha¬\nlina v. Prusimska wider des Fürsten zu\nHohenlohe Ingelfingen Liebden eingesandten\nActen, die Beendigung dieser, durch zu\nviele Nachsicht gegen den Mandatarium\ndes Beklagten sehr verzögerten In¬\nstruction, sich alles Fleisses ange¬\nlegen sein, hiernächst der Sache ange¬\nmeßene Vergleichs Vorschläge thun\nzu lassen, wenn aber der Vergleich\nwozu die Sache doch sehr geeignet zu\nsein scheint, nicht zu Stande kommen\nsollte, für die Beschleunigung des Er¬\nkenntnisses besonders auf den Fall\npflichtmässig Sorge zu tragen, wenn\nbei reiflicher Erwägung aller Um¬\nstände die Gesetze es mit sich brin¬\ngen sollten, daß nochmals in er¬\nster Instanz erkannt werden\nmüste. Charlottenburg 1ten July 1800.\nFriedrich Willhelm\nAn die Regierung\nzu Posen",
-   "transcription": "Copia\nSr. Königl. Majestaet von Preussen u befehlen der\nRegierung bei Remission der mittelst Be-\nrichts vom 18ten v. M. in Sachen der Micha-\nlina v. Prusimska wider des Fürsten zu\nHohenlohe Ingelfingen Liebden eingesandten\nActen, die Beendigung dieser, durch zu\nviele Nachsicht gegen den Mandatarium\ndes Beklagten sehr verzögerten In-\nstruction, sich alles Fleisses ange-\nlegen sein, hiernächst der Sache ange-\nmeßene Vergleichs Vorschläge thun\nzu lassen, wenn aber der Vergleich\nwozu die Sache doch sehr geeignet zu\nsein scheint, nicht zu Stande kommen\nsollte, für die Beschleunigung des Er-\nkenntnisses besonders auf den Fall\npflichtmässig Sorge zu tragen, wenn\nbei reiflicher Erwägung aller Um-\nstände die Gesetze es mit sich brin-\ngen sollten, daß nochmals in er-\nster Instanz erkannt werden\nmüste. Charlottenburg 1ten July 1800.\nFriedrich Willhelm\nAn die Regierung\nzu Posen",
-   "reading": "Copia Sr. Königl. Majestaet von Preussen u befehlen der Regierung bei Remission der mittelst Berichts vom 18ten v. M. in Sachen der Michalina v. Prusimska wider des Fürsten zu Hohenlohe Ingelfingen Liebden eingesandten Acten, die Beendigung dieser, durch zu viele Nachsicht gegen den Mandatarium des Beklagten sehr verzögerten Instruction, sich alles Fleisses angelegen sein, hiernächst der Sache angemeßene Vergleichs Vorschläge thun zu lassen, wenn aber der Vergleich wozu die Sache doch sehr geeignet zu sein scheint, nicht zu Stande kommen sollte, für die Beschleunigung des Erkenntnisses besonders auf den Fall pflichtmässig Sorge zu tragen, wenn bei reiflicher Erwägung aller Umstände die Gesetze es mit sich bringen sollten, daß nochmals in erster Instanz erkannt werden müste. Charlottenburg 1ten July 1800. Friedrich Willhelm\n\nAn die Regierung\n\nzu Posen",
+   "page_id": "0011_a2",
+   "line_start": 208,
+   "line_end": 232,
+   "n_lines": 25,
+   "diplomatic": "Ex officio\n1., Rescribatur an die Regierung zu Posen:\nDa die meiſten Räthe ihres Collegii Mitglieder\ndes dortigen Vormundschafts. Collegii wären\nund durch das letztere die Klage des Vor¬\nmundes der minorennen Michaelina von\nPrusimska wider den H. Fürsten von Hohen¬\nlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen\ndirection der Proceß selbst betrieben worden\nund ferner werde betrieben werden; so\nhabe man sich veranlaßt gefunden hiemit\nfestzusetzen, daß die benante Rechts-Sache\nin erster Instanz von dem pleno der\nRegierung zu Warschau und in zweiter\nInstanz von dem Ober-Appellations-Senaten\ndes Cammergerichtes abgeurtelt werde, deshalb\ndato das nöthige an diese beyden Collegia\nerlaßen und mache ihr solches zur Nach¬\nricht und Achtung hiemit bekannt.\n2., Expediatur Hiernach das Rescript an die\nRegierung zu Warſchau und\n3., an den Ober-Appell. Senat des Ca[?]. Richters\nBerlin den 7 Xbr. 1800.\nG[oldbeck]\nNr. 5957.",
+   "transcription": "Ex officio\n1., Rescribatur an die Regierung zu Posen:\nDa die meiſten Räthe ihres Collegii Mitglieder\ndes dortigen Vormundschafts. Collegii wären\nund durch das letztere die Klage des Vor-\nmundes der minorennen Michaelina von\nPrusimska wider den H. Fürsten von Hohen-\nlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen\ndirection der Proceß selbst betrieben worden\nund ferner werde betrieben werden; so\nhabe man sich veranlaßt gefunden hiemit\nfestzusetzen, daß die benante Rechts-Sache\nin erster Instanz von dem pleno der\nRegierung zu Warschau und in zweiter\nInstanz von dem Ober-Appellations-Senaten\ndes Cammergerichtes abgeurtelt werde, deshalb\ndato das nöthige an diese beyden Collegia\nerlaßen und mache ihr solches zur Nach-\nricht und Achtung hiemit bekannt.\n2., Expediatur Hiernach das Rescript an die\nRegierung zu Warſchau und\n3., an den Ober-Appell. Senat des Ca[?]. Richters\nBerlin den 7 Xbr. 1800.\nG[oldbeck]\nNr. 5957.",
+   "reading": "Ex officio\n\n1., Rescribatur an die Regierung zu Posen: Da die meiſten Räthe ihres Collegii Mitglieder des dortigen Vormundschafts. Collegii wären und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den H. Fürsten von Hohenlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen direction der Proceß selbst betrieben worden und ferner werde betrieben werden; so habe man sich veranlaßt gefunden hiemit festzusetzen, daß die benante Rechts-Sache in erster Instanz von dem pleno der Regierung zu Warschau und in zweiter Instanz von dem Ober-Appellations-Senaten des Cammergerichtes abgeurtelt werde, deshalb dato das nöthige an diese beyden Collegia erlaßen und mache ihr solches zur Nachricht und Achtung hiemit bekannt.\n\n2., Expediatur Hiernach das Rescript an die Regierung zu Warſchau und\n\n3., an den Ober-Appell. Senat des Ca[?]. Richters Berlin den 7 Xbr. 1800.\n\nG[oldbeck]\n\nNr. 5957.",
    "paragraphs": [
-    "Copia Sr. Königl. Majestaet von Preussen u befehlen der Regierung bei Remission der mittelst Berichts vom 18ten v. M. in Sachen der Michalina v. Prusimska wider des Fürsten zu Hohenlohe Ingelfingen Liebden eingesandten Acten, die Beendigung dieser, durch zu viele Nachsicht gegen den Mandatarium des Beklagten sehr verzögerten Instruction, sich alles Fleisses angelegen sein, hiernächst der Sache angemeßene Vergleichs Vorschläge thun zu lassen, wenn aber der Vergleich wozu die Sache doch sehr geeignet zu sein scheint, nicht zu Stande kommen sollte, für die Beschleunigung des Erkenntnisses besonders auf den Fall pflichtmässig Sorge zu tragen, wenn bei reiflicher Erwägung aller Umstände die Gesetze es mit sich bringen sollten, daß nochmals in erster Instanz erkannt werden müste. Charlottenburg 1ten July 1800. Friedrich Willhelm",
-    "An die Regierung",
-    "zu Posen"
+    "Ex officio",
+    "1., Rescribatur an die Regierung zu Posen: Da die meiſten Räthe ihres Collegii Mitglieder des dortigen Vormundschafts. Collegii wären und durch das letztere die Klage des Vormundes der minorennen Michaelina von Prusimska wider den H. Fürsten von Hohenlohe-Ingelfingen auf Vindication der Brzezier Güter veranlaßt, auch unter deßen direction der Proceß selbst betrieben worden und ferner werde betrieben werden; so habe man sich veranlaßt gefunden hiemit festzusetzen, daß die benante Rechts-Sache in erster Instanz von dem pleno der Regierung zu Warschau und in zweiter Instanz von dem Ober-Appellations-Senaten des Cammergerichtes abgeurtelt werde, deshalb dato das nöthige an diese beyden Collegia erlaßen und mache ihr solches zur Nachricht und Achtung hiemit bekannt.",
+    "2., Expediatur Hiernach das Rescript an die Regierung zu Warſchau und",
+    "3., an den Ober-Appell. Senat des Ca[?]. Richters Berlin den 7 Xbr. 1800.",
+    "G[oldbeck]",
+    "Nr. 5957."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "para_lines": [
-    24,
-    25
+    1,
+    19,
+    21,
+    23,
+    24
    ],
-   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 26
+   "doc_line_end": 25
   }
  ],
  "mentions": [
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Prusimska",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
-   "line": 107,
-   "doc_line": 5
-  },
   {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "0005_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
-   "line": 108,
-   "doc_line": 6
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
+   "line": 214,
+   "doc_line": 7
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface": "Prusimska",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
+   "line": 214,
+   "doc_line": 7
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface": "G[oldbeck]",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
+   "line": 231,
+   "doc_line": 24
   }
  ],
  "mentions_english": [
-  {
-   "entity": "",
-   "display": "Michalina von Prusimska",
-   "kind": "person",
-   "surface_de": "Michalina v. Prusimska",
-   "surface_en": "Michalina von Prusimska",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Hohenlohe-Ingelfingen",
-   "kind": "person",
-   "surface_de": "Hohenlohe Ingelfingen",
-   "surface_en": "Hohenlohe-Ingelfingen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Charlottenburg",
-   "kind": "place",
-   "surface_de": "Charlottenburg",
-   "surface_en": "Charlottenburg",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Friedrich Willhelm",
-   "kind": "person",
-   "surface_de": "Friedrich Willhelm",
-   "surface_en": "Friedrich Willhelm",
-   "page": 1
-  },
   {
    "entity": "",
    "display": "Poznań",
@@ -134,74 +119,168 @@
    "surface_de": "Posen",
    "surface_en": "Poznań",
    "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Michaelina von Prusimska",
+   "kind": "person",
+   "surface_de": "Michaelina von Prusimska",
+   "surface_en": "Michaelina von Prusimska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Hohenlohe-Ingelfingen",
+   "kind": "person",
+   "surface_de": "Hohenlohe-Ingelfingen",
+   "surface_en": "Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface_de": "Brzezier",
+   "surface_en": "Brzyce",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Berlin",
+   "kind": "place",
+   "surface_de": "Berlin",
+   "surface_en": "Berlin",
+   "page": 1
+  },
+  {
+   "entity": "goldbeck",
+   "display": "Heinrich Julius von Goldbeck",
+   "kind": "person",
+   "surface_de": "G[oldbeck]",
+   "surface_en": "G[oldbeck]",
+   "page": 1
   }
  ],
- "place_canonical": "Charlottenburg",
+ "place_canonical": "Berlin",
  "place_mentions": [
-  {
-   "entity": "charlottenburg",
-   "display": "Charlottenburg",
-   "kind": "place",
-   "surface": "Charlottenburg",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
-   "line": 125,
-   "doc_line": 23
-  },
   {
    "entity": "posen",
    "display": "Poznań (Posen)",
    "kind": "place",
    "surface": "Posen",
    "page": 1,
-   "page_id": "0005_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0005_a2-L4_01.jpg",
-   "line": 128,
-   "doc_line": 26
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
+   "line": 209,
+   "doc_line": 2
+  },
+  {
+   "entity": "brzyce",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface": "Brzezier",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
+   "line": 215,
+   "doc_line": 8
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
+   "line": 221,
+   "doc_line": 14
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warſchau",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
+   "line": 228,
+   "doc_line": 21
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 1,
+   "page_id": "0011_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0011_a2-L4_01.jpg",
+   "line": 230,
+   "doc_line": 23
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Copy. His Royal Majesty of Prussia, etc., commands the Government, on the return of the files sent in with its report of the 18th of last month in the case of Michalina von Prusimska against His Lordship the Prince of Hohenlohe-Ingelfingen, to apply all diligence to completing the preparation of this case, which has been much delayed by too great indulgence towards the defendant's authorised agent; next, to have proposals for a settlement suited to the case put forward; but if the settlement, for which the case nevertheless appears to be very well suited, should not come about, to take dutiful care that judgment is hastened, especially in the event that, on mature consideration of all the circumstances, the laws should require that judgment be given once more in the first instance. Charlottenburg, 1 July 1800. Friedrich Willhelm\n\nTo the Government\n\nat Poznań",
+   "en": "Ex officio\n\n1. Let a rescript be sent to the Government at Poznań: since most of the councillors of its court are members of the guardianship board there, and the suit of the guardian of the minor Michaelina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was brought at the instance of the latter, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, it has been found necessary hereby to order that the said case be decided in the first instance by the full bench of the Government at Warsaw and in the second instance by the Superior Appeal Senate of the Kammergericht; the necessary orders have accordingly been sent to these two courts today, and this is hereby made known to it for its information and observance.\n\n2. Let the rescript to the Government at Warsaw be dispatched accordingly, and\n\n3. to the Superior Appeal Senate of the Ca[illegible]. Richters. Berlin, 7 Dec. 1800.\n\nG[oldbeck]\n\nNo. 5957.",
    "names": [
-    {
-     "de": "Michalina v. Prusimska",
-     "en": "Michalina von Prusimska",
-     "kind": "person"
-    },
-    {
-     "de": "Hohenlohe Ingelfingen",
-     "en": "Hohenlohe-Ingelfingen",
-     "kind": "person"
-    },
-    {
-     "de": "Charlottenburg",
-     "en": "Charlottenburg",
-     "kind": "place"
-    },
-    {
-     "de": "Friedrich Willhelm",
-     "en": "Friedrich Willhelm",
-     "kind": "person"
-    },
     {
      "de": "Posen",
      "en": "Poznań",
      "kind": "place"
+    },
+    {
+     "de": "Michaelina von Prusimska",
+     "en": "Michaelina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Hohenlohe-Ingelfingen",
+     "en": "Hohenlohe-Ingelfingen",
+     "kind": "person"
+    },
+    {
+     "de": "Brzezier",
+     "en": "Brzyce",
+     "kind": "place"
+    },
+    {
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Berlin",
+     "en": "Berlin",
+     "kind": "place"
+    },
+    {
+     "de": "G[oldbeck]",
+     "en": "G[oldbeck]",
+     "kind": "person"
     }
    ],
    "numbers": [
-    "18",
     "1",
-    "1800"
+    "2",
+    "3",
+    "7",
+    "1800",
+    "5957"
    ]
   }
  ],
- "text_english": "Copy. His Royal Majesty of Prussia, etc., commands the Government, on the return of the files sent in with its report of the 18th of last month in the case of Michalina von Prusimska against His Lordship the Prince of Hohenlohe-Ingelfingen, to apply all diligence to completing the preparation of this case, which has been much delayed by too great indulgence towards the defendant's authorised agent; next, to have proposals for a settlement suited to the case put forward; but if the settlement, for which the case nevertheless appears to be very well suited, should not come about, to take dutiful care that judgment is hastened, especially in the event that, on mature consideration of all the circumstances, the laws should require that judgment be given once more in the first instance. Charlottenburg, 1 July 1800. Friedrich Willhelm\n\nTo the Government\n\nat Poznań",
- "summary_en": "Copy of a cabinet order of the King to the Government at Poznań: he returns the files of the case of Prusimska against the Prince of Hohenlohe-Ingelfingen that were sent in with the report of the 18th of the previous month. The Government is to finish preparing the case, which has been much delayed by too much indulgence towards the defendant's agent, with all diligence, and then to have suitable proposals for a settlement made. If no settlement is reached, it is to see to a speedy judgment, especially if the laws should require judgment to be given once more in the first instance.",
- "summary_de": "Abschrift einer Kabinettsordre des Königs an die Regierung zu Posen: Er sendet die mit dem Bericht vom 18. des Vormonats eingesandten Akten der Sache Prusimska gegen den Fürsten zu Hohenlohe-Ingelfingen zurück. Die Regierung soll die Instruktion, die durch zu viel Nachsicht gegen den Bevollmächtigten des Beklagten sehr verzögert worden sei, mit allem Fleiß beenden und dann angemessene Vergleichsvorschläge machen lassen. Kommt der Vergleich nicht zustande, soll sie für ein rasches Urteil sorgen, besonders falls nach den Gesetzen nochmals in erster Instanz erkannt werden müsste.",
+ "text_english": "Ex officio\n\n1. Let a rescript be sent to the Government at Poznań: since most of the councillors of its court are members of the guardianship board there, and the suit of the guardian of the minor Michaelina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates was brought at the instance of the latter, and the lawsuit itself has been conducted, and will continue to be conducted, under its direction, it has been found necessary hereby to order that the said case be decided in the first instance by the full bench of the Government at Warsaw and in the second instance by the Superior Appeal Senate of the Kammergericht; the necessary orders have accordingly been sent to these two courts today, and this is hereby made known to it for its information and observance.\n\n2. Let the rescript to the Government at Warsaw be dispatched accordingly, and\n\n3. to the Superior Appeal Senate of the Ca[illegible]. Richters. Berlin, 7 Dec. 1800.\n\nG[oldbeck]\n\nNo. 5957.",
+ "summary_en": "A decree made of the office's own motion: most councillors of the Government at Poznań are members of the guardianship board there, which occasioned the suit of the guardian of the minor Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen for the recovery of the Brzyce estates and directs it. The case is therefore to be decided in the first instance by the full bench of the Government at Warsaw and in the second by the Senate of Higher Appeal of the Kammergericht. The Government at Poznań is to be told; rescripts go also to the Government at Warsaw and to the Senate.",
+ "summary_de": "Verfügung von Amts wegen: Die meisten Räte der Regierung zu Posen sind Mitglieder des dortigen Vormundschaftskollegiums, das die Klage des Vormunds der minderjährigen Michalina von Prusimska gegen den Fürsten von Hohenlohe-Ingelfingen auf Herausgabe der Brzycer Güter veranlasst hat und den Prozess leitet. Deshalb soll die Sache in erster Instanz vom Plenum der Regierung zu Warschau und in zweiter Instanz vom Oberappellationssenat des Kammergerichts entschieden werden. Dies ist der Regierung zu Posen mitzuteilen; Reskripte ergehen auch an die Regierung zu Warschau und an den Senat.",
  "reading": {}
 }

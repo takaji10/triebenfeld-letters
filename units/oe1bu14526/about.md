@@ -8,11 +8,11 @@ The estates lay in the province formed from Prussia's share of the partitions of
 
 #### Kamionna and Kolno
 
-Hohenlohe-Ingelfingen sold both estates to George Conrad Leixner, an official of the bank at Frankfurt an der Oder, for 142,000 Rthl [[4, 5]]. The volume holds two versions of the contract, the royal confirmation with the powers of attorney filed with it, and the letter that sent Hohenlohe-Ingelfingen his copy [[4, 5, 22, 23]].
+Hohenlohe-Ingelfingen sold both estates to George Conrad Leixner, an official of the bank at Frankfurt an der Oder, for 142,000 Rthl [[4, 5]]. The volume holds two versions of the contract, the royal confirmation with the powers of attorney filed with it, and the letter that sent Hohenlohe-Ingelfingen his copy [[4, 5, 22]].
 
 #### Pszczew
 
-By a contract of July 1804 the whole lordship of Pszczew was made over to the townspeople of Pszczew and six villages for 180,000 Rthl and a yearly ground rent of 1,000 Rthl; 137,000 Rthl of the price was met by taking over mortgage debts [[18, 19]]. The contract is present in two copies. A decision of the authorities refusing permission for the lease is also present, as is a royal approval of 1806 [[18, 24]]. Three documents concern single holdings in the lordship, among them a privilege of the Bishop of Poznań of 1766 for a holding at Głażewo, in German translation with its Latin and Polish original [[3, 29, 30]].
+By a contract of July 1804 the whole lordship of Pszczew was made over to the townspeople of Pszczew and six villages for 180,000 Rthl and a yearly ground rent of 1,000 Rthl; 137,000 Rthl of the price was met by taking over mortgage debts [[18, 19]]. The contract is present in two copies. A decision of the authorities refusing permission for the lease is also present, as is a royal approval of 1806 [[18, 23]]. Three documents concern single holdings in the lordship, among them a privilege of the Bishop of Poznań of 1766 for a holding at Głażewo, in German translation with its Latin and Polish original [[3, 28, 29]].
 
 #### Witów
 
@@ -26,7 +26,7 @@ The hereditary leases share a set of terms: entry money and an annual rent, the 
 
 #### Szetlewek
 
-Glenck sold the farm of Szetlewek to the miller Samuel Lucke for 12,333 Rthl, of which 8,333 Rthl was to go to the holder of a pledge on the estate, von Radzinski [[25]]. Three further documents concern an earlier agreement of 20 November 1798 for settling the estate, its cancellation, and the dispute with the pledge holder [[26, 27, 28]].
+Glenck sold the farm of Szetlewek to the miller Samuel Lucke for 12,333 Rthl, of which 8,333 Rthl was to go to the holder of a pledge on the estate, von Radzinski [[24]]. Three further documents concern an earlier agreement of 20 November 1798 for settling the estate, its cancellation, and the dispute with the pledge holder [[25, 26, 27]].
 
 Powers of attorney, royal confirmations and notarial certifications are filed with the contracts they belong to and form part of the same document. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
 

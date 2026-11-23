@@ -113,6 +113,17 @@ If the transcriptions arrive already matched to their scans — one file per pag
 a great deal**: 14526 paired 287 of 288 pages with no review at all, against 865
 done by hand for the holding that had to be reconstructed.
 
+**One page, one document** (the editor, 2026-11-23; docs/DOCUMENT_MERGE_PLAN.md).
+When dividing a holding into documents: a reply or a draft written on a
+letter's sheet belongs to the letter's document, set apart as a second voice
+(`hand_notes.yml`, "Written in another hand"); an enclosure sent with the
+letter follows its pages in the same document, without a box; two drafts or
+copies one after another on a page in the same hand are one document. A page
+stands under one document only (`verify_site.py` checks it), except in
+registers and copy-books where one act ends and the next begins
+(`reference/shared_pages.yml`). An archive's own numbering, as in Oe 1 Bü 9454,
+is kept as it is.
+
 **Once `corpus.txt` is assembled, delete the page files** (`git rm -r
 units/<slug>/transcriptions`; the editor, 2026-11-23). `corpus.txt` is the only
 text from then on; two copies drifted apart in every holding that kept both.

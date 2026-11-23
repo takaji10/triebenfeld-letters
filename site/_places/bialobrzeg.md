@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/bialobrzeg/"
 alt_url: "/de/orte/bialobrzeg/"
 excerpt_separator: ""
-hits_docs: [{"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}, {"id": "25", "uid": "oe1bu14526-25", "url": "/documents/oe1bu14526/25/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "26", "uid": "oe1bu14526-26", "url": "/documents/oe1bu14526/26/", "unit_label": "Oe 1 Bü 14526", "n": 1}]
+hits_docs: [{"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}, {"id": "24", "uid": "oe1bu14526-24", "url": "/documents/oe1bu14526/24/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "25", "uid": "oe1bu14526-25", "url": "/documents/oe1bu14526/25/", "unit_label": "Oe 1 Bü 14526", "n": 1}]
 hits_docs_count: 3
 ---
 
@@ -25,7 +25,7 @@ Village on the Warta River, 10 kilometres west of Zagórów, today in the gmina 
 [^1]: Nazwy miejscowe Polski, t. 1, p. 192
 
 [^2]: HZAN Oe 1 Bü 14526, document 25
-    [The document.](/documents/oe1bu14526/25/)
+    [The document.](/documents/oe1bu14526/24/)
 
 [^3]: Słownik geograficzny, t. XV, p. 125
 

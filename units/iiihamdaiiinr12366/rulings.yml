@@ -9,21 +9,19 @@ places:
   # Place of writing, from each document's own dateline.
   overrides:
     "1": Berlin
-    "2": Warschau
-    "3": Berlin
-    "4": Warschau
-    "5": St. Petersburg
-    "6": Kalisch
+    "2": Berlin
+    "3": Warschau
+    "4": St. Petersburg
+    "5": Kalisch
 
 dates:
   # [year, month, day, precision]; read off the document's own dateline.
   read:
     "1": [1819, 1, 20, "day"]      # "Berlin ce 20 janvier 1819"; received 21 January
-    "2": [1818, 4, 29, "day"]      # "Varsovie le 29 avril 1818", at the foot of the copy
-    "3": [1819, 5, 11, "day"]      # "Berlin le 11 mai 1819"
-    "4": [1819, 11, 16, "day"]     # "Varsovie le 16 Nov. 1819"
-    "5": [1827, 2, 10, "day"]      # "10 février/29 janvier 1827": one day in both calendars; the western date
-    "6": [1827, 7, 30, "day"]      # "dnia Trzydziestego Lipca Tysiącnego Osmsetnego dwiedziestego siódmego Roku"
+    "2": [1819, 5, 11, "day"]      # "Berlin le 11 mai 1819"
+    "3": [1819, 11, 16, "day"]     # "Varsovie le 16 Nov. 1819"
+    "4": [1827, 2, 10, "day"]      # "10 février/29 janvier 1827": one day in both calendars; the western date
+    "5": [1827, 7, 30, "day"]      # "dnia Trzydziestego Lipca Tysiącnego Osmsetnego dwiedziestego siódmego Roku"
   supplied: {}
   twin: {}
   inferred: {}
@@ -36,27 +34,21 @@ documents:
   # extract of the Kalisz judgment, certified under the court's seal. The
   # rest are letters; 4 and 5 are copies ("Copia", "Copie").
   doc_type:
-    "2": memorandum
-    "3": draft
-    "6": certified_copy
+    "2": draft
+    "5": certified_copy
 
   language:
     "1": "fr"
     "2": "fr"
     "3": "fr"
     "4": "fr"
-    "5": "fr"
-    "6": "pl"
+    "5": "pl"
 
   duplicate_of: {}
   split_note: {}
 
   relations:
-    "1":
-      - kind: transmits
-        target: "2"
-        note: "'le rapport ci-joint du Lieutenant du Royaume de Pologne': document 2 is that copy."
-    "3":
+    "2":
       - kind: answers
         target: "1"
         note: "The ministry's reply to the envoy's note and the report sent with it ('la nôte et le mémoire'); the draft dates the note 20 February, the note itself is of 20 January."
@@ -68,10 +60,9 @@ documents:
   estates:
     "1": [trabczyn, kamionno]
     "2": [trabczyn, kamionno]
-    "3": [trabczyn, kamionno]
+    "3": [trabczyn]
     "4": [trabczyn]
     "5": [trabczyn]
-    "6": [trabczyn]
 
 damage:
   letters: []

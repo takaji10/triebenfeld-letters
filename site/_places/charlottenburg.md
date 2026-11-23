@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/charlottenburg/"
 alt_url: "/de/orte/charlottenburg/"
 excerpt_separator: ""
-hits_docs: [{"id": "2", "uid": "ihagrrep7cnr3709-2", "url": "/documents/ihagrrep7cnr3709/2/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "4", "uid": "ihagrrep7cnr3709-4", "url": "/documents/ihagrrep7cnr3709/4/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
+hits_docs: [{"id": "1", "uid": "ihagrrep7cnr3709-1", "url": "/documents/ihagrrep7cnr3709/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "2", "uid": "ihagrrep7cnr3709-2", "url": "/documents/ihagrrep7cnr3709/2/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
 

@@ -614,6 +614,14 @@ def main():
     if cnew != craw:
         writes[cpath] = cnew
 
+    # catchwords.yml: entries are filed under their document's number (the line is
+    # found again by its text); missed in the first merges, caught by merge_check
+    # in Oe 1 Bü 14526 (a catchword said twice, 2026-11-23)
+    cwp = os.path.join(unit.dir, 'catchwords.yml')
+    if os.path.isfile(cwp):
+        cwraw = io.open(cwp, encoding='utf-8').read()
+        writes[cwp] = re.sub(r'letter: "(\w+)"', lambda m: 'letter: "%s"' % idmap.get(m.group(1), m.group(1)), cwraw)
+
     # date-order record
     dp = os.path.join(unit.dir, 'intake', 'date_order.yml')
     if os.path.isfile(dp):
@@ -651,6 +659,60 @@ def main():
         # a cite list that now names one document twice: [<a>1</a>, <a>1</a>] -> [<a>1</a>]
         one = r"""<a href="\{\{ '/documents/%s/(\w+)/' \| relative_url \}\}">\w+</a>""" % re.escape(slug)
         new = re.sub(r'(%s)(, (%s))+' % (one, one), lambda m: dedupe_cites(m.group(0)), new)
+        if new != raw:
+            writes[p] = new
+    # markdown links on the era pages: [5]({{ '/documents/slug/5/' | relative_url }}) or
+    # [Nr. 3709, document 5](...): the shown number goes with the address. (The
+    # addresses themselves were mapped above.) Read the era pages after a merge.
+    md = re.compile(r"\[([^\]]*?)(\d+)\]\(\{\{ '/documents/%s/(\w+)/' \| relative_url \}\}\)" % re.escape(slug))
+    for p in link_files:
+        if not os.path.isfile(p) or not p.endswith('.md'):
+            continue
+        raw = writes.get(p) or io.open(p, encoding='utf-8').read()
+
+        def fix_md(m):
+            pre, shown, new_addr = m.group(1), m.group(2), m.group(3)
+            olds = [o for o, n in idmap.items() if n == new_addr]
+            # the shown number was the old one: rewrite it only when it maps to this address
+            # any label ending in the old number: "5", "document 5", "Contract 24" (2026-11-23)
+            if shown in olds and (pre == '' or re.search(r'\s$', pre)):
+                return m.group(0).replace('[%s%s]' % (pre, shown), '[%s%s]' % (pre, new_addr), 1)
+            return m.group(0)
+        new = md.sub(fix_md, raw)
+        if new != raw:
+            writes[p] = new
+    # the registers name documents by key, slug-N (people.yml only_in, glossary
+    # only_in/not_in, connections uid, gazetteer sources): mapped, a list that
+    # now names one key twice keeps it once
+    key = re.compile(r'(?<![\w/-])%s-(\w+)\b' % re.escape(slug))
+    reg_files = (glob.glob(os.path.join(ROOT, 'reference', '*.yml')) +
+                 glob.glob(os.path.join(ROOT, 'reference', 'gazetteer', '*.yml')) +
+                 glob.glob(os.path.join(ROOT, 'literature', '*.yml')) +
+                 glob.glob(os.path.join(ROOT, 'newspapers', '*.yml')) +
+                 glob.glob(os.path.join(ROOT, 'places', '*', '*.yml')))
+    for p in reg_files:
+        if os.path.basename(p) == 'english_corrections.yml':
+            continue
+        raw = writes.get(p) or io.open(p, encoding='utf-8').read()
+        if not key.search(raw) and not pat.search(raw):
+            continue
+
+        def fix_key(m):
+            d = m.group(1)
+            if d.startswith('0') or d not in idmap:
+                return m.group(0)
+            return '%s-%s' % (slug, idmap[d])
+        new = key.sub(fix_key, raw)
+        new = pat.sub(lambda m: m.group(1) + idmap.get(m.group(2), m.group(2)) + m.group(3), new)
+
+        def dedupe_list(m):
+            items = [x.strip() for x in m.group(1).split(',')]
+            out = []
+            for x in items:
+                if x not in out:
+                    out.append(x)
+            return '[' + ', '.join(out) + ']'
+        new = re.sub(r'\[([^\[\]\n]*%s-[^\[\]\n]*)\]' % re.escape(slug), dedupe_list, new)
         if new != raw:
             writes[p] = new
     # the holding's own descriptions cite documents as [[4]] or [[1, 3, 4]]

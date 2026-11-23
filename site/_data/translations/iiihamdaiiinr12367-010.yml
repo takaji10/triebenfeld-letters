@@ -1,63 +1,61 @@
 status: draft
 segments:
 - page: 1
-  en: 'Warsaw, 1/13 March 1832 No. 2216
+  en: 'Warsaw, 8/20 March 1832
 
 
-    Sir [Schmidt]!
+    [Mr Schmidt,]
 
 
-    Referring to the communication which I had the honour to address to you on 31 January/12 February
-    last, No. 1871, I hasten to inform you that it is Mr Joseph Lubowidzki, Councillor of State, President
-    of the Bank of Poland, who has just been charged, by order of His Majesty the Emperor and King my
-    Master, with putting into execution the stipulations of the Convention of 17/29 May 1830, and that
-    he has received the necessary instructions in this regard.
+    In reply to the communication which you were good enough to address to me dated 1 March/18 February
+    of this year, No. 432, concerning the settlement of the affair of Mr Weigel of Wrocław, it is most
+    agreeable to me to inform you, Consul, that in consequence of the measures which I have taken, and
+    of which I had the honour to inform you by my communication of 12/24 December of the past year, the
+    Commission of Finances and the Treasury, by its decision of 29 February of this year, has charged
+    Mr Drake, Commissioner in the Department of the State Domains, with the valuation of the estates of
+    Trąbczyn.
 
 
-    I have every reason to hope that this new Commissioner, who is likewise authorised to smooth out the
-    questions that derive from the claim raised by the Banker Weigel, will know how to justify the confidence
-    of His Imperial and Royal Majesty, by striving to note, in so far as it depends on him, the adjustment
-    of all the points which need to be definitively settled between the Government of Poland and that
-    of His Majesty the King of Prussia.
+    As soon as this operation, which (as you will be in a position to judge) will require a good deal
+    of time, has been brought to an end, which I shall see to on my side, I shall not fail to inform you
+    of it.
 
 
-    Pray accept, Sir, the eager expression of my most distinguished consideration.
+    Meanwhile I beg you kindly to communicate this circumstance to the commercial house of Weigel, and
+    to accept at the same time the testimony of the distinguished consideration with which I have the
+    honour to be,
 
 
-    signed Engel.'
+    Councillor,
+
+
+    Your most humble and most obedient Servant'
   names:
   - de: Varsovie
     en: Warsaw
     kind: place
-  - de: '[Schmidt]'
-    en: '[Schmidt]'
+  - de: '[Monsieur Schmidt,]'
+    en: '[Mr Schmidt,]'
     kind: person
-  - de: Joseph Lubowidzki
-    en: Joseph Lubowidzki
-    kind: person
-  - de: Banque de Pologne
-    en: Bank of Poland
-    kind: other
   - de: Weigel
     en: Weigel
     kind: person
-  - de: Pologne
-    en: Poland
+  - de: Breslau
+    en: Wrocław
     kind: place
-  - de: Prusse
-    en: Prussia
-    kind: place
-  - de: Engel
-    en: Engel
+  - de: Drake
+    en: Drake
     kind: person
+  - de: Trąbczyn
+    en: Trąbczyn
+    kind: place
   numbers:
-  - '1'
-  - '13'
+  - '8'
+  - '20'
   - '1832'
-  - '2216'
-  - '31'
+  - '1'
+  - '18'
+  - '432'
   - '12'
-  - '1871'
-  - '17'
+  - '24'
   - '29'
-  - '1830'

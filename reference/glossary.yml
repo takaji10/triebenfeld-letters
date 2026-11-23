@@ -1507,7 +1507,7 @@ entries:
   # translations say Notary, Clerk or Scribe, the German summaries Notar.
   match_de: '\b[Pp]isar(?:z|za|zem|zowi|zów|ze)\b|\b[Nn]otari(?:us|o|um)\b|\bNotars?\b'
   match_en: '\b[Nn]otary\b|\b[Ss]cribes?\b|\b[Cc]lerks?\b'
-  only_in: [app53170koningr117-2, app53170koningr117-8, app53170koningr118-23, app53170koningr118-27, app53170koningr145-1, app53170koningr153-1, iiihamdaiiinr12366-6, app536045-1]
+  only_in: [app53170koningr117-2, app53170koningr117-8, app53170koningr118-23, app53170koningr118-27, app53170koningr145-1, app53170koningr153-1, iiihamdaiiinr12366-5, app536045-1]
   short_en: >-
     The writer of a court or an office, in Latin notarius. Gloger: the
     lowest in rank of a court's members and often without a vote, he yet

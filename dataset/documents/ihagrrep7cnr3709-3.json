@@ -9,103 +9,150 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1800-07-10",
+ "date_iso": "1800-11-30",
  "date_precision": "day",
  "date_source": "dateline",
- "date_display": "1800-07-10",
+ "date_display": "1800-11-30",
  "date_inferred_from": "read from the document's own dateline",
  "year": 1800,
- "month": 7,
- "day": 10,
- "place": "Posen",
- "sender": "Südpreußische Regierung zu Posen",
- "recipient": "König Friedrich Wilhelm III. von Preußen",
- "line_start": 60,
- "line_end": 100,
- "uncertainty_count": 1,
- "has_damage": 0,
+ "month": 11,
+ "day": 30,
+ "place": "Breslau",
+ "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+ "recipient": "Goldbeck",
+ "line_start": 127,
+ "line_end": 205,
+ "uncertainty_count": 4,
+ "has_damage": 1,
  "rough_transcription": 0,
  "language": "de",
  "duplicate_of": "",
- "relations": [
-  {
-   "kind": "transmits",
-   "target": "4",
-   "note": "'in der Anlage eine Abschrift der Cabinets-Ordre vom 1ten ... hujus': document 4 is that copy."
-  }
- ],
+ "relations": [],
  "estates": [
   "brzyce"
  ],
  "is_missing": 0,
- "n_lines": 39,
- "n_pages": 1,
- "text": "Die Südpreußl. Regierung zu Posen\nüberreicht allerunterthänigst Abschrift\nder Cabinets Ordre vom 11ten hujus\nin Sachen der Michalina von Prusimska\ncontra den Herrn Fürsten von Hohenlohe\nIngelfingen.\nIn Sachen der Michalina von Prusimska wider\nden Herrn Fürsten zu Hohenlohe Ingelfingen\nverfehlen wir nicht Euer Königl. Majestaet\nder Anlage eine Abschrift der Cabinets-\nOrdre vom 1ten & praes. den 7ten hujus,\nmit Bezug auf unsern allerunterthänigsten\nBericht vom 18ten m. pr. zur Allerhöchsten\nEinsicht und mit dem Bemerken allerun¬\nterthänigst zu übersenden, daß Terminus\nzur Beweisaufnahme und zum Schluß Ver¬\nfahren in dieser Sache auf den 22 ten\nhujus anstehet.\nPosen den 10ten July 1800.\ndie Regierung\nDanckelman\nv Götz\nDühring\nHering\nFromme\nDiederichs\nDannenberg\nBormann\nv Fischer\nLeuchert\nRichter\nHerford\nd. 27. Juli 1800.\nad Acta\nBerlin d. 1 Aug: 1800\nG[oldbeck]\nh qu[?] B\nB. 3681.\n6027.",
- "text_reading": "Die Südpreußl. Regierung zu Posen überreicht allerunterthänigst Abschrift der Cabinets Ordre vom 11ten hujus in Sachen der Michalina von Prusimska contra den Herrn Fürsten von Hohenlohe Ingelfingen. In Sachen der Michalina von Prusimska wider den Herrn Fürsten zu Hohenlohe Ingelfingen verfehlen wir nicht Euer Königl. Majestaet der Anlage eine Abschrift der Cabinets- Ordre vom 1ten & praes. den 7ten hujus, mit Bezug auf unsern allerunterthänigsten Bericht vom 18ten m. pr. zur Allerhöchsten Einsicht und mit dem Bemerken allerunterthänigst zu übersenden, daß Terminus zur Beweisaufnahme und zum Schluß Verfahren in dieser Sache auf den 22 ten hujus anstehet. Posen den 10ten July 1800. die Regierung Danckelman\n\nv Götz\n\nDühring\n\nHering\n\nFromme\n\nDiederichs\n\nDannenberg\n\nBormann\n\nv Fischer\n\nLeuchert\n\nRichter\n\nHerford\n\nd. 27. Juli 1800. ad Acta Berlin d. 1 Aug: 1800 G[oldbeck]\n\nh qu[?] B\n\nB. 3,681. 6027.",
+ "n_lines": 74,
+ "n_pages": 4,
+ "text": "Hochwohlgebohrner Herr!\nHochzuverehrender Herr Groß Canzler!\nDie minorenne Michalina von Prusimska hat bey der Regiere[...]\nPosen eine Klage wegen Vindication der mir von des [...]\nMajestät geschenkten Brzezier Güter, wider mich angestellte\nDie Sache ist jetzt instruirt und soll zum Spruch vorgelegt ge[...]\nden. Da das Pupillen Collegium zu Posen diesen Prozeß\nim Nahmen der minorennen Klägerinn betreibt, die Mit¬\nglieder des Pupillen Collegii aber zugleich Mitglieder der\nRegierung ſind, folglich meine Richter in der Sache ſeyn\nwürden; so bitte ich Ew. Excellenz unterthänig:\n\"sowohl aus diesen als aus andern Gründen, die blo[...]\nvon meiner individuellen Überzeugung abhängen, die\ngnädige Verfügung zu treffen, daß die Regierung zu\nKalisch in dieser Sache das Erkenntniß abfaßen und\nihr zu diesem Ende die Acten zugeschickt werden\nd. 2. Dec 1800.\nH qm B.\nNo. 5957.\nmögen.\"\nIch habe die Ehre mit den Gesinnungen tiefgegründetester Verehrung\nzu beharren\nEuerer Excellenz\nganz gehorsamster Diener,\nF[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe.\nBreslau, den 30. Novbr 1800.\nHochwohlgebohrner Herr;\nHochzuverehrender Herr GroßCanzler!\nEw. Excellenz verzeihen, wenn ich mir die Freyheit neh¬\nme, mein Bittschreiben noch mit diesen wenigen\nWorten zu begleiten.\nMein Vertrauen auf Hochdero Gewogenheit gegen\nmich ist allzugroß, als daß ich nicht ganz ge¬\ntrost der Gewährung meiner dringendsten\nBitte: \"daß Ew. Excellenz geruhen möchten,\nnach Innhalt des Bittschreibens gütigst zu ver¬\nfügen\" entgegen sehen dürfte.\nFolgende Gründe haben mich zu meinem Gesuch\nunter andere bewogen:\nSchon der Vergleichsvorschlag, welchen der Deputatus in dem letzten\nTermin gemacht hat, macht mich besorgt, daß man bey der\nRegierung zu Posen nicht mit der gehörigen Unbefangen\nheit zur Abfaßung des Erkenntnisses zu Werke gehen\nmöchte. Das LebtagsRecht, welches der noch lebende\nVater der Klägerinn an dem Vermögen seiner ver¬\nstorbenen Ehegattin auszuüben hatte, ist doch offen¬\nbar ein Theil des ihm confiscirten Vermögens,\nund Fiscus hat doch durch die Confiscation des ganzen\ngegenwärtigen und zukünftigen Vermögens des\nv. Prusimski, das LebtagsRecht offenbar unterworben.\nEs ist mir daher sehr aufgefallen, wie der Deputatus\nbey dem Vergleichsvorschlage den sonderbaren Zwey¬\nfel gegen die Gültigkeit des LebtagsRechts aufwerfen\nkonnte, daß es darum dem Fisco nicht zustehen würde, weil\ndie verstorbene Mutter der Klägerinn mit Fisco über\ndas LebtagsRecht nicht contrahirt hätte.\nDies, ingleich der Umstand, daß das Pupillen Collegium in\nwelches die Sache mit soviel Eifer betreibt, zu¬\ngleich Richter in derselben seyn soll, nicht minder noch\nsonstige andere, bloß auf meine individuelle\nÜberzeugung einwirkende Gründe, haben daher in\nmir ein Bedenken erregt, über die Sache bey der\nRegierung zu Posen sprechen zu lassen.\nDeshalb bitte ich Ew. Excellenz nochmals dringendst,\nentweder der Regierung zu Kalisch oder irgend\neinem andern Südpreussischen Collegio den Spruch\nüber die Sache gefälligst auftragen zu wollen.\nGeruhen Hochdieselben die Versicherung der unbe¬\ngrenzten Verehrung annehmen zu wollen, mit welcher\nich Lebenslang verharren werde.\nEuerer Excellenz\nganz gehorsamster Diener,\nF[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\nBreslau, den 30. Novbr. 1800.",
+ "text_reading": "Hochwohlgebohrner Herr!\n\nHochzuverehrender Herr Groß Canzler!\n\nDie minorenne Michalina von Prusimska hat bey der Regiere[...] Posen eine Klage wegen Vindication der mir von des [...] Majestät geschenkten Brzezier Güter, wider mich angestellte Die Sache ist jetzt instruirt und soll zum Spruch vorgelegt ge[...] den. Da das Pupillen Collegium zu Posen diesen Prozeß im Nahmen der minorennen Klägerinn betreibt, die Mitglieder des Pupillen Collegii aber zugleich Mitglieder der Regierung ſind, folglich meine Richter in der Sache ſeyn würden; so bitte ich Ew. Excellenz unterthänig: \"sowohl aus diesen als aus andern Gründen, die blo[...] von meiner individuellen Überzeugung abhängen, die gnädige Verfügung zu treffen, daß die Regierung zu Kalisch in dieser Sache das Erkenntniß abfaßen und ihr zu diesem Ende die Acten zugeschickt werden\n\nd. 2. Dec 1800. H qm B.\n\nNo. 5957.\n\nmögen.\" Ich habe die Ehre mit den Gesinnungen tiefgegründetester Verehrung zu beharren Euerer Excellenz ganz gehorsamster Diener, F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe.\n\nBreslau, den 30. Novbr 1800.\n\nHochwohlgebohrner Herr; Hochzuverehrender Herr GroßCanzler! Ew. Excellenz verzeihen, wenn ich mir die Freyheit nehme, mein Bittschreiben noch mit diesen wenigen Worten zu begleiten.\n\nMein Vertrauen auf Hochdero Gewogenheit gegen mich ist allzugroß, als daß ich nicht ganz getrost der Gewährung meiner dringendsten Bitte: \"daß Ew. Excellenz geruhen möchten, nach Innhalt des Bittschreibens gütigst zu verfügen\" entgegen sehen dürfte. Folgende Gründe haben mich zu meinem Gesuch\n\nunter andere bewogen:\n\nSchon der Vergleichsvorschlag, welchen der Deputatus in dem letzten Termin gemacht hat, macht mich besorgt, daß man bey der Regierung zu Posen nicht mit der gehörigen Unbefangen heit zur Abfaßung des Erkenntnisses zu Werke gehen möchte. Das LebtagsRecht, welches der noch lebende Vater der Klägerinn an dem Vermögen seiner verstorbenen Ehegattin auszuüben hatte, ist doch offenbar ein Theil des ihm confiscirten Vermögens, und Fiscus hat doch durch die Confiscation des ganzen gegenwärtigen und zukünftigen Vermögens des\n\nv. Prusimski, das LebtagsRecht offenbar unterworben. Es ist mir daher sehr aufgefallen, wie der Deputatus bey dem Vergleichsvorschlage den sonderbaren Zweyfel gegen die Gültigkeit des LebtagsRechts aufwerfen konnte, daß es darum dem Fisco nicht zustehen würde, weil die verstorbene Mutter der Klägerinn mit Fisco über das LebtagsRecht nicht contrahirt hätte. Dies, ingleich der Umstand, daß das Pupillen Collegium in welches die Sache mit soviel Eifer betreibt, zugleich Richter in derselben seyn soll, nicht minder noch sonstige andere, bloß auf meine individuelle Überzeugung einwirkende Gründe, haben daher in mir ein Bedenken erregt, über die Sache bey der Regierung zu Posen sprechen zu lassen. Deshalb bitte ich Ew. Excellenz nochmals dringendst, entweder der Regierung zu Kalisch oder irgend einem andern Südpreussischen Collegio den Spruch über die Sache gefälligst auftragen zu wollen. Geruhen Hochdieselben die Versicherung der unbe\n\ngrenzten Verehrung annehmen zu wollen, mit welcher ich Lebenslang verharren werde. Euerer Excellenz ganz gehorsamster Diener, F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\n\nBreslau, den 30. Novbr. 1800.",
  "pages": [
   {
    "page": 1,
-   "page_id": "0004_a2",
-   "line_start": 62,
-   "line_end": 100,
-   "n_lines": 39,
-   "diplomatic": "Die Südpreußl. Regierung zu Posen\nüberreicht allerunterthänigst Abschrift\nder Cabinets Ordre vom 11ten hujus\nin Sachen der Michalina von Prusimska\ncontra den Herrn Fürsten von Hohenlohe\nIngelfingen.\nIn Sachen der Michalina von Prusimska wider\nden Herrn Fürsten zu Hohenlohe Ingelfingen\nverfehlen wir nicht Euer Königl. Majestaet\nder Anlage eine Abschrift der Cabinets-\nOrdre vom 1ten & praes. den 7ten hujus,\nmit Bezug auf unsern allerunterthänigsten\nBericht vom 18ten m. pr. zur Allerhöchsten\nEinsicht und mit dem Bemerken allerun¬\nterthänigst zu übersenden, daß Terminus\nzur Beweisaufnahme und zum Schluß Ver¬\nfahren in dieser Sache auf den 22 ten\nhujus anstehet.\nPosen den 10ten July 1800.\ndie Regierung\nDanckelman\nv Götz\nDühring\nHering\nFromme\nDiederichs\nDannenberg\nBormann\nv Fischer\nLeuchert\nRichter\nHerford\nd. 27. Juli 1800.\nad Acta\nBerlin d. 1 Aug: 1800\nG[oldbeck]\nh qu[?] B\nB. 3681.\n6027.",
-   "transcription": "Die Südpreußl. Regierung zu Posen\nüberreicht allerunterthänigst Abschrift\nder Cabinets Ordre vom 11ten hujus\nin Sachen der Michalina von Prusimska\ncontra den Herrn Fürsten von Hohenlohe\nIngelfingen.\nIn Sachen der Michalina von Prusimska wider\nden Herrn Fürsten zu Hohenlohe Ingelfingen\nverfehlen wir nicht Euer Königl. Majestaet\nder Anlage eine Abschrift der Cabinets-\nOrdre vom 1ten & praes. den 7ten hujus,\nmit Bezug auf unsern allerunterthänigsten\nBericht vom 18ten m. pr. zur Allerhöchsten\nEinsicht und mit dem Bemerken allerun-\nterthänigst zu übersenden, daß Terminus\nzur Beweisaufnahme und zum Schluß Ver-\nfahren in dieser Sache auf den 22 ten\nhujus anstehet.\nPosen den 10ten July 1800.\ndie Regierung\nDanckelman\nv Götz\nDühring\nHering\nFromme\nDiederichs\nDannenberg\nBormann\nv Fischer\nLeuchert\nRichter\nHerford\nd. 27. Juli 1800.\nad Acta\nBerlin d. 1 Aug: 1800\nG[oldbeck]\nh qu[?] B\nB. 3681.\n6027.",
-   "reading": "Die Südpreußl. Regierung zu Posen überreicht allerunterthänigst Abschrift der Cabinets Ordre vom 11ten hujus in Sachen der Michalina von Prusimska contra den Herrn Fürsten von Hohenlohe Ingelfingen. In Sachen der Michalina von Prusimska wider den Herrn Fürsten zu Hohenlohe Ingelfingen verfehlen wir nicht Euer Königl. Majestaet der Anlage eine Abschrift der Cabinets- Ordre vom 1ten & praes. den 7ten hujus, mit Bezug auf unsern allerunterthänigsten Bericht vom 18ten m. pr. zur Allerhöchsten Einsicht und mit dem Bemerken allerunterthänigst zu übersenden, daß Terminus zur Beweisaufnahme und zum Schluß Verfahren in dieser Sache auf den 22 ten hujus anstehet. Posen den 10ten July 1800. die Regierung Danckelman\n\nv Götz\n\nDühring\n\nHering\n\nFromme\n\nDiederichs\n\nDannenberg\n\nBormann\n\nv Fischer\n\nLeuchert\n\nRichter\n\nHerford\n\nd. 27. Juli 1800. ad Acta Berlin d. 1 Aug: 1800 G[oldbeck]\n\nh qu[?] B\n\nB. 3,681. 6027.",
+   "page_id": "0007_a2",
+   "line_start": 129,
+   "line_end": 147,
+   "n_lines": 19,
+   "diplomatic": "Hochwohlgebohrner Herr!\nHochzuverehrender Herr Groß Canzler!\nDie minorenne Michalina von Prusimska hat bey der Regiere[...]\nPosen eine Klage wegen Vindication der mir von des [...]\nMajestät geschenkten Brzezier Güter, wider mich angestellte\nDie Sache ist jetzt instruirt und soll zum Spruch vorgelegt ge[...]\nden. Da das Pupillen Collegium zu Posen diesen Prozeß\nim Nahmen der minorennen Klägerinn betreibt, die Mit¬\nglieder des Pupillen Collegii aber zugleich Mitglieder der\nRegierung ſind, folglich meine Richter in der Sache ſeyn\nwürden; so bitte ich Ew. Excellenz unterthänig:\n\"sowohl aus diesen als aus andern Gründen, die blo[...]\nvon meiner individuellen Überzeugung abhängen, die\ngnädige Verfügung zu treffen, daß die Regierung zu\nKalisch in dieser Sache das Erkenntniß abfaßen und\nihr zu diesem Ende die Acten zugeschickt werden\nd. 2. Dec 1800.\nH qm B.\nNo. 5957.",
+   "transcription": "Hochwohlgebohrner Herr!\nHochzuverehrender Herr Groß Canzler!\nDie minorenne Michalina von Prusimska hat bey der Regiere[...]\nPosen eine Klage wegen Vindication der mir von des [...]\nMajestät geschenkten Brzezier Güter, wider mich angestellte\nDie Sache ist jetzt instruirt und soll zum Spruch vorgelegt ge[...]\nden. Da das Pupillen Collegium zu Posen diesen Prozeß\nim Nahmen der minorennen Klägerinn betreibt, die Mit-\nglieder des Pupillen Collegii aber zugleich Mitglieder der\nRegierung ſind, folglich meine Richter in der Sache ſeyn\nwürden; so bitte ich Ew. Excellenz unterthänig:\n\"sowohl aus diesen als aus andern Gründen, die blo[...]\nvon meiner individuellen Überzeugung abhängen, die\ngnädige Verfügung zu treffen, daß die Regierung zu\nKalisch in dieser Sache das Erkenntniß abfaßen und\nihr zu diesem Ende die Acten zugeschickt werden\nd. 2. Dec 1800.\nH qm B.\nNo. 5957.",
+   "reading": "Hochwohlgebohrner Herr!\n\nHochzuverehrender Herr Groß Canzler!\n\nDie minorenne Michalina von Prusimska hat bey der Regiere[...] Posen eine Klage wegen Vindication der mir von des [...] Majestät geschenkten Brzezier Güter, wider mich angestellte Die Sache ist jetzt instruirt und soll zum Spruch vorgelegt ge[...] den. Da das Pupillen Collegium zu Posen diesen Prozeß im Nahmen der minorennen Klägerinn betreibt, die Mitglieder des Pupillen Collegii aber zugleich Mitglieder der Regierung ſind, folglich meine Richter in der Sache ſeyn würden; so bitte ich Ew. Excellenz unterthänig: \"sowohl aus diesen als aus andern Gründen, die blo[...] von meiner individuellen Überzeugung abhängen, die gnädige Verfügung zu treffen, daß die Regierung zu Kalisch in dieser Sache das Erkenntniß abfaßen und ihr zu diesem Ende die Acten zugeschickt werden\n\nd. 2. Dec 1800. H qm B.\n\nNo. 5957.",
    "paragraphs": [
-    "Die Südpreußl. Regierung zu Posen überreicht allerunterthänigst Abschrift der Cabinets Ordre vom 11ten hujus in Sachen der Michalina von Prusimska contra den Herrn Fürsten von Hohenlohe Ingelfingen. In Sachen der Michalina von Prusimska wider den Herrn Fürsten zu Hohenlohe Ingelfingen verfehlen wir nicht Euer Königl. Majestaet der Anlage eine Abschrift der Cabinets- Ordre vom 1ten & praes. den 7ten hujus, mit Bezug auf unsern allerunterthänigsten Bericht vom 18ten m. pr. zur Allerhöchsten Einsicht und mit dem Bemerken allerunterthänigst zu übersenden, daß Terminus zur Beweisaufnahme und zum Schluß Verfahren in dieser Sache auf den 22 ten hujus anstehet. Posen den 10ten July 1800. die Regierung Danckelman",
-    "v Götz",
-    "Dühring",
-    "Hering",
-    "Fromme",
-    "Diederichs",
-    "Dannenberg",
-    "Bormann",
-    "v Fischer",
-    "Leuchert",
-    "Richter",
-    "Herford",
-    "d. 27. Juli 1800. ad Acta Berlin d. 1 Aug: 1800 G[oldbeck]",
-    "h qu[?] B",
-    "B. 3,681. 6027."
+    "Hochwohlgebohrner Herr!",
+    "Hochzuverehrender Herr Groß Canzler!",
+    "Die minorenne Michalina von Prusimska hat bey der Regiere[...] Posen eine Klage wegen Vindication der mir von des [...] Majestät geschenkten Brzezier Güter, wider mich angestellte Die Sache ist jetzt instruirt und soll zum Spruch vorgelegt ge[...] den. Da das Pupillen Collegium zu Posen diesen Prozeß im Nahmen der minorennen Klägerinn betreibt, die Mitglieder des Pupillen Collegii aber zugleich Mitglieder der Regierung ſind, folglich meine Richter in der Sache ſeyn würden; so bitte ich Ew. Excellenz unterthänig: \"sowohl aus diesen als aus andern Gründen, die blo[...] von meiner individuellen Überzeugung abhängen, die gnädige Verfügung zu treffen, daß die Regierung zu Kalisch in dieser Sache das Erkenntniß abfaßen und ihr zu diesem Ende die Acten zugeschickt werden",
+    "d. 2. Dec 1800. H qm B.",
+    "No. 5957."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
-   "continues_next": false,
+   "continues_next": true,
    "para_lines": [
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30,
-    31,
-    32,
-    36,
-    37
+    1,
+    2,
+    16,
+    18
    ],
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L3_01.jpg",
    "office_lines": [
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    38
+    16,
+    17,
+    18
    ],
    "office_paragraphs": [
-    12,
-    13,
-    14
+    3,
+    4
    ],
    "doc_line_start": 1,
-   "doc_line_end": 39
+   "doc_line_end": 19
+  },
+  {
+   "page": 2,
+   "page_id": "0008_a",
+   "line_start": 149,
+   "line_end": 167,
+   "n_lines": 19,
+   "diplomatic": "mögen.\"\nIch habe die Ehre mit den Gesinnungen tiefgegründetester Verehrung\nzu beharren\nEuerer Excellenz\nganz gehorsamster Diener,\nF[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe.\nBreslau, den 30. Novbr 1800.\nHochwohlgebohrner Herr;\nHochzuverehrender Herr GroßCanzler!\nEw. Excellenz verzeihen, wenn ich mir die Freyheit neh¬\nme, mein Bittschreiben noch mit diesen wenigen\nWorten zu begleiten.\nMein Vertrauen auf Hochdero Gewogenheit gegen\nmich ist allzugroß, als daß ich nicht ganz ge¬\ntrost der Gewährung meiner dringendsten\nBitte: \"daß Ew. Excellenz geruhen möchten,\nnach Innhalt des Bittschreibens gütigst zu ver¬\nfügen\" entgegen sehen dürfte.\nFolgende Gründe haben mich zu meinem Gesuch",
+   "transcription": "mögen.\"\nIch habe die Ehre mit den Gesinnungen tiefgegründetester Verehrung\nzu beharren\nEuerer Excellenz\nganz gehorsamster Diener,\nF[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe.\nBreslau, den 30. Novbr 1800.\nHochwohlgebohrner Herr;\nHochzuverehrender Herr GroßCanzler!\nEw. Excellenz verzeihen, wenn ich mir die Freyheit neh-\nme, mein Bittschreiben noch mit diesen wenigen\nWorten zu begleiten.\nMein Vertrauen auf Hochdero Gewogenheit gegen\nmich ist allzugroß, als daß ich nicht ganz ge-\ntrost der Gewährung meiner dringendsten\nBitte: \"daß Ew. Excellenz geruhen möchten,\nnach Innhalt des Bittschreibens gütigst zu ver-\nfügen\" entgegen sehen dürfte.\nFolgende Gründe haben mich zu meinem Gesuch",
+   "reading": "mögen.\" Ich habe die Ehre mit den Gesinnungen tiefgegründetester Verehrung zu beharren Euerer Excellenz ganz gehorsamster Diener, F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe.\n\nBreslau, den 30. Novbr 1800.\n\nHochwohlgebohrner Herr; Hochzuverehrender Herr GroßCanzler! Ew. Excellenz verzeihen, wenn ich mir die Freyheit nehme, mein Bittschreiben noch mit diesen wenigen Worten zu begleiten.\n\nMein Vertrauen auf Hochdero Gewogenheit gegen mich ist allzugroß, als daß ich nicht ganz getrost der Gewährung meiner dringendsten Bitte: \"daß Ew. Excellenz geruhen möchten, nach Innhalt des Bittschreibens gütigst zu verfügen\" entgegen sehen dürfte. Folgende Gründe haben mich zu meinem Gesuch",
+   "paragraphs": [
+    "mögen.\" Ich habe die Ehre mit den Gesinnungen tiefgegründetester Verehrung zu beharren Euerer Excellenz ganz gehorsamster Diener, F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe.",
+    "Breslau, den 30. Novbr 1800.",
+    "Hochwohlgebohrner Herr; Hochzuverehrender Herr GroßCanzler! Ew. Excellenz verzeihen, wenn ich mir die Freyheit nehme, mein Bittschreiben noch mit diesen wenigen Worten zu begleiten.",
+    "Mein Vertrauen auf Hochdero Gewogenheit gegen mich ist allzugroß, als daß ich nicht ganz getrost der Gewährung meiner dringendsten Bitte: \"daß Ew. Excellenz geruhen möchten, nach Innhalt des Bittschreibens gütigst zu verfügen\" entgegen sehen dürfte. Folgende Gründe haben mich zu meinem Gesuch"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": true,
+   "para_lines": [
+    6,
+    7,
+    12
+   ],
+   "scan": "I_HA_Rep_7_C_Nr_3709_0008_a-L3_02.jpg",
+   "doc_line_start": 20,
+   "doc_line_end": 38
+  },
+  {
+   "page": 3,
+   "page_id": "0009_a",
+   "line_start": 169,
+   "line_end": 198,
+   "n_lines": 30,
+   "diplomatic": "unter andere bewogen:\nSchon der Vergleichsvorschlag, welchen der Deputatus in dem letzten\nTermin gemacht hat, macht mich besorgt, daß man bey der\nRegierung zu Posen nicht mit der gehörigen Unbefangen\nheit zur Abfaßung des Erkenntnisses zu Werke gehen\nmöchte. Das LebtagsRecht, welches der noch lebende\nVater der Klägerinn an dem Vermögen seiner ver¬\nstorbenen Ehegattin auszuüben hatte, ist doch offen¬\nbar ein Theil des ihm confiscirten Vermögens,\nund Fiscus hat doch durch die Confiscation des ganzen\ngegenwärtigen und zukünftigen Vermögens des\nv. Prusimski, das LebtagsRecht offenbar unterworben.\nEs ist mir daher sehr aufgefallen, wie der Deputatus\nbey dem Vergleichsvorschlage den sonderbaren Zwey¬\nfel gegen die Gültigkeit des LebtagsRechts aufwerfen\nkonnte, daß es darum dem Fisco nicht zustehen würde, weil\ndie verstorbene Mutter der Klägerinn mit Fisco über\ndas LebtagsRecht nicht contrahirt hätte.\nDies, ingleich der Umstand, daß das Pupillen Collegium in\nwelches die Sache mit soviel Eifer betreibt, zu¬\ngleich Richter in derselben seyn soll, nicht minder noch\nsonstige andere, bloß auf meine individuelle\nÜberzeugung einwirkende Gründe, haben daher in\nmir ein Bedenken erregt, über die Sache bey der\nRegierung zu Posen sprechen zu lassen.\nDeshalb bitte ich Ew. Excellenz nochmals dringendst,\nentweder der Regierung zu Kalisch oder irgend\neinem andern Südpreussischen Collegio den Spruch\nüber die Sache gefälligst auftragen zu wollen.\nGeruhen Hochdieselben die Versicherung der unbe¬",
+   "transcription": "unter andere bewogen:\nSchon der Vergleichsvorschlag, welchen der Deputatus in dem letzten\nTermin gemacht hat, macht mich besorgt, daß man bey der\nRegierung zu Posen nicht mit der gehörigen Unbefangen\nheit zur Abfaßung des Erkenntnisses zu Werke gehen\nmöchte. Das LebtagsRecht, welches der noch lebende\nVater der Klägerinn an dem Vermögen seiner ver-\nstorbenen Ehegattin auszuüben hatte, ist doch offen-\nbar ein Theil des ihm confiscirten Vermögens,\nund Fiscus hat doch durch die Confiscation des ganzen\ngegenwärtigen und zukünftigen Vermögens des\nv. Prusimski, das LebtagsRecht offenbar unterworben.\nEs ist mir daher sehr aufgefallen, wie der Deputatus\nbey dem Vergleichsvorschlage den sonderbaren Zwey-\nfel gegen die Gültigkeit des LebtagsRechts aufwerfen\nkonnte, daß es darum dem Fisco nicht zustehen würde, weil\ndie verstorbene Mutter der Klägerinn mit Fisco über\ndas LebtagsRecht nicht contrahirt hätte.\nDies, ingleich der Umstand, daß das Pupillen Collegium in\nwelches die Sache mit soviel Eifer betreibt, zu-\ngleich Richter in derselben seyn soll, nicht minder noch\nsonstige andere, bloß auf meine individuelle\nÜberzeugung einwirkende Gründe, haben daher in\nmir ein Bedenken erregt, über die Sache bey der\nRegierung zu Posen sprechen zu lassen.\nDeshalb bitte ich Ew. Excellenz nochmals dringendst,\nentweder der Regierung zu Kalisch oder irgend\neinem andern Südpreussischen Collegio den Spruch\nüber die Sache gefälligst auftragen zu wollen.\nGeruhen Hochdieselben die Versicherung der unbe-",
+   "reading": "unter andere bewogen:\n\nSchon der Vergleichsvorschlag, welchen der Deputatus in dem letzten Termin gemacht hat, macht mich besorgt, daß man bey der Regierung zu Posen nicht mit der gehörigen Unbefangen heit zur Abfaßung des Erkenntnisses zu Werke gehen möchte. Das LebtagsRecht, welches der noch lebende Vater der Klägerinn an dem Vermögen seiner verstorbenen Ehegattin auszuüben hatte, ist doch offenbar ein Theil des ihm confiscirten Vermögens, und Fiscus hat doch durch die Confiscation des ganzen gegenwärtigen und zukünftigen Vermögens des\n\nv. Prusimski, das LebtagsRecht offenbar unterworben. Es ist mir daher sehr aufgefallen, wie der Deputatus bey dem Vergleichsvorschlage den sonderbaren Zweyfel gegen die Gültigkeit des LebtagsRechts aufwerfen konnte, daß es darum dem Fisco nicht zustehen würde, weil die verstorbene Mutter der Klägerinn mit Fisco über das LebtagsRecht nicht contrahirt hätte. Dies, ingleich der Umstand, daß das Pupillen Collegium in welches die Sache mit soviel Eifer betreibt, zugleich Richter in derselben seyn soll, nicht minder noch sonstige andere, bloß auf meine individuelle Überzeugung einwirkende Gründe, haben daher in mir ein Bedenken erregt, über die Sache bey der Regierung zu Posen sprechen zu lassen. Deshalb bitte ich Ew. Excellenz nochmals dringendst, entweder der Regierung zu Kalisch oder irgend einem andern Südpreussischen Collegio den Spruch über die Sache gefälligst auftragen zu wollen. Geruhen Hochdieselben die Versicherung der unbe",
+   "paragraphs": [
+    "unter andere bewogen:",
+    "Schon der Vergleichsvorschlag, welchen der Deputatus in dem letzten Termin gemacht hat, macht mich besorgt, daß man bey der Regierung zu Posen nicht mit der gehörigen Unbefangen heit zur Abfaßung des Erkenntnisses zu Werke gehen möchte. Das LebtagsRecht, welches der noch lebende Vater der Klägerinn an dem Vermögen seiner verstorbenen Ehegattin auszuüben hatte, ist doch offenbar ein Theil des ihm confiscirten Vermögens, und Fiscus hat doch durch die Confiscation des ganzen gegenwärtigen und zukünftigen Vermögens des",
+    "v. Prusimski, das LebtagsRecht offenbar unterworben. Es ist mir daher sehr aufgefallen, wie der Deputatus bey dem Vergleichsvorschlage den sonderbaren Zweyfel gegen die Gültigkeit des LebtagsRechts aufwerfen konnte, daß es darum dem Fisco nicht zustehen würde, weil die verstorbene Mutter der Klägerinn mit Fisco über das LebtagsRecht nicht contrahirt hätte. Dies, ingleich der Umstand, daß das Pupillen Collegium in welches die Sache mit soviel Eifer betreibt, zugleich Richter in derselben seyn soll, nicht minder noch sonstige andere, bloß auf meine individuelle Überzeugung einwirkende Gründe, haben daher in mir ein Bedenken erregt, über die Sache bey der Regierung zu Posen sprechen zu lassen. Deshalb bitte ich Ew. Excellenz nochmals dringendst, entweder der Regierung zu Kalisch oder irgend einem andern Südpreussischen Collegio den Spruch über die Sache gefälligst auftragen zu wollen. Geruhen Hochdieselben die Versicherung der unbe"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": true,
+   "para_lines": [
+    1,
+    11
+   ],
+   "scan": "I_HA_Rep_7_C_Nr_3709_0009_a-L3_03.jpg",
+   "doc_line_start": 39,
+   "doc_line_end": 68
+  },
+  {
+   "page": 4,
+   "page_id": "0010_a",
+   "line_start": 200,
+   "line_end": 205,
+   "n_lines": 6,
+   "diplomatic": "grenzten Verehrung annehmen zu wollen, mit welcher\nich Lebenslang verharren werde.\nEuerer Excellenz\nganz gehorsamster Diener,\nF[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\nBreslau, den 30. Novbr. 1800.",
+   "transcription": "grenzten Verehrung annehmen zu wollen, mit welcher\nich Lebenslang verharren werde.\nEuerer Excellenz\nganz gehorsamster Diener,\nF[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\nBreslau, den 30. Novbr. 1800.",
+   "reading": "grenzten Verehrung annehmen zu wollen, mit welcher ich Lebenslang verharren werde. Euerer Excellenz ganz gehorsamster Diener, F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\n\nBreslau, den 30. Novbr. 1800.",
+   "paragraphs": [
+    "grenzten Verehrung annehmen zu wollen, mit welcher ich Lebenslang verharren werde. Euerer Excellenz ganz gehorsamster Diener, F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.",
+    "Breslau, den 30. Novbr. 1800."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "para_lines": [
+    5
+   ],
+   "scan": "I_HA_Rep_7_C_Nr_3709_0010_a-L3_04.jpg",
+   "doc_line_start": 69,
+   "doc_line_end": 74
   }
  ],
  "mentions": [
@@ -115,76 +162,46 @@
    "kind": "person",
    "surface": "Prusimska",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 65,
-   "doc_line": 4
+   "page_id": "0007_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L3_01.jpg",
+   "line": 131,
+   "doc_line": 3
   },
   {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
    "surface": "Hohenlohe",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 66,
-   "doc_line": 5
+   "page": 2,
+   "page_id": "0008_a",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0008_a-L3_02.jpg",
+   "line": 154,
+   "doc_line": 25
   },
   {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
-   "surface": "Prusimska",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 68,
-   "doc_line": 7
+   "surface": "Prusimski",
+   "page": 3,
+   "page_id": "0009_a",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0009_a-L3_03.jpg",
+   "line": 180,
+   "doc_line": 50
   },
   {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
    "surface": "Hohenlohe",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 69,
-   "doc_line": 8
-  },
-  {
-   "entity": "danckelmann",
-   "display": "Danckelmann",
-   "kind": "person",
-   "surface": "Danckelman",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 82,
-   "doc_line": 21
-  },
-  {
-   "entity": "goldbeck",
-   "display": "Heinrich Julius von Goldbeck",
-   "kind": "person",
-   "surface": "G[oldbeck]",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 97,
-   "doc_line": 36
+   "page": 4,
+   "page_id": "0010_a",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0010_a-L3_04.jpg",
+   "line": 204,
+   "doc_line": 73
   }
  ],
  "mentions_english": [
-  {
-   "entity": "",
-   "display": "Poznań",
-   "kind": "place",
-   "surface_de": "Posen",
-   "surface_en": "Poznań",
-   "page": 1
-  },
   {
    "entity": "",
    "display": "Michalina von Prusimska",
@@ -195,126 +212,86 @@
   },
   {
    "entity": "",
-   "display": "Hohenlohe-Ingelfingen",
-   "kind": "person",
-   "surface_de": "Hohenlohe Ingelfingen",
-   "surface_en": "Hohenlohe-Ingelfingen",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Berlin",
+   "display": "Poznań",
    "kind": "place",
-   "surface_de": "Berlin",
-   "surface_en": "Berlin",
-   "page": 1
-  },
-  {
-   "entity": "danckelmann",
-   "display": "Danckelmann",
-   "kind": "person",
-   "surface_de": "Danckelman",
-   "surface_en": "Danckelman",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
    "page": 1
   },
   {
    "entity": "",
-   "display": "v Götz",
-   "kind": "person",
-   "surface_de": "v Götz",
-   "surface_en": "v Götz",
+   "display": "Brzyce",
+   "kind": "place",
+   "surface_de": "Brzezier",
+   "surface_en": "Brzyce",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Dühring",
-   "kind": "person",
-   "surface_de": "Dühring",
-   "surface_en": "Dühring",
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Hering",
-   "kind": "person",
-   "surface_de": "Hering",
-   "surface_en": "Hering",
-   "page": 1
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 2
   },
   {
    "entity": "",
-   "display": "Fromme",
+   "display": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
    "kind": "person",
-   "surface_de": "Fromme",
-   "surface_en": "Fromme",
-   "page": 1
+   "surface_de": "F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe",
+   "surface_en": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
+   "page": 2
   },
   {
    "entity": "",
-   "display": "Diederichs",
-   "kind": "person",
-   "surface_de": "Diederichs",
-   "surface_en": "Diederichs",
-   "page": 1
+   "display": "Poznań",
+   "kind": "place",
+   "surface_de": "Posen",
+   "surface_en": "Poznań",
+   "page": 3
   },
   {
    "entity": "",
-   "display": "Dannenberg",
+   "display": "von Prusimski",
    "kind": "person",
-   "surface_de": "Dannenberg",
-   "surface_en": "Dannenberg",
-   "page": 1
+   "surface_de": "v. Prusimski",
+   "surface_en": "von Prusimski",
+   "page": 3
   },
   {
    "entity": "",
-   "display": "Bormann",
-   "kind": "person",
-   "surface_de": "Bormann",
-   "surface_en": "Bormann",
-   "page": 1
+   "display": "Kalisz",
+   "kind": "place",
+   "surface_de": "Kalisch",
+   "surface_en": "Kalisz",
+   "page": 3
   },
   {
    "entity": "",
-   "display": "v Fischer",
-   "kind": "person",
-   "surface_de": "v Fischer",
-   "surface_en": "v Fischer",
-   "page": 1
+   "display": "Wrocław",
+   "kind": "place",
+   "surface_de": "Breslau",
+   "surface_en": "Wrocław",
+   "page": 4
   },
   {
    "entity": "",
-   "display": "Leuchert",
+   "display": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
    "kind": "person",
-   "surface_de": "Leuchert",
-   "surface_en": "Leuchert",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Richter",
-   "kind": "person",
-   "surface_de": "Richter",
-   "surface_en": "Richter",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Herford",
-   "kind": "person",
-   "surface_de": "Herford",
-   "surface_en": "Herford",
-   "page": 1
-  },
-  {
-   "entity": "goldbeck",
-   "display": "Heinrich Julius von Goldbeck",
-   "kind": "person",
-   "surface_de": "G[oldbeck]",
-   "surface_en": "G[oldbeck]",
-   "page": 1
+   "surface_de": "F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe",
+   "surface_en": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
+   "page": 4
   }
  ],
- "place_canonical": "Posen",
+ "place_canonical": "Breslau",
  "place_mentions": [
   {
    "entity": "posen",
@@ -322,21 +299,21 @@
    "kind": "place",
    "surface": "Posen",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 62,
-   "doc_line": 1
+   "page_id": "0007_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L3_01.jpg",
+   "line": 132,
+   "doc_line": 4
   },
   {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
+   "entity": "brzyce",
+   "display": "Brzyce",
    "kind": "place",
-   "surface": "Ingelfingen",
+   "surface": "Brzezier",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 67,
-   "doc_line": 6
+   "page_id": "0007_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L3_01.jpg",
+   "line": 133,
+   "doc_line": 5
   },
   {
    "entity": "posen",
@@ -344,28 +321,134 @@
    "kind": "place",
    "surface": "Posen",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 80,
-   "doc_line": 19
+   "page_id": "0007_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L3_01.jpg",
+   "line": 135,
+   "doc_line": 7
   },
   {
-   "entity": "berlin",
-   "display": "Berlin",
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
-   "surface": "Berlin",
+   "surface": "Kalisch",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "I_HA_Rep_7_C_Nr_3709_0004_a2-L3_01.jpg",
-   "line": 96,
-   "doc_line": 35
+   "page_id": "0007_a2",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0007_a2-L3_01.jpg",
+   "line": 143,
+   "doc_line": 15
+  },
+  {
+   "entity": "breslau",
+   "display": "Wrocław (Breslau)",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 2,
+   "page_id": "0008_a",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0008_a-L3_02.jpg",
+   "line": 155,
+   "doc_line": 26
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 3,
+   "page_id": "0009_a",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0009_a-L3_03.jpg",
+   "line": 172,
+   "doc_line": 42
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posen",
+   "page": 3,
+   "page_id": "0009_a",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0009_a-L3_03.jpg",
+   "line": 193,
+   "doc_line": 63
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Kalisch",
+   "page": 3,
+   "page_id": "0009_a",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0009_a-L3_03.jpg",
+   "line": 195,
+   "doc_line": 65
+  },
+  {
+   "entity": "breslau",
+   "display": "Wrocław (Breslau)",
+   "kind": "place",
+   "surface": "Breslau",
+   "page": 4,
+   "page_id": "0010_a",
+   "scan": "I_HA_Rep_7_C_Nr_3709_0010_a-L3_04.jpg",
+   "line": 205,
+   "doc_line": 74
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "The South Prussian Government at Poznań most humbly submits a copy of the cabinet order of the 11th of this month in the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen. In the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen we do not fail most humbly to send Your Royal Majesty, enclosed, a copy of the cabinet order of the 1st, received the 7th of this month, with reference to our most humble report of the 18th of last month, for Your Majesty's most exalted inspection, with the observation that the hearing for taking the evidence and for the closing proceedings in this case is set for the 22nd of this month. Poznań, 10 July 1800. The Government Danckelman\n\nv Götz\n\nDühring\n\nHering\n\nFromme\n\nDiederichs\n\nDannenberg\n\nBormann\n\nv Fischer\n\nLeuchert\n\nRichter\n\nHerford\n\n[Written by the receiving office:]\n\n27 July 1800. To the files. Berlin, 1 Aug. 1800 G[oldbeck]\n\nh qu[illegible] B\n\nB. 3681. 6027.",
+   "en": "Right Honourable Sir!\n\nMost Highly Honoured Lord Grand Chancellor!\n\nThe minor Michalina von Prusimska has brought a suit against me before the Government [text lost] Poznań for the recovery of the Brzyce estates given to me by His [text lost] Majesty. The case has now been prepared and is to be laid before the court for judgment [text lost]. Since the guardianship board at Poznań is conducting this lawsuit in the name of the minor plaintiff, but the members of the guardianship board are at the same time members of the Government, and would consequently be my judges in the case, I humbly ask Your Excellency: \"both for these and for other reasons, which depend solely [text lost] on my individual conviction, graciously to give the order that the Government at Kalisz should draw up the judgment in this case, and that to this end the files\n\n[Written by the receiving office:]\n\n2 Dec. 1800. H qm B.\n\nNo. 5957.",
+   "names": [
+    {
+     "de": "Michalina von Prusimska",
+     "en": "Michalina von Prusimska",
+     "kind": "person"
+    },
+    {
+     "de": "Posen",
+     "en": "Poznań",
+     "kind": "place"
+    },
+    {
+     "de": "Brzezier",
+     "en": "Brzyce",
+     "kind": "place"
+    },
+    {
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "2",
+    "1800",
+    "5957"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "be sent to it.\" I have the honour to remain, with sentiments of the most deeply founded reverence, Your Excellency's most obedient servant, F[riedrich] L[udwig] P[rince] of Hohenlohe.\n\nWrocław, 30 Nov. 1800\n\nRight Honourable Sir; Most Highly Honoured Lord Grand Chancellor! Your Excellency will forgive me if I take the liberty of accompanying my petition with these few words.\n\nMy trust in Your Excellency's goodwill towards me is far too great for me not to look forward with complete confidence to the granting of my most urgent request: \"that Your Excellency might deign kindly to give orders in accordance with the contents of the petition\".\n\nThe following reasons have moved me to my request,",
+   "names": [
+    {
+     "de": "Breslau",
+     "en": "Wrocław",
+     "kind": "place"
+    },
+    {
+     "de": "F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe",
+     "en": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "30",
+    "1800"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "among others:\n\nThe very proposal for a settlement which the commissioned judge (Deputatus) made at the last hearing makes me anxious that the Government at Poznań may not set about drawing up the judgment with the impartiality that is due. The life interest which the plaintiff's father, who is still living, had to exercise in the property of his late wife is surely plainly a part of the property confiscated from him, and by the confiscation of the entire present and future property of\n\nvon Prusimski the Treasury (Fiscus) has surely plainly made the life interest subject to itself. It therefore struck me greatly that the commissioned judge, in his proposal for a settlement, could raise the strange doubt against the validity of the life interest, that it would not belong to the Treasury because the plaintiff's late mother had not contracted with the Treasury concerning the life interest. This, and likewise the circumstance that the guardianship board, which pursues the case with so much zeal, is at the same time to be judge in it, and no less other reasons bearing solely on my individual conviction, have therefore raised in me a misgiving about having the case decided by the Government at Poznań. I therefore once more most urgently beg Your Excellency kindly to entrust the decision of the case either to the Government at Kalisz or to any other South Prussian court. May Your Excellency deign to accept the assurance of the un",
    "names": [
     {
      "de": "Posen",
@@ -373,105 +456,40 @@
      "kind": "place"
     },
     {
-     "de": "Michalina von Prusimska",
-     "en": "Michalina von Prusimska",
+     "de": "v. Prusimski",
+     "en": "von Prusimski",
      "kind": "person"
     },
     {
-     "de": "Hohenlohe Ingelfingen",
-     "en": "Hohenlohe-Ingelfingen",
-     "kind": "person"
-    },
+     "de": "Kalisch",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "en": "bounded reverence with which I shall remain for life Your Excellency's most obedient servant, F[riedrich] L[udwig] P[rince] of Hohenlohe.\n\nWrocław, 30 Nov. 1800",
+   "names": [
     {
-     "de": "Berlin",
-     "en": "Berlin",
+     "de": "Breslau",
+     "en": "Wrocław",
      "kind": "place"
     },
     {
-     "de": "Danckelman",
-     "en": "Danckelman",
-     "kind": "person"
-    },
-    {
-     "de": "v Götz",
-     "en": "v Götz",
-     "kind": "person"
-    },
-    {
-     "de": "Dühring",
-     "en": "Dühring",
-     "kind": "person"
-    },
-    {
-     "de": "Hering",
-     "en": "Hering",
-     "kind": "person"
-    },
-    {
-     "de": "Fromme",
-     "en": "Fromme",
-     "kind": "person"
-    },
-    {
-     "de": "Diederichs",
-     "en": "Diederichs",
-     "kind": "person"
-    },
-    {
-     "de": "Dannenberg",
-     "en": "Dannenberg",
-     "kind": "person"
-    },
-    {
-     "de": "Bormann",
-     "en": "Bormann",
-     "kind": "person"
-    },
-    {
-     "de": "v Fischer",
-     "en": "v Fischer",
-     "kind": "person"
-    },
-    {
-     "de": "Leuchert",
-     "en": "Leuchert",
-     "kind": "person"
-    },
-    {
-     "de": "Richter",
-     "en": "Richter",
-     "kind": "person"
-    },
-    {
-     "de": "Herford",
-     "en": "Herford",
-     "kind": "person"
-    },
-    {
-     "de": "G[oldbeck]",
-     "en": "G[oldbeck]",
+     "de": "F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe",
+     "en": "F[riedrich] L[udwig] P[rince] of Hohenlohe",
      "kind": "person"
     }
    ],
    "numbers": [
-    "11",
-    "1",
-    "7",
-    "18",
-    "22",
-    "10",
-    "1800",
-    "27",
-    "1800",
-    "1",
-    "1800",
-    "3,681",
-    "6,027"
+    "30",
+    "1800"
    ]
   }
  ],
- "text_english": "The South Prussian Government at Poznań most humbly submits a copy of the cabinet order of the 11th of this month in the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen. In the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen we do not fail most humbly to send Your Royal Majesty, enclosed, a copy of the cabinet order of the 1st, received the 7th of this month, with reference to our most humble report of the 18th of last month, for Your Majesty's most exalted inspection, with the observation that the hearing for taking the evidence and for the closing proceedings in this case is set for the 22nd of this month. Poznań, 10 July 1800. The Government Danckelman\n\nv Götz\n\nDühring\n\nHering\n\nFromme\n\nDiederichs\n\nDannenberg\n\nBormann\n\nv Fischer\n\nLeuchert\n\nRichter\n\nHerford\n\n[Written by the receiving office:]\n\n27 July 1800. To the files. Berlin, 1 Aug. 1800 G[oldbeck]\n\nh qu[illegible] B\n\nB. 3681. 6027.",
- "summary_en": "The Government at Poznań submits to the King a copy of the cabinet order of 1 July, received on 7 July, with reference to its report of the 18th of the previous month. It notes that the hearing for taking evidence and closing the proceedings in the case of Michalina von Prusimska against the Prince of Hohenlohe-Ingelfingen is set for 22 July. The receiving office files the report in Berlin on 1 August 1800.",
- "summary_de": "Die Regierung zu Posen überreicht dem König eine Abschrift der Kabinettsordre vom 1. Juli, eingegangen am 7. Juli, unter Bezug auf ihren Bericht vom 18. des Vormonats. Sie bemerkt, dass der Termin zur Beweisaufnahme und zum Schlussverfahren in der Sache der Michalina von Prusimska gegen den Fürsten zu Hohenlohe-Ingelfingen auf den 22. Juli ansteht. Die empfangende Behörde legt den Bericht am 1. August 1800 in Berlin zu den Akten.",
+ "text_english": "Right Honourable Sir!\n\nMost Highly Honoured Lord Grand Chancellor!\n\nThe minor Michalina von Prusimska has brought a suit against me before the Government [text lost] Poznań for the recovery of the Brzyce estates given to me by His [text lost] Majesty. The case has now been prepared and is to be laid before the court for judgment [text lost]. Since the guardianship board at Poznań is conducting this lawsuit in the name of the minor plaintiff, but the members of the guardianship board are at the same time members of the Government, and would consequently be my judges in the case, I humbly ask Your Excellency: \"both for these and for other reasons, which depend solely [text lost] on my individual conviction, graciously to give the order that the Government at Kalisz should draw up the judgment in this case, and that to this end the files\n\n[Written by the receiving office:]\n\n2 Dec. 1800. H qm B.\n\nNo. 5957.\n\nbe sent to it.\" I have the honour to remain, with sentiments of the most deeply founded reverence, Your Excellency's most obedient servant, F[riedrich] L[udwig] P[rince] of Hohenlohe.\n\nWrocław, 30 Nov. 1800\n\nRight Honourable Sir; Most Highly Honoured Lord Grand Chancellor! Your Excellency will forgive me if I take the liberty of accompanying my petition with these few words.\n\nMy trust in Your Excellency's goodwill towards me is far too great for me not to look forward with complete confidence to the granting of my most urgent request: \"that Your Excellency might deign kindly to give orders in accordance with the contents of the petition\".\n\nThe following reasons have moved me to my request,\n\namong others:\n\nThe very proposal for a settlement which the commissioned judge (Deputatus) made at the last hearing makes me anxious that the Government at Poznań may not set about drawing up the judgment with the impartiality that is due. The life interest which the plaintiff's father, who is still living, had to exercise in the property of his late wife is surely plainly a part of the property confiscated from him, and by the confiscation of the entire present and future property of\n\nvon Prusimski the Treasury (Fiscus) has surely plainly made the life interest subject to itself. It therefore struck me greatly that the commissioned judge, in his proposal for a settlement, could raise the strange doubt against the validity of the life interest, that it would not belong to the Treasury because the plaintiff's late mother had not contracted with the Treasury concerning the life interest. This, and likewise the circumstance that the guardianship board, which pursues the case with so much zeal, is at the same time to be judge in it, and no less other reasons bearing solely on my individual conviction, have therefore raised in me a misgiving about having the case decided by the Government at Poznań. I therefore once more most urgently beg Your Excellency kindly to entrust the decision of the case either to the Government at Kalisz or to any other South Prussian court. May Your Excellency deign to accept the assurance of the un\n\nbounded reverence with which I shall remain for life Your Excellency's most obedient servant, F[riedrich] L[udwig] P[rince] of Hohenlohe.\n\nWrocław, 30 Nov. 1800",
+ "summary_en": "The Prince of Hohenlohe writes to the Grand Chancellor: the minor Michalina von Prusimska has sued him before the Government at Poznań for the recovery of the Brzyce estates, which the King gave him; the case is now to be laid before the court for judgment. Since the guardianship board at Poznań conducts the suit in the plaintiff's name and its members are also members of the Government, and so would be his judges, he asks that the judgment be entrusted to the Government at Kalisz and the files sent there. The receiving office marked it with the date 2 December 1800. His covering letter of the same day follows: the settlement proposal made by the court's deputy at the last hearing makes him fear that the Government at Poznań will not judge impartially. The lifetime right of the plaintiff's father, who is still living, in his late wife's property is, he says, part of the father's confiscated property; the deputy nevertheless doubted that it belongs to the fisc. The Prince asks again, urgently, that the judgment be entrusted to the Government at Kalisz or to another South Prussian court.",
+ "summary_de": "Der Fürst von Hohenlohe schreibt dem Großkanzler: Die minderjährige Michalina von Prusimska hat bei der Regierung zu Posen gegen ihn auf Herausgabe der ihm vom König geschenkten Brzycer Güter geklagt; die Sache soll nun zum Spruch vorgelegt werden. Da das Pupillenkollegium zu Posen den Prozess im Namen der Klägerin betreibt und seine Mitglieder zugleich Mitglieder der Regierung sind, also seine Richter wären, bittet er, das Urteil der Regierung zu Kalisch zu übertragen und ihr die Akten zuzuschicken. Die empfangende Behörde vermerkte darauf den 2. Dezember 1800. Es folgt sein Begleitschreiben vom selben Tag: Der Vergleichsvorschlag, den der Deputierte im letzten Termin gemacht hat, lasse ihn fürchten, dass die Regierung zu Posen nicht unbefangen urteilen werde. Das Lebtagsrecht des noch lebenden Vaters der Klägerin am Vermögen seiner verstorbenen Frau sei ein Teil des ihm konfiszierten Vermögens; der Deputierte habe dennoch bezweifelt, dass es dem Fiskus zustehe. Der Fürst bittet nochmals dringend, den Spruch der Regierung zu Kalisch oder einem anderen südpreußischen Kollegium aufzutragen.",
  "reading": {}
 }

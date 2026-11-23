@@ -505,7 +505,7 @@
    "oe1bu14525-31",
    "oe1bu14525-42",
    "oe1bu14525-8",
-   "oe1bu14526-25",
+   "oe1bu14526-24",
    "oe1bu9454-75",
    "oe1bu9454-76",
    "oe1bu9454-77",
@@ -544,11 +544,11 @@
    "oe1bu14525-2",
    "oe1bu14525-43",
    "oe1bu14525-44",
+   "oe1bu14526-25",
    "oe1bu14526-26",
    "oe1bu14526-27",
-   "oe1bu14526-28",
+   "oe1bu14526-29",
    "oe1bu14526-3",
-   "oe1bu14526-30",
    "oe1bu9454-100",
    "oe1bu9454-102",
    "oe1bu9454-103",
@@ -564,14 +564,9 @@
  },
  {
   "year": "1800",
-  "count": 22,
+  "count": 17,
   "documents": [
    "ihagrrep7cnr3709-1",
-   "ihagrrep7cnr3709-10",
-   "ihagrrep7cnr3709-11",
-   "ihagrrep7cnr3709-12",
-   "ihagrrep7cnr3709-13",
-   "ihagrrep7cnr3709-14",
    "ihagrrep7cnr3709-2",
    "ihagrrep7cnr3709-3",
    "ihagrrep7cnr3709-4",
@@ -607,7 +602,7 @@
   "year": "1802",
   "count": 18,
   "documents": [
-   "ihagrrep7cnr3709-15",
+   "ihagrrep7cnr3709-10",
    "oe1bu14525-15",
    "oe1bu14525-16",
    "oe1bu14525-17",
@@ -703,7 +698,7 @@
  },
  {
   "year": "1805",
-  "count": 46,
+  "count": 45,
   "documents": [
    "app539680801-1",
    "ihagrrep7cnr3705-1",
@@ -719,8 +714,7 @@
    "oe1bu14526-21",
    "oe1bu14526-22",
    "oe1bu14526-23",
-   "oe1bu14526-24",
-   "oe1bu14526-29",
+   "oe1bu14526-28",
    "oe1bu14526-4",
    "oe1bu14526-9",
    "oe1bu9454-152",
@@ -1061,19 +1055,12 @@
   ]
  },
  {
-  "year": "1818",
-  "count": 1,
-  "documents": [
-   "iiihamdaiiinr12366-2"
-  ]
- },
- {
   "year": "1819",
   "count": 3,
   "documents": [
    "iiihamdaiiinr12366-1",
-   "iiihamdaiiinr12366-3",
-   "iiihamdaiiinr12366-4"
+   "iiihamdaiiinr12366-2",
+   "iiihamdaiiinr12366-3"
   ]
  },
  {
@@ -1090,8 +1077,8 @@
   "year": "1827",
   "count": 2,
   "documents": [
-   "iiihamdaiiinr12366-5",
-   "iiihamdaiiinr12366-6"
+   "iiihamdaiiinr12366-4",
+   "iiihamdaiiinr12366-5"
   ]
  },
  {
@@ -1103,20 +1090,19 @@
  },
  {
   "year": "1830",
-  "count": 5,
+  "count": 4,
   "documents": [
    "iiihamdaiiinr12367-4",
    "iiihamdaiiinr12367-5",
    "iiihamdaiiinr12367-6",
-   "iiihamdaiiinr12367-7",
-   "iiihamdaiiinr12367-8"
+   "iiihamdaiiinr12367-7"
   ]
  },
  {
   "year": "1831",
   "count": 1,
   "documents": [
-   "iiihamdaiiinr12367-9"
+   "iiihamdaiiinr12367-8"
   ]
  },
  {
@@ -1124,7 +1110,7 @@
   "count": 2,
   "documents": [
    "iiihamdaiiinr12367-10",
-   "iiihamdaiiinr12367-11"
+   "iiihamdaiiinr12367-9"
   ]
  },
  {
