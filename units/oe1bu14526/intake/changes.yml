@@ -1,0 +1,10 @@
+# What changed in the transcription, for the page of changes
+# (pipeline/review/changes_page.py). importance: significant | fact | wording.
+
+unit: "Contracts by which Prince Friedrich Ludwig of Hohenlohe-Ingelfingen sold, or let in hereditary lease, the estates in South Prussia, Prussia's share of partitioned Poland, that the Prussian crown granted him in 1796 and 1797, with the powers of attorney, royal confirmations and certificates filed with them."
+changes:
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 27, page 0162_a2: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: will auch hier wohnen bleiben. / Zagorowo / d. 16. Aprill 1799. / gantz gehorsamste Diener / Titz / Bancke
+  now: will auch hier wohnen bleiben. / gantz gehorsamste Diener / Titz / Bancke / Zagorowo / d. 16. Aprill 1799.

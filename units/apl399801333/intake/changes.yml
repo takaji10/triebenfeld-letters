@@ -1,0 +1,20 @@
+# What changed in the transcription, for the page of changes
+# (pipeline/review/changes_page.py). importance: significant | fact | wording.
+
+unit: "The Kalisz peasant-affairs office's file on the liquidation tables of the Trąbczyn estate, 1864 to 1870: its index of 145 papers, the plan of the village of 1865, Count Włodzimierz Miączyński's two petitions of 1865 against the commissioners' decisions for the peasants of Nowawies and for Krystian Lippeldt of a neighbouring village, and the Łazińsk colonists' petitions of 1867 and 1868 for their old rights of pasture, litter and clay."
+changes:
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 3, page 0089_b: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Dowody w liczbie sztuk 4 dołącza się. / Kalisz dnia 10/22 Sierpnia 1865. / Z głębokim szacunkiem / W. Miączyński
+  now: Dowody w liczbie sztuk 4 dołącza się. / Z głębokim szacunkiem / W. Miączyński / Kalisz dnia 10/22 Sierpnia 1865.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 4, page 0115_b: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Ukazu nie pasał w miejscu zwanem smugi — przeto mniemam — że tenże i dziś żadnych praw na te Smugi zyskać nie może — upraszam więc Wysokiej Kommissji o zniesienie decyzji Wgo Kommissarza. — / Trąbczyn / dnia 23 Lipca 1865 r. / W. Miączyński
+  now: Ukazu nie pasał w miejscu zwanem smugi — przeto mniemam — że tenże i dziś żadnych praw na te Smugi zyskać nie może — upraszam więc Wysokiej Kommissji o zniesienie decyzji Wgo Kommissarza. — / W. Miączyński / Trąbczyn / dnia 23 Lipca 1865 r.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 6, page 0177_b: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Krystyan Sehr / Kolonia Łazieńska dnia 10/22 Sierpnia, 1868 r. / w Imieniu Ogółu —
+  now: Krystyan Sehr / w Imieniu Ogółu — / Kolonia Łazieńska dnia 10/22 Sierpnia, 1868 r.

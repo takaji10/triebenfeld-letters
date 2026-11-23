@@ -1,0 +1,11 @@
+# The date moved after the signature (docs/DATE_ORDER_PLAN.md; the editor,
+# 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;
+# an entry already carried out is skipped. Lines exactly as in corpus.txt.
+moves:
+- letter: '1'
+  date:
+  - Breslau
+  - den 18 Septbr.
+  - '1805.'
+  after: als General Bevollmächtigter
+  note: read by the Sonnet reader and Claude; date between salutation Ew. Königl. Majestaet and closing formula/signature; title line 688 belongs to signature

@@ -1,0 +1,20 @@
+# What changed in the transcription, for the page of changes
+# (pipeline/review/changes_page.py). importance: significant | fact | wording.
+
+unit: "Papers on the grant of 1796 by which Friedrich Wilhelm II, King of Prussia, gave Prince Friedrich Ludwig of Hohenlohe-Ingelfingen estates in South Prussia, Prussia's share of partitioned Poland: the charter and certified copies of it, the entries of his title, a valuation, and the official correspondence that put the grant into effect."
+changes:
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 36, page 0139_b: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Euer Königlichen Majestät / Betschen den 13ten Februar 1802. / allerunterthänigster / J. Wilhelm Glenck / Fürstl. Hohenl. Bau und Oeco¬ / nomie Rath
+  now: Euer Königlichen Majestät / allerunterthänigster / J. Wilhelm Glenck / Fürstl. Hohenl. Bau und Oeco¬ / nomie Rath / Betschen den 13ten Februar 1802.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 38, page 0143_b: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: ganz ergebenster Diener / Posen den 25. Januar / 1802 / Melzer.
+  now: ganz ergebenster Diener / Melzer. / Posen den 25. Januar / 1802
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 41, page 0150_a2: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Euer Durchlaucht / Breslau den 3ten Octobr. / 1797. / gantz gehorsamster Diener / Hoym
+  now: Euer Durchlaucht / gantz gehorsamster Diener / Hoym / Breslau den 3ten Octobr. / 1797.

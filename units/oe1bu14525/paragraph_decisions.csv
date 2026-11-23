@@ -501,10 +501,10 @@
 35,3714,run,held,short_line,0.05,2,42,An,den Fürstlich Hohenlohischen Bau
 36,3721,break,high,short_line,0.6,31,52,allergnädigster König und Herr!,Schon vor geraumer Zeit hat eine Königliche Regierung zu
 36,3736,break,held,short_line+column,0.27,14,52,ster Ehrfurcht,Euer Königlichen Majestät
-36,3737,break,held,short_line+column,0.49,25,52,Euer Königlichen Majestät,Betschen den 13ten Februar 1802.
-36,3738,break,high,short_line,0.62,32,52,Betschen den 13ten Februar 1802.,allerunterthänigster
-36,3739,run,review,short_line+column,0.39,20,52,allerunterthänigster,J. Wilhelm Glenck
-36,3740,run,held,short_line+column,0.33,17,52,J. Wilhelm Glenck,Fürstl. Hohenl. Bau und Oeco¬
+36,3737,break,held,short_line+column,0.49,25,52,Euer Königlichen Majestät,allerunterthänigster
+36,3738,run,review,short_line+column,0.39,20,52,allerunterthänigster,J. Wilhelm Glenck
+36,3739,run,held,short_line+column,0.33,17,52,J. Wilhelm Glenck,Fürstl. Hohenl. Bau und Oeco¬
+36,3741,break,held,short_line+column,0.19,10,52,nomie Rath,Betschen den 13ten Februar 1802.
 37,3754,break,high,short_line,0.12,5,40,1801.,Königliche Südpreußische Regierung.
 37,3756,break,high,short_line+column,0.1,4,40,Götz,An
 37,3757,run,held,short_line,0.05,2,40,An,den Fürstlich Hohenlohe Ingelfingenschen
@@ -517,9 +517,9 @@
 38,3782,break,high,salutation,0.83,34,41,wir wohl einmahl zum Zweck kommen.,Ich habe die Ehre mit der vollkommensten
 38,3784,break,high,short_line,0.56,23,41,[H?]achachtung zu seyn.,Ew. Wohlgebohrnen
 38,3785,run,held,short_line+column,0.41,17,41,Ew. Wohlgebohrnen,ganz ergebenster Diener
-38,3786,break,held,short_line+column,0.56,23,41,ganz ergebenster Diener,Posen den 25. Januar
-38,3788,break,high,short_line+column,0.1,4,41,1802,Melzer.
-38,3789,break,high,short_line,0.17,7,41,Melzer.,Verte
+38,3786,break,held,short_line+column,0.56,23,41,ganz ergebenster Diener,Melzer.
+38,3787,break,held,short_line,0.17,7,41,Melzer.,Posen den 25. Januar
+38,3789,break,held,short_line+column,0.1,4,41,1802,Verte
 38,3791,break,held,page_end,0.12,5,41,Verte,In diesem Augenblick erhalte ich das Appellat
 39,3804,run,held,short_line+column,0.45,24,53,"Durchlauchtigster Fürst,",Gnädiger Herr!
 39,3805,break,high,short_line,0.26,14,53,Gnädiger Herr!,Eur Durchlaucht haben mittelst Cabinets Ordre vom 23ten dieses
@@ -540,11 +540,11 @@
 41,3971,run,held,rubric,1.0,61,61,Euer Durchlaucht können Sich daher auch und zwar von Johanni,"d. J. an, lediglich, alles alleiniger Herr, und Eigenthümer seine"
 41,4002,run,held,short_line,0.02,1,61,B,nung des Fisci bewirthschaften könnten. Verschiedene dieser
 41,4047,break,high,short_line,0.57,34,60,"zu legen, in welcher ich ersterbe.",Euer Durchlaucht
-41,4048,break,held,short_line+column,0.27,16,60,Euer Durchlaucht,Breslau den 3ten Octobr.
-41,4049,break,high,short_line,0.4,24,60,Breslau den 3ten Octobr.,1797.
-41,4050,break,high,short_line,0.08,5,60,1797.,gantz gehorsamster Diener
-41,4051,run,held,short_line+column,0.42,25,60,gantz gehorsamster Diener,Hoym
-41,4053,break,held,page_end,0.07,4,60,Hoym,Daß vorausstehende Abschrift mit dem Original durchge¬
+41,4048,break,held,short_line+column,0.27,16,60,Euer Durchlaucht,gantz gehorsamster Diener
+41,4049,run,held,short_line+column,0.42,25,60,gantz gehorsamster Diener,Hoym
+41,4050,break,held,short_line+column,0.07,4,60,Hoym,Breslau den 3ten Octobr.
+41,4051,run,held,short_line,0.4,24,60,Breslau den 3ten Octobr.,1797.
+41,4053,break,held,page_end,0.08,5,60,1797.,Daß vorausstehende Abschrift mit dem Original durchge¬
 41,4057,break,high,short_line,0.37,11,30,attestiret.,Breslau den 12ten Januar 1801.
 42,4065,break,high,short_line,0.28,13,46,Preußen p. p.,"Unsere gnädigen Gruß und geneigten Willen zuvor, Hoch¬"
 42,4075,break,high,short_line,0.43,20,46,den 28. Decbr: 1798.,Königl. Süd preußl. Regierung.
@@ -562,3 +562,4 @@
 44,4134,break,high,short_line+column,0.33,14,42,Danckelmann[?],An
 44,4135,run,held,short_line+column,0.05,2,42,An,des Fürsten von Hohenlohe
 44,4137,break,high,short_line+column,0.45,19,42,Ingelfingen Liebden,Enge[r?]
+38,3788,run,held,hand,0,0,0,Posen den 25. Januar,1802

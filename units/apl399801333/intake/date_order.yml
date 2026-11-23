@@ -1,0 +1,20 @@
+# The date moved after the signature (docs/DATE_ORDER_PLAN.md; the editor,
+# 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;
+# an entry already carried out is skipped. Lines exactly as in corpus.txt.
+moves:
+- letter: '3'
+  date:
+  - Kalisz dnia 10/22 Sierpnia 1865.
+  after: W. Miączyński
+  note: read by the Sonnet reader and Claude; date before Z głębokim szacunkiem and signature
+- letter: '4'
+  date:
+  - Trąbczyn
+  - dnia 23 Lipca 1865 r.
+  after: W. Miączyński
+  note: read by the Sonnet reader and Claude; date before signature
+- letter: '6'
+  date:
+  - Kolonia Łazieńska dnia 10/22 Sierpnia, 1868 r.
+  after: w Imieniu Ogółu —
+  note: 'read by Claude: "w Imieniu Ogółu —" belongs to the signatures; the date after it'

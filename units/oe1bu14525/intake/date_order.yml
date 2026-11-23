@@ -1,0 +1,21 @@
+# The date moved after the signature (docs/DATE_ORDER_PLAN.md; the editor,
+# 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;
+# an entry already carried out is skipped. Lines exactly as in corpus.txt.
+moves:
+- letter: '36'
+  date:
+  - Betschen den 13ten Februar 1802.
+  after: nomie Rath
+  note: read by the Sonnet reader and Claude; date between salutation 3736 and closing formula 3738; title lines 3740-3741 belong to the signature
+- letter: '38'
+  date:
+  - Posen den 25. Januar
+  - '1802'
+  after: Melzer.
+  note: read by the Sonnet reader and Claude; date between closing formula 3785 and signature Melzer 3788; postscript after 'Verte' is already after the signature
+- letter: '41'
+  date:
+  - Breslau den 3ten Octobr.
+  - '1797.'
+  after: Hoym
+  note: read by the Sonnet reader and Claude; copy of Hoym's letter; date between salutation 4047 and closing formula 4050; attestation 4053-4060 is separate

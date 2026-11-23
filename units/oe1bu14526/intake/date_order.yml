@@ -1,0 +1,10 @@
+# The date moved after the signature (docs/DATE_ORDER_PLAN.md; the editor,
+# 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;
+# an entry already carried out is skipped. Lines exactly as in corpus.txt.
+moves:
+- letter: '27'
+  date:
+  - Zagorowo
+  - d. 16. Aprill 1799.
+  after: Bancke
+  note: 'read by the Sonnet reader and Claude; place on own line 7950 belongs to date; date before closing formula 7952 and signatures Titz, Bancke; salutation not in '

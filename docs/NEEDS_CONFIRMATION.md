@@ -27,6 +27,21 @@ editor's answers of 2026-11-23 (below, 1 and 2). Still open:
   change it. Open only if the editor reads October.
 - ~~The page files under `transcriptions/`~~: removed from every holding at
   the editor's word (2026-11-23).
+- **The other holdings** (2026-11-23): 17 dates moved (DATE_ORDER_PLAN,
+  "Done"). Left as official papers, a minister's or office's letter whose
+  date stands directly before the signature: III. HA Nr. 1414 nos. 1 and 3,
+  Nr. 3132 nos. 1-3, 5, 8, Nr. 12366 no. 5, Nr. 12765 nos. 3, 5, 14, 25, 27,
+  30, Oe 1 Bü 14525 no. 32. Say if any of these should move after all.
+  Nothing to move in Nr. 12765 nos. 12 and 13 (no signature); Oe 1 Bü 14525
+  no. 33's date shares its line with the end of the text ("…und Betschen zu
+  bitten. Breslau den 10ten Febr. 1802.") and cannot be moved without
+  splitting a line.
+- **A Polish year after "r." is printed as a sum** (found 2026-11-23, older
+  than this work): the reading text of APŁ 39/98/0/-/1333 has "dnia 23
+  Lipca 1,865 r." and "1,868 r.": `pipeline/numerals.py` reads "r." (roku,
+  year) after a figure as the money abbreviation and groups the digits. Only
+  the reading text; the transcription is right. A fix in numerals.py is
+  offered.
 
 Answered by the editor (2026-11-23):
 

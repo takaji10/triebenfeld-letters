@@ -29,7 +29,11 @@ def main():
     unit = unitlib.one_unit(slug)
     settled = json.load(io.open(sys.argv[sys.argv.index('--settled') + 1], encoding='utf-8'))
     path = os.path.join(unit.dir, 'intake', 'date_order.yml')
-    raw = io.open(path, encoding='utf-8').read()
+    raw = io.open(path, encoding='utf-8').read() if os.path.isfile(path) else (
+        '# The date moved after the signature (docs/DATE_ORDER_PLAN.md; the editor,\n'
+        '# 2026-11-23). Carried out by pipeline/review/date_order.py --move --write;\n'
+        '# an entry already carried out is skipped. Lines exactly as in corpus.txt.\n')
+    os.makedirs(os.path.dirname(path), exist_ok=True)
     head = ''.join(l for l in raw.splitlines(True) if l.startswith('#'))
     spec = yaml.safe_load(raw) or {}
     entries = spec.get('moves') or []

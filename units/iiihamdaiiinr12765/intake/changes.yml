@@ -8,3 +8,23 @@ changes:
   what: 'Document 1, page 0003_a2: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
   was: Ewr Hochfürstliche Durchlaucht / Wien den 25ten Octobr. / 1814. / treu gehorsamster Knecht / v Triebenfeld
   now: Ewr Hochfürstliche Durchlaucht / treu gehorsamster Knecht / v Triebenfeld / Wien den 25ten Octobr. / 1814.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 4, page 0005_a2: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Ewr Hochfürstliche Durchlaucht / Wien den 2ten Mertz / 1815 / untertänigster Diener / v. Triebenfeld
+  now: Ewr Hochfürstliche Durchlaucht / untertänigster Diener / v. Triebenfeld / Wien den 2ten Mertz / 1815
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 6, page 0008_a2: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: de Votre Excellence / Slawenziz le 12. Avril / 1815. / Votre trés hûmble, et trés obeissant Serviteur, / Frederic Louis Pr. de Hohenlohe.
+  now: de Votre Excellence / Votre trés hûmble, et trés obeissant Serviteur, / Frederic Louis Pr. de Hohenlohe. / Slawenziz le 12. Avril / 1815.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 8, page 0012_a1: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Euer Durchlaucht / Schlawenschitz / den 12 May 1815. / ganz gehorſamer Diener, / F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.
+  now: Euer Durchlaucht / ganz gehorſamer Diener, / F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe. / Schlawenschitz / den 12 May 1815.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 19, page 0027_a2: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: 'Ew: Durchlaucht / Sommerfeld / d. 26ten April 1816. / unterthänigst / die verwitwete Oberstin / von Brehmer.'
+  now: 'Ew: Durchlaucht / unterthänigst / die verwitwete Oberstin / von Brehmer. / Sommerfeld / d. 26ten April 1816.'

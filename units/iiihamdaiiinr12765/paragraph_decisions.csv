@@ -25,10 +25,10 @@
 4,100,break,high,short_line,0.71,64,90,"36500 rttlr betragen, von derselben zurück gegeben werden mü",Ewr Hochfürstliche Durchlaucht beglücken durch die Gewährung dieser ge
 4,102,break,high,short_line,0.69,62,90,"Menschen, und die Königliche Bank erhält auch ihr Geld zurüc",In tiefster Ehrfurcht ersterbe
 4,103,break,high,short_line+column,0.33,30,90,In tiefster Ehrfurcht ersterbe,Ewr Hochfürstliche Durchlaucht
-4,104,break,high,short_line+column,0.33,30,90,Ewr Hochfürstliche Durchlaucht,Wien den 2ten Mertz
-4,105,break,high,short_line+column,0.21,19,90,Wien den 2ten Mertz,1815
-4,106,break,high,short_line+column,0.04,4,90,1815,untertänigster Diener
-4,107,break,high,rubric+short_line,0.23,21,90,untertänigster Diener,v. Triebenfeld
+4,104,break,held,short_line+column,0.33,30,90,Ewr Hochfürstliche Durchlaucht,untertänigster Diener
+4,105,break,high,rubric+short_line,0.23,21,90,untertänigster Diener,v. Triebenfeld
+4,107,run,held,short_line+column,0.21,19,90,Wien den 2ten Mertz,1815
+4,108,break,held,short_line+column,0.04,4,90,1815,Herrn Geh. StaatsRath
 4,109,break,high,short_line+column,0.23,21,90,Herrn Geh. StaatsRath,Stägemann vorzulegen
 4,110,break,high,short_line+column,0.22,20,90,Stägemann vorzulegen,H[arden]b[er]g 14/3
 5,114,break,high,short_line+column,0.52,22,42,W[ien]. d. 17. März 15,An
@@ -52,10 +52,10 @@
 6,160,break,high,by_paragraph,0,306,0,L'intérêt que Votre Excellence a toujours daigné prendre à m,"Agréez, Monsieur le Baron, les assurances de la plus haute considérati"
 6,161,break,high,by_paragraph,0,108,0,"Agréez, Monsieur le Baron, les assurances de la plus haute c",Monsieur le Baron
 6,162,break,high,by_paragraph,0,17,0,Monsieur le Baron,de Votre Excellence
-6,163,break,high,by_paragraph,0,19,0,de Votre Excellence,Slawenziz le 12. Avril
-6,164,break,high,by_paragraph,0,22,0,Slawenziz le 12. Avril,1815.
-6,165,break,high,by_paragraph,0,5,0,1815.,"Votre trés hûmble, et trés obeissant Serviteur,"
-6,166,break,high,by_paragraph,0,47,0,"Votre trés hûmble, et trés obeissant Serviteur,",Frederic Louis Pr. de Hohenlohe.
+6,163,break,held,by_paragraph,0,19,0,de Votre Excellence,"Votre trés hûmble, et trés obeissant Serviteur,"
+6,164,break,high,by_paragraph,0,47,0,"Votre trés hûmble, et trés obeissant Serviteur,",Frederic Louis Pr. de Hohenlohe.
+6,165,break,held,by_paragraph,0,32,0,Frederic Louis Pr. de Hohenlohe.,Slawenziz le 12. Avril
+6,166,run,held,by_paragraph,0,22,0,Slawenziz le 12. Avril,1815.
 7,170,break,high,by_paragraph,0,18,0,Vienne le Mai 1815,A.S.A.S Msgr. le Prince
 7,171,break,high,by_paragraph,0,23,0,A.S.A.S Msgr. le Prince,Frederic Louis de Hohenlohe
 7,172,break,high,by_paragraph,0,27,0,Frederic Louis de Hohenlohe,à Slawenzitz
@@ -69,10 +69,9 @@
 8,214,break,high,short_line,0.67,32,48,und der Entschädiget werden muß.,Euer Durchlaucht genehmigen die
 8,215,run,review,short_line,0.65,31,48,Euer Durchlaucht genehmigen die,Versicherung der hohen Verehrung mit welcher ich
 8,217,break,high,short_line,0.17,8,48,beharre.,Euer Durchlaucht
-8,218,break,high,short_line+column,0.33,16,48,Euer Durchlaucht,Schlawenschitz
-8,219,break,high,short_line+column,0.29,14,48,Schlawenschitz,den 12 May 1815.
-8,220,break,high,short_line,0.33,16,48,den 12 May 1815.,"ganz gehorſamer Diener,"
-8,221,run,review,short_line,0.48,23,48,"ganz gehorſamer Diener,",F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.
+8,218,break,held,short_line+column,0.33,16,48,Euer Durchlaucht,"ganz gehorſamer Diener,"
+8,219,run,review,short_line,0.48,23,48,"ganz gehorſamer Diener,",F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.
+8,221,run,held,short_line+column,0.29,14,48,Schlawenschitz,den 12 May 1815.
 9,225,break,high,short_line+column,0.41,20,48,W[ien]. d. 6 Juni 15,An
 9,226,break,high,short_line+column,0.04,2,48,An,des Herrn Fürsten zu Hohenlohe
 9,227,break,high,short_line+column,0.62,30,48,des Herrn Fürsten zu Hohenlohe,Durchl.
@@ -150,10 +149,11 @@
 19,640,break,high,short_line,0.45,13,29,kommen müßen.,St[ä]g[e]m[ann]
 19,641,break,high,short_line+column,0.52,15,29,St[ä]g[e]m[ann],7 Mai 16
 19,668,break,high,short_line,0.17,6,35,ſulte.,Mit den größten Respect beharre ich
-19,670,break,high,short_line+column,0.43,15,35,Ew: Durchlaucht,Sommerfeld
-19,671,break,high,rubric+short_line,0.29,10,35,Sommerfeld,d. 26ten April 1816.
-19,673,break,high,short_line+column,0.37,13,35,unterthänigst,die verwitwete Oberstin
-19,674,break,high,short_line+column,0.66,23,35,die verwitwete Oberstin,von Brehmer.
+19,670,break,held,short_line+column,0.43,15,35,Ew: Durchlaucht,unterthänigst
+19,671,break,high,short_line+column,0.37,13,35,unterthänigst,die verwitwete Oberstin
+19,672,break,high,short_line+column,0.66,23,35,die verwitwete Oberstin,von Brehmer.
+19,673,break,held,short_line,0.34,12,35,von Brehmer.,Sommerfeld
+19,674,run,held,rubric+short_line,0.29,10,35,Sommerfeld,d. 26ten April 1816.
 20,697,break,high,short_line+column,0.33,13,39,Ingenähmen[?],B[erlin]. 18. Juny [18]16.
 20,698,break,high,short_line,0.67,26,39,B[erlin]. 18. Juny [18]16.,B[alan].
 20,699,break,high,rubric+short_line,0.21,8,39,B[alan].,2. dem Herrn von Schoeler in[?] St. Petersburg
@@ -250,4 +250,6 @@
 30,1055,break,high,short_line,0.43,31,72,Nr. 3053. 13. pr. 28. May 1820.,Ad acta
 30,1056,break,high,short_line+column,0.1,7,72,Ad acta,Hoffm[ann] 30/5
 30,1057,break,high,short_line+column,0.21,15,72,Hoffm[ann] 30/5,B[erlin]. 29/5 [18]20
+4,106,break,held,hand,0,0,0,v. Triebenfeld,Wien den 2ten Mertz
+8,220,break,held,hand,0,0,0,F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.,Schlawenschitz
 1,21,run,held,hand,0,0,0,Ewr Hochfürstliche Durchlaucht,treu gehorsamster Knecht

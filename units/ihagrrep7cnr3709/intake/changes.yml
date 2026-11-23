@@ -1,0 +1,30 @@
+# What changed in the transcription, for the page of changes
+# (pipeline/review/changes_page.py). importance: significant | fact | wording.
+
+unit: "A file of the Prussian central administration for South Prussia, Prussia's share of partitioned Poland, on the complaints of Michalina Prusimska, daughter of Antoni Prusimski, whose confiscated estates had been granted to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, in her case against Hohenlohe-Ingelfingen, 1800 to 1802."
+changes:
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 5, page 0008_a: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Euerer Excellenz / Breslau, den 30. Novbr 1800. / ganz gehorsamster Diener, / F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe.
+  now: Euerer Excellenz / ganz gehorsamster Diener, / F[riedrich] L[udwig]. F[ürst]. z[u]. Hohenlohe. / Breslau, den 30. Novbr 1800.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 6, page 0010_a: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Euerer Excellenz / Breslau, den 30. Novbr. 1800. / ganz gehorsamster Diener, / F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.
+  now: Euerer Excellenz / ganz gehorsamster Diener, / F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe. / Breslau, den 30. Novbr. 1800.
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 11, page 0015_a1: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: 'Ew: Durchlaucht / Berlin / d. 7 Xbr: 1800. / G[oldbeck]'
+  now: 'Ew: Durchlaucht / G[oldbeck] / Berlin / d. 7 Xbr: 1800.'
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 14, page 0019_a1: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: 'Ew: Durchlaucht / Berlin / d. 31. Decbr. 1800. / G[oldbeck]'
+  now: 'Ew: Durchlaucht / G[oldbeck] / Berlin / d. 31. Decbr. 1800.'
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 15, page 0021_a1: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: de Votre Majesté. / Dresde ce 22 Janvier / 1802. / la trés dévouée et soumise / sujette Michaline Prusimska.
+  now: de Votre Majesté. / la trés dévouée et soumise / sujette Michaline Prusimska. / Dresde ce 22 Janvier / 1802.

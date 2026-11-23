@@ -122,7 +122,22 @@ proper order:
   74c, 74d, 252, 264). Letter 217's date and address moved together. Letter
   179 left (a line mixes postscript and closing). Letter 104 needed a place
   override. English: a Sonnet drafter, 54 and 292 by hand, every one read.
-- Next: the other holdings (the scan's counts: Oe 1 Bü 14525 52 cases,
+- **The other holdings** (2026-11-23): 144 documents in 30 holdings read by
+  the Sonnet reader (91 official papers, 18 no case, 27 proposed moves, 8
+  unsure) and by Claude, who applied the editor's two answers together: a
+  date that breaks a closing (between the salutation or closing formula and
+  the signature) moves, whoever wrote the letter; a date directly before a
+  bare signature in an official paper stays (as Hardenberg's 252 did). 17
+  moved: APŁ 1333 nos. 3, 4, 6 (Miączyński; the colonists' petition, whose
+  date stood inside the signature block, before "w Imieniu Ogółu —"); Nr.
+  3705 no. 1; Nr. 3709 nos. 5, 6, 11, 14, 15; Nr. 12765 nos. 4, 6, 8, 19;
+  Oe 1 Bü 14525 nos. 36, 38, 41; Oe 1 Bü 14526 no. 27. Left: the ministers'
+  and offices' letters (1414/1, 1414/3, 3132/1-3, 5, 8, 12366/5, 12765/3, 5,
+  14, 25, 27, 30, 14525/32); 12765/12 and 13 (no signature); 14525/33 (the
+  date shares its line with the text). The stale lists were taken first and
+  are unchanged. English: 6 drafted mechanically, 11 by the drafter (two
+  added full stops taken out), each read.
+- Earlier "Next": the other holdings (the scan's counts: Oe 1 Bü 14525 52 cases,
   Nr. 12765 28, Nr. 3709 19, Oe 1 Bü 14526 19, and fewer elsewhere), after
   the editor's answer on the postscripts.
 

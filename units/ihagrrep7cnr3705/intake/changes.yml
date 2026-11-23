@@ -1,0 +1,10 @@
+# What changed in the transcription, for the page of changes
+# (pipeline/review/changes_page.py). importance: significant | fact | wording.
+
+unit: "A petition of September 1805 to Friedrich Wilhelm III, King of Prussia, made for Prince Friedrich Ludwig of Hohenlohe-Ingelfingen by his agent Peter Friedrich von Triebenfeld, asking that Hohenlohe-Ingelfingen's estate of Oleśnica in South Prussia, Prussia's share of partitioned Poland, be placed under court administration after the three townsmen who held it in hereditary lease stopped paying."
+changes:
+- importance: wording
+  new: '2026-11-23'
+  what: 'Document 1, page 0018_a: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
+  was: Ew. Königl. Majestaet / Breslau / den 18 Septbr. / 1805. / allerunterthänigst treu gehorsamster / v. Triebenfeld / als General Bevollmächtigter
+  now: Ew. Königl. Majestaet / allerunterthänigst treu gehorsamster / v. Triebenfeld / als General Bevollmächtigter / Breslau / den 18 Septbr. / 1805.
