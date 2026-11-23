@@ -15,6 +15,9 @@ What is grouped:
     medieval holdings the years start at 1100 (YEARS_FROM).
 What is not:
   - a four-digit year standing alone ("1797", "in 1805");
+  - a year in a Polish date before "r." (roku): "dnia 23 Lipca 1865 r." - the
+    month in the genitive, or "dnia", just before it (2026-11-23); "1800 r."
+    without one stays a sum (Reichsthaler);
   - a number already grouped, a decimal, a fraction or the "/m" thousands
     ("25/m"), and any number joined to another digit, full stop or comma;
   - a four-digit registry (journal) number at the foot of a line, outside the
@@ -43,6 +46,13 @@ _REG_BEFORE = re.compile(r'(?:^|\n)[ \t]*$|(?:^|[\s(])(?:[A-Za-z]{1,3}|[^\s.]*\d
 # unit ("zu Gerathe = 800 rt" / "3631.", Oe 1 Bü 14525, doc. 23).
 _SUM_ABOVE = re.compile(r'\d\s*' + _UNIT + r'[ .]*\n[ \t]*$')
 _REG_AFTER = re.compile(r'\.?["\'’”»]*[ \t]*(?:\r?\n|$)')
+# A Polish date: "dnia 23 Lipca 1865 r." (r. = roku, the year), not "1800 r."
+# (Reichsthaler). The month in the genitive, or "dnia", just before the year
+# (APŁ 39/98/0/-/1333 printed "1,865 r.", found 2026-11-23).
+_PL_DATE_BEFORE = re.compile(r'(?:\bdnia\b|\b(?:[Ss]tycznia|[Ll]utego|[Mm]arca|[Kk]wietnia|[Mm]aja|[Cc]zerwca|'
+                             r'[Ll]ipca|[Ss]ierpnia|[Ww]rze[sś]nia|[Pp]a[zź]dziernika|[Ll]istopada|[Gg]rudnia))'
+                             r'[^\n]{0,25}$')
+_BARE_R = re.compile(r'\s*[Rr]\.?(?![\w])')
 _NUM = re.compile(r'(?<![\d.,/])(\d{4,})(?![\d/]|[.,]\d)')
 
 
@@ -79,6 +89,9 @@ def group_digits(text, doc=None):
             v = int(num)
             unit = re.match(r'\s*' + _UNIT, text[m.end():])
             if first_year <= v <= 1999 and not unit:
+                return num
+            if first_year <= v <= 1999 and _BARE_R.match(text, m.end()) and \
+                    _PL_DATE_BEFORE.search(text[max(0, m.start() - 40):m.start()]):
                 return num
             before = text[max(0, m.start() - 400):m.start()]
             if (not unit and _REG_AFTER.match(text, m.end())

@@ -36,12 +36,10 @@ editor's answers of 2026-11-23 (below, 1 and 2). Still open:
   no. 33's date shares its line with the end of the text ("…und Betschen zu
   bitten. Breslau den 10ten Febr. 1802.") and cannot be moved without
   splitting a line.
-- **A Polish year after "r." is printed as a sum** (found 2026-11-23, older
-  than this work): the reading text of APŁ 39/98/0/-/1333 has "dnia 23
-  Lipca 1,865 r." and "1,868 r.": `pipeline/numerals.py` reads "r." (roku,
-  year) after a figure as the money abbreviation and groups the digits. Only
-  the reading text; the transcription is right. A fix in numerals.py is
-  offered.
+- ~~A Polish year after "r." printed as a sum~~ ("dnia 23 Lipca 1,865 r."):
+  fixed at the editor's word (2026-11-23) in `pipeline/numerals.py`; nine
+  lines in APŁ 1333, APP 716 and APP 783, all Polish dates, now read as
+  years; nothing else in the edition changed.
 
 Answered by the editor (2026-11-23):
 
