@@ -4681,6 +4681,9 @@ Traps met in the pilot (Nr. 12765):
   from the current number; a renumbered holding's are now written from
   `merge_map.json` (`build_site_data.py`), and a `/documents/` number no
   document holds any more forwards to where its document went.
+- **The dataset build never prunes**: `dataset/documents/` and
+  `dataset/text/` kept the retired numbers' files (Nr. 12765, 25-30) until
+  removed by hand; merge_documents.py now removes them.
 - **Citations come in three forms**: `[[4]]` in a holding's own about.md
   (checked by check_unit_text.py), `<a href="{{ '/documents/…/4/' … }}">4</a>`
   and plain `/documents/…/4/` (timeline). Map each once; check the changed

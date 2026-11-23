@@ -591,6 +591,13 @@ def main():
                     c['model'] = 'written in session (merge, 2026-11-23)'
                 writes[os.path.join(cdirs[key], pad_of(slug, nd) + '.json')] = json.dumps(c, ensure_ascii=False,
                                                                                            indent=1)
+    # the dataset's per-document files of numbers that no longer exist: the
+    # dataset build writes the documents there are and never prunes (Nr. 12765
+    # kept stale 25-30 until removed by hand, 2026-11-23)
+    gone = [d for d, _ in docs if d not in {nd for nd, _ in new_docs}]
+    for d in gone:
+        removes.add(os.path.join(ROOT, 'dataset', 'documents', '%s-%s.json' % (slug, d)))
+        removes.add(os.path.join(ROOT, 'dataset', 'text', '%s-%s.txt' % (slug, d)))
     removes -= set(writes)
 
     # corrections: pad and page
