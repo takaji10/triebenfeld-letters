@@ -9,23 +9,23 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1815-03-02",
+ "date_iso": "1815-04-12",
  "date_precision": "day",
  "date_source": "dateline",
- "date_display": "1815-03-02",
+ "date_display": "1815-04-12",
  "date_inferred_from": "read from the document's own dateline",
  "year": 1815,
- "month": 3,
- "day": 2,
- "place": "Wien",
- "sender": "von Triebenfeld",
- "recipient": "Hardenberg",
- "line_start": 61,
- "line_end": 110,
+ "month": 4,
+ "day": 12,
+ "place": "Schlawenschitz",
+ "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+ "recipient": "Stein",
+ "line_start": 142,
+ "line_end": 163,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
- "language": "de",
+ "language": "fr",
  "duplicate_of": "",
  "relations": [],
  "estates": [
@@ -33,318 +33,198 @@
   "kamionno"
  ],
  "is_missing": 0,
- "n_lines": 48,
- "n_pages": 1,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nDes Höchstseeligen Königes von Preußen Majestät verliehen in Jahr 1796 dem Herrn Fürsten zu\nHohenlohe, laut beygebogener abschriftlichen Urkunde Sub Litt: A. Die Güter Kaemen und Kulm in Pozener\nDepartement, des gleichen die Dörfer Trąbczyn, Szettleweck, Nowawies, Lazy, Laske, Osziny, und Trąbczyner\nHauland Koniner Kreises, so wie auch das Dorf Brzyze nebst Zubehör in Cujawien.\nEs gehöhrten diese Güter ehedem einen gewißen von Prusimski, welche nach deßen Entweichung\nconfissirt, und dem Herrn Fürsten zu Hohenlohe verliehen wurden.\nDer Fürst besaß diese Güter, außer Brzyze, welches die Tochter des Prusimski, jezt verehelichte von\nMiączyńska als mütterliches Erbteil vindizirte, über 11 Jahr im ruhigsten Besizz. Er verkaufte\ndavon im Jahr 1804 dem Banko Direktor Leixner zu Frankfurt an der Oder die Kaemener und Kulmener\nGüter, welche der p Leixner auch 3 Jahr ungestört besaß.\nErst 1807, und zwar 14 Wochen nach den Tillsitter Frieden, fiel es der sogenannten Pohl. Verwaltungs Com¬\nmission ein, dem Herrn Fürsten und dem p Leixner die sämtliche Güter, ohne irgends ein richterliches\nErkenntnis, gewaltsamer Weise wegzunehmen, und selbige der verehelichten Miączyńska zu geben.\nDer Fürst Hohenlohe klagte nach seiner Zurückunft aus dem Reich, sogleich bey das Friedens Gericht zu Konin\nwelches forum aber die v. Miączyńska gar nicht anerkannte. Der Fürst lies darauf im Vorschrifts¬\nmäßigen Wege die hier Submissiert beygefügte Klage sub litt B, durch seinen Anwald, dem Tribunal zu\nKalisz einreichen, die nun auch zur weitern Einsicht auf alles hinweiset.\ndie v. Miączyńska erwiederte darauf durch ihren Actuar, laut Beylage sub litt. C., daß sie\nauch nicht nicht verbunden wäre sich dem Tribunal in dieser Sache zu unterwerfen.\nGedachter Tribunal zog nun die Sache länger als ein Jahr hin, und gab endlich das Sub Litt D beyge¬\nbogene Decret, in welchem er nach vielen seichten unverständlichen Umschweifungen sagt —\nDaß sich der Tribunal nicht ermächtiget hielte, die Verfügung der Verwaltungs Commission\naufzuheben, und daß dies nur allein dem König zu stände — die von Miączyńska\nsolle daher in die Güter sitzen bleiben, und der Fürst die Kosten bezahlen.\nSo steht diese Sache noch jezt, die Miączyńska sizt in die Güter zieht sämtliche Revenuen ein, und zahlt seit\n1806 keinen Groschen Zinsen. Niemand ward durch dieser schändlichen gewaltsamen Handlung der\nmehr gedachten verwaltungs Commission, unglücklicher, als der Banko Director Leixner, dieser Mann\nsahe sich nicht nur seines Vermögens beraubt, sondern er verlohr sein Brodt und seine Freyheit.\nNach der glücklichen Wendung, die Europens Schicksahl nun durch Ewr Durchlaucht Vorsorge und Anstrengung\ngenommen hat, Geruhen Allerhöchst dieselben zu befehlen,\ndaß dem p. Leixner Kulm und Kaemen wieder gegeben wird, um die Königl. Bank befriedigen zu können,\nund leiten es durch Allerhöchst Dero mächtiges Vorwort bey des Ruß. Kaysers Majestät in die Wege,\ndaß dem Herrn Fürsten zu Hohenlohe, auch die Trąbczyner Güter, die Jenseits der Prosna liegen,\nmit dem von der v Miączyńska, durch 9 Jahr bezogene Revenuen, welche nach den Pacht Contracten\n36500 rttlr betragen, von derselben zurück gegeben werden müßen.\nEwr Hochfürstliche Durchlaucht beglücken durch die Gewährung dieser gerechten Bitte, viele im Elend schmachtende\nMenschen, und die Königliche Bank erhält auch ihr Geld zurück.\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nuntertänigster Diener\nv. Triebenfeld\nWien den 2ten Mertz\n1815\nHerrn Geh. StaatsRath\nStägemann vorzulegen\nH[arden]b[er]g 14/3",
- "text_reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nDes Höchstseeligen Königes von Preußen Majestät verliehen in Jahr 1796 dem Herrn Fürsten zu Hohenlohe, laut beygebogener abschriftlichen Urkunde Sub Litt: A. Die Güter Kaemen und Kulm in Pozener Departement, des gleichen die Dörfer Trąbczyn, Szettleweck, Nowawies, Lazy, Laske, Osziny, und Trąbczyner Hauland Koniner Kreises, so wie auch das Dorf Brzyze nebst Zubehör in Cujawien. Es gehöhrten diese Güter ehedem einen gewißen von Prusimski, welche nach deßen Entweichung confissirt, und dem Herrn Fürsten zu Hohenlohe verliehen wurden.\n\nDer Fürst besaß diese Güter, außer Brzyze, welches die Tochter des Prusimski, jezt verehelichte von Miączyńska als mütterliches Erbteil vindizirte, über 11 Jahr im ruhigsten Besizz. Er verkaufte davon im Jahr 1804 dem Banko Direktor Leixner zu Frankfurt an der Oder die Kaemener und Kulmener Güter, welche der p Leixner auch 3 Jahr ungestört besaß.\n\nErst 1807, und zwar 14 Wochen nach den Tillsitter Frieden, fiel es der sogenannten Pohl. Verwaltungs Commission ein, dem Herrn Fürsten und dem p Leixner die sämtliche Güter, ohne irgends ein richterliches Erkenntnis, gewaltsamer Weise wegzunehmen, und selbige der verehelichten Miączyńska zu geben. Der Fürst Hohenlohe klagte nach seiner Zurückunft aus dem Reich, sogleich bey das Friedens Gericht zu Konin welches forum aber die v. Miączyńska gar nicht anerkannte. Der Fürst lies darauf im Vorschriftsmäßigen Wege die hier Submissiert beygefügte Klage sub litt B, durch seinen Anwald, dem Tribunal zu Kalisz einreichen, die nun auch zur weitern Einsicht auf alles hinweiset. die v. Miączyńska erwiederte darauf durch ihren Actuar, laut Beylage sub litt. C., daß sie auch nicht nicht verbunden wäre sich dem Tribunal in dieser Sache zu unterwerfen. Gedachter Tribunal zog nun die Sache länger als ein Jahr hin, und gab endlich das Sub Litt D beygebogene Decret, in welchem er nach vielen seichten unverständlichen Umschweifungen sagt — Daß sich der Tribunal nicht ermächtiget hielte, die Verfügung der Verwaltungs Commission aufzuheben, und daß dies nur allein dem König zu stände — die von Miączyńska solle daher in die Güter sitzen bleiben, und der Fürst die Kosten bezahlen. So steht diese Sache noch jezt, die Miączyńska sizt in die Güter zieht sämtliche Revenuen ein, und zahlt seit 1806 keinen Groschen Zinsen. Niemand ward durch dieser schändlichen gewaltsamen Handlung der mehr gedachten verwaltungs Commission, unglücklicher, als der Banko Director Leixner, dieser Mann sahe sich nicht nur seines Vermögens beraubt, sondern er verlohr sein Brodt und seine Freyheit. Nach der glücklichen Wendung, die Europens Schicksahl nun durch Ewr Durchlaucht Vorsorge und Anstrengung genommen hat, Geruhen Allerhöchst dieselben zu befehlen, daß dem p. Leixner Kulm und Kaemen wieder gegeben wird, um die Königl. Bank befriedigen zu können, und leiten es durch Allerhöchst Dero mächtiges Vorwort bey des Ruß. Kaysers Majestät in die Wege, daß dem Herrn Fürsten zu Hohenlohe, auch die Trąbczyner Güter, die Jenseits der Prosna liegen, mit dem von der v Miączyńska, durch 9 Jahr bezogene Revenuen, welche nach den Pacht Contracten 36,500 rttlr betragen, von derselben zurück gegeben werden müßen.\n\nEwr Hochfürstliche Durchlaucht beglücken durch die Gewährung dieser gerechten Bitte, viele im Elend schmachtende Menschen, und die Königliche Bank erhält auch ihr Geld zurück.\n\nIn tiefster Ehrfurcht ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nuntertänigster Diener\n\nv. Triebenfeld\n\nWien den 2ten Mertz 1815\n\nHerrn Geh. StaatsRath\n\nStägemann vorzulegen\n\nH[arden]b[er]g 14/3",
+ "n_lines": 18,
+ "n_pages": 3,
+ "text": "Monsieur le Baron!\nEn 1796 Sa Majesté le Roi de Prusse de glorieuse mémoire me conféra les terres de Kaemen et de Trąpczin qui lui étaient dévolues par la fuite du Starost Prussiemski. Ces terres sont situées celle de Kaemen dans le cercle de Miedzeris, celle de Trąpczin dans celui de Konin.\nEn 1807 quatorze semaines après la paix de Tilsit il plut au fisc polonais de s'emparer de ces terres et malgré mes réclamations et protestations, elle furent adjugées à la fille du prédit Prussimski, marié actuellement à Mr. de Mięczynsky.\nToutes mes démarches pour revendiquer mes droits sont restées sans aucun effet et maintenant ou je croijés le moment propre pour les faire revivre, j'apprends que Sa Majesté l'Empereur a daigné confirmer les décrets arbitraires du fisc polonais, en faveur de Madame Mięczynsky.\nJe me vois donc dans la nécessité de recourir aux bons offices de Votre Excellence, pour réclamer par\nRepondre qu’il faudra attendre le règlement définitif des affaires de Pologne qui ce moment ne parait pas eloigné, que le Prince fera alors tout ce qui dependra de lui pour appuyer les réclamations de L. A.\npar sa puissante intervention une indemnité convenable pour une possession aussi importante, et c'est à cet effet que je prends la liberté de lui présenter là dessus les détails suivants, que je prie Votre Excellence de vouloir bien mettre sous les yeux de Sa Majesté l'Empereur, et de porter ce Monarque à me rendre justice en m'accordant une indemnité convenable.\nMonsieur de Prussimsky ayant avant sa fuite engagé ces terres pour une somme de 80,000 écus et 36000 ducats, je fus obligé, après un procès de 8 ans et 6000 écus de fraix, de payer une somme de 55000 écus pour les libérer. Les intérêts de ces deux sommes ensemble 61,000 écus, depuis 1807 à 1815, montent à la somme de 24400 écus, de sorte que la somme de mes prétentions en argent comptant ascend à 85400 écus.\nD'après une taxe faite de ces terres par la régence de Kalisz, leur valeur fut estimée à 316000 écus sur la quelle j'avais contracté 76000 écus de dettes, dont déduction faite il reste à ajouter 240,000 écus\na ce qui porterait ma perte à la somme de 325400 écus.\nL'intérêt que Votre Excellence a toujours daigné prendre à mes affaires, l'amitié qu'elle m'a toujours témoigné, m'est un sûr garant qu'il suffit de Lui donner connoissance de cette affaire pour être assuré de son résultat, fondé sur la justice de Sa Majesté l'Empereur, et appuyé de la plus exacte équité.\nAgréez, Monsieur le Baron, les assurances de la plus haute considération avec laquelle j'ai l'honneur d'être\nMonsieur le Baron\nde Votre Excellence\nVotre trés hûmble, et trés obeissant Serviteur,\nFrederic Louis Pr. de Hohenlohe.\nSlawenziz le 12. Avril\n1815.",
+ "text_reading": "Monsieur le Baron!\n\nEn 1796 Sa Majesté le Roi de Prusse de glorieuse mémoire me conféra les terres de Kaemen et de Trąpczin qui lui étaient dévolues par la fuite du Starost Prussiemski. Ces terres sont situées celle de Kaemen dans le cercle de Miedzeris, celle de Trąpczin dans celui de Konin.\n\nEn 1807 quatorze semaines après la paix de Tilsit il plut au fisc polonais de s'emparer de ces terres et malgré mes réclamations et protestations, elle furent adjugées à la fille du prédit Prussimski, marié actuellement à Mr. de Mięczynsky.\n\nToutes mes démarches pour revendiquer mes droits sont restées sans aucun effet et maintenant ou je croijés le moment propre pour les faire revivre, j'apprends que Sa Majesté l'Empereur a daigné confirmer les décrets arbitraires du fisc polonais, en faveur de Madame Mięczynsky.\n\nJe me vois donc dans la nécessité de recourir aux bons offices de Votre Excellence, pour réclamer par\n\nRepondre qu’il faudra attendre le règlement définitif des affaires de Pologne qui ce moment ne parait pas eloigné, que le Prince fera alors tout ce qui dependra de lui pour appuyer les réclamations de L. A.\n\npar sa puissante intervention une indemnité convenable pour une possession aussi importante, et c'est à cet effet que je prends la liberté de lui présenter là dessus les détails suivants, que je prie Votre Excellence de vouloir bien mettre sous les yeux de Sa Majesté l'Empereur, et de porter ce Monarque à me rendre justice en m'accordant une indemnité convenable.\n\nMonsieur de Prussimsky ayant avant sa fuite engagé ces terres pour une somme de 80,000 écus et 36,000 ducats, je fus obligé, après un procès de 8 ans et 6,000 écus de fraix, de payer une somme de 55,000 écus pour les libérer. Les intérêts de ces deux sommes ensemble 61,000 écus, depuis 1807 à 1815, montent à la somme de 24,400 écus, de sorte que la somme de mes prétentions en argent comptant ascend à 85,400 écus.\n\nD'après une taxe faite de ces terres par la régence de Kalisz, leur valeur fut estimée à 316,000 écus sur la quelle j'avais contracté 76,000 écus de dettes, dont déduction faite il reste à ajouter 240,000 écus\n\na ce qui porterait ma perte à la somme de 325,400 écus.\n\nL'intérêt que Votre Excellence a toujours daigné prendre à mes affaires, l'amitié qu'elle m'a toujours témoigné, m'est un sûr garant qu'il suffit de Lui donner connoissance de cette affaire pour être assuré de son résultat, fondé sur la justice de Sa Majesté l'Empereur, et appuyé de la plus exacte équité.\n\nAgréez, Monsieur le Baron, les assurances de la plus haute considération avec laquelle j'ai l'honneur d'être\n\nMonsieur le Baron\n\nde Votre Excellence\n\nVotre trés hûmble, et trés obeissant Serviteur,\n\nFrederic Louis Pr. de Hohenlohe.\n\nSlawenziz le 12. Avril 1815.",
  "pages": [
   {
    "page": 1,
-   "page_id": "0005_a2",
-   "line_start": 63,
-   "line_end": 110,
-   "n_lines": 48,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nDes Höchstseeligen Königes von Preußen Majestät verliehen in Jahr 1796 dem Herrn Fürsten zu\nHohenlohe, laut beygebogener abschriftlichen Urkunde Sub Litt: A. Die Güter Kaemen und Kulm in Pozener\nDepartement, des gleichen die Dörfer Trąbczyn, Szettleweck, Nowawies, Lazy, Laske, Osziny, und Trąbczyner\nHauland Koniner Kreises, so wie auch das Dorf Brzyze nebst Zubehör in Cujawien.\nEs gehöhrten diese Güter ehedem einen gewißen von Prusimski, welche nach deßen Entweichung\nconfissirt, und dem Herrn Fürsten zu Hohenlohe verliehen wurden.\nDer Fürst besaß diese Güter, außer Brzyze, welches die Tochter des Prusimski, jezt verehelichte von\nMiączyńska als mütterliches Erbteil vindizirte, über 11 Jahr im ruhigsten Besizz. Er verkaufte\ndavon im Jahr 1804 dem Banko Direktor Leixner zu Frankfurt an der Oder die Kaemener und Kulmener\nGüter, welche der p Leixner auch 3 Jahr ungestört besaß.\nErst 1807, und zwar 14 Wochen nach den Tillsitter Frieden, fiel es der sogenannten Pohl. Verwaltungs Com¬\nmission ein, dem Herrn Fürsten und dem p Leixner die sämtliche Güter, ohne irgends ein richterliches\nErkenntnis, gewaltsamer Weise wegzunehmen, und selbige der verehelichten Miączyńska zu geben.\nDer Fürst Hohenlohe klagte nach seiner Zurückunft aus dem Reich, sogleich bey das Friedens Gericht zu Konin\nwelches forum aber die v. Miączyńska gar nicht anerkannte. Der Fürst lies darauf im Vorschrifts¬\nmäßigen Wege die hier Submissiert beygefügte Klage sub litt B, durch seinen Anwald, dem Tribunal zu\nKalisz einreichen, die nun auch zur weitern Einsicht auf alles hinweiset.\ndie v. Miączyńska erwiederte darauf durch ihren Actuar, laut Beylage sub litt. C., daß sie\nauch nicht nicht verbunden wäre sich dem Tribunal in dieser Sache zu unterwerfen.\nGedachter Tribunal zog nun die Sache länger als ein Jahr hin, und gab endlich das Sub Litt D beyge¬\nbogene Decret, in welchem er nach vielen seichten unverständlichen Umschweifungen sagt —\nDaß sich der Tribunal nicht ermächtiget hielte, die Verfügung der Verwaltungs Commission\naufzuheben, und daß dies nur allein dem König zu stände — die von Miączyńska\nsolle daher in die Güter sitzen bleiben, und der Fürst die Kosten bezahlen.\nSo steht diese Sache noch jezt, die Miączyńska sizt in die Güter zieht sämtliche Revenuen ein, und zahlt seit\n1806 keinen Groschen Zinsen. Niemand ward durch dieser schändlichen gewaltsamen Handlung der\nmehr gedachten verwaltungs Commission, unglücklicher, als der Banko Director Leixner, dieser Mann\nsahe sich nicht nur seines Vermögens beraubt, sondern er verlohr sein Brodt und seine Freyheit.\nNach der glücklichen Wendung, die Europens Schicksahl nun durch Ewr Durchlaucht Vorsorge und Anstrengung\ngenommen hat, Geruhen Allerhöchst dieselben zu befehlen,\ndaß dem p. Leixner Kulm und Kaemen wieder gegeben wird, um die Königl. Bank befriedigen zu können,\nund leiten es durch Allerhöchst Dero mächtiges Vorwort bey des Ruß. Kaysers Majestät in die Wege,\ndaß dem Herrn Fürsten zu Hohenlohe, auch die Trąbczyner Güter, die Jenseits der Prosna liegen,\nmit dem von der v Miączyńska, durch 9 Jahr bezogene Revenuen, welche nach den Pacht Contracten\n36500 rttlr betragen, von derselben zurück gegeben werden müßen.\nEwr Hochfürstliche Durchlaucht beglücken durch die Gewährung dieser gerechten Bitte, viele im Elend schmachtende\nMenschen, und die Königliche Bank erhält auch ihr Geld zurück.\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nuntertänigster Diener\nv. Triebenfeld\nWien den 2ten Mertz\n1815\nHerrn Geh. StaatsRath\nStägemann vorzulegen\nH[arden]b[er]g 14/3",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nDes Höchstseeligen Königes von Preußen Majestät verliehen in Jahr 1796 dem Herrn Fürsten zu\nHohenlohe, laut beygebogener abschriftlichen Urkunde Sub Litt: A. Die Güter Kaemen und Kulm in Pozener\nDepartement, des gleichen die Dörfer Trąbczyn, Szettleweck, Nowawies, Lazy, Laske, Osziny, und Trąbczyner\nHauland Koniner Kreises, so wie auch das Dorf Brzyze nebst Zubehör in Cujawien.\nEs gehöhrten diese Güter ehedem einen gewißen von Prusimski, welche nach deßen Entweichung\nconfissirt, und dem Herrn Fürsten zu Hohenlohe verliehen wurden.\nDer Fürst besaß diese Güter, außer Brzyze, welches die Tochter des Prusimski, jezt verehelichte von\nMiączyńska als mütterliches Erbteil vindizirte, über 11 Jahr im ruhigsten Besizz. Er verkaufte\ndavon im Jahr 1804 dem Banko Direktor Leixner zu Frankfurt an der Oder die Kaemener und Kulmener\nGüter, welche der p Leixner auch 3 Jahr ungestört besaß.\nErst 1807, und zwar 14 Wochen nach den Tillsitter Frieden, fiel es der sogenannten Pohl. Verwaltungs Com-\nmission ein, dem Herrn Fürsten und dem p Leixner die sämtliche Güter, ohne irgends ein richterliches\nErkenntnis, gewaltsamer Weise wegzunehmen, und selbige der verehelichten Miączyńska zu geben.\nDer Fürst Hohenlohe klagte nach seiner Zurückunft aus dem Reich, sogleich bey das Friedens Gericht zu Konin\nwelches forum aber die v. Miączyńska gar nicht anerkannte. Der Fürst lies darauf im Vorschrifts-\nmäßigen Wege die hier Submissiert beygefügte Klage sub litt B, durch seinen Anwald, dem Tribunal zu\nKalisz einreichen, die nun auch zur weitern Einsicht auf alles hinweiset.\ndie v. Miączyńska erwiederte darauf durch ihren Actuar, laut Beylage sub litt. C., daß sie\nauch nicht nicht verbunden wäre sich dem Tribunal in dieser Sache zu unterwerfen.\nGedachter Tribunal zog nun die Sache länger als ein Jahr hin, und gab endlich das Sub Litt D beyge-\nbogene Decret, in welchem er nach vielen seichten unverständlichen Umschweifungen sagt —\nDaß sich der Tribunal nicht ermächtiget hielte, die Verfügung der Verwaltungs Commission\naufzuheben, und daß dies nur allein dem König zu stände — die von Miączyńska\nsolle daher in die Güter sitzen bleiben, und der Fürst die Kosten bezahlen.\nSo steht diese Sache noch jezt, die Miączyńska sizt in die Güter zieht sämtliche Revenuen ein, und zahlt seit\n1806 keinen Groschen Zinsen. Niemand ward durch dieser schändlichen gewaltsamen Handlung der\nmehr gedachten verwaltungs Commission, unglücklicher, als der Banko Director Leixner, dieser Mann\nsahe sich nicht nur seines Vermögens beraubt, sondern er verlohr sein Brodt und seine Freyheit.\nNach der glücklichen Wendung, die Europens Schicksahl nun durch Ewr Durchlaucht Vorsorge und Anstrengung\ngenommen hat, Geruhen Allerhöchst dieselben zu befehlen,\ndaß dem p. Leixner Kulm und Kaemen wieder gegeben wird, um die Königl. Bank befriedigen zu können,\nund leiten es durch Allerhöchst Dero mächtiges Vorwort bey des Ruß. Kaysers Majestät in die Wege,\ndaß dem Herrn Fürsten zu Hohenlohe, auch die Trąbczyner Güter, die Jenseits der Prosna liegen,\nmit dem von der v Miączyńska, durch 9 Jahr bezogene Revenuen, welche nach den Pacht Contracten\n36500 rttlr betragen, von derselben zurück gegeben werden müßen.\nEwr Hochfürstliche Durchlaucht beglücken durch die Gewährung dieser gerechten Bitte, viele im Elend schmachtende\nMenschen, und die Königliche Bank erhält auch ihr Geld zurück.\nIn tiefster Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\nuntertänigster Diener\nv. Triebenfeld\nWien den 2ten Mertz\n1815\nHerrn Geh. StaatsRath\nStägemann vorzulegen\nH[arden]b[er]g 14/3",
-   "reading": "Durchlauchtigster Fürst\n\nGnädigster Fürst und Herr!\n\nDes Höchstseeligen Königes von Preußen Majestät verliehen in Jahr 1796 dem Herrn Fürsten zu Hohenlohe, laut beygebogener abschriftlichen Urkunde Sub Litt: A. Die Güter Kaemen und Kulm in Pozener Departement, des gleichen die Dörfer Trąbczyn, Szettleweck, Nowawies, Lazy, Laske, Osziny, und Trąbczyner Hauland Koniner Kreises, so wie auch das Dorf Brzyze nebst Zubehör in Cujawien. Es gehöhrten diese Güter ehedem einen gewißen von Prusimski, welche nach deßen Entweichung confissirt, und dem Herrn Fürsten zu Hohenlohe verliehen wurden.\n\nDer Fürst besaß diese Güter, außer Brzyze, welches die Tochter des Prusimski, jezt verehelichte von Miączyńska als mütterliches Erbteil vindizirte, über 11 Jahr im ruhigsten Besizz. Er verkaufte davon im Jahr 1804 dem Banko Direktor Leixner zu Frankfurt an der Oder die Kaemener und Kulmener Güter, welche der p Leixner auch 3 Jahr ungestört besaß.\n\nErst 1807, und zwar 14 Wochen nach den Tillsitter Frieden, fiel es der sogenannten Pohl. Verwaltungs Commission ein, dem Herrn Fürsten und dem p Leixner die sämtliche Güter, ohne irgends ein richterliches Erkenntnis, gewaltsamer Weise wegzunehmen, und selbige der verehelichten Miączyńska zu geben. Der Fürst Hohenlohe klagte nach seiner Zurückunft aus dem Reich, sogleich bey das Friedens Gericht zu Konin welches forum aber die v. Miączyńska gar nicht anerkannte. Der Fürst lies darauf im Vorschriftsmäßigen Wege die hier Submissiert beygefügte Klage sub litt B, durch seinen Anwald, dem Tribunal zu Kalisz einreichen, die nun auch zur weitern Einsicht auf alles hinweiset. die v. Miączyńska erwiederte darauf durch ihren Actuar, laut Beylage sub litt. C., daß sie auch nicht nicht verbunden wäre sich dem Tribunal in dieser Sache zu unterwerfen. Gedachter Tribunal zog nun die Sache länger als ein Jahr hin, und gab endlich das Sub Litt D beygebogene Decret, in welchem er nach vielen seichten unverständlichen Umschweifungen sagt — Daß sich der Tribunal nicht ermächtiget hielte, die Verfügung der Verwaltungs Commission aufzuheben, und daß dies nur allein dem König zu stände — die von Miączyńska solle daher in die Güter sitzen bleiben, und der Fürst die Kosten bezahlen. So steht diese Sache noch jezt, die Miączyńska sizt in die Güter zieht sämtliche Revenuen ein, und zahlt seit 1806 keinen Groschen Zinsen. Niemand ward durch dieser schändlichen gewaltsamen Handlung der mehr gedachten verwaltungs Commission, unglücklicher, als der Banko Director Leixner, dieser Mann sahe sich nicht nur seines Vermögens beraubt, sondern er verlohr sein Brodt und seine Freyheit. Nach der glücklichen Wendung, die Europens Schicksahl nun durch Ewr Durchlaucht Vorsorge und Anstrengung genommen hat, Geruhen Allerhöchst dieselben zu befehlen, daß dem p. Leixner Kulm und Kaemen wieder gegeben wird, um die Königl. Bank befriedigen zu können, und leiten es durch Allerhöchst Dero mächtiges Vorwort bey des Ruß. Kaysers Majestät in die Wege, daß dem Herrn Fürsten zu Hohenlohe, auch die Trąbczyner Güter, die Jenseits der Prosna liegen, mit dem von der v Miączyńska, durch 9 Jahr bezogene Revenuen, welche nach den Pacht Contracten 36,500 rttlr betragen, von derselben zurück gegeben werden müßen.\n\nEwr Hochfürstliche Durchlaucht beglücken durch die Gewährung dieser gerechten Bitte, viele im Elend schmachtende Menschen, und die Königliche Bank erhält auch ihr Geld zurück.\n\nIn tiefster Ehrfurcht ersterbe\n\nEwr Hochfürstliche Durchlaucht\n\nuntertänigster Diener\n\nv. Triebenfeld\n\nWien den 2ten Mertz 1815\n\nHerrn Geh. StaatsRath\n\nStägemann vorzulegen\n\nH[arden]b[er]g 14/3",
+   "page_id": "0007_a2",
+   "line_start": 144,
+   "line_end": 149,
+   "n_lines": 6,
+   "diplomatic": "Monsieur le Baron!\nEn 1796 Sa Majesté le Roi de Prusse de glorieuse mémoire me conféra les terres de Kaemen et de Trąpczin qui lui étaient dévolues par la fuite du Starost Prussiemski. Ces terres sont situées celle de Kaemen dans le cercle de Miedzeris, celle de Trąpczin dans celui de Konin.\nEn 1807 quatorze semaines après la paix de Tilsit il plut au fisc polonais de s'emparer de ces terres et malgré mes réclamations et protestations, elle furent adjugées à la fille du prédit Prussimski, marié actuellement à Mr. de Mięczynsky.\nToutes mes démarches pour revendiquer mes droits sont restées sans aucun effet et maintenant ou je croijés le moment propre pour les faire revivre, j'apprends que Sa Majesté l'Empereur a daigné confirmer les décrets arbitraires du fisc polonais, en faveur de Madame Mięczynsky.\nJe me vois donc dans la nécessité de recourir aux bons offices de Votre Excellence, pour réclamer par\nRepondre qu’il faudra attendre le règlement définitif des affaires de Pologne qui ce moment ne parait pas eloigné, que le Prince fera alors tout ce qui dependra de lui pour appuyer les réclamations de L. A.",
+   "transcription": "Monsieur le Baron!\nEn 1796 Sa Majesté le Roi de Prusse de glorieuse mémoire me conféra les terres de Kaemen et de Trąpczin qui lui étaient dévolues par la fuite du Starost Prussiemski. Ces terres sont situées celle de Kaemen dans le cercle de Miedzeris, celle de Trąpczin dans celui de Konin.\nEn 1807 quatorze semaines après la paix de Tilsit il plut au fisc polonais de s'emparer de ces terres et malgré mes réclamations et protestations, elle furent adjugées à la fille du prédit Prussimski, marié actuellement à Mr. de Mięczynsky.\nToutes mes démarches pour revendiquer mes droits sont restées sans aucun effet et maintenant ou je croijés le moment propre pour les faire revivre, j'apprends que Sa Majesté l'Empereur a daigné confirmer les décrets arbitraires du fisc polonais, en faveur de Madame Mięczynsky.\nJe me vois donc dans la nécessité de recourir aux bons offices de Votre Excellence, pour réclamer par\nRepondre qu’il faudra attendre le règlement définitif des affaires de Pologne qui ce moment ne parait pas eloigné, que le Prince fera alors tout ce qui dependra de lui pour appuyer les réclamations de L. A.",
+   "reading": "Monsieur le Baron!\n\nEn 1796 Sa Majesté le Roi de Prusse de glorieuse mémoire me conféra les terres de Kaemen et de Trąpczin qui lui étaient dévolues par la fuite du Starost Prussiemski. Ces terres sont situées celle de Kaemen dans le cercle de Miedzeris, celle de Trąpczin dans celui de Konin.\n\nEn 1807 quatorze semaines après la paix de Tilsit il plut au fisc polonais de s'emparer de ces terres et malgré mes réclamations et protestations, elle furent adjugées à la fille du prédit Prussimski, marié actuellement à Mr. de Mięczynsky.\n\nToutes mes démarches pour revendiquer mes droits sont restées sans aucun effet et maintenant ou je croijés le moment propre pour les faire revivre, j'apprends que Sa Majesté l'Empereur a daigné confirmer les décrets arbitraires du fisc polonais, en faveur de Madame Mięczynsky.\n\nJe me vois donc dans la nécessité de recourir aux bons offices de Votre Excellence, pour réclamer par\n\nRepondre qu’il faudra attendre le règlement définitif des affaires de Pologne qui ce moment ne parait pas eloigné, que le Prince fera alors tout ce qui dependra de lui pour appuyer les réclamations de L. A.",
    "paragraphs": [
-    "Durchlauchtigster Fürst",
-    "Gnädigster Fürst und Herr!",
-    "Des Höchstseeligen Königes von Preußen Majestät verliehen in Jahr 1796 dem Herrn Fürsten zu Hohenlohe, laut beygebogener abschriftlichen Urkunde Sub Litt: A. Die Güter Kaemen und Kulm in Pozener Departement, des gleichen die Dörfer Trąbczyn, Szettleweck, Nowawies, Lazy, Laske, Osziny, und Trąbczyner Hauland Koniner Kreises, so wie auch das Dorf Brzyze nebst Zubehör in Cujawien. Es gehöhrten diese Güter ehedem einen gewißen von Prusimski, welche nach deßen Entweichung confissirt, und dem Herrn Fürsten zu Hohenlohe verliehen wurden.",
-    "Der Fürst besaß diese Güter, außer Brzyze, welches die Tochter des Prusimski, jezt verehelichte von Miączyńska als mütterliches Erbteil vindizirte, über 11 Jahr im ruhigsten Besizz. Er verkaufte davon im Jahr 1804 dem Banko Direktor Leixner zu Frankfurt an der Oder die Kaemener und Kulmener Güter, welche der p Leixner auch 3 Jahr ungestört besaß.",
-    "Erst 1807, und zwar 14 Wochen nach den Tillsitter Frieden, fiel es der sogenannten Pohl. Verwaltungs Commission ein, dem Herrn Fürsten und dem p Leixner die sämtliche Güter, ohne irgends ein richterliches Erkenntnis, gewaltsamer Weise wegzunehmen, und selbige der verehelichten Miączyńska zu geben. Der Fürst Hohenlohe klagte nach seiner Zurückunft aus dem Reich, sogleich bey das Friedens Gericht zu Konin welches forum aber die v. Miączyńska gar nicht anerkannte. Der Fürst lies darauf im Vorschriftsmäßigen Wege die hier Submissiert beygefügte Klage sub litt B, durch seinen Anwald, dem Tribunal zu Kalisz einreichen, die nun auch zur weitern Einsicht auf alles hinweiset. die v. Miączyńska erwiederte darauf durch ihren Actuar, laut Beylage sub litt. C., daß sie auch nicht nicht verbunden wäre sich dem Tribunal in dieser Sache zu unterwerfen. Gedachter Tribunal zog nun die Sache länger als ein Jahr hin, und gab endlich das Sub Litt D beygebogene Decret, in welchem er nach vielen seichten unverständlichen Umschweifungen sagt — Daß sich der Tribunal nicht ermächtiget hielte, die Verfügung der Verwaltungs Commission aufzuheben, und daß dies nur allein dem König zu stände — die von Miączyńska solle daher in die Güter sitzen bleiben, und der Fürst die Kosten bezahlen. So steht diese Sache noch jezt, die Miączyńska sizt in die Güter zieht sämtliche Revenuen ein, und zahlt seit 1806 keinen Groschen Zinsen. Niemand ward durch dieser schändlichen gewaltsamen Handlung der mehr gedachten verwaltungs Commission, unglücklicher, als der Banko Director Leixner, dieser Mann sahe sich nicht nur seines Vermögens beraubt, sondern er verlohr sein Brodt und seine Freyheit. Nach der glücklichen Wendung, die Europens Schicksahl nun durch Ewr Durchlaucht Vorsorge und Anstrengung genommen hat, Geruhen Allerhöchst dieselben zu befehlen, daß dem p. Leixner Kulm und Kaemen wieder gegeben wird, um die Königl. Bank befriedigen zu können, und leiten es durch Allerhöchst Dero mächtiges Vorwort bey des Ruß. Kaysers Majestät in die Wege, daß dem Herrn Fürsten zu Hohenlohe, auch die Trąbczyner Güter, die Jenseits der Prosna liegen, mit dem von der v Miączyńska, durch 9 Jahr bezogene Revenuen, welche nach den Pacht Contracten 36,500 rttlr betragen, von derselben zurück gegeben werden müßen.",
-    "Ewr Hochfürstliche Durchlaucht beglücken durch die Gewährung dieser gerechten Bitte, viele im Elend schmachtende Menschen, und die Königliche Bank erhält auch ihr Geld zurück.",
-    "In tiefster Ehrfurcht ersterbe",
-    "Ewr Hochfürstliche Durchlaucht",
-    "untertänigster Diener",
-    "v. Triebenfeld",
-    "Wien den 2ten Mertz 1815",
-    "Herrn Geh. StaatsRath",
-    "Stägemann vorzulegen",
-    "H[arden]b[er]g 14/3"
+    "Monsieur le Baron!",
+    "En 1796 Sa Majesté le Roi de Prusse de glorieuse mémoire me conféra les terres de Kaemen et de Trąpczin qui lui étaient dévolues par la fuite du Starost Prussiemski. Ces terres sont situées celle de Kaemen dans le cercle de Miedzeris, celle de Trąpczin dans celui de Konin.",
+    "En 1807 quatorze semaines après la paix de Tilsit il plut au fisc polonais de s'emparer de ces terres et malgré mes réclamations et protestations, elle furent adjugées à la fille du prédit Prussimski, marié actuellement à Mr. de Mięczynsky.",
+    "Toutes mes démarches pour revendiquer mes droits sont restées sans aucun effet et maintenant ou je croijés le moment propre pour les faire revivre, j'apprends que Sa Majesté l'Empereur a daigné confirmer les décrets arbitraires du fisc polonais, en faveur de Madame Mięczynsky.",
+    "Je me vois donc dans la nécessité de recourir aux bons offices de Votre Excellence, pour réclamer par",
+    "Repondre qu’il faudra attendre le règlement définitif des affaires de Pologne qui ce moment ne parait pas eloigné, que le Prince fera alors tout ce qui dependra de lui pour appuyer les réclamations de L. A."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
+   "continues_next": true,
+   "para_lines": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "office_lines": [
+    5
+   ],
+   "office_paragraphs": [
+    5
+   ],
+   "doc_line_start": 1,
+   "doc_line_end": 6,
+   "by_paragraph": true
+  },
+  {
+   "page": 2,
+   "page_id": "0008_a1",
+   "line_start": 151,
+   "line_end": 153,
+   "n_lines": 3,
+   "diplomatic": "par sa puissante intervention une indemnité convenable pour une possession aussi importante, et c'est à cet effet que je prends la liberté de lui présenter là dessus les détails suivants, que je prie Votre Excellence de vouloir bien mettre sous les yeux de Sa Majesté l'Empereur, et de porter ce Monarque à me rendre justice en m'accordant une indemnité convenable.\nMonsieur de Prussimsky ayant avant sa fuite engagé ces terres pour une somme de 80,000 écus et 36000 ducats, je fus obligé, après un procès de 8 ans et 6000 écus de fraix, de payer une somme de 55000 écus pour les libérer. Les intérêts de ces deux sommes ensemble 61,000 écus, depuis 1807 à 1815, montent à la somme de 24400 écus, de sorte que la somme de mes prétentions en argent comptant ascend à 85400 écus.\nD'après une taxe faite de ces terres par la régence de Kalisz, leur valeur fut estimée à 316000 écus sur la quelle j'avais contracté 76000 écus de dettes, dont déduction faite il reste à ajouter 240,000 écus",
+   "transcription": "par sa puissante intervention une indemnité convenable pour une possession aussi importante, et c'est à cet effet que je prends la liberté de lui présenter là dessus les détails suivants, que je prie Votre Excellence de vouloir bien mettre sous les yeux de Sa Majesté l'Empereur, et de porter ce Monarque à me rendre justice en m'accordant une indemnité convenable.\nMonsieur de Prussimsky ayant avant sa fuite engagé ces terres pour une somme de 80,000 écus et 36000 ducats, je fus obligé, après un procès de 8 ans et 6000 écus de fraix, de payer une somme de 55000 écus pour les libérer. Les intérêts de ces deux sommes ensemble 61,000 écus, depuis 1807 à 1815, montent à la somme de 24400 écus, de sorte que la somme de mes prétentions en argent comptant ascend à 85400 écus.\nD'après une taxe faite de ces terres par la régence de Kalisz, leur valeur fut estimée à 316000 écus sur la quelle j'avais contracté 76000 écus de dettes, dont déduction faite il reste à ajouter 240,000 écus",
+   "reading": "par sa puissante intervention une indemnité convenable pour une possession aussi importante, et c'est à cet effet que je prends la liberté de lui présenter là dessus les détails suivants, que je prie Votre Excellence de vouloir bien mettre sous les yeux de Sa Majesté l'Empereur, et de porter ce Monarque à me rendre justice en m'accordant une indemnité convenable.\n\nMonsieur de Prussimsky ayant avant sa fuite engagé ces terres pour une somme de 80,000 écus et 36,000 ducats, je fus obligé, après un procès de 8 ans et 6,000 écus de fraix, de payer une somme de 55,000 écus pour les libérer. Les intérêts de ces deux sommes ensemble 61,000 écus, depuis 1807 à 1815, montent à la somme de 24,400 écus, de sorte que la somme de mes prétentions en argent comptant ascend à 85,400 écus.\n\nD'après une taxe faite de ces terres par la régence de Kalisz, leur valeur fut estimée à 316,000 écus sur la quelle j'avais contracté 76,000 écus de dettes, dont déduction faite il reste à ajouter 240,000 écus",
+   "paragraphs": [
+    "par sa puissante intervention une indemnité convenable pour une possession aussi importante, et c'est à cet effet que je prends la liberté de lui présenter là dessus les détails suivants, que je prie Votre Excellence de vouloir bien mettre sous les yeux de Sa Majesté l'Empereur, et de porter ce Monarque à me rendre justice en m'accordant une indemnité convenable.",
+    "Monsieur de Prussimsky ayant avant sa fuite engagé ces terres pour une somme de 80,000 écus et 36,000 ducats, je fus obligé, après un procès de 8 ans et 6,000 écus de fraix, de payer une somme de 55,000 écus pour les libérer. Les intérêts de ces deux sommes ensemble 61,000 écus, depuis 1807 à 1815, montent à la somme de 24,400 écus, de sorte que la somme de mes prétentions en argent comptant ascend à 85,400 écus.",
+    "D'après une taxe faite de ces terres par la régence de Kalisz, leur valeur fut estimée à 316,000 écus sur la quelle j'avais contracté 76,000 écus de dettes, dont déduction faite il reste à ajouter 240,000 écus"
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": true,
+   "para_lines": [
+    1,
+    2
+   ],
+   "scan": "III_HA_MdA_III_Nr_12765_0008_a1-L4_02.jpg",
+   "doc_line_start": 7,
+   "doc_line_end": 9,
+   "by_paragraph": true
+  },
+  {
+   "page": 3,
+   "page_id": "0008_a2",
+   "line_start": 155,
+   "line_end": 163,
+   "n_lines": 9,
+   "diplomatic": "a ce qui porterait ma perte à la somme de 325400 écus.\nL'intérêt que Votre Excellence a toujours daigné prendre à mes affaires, l'amitié qu'elle m'a toujours témoigné, m'est un sûr garant qu'il suffit de Lui donner connoissance de cette affaire pour être assuré de son résultat, fondé sur la justice de Sa Majesté l'Empereur, et appuyé de la plus exacte équité.\nAgréez, Monsieur le Baron, les assurances de la plus haute considération avec laquelle j'ai l'honneur d'être\nMonsieur le Baron\nde Votre Excellence\nVotre trés hûmble, et trés obeissant Serviteur,\nFrederic Louis Pr. de Hohenlohe.\nSlawenziz le 12. Avril\n1815.",
+   "transcription": "a ce qui porterait ma perte à la somme de 325400 écus.\nL'intérêt que Votre Excellence a toujours daigné prendre à mes affaires, l'amitié qu'elle m'a toujours témoigné, m'est un sûr garant qu'il suffit de Lui donner connoissance de cette affaire pour être assuré de son résultat, fondé sur la justice de Sa Majesté l'Empereur, et appuyé de la plus exacte équité.\nAgréez, Monsieur le Baron, les assurances de la plus haute considération avec laquelle j'ai l'honneur d'être\nMonsieur le Baron\nde Votre Excellence\nVotre trés hûmble, et trés obeissant Serviteur,\nFrederic Louis Pr. de Hohenlohe.\nSlawenziz le 12. Avril\n1815.",
+   "reading": "a ce qui porterait ma perte à la somme de 325,400 écus.\n\nL'intérêt que Votre Excellence a toujours daigné prendre à mes affaires, l'amitié qu'elle m'a toujours témoigné, m'est un sûr garant qu'il suffit de Lui donner connoissance de cette affaire pour être assuré de son résultat, fondé sur la justice de Sa Majesté l'Empereur, et appuyé de la plus exacte équité.\n\nAgréez, Monsieur le Baron, les assurances de la plus haute considération avec laquelle j'ai l'honneur d'être\n\nMonsieur le Baron\n\nde Votre Excellence\n\nVotre trés hûmble, et trés obeissant Serviteur,\n\nFrederic Louis Pr. de Hohenlohe.\n\nSlawenziz le 12. Avril 1815.",
+   "paragraphs": [
+    "a ce qui porterait ma perte à la somme de 325,400 écus.",
+    "L'intérêt que Votre Excellence a toujours daigné prendre à mes affaires, l'amitié qu'elle m'a toujours témoigné, m'est un sûr garant qu'il suffit de Lui donner connoissance de cette affaire pour être assuré de son résultat, fondé sur la justice de Sa Majesté l'Empereur, et appuyé de la plus exacte équité.",
+    "Agréez, Monsieur le Baron, les assurances de la plus haute considération avec laquelle j'ai l'honneur d'être",
+    "Monsieur le Baron",
+    "de Votre Excellence",
+    "Votre trés hûmble, et trés obeissant Serviteur,",
+    "Frederic Louis Pr. de Hohenlohe.",
+    "Slawenziz le 12. Avril 1815."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
    "continues_next": false,
    "para_lines": [
     1,
     2,
-    8,
-    12,
-    37,
-    39,
-    40,
-    41,
-    42,
-    43,
-    45,
-    46,
-    47
+    3,
+    4,
+    5,
+    6,
+    7
    ],
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "office_lines": [
-    45,
-    46,
-    47
-   ],
-   "office_paragraphs": [
-    11,
-    12,
-    13
-   ],
-   "doc_line_start": 1,
-   "doc_line_end": 48
+   "scan": "III_HA_MdA_III_Nr_12765_0008_a2-L4_03.jpg",
+   "doc_line_start": 10,
+   "doc_line_end": 18,
+   "by_paragraph": true
   }
  ],
  "mentions": [
   {
-   "entity": "hohenlohe",
-   "display": "Hohenlohe",
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
-   "surface": "Hohenlohe",
+   "surface": "Prussiemski",
    "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 66,
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 145,
+   "doc_line": 2
+  },
+  {
+   "entity": "miaczynski",
+   "display": "Stanisław Miączyński",
+   "kind": "person",
+   "surface": "Mięczynsky",
+   "page": 1,
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 146,
+   "doc_line": 3
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface": "Prussimski",
+   "page": 1,
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 146,
+   "doc_line": 3
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface": "Madame Mięczynsky",
+   "page": 1,
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 147,
    "doc_line": 4
   },
   {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
-   "surface": "Prusimski",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 69,
-   "doc_line": 7
-  },
-  {
-   "entity": "hohenlohe",
-   "display": "Hohenlohe",
-   "kind": "person",
-   "surface": "Hohenlohe",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 70,
+   "surface": "Prussimsky",
+   "page": 2,
+   "page_id": "0008_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0008_a1-L4_02.jpg",
+   "line": 152,
    "doc_line": 8
   },
   {
-   "entity": "prusimski",
-   "display": "Antoni Prusimski, Starost of Niszczewice",
-   "kind": "person",
-   "surface": "Prusimski",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 71,
-   "doc_line": 9
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 72,
-   "doc_line": 10
-  },
-  {
-   "entity": "leixner",
-   "display": "George Conrad Leixner",
-   "kind": "person",
-   "surface": "Leixner",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 73,
-   "doc_line": 11
-  },
-  {
-   "entity": "leixner",
-   "display": "George Conrad Leixner",
-   "kind": "person",
-   "surface": "Leixner",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 74,
-   "doc_line": 12
-  },
-  {
-   "entity": "leixner",
-   "display": "George Conrad Leixner",
-   "kind": "person",
-   "surface": "Leixner",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 76,
-   "doc_line": 14
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 77,
-   "doc_line": 15
-  },
-  {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
    "surface": "Hohenlohe",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 78,
+   "page": 3,
+   "page_id": "0008_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0008_a2-L4_03.jpg",
+   "line": 161,
    "doc_line": 16
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 79,
-   "doc_line": 17
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 82,
-   "doc_line": 20
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 87,
-   "doc_line": 25
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 89,
-   "doc_line": 27
-  },
-  {
-   "entity": "leixner",
-   "display": "George Conrad Leixner",
-   "kind": "person",
-   "surface": "Leixner",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 91,
-   "doc_line": 29
-  },
-  {
-   "entity": "leixner",
-   "display": "George Conrad Leixner",
-   "kind": "person",
-   "surface": "Leixner",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 95,
-   "doc_line": 33
-  },
-  {
-   "entity": "hohenlohe",
-   "display": "Hohenlohe",
-   "kind": "person",
-   "surface": "Hohenlohe",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 97,
-   "doc_line": 35
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 98,
-   "doc_line": 36
-  },
-  {
-   "entity": "triebenfeld",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface": "Triebenfeld",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 105,
-   "doc_line": 43
-  },
-  {
-   "entity": "staegemann",
-   "display": "Stägemann",
-   "kind": "person",
-   "surface": "Stägemann",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 109,
-   "doc_line": 47
-  },
-  {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
-   "kind": "person",
-   "surface": "H[arden]b[er]g",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 110,
-   "doc_line": 48
   }
  ],
  "mentions_english": [
   {
    "entity": "",
-   "display": "Prince of Hohenlohe",
+   "display": "Monsieur le Baron",
    "kind": "person",
-   "surface_de": "Fürst zu Hohenlohe",
-   "surface_en": "Prince of Hohenlohe",
+   "surface_de": "Monsieur le Baron",
+   "surface_en": "Monsieur le Baron",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Prussia",
-   "kind": "place",
-   "surface_de": "Preußen",
-   "surface_en": "Prussia",
+   "display": "King of Prussia",
+   "kind": "other",
+   "surface_de": "Roi de Prusse",
+   "surface_en": "King of Prussia",
    "page": 1
   },
   {
@@ -357,138 +237,26 @@
   },
   {
    "entity": "",
-   "display": "Kulm",
-   "kind": "place",
-   "surface_de": "Kulm",
-   "surface_en": "Kulm",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Poznań department",
-   "kind": "place",
-   "surface_de": "Pozener Departement",
-   "surface_en": "Poznań department",
-   "page": 1
-  },
-  {
-   "entity": "",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface_de": "Trąbczyn",
+   "surface_de": "Trąpczin",
    "surface_en": "Trąbczyn",
    "page": 1
   },
   {
-   "entity": "",
-   "display": "Szetlewek",
-   "kind": "place",
-   "surface_de": "Szettleweck",
-   "surface_en": "Szetlewek",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Nowawies",
-   "kind": "place",
-   "surface_de": "Nowawies",
-   "surface_en": "Nowawies",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Lazy",
-   "kind": "place",
-   "surface_de": "Lazy",
-   "surface_en": "Lazy",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Laske",
-   "kind": "place",
-   "surface_de": "Laske",
-   "surface_en": "Laske",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Osiny",
-   "kind": "place",
-   "surface_de": "Osziny",
-   "surface_en": "Osiny",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyner Hauland",
-   "kind": "place",
-   "surface_de": "Trąbczyner Hauland",
-   "surface_en": "Trąbczyner Hauland",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "district of Konin",
-   "kind": "place",
-   "surface_de": "Koniner Kreises",
-   "surface_en": "district of Konin",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Brzyce",
-   "kind": "place",
-   "surface_de": "Brzyze",
-   "surface_en": "Brzyce",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Cujavia",
-   "kind": "place",
-   "surface_de": "Cujawien",
-   "surface_en": "Cujavia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "von Prusimski",
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
-   "surface_de": "von Prusimski",
-   "surface_en": "von Prusimski",
+   "surface_de": "Prussiemski",
+   "surface_en": "Prussiemski",
    "page": 1
   },
   {
    "entity": "",
-   "display": "von Miączyńska",
-   "kind": "person",
-   "surface_de": "von Miączyńska",
-   "surface_en": "von Miączyńska",
-   "page": 1
-  },
-  {
-   "entity": "leixner",
-   "display": "George Conrad Leixner",
-   "kind": "person",
-   "surface_de": "Leixner",
-   "surface_en": "Leixner",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Frankfurt an der Oder",
+   "display": "Międzyrzecz",
    "kind": "place",
-   "surface_de": "Frankfurt an der Oder",
-   "surface_en": "Frankfurt an der Oder",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "peace of Tilsit",
-   "kind": "other",
-   "surface_de": "Tillsitter Frieden",
-   "surface_en": "peace of Tilsit",
+   "surface_de": "Miedzeris",
+   "surface_en": "Międzyrzecz",
    "page": 1
   },
   {
@@ -501,70 +269,118 @@
   },
   {
    "entity": "",
+   "display": "Tilsit",
+   "kind": "place",
+   "surface_de": "Tilsit",
+   "surface_en": "Tilsit",
+   "page": 1
+  },
+  {
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "kind": "person",
+   "surface_de": "Prussimski",
+   "surface_en": "Prussimski",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "M. de Mięczynsky",
+   "kind": "person",
+   "surface_de": "Mr. de Mięczynsky",
+   "surface_en": "M. de Mięczynsky",
+   "page": 1
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface_de": "Madame Mięczynsky",
+   "surface_en": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Emperor",
+   "kind": "other",
+   "surface_de": "l'Empereur",
+   "surface_en": "the Emperor",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Poland",
+   "kind": "place",
+   "surface_de": "Pologne",
+   "surface_en": "Poland",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "His Highness",
+   "kind": "person",
+   "surface_de": "L. A.",
+   "surface_en": "His Highness",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussimsky",
+   "kind": "person",
+   "surface_de": "Monsieur de Prussimsky",
+   "surface_en": "Prussimsky",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Emperor",
+   "kind": "other",
+   "surface_de": "l'Empereur",
+   "surface_en": "the Emperor",
+   "page": 2
+  },
+  {
+   "entity": "",
    "display": "Kalisz",
    "kind": "place",
    "surface_de": "Kalisz",
    "surface_en": "Kalisz",
-   "page": 1
+   "page": 2
   },
   {
    "entity": "",
-   "display": "Europe's",
+   "display": "the Emperor",
+   "kind": "other",
+   "surface_de": "l'Empereur",
+   "surface_en": "the Emperor",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Monsieur le Baron",
+   "kind": "person",
+   "surface_de": "Monsieur le Baron",
+   "surface_en": "Monsieur le Baron",
+   "page": 3
+  },
+  {
+   "entity": "",
+   "display": "Sławięcice",
    "kind": "place",
-   "surface_de": "Europens",
-   "surface_en": "Europe's",
-   "page": 1
+   "surface_de": "Slawenziz",
+   "surface_en": "Sławięcice",
+   "page": 3
   },
   {
    "entity": "",
-   "display": "His Majesty the Russian Emperor",
+   "display": "Friedrich Ludwig of Hohenlohe, Prince",
    "kind": "person",
-   "surface_de": "Ruß. Kaysers Majestät",
-   "surface_en": "His Majesty the Russian Emperor",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prosna",
-   "kind": "place",
-   "surface_de": "Prosna",
-   "surface_en": "Prosna",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Vienna",
-   "kind": "place",
-   "surface_de": "Wien",
-   "surface_en": "Vienna",
-   "page": 1
-  },
-  {
-   "entity": "triebenfeld",
-   "display": "v. Triebenfeld",
-   "kind": "person",
-   "surface_de": "v. Triebenfeld",
-   "surface_en": "v. Triebenfeld",
-   "page": 1
-  },
-  {
-   "entity": "staegemann",
-   "display": "Stägemann",
-   "kind": "person",
-   "surface_de": "Stägemann",
-   "surface_en": "Stägemann",
-   "page": 1
-  },
-  {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
-   "kind": "person",
-   "surface_de": "H[arden]b[er]g",
-   "surface_en": "H[arden]b[er]g",
-   "page": 1
+   "surface_de": "Frederic Louis Pr. de Hohenlohe",
+   "surface_en": "Friedrich Ludwig of Hohenlohe, Prince",
+   "page": 3
   }
  ],
- "place_canonical": "Wien",
+ "place_canonical": "Schlawenschitz",
  "place_mentions": [
   {
    "entity": "kamionno",
@@ -572,175 +388,10 @@
    "kind": "place",
    "surface": "Kaemen",
    "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 66,
-   "doc_line": 4
-  },
-  {
-   "entity": "kolno",
-   "display": "Kolno (Kulm)",
-   "kind": "place",
-   "surface": "Kulm",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 66,
-   "doc_line": 4
-  },
-  {
-   "entity": "laske",
-   "display": "Laske",
-   "kind": "place",
-   "surface": "Laske",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 67,
-   "doc_line": 5
-  },
-  {
-   "entity": "lazy-trabczyn",
-   "display": "Łazy",
-   "kind": "place",
-   "surface": "Lazy",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 67,
-   "doc_line": 5
-  },
-  {
-   "entity": "nowawies-trabczyn",
-   "display": "Nowawies",
-   "kind": "place",
-   "surface": "Nowawies",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 67,
-   "doc_line": 5
-  },
-  {
-   "entity": "osiny",
-   "display": "Osiny",
-   "kind": "place",
-   "surface": "Osziny",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 67,
-   "doc_line": 5
-  },
-  {
-   "entity": "szetlewek",
-   "display": "Szetlewek",
-   "kind": "place",
-   "surface": "Szettleweck",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 67,
-   "doc_line": 5
-  },
-  {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface": "Trąbczyn",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 67,
-   "doc_line": 5
-  },
-  {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface": "Trąbczyner",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 67,
-   "doc_line": 5
-  },
-  {
-   "entity": "brzyce",
-   "display": "Brzyce",
-   "kind": "place",
-   "surface": "Brzyze",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 68,
-   "doc_line": 6
-  },
-  {
-   "entity": "konin",
-   "display": "Konin",
-   "kind": "place",
-   "surface": "Koniner",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 68,
-   "doc_line": 6
-  },
-  {
-   "entity": "brzyce",
-   "display": "Brzyce",
-   "kind": "place",
-   "surface": "Brzyze",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 71,
-   "doc_line": 9
-  },
-  {
-   "entity": "frankfurt-an-der-oder",
-   "display": "Frankfurt an der Oder",
-   "kind": "place",
-   "surface": "Frankfurt",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 73,
-   "doc_line": 11
-  },
-  {
-   "entity": "kamionno",
-   "display": "Kamionna (Kaemen)",
-   "kind": "place",
-   "surface": "Kaemener",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 73,
-   "doc_line": 11
-  },
-  {
-   "entity": "konin",
-   "display": "Konin",
-   "kind": "place",
-   "surface": "Konin",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 78,
-   "doc_line": 16
-  },
-  {
-   "entity": "kalisz",
-   "display": "Kalisz (Kalisch)",
-   "kind": "place",
-   "surface": "Kalisz",
-   "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 81,
-   "doc_line": 19
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 145,
+   "doc_line": 2
   },
   {
    "entity": "kamionno",
@@ -748,60 +399,82 @@
    "kind": "place",
    "surface": "Kaemen",
    "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 95,
-   "doc_line": 33
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 145,
+   "doc_line": 2
   },
   {
-   "entity": "kolno",
-   "display": "Kolno (Kulm)",
+   "entity": "konin",
+   "display": "Konin",
    "kind": "place",
-   "surface": "Kulm",
+   "surface": "Konin",
    "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 95,
-   "doc_line": 33
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 145,
+   "doc_line": 2
+  },
+  {
+   "entity": "miedzyrzecz",
+   "display": "Międzyrzecz (Meseritz)",
+   "kind": "place",
+   "surface": "Miedzeris",
+   "page": 1,
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 145,
+   "doc_line": 2
   },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Trąbczyner",
+   "surface": "Trąpczin",
    "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 97,
-   "doc_line": 35
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 145,
+   "doc_line": 2
   },
   {
-   "entity": "wien",
-   "display": "Wien",
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
    "kind": "place",
-   "surface": "Wien",
+   "surface": "Trąpczin",
    "page": 1,
-   "page_id": "0005_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0005_a2-L4_01.jpg",
-   "line": 106,
-   "doc_line": 44
+   "page_id": "0007_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0007_a2-L4_01.jpg",
+   "line": 145,
+   "doc_line": 2
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Kalisz",
+   "page": 2,
+   "page_id": "0008_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0008_a1-L4_02.jpg",
+   "line": 153,
+   "doc_line": 9
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nHis Majesty the late King of Prussia conferred in the year 1796 upon the Prince of Hohenlohe, according to the appended copy of the instrument under Letter A, the estates of Kamionna and Kolno in the Poznań department, likewise the villages of Trąbczyn, Szetlewek, Nowawies, Lazy, Laske, Osiny and Trąbczyner Hauland in the district of Konin, as also the village of Brzyce together with its appurtenances in Cujavia. These estates formerly belonged to a certain von Prusimski, and after his flight they were confiscated and conferred upon the Prince of Hohenlohe.\n\nThe Prince possessed these estates, except Brzyce, which the daughter of Prusimski, now the married von Miączyńska, claimed as her maternal inheritance, for over 11 years in the most undisturbed possession. Of these he sold in the year 1804 to the bank director Leixner at Frankfurt an der Oder the Kamionna and Kolno estates, which Leixner likewise possessed undisturbed for 3 years.\n\nOnly in 1807, and indeed 14 weeks after the peace of Tilsit, did it occur to the so-called Polish administrative commission to take all the estates from the Prince and from Leixner by force, without any judicial judgment whatever, and to give the same to the married Miączyńska. Prince Hohenlohe, immediately upon his return from the Empire, brought suit before the peace court at Konin, which forum, however, von Miączyńska did not recognise at all. The Prince thereupon caused the complaint here most humbly appended under Letter B to be submitted, in the prescribed manner, through his attorney, to the tribunal at Kalisz, which now also points to everything for further inspection. Von Miączyńska replied thereto through her actuary, according to the enclosure under Letter C, that she was also not not bound to submit herself to the tribunal in this matter. The said tribunal then drew the matter out longer than a year, and at length issued the decree appended under Letter D, in which, after many shallow and unintelligible circumlocutions, it says — that the tribunal did not hold itself empowered to annul the ordinance of the administrative commission, and that this belonged to the King alone — that von Miączyńska should therefore remain seated in the estates, and the Prince pay the costs. So the matter stands even now: Miączyńska sits in the estates, draws in all the revenues, and since 1806 has paid not a Groschen of interest. No one was made more unfortunate by this shameful and violent act of the oft-mentioned administrative commission than the bank director Leixner; this man saw himself not only robbed of his fortune, but he lost his bread and his freedom. After the happy turn which Europe's fate has now taken through Your Serene Highness's foresight and exertion, may Your Most High Self deign to command that Kolno and Kamionna be given back to Leixner, in order that the Royal Bank may be satisfied, and by Your Most High and powerful intercession with His Majesty the Russian Emperor bring it about that to the Prince of Hohenlohe the Trąbczyn estates also, which lie on the far side of the Prosna, must be given back by von Miączyńska, together with the revenues drawn by her through 9 years, which according to the leases amount to 36,500 Rthl.\n\nYour Most Serene Highness will, by the granting of this just request, make happy many persons languishing in misery, and the Royal Bank will likewise receive its money back.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nmost humble and obedient servant\n\nvon Triebenfeld\n\nVienna, the 2nd of March 1815\n\n[Written by the receiving office:]\n\nTo be laid before the Privy Councillor of State\n\nStägemann\n\nH[arden]b[er]g 14/3",
+   "en": "Monsieur le Baron!\n\nIn 1796 His Majesty the King of Prussia of glorious memory conferred upon me the lands of Kamionna and Trąbczyn, which had fallen to him by the flight of the Starost Prusimski. Of these lands, that of Kamionna lies in the circle of Międzyrzecz, that of Trąbczyn in the circle of Konin.\n\nIn 1807, fourteen weeks after the peace of Tilsit, it pleased the Polish treasury to seize these lands, and notwithstanding my remonstrances and protests they were adjudged to the daughter of the aforesaid Prusimski, now married to M. de Miączyński.\n\nAll my steps to vindicate my rights have remained without any effect, and now, when I believed the moment fit to revive them, I learn that His Majesty the Emperor has been pleased to confirm the arbitrary decrees of the Polish treasury in favour of Madame Miączyńska.\n\nI therefore find myself under the necessity of having recourse to the good offices of Your Excellency, in order to claim, through\n\n[Written by the receiving office:]\n\nTo reply that it will be necessary to await the definitive settlement of the affairs of Poland, which moment does not at present appear distant; that the Prince will then do everything that lies in his power to support the claims of His Highness.",
    "names": [
     {
-     "de": "Fürst zu Hohenlohe",
-     "en": "Prince of Hohenlohe",
+     "de": "Monsieur le Baron",
+     "en": "Monsieur le Baron",
      "kind": "person"
     },
     {
-     "de": "Preußen",
-     "en": "Prussia",
-     "kind": "place"
+     "de": "Roi de Prusse",
+     "en": "King of Prussia",
+     "kind": "other"
     },
     {
      "de": "Kaemen",
@@ -809,89 +482,19 @@
      "kind": "place"
     },
     {
-     "de": "Kulm",
-     "en": "Kulm",
-     "kind": "place"
-    },
-    {
-     "de": "Pozener Departement",
-     "en": "Poznań department",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczyn",
+     "de": "Trąpczin",
      "en": "Trąbczyn",
      "kind": "place"
     },
     {
-     "de": "Szettleweck",
-     "en": "Szetlewek",
-     "kind": "place"
-    },
-    {
-     "de": "Nowawies",
-     "en": "Nowawies",
-     "kind": "place"
-    },
-    {
-     "de": "Lazy",
-     "en": "Lazy",
-     "kind": "place"
-    },
-    {
-     "de": "Laske",
-     "en": "Laske",
-     "kind": "place"
-    },
-    {
-     "de": "Osziny",
-     "en": "Osiny",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczyner Hauland",
-     "en": "Trąbczyner Hauland",
-     "kind": "place"
-    },
-    {
-     "de": "Koniner Kreises",
-     "en": "district of Konin",
-     "kind": "place"
-    },
-    {
-     "de": "Brzyze",
-     "en": "Brzyce",
-     "kind": "place"
-    },
-    {
-     "de": "Cujawien",
-     "en": "Cujavia",
-     "kind": "place"
-    },
-    {
-     "de": "von Prusimski",
-     "en": "von Prusimski",
+     "de": "Prussiemski",
+     "en": "Prussiemski",
      "kind": "person"
     },
     {
-     "de": "von Miączyńska",
-     "en": "von Miączyńska",
-     "kind": "person"
-    },
-    {
-     "de": "Leixner",
-     "en": "Leixner",
-     "kind": "person"
-    },
-    {
-     "de": "Frankfurt an der Oder",
-     "en": "Frankfurt an der Oder",
+     "de": "Miedzeris",
+     "en": "Międzyrzecz",
      "kind": "place"
-    },
-    {
-     "de": "Tillsitter Frieden",
-     "en": "peace of Tilsit",
-     "kind": "other"
     },
     {
      "de": "Konin",
@@ -899,168 +502,190 @@
      "kind": "place"
     },
     {
-     "de": "Kalisz",
-     "en": "Kalisz",
+     "de": "Tilsit",
+     "en": "Tilsit",
      "kind": "place"
     },
     {
-     "de": "Europens",
-     "en": "Europe's",
-     "kind": "place"
-    },
-    {
-     "de": "Ruß. Kaysers Majestät",
-     "en": "His Majesty the Russian Emperor",
+     "de": "Prussimski",
+     "en": "Prussimski",
      "kind": "person"
     },
     {
-     "de": "Prosna",
-     "en": "Prosna",
-     "kind": "place"
-    },
-    {
-     "de": "Wien",
-     "en": "Vienna",
-     "kind": "place"
-    },
-    {
-     "de": "v. Triebenfeld",
-     "en": "v. Triebenfeld",
+     "de": "Mr. de Mięczynsky",
+     "en": "M. de Mięczynsky",
      "kind": "person"
     },
     {
-     "de": "Stägemann",
-     "en": "Stägemann",
+     "de": "Madame Mięczynsky",
+     "en": "Michalina z Prusimskich Dąbska, later Miączyńska",
      "kind": "person"
     },
     {
-     "de": "H[arden]b[er]g",
-     "en": "H[arden]b[er]g",
+     "de": "l'Empereur",
+     "en": "the Emperor",
+     "kind": "other"
+    },
+    {
+     "de": "Pologne",
+     "en": "Poland",
+     "kind": "place"
+    },
+    {
+     "de": "L. A.",
+     "en": "His Highness",
      "kind": "person"
     }
    ],
    "numbers": [
     "1796",
-    "11",
-    "1804",
-    "3",
+    "1807"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "through his powerful intervention, a suitable indemnity for a possession of such importance; and it is to that end that I take the liberty of laying before him the following particulars, which I beg Your Excellency may be pleased to place before the eyes of His Majesty the Emperor, and to move that Monarch to do me justice by granting me a suitable indemnity.\n\nMonsieur de Prusimski having, before his flight, mortgaged these lands for a sum of 80,000 Reichsthaler and 36,000 ducats, I was obliged, after a suit of 8 years and 6,000 Reichsthaler of costs, to pay a sum of 55,000 Reichsthaler to free them. The interest on these two sums, together 61,000 Reichsthaler, from 1807 to 1815, amounts to the sum of 24,400 Reichsthaler, so that the sum of my claims in ready money rises to 85,400 Reichsthaler.\n\nAccording to a valuation of these lands made by the Government of Kalisz, their value was estimated at 316,000 Reichsthaler, upon which I had contracted 76,000 Reichsthaler of debts, which being deducted there remains to be added 240,000 Reichsthaler",
+   "names": [
+    {
+     "de": "Monsieur de Prussimsky",
+     "en": "Prussimsky",
+     "kind": "person"
+    },
+    {
+     "de": "l'Empereur",
+     "en": "the Emperor",
+     "kind": "other"
+    },
+    {
+     "de": "Kalisz",
+     "en": "Kalisz",
+     "kind": "place"
+    }
+   ],
+   "numbers": [
+    "80,000",
+    "36000",
+    "8",
+    "6000",
+    "55000",
+    "61,000",
     "1807",
-    "14",
-    "1806",
-    "9",
-    "36500",
-    "2",
     "1815",
-    "14/3"
+    "24400",
+    "85400",
+    "316000",
+    "76000",
+    "240,000"
+   ]
+  },
+  {
+   "page": 3,
+   "en": "which would bring my loss to the sum of 325,400 Reichsthaler.\n\nThe interest which Your Excellency has always deigned to take in my affairs, and the friendship she has always shown me, are a sure warrant to me that it suffices to give her knowledge of this matter to be assured of its outcome, founded as it is upon the justice of His Majesty the Emperor and supported by the most exact equity.\n\nAccept, Monsieur le Baron, the assurances of the highest consideration with which I have the honour to be\n\nMonsieur le Baron\n\nYour Excellency's\n\nYour most humble and most obedient servant,\n\nFriedrich Ludwig of Hohenlohe, Prince.\n\nSławięcice, the 12th of April 1815.",
+   "names": [
+    {
+     "de": "l'Empereur",
+     "en": "the Emperor",
+     "kind": "other"
+    },
+    {
+     "de": "Monsieur le Baron",
+     "en": "Monsieur le Baron",
+     "kind": "person"
+    },
+    {
+     "de": "Slawenziz",
+     "en": "Sławięcice",
+     "kind": "place"
+    },
+    {
+     "de": "Frederic Louis Pr. de Hohenlohe",
+     "en": "Friedrich Ludwig of Hohenlohe, Prince",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "325400",
+    "12.",
+    "1815"
    ]
   }
  ],
- "text_english": "Most Serene Prince,\n\nMost gracious Prince and Lord!\n\nHis Majesty the late King of Prussia conferred in the year 1796 upon the Prince of Hohenlohe, according to the appended copy of the instrument under Letter A, the estates of Kamionna and Kolno in the Poznań department, likewise the villages of Trąbczyn, Szetlewek, Nowawies, Lazy, Laske, Osiny and Trąbczyner Hauland in the district of Konin, as also the village of Brzyce together with its appurtenances in Cujavia. These estates formerly belonged to a certain von Prusimski, and after his flight they were confiscated and conferred upon the Prince of Hohenlohe.\n\nThe Prince possessed these estates, except Brzyce, which the daughter of Prusimski, now the married von Miączyńska, claimed as her maternal inheritance, for over 11 years in the most undisturbed possession. Of these he sold in the year 1804 to the bank director Leixner at Frankfurt an der Oder the Kamionna and Kolno estates, which Leixner likewise possessed undisturbed for 3 years.\n\nOnly in 1807, and indeed 14 weeks after the peace of Tilsit, did it occur to the so-called Polish administrative commission to take all the estates from the Prince and from Leixner by force, without any judicial judgment whatever, and to give the same to the married Miączyńska. Prince Hohenlohe, immediately upon his return from the Empire, brought suit before the peace court at Konin, which forum, however, von Miączyńska did not recognise at all. The Prince thereupon caused the complaint here most humbly appended under Letter B to be submitted, in the prescribed manner, through his attorney, to the tribunal at Kalisz, which now also points to everything for further inspection. Von Miączyńska replied thereto through her actuary, according to the enclosure under Letter C, that she was also not not bound to submit herself to the tribunal in this matter. The said tribunal then drew the matter out longer than a year, and at length issued the decree appended under Letter D, in which, after many shallow and unintelligible circumlocutions, it says — that the tribunal did not hold itself empowered to annul the ordinance of the administrative commission, and that this belonged to the King alone — that von Miączyńska should therefore remain seated in the estates, and the Prince pay the costs. So the matter stands even now: Miączyńska sits in the estates, draws in all the revenues, and since 1806 has paid not a Groschen of interest. No one was made more unfortunate by this shameful and violent act of the oft-mentioned administrative commission than the bank director Leixner; this man saw himself not only robbed of his fortune, but he lost his bread and his freedom. After the happy turn which Europe's fate has now taken through Your Serene Highness's foresight and exertion, may Your Most High Self deign to command that Kolno and Kamionna be given back to Leixner, in order that the Royal Bank may be satisfied, and by Your Most High and powerful intercession with His Majesty the Russian Emperor bring it about that to the Prince of Hohenlohe the Trąbczyn estates also, which lie on the far side of the Prosna, must be given back by von Miączyńska, together with the revenues drawn by her through 9 years, which according to the leases amount to 36,500 Rthl.\n\nYour Most Serene Highness will, by the granting of this just request, make happy many persons languishing in misery, and the Royal Bank will likewise receive its money back.\n\nIn deepest reverence I remain, until death,\n\nYour Most Serene Highness's\n\nmost humble and obedient servant\n\nvon Triebenfeld\n\nVienna, the 2nd of March 1815\n\n[Written by the receiving office:]\n\nTo be laid before the Privy Councillor of State\n\nStägemann\n\nH[arden]b[er]g 14/3",
- "summary_en": "Triebenfeld describes the case to Hardenberg: in 1796 the Prince received Kamionna and Kolno, Trąbczyn with its villages in the district of Konin, and Brzyce, which had been confiscated from the fugitive Prusimski. He sold Kamionna and Kolno in 1804 to Leixner, a bank director. In 1807 the Polish administrative commission took all the estates without a judgment and gave them to Prusimski's daughter Miączyńska; the tribunal at Kalisz declared that it had no authority in the matter. He asks that Leixner's estates be returned to him and that the Russian Emperor be moved to return the Trąbczyn estates together with 36,500 Rthl in revenues.",
- "summary_de": "Triebenfeld schildert Hardenberg den Fall: 1796 erhielt der Fürst Kamionna und Kolno, Trąbczyn mit Dörfern im Kreis Konin und Brzyce, die dem entwichenen Prusimski konfisziert waren. Kamionna und Kolno verkaufte er 1804 an Bankdirektor Leixner. 1807 nahm die polnische Verwaltungskommission alle Güter ohne Urteil und gab sie Prusimskis Tochter Miączyńska; das Tribunal zu Kalisz erklärte sich für nicht ermächtigt. Er bittet, Leixner seine Güter zurückzugeben und beim russischen Kaiser die Rückgabe der Trąbczyner Güter samt 36500 Rthl Revenuen zu erwirken.",
+ "text_english": "Monsieur le Baron!\n\nIn 1796 His Majesty the King of Prussia of glorious memory conferred upon me the lands of Kamionna and Trąbczyn, which had fallen to him by the flight of the Starost Prusimski. Of these lands, that of Kamionna lies in the circle of Międzyrzecz, that of Trąbczyn in the circle of Konin.\n\nIn 1807, fourteen weeks after the peace of Tilsit, it pleased the Polish treasury to seize these lands, and notwithstanding my remonstrances and protests they were adjudged to the daughter of the aforesaid Prusimski, now married to M. de Miączyński.\n\nAll my steps to vindicate my rights have remained without any effect, and now, when I believed the moment fit to revive them, I learn that His Majesty the Emperor has been pleased to confirm the arbitrary decrees of the Polish treasury in favour of Madame Miączyńska.\n\nI therefore find myself under the necessity of having recourse to the good offices of Your Excellency, in order to claim, through\n\n[Written by the receiving office:]\n\nTo reply that it will be necessary to await the definitive settlement of the affairs of Poland, which moment does not at present appear distant; that the Prince will then do everything that lies in his power to support the claims of His Highness.\n\nthrough his powerful intervention, a suitable indemnity for a possession of such importance; and it is to that end that I take the liberty of laying before him the following particulars, which I beg Your Excellency may be pleased to place before the eyes of His Majesty the Emperor, and to move that Monarch to do me justice by granting me a suitable indemnity.\n\nMonsieur de Prusimski having, before his flight, mortgaged these lands for a sum of 80,000 Reichsthaler and 36,000 ducats, I was obliged, after a suit of 8 years and 6,000 Reichsthaler of costs, to pay a sum of 55,000 Reichsthaler to free them. The interest on these two sums, together 61,000 Reichsthaler, from 1807 to 1815, amounts to the sum of 24,400 Reichsthaler, so that the sum of my claims in ready money rises to 85,400 Reichsthaler.\n\nAccording to a valuation of these lands made by the Government of Kalisz, their value was estimated at 316,000 Reichsthaler, upon which I had contracted 76,000 Reichsthaler of debts, which being deducted there remains to be added 240,000 Reichsthaler\n\nwhich would bring my loss to the sum of 325,400 Reichsthaler.\n\nThe interest which Your Excellency has always deigned to take in my affairs, and the friendship she has always shown me, are a sure warrant to me that it suffices to give her knowledge of this matter to be assured of its outcome, founded as it is upon the justice of His Majesty the Emperor and supported by the most exact equity.\n\nAccept, Monsieur le Baron, the assurances of the highest consideration with which I have the honour to be\n\nMonsieur le Baron\n\nYour Excellency's\n\nYour most humble and most obedient servant,\n\nFriedrich Ludwig of Hohenlohe, Prince.\n\nSławięcice, the 12th of April 1815.",
+ "summary_en": "The Prince asks Stein in French to obtain from the Emperor compensation for Kamionna and Trąbczyn, which were granted to him in 1796 and taken from him in 1807 by the Polish treasury and awarded to Prusimski's daughter. He says that to free the mortgaged estates he had to pay 55,000 écus; his claim in cash amounts to 85,400 écus and his total loss to 325,400 écus. The chancery notes that the reply should be that the settlement of Polish affairs must be awaited.",
+ "summary_de": "Der Fürst bittet Stein auf Französisch, beim Kaiser eine Entschädigung für Kamionna und Trąbczyn zu erwirken, die ihm 1796 verliehen und 1807 vom polnischen Fiskus genommen und Prusimskis Tochter zugesprochen wurden. Um die verpfändeten Güter zu befreien, habe er 55000 écus zahlen müssen; seine Forderung in barem Geld betrage 85400 écus, sein Verlust insgesamt 325400 écus. Die Kanzlei vermerkt, es sei zu antworten, dass die Regelung der polnischen Angelegenheiten abzuwarten sei.",
  "reading": {
   "letter": "4",
-  "legibility": "sound",
-  "notes": "Triebenfeld to Hardenberg, Vienna, 2 March 1815: the fullest statement of the case. In 1796 the late King gave the Prince Kaemen and Kulm in the Posen department, the villages Trąbczyn, Szettleweck, Nowawies, Lazy, Laske, Osziny and Trąbczyner Hauland in Konin district, and Brzyze in Cujavia, confiscated from a von Prusimski after his flight. The Prince held them over eleven years, except Brzyze, which Prusimski's daughter (now married von Miączyńska) recovered as her mother's inheritance. In 1804 he sold Kaemen and Kulm to the bank director Leixner of Frankfurt an der Oder. In 1807, fourteen weeks after the peace of Tilsit, the Polish administrative commission took all the estates without any judgment and gave them to Miączyńska. The Prince sued at the peace court at Konin and then before the tribunal at Kalisz, which after more than a year declared itself not empowered to undo the commission's order: she keeps the estates and the Prince pays the costs. She draws all the revenues and has paid no interest since 1806; Leixner lost his fortune, his living and his freedom. Triebenfeld asks Hardenberg to have Kulm and Kaemen returned to Leixner, so that the Royal Bank can be satisfied, and to intercede with the Russian Emperor so that the Trąbczyn estates beyond the Prosna are returned to the Prince with nine years' revenues, 36500 rt. The chancery marked it to be laid before Stägemann; Hardenberg's paraph of 14 March.",
+  "legibility": "partly garbled",
+  "notes": "The Prince to Baron vom Stein, Sławięcice, 12 April 1815, in French. In 1796 the King conferred on him the lands of Kaemen and Trąpczin, forfeited by the flight of the Starost Prussiemski. In 1807, fourteen weeks after Tilsit, the Polish treasury seized them and they were adjudged to Prusimski's daughter, now married to M. de Mięczynsky; all his steps since have failed, and he now hears the Emperor has confirmed those decrees. He asks Stein to obtain an indemnity from the Emperor and sets out the figures: Prusimski had mortgaged the lands for 80,000 écus and 36,000 ducats, and after an eight-year suit and 6,000 écus in costs the Prince had to pay 55,000 écus to free them; interest on the two sums (61,000) since 1807 comes to 24,400 écus, making 85,400 in cash; the Kalisz government valued the lands at 316,000 écus, against 76,000 of debts he had contracted, leaving 240,000; his loss in all 325,400 écus. The receiving office wrote the direction for the reply on it: wait for the final settlement of Polish affairs, when the Prince (Hardenberg) will do all he can to support the claim.",
   "claims": [
    {
-    "statement": "1796 verlieh der König dem Fürsten die Güter Kaemen und Kulm im Posener Departement, die Dörfer Trąbczyn, Szettleweck, Nowawies, Lazy, Laske, Osziny und Trąbczyner Hauland im Kreis Konin sowie Brzyze in Cujawien, die dem entwichenen von Prusimski konfisziert worden waren",
+    "statement": "Der König verlieh ihm 1796 die Güter Kaemen und Trąbczyn, die durch die Flucht des Starosten Prusimski heimgefallen waren",
     "lines": [
-     3,
-     4,
+     2
+    ]
+   },
+   {
+    "statement": "1807, vierzehn Wochen nach dem Frieden von Tilsit, bemächtigte sich der polnische Fiskus der Güter; sie wurden Prusimskis Tochter, verheiratet mit Herrn von Miączyński, zugesprochen",
+    "lines": [
+     3
+    ]
+   },
+   {
+    "statement": "Alle Schritte blieben erfolglos; der Kaiser habe die Dekrete zugunsten der Frau Miączyńska bestätigt",
+    "lines": [
+     4
+    ]
+   },
+   {
+    "statement": "Er bittet Stein, beim Kaiser eine angemessene Entschädigung zu erwirken",
+    "lines": [
      5,
-     6,
-     7,
+     7
+    ]
+   },
+   {
+    "statement": "Prusimski hatte die Güter für 80000 écus und 36000 Dukaten verpfändet; nach einem achtjährigen Prozess und 6000 écus Kosten musste der Fürst 55000 écus zahlen, um sie zu befreien",
+    "lines": [
      8
     ]
    },
    {
-    "statement": "Der Fürst besaß die Güter über 11 Jahre, außer Brzyze, das Prusimskis Tochter, verehelichte von Miączyńska, als mütterliches Erbteil vindizierte",
+    "statement": "Er beziffert seine Forderung in barem Geld auf 85400 écus, darunter 24400 écus Zinsen für 1807 bis 1815",
+    "lines": [
+     8
+    ]
+   },
+   {
+    "statement": "Die Regierung zu Kalisz schätzte die Güter auf 316000 écus, worauf er 76000 écus Schulden aufgenommen hatte; sein Verlust betrage insgesamt 325400 écus",
     "lines": [
      9,
      10
     ]
    },
    {
-    "statement": "1804 verkaufte er Kaemen und Kulm an den Bankdirektor Leixner zu Frankfurt an der Oder, der sie 3 Jahre ungestört besaß",
+    "statement": "Vermerk der Kanzlei: zu antworten, dass die endgültige Regelung der polnischen Angelegenheiten abzuwarten sei, die nicht fern scheine; der Fürst werde dann alles tun, um die Forderung zu unterstützen",
     "lines": [
-     10,
-     11,
-     12
-    ]
-   },
-   {
-    "statement": "1807, 14 Wochen nach dem Tilsiter Frieden, nahm die polnische Verwaltungskommission dem Fürsten und Leixner sämtliche Güter ohne richterliches Erkenntnis weg und gab sie der Miączyńska",
-    "lines": [
-     13,
-     14,
-     15
-    ]
-   },
-   {
-    "statement": "Der Fürst klagte beim Friedensgericht zu Konin und dann beim Tribunal zu Kalisz; dieses erklärte nach über einem Jahr, es sei nicht ermächtigt, die Verfügung der Verwaltungskommission aufzuheben, die Miączyńska bleibe in den Gütern, der Fürst trage die Kosten",
-    "lines": [
-     16,
-     17,
-     18,
-     19,
-     20,
-     21,
-     22,
-     23,
-     24,
-     25,
-     26
-    ]
-   },
-   {
-    "statement": "Die Miączyńska zieht sämtliche Revenuen ein und zahlt seit 1806 keine Zinsen",
-    "lines": [
-     27,
-     28
-    ]
-   },
-   {
-    "statement": "Leixner verlor dadurch sein Vermögen, sein Brot und seine Freiheit",
-    "lines": [
-     28,
-     29,
-     30
-    ]
-   },
-   {
-    "statement": "Triebenfeld bittet, Leixner Kulm und Kaemen zurückgeben zu lassen, damit die Königliche Bank befriedigt werden kann, und beim russischen Kaiser zu erwirken, dass der Fürst die Trąbczyner Güter jenseits der Prosna mit den seit 9 Jahren bezogenen Revenuen von 36500 Rthl zurückerhält",
-    "lines": [
-     31,
-     32,
-     33,
-     34,
-     35,
-     36,
-     37
-    ]
-   },
-   {
-    "statement": "Kanzleivermerk: Staatsrat Stägemann vorzulegen, Paraphe Hardenbergs vom 14. März",
-    "lines": [
-     46,
-     47,
-     48
+     6
     ]
    }
   ],
   "doubtful_words": [
    {
-    "line": 18,
-    "word": "Submissiert",
-    "note": "probably 'submissest' (most humbly)"
+    "line": 2,
+    "word": "Miedzeris",
+    "note": "the circle of Meseritz (Międzyrzecz)"
    },
    {
-    "line": 21,
-    "word": "nicht nicht",
-    "note": "a word doubled; perhaps 'auch noch nicht'"
+    "line": 4,
+    "word": "croijés",
+    "note": "probably 'croyois'"
+   },
+   {
+    "line": 10,
+    "word": "a ce qui",
+    "note": "the opening 'a' is probably a catchword from the page before"
    }
   ],
-  "read_against": "fc47f11222accfae"
+  "read_against": "39c952a03f8df9f8"
  }
 }

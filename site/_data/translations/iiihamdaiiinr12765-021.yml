@@ -1,67 +1,52 @@
 status: draft
 segments:
 - page: 1
-  en: 'Berlin, 29 June 1816.
+  en: 'Berlin, 22 December 1816. To His Serene Highness the Prince of Hohenlohe.
 
 
-    To the Right Honourable widowed Mrs von Brehmer, Colonel''s widow.
+    at Sławięcice, the 24th, to the post [uncertain: Spost.], No. 9882. B.
 
 
-    At Sommerfeldt, concerning: the compensation of the Prince of Hohenlohe-Ingelfingen. Hg. 3 July, fair
-    copy made.
+    In having the honour most humbly to communicate to His Serene Highness, in the enclosure, a copy of
+    the note with which the Imperial Russian ministry has answered the intercession entered by the Royal
+    legation at Petersburg on account of the compensation at that time sought by Your [Serene Highness]
+    for the estates of Kamionna and Trąbczyn taken from you, I can only express my regret that, notwithstanding
+    the legation''s efforts, it has not been possible to bring about a favourable result.
 
 
-    On the 6th of July both to the post, No. 3997.
+    Ministry of Foreign Affairs, 3rd Section.
 
 
-    The representation addressed by Your Right Honourable to the State Chancellor, the Prince of Hardenberg,
-    under date of the 26th of April of this year, has been forwarded to me for further action. If [uncertain:
-    Ewohnfrau] therein declares the intention of seeking satisfaction, out of the remaining property of
-    the Prince, her debtor, in respect of the capital of 5,000 Rthl inherited from her deceased brother,
-    which he had lent to the Prince of Hohenlohe-Ingelfingen and which was registered upon the latter''s
-    estate of Szetlewek, confiscated in the year 1807; then it will first of all be your affair to sue
-    him before his own court of jurisdiction, in order to establish the claim at law, in case you, should
-    His Majesty the Emperor of Russia be pleased to declare himself inclined to grant the Prince of Hohenlohe
-    some compensation for the loss of Szetlewek and Trąbczyn, without consideration here, [text lost]
-    desire thereby.
-
-
-    Berlin, 22 June 1816.'
+    H[arden]b[er]g 21/12 B[alan].'
   names:
   - de: Berlin
     en: Berlin
     kind: place
-  - de: von Brehmer
-    en: von Brehmer
+  - de: Herrn Fürsten v Hohenlohe
+    en: the Prince of Hohenlohe
     kind: person
-  - de: Sommerfeldt
-    en: Sommerfeldt
+  - de: Schlawenzitz
+    en: Sławięcice
     kind: place
-  - de: Fürsten von Hohenlohe Ingelfingen
-    en: Prince of Hohenlohe-Ingelfingen
-    kind: person
-  - de: Staatskanzler Fürsten von Hardenberg
-    en: State Chancellor, the Prince of Hardenberg
-    kind: person
-  - de: Szettlewek
-    en: Szettlewek
+  - de: Petersburg
+    en: Petersburg
+    kind: place
+  - de: Kamen
+    en: Kamen
     kind: place
   - de: Trąbczyn
     en: Trąbczyn
     kind: place
-  - de: Kaisers von Rußland
-    en: Emperor of Russia
+  - de: H[arden]b[er]g
+    en: H[arden]b[er]g
     kind: person
-  - de: Hg.
-    en: Hg.
-    kind: other
+  - de: B[alan]
+    en: B[alan]
+    kind: person
   numbers:
-  - '29'
-  - '1816'
-  - '26'
-  - '3'
-  - '6'
-  - '3997'
-  - '5000'
-  - '1807'
   - '22'
+  - '1816'
+  - '24'
+  - '9882'
+  - '3'
+  - 21/12

@@ -89,7 +89,26 @@ a dry run that prints the merged document's pages before anything is written.
 
 Paid runs: none.
 
-## For the editor
+## The editor's answers (2026-11-23)
+
+1. A reply on the letter's sheet: a second voice, "Written in another hand". Yes.
+2. An enclosure: its pages follow the letter's, no box. Yes.
+3. Registers, the copy-book, Breyer's notebook, Rep. 162 Nr. 295: leave as is.
+4. **Renumber** the holding where documents are joined (no gaps). **Oe 1 Bü
+   9454 is not touched at all**: its numbers are the archive's, written at
+   the head of the letters.
+
+## Done
+
+- **Pilot, Nr. 12765** (2026-11-23): 30 documents to 24 — 1+2+3, 8+9+10,
+  21+22, 27+28 joined (the two drafts of 9 and 10 on one page are one voice
+  block). Every other document checked unchanged through the map
+  (`merge_check.py`); each page once; the out-of-date translation list the
+  same under the new numbers; the English from the cache equals the
+  published; old `/letters/` and freed `/documents/` addresses forward to
+  where their documents went.
+
+## For the editor (asked before the answers)
 
 1. A reply or draft written on the same sheet as the letter: the second voice
    labelled "Written in another hand", as already used. Agreed?

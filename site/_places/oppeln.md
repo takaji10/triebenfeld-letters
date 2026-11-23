@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/oppeln/"
 alt_url: "/de/orte/oppeln/"
 excerpt_separator: ""
-hits_docs: [{"id": "44", "uid": "oe1bu9454-44", "url": "/documents/oe1bu9454/44/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "66", "uid": "oe1bu9454-66", "url": "/documents/oe1bu9454/66/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "29", "uid": "iiihamdaiiinr12765-29", "url": "/documents/iiihamdaiiinr12765/29/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
+hits_docs: [{"id": "44", "uid": "oe1bu9454-44", "url": "/documents/oe1bu9454/44/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "66", "uid": "oe1bu9454-66", "url": "/documents/oe1bu9454/66/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "23", "uid": "iiihamdaiiinr12765-23", "url": "/documents/iiihamdaiiinr12765/23/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
 hits_docs_count: 5
 ---
 

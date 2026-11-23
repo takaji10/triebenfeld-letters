@@ -834,6 +834,27 @@ def main():
         return [(tag, u) for tag, u in out if u != r['permalink']]
 
     stubs = [(r, tag, old) for r in recs for tag, old in legacy_urls(r)]
+    # A holding whose documents were joined and renumbered (docs/DOCUMENT_MERGE_PLAN.md,
+    # 2026-11-23) has intake/merge_map.json, old number -> new. Its legacy
+    # /letters/<unit>/<old>/ addresses forward to the document the old one is
+    # now in (not to whatever now has that number), and a /documents/<unit>/<old>/
+    # address that no document holds any more forwards the same way.
+    by_unit_id = {(r['unit'], r['letter_id']): r for r in recs}
+    for slug in sorted({r['unit'] for r in recs}):
+        mpath = os.path.join(ROOT, 'units', slug, 'intake', 'merge_map.json')
+        if not os.path.isfile(mpath):
+            continue
+        idmap = json.load(open(mpath, encoding='utf-8'))['idmap']
+        stubs = [s for s in stubs if not (s[0]['unit'] == slug and s[1] == 'ns')]
+        taken = {r['permalink'] for r in recs if r['unit'] == slug}
+        for old, new in sorted(idmap.items(), key=lambda kv: (len(kv[0]), kv[0])):
+            r = by_unit_id.get((slug, new))
+            if r is None:
+                continue
+            stubs.append((r, 'ns-' + old, '/letters/' + slug + '/' + old + '/'))
+            moved = '/documents/' + slug + '/' + old + '/'
+            if moved not in taken:
+                stubs.append((r, 'moved-' + old, moved))
     if stubs:
         os.makedirs(redir_dir, exist_ok=True)
         for r, tag, old_url in stubs:
@@ -851,7 +872,7 @@ def main():
                 f.write('<p>This document has moved to '
                         '<a href="{{ ' + repr(r['permalink']) + ' | relative_url }}">'
                         + r['permalink'] + '</a>.</p>\n')
-    n_ns = sum(1 for _, t, _ in stubs if t == 'ns')
+    n_ns = sum(1 for _, t, _ in stubs if t == 'ns' or t.startswith('ns-'))
     print(f'wrote {len(stubs)} redirect stubs '
           f'({n_ns} namespaced, {len(stubs) - n_ns} pre-namespace)')
 

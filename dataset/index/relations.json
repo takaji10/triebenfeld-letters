@@ -300,87 +300,63 @@
   "note": ""
  },
  {
-  "from": "iiihamdaiiinr12765-1",
-  "kind": "transmits",
-  "to": "iiihamdaiiinr12765-3",
-  "note": "Triebenfeld encloses a copy of Hardenberg's resolution of 14 May 1814 ('lege ich in Abschrift hier bey'); document 3 is that copy."
- },
- {
-  "from": "iiihamdaiiinr12765-2",
+  "from": "iiihamdaiiinr12765-3",
   "kind": "answers",
-  "to": "iiihamdaiiinr12765-1",
-  "note": "Drafted beneath Triebenfeld's letter: 'auf Ihr Gesuch vom 25 v M.'"
+  "to": "iiihamdaiiinr12765-2",
+  "note": "'die Vorstellung von 2 dM': Triebenfeld's petition of 2 March 1815."
  },
  {
   "from": "iiihamdaiiinr12765-5",
   "kind": "answers",
   "to": "iiihamdaiiinr12765-4",
-  "note": "'die Vorstellung von 2 dM': Triebenfeld's petition of 2 March 1815."
+  "note": "Stein has passed on the letter the Prince wrote him on the 12th of last month; document 6 is that letter, with the direction for this reply written on it."
  },
  {
   "from": "iiihamdaiiinr12765-7",
   "kind": "answers",
   "to": "iiihamdaiiinr12765-6",
-  "note": "Stein has passed on the letter the Prince wrote him on the 12th of last month; document 6 is that letter, with the direction for this reply written on it."
- },
- {
-  "from": "iiihamdaiiinr12765-11",
-  "kind": "answers",
-  "to": "iiihamdaiiinr12765-8",
   "note": "'Zuschrift vom 12ten d. M.': the Prince's letter of 12 May 1815."
  },
  {
-  "from": "iiihamdaiiinr12765-12",
-  "kind": "duplicate_of",
-  "to": "iiihamdaiiinr12765-11",
-  "note": ""
- },
- {
-  "from": "iiihamdaiiinr12765-13",
+  "from": "iiihamdaiiinr12765-8",
   "kind": "duplicate_of",
   "to": "iiihamdaiiinr12765-7",
   "note": ""
  },
  {
   "from": "iiihamdaiiinr12765-9",
-  "kind": "answers",
-  "to": "iiihamdaiiinr12765-8",
-  "note": "'den Empfang Ihres ... Schreibens vom 12 v. M.': the Prince's letter of 12 May 1815."
+  "kind": "duplicate_of",
+  "to": "iiihamdaiiinr12765-5",
+  "note": ""
  },
  {
-  "from": "iiihamdaiiinr12765-9",
+  "from": "iiihamdaiiinr12765-6",
   "kind": "supersedes",
-  "to": "iiihamdaiiinr12765-11",
+  "to": "iiihamdaiiinr12765-7",
   "note": "The earlier draft is marked 'Cessat et vid. die anderweite Verfügung vom 6. Juny 1815'."
  },
  {
   "from": "iiihamdaiiinr12765-10",
-  "kind": "transmits",
-  "to": "iiihamdaiiinr12765-8",
-  "note": "Sends Zerboni the Prince's two letters in the original, the one to Hardenberg of 12 May and the one to Stein of 12 April (document 6)."
- },
- {
-  "from": "iiihamdaiiinr12765-14",
   "kind": "answers",
-  "to": "iiihamdaiiinr12765-10",
+  "to": "iiihamdaiiinr12765-6",
   "note": "Zerboni reports on the order of 6 June 1815 and returns the two original letters; the report gives both 'vom 12ten May', where the letter to Stein carries 12 April."
  },
  {
-  "from": "iiihamdaiiinr12765-21",
+  "from": "iiihamdaiiinr12765-17",
   "kind": "answers",
-  "to": "iiihamdaiiinr12765-19",
+  "to": "iiihamdaiiinr12765-15",
   "note": "'unterm 26ten April d. J. gerichtete Vorstellung': the widow von Brehmer's petition."
  },
  {
-  "from": "iiihamdaiiinr12765-24",
+  "from": "iiihamdaiiinr12765-19",
   "kind": "answers",
-  "to": "iiihamdaiiinr12765-23",
+  "to": "iiihamdaiiinr12765-18",
   "note": "Returns the enclosures she sent on 25 July 1816."
  },
  {
-  "from": "iiihamdaiiinr12765-25",
+  "from": "iiihamdaiiinr12765-20",
   "kind": "answers",
-  "to": "iiihamdaiiinr12765-17",
+  "to": "iiihamdaiiinr12765-13",
   "note": "'In Gemäßheit ... Schreibens vom 29sten April d. J.': the instruction to Schöler."
  },
  {
@@ -396,21 +372,15 @@
   "note": "The ministry's reply to the envoy's note and the report sent with it ('la nôte et le mémoire'); the draft dates the note 20 February, the note itself is of 20 January."
  },
  {
-  "from": "iiihamdaiiinr12765-27",
+  "from": "iiihamdaiiinr12765-23",
   "kind": "transmits",
-  "to": "iiihamdaiiinr12765-28",
-  "note": "'Le rapport ci-joint du Lieutenant': the copy of Prince Zajączek's report."
- },
- {
-  "from": "iiihamdaiiinr12765-29",
-  "kind": "transmits",
-  "to": "iiihamdaiiinr12765-27",
+  "to": "iiihamdaiiinr12765-22",
   "note": "Sends Minister von Schuckmann a copy of the Russian envoy's note."
  },
  {
-  "from": "iiihamdaiiinr12765-30",
+  "from": "iiihamdaiiinr12765-24",
   "kind": "answers",
-  "to": "iiihamdaiiinr12765-29",
+  "to": "iiihamdaiiinr12765-23",
   "note": "'Schreiben ... vom 13ten d. M. und dessen Beilagen'."
  },
  {

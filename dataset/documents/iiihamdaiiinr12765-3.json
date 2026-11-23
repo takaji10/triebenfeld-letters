@@ -6,328 +6,513 @@
  "uid": "iiihamdaiiinr12765-3",
  "pad": "iiihamdaiiinr12765-003",
  "permalink": "/documents/iiihamdaiiinr12765/3/",
- "doc_type": "letter",
+ "doc_type": "draft",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1814-05-14",
+ "date_iso": "1815-03-17",
  "date_precision": "day",
- "date_source": "signature",
- "date_display": "Paris den 14ten May 1814.",
- "date_inferred_from": "",
- "year": 1814,
- "month": 5,
- "day": 14,
- "place": "Paris",
+ "date_source": "dateline",
+ "date_display": "1815-03-17",
+ "date_inferred_from": "read from the document's own dateline",
+ "year": 1815,
+ "month": 3,
+ "day": 17,
+ "place": "Wien",
  "sender": "Hardenberg",
  "recipient": "von Triebenfeld",
- "line_start": 43,
- "line_end": 60,
- "uncertainty_count": 0,
+ "line_start": 108,
+ "line_end": 141,
+ "uncertainty_count": 4,
  "has_damage": 0,
- "rough_transcription": 0,
+ "rough_transcription": 1,
  "language": "de",
  "duplicate_of": "",
- "relations": [],
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "2",
+   "note": "'die Vorstellung von 2 dM': Triebenfeld's petition of 2 March 1815."
+  }
+ ],
  "estates": [
   "trabczyn",
   "kamionno"
  ],
  "is_missing": 0,
- "n_lines": 16,
+ "n_lines": 32,
  "n_pages": 1,
- "text": "Abschrift\nDie Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen\nKöniges Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst\nals dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn\nüber die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind.\nZur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das\nmir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des\nHerrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück\nzu halten, welches ich Sie ersuche demselben zu eröffnen.\nParis den 14ten May 1814.\nHardenberg\nAn\nden Königlichen Kriegesrath\nHerrn von Triebenfeld\nHochwohlgeborn\nhier.",
- "text_reading": "Abschrift Die Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen Königes Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst als dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn über die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind. Zur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das mir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des Herrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück zu halten, welches ich Sie ersuche demselben zu eröffnen. Paris den 14ten May 1814.\n\nHardenberg\n\nAn\n\nden Königlichen Kriegesrath\n\nHerrn von Triebenfeld\n\nHochwohlgeborn\n\nhier.",
+ "text": "W[ien]. d. 17. März 15\nAn\nder H. Kriegsraths v. Triebenfeld\nHochwolg\nhie selbst\nNo. 1915.\nEw. p. wieder ich auch die Vorstellung von 2 dM\nunter Zurückbegabe der Weiligen derselben: daß\nüber die Entschädigung derjenigen Donatoren\nSüdpreußiſcher Güter, denen der Besitz ſeit\ndem Frieden von Tilsit entzogen worden, ein\ndiplomatische Unterhandlung eingeleitet worden ist,\nderen Resultat des Kosten Fürsten v Hohenlohe\nDiese zu ſeiner Zeit mitgetheilt werden wird.\nWas den Bedeuten der\nFrankfurtſchen Bank H[?] Leixner betrift, so ist\nes nach Lage der Sache nicht die Entsetzung\naus den Besitz der Kolno: und Kähmenschen\nGüter, welche ihn in die gerichtliche Unter¬\nsuchung und den Vorzug gebracht hat, sondern\ndie unregelmäßige Verwaltung seines Po¬\nstens und beſonders auch die unerlaubte Hand¬\nlung, vermöge darin er das auf Kolno und\nKähmen für den Kaufmann Simon eingetragen\nAktivum mit den vollen Werth[?] und den bauen Beständen der Buch[?] noch zu mir\nZeit beleihen hat, da ihm die Fsez[?]nahme\nDer Güter durch die End v. Miączyńska bereits\nbekannt war.\nW[ien]. d. 17. März [18]15.\nNs. S. D.\nSt[ä]g[emann].\nH[arden]b[er]g.",
+ "text_reading": "W[ien]. d. 17. März 15\n\nAn der H. Kriegsraths v. Triebenfeld Hochwolg\n\nhie selbst\n\nNo. 1915.\n\nEw. p. wieder ich auch die Vorstellung von 2 dM unter Zurückbegabe der Weiligen derselben: daß über die Entschädigung derjenigen Donatoren Südpreußiſcher Güter, denen der Besitz ſeit dem Frieden von Tilsit entzogen worden, ein diplomatische Unterhandlung eingeleitet worden ist, deren Resultat des Kosten Fürsten v Hohenlohe Diese zu ſeiner Zeit mitgetheilt werden wird. Was den Bedeuten der Frankfurtſchen Bank H[?] Leixner betrift, so ist es nach Lage der Sache nicht die Entsetzung aus den Besitz der Kolno: und Kähmenschen Güter, welche ihn in die gerichtliche Untersuchung und den Vorzug gebracht hat, sondern die unregelmäßige Verwaltung seines Postens und beſonders auch die unerlaubte Handlung, vermöge darin er das auf Kolno und Kähmen für den Kaufmann Simon eingetragen Aktivum mit den vollen Werth[?] und den bauen Beständen der Buch[?] noch zu mir Zeit beleihen hat, da ihm die Fsez[?]nahme Der Güter durch die End v. Miączyńska bereits bekannt war.\n\nW[ien]. d. 17. März [18]15.\n\nNs. S. D.\n\nSt[ä]g[emann].\n\nH[arden]b[er]g.",
  "pages": [
   {
    "page": 1,
-   "page_id": "0004_a2",
-   "line_start": 45,
-   "line_end": 60,
-   "n_lines": 16,
-   "diplomatic": "Abschrift\nDie Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen\nKöniges Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst\nals dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn\nüber die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind.\nZur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das\nmir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des\nHerrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück\nzu halten, welches ich Sie ersuche demselben zu eröffnen.\nParis den 14ten May 1814.\nHardenberg\nAn\nden Königlichen Kriegesrath\nHerrn von Triebenfeld\nHochwohlgeborn\nhier.",
-   "transcription": "Abschrift\nDie Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen\nKöniges Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst\nals dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn\nüber die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind.\nZur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das\nmir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des\nHerrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück\nzu halten, welches ich Sie ersuche demselben zu eröffnen.\nParis den 14ten May 1814.\nHardenberg\nAn\nden Königlichen Kriegesrath\nHerrn von Triebenfeld\nHochwohlgeborn\nhier.",
-   "reading": "Abschrift Die Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen Königes Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst als dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn über die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind. Zur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das mir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des Herrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück zu halten, welches ich Sie ersuche demselben zu eröffnen. Paris den 14ten May 1814.\n\nHardenberg\n\nAn\n\nden Königlichen Kriegesrath\n\nHerrn von Triebenfeld\n\nHochwohlgeborn\n\nhier.",
+   "page_id": "0006_a2",
+   "line_start": 110,
+   "line_end": 141,
+   "n_lines": 32,
+   "diplomatic": "W[ien]. d. 17. März 15\nAn\nder H. Kriegsraths v. Triebenfeld\nHochwolg\nhie selbst\nNo. 1915.\nEw. p. wieder ich auch die Vorstellung von 2 dM\nunter Zurückbegabe der Weiligen derselben: daß\nüber die Entschädigung derjenigen Donatoren\nSüdpreußiſcher Güter, denen der Besitz ſeit\ndem Frieden von Tilsit entzogen worden, ein\ndiplomatische Unterhandlung eingeleitet worden ist,\nderen Resultat des Kosten Fürsten v Hohenlohe\nDiese zu ſeiner Zeit mitgetheilt werden wird.\nWas den Bedeuten der\nFrankfurtſchen Bank H[?] Leixner betrift, so ist\nes nach Lage der Sache nicht die Entsetzung\naus den Besitz der Kolno: und Kähmenschen\nGüter, welche ihn in die gerichtliche Unter¬\nsuchung und den Vorzug gebracht hat, sondern\ndie unregelmäßige Verwaltung seines Po¬\nstens und beſonders auch die unerlaubte Hand¬\nlung, vermöge darin er das auf Kolno und\nKähmen für den Kaufmann Simon eingetragen\nAktivum mit den vollen Werth[?] und den bauen Beständen der Buch[?] noch zu mir\nZeit beleihen hat, da ihm die Fsez[?]nahme\nDer Güter durch die End v. Miączyńska bereits\nbekannt war.\nW[ien]. d. 17. März [18]15.\nNs. S. D.\nSt[ä]g[emann].\nH[arden]b[er]g.",
+   "transcription": "W[ien]. d. 17. März 15\nAn\nder H. Kriegsraths v. Triebenfeld\nHochwolg\nhie selbst\nNo. 1915.\nEw. p. wieder ich auch die Vorstellung von 2 dM\nunter Zurückbegabe der Weiligen derselben: daß\nüber die Entschädigung derjenigen Donatoren\nSüdpreußiſcher Güter, denen der Besitz ſeit\ndem Frieden von Tilsit entzogen worden, ein\ndiplomatische Unterhandlung eingeleitet worden ist,\nderen Resultat des Kosten Fürsten v Hohenlohe\nDiese zu ſeiner Zeit mitgetheilt werden wird.\nWas den Bedeuten der\nFrankfurtſchen Bank H[?] Leixner betrift, so ist\nes nach Lage der Sache nicht die Entsetzung\naus den Besitz der Kolno: und Kähmenschen\nGüter, welche ihn in die gerichtliche Unter-\nsuchung und den Vorzug gebracht hat, sondern\ndie unregelmäßige Verwaltung seines Po-\nstens und beſonders auch die unerlaubte Hand-\nlung, vermöge darin er das auf Kolno und\nKähmen für den Kaufmann Simon eingetragen\nAktivum mit den vollen Werth[?] und den bauen Beständen der Buch[?] noch zu mir\nZeit beleihen hat, da ihm die Fsez[?]nahme\nDer Güter durch die End v. Miączyńska bereits\nbekannt war.\nW[ien]. d. 17. März [18]15.\nNs. S. D.\nSt[ä]g[emann].\nH[arden]b[er]g.",
+   "reading": "W[ien]. d. 17. März 15\n\nAn der H. Kriegsraths v. Triebenfeld Hochwolg\n\nhie selbst\n\nNo. 1915.\n\nEw. p. wieder ich auch die Vorstellung von 2 dM unter Zurückbegabe der Weiligen derselben: daß über die Entschädigung derjenigen Donatoren Südpreußiſcher Güter, denen der Besitz ſeit dem Frieden von Tilsit entzogen worden, ein diplomatische Unterhandlung eingeleitet worden ist, deren Resultat des Kosten Fürsten v Hohenlohe Diese zu ſeiner Zeit mitgetheilt werden wird. Was den Bedeuten der Frankfurtſchen Bank H[?] Leixner betrift, so ist es nach Lage der Sache nicht die Entsetzung aus den Besitz der Kolno: und Kähmenschen Güter, welche ihn in die gerichtliche Untersuchung und den Vorzug gebracht hat, sondern die unregelmäßige Verwaltung seines Postens und beſonders auch die unerlaubte Handlung, vermöge darin er das auf Kolno und Kähmen für den Kaufmann Simon eingetragen Aktivum mit den vollen Werth[?] und den bauen Beständen der Buch[?] noch zu mir Zeit beleihen hat, da ihm die Fsez[?]nahme Der Güter durch die End v. Miączyńska bereits bekannt war.\n\nW[ien]. d. 17. März [18]15.\n\nNs. S. D.\n\nSt[ä]g[emann].\n\nH[arden]b[er]g.",
    "paragraphs": [
-    "Abschrift Die Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen Königes Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst als dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn über die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind. Zur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das mir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des Herrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück zu halten, welches ich Sie ersuche demselben zu eröffnen. Paris den 14ten May 1814.",
-    "Hardenberg",
-    "An",
-    "den Königlichen Kriegesrath",
-    "Herrn von Triebenfeld",
-    "Hochwohlgeborn",
-    "hier."
+    "W[ien]. d. 17. März 15",
+    "An der H. Kriegsraths v. Triebenfeld Hochwolg",
+    "hie selbst",
+    "No. 1915.",
+    "Ew. p. wieder ich auch die Vorstellung von 2 dM unter Zurückbegabe der Weiligen derselben: daß über die Entschädigung derjenigen Donatoren Südpreußiſcher Güter, denen der Besitz ſeit dem Frieden von Tilsit entzogen worden, ein diplomatische Unterhandlung eingeleitet worden ist, deren Resultat des Kosten Fürsten v Hohenlohe Diese zu ſeiner Zeit mitgetheilt werden wird. Was den Bedeuten der Frankfurtſchen Bank H[?] Leixner betrift, so ist es nach Lage der Sache nicht die Entsetzung aus den Besitz der Kolno: und Kähmenschen Güter, welche ihn in die gerichtliche Untersuchung und den Vorzug gebracht hat, sondern die unregelmäßige Verwaltung seines Postens und beſonders auch die unerlaubte Handlung, vermöge darin er das auf Kolno und Kähmen für den Kaufmann Simon eingetragen Aktivum mit den vollen Werth[?] und den bauen Beständen der Buch[?] noch zu mir Zeit beleihen hat, da ihm die Fsez[?]nahme Der Güter durch die End v. Miączyńska bereits bekannt war.",
+    "W[ien]. d. 17. März [18]15.",
+    "Ns. S. D.",
+    "St[ä]g[emann].",
+    "H[arden]b[er]g."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "para_lines": [
-    10,
-    11,
-    12,
-    13,
-    14,
-    15
+    1,
+    4,
+    5,
+    6,
+    28,
+    29,
+    30,
+    31
    ],
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 16
+   "doc_line_end": 32
   }
  ],
  "mentions": [
-  {
-   "entity": "hohenlohe",
-   "display": "Hohenlohe",
-   "kind": "person",
-   "surface": "Hohenlohe",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-   "line": 46,
-   "doc_line": 2
-  },
-  {
-   "entity": "kaiser-alexander",
-   "display": "Kaiser Alexander I.",
-   "kind": "person",
-   "surface": "Allexander",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-   "line": 52,
-   "doc_line": 8
-  },
-  {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
-   "kind": "person",
-   "surface": "Hardenberg",
-   "page": 1,
-   "page_id": "0004_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-   "line": 55,
-   "doc_line": 11
-  },
   {
    "entity": "triebenfeld",
    "display": "v. Triebenfeld",
    "kind": "person",
    "surface": "Triebenfeld",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-   "line": 58,
-   "doc_line": 14
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 112,
+   "doc_line": 3
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 122,
+   "doc_line": 13
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface": "Leixner",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 125,
+   "doc_line": 16
+  },
+  {
+   "entity": "simon",
+   "display": "Simon",
+   "kind": "person",
+   "surface": "Simon",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 133,
+   "doc_line": 24
+  },
+  {
+   "entity": "prusimska",
+   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
+   "kind": "person",
+   "surface": "Miączyńska",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 136,
+   "doc_line": 27
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface": "St[ä]g[emann]",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 140,
+   "doc_line": 31
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface": "H[arden]b[er]g",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 141,
+   "doc_line": 32
   }
  ],
  "mentions_english": [
   {
    "entity": "",
-   "display": "the Prince of Hohenlohe",
+   "display": "Vienna",
+   "kind": "place",
+   "surface_de": "W[ien]",
+   "surface_en": "Vienna",
+   "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
    "kind": "person",
-   "surface_de": "Herrn Fürsten von Hohenlohe",
-   "surface_en": "the Prince of Hohenlohe",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Trąbczyn",
+   "display": "Tilsit",
    "kind": "place",
-   "surface_de": "Trąbczyn",
-   "surface_en": "Trąbczyn",
+   "surface_de": "Tilsit",
+   "surface_en": "Tilsit",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "of Hohenlohe",
+   "kind": "person",
+   "surface_de": "v Hohenlohe",
+   "surface_en": "of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Frankfurt",
+   "kind": "place",
+   "surface_de": "Frankfurtſchen",
+   "surface_en": "Frankfurt",
+   "page": 1
+  },
+  {
+   "entity": "leixner",
+   "display": "George Conrad Leixner",
+   "kind": "person",
+   "surface_de": "Leixner",
+   "surface_en": "Leixner",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kolno",
+   "kind": "place",
+   "surface_de": "Kolno",
+   "surface_en": "Kolno",
    "page": 1
   },
   {
    "entity": "",
    "display": "Kamionna",
    "kind": "place",
-   "surface_de": "Kaemen",
+   "surface_de": "Kähmen",
    "surface_en": "Kamionna",
    "page": 1
   },
   {
-   "entity": "",
-   "display": "South Prussian",
-   "kind": "place",
-   "surface_de": "Sudpreußischen",
-   "surface_en": "South Prussian",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Warsaw",
-   "kind": "place",
-   "surface_de": "Warschauer",
-   "surface_en": "Warsaw",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "the Emperor Alexander",
+   "entity": "simon",
+   "display": "Simon",
    "kind": "person",
-   "surface_de": "Kaysers Allexander",
-   "surface_en": "the Emperor Alexander",
+   "surface_de": "Simon",
+   "surface_en": "Simon",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Paris",
-   "kind": "place",
-   "surface_de": "Paris",
-   "surface_en": "Paris",
+   "display": "von Miączyńska",
+   "kind": "person",
+   "surface_de": "v. Miączyńska",
+   "surface_en": "von Miączyńska",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "St[ä]g[emann]",
+   "surface_en": "Stägemann",
    "page": 1
   },
   {
    "entity": "hardenberg",
    "display": "Hardenberg",
    "kind": "person",
-   "surface_de": "Hardenberg",
+   "surface_de": "H[arden]b[er]g",
    "surface_en": "Hardenberg",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Mr von Triebenfeld",
-   "kind": "person",
-   "surface_de": "Herrn von Triebenfeld",
-   "surface_en": "Mr von Triebenfeld",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Südpreußiſcher",
+   "surface_en": "South Prussian",
    "page": 1
   }
  ],
- "place_canonical": "Paris",
+ "place_canonical": "Wien",
  "place_mentions": [
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "W[ien]",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 110,
+   "doc_line": 1
+  },
+  {
+   "entity": "frankfurt-an-der-oder",
+   "display": "Frankfurt an der Oder",
+   "kind": "place",
+   "surface": "Frankfurt",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 125,
+   "doc_line": 16
+  },
   {
    "entity": "kamionno",
    "display": "Kamionna (Kaemen)",
    "kind": "place",
-   "surface": "Kaemen",
+   "surface": "Kähmen",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-   "line": 47,
-   "doc_line": 3
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 127,
+   "doc_line": 18
   },
   {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
-   "surface": "Trąbczyn",
+   "surface": "Kolno",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-   "line": 47,
-   "doc_line": 3
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 127,
+   "doc_line": 18
   },
   {
-   "entity": "warschau",
-   "display": "Warszawa (Warschau)",
+   "entity": "kolno",
+   "display": "Kolno (Kulm)",
    "kind": "place",
-   "surface": "Warschauer",
+   "surface": "Kolno",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-   "line": 49,
-   "doc_line": 5
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 132,
+   "doc_line": 23
   },
   {
-   "entity": "paris",
-   "display": "Paris",
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
    "kind": "place",
-   "surface": "Paris",
+   "surface": "Kähmen",
    "page": 1,
-   "page_id": "0004_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L3_01.jpg",
-   "line": 54,
-   "doc_line": 10
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 133,
+   "doc_line": 24
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "W[ien]",
+   "page": 1,
+   "page_id": "0006_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+   "line": 138,
+   "doc_line": 29
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Copy. The claims of the Prince of Hohenlohe to the South Prussian estates of Trąbczyn and Kamionna, bestowed upon him in the year 1796 by His Majesty the late King of blessed memory, will only be capable of being brought forward with any presumptive prospect of success once definitive determinations have been reached concerning the Warsaw affairs generally. At present this is not yet the case, and I have therefore also thought it best to hold back, until that point in time arrives, the Prince's letter to His Majesty the Emperor Alexander which Your Right Honourable delivered to me with your communication of the 6th of this month; and I request you to disclose this to him. Paris, the 14th of May 1814.\n\nHardenberg\n\nTo\n\nthe Royal Councillor of War\n\nMr von Triebenfeld\n\nYour Honour\n\nhere.",
+   "en": "Vienna, 17 March [18]15\n\nTo the Right Honourable the councillor of war von Triebenfeld\n\nhere\n\nNo. 1915.\n\nTo Your [etc.] I [uncertain: again I also] the representation of the 2nd of this month, returning the enclosures of the same: that with regard to the compensation of those donees of South Prussian estates from whom possession has been withdrawn since the peace of Tilsit, a diplomatic negotiation has been opened, the result of which will be communicated in due course to the [uncertain: of the cost] Prince of Hohenlohe. As concerns the [uncertain: Bedeuten] of the Frankfurt bank, Mr [illegible] Leixner, it is, according to the state of the matter, not the dispossession from the Kolno and Kamionna estates that has brought him into the judicial investigation and the [uncertain: Vorzug / preference], but rather the irregular administration of his post, and in particular also the impermissible act whereby he borrowed upon the asset registered on Kolno and Kamionna for the merchant Simon at its full [uncertain: value] and [...] still to me at a time when the [uncertain: taking of possession] of the estates by [uncertain: the lady] von Miączyńska was already known to him.\n\nVienna, 17 March [18]15.\n\nIn His Serene Highness's name.\n\nStägemann.\n\nHardenberg.",
    "names": [
     {
-     "de": "Herrn Fürsten von Hohenlohe",
-     "en": "the Prince of Hohenlohe",
-     "kind": "person"
-    },
-    {
-     "de": "Trąbczyn",
-     "en": "Trąbczyn",
+     "de": "W[ien]",
+     "en": "Vienna",
      "kind": "place"
     },
     {
-     "de": "Kaemen",
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Tilsit",
+     "en": "Tilsit",
+     "kind": "place"
+    },
+    {
+     "de": "v Hohenlohe",
+     "en": "of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Frankfurtſchen",
+     "en": "Frankfurt",
+     "kind": "place"
+    },
+    {
+     "de": "Leixner",
+     "en": "Leixner",
+     "kind": "person"
+    },
+    {
+     "de": "Kolno",
+     "en": "Kolno",
+     "kind": "place"
+    },
+    {
+     "de": "Kähmen",
      "en": "Kamionna",
      "kind": "place"
     },
     {
-     "de": "Sudpreußischen",
-     "en": "South Prussian",
-     "kind": "place"
-    },
-    {
-     "de": "Warschauer",
-     "en": "Warsaw",
-     "kind": "place"
-    },
-    {
-     "de": "Kaysers Allexander",
-     "en": "the Emperor Alexander",
+     "de": "Simon",
+     "en": "Simon",
      "kind": "person"
     },
     {
-     "de": "Paris",
-     "en": "Paris",
-     "kind": "place"
+     "de": "v. Miączyńska",
+     "en": "von Miączyńska",
+     "kind": "person"
     },
     {
-     "de": "Hardenberg",
+     "de": "St[ä]g[emann]",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "H[arden]b[er]g",
      "en": "Hardenberg",
      "kind": "person"
     },
     {
-     "de": "Herrn von Triebenfeld",
-     "en": "Mr von Triebenfeld",
-     "kind": "person"
+     "de": "Südpreußiſcher",
+     "en": "South Prussian",
+     "kind": "place"
     }
    ],
    "numbers": [
-    "1796",
-    "6",
-    "14",
-    "1814"
+    "17",
+    "15",
+    "1915",
+    "2",
+    "17",
+    "18"
    ]
   }
  ],
- "text_english": "Copy. The claims of the Prince of Hohenlohe to the South Prussian estates of Trąbczyn and Kamionna, bestowed upon him in the year 1796 by His Majesty the late King of blessed memory, will only be capable of being brought forward with any presumptive prospect of success once definitive determinations have been reached concerning the Warsaw affairs generally. At present this is not yet the case, and I have therefore also thought it best to hold back, until that point in time arrives, the Prince's letter to His Majesty the Emperor Alexander which Your Right Honourable delivered to me with your communication of the 6th of this month; and I request you to disclose this to him. Paris, the 14th of May 1814.\n\nHardenberg\n\nTo\n\nthe Royal Councillor of War\n\nMr von Triebenfeld\n\nYour Honour\n\nhere.",
- "summary_en": "Copy of a letter from Hardenberg to Triebenfeld: he says the claims of the Prince of Hohenlohe to the South Prussian estates of Trąbczyn and Kamionna, given to him in 1796, could only be raised with any prospect of success once definitive arrangements have been made about the Warsaw affairs. That, he says, is not yet the case. Hardenberg is therefore holding back the Prince's letter to Emperor Alexander and asks that this be made known to the Prince.",
- "summary_de": "Abschrift eines Schreibens Hardenbergs an Triebenfeld: Die Ansprüche des Fürsten von Hohenlohe auf die ihm 1796 geschenkten südpreußischen Güter Trąbczyn und Kamionna könnten erst mit Aussicht auf Erfolg angeregt werden, wenn über die Warschauer Angelegenheiten definitive Bestimmungen erfolgt sind. Das sei noch nicht der Fall. Hardenberg hält deshalb das Schreiben des Fürsten an Kaiser Alexander zurück und bittet, dies dem Fürsten zu eröffnen.",
+ "text_english": "Vienna, 17 March [18]15\n\nTo the Right Honourable the councillor of war von Triebenfeld\n\nhere\n\nNo. 1915.\n\nTo Your [etc.] I [uncertain: again I also] the representation of the 2nd of this month, returning the enclosures of the same: that with regard to the compensation of those donees of South Prussian estates from whom possession has been withdrawn since the peace of Tilsit, a diplomatic negotiation has been opened, the result of which will be communicated in due course to the [uncertain: of the cost] Prince of Hohenlohe. As concerns the [uncertain: Bedeuten] of the Frankfurt bank, Mr [illegible] Leixner, it is, according to the state of the matter, not the dispossession from the Kolno and Kamionna estates that has brought him into the judicial investigation and the [uncertain: Vorzug / preference], but rather the irregular administration of his post, and in particular also the impermissible act whereby he borrowed upon the asset registered on Kolno and Kamionna for the merchant Simon at its full [uncertain: value] and [...] still to me at a time when the [uncertain: taking of possession] of the estates by [uncertain: the lady] von Miączyńska was already known to him.\n\nVienna, 17 March [18]15.\n\nIn His Serene Highness's name.\n\nStägemann.\n\nHardenberg.",
+ "summary_en": "Draft of a reply to Triebenfeld: a diplomatic negotiation has been opened, it says, about compensating the grantees of South Prussian estates who have been deprived of their possession since the Peace of Tilsit, and its outcome will be communicated to the Prince. Leixner, it says, did not come under judicial investigation through the loss of Kolno and Kamionna, but through the irregular management of his post and the unauthorised pledging of an asset registered there for the merchant Simon.",
+ "summary_de": "Entwurf einer Antwort an Triebenfeld: Über die Entschädigung der Donatare südpreußischer Güter, denen der Besitz seit dem Frieden von Tilsit entzogen wurde, sei eine diplomatische Unterhandlung eingeleitet, deren Ergebnis dem Fürsten mitgeteilt werde. Leixner sei nicht durch den Verlust von Kolno und Kamionna in gerichtliche Untersuchung geraten, sondern durch die unregelmäßige Verwaltung seines Postens und die unerlaubte Beleihung eines dort für den Kaufmann Simon eingetragenen Aktivums.",
  "reading": {
   "letter": "3",
-  "legibility": "sound",
-  "notes": "Copy of Hardenberg's letter to Triebenfeld, Paris, 14 May 1814, enclosed in document 1. The Prince's claims to the South Prussian estates given him in 1796, Trąbczyn and Kaemen, can only be raised with any prospect once the Warsaw affairs are settled. That is not yet so, and he is therefore holding back the Prince's letter to Emperor Alexander that Triebenfeld handed him on the 6th; Triebenfeld is to tell the Prince.",
+  "legibility": "partly garbled",
+  "notes": "Draft of the reply to Triebenfeld, Vienna, 17 March 1815, issued in Hardenberg's name; much of it is badly read. The enclosures are returned. A diplomatic negotiation has been opened on compensating those donees of South Prussian estates who lost possession after the peace of Tilsit, and its result will be communicated to the Prince in due course. As for Leixner of the Frankfurt bank: it was not his loss of the Kolno and Kähmen estates that brought him under judicial investigation, but the irregular conduct of his post, and in particular that he borrowed on the asset registered on Kolno and Kähmen for the merchant Simon at its full value when he already knew Miączyńska had taken the estates.",
   "claims": [
    {
-    "statement": "Die Ansprüche des Fürsten auf die 1796 geschenkten südpreußischen Güter Trąbczyn und Kaemen könnten erst nach definitiven Bestimmungen über die Warschauer Angelegenheiten mit Aussicht auf Erfolg angeregt werden",
+    "statement": "Über die Entschädigung der Donatare südpreußischer Güter, denen der Besitz seit dem Frieden von Tilsit entzogen wurde, sei eine diplomatische Unterhandlung eingeleitet, deren Ergebnis dem Fürsten zu seiner Zeit mitgeteilt werde",
     "lines": [
-     2,
-     3,
-     4,
-     5
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
     ]
    },
    {
-    "statement": "Hardenberg hält deshalb das am 6. Mai übergebene Schreiben des Fürsten an Kaiser Alexander zurück und bittet Triebenfeld, dies dem Fürsten zu eröffnen",
+    "statement": "Leixner sei nicht durch den Verlust der Güter Kolno und Kähmen in die gerichtliche Untersuchung geraten, sondern durch die unregelmäßige Verwaltung seines Postens und die unerlaubte Beleihung des auf Kolno und Kähmen für den Kaufmann Simon eingetragenen Aktivums, als ihm die Besitznahme durch die Miączyńska bereits bekannt war",
     "lines": [
-     6,
-     7,
-     8,
-     9
-    ]
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28
+    ],
+    "check": "overstated",
+    "why": "Die Zeilen 15-25 stützen den Hauptteil: Entsetzung aus dem Besitz, unregelmäßige Verwaltung, unerlaubte Beleihung des für Simon eingetragenen Aktivums. 'Besitznahme' ist aber eine Deutung des verstümmelten Wortes 'Fsez[?]nahme' (Z. 26). Diesen Teil enthält die Zusammenfassung nicht, sie ist also nicht betroffen."
    }
   ],
-  "doubtful_words": [],
-  "read_against": "eedaad400ad1e580"
+  "doubtful_words": [
+   {
+    "line": 7,
+    "word": "wieder ich auch",
+    "note": "probably 'erwiedere ich auf'"
+   },
+   {
+    "line": 8,
+    "word": "Zurückbegabe der Weiligen",
+    "note": "probably 'Zurückgabe der Beilagen'"
+   },
+   {
+    "line": 13,
+    "word": "des Kosten Fürsten",
+    "note": "probably 'dem Herrn Fürsten'"
+   },
+   {
+    "line": 15,
+    "word": "Bedeuten",
+    "note": "probably 'Rendanten'"
+   },
+   {
+    "line": 20,
+    "word": "Vorzug",
+    "note": "probably 'Verhaft' or 'Arrest'"
+   },
+   {
+    "line": 25,
+    "word": "bauen Beständen der Buch[?] noch zu mir",
+    "note": "an insertion in the margin, garbled"
+   },
+   {
+    "line": 26,
+    "word": "Fsez[?]nahme",
+    "note": "probably 'Besitznahme'"
+   },
+   {
+    "line": 27,
+    "word": "End",
+    "note": "probably 'Frau'"
+   }
+  ],
+  "read_against": "95681770fe8cd8ff"
  }
 }

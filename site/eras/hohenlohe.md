@@ -298,7 +298,7 @@ Kamionna had been [taken in the same way]({{ '/documents/oe1bu9454/27/' | relati
 petition of March 1815 states the sequence: fourteen weeks after the peace, a Polish
 administrative commission took possession of all the estates without a judgment of any court
 and gave them to Prusimski's daughter
-([petition]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }});
+([petition]({{ '/documents/iiihamdaiiinr12765/2/' | relative_url }});
 [letter 265b]({{ '/documents/oe1bu9454/265b/' | relative_url }})).
 
 The claimant was Michalina Prusimska, who appears in the letters under several surnames:
@@ -350,7 +350,7 @@ person or lose his estates. The letter is in the file twice, as
 Hohenlohe-Ingelfingen also sued for the estates themselves; the tribunal at Kalisz, the
 court of the Duchy of Warsaw for the department, declared that it had no authority to set
 aside the commission's order
-([petition of 1815]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }})).
+([petition of 1815]({{ '/documents/iiihamdaiiinr12765/2/' | relative_url }})).
 
 By January 1811 Triebenfeld was, on his own count,
 [conducting thirty-one lawsuits at once]({{ '/documents/oe1bu9454/212/' | relative_url }}) and
@@ -381,7 +381,7 @@ and Christoph Schoenfisch from Trąbczyner Holländ. It is signed with marks.
 After Napoleon's defeat the future of the Duchy of Warsaw was open, and Hohenlohe-Ingelfingen
 pressed for the return of the estates or compensation for them. Triebenfeld petitioned the
 State Chancellor, Hardenberg, in Paris in May 1814
-([petition]({{ '/documents/iiihamdaiiinr12765/3/' | relative_url }})), and then went to the
+([petition]({{ '/documents/iiihamdaiiinr12765/1/' | relative_url }})), and then went to the
 Congress of Vienna.
 
 He [arrived in October 1814]({{ '/documents/oe1bu9454/242/' | relative_url }}), after three
@@ -398,15 +398,15 @@ the Golden Duck in the Schulerstraße.
 He petitioned Hardenberg again in October 1814 and in March 1815. The petition of March
 1815 sets out the case in full and asks for the return of the Trąbczyn estates with nine
 years' revenue, 36,500 Reichsthaler
-([petition]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }})). Wilhelm von Humboldt
+([petition]({{ '/documents/iiihamdaiiinr12765/2/' | relative_url }})). Wilhelm von Humboldt
 [took up the case]({{ '/documents/oe1bu9454/250/' | relative_url }}) and asked for copies of
 everything, and Hardenberg was reported as calling Hohenlohe-Ingelfingen
 [the worst-treated of men]({{ '/documents/oe1bu9454/262/' | relative_url }}).
 Hohenlohe-Ingelfingen wrote himself, in April 1815 to Baron vom Stein and in May to
 Hardenberg. He gave his loss as 325,400 Reichsthaler in the first letter and as more than
 261,000 in the second, and in the second asked for the crown estate of Sokolnik in
-compensation ([to Stein]({{ '/documents/iiihamdaiiinr12765/6/' | relative_url }});
-[to Hardenberg]({{ '/documents/iiihamdaiiinr12765/8/' | relative_url }})). The replies put
+compensation ([to Stein]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }});
+[to Hardenberg]({{ '/documents/iiihamdaiiinr12765/6/' | relative_url }})). The replies put
 the matter off until Polish affairs were settled.
 
 Where the new frontier ran decided whose the estates would be. The Prosna was to be the
@@ -424,17 +424,17 @@ In Berlin, Hardenberg asked Zerboni di Sposetti, the senior Prussian official at
 a report. It came on 2 November 1815 and went against the claim: it rejected the figures
 submitted for Hohenlohe-Ingelfingen, said that he had let Trąbczyn decline and loaded it with
 debt, and concluded that Prussia could do no more than ask the Russian government to decide
-([report]({{ '/documents/iiihamdaiiinr12765/14/' | relative_url }})). In April 1816 the
+([report]({{ '/documents/iiihamdaiiinr12765/10/' | relative_url }})). In April 1816 the
 ministry instructed the Prussian envoy at St Petersburg, Major General von Schöler, to raise
 the matter with the Emperor in general terms and without pressing it, compensation being a
-matter of grace ([instruction]({{ '/documents/iiihamdaiiinr12765/15/' | relative_url }})). On
+matter of grace ([instruction]({{ '/documents/iiihamdaiiinr12765/11/' | relative_url }})). On
 23 November 1816 Schöler reported that the Russian ministry had refused
-([report]({{ '/documents/iiihamdaiiinr12765/25/' | relative_url }})).
+([report]({{ '/documents/iiihamdaiiinr12765/20/' | relative_url }})).
 
 The creditors were waiting too. In April 1816 the widow of Colonel von Brehmer petitioned
 for the 5,000 Reichsthaler her brother had lent Hohenlohe-Ingelfingen in 1803 on Szetlewek,
 of which neither capital nor interest had been paid
-([petition]({{ '/documents/iiihamdaiiinr12765/19/' | relative_url }})). A note on her petition
+([petition]({{ '/documents/iiihamdaiiinr12765/15/' | relative_url }})). A note on her petition
 holds that any compensation from Russia should go to the creditors registered on the
 estates.
 
@@ -477,9 +477,9 @@ Hohenlohe-Ingelfingen died in 1818 at Sławięcice in Upper Silesia. His heirs r
 claim, and Duke Eugen of Württemberg recommended it to the Russian government, citing two
 Prussian generals who had been compensated. On 31 January 1820 the Russian envoy at Berlin,
 Alopeus, answered that the claim had been refused in 1816 and that the Emperor could not act
-on the recommendation ([note]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }})). The
+on the recommendation ([note]({{ '/documents/iiihamdaiiinr12765/22/' | relative_url }})). The
 Prussian ministry took no further step and passed the matter to the Minister of the Interior
-([May 1820]({{ '/documents/iiihamdaiiinr12765/29/' | relative_url }})).
+([May 1820]({{ '/documents/iiihamdaiiinr12765/23/' | relative_url }})).
 
 The debts that Hohenlohe-Ingelfingen had secured on Trąbczyn outlasted him. In January 1819
 Prusimski's daughter, by then Countess Miączyńska, asked Prussia through the Russian envoy to
@@ -569,6 +569,6 @@ Fifteen documents, in the order of the story.
 10. [Letter 179a]({{ '/documents/oe1bu9454/179a/' | relative_url }}), what the estates yielded in 1806
 11. [Letter 28]({{ '/documents/oe1bu9454/28/' | relative_url }}), the estates taken over in 1807
 12. [Letter 212]({{ '/documents/oe1bu9454/212/' | relative_url }}), thirty-one lawsuits
-13. [The petition of March 1815]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }}), the whole case as Triebenfeld put it
-14. [Zerboni di Sposetti's report]({{ '/documents/iiihamdaiiinr12765/14/' | relative_url }}), the case as Prussia's officials saw it
-15. [Alopeus's note of 1820]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }}), the final refusal
+13. [The petition of March 1815]({{ '/documents/iiihamdaiiinr12765/2/' | relative_url }}), the whole case as Triebenfeld put it
+14. [Zerboni di Sposetti's report]({{ '/documents/iiihamdaiiinr12765/10/' | relative_url }}), the case as Prussia's officials saw it
+15. [Alopeus's note of 1820]({{ '/documents/iiihamdaiiinr12765/22/' | relative_url }}), the final refusal

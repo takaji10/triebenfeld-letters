@@ -1,45 +1,66 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince!
+  en: 'Berlin, 20 April 1816 ad no: c. 2278. To His Serene Highness the Prince of Hohenlohe at
 
 
-    I have the honour, Your Serene Highness, in most devoted answer to your very obliging letter of the
-    12th of this month, to reply: that although at this moment the territorial relations of the Duchy
-    of Warsaw have been definitively decided as regards those of its provinces reverting to Prussia; what
-    on the other hand concerns the compensation of the respective donatories in the said Duchy, the regulation
-    of this matter has been reserved for a separate negotiation, to which, however, proceedings have already
-    been taken at this time. Given the sincere interest which I take in every event concerning Your Serene
-    Highness, it will assuredly afford me a quite particular pleasure to find, in the course of this negotiation,
-    an occasion to further the fulfilment of the wish communicated to me by the same in respect of the
-    compensation for the Trąbczyn estates withdrawn from you. I moreover very gladly avail myself of the
-    present occasion to renew to Your Serene Highness the assurance of that reverence with which I remain
-    Your Serene Highness''s
+    Sławięcice.
 
 
-    Vienna
+    the 30th, to the post.
 
 
-    the __th of May 1815.
+    Most Serene Prince. In pursuance of my most devoted letter of 6 June of last year, I have the honour
+    to acquaint Your Serene Highness, in most devoted [illegible], that under today''s date I have informed
+    the Royal envoy at St Petersburg, Major General von Schöler, of Your Serene Highness''s request for
+    compensation for the Trąbczyn estates in Poland formerly possessed by Your Serene Highness, and have
+    charged him to bring the same to the knowledge of His Majesty the Emperor of Russia and to support
+    [uncertain: Your] [illegible] application to the best of his ability.
 
 
-    To His Serene Highness the Prince of Hohenlohe.'
+    In leaving it most devotedly [uncertain: wholly] to Your Serene Highness to pursue your affair henceforth
+    directly at St Petersburg, and wishing you the most favourable success therein, I take this opportunity
+    with pleasure to [text continues, garbled] you a'
   names:
-  - de: Warschau
-    en: Warsaw
-    kind: place
-  - de: Preußen
-    en: Prussia
-    kind: place
-  - de: Trąbczyner
-    en: Trąbczyn
-    kind: place
-  - de: Wien
-    en: Vienna
+  - de: Berlin
+    en: Berlin
     kind: place
   - de: Herrn Fürsten zu Hohenlohe
     en: the Prince of Hohenlohe
     kind: person
+  - de: Schlawenzitz
+    en: Sławięcice
+    kind: place
+  - de: St. Petersburg
+    en: St Petersburg
+    kind: place
+  - de: v. Schöler
+    en: von Schöler
+    kind: person
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Pohlen
+    en: Poland
+    kind: place
+  - de: Rußland
+    en: Russia
+    kind: place
   numbers:
-  - '12'
-  - '1815'
+  - '20'
+  - '1816'
+  - '2278'
+  - '30'
+  - '6'
+- page: 2
+  en: 'concerning it, to [illegible/garbled: ''vermögte''] you the assurance of my unaltered and distinguished
+    high esteem and devotion. In His Serene Highness''s name.
+
+
+    H[arden]b[er]g 28/4'
+  names:
+  - de: H[arden]b[er]g
+    en: H[arden]b[er]g
+    kind: person
+  numbers:
+  - 28/4

@@ -4656,6 +4656,36 @@ first and a fine pass at their word. The files are in
   "write if the number of blocks changed" missed a cut block; track the
   change itself.
 
+### Joining split documents and renumbering (2026-11-23)
+
+The plan and the editor's rulings: `docs/DOCUMENT_MERGE_PLAN.md`. The tools:
+`pipeline/review/merge_documents.py` (from `units/<slug>/intake/merges.yml`;
+writes `intake/merge_map.json`), `pipeline/review/merge_check.py` (`--before`,
+then `--after`: every document compared through the map). Never Oe 1 Bü 9454.
+Traps met in the pilot (Nr. 12765):
+
+- **Back up the holding's cache files first**: the cache is not in git, and
+  the merge renames and rewrites them.
+- **A set-apart block is found by its first line, which must be unique in the
+  document**: two drafts on one page both starting "An" stopped the build.
+  Consecutive voices on one page are one block with one label.
+- **A merged document's place moves** (the place is read from the last lines,
+  now the enclosure's or the draft's): give the main letter's place as an
+  override in `rulings.yml`. `merge_check.py --after` catches it.
+- **The order of the rebuild**: after `relabel_scans.py --apply` (the page
+  images carry the document number in their names) run
+  `make_scan_derivatives.py`, then the per-unit steps TWICE (build_db runs
+  before match_scans, so the first pass leaves the old image names in the
+  dataset), then the site.
+- **Legacy addresses**: `/letters/<unit>/<n>/` forwards used to be written
+  from the current number; a renumbered holding's are now written from
+  `merge_map.json` (`build_site_data.py`), and a `/documents/` number no
+  document holds any more forwards to where its document went.
+- **Citations come in three forms**: `[[4]]` in a holding's own about.md
+  (checked by check_unit_text.py), `<a href="{{ '/documents/…/4/' … }}">4</a>`
+  and plain `/documents/…/4/` (timeline). Map each once; check the changed
+  lines against the map afterwards.
+
 ### The date after the signature (2026-11-23)
 
 The editor's rulings and the method are in `docs/DATE_ORDER_PLAN.md`; the

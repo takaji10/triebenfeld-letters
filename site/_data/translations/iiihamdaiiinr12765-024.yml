@@ -1,76 +1,102 @@
 status: draft
 segments:
 - page: 1
-  en: 'Berlin, 10 August 1816. To the widow of Colonel von Brehmer, Right Honourable,
+  en: 'By the esteemed letter of a Royal and Most Laudable Ministry of Foreign Affairs of the 13th of
+    this month, and its enclosures, I have been informed of the applications which the heirs of the late
+    Prince of Hohenlohe-Ingelfingen, and Count von Bethusy, have made to the Imperial Russian Government
+    through the intercession of Prince Eugen of Württemberg, and of the refusing answer of that Government
+    which has followed thereupon. As to what was to Count von Bethusy the claim, derived from the treaty
+    between Prussia and Russia of 21 April and 3 May 1815, to free traffic between his properties in Silesia
+    and the Kingdom of Poland: I am entirely in agreement with a Royal Ministry that the same is, even
+    according to the provisions of the said treaty, wholly inadmissible. I have accordingly made this
+    known to Count von Bethusy, with reference to the 18th article of the same, and with the remark that,
+    even if the Imperial Russian Government had granted his request, objection would nevertheless have
+    been raised against it on the part of the Government on this side.
 
 
-    in
+    I do not fail most respectfully to acquaint a Royal and Most Laudable Ministry of Foreign Affairs
+    with this disposition. Berlin, the 19th of May 1820
 
 
-    Sommerfeld
+    Schuckmann
 
 
-    the 13th, to the post.
+    To
 
 
-    No. 6360. Already upon Your Right Honourable''s letter of 26 April of this year I found occasion to
-    bring before the Royal Legation at Petersburg the circumstance that, since the Prince of Hohenlohe-Ingelfingen
-    had allowed the estates of Trąbczyn with appurtenances to deteriorate and had burdened them with debts,
-    the mortgage creditors stood in danger, through the confiscation of the estate which took place in
-    the year 1807, of losing the capitals they had lent, so that use might be made of it, as circumstances
-    allow, in supporting the compensation petition of the Prince of Hohenlohe. Since nothing further can
-    be done on the part of the undersigned Ministry for Your Right Honourable, but it must rather be left
-    to you, should His Majesty the Emperor of Russia be pleased to grant the Prince of Hohenlohe a compensation,
-    to look after whatever rights you may have therein, I herewith return to you the enclosures submitted
-    on the 25th of July. Berlin
+    a Royal and Most Laudable Ministry of
 
 
-    Ministry of Foreign Affairs, 3rd Section.
+    Foreign Affairs
 
 
-    Hoffm[ann], 12/8.
+    [Written by the receiving office:]
 
 
-    B[alan].'
+    [text lost] Balan
+
+
+    C. A. No. 3053. 13. received 28 May 1820.
+
+
+    To the file.
+
+
+    Hoffm[ann] 30/5
+
+
+    B[erlin]. 29/5 [18]20'
   names:
-  - de: Berlin
-    en: Berlin
-    kind: place
-  - de: Frau Obrist v Brehmer
-    en: Mrs von Brehmer
+  - de: Schuckmann
+    en: Schuckmann
     kind: person
-  - de: Sommerfeld
-    en: Sommerfeld
-    kind: place
-  - de: Fürst v Hohenlohe Ingelfingen
-    en: the Prince of Hohenlohe-Ingelfingen
+  - de: Fürsten von Hohenlohe, Ingelfingen
+    en: Prince of Hohenlohe-Ingelfingen
     kind: person
-  - de: Trąbczyn
-    en: Trąbczyn
-    kind: place
-  - de: Petersburg
-    en: Petersburg
-    kind: place
-  - de: Fürsten Hohenlohe
-    en: the Prince of Hohenlohe
+  - de: Graf v. Bethusy
+    en: Count von Bethusy
     kind: person
-  - de: Rußland
-    en: Russia
-    kind: place
+  - de: Grafen von Bethusy
+    en: Count von Bethusy
+    kind: person
+  - de: Prinzen Eugen von Würtemberg
+    en: Prince Eugen of Württemberg
+    kind: person
+  - de: Balan
+    en: Balan
+    kind: person
   - de: Hoffm[ann]
     en: Hoffm[ann]
     kind: person
-  - de: B[alan]
-    en: B[alan]
-    kind: person
-  - de: M. d. a. A. 3te S.
-    en: Ministry of Foreign Affairs, 3rd Section
-    kind: other
+  - de: Preußen
+    en: Prussia
+    kind: place
+  - de: Rußland
+    en: Russia
+    kind: place
+  - de: Schlesien
+    en: Silesia
+    kind: place
+  - de: Königreiche Polen
+    en: Kingdom of Poland
+    kind: place
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: B[erlin]
+    en: B[erlin]
+    kind: place
   numbers:
-  - '10'
+  - 13ten
+  - 21ten
+  - 3ten
+  - '1815'
+  - 18ten
+  - 19ten
+  - '1820'
+  - '3053'
   - '13'
-  - '6360'
-  - '26'
-  - '1807'
-  - '25'
-  - 12/8
+  - '28'
+  - 30/5
+  - 29/5
+  - '20'

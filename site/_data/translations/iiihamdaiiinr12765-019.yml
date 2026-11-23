@@ -1,128 +1,76 @@
 status: draft
 segments:
 - page: 1
-  en: 'Most Serene Prince, Most gracious Lord. My late brother, the Royal Prussian Major Johann Friedrich
-    von Seehausen, whose sole heir I am, lent to the reigning Prince Friedrich Ludwig of Hohenlohe-Ingelfingen,
-    and obligation of 26 March 1803, a capital of 5,000 Rthl [uncertain: Caier]:; the debtor pledged to
-    him his estate Szetlewek in the district of Konin and bound himself to satisfy him in another
+  en: 'Berlin, 10 August 1816. To the widow of Colonel von Brehmer, Right Honourable,
 
 
-    [Written by the receiving office:]
+    in
 
 
-    No. 3997. B. received 13 May 1816. received 1 May 1816
+    Sommerfeld
 
 
-    No. 4705.
+    the 13th, to the post.
 
 
-    To be struck off in the bureau journal. To be entered in the journal of the Section. Assigned to:
-    Councillor of Legation Balan. To be appended: the report which Mr von Zerboni has rendered on the
-    estates of the Prince of Hohenlohe situated in the Duchy of Warsaw. 2 May
+    No. 6360. Already upon Your Right Honourable''s letter of 26 April of this year I found occasion to
+    bring before the Royal Legation at Petersburg the circumstance that, since the Prince of Hohenlohe-Ingelfingen
+    had allowed the estates of Trąbczyn with appurtenances to deteriorate and had burdened them with debts,
+    the mortgage creditors stood in danger, through the confiscation of the estate which took place in
+    the year 1807, of losing the capitals they had lent, so that use might be made of it, as circumstances
+    allow, in supporting the compensation petition of the Prince of Hohenlohe. Since nothing further can
+    be done on the part of the undersigned Ministry for Your Right Honourable, but it must rather be left
+    to you, should His Majesty the Emperor of Russia be pleased to grant the Prince of Hohenlohe a compensation,
+    to look after whatever rights you may have therein, I herewith return to you the enclosures submitted
+    on the 25th of July. Berlin
 
 
-    to be laid before Mr [illegible] von Jordan.
+    Ministry of Foreign Affairs, 3rd Section.
 
 
-    Szetlewek is an estate belonging to Trąbczyn. According to the report of Mr von Zerboni, the Prince
-    has let them deteriorate and loaded them with debts. If therefore His Majesty the Russian Emperor
-    should be pleased to [uncertain: h] declare himself inclined to a compensation, this must accrue not
-    to the Prince but to the creditors registered against the estates.
+    Hoffm[ann], 12/8.
 
 
-    St[ä]g[e]m[ann]
-
-
-    7 May 16'
+    B[alan].'
   names:
-  - de: Friedrich Ludwig von Hohenlohe Ingelfingen
-    en: Friedrich Ludwig of Hohenlohe-Ingelfingen
-    kind: person
-  - de: Johann Friedrich von Seehausen
-    en: Johann Friedrich von Seehausen
-    kind: person
-  - de: Szettlewek
-    en: Szetlewek
+  - de: Berlin
+    en: Berlin
     kind: place
-  - de: Koninschen Creise
-    en: district of Konin
+  - de: Frau Obrist v Brehmer
+    en: Mrs von Brehmer
+    kind: person
+  - de: Sommerfeld
+    en: Sommerfeld
     kind: place
-  - de: Balan
-    en: Balan
-    kind: person
-  - de: Zerboni
-    en: Zerboni
-    kind: person
-  - de: Herzogtum Warschau
-    en: Duchy of Warsaw
-    kind: place
-  - de: Hohenlohe
-    en: Hohenlohe
-    kind: person
-  - de: Jordan
-    en: Jordan
+  - de: Fürst v Hohenlohe Ingelfingen
+    en: the Prince of Hohenlohe-Ingelfingen
     kind: person
   - de: Trąbczyn
     en: Trąbczyn
     kind: place
-  - de: St[ä]g[e]m[ann]
-    en: St[ä]g[e]m[ann]
-    kind: person
-  numbers:
-  - 26ten Mart. 1803
-  - '5000'
-  - '3997'
-  - 13. May. 1816
-  - 1. May 1816
-  - '4705'
-  - 2 Mai
-  - 7 Mai 16
-- page: 2
-  en: manner, should he not obtain his full satisfaction out of this estate. So long as the Prince was
-    in possession of the mortgage, he paid neither capital nor interest, and after the cession of the
-    province of South Prussia the estate Szetlewek was taken from him again by the decision of the governing
-    Commission, dated Beschr. 21 July 1807, and returned to the heiress of the former owner, Michaline
-    Prusimska, married von Dąbska. I have no prospect of being paid out of this estate, and am also not
-    in a position to pursue my rights against
-  names:
-  - de: Süd Preußen
-    en: South Prussia
+  - de: Petersburg
+    en: Petersburg
     kind: place
-  - de: Szettlewek
-    en: Szetlewek
-    kind: place
-  - de: Michaline Prusimska verm von Dąbska
-    en: Michaline Prusimska, married von Dąbska
+  - de: Fürsten Hohenlohe
+    en: the Prince of Hohenlohe
     kind: person
-  numbers:
-  - 21. July 1807
-- page: 3
-  en: 'the Prince; apart from this capital I possess no property and live merely on a small pension of
-    120 Rthl. I therefore most humbly beg Your Serene Highness most graciously to intercede on my behalf
-    with high favour, that I may [uncertain: obtain] my satisfaction in capital and interest out of the
-    Prince''s remaining property.
-
-
-    With the greatest respect I remain Your Serene Highness''s
-
-
-    most humbly
-
-
-    the widowed Colonel''s wife
-
-
-    von Brehmer.
-
-
-    Sommerfeld, 26 April 1816.'
-  names:
-  - de: Sommerfeld
-    en: Sommerfeld
+  - de: Rußland
+    en: Russia
     kind: place
-  - de: von Brehmer
-    en: von Brehmer
+  - de: Hoffm[ann]
+    en: Hoffm[ann]
     kind: person
+  - de: B[alan]
+    en: B[alan]
+    kind: person
+  - de: M. d. a. A. 3te S.
+    en: Ministry of Foreign Affairs, 3rd Section
+    kind: other
   numbers:
-  - '120'
-  - 26ten April 1816
+  - '10'
+  - '13'
+  - '6360'
+  - '26'
+  - '1807'
+  - '25'
+  - 12/8

@@ -6,127 +6,101 @@
  "uid": "iiihamdaiiinr12765-20",
  "pad": "iiihamdaiiinr12765-020",
  "permalink": "/documents/iiihamdaiiinr12765/20/",
- "doc_type": "note",
+ "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1816-06-15",
+ "date_iso": "1816-11-23",
  "date_precision": "day",
  "date_source": "dateline",
- "date_display": "1816-06-15",
+ "date_display": "1816-11-23",
  "date_inferred_from": "read from the document's own dateline",
  "year": 1816,
- "month": 6,
- "day": 15,
- "place": "Berlin",
- "sender": "Balan",
- "recipient": "",
- "line_start": 675,
- "line_end": 720,
- "uncertainty_count": 3,
+ "month": 11,
+ "day": 23,
+ "place": "St. Petersburg",
+ "sender": "Schöler",
+ "recipient": "Ministerium der auswärtigen Angelegenheiten",
+ "line_start": 872,
+ "line_end": 891,
+ "uncertainty_count": 0,
  "has_damage": 0,
- "rough_transcription": 1,
+ "rough_transcription": 0,
  "language": "de",
  "duplicate_of": "",
- "relations": [],
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "13",
+   "note": "'In Gemäßheit ... Schreibens vom 29sten April d. J.': the instruction to Schöler."
+  }
+ ],
  "estates": [
-  "szetlewek",
   "trabczyn"
  ],
  "is_missing": 0,
- "n_lines": 42,
- "n_pages": 3,
- "text": "Der verwittweten Obristen von Brehmer zur Resolution:\nDie von ihr unter dem 26 April d. J. an den\nFürsten Staatskanzler gerichtete Vorstellung, sey\nvon seiner Durchlaucht dem Sectionschef, zur weiteren\nVeranlassung, zugefertigt worden.\nUm wegen, ihres dem Fürsten von Hohenlohe\nIngelfingen dargeliehenen, auf dem im\nJahr 1807. eingezogenen Gute Szettlewek ein\ngetragen gewesenen Capitals von 5000 rt, aus\ndem übrigen Vermögen des Fürsten, ihres\nSchuldners befriedigt zu werden, sey\nInverderst[?] die Belangung desselben vor.\nseiner Gerichtsbehörde erforderlich: damit\nder Anspruch rechtliche feststehe, und berüber.\nrichtigt werden könne, falls. des Russischen\nKaysers Majestät, sich geneigt erklären sollten\ndem Fürsten wegen des Verlustes von\nSzettlewek und Trąbczyn einige Entschädigung\nIngenähmen[?]\nB[erlin]. 18. Juny [18]16.\nB[alan].\n2. dem Herrn von Schoeler in[?] St. Petersburg\nmit Bezug auf das Schreiben vom 29 April\nd. J. zu eröfnen: daß da der Fürst von\nHohenlohe, Trąbczyn nebst Zubehör deteriorirt\nund mit Schulden belastet habe,\ndie hypothekarischen Gläubiger, durch die\nim Jahr 1807. erfolgte Einziehung des\nGutes, Gefahr liefen, die dargeliehenen\nCapitalien zu verlieren; man ihm anheim\ngeben wenn er das Entschädigungsgesuch\ndes Fürsten, bey des Kaysers Majestät, unterstütze\nauch diesen Umstand zu Sprache zubringen:\nZugleich etc. ersuche: falls des Kaysers\nMajestät dem Fürsten einige Entschädigung\nIn genähmen geraten sollten den Sectionschef\nderen unverzüglich in Kenntniss zu setzen\ndamit die gedachten Gläubiger, zur weiteren\nVerfolgung ihrer Gerechtsame Veranlassen\nkönne.\nB[erlin]. 15 Juny [18]16.\nB[alan].",
- "text_reading": "Der verwittweten Obristen von Brehmer zur Resolution: Die von ihr unter dem 26 April d. J. an den Fürsten Staatskanzler gerichtete Vorstellung, sey von seiner Durchlaucht dem Sectionschef, zur weiteren Veranlassung, zugefertigt worden. Um wegen, ihres dem Fürsten von Hohenlohe Ingelfingen dargeliehenen, auf dem im Jahr 1807. eingezogenen Gute Szettlewek ein getragen gewesenen Capitals von 5,000 rt, aus dem übrigen Vermögen des Fürsten, ihres Schuldners befriedigt zu werden, sey Inverderst[?] die Belangung desselben vor. seiner Gerichtsbehörde erforderlich: damit der Anspruch rechtliche feststehe, und berüber. richtigt werden könne, falls. des Russischen\n\nKaysers Majestät, sich geneigt erklären sollten dem Fürsten wegen des Verlustes von Szettlewek und Trąbczyn einige Entschädigung Ingenähmen[?]\n\nB[erlin]. 18. Juny [18]16.\n\nB[alan].\n\n2. dem Herrn von Schoeler in[?] St. Petersburg mit Bezug auf das Schreiben vom 29 April\n\nd. J. zu eröfnen: daß da der Fürst von Hohenlohe, Trąbczyn nebst Zubehör deteriorirt und mit Schulden belastet habe, die hypothekarischen Gläubiger, durch die im Jahr 1807. erfolgte Einziehung des Gutes, Gefahr liefen, die dargeliehenen Capitalien zu verlieren; man ihm anheim geben wenn er das Entschädigungsgesuch\n\ndes Fürsten, bey des Kaysers Majestät, unterstütze auch diesen Umstand zu Sprache zubringen: Zugleich etc. ersuche: falls des Kaysers Majestät dem Fürsten einige Entschädigung In genähmen geraten sollten den Sectionschef deren unverzüglich in Kenntniss zu setzen damit die gedachten Gläubiger, zur weiteren Verfolgung ihrer Gerechtsame Veranlassen könne.\n\nB[erlin]. 15 Juny [18]16.\n\nB[alan].",
+ "n_lines": 18,
+ "n_pages": 1,
+ "text": "In Gemäßheit Euer Hochwohlgeboren geehrten Schreibens vom 29sten\nApril d. J. habe ich am 17/5ten May eine Note an den Grafen Nesselrode\nin der Angelegenheit des Fürsten Friedrich Ludwig von Hohenlohe Ingelfingen\nübergeben und in einer späteren Note vom 1sten August/20ten July den in dem\nErlasse vom 29sten Juny berührten Umstand mit zur Sprache gebracht\nErst unter gestrigem dato ist mir eine Antwort hierauf ertheilt, die\nwie Euer Hochwohlgeboren aus der abschriftlichen Anlage geneigt\nersehen werden, abschläglich ausgefallen ist.\nSt. Petersburg den 23/11ten November 1816.\nFr. von Schöler\nAn Eine Hochlöbliche 3te Section des Königlichen\nMinisterii der auswärtigen Angelegenheiten.\nH L. R. Balan\nc. a.\nNo 9882. B. pr. 8. Dec: 1816.\nDem H. Fürst zu Hohenlohe\nAbschrift des Anlage\nB[erlin] 9/12 [18]16",
+ "text_reading": "In Gemäßheit Euer Hochwohlgeboren geehrten Schreibens vom 29sten April d. J. habe ich am 17/5ten May eine Note an den Grafen Nesselrode in der Angelegenheit des Fürsten Friedrich Ludwig von Hohenlohe Ingelfingen übergeben und in einer späteren Note vom 1sten August/20ten July den in dem Erlasse vom 29sten Juny berührten Umstand mit zur Sprache gebracht Erst unter gestrigem dato ist mir eine Antwort hierauf ertheilt, die wie Euer Hochwohlgeboren aus der abschriftlichen Anlage geneigt ersehen werden, abschläglich ausgefallen ist. St. Petersburg den 23/11ten November 1816. Fr. von Schöler An Eine Hochlöbliche 3te Section des Königlichen Ministerii der auswärtigen Angelegenheiten.\n\nH L. R. Balan\n\nc. a. No 9882. B. pr. 8. Dec: 1816.\n\nDem H. Fürst zu Hohenlohe\n\nAbschrift des Anlage\n\nB[erlin] 9/12 [18]16",
  "pages": [
   {
    "page": 1,
-   "page_id": "0028_a2",
-   "line_start": 677,
-   "line_end": 691,
-   "n_lines": 15,
-   "diplomatic": "Der verwittweten Obristen von Brehmer zur Resolution:\nDie von ihr unter dem 26 April d. J. an den\nFürsten Staatskanzler gerichtete Vorstellung, sey\nvon seiner Durchlaucht dem Sectionschef, zur weiteren\nVeranlassung, zugefertigt worden.\nUm wegen, ihres dem Fürsten von Hohenlohe\nIngelfingen dargeliehenen, auf dem im\nJahr 1807. eingezogenen Gute Szettlewek ein\ngetragen gewesenen Capitals von 5000 rt, aus\ndem übrigen Vermögen des Fürsten, ihres\nSchuldners befriedigt zu werden, sey\nInverderst[?] die Belangung desselben vor.\nseiner Gerichtsbehörde erforderlich: damit\nder Anspruch rechtliche feststehe, und berüber.\nrichtigt werden könne, falls. des Russischen",
-   "transcription": "Der verwittweten Obristen von Brehmer zur Resolution:\nDie von ihr unter dem 26 April d. J. an den\nFürsten Staatskanzler gerichtete Vorstellung, sey\nvon seiner Durchlaucht dem Sectionschef, zur weiteren\nVeranlassung, zugefertigt worden.\nUm wegen, ihres dem Fürsten von Hohenlohe\nIngelfingen dargeliehenen, auf dem im\nJahr 1807. eingezogenen Gute Szettlewek ein\ngetragen gewesenen Capitals von 5000 rt, aus\ndem übrigen Vermögen des Fürsten, ihres\nSchuldners befriedigt zu werden, sey\nInverderst[?] die Belangung desselben vor.\nseiner Gerichtsbehörde erforderlich: damit\nder Anspruch rechtliche feststehe, und berüber.\nrichtigt werden könne, falls. des Russischen",
-   "reading": "Der verwittweten Obristen von Brehmer zur Resolution: Die von ihr unter dem 26 April d. J. an den Fürsten Staatskanzler gerichtete Vorstellung, sey von seiner Durchlaucht dem Sectionschef, zur weiteren Veranlassung, zugefertigt worden. Um wegen, ihres dem Fürsten von Hohenlohe Ingelfingen dargeliehenen, auf dem im Jahr 1807. eingezogenen Gute Szettlewek ein getragen gewesenen Capitals von 5,000 rt, aus dem übrigen Vermögen des Fürsten, ihres Schuldners befriedigt zu werden, sey Inverderst[?] die Belangung desselben vor. seiner Gerichtsbehörde erforderlich: damit der Anspruch rechtliche feststehe, und berüber. richtigt werden könne, falls. des Russischen",
+   "page_id": "0036_a2",
+   "line_start": 874,
+   "line_end": 891,
+   "n_lines": 18,
+   "diplomatic": "In Gemäßheit Euer Hochwohlgeboren geehrten Schreibens vom 29sten\nApril d. J. habe ich am 17/5ten May eine Note an den Grafen Nesselrode\nin der Angelegenheit des Fürsten Friedrich Ludwig von Hohenlohe Ingelfingen\nübergeben und in einer späteren Note vom 1sten August/20ten July den in dem\nErlasse vom 29sten Juny berührten Umstand mit zur Sprache gebracht\nErst unter gestrigem dato ist mir eine Antwort hierauf ertheilt, die\nwie Euer Hochwohlgeboren aus der abschriftlichen Anlage geneigt\nersehen werden, abschläglich ausgefallen ist.\nSt. Petersburg den 23/11ten November 1816.\nFr. von Schöler\nAn Eine Hochlöbliche 3te Section des Königlichen\nMinisterii der auswärtigen Angelegenheiten.\nH L. R. Balan\nc. a.\nNo 9882. B. pr. 8. Dec: 1816.\nDem H. Fürst zu Hohenlohe\nAbschrift des Anlage\nB[erlin] 9/12 [18]16",
+   "transcription": "In Gemäßheit Euer Hochwohlgeboren geehrten Schreibens vom 29sten\nApril d. J. habe ich am 17/5ten May eine Note an den Grafen Nesselrode\nin der Angelegenheit des Fürsten Friedrich Ludwig von Hohenlohe Ingelfingen\nübergeben und in einer späteren Note vom 1sten August/20ten July den in dem\nErlasse vom 29sten Juny berührten Umstand mit zur Sprache gebracht\nErst unter gestrigem dato ist mir eine Antwort hierauf ertheilt, die\nwie Euer Hochwohlgeboren aus der abschriftlichen Anlage geneigt\nersehen werden, abschläglich ausgefallen ist.\nSt. Petersburg den 23/11ten November 1816.\nFr. von Schöler\nAn Eine Hochlöbliche 3te Section des Königlichen\nMinisterii der auswärtigen Angelegenheiten.\nH L. R. Balan\nc. a.\nNo 9882. B. pr. 8. Dec: 1816.\nDem H. Fürst zu Hohenlohe\nAbschrift des Anlage\nB[erlin] 9/12 [18]16",
+   "reading": "In Gemäßheit Euer Hochwohlgeboren geehrten Schreibens vom 29sten April d. J. habe ich am 17/5ten May eine Note an den Grafen Nesselrode in der Angelegenheit des Fürsten Friedrich Ludwig von Hohenlohe Ingelfingen übergeben und in einer späteren Note vom 1sten August/20ten July den in dem Erlasse vom 29sten Juny berührten Umstand mit zur Sprache gebracht Erst unter gestrigem dato ist mir eine Antwort hierauf ertheilt, die wie Euer Hochwohlgeboren aus der abschriftlichen Anlage geneigt ersehen werden, abschläglich ausgefallen ist. St. Petersburg den 23/11ten November 1816. Fr. von Schöler An Eine Hochlöbliche 3te Section des Königlichen Ministerii der auswärtigen Angelegenheiten.\n\nH L. R. Balan\n\nc. a. No 9882. B. pr. 8. Dec: 1816.\n\nDem H. Fürst zu Hohenlohe\n\nAbschrift des Anlage\n\nB[erlin] 9/12 [18]16",
    "paragraphs": [
-    "Der verwittweten Obristen von Brehmer zur Resolution: Die von ihr unter dem 26 April d. J. an den Fürsten Staatskanzler gerichtete Vorstellung, sey von seiner Durchlaucht dem Sectionschef, zur weiteren Veranlassung, zugefertigt worden. Um wegen, ihres dem Fürsten von Hohenlohe Ingelfingen dargeliehenen, auf dem im Jahr 1807. eingezogenen Gute Szettlewek ein getragen gewesenen Capitals von 5,000 rt, aus dem übrigen Vermögen des Fürsten, ihres Schuldners befriedigt zu werden, sey Inverderst[?] die Belangung desselben vor. seiner Gerichtsbehörde erforderlich: damit der Anspruch rechtliche feststehe, und berüber. richtigt werden könne, falls. des Russischen"
+    "In Gemäßheit Euer Hochwohlgeboren geehrten Schreibens vom 29sten April d. J. habe ich am 17/5ten May eine Note an den Grafen Nesselrode in der Angelegenheit des Fürsten Friedrich Ludwig von Hohenlohe Ingelfingen übergeben und in einer späteren Note vom 1sten August/20ten July den in dem Erlasse vom 29sten Juny berührten Umstand mit zur Sprache gebracht Erst unter gestrigem dato ist mir eine Antwort hierauf ertheilt, die wie Euer Hochwohlgeboren aus der abschriftlichen Anlage geneigt ersehen werden, abschläglich ausgefallen ist. St. Petersburg den 23/11ten November 1816. Fr. von Schöler An Eine Hochlöbliche 3te Section des Königlichen Ministerii der auswärtigen Angelegenheiten.",
+    "H L. R. Balan",
+    "c. a. No 9882. B. pr. 8. Dec: 1816.",
+    "Dem H. Fürst zu Hohenlohe",
+    "Abschrift des Anlage",
+    "B[erlin] 9/12 [18]16"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
-   "continues_next": true,
-   "para_lines": [],
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
-   "doc_line_start": 1,
-   "doc_line_end": 15
-  },
-  {
-   "page": 2,
-   "page_id": "0029_a1",
-   "line_start": 693,
-   "line_end": 708,
-   "n_lines": 16,
-   "diplomatic": "Kaysers Majestät, sich geneigt erklären sollten\ndem Fürsten wegen des Verlustes von\nSzettlewek und Trąbczyn einige Entschädigung\nIngenähmen[?]\nB[erlin]. 18. Juny [18]16.\nB[alan].\n2. dem Herrn von Schoeler in[?] St. Petersburg\nmit Bezug auf das Schreiben vom 29 April\nd. J. zu eröfnen: daß da der Fürst von\nHohenlohe, Trąbczyn nebst Zubehör deteriorirt\nund mit Schulden belastet habe,\ndie hypothekarischen Gläubiger, durch die\nim Jahr 1807. erfolgte Einziehung des\nGutes, Gefahr liefen, die dargeliehenen\nCapitalien zu verlieren; man ihm anheim\ngeben wenn er das Entschädigungsgesuch",
-   "transcription": "Kaysers Majestät, sich geneigt erklären sollten\ndem Fürsten wegen des Verlustes von\nSzettlewek und Trąbczyn einige Entschädigung\nIngenähmen[?]\nB[erlin]. 18. Juny [18]16.\nB[alan].\n2. dem Herrn von Schoeler in[?] St. Petersburg\nmit Bezug auf das Schreiben vom 29 April\nd. J. zu eröfnen: daß da der Fürst von\nHohenlohe, Trąbczyn nebst Zubehör deteriorirt\nund mit Schulden belastet habe,\ndie hypothekarischen Gläubiger, durch die\nim Jahr 1807. erfolgte Einziehung des\nGutes, Gefahr liefen, die dargeliehenen\nCapitalien zu verlieren; man ihm anheim\ngeben wenn er das Entschädigungsgesuch",
-   "reading": "Kaysers Majestät, sich geneigt erklären sollten dem Fürsten wegen des Verlustes von Szettlewek und Trąbczyn einige Entschädigung Ingenähmen[?]\n\nB[erlin]. 18. Juny [18]16.\n\nB[alan].\n\n2. dem Herrn von Schoeler in[?] St. Petersburg mit Bezug auf das Schreiben vom 29 April\n\nd. J. zu eröfnen: daß da der Fürst von Hohenlohe, Trąbczyn nebst Zubehör deteriorirt und mit Schulden belastet habe, die hypothekarischen Gläubiger, durch die im Jahr 1807. erfolgte Einziehung des Gutes, Gefahr liefen, die dargeliehenen Capitalien zu verlieren; man ihm anheim geben wenn er das Entschädigungsgesuch",
-   "paragraphs": [
-    "Kaysers Majestät, sich geneigt erklären sollten dem Fürsten wegen des Verlustes von Szettlewek und Trąbczyn einige Entschädigung Ingenähmen[?]",
-    "B[erlin]. 18. Juny [18]16.",
-    "B[alan].",
-    "2. dem Herrn von Schoeler in[?] St. Petersburg mit Bezug auf das Schreiben vom 29 April",
-    "d. J. zu eröfnen: daß da der Fürst von Hohenlohe, Trąbczyn nebst Zubehör deteriorirt und mit Schulden belastet habe, die hypothekarischen Gläubiger, durch die im Jahr 1807. erfolgte Einziehung des Gutes, Gefahr liefen, die dargeliehenen Capitalien zu verlieren; man ihm anheim geben wenn er das Entschädigungsgesuch"
-   ],
-   "sideways_lines": [],
-   "sideways_paragraphs": [],
-   "continues_previous": true,
-   "continues_next": true,
-   "para_lines": [
-    4,
-    5,
-    6,
-    8
-   ],
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "doc_line_start": 16,
-   "doc_line_end": 31
-  },
-  {
-   "page": 3,
-   "page_id": "0029_a2",
-   "line_start": 710,
-   "line_end": 720,
-   "n_lines": 11,
-   "diplomatic": "des Fürsten, bey des Kaysers Majestät, unterstütze\nauch diesen Umstand zu Sprache zubringen:\nZugleich etc. ersuche: falls des Kaysers\nMajestät dem Fürsten einige Entschädigung\nIn genähmen geraten sollten den Sectionschef\nderen unverzüglich in Kenntniss zu setzen\ndamit die gedachten Gläubiger, zur weiteren\nVerfolgung ihrer Gerechtsame Veranlassen\nkönne.\nB[erlin]. 15 Juny [18]16.\nB[alan].",
-   "transcription": "des Fürsten, bey des Kaysers Majestät, unterstütze\nauch diesen Umstand zu Sprache zubringen:\nZugleich etc. ersuche: falls des Kaysers\nMajestät dem Fürsten einige Entschädigung\nIn genähmen geraten sollten den Sectionschef\nderen unverzüglich in Kenntniss zu setzen\ndamit die gedachten Gläubiger, zur weiteren\nVerfolgung ihrer Gerechtsame Veranlassen\nkönne.\nB[erlin]. 15 Juny [18]16.\nB[alan].",
-   "reading": "des Fürsten, bey des Kaysers Majestät, unterstütze auch diesen Umstand zu Sprache zubringen: Zugleich etc. ersuche: falls des Kaysers Majestät dem Fürsten einige Entschädigung In genähmen geraten sollten den Sectionschef deren unverzüglich in Kenntniss zu setzen damit die gedachten Gläubiger, zur weiteren Verfolgung ihrer Gerechtsame Veranlassen könne.\n\nB[erlin]. 15 Juny [18]16.\n\nB[alan].",
-   "paragraphs": [
-    "des Fürsten, bey des Kaysers Majestät, unterstütze auch diesen Umstand zu Sprache zubringen: Zugleich etc. ersuche: falls des Kaysers Majestät dem Fürsten einige Entschädigung In genähmen geraten sollten den Sectionschef deren unverzüglich in Kenntniss zu setzen damit die gedachten Gläubiger, zur weiteren Verfolgung ihrer Gerechtsame Veranlassen könne.",
-    "B[erlin]. 15 Juny [18]16.",
-    "B[alan]."
-   ],
-   "sideways_lines": [],
-   "sideways_paragraphs": [],
-   "continues_previous": true,
    "continues_next": false,
    "para_lines": [
-    9,
-    10
+    13,
+    15,
+    16,
+    17
    ],
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a2-L20_03.jpg",
-   "doc_line_start": 32,
-   "doc_line_end": 42
+   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L20_01.jpg",
+   "office_lines": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "office_paragraphs": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "doc_line_start": 1,
+   "doc_line_end": 18
   }
  ],
  "mentions": [
   {
-   "entity": "brehmer",
-   "display": "von Brehmer",
+   "entity": "nesselrode",
+   "display": "Nesselrode",
    "kind": "person",
-   "surface": "Brehmer",
+   "surface": "Nesselrode",
    "page": 1,
-   "page_id": "0028_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
-   "line": 677,
-   "doc_line": 1
+   "page_id": "0036_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L20_01.jpg",
+   "line": 875,
+   "doc_line": 2
   },
   {
    "entity": "hohenlohe",
@@ -134,128 +108,61 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "0028_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
-   "line": 682,
-   "doc_line": 6
-  },
-  {
-   "entity": "balan",
-   "display": "Balan",
-   "kind": "person",
-   "surface": "B[alan]",
-   "page": 2,
-   "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "line": 698,
-   "doc_line": 21
+   "page_id": "0036_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L20_01.jpg",
+   "line": 876,
+   "doc_line": 3
   },
   {
    "entity": "schoeler",
    "display": "Schöler",
    "kind": "person",
-   "surface": "Schoeler",
-   "page": 2,
-   "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "line": 699,
-   "doc_line": 22
+   "surface": "Schöler",
+   "page": 1,
+   "page_id": "0036_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L20_01.jpg",
+   "line": 883,
+   "doc_line": 10
+  },
+  {
+   "entity": "balan",
+   "display": "Balan",
+   "kind": "person",
+   "surface": "Balan",
+   "page": 1,
+   "page_id": "0036_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L20_01.jpg",
+   "line": 886,
+   "doc_line": 13
   },
   {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
    "surface": "Hohenlohe",
-   "page": 2,
-   "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "line": 702,
-   "doc_line": 25
-  },
-  {
-   "entity": "balan",
-   "display": "Balan",
-   "kind": "person",
-   "surface": "B[alan]",
-   "page": 3,
-   "page_id": "0029_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a2-L20_03.jpg",
-   "line": 720,
-   "doc_line": 42
+   "page": 1,
+   "page_id": "0036_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L20_01.jpg",
+   "line": 889,
+   "doc_line": 16
   }
  ],
  "mentions_english": [
   {
-   "entity": "brehmer",
-   "display": "von Brehmer",
+   "entity": "nesselrode",
+   "display": "Nesselrode",
    "kind": "person",
-   "surface_de": "von Brehmer",
-   "surface_en": "von Brehmer",
+   "surface_de": "Nesselrode",
+   "surface_en": "Nesselrode",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Prince State Chancellor",
-   "kind": "other",
-   "surface_de": "Fürsten Staatskanzler",
-   "surface_en": "Prince State Chancellor",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Prince of Hohenlohe-Ingelfingen",
+   "display": "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen",
    "kind": "person",
-   "surface_de": "Fürsten von Hohenlohe Ingelfingen",
-   "surface_en": "Prince of Hohenlohe-Ingelfingen",
+   "surface_de": "Fürsten Friedrich Ludwig von Hohenlohe Ingelfingen",
+   "surface_en": "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen",
    "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Szettlewek",
-   "kind": "place",
-   "surface_de": "Szettlewek",
-   "surface_en": "Szettlewek",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Szettlewek",
-   "kind": "place",
-   "surface_de": "Szettlewek",
-   "surface_en": "Szettlewek",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface_de": "Trąbczyn",
-   "surface_en": "Trąbczyn",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "B[erlin]",
-   "kind": "place",
-   "surface_de": "B[erlin]",
-   "surface_en": "B[erlin]",
-   "page": 2
-  },
-  {
-   "entity": "balan",
-   "display": "Balan",
-   "kind": "person",
-   "surface_de": "B[alan]",
-   "surface_en": "B[alan]",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Mr von Schöler",
-   "kind": "person",
-   "surface_de": "Herrn von Schoeler",
-   "surface_en": "Mr von Schöler",
-   "page": 2
   },
   {
    "entity": "",
@@ -263,7 +170,31 @@
    "kind": "place",
    "surface_de": "St. Petersburg",
    "surface_en": "St Petersburg",
-   "page": 2
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Fr. von Schöler",
+   "kind": "person",
+   "surface_de": "Fr. von Schöler",
+   "surface_en": "Fr. von Schöler",
+   "page": 1
+  },
+  {
+   "entity": "balan",
+   "display": "Balan",
+   "kind": "person",
+   "surface_de": "Balan",
+   "surface_en": "Balan",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürst zu Hohenlohe",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 1
   },
   {
    "entity": "",
@@ -271,293 +202,137 @@
    "kind": "place",
    "surface_de": "B[erlin]",
    "surface_en": "B[erlin]",
-   "page": 3
-  },
-  {
-   "entity": "balan",
-   "display": "Balan",
-   "kind": "person",
-   "surface_de": "B[alan]",
-   "surface_en": "B[alan]",
-   "page": 3
+   "page": 1
   }
  ],
- "place_canonical": "Berlin",
+ "place_canonical": "St. Petersburg",
  "place_mentions": [
-  {
-   "entity": "ingelfingen",
-   "display": "Ingelfingen",
-   "kind": "place",
-   "surface": "Ingelfingen",
-   "page": 1,
-   "page_id": "0028_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
-   "line": 683,
-   "doc_line": 7
-  },
-  {
-   "entity": "szetlewek",
-   "display": "Szetlewek",
-   "kind": "place",
-   "surface": "Szettlewek",
-   "page": 1,
-   "page_id": "0028_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0028_a2-L20_01.jpg",
-   "line": 684,
-   "doc_line": 8
-  },
-  {
-   "entity": "szetlewek",
-   "display": "Szetlewek",
-   "kind": "place",
-   "surface": "Szettlewek",
-   "page": 2,
-   "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "line": 695,
-   "doc_line": 18
-  },
-  {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface": "Trąbczyn",
-   "page": 2,
-   "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "line": 695,
-   "doc_line": 18
-  },
-  {
-   "entity": "berlin",
-   "display": "Berlin",
-   "kind": "place",
-   "surface": "B[erlin]",
-   "page": 2,
-   "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "line": 697,
-   "doc_line": 20
-  },
   {
    "entity": "st-petersburg",
    "display": "St Petersburg",
    "kind": "place",
    "surface": "Petersburg",
-   "page": 2,
-   "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "line": 699,
-   "doc_line": 22
-  },
-  {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface": "Trąbczyn",
-   "page": 2,
-   "page_id": "0029_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a1-L20_02.jpg",
-   "line": 702,
-   "doc_line": 25
+   "page": 1,
+   "page_id": "0036_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L20_01.jpg",
+   "line": 882,
+   "doc_line": 9
   },
   {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
    "surface": "B[erlin]",
-   "page": 3,
-   "page_id": "0029_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0029_a2-L20_03.jpg",
-   "line": 719,
-   "doc_line": 41
+   "page": 1,
+   "page_id": "0036_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0036_a2-L20_01.jpg",
+   "line": 891,
+   "doc_line": 18
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "To the widowed Colonel's wife von Brehmer, by way of resolution: The representation addressed by her under the 26th of April of this year to the Prince State Chancellor was transmitted by His Serene Highness to the section chief for further action. In order that she may be satisfied, out of the remaining property of the Prince, her debtor, as regards the capital of 5,000 Rthl lent by her to the Prince of Hohenlohe-Ingelfingen and registered upon the estate of Szetlewek confiscated in the year 1807, it is [uncertain: Inverderst] necessary that he be sued before his judicial authority: so that the claim may stand established at law, and may be [uncertain: berüber.] adjusted, in case the Russian",
+   "en": "In conformity with Your Right Honourable's esteemed letter of the 29th of April of this year, I delivered on the 17th/5th of May a note to Count Nesselrode in the matter of the Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, and in a later note of the 1st of August/20th of July I likewise brought up for discussion the circumstance touched upon in the order of the 29th of June. Only under yesterday's date has an answer to this been given me, which, as Your Right Honourable will be graciously pleased to see from the enclosure in copy, has turned out to be a refusal. St Petersburg, the 23rd/11th of November 1816. Fr. von Schöler. To the Most Laudable 3rd Section of the Royal Ministry of Foreign Affairs.\n\n[Written by the receiving office:]\n\nCouncillor of Legation Balan\n\nc. a. No. 9882. B. received 8 December 1816.\n\nTo the Prince of Hohenlohe\n\nCopy of the enclosure\n\nB[erlin] 9/12 [18]16",
    "names": [
     {
-     "de": "von Brehmer",
-     "en": "von Brehmer",
+     "de": "Nesselrode",
+     "en": "Nesselrode",
      "kind": "person"
     },
     {
-     "de": "Fürsten Staatskanzler",
-     "en": "Prince State Chancellor",
-     "kind": "other"
-    },
-    {
-     "de": "Fürsten von Hohenlohe Ingelfingen",
-     "en": "Prince of Hohenlohe-Ingelfingen",
-     "kind": "person"
-    },
-    {
-     "de": "Szettlewek",
-     "en": "Szettlewek",
-     "kind": "place"
-    }
-   ],
-   "numbers": [
-    "26",
-    "1807",
-    "5000"
-   ]
-  },
-  {
-   "page": 2,
-   "en": "Emperor's Majesty should be pleased to declare himself inclined [uncertain: Ingenähmen] the Prince some compensation on account of the loss of Szetlewek and Trąbczyn.\n\nB[erlin], 18 June [18]16.\n\nB[alan].\n\n2. To Mr von Schöler [uncertain: in] St Petersburg, with reference to the letter of 29 April\n\nof this year, it is to be communicated: that since the Prince of Hohenlohe has let Trąbczyn together with its appurtenances deteriorate and has loaded it with debts, the mortgage creditors, through the confiscation of the estate which took place in the year 1807, are in danger of losing the capitals lent out; that it is left to his discretion, when he supports the claim for compensation",
-   "names": [
-    {
-     "de": "Szettlewek",
-     "en": "Szettlewek",
-     "kind": "place"
-    },
-    {
-     "de": "Trąbczyn",
-     "en": "Trąbczyn",
-     "kind": "place"
-    },
-    {
-     "de": "B[erlin]",
-     "en": "B[erlin]",
-     "kind": "place"
-    },
-    {
-     "de": "B[alan]",
-     "en": "B[alan]",
-     "kind": "person"
-    },
-    {
-     "de": "Herrn von Schoeler",
-     "en": "Mr von Schöler",
+     "de": "Fürsten Friedrich Ludwig von Hohenlohe Ingelfingen",
+     "en": "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen",
      "kind": "person"
     },
     {
      "de": "St. Petersburg",
      "en": "St Petersburg",
      "kind": "place"
-    }
-   ],
-   "numbers": [
-    "18",
-    "16",
-    "29",
-    "1807"
-   ]
-  },
-  {
-   "page": 3,
-   "en": "of the Prince before His Majesty the Emperor, to bring this circumstance also into discussion: at the same time etc. he is requested: in case His Majesty the Emperor should be pleased to grant the Prince some compensation, to inform the section chief thereof without delay, so that the said creditors may be caused to pursue their rights further.\n\nB[erlin], 15 June [18]16.\n\nB[alan].",
-   "names": [
+    },
+    {
+     "de": "Fr. von Schöler",
+     "en": "Fr. von Schöler",
+     "kind": "person"
+    },
+    {
+     "de": "Balan",
+     "en": "Balan",
+     "kind": "person"
+    },
+    {
+     "de": "Fürst zu Hohenlohe",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
     {
      "de": "B[erlin]",
      "en": "B[erlin]",
      "kind": "place"
-    },
-    {
-     "de": "B[alan]",
-     "en": "B[alan]",
-     "kind": "person"
     }
    ],
    "numbers": [
-    "15",
+    "29sten",
+    "17/5ten",
+    "1sten",
+    "20ten",
+    "29sten",
+    "23/11ten",
+    "1816",
+    "9882",
+    "8",
+    "1816",
+    "9/12",
     "16"
    ]
   }
  ],
- "text_english": "To the widowed Colonel's wife von Brehmer, by way of resolution: The representation addressed by her under the 26th of April of this year to the Prince State Chancellor was transmitted by His Serene Highness to the section chief for further action. In order that she may be satisfied, out of the remaining property of the Prince, her debtor, as regards the capital of 5,000 Rthl lent by her to the Prince of Hohenlohe-Ingelfingen and registered upon the estate of Szetlewek confiscated in the year 1807, it is [uncertain: Inverderst] necessary that he be sued before his judicial authority: so that the claim may stand established at law, and may be [uncertain: berüber.] adjusted, in case the Russian\n\nEmperor's Majesty should be pleased to declare himself inclined [uncertain: Ingenähmen] the Prince some compensation on account of the loss of Szetlewek and Trąbczyn.\n\nB[erlin], 18 June [18]16.\n\nB[alan].\n\n2. To Mr von Schöler [uncertain: in] St Petersburg, with reference to the letter of 29 April\n\nof this year, it is to be communicated: that since the Prince of Hohenlohe has let Trąbczyn together with its appurtenances deteriorate and has loaded it with debts, the mortgage creditors, through the confiscation of the estate which took place in the year 1807, are in danger of losing the capitals lent out; that it is left to his discretion, when he supports the claim for compensation\n\nof the Prince before His Majesty the Emperor, to bring this circumstance also into discussion: at the same time etc. he is requested: in case His Majesty the Emperor should be pleased to grant the Prince some compensation, to inform the section chief thereof without delay, so that the said creditors may be caused to pursue their rights further.\n\nB[erlin], 15 June [18]16.\n\nB[alan].",
- "summary_en": "Two orders: the widow von Brehmer is to be informed that, in respect of her capital of 5,000 Rthl registered against Szetlewek, she must first sue the Prince before his own court, so that the claim is legally established. Schöler is to be told that the mortgage creditors are in danger of losing their capital, since the Prince is said to have let Trąbczyn deteriorate and to have burdened it with debts; he is to report if the Emperor grants compensation.",
- "summary_de": "Zwei Verfügungen: Der Witwe von Brehmer ist zu eröffnen, sie müsse den Fürsten wegen ihres auf Szetlewek eingetragenen Kapitals von 5000 Rthl zuerst vor seiner Gerichtsbehörde belangen, damit der Anspruch rechtlich feststehe. Schöler ist mitzuteilen, dass die hypothekarischen Gläubiger Gefahr laufen, ihre Kapitalien zu verlieren, da der Fürst Trąbczyn deterioriert und mit Schulden belastet habe; er soll berichten, falls der Kaiser eine Entschädigung gewährt.",
+ "text_english": "In conformity with Your Right Honourable's esteemed letter of the 29th of April of this year, I delivered on the 17th/5th of May a note to Count Nesselrode in the matter of the Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, and in a later note of the 1st of August/20th of July I likewise brought up for discussion the circumstance touched upon in the order of the 29th of June. Only under yesterday's date has an answer to this been given me, which, as Your Right Honourable will be graciously pleased to see from the enclosure in copy, has turned out to be a refusal. St Petersburg, the 23rd/11th of November 1816. Fr. von Schöler. To the Most Laudable 3rd Section of the Royal Ministry of Foreign Affairs.\n\n[Written by the receiving office:]\n\nCouncillor of Legation Balan\n\nc. a. No. 9882. B. received 8 December 1816.\n\nTo the Prince of Hohenlohe\n\nCopy of the enclosure\n\nB[erlin] 9/12 [18]16",
+ "summary_en": "Schöler reports to the ministry from St Petersburg that on 17 May he handed Count Nesselrode a note in the Prince's matter, and that in a later note of 1 August he raised the point touched on in the order of 29 June. He says the answer, given only yesterday, was a refusal. The ministry directs that a Copy of the enclosure be sent to the Prince.",
+ "summary_de": "Schöler berichtet dem Ministerium aus St. Petersburg, er habe am 17. Mai dem Grafen Nesselrode eine Note in der Angelegenheit des Fürsten übergeben und in einer späteren Note vom 1. August den im Erlass vom 29. Juni berührten Umstand zur Sprache gebracht. Die erst gestern erteilte Antwort sei abschlägig ausgefallen. Das Ministerium verfügt, dem Fürsten Abschrift der Anlage zu senden.",
  "reading": {
   "letter": "20",
-  "legibility": "partly garbled",
-  "notes": "Minute of two decisions by Balan, Berlin, 15 and 18 June 1816; badly read in places. 1. A resolution for the widow von Brehmer: her petition was passed by Hardenberg to the section chief; to be paid her 5,000 rt, once registered on Szettlewek, from the Prince's other property she must first sue him before his own court, so that the claim is legally established and can be considered if the Russian Emperor grants the Prince compensation for Szettlewek and Trąbczyn. 2. Schöler is to be told, with reference to the letter of 29 April, that since the Prince ran Trąbczyn down and loaded it with debt the mortgage creditors risk losing their capital; he may raise this when supporting the Prince's request, and is asked to report at once if the Emperor grants compensation, so that the creditors can pursue their rights.",
+  "legibility": "sound",
+  "notes": "Schöler to the third section of the foreign ministry, St Petersburg, 23 November 1816 (11 November old style). As instructed on 29 April he handed Count Nesselrode a note on the Prince's matter on 17 May, and in a later note of 1 August raised the circumstance mentioned in the order of 29 June. Only yesterday did he receive an answer, enclosed in copy: a refusal. The office (Balan, received 8 December 1816) ordered a copy of the enclosure sent to the Prince.",
   "claims": [
    {
-    "statement": "Die Vorstellung der Witwe von Brehmer vom 26. April sei von Hardenberg dem Sektionschef zugefertigt worden",
+    "statement": "Schöler übergab am 17. Mai dem Grafen Nesselrode eine Note in der Angelegenheit des Fürsten und brachte in einer späteren Note vom 1. August den im Erlass vom 29. Juni berührten Umstand zur Sprache",
     "lines": [
      1,
      2,
      3,
      4,
      5
-    ],
-    "check": "overstated",
-    "why": "Im Brief steht nur 'Fürsten Staatskanzler' bzw. 'seiner Durchlaucht'. Der Name Hardenberg kommt nicht vor. Datum und Weiterleitung an den Sektionschef sind belegt (Z. 2-5)."
-   },
-   {
-    "statement": "Um wegen ihres auf Szettlewek eingetragenen Kapitals von 5000 Rthl aus dem übrigen Vermögen des Fürsten befriedigt zu werden, müsse sie ihn zuerst vor seiner Gerichtsbehörde belangen, damit der Anspruch rechtlich feststehe",
-    "lines": [
-     6,
-     7,
-     8,
-     9,
-     10,
-     11,
-     12,
-     13,
-     14,
-     15
     ]
    },
    {
-    "statement": "Schöler soll eröffnet werden, dass die hypothekarischen Gläubiger durch die Einziehung des Gutes 1807 Gefahr laufen, ihre Kapitalien zu verlieren, da der Fürst Trąbczyn deterioriert und mit Schulden belastet habe; er möge dies zur Sprache bringen",
+    "statement": "Die erst gestern erteilte Antwort ist abschlägig ausgefallen",
     "lines": [
-     22,
-     23,
-     24,
-     25,
-     26,
-     27,
-     28,
-     29,
-     30,
-     31,
-     32,
-     33
-    ],
-    "check": "overstated",
-    "why": "Die Begründung steht in Z. 24-30. Das Zur-Sprache-Bringen wird ihm aber nur 'anheim gegeben' und gilt nur für den Fall, dass er das Entschädigungsgesuch des Fürsten beim Kaiser unterstützt (Z. 30-33). Diese Bedingung fehlt im Claim."
+     6,
+     7,
+     8
+    ]
    },
    {
-    "statement": "Schöler wird ersucht, den Sektionschef unverzüglich zu unterrichten, falls der Kaiser dem Fürsten eine Entschädigung gewährt, damit die Gläubiger ihre Gerechtsame verfolgen können",
+    "statement": "Verfügung: dem Fürsten zu Hohenlohe Abschrift der Anlage (Berlin, 9. Dezember 1816)",
     "lines": [
-     34,
-     35,
-     36,
-     37,
-     38,
-     39,
-     40
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
     ]
    }
   ],
   "doubtful_words": [
    {
-    "line": 12,
-    "word": "Inverderst[?]",
-    "note": "probably 'Zuvörderst'"
-   },
-   {
-    "line": 14,
-    "word": "berüber.",
-    "note": "garbled; with the next line probably 'berücksichtigt'"
-   },
-   {
-    "line": 19,
-    "word": "Ingenähmen[?]",
-    "note": "probably 'zu gewähren'"
-   },
-   {
-    "line": 36,
-    "word": "In genähmen geraten",
-    "note": "probably 'zu gewähren geruhen'"
+    "line": 5,
+    "word": "Erlasse vom 29sten Juny",
+    "note": "the draft of that order is dated 22 June and headed 29 June (documents 21 and 22)"
    }
   ],
-  "read_against": "11f9eada95999323"
+  "read_against": "b852c5313a9a6f7f"
  }
 }

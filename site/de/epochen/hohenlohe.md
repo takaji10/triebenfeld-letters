@@ -311,7 +311,7 @@ mit Kamionna sei
 Bittschrift vom März 1815 gibt den Ablauf an: vierzehn Wochen nach dem Frieden nahm eine
 polnische Verwaltungskommission ohne jedes gerichtliche Urteil alle Güter in Besitz und gab
 sie Prusimskis Tochter
-([Bittschrift]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }});
+([Bittschrift]({{ '/documents/iiihamdaiiinr12765/2/' | relative_url }});
 [Brief 265b]({{ '/documents/oe1bu9454/265b/' | relative_url }})).
 
 Die Klägerin war Michalina Prusimska, die in den Briefen unter mehreren Namen erscheint:
@@ -363,7 +363,7 @@ als [Brief 48]({{ '/documents/oe1bu9454/48/' | relative_url }}) und
 [Brief 302]({{ '/documents/oe1bu9454/302/' | relative_url }}). Hohenlohe-Ingelfingen klagte
 auch auf die Güter selbst; das Tribunal in Kalisz, das Gericht des Herzogtums Warschau für das
 Departement, erklärte sich für nicht befugt, die Anordnung der Kommission aufzuheben
-([Bittschrift von 1815]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }})).
+([Bittschrift von 1815]({{ '/documents/iiihamdaiiinr12765/2/' | relative_url }})).
 
 Im Januar 1811 führte Triebenfeld nach eigener Zählung
 [einunddreißig Prozesse zugleich]({{ '/documents/oe1bu9454/212/' | relative_url }}) und brachte
@@ -393,7 +393,7 @@ und Christoph Schoenfisch aus Trąbczyner Holländ. Unterzeichnet ist er mit Han
 Nach Napoleons Niederlage war die Zukunft des Herzogtums Warschau offen, und
 Hohenlohe-Ingelfingen verlangte die Rückgabe der Güter oder eine Entschädigung. Triebenfeld
 wandte sich im Mai 1814 in Paris an den Staatskanzler Hardenberg
-([Bittschrift]({{ '/documents/iiihamdaiiinr12765/3/' | relative_url }})) und ging dann zum
+([Bittschrift]({{ '/documents/iiihamdaiiinr12765/1/' | relative_url }})) und ging dann zum
 Wiener Kongress.
 
 Er [kam im Oktober 1814 an]({{ '/documents/oe1bu9454/242/' | relative_url }}), nach drei Tagen
@@ -410,15 +410,15 @@ Goldene Ente in der Schulerstraße.
 Im Oktober 1814 und im März 1815 wandte er sich erneut an Hardenberg. Die Bittschrift vom März
 1815 legt den ganzen Fall dar und verlangt die Rückgabe der Trąbczyner Güter mit neun
 Jahreserträgen, 36.500 Reichstaler
-([Bittschrift]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }})). Wilhelm von
+([Bittschrift]({{ '/documents/iiihamdaiiinr12765/2/' | relative_url }})). Wilhelm von
 Humboldt [nahm sich der Sache an]({{ '/documents/oe1bu9454/250/' | relative_url }}) und
 verlangte Abschriften von allem, und Hardenberg soll Hohenlohe-Ingelfingen
 [den am schlechtesten Behandelten]({{ '/documents/oe1bu9454/262/' | relative_url }}) genannt
 haben. Hohenlohe-Ingelfingen schrieb selbst, im April 1815 an den Freiherrn vom Stein und im
 Mai an Hardenberg. Im ersten Brief gab er seinen Verlust mit 325.400 Reichstalern an, im zweiten
 mit über 261.000, und im zweiten bat er um die Krondomäne Sokolnik als Entschädigung
-([an Stein]({{ '/documents/iiihamdaiiinr12765/6/' | relative_url }});
-[an Hardenberg]({{ '/documents/iiihamdaiiinr12765/8/' | relative_url }})). Die Antworten
+([an Stein]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }});
+[an Hardenberg]({{ '/documents/iiihamdaiiinr12765/6/' | relative_url }})). Die Antworten
 vertrösteten auf die Regelung der polnischen Angelegenheiten.
 
 Wem die Güter künftig gehören würden, hing vom Verlauf der neuen Grenze ab. Die Prosna sollte
@@ -438,17 +438,17 @@ preußischen Beamten in Poznań. Er kam am 2. November 1815 und fiel gegen die F
 er verwarf die für Hohenlohe-Ingelfingen vorgelegten Berechnungen, erklärte, dieser habe
 Trąbczyn verkommen lassen und mit Schulden belastet, und schloss, Preußen könne nur die
 russische Regierung um eine Entscheidung bitten
-([Bericht]({{ '/documents/iiihamdaiiinr12765/14/' | relative_url }})). Im April 1816 wies das
+([Bericht]({{ '/documents/iiihamdaiiinr12765/10/' | relative_url }})). Im April 1816 wies das
 Ministerium den preußischen Gesandten in St. Petersburg, Generalmajor von Schöler, an, die
 Sache dem Kaiser allgemein und ohne Nachdruck vorzutragen, da eine Entschädigung eine Sache der
-Gnade sei ([Weisung]({{ '/documents/iiihamdaiiinr12765/15/' | relative_url }})). Am 23. November
+Gnade sei ([Weisung]({{ '/documents/iiihamdaiiinr12765/11/' | relative_url }})). Am 23. November
 1816 meldete Schöler, das russische Ministerium habe abgelehnt
-([Bericht]({{ '/documents/iiihamdaiiinr12765/25/' | relative_url }})).
+([Bericht]({{ '/documents/iiihamdaiiinr12765/20/' | relative_url }})).
 
 Auch die Gläubiger warteten. Im April 1816 forderte die Witwe des Obersten von Brehmer die
 5.000 Reichstaler, die ihr Bruder Hohenlohe-Ingelfingen 1803 auf Szetlewek geliehen hatte und
 für die weder Kapital noch Zinsen gezahlt worden waren
-([Bittschrift]({{ '/documents/iiihamdaiiinr12765/19/' | relative_url }})). Ein Vermerk auf
+([Bittschrift]({{ '/documents/iiihamdaiiinr12765/15/' | relative_url }})). Ein Vermerk auf
 ihrer Bittschrift hält fest, eine russische Entschädigung müsse den auf den Gütern
 eingetragenen Gläubigern zufallen.
 
@@ -492,9 +492,9 @@ Hohenlohe-Ingelfingen starb 1818 in Sławięcice in Oberschlesien. Seine Erben e
 Forderung, und Herzog Eugen von Württemberg empfahl sie der russischen Regierung unter Hinweis
 auf zwei entschädigte preußische Generale. Am 31. Januar 1820 antwortete der russische Gesandte
 in Berlin, Alopeus, die Forderung sei 1816 abgelehnt worden, und der Kaiser könne der
-Empfehlung nicht folgen ([Note]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }})). Das
+Empfehlung nicht folgen ([Note]({{ '/documents/iiihamdaiiinr12765/22/' | relative_url }})). Das
 preußische Ministerium unternahm nichts weiter und gab die Sache an den Minister des Innern ab
-([Mai 1820]({{ '/documents/iiihamdaiiinr12765/29/' | relative_url }})).
+([Mai 1820]({{ '/documents/iiihamdaiiinr12765/23/' | relative_url }})).
 
 Die Schulden, die Hohenlohe-Ingelfingen auf Trąbczyn hatte eintragen lassen, überdauerten ihn.
 Im Januar 1819 verlangte Prusimskis Tochter, inzwischen Gräfin Miączyńska, über den russischen
@@ -587,9 +587,9 @@ Fünfzehn Dokumente, in der Reihenfolge der Geschichte.
 10. [Brief 179a]({{ '/documents/oe1bu9454/179a/' | relative_url }}), was die Güter 1806 einbrachten
 11. [Brief 28]({{ '/documents/oe1bu9454/28/' | relative_url }}), die Übernahme der Güter 1807
 12. [Brief 212]({{ '/documents/oe1bu9454/212/' | relative_url }}), einunddreißig Prozesse
-13. [Die Bittschrift vom März 1815]({{ '/documents/iiihamdaiiinr12765/4/' | relative_url }}), der ganze Fall, wie Triebenfeld ihn darstellte
-14. [Zerboni di Sposettis Bericht]({{ '/documents/iiihamdaiiinr12765/14/' | relative_url }}), der Fall aus der Sicht der preußischen Beamten
-15. [Alopeus' Note von 1820]({{ '/documents/iiihamdaiiinr12765/27/' | relative_url }}), die endgültige Ablehnung
+13. [Die Bittschrift vom März 1815]({{ '/documents/iiihamdaiiinr12765/2/' | relative_url }}), der ganze Fall, wie Triebenfeld ihn darstellte
+14. [Zerboni di Sposettis Bericht]({{ '/documents/iiihamdaiiinr12765/10/' | relative_url }}), der Fall aus der Sicht der preußischen Beamten
+15. [Alopeus' Note von 1820]({{ '/documents/iiihamdaiiinr12765/22/' | relative_url }}), die endgültige Ablehnung
 
 ## Ereignisse dieser Epoche
 

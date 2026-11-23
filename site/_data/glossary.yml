@@ -17,7 +17,7 @@
   initial_en: "R"
   sort_de: "reichsthaler"
   initial_de: "R"
-  docs: 273
+  docs: 272
 - id: "courant"
   kind: "money"
   lang: "de"
@@ -929,7 +929,7 @@
   initial_en: "C"
   sort_de: "kriegsrath"
   initial_de: "K"
-  docs: 61
+  docs: 60
 - id: "hofrath"
   kind: "title"
   lang: "de"
@@ -1879,7 +1879,7 @@
   initial_en: "S"
   sort_de: "durchlaucht"
   initial_de: "D"
-  docs: 362
+  docs: 360
 - id: "liebden"
   kind: "title"
   lang: "de"
@@ -1917,7 +1917,7 @@
   initial_en: "H"
   sort_de: "hochwohlgeboren"
   initial_de: "H"
-  docs: 106
+  docs: 103
 - id: "ew"
   kind: "title"
   lang: "de"
@@ -1936,7 +1936,7 @@
   initial_en: "E"
   sort_de: "ew., ewr, sr., ihro, dero"
   initial_de: "E"
-  docs: 360
+  docs: 358
 - id: "herr-abbrev"
   kind: "title"
   lang: "de"
@@ -1955,7 +1955,7 @@
   initial_en: "H"
   sort_de: "h., dh., hl."
   initial_de: "H"
-  docs: 172
+  docs: 171
 - id: "closing-formulas"
   kind: "phrase"
   lang: "de"
@@ -2164,7 +2164,7 @@
   initial_en: "D"
   sort_de: "d. j., a. c., ej. a."
   initial_de: "D"
-  docs: 38
+  docs: 37
 - id: "pct"
   kind: "phrase"
   lang: "la"

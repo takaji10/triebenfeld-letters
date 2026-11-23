@@ -6,7 +6,7 @@ lang: de
 permalink: "/de/orte/boleslawice/"
 alt_url: "/places/boleslawice/"
 excerpt_separator: ""
-hits_docs: [{"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "8", "uid": "iiihamdaiiinr12765-8", "url": "/documents/iiihamdaiiinr12765/8/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
+hits_docs: [{"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "iiihamdaiiinr12765-6", "url": "/documents/iiihamdaiiinr12765/6/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
 hits_docs_count: 2
 ---
 

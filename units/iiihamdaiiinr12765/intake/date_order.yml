@@ -8,25 +8,25 @@ moves:
   - '1814.'
   after: v Triebenfeld
   note: pilot; the office note of receipt (office_notes.yml) follows the signature and is not moved
-- letter: '4'
+- letter: '2'
   date:
   - Wien den 2ten Mertz
   - '1815'
   after: v. Triebenfeld
   note: read by the Sonnet reader and Claude; date between salutation 103 and closing formula 106/signature 107; later lines 108-110 are address and note
-- letter: '6'
+- letter: '4'
   date:
   - Slawenziz le 12. Avril
   - '1815.'
   after: Frederic Louis Pr. de Hohenlohe.
   note: read by the Sonnet reader and Claude; date between salutation 162 and closing formula 165, signature 166
-- letter: '8'
+- letter: '6'
   date:
   - Schlawenschitz
   - den 12 May 1815.
   after: F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.
   note: read by the Sonnet reader and Claude; place and date between salutation 217 and closing formula 220
-- letter: '19'
+- letter: '15'
   date:
   - Sommerfeld
   - d. 26ten April 1816.

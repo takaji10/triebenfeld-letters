@@ -21,62 +21,124 @@
  "sender": "von Triebenfeld",
  "recipient": "Hardenberg",
  "line_start": 9,
- "line_end": 27,
+ "line_end": 57,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
  "duplicate_of": "",
- "relations": [
-  {
-   "kind": "transmits",
-   "target": "3",
-   "note": "Triebenfeld encloses a copy of Hardenberg's resolution of 14 May 1814 ('lege ich in Abschrift hier bey'); document 3 is that copy."
-  }
- ],
+ "relations": [],
  "estates": [
-  "trabczyn"
+  "trabczyn",
+  "kamionno"
  ],
  "is_missing": 0,
- "n_lines": 17,
- "n_pages": 1,
- "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden¬\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\ntreu gehorsamster Knecht\nv Triebenfeld\nWien den 25ten Octobr.\n1814.\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster",
- "text_reading": "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht treu gehorsamster Knecht\n\nv Triebenfeld\n\nWien den 25ten Octobr. 1814.\n\nAn des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster",
+ "n_lines": 46,
+ "n_pages": 2,
+ "text": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden¬\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\ntreu gehorsamster Knecht\nv Triebenfeld\nWien den 25ten Octobr.\n1814.\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster\nNo. 569\nWien d. 25 Nov [18]14\nAn\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol.\nhieselbst\nIn p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit\ndes H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und\nKaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort\nbegriffene allgemeine Auseinändersezung und Uebereinkunft wegen des\nHerzogthums Warschau zur Ausführung kommen wird.\nW. d. Nov 14.\nSt[ä]g[emann].\nH[arden]b[er]g.\nAbschrift\nDie Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen\nKöniges Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst\nals dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn\nüber die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind.\nZur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das\nmir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des\nHerrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück\nzu halten, welches ich Sie ersuche demselben zu eröffnen.\nParis den 14ten May 1814.\nHardenberg\nAn\nden Königlichen Kriegesrath\nHerrn von Triebenfeld\nHochwohlgeborn\nhier.",
+ "text_reading": "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht treu gehorsamster Knecht v Triebenfeld\n\nWien den 25ten Octobr. 1814.\n\nAn des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster\n\nNo. 569\n\nWien d. 25 Nov [18]14\n\nAn\n\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol. hieselbst In p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit des H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort begriffene allgemeine Auseinändersezung und Uebereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. W. d. Nov 14.\n\nSt[ä]g[emann].\n\nH[arden]b[er]g.\n\nAbschrift Die Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen Königes Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst als dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn über die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind. Zur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das mir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des Herrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück zu halten, welches ich Sie ersuche demselben zu eröffnen. Paris den 14ten May 1814.\n\nHardenberg\n\nAn\n\nden Königlichen Kriegesrath\n\nHerrn von Triebenfeld\n\nHochwohlgeborn\n\nhier.",
  "pages": [
   {
    "page": 1,
    "page_id": "0003_a2",
    "line_start": 11,
-   "line_end": 27,
-   "n_lines": 17,
-   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden¬\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\ntreu gehorsamster Knecht\nv Triebenfeld\nWien den 25ten Octobr.\n1814.\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster",
-   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden-\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\ntreu gehorsamster Knecht\nv Triebenfeld\nWien den 25ten Octobr.\n1814.\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster",
-   "reading": "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht treu gehorsamster Knecht\n\nv Triebenfeld\n\nWien den 25ten Octobr. 1814.\n\nAn des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster",
+   "line_end": 40,
+   "n_lines": 30,
+   "diplomatic": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden¬\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\ntreu gehorsamster Knecht\nv Triebenfeld\nWien den 25ten Octobr.\n1814.\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster\nNo. 569\nWien d. 25 Nov [18]14\nAn\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol.\nhieselbst\nIn p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit\ndes H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und\nKaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort\nbegriffene allgemeine Auseinändersezung und Uebereinkunft wegen des\nHerzogthums Warschau zur Ausführung kommen wird.\nW. d. Nov 14.\nSt[ä]g[emann].\nH[arden]b[er]g.",
+   "transcription": "Durchlauchtigster Fürst\nGnädigster Fürst und Herr!\nEwr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein\nSchreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät.\nDie mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift\nhier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew.\nHochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheiden-\nden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe\nzu erflehen. In unbegränzter Ehrfurcht ersterbe\nEwr Hochfürstliche Durchlaucht\ntreu gehorsamster Knecht\nv Triebenfeld\nWien den 25ten Octobr.\n1814.\nAn des Gen. Geh. St. R. Stägemann hochw.\nabgegeben. Wien 20. Nov. 1814.\nKüster\nNo. 569\nWien d. 25 Nov [18]14\nAn\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol.\nhieselbst\nIn p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit\ndes H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und\nKaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort\nbegriffene allgemeine Auseinändersezung und Uebereinkunft wegen des\nHerzogthums Warschau zur Ausführung kommen wird.\nW. d. Nov 14.\nSt[ä]g[emann].\nH[arden]b[er]g.",
+   "reading": "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht treu gehorsamster Knecht v Triebenfeld\n\nWien den 25ten Octobr. 1814.\n\nAn des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster\n\nNo. 569\n\nWien d. 25 Nov [18]14\n\nAn\n\nd. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol. hieselbst In p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit des H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort begriffene allgemeine Auseinändersezung und Uebereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. W. d. Nov 14.\n\nSt[ä]g[emann].\n\nH[arden]b[er]g.",
    "paragraphs": [
-    "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht treu gehorsamster Knecht",
-    "v Triebenfeld",
+    "Durchlauchtigster Fürst Gnädigster Fürst und Herr! Ewr Hochfürstliche Durchlaucht übereichte ich unterm 6ten May dieses Jahres in Paris ein Schreiben des Fürsten Hohenlohe an des Rußischen Kaisers Magestät. Die mir darauf unterm 14ten May höchst gnädigst ertheilte Resolution lege ich in Abschrift hier bey, und bitte allergehorsamst um höchſt gnädige Nachſicht, daß ich es wage, bey Ew. Hochfürstliche Durchlaucht, diese für den Fürsten so wichtige Sache in den jezt so entscheidenden Zeitpunkt wieder in Erinnerung zu bringen, und Ewer Hochfürstliche Durchlaucht Hülfe zu erflehen. In unbegränzter Ehrfurcht ersterbe Ewr Hochfürstliche Durchlaucht treu gehorsamster Knecht v Triebenfeld",
     "Wien den 25ten Octobr. 1814.",
-    "An des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster"
+    "An des Gen. Geh. St. R. Stägemann hochw. abgegeben. Wien 20. Nov. 1814. Küster",
+    "No. 569",
+    "Wien d. 25 Nov [18]14",
+    "An",
+    "d. H[err]. K[riegs]. u. F[orst]. R[ath]. v. Triebenfeld Hochwol. hieselbst In p. benachrichtige ich auf Ihr Gesuch vom 25 v M. daß die Angelegenheit des H. Fürsten Hohenlohe in Betref der Ansprüche auf Trąbczyn und Kaemen sich von selbst ausgleichen werde, sobald die jetzt im Wort begriffene allgemeine Auseinändersezung und Uebereinkunft wegen des Herzogthums Warschau zur Ausführung kommen wird. W. d. Nov 14.",
+    "St[ä]g[emann].",
+    "H[arden]b[er]g."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
-   "continues_next": false,
+   "continues_next": true,
    "para_lines": [
-    11,
-    12
+    12,
+    17,
+    18,
+    19,
+    20,
+    28,
+    29
    ],
-   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
    "office_lines": [
     14,
     15,
     16
    ],
    "office_paragraphs": [
-    3
+    2
+   ],
+   "hand_lines": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ],
+   "hand_paragraphs": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
    ],
    "doc_line_start": 1,
-   "doc_line_end": 17
+   "doc_line_end": 30
+  },
+  {
+   "page": 2,
+   "page_id": "0004_a2",
+   "line_start": 42,
+   "line_end": 57,
+   "n_lines": 16,
+   "diplomatic": "Abschrift\nDie Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen\nKöniges Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst\nals dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn\nüber die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind.\nZur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das\nmir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des\nHerrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück\nzu halten, welches ich Sie ersuche demselben zu eröffnen.\nParis den 14ten May 1814.\nHardenberg\nAn\nden Königlichen Kriegesrath\nHerrn von Triebenfeld\nHochwohlgeborn\nhier.",
+   "transcription": "Abschrift\nDie Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen\nKöniges Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst\nals dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn\nüber die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind.\nZur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das\nmir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des\nHerrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück\nzu halten, welches ich Sie ersuche demselben zu eröffnen.\nParis den 14ten May 1814.\nHardenberg\nAn\nden Königlichen Kriegesrath\nHerrn von Triebenfeld\nHochwohlgeborn\nhier.",
+   "reading": "Abschrift Die Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen Königes Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst als dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn über die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind. Zur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das mir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des Herrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück zu halten, welches ich Sie ersuche demselben zu eröffnen. Paris den 14ten May 1814.\n\nHardenberg\n\nAn\n\nden Königlichen Kriegesrath\n\nHerrn von Triebenfeld\n\nHochwohlgeborn\n\nhier.",
+   "paragraphs": [
+    "Abschrift Die Ansprüche des Herrn Fürsten von Hohenlohe auf die ihm im Jahre 1796, von des Hochseeligen Königes Majestät geschenkten Sudpreußischen Güter, Trąbczyn und Kaemen werden nur erst als dann mit einigen muthmaßlichem Erfolge in Anregung gebracht werden können, wenn über die Warschauer Angelegenheiten überhaupt definitive Bestimmungen erfolgt sind. Zur Zeit ist dies noch nicht der Fall, und ich habe es daher auch für das beste gehalten, das mir von Ewr Hochwohlgeboren mit ihrer Zuschrift von 6 t. d. Mts überreichte Schreiben des Herrn Fürsten an des Kaysers Allexander Majestät, bis zum Eintritt jenes Zeitpunkts zurück zu halten, welches ich Sie ersuche demselben zu eröffnen. Paris den 14ten May 1814.",
+    "Hardenberg",
+    "An",
+    "den Königlichen Kriegesrath",
+    "Herrn von Triebenfeld",
+    "Hochwohlgeborn",
+    "hier."
+   ],
+   "sideways_lines": [],
+   "sideways_paragraphs": [],
+   "continues_previous": true,
+   "continues_next": false,
+   "para_lines": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "doc_line_start": 31,
+   "doc_line_end": 46
   }
  ],
  "mentions": [
@@ -87,7 +149,7 @@
    "surface": "Hohenlohe",
    "page": 1,
    "page_id": "0003_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
    "line": 14,
    "doc_line": 4
   },
@@ -98,7 +160,7 @@
    "surface": "Triebenfeld",
    "page": 1,
    "page_id": "0003_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
    "line": 22,
    "doc_line": 12
   },
@@ -109,7 +171,7 @@
    "surface": "Stägemann",
    "page": 1,
    "page_id": "0003_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
    "line": 25,
    "doc_line": 15
   },
@@ -120,9 +182,97 @@
    "surface": "Küster",
    "page": 1,
    "page_id": "0003_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
    "line": 27,
    "doc_line": 17
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
+   "line": 31,
+   "doc_line": 21
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
+   "line": 34,
+   "doc_line": 24
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface": "St[ä]g[emann]",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
+   "line": 39,
+   "doc_line": 29
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface": "H[arden]b[er]g",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
+   "line": 40,
+   "doc_line": 30
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 2,
+   "page_id": "0004_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "line": 43,
+   "doc_line": 32
+  },
+  {
+   "entity": "kaiser-alexander",
+   "display": "Kaiser Alexander I.",
+   "kind": "person",
+   "surface": "Allexander",
+   "page": 2,
+   "page_id": "0004_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "line": 49,
+   "doc_line": 38
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface": "Hardenberg",
+   "page": 2,
+   "page_id": "0004_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "line": 52,
+   "doc_line": 41
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface": "Triebenfeld",
+   "page": 2,
+   "page_id": "0004_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "line": 55,
+   "doc_line": 44
   }
  ],
  "mentions_english": [
@@ -173,6 +323,134 @@
    "surface_de": "Küster",
    "surface_en": "Küster",
    "page": 1
+  },
+  {
+   "entity": "triebenfeld",
+   "display": "v. Triebenfeld",
+   "kind": "person",
+   "surface_de": "v. Triebenfeld",
+   "surface_en": "von Triebenfeld",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Fürsten Hohenlohe",
+   "surface_en": "Prince of Hohenlohe",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Duchy of Warsaw",
+   "kind": "place",
+   "surface_de": "Herzogthums Warschau",
+   "surface_en": "Duchy of Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "staegemann",
+   "display": "Stägemann",
+   "kind": "person",
+   "surface_de": "St[ä]g[emann]",
+   "surface_en": "Stägemann",
+   "page": 1
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "H[arden]b[er]g",
+   "surface_en": "Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "the Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Herrn Fürsten von Hohenlohe",
+   "surface_en": "the Prince of Hohenlohe",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Kamionna",
+   "kind": "place",
+   "surface_de": "Kaemen",
+   "surface_en": "Kamionna",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "South Prussian",
+   "kind": "place",
+   "surface_de": "Sudpreußischen",
+   "surface_en": "South Prussian",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Warsaw",
+   "kind": "place",
+   "surface_de": "Warschauer",
+   "surface_en": "Warsaw",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "the Emperor Alexander",
+   "kind": "person",
+   "surface_de": "Kaysers Allexander",
+   "surface_en": "the Emperor Alexander",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Paris",
+   "kind": "place",
+   "surface_de": "Paris",
+   "surface_en": "Paris",
+   "page": 2
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface_de": "Hardenberg",
+   "surface_en": "Hardenberg",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "Mr von Triebenfeld",
+   "kind": "person",
+   "surface_de": "Herrn von Triebenfeld",
+   "surface_en": "Mr von Triebenfeld",
+   "page": 2
   }
  ],
  "place_canonical": "Wien",
@@ -184,7 +462,7 @@
    "surface": "Paris",
    "page": 1,
    "page_id": "0003_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
    "line": 13,
    "doc_line": 3
   },
@@ -195,7 +473,7 @@
    "surface": "Wien",
    "page": 1,
    "page_id": "0003_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
    "line": 23,
    "doc_line": 13
   },
@@ -206,16 +484,104 @@
    "surface": "Wien",
    "page": 1,
    "page_id": "0003_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L2_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
    "line": 26,
    "doc_line": 16
+  },
+  {
+   "entity": "wien",
+   "display": "Wien",
+   "kind": "place",
+   "surface": "Wien",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
+   "line": 29,
+   "doc_line": 19
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
+   "line": 34,
+   "doc_line": 24
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
+   "line": 35,
+   "doc_line": 25
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0003_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0003_a2-L1_01.jpg",
+   "line": 37,
+   "doc_line": 27
+  },
+  {
+   "entity": "kamionno",
+   "display": "Kamionna (Kaemen)",
+   "kind": "place",
+   "surface": "Kaemen",
+   "page": 2,
+   "page_id": "0004_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "line": 44,
+   "doc_line": 33
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 2,
+   "page_id": "0004_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "line": 44,
+   "doc_line": 33
+  },
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warschauer",
+   "page": 2,
+   "page_id": "0004_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "line": 46,
+   "doc_line": 35
+  },
+  {
+   "entity": "paris",
+   "display": "Paris",
+   "kind": "place",
+   "surface": "Paris",
+   "page": 2,
+   "page_id": "0004_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0004_a2-L1_02.jpg",
+   "line": 51,
+   "doc_line": 40
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince, Most gracious Prince and Lord! On the 6th of May of this year, in Paris, I presented to Your Most Serene Highness a letter from the Prince of Hohenlohe to His Majesty the Emperor of Russia. The resolution most graciously granted me thereupon on the 14th of May I enclose here in copy, and beg most obediently for most gracious indulgence that I venture to bring this matter, so important to the Prince, once more to Your Most Serene Highness's recollection at the present so decisive moment, and to implore Your Most Serene Highness's assistance. In boundless reverence I remain, until death, Your Most Serene Highness's most faithful and obedient servant\n\nvon Triebenfeld\n\nVienna, the 25th of October 1814.\n\n[Written by the receiving office:]\n\nDelivered to His Right Honourable the General Privy Councillor of State Stägemann. Vienna, 20 Nov. 1814. Küster",
+   "en": "Most Serene Prince, Most gracious Prince and Lord! On the 6th of May of this year, in Paris, I presented to Your Most Serene Highness a letter from the Prince of Hohenlohe to His Majesty the Emperor of Russia. The resolution most graciously granted me thereupon on the 14th of May I enclose here in copy, and beg most obediently for most gracious indulgence that I venture to bring this matter, so important to the Prince, once more to Your Most Serene Highness's recollection at the present so decisive moment, and to implore Your Most Serene Highness's assistance. In boundless reverence I remain, until death, Your Most Serene Highness's most faithful and obedient servant\n\nvon Triebenfeld\n\nVienna, the 25th of October 1814.\n\n[Written by the receiving office:]\n\nDelivered to His Right Honourable the General Privy Councillor of State Stägemann. Vienna, 20 Nov. 1814. Küster\n\n[Written in another hand:]\n\nNo. 569\n\nVienna, 25 Nov. [18]14\n\nTo\n\nthe Councillor of War and Forests von Triebenfeld, Your Right Honourable, here. In reply to your petition of the 25th of last month I inform you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kamionna will settle itself, as soon as the general settlement and agreement concerning the Duchy of Warsaw, now in [uncertain: word / progress], comes to be carried out. W., Nov. 14.\n\nStägemann.\n\nHardenberg.",
    "names": [
     {
      "de": "Hohenlohe",
@@ -246,6 +612,41 @@
      "de": "Küster",
      "en": "Küster",
      "kind": "person"
+    },
+    {
+     "de": "v. Triebenfeld",
+     "en": "von Triebenfeld",
+     "kind": "person"
+    },
+    {
+     "de": "Fürsten Hohenlohe",
+     "en": "Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Herzogthums Warschau",
+     "en": "Duchy of Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "St[ä]g[emann]",
+     "en": "Stägemann",
+     "kind": "person"
+    },
+    {
+     "de": "H[arden]b[er]g",
+     "en": "Hardenberg",
+     "kind": "person"
     }
    ],
    "numbers": [
@@ -253,17 +654,78 @@
     "14ten",
     "25ten",
     "1814",
-    "20"
+    "20",
+    "569",
+    "25",
+    "14",
+    "25"
+   ]
+  },
+  {
+   "page": 2,
+   "en": "Copy. The claims of the Prince of Hohenlohe to the South Prussian estates of Trąbczyn and Kamionna, bestowed upon him in the year 1796 by His Majesty the late King of blessed memory, will only be capable of being brought forward with any presumptive prospect of success once definitive determinations have been reached concerning the Warsaw affairs generally. At present this is not yet the case, and I have therefore also thought it best to hold back, until that point in time arrives, the Prince's letter to His Majesty the Emperor Alexander which Your Right Honourable delivered to me with your communication of the 6th of this month; and I request you to disclose this to him. Paris, the 14th of May 1814.\n\nHardenberg\n\nTo\n\nthe Royal Councillor of War\n\nMr von Triebenfeld\n\nYour Honour\n\nhere.",
+   "names": [
+    {
+     "de": "Herrn Fürsten von Hohenlohe",
+     "en": "the Prince of Hohenlohe",
+     "kind": "person"
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaemen",
+     "en": "Kamionna",
+     "kind": "place"
+    },
+    {
+     "de": "Sudpreußischen",
+     "en": "South Prussian",
+     "kind": "place"
+    },
+    {
+     "de": "Warschauer",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Kaysers Allexander",
+     "en": "the Emperor Alexander",
+     "kind": "person"
+    },
+    {
+     "de": "Paris",
+     "en": "Paris",
+     "kind": "place"
+    },
+    {
+     "de": "Hardenberg",
+     "en": "Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Herrn von Triebenfeld",
+     "en": "Mr von Triebenfeld",
+     "kind": "person"
+    }
+   ],
+   "numbers": [
+    "1796",
+    "6",
+    "14",
+    "1814"
    ]
   }
  ],
- "text_english": "Most Serene Prince, Most gracious Prince and Lord! On the 6th of May of this year, in Paris, I presented to Your Most Serene Highness a letter from the Prince of Hohenlohe to His Majesty the Emperor of Russia. The resolution most graciously granted me thereupon on the 14th of May I enclose here in copy, and beg most obediently for most gracious indulgence that I venture to bring this matter, so important to the Prince, once more to Your Most Serene Highness's recollection at the present so decisive moment, and to implore Your Most Serene Highness's assistance. In boundless reverence I remain, until death, Your Most Serene Highness's most faithful and obedient servant\n\nvon Triebenfeld\n\nVienna, the 25th of October 1814.\n\n[Written by the receiving office:]\n\nDelivered to His Right Honourable the General Privy Councillor of State Stägemann. Vienna, 20 Nov. 1814. Küster",
- "summary_en": "Triebenfeld reminds Hardenberg that on 6 May in Paris he handed him a letter from the Prince of Hohenlohe to the Russian Emperor. He encloses a Copy of the resolution issued on it on 14 May and asks to be allowed to bring the matter, which is important to the Prince, back to mind at what is now the decisive moment. The chancery notes that the petition was handed over to Councillor of State Stägemann on 20 November 1814.",
- "summary_de": "Triebenfeld erinnert Hardenberg daran, dass er ihm am 6. Mai in Paris ein Schreiben des Fürsten Hohenlohe an den russischen Kaiser übergeben hat. Er legt die darauf erteilte Resolution vom 14. Mai in Abschrift bei und bittet, die für den Fürsten wichtige Sache im jetzt entscheidenden Zeitpunkt wieder in Erinnerung bringen zu dürfen. Die Kanzlei vermerkt, das Gesuch sei am 20. November 1814 an Staatsrat Stägemann abgegeben worden.",
+ "text_english": "Most Serene Prince, Most gracious Prince and Lord! On the 6th of May of this year, in Paris, I presented to Your Most Serene Highness a letter from the Prince of Hohenlohe to His Majesty the Emperor of Russia. The resolution most graciously granted me thereupon on the 14th of May I enclose here in copy, and beg most obediently for most gracious indulgence that I venture to bring this matter, so important to the Prince, once more to Your Most Serene Highness's recollection at the present so decisive moment, and to implore Your Most Serene Highness's assistance. In boundless reverence I remain, until death, Your Most Serene Highness's most faithful and obedient servant\n\nvon Triebenfeld\n\nVienna, the 25th of October 1814.\n\n[Written by the receiving office:]\n\nDelivered to His Right Honourable the General Privy Councillor of State Stägemann. Vienna, 20 Nov. 1814. Küster\n\n[Written in another hand:]\n\nNo. 569\n\nVienna, 25 Nov. [18]14\n\nTo\n\nthe Councillor of War and Forests von Triebenfeld, Your Right Honourable, here. In reply to your petition of the 25th of last month I inform you that the affair of the Prince of Hohenlohe with respect to the claims upon Trąbczyn and Kamionna will settle itself, as soon as the general settlement and agreement concerning the Duchy of Warsaw, now in [uncertain: word / progress], comes to be carried out. W., Nov. 14.\n\nStägemann.\n\nHardenberg.\n\nCopy. The claims of the Prince of Hohenlohe to the South Prussian estates of Trąbczyn and Kamionna, bestowed upon him in the year 1796 by His Majesty the late King of blessed memory, will only be capable of being brought forward with any presumptive prospect of success once definitive determinations have been reached concerning the Warsaw affairs generally. At present this is not yet the case, and I have therefore also thought it best to hold back, until that point in time arrives, the Prince's letter to His Majesty the Emperor Alexander which Your Right Honourable delivered to me with your communication of the 6th of this month; and I request you to disclose this to him. Paris, the 14th of May 1814.\n\nHardenberg\n\nTo\n\nthe Royal Councillor of War\n\nMr von Triebenfeld\n\nYour Honour\n\nhere.",
+ "summary_en": "Triebenfeld reminds Hardenberg that on 6 May in Paris he handed him a letter from the Prince of Hohenlohe to the Russian Emperor. He encloses a Copy of the resolution issued on it on 14 May and asks to be allowed to bring the matter, which is important to the Prince, back to mind at what is now the decisive moment. The chancery notes that the petition was handed over to Councillor of State Stägemann on 20 November 1814. Beneath the letter stands the draft of the reply of 25 November 1814: the matter of the Prince of Hohenlohe concerning the claims to Trąbczyn and Kamionna will, it is said, settle itself as soon as the general settlement and agreement regarding the Duchy of Warsaw is carried out. The enclosed copy is Hardenberg's letter to Triebenfeld of 14 May 1814: he says the claims of the Prince of Hohenlohe to the South Prussian estates of Trąbczyn and Kamionna, given to him in 1796, could only be raised with any prospect of success once definitive arrangements have been made about the Warsaw affairs. That, he says, is not yet the case. Hardenberg is therefore holding back the Prince's letter to Emperor Alexander and asks that this be made known to the Prince.",
+ "summary_de": "Triebenfeld erinnert Hardenberg daran, dass er ihm am 6. Mai in Paris ein Schreiben des Fürsten Hohenlohe an den russischen Kaiser übergeben hat. Er legt die darauf erteilte Resolution vom 14. Mai in Abschrift bei und bittet, die für den Fürsten wichtige Sache im jetzt entscheidenden Zeitpunkt wieder in Erinnerung bringen zu dürfen. Die Kanzlei vermerkt, das Gesuch sei am 20. November 1814 an Staatsrat Stägemann abgegeben worden. Unter dem Brief steht der Entwurf der Antwort vom 25. November 1814: Die Angelegenheit des Fürsten Hohenlohe wegen der Ansprüche auf Trąbczyn und Kamionna werde sich von selbst ausgleichen, sobald die allgemeine Auseinandersetzung und Übereinkunft wegen des Herzogtums Warschau zur Ausführung komme. Die beigelegte Abschrift ist Hardenbergs Schreiben an Triebenfeld vom 14. Mai 1814: Die Ansprüche des Fürsten von Hohenlohe auf die ihm 1796 geschenkten südpreußischen Güter Trąbczyn und Kamionna könnten erst mit Aussicht auf Erfolg angeregt werden, wenn über die Warschauer Angelegenheiten definitive Bestimmungen erfolgt sind. Das sei noch nicht der Fall. Hardenberg hält deshalb das Schreiben des Fürsten an Kaiser Alexander zurück und bittet, dies dem Fürsten zu eröffnen.",
  "reading": {
   "letter": "1",
   "legibility": "sound",
-  "notes": "Triebenfeld to the State Chancellor Hardenberg, Vienna, 25 Oct 1814. He reminds him that on 6 May in Paris he handed over a letter from Prince Hohenlohe to the Russian Emperor, encloses a copy of Hardenberg's answer of 14 May (document 3), and asks leave to bring the matter up again now that the moment is decisive. The chancery noted that the petition was handed to Staatsrath Stägemann on 20 Nov 1814 (Küster).",
+  "notes": "Triebenfeld to the State Chancellor Hardenberg, Vienna, 25 Oct 1814. He reminds him that on 6 May in Paris he handed over a letter from Prince Hohenlohe to the Russian Emperor, encloses a copy of Hardenberg's answer of 14 May (document 3), and asks leave to bring the matter up again now that the moment is decisive. The chancery noted that the petition was handed to Staatsrath Stägemann on 20 Nov 1814 (Küster). Draft of the reply to Triebenfeld, Vienna, 25 Nov 1814, written beneath his letter and approved by Stägemann and Hardenberg. The Prince's claims to Trąbczyn and Kaemen will settle themselves once the general settlement over the Duchy of Warsaw, now in progress, is carried out. Copy of Hardenberg's letter to Triebenfeld, Paris, 14 May 1814, enclosed in document 1. The Prince's claims to the South Prussian estates given him in 1796, Trąbczyn and Kaemen, can only be raised with any prospect once the Warsaw affairs are settled. That is not yet so, and he is therefore holding back the Prince's letter to Emperor Alexander that Triebenfeld handed him on the 6th; Triebenfeld is to tell the Prince.",
   "claims": [
    {
     "statement": "Triebenfeld übergab am 6. Mai 1814 in Paris ein Schreiben des Fürsten Hohenlohe an den russischen Kaiser",

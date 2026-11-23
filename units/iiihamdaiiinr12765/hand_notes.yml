@@ -1,0 +1,16 @@
+# A second voice in another hand (pipeline/build/corpus_pages.py, SET_APART).
+#   first: the block's first line exactly as it stands in corpus.txt
+#   lines: how many lines the block has
+blocks:
+- letter: '1'
+  page: 0003_a2
+  first: No. 569
+  lines: 13
+- letter: '6'
+  page: 0012_a2
+  first: W[ien]. d. 6 Juni 15
+  lines: 42
+- letter: '6'
+  page: 0013_a1
+  first: Was Kämen betrift, so sind dieses unstreitig dieselben
+  lines: 10

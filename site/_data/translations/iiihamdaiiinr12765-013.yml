@@ -1,49 +1,98 @@
 status: draft
 segments:
 - page: 1
-  en: 'My Prince, His Excellency Baron vom Stein has communicated to me the letter which Your Serene Highness
-    wrote to him on the 12th of last month. I am acquainted with the claim which you are making upon the
-    estates of Kamionna and Trąbczyn; but I urge you, in order to make them good, to await the definitive
-    settlement of the affairs of Poland. That moment does not appear to be far off, and I beg you, my
-    Prince, to be assured that I shall then do everything in my power to support your request with the
-    King, whose principles of justice must inspire in you an entire confidence.
+  en: 'Berlin, 29 April 1816, ad no. c. 2278. To the Royal Prussian Major General and Envoy at the Russian
+    Imperial Court, Mr von Schöler, Your Right Honourable, at St Petersburg.
 
 
-    I have the honour to offer to Your Serene Highness the expression of my high consideration.
+    (Claim for compensation of the Prince of Hohenlohe on account of the Trąbczyn estates.) the 30th,
+    to the post.
 
 
-    Vienna, the  May 1815.
+    2960.
 
 
-    To His Serene Highness the Prince Friedrich Ludwig of Hohenlohe at Sławięcice.'
+    His Serene Highness the Prince Friedrich Ludwig of Hohenlohe received from His Majesty the late King,
+    of most blessed memory, as a gift the Trąbczyn estates in the Kalisz department, in the district of
+    Konin, which were formerly the property of the Starost Prusimski, who had been implicated in the insurrection
+    of the year 1794, and had fallen to the State by confiscation. These estates, through the political
+    events of the years 1806 and 1807, passed back to the daughter (of the former owner, Frau von Miączyńska,
+    and the attempts of the Prince of Hohenlohe to be reinstated in possession of the same have been in
+    vain, since His Majesty the Emperor of Russia also confirmed the said Miączyńska in this possession.'
   names:
-  - de: Mr. le Baron de Stein
-    en: Baron vom Stein
-    kind: person
-  - de: Votre Altesse
-    en: Your Serene Highness
-    kind: other
-  - de: Kaemen
-    en: Kamionna
+  - de: Berlin
+    en: Berlin
     kind: place
-  - de: Trąbczyn
+  - de: v. Schoeler
+    en: von Schöler
+    kind: person
+  - de: St. Petersburg
+    en: St Petersburg
+    kind: place
+  - de: Fürſten v. Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+  - de: Trąbczyner
     en: Trąbczyn
     kind: place
-  - de: la Pologne
-    en: Poland
-    kind: place
-  - de: le Roi
-    en: the King
+  - de: Fürſt Friedrich Ludwig von Hohenlohe
+    en: Prince Friedrich Ludwig of Hohenlohe
     kind: person
-  - de: Vienne
-    en: Vienna
+  - de: Kalischer
+    en: Kalisz
     kind: place
-  - de: Monsieur le Prince Fréderic Louis de Hohenlohe
-    en: Friedrich Ludwig of Hohenlohe, Prince
+  - de: Konin
+    en: Konin
+    kind: place
+  - de: Prusimsky
+    en: Prusimsky
     kind: person
-  - de: Slawenziz
-    en: Sławięcice
+  - de: v. Miączyńska
+    en: von Miączyńska
+    kind: person
+  - de: Rußland
+    en: Russia
     kind: place
   numbers:
-  - '12'
-  - '1815'
+  - '29'
+  - '1816'
+  - '2278'
+  - '30'
+  - '2960'
+  - '1794'
+  - '1806'
+  - '1807'
+- page: 2
+  en: 'have.
+
+
+    Since in the meantime some donees in the Kingdom of Poland have been compensated [...], the Prince
+    of Hohenlohe now likewise makes claim to such.
+
+
+    In that I then [uncertain: Indem ich dann] communicate to Your Right Honourable his wish, I therefore
+    request [illegible] you at the same time to bring the Prince''s request, [...], to the knowledge and
+    decision of His Russian Imperial Majesty, yet only quite in general terms and without pressing the
+    petition urgently, since this matter must be regarded purely as a matter of grace.'
+  names:
+  - de: Königreich Polen
+    en: Kingdom of Poland
+    kind: place
+  - de: Fürst von Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+- page: 3
+  en: Berlin, the . Ministry of Foreign Affairs, 3rd Section. H[arden]b[er]g 28/4.
+  names:
+  - de: Berlin
+    en: Berlin
+    kind: place
+  - de: Ministerium der auswärtigen Angelegenhhl.
+    en: Ministry of Foreign Affairs
+    kind: other
+  - de: H[arden]b[er]g
+    en: H[arden]b[er]g
+    kind: person
+  numbers:
+  - '3'
+  - 28/4

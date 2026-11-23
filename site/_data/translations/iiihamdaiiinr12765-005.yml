@@ -1,85 +1,61 @@
 status: draft
 segments:
 - page: 1
-  en: 'Vienna, 17 March [18]15
+  en: 'Vienna, the    of May 1815
 
 
-    To the Right Honourable the councillor of war von Triebenfeld
+    To His Serene Highness Monseigneur the Prince
 
 
-    here
+    Friedrich Ludwig of Hohenlohe
 
 
-    No. 1915.
+    at Sławięcice
 
 
-    To Your [etc.] I [uncertain: again I also] the representation of the 2nd of this month, returning
-    the enclosures of the same: that with regard to the compensation of those donees of South Prussian
-    estates from whom possession has been withdrawn since the peace of Tilsit, a diplomatic negotiation
-    has been opened, the result of which will be communicated in due course to the [uncertain: of the
-    cost] Prince of Hohenlohe. As concerns the [uncertain: Bedeuten] of the Frankfurt bank, Mr [illegible]
-    Leixner, it is, according to the state of the matter, not the dispossession from the Kolno and Kamionna
-    estates that has brought him into the judicial investigation and the [uncertain: Vorzug / preference],
-    but rather the irregular administration of his post, and in particular also the impermissible act
-    whereby he borrowed upon the asset registered on Kolno and Kamionna for the merchant Simon at its
-    full [uncertain: value] and [...] still to me at a time when the [uncertain: taking of possession]
-    of the estates by [uncertain: the lady] von Miączyńska was already known to him.
+    His Excellency Baron vom Stein has communicated to me the letter which Your Highness wrote to him
+    on the 12th of [uncertain: en ire] last.
 
 
-    Vienna, 17 March [18]15.
+    My Prince,
 
 
-    In His Serene Highness''s name.
+    I am acquainted with the claim which you advance upon the estates of Kamionna and Trąbczyn, in order
+    to press them, the definitive settlement of the affairs of Poland. That moment does not appear to
+    be distant, and I beg you, my Prince, to be assured that I shall then do everything that lies within
+    my power to support your request with the King, whose principles of justice must inspire in you an
+    entire confidence.
 
 
-    Stägemann.
+    I beg Your Serene Highness to accept the expression of my high consideration.
 
 
-    Hardenberg.'
+    Vienna, the    of May 1815'
   names:
-  - de: W[ien]
+  - de: Vienne
     en: Vienna
     kind: place
-  - de: v. Triebenfeld
-    en: von Triebenfeld
+  - de: Msgr. le Prince Frederic Louis de Hohenlohe
+    en: Friedrich Ludwig of Hohenlohe, Prince
     kind: person
-  - de: Tilsit
-    en: Tilsit
+  - de: Slawenzitz
+    en: Sławięcice
     kind: place
-  - de: v Hohenlohe
-    en: of Hohenlohe
+  - de: Mons. le Baron de Stein
+    en: Baron vom Stein
     kind: person
-  - de: Frankfurtſchen
-    en: Frankfurt
-    kind: place
-  - de: Leixner
-    en: Leixner
-    kind: person
-  - de: Kolno
-    en: Kolno
-    kind: place
-  - de: Kähmen
+  - de: Kaemen
     en: Kamionna
     kind: place
-  - de: Simon
-    en: Simon
-    kind: person
-  - de: v. Miączyńska
-    en: von Miączyńska
-    kind: person
-  - de: St[ä]g[emann]
-    en: Stägemann
-    kind: person
-  - de: H[arden]b[er]g
-    en: Hardenberg
-    kind: person
-  - de: Südpreußiſcher
-    en: South Prussian
+  - de: Trąbczyn
+    en: Trąbczyn
     kind: place
+  - de: la Pologne
+    en: Poland
+    kind: place
+  - de: le Roi
+    en: the King
+    kind: person
   numbers:
-  - '17'
-  - '15'
-  - '1915'
-  - '2'
-  - '17'
-  - '18'
+  - '1815'
+  - '12'

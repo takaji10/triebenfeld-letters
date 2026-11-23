@@ -1,73 +1,43 @@
 status: draft
 segments:
 - page: 1
-  en: 'Vienna, the __th of May 1815. To His Serene Highness and Lordship the Prince of Hohenlohe, etc.
+  en: 'On No. 2278. C.
 
 
-    at
+    1. Let it be committed to von Schöler at St Petersburg, in accordance with the motion of von Zerboni,
+    with the [uncertain: opening], since the request of Hohenlohe concerns a pure matter of grace, that
+    his wish be brought to the knowledge of His [uncertain: Lieut.] Majesty quite in general terms: without
+    direct [uncertain: lecter] [uncertain: sterghung]
 
 
-    Sławięcice
+    2. Let notice be given to the Prince of Hohenlohe in His Serene Highness''s name, that his request
+    for compensation will be [uncertain: brought/pressed] to the knowledge of His Majesty the Emperor
+    [uncertain: of H.] through the Royal Legation [uncertain: other].
 
 
-    No. 3132
-
-
-    R. 28/5 to Rthl 28/5.
-
-
-    Cancelled, and see the further disposition of 6 June 1815. In most devoted reply to Your Highness''s
-    very kind letter of the 12th of this month I have the honour to respond: that at this moment the territorial
-    relations of the Duchy of Warsaw are indeed definitively settled as regards those of its provinces
-    reverting to Prussia; whereas as concerns the compensation of the respective donees in the said Duchy,
-    the regulation of this matter is reserved to a separate negotiation, upon which, however, entry has
-    already been made at this time. Given the sincere part I take in every occurrence concerning Your
-    Highness etc., it will certainly afford me quite particular pleasure to find, in the course of this
-    negotiation, an oppor-'
+    the 20th of April [18]16'
   names:
-  - de: Wien
-    en: Vienna
-    kind: place
-  - de: Herrn Fürsten zu Hohenlohe
-    en: the Prince of Hohenlohe
+  - de: Balan
+    en: Balan
     kind: person
-  - de: Schlawenschitz
-    en: Sławięcice
+  - de: v. Schöler
+    en: von Schöler
+    kind: person
+  - de: St. Petersburg
+    en: St Petersburg
     kind: place
-  - de: Herzogthums Warschau
-    en: Duchy of Warsaw
-    kind: place
-  - de: Preußen
-    en: Prussia
-    kind: place
-  numbers:
-  - '1815'
-  - '3132'
-  - 28/5
-  - 28/5
-  - '6'
-  - '1815'
-  - '12'
-- page: 2
-  en: '-tunity to further the fulfilment of the wishes communicated to me by Your Highness in respect
-    of compensation for the Trąbczyn estates taken from you. For the rest, I very gladly avail myself
-    of the present occasion to renew to Your Highness etc. the assurance of that esteem with which I remain,
-    etc. Vienna, etc.
-
-
-    In His Serene Highness''s name
-
-
-    H[arden]b[er]g 21/5'
-  names:
-  - de: Trąbczyner Güter
-    en: Trąbczyn estates
-    kind: place
-  - de: Wien
-    en: Vienna
-    kind: place
-  - de: H[arden]b[er]g
-    en: Hardenberg
+  - de: v. Zerboni
+    en: von Zerboni
+    kind: person
+  - de: v Hohenlohe
+    en: of Hohenlohe
+    kind: person
+  - de: Fürsten v. Hohenlohe
+    en: Prince of Hohenlohe
     kind: person
   numbers:
-  - 21/5
+  - '2278'
+  - '1'
+  - '2'
+  - '20'
+  - '16'

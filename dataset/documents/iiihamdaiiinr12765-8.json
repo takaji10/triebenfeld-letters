@@ -9,133 +9,93 @@
  "doc_type": "letter",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1815-05-12",
- "date_precision": "day",
- "date_source": "signature",
- "date_display": "den 12 May 1815.",
- "date_inferred_from": "",
+ "date_iso": "1815-05",
+ "date_precision": "month",
+ "date_source": "dateline",
+ "date_display": "1815-05",
+ "date_inferred_from": "read from the document's own dateline",
  "year": 1815,
  "month": 5,
- "day": 12,
- "place": "Schlawenschitz",
- "sender": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
- "recipient": "Hardenberg",
- "line_start": 178,
- "line_end": 221,
+ "day": "",
+ "place": "Wien",
+ "sender": "Hardenberg",
+ "recipient": "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen",
+ "line_start": 315,
+ "line_end": 335,
  "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "de",
- "duplicate_of": "",
+ "duplicate_of": "7",
  "relations": [],
  "estates": [
   "trabczyn"
  ],
  "is_missing": 0,
- "n_lines": 41,
- "n_pages": 2,
- "text": "Durchlauchtigster Fürst!\nPohlens Schicksal ist nun entschieden, und die\nGränzen bestimmt. Der District wo die mir von\nder Pohlnl Verwaltungs Commission genommenen\nTrąbczyner Güter liegen fällt unter Rußischer Hoheit.\nDa nun die beyden Souveraine die Handlungen der\nPreußl. Commission bestättiget haben, so bleiben die\nmir genommenen Gütter für mich auf ewig verlohren,\nund es ist nun mein einziger Trost, daß nach der\nGerechtigkeits Liebe beyder Monarchen denen\nDonatarien eine Endschädigung durch andern Gütter\ngegeben werden soll.\nder Höchsten Wahrscheinlichkeit nach müste ich mein de\nDomagement von des Ruſischen Kaysers Majestät\nerwarten, weshalb ich mich auch schon an des Herren\nMinister Freyherrn von Stein gewandt habe. Ob\naber diese Sache von den Herren Baron von Stein\nallein abhängt, weiß ich nicht. — Das aber weis ich\ndaß durch Eurer Durchlaucht vorwort bey des\nRuſischen Kaysers Majestät ich ſo gleich geholfen seyn\nwürde.\nMein Verlust beträgt über 261000 Rt. ich dürfte wohl\nmit allen Rechten hoffen daß mir Gütter vom gleichen\nWerthe verliehen würden: inzwischen würde ich mit\nohnweit Boleslawice belegene Kleine Amt Sokolnik\nwelches an 8 bis 10000 Rt Pacht gibt, gerne zufrieden\nseye. Euer Durchlaucht bitte ich ganz gehorſamst,\nSich für mich als Ihren alten treuen Verehrer bey des\nRuſisch Kaysers Majestät zu verwenden, und es in die\nWege zu lenken, daß mir das Sokolniker Amt als\nEntschädigung verliehen würde, um so mehr als ich der\neinzige bin, den man die Gütter genommen hat\nund der Entschädiget werden muß.\nEuer Durchlaucht genehmigen die\nVersicherung der hohen Verehrung mit welcher ich\nbeharre.\nEuer Durchlaucht\nganz gehorſamer Diener,\nF[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\nSchlawenschitz\nden 12 May 1815.",
- "text_reading": "Durchlauchtigster Fürst!\n\nPohlens Schicksal ist nun entschieden, und die Gränzen bestimmt. Der District wo die mir von der Pohlnl Verwaltungs Commission genommenen Trąbczyner Güter liegen fällt unter Rußischer Hoheit. Da nun die beyden Souveraine die Handlungen der Preußl. Commission bestättiget haben, so bleiben die mir genommenen Gütter für mich auf ewig verlohren, und es ist nun mein einziger Trost, daß nach der Gerechtigkeits Liebe beyder Monarchen denen Donatarien eine Endschädigung durch andern Gütter gegeben werden soll.\n\nder Höchsten Wahrscheinlichkeit nach müste ich mein de Domagement von des Ruſischen Kaysers Majestät erwarten, weshalb ich mich auch schon an des Herren Minister Freyherrn von Stein gewandt habe. Ob aber diese Sache von den Herren Baron von Stein allein abhängt, weiß ich nicht. — Das aber weis ich daß durch Eurer Durchlaucht vorwort bey des Ruſischen Kaysers Majestät ich ſo gleich geholfen seyn würde.\n\nMein Verlust beträgt über 261,000 Rt. ich dürfte wohl mit allen Rechten hoffen daß mir Gütter vom gleichen Werthe verliehen würden: inzwischen würde ich mit ohnweit Boleslawice belegene Kleine Amt Sokolnik welches an 8 bis 10,000 Rt Pacht gibt, gerne zufrieden seye. Euer Durchlaucht bitte ich ganz gehorſamst, Sich für mich als Ihren alten treuen Verehrer bey des Ruſisch Kaysers Majestät zu verwenden, und es in die Wege zu lenken, daß mir das Sokolniker Amt als Entschädigung verliehen würde, um so mehr als ich der einzige bin, den man die Gütter genommen hat und der Entschädiget werden muß.\n\nEuer Durchlaucht genehmigen die Versicherung der hohen Verehrung mit welcher ich beharre.\n\nEuer Durchlaucht\n\nganz gehorſamer Diener, F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\n\nSchlawenschitz den 12 May 1815.",
+ "n_lines": 19,
+ "n_pages": 1,
+ "text": "Durchlauchtigster Fürst!\nEw Durchlaucht beehre ich mich, in ergebenster Beantwortung Dero sehr ge¬\nfälligen Zuschrift vom 12ten d. M. zu erwiedern: daß zwar in diesem\nAugenblicke die Territorial Verhältniße des Herzogthums Warschau in\nBetref der an Preußen zurückfallenden Provinzen desselben definitiv entschieden\nsind; was dahingegen die Entschädigung der resp. Donatarien in dem genannten\nHerzogthum anlangt, so ist die Regulirung dieses Gegenstandes einer besondere\nUnterhandlung vorbehalten, zu welcher jedoch zur Zeit schon geschritten worden\nist. Bei dem aufrichtigen Antheil, welchen ich an jedem Ew. Durchlaucht\nbetreffenden Ereigniße nehme, wird es mir gewiß zu einem ganz besonderen Ver¬\ngnügen gereichen, im Laufe dieser Unterhandlung eine Gelegenheit zu finden, die\nErfüllung der mir von denenselben mitgetheilten Wunsche Hinsichts der Entschädigung\nfür die Ihnen entzogene Trąbczyner Güter zu befördern.\nIch benutze übrigens sehr gern die gegenwärtige Veranlaßung, Ew. Durchlaucht\ndie Versicherung derjenigen Verehrung zu erneuern, mit welcher ich beharre\nEw: Durchlaucht\nWien\nden __ten May 1815.\nAn des Herrn Fürsten zu Hohenlohe Durchlaucht.",
+ "text_reading": "Durchlauchtigster Fürst!\n\nEw Durchlaucht beehre ich mich, in ergebenster Beantwortung Dero sehr gefälligen Zuschrift vom 12ten d. M. zu erwiedern: daß zwar in diesem Augenblicke die Territorial Verhältniße des Herzogthums Warschau in Betref der an Preußen zurückfallenden Provinzen desselben definitiv entschieden sind; was dahingegen die Entschädigung der resp. Donatarien in dem genannten Herzogthum anlangt, so ist die Regulirung dieses Gegenstandes einer besondere Unterhandlung vorbehalten, zu welcher jedoch zur Zeit schon geschritten worden ist. Bei dem aufrichtigen Antheil, welchen ich an jedem Ew. Durchlaucht betreffenden Ereigniße nehme, wird es mir gewiß zu einem ganz besonderen Vergnügen gereichen, im Laufe dieser Unterhandlung eine Gelegenheit zu finden, die Erfüllung der mir von denenselben mitgetheilten Wunsche Hinsichts der Entschädigung für die Ihnen entzogene Trąbczyner Güter zu befördern. Ich benutze übrigens sehr gern die gegenwärtige Veranlaßung, Ew. Durchlaucht die Versicherung derjenigen Verehrung zu erneuern, mit welcher ich beharre Ew: Durchlaucht\n\nWien\n\nden __ten May 1815.\n\nAn des Herrn Fürsten zu Hohenlohe Durchlaucht.",
  "pages": [
   {
    "page": 1,
-   "page_id": "0011_a2",
-   "line_start": 180,
-   "line_end": 200,
-   "n_lines": 21,
-   "diplomatic": "Durchlauchtigster Fürst!\nPohlens Schicksal ist nun entschieden, und die\nGränzen bestimmt. Der District wo die mir von\nder Pohlnl Verwaltungs Commission genommenen\nTrąbczyner Güter liegen fällt unter Rußischer Hoheit.\nDa nun die beyden Souveraine die Handlungen der\nPreußl. Commission bestättiget haben, so bleiben die\nmir genommenen Gütter für mich auf ewig verlohren,\nund es ist nun mein einziger Trost, daß nach der\nGerechtigkeits Liebe beyder Monarchen denen\nDonatarien eine Endschädigung durch andern Gütter\ngegeben werden soll.\nder Höchsten Wahrscheinlichkeit nach müste ich mein de\nDomagement von des Ruſischen Kaysers Majestät\nerwarten, weshalb ich mich auch schon an des Herren\nMinister Freyherrn von Stein gewandt habe. Ob\naber diese Sache von den Herren Baron von Stein\nallein abhängt, weiß ich nicht. — Das aber weis ich\ndaß durch Eurer Durchlaucht vorwort bey des\nRuſischen Kaysers Majestät ich ſo gleich geholfen seyn\nwürde.",
-   "transcription": "Durchlauchtigster Fürst!\nPohlens Schicksal ist nun entschieden, und die\nGränzen bestimmt. Der District wo die mir von\nder Pohlnl Verwaltungs Commission genommenen\nTrąbczyner Güter liegen fällt unter Rußischer Hoheit.\nDa nun die beyden Souveraine die Handlungen der\nPreußl. Commission bestättiget haben, so bleiben die\nmir genommenen Gütter für mich auf ewig verlohren,\nund es ist nun mein einziger Trost, daß nach der\nGerechtigkeits Liebe beyder Monarchen denen\nDonatarien eine Endschädigung durch andern Gütter\ngegeben werden soll.\nder Höchsten Wahrscheinlichkeit nach müste ich mein de\nDomagement von des Ruſischen Kaysers Majestät\nerwarten, weshalb ich mich auch schon an des Herren\nMinister Freyherrn von Stein gewandt habe. Ob\naber diese Sache von den Herren Baron von Stein\nallein abhängt, weiß ich nicht. — Das aber weis ich\ndaß durch Eurer Durchlaucht vorwort bey des\nRuſischen Kaysers Majestät ich ſo gleich geholfen seyn\nwürde.",
-   "reading": "Durchlauchtigster Fürst!\n\nPohlens Schicksal ist nun entschieden, und die Gränzen bestimmt. Der District wo die mir von der Pohlnl Verwaltungs Commission genommenen Trąbczyner Güter liegen fällt unter Rußischer Hoheit. Da nun die beyden Souveraine die Handlungen der Preußl. Commission bestättiget haben, so bleiben die mir genommenen Gütter für mich auf ewig verlohren, und es ist nun mein einziger Trost, daß nach der Gerechtigkeits Liebe beyder Monarchen denen Donatarien eine Endschädigung durch andern Gütter gegeben werden soll.\n\nder Höchsten Wahrscheinlichkeit nach müste ich mein de Domagement von des Ruſischen Kaysers Majestät erwarten, weshalb ich mich auch schon an des Herren Minister Freyherrn von Stein gewandt habe. Ob aber diese Sache von den Herren Baron von Stein allein abhängt, weiß ich nicht. — Das aber weis ich daß durch Eurer Durchlaucht vorwort bey des Ruſischen Kaysers Majestät ich ſo gleich geholfen seyn würde.",
+   "page_id": "0015_a2",
+   "line_start": 317,
+   "line_end": 335,
+   "n_lines": 19,
+   "diplomatic": "Durchlauchtigster Fürst!\nEw Durchlaucht beehre ich mich, in ergebenster Beantwortung Dero sehr ge¬\nfälligen Zuschrift vom 12ten d. M. zu erwiedern: daß zwar in diesem\nAugenblicke die Territorial Verhältniße des Herzogthums Warschau in\nBetref der an Preußen zurückfallenden Provinzen desselben definitiv entschieden\nsind; was dahingegen die Entschädigung der resp. Donatarien in dem genannten\nHerzogthum anlangt, so ist die Regulirung dieses Gegenstandes einer besondere\nUnterhandlung vorbehalten, zu welcher jedoch zur Zeit schon geschritten worden\nist. Bei dem aufrichtigen Antheil, welchen ich an jedem Ew. Durchlaucht\nbetreffenden Ereigniße nehme, wird es mir gewiß zu einem ganz besonderen Ver¬\ngnügen gereichen, im Laufe dieser Unterhandlung eine Gelegenheit zu finden, die\nErfüllung der mir von denenselben mitgetheilten Wunsche Hinsichts der Entschädigung\nfür die Ihnen entzogene Trąbczyner Güter zu befördern.\nIch benutze übrigens sehr gern die gegenwärtige Veranlaßung, Ew. Durchlaucht\ndie Versicherung derjenigen Verehrung zu erneuern, mit welcher ich beharre\nEw: Durchlaucht\nWien\nden __ten May 1815.\nAn des Herrn Fürsten zu Hohenlohe Durchlaucht.",
+   "transcription": "Durchlauchtigster Fürst!\nEw Durchlaucht beehre ich mich, in ergebenster Beantwortung Dero sehr ge-\nfälligen Zuschrift vom 12ten d. M. zu erwiedern: daß zwar in diesem\nAugenblicke die Territorial Verhältniße des Herzogthums Warschau in\nBetref der an Preußen zurückfallenden Provinzen desselben definitiv entschieden\nsind; was dahingegen die Entschädigung der resp. Donatarien in dem genannten\nHerzogthum anlangt, so ist die Regulirung dieses Gegenstandes einer besondere\nUnterhandlung vorbehalten, zu welcher jedoch zur Zeit schon geschritten worden\nist. Bei dem aufrichtigen Antheil, welchen ich an jedem Ew. Durchlaucht\nbetreffenden Ereigniße nehme, wird es mir gewiß zu einem ganz besonderen Ver-\ngnügen gereichen, im Laufe dieser Unterhandlung eine Gelegenheit zu finden, die\nErfüllung der mir von denenselben mitgetheilten Wunsche Hinsichts der Entschädigung\nfür die Ihnen entzogene Trąbczyner Güter zu befördern.\nIch benutze übrigens sehr gern die gegenwärtige Veranlaßung, Ew. Durchlaucht\ndie Versicherung derjenigen Verehrung zu erneuern, mit welcher ich beharre\nEw: Durchlaucht\nWien\nden __ten May 1815.\nAn des Herrn Fürsten zu Hohenlohe Durchlaucht.",
+   "reading": "Durchlauchtigster Fürst!\n\nEw Durchlaucht beehre ich mich, in ergebenster Beantwortung Dero sehr gefälligen Zuschrift vom 12ten d. M. zu erwiedern: daß zwar in diesem Augenblicke die Territorial Verhältniße des Herzogthums Warschau in Betref der an Preußen zurückfallenden Provinzen desselben definitiv entschieden sind; was dahingegen die Entschädigung der resp. Donatarien in dem genannten Herzogthum anlangt, so ist die Regulirung dieses Gegenstandes einer besondere Unterhandlung vorbehalten, zu welcher jedoch zur Zeit schon geschritten worden ist. Bei dem aufrichtigen Antheil, welchen ich an jedem Ew. Durchlaucht betreffenden Ereigniße nehme, wird es mir gewiß zu einem ganz besonderen Vergnügen gereichen, im Laufe dieser Unterhandlung eine Gelegenheit zu finden, die Erfüllung der mir von denenselben mitgetheilten Wunsche Hinsichts der Entschädigung für die Ihnen entzogene Trąbczyner Güter zu befördern. Ich benutze übrigens sehr gern die gegenwärtige Veranlaßung, Ew. Durchlaucht die Versicherung derjenigen Verehrung zu erneuern, mit welcher ich beharre Ew: Durchlaucht\n\nWien\n\nden __ten May 1815.\n\nAn des Herrn Fürsten zu Hohenlohe Durchlaucht.",
    "paragraphs": [
     "Durchlauchtigster Fürst!",
-    "Pohlens Schicksal ist nun entschieden, und die Gränzen bestimmt. Der District wo die mir von der Pohlnl Verwaltungs Commission genommenen Trąbczyner Güter liegen fällt unter Rußischer Hoheit. Da nun die beyden Souveraine die Handlungen der Preußl. Commission bestättiget haben, so bleiben die mir genommenen Gütter für mich auf ewig verlohren, und es ist nun mein einziger Trost, daß nach der Gerechtigkeits Liebe beyder Monarchen denen Donatarien eine Endschädigung durch andern Gütter gegeben werden soll.",
-    "der Höchsten Wahrscheinlichkeit nach müste ich mein de Domagement von des Ruſischen Kaysers Majestät erwarten, weshalb ich mich auch schon an des Herren Minister Freyherrn von Stein gewandt habe. Ob aber diese Sache von den Herren Baron von Stein allein abhängt, weiß ich nicht. — Das aber weis ich daß durch Eurer Durchlaucht vorwort bey des Ruſischen Kaysers Majestät ich ſo gleich geholfen seyn würde."
+    "Ew Durchlaucht beehre ich mich, in ergebenster Beantwortung Dero sehr gefälligen Zuschrift vom 12ten d. M. zu erwiedern: daß zwar in diesem Augenblicke die Territorial Verhältniße des Herzogthums Warschau in Betref der an Preußen zurückfallenden Provinzen desselben definitiv entschieden sind; was dahingegen die Entschädigung der resp. Donatarien in dem genannten Herzogthum anlangt, so ist die Regulirung dieses Gegenstandes einer besondere Unterhandlung vorbehalten, zu welcher jedoch zur Zeit schon geschritten worden ist. Bei dem aufrichtigen Antheil, welchen ich an jedem Ew. Durchlaucht betreffenden Ereigniße nehme, wird es mir gewiß zu einem ganz besonderen Vergnügen gereichen, im Laufe dieser Unterhandlung eine Gelegenheit zu finden, die Erfüllung der mir von denenselben mitgetheilten Wunsche Hinsichts der Entschädigung für die Ihnen entzogene Trąbczyner Güter zu befördern. Ich benutze übrigens sehr gern die gegenwärtige Veranlaßung, Ew. Durchlaucht die Versicherung derjenigen Verehrung zu erneuern, mit welcher ich beharre Ew: Durchlaucht",
+    "Wien",
+    "den __ten May 1815.",
+    "An des Herrn Fürsten zu Hohenlohe Durchlaucht."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
-   "continues_next": true,
-   "para_lines": [
-    1,
-    12
-   ],
-   "scan": "III_HA_MdA_III_Nr_12765_0011_a2-L8_01.jpg",
-   "doc_line_start": 1,
-   "doc_line_end": 21
-  },
-  {
-   "page": 2,
-   "page_id": "0012_a1",
-   "line_start": 202,
-   "line_end": 221,
-   "n_lines": 20,
-   "diplomatic": "Mein Verlust beträgt über 261000 Rt. ich dürfte wohl\nmit allen Rechten hoffen daß mir Gütter vom gleichen\nWerthe verliehen würden: inzwischen würde ich mit\nohnweit Boleslawice belegene Kleine Amt Sokolnik\nwelches an 8 bis 10000 Rt Pacht gibt, gerne zufrieden\nseye. Euer Durchlaucht bitte ich ganz gehorſamst,\nSich für mich als Ihren alten treuen Verehrer bey des\nRuſisch Kaysers Majestät zu verwenden, und es in die\nWege zu lenken, daß mir das Sokolniker Amt als\nEntschädigung verliehen würde, um so mehr als ich der\neinzige bin, den man die Gütter genommen hat\nund der Entschädiget werden muß.\nEuer Durchlaucht genehmigen die\nVersicherung der hohen Verehrung mit welcher ich\nbeharre.\nEuer Durchlaucht\nganz gehorſamer Diener,\nF[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\nSchlawenschitz\nden 12 May 1815.",
-   "transcription": "Mein Verlust beträgt über 261000 Rt. ich dürfte wohl\nmit allen Rechten hoffen daß mir Gütter vom gleichen\nWerthe verliehen würden: inzwischen würde ich mit\nohnweit Boleslawice belegene Kleine Amt Sokolnik\nwelches an 8 bis 10000 Rt Pacht gibt, gerne zufrieden\nseye. Euer Durchlaucht bitte ich ganz gehorſamst,\nSich für mich als Ihren alten treuen Verehrer bey des\nRuſisch Kaysers Majestät zu verwenden, und es in die\nWege zu lenken, daß mir das Sokolniker Amt als\nEntschädigung verliehen würde, um so mehr als ich der\neinzige bin, den man die Gütter genommen hat\nund der Entschädiget werden muß.\nEuer Durchlaucht genehmigen die\nVersicherung der hohen Verehrung mit welcher ich\nbeharre.\nEuer Durchlaucht\nganz gehorſamer Diener,\nF[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\nSchlawenschitz\nden 12 May 1815.",
-   "reading": "Mein Verlust beträgt über 261,000 Rt. ich dürfte wohl mit allen Rechten hoffen daß mir Gütter vom gleichen Werthe verliehen würden: inzwischen würde ich mit ohnweit Boleslawice belegene Kleine Amt Sokolnik welches an 8 bis 10,000 Rt Pacht gibt, gerne zufrieden seye. Euer Durchlaucht bitte ich ganz gehorſamst, Sich für mich als Ihren alten treuen Verehrer bey des Ruſisch Kaysers Majestät zu verwenden, und es in die Wege zu lenken, daß mir das Sokolniker Amt als Entschädigung verliehen würde, um so mehr als ich der einzige bin, den man die Gütter genommen hat und der Entschädiget werden muß.\n\nEuer Durchlaucht genehmigen die Versicherung der hohen Verehrung mit welcher ich beharre.\n\nEuer Durchlaucht\n\nganz gehorſamer Diener, F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.\n\nSchlawenschitz den 12 May 1815.",
-   "paragraphs": [
-    "Mein Verlust beträgt über 261,000 Rt. ich dürfte wohl mit allen Rechten hoffen daß mir Gütter vom gleichen Werthe verliehen würden: inzwischen würde ich mit ohnweit Boleslawice belegene Kleine Amt Sokolnik welches an 8 bis 10,000 Rt Pacht gibt, gerne zufrieden seye. Euer Durchlaucht bitte ich ganz gehorſamst, Sich für mich als Ihren alten treuen Verehrer bey des Ruſisch Kaysers Majestät zu verwenden, und es in die Wege zu lenken, daß mir das Sokolniker Amt als Entschädigung verliehen würde, um so mehr als ich der einzige bin, den man die Gütter genommen hat und der Entschädiget werden muß.",
-    "Euer Durchlaucht genehmigen die Versicherung der hohen Verehrung mit welcher ich beharre.",
-    "Euer Durchlaucht",
-    "ganz gehorſamer Diener, F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe.",
-    "Schlawenschitz den 12 May 1815."
-   ],
-   "sideways_lines": [],
-   "sideways_paragraphs": [],
-   "continues_previous": true,
    "continues_next": false,
    "para_lines": [
-    12,
-    15,
+    1,
     16,
+    17,
     18
    ],
-   "scan": "III_HA_MdA_III_Nr_12765_0012_a1-L8_02.jpg",
-   "doc_line_start": 22,
-   "doc_line_end": 41
+   "scan": "III_HA_MdA_III_Nr_12765_0015_a2-L8_01.jpg",
+   "doc_line_start": 1,
+   "doc_line_end": 19
   }
  ],
  "mentions": [
-  {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "von Stein",
-   "page": 1,
-   "page_id": "0011_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0011_a2-L8_01.jpg",
-   "line": 195,
-   "doc_line": 16
-  },
-  {
-   "entity": "stein",
-   "display": "Stein",
-   "kind": "person",
-   "surface": "von Stein",
-   "page": 1,
-   "page_id": "0011_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0011_a2-L8_01.jpg",
-   "line": 196,
-   "doc_line": 17
-  },
   {
    "entity": "hohenlohe",
    "display": "Hohenlohe",
    "kind": "person",
    "surface": "Hohenlohe",
-   "page": 2,
-   "page_id": "0012_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0012_a1-L8_02.jpg",
-   "line": 219,
-   "doc_line": 39
+   "page": 1,
+   "page_id": "0015_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0015_a2-L8_01.jpg",
+   "line": 335,
+   "doc_line": 19
   }
  ],
  "mentions_english": [
   {
    "entity": "",
-   "display": "Poland",
+   "display": "Warsaw",
    "kind": "place",
-   "surface_de": "Pohlens",
-   "surface_en": "Poland",
+   "surface_de": "Warschau",
+   "surface_en": "Warsaw",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prussia",
+   "kind": "place",
+   "surface_de": "Preußen",
+   "surface_en": "Prussia",
    "page": 1
   },
   {
@@ -148,160 +108,71 @@
   },
   {
    "entity": "",
-   "display": "Russian",
+   "display": "Vienna",
    "kind": "place",
-   "surface_de": "Rußischer",
-   "surface_en": "Russian",
+   "surface_de": "Wien",
+   "surface_en": "Vienna",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Prussian",
-   "kind": "place",
-   "surface_de": "Preußl.",
-   "surface_en": "Prussian",
+   "display": "the Prince of Hohenlohe",
+   "kind": "person",
+   "surface_de": "Herrn Fürsten zu Hohenlohe",
+   "surface_en": "the Prince of Hohenlohe",
    "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Emperor of Russia",
-   "kind": "person",
-   "surface_de": "Ruſischen Kaysers",
-   "surface_en": "Emperor of Russia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Baron von Stein",
-   "kind": "person",
-   "surface_de": "Freyherrn von Stein",
-   "surface_en": "Baron von Stein",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Baron von Stein",
-   "kind": "person",
-   "surface_de": "Baron von Stein",
-   "surface_en": "Baron von Stein",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Boleslawice",
-   "kind": "place",
-   "surface_de": "Boleslawice",
-   "surface_en": "Boleslawice",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Sokolnik",
-   "kind": "place",
-   "surface_de": "Sokolnik",
-   "surface_en": "Sokolnik",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Sokolnik",
-   "kind": "place",
-   "surface_de": "Sokolniker",
-   "surface_en": "Sokolnik",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Emperor of Russia",
-   "kind": "person",
-   "surface_de": "Ruſisch Kaysers",
-   "surface_en": "Emperor of Russia",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Sławięcice",
-   "kind": "place",
-   "surface_de": "Schlawenschitz",
-   "surface_en": "Sławięcice",
-   "page": 2
-  },
-  {
-   "entity": "",
-   "display": "Friedrich Ludwig, Prince of Hohenlohe",
-   "kind": "person",
-   "surface_de": "F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe",
-   "surface_en": "Friedrich Ludwig, Prince of Hohenlohe",
-   "page": 2
   }
  ],
- "place_canonical": "Schlawenschitz",
+ "place_canonical": "Wien",
  "place_mentions": [
+  {
+   "entity": "warschau",
+   "display": "Warszawa (Warschau)",
+   "kind": "place",
+   "surface": "Warschau",
+   "page": 1,
+   "page_id": "0015_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0015_a2-L8_01.jpg",
+   "line": 320,
+   "doc_line": 4
+  },
   {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
    "surface": "Trąbczyner",
    "page": 1,
-   "page_id": "0011_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0011_a2-L8_01.jpg",
-   "line": 184,
-   "doc_line": 5
+   "page_id": "0015_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0015_a2-L8_01.jpg",
+   "line": 329,
+   "doc_line": 13
   },
   {
-   "entity": "boleslawice",
-   "display": "Boleslawice",
+   "entity": "wien",
+   "display": "Wien",
    "kind": "place",
-   "surface": "Boleslawice",
-   "page": 2,
-   "page_id": "0012_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0012_a1-L8_02.jpg",
-   "line": 205,
-   "doc_line": 25
-  },
-  {
-   "entity": "sokolnik",
-   "display": "Amt Sokolnik",
-   "kind": "place",
-   "surface": "Sokolnik",
-   "page": 2,
-   "page_id": "0012_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0012_a1-L8_02.jpg",
-   "line": 205,
-   "doc_line": 25
-  },
-  {
-   "entity": "sokolnik",
-   "display": "Amt Sokolnik",
-   "kind": "place",
-   "surface": "Sokolniker",
-   "page": 2,
-   "page_id": "0012_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0012_a1-L8_02.jpg",
-   "line": 210,
-   "doc_line": 30
-  },
-  {
-   "entity": "schlawenschitz",
-   "display": "Sławięcice (Schlawenschitz)",
-   "kind": "place",
-   "surface": "Schlawenschitz",
-   "page": 2,
-   "page_id": "0012_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0012_a1-L8_02.jpg",
-   "line": 220,
-   "doc_line": 40
+   "surface": "Wien",
+   "page": 1,
+   "page_id": "0015_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0015_a2-L8_01.jpg",
+   "line": 333,
+   "doc_line": 17
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Most Serene Prince!\n\nPoland's fate is now decided, and the boundaries determined. The district in which the Trąbczyn estates lie that were taken from me by the Polish administrative commission falls under Russian sovereignty. Since now both sovereigns have confirmed the acts of the Prussian commission, the estates taken from me remain lost to me for ever, and it is now my sole comfort that, according to the love of justice of both monarchs, the donees are to be given a compensation by means of other estates.\n\nAccording to the highest probability I should have to await my indemnification from His Majesty the Emperor of Russia, on which account I have also already applied to the Minister Baron von Stein. But whether this matter depends on Baron von Stein alone, I do not know. — This, however, I do know, that through Your Serene Highness's word with His Majesty the Emperor of Russia I should at once be helped.",
+   "en": "Most Serene Prince!\n\nI have the honour, Your Serene Highness, in most devoted answer to your very obliging letter of the 12th of this month, to reply: that although at this moment the territorial relations of the Duchy of Warsaw have been definitively decided as regards those of its provinces reverting to Prussia; what on the other hand concerns the compensation of the respective donatories in the said Duchy, the regulation of this matter has been reserved for a separate negotiation, to which, however, proceedings have already been taken at this time. Given the sincere interest which I take in every event concerning Your Serene Highness, it will assuredly afford me a quite particular pleasure to find, in the course of this negotiation, an occasion to further the fulfilment of the wish communicated to me by the same in respect of the compensation for the Trąbczyn estates withdrawn from you. I moreover very gladly avail myself of the present occasion to renew to Your Serene Highness the assurance of that reverence with which I remain Your Serene Highness's\n\nVienna\n\nthe __th of May 1815.\n\nTo His Serene Highness the Prince of Hohenlohe.",
    "names": [
     {
-     "de": "Pohlens",
-     "en": "Poland",
+     "de": "Warschau",
+     "en": "Warsaw",
+     "kind": "place"
+    },
+    {
+     "de": "Preußen",
+     "en": "Prussia",
      "kind": "place"
     },
     {
@@ -310,152 +181,55 @@
      "kind": "place"
     },
     {
-     "de": "Rußischer",
-     "en": "Russian",
+     "de": "Wien",
+     "en": "Vienna",
      "kind": "place"
     },
     {
-     "de": "Preußl.",
-     "en": "Prussian",
-     "kind": "place"
-    },
-    {
-     "de": "Ruſischen Kaysers",
-     "en": "Emperor of Russia",
-     "kind": "person"
-    },
-    {
-     "de": "Freyherrn von Stein",
-     "en": "Baron von Stein",
-     "kind": "person"
-    },
-    {
-     "de": "Baron von Stein",
-     "en": "Baron von Stein",
-     "kind": "person"
-    }
-   ]
-  },
-  {
-   "page": 2,
-   "en": "My loss amounts to over 261,000 Rthl. I might well with every right hope that estates of equal value would be conferred on me: in the meantime I should gladly be content with the small district office of Sokolnik situated not far from Boleslawice, which yields some 8 to 10,000 Rthl in rent. I most obediently beg Your Serene Highness to intercede for me, as your old and faithful admirer, with His Majesty the Emperor of Russia, and to so direct the matter that the Sokolnik district office be conferred on me as compensation, the more so as I am the only one from whom the estates have been taken and who must be compensated.\n\nMay Your Serene Highness accept the assurance of the high reverence with which I persist.\n\nYour Serene Highness's\n\nmost obedient servant, F[riedrich]. L[udwig]. P[rince]. o[f]. Hohenlohe.\n\nSławięcice, the 12 May 1815.",
-   "names": [
-    {
-     "de": "Boleslawice",
-     "en": "Boleslawice",
-     "kind": "place"
-    },
-    {
-     "de": "Sokolnik",
-     "en": "Sokolnik",
-     "kind": "place"
-    },
-    {
-     "de": "Sokolniker",
-     "en": "Sokolnik",
-     "kind": "place"
-    },
-    {
-     "de": "Ruſisch Kaysers",
-     "en": "Emperor of Russia",
-     "kind": "person"
-    },
-    {
-     "de": "Schlawenschitz",
-     "en": "Sławięcice",
-     "kind": "place"
-    },
-    {
-     "de": "F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe",
-     "en": "Friedrich Ludwig, Prince of Hohenlohe",
+     "de": "Herrn Fürsten zu Hohenlohe",
+     "en": "the Prince of Hohenlohe",
      "kind": "person"
     }
    ],
    "numbers": [
-    "261000",
-    "8",
-    "10000",
     "12",
     "1815"
    ]
   }
  ],
- "text_english": "Most Serene Prince!\n\nPoland's fate is now decided, and the boundaries determined. The district in which the Trąbczyn estates lie that were taken from me by the Polish administrative commission falls under Russian sovereignty. Since now both sovereigns have confirmed the acts of the Prussian commission, the estates taken from me remain lost to me for ever, and it is now my sole comfort that, according to the love of justice of both monarchs, the donees are to be given a compensation by means of other estates.\n\nAccording to the highest probability I should have to await my indemnification from His Majesty the Emperor of Russia, on which account I have also already applied to the Minister Baron von Stein. But whether this matter depends on Baron von Stein alone, I do not know. — This, however, I do know, that through Your Serene Highness's word with His Majesty the Emperor of Russia I should at once be helped.\n\nMy loss amounts to over 261,000 Rthl. I might well with every right hope that estates of equal value would be conferred on me: in the meantime I should gladly be content with the small district office of Sokolnik situated not far from Boleslawice, which yields some 8 to 10,000 Rthl in rent. I most obediently beg Your Serene Highness to intercede for me, as your old and faithful admirer, with His Majesty the Emperor of Russia, and to so direct the matter that the Sokolnik district office be conferred on me as compensation, the more so as I am the only one from whom the estates have been taken and who must be compensated.\n\nMay Your Serene Highness accept the assurance of the high reverence with which I persist.\n\nYour Serene Highness's\n\nmost obedient servant, F[riedrich]. L[udwig]. P[rince]. o[f]. Hohenlohe.\n\nSławięcice, the 12 May 1815.",
- "summary_en": "The Prince writes to Hardenberg that the district of his Trąbczyn estates falls under Russian sovereignty; since both sovereigns have confirmed the commission's acts, he says the estates are lost to him, and that the donees should be compensated with other estates. He says his loss amounts to more than 261,000 Rthl. He would be satisfied with the small domain of Sokolnik, which yields 8 to 10,000 Rthl in rent, and he asks Hardenberg to intercede for this with the Russian Emperor.",
- "summary_de": "Der Fürst schreibt Hardenberg, der Distrikt seiner Trąbczyner Güter falle unter russische Hoheit; da beide Souveräne die Handlungen der Kommission bestätigt hätten, seien sie für ihn verloren, und den Donataren solle eine Entschädigung durch andere Güter gegeben werden. Sein Verlust betrage über 261000 Rthl. Er wäre mit dem kleinen Amt Sokolnik zufrieden, das 8 bis 10000 Rthl Pacht gibt, und bittet Hardenberg, sich beim russischen Kaiser dafür zu verwenden.",
+ "text_english": "Most Serene Prince!\n\nI have the honour, Your Serene Highness, in most devoted answer to your very obliging letter of the 12th of this month, to reply: that although at this moment the territorial relations of the Duchy of Warsaw have been definitively decided as regards those of its provinces reverting to Prussia; what on the other hand concerns the compensation of the respective donatories in the said Duchy, the regulation of this matter has been reserved for a separate negotiation, to which, however, proceedings have already been taken at this time. Given the sincere interest which I take in every event concerning Your Serene Highness, it will assuredly afford me a quite particular pleasure to find, in the course of this negotiation, an occasion to further the fulfilment of the wish communicated to me by the same in respect of the compensation for the Trąbczyn estates withdrawn from you. I moreover very gladly avail myself of the present occasion to renew to Your Serene Highness the assurance of that reverence with which I remain Your Serene Highness's\n\nVienna\n\nthe __th of May 1815.\n\nTo His Serene Highness the Prince of Hohenlohe.",
+ "summary_en": "Reply to the Prince: he writes that the territorial arrangements of the Duchy of Warsaw have been finally settled as regards the provinces returning to Prussia, and that compensation of the donataries has been reserved for a separate negotiation. He says he will seek an opportunity in the course of it to further the compensation for the Trąbczyn estates taken from the Prince.",
+ "summary_de": "Antwort an den Fürsten: Die Territorialverhältnisse des Herzogtums Warschau seien für die an Preußen zurückfallenden Provinzen definitiv entschieden; die Entschädigung der Donatare sei einer besonderen Unterhandlung vorbehalten. Der Schreiber werde darin Gelegenheit suchen, die Entschädigung für die entzogenen Trąbczyner Güter zu befördern.",
  "reading": {
   "letter": "8",
   "legibility": "sound",
-  "notes": "The Prince to Hardenberg, Sławięcice, 12 May 1815. Poland's fate is decided: the district of his Trąbczyn estates falls under Russian sovereignty, and since both sovereigns have confirmed what the commission did, the estates are lost to him for ever; his one comfort is that the donees are to be compensated with other estates. He expects his compensation from the Russian Emperor and has already written to Stein, but knows Hardenberg's word with the Emperor would help at once. His loss is over 261,000 rt. He would be content with the small Amt Sokolnik near Boleslawice, which yields 8 to 10,000 rt in rent, and asks Hardenberg to obtain it for him, the more so as he is the only one whose estates were taken.",
+  "notes": "Fair copy of the cancelled reply of May 1815 (document 11), in a clerk's hand, engrossed and not sent. The same text.",
   "claims": [
    {
-    "statement": "Der Distrikt der ihm von der polnischen Verwaltungskommission genommenen Trąbczyner Güter falle unter russische Hoheit",
+    "statement": "Die Territorialverhältnisse des Herzogtums Warschau seien für die an Preußen zurückfallenden Provinzen definitiv entschieden; die Entschädigung der Donatare sei einer besonderen Unterhandlung vorbehalten",
     "lines": [
      2,
      3,
      4,
-     5
-    ]
-   },
-   {
-    "statement": "Da beide Souveräne die Handlungen der Kommission bestätigt hätten, seien die Güter für ihn verloren; den Donataren solle eine Entschädigung durch andere Güter gegeben werden",
-    "lines": [
+     5,
      6,
      7,
      8,
+     9
+    ]
+   },
+   {
+    "statement": "Hardenberg werde darin Gelegenheit suchen, die Entschädigung für die entzogenen Trąbczyner Güter zu befördern",
+    "lines": [
      9,
      10,
      11,
-     12
-    ]
-   },
-   {
-    "statement": "Er erwarte sein Dedommagement vom russischen Kaiser und habe sich schon an Stein gewandt; durch Hardenbergs Vorwort wäre ihm sogleich geholfen",
-    "lines": [
-     13,
-     14,
-     15,
-     16,
-     17,
-     18,
-     19,
-     20,
-     21
-    ],
-    "check": "overstated",
-    "why": "Im Brief steht nur, dass er das Dedommagement 'der höchsten Wahrscheinlichkeit nach' vom russischen Kaiser erwarten müsse. Diese Einschränkung fehlt in der Behauptung. Dass er sich an Stein gewandt hat und dass ihm durch Hardenbergs Vorwort geholfen wäre, ist belegt."
-   },
-   {
-    "statement": "Sein Verlust betrage über 261000 Rthl; er wäre mit dem kleinen Amt Sokolnik unweit Boleslawice zufrieden, das 8 bis 10000 Rthl Pacht gibt",
-    "lines": [
-     22,
-     23,
-     24,
-     25,
-     26,
-     27
-    ]
-   },
-   {
-    "statement": "Er bittet Hardenberg, sich beim russischen Kaiser dafür zu verwenden, dass ihm das Sokolniker Amt als Entschädigung verliehen werde",
-    "lines": [
-     27,
-     28,
-     29,
-     30,
-     31,
-     32,
-     33
+     12,
+     13
     ]
    }
   ],
-  "doubtful_words": [
-   {
-    "line": 7,
-    "word": "Preußl.",
-    "note": "the sense wants the Polish commission of line 183 ('Pohlnl'), not a Prussian one"
-   }
-  ],
-  "read_against": "1168adbdb907bb47"
+  "doubtful_words": [],
+  "read_against": "b7aa7847c4b1b4c7"
  }
 }

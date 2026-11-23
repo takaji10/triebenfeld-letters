@@ -1,61 +1,85 @@
 status: draft
 segments:
 - page: 1
-  en: 'Copy. The claims of the Prince of Hohenlohe to the South Prussian estates of Trąbczyn and Kamionna,
-    bestowed upon him in the year 1796 by His Majesty the late King of blessed memory, will only be capable
-    of being brought forward with any presumptive prospect of success once definitive determinations have
-    been reached concerning the Warsaw affairs generally. At present this is not yet the case, and I have
-    therefore also thought it best to hold back, until that point in time arrives, the Prince''s letter
-    to His Majesty the Emperor Alexander which Your Right Honourable delivered to me with your communication
-    of the 6th of this month; and I request you to disclose this to him. Paris, the 14th of May 1814.
+  en: 'Vienna, 17 March [18]15
 
 
-    Hardenberg
+    To the Right Honourable the councillor of war von Triebenfeld
 
 
-    To
+    here
 
 
-    the Royal Councillor of War
+    No. 1915.
 
 
-    Mr von Triebenfeld
+    To Your [etc.] I [uncertain: again I also] the representation of the 2nd of this month, returning
+    the enclosures of the same: that with regard to the compensation of those donees of South Prussian
+    estates from whom possession has been withdrawn since the peace of Tilsit, a diplomatic negotiation
+    has been opened, the result of which will be communicated in due course to the [uncertain: of the
+    cost] Prince of Hohenlohe. As concerns the [uncertain: Bedeuten] of the Frankfurt bank, Mr [illegible]
+    Leixner, it is, according to the state of the matter, not the dispossession from the Kolno and Kamionna
+    estates that has brought him into the judicial investigation and the [uncertain: Vorzug / preference],
+    but rather the irregular administration of his post, and in particular also the impermissible act
+    whereby he borrowed upon the asset registered on Kolno and Kamionna for the merchant Simon at its
+    full [uncertain: value] and [...] still to me at a time when the [uncertain: taking of possession]
+    of the estates by [uncertain: the lady] von Miączyńska was already known to him.
 
 
-    Your Honour
+    Vienna, 17 March [18]15.
 
 
-    here.'
+    In His Serene Highness''s name.
+
+
+    Stägemann.
+
+
+    Hardenberg.'
   names:
-  - de: Herrn Fürsten von Hohenlohe
-    en: the Prince of Hohenlohe
-    kind: person
-  - de: Trąbczyn
-    en: Trąbczyn
+  - de: W[ien]
+    en: Vienna
     kind: place
-  - de: Kaemen
+  - de: v. Triebenfeld
+    en: von Triebenfeld
+    kind: person
+  - de: Tilsit
+    en: Tilsit
+    kind: place
+  - de: v Hohenlohe
+    en: of Hohenlohe
+    kind: person
+  - de: Frankfurtſchen
+    en: Frankfurt
+    kind: place
+  - de: Leixner
+    en: Leixner
+    kind: person
+  - de: Kolno
+    en: Kolno
+    kind: place
+  - de: Kähmen
     en: Kamionna
     kind: place
-  - de: Sudpreußischen
-    en: South Prussian
-    kind: place
-  - de: Warschauer
-    en: Warsaw
-    kind: place
-  - de: Kaysers Allexander
-    en: the Emperor Alexander
+  - de: Simon
+    en: Simon
     kind: person
-  - de: Paris
-    en: Paris
-    kind: place
-  - de: Hardenberg
+  - de: v. Miączyńska
+    en: von Miączyńska
+    kind: person
+  - de: St[ä]g[emann]
+    en: Stägemann
+    kind: person
+  - de: H[arden]b[er]g
     en: Hardenberg
     kind: person
-  - de: Herrn von Triebenfeld
-    en: Mr von Triebenfeld
-    kind: person
+  - de: Südpreußiſcher
+    en: South Prussian
+    kind: place
   numbers:
-  - '1796'
-  - '6'
-  - '14'
-  - '1814'
+  - '17'
+  - '15'
+  - '1915'
+  - '2'
+  - '17'
+  - '18'

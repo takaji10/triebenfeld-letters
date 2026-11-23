@@ -1,0 +1,145 @@
+# One page, one document (docs/DOCUMENT_MERGE_PLAN.md; the editor, 2026-11-23).
+# Carried out by pipeline/review/merge_documents.py --unit iiihamdaiiinr12765 --write,
+# which renumbers the holding afterwards. The numbers here are the OLD ones.
+#
+#   1 + 2 + 3: Triebenfeld's letter of 25 Oct 1814; Hardenberg's draft reply of
+#     25 Nov 1814 written beneath it on the same page (a second voice); the copy
+#     of Hardenberg's letter of 14 May 1814 that the letter encloses ("lege ich
+#     in Abschrift hier bey"), on the next page.
+#   8 + 9 + 10: the Prince's letter of 12 May 1815, and the two chancery drafts
+#     of 6 June 1815 written on its sheet (to the Prince, to Zerboni), which share
+#     page 0012_a2 (the holding's description: "written on the incoming letter").
+#   21 + 22: two ministry drafts of 22 June 1816 on page 0030_a2, the second
+#     following the first in the same hand.
+#   27 + 28: Alopeus's note of 31 Jan 1820 and the copy of Prince Zajączek's
+#     report it encloses ("Le rapport ci-joint"), on the following pages.
+merges:
+- main: '1'
+  parts:
+  - {doc: '2', as: voice}
+  - {doc: '3', as: enclosure}
+- main: '8'
+  parts:
+  - {doc: '9', as: voice}
+  - {doc: '10', as: voice}
+- main: '21'
+  parts:
+  - {doc: '22', as: follows}
+- main: '27'
+  parts:
+  - {doc: '28', as: enclosure}
+
+# The merged documents' summaries: the parts' checked summaries joined, with
+# only where each part stands and its date (from its dateline) added.
+summaries:
+  '1':
+    en: >-
+      Triebenfeld reminds Hardenberg that on 6 May in Paris he handed him a letter from the Prince
+      of Hohenlohe to the Russian Emperor. He encloses a Copy of the resolution issued on it on 14
+      May and asks to be allowed to bring the matter, which is important to the Prince, back to mind
+      at what is now the decisive moment. The chancery notes that the petition was handed over to
+      Councillor of State Stägemann on 20 November 1814. Beneath the letter stands the draft of the
+      reply of 25 November 1814: the matter of the Prince of Hohenlohe concerning the claims to
+      Trąbczyn and Kamionna will, it is said, settle itself as soon as the general settlement and
+      agreement regarding the Duchy of Warsaw is carried out. The enclosed copy is Hardenberg's
+      letter to Triebenfeld of 14 May 1814: he says the claims of the Prince of Hohenlohe to the
+      South Prussian estates of Trąbczyn and Kamionna, given to him in 1796, could only be raised
+      with any prospect of success once definitive arrangements have been made about the Warsaw
+      affairs. That, he says, is not yet the case. Hardenberg is therefore holding back the Prince's
+      letter to Emperor Alexander and asks that this be made known to the Prince.
+    de: >-
+      Triebenfeld erinnert Hardenberg daran, dass er ihm am 6. Mai in Paris ein Schreiben des
+      Fürsten Hohenlohe an den russischen Kaiser übergeben hat. Er legt die darauf erteilte
+      Resolution vom 14. Mai in Abschrift bei und bittet, die für den Fürsten wichtige Sache im
+      jetzt entscheidenden Zeitpunkt wieder in Erinnerung bringen zu dürfen. Die Kanzlei vermerkt,
+      das Gesuch sei am 20. November 1814 an Staatsrat Stägemann abgegeben worden. Unter dem Brief
+      steht der Entwurf der Antwort vom 25. November 1814: Die Angelegenheit des Fürsten Hohenlohe
+      wegen der Ansprüche auf Trąbczyn und Kamionna werde sich von selbst ausgleichen, sobald die
+      allgemeine Auseinandersetzung und Übereinkunft wegen des Herzogtums Warschau zur Ausführung
+      komme. Die beigelegte Abschrift ist Hardenbergs Schreiben an Triebenfeld vom 14. Mai 1814: Die
+      Ansprüche des Fürsten von Hohenlohe auf die ihm 1796 geschenkten südpreußischen Güter
+      Trąbczyn und Kamionna könnten erst mit Aussicht auf Erfolg angeregt werden, wenn über die
+      Warschauer Angelegenheiten definitive Bestimmungen erfolgt sind. Das sei noch nicht der Fall.
+      Hardenberg hält deshalb das Schreiben des Fürsten an Kaiser Alexander zurück und bittet, dies
+      dem Fürsten zu eröffnen.
+  '8':
+    en: >-
+      The Prince writes to Hardenberg that the district of his Trąbczyn estates falls under Russian
+      sovereignty; since both sovereigns have confirmed the commission's acts, he says the estates
+      are lost to him, and that the donees should be compensated with other estates. He says his
+      loss amounts to more than 261,000 Rthl. He would be satisfied with the small domain of
+      Sokolnik, which yields 8 to 10,000 Rthl in rent, and he asks Hardenberg to intercede for this
+      with the Russian Emperor. On the letter's sheet stand two drafts of 6 June 1815. The first is
+      Hardenberg's reply to the Prince concerning his letter of the 12th of the previous month about
+      the Trąbczyn estates: a minister has also passed on to him the letter addressed to that
+      minister regarding Kamionna and Trąbczyn; he has asked Zerboni to inform him fully about both
+      estates, and he reserves the right to notify the Prince of his further steps. The second is a
+      letter to Zerboni in Poznań: Hardenberg sends, in the original, two letters of the Prince, one
+      to himself and one to Stein, concerning the claims over the confiscated estates of Kamionna
+      and Trąbczyn, and asks to be told what steps can still be taken in the Prince's favour. He says
+      the Prince sold Kamionna to Leixner, and that the 55,000 Rthl and interest are owed to the
+      bank. He expects Zerboni's report as soon as possible.
+    de: >-
+      Der Fürst schreibt Hardenberg, der Distrikt seiner Trąbczyner Güter falle unter russische
+      Hoheit; da beide Souveräne die Handlungen der Kommission bestätigt hätten, seien sie für ihn
+      verloren, und den Donataren solle eine Entschädigung durch andere Güter gegeben werden. Sein
+      Verlust betrage über 261000 Rthl. Er wäre mit dem kleinen Amt Sokolnik zufrieden, das 8 bis
+      10000 Rthl Pacht gibt, und bittet Hardenberg, sich beim russischen Kaiser dafür zu verwenden.
+      Auf dem Bogen des Briefes stehen zwei Entwürfe vom 6. Juni 1815. Der erste ist Hardenbergs
+      Antwort an den Fürsten auf das Schreiben vom 12. des Vormonats wegen der Trąbczyner Güter: Ein
+      Minister habe ihm auch das an ihn gerichtete Schreiben wegen Kamionna und Trąbczyn mitgeteilt;
+      Hardenberg habe Zerboni ersucht, ihn über beide Güter in vollständige Kenntnis zu setzen, und
+      behalte sich vor, dem Fürsten von seinen weiteren Schritten Nachricht zu geben. Der zweite ist
+      ein Schreiben an Zerboni in Poznań: Hardenberg übersendet urschriftlich zwei Schreiben des
+      Fürsten, an ihn und an Stein, über die Ansprüche wegen der entzogenen Güter Kamionna und
+      Trąbczyn und bittet um Mitteilung, welche Schritte zugunsten des Fürsten noch getan werden
+      können. Kamionna habe der Fürst an Leixner verkauft; die 55000 Rthl und Zinsen habe die Bank zu
+      fordern. Er erwartet Zerbonis Bericht so bald als möglich.
+  '21':
+    en: >-
+      Draft of a reply to the widow Brehmer: her petition of 26 April addressed to Hardenberg has
+      been passed to the ministry. If she wishes to seek satisfaction for the capital of 5,000 Rthl
+      registered on Szetlewek out of the Prince's remaining property, she must first sue him before
+      his own court in order to establish the claim at law, in case the Emperor of Russia should
+      declare himself willing to grant the Prince compensation. On the same page follows the draft
+      of a letter to Schöler: with reference to the letter of 29 April, the ministry reports that the
+      mortgage creditors are in danger of losing their capital, since the Prince has let Trąbczyn
+      deteriorate and has burdened it with debts; Schöler is asked to raise this. He is to send word
+      if the Emperor grants the Prince compensation, so that the creditors can pursue their claims.
+    de: >-
+      Entwurf einer Antwort an die Witwe von Brehmer: Ihre an Hardenberg gerichtete Vorstellung vom
+      26. April sei dem Ministerium zugefertigt worden. Wolle sie wegen des auf Szetlewek
+      eingetragenen Kapitals von 5000 Rthl aus dem übrigen Vermögen des Fürsten Befriedigung suchen,
+      so müsse sie ihn zuerst vor seiner Gerichtsbehörde belangen, um den Anspruch rechtlich
+      festzustellen, falls der Kaiser von Russland sich geneigt erklären sollte, dem Fürsten eine
+      Entschädigung zu gewähren. Auf derselben Seite folgt der Entwurf eines Schreibens an Schöler:
+      Mit Bezug auf das Schreiben vom 29. April teilt das Ministerium mit, dass die hypothekarischen
+      Gläubiger Gefahr laufen, ihre Kapitalien zu verlieren, da der Fürst Trąbczyn deterioriert und
+      mit Schulden belastet hat; Schöler möge dies zur Sprache bringen. Er soll Nachricht geben,
+      falls der Kaiser dem Fürsten eine Entschädigung gewährt, damit die Gläubiger ihre Gerechtsame
+      verfolgen können.
+  '27':
+    en: >-
+      Note from the Russian envoy Alopeus to Ancillon: Duke Eugen of Württemberg had recommended the
+      claims of the heirs of the Prince of Hohenlohe and of Count Bethusy against the Kingdom of
+      Poland. The heirs appeal to Generals von Zastrow and von Sanitz; the matter was already
+      negotiated with Schöler in 1816 and refused. Bethusy's request under Article 18 of the Treaty
+      of Vienna was submitted to the Polish government's examination and refused. The Emperor
+      regrets that he cannot act on the recommendation. Enclosed is the copy of a report by Prince
+      Zajączek to the Emperor: Count Ernst Bethusy asked to be admitted, together with his three
+      sons, to the benefits of Article 18 of the Treaty of Vienna. Zajączek says the article applies
+      only to properties cut through by the border between the Kingdom of Poland and the Grand Duchy
+      of Poznań. He says Bethusy evidently wants only to export iron ore for his ironworks in
+      Silesia, which the customs regulations forbid.
+    de: >-
+      Note des russischen Gesandten Alopeus an Ancillon: Herzog Eugen von Württemberg empfahl die
+      Forderungen der Erben des Fürsten von Hohenlohe-Ingelfingen und des Grafen Bethusy an das
+      Königreich Polen. Die Erben berufen sich auf die Generale von Zastrow und von Sanitz; die Sache
+      wurde schon 1816 mit Schöler verhandelt und abgelehnt. Bethusys Antrag nach Artikel 18 des
+      Wiener Vertrags wurde der Prüfung der polnischen Regierung unterbreitet und abgelehnt. Der
+      Kaiser bedauert, der Empfehlung nicht folgen zu können. Beigelegt ist die Abschrift eines
+      Berichts des Fürsten Zajączek an den Kaiser: Graf Ernst Bethusy bat, mit seinen drei Söhnen zu
+      den Vergünstigungen des Artikels 18 des Wiener Vertrags zugelassen zu werden. Der Artikel
+      gelte nur für Besitzungen, die von der Grenze zwischen dem Königreich Polen und dem
+      Großherzogtum Posen durchschnitten werden. Bethusy wolle offenbar nur Eisenerz für seine
+      Hütten in Schlesien ausführen, was die Zollvorschriften verbieten.

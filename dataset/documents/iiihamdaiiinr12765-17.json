@@ -9,127 +9,180 @@
  "doc_type": "draft",
  "era": "hohenlohe",
  "themes": [],
- "date_iso": "1816-04-29",
+ "date_iso": "1816-06-22",
  "date_precision": "day",
  "date_source": "signature",
- "date_display": "Berlin den 29ten April 1816 ad nr: c. 2278.",
+ "date_display": "Berlin d. 22 Juni 1816.",
  "date_inferred_from": "",
  "year": 1816,
- "month": 4,
- "day": 29,
+ "month": 6,
+ "day": 22,
  "place": "Berlin",
  "sender": "Ministerium der auswärtigen Angelegenheiten",
- "recipient": "Schöler",
- "line_start": 523,
- "line_end": 595,
- "uncertainty_count": 1,
+ "recipient": "von Brehmer",
+ "line_start": 715,
+ "line_end": 790,
+ "uncertainty_count": 4,
  "has_damage": 0,
- "rough_transcription": 0,
+ "rough_transcription": 1,
  "language": "de",
  "duplicate_of": "",
- "relations": [],
+ "relations": [
+  {
+   "kind": "answers",
+   "target": "15",
+   "note": "'unterm 26ten April d. J. gerichtete Vorstellung': the widow von Brehmer's petition."
+  }
+ ],
  "estates": [
+  "szetlewek",
   "trabczyn"
  ],
  "is_missing": 0,
- "n_lines": 69,
- "n_pages": 3,
- "text": "Berlin den 29ten April 1816 ad nr: c. 2278.\nAn den K. Preußischen Gene¬\nrale Major und Gesandten\nam Russische Kaiserlichen\nHofe Herrn\nv. Schoeler\nHochwohlgeboren\nzu St. Peters¬ \nburg.\n(Entschädigungs-Gesuch des\nFürſten v. Hohenlohe wegen\nder Trąbczyner Güter.)\nden 30. z. Post.\n2960.\nDer Fürſt Friedrich Ludwig\nvon Hohenlohe Durchlaucht er¬\nhielt von des Höchstseeligen\nKönigs Majestät die Trąbc¬\nzyner Güter im Kalischer\ndepartement, im Kreise von\nKonin, welche früher ein\nEigenthum des in der In¬\nsurrection vom Jahre 1794.\nbefangen gewesenen Staro¬\nsten Prusimsky geweſen,\nund dem Staate durch Con¬\nfiscation anheim gefal¬\nlen waren, zum Geschenk.\nDiese Güter sind durch\ndie politiſchen Begebenhei¬\nten der Jahre 1806 und\n1807 an die Tochter (des\nvorigen Eigenthümers Frau\nv. Miączyńska zurückge¬\nlangt, und die Verſuche\ndes p Fürsten v. Hohenlohe\nwieder in den Besitz der\nselben gesetzt zu werden\nvergeblich gewesen, da\nauch Sr Majestät der\nKaiser von Rußland.\nder gedachten p Miączyńs¬\nka dieſen Beſitz beſtä¬\ntiget.\nhaben.\nDa inzwischen einige dona¬\ntarien im Königreich Polen\nEntschädigung geworden wer¬\nden ist, so macht nun\nebenfalls der p Fürst von\nHohenlohe auf solche An¬\nspruch.\nIndem ich dann Ew. Hochwohlgeboren\nich daher von dessen\nWunsche mittheile er¬\nsuche ich[?] dieselben Zugleich den\nAntrag des Fürsten gefall ist zur  \nKenntniß und Entscheidungen Sr Russisch\nKaiserlichen Majestät zu\nbringen, jedoch nur ganz\nim Allgemeinen und ohne\ndas Gesuch dringend zu unter¬\nstützen, da man diese An¬\ngelegenheit lediglich als Gnadensache\nbetrachten muss.\nBerlin den\nMinisterium der auswärtigen\nAngelegenhhl. 3te Section.\nH[arden]b[er]g 28/4.",
- "text_reading": "Berlin den 29ten April 1816 ad nr: c. 2,278. An den K. Preußischen Generale Major und Gesandten am Russische Kaiserlichen Hofe Herrn\n\nv. Schoeler Hochwohlgeboren\n\nzu St. Petersburg.\n\n(Entschädigungs-Gesuch des Fürſten v. Hohenlohe wegen der Trąbczyner Güter.) den 30. z. Post.\n\n2960.\n\nDer Fürſt Friedrich Ludwig von Hohenlohe Durchlaucht erhielt von des Höchstseeligen Königs Majestät die Trąbczyner Güter im Kalischer departement, im Kreise von Konin, welche früher ein Eigenthum des in der Insurrection vom Jahre 1794. befangen gewesenen Starosten Prusimsky geweſen, und dem Staate durch Confiscation anheim gefallen waren, zum Geschenk. Diese Güter sind durch die politiſchen Begebenheiten der Jahre 1806 und 1807 an die Tochter (des vorigen Eigenthümers Frau\n\nv. Miączyńska zurückgelangt, und die Verſuche des p Fürsten v. Hohenlohe wieder in den Besitz der selben gesetzt zu werden vergeblich gewesen, da auch Sr Majestät der Kaiser von Rußland. der gedachten p Miączyńska dieſen Beſitz beſtätiget.\n\nhaben.\n\nDa inzwischen einige donatarien im Königreich Polen Entschädigung geworden werden ist, so macht nun ebenfalls der p Fürst von Hohenlohe auf solche Anspruch.\n\nIndem ich dann Ew. Hochwohlgeboren ich daher von dessen Wunsche mittheile ersuche ich[?] dieselben Zugleich den Antrag des Fürsten gefall ist zur Kenntniß und Entscheidungen Sr Russisch Kaiserlichen Majestät zu bringen, jedoch nur ganz im Allgemeinen und ohne das Gesuch dringend zu unterstützen, da man diese Angelegenheit lediglich als Gnadensache betrachten muss.\n\nBerlin den Ministerium der auswärtigen Angelegenhhl. 3te Section. H[arden]b[er]g 28/4.",
+ "n_lines": 73,
+ "n_pages": 2,
+ "text": "Berlin den 29. Juni 1816.\nAn\nDie Verw. Frau Obrist von Brehmer\nHochwohlgeb.\nv Sommerfeldt\nbetr: die Entschädigung des Fürsten\nvon Hohenlohe Ingelfingen.\nHg. 3. July mund.\nden 6ten Julius beydes zu Post\nN. 3997.\nDie von Ewr Hochwohlgl. an den Herrn Staats¬\nkanzler Fürsten von Hardenberg unterm\n26ten April d. J. gerichtete Vorstellung\nist mir zur weitern Veranlaßung zuge¬\nfertigt worden. Wenn Ewohnfrau\ndarin die Absicht, wegen des ererbten\nvon ihrem verstorbnen Bruder dem Fürsten\nvon Hohenlohe Ingelfingen dargeliehen\nauf deßen im Jahre 1807 eingezogenen Gute\nSzettlewek eingetragen Capitals von\n5000 rt aus dem übrigen Vermögen des\nFürsten, ihres Schuldners, Beständigung in\nſuchen zu wollen, aussprechen; so wird\nes zuförderst Ihre Sache seyn, denselben\nvor seiner Gerichtsbehörde zu belangen\num den Anspruch rechtlich festzustellen\nfalls Sie, wenn des Kaisers von\nRußland Majestät sich geneigt erklä¬\nren sollten, dem Fürsten v Hohenlohe\nwegen des Verlustes von Szettlewek\nund Trąbczyn einige Entschädigung\nzu gewähren, ohne Berücksichtigung hier,\nbei verlangen.\nBerlin d. 22 Juni 1816.\n4277.\nAn\ndes Königl. General Major und Gesandten\nan Kaiserl Rußl Hofe Herrn von\nSchöler Hochwohlgl\nzu Petersburg\nHg. 3t mund.\nMit Bezug auf mein Schreiben vom\n29ten April d. J. die Verwendung für den\nFürsten Friedrich Ludwig v Hohenlohe\nIngelfingen, bei des Kaisers von Ruß¬\nland Majestät zur Bewirkung einige\nEnt¬\nEntschädigung für die ihm im Kalischen depar¬\ntement eingezogenen Güter betreffend so\nich mich veranlaßt, die Ewer Hochwohlge¬\nbohren die später eingegangene Nachm[?]¬\ndaß, da den Fürst von Hohenlohe die\nGüter Trąbczyn mit zubehör deterior[irt?]\nund mit Schulden belastet hat, die Hypo¬\nthekarischen Gläubiger Gefahr laufe\nihre Capitalien zu verlieren, mit¬\nAnheimstellen ergebenst mit zutheilen\ndiesen Umstand, wenn dieselben das\nEntschädigungsgesuch des Fürsten unterstü¬\ntzen, mitzu Sprache zu bringen.\nZugleich ersuche ich auch Einehml[?].\nwohlgebohren ganz ergebenst nur, falls des Kaisers\nMajestät dem Fürsten einige Entschä¬\ndigung zu gewähren geruhen sollte,\nNachricht zu geben, damit die gedachten\nGläubiger zur weitern Verfolgung\nihrer Gerechtsame veranlaßt werden\nkönnen.\nBerlin d. 22 Juni 1816.\nM. d. a. A. 3te S.\nHoffm[ann].\nB[alan].\n1 Jul[?]",
+ "text_reading": "Berlin den 29. Juni 1816. An Die Verw. Frau Obrist von Brehmer Hochwohlgeb.\n\nv Sommerfeldt betr: die Entschädigung des Fürsten von Hohenlohe Ingelfingen. Hg. 3. July mund.\n\nden 6ten Julius beydes zu Post N. 3997.\n\nDie von Ewr Hochwohlgl. an den Herrn Staatskanzler Fürsten von Hardenberg unterm 26ten April d. J. gerichtete Vorstellung ist mir zur weitern Veranlaßung zugefertigt worden. Wenn Ewohnfrau darin die Absicht, wegen des ererbten von ihrem verstorbnen Bruder dem Fürsten von Hohenlohe Ingelfingen dargeliehen auf deßen im Jahre 1807 eingezogenen Gute Szettlewek eingetragen Capitals von 5,000 rt aus dem übrigen Vermögen des Fürsten, ihres Schuldners, Beständigung in ſuchen zu wollen, aussprechen; so wird es zuförderst Ihre Sache seyn, denselben vor seiner Gerichtsbehörde zu belangen um den Anspruch rechtlich festzustellen falls Sie, wenn des Kaisers von Rußland Majestät sich geneigt erklären sollten, dem Fürsten v Hohenlohe wegen des Verlustes von Szettlewek und Trąbczyn einige Entschädigung zu gewähren, ohne Berücksichtigung hier, bei verlangen.\n\nBerlin d. 22 Juni 1816.\n\n4277.\n\nAn des Königl. General Major und Gesandten an Kaiserl Rußl Hofe Herrn von Schöler Hochwohlgl\n\nzu Petersburg\n\nHg. 3t mund.\n\nMit Bezug auf mein Schreiben vom 29ten April d. J. die Verwendung für den Fürsten Friedrich Ludwig v Hohenlohe Ingelfingen, bei des Kaisers von Rußland Majestät zur Bewirkung einige\n\nEntschädigung für die ihm im Kalischen departement eingezogenen Güter betreffend so ich mich veranlaßt, die Ewer Hochwohlgebohren die später eingegangene Nachm[?] daß, da den Fürst von Hohenlohe die Güter Trąbczyn mit zubehör deterior[irt?] und mit Schulden belastet hat, die Hypothekarischen Gläubiger Gefahr laufe ihre Capitalien zu verlieren, mit Anheimstellen ergebenst mit zutheilen diesen Umstand, wenn dieselben das Entschädigungsgesuch des Fürsten unterstützen, mitzu Sprache zu bringen. Zugleich ersuche ich auch Einehml[?]. wohlgebohren ganz ergebenst nur, falls des Kaisers Majestät dem Fürsten einige Entschädigung zu gewähren geruhen sollte, Nachricht zu geben, damit die gedachten Gläubiger zur weitern Verfolgung ihrer Gerechtsame veranlaßt werden können.\n\nBerlin d. 22 Juni 1816.\n\nM. d. a. A. 3te S.\n\nHoffm[ann].\n\nB[alan].\n\n1 Jul[?]",
  "pages": [
   {
    "page": 1,
-   "page_id": "0022_a2",
-   "line_start": 525,
-   "line_end": 568,
-   "n_lines": 44,
-   "diplomatic": "Berlin den 29ten April 1816 ad nr: c. 2278.\nAn den K. Preußischen Gene¬\nrale Major und Gesandten\nam Russische Kaiserlichen\nHofe Herrn\nv. Schoeler\nHochwohlgeboren\nzu St. Peters¬ \nburg.\n(Entschädigungs-Gesuch des\nFürſten v. Hohenlohe wegen\nder Trąbczyner Güter.)\nden 30. z. Post.\n2960.\nDer Fürſt Friedrich Ludwig\nvon Hohenlohe Durchlaucht er¬\nhielt von des Höchstseeligen\nKönigs Majestät die Trąbc¬\nzyner Güter im Kalischer\ndepartement, im Kreise von\nKonin, welche früher ein\nEigenthum des in der In¬\nsurrection vom Jahre 1794.\nbefangen gewesenen Staro¬\nsten Prusimsky geweſen,\nund dem Staate durch Con¬\nfiscation anheim gefal¬\nlen waren, zum Geschenk.\nDiese Güter sind durch\ndie politiſchen Begebenhei¬\nten der Jahre 1806 und\n1807 an die Tochter (des\nvorigen Eigenthümers Frau\nv. Miączyńska zurückge¬\nlangt, und die Verſuche\ndes p Fürsten v. Hohenlohe\nwieder in den Besitz der\nselben gesetzt zu werden\nvergeblich gewesen, da\nauch Sr Majestät der\nKaiser von Rußland.\nder gedachten p Miączyńs¬\nka dieſen Beſitz beſtä¬\ntiget.",
-   "transcription": "Berlin den 29ten April 1816 ad nr: c. 2278.\nAn den K. Preußischen Gene-\nrale Major und Gesandten\nam Russische Kaiserlichen\nHofe Herrn\nv. Schoeler\nHochwohlgeboren\nzu St. Peters-\nburg.\n(Entschädigungs-Gesuch des\nFürſten v. Hohenlohe wegen\nder Trąbczyner Güter.)\nden 30. z. Post.\n2960.\nDer Fürſt Friedrich Ludwig\nvon Hohenlohe Durchlaucht er-\nhielt von des Höchstseeligen\nKönigs Majestät die Trąbc-\nzyner Güter im Kalischer\ndepartement, im Kreise von\nKonin, welche früher ein\nEigenthum des in der In-\nsurrection vom Jahre 1794.\nbefangen gewesenen Staro-\nsten Prusimsky geweſen,\nund dem Staate durch Con-\nfiscation anheim gefal-\nlen waren, zum Geschenk.\nDiese Güter sind durch\ndie politiſchen Begebenhei-\nten der Jahre 1806 und\n1807 an die Tochter (des\nvorigen Eigenthümers Frau\nv. Miączyńska zurückge-\nlangt, und die Verſuche\ndes p Fürsten v. Hohenlohe\nwieder in den Besitz der\nselben gesetzt zu werden\nvergeblich gewesen, da\nauch Sr Majestät der\nKaiser von Rußland.\nder gedachten p Miączyńs-\nka dieſen Beſitz beſtä-\ntiget.",
-   "reading": "Berlin den 29ten April 1816 ad nr: c. 2,278. An den K. Preußischen Generale Major und Gesandten am Russische Kaiserlichen Hofe Herrn\n\nv. Schoeler Hochwohlgeboren\n\nzu St. Petersburg.\n\n(Entschädigungs-Gesuch des Fürſten v. Hohenlohe wegen der Trąbczyner Güter.) den 30. z. Post.\n\n2960.\n\nDer Fürſt Friedrich Ludwig von Hohenlohe Durchlaucht erhielt von des Höchstseeligen Königs Majestät die Trąbczyner Güter im Kalischer departement, im Kreise von Konin, welche früher ein Eigenthum des in der Insurrection vom Jahre 1794. befangen gewesenen Starosten Prusimsky geweſen, und dem Staate durch Confiscation anheim gefallen waren, zum Geschenk. Diese Güter sind durch die politiſchen Begebenheiten der Jahre 1806 und 1807 an die Tochter (des vorigen Eigenthümers Frau\n\nv. Miączyńska zurückgelangt, und die Verſuche des p Fürsten v. Hohenlohe wieder in den Besitz der selben gesetzt zu werden vergeblich gewesen, da auch Sr Majestät der Kaiser von Rußland. der gedachten p Miączyńska dieſen Beſitz beſtätiget.",
+   "page_id": "0030_a2",
+   "line_start": 717,
+   "line_end": 763,
+   "n_lines": 47,
+   "diplomatic": "Berlin den 29. Juni 1816.\nAn\nDie Verw. Frau Obrist von Brehmer\nHochwohlgeb.\nv Sommerfeldt\nbetr: die Entschädigung des Fürsten\nvon Hohenlohe Ingelfingen.\nHg. 3. July mund.\nden 6ten Julius beydes zu Post\nN. 3997.\nDie von Ewr Hochwohlgl. an den Herrn Staats¬\nkanzler Fürsten von Hardenberg unterm\n26ten April d. J. gerichtete Vorstellung\nist mir zur weitern Veranlaßung zuge¬\nfertigt worden. Wenn Ewohnfrau\ndarin die Absicht, wegen des ererbten\nvon ihrem verstorbnen Bruder dem Fürsten\nvon Hohenlohe Ingelfingen dargeliehen\nauf deßen im Jahre 1807 eingezogenen Gute\nSzettlewek eingetragen Capitals von\n5000 rt aus dem übrigen Vermögen des\nFürsten, ihres Schuldners, Beständigung in\nſuchen zu wollen, aussprechen; so wird\nes zuförderst Ihre Sache seyn, denselben\nvor seiner Gerichtsbehörde zu belangen\num den Anspruch rechtlich festzustellen\nfalls Sie, wenn des Kaisers von\nRußland Majestät sich geneigt erklä¬\nren sollten, dem Fürsten v Hohenlohe\nwegen des Verlustes von Szettlewek\nund Trąbczyn einige Entschädigung\nzu gewähren, ohne Berücksichtigung hier,\nbei verlangen.\nBerlin d. 22 Juni 1816.\n4277.\nAn\ndes Königl. General Major und Gesandten\nan Kaiserl Rußl Hofe Herrn von\nSchöler Hochwohlgl\nzu Petersburg\nHg. 3t mund.\nMit Bezug auf mein Schreiben vom\n29ten April d. J. die Verwendung für den\nFürsten Friedrich Ludwig v Hohenlohe\nIngelfingen, bei des Kaisers von Ruß¬\nland Majestät zur Bewirkung einige\nEnt¬",
+   "transcription": "Berlin den 29. Juni 1816.\nAn\nDie Verw. Frau Obrist von Brehmer\nHochwohlgeb.\nv Sommerfeldt\nbetr: die Entschädigung des Fürsten\nvon Hohenlohe Ingelfingen.\nHg. 3. July mund.\nden 6ten Julius beydes zu Post\nN. 3997.\nDie von Ewr Hochwohlgl. an den Herrn Staats-\nkanzler Fürsten von Hardenberg unterm\n26ten April d. J. gerichtete Vorstellung\nist mir zur weitern Veranlaßung zuge-\nfertigt worden. Wenn Ewohnfrau\ndarin die Absicht, wegen des ererbten\nvon ihrem verstorbnen Bruder dem Fürsten\nvon Hohenlohe Ingelfingen dargeliehen\nauf deßen im Jahre 1807 eingezogenen Gute\nSzettlewek eingetragen Capitals von\n5000 rt aus dem übrigen Vermögen des\nFürsten, ihres Schuldners, Beständigung in\nſuchen zu wollen, aussprechen; so wird\nes zuförderst Ihre Sache seyn, denselben\nvor seiner Gerichtsbehörde zu belangen\num den Anspruch rechtlich festzustellen\nfalls Sie, wenn des Kaisers von\nRußland Majestät sich geneigt erklä-\nren sollten, dem Fürsten v Hohenlohe\nwegen des Verlustes von Szettlewek\nund Trąbczyn einige Entschädigung\nzu gewähren, ohne Berücksichtigung hier,\nbei verlangen.\nBerlin d. 22 Juni 1816.\n4277.\nAn\ndes Königl. General Major und Gesandten\nan Kaiserl Rußl Hofe Herrn von\nSchöler Hochwohlgl\nzu Petersburg\nHg. 3t mund.\nMit Bezug auf mein Schreiben vom\n29ten April d. J. die Verwendung für den\nFürsten Friedrich Ludwig v Hohenlohe\nIngelfingen, bei des Kaisers von Ruß-\nland Majestät zur Bewirkung einige\nEnt",
+   "reading": "Berlin den 29. Juni 1816. An Die Verw. Frau Obrist von Brehmer Hochwohlgeb.\n\nv Sommerfeldt betr: die Entschädigung des Fürsten von Hohenlohe Ingelfingen. Hg. 3. July mund.\n\nden 6ten Julius beydes zu Post N. 3997.\n\nDie von Ewr Hochwohlgl. an den Herrn Staatskanzler Fürsten von Hardenberg unterm 26ten April d. J. gerichtete Vorstellung ist mir zur weitern Veranlaßung zugefertigt worden. Wenn Ewohnfrau darin die Absicht, wegen des ererbten von ihrem verstorbnen Bruder dem Fürsten von Hohenlohe Ingelfingen dargeliehen auf deßen im Jahre 1807 eingezogenen Gute Szettlewek eingetragen Capitals von 5,000 rt aus dem übrigen Vermögen des Fürsten, ihres Schuldners, Beständigung in ſuchen zu wollen, aussprechen; so wird es zuförderst Ihre Sache seyn, denselben vor seiner Gerichtsbehörde zu belangen um den Anspruch rechtlich festzustellen falls Sie, wenn des Kaisers von Rußland Majestät sich geneigt erklären sollten, dem Fürsten v Hohenlohe wegen des Verlustes von Szettlewek und Trąbczyn einige Entschädigung zu gewähren, ohne Berücksichtigung hier, bei verlangen.\n\nBerlin d. 22 Juni 1816.\n\n4277.\n\nAn des Königl. General Major und Gesandten an Kaiserl Rußl Hofe Herrn von Schöler Hochwohlgl\n\nzu Petersburg\n\nHg. 3t mund.\n\nMit Bezug auf mein Schreiben vom 29ten April d. J. die Verwendung für den Fürsten Friedrich Ludwig v Hohenlohe Ingelfingen, bei des Kaisers von Rußland Majestät zur Bewirkung einige",
    "paragraphs": [
-    "Berlin den 29ten April 1816 ad nr: c. 2,278. An den K. Preußischen Generale Major und Gesandten am Russische Kaiserlichen Hofe Herrn",
-    "v. Schoeler Hochwohlgeboren",
-    "zu St. Petersburg.",
-    "(Entschädigungs-Gesuch des Fürſten v. Hohenlohe wegen der Trąbczyner Güter.) den 30. z. Post.",
-    "2960.",
-    "Der Fürſt Friedrich Ludwig von Hohenlohe Durchlaucht erhielt von des Höchstseeligen Königs Majestät die Trąbczyner Güter im Kalischer departement, im Kreise von Konin, welche früher ein Eigenthum des in der Insurrection vom Jahre 1794. befangen gewesenen Starosten Prusimsky geweſen, und dem Staate durch Confiscation anheim gefallen waren, zum Geschenk. Diese Güter sind durch die politiſchen Begebenheiten der Jahre 1806 und 1807 an die Tochter (des vorigen Eigenthümers Frau",
-    "v. Miączyńska zurückgelangt, und die Verſuche des p Fürsten v. Hohenlohe wieder in den Besitz der selben gesetzt zu werden vergeblich gewesen, da auch Sr Majestät der Kaiser von Rußland. der gedachten p Miączyńska dieſen Beſitz beſtätiget."
+    "Berlin den 29. Juni 1816. An Die Verw. Frau Obrist von Brehmer Hochwohlgeb.",
+    "v Sommerfeldt betr: die Entschädigung des Fürsten von Hohenlohe Ingelfingen. Hg. 3. July mund.",
+    "den 6ten Julius beydes zu Post N. 3997.",
+    "Die von Ewr Hochwohlgl. an den Herrn Staatskanzler Fürsten von Hardenberg unterm 26ten April d. J. gerichtete Vorstellung ist mir zur weitern Veranlaßung zugefertigt worden. Wenn Ewohnfrau darin die Absicht, wegen des ererbten von ihrem verstorbnen Bruder dem Fürsten von Hohenlohe Ingelfingen dargeliehen auf deßen im Jahre 1807 eingezogenen Gute Szettlewek eingetragen Capitals von 5,000 rt aus dem übrigen Vermögen des Fürsten, ihres Schuldners, Beständigung in ſuchen zu wollen, aussprechen; so wird es zuförderst Ihre Sache seyn, denselben vor seiner Gerichtsbehörde zu belangen um den Anspruch rechtlich festzustellen falls Sie, wenn des Kaisers von Rußland Majestät sich geneigt erklären sollten, dem Fürsten v Hohenlohe wegen des Verlustes von Szettlewek und Trąbczyn einige Entschädigung zu gewähren, ohne Berücksichtigung hier, bei verlangen.",
+    "Berlin d. 22 Juni 1816.",
+    "4277.",
+    "An des Königl. General Major und Gesandten an Kaiserl Rußl Hofe Herrn von Schöler Hochwohlgl",
+    "zu Petersburg",
+    "Hg. 3t mund.",
+    "Mit Bezug auf mein Schreiben vom 29ten April d. J. die Verwendung für den Fürsten Friedrich Ludwig v Hohenlohe Ingelfingen, bei des Kaisers von Rußland Majestät zur Bewirkung einige"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": true,
    "para_lines": [
-    5,
-    7,
-    9,
-    13,
-    14,
-    33
+    4,
+    8,
+    10,
+    33,
+    34,
+    35,
+    39,
+    40,
+    41
    ],
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 44
+   "doc_line_end": 47
   },
   {
    "page": 2,
-   "page_id": "0023_a1",
-   "line_start": 570,
-   "line_end": 590,
-   "n_lines": 21,
-   "diplomatic": "haben.\nDa inzwischen einige dona¬\ntarien im Königreich Polen\nEntschädigung geworden wer¬\nden ist, so macht nun\nebenfalls der p Fürst von\nHohenlohe auf solche An¬\nspruch.\nIndem ich dann Ew. Hochwohlgeboren\nich daher von dessen\nWunsche mittheile er¬\nsuche ich[?] dieselben Zugleich den\nAntrag des Fürsten gefall ist zur  \nKenntniß und Entscheidungen Sr Russisch\nKaiserlichen Majestät zu\nbringen, jedoch nur ganz\nim Allgemeinen und ohne\ndas Gesuch dringend zu unter¬\nstützen, da man diese An¬\ngelegenheit lediglich als Gnadensache\nbetrachten muss.",
-   "transcription": "haben.\nDa inzwischen einige dona-\ntarien im Königreich Polen\nEntschädigung geworden wer-\nden ist, so macht nun\nebenfalls der p Fürst von\nHohenlohe auf solche An-\nspruch.\nIndem ich dann Ew. Hochwohlgeboren\nich daher von dessen\nWunsche mittheile er-\nsuche ich[?] dieselben Zugleich den\nAntrag des Fürsten gefall ist zur\nKenntniß und Entscheidungen Sr Russisch\nKaiserlichen Majestät zu\nbringen, jedoch nur ganz\nim Allgemeinen und ohne\ndas Gesuch dringend zu unter-\nstützen, da man diese An-\ngelegenheit lediglich als Gnadensache\nbetrachten muss.",
-   "reading": "haben.\n\nDa inzwischen einige donatarien im Königreich Polen Entschädigung geworden werden ist, so macht nun ebenfalls der p Fürst von Hohenlohe auf solche Anspruch.\n\nIndem ich dann Ew. Hochwohlgeboren ich daher von dessen Wunsche mittheile ersuche ich[?] dieselben Zugleich den Antrag des Fürsten gefall ist zur Kenntniß und Entscheidungen Sr Russisch Kaiserlichen Majestät zu bringen, jedoch nur ganz im Allgemeinen und ohne das Gesuch dringend zu unterstützen, da man diese Angelegenheit lediglich als Gnadensache betrachten muss.",
+   "page_id": "0031_a1",
+   "line_start": 765,
+   "line_end": 790,
+   "n_lines": 26,
+   "diplomatic": "Entschädigung für die ihm im Kalischen depar¬\ntement eingezogenen Güter betreffend so\nich mich veranlaßt, die Ewer Hochwohlge¬\nbohren die später eingegangene Nachm[?]¬\ndaß, da den Fürst von Hohenlohe die\nGüter Trąbczyn mit zubehör deterior[irt?]\nund mit Schulden belastet hat, die Hypo¬\nthekarischen Gläubiger Gefahr laufe\nihre Capitalien zu verlieren, mit¬\nAnheimstellen ergebenst mit zutheilen\ndiesen Umstand, wenn dieselben das\nEntschädigungsgesuch des Fürsten unterstü¬\ntzen, mitzu Sprache zu bringen.\nZugleich ersuche ich auch Einehml[?].\nwohlgebohren ganz ergebenst nur, falls des Kaisers\nMajestät dem Fürsten einige Entschä¬\ndigung zu gewähren geruhen sollte,\nNachricht zu geben, damit die gedachten\nGläubiger zur weitern Verfolgung\nihrer Gerechtsame veranlaßt werden\nkönnen.\nBerlin d. 22 Juni 1816.\nM. d. a. A. 3te S.\nHoffm[ann].\nB[alan].\n1 Jul[?]",
+   "transcription": "Entschädigung für die ihm im Kalischen depar-\ntement eingezogenen Güter betreffend so\nich mich veranlaßt, die Ewer Hochwohlge-\nbohren die später eingegangene Nachm[?]\ndaß, da den Fürst von Hohenlohe die\nGüter Trąbczyn mit zubehör deterior[irt?]\nund mit Schulden belastet hat, die Hypo-\nthekarischen Gläubiger Gefahr laufe\nihre Capitalien zu verlieren, mit\nAnheimstellen ergebenst mit zutheilen\ndiesen Umstand, wenn dieselben das\nEntschädigungsgesuch des Fürsten unterstü-\ntzen, mitzu Sprache zu bringen.\nZugleich ersuche ich auch Einehml[?].\nwohlgebohren ganz ergebenst nur, falls des Kaisers\nMajestät dem Fürsten einige Entschä-\ndigung zu gewähren geruhen sollte,\nNachricht zu geben, damit die gedachten\nGläubiger zur weitern Verfolgung\nihrer Gerechtsame veranlaßt werden\nkönnen.\nBerlin d. 22 Juni 1816.\nM. d. a. A. 3te S.\nHoffm[ann].\nB[alan].\n1 Jul[?]",
+   "reading": "Entschädigung für die ihm im Kalischen departement eingezogenen Güter betreffend so ich mich veranlaßt, die Ewer Hochwohlgebohren die später eingegangene Nachm[?] daß, da den Fürst von Hohenlohe die Güter Trąbczyn mit zubehör deterior[irt?] und mit Schulden belastet hat, die Hypothekarischen Gläubiger Gefahr laufe ihre Capitalien zu verlieren, mit Anheimstellen ergebenst mit zutheilen diesen Umstand, wenn dieselben das Entschädigungsgesuch des Fürsten unterstützen, mitzu Sprache zu bringen. Zugleich ersuche ich auch Einehml[?]. wohlgebohren ganz ergebenst nur, falls des Kaisers Majestät dem Fürsten einige Entschädigung zu gewähren geruhen sollte, Nachricht zu geben, damit die gedachten Gläubiger zur weitern Verfolgung ihrer Gerechtsame veranlaßt werden können.\n\nBerlin d. 22 Juni 1816.\n\nM. d. a. A. 3te S.\n\nHoffm[ann].\n\nB[alan].\n\n1 Jul[?]",
    "paragraphs": [
-    "haben.",
-    "Da inzwischen einige donatarien im Königreich Polen Entschädigung geworden werden ist, so macht nun ebenfalls der p Fürst von Hohenlohe auf solche Anspruch.",
-    "Indem ich dann Ew. Hochwohlgeboren ich daher von dessen Wunsche mittheile ersuche ich[?] dieselben Zugleich den Antrag des Fürsten gefall ist zur Kenntniß und Entscheidungen Sr Russisch Kaiserlichen Majestät zu bringen, jedoch nur ganz im Allgemeinen und ohne das Gesuch dringend zu unterstützen, da man diese Angelegenheit lediglich als Gnadensache betrachten muss."
-   ],
-   "sideways_lines": [],
-   "sideways_paragraphs": [],
-   "continues_previous": true,
-   "continues_next": true,
-   "para_lines": [
-    1,
-    8
-   ],
-   "scan": "III_HA_MdA_III_Nr_12765_0023_a1-L17_02.jpg",
-   "doc_line_start": 45,
-   "doc_line_end": 65
-  },
-  {
-   "page": 3,
-   "page_id": "0023_a2",
-   "line_start": 592,
-   "line_end": 595,
-   "n_lines": 4,
-   "diplomatic": "Berlin den\nMinisterium der auswärtigen\nAngelegenhhl. 3te Section.\nH[arden]b[er]g 28/4.",
-   "transcription": "Berlin den\nMinisterium der auswärtigen\nAngelegenhhl. 3te Section.\nH[arden]b[er]g 28/4.",
-   "reading": "Berlin den Ministerium der auswärtigen Angelegenhhl. 3te Section. H[arden]b[er]g 28/4.",
-   "paragraphs": [
-    "Berlin den Ministerium der auswärtigen Angelegenhhl. 3te Section. H[arden]b[er]g 28/4."
+    "Entschädigung für die ihm im Kalischen departement eingezogenen Güter betreffend so ich mich veranlaßt, die Ewer Hochwohlgebohren die später eingegangene Nachm[?] daß, da den Fürst von Hohenlohe die Güter Trąbczyn mit zubehör deterior[irt?] und mit Schulden belastet hat, die Hypothekarischen Gläubiger Gefahr laufe ihre Capitalien zu verlieren, mit Anheimstellen ergebenst mit zutheilen diesen Umstand, wenn dieselben das Entschädigungsgesuch des Fürsten unterstützen, mitzu Sprache zu bringen. Zugleich ersuche ich auch Einehml[?]. wohlgebohren ganz ergebenst nur, falls des Kaisers Majestät dem Fürsten einige Entschädigung zu gewähren geruhen sollte, Nachricht zu geben, damit die gedachten Gläubiger zur weitern Verfolgung ihrer Gerechtsame veranlaßt werden können.",
+    "Berlin d. 22 Juni 1816.",
+    "M. d. a. A. 3te S.",
+    "Hoffm[ann].",
+    "B[alan].",
+    "1 Jul[?]"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": true,
    "continues_next": false,
-   "para_lines": [],
-   "scan": "III_HA_MdA_III_Nr_12765_0023_a2-L17_03.jpg",
-   "doc_line_start": 66,
-   "doc_line_end": 69
+   "para_lines": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "scan": "III_HA_MdA_III_Nr_12765_0031_a1-L17_02.jpg",
+   "doc_line_start": 48,
+   "doc_line_end": 73
   }
  ],
  "mentions": [
   {
+   "entity": "brehmer",
+   "display": "von Brehmer",
+   "kind": "person",
+   "surface": "Brehmer",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 719,
+   "doc_line": 3
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 723,
+   "doc_line": 7
+  },
+  {
+   "entity": "hardenberg",
+   "display": "Hardenberg",
+   "kind": "person",
+   "surface": "Hardenberg",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 728,
+   "doc_line": 12
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 734,
+   "doc_line": 18
+  },
+  {
+   "entity": "hohenlohe",
+   "display": "Hohenlohe",
+   "kind": "person",
+   "surface": "Hohenlohe",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 745,
+   "doc_line": 29
+  },
+  {
    "entity": "schoeler",
    "display": "Schöler",
    "kind": "person",
-   "surface": "Schoeler",
+   "surface": "Schöler",
    "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 530,
-   "doc_line": 6
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 755,
+   "doc_line": 39
   },
   {
    "entity": "hohenlohe",
@@ -137,65 +190,10 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 535,
-   "doc_line": 11
-  },
-  {
-   "entity": "hohenlohe",
-   "display": "Hohenlohe",
-   "kind": "person",
-   "surface": "Hohenlohe",
-   "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 540,
-   "doc_line": 16
-  },
-  {
-   "entity": "prusimski",
-   "display": "Antoni Prusimski, Starost of Niszczewice",
-   "kind": "person",
-   "surface": "Prusimsky",
-   "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 549,
-   "doc_line": 25
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 558,
-   "doc_line": 34
-  },
-  {
-   "entity": "hohenlohe",
-   "display": "Hohenlohe",
-   "kind": "person",
-   "surface": "Hohenlohe",
-   "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 560,
-   "doc_line": 36
-  },
-  {
-   "entity": "prusimska",
-   "display": "Michalina z Prusimskich Dąbska, later Miączyńska",
-   "kind": "person",
-   "surface": "Miączyńska",
-   "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 566,
-   "doc_line": 42
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 760,
+   "doc_line": 44
   },
   {
    "entity": "hohenlohe",
@@ -203,21 +201,32 @@
    "kind": "person",
    "surface": "Hohenlohe",
    "page": 2,
-   "page_id": "0023_a1",
-   "scan": "III_HA_MdA_III_Nr_12765_0023_a1-L17_02.jpg",
-   "line": 576,
-   "doc_line": 51
+   "page_id": "0031_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0031_a1-L17_02.jpg",
+   "line": 769,
+   "doc_line": 52
   },
   {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
+   "entity": "hoffmann-legationsrath",
+   "display": "Hoffmann",
    "kind": "person",
-   "surface": "H[arden]b[er]g",
-   "page": 3,
-   "page_id": "0023_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0023_a2-L17_03.jpg",
-   "line": 595,
-   "doc_line": 69
+   "surface": "Hoffm[ann]",
+   "page": 2,
+   "page_id": "0031_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0031_a1-L17_02.jpg",
+   "line": 788,
+   "doc_line": 71
+  },
+  {
+   "entity": "balan",
+   "display": "Balan",
+   "kind": "person",
+   "surface": "B[alan]",
+   "page": 2,
+   "page_id": "0031_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0031_a1-L17_02.jpg",
+   "line": 789,
+   "doc_line": 72
   }
  ],
  "mentions_english": [
@@ -230,91 +239,107 @@
    "page": 1
   },
   {
-   "entity": "",
-   "display": "von Schöler",
+   "entity": "brehmer",
+   "display": "von Brehmer",
    "kind": "person",
-   "surface_de": "v. Schoeler",
-   "surface_en": "von Schöler",
+   "surface_de": "von Brehmer",
+   "surface_en": "von Brehmer",
    "page": 1
   },
   {
    "entity": "",
-   "display": "St Petersburg",
+   "display": "Sommerfeldt",
    "kind": "place",
-   "surface_de": "St. Petersburg",
-   "surface_en": "St Petersburg",
+   "surface_de": "Sommerfeldt",
+   "surface_en": "Sommerfeldt",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Prince of Hohenlohe",
+   "display": "Prince of Hohenlohe-Ingelfingen",
    "kind": "person",
-   "surface_de": "Fürſten v. Hohenlohe",
-   "surface_en": "Prince of Hohenlohe",
+   "surface_de": "Fürsten von Hohenlohe Ingelfingen",
+   "surface_en": "Prince of Hohenlohe-Ingelfingen",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "State Chancellor, the Prince of Hardenberg",
+   "kind": "person",
+   "surface_de": "Staatskanzler Fürsten von Hardenberg",
+   "surface_en": "State Chancellor, the Prince of Hardenberg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Szettlewek",
+   "kind": "place",
+   "surface_de": "Szettlewek",
+   "surface_en": "Szettlewek",
    "page": 1
   },
   {
    "entity": "",
    "display": "Trąbczyn",
    "kind": "place",
-   "surface_de": "Trąbczyner",
+   "surface_de": "Trąbczyn",
    "surface_en": "Trąbczyn",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Prince Friedrich Ludwig of Hohenlohe",
+   "display": "Emperor of Russia",
    "kind": "person",
-   "surface_de": "Fürſt Friedrich Ludwig von Hohenlohe",
-   "surface_en": "Prince Friedrich Ludwig of Hohenlohe",
+   "surface_de": "Kaisers von Rußland",
+   "surface_en": "Emperor of Russia",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Kalisz",
-   "kind": "place",
-   "surface_de": "Kalischer",
-   "surface_en": "Kalisz",
+   "display": "Hg.",
+   "kind": "other",
+   "surface_de": "Hg.",
+   "surface_en": "Hg.",
    "page": 1
   },
   {
-   "entity": "",
-   "display": "Konin",
-   "kind": "place",
-   "surface_de": "Konin",
-   "surface_en": "Konin",
-   "page": 1
-  },
-  {
-   "entity": "prusimski",
-   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "entity": "schoeler",
+   "display": "Schöler",
    "kind": "person",
-   "surface_de": "Prusimsky",
-   "surface_en": "Prusimsky",
+   "surface_de": "Schöler",
+   "surface_en": "Schöler",
    "page": 1
   },
   {
    "entity": "",
-   "display": "von Miączyńska",
+   "display": "St Petersburg",
+   "kind": "place",
+   "surface_de": "Petersburg",
+   "surface_en": "St Petersburg",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Imperial Russian Court",
+   "kind": "other",
+   "surface_de": "Kaiserl Rußl Hofe",
+   "surface_en": "Imperial Russian Court",
+   "page": 1
+  },
+  {
+   "entity": "",
+   "display": "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen",
    "kind": "person",
-   "surface_de": "v. Miączyńska",
-   "surface_en": "von Miączyńska",
+   "surface_de": "Fürsten Friedrich Ludwig v Hohenlohe Ingelfingen",
+   "surface_en": "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen",
    "page": 1
   },
   {
    "entity": "",
-   "display": "Russia",
+   "display": "Kalisz department",
    "kind": "place",
-   "surface_de": "Rußland",
-   "surface_en": "Russia",
-   "page": 1
-  },
-  {
-   "entity": "",
-   "display": "Kingdom of Poland",
-   "kind": "place",
-   "surface_de": "Königreich Polen",
-   "surface_en": "Kingdom of Poland",
+   "surface_de": "Kalischen departement",
+   "surface_en": "Kalisz department",
    "page": 2
   },
   {
@@ -327,27 +352,51 @@
   },
   {
    "entity": "",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface_de": "Trąbczyn",
+   "surface_en": "Trąbczyn",
+   "page": 2
+  },
+  {
+   "entity": "",
+   "display": "His Majesty the Emperor",
+   "kind": "person",
+   "surface_de": "Kaisers Majestät",
+   "surface_en": "His Majesty the Emperor",
+   "page": 2
+  },
+  {
+   "entity": "",
    "display": "Berlin",
    "kind": "place",
    "surface_de": "Berlin",
    "surface_en": "Berlin",
-   "page": 3
+   "page": 2
   },
   {
    "entity": "",
    "display": "Ministry of Foreign Affairs",
    "kind": "other",
-   "surface_de": "Ministerium der auswärtigen Angelegenhhl.",
+   "surface_de": "M. d. a. A.",
    "surface_en": "Ministry of Foreign Affairs",
-   "page": 3
+   "page": 2
   },
   {
-   "entity": "hardenberg",
-   "display": "Hardenberg",
+   "entity": "hoffmann-legationsrath",
+   "display": "Hoffmann",
    "kind": "person",
-   "surface_de": "H[arden]b[er]g",
-   "surface_en": "H[arden]b[er]g",
-   "page": 3
+   "surface_de": "Hoffm[ann]",
+   "surface_en": "Hoffm[ann]",
+   "page": 2
+  },
+  {
+   "entity": "balan",
+   "display": "Balan",
+   "kind": "person",
+   "surface_de": "B[alan]",
+   "surface_en": "B[alan]",
+   "page": 2
   }
  ],
  "place_canonical": "Berlin",
@@ -358,65 +407,32 @@
    "kind": "place",
    "surface": "Berlin",
    "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 525,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 717,
    "doc_line": 1
   },
   {
-   "entity": "st-petersburg",
-   "display": "St Petersburg",
+   "entity": "sommerfeld",
+   "display": "Sommerfeld",
    "kind": "place",
-   "surface": "Petersburg",
+   "surface": "Sommerfeldt",
    "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 532,
-   "doc_line": 8
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 721,
+   "doc_line": 5
   },
   {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
+   "entity": "szetlewek",
+   "display": "Szetlewek",
    "kind": "place",
-   "surface": "Trąbczyner",
+   "surface": "Szettlewek",
    "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 536,
-   "doc_line": 12
-  },
-  {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface": "Trąbczyner",
-   "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 542,
-   "doc_line": 18
-  },
-  {
-   "entity": "kalisz",
-   "display": "Kalisz (Kalisch)",
-   "kind": "place",
-   "surface": "Kalischer",
-   "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 543,
-   "doc_line": 19
-  },
-  {
-   "entity": "konin",
-   "display": "Konin",
-   "kind": "place",
-   "surface": "Konin",
-   "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 545,
-   "doc_line": 21
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 736,
+   "doc_line": 20
   },
   {
    "entity": "russland",
@@ -424,28 +440,116 @@
    "kind": "place",
    "surface": "Rußland",
    "page": 1,
-   "page_id": "0022_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0022_a2-L17_01.jpg",
-   "line": 565,
-   "doc_line": 41
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 744,
+   "doc_line": 28
+  },
+  {
+   "entity": "szetlewek",
+   "display": "Szetlewek",
+   "kind": "place",
+   "surface": "Szettlewek",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 746,
+   "doc_line": 30
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 747,
+   "doc_line": 31
   },
   {
    "entity": "berlin",
    "display": "Berlin",
    "kind": "place",
    "surface": "Berlin",
-   "page": 3,
-   "page_id": "0023_a2",
-   "scan": "III_HA_MdA_III_Nr_12765_0023_a2-L17_03.jpg",
-   "line": 592,
-   "doc_line": 66
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 750,
+   "doc_line": 34
+  },
+  {
+   "entity": "st-petersburg",
+   "display": "St Petersburg",
+   "kind": "place",
+   "surface": "Petersburg",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 756,
+   "doc_line": 40
+  },
+  {
+   "entity": "ingelfingen",
+   "display": "Ingelfingen",
+   "kind": "place",
+   "surface": "Ingelfingen",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 761,
+   "doc_line": 45
+  },
+  {
+   "entity": "russland",
+   "display": "Russland",
+   "kind": "place",
+   "surface": "Rußland",
+   "page": 1,
+   "page_id": "0030_a2",
+   "scan": "III_HA_MdA_III_Nr_12765_0030_a2-L17_01.jpg",
+   "line": 761,
+   "doc_line": 45
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Kalischen",
+   "page": 2,
+   "page_id": "0031_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0031_a1-L17_02.jpg",
+   "line": 765,
+   "doc_line": 48
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąbczyn",
+   "page": 2,
+   "page_id": "0031_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0031_a1-L17_02.jpg",
+   "line": 770,
+   "doc_line": 53
+  },
+  {
+   "entity": "berlin",
+   "display": "Berlin",
+   "kind": "place",
+   "surface": "Berlin",
+   "page": 2,
+   "page_id": "0031_a1",
+   "scan": "III_HA_MdA_III_Nr_12765_0031_a1-L17_02.jpg",
+   "line": 786,
+   "doc_line": 69
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Berlin, 29 April 1816, ad no. c. 2278. To the Royal Prussian Major General and Envoy at the Russian Imperial Court, Mr von Schöler, Your Right Honourable, at St Petersburg.\n\n(Claim for compensation of the Prince of Hohenlohe on account of the Trąbczyn estates.) the 30th, to the post.\n\n2960.\n\nHis Serene Highness the Prince Friedrich Ludwig of Hohenlohe received from His Majesty the late King, of most blessed memory, as a gift the Trąbczyn estates in the Kalisz department, in the district of Konin, which were formerly the property of the Starost Prusimski, who had been implicated in the insurrection of the year 1794, and had fallen to the State by confiscation. These estates, through the political events of the years 1806 and 1807, passed back to the daughter (of the former owner, Frau von Miączyńska, and the attempts of the Prince of Hohenlohe to be reinstated in possession of the same have been in vain, since His Majesty the Emperor of Russia also confirmed the said Miączyńska in this possession.",
+   "en": "Berlin, 29 June 1816.\n\nTo the Right Honourable widowed Mrs von Brehmer, Colonel's widow.\n\nAt Sommerfeldt, concerning: the compensation of the Prince of Hohenlohe-Ingelfingen. Hg. 3 July, fair copy made.\n\nOn the 6th of July both to the post, No. 3997.\n\nThe representation addressed by Your Right Honourable to the State Chancellor, the Prince of Hardenberg, under date of the 26th of April of this year, has been forwarded to me for further action. If [uncertain: Ewohnfrau] therein declares the intention of seeking satisfaction, out of the remaining property of the Prince, her debtor, in respect of the capital of 5,000 Rthl inherited from her deceased brother, which he had lent to the Prince of Hohenlohe-Ingelfingen and which was registered upon the latter's estate of Szetlewek, confiscated in the year 1807; then it will first of all be your affair to sue him before his own court of jurisdiction, in order to establish the claim at law, in case you, should His Majesty the Emperor of Russia be pleased to declare himself inclined to grant the Prince of Hohenlohe some compensation for the loss of Szetlewek and Trąbczyn, without consideration here, [text lost] desire thereby.\n\nBerlin, 22 June 1816.\n\n4277.\n\nTo the Royal Major General and Envoy at the Imperial Russian Court, Mr von Schöler, Your Right Honourable\n\nat St Petersburg\n\n[uncertain: Hg.] 3rd, fair copy made.\n\nWith reference to my letter of 29 April of this year concerning the intercession for the Prince Friedrich Ludwig of Hohenlohe-Ingelfingen with His Majesty the Emperor of Russia, to procure some",
    "names": [
     {
      "de": "Berlin",
@@ -453,119 +557,153 @@
      "kind": "place"
     },
     {
-     "de": "v. Schoeler",
-     "en": "von Schöler",
+     "de": "von Brehmer",
+     "en": "von Brehmer",
      "kind": "person"
     },
     {
-     "de": "St. Petersburg",
-     "en": "St Petersburg",
+     "de": "Sommerfeldt",
+     "en": "Sommerfeldt",
      "kind": "place"
     },
     {
-     "de": "Fürſten v. Hohenlohe",
-     "en": "Prince of Hohenlohe",
+     "de": "Fürsten von Hohenlohe Ingelfingen",
+     "en": "Prince of Hohenlohe-Ingelfingen",
      "kind": "person"
     },
     {
-     "de": "Trąbczyner",
+     "de": "Staatskanzler Fürsten von Hardenberg",
+     "en": "State Chancellor, the Prince of Hardenberg",
+     "kind": "person"
+    },
+    {
+     "de": "Szettlewek",
+     "en": "Szettlewek",
+     "kind": "place"
+    },
+    {
+     "de": "Trąbczyn",
      "en": "Trąbczyn",
      "kind": "place"
     },
     {
-     "de": "Fürſt Friedrich Ludwig von Hohenlohe",
-     "en": "Prince Friedrich Ludwig of Hohenlohe",
+     "de": "Kaisers von Rußland",
+     "en": "Emperor of Russia",
      "kind": "person"
     },
     {
-     "de": "Kalischer",
-     "en": "Kalisz",
-     "kind": "place"
+     "de": "Hg.",
+     "en": "Hg.",
+     "kind": "other"
     },
     {
-     "de": "Konin",
-     "en": "Konin",
-     "kind": "place"
-    },
-    {
-     "de": "Prusimsky",
-     "en": "Prusimsky",
+     "de": "Schöler",
+     "en": "Schöler",
      "kind": "person"
     },
     {
-     "de": "v. Miączyńska",
-     "en": "von Miączyńska",
-     "kind": "person"
+     "de": "Petersburg",
+     "en": "St Petersburg",
+     "kind": "place"
     },
     {
-     "de": "Rußland",
-     "en": "Russia",
-     "kind": "place"
+     "de": "Kaiserl Rußl Hofe",
+     "en": "Imperial Russian Court",
+     "kind": "other"
+    },
+    {
+     "de": "Fürsten Friedrich Ludwig v Hohenlohe Ingelfingen",
+     "en": "Prince Friedrich Ludwig of Hohenlohe-Ingelfingen",
+     "kind": "person"
     }
    ],
    "numbers": [
     "29",
     "1816",
-    "2278",
-    "30",
-    "2960",
-    "1794",
-    "1806",
-    "1807"
+    "26",
+    "3",
+    "6",
+    "3997",
+    "5000",
+    "1807",
+    "22",
+    "4277",
+    "3t"
    ]
   },
   {
    "page": 2,
-   "en": "have.\n\nSince in the meantime some donees in the Kingdom of Poland have been compensated [...], the Prince of Hohenlohe now likewise makes claim to such.\n\nIn that I then [uncertain: Indem ich dann] communicate to Your Right Honourable his wish, I therefore request [illegible] you at the same time to bring the Prince's request, [...], to the knowledge and decision of His Russian Imperial Majesty, yet only quite in general terms and without pressing the petition urgently, since this matter must be regarded purely as a matter of grace.",
+   "en": "compensation for the estates confiscated from him in the Kalisz department, I [uncertain: find myself moved] most respectfully to communicate to Your Right Honourable the information [illegible] received later, that, since the Prince of Hohenlohe has let the estates of Trąbczyn with appurtenances [uncertain: deteriorate] and has burdened them with debts, the mortgage creditors run the risk of losing their capital, leaving it to your discretion to bring this circumstance into the discussion, should you support the Prince's claim for compensation. At the same time I also most respectfully request [uncertain: Your] Right Honourable, in case His Majesty the Emperor should deign to grant the Prince some compensation, to send word, so that the said creditors may be moved to pursue their rights further.\n\nBerlin, 22 June 1816.\n\nMinistry of Foreign Affairs, 3rd Section.\n\nHoffm[ann].\n\nB[alan].\n\n1 Jul[illegible]",
    "names": [
     {
-     "de": "Königreich Polen",
-     "en": "Kingdom of Poland",
+     "de": "Kalischen departement",
+     "en": "Kalisz department",
      "kind": "place"
     },
     {
      "de": "Fürst von Hohenlohe",
      "en": "Prince of Hohenlohe",
      "kind": "person"
-    }
-   ]
-  },
-  {
-   "page": 3,
-   "en": "Berlin, the . Ministry of Foreign Affairs, 3rd Section. H[arden]b[er]g 28/4.",
-   "names": [
+    },
+    {
+     "de": "Trąbczyn",
+     "en": "Trąbczyn",
+     "kind": "place"
+    },
+    {
+     "de": "Kaisers Majestät",
+     "en": "His Majesty the Emperor",
+     "kind": "person"
+    },
     {
      "de": "Berlin",
      "en": "Berlin",
      "kind": "place"
     },
     {
-     "de": "Ministerium der auswärtigen Angelegenhhl.",
+     "de": "M. d. a. A.",
      "en": "Ministry of Foreign Affairs",
      "kind": "other"
     },
     {
-     "de": "H[arden]b[er]g",
-     "en": "H[arden]b[er]g",
+     "de": "Hoffm[ann]",
+     "en": "Hoffm[ann]",
+     "kind": "person"
+    },
+    {
+     "de": "B[alan]",
+     "en": "B[alan]",
      "kind": "person"
     }
    ],
    "numbers": [
-    "3",
-    "28/4"
+    "22",
+    "1816",
+    "3te",
+    "1"
    ]
   }
  ],
- "text_english": "Berlin, 29 April 1816, ad no. c. 2278. To the Royal Prussian Major General and Envoy at the Russian Imperial Court, Mr von Schöler, Your Right Honourable, at St Petersburg.\n\n(Claim for compensation of the Prince of Hohenlohe on account of the Trąbczyn estates.) the 30th, to the post.\n\n2960.\n\nHis Serene Highness the Prince Friedrich Ludwig of Hohenlohe received from His Majesty the late King, of most blessed memory, as a gift the Trąbczyn estates in the Kalisz department, in the district of Konin, which were formerly the property of the Starost Prusimski, who had been implicated in the insurrection of the year 1794, and had fallen to the State by confiscation. These estates, through the political events of the years 1806 and 1807, passed back to the daughter (of the former owner, Frau von Miączyńska, and the attempts of the Prince of Hohenlohe to be reinstated in possession of the same have been in vain, since His Majesty the Emperor of Russia also confirmed the said Miączyńska in this possession.\n\nhave.\n\nSince in the meantime some donees in the Kingdom of Poland have been compensated [...], the Prince of Hohenlohe now likewise makes claim to such.\n\nIn that I then [uncertain: Indem ich dann] communicate to Your Right Honourable his wish, I therefore request [illegible] you at the same time to bring the Prince's request, [...], to the knowledge and decision of His Russian Imperial Majesty, yet only quite in general terms and without pressing the petition urgently, since this matter must be regarded purely as a matter of grace.\n\nBerlin, the . Ministry of Foreign Affairs, 3rd Section. H[arden]b[er]g 28/4.",
- "summary_en": "Draft of an instruction to Schöler: the Prince received the Trąbczyn estates from the late King; they had formerly belonged to the Starost Prusimski and in 1806 and 1807 they passed back to his daughter Miączyńska, whose possession the Emperor of Russia confirmed. Since some other grantees in the Kingdom of Poland have been compensated, the Prince too is making a claim. Schöler is to bring the request to the Emperor's notice, but only in general terms and without supporting it urgently, since it is a matter of grace.",
- "summary_de": "Entwurf einer Weisung an Schöler: Der Fürst erhielt vom verstorbenen König die Trąbczyner Güter, früher Eigentum des Starosten Prusimski; sie gelangten 1806 und 1807 an dessen Tochter Miączyńska zurück, der der Kaiser von Russland den Besitz bestätigte. Da einige Donatare im Königreich Polen entschädigt worden sind, macht auch der Fürst Anspruch. Schöler soll den Antrag zur Kenntnis des Kaisers bringen, jedoch nur im Allgemeinen und ohne ihn dringend zu unterstützen, da es eine Gnadensache sei.",
+ "text_english": "Berlin, 29 June 1816.\n\nTo the Right Honourable widowed Mrs von Brehmer, Colonel's widow.\n\nAt Sommerfeldt, concerning: the compensation of the Prince of Hohenlohe-Ingelfingen. Hg. 3 July, fair copy made.\n\nOn the 6th of July both to the post, No. 3997.\n\nThe representation addressed by Your Right Honourable to the State Chancellor, the Prince of Hardenberg, under date of the 26th of April of this year, has been forwarded to me for further action. If [uncertain: Ewohnfrau] therein declares the intention of seeking satisfaction, out of the remaining property of the Prince, her debtor, in respect of the capital of 5,000 Rthl inherited from her deceased brother, which he had lent to the Prince of Hohenlohe-Ingelfingen and which was registered upon the latter's estate of Szetlewek, confiscated in the year 1807; then it will first of all be your affair to sue him before his own court of jurisdiction, in order to establish the claim at law, in case you, should His Majesty the Emperor of Russia be pleased to declare himself inclined to grant the Prince of Hohenlohe some compensation for the loss of Szetlewek and Trąbczyn, without consideration here, [text lost] desire thereby.\n\nBerlin, 22 June 1816.\n\n4277.\n\nTo the Royal Major General and Envoy at the Imperial Russian Court, Mr von Schöler, Your Right Honourable\n\nat St Petersburg\n\n[uncertain: Hg.] 3rd, fair copy made.\n\nWith reference to my letter of 29 April of this year concerning the intercession for the Prince Friedrich Ludwig of Hohenlohe-Ingelfingen with His Majesty the Emperor of Russia, to procure some\n\ncompensation for the estates confiscated from him in the Kalisz department, I [uncertain: find myself moved] most respectfully to communicate to Your Right Honourable the information [illegible] received later, that, since the Prince of Hohenlohe has let the estates of Trąbczyn with appurtenances [uncertain: deteriorate] and has burdened them with debts, the mortgage creditors run the risk of losing their capital, leaving it to your discretion to bring this circumstance into the discussion, should you support the Prince's claim for compensation. At the same time I also most respectfully request [uncertain: Your] Right Honourable, in case His Majesty the Emperor should deign to grant the Prince some compensation, to send word, so that the said creditors may be moved to pursue their rights further.\n\nBerlin, 22 June 1816.\n\nMinistry of Foreign Affairs, 3rd Section.\n\nHoffm[ann].\n\nB[alan].\n\n1 Jul[illegible]",
+ "summary_en": "Draft of a reply to the widow Brehmer: her petition of 26 April addressed to Hardenberg has been passed to the ministry. If she wishes to seek satisfaction for the capital of 5,000 Rthl registered on Szetlewek out of the Prince's remaining property, she must first sue him before his own court in order to establish the claim at law, in case the Emperor of Russia should declare himself willing to grant the Prince compensation. On the same page follows the draft of a letter to Schöler: with reference to the letter of 29 April, the ministry reports that the mortgage creditors are in danger of losing their capital, since the Prince has let Trąbczyn deteriorate and has burdened it with debts; Schöler is asked to raise this. He is to send word if the Emperor grants the Prince compensation, so that the creditors can pursue their claims.",
+ "summary_de": "Entwurf einer Antwort an die Witwe von Brehmer: Ihre an Hardenberg gerichtete Vorstellung vom 26. April sei dem Ministerium zugefertigt worden. Wolle sie wegen des auf Szetlewek eingetragenen Kapitals von 5000 Rthl aus dem übrigen Vermögen des Fürsten Befriedigung suchen, so müsse sie ihn zuerst vor seiner Gerichtsbehörde belangen, um den Anspruch rechtlich festzustellen, falls der Kaiser von Russland sich geneigt erklären sollte, dem Fürsten eine Entschädigung zu gewähren. Auf derselben Seite folgt der Entwurf eines Schreibens an Schöler: Mit Bezug auf das Schreiben vom 29. April teilt das Ministerium mit, dass die hypothekarischen Gläubiger Gefahr laufen, ihre Kapitalien zu verlieren, da der Fürst Trąbczyn deterioriert und mit Schulden belastet hat; Schöler möge dies zur Sprache bringen. Er soll Nachricht geben, falls der Kaiser dem Fürsten eine Entschädigung gewährt, damit die Gläubiger ihre Gerechtsame verfolgen können.",
  "reading": {
   "letter": "17",
   "legibility": "partly garbled",
-  "notes": "Draft instruction to Major General von Schöler, envoy at St Petersburg, Berlin, 29 April 1816, from the third section of the foreign ministry, with Hardenberg's paraph of 28 April. It recites the case in Zerboni's words: the King gave the Prince the Trąbczyn estates, formerly the Starost Prusimsky's; in 1806-07 they went back to the former owner's daughter, Frau von Miączyńska, and the Prince's attempts to recover them failed because the Russian Emperor confirmed her in possession. As some donees in the Kingdom of Poland have since been compensated, the Prince now claims the same. Schöler is to bring the request to the Emperor's knowledge and decision, but only in general terms and without pressing it, since the matter is purely one of grace.",
+  "notes": "Draft to the widow von Brehmer at Sommerfeld, Berlin, dated 22 June 1816 (headed 29 June; fair copy 3 July, posted 6 July). Her petition of 26 April to Hardenberg has been passed on. If she means to seek payment from the Prince's other property for the 5,000 rt her late brother lent him, registered on Szettlewek, she must first sue him before his own court to establish the claim, in case she wants it considered should the Emperor of Russia grant the Prince compensation for Szettlewek and Trąbczyn. Draft to Schöler at St Petersburg, Berlin, 22 June 1816, from the third section; fair copy 3 July; paraphs of Hoffmann and Balan, 1 July. Following the letter of 29 April on interceding for the Prince, it passes on the later information that, as the Prince ran Trąbczyn down and loaded it with debt, the mortgage creditors risk losing their capital; Schöler may mention this when supporting the request. He is also asked to report if the Emperor grants the Prince any compensation, so that the creditors can pursue their rights.",
   "claims": [
    {
-    "statement": "Der Fürst erhielt vom verstorbenen König die Trąbczyner Güter im Kalischer Departement, Kreis Konin, früher Eigentum des Starosten Prusimsky und durch Konfiskation an den Staat gefallen",
+    "statement": "Ihre an Hardenberg gerichtete Vorstellung vom 26. April ist dem Ministerium zugefertigt worden",
+    "lines": [
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "statement": "Will sie wegen des auf Szettlewek eingetragenen Kapitals von 5000 Rthl aus dem übrigen Vermögen des Fürsten Befriedigung suchen, so müsse sie ihn zuerst vor seiner Gerichtsbehörde belangen, um den Anspruch rechtlich festzustellen",
     "lines": [
      15,
      16,
@@ -578,86 +716,41 @@
      23,
      24,
      25,
-     26,
-     27,
-     28
+     26
     ]
    },
    {
-    "statement": "Die Güter gelangten 1806 und 1807 an die Tochter des vorigen Eigentümers, Frau von Miączyńska, zurück; die Versuche des Fürsten, wieder in den Besitz zu kommen, waren vergeblich, da der Kaiser von Russland ihr den Besitz bestätigte",
+    "statement": "Dies gelte für den Fall, dass der Kaiser von Russland dem Fürsten wegen Szettlewek und Trąbczyn eine Entschädigung gewährt",
     "lines": [
+     27,
+     28,
      29,
      30,
      31,
      32,
-     33,
-     34,
-     35,
-     36,
-     37,
-     38,
-     39,
-     40,
-     41,
-     42,
-     43,
-     44,
-     45
-    ]
-   },
-   {
-    "statement": "Da inzwischen einige Donatare im Königreich Polen entschädigt worden sind, macht auch der Fürst darauf Anspruch",
-    "lines": [
-     46,
-     47,
-     48,
-     49,
-     50,
-     51,
-     52
-    ]
-   },
-   {
-    "statement": "Schöler soll den Antrag zur Kenntnis und Entscheidung des Kaisers bringen, jedoch nur ganz im Allgemeinen und ohne das Gesuch dringend zu unterstützen, da es lediglich eine Gnadensache sei",
-    "lines": [
-     53,
-     54,
-     55,
-     56,
-     57,
-     58,
-     59,
-     60,
-     61,
-     62,
-     63,
-     64,
-     65
-    ]
+     33
+    ],
+    "check": "overstated",
+    "why": "Zeilen 27-31 sind hypothetisch: wenn der Kaiser 'sich geneigt erklären sollten', einige Entschädigung zu gewähren. Von einer gewährten Entschädigung ist nicht die Rede, nur von einer möglichen Geneigtheit."
    }
   ],
   "doubtful_words": [
    {
-    "line": 48,
-    "word": "geworden wer¬",
-    "note": "probably 'gewährt worden'"
+    "line": 15,
+    "word": "Ewohnfrau",
+    "note": "garbled; a form of address"
    },
    {
-    "line": 53,
-    "word": "Indem ich dann",
-    "note": "garbled opening of the request"
+    "line": 22,
+    "word": "Beständigung in",
+    "note": "probably 'Befriedigung zu'"
    },
    {
-    "line": 57,
-    "word": "gefall ist",
-    "note": "probably 'gefälligst'"
-   },
-   {
-    "line": 65,
-    "word": "betrachten muss.",
-    "note": "after this the scan has a passage about Sokolnik, struck out; it is not in the transcription"
+    "line": 32,
+    "word": "hier,",
+    "note": "garbled through the next line; probably 'hierbei verlangen'"
    }
   ],
-  "read_against": "a6be00a0d1b7cfee"
+  "read_against": "1111a8383e4ed35a"
  }
 }

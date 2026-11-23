@@ -6,7 +6,7 @@ lang: en
 permalink: "/places/lazy-trabczyn/"
 alt_url: "/de/orte/lazy-trabczyn/"
 excerpt_separator: ""
-hits_docs: [{"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3570", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12765-4", "url": "/documents/iiihamdaiiinr12765/4/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
+hits_docs: [{"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "1", "uid": "ihagrrep7cnr3570-1", "url": "/documents/ihagrrep7cnr3570/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3570", "n": 1}, {"id": "2", "uid": "iiihamdaiiinr12765-2", "url": "/documents/iiihamdaiiinr12765/2/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 5
 ---
 

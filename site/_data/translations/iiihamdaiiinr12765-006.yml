@@ -1,162 +1,215 @@
 status: draft
 segments:
 - page: 1
-  en: 'Monsieur le Baron!
+  en: 'Most Serene Prince!
 
 
-    In 1796 His Majesty the King of Prussia of glorious memory conferred upon me the lands of Kamionna
-    and Trąbczyn, which had fallen to him by the flight of the Starost Prusimski. Of these lands, that
-    of Kamionna lies in the circle of Międzyrzecz, that of Trąbczyn in the circle of Konin.
+    Poland''s fate is now decided, and the boundaries determined. The district in which the Trąbczyn estates
+    lie that were taken from me by the Polish administrative commission falls under Russian sovereignty.
+    Since now both sovereigns have confirmed the acts of the Prussian commission, the estates taken from
+    me remain lost to me for ever, and it is now my sole comfort that, according to the love of justice
+    of both monarchs, the donees are to be given a compensation by means of other estates.
 
 
-    In 1807, fourteen weeks after the peace of Tilsit, it pleased the Polish treasury to seize these lands,
-    and notwithstanding my remonstrances and protests they were adjudged to the daughter of the aforesaid
-    Prusimski, now married to M. de Miączyński.
-
-
-    All my steps to vindicate my rights have remained without any effect, and now, when I believed the
-    moment fit to revive them, I learn that His Majesty the Emperor has been pleased to confirm the arbitrary
-    decrees of the Polish treasury in favour of Madame Miączyńska.
-
-
-    I therefore find myself under the necessity of having recourse to the good offices of Your Excellency,
-    in order to claim, through
-
-
-    [Written by the receiving office:]
-
-
-    To reply that it will be necessary to await the definitive settlement of the affairs of Poland, which
-    moment does not at present appear distant; that the Prince will then do everything that lies in his
-    power to support the claims of His Highness.'
+    According to the highest probability I should have to await my indemnification from His Majesty the
+    Emperor of Russia, on which account I have also already applied to the Minister Baron von Stein. But
+    whether this matter depends on Baron von Stein alone, I do not know. — This, however, I do know, that
+    through Your Serene Highness''s word with His Majesty the Emperor of Russia I should at once be helped.'
   names:
-  - de: Monsieur le Baron
-    en: Monsieur le Baron
+  - de: Pohlens
+    en: Poland
+    kind: place
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
+  - de: Rußischer
+    en: Russian
+    kind: place
+  - de: Preußl.
+    en: Prussian
+    kind: place
+  - de: Ruſischen Kaysers
+    en: Emperor of Russia
     kind: person
-  - de: Roi de Prusse
-    en: King of Prussia
-    kind: other
+  - de: Freyherrn von Stein
+    en: Baron von Stein
+    kind: person
+  - de: Baron von Stein
+    en: Baron von Stein
+    kind: person
+- page: 2
+  en: 'My loss amounts to over 261,000 Rthl. I might well with every right hope that estates of equal
+    value would be conferred on me: in the meantime I should gladly be content with the small district
+    office of Sokolnik situated not far from Boleslawice, which yields some 8 to 10,000 Rthl in rent.
+    I most obediently beg Your Serene Highness to intercede for me, as your old and faithful admirer,
+    with His Majesty the Emperor of Russia, and to so direct the matter that the Sokolnik district office
+    be conferred on me as compensation, the more so as I am the only one from whom the estates have been
+    taken and who must be compensated.
+
+
+    May Your Serene Highness accept the assurance of the high reverence with which I persist.
+
+
+    Your Serene Highness''s
+
+
+    most obedient servant, F[riedrich]. L[udwig]. P[rince]. o[f]. Hohenlohe.
+
+
+    Sławięcice, the 12 May 1815.'
+  names:
+  - de: Boleslawice
+    en: Boleslawice
+    kind: place
+  - de: Sokolnik
+    en: Sokolnik
+    kind: place
+  - de: Sokolniker
+    en: Sokolnik
+    kind: place
+  - de: Ruſisch Kaysers
+    en: Emperor of Russia
+    kind: person
+  - de: Schlawenschitz
+    en: Sławięcice
+    kind: place
+  - de: F[riedrich]. L[udwig]. F[ürst]. z[u]. Hohenlohe
+    en: Friedrich Ludwig, Prince of Hohenlohe
+    kind: person
+  numbers:
+  - '261000'
+  - '8'
+  - '10000'
+  - '12'
+  - '1815'
+- page: 3
+  en: '[Written in another hand:]
+
+
+    V[ienna], 6 June [18]15
+
+
+    To
+
+
+    His Serene Highness the Prince of Hohenlohe
+
+
+    at Sławięcice
+
+
+    No. 3205.
+
+
+    In [uncertain: most dutifully reporting] to Your Serene Highness the receipt of your least [uncertain:
+    esteemed] letter of the 12th of last month concerning the reclamation of the Trąbczyn estate, hitherto
+    I at the same time [take the occasion] to [uncertain: empower/notify] you that the [illegible] Minister
+    of State has communicated to me, for further action, your letter addressed to him of < April, in which
+    Your Serene Highness raised your claims respecting Kamionna and Trąbczyn. I have requested the Privy
+    Councillor von Zerboni, in order also to be able to let a further intercession be entered upon on
+    behalf of Your Serene Highness''s claims, to put me fully in possession of the present [uncertain:
+    renunciations/circumstances] with regard to both estates, and I reserve to myself, upon receipt of
+    the [uncertain: information] required thereupon, to send Your Serene Highness word of the steps which
+    I shall thereafter be in a position to take. With the most sincere sympathy and the [uncertain: truest]
+    [uncertain: Vorhaus] for Your Serene Highness, it will be only a matter of earnest duty to meet your
+    wishes in this place also. — Be pleased, Your Excellency, to accept the assurance of my unaltered
+    high esteem and devotion. Vienna, 6 June [18]15
+
+
+    In His Serene Highness''s name.
+
+
+    To the urgent[?] Mr von Zerboni Sposetti, [uncertain: Zahlrungen] at Poznań.
+
+
+    I send Your Right Honourable, in the original, two letters of the Royal Prince of Hohenlohe, to me
+    of 12 Rthl. and to the Minister of State Baron von [uncertain: Stein] of 12 April, concerning the
+    claims which the Prince seeks to assert on account of the estates Kamionna and Trąbczyn
+
+
+    taken from him.
+
+
+    Since Your Honour is fully acquainted with the position of these matters, I most respectfully request
+    you to inform me of the steps that may yet be taken in the Prince''s favour.'
+  names:
+  - de: W[ien]
+    en: V[ienna]
+    kind: place
+  - de: des Herrn Fürsten zu Hohenlohe
+    en: the Prince of Hohenlohe
+    kind: person
+  - de: Schlawentzitz
+    en: Sławięcice
+    kind: place
+  - de: Trąbczyner
+    en: Trąbczyn
+    kind: place
   - de: Kaemen
     en: Kamionna
     kind: place
-  - de: Trąpczin
+  - de: Trąbczyn
     en: Trąbczyn
     kind: place
-  - de: Prussiemski
-    en: Prussiemski
+  - de: v. Zerboni
+    en: von Zerboni
     kind: person
-  - de: Miedzeris
-    en: Międzyrzecz
+  - de: Wien
+    en: Vienna
     kind: place
-  - de: Konin
-    en: Konin
+  - de: H. v. Zerboni Sposetti
+    en: Mr von Zerboni Sposetti
+    kind: person
+  - de: Posen
+    en: Poznań
     kind: place
-  - de: Tilsit
-    en: Tilsit
+  - de: Fürsten z Hohenlohe
+    en: Prince of Hohenlohe
+    kind: person
+  - de: Erz v. Stein[?]
+    en: 'Baron von [uncertain: Stein]'
+    kind: person
+  - de: Kämen
+    en: Kamionna
     kind: place
-  - de: Prussimski
-    en: Prussimski
-    kind: person
-  - de: Mr. de Mięczynsky
-    en: M. de Mięczynsky
-    kind: person
-  - de: Madame Mięczynsky
-    en: Michalina z Prusimskich Dąbska, later Miączyńska
-    kind: person
-  - de: l'Empereur
-    en: the Emperor
-    kind: other
-  - de: Pologne
-    en: Poland
-    kind: place
-  - de: L. A.
-    en: His Highness
-    kind: person
   numbers:
-  - '1796'
-  - '1807'
-- page: 2
-  en: 'through his powerful intervention, a suitable indemnity for a possession of such importance; and
-    it is to that end that I take the liberty of laying before him the following particulars, which I
-    beg Your Excellency may be pleased to place before the eyes of His Majesty the Emperor, and to move
-    that Monarch to do me justice by granting me a suitable indemnity.
+  - '6'
+  - '15'
+  - '3205'
+  - '12'
+  - 6ten
+  - '15'
+- page: 4
+  en: '[Written in another hand:]
 
 
-    Monsieur de Prusimski having, before his flight, mortgaged these lands for a sum of 80,000 Reichsthaler
-    and 36,000 ducats, I was obliged, after a suit of 8 years and 6,000 Reichsthaler of costs, to pay
-    a sum of 55,000 Reichsthaler to free them. The interest on these two sums, together 61,000 Reichsthaler,
-    from 1807 to 1815, amounts to the sum of 24,400 Reichsthaler, so that the sum of my claims in ready
-    money rises to 85,400 Reichsthaler.
+    As regards Kamionna, these are beyond dispute the same estates which the Prince sold to the bank cashier
+    Leixner of Frankfurt an der Oder; the [uncertain: Magistel] of the 55,000 Rthl. and the interest are
+    therefore the Bank''s to demand, and the Prince has long since been satisfied. Meanwhile I await on
+    this point Your Right Honourable''s closer investigation and your report as soon as possible.
 
 
-    According to a valuation of these lands made by the Government of Kalisz, their value was estimated
-    at 316,000 Reichsthaler, upon which I had contracted 76,000 Reichsthaler of debts, which being deducted
-    there remains to be added 240,000 Reichsthaler'
+    Vienna, the 6th of June 1815
+
+
+    In His Serene Highness''s name.
+
+
+    Executed by His Serene Highness in the fair copy.'
   names:
-  - de: Monsieur de Prussimsky
-    en: Prussimsky
+  - de: Kämen
+    en: Kamionna
+    kind: place
+  - de: Leixner
+    en: Leixner
     kind: person
-  - de: l'Empereur
-    en: the Emperor
-    kind: other
-  - de: Kalisz
-    en: Kalisz
+  - de: Frankfurt
+    en: Frankfurt an der Oder
+    kind: place
+  - de: W[ien]
+    en: Vienna
     kind: place
   numbers:
-  - 80,000
-  - '36000'
-  - '8'
-  - '6000'
   - '55000'
-  - 61,000
-  - '1807'
-  - '1815'
-  - '24400'
-  - '85400'
-  - '316000'
-  - '76000'
-  - 240,000
-- page: 3
-  en: 'which would bring my loss to the sum of 325,400 Reichsthaler.
-
-
-    The interest which Your Excellency has always deigned to take in my affairs, and the friendship she
-    has always shown me, are a sure warrant to me that it suffices to give her knowledge of this matter
-    to be assured of its outcome, founded as it is upon the justice of His Majesty the Emperor and supported
-    by the most exact equity.
-
-
-    Accept, Monsieur le Baron, the assurances of the highest consideration with which I have the honour
-    to be
-
-
-    Monsieur le Baron
-
-
-    Your Excellency''s
-
-
-    Your most humble and most obedient servant,
-
-
-    Friedrich Ludwig of Hohenlohe, Prince.
-
-
-    Sławięcice, the 12th of April 1815.'
-  names:
-  - de: l'Empereur
-    en: the Emperor
-    kind: other
-  - de: Monsieur le Baron
-    en: Monsieur le Baron
-    kind: person
-  - de: Slawenziz
-    en: Sławięcice
-    kind: place
-  - de: Frederic Louis Pr. de Hohenlohe
-    en: Friedrich Ludwig of Hohenlohe, Prince
-    kind: person
-  numbers:
-  - '325400'
-  - '12.'
-  - '1815'
+  - '6'
+  - '15'

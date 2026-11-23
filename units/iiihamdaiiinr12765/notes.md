@@ -1,9 +1,42 @@
 # III. HA MdA, III Nr. 12765 (GStA PK)
 
-Thirty documents on 48 pages, plus the cover as front matter, 1814-1820: the
-Prussian foreign ministry's file on the Prince of Hohenlohe's claim to be
-compensated for the Trąbczyn estates. Imported, read, summarised and translated
-on 2026-10-01.
+Twenty-four documents (thirty until 2026-11-23, below) on 48 pages, plus the
+cover as front matter, 1814-1820: the Prussian foreign ministry's file on the
+Prince of Hohenlohe's claim to be compensated for the Trąbczyn estates.
+Imported, read, summarised and translated on 2026-10-01.
+
+## Documents joined and renumbered (2026-11-23)
+
+The editor: a page is shown once; a reply written on a letter's sheet is a
+second voice of that letter's document, and an enclosure follows the letter's
+pages in the same document; the holding is renumbered where documents are
+joined (docs/DOCUMENT_MERGE_PLAN.md). Carried out by
+`pipeline/review/merge_documents.py` from `intake/merges.yml`; the map is
+`intake/merge_map.json`. **Everywhere below this section, numbers are the OLD
+ones.**
+
+| new | old | what |
+|---|---|---|
+| 1 | 1 + 2 + 3 | Triebenfeld's letter of 25 Oct 1814; Hardenberg's draft reply of 25 Nov 1814 beneath it (second voice); the enclosed copy of Hardenberg's letter of 14 May 1814 |
+| 2-5 | 4-7 | |
+| 6 | 8 + 9 + 10 | the Prince's letter of 12 May 1815; on its sheet the chancery's drafts of 6 June 1815 to the Prince and to Zerboni (one second voice: they share page 0012_a2) |
+| 7-16 | 11-20 | |
+| 17 | 21 + 22 | the ministry's drafts of 22 June 1816 to the widow von Brehmer and to Schöler, one after the other on page 0030_a2 |
+| 18-21 | 23-26 | |
+| 22 | 27 + 28 | Alopeus's note of 31 Jan 1820 and the copy of Prince Zajączek's report it encloses |
+| 23-24 | 29-30 | |
+
+What the joined-in parts' own records said, no longer a document's metadata
+(the main part's date, place, type and correspondents stand): old 2 a draft,
+Hardenberg to Triebenfeld, Wien 25 Nov 1814; old 3 Hardenberg to Triebenfeld
+(a copy), Paris 14 May 1814; old 9 a draft, Hardenberg to the Prince, Wien 6
+June 1815; old 10 a draft, Hardenberg to Zerboni, Wien 6 June 1815; old 22 a
+draft, the ministry to Schöler, Berlin 22 June 1816; old 28 Zajączek to Emperor
+Alexander (a copy), Warsaw 4 June 1819. Their relations inside the joined
+documents (2 answers 1, 1 transmits 3, 9 answers 8, 10 transmits 8, 27
+transmits 28) are dropped; their other relations are kept under the new
+numbers. The summaries of the joined documents are the parts' checked
+summaries joined (`intake/merges.yml`, `summaries:`).
 
 ## Provenance
 
