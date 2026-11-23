@@ -97,4 +97,25 @@ proper order:
 2. The reading of every case (Sonnet, then Claude).
 3. The moves, holding by holding, Oe 1 Bü 9454 first.
 
+## Done
+
+- Pilot (2026-11-23): 5 letters, approved by the editor.
+- **Oe 1 Bü 9454** (2026-11-23): 253 documents read by the Sonnet reader and
+  by Claude; 177 moved (97 where script and reader agreed exactly, the rest
+  read case by case: an abbreviated salutation, other signers, a title line
+  under the name, a date between closing formula and signature, a hyphenated
+  closing word that moves as a pair, letter 151's year joined). English: 121
+  corrections drafted by `date_order_english.py`, 56 by a Sonnet drafter,
+  every one read by Claude; checked word for word, paragraph counts against
+  the German, and a publish from the cache shown to give the same text.
+  Left for the editor: NEEDS_CONFIRMATION, "The date after the signature".
+- Tools: `date_order.py` (scan, move, snapshot/compare with the reading
+  text's words, restamp), `date_order_sheet.py` (the reading sheet),
+  `date_order_compare.py` / `date_order_oneline.py` (settling),
+  `date_order_entries.py`, `date_order_english.py`, `date_order_add_english.py`,
+  `date_order_verify.py`, `date_order_unstamp.py`.
+- Next: the other holdings (the scan's counts: Oe 1 Bü 14525 52 cases,
+  Nr. 12765 28, Nr. 3709 19, Oe 1 Bü 14526 19, and fewer elsewhere), after
+  the editor's answer on the postscripts.
+
 Paid runs: none.

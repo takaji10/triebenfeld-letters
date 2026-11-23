@@ -9,6 +9,41 @@ reason to change the text without the editor.
 The `review/<slug>/` files named below are generated and not in the
 repository; they are on the working machine.
 
+## The date after the signature (2026-11-23, docs/DATE_ORDER_PLAN.md)
+
+Oe 1 Bü 9454: 181 letters moved (the pilot's 4 and 177). Left as they are,
+for the editor:
+
+1. **A postscript inside the closing** (42 letters): lines written beside
+   the closing stand between the salutation and the date (or the closing
+   formula and the date), e.g. letter 49: "Ewr Hochfürstliche Durchlaucht /
+   Es heißt daß ein Rußisches Corps … Wolte nur Gott dies! / Kontop den 20ten
+   Marz 1809. / treu unterthäniger Diener / v Triebenfeld". Moving the date
+   alone would leave the closing broken by the postscript. Should the
+   postscript lines move too, after the signature and the date? Letters 2, 6,
+   33, 35, 37, 49, 54, 58, 65, 71, 77, 90, 95, 96, 104, 110, 146, 159, 162,
+   178, 179, 191, 195, 196, 198, 202, 216, 217 (an address, "Stalauer Str: /
+   Nr 13", with the date), 218, 242, 244, 258, 259, 266, 275, 279, 280, 282,
+   284, 292, 299, 301. (179 and 33 also have closing words run together with
+   the postscript in one line; 191 has the postscript's own date, "d 7ten
+   Aug.", before the letter's.)
+2. **A date directly before a bare signature, with no closing formula**:
+   Triebenfeld's short notes ("…eine Beihülfe — / Breslau den 29ten Marz
+   1804. / v Triebenfeld"): 66, 118b, 118c, 119, 120, 122, 123, 124, 125, 126,
+   127, 129, 148, 228, 241, 243, 298; and official papers whose form this is
+   (the court's orders 74c and 74d, the copy 74a, Hardenberg's letter 252, the
+   Prince's bond 264 with its seal). No closing is broken; move or leave?
+3. **Odd, left as they are**: 4 ("Nun komm nach Eberhard" between the date
+   and the signature); 20 (the closing stops at "Ewr", then the date, then
+   "wie in Blanquet zu Ho."); 21 (the date line also holds "geben.", the end
+   of the postscript's sentence); 36 (no signature; the last line is an
+   address); 44 ("nach wunsch, beantwortet. / d. 3tn Februar 1809. nach
+   Berlin." – a note of answer); 85 (the King's letter: "Berlin / 1798. / die
+   4te Decbr.", the year before the day, and "gutwilliger Grün", perhaps
+   "Vetter").
+4. The English pages of letters 144 and 300 have, higher up the page, one and
+   two paragraphs more or fewer than the German; not touched.
+
 ## The Timeline rebuild's judgement calls (2026-11-07)
 
 - **The events dropped from the rebuilt timeline.yml** (102 → 69) left the

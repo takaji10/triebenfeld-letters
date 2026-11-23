@@ -4690,6 +4690,24 @@ tool is `pipeline/review/date_order.py` (scan, `--move`, `--snapshot` /
   correction's `find` and `replace` and update the hits. (The editor's "von
   Triebenfeld across the English", 2026-11-23: three of the date corrections
   were hit.)
+- **A restamp can hide an older change** (a mistake made and repaired,
+  2026-11-23): `--restamp` set 177 moved letters current, and 109 of them had
+  been on `translate.py --stale`'s list before for corrections made after
+  translation; the list fell from 199 to 90. Repaired with
+  `date_order_unstamp.py` (the hash of the German before the move). Take the
+  `--stale` list BEFORE moving, and restamp only letters that were not on it.
+  The pilot's four were found stale by diffing their German at the v2
+  translation (commit af752fb55) against the German before the pilot.
+- **The page files are older than corpus.txt in many places**: word
+  corrections made in the corpus only ("Wein" for Wien, "E h[?] d" for the
+  expanded salutation). Find a page's own file by the page id at the end of
+  its name, not by its text.
+- **A sub-agent drafting English dropped the full stop ending the date**
+  ("1798." to "1798") in 33 of 56 drafts against the rule; put back by a
+  check (a paragraph-final full stop of the original kept). Read every draft.
+- **A line that ran on after the signature runs on into the moved date**
+  (letter 167's postscript): the move step now sets the line after the date
+  to begin a paragraph.
 - **Proof that a hand-mended published page survives a re-publish**: run the
   cache's English through `english_forms.apply_page` and compare it with the
   published page; equal means a publish would write the same.

@@ -3,18 +3,1096 @@
 # an entry already carried out is skipped. Lines exactly as in corpus.txt.
 moves:
 - letter: '39'
-  date: ['Berlin den 2ten July', '1808']
-  after: 'v Triebenfeld'
+  date:
+  - Berlin den 2ten July
+  - '1808'
+  after: v Triebenfeld
   note: pilot
 - letter: '76'
-  date: ['Breslau den 23ten Aug. 1798.']
-  after: 'v Triebenfeld'
+  date:
+  - Breslau den 23ten Aug. 1798.
+  after: v Triebenfeld
   note: pilot
 - letter: '168'
-  date: ['Trąbczyn', 'den 31ten März 1805']
-  after: 'v Triebenfeld'
-  note: 'pilot; a postscript of five lines follows the signature and stays after the date'
+  date:
+  - Trąbczyn
+  - den 31ten März 1805
+  after: v Triebenfeld
+  note: pilot; a postscript of five lines follows the signature and stays after the date
 - letter: '182'
-  date: ['Berlin d. 16 t. May morgendt zu [3?] uhr', '1806']
-  after: 'v Triebenfeld'
-  note: 'pilot; the date line carries the hour, kept whole'
+  date:
+  - Berlin d. 16 t. May morgendt zu [3?] uhr
+  - '1806'
+  after: v Triebenfeld
+  note: pilot; the date line carries the hour, kept whole
+- letter: '5'
+  date:
+  - Blizanow
+  - den 27ten Januar
+  - '1816'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '7'
+  date:
+  - Breslau den 20ten März 1815.
+  after: Charlotte von Triebenfeld.
+  note: class A2; read by reader and Claude
+- letter: '10'
+  date:
+  - Wien d. 4ten Merz 1815
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '11'
+  date:
+  - Wien den 6ten Merz
+  - '1815.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '16'
+  date:
+  - Wien den 15ten April
+  - '1815.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '18'
+  date:
+  - Blizanow
+  - den 6ten July 1812
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '22'
+  date:
+  - Kontop. 27ten Januar
+  - '1810'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '25'
+  date:
+  - Berlin den 28ten Septbr.
+  - '1806.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '26'
+  date:
+  - Breslau d. 28ten Octob.
+  - '1806.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '27'
+  date:
+  - Bre[slau] d. 19ten 8br.
+  - '1807'
+  after: Peter
+  note: class A; read by script, reader and Claude
+- letter: '28'
+  date:
+  - Peisern d 5. Octobr.
+  - '1807.'
+  after: Hawich
+  note: class A; read by script, reader and Claude
+- letter: '29'
+  date:
+  - Schlawenschitz
+  - d. 10. Februar
+  - '1808'
+  after: Bally
+  note: class A; read by reader and Claude
+- letter: '30'
+  date:
+  - Berlin
+  - d. 14. März.
+  - '1808.'
+  after: v. Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '32'
+  date:
+  - Berlin
+  - den 3. April 1808
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '34'
+  date:
+  - Breslau den 18ten April
+  - '1808.'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '38'
+  date:
+  - Berlin den 14ten Juny
+  - '1808.'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '40'
+  date:
+  - Berlin den 9ten July
+  - '1808.'
+  after: Peter
+  note: class A; read by script, reader and Claude
+- letter: '41'
+  date:
+  - Berlin den 20ten 7br 1808
+  after: Peter
+  note: class A; read by script, reader and Claude
+- letter: '42'
+  date:
+  - Berlin d. 16ten Januar
+  - '1809.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '43'
+  date:
+  - Kontop
+  - d 30ten Januar
+  - '1809'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '45'
+  date:
+  - Kontop
+  - d. 18ten Febr.
+  - '1809'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '46'
+  date:
+  - Berl[in]. d 2 Marz 1809
+  after: Amelang
+  note: class B; read by reader and Claude
+- letter: '48'
+  date:
+  - Kontop
+  - den 7ten Marz 1809.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '51'
+  date:
+  - Kontop
+  - den 21ten April
+  - '1809'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '52'
+  date:
+  - Königsberg
+  - d. 3ten May
+  - '1809.'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '53'
+  date:
+  - Königsberg,
+  - d. 13ten May
+  - '1809'
+  after: Peter
+  note: class A; read by reader and Claude
+- letter: '55'
+  date:
+  - Breslau
+  - d 12ten April
+  - '1809.'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '57'
+  date:
+  - Schweinern
+  - d 7ten May 1809.
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '59'
+  date:
+  - Kontop
+  - d. 11ten July 1809.
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '60'
+  date:
+  - Kontop
+  - d 4tn August
+  - '1809.'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '61'
+  date:
+  - Kontop den 31ten August
+  - '1809.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '68'
+  date:
+  - Kontop den 18ten Februar
+  - '1810.'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '69'
+  date:
+  - Kontop
+  - d. 26ten febr.
+  - '1810.'
+  after: Bally
+  note: class A; read by reader and Claude
+- letter: '70'
+  date:
+  - Kontop den 25ten Merz
+  - '1810.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: 72a
+  date:
+  - Kopojno
+  - den 23ten Februar 1812.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: 72b
+  date:
+  - Blizanow
+  - 12ten Merz 1812.
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: 72c
+  date:
+  - Kalisz
+  - den 8ten Martz 12.
+  after: Thiel
+  note: class A; read by reader and Claude
+- letter: 72f
+  date:
+  - Kopoyno
+  - 22ten May 1812
+  after: ' v Triebenfeld'
+  note: class B; read by reader and Claude
+- letter: '73'
+  date:
+  - Schlawenschitz d 27ten Januar
+  - '1812'
+  after: F. L. Fürst zu Hohenlohe
+  note: class A; read by reader and Claude
+- letter: '75'
+  date:
+  - Breslau den 1ten April
+  - '1798.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '78'
+  date:
+  - Berlin[?]
+  - d 6. October
+  - '1798'
+  after: Michaelis
+  note: class A; read by reader and Claude
+- letter: '79'
+  date:
+  - Berlin den 8ten Octobr.
+  - '1798.'
+  after: v. Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '80'
+  date:
+  - Berlin d. 9ten Octob.
+  - '1798.'
+  after: v. Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '81'
+  date:
+  - Berlin
+  - den 13. Octobr.
+  - '1798'
+  after: Michaelis
+  note: class A; read by reader and Claude
+- letter: '82'
+  date:
+  - Berlin den 13 Octo
+  - '1798'
+  after: C. F. G. Eysenhardt seni[or]
+  note: class A; read by reader and Claude
+- letter: '84'
+  date:
+  - Berlin
+  - den 20ten Octobr.
+  - '1798.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '89'
+  date:
+  - Berlin[?] d. 12ten Xbr 1798.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '91'
+  date:
+  - Berlin
+  - den 17ten Xbr.
+  - '1798.'
+  after: Beyme
+  note: class A; read by script, reader and Claude
+- letter: '92'
+  date:
+  - Berlin
+  - die 18ten Decbr.
+  - '1798.'
+  after: Michaelis
+  note: class A; read by reader and Claude
+- letter: '93'
+  date:
+  - Berlin d 18t Xbr 1798.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '94'
+  date:
+  - Berlin
+  - den 18ten Decembre
+  - '1798.'
+  after: Zastrow
+  note: class A; read by script, reader and Claude
+- letter: '97'
+  date:
+  - Berlin den [?]ten Januar
+  - '1799.'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '98'
+  date:
+  - Berlin den 9ten Januar
+  - '1799.'
+  after: v. Triebenfeld.
+  note: class A; read by script, reader and Claude
+- letter: '99'
+  date:
+  - Breslau den 1ten Febr. 1799.
+  after: v. Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '100'
+  date:
+  - Berlin
+  - den 25ten Januar 1799.
+  after: Beyme
+  note: class A; read by script, reader and Claude
+- letter: '102'
+  date:
+  - Breslau d 6ten Marz 1799.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '103'
+  date:
+  - Breslau den 13ten März
+  - '1799.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '105'
+  date:
+  - Berlin d. 30ten April 1799.
+  after: v. Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '106'
+  date:
+  - Berlin den 25ten May
+  - '1799.'
+  after: v. Triebenfeld.
+  note: class B; read by reader and Claude
+- letter: '107'
+  date:
+  - Berlin d. 21ten Octobr
+  - '1799'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '108'
+  date:
+  - Breslau
+  - d 22 July 1800
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '111'
+  date:
+  - Berlin d. 10t Febr. 1801.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '113'
+  date:
+  - Berlin den 23ten May
+  - '1801'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '114'
+  date:
+  - Berlin
+  - d. 2ten May
+  - '1802.'
+  after: Frig[?]
+  note: class A; read by reader and Claude
+- letter: '115'
+  date:
+  - Breslau den 3ten Aug
+  - '1802'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '116'
+  date:
+  - Breslau den 11ten Decbr. 1803
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: 118a
+  date:
+  - Breslau den 10ten Febr. 1804.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '128'
+  date:
+  - Trąbczyn den 8ten May
+  - '1804'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '130'
+  date:
+  - Fr[ankfurt] a. d. Oder
+  - den 17ten May
+  - '1804.'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '131'
+  date:
+  - Berlin den 19 ten May
+  - '1804.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '132'
+  date:
+  - Frankfurth a/d O.
+  - den 23 May 1804.
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '133'
+  date:
+  - Frankfurth
+  - d. 23ten May
+  - '1804'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '134'
+  date:
+  - Berl[in] d. 26ten May 1804
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '136'
+  date:
+  - Frankfurth an der Oder
+  - d 13t Juny 1804
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '137'
+  date:
+  - Frankfurth a.d. O[der] d 21ten Juny
+  - '1804.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '138'
+  date:
+  - Ber[lin] d. 3. July 1804
+  after: Amelang
+  note: class B; read by reader and Claude
+- letter: '139'
+  date:
+  - Posen den 22ten Jul.
+  - '1804'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '140'
+  date:
+  - Betsche den 26ten July
+  - '1804'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '141'
+  date:
+  - Posen den 4ten Aug.
+  - '1804'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '142'
+  date:
+  - Breslau den 12. 7br. 1804.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '143'
+  date:
+  - Berlin den 20. Octobr. 1804.
+  after: Amelang
+  note: class A2; read by reader and Claude
+- letter: '144'
+  date:
+  - Berlin den 3. Nov. 1804.
+  after: Amelang
+  note: class A; read by script, reader and Claude
+- letter: '145'
+  date:
+  - Kalisz den 14ten Novbr
+  - '1804.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '149'
+  date:
+  - Trąbczyn
+  - den 2ten Decbr.
+  - '1804'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '152'
+  date:
+  - Berlin den 7ten Januar
+  - '1805.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '154'
+  date:
+  - Berlin den 15ten Januar
+  - '1805'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '155'
+  date:
+  - Breslau den 16ten Jan
+  - '1805.'
+  after: 'A: Hahn'
+  note: class A; read by reader and Claude
+- letter: '156'
+  date:
+  - Berlin d. 19ten Januar
+  - '1805.'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '157'
+  date:
+  - Berlin den 22 ten Januar
+  - '1805.'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '158'
+  date:
+  - Berlin
+  - den 26ten Januar
+  - '1805'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '160'
+  date:
+  - Berlin d 2t Februar
+  - '1805'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '161'
+  date:
+  - Berlin d. 9. Feb 1805
+  after: Amelang
+  note: class B; read by reader and Claude
+- letter: '163'
+  date:
+  - Kalisz d 1ten Marz
+  - '1805'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '164'
+  date:
+  - Kalisz d 4ten März 1805.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '165'
+  date:
+  - Breslau d 8ten Mertz
+  - '1805.'
+  after: A. Hahn
+  note: class A; read by reader and Claude
+- letter: '166'
+  date:
+  - Trąbczyn den 29ten July
+  - '1805.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '167'
+  date:
+  - Öhringen den 7ten Juli
+  - '1805.'
+  after: 'A: Hahn'
+  note: class A; read by reader and Claude
+- letter: '169'
+  date:
+  - Kalisz den 10ten Mertz 1805.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '170'
+  date:
+  - Breslau d 19ten Merz
+  - '1805'
+  after: A. Hahn
+  note: class A; read by reader and Claude
+- letter: '171'
+  date:
+  - Erfurt d. 24. Nov.
+  - '1805'
+  after: A. Hahn
+  note: class A; read by reader and Claude
+- letter: '172'
+  date:
+  - Trąbczyn den 28ten März
+  - '1805.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '174'
+  date:
+  - Kalisz d 13ten Marz
+  - '1805'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '175'
+  date:
+  - Breslau d 2ten August
+  - '1805.'
+  after: A. Hahn
+  note: class A; read by reader and Claude
+- letter: '176'
+  date:
+  - Breslau den 4ten August
+  - '1805'
+  after: A. Hahn
+  note: class A; read by reader and Claude
+- letter: '177'
+  date:
+  - Berlin den 24ten Sept.
+  - '1805'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '180'
+  date:
+  - Berlin den 8ten May
+  - '1806'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '184'
+  date:
+  - Ingelfingen d 15ten Maj 1806.
+  after: 'A: Hahn'
+  note: class C; read by reader and Claude
+- letter: '185'
+  date:
+  - Berlin
+  - den 20ten May 1806
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '186'
+  date:
+  - Breslau
+  - den 29ten Aug.
+  - '1810.'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '187'
+  date:
+  - Berlin den 17ten Juny
+  - '1806.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '188'
+  date:
+  - Breslau d. 25ten Juny
+  - '1806.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '189'
+  date:
+  - Klein Althammer
+  - d. 19ten Julii
+  - '1806.'
+  after: A. Hahn
+  note: class A; read by reader and Claude
+- letter: '190'
+  date:
+  - Öhringen
+  - d 10ten April
+  - '1806.'
+  after: A Hahn
+  note: class A2; read by reader and Claude
+- letter: '193'
+  date:
+  - Kontop den 10ten April
+  - '1810.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '194'
+  date:
+  - Kontop
+  - d 22ten Aprilis
+  - '1810'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '199'
+  date:
+  - Breslau den 19 August Nachts 12 Uhr
+  - '1810.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '200'
+  date:
+  - Breslau d 27tn Aug.
+  - '1810'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '201'
+  date:
+  - Breslau d 29tn August
+  - '1810.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '204'
+  date:
+  - Breslau den 6ten Septbr.
+  - '1810.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '205'
+  date:
+  - Breslau d 11ten Sept.
+  - '1810.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '206'
+  date:
+  - Breslau
+  - d 16ten Sept
+  - '1810'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '208'
+  date:
+  - Breslau
+  - den 5ten 8br
+  - '1810'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '209'
+  date:
+  - Breslau
+  - 16ten 8br.
+  - '1810.'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '210'
+  date:
+  - Kalisz den 13ten Novbr.
+  - '1810'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '211'
+  date:
+  - Klein Öhringen den 29t Novbr
+  - '1810'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '212'
+  date:
+  - Swiątniki
+  - den 1ten Januar
+  - '1811'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '213'
+  date:
+  - Swiątniki den 27ten Januar 1811
+  after: ' v Triebenfeld'
+  note: class A; read by script, reader and Claude
+- letter: '214'
+  date:
+  - Kalisz den 21ten July
+  - '1811.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '219'
+  date:
+  - Blizanow d 30ten 7br
+  - '1811'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '220'
+  date:
+  - Brieg
+  - den 31ten 8br
+  - '1811.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '221'
+  date:
+  - Blizanow
+  - d 20ten 9br 1811.
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '226'
+  date:
+  - Blizanow
+  - den 20ten Decbr. 1811
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '227'
+  date:
+  - Blizanow
+  - d 4. Jan.
+  - '1812'
+  after: v. Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '229'
+  date:
+  - Blizanow
+  - den 27ten Januar 1812
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '231'
+  date:
+  - Breslau d 9ten Januar 1812
+  after: C. F. Weigel
+  note: class A; read by reader and Claude
+- letter: '232'
+  date:
+  - Kopojno
+  - d. 16t Juny 1811
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '233'
+  date:
+  - Blizanow den 26ten Juny
+  - '1812'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '234'
+  date:
+  - Blizanow den 6ten July 1812
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '235'
+  date:
+  - Blizanow
+  - d 18ten July 1812
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '236'
+  date:
+  - Blizanow
+  - d. 11ten July
+  - '1812'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '237'
+  date:
+  - Kalisz
+  - d. 29ten April
+  - '1813'
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '238'
+  date:
+  - Schlawenschitz
+  - 7ten May 1813
+  after: F[riedrich]. L[udwig]. F[ürst]. zu Hohenlohe
+  note: class A; read by reader and Claude
+- letter: '239'
+  date:
+  - Neisse
+  - 19 Juny 1813
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '240'
+  date:
+  - Neustadt
+  - den 20ten Juny
+  - '1813.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '245'
+  date:
+  - Wien den 20ten Octobr.
+  - '1814'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '246'
+  date:
+  - Wien den 25ten Octobr
+  - '1814'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '248'
+  date:
+  - Wien
+  - den 5ten Novbr.
+  - '1814.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '249'
+  date:
+  - Wien den 17ten Novbr
+  - '1814.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '250'
+  date:
+  - Wien d. 5ten November 1814.
+  after: Humbo[ldt].
+  note: class C; read by reader and Claude
+- letter: '251'
+  date:
+  - Wien d 19tn Novbr
+  - '1814'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '253'
+  date:
+  - Wien den 26ten November
+  - '1814'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '255'
+  date:
+  - Wien den 30ten November
+  - '1814.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '256'
+  date:
+  - Wien den 7ten Dezember
+  - '1814.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '263'
+  date:
+  - Wien d. 28ten Decbr
+  - '1814.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '267'
+  date:
+  - Wien d. 13tn Januar
+  - '1815.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '269'
+  date:
+  - Wien d. 30ten Januar
+  - '1815.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '270'
+  date:
+  - Wien den 2ten Febr.
+  - '1815.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '271'
+  date:
+  - Wien den 13ten Febr. 1815
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '273'
+  date:
+  - Wien d. 15ten Febr.
+  - '1815.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '274'
+  date:
+  - Wien
+  - den 25 Febr 1815
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '276'
+  date:
+  - Wien den 4 ten März 1815.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '277'
+  date:
+  - Wien den 11ten März
+  - '1815'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '278'
+  date:
+  - Brieg
+  - d 12ten März 1815
+  after: Eberhard
+  note: class A; read by reader and Claude
+- letter: '281'
+  date:
+  - Wien den 24ten Mertz 1815.
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '283'
+  date:
+  - Vienne le 26 Mars 1815.
+  after: Beguelin
+  note: class A; read by script, reader and Claude
+- letter: '287'
+  date:
+  - Wien d. 13ten Aprill
+  - '1815.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '288'
+  date:
+  - Wien den 19ten April
+  - '1815'
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '289'
+  date:
+  - Wien d 5ten May 1815
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '290'
+  date:
+  - Wien
+  - d 20ten May 1815
+  after: v Triebenfeld
+  note: class B; read by reader and Claude
+- letter: '291'
+  date:
+  - Wien den 24ten May 1815
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '294'
+  date:
+  - Wien
+  - den 7 Junij 1815.
+  after: '[G/J?] Bisenti'
+  note: class A; read by reader and Claude
+- letter: '295'
+  date:
+  - Posen
+  - den 17ten Novbr.
+  - '1815'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '297'
+  date:
+  - Blizanow d 19tn Xbr
+  - '1815.'
+  after: v Triebenfeld
+  note: class A; read by script, reader and Claude
+- letter: '300'
+  date:
+  - Blizanow
+  - d 20t Januar
+  after: v Triebenfeld
+  note: class A; read by reader and Claude
+- letter: '50'
+  date:
+  - Schlawenschitz
+  - d. 8. April
+  - '1809.'
+  after: allergehorsamster
+  note: 'no signature: the date goes after the closing word; read by Claude'
+- letter: '151'
+  date:
+  - Trąbczyn
+  - den 7ten Decbr.
+  after: v Triebenfeld
+  join:
+  - '1804'
+  note: the year already stood after the signature and is joined to the date; read by Claude
+- letter: 269a
+  date:
+  - Wien d. 24ten Januar
+  - '1815'
+  after: v Triebenfeld
+  note: '"p p p" stands for the closing formula; read by Claude'

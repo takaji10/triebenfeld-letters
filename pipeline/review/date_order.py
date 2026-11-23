@@ -35,10 +35,10 @@ ROOT = os.path.dirname(os.path.dirname(HERE))
 sys.path.insert(0, os.path.dirname(HERE))
 import unitlib  # noqa: E402
 
-MON = (r'(Jan|Feb|Fe[bv]r|M[aä]r[tz]|Apr|Ma[iy]|Jun|Jul|Aug|Sep|Oct|Okt|Nov|Dec|Dez|Xbr|9br|8br|7br|'
+MON = (r'(Jan|Feb|Fe[bv]r|M[aä]r[tz]|Mer[tz]|Mert|Mart|Apr|Ma[iy]|Jun|Jul|Aug|Sep|Oct|Okt|Nov|Dec|Dez|Xbr|9br|8br|7br|'
        r'janv|f[ée]vr|mars|avril|juin|juil|ao[uû]t|d[ée]c|stycz|lut|marz|kwiet|maj|czerw|lip|sierp|wrze[sś]|'
        r'pa[zź]dz|listop|grud)')
-DATE = re.compile(r'(\bden\b|\bd\.|\bce\b|\ble\b|\bdnia\b|\bdie\b).{0,14}\d{1,2}.{0,10}' + MON
+DATE = re.compile(r'(\bden\b|\bd\.|\bd\b|\bam\b|\bce\b|\ble\b|\bdnia\b|\bdie\b).{0,14}\d{1,2}.{0,10}' + MON
                   + r'|\b' + MON + r'\w*\.?,?\s*1[5-9]\d\d\b'
                   + r'|\b\d{1,2}\s*(ten|te|t\.|ter)?\.?\s*' + MON, re.I)
 YEAR = re.compile(r'^\s*(Anno\s*)?1[5-9]\d\d\s*\.?\s*$')
@@ -157,8 +157,47 @@ def scan(units):
                         'signature': sig[0],
                         'postscript': len(rest),
                     }
+                case['context'] = context(lines, max(0, s - 5), min(len(lines), e + 12))
                 cases.append(case)
+            # A closing interrupted by something that is not part of it, whatever
+            # it is: a salutation line, then one to three lines with no closing
+            # word, then a closing line. Catches a date the patterns above do not
+            # know (a numeric one, say). Listed for reading, never moved by this.
+            for i in range(tail_from - 1, len(lines) - 2):
+                if not SAL.search(lines[i][2]) or CLOSE.search(lines[i][2]):
+                    continue
+                for gap in (1, 2, 3):
+                    j = i + gap + 1
+                    if j >= len(lines):
+                        break
+                    mid = range(i + 1, j)
+                    if any(CLOSE.search(lines[k][2]) or SAL.search(lines[k][2]) for k in mid):
+                        break
+                    if CLOSE.search(lines[j][2]):
+                        if not set(mid) & seen:
+                            cases.append({
+                                'unit': u.slug, 'letter': letter,
+                                'pad': '%s-%03d' % (u.slug, int(letter)) if letter.isdigit()
+                                else '%s-%s' % (u.slug, letter),
+                                'page': lines[i][1], 'date_lines': [], 'regular': False,
+                                'why': ['an interrupted closing: %d line(s) between "%s" and "%s"'
+                                        % (gap, lines[i][2].strip()[:30], lines[j][2].strip()[:30])],
+                                'window': [[lines[k][0], lines[k][2]] for k in range(i, min(len(lines), j + 3))],
+                                'context': context(lines, max(0, i - 3), min(len(lines), j + 10)),
+                            })
+                        break
     return cases
+
+
+def context(lines, a, z):
+    """The lines a..z with their corpus numbers, a page marker where the page changes."""
+    out, page = [], None
+    for k in range(a, z):
+        if lines[k][1] != page:
+            page = lines[k][1]
+            out.append('          [PAGE %s]' % page)
+        out.append('%9d  %s' % (lines[k][0], lines[k][2]))
+    return out
 
 
 # ---- the move (docs/DATE_ORDER_PLAN.md, Method 3) ------------------------------
@@ -215,15 +254,21 @@ def plan_move(unit, letter, lines, entry, corpus):
     pages = {lines[j][1] for j in range(s - 1, a + 1)}
     if len(pages) != 1:
         return None, 'a page break between the salutation and the anchor'
+    # A word split across two lines may stay split only where both halves move
+    # together, among the lines between the date and the anchor ("gehor¬ /
+    # samstes", Michaelis, letters 78, 81, 92): resolve_linebreaks.py finds
+    # its decision again by the two lines' text. Anywhere else, refused.
+    together = range(e + 1, a)          # a line here and the next one move as a pair
     for j in range(s - 1, a + 1):
-        if texts[j].rstrip().endswith(HYPHEN):
+        if texts[j].rstrip().endswith(HYPHEN) and j not in together:
             return None, 'a hyphenated line among the moved lines ("%s")' % texts[j].strip()[:40]
     abs_lo, abs_hi = lines[s - 1][0], lines[a][0]
     moved = range(s, a + 1)
-    # decisions keyed by line number
+    pair_lines = {lines[j][0] for j in together}
     lb = _csv(os.path.join(unit.dir, 'linebreak_decisions.csv'))
     for r in lb:
-        if r.get('letter') == letter and abs_lo <= int(r['line']) <= abs_hi:
+        if r.get('letter') == letter and abs_lo <= int(r['line']) <= abs_hi \
+                and int(r['line']) not in pair_lines:
             return None, 'a line-break decision on line %s ("%s")' % (r['line'], r.get('context', '')[:40])
     # transcription_decisions.csv is a record of word corrections already made,
     # keyed by document; its "@n" line numbers are those of the day and go stale
@@ -268,7 +313,45 @@ def page_file_move(unit, info):
     d = os.path.join(unit.dir, 'transcriptions')
     old = [info['salutation']] + info['date'] + info['between']
     found = []
-    for fn in sorted(os.listdir(d)) if os.path.isdir(d) else []:
+    # The page's own file first, by the page id at the end of its name
+    # ("..._0463_a.txt", "0003_a2.txt"): the firmest key, where there is one.
+    names = sorted(os.listdir(d)) if os.path.isdir(d) else []
+    own = [fn for fn in names if fn == info['page'] + '.txt' or fn.endswith('_' + info['page'] + '.txt')]
+    if len(own) == 1:
+        p = os.path.join(d, own[0])
+        ls = io.open(p, encoding='utf-8', newline='').read().split(NL)
+        strip = [l.rstrip('\r').strip() for l in ls]
+        scored = []
+        for i in range(len(strip) - len(old) + 1):
+            rs = [difflib.SequenceMatcher(None, strip[i + k], old[k].strip()).ratio() for k in range(len(old))]
+            scored.append((sum(rs) / len(rs), min(rs), i))
+        scored.sort(reverse=True)
+        # the best place must be good on every line and clearly the best
+        nd0 = len(info['date'])
+
+        def exact_core(i):
+            # the date lines and the anchor word for word (letter 251: only its
+            # salutation, "E h[?] d", differs from the expanded corpus form)
+            return [x.strip() for x in strip[i + 1:i + 1 + nd0]] == [x.strip() for x in info['date']] and \
+                strip[i + len(old) - 1] == old[-1].strip()
+        cores = [i for _, _, i in scored if exact_core(i)]
+        if len(cores) == 1 and cores[0] != (scored[0][2] if scored else None):
+            scored.sort(key=lambda x: x[2] != cores[0])
+        if scored and ((len(cores) == 1 and cores[0] == scored[0][2]) or
+                       (scored[0][0] >= 0.75 and scored[0][1] >= 0.4 and
+                        (len(scored) == 1 or scored[0][0] - scored[1][0] >= 0.15))):
+            i = scored[0][2]
+            for k in range(len(old)):
+                if ls[i + k].strip() != old[k].strip():
+                    info['notes'].append('the page file %s differs from corpus.txt: "%s" / corpus "%s"'
+                                         % (own[0], ls[i + k].strip(), old[k].strip()))
+            nd, nb = len(info['date']), len(info['between'])
+            seg = ls[i + 1:i + 1 + nd + nb]
+            ls[i + 1:i + 1 + nd + nb] = seg[nd:] + seg[:nd]
+            return p, NL.join(ls)
+        return None, 'the page file %s does not clearly hold these lines (best %.2f)' % (
+            own[0], scored[0][0] if scored else 0)
+    for fn in names:
         p = os.path.join(d, fn)
         raw = io.open(p, encoding='utf-8', newline='').read()
         ls = raw.split('\n')
@@ -309,8 +392,15 @@ def page_file_move(unit, info):
 
 def para_rows(unit, letter, info, rows, lines_after):
     """Held rows for the moved lines (DATE_ORDER_PLAN, Method 3)."""
+    lo, hi = info['abs'][0] - 1, info['abs'][1] + 1
+
     def find(ctx):
-        return [r for r in rows if r['letter'] == letter and r['context'] == ctx]
+        hit = [r for r in rows if r['letter'] == letter and r['context'] == ctx]
+        if len(hit) > 1:
+            # the same words twice in one document (letter 156: "1805." in the
+            # letter and in its enclosure): the row inside this closing
+            hit = [r for r in hit if str(r.get('line', '')).isdigit() and lo <= int(r['line']) <= hi]
+        return hit
     d1 = info['date'][0].strip()[:70]
     old = find(d1)
     old_dec = old[0]['decision'] if old else 'run'
@@ -321,6 +411,19 @@ def para_rows(unit, letter, info, rows, lines_after):
     want.append((s + nb, 'break'))                    # the date, after the anchor
     for k in range(1, nd):
         want.append((s + nb + k, 'run'))              # its further lines joined
+    # the line after the date (a postscript, a note), if on the same page, begins
+    # a paragraph: it may have run on from the signature, and must not run on
+    # into the date (letter 167, 2026-11-23)
+    nxt = s + nb + nd + len(info.get('join') or [])
+    if nxt < len(lines_after) and lines_after[nxt][1] == lines_after[s][1]:
+        want.append((nxt, 'break'))
+    # `join:` in the entry: lines that already stood after the anchor and belong
+    # to the date (letter 151: the year after the signature), joined to it
+    for k, t in enumerate(info.get('join') or [], 1):
+        idx = s + nb + nd - 1 + k
+        if idx >= len(lines_after) or lines_after[idx][2] != t:
+            return 'the line to join, "%s", does not follow the date' % t
+        want.append((idx, 'run'))
     for idx, dec in want:
         n, _, t = lines_after[idx]
         ctx, prev = t.strip()[:70], lines_after[idx - 1][2].strip()[:60]
@@ -353,6 +456,8 @@ def move(unit, write):
             print('  !! %s: no document %s' % (unit.slug, letter))
             continue
         new, info = plan_move(unit, letter, docs[letter], ent, corpus)
+        if new is not None:
+            info['join'] = [str(x) for x in ent.get('join') or []]
         if new is None:
             print('  %s %s: %s' % ('--' if info == 'already moved' else '!!', letter, info))
             continue
@@ -437,6 +542,9 @@ def snapshot(unit):
     for r in recs:
         d = {k: r.get(k) for k in FIELDS}
         d['lines'] = sorted(l for p in r['pages'] for l in p['diplomatic'].split('\n'))
+        # the reading text's words, counted: a move changes their order and
+        # paragraphs, never the words (2026-11-23)
+        d['reading_words'] = sorted(w for p in r['pages'] for w in p.get('reading', '').split())
         out[str(r['letter_id'])] = d
     return out
 
