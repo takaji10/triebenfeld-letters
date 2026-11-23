@@ -995,8 +995,10 @@ sub-agent's error that reaches the site costs more than it saved. So:
   guide's figure.
 - **Spot-sheet pictures for a holding whose pages stand under two
   documents**: find the corpus line within the document and the page, and
-  place the picture by the line's place in `transcriptions/<page>.txt`
-  (716's `intake/spot_sheet.py`). Where the page has two columns or a
+  place the picture by the line's place in the page (716's
+  `intake/spot_sheet.py` used `transcriptions/<page>.txt`, removed
+  2026-11-23; the page's lines are in `dataset/units/<slug>/letters.json`,
+  `pages[].diplomatic`). Where the page has two columns or a
   heading in large script, set the picture's box by hand (`BOX`). Look at
   every picture before serving the sheet: 5 of 17 needed moving.
 
@@ -1774,8 +1776,9 @@ cloud branches").
   from `pipeline/review/uncanonical_names.py`. On the desktop, change the
   translation cache as well as the published file, or the next publish rolls
   the fix back; compare the published file with HEAD before committing.
-- **A changed line of transcription** is changed in `corpus.txt`, in the page
-  file under `transcriptions/`, in a row of `transcription_decisions.csv`, in
+- **A changed line of transcription** is changed in `corpus.txt` (the page
+  files under `transcriptions/` were removed, 2026-11-23), in a row of
+  `transcription_decisions.csv`, in
   `sideways.yml` or `office_notes.yml` if it is the first line of a block
   there, and in `intake/translation/doc<N>.yml` (with its `marker_count`).
   Then `write_cache.py <N>`, `check_translations.py`,
@@ -4706,7 +4709,11 @@ tool is `pipeline/review/date_order.py` (scan, `--move`, `--snapshot` /
   every check are built from it, and corrections are made there. Keeping the
   page files in step by hand (the rule under "A changed line of
   transcription") was often not done, so they lag. Never rebuild a corpus from
-  them.
+  them. **Removed from all 57 holdings at the editor's word (2026-11-23)**:
+  "I won't look at them again - I look at what's on the website, and we
+  could always build them from the website view." `courtbook.py` no longer
+  writes them; NEW_UNIT.md says to delete them once `import_pages.py` has
+  assembled a new holding's corpus.
 - **Moving a postscript to the end can change a letter's place**: the build
   reads the place from a letter's last lines, and letter 104's moved
   postscript ("Etwann den 16ten April gehn ich…") gave "Etwann". The

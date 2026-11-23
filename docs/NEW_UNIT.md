@@ -113,6 +113,12 @@ If the transcriptions arrive already matched to their scans — one file per pag
 a great deal**: 14526 paired 287 of 288 pages with no review at all, against 865
 done by hand for the holding that had to be reconstructed.
 
+**Once `corpus.txt` is assembled, delete the page files** (`git rm -r
+units/<slug>/transcriptions`; the editor, 2026-11-23). `corpus.txt` is the only
+text from then on; two copies drifted apart in every holding that kept both.
+A page's lines, where a script needs them, are in
+`dataset/units/<slug>/letters.json` (`pages[].diplomatic`).
+
 ### A file the office wrote on
 
 How to read such a file (registry marks, paraphs, who signs what) is in

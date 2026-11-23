@@ -321,14 +321,13 @@ def fold_sheet(root, slug, ref, raw, scans, skip=(), leaf_of=None, note=''):
 
 
 def _put(unit_dir, docs, parts):
-    """parts: {(document number, page id): [lines]}. Writes corpus.txt and one file per page.
+    """parts: {(document number, page id): [lines]}. Writes corpus.txt.
 
-    A page that carries the end of one document and the beginning of the
-    next stands under both in corpus.txt; its page file has both parts, in
-    the order of the documents.
+    It used to write one file per page under transcriptions/ as well; those
+    were removed from every holding at the editor's word (2026-11-23):
+    corpus.txt is the only text, and a page's lines are in the dataset
+    (dataset/units/<slug>/letters.json, pages[].diplomatic).
     """
-    tdir = os.path.join(unit_dir, 'transcriptions')
-    os.makedirs(tdir, exist_ok=True)
     out, whole, order = [], {}, []
     for n, ids in docs:
         out.append('[DOC %d]' % n)
@@ -339,8 +338,6 @@ def _put(unit_dir, docs, parts):
                 whole[pid] = []
                 order.append(pid)
             whole[pid].extend(parts[(n, pid)])
-    for pid in order:
-        io.open(os.path.join(tdir, pid + '.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(whole[pid]) + '\n')
     io.open(os.path.join(unit_dir, 'corpus.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(out) + '\n')
     return len(order)
 

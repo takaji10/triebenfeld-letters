@@ -212,9 +212,11 @@ entries:
   head_de: Morgen
   orig: Morgen
   # as a measure only: after a figure or a measure word. "Morgen eile ich"
-  # is tomorrow
+  # is tomorrow. A year with its full stop is a date's end, not a figure of
+  # land: since the dates moved after the signature (2026-11-23), letter 196's
+  # "… May 1810." stands before its postscript's "Morgen gehe ich" (tomorrow)
   match_de:
-    - '(?:\d[\d.,/]*\s*|hundert\s+|Magdeburger\s+|[Kk]ulmische?n?\s+|preu(?:ß|ss)ische?n?\s+)(?P<w>Morgen)\b'
+    - '(?:(?<!\d)(?!1[5-9]\d\d\.)\d[\d.,/]*\s*|hundert\s+|Magdeburger\s+|[Kk]ulmische?n?\s+|preu(?:ß|ss)ische?n?\s+)(?P<w>Morgen)\b'
     - '(?:\d[\d.,/]*\s*)(?P<w>Morg)\b\.?'
     # "15 Mor." in Breyer's notebook of 1936, and "24 Mor¬gen" broken at a
     # line end (2026-10-14)

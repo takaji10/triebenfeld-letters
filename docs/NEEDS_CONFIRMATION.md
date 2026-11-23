@@ -17,17 +17,19 @@ editor's answers of 2026-11-23 (below, 1 and 2). Still open:
 - **Letter 179**: one line runs the postscript's words and the closing's
   together ("…zu sehen, mit / ergebenster den / ganz ergebener Der /"); not
   moved, since a line cannot be split without changing it.
-- **Letter 85, the King's letter** (question 3 below): the second word of the
-  closing, transcribed "Grün", read on the site's copy of the page (1100 px)
-  by Claude as "Vetter" (the address reads "Mon Cousin"), by two Sonnet
-  readers as "Ohm" and "Freun[d]"; the day "4te" read as 7 by both readers,
-  the month "Decbr." as "Octbr." by both. Not settled: the full-size scan of
-  0178_a1 is needed (the raw folder is no longer in Downloads). All three agree
-  that the date reads "Berlin / d… …br. / 1798." top to bottom, so the
-  transcription's "1798." before the day is out of order.
-- **The page files under `transcriptions/`**: the editor asked why there are
-  two; see WORKING_NOTES, "The date after the signature". A decision on what
-  becomes of them is open.
+- **Letter 85, the King's letter** (question 3 below), shown to the editor
+  2026-11-23 from the full-size original (J:\...\Hohenlohe-Zentralarchiv
+  Neuenstein\Oe 1_Bü 9454\Oe 1_Bü 9454_0178.jpg): the second word of the
+  closing, transcribed "Grün". Claude reads **"Oheim"** (O, h with its lower
+  loop, e, i with its dot, m), and the letter's own salutation is "Freundlich
+  lieber Oheim!" (corpus line 6838): the same document's word, a witness the
+  editorial rules accept. Four Sonnet readings disagree ("Ohm", "Freun[d]",
+  "Herrn", "Ohren"/"Herrn"). The date: the month read "Dcbr." by Claude (a
+  Kurrent D), "Octbr." by all four readers; the day 4 or 7. All agree the
+  date reads "Berlin / d… …br. / 1798." top to bottom (the transcription has
+  "1798." before the day). Waiting on the editor's look.
+- ~~The page files under `transcriptions/`~~: removed from every holding at
+  the editor's word (2026-11-23).
 
 Answered by the editor (2026-11-23):
 
