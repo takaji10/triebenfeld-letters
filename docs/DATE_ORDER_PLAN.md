@@ -29,6 +29,9 @@ proper order:
    is not important.
 2. In the reading text and the English, a date written on two or three lines
    becomes one line ("Vienna, the 25th of October 1814.").
+   In the English a place that stood on a line of its own takes a comma
+   after it ("Trąbczyn, the 31st of March 1805"), as the other dates have
+   (the editor's answer on the pilot).
 3. Where a postscript follows the signature, the date goes directly after the
    signature, before the postscript.
 4. **Text is only moved, never created.** No word is added, dropped or changed

@@ -346,3 +346,11 @@ rules:
     Gr.153, 1782). The clerks and he himself write "Gorski", without the
     accent, as Latin of the time does; the transcription keeps that. In the
     English the name has its Polish form (the editor, 2026-10-07).
+
+- id: von-triebenfeld
+  pattern: '(?<![\w])[vV]\.? ?(?=Triebenfeld)'
+  replace: "von "
+  why: >-
+    The editor, 2026-11-23: "It should be von Triebenfeld across the English."
+    The German writes "v Triebenfeld" or "v. Triebenfeld" (the transcription
+    keeps it); the English had all three forms.

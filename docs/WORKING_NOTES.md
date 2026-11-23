@@ -4681,7 +4681,18 @@ tool is `pipeline/review/date_order.py` (scan, `--move`, `--snapshot` /
   stale: their German was corrected after translation and the English
   mended by corrections. Not this work's; reported to the editor.)
 - `english_forms.py --apply` rewrote `site/_data/summaries.yml` again (46
-  changes): restored from HEAD, as the note above says.
+  changes): restored from HEAD, as the note above says. To bring one new rule
+  into the summaries, apply that rule alone to the file's values.
+- **A new house-form rule can break the page corrections**: the forms run
+  before `english_corrections.yml`, so a correction whose `find` has the old
+  form ("v. Triebenfeld") stops matching at the next publish from the cache,
+  silently undoing it. After adding a rule, run its pattern over every
+  correction's `find` and `replace` and update the hits. (The editor's "von
+  Triebenfeld across the English", 2026-11-23: three of the date corrections
+  were hit.)
+- **Proof that a hand-mended published page survives a re-publish**: run the
+  cache's English through `english_forms.apply_page` and compare it with the
+  published page; equal means a publish would write the same.
 
 ### The German follows the editor's English layout (2026-11-23)
 
