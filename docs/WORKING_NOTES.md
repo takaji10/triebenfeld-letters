@@ -5167,3 +5167,11 @@ viewbar. Lessons:
 - **The editor on the title pages** (2026-11-24): no typeset title tiles for
   literature without a picture; they will supply title pages. The duotone
   icons stand, at a lighter stroke (1.15).
+- **The German waits** (the editor, 2026-11-24, at the publish of the
+  overhaul): the English prose rewrites are published without their German;
+  "we'll do it all at once later in the project". Do not rewrite German
+  pages piecemeal meanwhile.
+- **Publishing from a cloud session** went as CLAUDE.md says: the session
+  branch fast-forwarded onto `main` (`git merge-base --is-ancestor
+  origin/main HEAD` first), `git push origin HEAD:main`, then the "Build and
+  deploy" run (pages.yml) watched with the GitHub tools until it succeeded.
