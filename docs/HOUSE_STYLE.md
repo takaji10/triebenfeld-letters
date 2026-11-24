@@ -312,6 +312,26 @@ an article: pages); the date, a range where the material spans years. The
 English title heads in the English site. The document-type tag stands at
 the foot, on manuscripts only.
 
+## Units of measurement and money
+
+The editor, 2026-11-24, of "morgi" in the entry for Wrąbczyn: an old unit
+is not written in a Polish or German inflected form in English prose. The
+rule:
+
+- **A unit the glossary heads is written as the glossary heads it**, in
+  the singular and the plural the glossary gives: *Morgen* (also for the
+  Polish *morga*, which is the same unit; never "morgi", "morgów",
+  "morgen"), *Hufe*, *Hufen*, rod, Reichsthaler, Groschen.
+- **The Polish grzywna is the mark**: "500 marks (grzywny)" at first
+  mention, "marks" after; never "grzywnas".
+- **Polish money stays in the form English reference works use**: złoty
+  (plural złoty), grosz, groszy ("12 złoty 15 groszy").
+- A unit the glossary does not yet head is added to it before it is used
+  in prose, or written in its English equivalent.
+
+The editor's own texts (the gazetteer's entries) follow the rule too at
+their word (2026-11-24); their verbatim source file does not change.
+
 ## The documents first
 
 The editor, 2026-10-20: "All facts must be first verified against
