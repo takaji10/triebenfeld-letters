@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/sommerfeld/"
 alt_url: "/de/orte/sommerfeld/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "12", "uid": "oe1bu14526-12", "url": "/documents/oe1bu14526/12/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "10", "uid": "oe1bu14526-10", "url": "/documents/oe1bu14526/10/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "15", "uid": "iiihamdaiiinr12765-15", "url": "/documents/iiihamdaiiinr12765/15/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "17", "uid": "iiihamdaiiinr12765-17", "url": "/documents/iiihamdaiiinr12765/17/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "18", "uid": "iiihamdaiiinr12765-18", "url": "/documents/iiihamdaiiinr12765/18/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "19", "uid": "iiihamdaiiinr12765-19", "url": "/documents/iiihamdaiiinr12765/19/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
 hits_docs_count: 6
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 6
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

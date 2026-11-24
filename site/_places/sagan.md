@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/sagan/"
 alt_url: "/de/orte/sagan/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "26", "uid": "oe1bu9454-26", "url": "/documents/oe1bu9454/26/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "253", "uid": "oe1bu9454-253", "url": "/documents/oe1bu9454/253/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "294", "uid": "oe1bu9454-294", "url": "/documents/oe1bu9454/294/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.294500000000001%2C51.595499999999994%2C15.3345%2C51.6355&amp;layer=mapnik&amp;marker=51.6155%2C15.3145" title="Żagań" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="51.6155" data-lon="15.3145" data-zoom="13" data-title="Żagań" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.6155&amp;mlon=15.3145#map=15/51.6155/15.3145" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

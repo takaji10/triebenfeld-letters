@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/lukomskie-oledry/"
 alt_url: "/de/orte/lukomskie-oledry/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Olęder settlement which existed west of Łukom. Not to be confused with the sho
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

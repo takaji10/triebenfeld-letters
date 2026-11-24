@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/ladek/"
 alt_url: "/places/ladek/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "unit_label": "AGAD 1/169/0/1/1745", "n": 1}, {"id": "115", "uid": "oe1bu9454-115", "url": "/documents/oe1bu9454/115/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.90988%2C52.18958%2C17.94988%2C52.229580000000006&amp;layer=mapnik&amp;marker=52.20958%2C17.92988" title="Lądek" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.20958" data-lon="17.92988" data-zoom="13" data-title="Lądek" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.20958&amp;mlon=17.92988#map=15/52.20958/17.92988" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

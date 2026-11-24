@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/wielki-bor-obreb/"
 alt_url: "/de/orte/wielki-bor-obreb/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Historical forest precinct which existed southwest of Łazińsk Pierwszy. The pr
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

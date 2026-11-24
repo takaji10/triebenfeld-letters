@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/drzezgi/"
 alt_url: "/places/drzezgi/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Water mill which existed south of Maryantów. First mentioned in a 1630 marriage
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

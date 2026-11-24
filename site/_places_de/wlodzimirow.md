@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/wlodzimirow/"
 alt_url: "/places/wlodzimirow/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.119722" data-lon="17.894167" data-zoom="13" data-title="Włodzimirów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.119722&amp;mlon=17.894167#map=15/52.119722/17.894167" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -31,12 +37,9 @@ Village south of Michalinów Oleśnicki. Named after Count Włodzimierz Miączy�
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.874167%2C52.099722%2C17.914167%2C52.139722000000006&amp;layer=mapnik&amp;marker=52.119722%2C17.894167" title="Włodzimirów" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.119722&amp;mlon=17.894167#map=15/52.119722/17.894167" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

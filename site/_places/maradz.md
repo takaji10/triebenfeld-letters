@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/maradz/"
 alt_url: "/de/orte/maradz/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Forest southwest of Stanisławów. Appeared as a forest (Kozłowski 1861) and as
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

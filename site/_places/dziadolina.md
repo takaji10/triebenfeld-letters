@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/dziadolina/"
 alt_url: "/de/orte/dziadolina/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -30,4 +31,8 @@ Locale which existed south of Łomów. First mentioned as a forest in a 1775 bor
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

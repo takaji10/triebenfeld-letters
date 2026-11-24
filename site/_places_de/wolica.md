@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/wolica/"
 alt_url: "/places/wolica/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "41", "uid": "oe1bu14525-41", "url": "/documents/oe1bu14525/41/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 7
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 7
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

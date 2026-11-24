@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/koszelewska-laka/"
 alt_url: "/places/koszelewska-laka/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.117335" data-lon="17.77766" data-zoom="13" data-title="Koszelewska Łąka" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.117335&amp;mlon=17.77766#map=15/52.117335/17.77766" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -29,12 +35,9 @@ Village southwest of Łukom. Founded between 1794 and 1800 as the last village e
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.75766%2C52.097334999999994%2C17.79766%2C52.137335&amp;layer=mapnik&amp;marker=52.117335%2C17.77766" title="Koszelewska Łąka" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.117335&amp;mlon=17.77766#map=15/52.117335/17.77766" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

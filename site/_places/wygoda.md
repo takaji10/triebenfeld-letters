@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/wygoda/"
 alt_url: "/de/orte/wygoda/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Tavern which existed north of Łukom. Only one map noted this feature (Richter 1
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

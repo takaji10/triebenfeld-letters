@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/kuzoi/"
 alt_url: "/de/orte/kuzoi/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Unknown place which existed south of Myszaków. Only one map noted this feature 
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

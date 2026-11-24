@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/orzeszkowo/"
 alt_url: "/places/orzeszkowo/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "29", "uid": "oe1bu14526-29", "url": "/documents/oe1bu14526/29/", "unit_label": "Oe 1 Bü 14526", "n": 1}]
 hits_docs_count: 1
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.08023%2C52.53218%2C16.12023%2C52.57218&amp;layer=mapnik&amp;marker=52.55218%2C16.10023" title="Orzeszkowo" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.55218" data-lon="16.10023" data-zoom="13" data-title="Orzeszkowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.55218&amp;mlon=16.10023#map=15/52.55218/16.10023" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

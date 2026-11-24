@@ -957,6 +957,10 @@ img.scan {
 }
 .gl-entry .gl-orig i { text-transform: none; letter-spacing: 0; font-size: .85rem; }
 .gl-entry .gl-meta { font-family: var(--sans); font-size: .78rem; color: var(--ink-faint); }
+.gl-entry .gl-ref { font-family: var(--sans); font-size: .8rem; color: var(--ink-faint); margin: .4rem 0 0; }
+.gl-entry .gl-refs-h { font-family: var(--sans); font-size: .82rem; font-weight: 600; margin: .7rem 0 .1rem; }
+.gl-entry .gl-refs summary { font-family: var(--sans); font-size: .8rem; cursor: pointer; color: var(--accent); }
+.gl-entry .gl-doclist { font-family: var(--sans); font-size: .8rem; columns: 2 16rem; margin: .4rem 0 0; padding-left: 1.1rem; }
 .gl-entry:target { background: color-mix(in srgb, var(--accent) 8%, transparent); box-shadow: -.8rem 0 0 color-mix(in srgb, var(--accent) 8%, transparent); }
 .gl-none { font-family: var(--sans); color: var(--ink-faint); }
 
@@ -1150,13 +1154,20 @@ body[data-related="off"] .lit-related { display: none; }
 /* ---- the place pages (docs/PLACES_PLAN.md, section 8) ---- */
 /* The map frame renders the embed at twice the shown size and scales it
    down, so the tiles stay sharp on a high-resolution display. */
-.place-map-frame { position: relative; height: 340px; overflow: hidden;
-  border: 1px solid var(--line); border-radius: 4px;
-  background: var(--paper-2); }
-.place-map-frame iframe { position: absolute; top: 0; left: 0;
-  width: 200%; height: 680px; border: 0; transform: scale(0.5);
-  transform-origin: 0 0; }
+.place-leaflet { position: relative; height: 360px; overflow: hidden;
+  border: 1px solid var(--rule); border-radius: 4px;
+  background: var(--paper-2); z-index: 0; }
+@media (max-width: 40rem) { .place-leaflet { height: 260px; } }
+.place-leaflet .leaflet-control-layers { font-family: var(--sans); font-size: .8rem; }
+.place-map { margin: 1rem 0 1.4rem; }
 .place-map .refs { margin: .4rem 0 0; }
+.place-docs h2, .place-maps h2, .place-cite-h { margin: 0 0 .5rem; font-size: 1.1rem; }
+.place-cite-h { margin-top: 2rem; }
+.place-maps > .litlist > .litlist-body { margin-top: .4rem; }
+/* the target of a footnote jump flashes (assets/notejump.js) */
+@keyframes nj-flash { from { background: color-mix(in srgb, var(--accent) 24%, transparent); }
+  to { background: transparent; } }
+.nj-flash { animation: nj-flash 1.6s ease-out; border-radius: 2px; }
 .place-index .kind { color: var(--ink-faint); font-family: var(--sans);
   font-size: .82rem; }
 .place-desc sup a, .gfn a { text-decoration: none; font-size: .75rem; }

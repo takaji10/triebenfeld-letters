@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/koczogowa/"
 alt_url: "/de/orte/koczogowa/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Water mill which existed east of Myszaków. Possibly located at Łukom, which wa
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

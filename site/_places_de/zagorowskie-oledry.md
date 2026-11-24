@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/zagorowskie-oledry/"
 alt_url: "/places/zagorowskie-oledry/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Olęder settlement which existed north of Imielno. According to Chodyła, Zagór
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

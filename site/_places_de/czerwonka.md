@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/czerwonka/"
 alt_url: "/places/czerwonka/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.116603" data-lon="17.957974" data-zoom="13" data-title="Czerwonka" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116603&amp;mlon=17.957974#map=15/52.116603/17.957974" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -27,12 +33,9 @@ Hamlet south of and belonging to Łazy. The Geographical Dictionary of the Kingd
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.937974%2C52.096602999999995%2C17.977974%2C52.136603&amp;layer=mapnik&amp;marker=52.116603%2C17.957974" title="Czerwonka" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116603&amp;mlon=17.957974#map=15/52.116603/17.957974" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

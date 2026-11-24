@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/bayreuth/"
 alt_url: "/de/orte/bayreuth/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=11.551%2C49.925599999999996%2C11.591%2C49.9656&amp;layer=mapnik&amp;marker=49.9456%2C11.571" title="Bayreuth" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="49.9456" data-lon="11.571" data-zoom="13" data-title="Bayreuth" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.9456&amp;mlon=11.571#map=15/49.9456/11.571" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

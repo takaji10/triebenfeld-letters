@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/krolikower-hollaend/"
 alt_url: "/de/orte/krolikower-hollaend/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -16,4 +17,6 @@ hits_docs_count: 0
 <section class="place-gaz">
 
 </section>
+
+{% include place-maps.html %}
 

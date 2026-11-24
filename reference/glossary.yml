@@ -117,6 +117,7 @@ entries:
   checked: true
 
 - id: friedrich-dor
+  lang_note_en: "German <i>Friedrich d'or</i>, after the French <i>louis d'or</i>"
   kind: money
   lang: de_fr
   head_en: Friedrich d'or
@@ -386,6 +387,7 @@ entries:
   checked: false
 
 - id: canon
+  lang_note_en: "German <i>Canon</i>, from Latin <i>canonicus</i>"
   kind: land
   lang: de_la
   head_en: canon
@@ -427,6 +429,7 @@ entries:
   checked: true
 
 - id: laudemium
+  lang_note_en: "Latin: <i>laudemium</i>"
   kind: land
   lang: de_la
   head_en: Laudemium
@@ -448,6 +451,7 @@ entries:
   checked: true
 
 - id: propination
+  lang_note_en: "German <i>Propination</i>, from Latin <i>propinatio</i>"
   kind: land
   lang: de_la
   head_en: propination
@@ -547,6 +551,7 @@ entries:
   checked: false
 
 - id: dismembration
+  lang_note_en: "German <i>Dismembration</i>, from Latin <i>dismembratio</i>"
   kind: land
   lang: de_la
   head_en: dismemberment
@@ -611,6 +616,7 @@ entries:
   checked: true
 
 - id: donation
+  lang_note_en: "German <i>Donation</i>, from Latin <i>donatio</i>"
   kind: land
   lang: de_la
   head_en: donation (royal grant)
@@ -630,6 +636,7 @@ entries:
   checked: false
 
 - id: taxe
+  lang_note_en: "German <i>Taxe</i>, from Latin <i>taxa</i>"
   kind: land
   lang: de_la
   head_en: valuation (Taxe)
@@ -653,6 +660,7 @@ entries:
   checked: true
 
 - id: competenz
+  lang_note_en: "German <i>Competenz</i>, from Latin <i>competentia</i>"
   kind: land
   lang: de_la
   head_en: competence (Competenz)
@@ -672,6 +680,7 @@ entries:
   checked: false
 
 - id: pertinenz
+  lang_note_en: "German <i>Pertinenz</i>, from Latin <i>pertinentia</i>"
   kind: land
   lang: de_la
   head_en: appurtenances
@@ -872,6 +881,7 @@ entries:
 # ------------------------------------------------- law, money, administration
 
 - id: sequestration
+  lang_note_en: "German <i>Sequestration</i>, from Latin <i>sequestratio</i>"
   kind: law
   lang: de_la
   head_en: sequestration
@@ -895,6 +905,7 @@ entries:
   checked: true
 
 - id: execution
+  lang_note_en: "German <i>Execution</i>, from Latin <i>executio</i>"
   kind: law
   lang: de_la
   head_en: execution
@@ -932,6 +943,7 @@ entries:
   checked: true
 
 - id: resignation
+  lang_note_en: "German <i>Resignation</i>, from Latin <i>resignatio</i>"
   kind: law
   lang: de_la
   head_en: resignation
@@ -1007,6 +1019,7 @@ entries:
   checked: false
 
 - id: intabulation
+  lang_note_en: "German <i>Intabulation</i>, from Latin <i>intabulatio</i>"
   kind: law
   lang: de_la
   head_en: intabulation
@@ -1141,6 +1154,7 @@ entries:
   checked: true
 
 - id: justitiarius
+  lang_note_en: "Latin: <i>justitiarius</i>"
   kind: law
   lang: de_la
   head_en: justiciary
@@ -1265,6 +1279,7 @@ entries:
   checked: true
 
 - id: prefect
+  lang_note_en: "German <i>Prefect</i>, <i>Podprefect</i>, from French <i>préfet</i>, <i>sous-préfet</i>"
   kind: law
   lang: de_fr
   head_en: prefect, sub-prefect
@@ -1554,6 +1569,7 @@ entries:
   checked: true
 
 - id: vidimirt
+  lang_note_en: "German <i>vidimirt</i>, from Latin <i>vidimus</i>, <i>vidimata</i>"
   kind: law
   lang: de_la
   head_en: certified copy (vidimus)
@@ -1575,6 +1591,7 @@ entries:
   checked: true
 
 - id: revers
+  lang_note_en: "German <i>Revers</i>, from French <i>revers</i>"
   kind: law
   lang: de_fr
   head_en: written undertaking (Revers)
@@ -1594,6 +1611,7 @@ entries:
   checked: true
 
 - id: transact
+  lang_note_en: "German <i>Transact</i>, from Latin <i>transactio</i>"
   kind: law
   lang: de_la
   head_en: settlement (Transact)
@@ -1611,6 +1629,7 @@ entries:
   checked: false
 
 - id: indult
+  lang_note_en: "German <i>Indult</i>, from Latin <i>indultum</i>"
   kind: law
   lang: de_la
   head_en: indult
@@ -1693,6 +1712,7 @@ entries:
   checked: false
 
 - id: rendant
+  lang_note_en: "French: <i>rendant</i>"
   kind: law
   lang: de_fr
   head_en: Rendant
@@ -1709,6 +1729,7 @@ entries:
   checked: false
 
 - id: conducteur
+  lang_note_en: "French: <i>conducteur</i>"
   kind: law
   lang: de_fr
   head_en: surveyor (Conducteur)
@@ -1728,6 +1749,7 @@ entries:
   checked: true
 
 - id: estaffette
+  lang_note_en: "German <i>Estaffette</i>, from French <i>estafette</i>"
   kind: law
   lang: de_fr
   head_en: express courier (Estaffette)
@@ -1947,6 +1969,7 @@ entries:
   checked: false
 
 - id: decret
+  lang_note_en: "German <i>Decret</i>, from Latin <i>decretum</i>"
   kind: law
   lang: de_la
   head_en: decree (Decret)
@@ -1966,6 +1989,7 @@ entries:
   checked: true
 
 - id: departement
+  lang_note_en: "German <i>Departement</i>, from French <i>département</i>"
   kind: law
   lang: de_fr
   head_en: department (Departement)
@@ -1987,6 +2011,7 @@ entries:
   checked: false
 
 - id: gouvernement
+  lang_note_en: "French: <i>gouvernement</i>"
   kind: law
   lang: de_fr
   head_en: General Government (Gouvernement)
@@ -2010,6 +2035,7 @@ entries:
   checked: false
 
 - id: tribunal
+  lang_note_en: "French: <i>tribunal</i>"
   kind: law
   lang: de_fr
   head_en: Tribunal
@@ -2029,6 +2055,7 @@ entries:
   checked: false
 
 - id: cabinetsordre
+  lang_note_en: "German <i>Cabinets-Ordre</i>, from French <i>ordre</i>"
   kind: law
   lang: de_fr
   head_en: cabinet order
@@ -2066,6 +2093,7 @@ entries:
   checked: false
 
 - id: cession
+  lang_note_en: "German <i>Cession</i>, from Latin <i>cessio</i>"
   kind: law
   lang: de_la
   head_en: cession
@@ -2147,6 +2175,7 @@ entries:
   checked: false
 
 - id: auditeur
+  lang_note_en: "French: <i>auditeur</i>"
   kind: law
   lang: de_fr
   head_en: Auditeur
@@ -2169,6 +2198,7 @@ entries:
   checked: true
 
 - id: protocoll
+  lang_note_en: "German <i>Protocoll</i>, from Latin <i>protocollum</i>"
   kind: law
   lang: de_la
   head_en: record (Protocoll)
@@ -2247,6 +2277,7 @@ entries:
   checked: false
 
 - id: justiz-commissarius
+  lang_note_en: "German <i>Justiz-Commissarius</i>, from Latin <i>commissarius</i>"
   kind: law
   lang: de_la
   head_en: justice commissary

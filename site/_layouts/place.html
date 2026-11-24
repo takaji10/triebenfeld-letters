@@ -34,8 +34,11 @@ layout: default
     (docs/MAPS_SITE_PLAN.md, section 4): every place page carries them, the
     authored pages included.
   {%- endcomment -%}
-  {% include place-maps.html %}
+  {%- unless page.maps_in_body %}{% include place-maps.html %}{% endunless %}
 </div>
 
+{%- if pl.sources.size > 0 %}
 <script src="{{ '/assets/literature.js' | relative_url }}"></script>
+{%- endif %}
+<script src="{{ '/assets/place-map.js' | relative_url }}"></script>
 {% include doc-list-script.html %}

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/kuligowo/"
 alt_url: "/de/orte/kuligowo/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "16", "uid": "oe1bu14525-16", "url": "/documents/oe1bu14525/16/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "18", "uid": "oe1bu14525-18", "url": "/documents/oe1bu14525/18/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "18", "uid": "oe1bu14526-18", "url": "/documents/oe1bu14526/18/", "unit_label": "Oe 1 Bü 14526", "n": 5}, {"id": "19", "uid": "oe1bu14526-19", "url": "/documents/oe1bu14526/19/", "unit_label": "Oe 1 Bü 14526", "n": 5}]
 hits_docs_count: 9
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 9
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.634761000000001%2C52.453981%2C15.674761%2C52.493981000000005&amp;layer=mapnik&amp;marker=52.473981%2C15.654761" title="Kuligowo" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.473981" data-lon="15.654761" data-zoom="13" data-title="Kuligowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.473981&amp;mlon=15.654761#map=15/52.473981/15.654761" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

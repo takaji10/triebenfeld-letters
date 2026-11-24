@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/lusnie-oledry/"
 alt_url: "/de/orte/lusnie-oledry/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -30,4 +31,8 @@ Olęder settlement which existed in the southwest corner of the Trąbczyn estate
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

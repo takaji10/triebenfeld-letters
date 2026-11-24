@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/pyzdry/"
 alt_url: "/de/orte/pyzdry/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "24", "uid": "kdw-24", "url": "/documents/kdw/24/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 2}, {"id": "25", "uid": "kdw-25", "url": "/documents/kdw/25/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "26", "uid": "kdw-26", "url": "/documents/kdw/26/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 2}, {"id": "4", "uid": "app5314550221-4", "url": "/documents/app5314550221/4/", "unit_label": "APP 53/1455/0/2/21", "n": 2}, {"id": "11", "uid": "kdw-11", "url": "/documents/kdw/11/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "20", "uid": "kdw-20", "url": "/documents/kdw/20/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 3}, {"id": "2", "uid": "app5314550221-2", "url": "/documents/app5314550221/2/", "unit_label": "APP 53/1455/0/2/21", "n": 1}, {"id": "6", "uid": "app5314550221-6", "url": "/documents/app5314550221/6/", "unit_label": "APP 53/1455/0/2/21", "n": 1}, {"id": "1", "uid": "app536045-1", "url": "/documents/app536045/1/", "unit_label": "APP 53/6/0/-/45", "n": 2}, {"id": "1", "uid": "app53170koningr153-1", "url": "/documents/app53170koningr153/1/", "unit_label": "53/17/0/-/Konin Gr.153", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 1}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}, {"id": "6", "uid": "ihagrrep7cnr421-6", "url": "/documents/ihagrrep7cnr421/6/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 421", "n": 1}, {"id": "27", "uid": "oe1bu14526-27", "url": "/documents/oe1bu14526/27/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "25", "uid": "oe1bu14526-25", "url": "/documents/oe1bu14526/25/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "23", "uid": "oe1bu14525-23", "url": "/documents/oe1bu14525/23/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "28", "uid": "oe1bu9454-28", "url": "/documents/oe1bu9454/28/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "31", "uid": "oe1bu9454-31", "url": "/documents/oe1bu9454/31/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "2", "uid": "agad14320139-2", "url": "/documents/agad14320139/2/", "unit_label": "1/432/0/1/139, scans 128-130", "n": 4}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 3}]
 hits_docs_count: 23
 ---
@@ -15,6 +16,11 @@ hits_docs_count: 23
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.1694332" data-lon="17.687134" data-zoom="13" data-title="Pyzdry" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1694332&amp;mlon=17.687134#map=15/52.1694332/17.687134" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
 
@@ -22,7 +28,7 @@ hits_docs_count: 23
 
 Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the army of Duke Henry I the Bearded entered Greater Poland. The Lisewo-Pyzdry branch of the newly-formed Zagórów Evangelical-Augsburg Lutheran parish was established here in 1842. A document of 14 October 1341 records Casimir the Great granting Jakub, a burgher of Pyzdry, a third part of a mill on the Warta below the castle of Pyzdry.[^1] The Słownik geograficzny records it as a town on the Warta, powiat słupecki, gmina and parish of Pyzdry, with 232 houses and 3151 inhabitants at the time of the Słownik.[^2] A Słownik supplement adds that Mieszko of Poland stayed here in 1186 and issued an act for Ląd Abbey from Pyzdry, and that the town received German law early.[^3]
 
-[^1]: Kodeks Dyplomatyczny Wielkopolski, vol. 2, no. None.
+[^1]: Kodeks Dyplomatyczny Wielkopolski, vol. 2, no. None
 
 [^2]: [Słownik geograficzny, t. IX, p. 332.]({% endraw %}{{ '/literature/slownik/#p-c09' | relative_url }}{% raw %})
 
@@ -31,18 +37,15 @@ Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the a
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.667134%2C52.1494332%2C17.707134%2C52.1894332&amp;layer=mapnik&amp;marker=52.1694332%2C17.687134" title="Pyzdry" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1694332&amp;mlon=17.687134#map=15/52.1694332/17.687134" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 
 <section class="place-docs">
-{{ t.places_docs_h2 }}
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

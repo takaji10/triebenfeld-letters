@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/zwierzyniec/"
 alt_url: "/de/orte/zwierzyniec/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Folwark which existed east of Szetlewek. Only one map noted this feature (Kozło
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

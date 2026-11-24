@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/memel/"
 alt_url: "/de/orte/memel/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "27", "uid": "oe1bu9454-27", "url": "/documents/oe1bu9454/27/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "29", "uid": "oe1bu9454-29", "url": "/documents/oe1bu9454/29/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "30", "uid": "oe1bu9454-30", "url": "/documents/oe1bu9454/30/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=21.124200000000002%2C55.683299999999996%2C21.1642%2C55.7233&amp;layer=mapnik&amp;marker=55.7033%2C21.1442" title="Memel" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="55.7033" data-lon="21.1442" data-zoom="13" data-title="Memel" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=55.7033&amp;mlon=21.1442#map=15/55.7033/21.1442" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

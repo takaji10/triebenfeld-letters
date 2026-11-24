@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/sadornicz/"
 alt_url: "/de/orte/sadornicz/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Unknown place which existed between Wrąbczynek and Myszaków. Only one map note
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/posada/"
 alt_url: "/de/orte/posada/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Location unknown. Listed as an area or subdivision of the Trąbczyn estate by Th
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

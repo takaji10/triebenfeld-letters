@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/brzesc-kujawski/"
 alt_url: "/places/brzesc-kujawski/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "unit_label": "53/17/0/-/Konin Gr.145", "n": 4}, {"id": "1", "uid": "app53170koningr153-1", "url": "/documents/app53170koningr153/1/", "unit_label": "53/17/0/-/Konin Gr.153", "n": 1}]
 hits_docs_count: 2
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.8748%2C52.5669%2C18.9148%2C52.6069&amp;layer=mapnik&amp;marker=52.5869%2C18.8948" title="Brześć Kujawski" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.5869" data-lon="18.8948" data-zoom="13" data-title="Brześć Kujawski" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5869&amp;mlon=18.8948#map=15/52.5869/18.8948" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

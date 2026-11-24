@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/neuenstein/"
 alt_url: "/de/orte/neuenstein/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "176", "uid": "oe1bu9454-176", "url": "/documents/oe1bu9454/176/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "292", "uid": "oe1bu9454-292", "url": "/documents/oe1bu9454/292/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=9.603100000000001%2C49.187799999999996%2C9.6431%2C49.2278&amp;layer=mapnik&amp;marker=49.2078%2C9.6231" title="Neuenstein" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="49.2078" data-lon="9.6231" data-zoom="13" data-title="Neuenstein" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2078&amp;mlon=9.6231#map=15/49.2078/9.6231" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

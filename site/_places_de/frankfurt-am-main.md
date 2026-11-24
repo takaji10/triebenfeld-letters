@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/frankfurt-am-main/"
 alt_url: "/places/frankfurt-am-main/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "287", "uid": "oe1bu9454-287", "url": "/documents/oe1bu9454/287/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "295", "uid": "oe1bu9454-295", "url": "/documents/oe1bu9454/295/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}]
 hits_docs_count: 4
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=8.6621%2C50.0909%2C8.7021%2C50.130900000000004&amp;layer=mapnik&amp;marker=50.1109%2C8.6821" title="Frankfurt am Main" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="50.1109" data-lon="8.6821" data-zoom="13" data-title="Frankfurt am Main" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.1109&amp;mlon=8.6821#map=15/50.1109/8.6821" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

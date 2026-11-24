@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/kolonia-wrabczyn/"
 alt_url: "/places/kolonia-wrabczyn/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.179928" data-lon="17.827287" data-zoom="13" data-title="Kolonie Wrombczyn" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.179928&amp;mlon=17.827287#map=15/52.179928/17.827287" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -35,12 +41,9 @@ German colony northwest of Wrąbczynek, not to be confused with Wrąbczynkowskie
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.807287%2C52.159927999999994%2C17.847286999999998%2C52.199928&amp;layer=mapnik&amp;marker=52.179928%2C17.827287" title="Kolonie Wrombczyn" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.179928&amp;mlon=17.827287#map=15/52.179928/17.827287" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

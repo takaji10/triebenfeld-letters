@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/skokamskie-oledry/"
 alt_url: "/de/orte/skokamskie-oledry/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Olęder settlement which existed north of Skokum. First appeared on Reymann 1834
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

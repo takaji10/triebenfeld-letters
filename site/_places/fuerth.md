@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/fuerth/"
 alt_url: "/de/orte/fuerth/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "187", "uid": "oe1bu9454-187", "url": "/documents/oe1bu9454/187/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "188", "uid": "oe1bu9454-188", "url": "/documents/oe1bu9454/188/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=10.9703%2C49.458299999999994%2C11.010299999999999%2C49.4983&amp;layer=mapnik&amp;marker=49.4783%2C10.9903" title="Fürth" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="49.4783" data-lon="10.9903" data-zoom="13" data-title="Fürth" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.4783&amp;mlon=10.9903#map=15/49.4783/10.9903" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

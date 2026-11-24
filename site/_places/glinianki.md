@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/glinianki/"
 alt_url: "/de/orte/glinianki/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.143924" data-lon="17.768239" data-zoom="13" data-title="Glinianki" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.143924&amp;mlon=17.768239#map=15/52.143924/17.768239" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Isolated dwellings northwest of Grabina. Only one map noted this feature (Pełzu
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.748239%2C52.123923999999995%2C17.788239%2C52.163924&amp;layer=mapnik&amp;marker=52.143924%2C17.768239" title="Glinianki" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.143924&amp;mlon=17.768239#map=15/52.143924/17.768239" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

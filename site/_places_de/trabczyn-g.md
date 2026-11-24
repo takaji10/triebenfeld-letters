@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/trabczyn-g/"
 alt_url: "/places/trabczyn-g/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.143178" data-lon="17.958447" data-zoom="13" data-title="Trąbczyn G" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.143178&amp;mlon=17.958447#map=15/52.143178/17.958447" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Locale which existed northeast of Trąbczyn. Likely created after the parcelling
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.938447%2C52.123177999999996%2C17.978447%2C52.163178&amp;layer=mapnik&amp;marker=52.143178%2C17.958447" title="Trąbczyn G" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.143178&amp;mlon=17.958447#map=15/52.143178/17.958447" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

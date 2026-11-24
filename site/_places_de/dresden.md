@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/dresden/"
 alt_url: "/places/dresden/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "97", "uid": "oe1bu9454-97", "url": "/documents/oe1bu9454/97/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "10", "uid": "ihagrrep7cnr3709-10", "url": "/documents/ihagrrep7cnr3709/10/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "5", "uid": "ihagrrep7cnr3132-5", "url": "/documents/ihagrrep7cnr3132/5/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3132", "n": 2}, {"id": "7", "uid": "ihagrrep7cnr3132-7", "url": "/documents/ihagrrep7cnr3132/7/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3132", "n": 1}, {"id": "178", "uid": "oe1bu9454-178", "url": "/documents/oe1bu9454/178/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "2", "uid": "agad11740273-2", "url": "/documents/agad11740273/2/", "unit_label": "AGAD 1/174/0/2/73", "n": 1}, {"id": "2", "uid": "agad1174016-2", "url": "/documents/agad1174016/2/", "unit_label": "AGAD 1/174/0/1/6", "n": 2}, {"id": "1", "uid": "agad11740273-1", "url": "/documents/agad11740273/1/", "unit_label": "AGAD 1/174/0/2/73", "n": 1}, {"id": "3", "uid": "agad11740273-3", "url": "/documents/agad11740273/3/", "unit_label": "AGAD 1/174/0/2/73", "n": 3}, {"id": "4", "uid": "agad11740273-4", "url": "/documents/agad11740273/4/", "unit_label": "AGAD 1/174/0/2/73", "n": 1}, {"id": "36", "uid": "oe1bu9454-36", "url": "/documents/oe1bu9454/36/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "217", "uid": "oe1bu9454-217", "url": "/documents/oe1bu9454/217/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "227", "uid": "oe1bu9454-227", "url": "/documents/oe1bu9454/227/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "237", "uid": "oe1bu9454-237", "url": "/documents/oe1bu9454/237/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "238", "uid": "oe1bu9454-238", "url": "/documents/oe1bu9454/238/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "242", "uid": "oe1bu9454-242", "url": "/documents/oe1bu9454/242/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "266", "uid": "oe1bu9454-266", "url": "/documents/oe1bu9454/266/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "3", "uid": "oe1bu9454-3", "url": "/documents/oe1bu9454/3/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "270", "uid": "oe1bu9454-270", "url": "/documents/oe1bu9454/270/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "2", "uid": "oe1bu9454-2", "url": "/documents/oe1bu9454/2/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "274", "uid": "oe1bu9454-274", "url": "/documents/oe1bu9454/274/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "5", "uid": "iiihamdaiiinr12366-5", "url": "/documents/iiihamdaiiinr12366/5/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 24
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 24
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=14.936636%2C52.586127999999995%2C14.976636%2C52.626128&amp;layer=mapnik&amp;marker=52.606128%2C14.956636" title="Dresden" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.606128" data-lon="14.956636" data-zoom="13" data-title="Dresden" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.606128&amp;mlon=14.956636#map=15/52.606128/14.956636" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

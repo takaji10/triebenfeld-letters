@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/glogau/"
 alt_url: "/de/orte/glogau/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "160", "uid": "oe1bu9454-160", "url": "/documents/oe1bu9454/160/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "187", "uid": "oe1bu9454-187", "url": "/documents/oe1bu9454/187/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "51", "uid": "oe1bu9454-51", "url": "/documents/oe1bu9454/51/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "65", "uid": "oe1bu9454-65", "url": "/documents/oe1bu9454/65/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "23", "uid": "oe1bu9454-23", "url": "/documents/oe1bu9454/23/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "194", "uid": "oe1bu9454-194", "url": "/documents/oe1bu9454/194/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "74a", "uid": "oe1bu9454-74a", "url": "/documents/oe1bu9454/74a/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "74c", "uid": "oe1bu9454-74c", "url": "/documents/oe1bu9454/74c/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 10
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 10
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.0646%2C51.6491%2C16.104599999999998%2C51.6891&amp;layer=mapnik&amp;marker=51.6691%2C16.0846" title="Głogów" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="51.6691" data-lon="16.0846" data-zoom="13" data-title="Głogów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.6691&amp;mlon=16.0846#map=15/51.6691/16.0846" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/szedlemin/"
 alt_url: "/de/orte/szedlemin/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 2
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 2
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

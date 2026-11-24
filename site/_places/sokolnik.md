@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/sokolnik/"
 alt_url: "/de/orte/sokolnik/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "215", "uid": "oe1bu9454-215", "url": "/documents/oe1bu9454/215/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "288", "uid": "oe1bu9454-288", "url": "/documents/oe1bu9454/288/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "iiihamdaiiinr12765-6", "url": "/documents/iiihamdaiiinr12765/6/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 2}, {"id": "290", "uid": "oe1bu9454-290", "url": "/documents/oe1bu9454/290/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "5", "uid": "oe1bu9454-5", "url": "/documents/oe1bu9454/5/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 6
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 6
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

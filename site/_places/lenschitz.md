@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/lenschitz/"
 alt_url: "/de/orte/lenschitz/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "ihagrrep7cnr3067-1", "url": "/documents/ihagrrep7cnr3067/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3067", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.916%2C52.0389%2C18.956%2C52.078900000000004&amp;layer=mapnik&amp;marker=52.0589%2C18.936" title="Łęczyca" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.0589" data-lon="18.936" data-zoom="13" data-title="Łęczyca" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.0589&amp;mlon=18.936#map=15/52.0589/18.936" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

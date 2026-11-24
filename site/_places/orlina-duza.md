@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/orlina-duza/"
 alt_url: "/de/orte/orlina-duza/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.068855" data-lon="17.911626" data-zoom="13" data-title="Orlina Duża" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.068855&amp;mlon=17.911626#map=15/52.068855/17.911626" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Village in the Trąbczyn and Zagórów area. Its Evangelical cemetery is the lar
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.891626%2C52.048854999999996%2C17.931625999999998%2C52.088855&amp;layer=mapnik&amp;marker=52.068855%2C17.911626" title="Orlina Duża" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.068855&amp;mlon=17.911626#map=15/52.068855/17.911626" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

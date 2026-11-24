@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/czarna-struga/"
 alt_url: "/de/orte/czarna-struga/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -34,4 +35,8 @@ River flowing into the Warta River and running approximately from north of Zagó
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

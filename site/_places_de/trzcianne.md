@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/trzcianne/"
 alt_url: "/places/trzcianne/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Field which existed north of Osiny. Only one map noted this feature (Kozłowski 
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

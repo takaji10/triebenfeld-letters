@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/noga/"
 alt_url: "/places/noga/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Forest northwest and southeast of Huta. Listed as a forest settlement (Pl. *osad
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

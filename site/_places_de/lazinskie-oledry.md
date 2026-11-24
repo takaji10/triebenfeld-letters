@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/lazinskie-oledry/"
 alt_url: "/places/lazinskie-oledry/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.1013889" data-lon="17.95" data-zoom="13" data-title="Łazińskie Olędry" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1013889&amp;mlon=17.95#map=15/52.1013889/17.95" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Olęder settlement which existed south of Łazy. Created after the amalgamation 
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.93%2C52.0813889%2C17.97%2C52.12138890000001&amp;layer=mapnik&amp;marker=52.1013889%2C17.95" title="Łazińskie Olędry" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1013889&amp;mlon=17.95#map=15/52.1013889/17.95" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

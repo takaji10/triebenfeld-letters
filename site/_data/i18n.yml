@@ -171,7 +171,11 @@ en:
     in the documents.
   places_t2_h2: Every other place
   places_tier_kind: Kind
-  places_docs_h2: Documents that name the place
+  places_docs_h2: References in documents
+  place_citations_h2: Citations
+  doclist_show_short: Show
+  map_satellite: Satellite
+  map_street: Map
   maps_eyebrow: Maps
   maps_h1: Maps
   maps_places_marked: places marked
@@ -222,7 +226,7 @@ en:
   map_farm_details: Full details
   map_farms_layer: Farmsteads
   map_reds_layer: Field numbers
-  place_maps_h2: On the maps
+  place_maps_h2: References on maps
   place_on_maps: on
   nav_archival: Archival order
   nav_chrono: Chronological
@@ -246,6 +250,8 @@ en:
   gl_in_n: in %d documents
   gl_unchecked: to be checked against
   gl_source: "source:"
+  gl_reference: "Reference:"
+  gl_refs_docs: "References in documents (%d)"
   f_term: Containing the glossary term
   f_term_clear: show all
   gl_more: In the glossary
@@ -689,7 +695,11 @@ de:
     genannt oder nicht.
   places_t2_h2: Alle übrigen Orte
   places_tier_kind: Art
-  places_docs_h2: Dokumente, die den Ort nennen
+  places_docs_h2: Verweise in Dokumenten
+  place_citations_h2: Belege
+  doclist_show_short: Anzeigen
+  map_satellite: Satellit
+  map_street: Karte
   maps_eyebrow: Karten
   maps_h1: Karten
   maps_places_marked: bezeichnete Orte
@@ -740,7 +750,7 @@ de:
   map_farm_details: Vollständige Angaben
   map_farms_layer: Gehöfte
   map_reds_layer: Flurnummern
-  place_maps_h2: Auf den Karten
+  place_maps_h2: Verweise auf Karten
   place_on_maps: auf
   nav_archival: Archivalische Ordnung
   nav_chrono: Chronologisch
@@ -764,6 +774,8 @@ de:
   gl_in_n: in %d Dokumenten
   gl_unchecked: zu prüfen anhand von
   gl_source: "Quelle:"
+  gl_reference: "Beleg:"
+  gl_refs_docs: "Verweise in Dokumenten (%d)"
   f_term: Mit dem Glossarbegriff
   f_term_clear: alle zeigen
   gl_more: Im Glossar

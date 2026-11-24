@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/slupca/"
 alt_url: "/de/orte/slupca/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "179", "uid": "oe1bu9454-179", "url": "/documents/oe1bu9454/179/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "apl399806603-1", "url": "/documents/apl399806603/1/", "unit_label": "APŁ 39/98/0/-/6603", "n": 1}, {"id": "2", "uid": "app539680716-2", "url": "/documents/app539680716/2/", "unit_label": "APP 53/968/0/-/716", "n": 1}, {"id": "4", "uid": "app539680716-4", "url": "/documents/app539680716/4/", "unit_label": "APP 53/968/0/-/716", "n": 2}, {"id": "2", "uid": "apl399806603-2", "url": "/documents/apl399806603/2/", "unit_label": "APŁ 39/98/0/-/6603", "n": 1}, {"id": "1", "uid": "apl399801333-1", "url": "/documents/apl399801333/1/", "unit_label": "APŁ 39/98/0/-/1333", "n": 11}, {"id": "4", "uid": "apl399806603-4", "url": "/documents/apl399806603/4/", "unit_label": "APŁ 39/98/0/-/6603", "n": 2}, {"id": "6", "uid": "apl399806603-6", "url": "/documents/apl399806603/6/", "unit_label": "APŁ 39/98/0/-/6603", "n": 1}, {"id": "5", "uid": "apl399806603-5", "url": "/documents/apl399806603/5/", "unit_label": "APŁ 39/98/0/-/6603", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 1}]
 hits_docs_count: 11
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 11
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.8931%2C52.8206%2C17.9331%2C52.860600000000005&amp;layer=mapnik&amp;marker=52.8406%2C17.9131" title="Słupca" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.8406" data-lon="17.9131" data-zoom="13" data-title="Słupca" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.8406&amp;mlon=17.9131#map=15/52.8406/17.9131" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

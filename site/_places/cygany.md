@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/cygany/"
 alt_url: "/de/orte/cygany/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Eight mounds which existed on the southwest edge of the Trąbczyn estate. The mo
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

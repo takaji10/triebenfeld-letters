@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/wrabczynek/"
 alt_url: "/places/wrabczynek/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "kdw-1", "url": "/documents/kdw/1/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 2}, {"id": "11", "uid": "kdw-11", "url": "/documents/kdw/11/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 3}, {"id": "12", "uid": "kdw-12", "url": "/documents/kdw/12/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "20", "uid": "kdw-20", "url": "/documents/kdw/20/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 4}, {"id": "21", "uid": "kdw-21", "url": "/documents/kdw/21/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}, {"id": "24", "uid": "oe1bu14526-24", "url": "/documents/oe1bu14526/24/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "25", "uid": "oe1bu14526-25", "url": "/documents/oe1bu14526/25/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 1}]
 hits_docs_count: 9
 ---
@@ -15,36 +16,38 @@ hits_docs_count: 9
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.17834" data-lon="17.82236" data-zoom="13" data-title="Wrąbczynek" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.17834&amp;mlon=17.82236#map=15/52.17834/17.82236" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
 
 *Dated forms of the name:* *Wrąbczynek*; *Parvum Vronchin* 1173 [^109]; *Wraczina* 1440 [^111].
 
-Village northwest of Wrąbczyn. First mentioned as *Parvum Vronchin* (Latin for “Small Wrąbczyn”) in an 1173 document where Mieszko I granted the village to Ląd Abbey which included “salt, lakes, fishing, hunting, and other uses.”[^109] Wrąbczynek was traded in 1362 by Ląd Abbey to Casimir III the Great in exchange for part of the forest called *Czirnetz* near Kazimierz.[^110] Mentioned as *Wraczina* in a 1440 document where Władysław III bequeathed Stanisław the Black 500 grzywny from Wrąbczynek and other villages.[^111] Re-established as a settlement around 1770 by Szczepan Turno, starost of Pietrzyków.[^112] *Wromsziniek* (von Pfau 1770); with a windmill (Wreschen 1901).
+Village northwest of Wrąbczyn. First mentioned as *Parvum Vronchin* (Latin for “Small Wrąbczyn”) in an 1173 document where Mieszko I granted the village to Ląd Abbey which included “salt, lakes, fishing, hunting, and other uses.”[^109] Wrąbczynek was traded in 1362 by Ląd Abbey to Casimir III the Great in exchange for part of the forest called *Czirnetz* near Kazimierz.[^110] Mentioned as *Wraczina* in a 1440 document where Władysław III bequeathed Stanisław the Black 500 marks (grzywny) from Wrąbczynek and other villages.[^111] Re-established as a settlement around 1770 by Szczepan Turno, starost of Pietrzyków.[^112] *Wromsziniek* (von Pfau 1770); with a windmill (Wreschen 1901).
 
 [^109]: [Zakrzewski, vol. 1, No. 20.]({% endraw %}{{ '/documents/kdw/1/' | relative_url }}{% raw %})
 
 [^110]: [Zakrzewski, vol. 3, No. 1464.]({% endraw %}{{ '/documents/app5314550221/4/#p1' | relative_url }}{% raw %})
 
-[^111]: [Gąsiorowski and Jasiński, vol. 10, Nos. 1520 & 1532.]({% endraw %}{{ '/documents/kdw/20/' | relative_url }}{% raw %}) ([also]({% endraw %}{{ '/documents/kdw/21/' | relative_url }}{% raw %}))
+[^111]: Gąsiorowski and Jasiński, vol. 10, Nos. [1520]({% endraw %}{{ '/documents/kdw/20/' | relative_url }}{% raw %}) & [1532]({% endraw %}{{ '/documents/kdw/21/' | relative_url }}{% raw %}).
 
 [^112]: [Chodyła 49.]({% endraw %}{{ '/literature/chodyla2015/#p-49' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.80236%2C52.158339999999995%2C17.84236%2C52.19834&amp;layer=mapnik&amp;marker=52.17834%2C17.82236" title="Wrąbczynek" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.17834&amp;mlon=17.82236#map=15/52.17834/17.82236" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 
 <section class="place-docs">
-{{ t.places_docs_h2 }}
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

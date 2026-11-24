@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/tarszew-mlyn/"
 alt_url: "/places/tarszew-mlyn/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Water mill which existed south of Kopojno. First mentioned in a 1742 birth recor
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

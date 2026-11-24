@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/glatz/"
 alt_url: "/de/orte/glatz/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "65", "uid": "oe1bu9454-65", "url": "/documents/oe1bu9454/65/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.6369%2C50.4186%2C16.6769%2C50.458600000000004&amp;layer=mapnik&amp;marker=50.4386%2C16.6569" title="Kłodzko" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="50.4386" data-lon="16.6569" data-zoom="13" data-title="Kłodzko" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.4386&amp;mlon=16.6569#map=15/50.4386/16.6569" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

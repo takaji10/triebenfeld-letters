@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/lutow/"
 alt_url: "/de/orte/lutow/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Possibly a site of windmills which existed south of Łukom. Only one map noted t
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

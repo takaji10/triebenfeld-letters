@@ -23,13 +23,6 @@
 
 <div class="gl-tools" id="gl-tools" hidden>
   <input type="search" id="gl-q" placeholder="{{ t.gl_search }}" aria-label="{{ t.gl_search }}">
-  <div class="gl-kinds" role="group" aria-label="{{ t.gl_kinds }}">
-    <button type="button" class="gl-chip is-on" data-kind="">{{ t.gl_kind_all }}</button>
-    {%- for k in kinds -%}
-      {%- assign label_key = "gl_kind_" | append: k -%}
-      <button type="button" class="gl-chip" data-kind="{{ k }}">{{ t[label_key] }}</button>
-    {%- endfor -%}
-  </div>
 </div>
 
 <nav class="gl-az" id="gl-az" aria-label="A–Z">
@@ -64,23 +57,23 @@
   <article class="gl-entry" id="{{ e.id }}" data-kind="{{ e.kind }}"
            data-search="{{ e.head_en | escape }} {{ e.head_de | escape }} {{ e.orig | escape }} {{ def | escape }}">
     <h3>{{ head }}</h3>
-    {%- if lang != "de" or e.lang != "de" -%}
+    {%- if lang != "de" and e.lang_note_en != "" -%}
+      <p class="gl-orig">{{ e.lang_note_en }}</p>
+    {%- elsif lang != "de" or e.lang != "de" -%}
       <p class="gl-orig">{{ t[lang_key] }}{% if e.orig != "" and e.orig != head %}: <i>{{ e.orig }}</i>{% endif %}</p>
     {%- endif -%}
     <p>{{ def }}</p>
     {%- if long != "" -%}<p>{{ long }}</p>{%- endif -%}
-    <p class="gl-meta">
-      <span>{{ t[kind_key] }}</span>
-      {% if e.docs > 0 %}
-        &middot; <a href="{{ u_browse | append: '?term=' | append: e.id | relative_url }}">{% if e.docs == 1 %}{{ t.gl_in_one }}{% else %}{{ t.gl_in_n | replace: '%d', e.docs }}{% endif %}</a>
-      {% endif %}
-      {% if e.source != "" %}
-        &middot; <span>{{ t.gl_source }} {{ e.source_html }}</span>
-      {% endif %}
-      {% unless e.checked %}
-        &middot; <span>{{ t.gl_unchecked }} {{ e.check_against }}</span>
-      {% endunless %}
-    </p>
+    {%- comment -%} 2026-11-24 (the editor): no category label, no "to be checked
+      against"; one "Reference:" line where the definition has a source; the
+      documents as "References in documents (n)" with a "Show". {%- endcomment -%}
+    {% if e.source != "" %}<p class="gl-ref">{{ t.gl_reference }} {{ e.source_html }}</p>{% endif %}
+    {% if e.docs > 0 %}
+    <h4 class="gl-refs-h">{{ t.gl_refs_docs | replace: '%d', e.docs }}</h4>
+    <details class="gl-refs"><summary>{{ t.doclist_show_short | default: t.gl_show }}</summary>
+      <ul class="gl-doclist">{% for d in e.docs_list %}<li><a href="{{ d.url | relative_url }}">{{ d.text }}</a></li>{% endfor %}</ul>
+    </details>
+    {% endif %}
   </article>
   {%- if forloop.last -%}</section>{%- endif -%}
 {%- endfor -%}
@@ -105,7 +98,7 @@
   function apply() {
     var needle = fold(q.value.trim()), any = false;
     entries.forEach(function (e) {
-      var ok = (!kind || e.getAttribute('data-kind') === kind) && (!needle || e._s.indexOf(needle) !== -1);
+      var ok = (!needle || e._s.indexOf(needle) !== -1);
       e.hidden = !ok; if (ok) any = true;
     });
     var shown = {};

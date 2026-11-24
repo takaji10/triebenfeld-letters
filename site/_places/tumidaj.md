@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/tumidaj/"
 alt_url: "/de/orte/tumidaj/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Tavern in the gmina of Trąbczyn at the time of the Słownik. The Słownik geogr
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

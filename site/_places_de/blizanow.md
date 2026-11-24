@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/blizanow/"
 alt_url: "/places/blizanow/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "216", "uid": "oe1bu9454-216", "url": "/documents/oe1bu9454/216/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "218", "uid": "oe1bu9454-218", "url": "/documents/oe1bu9454/218/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "219", "uid": "oe1bu9454-219", "url": "/documents/oe1bu9454/219/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "220", "uid": "oe1bu9454-220", "url": "/documents/oe1bu9454/220/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "221", "uid": "oe1bu9454-221", "url": "/documents/oe1bu9454/221/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 5}, {"id": "222", "uid": "oe1bu9454-222", "url": "/documents/oe1bu9454/222/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "226", "uid": "oe1bu9454-226", "url": "/documents/oe1bu9454/226/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "227", "uid": "oe1bu9454-227", "url": "/documents/oe1bu9454/227/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "73", "uid": "oe1bu9454-73", "url": "/documents/oe1bu9454/73/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "229", "uid": "oe1bu9454-229", "url": "/documents/oe1bu9454/229/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "72b", "uid": "oe1bu9454-72b", "url": "/documents/oe1bu9454/72b/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "72f", "uid": "oe1bu9454-72f", "url": "/documents/oe1bu9454/72f/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "233", "uid": "oe1bu9454-233", "url": "/documents/oe1bu9454/233/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "18", "uid": "oe1bu9454-18", "url": "/documents/oe1bu9454/18/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "19", "uid": "oe1bu9454-19", "url": "/documents/oe1bu9454/19/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "234", "uid": "oe1bu9454-234", "url": "/documents/oe1bu9454/234/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "236", "uid": "oe1bu9454-236", "url": "/documents/oe1bu9454/236/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "235", "uid": "oe1bu9454-235", "url": "/documents/oe1bu9454/235/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "281", "uid": "oe1bu9454-281", "url": "/documents/oe1bu9454/281/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "266", "uid": "oe1bu9454-266", "url": "/documents/oe1bu9454/266/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "4", "uid": "oe1bu9454-4", "url": "/documents/oe1bu9454/4/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "295", "uid": "oe1bu9454-295", "url": "/documents/oe1bu9454/295/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "297", "uid": "oe1bu9454-297", "url": "/documents/oe1bu9454/297/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "298", "uid": "oe1bu9454-298", "url": "/documents/oe1bu9454/298/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "299", "uid": "oe1bu9454-299", "url": "/documents/oe1bu9454/299/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "300", "uid": "oe1bu9454-300", "url": "/documents/oe1bu9454/300/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "5", "uid": "oe1bu9454-5", "url": "/documents/oe1bu9454/5/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "301", "uid": "oe1bu9454-301", "url": "/documents/oe1bu9454/301/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 30
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 30
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.993737%2C51.881356%2C18.033737%2C51.921356&amp;layer=mapnik&amp;marker=51.901356%2C18.013737" title="Blizanów" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="51.901356" data-lon="18.013737" data-zoom="13" data-title="Blizanów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.901356&amp;mlon=18.013737#map=15/51.901356/18.013737" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

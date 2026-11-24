@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/luebliniz/"
 alt_url: "/places/luebliniz/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "57", "uid": "oe1bu9454-57", "url": "/documents/oe1bu9454/57/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.6492%2C50.648599999999995%2C18.6892%2C50.6886&amp;layer=mapnik&amp;marker=50.6686%2C18.6692" title="Lubliniec" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="50.6686" data-lon="18.6692" data-zoom="13" data-title="Lubliniec" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.6686&amp;mlon=18.6692#map=15/50.6686/18.6692" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

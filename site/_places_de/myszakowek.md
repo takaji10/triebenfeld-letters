@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/myszakowek/"
 alt_url: "/places/myszakowek/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.138934" data-lon="17.785575" data-zoom="13" data-title="Myszakówek" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.138934&amp;mlon=17.785575#map=15/52.138934/17.785575" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -31,12 +37,9 @@ Village east of Łukom. According to Chodyła, Myszakówek was established as an
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.765575000000002%2C52.118933999999996%2C17.805575%2C52.158934&amp;layer=mapnik&amp;marker=52.138934%2C17.785575" title="Myszakówek" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.138934&amp;mlon=17.785575#map=15/52.138934/17.785575" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

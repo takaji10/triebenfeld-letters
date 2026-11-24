@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/imielno/"
 alt_url: "/places/imielno/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "3", "uid": "kdw-3", "url": "/documents/kdw/3/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 3}, {"id": "2", "uid": "app5314550221-2", "url": "/documents/app5314550221/2/", "unit_label": "APP 53/1455/0/2/21", "n": 1}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "unit_label": "53/17/0/-/Konin Gr.145", "n": 7}, {"id": "4", "uid": "app53170koningr117-4", "url": "/documents/app53170koningr117/4/", "unit_label": "53/17/0/-/Konin Gr.117", "n": 1}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}]
 hits_docs_count: 5
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 5
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.142252" data-lon="17.855218" data-zoom="13" data-title="Imielno Olędry" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.142252&amp;mlon=17.855218#map=15/52.142252/17.855218" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -26,7 +32,7 @@ Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where
 
 [^28]: [Klasztor cystersów w Lądzie 13-14.]({% endraw %}{{ '/documents/app5314550221/2/#p1' | relative_url }}{% raw %})
 
-[^29]: [Chodyła 70. Also see Poznań State Archives unit 53/67/0/-/1 containing mortgage documents relating to Imielno Olędry.]({% endraw %}{{ '/literature/chodyla2015/#p-70' | relative_url }}{% raw %})
+[^29]: [Chodyła 70.]({% endraw %}{{ '/literature/chodyla2015/#p-70' | relative_url }}{% raw %}) Also see Poznań State Archives unit 53/67/0/-/1 containing mortgage documents relating to Imielno Olędry.
 
 [^30]: [Ibid 78.]({% endraw %}{{ '/literature/chodyla2015/#p-78' | relative_url }}{% raw %})
 
@@ -37,18 +43,15 @@ Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.835218%2C52.122251999999996%2C17.875218%2C52.162252&amp;layer=mapnik&amp;marker=52.142252%2C17.855218" title="Imielno Olędry" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.142252&amp;mlon=17.855218#map=15/52.142252/17.855218" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 
 <section class="place-docs">
-{{ t.places_docs_h2 }}
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

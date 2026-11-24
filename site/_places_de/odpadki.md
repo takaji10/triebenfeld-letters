@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/odpadki/"
 alt_url: "/places/odpadki/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Settlement in the gmina of Emilienheim at the time of the Słownik. The Słownik
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

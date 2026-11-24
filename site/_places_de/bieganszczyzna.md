@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/bieganszczyzna/"
 alt_url: "/places/bieganszczyzna/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Settlement which existed east of Wrąbczynkowskie Holendry. A forestkeeper’s h
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

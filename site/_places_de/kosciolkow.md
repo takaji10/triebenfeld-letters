@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/kosciolkow/"
 alt_url: "/places/kosciolkow/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.159822" data-lon="17.863937" data-zoom="13" data-title="Kościołków" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.159822&amp;mlon=17.863937#map=15/52.159822/17.863937" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Village south of Wrąbczyn. *Koscialkowo* (Gilly 1802); *Kosciółki* (Reymann 1
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.843937%2C52.139821999999995%2C17.883937%2C52.179822&amp;layer=mapnik&amp;marker=52.159822%2C17.863937" title="Kościołków" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.159822&amp;mlon=17.863937#map=15/52.159822/17.863937" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/kirchol/"
 alt_url: "/places/kirchol/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.153654" data-lon="17.866208" data-zoom="13" data-title="Kirchol" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.153654&amp;mlon=17.866208#map=15/52.153654/17.866208" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Isolated dwellings south of and belonging to Kościołków. First appeared on Me
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.846208%2C52.133654%2C17.886208%2C52.173654000000006&amp;layer=mapnik&amp;marker=52.153654%2C17.866208" title="Kirchol" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.153654&amp;mlon=17.866208#map=15/52.153654/17.866208" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

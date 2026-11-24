@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/venedig/"
 alt_url: "/places/venedig/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "2", "uid": "ihagrrep7cnr1414-2", "url": "/documents/ihagrrep7cnr1414/2/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 1}, {"id": "1", "uid": "ihagrrep7cnr1414-1", "url": "/documents/ihagrrep7cnr1414/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 2}, {"id": "3", "uid": "ihagrrep7cnr1414-3", "url": "/documents/ihagrrep7cnr1414/3/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 1414", "n": 1}, {"id": "1", "uid": "iiihamdaiiinr12366-1", "url": "/documents/iiihamdaiiinr12366/1/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 3}]
 hits_docs_count: 4
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=12.2955%2C45.4208%2C12.3355%2C45.460800000000006&amp;layer=mapnik&amp;marker=45.4408%2C12.3155" title="Venice" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="45.4408" data-lon="12.3155" data-zoom="13" data-title="Venice" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.4408&amp;mlon=12.3155#map=15/45.4408/12.3155" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

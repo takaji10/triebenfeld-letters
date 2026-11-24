@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/prag/"
 alt_url: "/places/prag/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "242", "uid": "oe1bu9454-242", "url": "/documents/oe1bu9454/242/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "281", "uid": "oe1bu9454-281", "url": "/documents/oe1bu9454/281/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "4", "uid": "oe1bu9454-4", "url": "/documents/oe1bu9454/4/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "286", "uid": "oe1bu9454-286", "url": "/documents/oe1bu9454/286/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=14.4178%2C50.055499999999995%2C14.457799999999999%2C50.0955&amp;layer=mapnik&amp;marker=50.0755%2C14.4378" title="Prag" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="50.0755" data-lon="14.4378" data-zoom="13" data-title="Prag" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.0755&amp;mlon=14.4378#map=15/50.0755/14.4378" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/kirchberg/"
 alt_url: "/de/orte/kirchberg/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "176", "uid": "oe1bu9454-176", "url": "/documents/oe1bu9454/176/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "223", "uid": "oe1bu9454-223", "url": "/documents/oe1bu9454/223/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "279", "uid": "oe1bu9454-279", "url": "/documents/oe1bu9454/279/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "282", "uid": "oe1bu9454-282", "url": "/documents/oe1bu9454/282/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 4
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

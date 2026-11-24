@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/stawiszyn/"
 alt_url: "/de/orte/stawiszyn/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="51.918236" data-lon="18.111541" data-zoom="13" data-title="Stawiszyn" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.918236&amp;mlon=18.111541#map=15/51.918236/18.111541" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Town south of Zagórów. Its Evangelical cemetery appears to have continued to b
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.091541%2C51.898236%2C18.131541%2C51.938236&amp;layer=mapnik&amp;marker=51.918236%2C18.111541" title="Stawiszyn" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.918236&amp;mlon=18.111541#map=15/51.918236/18.111541" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

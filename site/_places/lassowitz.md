@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/lassowitz/"
 alt_url: "/de/orte/lassowitz/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 2}, {"id": "245", "uid": "oe1bu9454-245", "url": "/documents/oe1bu9454/245/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 2
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

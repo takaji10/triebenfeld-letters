@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/schlesien/"
 alt_url: "/places/schlesien/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "97", "uid": "oe1bu9454-97", "url": "/documents/oe1bu9454/97/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "2", "uid": "app539680801-2", "url": "/documents/app539680801/2/", "unit_label": "APP 53/968/0/-/801", "n": 1}, {"id": "8", "uid": "oe1bu14526-8", "url": "/documents/oe1bu14526/8/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "188", "uid": "oe1bu9454-188", "url": "/documents/oe1bu9454/188/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "189", "uid": "oe1bu9454-189", "url": "/documents/oe1bu9454/189/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "26", "uid": "oe1bu9454-26", "url": "/documents/oe1bu9454/26/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "41", "uid": "oe1bu9454-41", "url": "/documents/oe1bu9454/41/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "55", "uid": "oe1bu9454-55", "url": "/documents/oe1bu9454/55/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "57", "uid": "oe1bu9454-57", "url": "/documents/oe1bu9454/57/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "58", "uid": "oe1bu9454-58", "url": "/documents/oe1bu9454/58/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "59", "uid": "oe1bu9454-59", "url": "/documents/oe1bu9454/59/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "65", "uid": "oe1bu9454-65", "url": "/documents/oe1bu9454/65/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "200", "uid": "oe1bu9454-200", "url": "/documents/oe1bu9454/200/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "212", "uid": "oe1bu9454-212", "url": "/documents/oe1bu9454/212/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "213", "uid": "oe1bu9454-213", "url": "/documents/oe1bu9454/213/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "74a", "uid": "oe1bu9454-74a", "url": "/documents/oe1bu9454/74a/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "74c", "uid": "oe1bu9454-74c", "url": "/documents/oe1bu9454/74c/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "74d", "uid": "oe1bu9454-74d", "url": "/documents/oe1bu9454/74d/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "246", "uid": "oe1bu9454-246", "url": "/documents/oe1bu9454/246/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "281", "uid": "oe1bu9454-281", "url": "/documents/oe1bu9454/281/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "23", "uid": "iiihamdaiiinr12765-23", "url": "/documents/iiihamdaiiinr12765/23/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 3}, {"id": "24", "uid": "iiihamdaiiinr12765-24", "url": "/documents/iiihamdaiiinr12765/24/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 1}]
 hits_docs_count: 26
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 26
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/rogal/"
 alt_url: "/de/orte/rogal/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Forester's settlement in the Zagórów area, one house at the time of the Słown
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/miasykat/"
 alt_url: "/places/miasykat/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Forest located in the southwest corner of the Trąbczyn estate. Exact location u
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

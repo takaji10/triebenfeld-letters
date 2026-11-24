@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/wieruszow/"
 alt_url: "/places/wieruszow/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "288", "uid": "oe1bu9454-288", "url": "/documents/oe1bu9454/288/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "6", "uid": "oe1bu9454-6", "url": "/documents/oe1bu9454/6/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.214781000000002%2C52.258334999999995%2C18.254781%2C52.298335&amp;layer=mapnik&amp;marker=52.278335%2C18.234781" title="Wieruszów" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.278335" data-lon="18.234781" data-zoom="13" data-title="Wieruszów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.278335&amp;mlon=18.234781#map=15/52.278335/18.234781" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

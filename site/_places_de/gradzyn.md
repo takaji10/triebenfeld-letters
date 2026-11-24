@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/gradzyn/"
 alt_url: "/places/gradzyn/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "3", "uid": "app5314550221-3", "url": "/documents/app5314550221/3/", "unit_label": "APP 53/1455/0/2/21", "n": 2}, {"id": "2", "uid": "app5314550221-2", "url": "/documents/app5314550221/2/", "unit_label": "APP 53/1455/0/2/21", "n": 2}, {"id": "6", "uid": "app5314550221-6", "url": "/documents/app5314550221/6/", "unit_label": "APP 53/1455/0/2/21", "n": 4}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "unit_label": "53/17/0/-/Konin Gr.145", "n": 16}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}, {"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "21", "uid": "oe1bu14525-21", "url": "/documents/oe1bu14525/21/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "151", "uid": "oe1bu9454-151", "url": "/documents/oe1bu9454/151/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "iharep162nr295-1", "url": "/documents/iharep162nr295/1/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "3", "uid": "iharep162nr295-3", "url": "/documents/iharep162nr295/3/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "32", "uid": "oe1bu9454-32", "url": "/documents/oe1bu9454/32/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 1}]
 hits_docs_count: 20
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 20
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.10934" data-lon="17.82053" data-zoom="13" data-title="Grądzeń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.10934&amp;mlon=17.82053#map=15/52.10934/17.82053" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -33,18 +39,15 @@ Village south of Łukom. Mentioned as *Pustkowie Grądziem* in a 1461 privilege 
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.800530000000002%2C52.08934%2C17.84053%2C52.129340000000006&amp;layer=mapnik&amp;marker=52.10934%2C17.82053" title="Grądzeń" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.10934&amp;mlon=17.82053#map=15/52.10934/17.82053" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 
 <section class="place-docs">
-{{ t.places_docs_h2 }}
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

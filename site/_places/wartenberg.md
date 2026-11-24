@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/wartenberg/"
 alt_url: "/de/orte/wartenberg/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "237", "uid": "oe1bu9454-237", "url": "/documents/oe1bu9454/237/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "238", "uid": "oe1bu9454-238", "url": "/documents/oe1bu9454/238/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "268", "uid": "oe1bu9454-268", "url": "/documents/oe1bu9454/268/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.6878%2C51.319199999999995%2C17.7278%2C51.3592&amp;layer=mapnik&amp;marker=51.3392%2C17.7078" title="Syców" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="51.3392" data-lon="17.7078" data-zoom="13" data-title="Syców" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.3392&amp;mlon=17.7078#map=15/51.3392/17.7078" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

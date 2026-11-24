@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/potaszniki/"
 alt_url: "/de/orte/potaszniki/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Location unknown. Mentioned in Trąbczyn Catholic parish metrical records in the
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/lisewska-kolonia/"
 alt_url: "/places/lisewska-kolonia/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Colony next to the village of Lisewo, in the Zagórów area. The Słownik geogra
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

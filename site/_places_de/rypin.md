@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/rypin/"
 alt_url: "/places/rypin/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "ihagrrep7cnr3067-1", "url": "/documents/ihagrrep7cnr3067/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3067", "n": 1}]
 hits_docs_count: 1
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 1
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

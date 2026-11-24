@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/grabina/"
 alt_url: "/de/orte/grabina/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.111944" data-lon="17.913056" data-zoom="13" data-title="Grabina" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.111944&amp;mlon=17.913056#map=15/52.111944/17.913056" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -27,12 +33,9 @@ Isolated dwellings north of and belonging to Łazińsk Pierwszy. The Geographica
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.893056%2C52.091944%2C17.933056%2C52.131944000000004&amp;layer=mapnik&amp;marker=52.111944%2C17.913056" title="Grabina" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.111944&amp;mlon=17.913056#map=15/52.111944/17.913056" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

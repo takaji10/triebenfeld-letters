@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/st-petersburg/"
 alt_url: "/places/st-petersburg/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "83", "uid": "oe1bu9454-83", "url": "/documents/oe1bu9454/83/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "84", "uid": "oe1bu9454-84", "url": "/documents/oe1bu9454/84/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "27", "uid": "oe1bu9454-27", "url": "/documents/oe1bu9454/27/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "30", "uid": "oe1bu9454-30", "url": "/documents/oe1bu9454/30/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "42", "uid": "oe1bu9454-42", "url": "/documents/oe1bu9454/42/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "193", "uid": "oe1bu9454-193", "url": "/documents/oe1bu9454/193/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "206", "uid": "oe1bu9454-206", "url": "/documents/oe1bu9454/206/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "249", "uid": "oe1bu9454-249", "url": "/documents/oe1bu9454/249/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "300", "uid": "oe1bu9454-300", "url": "/documents/oe1bu9454/300/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "11", "uid": "iiihamdaiiinr12765-11", "url": "/documents/iiihamdaiiinr12765/11/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "12", "uid": "iiihamdaiiinr12765-12", "url": "/documents/iiihamdaiiinr12765/12/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 2}, {"id": "16", "uid": "iiihamdaiiinr12765-16", "url": "/documents/iiihamdaiiinr12765/16/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "17", "uid": "iiihamdaiiinr12765-17", "url": "/documents/iiihamdaiiinr12765/17/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "19", "uid": "iiihamdaiiinr12765-19", "url": "/documents/iiihamdaiiinr12765/19/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "20", "uid": "iiihamdaiiinr12765-20", "url": "/documents/iiihamdaiiinr12765/20/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "2", "uid": "iiihamdaiiinr12366-2", "url": "/documents/iiihamdaiiinr12366/2/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 1}, {"id": "23", "uid": "iiihamdaiiinr12765-23", "url": "/documents/iiihamdaiiinr12765/23/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "4", "uid": "iiihamdaiiinr12366-4", "url": "/documents/iiihamdaiiinr12366/4/", "unit_label": "III. HA MdA, III. Nr. 12366", "n": 1}]
 hits_docs_count: 19
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 19
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=30.3409%2C59.9111%2C30.3809%2C59.951100000000004&amp;layer=mapnik&amp;marker=59.9311%2C30.3609" title="St Petersburg" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="59.9311" data-lon="30.3609" data-zoom="13" data-title="St Petersburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=59.9311&amp;mlon=30.3609#map=15/59.9311/30.3609" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/kopojno-parcele/"
 alt_url: "/de/orte/kopojno-parcele/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.163056" data-lon="17.978889" data-zoom="13" data-title="Kopojno-Parcele" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.163056&amp;mlon=17.978889#map=15/52.163056/17.978889" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Hamlet south of and belonging to Kopojno. Likely appeared in the later half of t
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.958889%2C52.143055999999994%2C17.998889%2C52.183056&amp;layer=mapnik&amp;marker=52.163056%2C17.978889" title="Kopojno-Parcele" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.163056&amp;mlon=17.978889#map=15/52.163056/17.978889" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

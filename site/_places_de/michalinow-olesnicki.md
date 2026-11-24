@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/michalinow-olesnicki/"
 alt_url: "/places/michalinow-olesnicki/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.13334" data-lon="17.906508" data-zoom="13" data-title="Michalinów Oleśnicki" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13334&amp;mlon=17.906508#map=15/52.13334/17.906508" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -27,12 +33,9 @@ Village southwest of Trąbczyn. Originally named *Emilienheim* and founded as a 
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.886508%2C52.113339999999994%2C17.926508%2C52.15334&amp;layer=mapnik&amp;marker=52.13334%2C17.906508" title="Michalinów Oleśnicki" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13334&amp;mlon=17.906508#map=15/52.13334/17.906508" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

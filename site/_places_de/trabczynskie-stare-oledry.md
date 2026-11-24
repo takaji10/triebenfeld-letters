@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/trabczynskie-stare-oledry/"
 alt_url: "/places/trabczynskie-stare-oledry/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "1", "uid": "app539680782-1", "url": "/documents/app539680782/1/", "unit_label": "APP 53/968/0/-/782", "n": 1}, {"id": "1", "uid": "app539680783-1", "url": "/documents/app539680783/1/", "unit_label": "APP 53/968/0/-/783", "n": 3}, {"id": "5", "uid": "apl399801333-5", "url": "/documents/apl399801333/5/", "unit_label": "APŁ 39/98/0/-/1333", "n": 2}, {"id": "5", "uid": "app539680716-5", "url": "/documents/app539680716/5/", "unit_label": "APP 53/968/0/-/716", "n": 1}, {"id": "1", "uid": "apl399806603-1", "url": "/documents/apl399806603/1/", "unit_label": "APŁ 39/98/0/-/6603", "n": 2}, {"id": "4", "uid": "app539680716-4", "url": "/documents/app539680716/4/", "unit_label": "APP 53/968/0/-/716", "n": 1}, {"id": "6", "uid": "apl399801333-6", "url": "/documents/apl399801333/6/", "unit_label": "APŁ 39/98/0/-/1333", "n": 2}, {"id": "2", "uid": "apl399806603-2", "url": "/documents/apl399806603/2/", "unit_label": "APŁ 39/98/0/-/6603", "n": 3}, {"id": "1", "uid": "apl399801333-1", "url": "/documents/apl399801333/1/", "unit_label": "APŁ 39/98/0/-/1333", "n": 2}, {"id": "3", "uid": "apl399806603-3", "url": "/documents/apl399806603/3/", "unit_label": "APŁ 39/98/0/-/6603", "n": 1}, {"id": "4", "uid": "apl399806603-4", "url": "/documents/apl399806603/4/", "unit_label": "APŁ 39/98/0/-/6603", "n": 2}, {"id": "6", "uid": "apl399806603-6", "url": "/documents/apl399806603/6/", "unit_label": "APŁ 39/98/0/-/6603", "n": 1}, {"id": "5", "uid": "apl399806603-5", "url": "/documents/apl399806603/5/", "unit_label": "APŁ 39/98/0/-/6603", "n": 1}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 15
 ---
@@ -29,9 +30,13 @@ Olęder settlement which existed southwest of Trąbczyn, located at Łazińsk Pi
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

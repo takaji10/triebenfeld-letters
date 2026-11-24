@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/osiny/"
 alt_url: "/places/osiny/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "app536017-1", "url": "/documents/app536017/1/", "unit_label": "APP 53/6/0/-/17", "n": 1}, {"id": "1", "uid": "app53170koningr136-1", "url": "/documents/app53170koningr136/1/", "unit_label": "53/17/0/-/Konin Gr.136", "n": 5}, {"id": "1", "uid": "app53170koningr145-1", "url": "/documents/app53170koningr145/1/", "unit_label": "53/17/0/-/Konin Gr.145", "n": 46}, {"id": "12", "uid": "app53170koningr116-12", "url": "/documents/app53170koningr116/12/", "unit_label": "53/17/0/-/Konin Gr.116", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 2}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}, {"id": "1", "uid": "adwl85-1", "url": "/documents/adwl85/1/", "unit_label": "ADWł 85", "n": 2}, {"id": "39", "uid": "oe1bu14525-39", "url": "/documents/oe1bu14525/39/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "unit_label": "AGAD 1/169/0/1/1745", "n": 1}, {"id": "6", "uid": "ihagrrep7cnr421-6", "url": "/documents/ihagrrep7cnr421/6/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 421", "n": 1}, {"id": "1", "uid": "oe1bu14525-1", "url": "/documents/oe1bu14525/1/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "4", "uid": "oe1bu14525-4", "url": "/documents/oe1bu14525/4/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "15", "uid": "oe1bu14526-15", "url": "/documents/oe1bu14526/15/", "unit_label": "Oe 1 Bü 14526", "n": 1}, {"id": "6", "uid": "oe1bu14526-6", "url": "/documents/oe1bu14526/6/", "unit_label": "Oe 1 Bü 14526", "n": 3}, {"id": "2", "uid": "iiihamdaiiinr12765-2", "url": "/documents/iiihamdaiiinr12765/2/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "7", "uid": "iiihamdaiiinr12367-7", "url": "/documents/iiihamdaiiinr12367/7/", "unit_label": "III. HA MdA, III. Nr. 12367", "n": 1}, {"id": "1", "uid": "apl399801333-1", "url": "/documents/apl399801333/1/", "unit_label": "APŁ 39/98/0/-/1333", "n": 2}, {"id": "1", "uid": "app5321pyzdrygr115-1", "url": "/documents/app5321pyzdrygr115/1/", "unit_label": "53/21/0/-/Pyzdry Gr.115", "n": 1}]
 hits_docs_count: 18
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 18
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.12586" data-lon="17.93077" data-zoom="13" data-title="Osiny" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.12586&amp;mlon=17.93077#map=15/52.12586/17.93077" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -31,18 +37,15 @@ Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn 
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.91077%2C52.10586%2C17.95077%2C52.145860000000006&amp;layer=mapnik&amp;marker=52.12586%2C17.93077" title="Osiny" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.12586&amp;mlon=17.93077#map=15/52.12586/17.93077" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 
 <section class="place-docs">
-{{ t.places_docs_h2 }}
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

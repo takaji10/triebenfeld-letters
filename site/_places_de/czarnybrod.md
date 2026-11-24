@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/czarnybrod/"
 alt_url: "/places/czarnybrod/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.083274" data-lon="17.957606" data-zoom="13" data-title="Czarnybród" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.083274&amp;mlon=17.957606#map=15/52.083274/17.957606" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -29,12 +35,9 @@ Village south of Łazińsk Drugi in Grodziec Gmina. Czarnybród was once an Olę
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.937606%2C52.063274%2C17.977605999999998%2C52.103274000000006&amp;layer=mapnik&amp;marker=52.083274%2C17.957606" title="Czarnybród" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.083274&amp;mlon=17.957606#map=15/52.083274/17.957606" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

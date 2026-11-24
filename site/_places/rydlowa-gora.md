@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/rydlowa-gora/"
 alt_url: "/de/orte/rydlowa-gora/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.189722" data-lon="17.903611" data-zoom="13" data-title="Rydlowa Góra" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.189722&amp;mlon=17.903611#map=15/52.189722/17.903611" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Earthen mound north of Zagórów. Once a historic settlement built around the 9t
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.883611000000002%2C52.169722%2C17.923611%2C52.209722000000006&amp;layer=mapnik&amp;marker=52.189722%2C17.903611" title="Rydlowa Góra" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.189722&amp;mlon=17.903611#map=15/52.189722/17.903611" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

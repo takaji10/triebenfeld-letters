@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/frankfurt-an-der-oder/"
 alt_url: "/de/orte/frankfurt-an-der-oder/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "122", "uid": "oe1bu9454-122", "url": "/documents/oe1bu9454/122/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "129", "uid": "oe1bu9454-129", "url": "/documents/oe1bu9454/129/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "131", "uid": "oe1bu9454-131", "url": "/documents/oe1bu9454/131/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "132", "uid": "oe1bu9454-132", "url": "/documents/oe1bu9454/132/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "133", "uid": "oe1bu9454-133", "url": "/documents/oe1bu9454/133/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "134", "uid": "oe1bu9454-134", "url": "/documents/oe1bu9454/134/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "137", "uid": "oe1bu9454-137", "url": "/documents/oe1bu9454/137/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "140", "uid": "oe1bu9454-140", "url": "/documents/oe1bu9454/140/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 3}, {"id": "18", "uid": "oe1bu14526-18", "url": "/documents/oe1bu14526/18/", "unit_label": "Oe 1 Bü 14526", "n": 4}, {"id": "19", "uid": "oe1bu14526-19", "url": "/documents/oe1bu14526/19/", "unit_label": "Oe 1 Bü 14526", "n": 4}, {"id": "5", "uid": "oe1bu14526-5", "url": "/documents/oe1bu14526/5/", "unit_label": "Oe 1 Bü 14526", "n": 2}, {"id": "4", "uid": "oe1bu14526-4", "url": "/documents/oe1bu14526/4/", "unit_label": "Oe 1 Bü 14526", "n": 3}, {"id": "22", "uid": "oe1bu14526-22", "url": "/documents/oe1bu14526/22/", "unit_label": "Oe 1 Bü 14526", "n": 14}, {"id": "2", "uid": "iiihamdaiiinr12765-2", "url": "/documents/iiihamdaiiinr12765/2/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "10", "uid": "oe1bu9454-10", "url": "/documents/oe1bu9454/10/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "3", "uid": "iiihamdaiiinr12765-3", "url": "/documents/iiihamdaiiinr12765/3/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "6", "uid": "iiihamdaiiinr12765-6", "url": "/documents/iiihamdaiiinr12765/6/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}, {"id": "303", "uid": "oe1bu9454-303", "url": "/documents/oe1bu9454/303/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}]
 hits_docs_count: 19
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 19
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=14.5306%2C52.3212%2C14.570599999999999%2C52.361200000000004&amp;layer=mapnik&amp;marker=52.3412%2C14.5506" title="Frankfurt an der Oder" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.3412" data-lon="14.5506" data-zoom="13" data-title="Frankfurt an der Oder" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.3412&amp;mlon=14.5506#map=15/52.3412/14.5506" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

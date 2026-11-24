@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/bezslug/"
 alt_url: "/de/orte/bezslug/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Tavern which existed north of Łazińsk Pierwszy. Possibly depicted as an unlabe
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

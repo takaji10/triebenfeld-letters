@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/cieszowa/"
 alt_url: "/places/cieszowa/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 4}, {"id": "264", "uid": "oe1bu9454-264", "url": "/documents/oe1bu9454/264/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 2
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.816228%2C50.651218%2C18.856227999999998%2C50.691218000000006&amp;layer=mapnik&amp;marker=50.671218%2C18.836228" title="Cieszowa" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="50.671218" data-lon="18.836228" data-zoom="13" data-title="Cieszowa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.671218&amp;mlon=18.836228#map=15/50.671218/18.836228" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

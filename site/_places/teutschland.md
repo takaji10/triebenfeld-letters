@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/teutschland/"
 alt_url: "/de/orte/teutschland/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "286", "uid": "oe1bu9454-286", "url": "/documents/oe1bu9454/286/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "16", "uid": "oe1bu9454-16", "url": "/documents/oe1bu9454/16/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "app539680669-1", "url": "/documents/app539680669/1/", "unit_label": "APP 53/968/0/-/669", "n": 1}]
 hits_docs_count: 4
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 4
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

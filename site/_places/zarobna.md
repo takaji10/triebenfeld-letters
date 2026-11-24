@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/zarobna/"
 alt_url: "/de/orte/zarobna/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "6", "uid": "ihagrrep7cnr421-6", "url": "/documents/ihagrrep7cnr421/6/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 421", "n": 1}, {"id": "7", "uid": "iiihamdaiiinr12367-7", "url": "/documents/iiihamdaiiinr12367/7/", "unit_label": "III. HA MdA, III. Nr. 12367", "n": 1}]
 hits_docs_count: 2
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 2
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

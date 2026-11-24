@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/pressburg/"
 alt_url: "/places/pressburg/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "276", "uid": "oe1bu9454-276", "url": "/documents/oe1bu9454/276/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "11", "uid": "oe1bu9454-11", "url": "/documents/oe1bu9454/11/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.0877%2C48.1286%2C17.1277%2C48.168600000000005&amp;layer=mapnik&amp;marker=48.1486%2C17.1077" title="Pressburg (Bratislava)" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="48.1486" data-lon="17.1077" data-zoom="13" data-title="Pressburg (Bratislava)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.1486&amp;mlon=17.1077#map=15/48.1486/17.1077" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/stanislawow/"
 alt_url: "/places/stanislawow/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.116667" data-lon="17.983333" data-zoom="13" data-title="Stanisławów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116667&amp;mlon=17.983333#map=15/52.116667/17.983333" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -27,12 +33,9 @@ Village west of Szetlewek. Named after Stanisław Miączyński (1780-1845), whos
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.963333%2C52.096667%2C18.003332999999998%2C52.136667&amp;layer=mapnik&amp;marker=52.116667%2C17.983333" title="Stanisławów" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.116667&amp;mlon=17.983333#map=15/52.116667/17.983333" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

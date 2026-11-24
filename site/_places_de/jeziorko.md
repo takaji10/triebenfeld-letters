@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/jeziorko/"
 alt_url: "/places/jeziorko/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Folwark which existed southwest of Zagórów. Today part of the southwest outski
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

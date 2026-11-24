@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/huta-trabczynska/"
 alt_url: "/places/huta-trabczynska/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -30,4 +31,8 @@ Hamlet west of and belonging to Łazińsk Drugi. First mentioned in a 1736 marri
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

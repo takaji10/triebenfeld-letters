@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/szetlew/"
 alt_url: "/de/orte/szetlew/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "2", "uid": "kdw-2", "url": "/documents/kdw/2/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 2}, {"id": "1", "uid": "app534062-1", "url": "/documents/app534062/1/", "unit_label": "APP 53/4/0/-/62", "n": 1}, {"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 2}, {"id": "1", "uid": "app53640kalisztab21-1", "url": "/documents/app53640kalisztab21/1/", "unit_label": "53/64/0/-/Kalisz Tab.21", "n": 1}]
 hits_docs_count: 5
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 5
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.131595" data-lon="17.99908" data-zoom="13" data-title="Szetlew" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.131595&amp;mlon=17.99908#map=15/52.131595/17.99908" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -37,18 +43,15 @@ Village southeast of Łazy. First mentioned as *Szetlevo* in a 1240 document whe
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.97908%2C52.111594999999994%2C18.01908%2C52.151595&amp;layer=mapnik&amp;marker=52.131595%2C17.99908" title="Szetlew" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.131595&amp;mlon=17.99908#map=15/52.131595/17.99908" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 
 <section class="place-docs">
-{{ t.places_docs_h2 }}
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

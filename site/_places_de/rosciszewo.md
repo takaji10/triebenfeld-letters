@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/rosciszewo/"
 alt_url: "/places/rosciszewo/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Folwark which existed south of Łomów in the forest on the Łukom estate. Likel
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

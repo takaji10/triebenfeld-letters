@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/maly/"
 alt_url: "/places/maly/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Settlement that existed west of Anielewo (Ingelfingen). Likely part of Anielewo.
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/embden/"
 alt_url: "/places/embden/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=7.1850000000000005%2C53.347199999999994%2C7.225%2C53.3872&amp;layer=mapnik&amp;marker=53.3672%2C7.205" title="Emden" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="53.3672" data-lon="7.205" data-zoom="13" data-title="Emden" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.3672&amp;mlon=7.205#map=15/53.3672/7.205" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

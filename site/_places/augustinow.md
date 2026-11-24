@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/augustinow/"
 alt_url: "/de/orte/augustinow/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "32", "uid": "oe1bu9454-32", "url": "/documents/oe1bu9454/32/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "47", "uid": "oe1bu9454-47", "url": "/documents/oe1bu9454/47/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 4
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.13698" data-lon="17.87681" data-zoom="13" data-title="Augustynów (Augustinhof)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13698&amp;mlon=17.87681#map=15/52.13698/17.87681" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -31,18 +37,15 @@ Village south of Zagórów. Originally named *Kolonia Augustinhof* and founded a
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.85681%2C52.11698%2C17.89681%2C52.156980000000004&amp;layer=mapnik&amp;marker=52.13698%2C17.87681" title="Augustynów (Augustinhof)" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13698&amp;mlon=17.87681#map=15/52.13698/17.87681" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 
 <section class="place-docs">
-{{ t.places_docs_h2 }}
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

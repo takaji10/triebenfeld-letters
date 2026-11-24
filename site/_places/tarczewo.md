@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/tarczewo/"
 alt_url: "/de/orte/tarczewo/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Folwark which existed south of Kopojno. Only one map noted this feature (Reymann
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/lomow/"
 alt_url: "/de/orte/lomow/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.118009" data-lon="17.85095" data-zoom="13" data-title="Łomów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.118009&amp;mlon=17.85095#map=15/52.118009/17.85095" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -31,12 +37,9 @@ Village south of Łukom. First mentioned as *Łomowo* in a 1461 privilege docume
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.83095%2C52.098009%2C17.87095%2C52.138009000000004&amp;layer=mapnik&amp;marker=52.118009%2C17.85095" title="Łomów" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.118009&amp;mlon=17.85095#map=15/52.118009/17.85095" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

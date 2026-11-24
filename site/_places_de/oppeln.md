@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/oppeln/"
 alt_url: "/places/oppeln/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "44", "uid": "oe1bu9454-44", "url": "/documents/oe1bu9454/44/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "56", "uid": "oe1bu9454-56", "url": "/documents/oe1bu9454/56/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "66", "uid": "oe1bu9454-66", "url": "/documents/oe1bu9454/66/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "23", "uid": "iiihamdaiiinr12765-23", "url": "/documents/iiihamdaiiinr12765/23/", "unit_label": "III. HA MdA, III Nr. 12765", "n": 1}]
 hits_docs_count: 5
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.9053%2C50.6551%2C17.9453%2C50.695100000000004&amp;layer=mapnik&amp;marker=50.6751%2C17.9253" title="Opole" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="50.6751" data-lon="17.9253" data-zoom="13" data-title="Opole" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.6751&amp;mlon=17.9253#map=15/50.6751/17.9253" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

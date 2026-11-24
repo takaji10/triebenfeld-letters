@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/grueneberg/"
 alt_url: "/de/orte/grueneberg/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "54", "uid": "oe1bu9454-54", "url": "/documents/oe1bu9454/54/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "74a", "uid": "oe1bu9454-74a", "url": "/documents/oe1bu9454/74a/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "74c", "uid": "oe1bu9454-74c", "url": "/documents/oe1bu9454/74c/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "74d", "uid": "oe1bu9454-74d", "url": "/documents/oe1bu9454/74d/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 4
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.4862%2C51.9156%2C15.5262%2C51.955600000000004&amp;layer=mapnik&amp;marker=51.9356%2C15.5062" title="Zielona Góra" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="51.9356" data-lon="15.5062" data-zoom="13" data-title="Zielona Góra" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.9356&amp;mlon=15.5062#map=15/51.9356/15.5062" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

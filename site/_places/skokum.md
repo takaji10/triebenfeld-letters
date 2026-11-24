@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/skokum/"
 alt_url: "/de/orte/skokum/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "2", "uid": "kdw-2", "url": "/documents/kdw/2/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 1}, {"id": "4", "uid": "kdw-4", "url": "/documents/kdw/4/", "unit_label": "Kodeks Dyplomatyczny Wielkopolski", "n": 3}, {"id": "2", "uid": "adwl85-2", "url": "/documents/adwl85/2/", "unit_label": "ADWł 85", "n": 1}, {"id": "1", "uid": "agad1169011745-1", "url": "/documents/agad1169011745/1/", "unit_label": "AGAD 1/169/0/1/1745", "n": 1}, {"id": "10", "uid": "oe1bu14525-10", "url": "/documents/oe1bu14525/10/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "8", "uid": "oe1bu14525-8", "url": "/documents/oe1bu14525/8/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "9", "uid": "oe1bu14525-9", "url": "/documents/oe1bu14525/9/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "17", "uid": "oe1bu14525-17", "url": "/documents/oe1bu14525/17/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "5", "uid": "oe1bu14525-5", "url": "/documents/oe1bu14525/5/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "21", "uid": "oe1bu14525-21", "url": "/documents/oe1bu14525/21/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "124", "uid": "oe1bu9454-124", "url": "/documents/oe1bu9454/124/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "136", "uid": "oe1bu9454-136", "url": "/documents/oe1bu9454/136/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 2}, {"id": "1", "uid": "iharep162nr295-1", "url": "/documents/iharep162nr295/1/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "3", "uid": "iharep162nr295-3", "url": "/documents/iharep162nr295/3/", "unit_label": "I. HA Rep. 162, Nr. 295", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "191", "uid": "oe1bu9454-191", "url": "/documents/oe1bu9454/191/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "24", "uid": "oe1bu9454-24", "url": "/documents/oe1bu9454/24/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "213", "uid": "oe1bu9454-213", "url": "/documents/oe1bu9454/213/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "232", "uid": "oe1bu9454-232", "url": "/documents/oe1bu9454/232/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "18", "uid": "oe1bu9454-18", "url": "/documents/oe1bu9454/18/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 21
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 21
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.16188" data-lon="17.95828" data-zoom="13" data-title="Skokum" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.16188&amp;mlon=17.95828#map=15/52.16188/17.95828" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -31,18 +37,15 @@ Village east of Zagórów. First mentioned as *Skokome* in a 1240 document where
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.93828%2C52.14187999999999%2C17.978279999999998%2C52.18188&amp;layer=mapnik&amp;marker=52.16188%2C17.95828" title="Skokum" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.16188&amp;mlon=17.95828#map=15/52.16188/17.95828" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 
 <section class="place-docs">
-{{ t.places_docs_h2 }}
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

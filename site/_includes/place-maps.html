@@ -11,7 +11,10 @@
 {%- assign pm = site.data.place_maps[page.place] -%}
 {%- if pm and pm.appearances.size > 0 %}
 <section class="place-maps" id="place-maps">
-  <h2>{{ t.place_maps_h2 }}</h2>
+  <h2>{{ t.place_maps_h2 }} ({{ pm.appearances.size }})</h2>
+  <details class="litlist">
+  <summary>{{ t.doclist_show_short }}</summary>
+  <div class="litlist-body">
   <ul class="map-appearance-list">
   {%- for a in pm.appearances %}
     <li class="map-appearance">
@@ -36,5 +39,7 @@
     </li>
   {%- endfor %}
   </ul>
+  </div>
+  </details>
 </section>
 {%- endif %}

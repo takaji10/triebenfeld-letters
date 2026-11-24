@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/stawisko/"
 alt_url: "/places/stawisko/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -15,12 +16,17 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.108889" data-lon="17.868889" data-zoom="13" data-title="Stawisko" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.108889&amp;mlon=17.868889#map=15/52.108889/17.868889" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
 
 *Dated forms of the name:* *Stawisko*; *Stawisku* 1834 [^70].
 
-Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service 1962). The Słownik geograficzny records it as a village and forestry settlement, gmina Trąbczyn, parish of Zagórów, powiat słupecki, 21 versts from Słupca, with 6 houses, and 381 inhabitants together with the villages of Bukowa and Imielno; the village, of 7 holdings and 64 morgi, belonged to the Łukom estate.[^69] Nazwy miejscowe Polski records it as *Stawisko* from 1834 ("na Stawisku"), a folwark in 1839.[^70]
+Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service 1962). The Słownik geograficzny records it as a village and forestry settlement, gmina Trąbczyn, parish of Zagórów, powiat słupecki, 21 versts from Słupca, with 6 houses, and 381 inhabitants together with the villages of Bukowa and Imielno; the village, of 7 holdings and 64 Morgen, belonged to the Łukom estate.[^69] Nazwy miejscowe Polski records it as *Stawisko* from 1834 ("na Stawisku"), a folwark in 1839.[^70]
 
 [^68]: [Arct, “Stawisko,” 774.]({% endraw %}{{ '/glossary/#stawisko' | relative_url }}{% raw %})
 
@@ -31,12 +37,9 @@ Isolated dwellings southeast of and belonging to Łomów. A significant swamp cr
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.848889%2C52.088888999999995%2C17.888889%2C52.128889&amp;layer=mapnik&amp;marker=52.108889%2C17.868889" title="Stawisko" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.108889&amp;mlon=17.868889#map=15/52.108889/17.868889" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

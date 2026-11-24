@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/graz/"
 alt_url: "/de/orte/graz/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "249", "uid": "oe1bu9454-249", "url": "/documents/oe1bu9454/249/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 1
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.419500000000001%2C47.0507%2C15.4595%2C47.090700000000005&amp;layer=mapnik&amp;marker=47.0707%2C15.4395" title="Graz" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="47.0707" data-lon="15.4395" data-zoom="13" data-title="Graz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=47.0707&amp;mlon=15.4395#map=15/47.0707/15.4395" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

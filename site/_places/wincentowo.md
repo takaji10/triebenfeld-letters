@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/wincentowo/"
 alt_url: "/de/orte/wincentowo/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.131111" data-lon="17.931667" data-zoom="13" data-title="Wincentowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.131111&amp;mlon=17.931667#map=15/52.131111/17.931667" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -27,12 +33,9 @@ Village northwest of Łazy. Previously known as *Siergiejewo*, and listed as par
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.911667%2C52.111110999999994%2C17.951667%2C52.151111&amp;layer=mapnik&amp;marker=52.131111%2C17.931667" title="Wincentowo" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.131111&amp;mlon=17.931667#map=15/52.131111/17.931667" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

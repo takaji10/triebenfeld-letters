@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/wlodzimirow-obreb/"
 alt_url: "/places/wlodzimirow-obreb/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Historical forest precinct which existed east of Włodzimirów. The precinct inc
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

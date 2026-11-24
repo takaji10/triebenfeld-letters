@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/lipowa-gorka/"
 alt_url: "/de/orte/lipowa-gorka/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.193481" data-lon="17.880088" data-zoom="13" data-title="Lipowa Górka" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.193481&amp;mlon=17.880088#map=15/52.193481/17.880088" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -25,12 +31,7 @@ Hill northwest of Wymysłów, north of Zagórów. The name is Polish for a small
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.860088%2C52.173480999999995%2C17.900088%2C52.213481&amp;layer=mapnik&amp;marker=52.193481%2C17.880088" title="Lipowa Górka" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.193481&amp;mlon=17.880088#map=15/52.193481/17.880088" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
 

@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/wloclawek/"
 alt_url: "/places/wloclawek/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "ihagrrep7cnr3067-1", "url": "/documents/ihagrrep7cnr3067/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3067", "n": 3}, {"id": "28", "uid": "oe1bu14525-28", "url": "/documents/oe1bu14525/28/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "5", "uid": "ihagrrep7cnr3132-5", "url": "/documents/ihagrrep7cnr3132/5/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3132", "n": 1}]
 hits_docs_count: 3
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.7832%2C52.628299999999996%2C18.8232%2C52.6683&amp;layer=mapnik&amp;marker=52.6483%2C18.8032" title="Włocławek" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.6483" data-lon="18.8032" data-zoom="13" data-title="Włocławek" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.6483&amp;mlon=18.8032#map=15/52.6483/18.8032" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

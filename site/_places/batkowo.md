@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/batkowo/"
 alt_url: "/de/orte/batkowo/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "11", "uid": "oe1bu14525-11", "url": "/documents/oe1bu14525/11/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "6", "uid": "oe1bu14525-6", "url": "/documents/oe1bu14525/6/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "28", "uid": "oe1bu14525-28", "url": "/documents/oe1bu14525/28/", "unit_label": "Oe 1 Bü 14525", "n": 3}, {"id": "18", "uid": "oe1bu14525-18", "url": "/documents/oe1bu14525/18/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "24", "uid": "oe1bu14525-24", "url": "/documents/oe1bu14525/24/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 2}]
 hits_docs_count: 6
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 6
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.187174%2C52.748425%2C18.227173999999998%2C52.788425000000004&amp;layer=mapnik&amp;marker=52.768425%2C18.207174" title="Bątkowo" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.768425" data-lon="18.207174" data-zoom="13" data-title="Bątkowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.768425&amp;mlon=18.207174#map=15/52.768425/18.207174" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/wilhelmsruh/"
 alt_url: "/places/wilhelmsruh/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "190", "uid": "oe1bu9454-190", "url": "/documents/oe1bu9454/190/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "oe1bu14526-1", "url": "/documents/oe1bu14526/1/", "unit_label": "Oe 1 Bü 14526", "n": 1}]
 hits_docs_count: 2
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=13.335%2C52.550999999999995%2C13.375%2C52.591&amp;layer=mapnik&amp;marker=52.571%2C13.355" title="Wilhelmsruh" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.571" data-lon="13.355" data-zoom="13" data-title="Wilhelmsruh" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.571&amp;mlon=13.355#map=15/52.571/13.355" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

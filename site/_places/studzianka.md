@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/studzianka/"
 alt_url: "/de/orte/studzianka/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.073174" data-lon="17.86959" data-zoom="13" data-title="Studzianka" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.073174&amp;mlon=17.86959#map=15/52.073174/17.86959" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -27,12 +33,9 @@ Village south of Stawisko. Mentioned as the location of the corner mounds betwee
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.84959%2C52.053174%2C17.88959%2C52.093174000000005&amp;layer=mapnik&amp;marker=52.073174%2C17.86959" title="Studzianka" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.073174&amp;mlon=17.86959#map=15/52.073174/17.86959" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/brzezno/"
 alt_url: "/de/orte/brzezno/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "app5320pozgr1181-1", "url": "/documents/app5320pozgr1181/1/", "unit_label": "53/20/0/-/Poznań Gr.1181", "n": 4}]
 hits_docs_count: 1
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.60257%2C52.471039999999995%2C16.64257%2C52.51104&amp;layer=mapnik&amp;marker=52.49104%2C16.62257" title="Brzezno" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.49104" data-lon="16.62257" data-zoom="13" data-title="Brzezno" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.49104&amp;mlon=16.62257#map=15/52.49104/16.62257" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

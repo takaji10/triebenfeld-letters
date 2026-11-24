@@ -121,13 +121,31 @@ def footnote_md(f_, name=''):
             lk = lit_entry_link(r_.get('source'), r_.get('locator'), name)
             if lk:
                 links.append(lk)
-    label = text if text.endswith('.') else text + '.'
+    # the citation is the first sentence that carries a number ("Ibid No.
+    # 672."); what follows is commentary and stays outside the link
+    m = re.match(r'^(.*?\d[^.]*?\.)(\s+[A-ZŁŚŻŹ(].*)?$', text, re.S)
+    cite, rest = (m.group(1), m.group(2) or '') if m else (text, '')
+    if not cite.endswith('.'):
+        cite += '.'
     if not links:
-        return label
-    out = f'[{label}]({_liquid_url(links[0])})'
+        return cite + rest
+    # several documents: each number its own link, when the numbers of the
+    # citation ("Nos. 1478, 1490, 1491 & 1519") match the links one for one
+    if len(links) > 1:
+        tail = re.search(r'Nos?\.\s*(.*)$', cite)
+        nums = list(re.finditer(r'\d+', tail.group(1))) if tail else []
+        if len(nums) == len(links):
+            base = tail.start(1)
+            out, pos = cite[:base], base
+            for n_, lk in zip(nums, links):
+                a, b = base + n_.start(), base + n_.end()
+                out += cite[pos:a] + f'[{cite[a:b]}]({_liquid_url(lk)})'
+                pos = b
+            return out + cite[pos:] + rest
+    out = f'[{cite}]({_liquid_url(links[0])})'
     for lk in links[1:]:
         out += f' ([also]({_liquid_url(lk)}))'
-    return out
+    return out + rest
 
 def body_of(path):
     """The file's text: leading comment lines and the blank line after them
@@ -314,12 +332,14 @@ def main():
             # the documents that name the place (section 8: every page
             # carries them, the authored pages included)
             hit = named.get(slug) or {}
+            # the maps come before the documents (the editor, 2026-11-24)
+            body += ['{% include place-maps.html %}', '']
             if hit.get('letters'):
                 body += ['<section class="place-docs">',
-                         '{{ t.places_docs_h2 }}',
+                         '<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>',
                          '',
                          '{% include doc-list.html letters=page.hits_docs '
-                         'docs=page.hits_docs_count %}',
+                         'docs=page.hits_docs_count short=true %}',
                          '</section>', '']
                 fm = ['---',
                       'layout: place',
@@ -329,6 +349,7 @@ def main():
                       f'permalink: {yaml_str(base + slug + "/")}',
                       f'alt_url: {yaml_str(other + slug + "/")}',
                       'excerpt_separator: ""',
+                      'maps_in_body: true',
                       f'hits_docs: {yaml_str(hit["letters"])}',
                       f'hits_docs_count: {hit.get("docs") or 0}',
                       '---']
@@ -341,6 +362,7 @@ def main():
                       f'permalink: {yaml_str(base + slug + "/")}',
                       f'alt_url: {yaml_str(other + slug + "/")}',
                       'excerpt_separator: ""',
+                      'maps_in_body: true',
                       '---']
             with open(os.path.join(SITE, folder, slug + '.md'), 'w',
                       encoding='utf-8', newline='\n') as f:
@@ -432,6 +454,28 @@ def main():
                     '<section class="place-gaz">',
                     '']
             loc = g.get('location') or {}
+            # the header map: Leaflet over OpenStreetMap with a satellite
+            # layer (assets/place-map.js), right after the header line that
+            # says where the place lies; the link stays for no-script
+            lat = lon = None
+            if loc.get('lat') and loc.get('lon'):
+                lat, lon = loc['lat'], loc['lon']
+            elif stub_coords.get(slug):
+                sc = stub_coords[slug]
+                lat, lon = sc['lat'], sc['lon']
+            map_html = []
+            if lat:
+                map_html = [
+                    '<div class="place-map">',
+                    f'<div class="place-leaflet" data-lat="{lat}" '
+                    f'data-lon="{lon}" data-zoom="13" '
+                    f'data-title="{a["heading"]}" data-sat="{{{{ t.map_satellite }}}}" '
+                    f'data-street="{{{{ t.map_street }}}}"></div>',
+                    f'<p class="refs"><a href="https://www.openstreetmap.org/'
+                    f'?mlat={lat}&amp;mlon={lon}#map=15/{lat}/{lon}" '
+                    'rel="noopener">{{ t.map_link }}</a></p>',
+                    '</div>', '']
+            body += map_html
             # the dated forms and the description, one markdown block: the
             # forms' footnote references resolve by the same kramdown
             # numbering as the description's (the editor, 2026-10-27: the
@@ -456,37 +500,21 @@ def main():
                     body.append(f'[^{f_["n"]}]: ' + footnote_md(f_, g.get('heading') or ''))
                     body.append('')
                 body += ['</div>', '{% endraw %}', '']
-            # the map: the iframe is laid out at twice the size shown and
-            # scaled down by the stylesheet, so the tiles render sharp
-            lat = lon = None
-            if loc.get('lat') and loc.get('lon'):
-                lat, lon = loc['lat'], loc['lon']
-            elif stub_coords.get(slug):
-                sc = stub_coords[slug]
-                lat, lon = sc['lat'], sc['lon']
-            if lat:
-                d = 0.02
-                body += [
-                    '<div class="place-map">',
-                    '<div class="place-map-frame">',
-                    f'<iframe src="https://www.openstreetmap.org/export/embed.html?'
-                    f'bbox={lon - d}%2C{lat - d}%2C{lon + d}%2C{lat + d}&amp;'
-                    f'layer=mapnik&amp;marker={lat}%2C{lon}" '
-                    f'title="{a["heading"]}" loading="lazy"></iframe>',
-                    '</div>',
-                    f'<p class="refs"><a href="https://www.openstreetmap.org/'
-                    f'?mlat={lat}&amp;mlon={lon}#map=15/{lat}/{lon}" '
-                    'rel="noopener">{{ t.map_link }}</a></p>',
-                    '</div>', '']
             body += ['</section>', '']
             # the documents that name the place
+            # the maps that show the place, above the documents
+            body += ['{% include place-maps.html %}', '']
             if a['letters']:
                 body += ['<section class="place-docs">',
-                         '{{ t.places_docs_h2 }}',
+                         '<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>',
                          '',
                          '{% include doc-list.html letters=page.hits_docs '
-                         'docs=page.hits_docs_count %}',
+                         'docs=page.hits_docs_count short=true %}',
                          '</section>', '']
+            # kramdown puts the footnotes at the end of the page: the
+            # heading is the last thing before them
+            if fns:
+                body += ['<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>', '']
             fm = ['---',
                   'layout: place',
                   f'place: {yaml_str(slug)}',
@@ -495,6 +523,7 @@ def main():
                   f'permalink: {yaml_str(base + slug + "/")}',
                   f'alt_url: {yaml_str(other + slug + "/")}',
                   'excerpt_separator: ""',
+                  'maps_in_body: true',
                   f'hits_docs: {yaml_str(a["letters"])}',
                   f'hits_docs_count: {a["docs"]}',
                   '---', '']

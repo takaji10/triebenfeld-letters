@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/dormowo/"
 alt_url: "/places/dormowo/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "13", "uid": "oe1bu14525-13", "url": "/documents/oe1bu14525/13/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "3", "uid": "oe1bu14526-3", "url": "/documents/oe1bu14526/3/", "unit_label": "Oe 1 Bü 14526", "n": 5}, {"id": "15", "uid": "oe1bu14525-15", "url": "/documents/oe1bu14525/15/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "16", "uid": "oe1bu14525-16", "url": "/documents/oe1bu14525/16/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "25", "uid": "oe1bu14525-25", "url": "/documents/oe1bu14525/25/", "unit_label": "Oe 1 Bü 14525", "n": 1}]
 hits_docs_count: 5
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=15.855319%2C52.509181%2C15.895318999999999%2C52.549181000000004&amp;layer=mapnik&amp;marker=52.529181%2C15.875319" title="Dormowo" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.529181" data-lon="15.875319" data-zoom="13" data-title="Dormowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.529181&amp;mlon=15.875319#map=15/52.529181/15.875319" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

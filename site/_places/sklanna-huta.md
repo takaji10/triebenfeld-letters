@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/sklanna-huta/"
 alt_url: "/de/orte/sklanna-huta/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -26,4 +27,6 @@ Settlement which existed west of Łomów, possibly in the same location as Budy.
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
 

@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/neustadt/"
 alt_url: "/de/orte/neustadt/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "239", "uid": "oe1bu9454-239", "url": "/documents/oe1bu9454/239/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "240", "uid": "oe1bu9454-240", "url": "/documents/oe1bu9454/240/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}]
 hits_docs_count: 2
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 2
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

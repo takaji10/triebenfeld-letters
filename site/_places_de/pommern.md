@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/pommern/"
 alt_url: "/places/pommern/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "83", "uid": "oe1bu9454-83", "url": "/documents/oe1bu9454/83/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "134", "uid": "oe1bu9454-134", "url": "/documents/oe1bu9454/134/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "177", "uid": "oe1bu9454-177", "url": "/documents/oe1bu9454/177/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "59", "uid": "oe1bu9454-59", "url": "/documents/oe1bu9454/59/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "274", "uid": "oe1bu9454-274", "url": "/documents/oe1bu9454/274/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 8
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 8
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

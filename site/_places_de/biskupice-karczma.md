@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/biskupice-karczma/"
 alt_url: "/places/biskupice-karczma/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -28,4 +29,8 @@ Tavern which existed south of Trąbczyńskie Stare Olędry, at the meeting point
 {% endraw %}
 
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

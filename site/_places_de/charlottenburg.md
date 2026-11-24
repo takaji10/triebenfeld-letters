@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/charlottenburg/"
 alt_url: "/places/charlottenburg/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "1", "uid": "ihagrrep7cnr3709-1", "url": "/documents/ihagrrep7cnr3709/1/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "2", "uid": "ihagrrep7cnr3709-2", "url": "/documents/ihagrrep7cnr3709/2/", "unit_label": "I. HA GR, Rep. 7 C, Nr. 3709", "n": 1}, {"id": "208", "uid": "oe1bu9454-208", "url": "/documents/oe1bu9454/208/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 3
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=13.278500000000001%2C52.485499999999995%2C13.3185%2C52.5255&amp;layer=mapnik&amp;marker=52.5055%2C13.2985" title="Charlottenburg" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="52.5055" data-lon="13.2985" data-zoom="13" data-title="Charlottenburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5055&amp;mlon=13.2985#map=15/52.5055/13.2985" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

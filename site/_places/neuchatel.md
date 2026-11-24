@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/neuchatel/"
 alt_url: "/de/orte/neuchatel/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "7", "uid": "oe1bu14525-7", "url": "/documents/oe1bu14525/7/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "22", "uid": "oe1bu14525-22", "url": "/documents/oe1bu14525/22/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "1", "uid": "oe1u199-1", "url": "/documents/oe1u199/1/", "unit_label": "HZAN Oe 1 U 199", "n": 1}, {"id": "264", "uid": "oe1bu9454-264", "url": "/documents/oe1bu9454/264/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}, {"id": "277", "uid": "oe1bu9454-277", "url": "/documents/oe1bu9454/277/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=6.909000000000001%2C46.9719%2C6.949%2C47.011900000000004&amp;layer=mapnik&amp;marker=46.9919%2C6.929" title="Neuchâtel" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="46.9919" data-lon="6.929" data-zoom="13" data-title="Neuchâtel" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=46.9919&amp;mlon=6.929#map=15/46.9919/6.929" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

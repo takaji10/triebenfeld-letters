@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/torun/"
 alt_url: "/places/torun/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "44", "uid": "oe1bu14525-44", "url": "/documents/oe1bu14525/44/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "43", "uid": "oe1bu14525-43", "url": "/documents/oe1bu14525/43/", "unit_label": "Oe 1 Bü 14525", "n": 1}, {"id": "246", "uid": "oe1bu9454-246", "url": "/documents/oe1bu9454/246/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "266", "uid": "oe1bu9454-266", "url": "/documents/oe1bu9454/266/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "271", "uid": "oe1bu9454-271", "url": "/documents/oe1bu9454/271/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}]
 hits_docs_count: 5
 ---
@@ -16,17 +17,17 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.578400000000002%2C52.9938%2C18.6184%2C53.03380000000001&amp;layer=mapnik&amp;marker=53.0138%2C18.5984" title="Toruń" loading="lazy"></iframe>
-</div>
+<div class="place-leaflet" data-lat="53.0138" data-lon="18.5984" data-zoom="13" data-title="Toruń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
 <p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.0138&amp;mlon=18.5984#map=15/53.0138/18.5984" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 

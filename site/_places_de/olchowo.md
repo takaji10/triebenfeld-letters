@@ -6,6 +6,7 @@ lang: de
 permalink: "/de/orte/olchowo/"
 alt_url: "/places/olchowo/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -14,6 +15,11 @@ hits_docs_count: 0
 {% include urls.html %}
 
 <section class="place-gaz">
+
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.183333" data-lon="17.95" data-zoom="13" data-title="Sophienthal, Kolonia (Sophienthal)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.183333&amp;mlon=17.95#map=15/52.183333/17.95" rel="noopener">{{ t.map_link }}</a></p>
+</div>
 
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
@@ -31,12 +37,9 @@ Village northeast of Zagórów. Originally named *Kolonia Sophienthal* and found
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=17.93%2C52.163332999999994%2C17.97%2C52.203333&amp;layer=mapnik&amp;marker=52.183333%2C17.95" title="Sophienthal, Kolonia (Sophienthal)" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.183333&amp;mlon=17.95#map=15/52.183333/17.95" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

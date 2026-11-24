@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/zbiersk-kolonia/"
 alt_url: "/de/orte/zbiersk-kolonia/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: []
 hits_docs_count: 0
 ---
@@ -15,24 +16,26 @@ hits_docs_count: 0
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="51.949747" data-lon="18.16407" data-zoom="13" data-title="Zbiersk Kolonia" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.949747&amp;mlon=18.16407#map=15/51.949747/18.16407" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
 
 *Dated forms of the name:* *Zbiersk Kolonia*; *Kolonia Zbiersk* [^1]; *Holendry* 1827 [^1].
 
-Settlement east of Stawiszyn, on the northern edge of a forest complex a few square kilometres in area. Its Evangelical cemetery is approximately 25 kilometres southeast of the Trąbczyn area; it is in the survey of the Evangelical cemeteries because some Zelmers from the Trąbczyn area moved to Zbiersk Kolonia and the nearby settlement of Łyczyn. The Słownik geograficzny records the colony of Zbiersk, gmina and parish of Zbiersk, powiat kaliski, 3 versts from Stawiszyn, with 30 houses, 336 inhabitants and a school of its own; in 1827 the colony *Holendry* had 22 houses and 117 inhabitants, and in 1886 the colony had 23 holdings and 420 morgi.[^1]
+Settlement east of Stawiszyn, on the northern edge of a forest complex a few square kilometres in area. Its Evangelical cemetery is approximately 25 kilometres southeast of the Trąbczyn area; it is in the survey of the Evangelical cemeteries because some Zelmers from the Trąbczyn area moved to Zbiersk Kolonia and the nearby settlement of Łyczyn. The Słownik geograficzny records the colony of Zbiersk, gmina and parish of Zbiersk, powiat kaliski, 3 versts from Stawiszyn, with 30 houses, 336 inhabitants and a school of its own; in 1827 the colony *Holendry* had 22 houses and 117 inhabitants, and in 1886 the colony had 23 holdings and 420 Morgen.[^1]
 
 [^1]: [Słownik geograficzny, t. XIV, p. 516.]({% endraw %}{{ '/literature/slownik/#p-c47' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}
 
-<div class="place-map">
-<div class="place-map-frame">
-<iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.14407%2C51.929747%2C18.18407%2C51.969747000000005&amp;layer=mapnik&amp;marker=51.949747%2C18.16407" title="Zbiersk Kolonia" loading="lazy"></iframe>
-</div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.949747&amp;mlon=18.16407#map=15/51.949747/18.16407" rel="noopener">{{ t.map_link }}</a></p>
-</div>
-
 </section>
+
+{% include place-maps.html %}
+
+<h2 class="place-cite-h">{{ t.place_citations_h2 }}</h2>
 

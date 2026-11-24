@@ -6,6 +6,7 @@ lang: en
 permalink: "/places/bayern/"
 alt_url: "/de/orte/bayern/"
 excerpt_separator: ""
+maps_in_body: true
 hits_docs: [{"id": "51", "uid": "oe1bu9454-51", "url": "/documents/oe1bu9454/51/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "262", "uid": "oe1bu9454-262", "url": "/documents/oe1bu9454/262/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "268", "uid": "oe1bu9454-268", "url": "/documents/oe1bu9454/268/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 1}, {"id": "269", "uid": "oe1bu9454-269", "url": "/documents/oe1bu9454/269/", "unit_label": "HZAN Oe 1 Bü 9454", "n": 2}]
 hits_docs_count: 4
 ---
@@ -17,9 +18,11 @@ hits_docs_count: 4
 
 </section>
 
-<section class="place-docs">
-{{ t.places_docs_h2 }}
+{% include place-maps.html %}
 
-{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count %}
+<section class="place-docs">
+<h2>{{ t.places_docs_h2 }} ({{ page.hits_docs_count }})</h2>
+
+{% include doc-list.html letters=page.hits_docs docs=page.hits_docs_count short=true %}
 </section>
 
