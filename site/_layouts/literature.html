@@ -15,9 +15,12 @@ layout: default
 <div class="lit-work">
   <header class="unit-head">
     <p class="eyebrow"><a href="{{ u_lit | relative_url }}">{{ t.lit_h1 }}</a></p>
-    <h1>{{ w.title }}</h1>
+    {%- comment -%} The title in the site's language heads, the original in italics under it (the editor, 2026-11-24). {%- endcomment -%}
+    {%- assign w_head = w.title -%}
+    {%- if lang == 'en' and w.title_en != "" and w.title_en -%}{%- assign w_head = w.title_en -%}{%- endif -%}
+    <h1>{{ w_head }}</h1>
+    {% if w_head != w.title %}<p class="lit-title-orig"><em>{{ w.title }}</em></p>{% endif %}
     <p class="standfirst">{{ w.cite }}</p>
-    {% if lang == 'en' %}<p class="lit-title-en">{{ w.title_en }}</p>{% endif %}
     <dl class="source-facts">
       {% if w.author != "" %}<div><dt>{{ t.lit_author }}</dt><dd>{{ w.author }}</dd></div>{% endif %}
       <div><dt>{{ t.lit_published }}</dt><dd>{{ w.published }}</dd></div>
@@ -42,6 +45,15 @@ layout: default
       {%- endif -%}
     </div>
   </header>
+
+  {%- comment -%}
+    The search bar of the editions' other pages, scoped to this work (the
+    editor, 2026-11-24): its passages alone, a result a link to the passage
+    below. A work shown only as a summary has no passages to search.
+  {%- endcomment -%}
+  {% unless w.summary_only %}
+  <div class="lit-search">{% include browse.html kind="literature" work=page.work %}</div>
+  {% endunless %}
 
   {%- comment -%}
     One text at a time on a narrow screen, like a document's views (editor,

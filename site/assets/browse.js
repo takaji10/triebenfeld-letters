@@ -22,6 +22,8 @@
   var LANG = window.LANG || 'en';
   var KIND = CFG.kind || 'documents';
   var LIST = !!CFG.list;
+  var WORK = CFG.work || '';   // a work's own page: its passages alone, links within the page
+  var LAZY = LIST || !!WORK;   // the index is fetched at the first touch of the bar
   var FIXED_UNIT = CFG.unit || window.BROWSE_UNIT || '';
   var PAGE = 150;
   function s_(k, d) { return (T && T[k] != null) ? T[k] : d; }
@@ -320,7 +322,7 @@
         lang: LANG, t: T, base: window.SITE_BASE, names: names, body: body
       });
     }
-    var href = CFG.kindUrl + (KIND === 'literature' ? it.slug : it.id) + '/' + (it.a ? '#' + it.a : '');
+    var href = WORK ? '#' + it.a : CFG.kindUrl + (KIND === 'literature' ? it.slug : it.id) + '/' + (it.a ? '#' + it.a : '');
     var lab = (LANG === 'de' && it.label_de) ? it.label_de : it.label;
     var idChip = KIND === 'literature' ? it.cite : (KIND === 'newspapers' ? it.cite : it.title);
     var head = KIND === 'maps' ? (it.title_en || it.title) : titleOf(it);
@@ -329,6 +331,10 @@
       var sm = (LANG === 'de' && it.summary_de) ? it.summary_de : it.summary;
       body = sm ? '<p class="r-summary">' + esc(sm) + '</p>'
                 : (it.text ? '<p class="r-snip">' + esc(it.text.slice(0, 220)) + '…</p>' : '');
+    }
+    if (WORK) {
+      return '<li class="result"><a class="r-head r-jump" href="' + esc(href) + '">' +
+        '<span class="r-id">' + esc(lab || it.label || it.id) + '</span></a>' + body + '</li>';
     }
     return '<li class="result"><a class="r-head" href="' + esc(href) + '">' +
       '<span class="r-id">' + esc(idChip) + '</span>' +
@@ -347,6 +353,13 @@
     var active = !!mt || filtersActive(f);
     var order = els.order.value;
 
+    if (WORK && !active) {
+      // the work's own text is the list: nothing until the reader searches
+      els.results.hidden = true; els.more.parentNode.hidden = true; els.empty.hidden = true;
+      els.results.innerHTML = '';
+      els.count.textContent = '';
+      return;
+    }
     if (LIST && !active) {
       // no search, no filter: the page's own cards, in the order asked
       els.results.hidden = true; els.more.parentNode.hidden = true; els.empty.hidden = true;
@@ -605,6 +618,7 @@
       FACETS = res[1];
       FACETS._nameSlug = {};
       Object.keys(FACETS.places).forEach(function (s) { FACETS._nameSlug[FACETS.places[s]] = s; });
+      if (WORK) rows = rows.filter(function (it) { return it.slug === WORK; });
       if (KIND === 'documents') {
         if (FIXED_UNIT) rows = rows.filter(function (it) { return it.unit === FIXED_UNIT; });
         else if (LIST) rows = rows.filter(function (it) { var u = FACETS.units[it.unit]; return u && !u.lit; });
@@ -780,7 +794,7 @@
     // On a page that lists the documents at once, load now; on a list page the
     // index waits for the first touch of the bar.
     var touch = function () { ensureLoaded(); };
-    if (!LIST) ensureLoaded();
+    if (!LAZY) ensureLoaded();
     else {
       if (els.q.value || filtersActive(readFilters())) { ensureLoaded(); render(); }
       ['focus', 'input', 'change'].forEach(function (ev) { els.filters.addEventListener(ev, touch, true); });
@@ -805,7 +819,22 @@
     els.reset.addEventListener('click', reset);
     els.filters.addEventListener('submit', function (e) { e.preventDefault(); });
 
-    els.count.textContent = '…';
+    els.count.textContent = WORK ? '' : '…';
+
+    if (WORK) {
+      // a result scrolls to its passage on this page and marks it for a moment
+      els.results.addEventListener('click', function (e) {
+        var a = e.target.closest ? e.target.closest('a.r-jump') : null;
+        if (!a) return;
+        var id = decodeURIComponent(a.getAttribute('href').slice(1));
+        var t = document.getElementById(id);
+        if (!t) return;
+        e.preventDefault();
+        t.scrollIntoView();
+        try { history.replaceState(null, '', '#' + encodeURIComponent(id)); } catch (x) { /* file:// */ }
+        t.classList.remove('lit-flash'); void t.offsetWidth; t.classList.add('lit-flash');
+      });
+    }
   }
 
   if (document.readyState === 'loading') {

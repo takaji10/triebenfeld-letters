@@ -972,9 +972,25 @@ img.scan {
    under the English. assets/literature.js sets data-lit-view on the body
    ("en", "orig" or "both"); without it both texts stand one under the other. */
 .lit-title-en { color: var(--ink-faint); margin: .3rem 0 0; }
+.lit-title-orig { color: var(--ink-soft); margin: .3rem 0 .4rem; font-size: 1.15rem; max-width: var(--measure); }
 .lit-work .unit-head > p, .lit-work .unit-head .source-facts, .lit-work .unit-head .prose { max-width: 46rem; }
 .lit-caveat { font-family: var(--sans); font-size: .85rem; color: var(--ink-soft);
               border-left: 3px solid var(--rule); padding-left: .8rem; }
+/* The search bar on a work's own page (2026-11-24): compact, under the header,
+   the hits a short scrolling list above the text. */
+.lit-search { margin-top: 1.2rem; max-width: 46rem; }
+.lit-search .filters { margin: 0; padding: .7rem .9rem; max-width: none; }
+.lit-search .f-row { margin-bottom: .5rem; }
+.lit-search .f-status { margin: .3rem 0 0; min-height: 0; }
+.lit-search .f-status:has(#count:empty) #reset { display: none; }
+.lit-search .results { max-width: none; max-height: 22rem; overflow-y: auto; margin-top: .5rem;
+                       border-top: 1px solid var(--rule); }
+.lit-search .result { padding: .6rem .2rem; }
+.lit-search .r-snip { margin-top: .3rem; }
+.lit-search .more, .lit-search .empty { margin: .6rem 0 0; }
+@keyframes lit-flash { from { background: color-mix(in srgb, var(--accent) 22%, transparent); } to { background: transparent; } }
+.lit-passage.lit-flash { animation: lit-flash 2.4s ease-out; }
+@media (prefers-reduced-motion: reduce) { .lit-passage.lit-flash { animation: none; background: color-mix(in srgb, var(--accent) 12%, transparent); } }
 .lit-viewbar { margin-top: 1.4rem; }
 .lit-viewbar .vbtn[data-show="both"] { display: none; }
 @media (min-width: 80rem) { .lit-viewbar .vbtn[data-show="both"] { display: inline-block; } }

@@ -8,12 +8,17 @@
     list      true on a list page: the cards stay until the reader searches
     unit      a holding's slug: the list is that holding's alone
     archives  the Manuscripts list: the archives' names, for its Archive filter
+    work      a work of the literature's slug (kind=literature): the bar sits on
+              that work's own page and searches its passages alone; Order, the
+              year range and the era are left out, a result links to the
+              passage on the same page (editor, 2026-11-24)
   assets/browse.js reads window.BROWSE_CFG; the indexes it loads are written by
   build_site_data.py (documents) and pipeline/build/search_indexes.py.
 {%- endcomment -%}
 {%- assign b_kind = include.kind | default: "documents" -%}
 {%- assign b_list = include.list | default: false -%}
 {%- assign b_unit = include.unit | default: "" -%}
+{%- assign b_work = include.work | default: "" -%}
 {%- case b_kind -%}
   {%- when "newspapers" -%}{%- assign b_index = "search-newspapers.json" -%}{%- assign b_en = "search-newspapers-en.json" -%}{%- assign b_url = u_np -%}
   {%- when "literature" -%}{%- assign b_index = "search-literature.json" -%}{%- assign b_en = "search-literature-en.json" -%}{%- assign b_url = u_lit -%}
@@ -22,7 +27,7 @@
 {%- endcase -%}
 {%- assign b_manuscripts = false -%}
 {%- if b_kind == "documents" and b_list -%}{%- assign b_manuscripts = true -%}{%- endif -%}
-<div class="browse" data-kind="{{ b_kind }}">
+<div class="browse{% if b_work != "" %} browse-work{% endif %}" data-kind="{{ b_kind }}">
 
   {%- comment -%}
     On a holding's own page (include.unit) the list is that holding's alone:
@@ -42,7 +47,7 @@
         <span>{{ t.f_search }}</span>
         <input type="search" id="q" placeholder="{{ t.f_search_ph }}">
       </label>
-      <label class="f-order">
+      <label class="f-order"{% if b_work != "" %} hidden{% endif %}>
         <span>{{ t.f_order }}</span>
         <select id="order">
           <option value="asc"{% if b_list == false %} selected{% endif %}>{{ t.f_order_chrono_asc }}</option>
@@ -87,7 +92,7 @@
         {%- endcomment -%}
         {%- assign era_n = 0 -%}
         {%- for e in site.data.eras -%}{%- if e.count > 0 -%}{%- assign era_n = era_n | plus: 1 -%}{%- endif -%}{%- endfor -%}
-        {% if era_n > 1 %}
+        {% if era_n > 1 and b_work == "" %}
         <label><span>{{ t.f_era }}</span>
           <select id="era"><option value="">{{ t.f_anyera }}</option>
           {% for e in site.data.eras %}{% if e.count > 0 %}<option value="{{ e.slug }}">{% if lang == 'de' %}{{ e.label_de }}{% else %}{{ e.label_en }}{% endif %} ({% if e.first == e.last %}{{ e.first }}{% else %}{{ e.first }}–{{ e.last }}{% endif %})</option>{% endif %}{% endfor %}
@@ -107,7 +112,7 @@
         {%- endif -%}
       </div>
 
-      <div class="f-row">
+      <div class="f-row"{% if b_work != "" %} hidden{% endif %}>
         <div class="f-field f-year" id="yr" data-min="{{ site.data.stats.year_min }}" data-max="{{ site.data.stats.year_max }}" role="group" aria-label="{{ t.f_pick_year }}">
           <span class="f-label">{{ t.f_year }}</span>
           <div class="yr-row">
@@ -159,7 +164,7 @@
     <p class="f-term" id="term" hidden></p>
   </form>
 
-  <ol class="results" id="results"{% if b_list %} hidden{% endif %}></ol>
+  <ol class="results" id="results"{% if b_list or b_work != "" %} hidden{% endif %}></ol>
   <p class="more" id="more-row" hidden><button type="button" id="more" class="linkish">{{ t.f_more }}</button></p>
   <p class="empty" id="empty" hidden>{{ t.f_empty }}</p>
 
@@ -170,6 +175,7 @@
     kind: {{ b_kind | jsonify }},
     list: {{ b_list | jsonify }},
     unit: {{ b_unit | jsonify }},
+    work: {{ b_work | jsonify }},
     index: "{{ '/assets/' | append: b_index | relative_url }}",
     en: "{{ '/assets/' | append: b_en | relative_url }}",
     facets: "{{ '/assets/search-facets.json' | relative_url }}",

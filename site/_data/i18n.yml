@@ -459,7 +459,7 @@ en:
   lit_author: Author
   lit_published: Published
   lit_language: Language
-  lit_pages_n: Printed pages
+  lit_pages_n: Pages
   lit_scan: Scan of the original
   lit_lang_de: German
   lit_lang_la: Latin
@@ -976,7 +976,7 @@ de:
   lit_author: Verfasser
   lit_published: Erschienen
   lit_language: Sprache
-  lit_pages_n: Druckseiten
+  lit_pages_n: Seiten
   lit_scan: Digitalisat des Originals
   lit_lang_de: Deutsch
   lit_lang_la: Latein
