@@ -1,4 +1,4 @@
-Peter Friedrich von Triebenfeld, a Prussian Councillor of War and Forests, managed the estates of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in South Prussia – Prussia's share of partitioned Poland – and wrote to the Prince about them for eighteen years, from 1798 to 1816. Triebenfeld's letters, about 240 of them, tell the story of the Prince's estates: the sales, loans and lawsuits of Trąbczyn, Zagórów and the Prince's other estates, told as they happened. With them are letters of other people, drafts by the Prince, and the papers enclosed with the letters. <!-- context -->
+Peter Friedrich von Triebenfeld, a Prussian Councillor of War and Forests, managed the estates of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in South Prussia – Prussia's share of partitioned Poland – and wrote to the Prince about them for eighteen years, from 1798 to 1816. His letters tell, as it happened, how the Prince's estates of Trąbczyn, Zagórów and others were sold, mortgaged and fought over in the courts; the Prince's own drafts and letters of other people stand with them. <!-- context -->
 
 ### Historical background
 
@@ -10,23 +10,23 @@ Three events outside the correspondence shape it. In October 1806 Hohenlohe-Inge
 
 ### Correspondents
 
-Triebenfeld writes from Wrocław, Berlin, Kalisz, the estates, his own properties and, during the congress, Vienna [[242]]. Other writers include Hahn, the Prince's agent in Breslau [[155, 176]]; Amelang, his legal agent in Berlin [[138, 144]]; Michaelis and Eysenhardt, agents in Berlin in 1798 [[78, 82]]; the cabinet councillor Beyme and General von Zastrow [[91, 94]]; the sub-prefect Brzechffa [[72d]]; and, at Vienna, Wilhelm von Humboldt and the State Chancellor Hardenberg [[250, 252]]. Nine letters are by Hohenlohe-Ingelfingen himself, to the King, to ministers and to Triebenfeld [[86, 87, 88, 50, 223, 230, 73, 238, 1]].
+Triebenfeld writes from Wrocław, Berlin, Kalisz, the estates, his own properties and, during the congress, Vienna [[242]]. Other writers include Hahn, the Prince's agent in Breslau [[155, 176]]; Amelang, his legal agent in Berlin [[138, 144]]; Michaelis and Eysenhardt, agents in Berlin in 1798 [[78, 82]]; the cabinet councillor Beyme and General von Zastrow [[91, 94]]; the sub-prefect Brzechffa [[72d]]; and, at Vienna, Wilhelm von Humboldt and the State Chancellor Hardenberg [[250, 252]]. Hohenlohe-Ingelfingen himself wrote to the King, to ministers and to Triebenfeld [[86, 87, 88, 50, 223, 230, 73, 238, 1]].
 
 ### Contents
 
 #### Proposed exchange for Krotoszyn, 1798 to 1800
 
-The earliest letters concern a proposal that Hohenlohe-Ingelfingen exchange his South Prussian estates for the crown estates of Krotoszyn and Polajewo. Triebenfeld and the agents Michaelis and Eysenhardt report from Berlin on the progress of the proposal through the cabinet and the ministry of Voss [[77, 78, 79, 81, 82, 83, 84]]. The King refused the exchange in December 1798 on the report of Voss, who calculated a yearly loss to the state of 17400 Rthl [[85]]. Hohenlohe-Ingelfingen contested the calculation in letters to the King, to Köckritz and to Voss, and asked for an impartial valuation [[86, 87, 88]]. The King ordered a further inquiry [[91, 94]]. Triebenfeld continued to report favourable prospects in 1799, and a further petition was drafted in 1800; the file records no decision [[96, 97, 99, 101, 105, 106]].
+In 1798 Hohenlohe-Ingelfingen proposed to exchange his South Prussian estates for the crown estates of Krotoszyn and Polajewo. Triebenfeld and the agents Michaelis and Eysenhardt followed it at Berlin through the King's cabinet and the ministry of Voss, the minister for South Prussia [[77, 78, 79, 81, 82, 83, 84]]. The King refused the exchange in December 1798 on the report of Voss, who calculated a yearly loss to the state of 17400 Rthl [[85]]. Hohenlohe-Ingelfingen contested the calculation in letters to the King, to Köckritz and to Voss, and asked for an impartial valuation [[86, 87, 88]]. The King ordered a further inquiry [[91, 94]]. Triebenfeld still saw favourable prospects in 1799, and a further petition was drafted in 1800, but the exchange never came about [[96, 97, 99, 101, 105, 106]].
 
 #### Debts and creditors, 1800 to 1804
 
-The letters of these years deal with bills of exchange and the claims of creditors. Triebenfeld had signed a bill of 11000 Rthl for Hohenlohe-Ingelfingen and was threatened with arrest for it [[112, 113]]. He reports on a settlement with Countess Schlabrendorff, who agreed to wait until 1 January 1805 for 50000 Rthl [[118b, 118c, 120]], and on debts arising from estates sold to a Prince George [[108, 127]]. In December 1803 he advises on an offer by Walichnowski to acquire the Trąbczyn estates [[116]].
+The Prince lived on credit. Triebenfeld had signed a bill of 11000 Rthl for Hohenlohe-Ingelfingen and was threatened with arrest for it [[112, 113]]. He reports on a settlement with Countess Schlabrendorff, who agreed to wait until 1 January 1805 for 50000 Rthl [[118b, 118c, 120]], and on debts left by estates the Prince had sold to a Prince George [[108, 127]]. In December 1803 he advised on an offer from one Walichnowski to buy the Trąbczyn estates [[116]].
 
 #### Sale and division of the estates, 1804 to 1806
 
 From 1804 the correspondence is concerned with selling the estates or dividing them among settlers. Triebenfeld negotiated at Frankfurt an der Oder and Berlin the sale of Kamionna and Kolno to Leixner, and reports the dispute with Broniewski, who held those estates in pledge [[130, 131, 133, 136, 137, 138, 139, 141]]. He reports on the sale of the lordship of Pszczew to its inhabitants and on the claims of the intermediary Bornstädt [[140, 142]].
 
-For Trąbczyn and Zagórów he proposed division into settlers' holdings. He sent the surveyor Cabanis to recruit settlers among Bohemian Protestant colonists in Silesia, and negotiated with Mennonites whom he sought out in West and East Prussia and who offered to buy both lordships entire [[119, 120, 126, 146, 147, 151]]. The letters describe contracts with existing tenants and new settlers, the prices asked for a Hufe, and disputes with leaseholders [[128, 149, 168, 172]]. A list of September 1805 records new colonies of 21407 Morgen and 578 households [[177]].
+For Trąbczyn and Zagórów he proposed division into settlers' holdings. He sent the surveyor Cabanis to recruit settlers among Bohemian Protestant colonists in Silesia, and negotiated with Mennonites whom he sought out in West and East Prussia and who offered to buy both lordships entire [[119, 120, 126, 146, 147, 151]]. He made contracts with existing tenants and new settlers, asked a price for each Hufe of land, and quarrelled with leaseholders [[128, 149, 168, 172]]. A list of September 1805 records new colonies of 21407 Morgen and 578 households [[177]].
 
 Throughout these years Triebenfeld criticises the earlier administration of Johann Wilhelm Glenck, in particular the leases of Swięcia and Oleśnica, on which he calculates a loss of 95340 Rthl [[148]]. He reports obstruction by Glenck and by the lessees of Oleśnica [[147, 168, 191, 192]].
 
@@ -42,15 +42,15 @@ In 1808 and 1809 the letters are dominated by the consequences of the invalid fu
 
 The lordship of Zagórów remained to Hohenlohe-Ingelfingen but lay in a foreign state, under sequestration for unpaid interest and taxes [[42, 215, 72f]]. Triebenfeld reports continually on the three men who administered it locally, Honrichs, Hawich and Hecker, whom he accuses in turn of withholding money and appropriating land [[63, 66, 67, 68, 193, 194, 198, 215]]. The settlers and lessees paid little. In January 1811 he reports 43 lawsuits pending, among them suits against the lessees of Oleśnica, the peasants of Wrąbczyn and the lessee Niedźwiecki [[212, 213]]. The suit against the peasants of Wrąbczyn was won in 1812 [[72a]].
 
-The suit for the recovery of Trąbczyn was opened before the justice of the peace at Konin in 1810 and referred to the tribunal at Kalisz, and from there to higher authority [[68, 194, 207, 210, 212]]. Triebenfeld repeatedly expected a favourable result [[198, 211, 72a]]. The sub-prefect Brzechffa reported from Warsaw in March 1812 that the matter stood well; his letter is present in German and in Polish [[72d, 72e]].
+The suit for the recovery of Trąbczyn was opened before the justice of the peace at Konin in 1810 and referred to the tribunal at Kalisz, and from there to higher authority [[68, 194, 207, 210, 212]]. Triebenfeld repeatedly expected a favourable result [[198, 211, 72a]]. The sub-prefect Brzechffa reported from Warsaw in March 1812 that the matter stood well [[72d, 72e]].
 
 A second group of letters concerns plans to dispose of Zagórów in order to satisfy the two largest creditors on Koszęcin, Weigel and Stössel. Triebenfeld proposed exchanges with the estates of a von Knobelsdorff and of the Counts Wartensleben, and a direct transfer to Stössel and Weigel [[203, 201, 205, 218, 220, 221, 222]]. Hohenlohe-Ingelfingen for his part pursued an exchange with General Schimmelpfennig [[223, 224, 228, 230]]. Brzechffa offered to take Zagórów on a six-year lease, and Hohenlohe-Ingelfingen set conditions [[227, 73, 229]]. None of these plans is recorded as concluded. A settlement of 1811 with the authorities of the Duchy spread the debts owed to Prussian public funds over a long term [[214, 216]]. In May and June 1812 Triebenfeld reports heavy requisitions of grain, the billeting of troops and renewed sequestration [[72f, 232]].
 
-Papers of 1811 record the suit of the invalid fund against Triebenfeld and the attachment of a legacy left to Hohenlohe-Ingelfingen by Princess Sacken [[74a, 74c, 74d]].
+In 1811 the army's Invalids' Fund sued Triebenfeld for the loan of 1805 he had signed for, and a legacy left to Hohenlohe-Ingelfingen by his mother-in-law, Princess von der Osten-Sacken, was seized for his debts [[74a, 74c, 74d]].
 
 #### The year 1813
 
-Five letters survive. Triebenfeld reports from Kalisz, and then from Nysa and Neustadt during the armistice of June 1813, on the army, on Gneisenau and Zastrow, and on a plan to supply the army from Poland [[237, 239, 240, 241]]. Hohenlohe-Ingelfingen sends him a letter for the Russian Emperor [[238]].
+Triebenfeld reported from Kalisz, and then from Nysa and Neustadt during the armistice of June 1813, on the army, on Gneisenau and Zastrow, and on a plan to supply the army from Poland [[237, 239, 240, 241]]. Hohenlohe-Ingelfingen sends him a letter for the Russian Emperor [[238]].
 
 #### Congress of Vienna, 1814 to 1815
 
@@ -60,7 +60,7 @@ The first concerns the Silesian estates. Under a settlement of 1811 the entailed
 
 The second matter is the claim to Trąbczyn and Kamionna. Hardenberg answered in November 1814 that it would be settled with the general arrangement for the Duchy of Warsaw [[252, 253]]. As it became clear that the district would fall to Russia, Triebenfeld reported that the estates could not be recovered [[266, 270, 284]]. He then submitted a calculation of the loss and asked for compensation, proposing the crown estate of Sokolnik [[285, 286, 6, 290]]. The ministry's side of this claim is preserved in a separate holding.
 
-The Vienna letters also report the negotiations of the congress on Poland and Saxony, the affairs of the mediatised house of Hohenlohe in Württemberg, and the return of Napoleon in March 1815 [[242, 244, 247, 271, 277, 4, 286]]. Nearly all of them ask for money for Triebenfeld's expenses [[243, 254, 13, 12]]. A letter of his daughter Charlotte asks Hohenlohe-Ingelfingen for her father's address [[7]].
+From Vienna Triebenfeld also reported the congress's negotiations on Poland and Saxony, the affairs of the mediatised house of Hohenlohe in Württemberg, and the return of Napoleon in March 1815 [[242, 244, 247, 271, 277, 4, 286]]. and nearly every letter asked the Prince for money for his expenses [[243, 254, 13, 12]]. A letter of his daughter Charlotte asks Hohenlohe-Ingelfingen for her father's address [[7]].
 
 #### Last letters, 1815 to 1816
 
@@ -68,9 +68,7 @@ The last letters are written from Poznań and Blizanów between November 1815 an
 
 #### Register of creditors
 
-One document is not a letter: an extract from the record of claims against Hohenlohe-Ingelfingen, listing 142 claims [[303]].
-
-The file keeps the archive's numbering, which is not chronological: numbers 1 to 74 hold letters of 1806 to 1815 in no order, and numbers 75 to 301 run from 1798. Several numbers hold a letter with its enclosures, which are recorded as separate documents under the same number with a letter added. Four numbers are absent from the file. Three documents are present in two copies. <!-- context -->
+His creditors registered 142 claims against him [[303]].
 
 Triebenfeld wrote in haste and often when ill. <!-- context -->
 
