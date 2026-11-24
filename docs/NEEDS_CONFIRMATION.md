@@ -15,17 +15,17 @@ repository; they are on the working machine.
   miejscowe Polski (`nmpol`), Słowiński (2023) (`slowinski2023`) and the
   Słownik geograficzny (`slownik`) are `visible: true` at your word ("I will
   clear the copyright later"). The third was cut off in your message and is
-  taken to be the Słownik geograficzny, the twin of Nazwy; say if it is
-  another. The English beside the entries of `nmpol` and `slownik`
+  taken to be the Słownik geograficzny, the twin of Nazwy (confirmed by the
+  editor, 2026-11-24: "the rest is fine"). The English beside the entries of `nmpol` and `slownik`
   summarises each entry; it is not a translation.
 - **The German summaries lag the English.** The English prose is being
   rewritten to the rules of 2026-11-24 (HOUSE_STYLE) and the German is
   skipped at your word; a German summary may now say more, or less, than
   its English. A German pass is for later.
-- **The sources' icons**: three drawings are made (line in a disc, a new
-  line drawing, duotone); duotone is shown. Your choice.
-- **The crop boxes** of 53/6/0/-/17, -/36, -/45, -/46, -/47 (the page sent
-  to you on 2026-11-24).
+- Settled 2026-11-24: the duotone icons (at a lighter stroke, the editor's
+  word); the crop boxes of 53/6/0/-/17, -/36, -/45, -/46, -/47, drawn by the
+  editor and applied; no typeset title tiles; the editor supplies the
+  literature's title pages later.
 
 ## The date after the signature (2026-11-23, docs/DATE_ORDER_PLAN.md)
 

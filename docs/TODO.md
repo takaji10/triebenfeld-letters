@@ -1730,18 +1730,19 @@ transcription; 108 readings settled in session before the first build
 The plan, with your answers of the day and the assumptions taken:
 [SITE_OVERHAUL_PLAN.md](SITE_OVERHAUL_PLAN.md).
 
-- [ ] You: say whether the assumptions in the plan hold (the third work to
+- [x] You: say whether the assumptions in the plan hold (the third work to
       show in full taken to be the Słownik geograficzny; "by reference"
       order and the "Show" filters dropped).
 - [x] Phase 0: the writing rules into HOUSE_STYLE; `prose_lint.py`.
 - [x] Phase 5: the crops of Nr. 3705; the box mode of the fold page.
-- [ ] You: draw the crop boxes of 53/6/0/-/17, -/36, -/45, -/46, -/47 (the
+- [x] You: draw the crop boxes of 53/6/0/-/17, -/36, -/45, -/46, -/47 (the
       page sent 2026-11-24), then paste the JSON; I apply it with
       `apply_crops.py --grouped`.
 - [x] Phases 1, 3, 2, 4: the Sources page, the tiles, the search bar, the
       literature, with search inside each work.
-- [ ] You: choose the sources' icons (duotone shown; two others drawn).
-- [ ] You: the title pages of the literature that exist, for thumbnails.
+- [x] You: the icons: duotone, at a lighter stroke (done).
+- [ ] You: the title pages of the literature that exist, for thumbnails
+      (no typeset tiles meanwhile, your word).
 - [x] Phase 6.1: the 57 holding pages rewritten to the rules.
 - [ ] Phase 6.2: the era, place and person pages. Done: the restitution era
       (rewritten), the Hohenlohe era's errors and unexplained names (its
