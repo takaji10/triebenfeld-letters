@@ -151,6 +151,21 @@ German follows the editor's English layout").
 
 ## Where things stand (2026-11-01)
 
+- **The site overhaul** (2026-11-24, **published 2026-11-24**; plan
+  `docs/SITE_OVERHAUL_PLAN.md`, TODO section 69): new writing rules in
+  HOUSE_STYLE ("the content, not the paper", first mention, complete actions,
+  no counts in prose); the Sources page as tiles (Manuscripts, duotone icons);
+  one standard card on every list; one search bar everywhere
+  (`browse.html`/`browse.js`, extra indexes by `pipeline/build/search_indexes.py`,
+  the year range checked by verify_site); the literature as a reading column
+  with contents and margin page numbers; crops recorded per holding
+  (`intake/crops.json`, `pipeline/intake/apply_crops.py`); all 57 holding pages
+  and the seven era pages rewritten to the rules. Open: the place pages, the
+  320 person bios and most summaries (English only; the German all at once
+  later, the editor's word); the literature's title pages (the editor
+  supplies them, no typeset tiles). Read WORKING_NOTES, "The site overhaul of
+  2026-11-24", first.
+
 - **I. HA GR, Rep. 7 C, Nr. 421 - Chełmski's claim on Prusimski, 1799**
   (slug `ihagrrep7cnr421`, added 2026-11-21, **published 2026-11-21**): the ministry's file on Stanisław Chełmski of Łukom's
   complaint that the Kalisz government would not hear his suit against the
