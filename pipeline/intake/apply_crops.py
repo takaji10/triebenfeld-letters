@@ -24,6 +24,9 @@ copies a saved crops_<slug>.json into the holding first, when given one.
     python pipeline/intake/apply_crops.py <slug>            # apply
     python pipeline/intake/apply_crops.py <slug> saved.json # copy, then apply
     python pipeline/intake/apply_crops.py --all             # every holding
+    python pipeline/intake/apply_crops.py --grouped saved.json
+                            # {slug: {file: box}} from crop_sheet.py: each
+                            # holding's crops.json written, then applied
 """
 import json, os, shutil, sys
 from PIL import Image
@@ -87,6 +90,20 @@ def main(argv):
     if argv[0] == '--all':
         ok = all(apply(s) for s in sorted(os.listdir(os.path.join(ROOT, 'units')))
                  if load(s))
+        return 0 if ok else 1
+    if argv[0] == '--grouped':
+        with open(argv[1], encoding='utf-8') as f:
+            data = json.load(f)
+        ok = True
+        for slug, crops in data.items():
+            have = load(slug)
+            have.update(crops)
+            dst = os.path.join(ROOT, 'units', slug, 'intake', 'crops.json')
+            os.makedirs(os.path.dirname(dst), exist_ok=True)
+            with open(dst, 'w', encoding='utf-8', newline='\n') as f:
+                json.dump(have, f, ensure_ascii=False, indent=1)
+                f.write('\n')
+            ok = apply(slug) and ok
         return 0 if ok else 1
     slug = argv[0]
     if len(argv) > 1:

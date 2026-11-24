@@ -36,6 +36,16 @@ button, and dragging turns it as a sheet of paper is turned under a finger.
 The angle is positive counter-clockwise, the sense of PIL's rotate(), so the
 number saved is the rotation that is applied (courtbook.cut).
 
+Boxes (boxes=True; the editor, 2026-11-24: pages that need cropping). The same
+page, the same look and keys, for marking ONE rectangle per image: what is
+kept. Drag on the picture to draw it, inside it to move it, its corners and
+edges to resize it; what lies outside is shaded; Esc or "Clear box" removes
+it (the page is then left whole). Mouse and touch alike (pointer events). It
+is saved as {file: {"box": [left, top, right, bottom], "from_size": [w, h]}},
+fractions of the picture rounded to 4 decimals, the format of
+apply_crops.py; with grouped=True, as {slug: {file: ...}}, an item then
+carrying a 'slug'. crop_sheet.py builds such a page, the pictures embedded.
+
 What the editor has done is kept in the browser as they go (localStorage,
 under `key`), so closing the page loses nothing. The page is plain HTML
 opened from disk: no server, nothing uploaded.
@@ -44,7 +54,8 @@ import json
 
 PAGE = """<!doctype html>
 <meta charset="utf-8">
-<title>Fold review - %(title)s</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>%(kind)s - %(title)s</title>
 <style>
   :root { color-scheme: light dark; }
   body { margin: 0; font: 14px/1.45 system-ui, sans-serif; background: #1a1a1a; color: #eee; overflow-x: hidden; }
@@ -78,6 +89,15 @@ PAGE = """<!doctype html>
          background: #111; color: #ddd; border: 1px solid #333; display: none; }
   kbd { background: #333; border-radius: 3px; padding: 0 .3em; }
   .turning #img { cursor: grabbing; }
+  /* box mode: the picture as large as the window allows, room round it for the handles */
+  body.boxes #stage { margin: 4px auto; padding: 14px; }
+  body.boxes header { gap: .4rem .8rem; padding: .35rem .6rem; }
+  #bxlayer { position: absolute; pointer-events: none; }
+  #bxlayer .bs { position: absolute; background: rgba(0, 0, 0, .58); }
+  #bxlayer .br { position: absolute; border: 2px solid #ffd33d; box-sizing: border-box; }
+  #bxlayer .bh { position: absolute; width: 14px; height: 14px; margin: -7px 0 0 -7px; box-sizing: border-box;
+                 background: #ffd33d; border: 2px solid #111; border-radius: 3px; }
+  @media (max-width: 700px) { #help { display: none; } }
 </style>
 
 <header>
@@ -90,11 +110,14 @@ PAGE = """<!doctype html>
   <span id="edgebox">page edges <b id="edges"></b></span>
   <span id="was" class="muted"></span>
   <span id="chg" class="moved"></span>
+  <span id="count" class="muted"></span>
+  <b id="state" class="moved"></b>
   <span style="flex:1"></span>
+  <button id="clear">Clear box</button>
   <button id="reset">Reset this</button>
   <button id="save" class="primary">Save %(save)s</button>
   <button id="copy">Copy</button>
-  <span class="muted"><kbd>&larr;</kbd><kbd>&rarr;</kbd> page,
+  <span id="help" class="muted"><kbd>&larr;</kbd><kbd>&rarr;</kbd> page,
     drag or <kbd>,</kbd><kbd>.</kbd> move the line<span id="turnhelp">,
     <b>mouse wheel</b> or <kbd>shift</kbd>+drag (or right-drag) turn the sheet,
     <kbd>[</kbd><kbd>]</kbd> turn a little, <kbd>0</kbd> upright,
@@ -318,10 +341,156 @@ $('copy').onclick = async () => {
 
 show();
 </script>
+
+<script>
+if (CFG.boxes) (function () {
+  document.body.classList.add('boxes');
+  for (const id of ['cutbox', 'anglebox', 'edgebox', 'was', 'chg', 'reset']) $(id).style.display = 'none';
+  $('help').innerHTML = '<kbd>&larr;</kbd><kbd>&rarr;</kbd> page; <b>drag</b> on the picture to draw the part to keep, ' +
+    'drag inside the box to move it, its corners and edges to resize it; <kbd>Esc</kbd> removes the box';
+  $('copy').textContent = 'Copy JSON';
+  const MIN = 0.02;
+  const idOf = it => (it.slug ? it.slug + '/' : '') + it.file;
+  let st = {};                     // {id: [l, t, r, b] or null (cleared)}
+  try { st = JSON.parse(localStorage.getItem(CFG.key + ':boxes') || '{}'); } catch (e) {}
+  const keepBoxes = () => { try { localStorage.setItem(CFG.key + ':boxes', JSON.stringify(st)); } catch (e) {} };
+  const getBox = it => { const k = idOf(it); return (k in st) ? st[k] : (it.box || null); };
+  const setBox = b => { st[idOf(cur())] = b; keepBoxes(); drawBox(); };
+  const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+
+  const layer = document.createElement('div');
+  layer.id = 'bxlayer';
+  stage.appendChild(layer);
+  const mk = cls => { const d = document.createElement('div'); d.className = cls; layer.appendChild(d); return d; };
+  const shades = [mk('bs'), mk('bs'), mk('bs'), mk('bs')], rect = mk('br');
+  const HN = ['nw', 'n', 'ne', 'e', 'se', 's', 'sw', 'w'];
+  const handles = {}; for (const h of HN) handles[h] = mk('bh');
+  const place = (el, x, y, w, h) => { el.style.left = x + 'px'; el.style.top = y + 'px'; el.style.width = w + 'px'; el.style.height = h + 'px'; };
+
+  function fit() {
+    const h = document.querySelector('header').offsetHeight + $('note').offsetHeight;
+    img.style.maxHeight = Math.max(120, innerHeight - h - 40) + 'px';
+    img.style.maxWidth = Math.max(120, innerWidth - 30) + 'px';
+  }
+  function drawBox() {
+    fit();
+    const it = cur(), W = img.clientWidth, H = img.clientHeight, b = getBox(it);
+    place(layer, img.offsetLeft, img.offsetTop, W, H);
+    const on = b ? '' : 'none';
+    for (const el of shades.concat([rect], Object.values(handles))) el.style.display = b ? 'block' : 'none';
+    if (b) {
+      const L = b[0] * W, T = b[1] * H, R = b[2] * W, B = b[3] * H;
+      place(shades[0], 0, 0, W, T); place(shades[1], 0, B, W, H - B);
+      place(shades[2], 0, T, L, B - T); place(shades[3], R, T, W - R, B - T);
+      place(rect, L, T, R - L, B - T);
+      const mx = (L + R) / 2, my = (T + B) / 2, pos = {nw: [L, T], n: [mx, T], ne: [R, T], e: [R, my], se: [R, B], s: [mx, B], sw: [L, B], w: [L, my]};
+      for (const h of HN) { handles[h].style.left = pos[h][0] + 'px'; handles[h].style.top = pos[h][1] + 'px'; }
+    }
+    $('pos').textContent = 'image ' + (i + 1) + ' of ' + ITEMS.length;
+    $('name').textContent = it.label || it.file;
+    $('count').textContent = ITEMS.filter(x => getBox(x)).length + ' with a box';
+    $('state').textContent = b ? 'keep ' + b.map(x => x.toFixed(3)).join(' ') : 'Whole page';
+    $('state').style.color = b ? '' : '#999';
+  }
+  draw = (function (old) { return function () { old(); drawBox(); }; })(draw);
+  img.addEventListener('load', drawBox);
+  window.addEventListener('resize', drawBox);
+
+  // what lies under the pointer: a handle ('nw'...), 'move', or '' (a new box)
+  function hit(e) {
+    const b = getBox(cur()), r = img.getBoundingClientRect();
+    if (!b) return '';
+    const px = e.clientX - r.left, py = e.clientY - r.top;
+    const L = b[0] * r.width, T = b[1] * r.height, R = b[2] * r.width, B = b[3] * r.height;
+    let tol = e.pointerType === 'touch' ? 26 : 12;
+    tol = Math.min(tol, Math.max(6, 0.3 * Math.min(R - L, B - T)));
+    const nl = Math.abs(px - L) <= tol, nr = Math.abs(px - R) <= tol, nt = Math.abs(py - T) <= tol, nb = Math.abs(py - B) <= tol;
+    let hx = nl ? 'w' : nr ? 'e' : '', hy = nt ? 'n' : nb ? 's' : '';
+    if (hx && !(py >= T - tol && py <= B + tol)) hx = '';
+    if (hy && !(px >= L - tol && px <= R + tol)) hy = '';
+    if (hx || hy) return hy + hx;
+    return (px > L && px < R && py > T && py < B) ? 'move' : '';
+  }
+  const CURS = {nw: 'nwse-resize', se: 'nwse-resize', ne: 'nesw-resize', sw: 'nesw-resize', n: 'ns-resize', s: 'ns-resize',
+                e: 'ew-resize', w: 'ew-resize', move: 'move', '': 'crosshair'};
+  const frac = e => { const r = img.getBoundingClientRect(); return [clamp((e.clientX - r.left) / r.width, 0, 1), clamp((e.clientY - r.top) / r.height, 0, 1)]; };
+
+  let drag = null;
+  stage.addEventListener('pointerdown', e => {
+    if (e.button > 0) return;
+    const kind = hit(e), p = frac(e);
+    drag = {kind, p0: p, b0: getBox(cur()), moved: false};
+  });
+  stage.addEventListener('pointermove', e => {
+    if (!drag) { stage.style.cursor = CURS[hit(e)]; return; }
+    const p = frac(e), d = drag, b0 = d.b0;
+    d.moved = true;
+    if (d.kind === 'move') {
+      const w = b0[2] - b0[0], h = b0[3] - b0[1];
+      const l = clamp(b0[0] + p[0] - d.p0[0], 0, 1 - w), t = clamp(b0[1] + p[1] - d.p0[1], 0, 1 - h);
+      setBox([l, t, l + w, t + h]);
+    } else if (d.kind) {
+      const b = b0.slice();
+      if (d.kind.includes('w')) b[0] = clamp(p[0], 0, b0[2] - MIN);
+      if (d.kind.includes('e')) b[2] = clamp(p[0], b0[0] + MIN, 1);
+      if (d.kind.includes('n')) b[1] = clamp(p[1], 0, b0[3] - MIN);
+      if (d.kind.includes('s')) b[3] = clamp(p[1], b0[1] + MIN, 1);
+      setBox(b);
+    } else {
+      setBox([Math.min(d.p0[0], p[0]), Math.min(d.p0[1], p[1]), Math.max(d.p0[0], p[0]), Math.max(d.p0[1], p[1])]);
+    }
+  });
+  const letGo = () => {
+    if (drag && drag.kind === '' && drag.moved) {          // a new box too small to mean anything: undo it
+      const b = getBox(cur());
+      if (b && (b[2] - b[0] < MIN || b[3] - b[1] < MIN)) setBox(drag.b0);
+    }
+    drag = null;
+  };
+  stage.addEventListener('pointerup', letGo);
+  stage.addEventListener('pointercancel', letGo);
+
+  $('clear').onclick = () => setBox(null);
+  // keys: the arrows page (the page's own handler); Esc clears; the fold keys do nothing here
+  document.addEventListener('keydown', e => {
+    if (e.target === $('out') || e.ctrlKey || e.metaKey || e.altKey) return;
+    if (e.key === 'Escape') { setBox(null); e.preventDefault(); }
+    if (!['ArrowLeft', 'ArrowRight', 'n', 'p'].includes(e.key)) e.stopImmediatePropagation();
+  }, true);
+
+  function result() {
+    const out = {};
+    for (const it of ITEMS) {
+      const b = getBox(it);
+      if (!b) continue;
+      const e = {box: b.map(x => Math.round(x * 10000) / 10000), from_size: [it.w, it.h]};
+      if (CFG.grouped) (out[it.slug] = out[it.slug] || {})[it.file] = e; else out[it.file] = e;
+    }
+    return out;
+  }
+  const text = () => JSON.stringify(result(), null, 1);
+  $('save').onclick = () => {
+    if (!Object.keys(result()).length) { alert('No box drawn yet.'); return; }
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([text()], {type: 'application/json'}));
+    a.download = CFG.save;
+    a.click();
+  };
+  $('copy').onclick = async () => {
+    const out = $('out');
+    out.value = text(); out.style.display = 'block'; out.select();
+    try { await navigator.clipboard.writeText(text()); } catch (err) {}
+  };
+  drawBox();
+})();
+else $('clear').style.display = 'none';
+if (!CFG.boxes) { $('count').style.display = 'none'; $('state').style.display = 'none'; }
+</script>
 """
 
 
-def render(title, items, save='folds.json', key=None, rotate=False, pixels=False, overlap=0, crop=False):
+def render(title, items, save='folds.json', key=None, rotate=False, pixels=False, overlap=0, crop=False,
+           boxes=False, grouped=False):
     """The page as a string.
 
     items: [{'file', 'src', 'w', 'h', 'fold' (fraction of the width, or None
@@ -329,8 +498,15 @@ def render(title, items, save='folds.json', key=None, rotate=False, pixels=False
     'right' (the page edges as fractions of the width, with crop=True;
     0 and 1 if absent), 'conf' (a word on where the fold comes from), 'note'
     (a line shown under the header)}].
+
+    boxes=True: the crop mode (see the docstring). Items need 'file', 'src',
+    'w', 'h'; they may carry 'slug' (with grouped=True the result is
+    {slug: {file: ...}}), 'label' (shown in place of the file name) and 'box'
+    (a box to start from, as fractions [l, t, r, b]).
     """
     cfg = {'save': save, 'key': key or ('folds:' + title), 'rotate': bool(rotate), 'pixels': bool(pixels),
-           'overlap': overlap, 'crop': bool(crop)}
-    return PAGE % {'title': title, 'save': save, 'items': json.dumps(items, ensure_ascii=False),
+           'overlap': overlap, 'crop': bool(crop), 'boxes': bool(boxes), 'grouped': bool(grouped)}
+    if boxes:
+        items = [dict(it, fold=None) for it in items]
+    return PAGE % {'title': title, 'kind': 'Crop review' if boxes else 'Fold review', 'save': save, 'items': json.dumps(items, ensure_ascii=False),
                    'cfg': json.dumps(cfg, ensure_ascii=False)}
