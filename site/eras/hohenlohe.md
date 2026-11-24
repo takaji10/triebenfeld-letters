@@ -141,12 +141,10 @@ complaint the King called in the files in June 1800 and then ordered the case hu
 settlement tried ([1]({{ '/documents/ihagrrep7cnr3709/1/' | relative_url }}),
 [2]({{ '/documents/ihagrrep7cnr3709/2/' | relative_url }})). In November
 Hohenlohe-Ingelfingen asked the Grand Chancellor for other judges, since the councillors at
-Poznań also sat on the guardianship board that conducted her suit. The order giving the case
+Poznań also sat on the board that supervised guardianships, which conducted the orphan's suit. The order giving the case
 to the Government at Warsaw came too late: Poznań had given judgment on 9 December 1800
-([7]({{ '/documents/ihagrrep7cnr3709/7/' | relative_url }})). The file does not say how it
-decided. In January 1802 Prusimska petitioned the King from Dresden to hasten the appeal
+([7]({{ '/documents/ihagrrep7cnr3709/7/' | relative_url }})); how it decided is not known. In January 1802 Prusimska petitioned the King from Dresden to hasten the appeal
 ([10]({{ '/documents/ihagrrep7cnr3709/10/' | relative_url }})).
-what she claimed is not yet known.
 
 ## III. Dividing the estates, 1798 to 1806
 
@@ -180,7 +178,7 @@ of Dutch origin that was much older than the Prussian takeover: the letters glos
 as ["die Hauländer oder Collonisten"]({{ '/documents/oe1bu9454/216/' | relative_url }}).
 
 In April 1805 Triebenfeld signed a
-[punctation]({{ '/documents/oe1bu14526/15/' | relative_url }}) letting 270 *Hufen* at
+[preliminary agreement (Punctation)]({{ '/documents/oe1bu14526/15/' | relative_url }}) letting 270 *Hufen* at
 Trąbczyn, Łazy, Osiny, Neudorff and Przybysław at 300 Reichsthaler the *Hufe*, with fifteen
 more every year in a rent that could never be bought out. New villages were to be laid out
 in two straight lines, with thirteen free *Morgen* in each for the schoolmaster, the village
@@ -229,9 +227,9 @@ hereditary rents from the newly divided land at nearly three times the dues from
 manorial tenants. The same document promises the King sixteen new villages and five hundred
 families.
 
-The debts grew faster than the rents. Countess Schlabrendorff
+The debts grew faster than the rents. Countess Schlabrendorff, one of the Prince's creditors,
 [would not wait past Christmas]({{ '/documents/oe1bu9454/118b/' | relative_url }}) for
-50,000 Reichsthaler. In January 1805, through Köckritz, the Invalids' Fund, the Prussian
+the 50,000 Reichsthaler he owed her. In January 1805, through Köckritz, the Invalids' Fund, the Prussian
 military pension fund, agreed to advance
 [150,000 Reichsthaler]({{ '/documents/oe1bu9454/158/' | relative_url }}), 50,000 of it at once
 against a mortgage and Triebenfeld's own signature. The mortgage register for Zagórów
@@ -284,7 +282,7 @@ Jena and Prenzlau is an inference from the date; the letter does not name the ba
 By the Peace of Tilsit in July 1807 Prussia gave up South Prussia, and the Duchy of Warsaw
 was formed from it. The province was governed in the meantime by the Governing Commission, a
 provisional Polish government that Napoleon had set up in January. Prusimski's daughter,
-Michalina Dąbska, followed it to Dresden. On 20 and 21 July she petitioned
+Michalina Dąbska, followed it to Dresden, where Napoleon was then dictating the Duchy's constitution. On 20 and 21 July she petitioned
 [the commission]({{ '/documents/agad11740273/2/' | relative_url }}) and
 [the Emperor]({{ '/documents/agad11740273/3/' | relative_url }}) for her father's estates, pointing to
 a decree of Napoleon that had given Józef Wybicki, a member of the commission, his confiscated
@@ -310,8 +308,8 @@ that he had heard from the Saxon court that Polish commissioners, on her petitio
 [ordered the estates returned to her]({{ '/documents/oe1bu9454/217/' | relative_url }}). Triebenfeld's
 objection was always that she had taken possession
 ["without any decrees or judgments whatever"]({{ '/documents/oe1bu9454/215/' | relative_url }}).
-Her own tenure of the estates is the subject of the third era of this archive, which is not
-yet published.
+Her own tenure of the estates, and the thirty years' dispute over the debts left on them, are
+the next era: [The Miączyńska restitution]({{ '/eras/restitution/' | relative_url }}).
 
 The deeds add one detail. On 28 January 1808, three months after the seizure, the estates'
 own court was still issuing settlers their papers. Two hereditary-lease contracts carry fair
@@ -340,9 +338,9 @@ worth 800 Reichsthaler, and had bailiffs in his house.
 On 7 March 1809, at Konotop, he gave the estate official Hawich thirteen powers of attorney
 to act in the Duchy of Warsaw: to sue to have Michalina Dąbska removed from Trąbczyn; to have
 the court administration put on the remaining estates for unpaid interest lifted, the King of
-Saxony having granted debtors three years' grace; to remove Honrichs, who had had himself
-appointed its administrator and had sold land without authority; to sue the creditors
-Oppenheimer and Wolff over 72,000 Reichsthaler; to collect the arrears; and to appear for
+Saxony having granted debtors three years' grace; to remove Honrichs, an estate official who had had himself
+appointed its administrator and had sold land without authority; to sue two of the Prince's creditors,
+Oppenheimer and Wolff, over 72,000 Reichsthaler; to collect the arrears; and to appear for
 Hohenlohe-Ingelfingen at the Diet in Warsaw, where every landowner now had to appear in
 person or lose his estates. The letter is in the file twice, as
 [letter 48]({{ '/documents/oe1bu9454/48/' | relative_url }}) and
@@ -456,7 +454,7 @@ was and could reach him only through his employer:
 > ([Letter 7]({{ '/documents/oe1bu9454/7/' | relative_url }}))
 
 In December 1815, back at Blizanów and recovering from an illness, Triebenfeld wrote that a
-daughter had died four days after giving birth, and that Barbe, the friend in Vienna who had
+daughter had died four days after giving birth, and that Barbe, a friend in Vienna who had
 lent him money there, had also died. He wrote, he said, so that Hohenlohe-Ingelfingen might
 know [that he was still alive and where he was]({{ '/documents/oe1bu9454/297/' | relative_url }}).
 His last letter is dated 31 January 1816. A note on Zerboni's report, written in April 1816,
@@ -474,7 +472,7 @@ Whether it is the same 112,000, and whether this Charlotte is the daughter who w
 ## VIII. After Hohenlohe-Ingelfingen's death, 1818 to 1834
 
 Hohenlohe-Ingelfingen died in 1818 at Sławięcice in Upper Silesia. His heirs renewed the
-claim, and Duke Eugen of Württemberg recommended it to the Russian government, citing two
+claim, and Duke Eugen of Württemberg, a Russian general and the Emperor's cousin, recommended it to the Russian government, citing two
 Prussian generals who had been compensated. On 31 January 1820 the Russian envoy at Berlin,
 Alopeus, answered that the claim had been refused in 1816 and that the Emperor could not act
 on the recommendation ([note]({{ '/documents/iiihamdaiiinr12765/22/' | relative_url }})). The
@@ -490,7 +488,7 @@ return of the estates in 1807 had cancelled the debts raised on them in the year
 civil tribunal at Kalisz ordered the mortgage of Weigel, a merchant at Wrocław, struck out in
 1819, and the high tribunal at Warsaw confirmed the judgment in 1826. In February 1827 the
 Prussian envoy at St Petersburg, Schöler, asked the Russian foreign minister to have it annulled
-([note]({{ '/documents/iiihamdaiiinr12366/4/' | relative_url }})). The file holds no answer. In July 1827 the
+([note]({{ '/documents/iiihamdaiiinr12366/4/' | relative_url }})). No answer is known. In July 1827 the
 tribunal at Kalisz also struck out the mortgages of the Lichnowski brothers and of the widow of
 Grotowski ([judgment]({{ '/documents/iiihamdaiiinr12366/5/' | relative_url }})).
 
