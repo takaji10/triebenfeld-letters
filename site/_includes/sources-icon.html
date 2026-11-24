@@ -2,7 +2,7 @@
   One vector icon for the Sources page's four kinds (the editor, 2026-11-06:
   a parchment, a newspaper, a book, a map). Include with
   kind="parchment" | "newspaper" | "book" | "map" and, optionally,
-  variant="a" | "b" | "c" (2026-11-24; default c). Every parameter is read as
+  variant="a" | "b" | "c" (2026-11-24; default c, the editor's choice, drawn at a lighter stroke, 1.15, at their word). Every parameter is read as
   include.<name> - a bare `kind` is empty inside a Jekyll include (the
   2026-11-07 bug that rendered empty SVGs).
     a  the first line drawings, enlarged inside a tinted disc;
@@ -15,7 +15,7 @@
   in assets/style.css ("Sources overview").
 {%- endcomment -%}
 {%- assign ic_v = include.variant | default: "c" -%}
-<span class="src-icon-wrap src-icon-wrap--{{ ic_v }}" aria-hidden="true"><svg class="src-icon src-icon--{{ ic_v }}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" focusable="false">
+<span class="src-icon-wrap src-icon-wrap--{{ ic_v }}" aria-hidden="true"><svg class="src-icon src-icon--{{ ic_v }}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="{% if ic_v == 'c' %}1.15{% else %}1.6{% endif %}" stroke-linecap="round" stroke-linejoin="round" focusable="false">
 {%- if ic_v == 'a' -%}
   {%- if include.kind == 'parchment' -%}
   <path d="M6.5 3h11a1.5 1.5 0 0 1 0 3h-11a1.5 1.5 0 0 1 0-3z"/><path d="M6.5 16h11a1.5 1.5 0 0 1 0 3h-11a1.5 1.5 0 0 1 0-3z"/><path d="M7 6v10M17 6v10M10 9.5h4M10 12.5h4"/>
