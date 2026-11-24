@@ -1744,11 +1744,11 @@ The plan, with your answers of the day and the assumptions taken:
 - [ ] You: the title pages of the literature that exist, for thumbnails
       (no typeset tiles meanwhile, your word).
 - [x] Phase 6.1: the 57 holding pages rewritten to the rules.
-- [ ] Phase 6.2: the era, place and person pages. Done: the restitution era
-      (rewritten), the Hohenlohe era's errors and unexplained names (its
-      other flags, and the five other eras, wait: the reader's flags are to
-      be made again, the scratch file does not survive the session). Places
-      and the 320 person bios not begun.
+- [ ] Phase 6.2: the era, place and person pages. Done 2026-11-24: all
+      seven era pages and their intros, blurbs and ownership lines (the
+      Hohenlohe page's long essay only for its errors and unexplained names;
+      its remaining "the letters show" phrasing is the essay's own voice and
+      waits on your view). Places and the 320 person bios not begun.
 - [ ] Phase 6.3: the ~640 English document summaries, holding by holding
       (prose_lint + a Sonnet reader flag, Claude rewrites, a Sonnet claim
       check, `set_summaries.py`). Done: 12 rewritten, and the signature,
