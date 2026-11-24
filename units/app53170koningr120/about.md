@@ -10,7 +10,7 @@ A person who had been beaten could come to the court office and have his injurie
 
 **The beating of Andrzej Kinos.** On 14 March 1785 Andrzej Kinos of Trąbczyn showed the office a bloodshot and swollen right eye, a bloodshot left eye, a swollen face and a swollen right shoulder, and stated that Marcin Sarzyński had beaten him with fists and a stick the Saturday before, barring his way on the public road at Obory as he went to Pleszew [[1]].
 
-**Chełmski's summons of October 1786.** Chełmski summoned Prusimski before the Crown Tribunal at Piotrków. Prusimski was to swear to and produce the contract for the sale of an oak wood made with Tracholz, which Chełmski said had stayed with him; to be punished for having had the case moved from the judge sitting on the ground to the full land court and on to the Tribunal, which had delayed it for years; and the land court's orders for a sitting on the ground were to be carried out [[2]].
+**Chełmski's summons of October 1786.** Chełmski summoned Prusimski before the Crown Tribunal at Piotrków. Prusimski was to swear to and produce the contract for the sale of an oak wood made with Tracholz, which Chełmski said had stayed with him; to be punished for having had the case moved from the judge sitting on the ground to the full land court and on to the Tribunal; and the land court's orders for a sitting on the ground were to be carried out [[2]].
 
 ### Related holdings
 
