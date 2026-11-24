@@ -1,4 +1,4 @@
-Prince Friedrich Ludwig of Hohenlohe-Ingelfingen let his estate of Oleśnica in hereditary lease to three townsmen, and the townsmen stopped paying. In September 1805 the Prince's agent, Peter Friedrich von Triebenfeld, petitioned the King of Prussia to have the estate placed under court administration; the petition shows how the Prince's leases could fail. <!-- context -->
+Prince Friedrich Ludwig of Hohenlohe-Ingelfingen let his estate of Oleśnica in hereditary lease to three townsmen, who then stopped paying him rent. In September 1805 the Prince's agent, Peter Friedrich von Triebenfeld, petitioned the King of Prussia to have the estate placed under court administration; the petition shows how the Prince's leases could fail. <!-- context -->
 
 ### Historical background
 
@@ -8,7 +8,7 @@ Hohenlohe-Ingelfingen held the lordships of Trąbczyn and Zagórów in South Pru
 
 The petition is written in the name of Hohenlohe-Ingelfingen and signed by Triebenfeld as his general agent [[1]]. It asks the King to order the government at Kalisz to place Oleśnica under sequestration, that is, under administration by the court [[1]]. According to the petition, the estate had been let to Giese, Bagans and Gietzinger for 20,000 Rthl entry money. The lessees paid 10,000 Rthl, taken from their sub-lessees, and settled the first year's rent; after that they paid neither rent nor taxes and sold parts of the estate, while the Chamber had not confirmed the contract [[1]]. The government at Kalisz had refused sequestration in resolutions of 13 and 20 August. The petition disputes both from the Prussian general code, asks that the files be called in, and offers security [[1]].
 
-A fair copy in German. The letters A to H in its margin refer to enclosures, which are not in the file. The file contains no reply to the petition. <!-- context -->
+The enclosures the petition cites are not in the file, and neither is any reply. <!-- context -->
 
 ### Related holdings
 
