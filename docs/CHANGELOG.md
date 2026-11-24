@@ -6509,3 +6509,14 @@ sources-icon.html`).
 - The transcription view marks the lines where a reading-text paragraph begins (`para_lines`, `li.pstart`); verify_site and build_site_data read them.
 - Oe 1 Bü 9454, read on the scans by two readers: 39 "Königs:" (Königsberg[?]), 170 "Kisten" (crates), 303 "Dem p Über"; 21 "Genuenſter" still unread ("the [...] Prince").
 - Nr. 421: the paragraph rules follow the "·/·".
+
+## The site overhaul (2026-11-24, docs/SITE_OVERHAUL_PLAN.md)
+
+- Writing rules added to HOUSE_STYLE: no physical description the counts already give; new things introduced as new ("after three townsmen", not "the three townsmen"); every action complete, for a reader new to the subject; the content, not the paper; the tiles' standard form.
+- The Sources page as four tiles, "Size" removed, new duotone icons (two other drawings kept for the editor's choice); "Archival material" renamed "Manuscripts" ("Handschriften").
+- One standard card on every list page: translated title, original title in italics, source, short description, counts (Pages, Date), the document-type tag at the foot on manuscripts only; the literature's English title first.
+- One search bar for /documents/, the holdings and the four list pages: Chronological and A-Z each way, eras with their dates, a year range (1173-2026) checked by verify_site.py, people and places multi-select (AND), exact phrase, all/any words, whole words, accents, case, search in original/English/summaries, Advanced folded away; "Show" removed. On a list page a query lists matching documents, items, passages or maps.
+- The literature as a reading column with a contents panel, the printed page in the margin, original and English side by side on wide screens; the "English translation by Claude" labels and the page index removed; bracketed page numbers ("[720]") of the Zdrowie and Jutrzenka articles recognised; text width capped everywhere (check_text_width.py), which fixes the full-width summary pages of Seidel (2018) and Słowiński & Połom (2024).
+- Nazwy miejscowe Polski, Słowiński (2023) and the Słownik geograficzny shown in full at the editor's word (the copyright the editor's to clear).
+- Nr. 3705: the first page cut free of the blue inner cover, the last of the blank page (intake/crops.json); a box mode on the fold page for the crops of 53/6/0/-/17, -/36, -/45, -/46, -/47.
+- All 57 holding pages, and the titles that opened on a page count, rewritten to the new rules; twelve summaries and two literature accounts likewise.

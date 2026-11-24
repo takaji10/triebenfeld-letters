@@ -1725,7 +1725,7 @@ transcription; 108 readings settled in session before the first build
       (its number not given; docs/MISSING_SOURCES.md).
 
 
-## 69. The site overhaul (planned 2026-11-24)
+## 69. The site overhaul (planned and built 2026-11-24)
 
 The plan, with your answers of the day and the assumptions taken:
 [SITE_OVERHAUL_PLAN.md](SITE_OVERHAUL_PLAN.md).
@@ -1733,10 +1733,18 @@ The plan, with your answers of the day and the assumptions taken:
 - [ ] You: say whether the assumptions in the plan hold (the third work to
       show in full taken to be the Słownik geograficzny; "by reference"
       order and the "Show" filters dropped).
-- [ ] Phase 0: the writing rules R1-R5 into HOUSE_STYLE; `prose_lint.py`.
-- [ ] Phase 5: the crops of Nr. 3705; the box mode of the fold page.
-- [ ] You: draw the crop boxes of 53/6/0/-/17, -/36, -/45, -/46, -/47.
-- [ ] Phases 1, 3, 2, 4: the Sources page, the tiles, the search bar, the
-      literature.
-- [ ] You: the title pages of the literature that exist.
-- [ ] Phase 6: the English prose rewritten to the rules.
+- [x] Phase 0: the writing rules into HOUSE_STYLE; `prose_lint.py`.
+- [x] Phase 5: the crops of Nr. 3705; the box mode of the fold page.
+- [ ] You: draw the crop boxes of 53/6/0/-/17, -/36, -/45, -/46, -/47 (the
+      page sent 2026-11-24), then paste the JSON; I apply it with
+      `apply_crops.py --grouped`.
+- [x] Phases 1, 3, 2, 4: the Sources page, the tiles, the search bar, the
+      literature (search inside a work: in progress).
+- [ ] You: choose the sources' icons (duotone shown; two others drawn).
+- [ ] You: the title pages of the literature that exist, for thumbnails.
+- [x] Phase 6.1: the 57 holding pages rewritten to the rules.
+- [ ] Phase 6.2: the era, place and person pages.
+- [ ] Phase 6.3: the ~640 English document summaries, holding by holding
+      (prose_lint + a Sonnet reader flag, Claude rewrites, a Sonnet claim
+      check, `set_summaries.py`). Twelve done.
+- [ ] Publish, at your word.
