@@ -14,7 +14,7 @@ The settlers kept rights, servitudes, in the landowner's forest. The Łazińsk H
 
 His figures for Łazińsk follow the farmers and their land from 1840 to 1935: 87 farmers on 1,368 Morgen in 1840, 91 on 1,691 in 1868, 112 on 2,044 in 1906, and 146 on 1,996 in 1935 [[7]]. For Orlin he lists the farmers of the Hauland of Biskupice with their Morgen [[9]], and the land of the village by classes in July 1936 [[10]].
 
-In July 1935 and July 1936 he noted, for Huta Trąbczyńska, Orlin, Józefów and the villages around them, the number of farmers and of cattle, the first farmers of Józefów, houses, hymn books, dress, speech (Low German among the old people, Kashubian in Orlin in earlier days), customs, thieving and poverty; marriages, the Pentecostalists and Baptists who had come to Orlin, the young people going to the Poznań region, and relations with the Poles, who "all speak good German".
+In July 1935 and July 1936 he noted, for Huta Trąbczyńska, Orlin, Józefów and the villages around them, the number of farmers and of cattle, the first farmers of Józefów, houses, hymn books, dress, speech (Low German among the old people, Kashubian in Orlin in earlier days), customs, thieving and poverty; marriages, the Pentecostalists and Baptists who had come to Orlin, the young people going to the Poznań region, and relations with the Poles, who "all speak good German" [[8, 10]].
 
 In the tables a figure such as "17-71" is 17 Morgen 71 rods, and on the sheet of 1858 "1-50" is 1 złoty 50 groszy. <!-- context -->
 

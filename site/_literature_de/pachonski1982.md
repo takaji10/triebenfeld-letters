@@ -7,13 +7,20 @@ alt_url: "/literature/pachonski1982/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-582">582</a> <a href="#p-583">583</a> <a href="#p-584">584</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-582">S. 582–584</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-582">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-582">S. 582</a></h2>
+<section class="lit-passage" id="p-582" data-page="582">
+<div class="pg" id="p582"><a href="#p582">S. 582</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 **Prusimski** (Ostroróg-Prusimski) Kazimierz Józef Antoni h. Nałęcz (1744 — ok. 1806), poseł na sejmy, działacz emigracyjny. Ur. 4 III w Kamionnej (wg Dworzaczka w Bieganowie), był synem Stefana, właściciela Kamionnej, Kolna i Trąbczyna, oraz Wiktorii z Malczewskich, 1\. v. Tomaszowej Wierusz-Kowalskiej.
@@ -28,12 +35,10 @@ Starannie wychowany, odziedziczył P. po stryju Pawle znaczny majątek z Kolnem 
 Carefully brought up, P. inherited from his paternal uncle Paweł a considerable fortune with Kolno and Prusinów (the latter he sold to W. Żeromski in 1766); he liked best, however, to live at Śmiłowice in Kuyavia. He put his yearly income at 150,000 Polish złoty. In 1764 he signed the act of the royal election (for the voivodeship of Poznań) as Ostroróg-Prusimski. In 1769, already
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-583">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-583">S. 583</a></h2>
+<section class="lit-passage has-related" id="p-583" data-page="583">
+<div class="pg" id="p583"><a href="#p583">S. 583</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 jako star. nieszczewicki, był we Wschowie na zjeździć urzędników woj. wielkopolskiego (15 V) i podpisał manifest z poparciem konfederacji barskiej i jej marszałka w Wielkopolsce Ignacego Malczewskiego. Posłował na sejm 1773—5 r. z ziemi wschowskiej; podpisał konfederację sejmową i wyznaczony został w skład delegacji do ułożenia traktatów z zaborcami. Sejm nadał mu ponadto star. nieszczewickie (Nieszewice lub Miszczewice) na Kujawach w emfiteutyczne posiadanie i wyznaczył kilka komisji do załatwiania sporów o dobra (m. in. o Trąbczyn, Chybów, Pawłów, Dzwonów, Berembusz-Sosnowiec?). Ponownie posłował P. na sejm 1778 r., tym razem z woj. brzesko-kujawskiego, i wyznaczony został na sędziego sejmowego. T. r. odznaczony został Orderem Św. Stanisława. W r. 1780 posłował na sejm z woj. poznańskiego. Po drugim rozbiorze prawie cały jego majątek znalazł się w zaborze pruskim. P. brał udział w konspiracji 1793/4 r., współdziałając z kaszt. Dionizym Mniewskim, swoim powinowatym. Był jednym z organizatorów powstania na Kujawach w r. 1794\. U niego to w Śmiłowicach zebrana szlachta ogłosiła konfederację kujawską, przepędzając równocześnie garnizon pruski z Włocławka i zatapiając transport amunicji, kierowany Wisłą pod oblężoną Warszawę. P. mianowany został generałem majorem kujawskim. Prowadził walkę podjazdową z płk. Szekelym o Włocławek, Inowrocław; pod Rynaszewem powstańcy zostali pobici (14 IX).
@@ -64,7 +69,6 @@ By his marriage to Marianna Dąmbska of Lubraniec, daughter of Józef, castellan
 Sources and literature: Słown. Geogr. (Nieszewice); Boniecki (Dąmbscy); Uruski; Żychliński, VII; — Askenazy Sz., Napoleon a Polska, Warsaw-Cracow 1918 I 222; Bonnefons
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Polski Słownik Biograficzny (Pachoński, 1982) sagt, Antoni Prusimski sei Ende 1794 mit seiner Frau nach Venedig geflohen, dort auch nach dem Basler Frieden tätig geblieben, wie Hoym am 9. Mai 1796 meldete, und Mitte März 1797 von den Österreichern nach Mantua vertrieben worden. Die Akte des auswärtigen Departements fällt in diese Monate. Sie enthält die Depesche des preußischen Residenten in Venedig, Graf Cattaneo, vom 14. Dezember 1796 über Prusimskis zerrüttete Gesundheit und seine Bitte um ein Attest, dass er nicht reisen könne, und das Schreiben des Departements vom 11. Januar 1797, das sie den Ministern Hoym und Schroetter mitteilt. Schrötter antwortete am 29. Januar 1797, es stehe nicht fest, ob Prusimski in Neuostpreußen oder in Südpreußen angesessen sei. Hoyms Bericht vom Mai 1796 ist nicht in der Akte.</p>
@@ -78,9 +82,8 @@ Sources and literature: Słown. Geogr. (Nieszewice); Boniecki (Dąmbscy); Uruski
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-584">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-584">S. 584</a></h2>
+<section class="lit-passage" id="p-584" data-page="584">
+<div class="pg" id="p584"><a href="#p584">S. 584</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 A., La chute de la République de Venise 1789—1796, Paris 1908; Chodźko L., Histoire des Légions Polonaises en Italie, Paris 1829 I 305; Muszyńska-Zygmańska J., Wielkopolska w powstaniu kościuszkowskim, P. 1947; Pachoński J., Kościuszko’s Links with Americain 1795—1817, w: Military Technique Policy and Strategy in History, Warsaw 1976; tenże, Legiony Polskie 1794—1807, W. 1969—79 I—IV; tenże, Les Polonais dans la République de Venise, Firenze 1973; Skałkowski A., O kokardę Legionów, P. 1912; Smoleński W., Emigracja polska 1795— 1797, W. 1911; Szczygielski W., Konfederacja barska w Wielkopolsce 1768—1770, W. 1970; Tokarz W., Ostatnie lata Hugona Kołłątaja, Kr. 1905 I—II; Wąsicki J., Powstanie kościuszkowskie w Wielkopolsce, P. 1957;—Arch. Wybickiego; Kalendarz Polityczny dla Król. Pol. i W. X. Lit. na r. 1794 \[W. 1794\]; Materiały do dziejów Komisji Rządzącej z r. 1807, Kr. 1918; Mémoires du roi Stanislas-Auguste, II; Vol. leg., VII 224, VIII 5, 7, 18, 25, 29, 36, 39, 48, 239, 554—555, 606; — „Gaz. Korespondenta Warsz.” 1808 nr 657; — AGAD: Arch. Legionów Polskich i gen. J. H. Dąbrowskiego, t. 6; Archives du Min. des Affaires Étrangères w Paryżu: Venise, rkp. 251, Pologne, rkp. 323; Archivio di Stato w Bolonii: II 12 (Korespondencja syna Lallementa); Archivio di Stato w Wenecji: Inquisitori di Stato, nr 772—780, Democrazia, nr 196 i n.; B. Czart.: rkp. 3930 s. 555; B. Ossol.: rkp. 2289/II; Deutsches Zentralarchiv w Merseburgu: Rep. ,7, C 14 M 1; — Arch. Legionów Polskich ..., t. 4, 40, 53 (w odpisach autora); Zbiory Baworowskich we Lw.: rkp. 260 s. 50 (odpis autora); — Informacje prof. Jerzego Wiśniewskiego; Informacje Włodzimierza Dworzaczka na podstawie: Arch. Archidiec. w P.: LB Św. Maria Magdalena, LB Kamionna, LB Bie-ganowo, Nekr. Reformatów, Pozn. Hipoteka — Wągrowiec, Dzwonowo; Arch. Państw, w P.: Gr. Kaliskie 216 k. 113, Gr. Pozn. 540 k. 36 v., 541 k. 37, 594 k. 53\.
@@ -95,6 +98,7 @@ A., La chute de la République de Venise 1789—1796, Paris 1908; Chodźko L., H
 *Jan Pachoński*
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

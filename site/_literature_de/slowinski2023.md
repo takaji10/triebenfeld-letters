@@ -7,6 +7,7 @@ alt_url: "/literature/slowinski2023/"
 excerpt_separator: ""
 ---
 {% raw %}
+<div class="lit-reader lit-reader--solo"><div class="lit-text">
 <div class="lit-summary" markdown="1">
 
 Ein Buch von 96 PDF-Seiten (gedruckt S. 7-101 und unnumererte Blätter) von Mirosław Słowiński, Konin 2023, mit dem Motto „Rękopisy nie płoną" - „Manuskripte verbrennen nicht", Wolands Wort aus Bulgakows Meister und Margarita. Es ediert einen 1995 in der Kantorwohnung von Łazińsk eingemauerten Briefbestand und erörtert ihn aus der Stellung eines Regionalhistorikers; Bibelzitate nach der Warschauer Bibel von 1975 (Psalm 25,4, 146,2, 18,36, 17,5, 71,1 unter anderen) stehen über den Gruppen der Briefe. Fünfundzwanzig Fotografien deutscher Soldaten unter Petsamo/Pieczenga, aus gemeinfreien Veteranenarchiven der Alpenländer, stehen zwischen den Seiten; ihre Verfasser waren nicht zu ermitteln.
@@ -84,4 +85,5 @@ Die 32 Anmerkungen stehen auf ihren gedruckten Seiten. Unter ihnen: Note 1, Chod
 Das Buch ist ein Zeuge des zwanzigsten Jahrhunderts, kein Dokument der Geschichte der Güter. Seine Einleitung und sein Anhang wiederholen die Gründung Łazińsk 1718 durch vierzehn Familien aus Schlesien - die Zahl des Ostdeutschen Beobachters von 1942, die gegen die Aufzeichnungen steht; das Buch ist ein zweiter Zeuge des Datums, nicht dessen Beilegung. Sein „Prusińscy" von 1746 steht gegen Chodyłas Prusimscy, und das „Andrzej i Paweł Prusińscy" seiner heutigen Notiz gegen das eigene „Katarzyna i Paweł" der Einleitung. Sein Bericht über den Kantor Gustav Adolf Mielke: Kantor und Schulleiter von Łazińsk seit 1925, der Neubau von 1933 aus seinen Mitteln nach der Notiz der deutschen Zeit im Anhang (das „hundert Jahre später" der Einleitung dagegen). Im Jahr 1936 gezwungen, Łazińsk zu verlassen (der Artikel von 1942 sagt, die Polen ließen ihn vier Jahre ab 1933 wirken), wieder lehrend ab 1940, später zur Marine berufen, der Artillerist der Marineinfanterie in Hamburg im Dezember 1944. Er ist der ausführlichste Bericht über den Mann, den das Feature von 1942 und Breyers Notizbuch von 1936 (APP 53/968/0/-/669, „Mielke seit 1925") nennen. Diese Mielkes sind ein Mann.
 
 </div>
+</div></div>
 {% endraw %}

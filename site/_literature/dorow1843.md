@@ -7,13 +7,22 @@ alt_url: "/de/literatur/dorow1843/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-front">front</a> <a href="#p-13">13</a> <a href="#p-14">14</a> <a href="#p-15">15</a> <a href="#p-16">16</a> <a href="#p-17">17</a> <a href="#p-18">18</a> <a href="#p-19">19</a> <a href="#p-20">20</a> <a href="#p-21">21</a> <a href="#p-22">22</a> <a href="#p-23">23</a> <a href="#p-24">24</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-13">pp. 13–17</a></li>
+<li class="l1"><a href="#p-18">pp. 18–22</a></li>
+<li class="l1"><a href="#p-23">pp. 23–24</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
+<div class="pg"><a href="#p-front">front</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Pohlen  
@@ -52,12 +61,10 @@ See part I, page 19.
 : Goethe.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-13">p. 13</a></h2>
+<section class="lit-passage" id="p-13" data-page="13">
+<div class="pg" id="p13"><a href="#p13">p. 13</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Skizze, wie Pohlen von Preußen benutzt werden, und wie Preußen wenigstens seine Interessen für die dahin geliehenen siebenundzwanzig Millionen Thaler erhalten kann.
@@ -76,12 +83,10 @@ Poland, as is known, was never for centuries joined with the House of Brandenbur
 First Frederick the Great began to take this rude nation under his eye, and drew the greatest advantages from that land; through the repeated partitions a considerable part of that realm fell at last to the House of Prussia. Frederick the Great and Wise at once expended great sums on the districts that had fallen to him, and formed, through the tireless activity of the persons sent thither, a happy little land. A like lot, however, did not befall the Poles that fell to Prussia in the second and third partitions under Frederick William II. This warm-hearted monarch indeed wished the best for his new and old subjects; but through the all-too-great trust which the most honest of monarchs placed in his ministers, his well-meaning will remained unfulfilled. Through
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-14">p. 14</a></h2>
+<section class="lit-passage" id="p-14" data-page="14">
+<div class="pg" id="p14"><a href="#p14">p. 14</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 das rabulistische Verfahren der Justizbeamten wurde Alles verworren, und die Pohlen selbst mit zur Meuterei und zum Unsinn verleitet.
@@ -96,12 +101,10 @@ the pettifogging conduct of the judicial officials everything became confused, a
 The saddest event that befell the province was that Minister von Voss became its administrator. — He at once ordered, under the supervision of the Privy Finance Councillor Schulz, the classification of the estates, or of all lands. This was fitting, and must necessarily precede any true organisation. But when, as was the case here, self-interested superiors held the tiller and chose the dregs of mankind for their helpers, not only was the good purpose lost; the foundation-stone was thereby laid of the insurrection that soon followed. Before this the Pole had the highest idea of all Prussian constitutions, and never believed that a Prussian official could be bought; but when the classification commissioners not only allowed themselves to be bribed, but gave themselves up besides to the vice of drink and all manner of excess, then the Pole loaded not only these but the whole new government with the deepest disdain and swore in his heart revenge against it. The conduct of these men was indeed too striking; for in former times the Poles gave of their substance 10 per cent; under the Voss or Schulz classification commission the dues of many estates, where for example a War Councillor v. Reisewitz and others of his kind had made the classification, would scarcely have amounted to 5 per cent against the old rate. That the good monarch might be offered a show, a beginning was made, on the secret proposal of War Councillor Noldichen, with the beautifying of the towns. The good king gave building moneys and other aid for it,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-15">p. 15</a></h2>
+<section class="lit-passage" id="p-15" data-page="15">
+<div class="pg" id="p15"><a href="#p15">p. 15</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 her, diese aber eigneten sich nur die Justiz und Finanzbedienten zu, der Pohle erhielt wenig oder nichts davon und sahe mit blutendem Herzen zu, daß Prachtgebäude für seine Antagonisten, die nun vampirartig an ihm hingen, auf den Plätzchen aufgeführt wurden, wo er und seine Ureltern gehauset hatten.
@@ -120,12 +123,10 @@ If meanwhile the self-interest of the classification commissioners and the camer
 Pale, naked and bare, those whom Herr v. Goldbeck appointed to Poland, or properly in the province of Warsaw, came in here. An army of judicial commissioners, ragged and torn, followed them; officials with hollow eyes and withered bodies crept after; the heralds of that justice which was now to fall to everyone's lot were in truth these ragged advocates; starving with hunger, they borrowed from the Jew, who is wont to venture his money every way — the Jew, who once in Poland was only a half-man and, like the peasant and the subject, might never bring a complaint against a nobleman, pricked up his ears when these rascals promised them wonders in the tone of market criers; above all that they, the Jews, were to be the very same
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-16">p. 16</a></h2>
+<section class="lit-passage" id="p-16" data-page="16">
+<div class="pg" id="p16"><a href="#p16">p. 16</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sollten, was der Edelmann wäre. Gleich erhoben die Juden und deutschen Bauern Hunderte von Prozessen gegen ihre Herrschaften, die Advokaten füllten ihre Säckel, eilten zu den Edelleuten, verriethen diesen die Meinung der Juden und Bauern und verschworen sich, den Edelmann bei seinen Gerechtsamen zu erhalten. Der Edelmann, entrüstet über diese Grausamkeit, flehete Himmel und Hölle um Rache an, gab aber endlich dem Rabulisten sein Gold, seine Equipagen und was ihm das Liebste war — der Advokat theilte mit seinen Freunden und schrieb endlich zu Gunsten dessen, der das Meiste geopfert hatte, das Urtheil. Das Resultat war, daß die Advokaten und deren Anhang im ersten Vierteljahre die Möbels und Equipagen hatten, vom schönsten Porzellan oder Silber speisten und in immerwährender Schwelgerei lebten. Um indess auch gewiß zu sein, daß ihnen der Raub nicht wieder entrissen werden möchte, verschafften sie sich auch ihren Anhang im Tribunal zu Berlin. Ein gewisser Kütz hatte in Berlin den Tribunalsrath v. L. und v. J.; und so ein Jeder seine Parthie, so daß zum Schrecken der Menschheit von dort aus Sentenzen und Urtheile hervorgingen, wofür dem Menschen Grausen und Entsetzen anwandelte. Nur dem gelang Alles, der Geld hatte, der Advokat reiste mit seinem Klienten nach Berlin, empfahl denselben, dessen Dukaten und Bijouterien, und sein Prozeß war auf ewig entschieden und gewonnen. Jetzt war dieser Rotte der Weg gebahnt, und nur zu bald gingen sowohl der Eine als der Andere von der Filouterie zur wirklichen Friponnerie über, das Geld der verführten Edelleute, Juden und Unterthanen floß fortwährend in den Säckel dieser Bösewichter; damit aber nun nicht mehr zufrieden, strebten sie
@@ -136,12 +137,10 @@ sollten, was der Edelmann wäre. Gleich erhoben die Juden und deutschen Bauern H
 as the nobleman. Straightway Jews and German peasants raised hundreds of lawsuits against their lords; the advocates filled their purses, hastened to the noblemen, betrayed to them the mind of the Jews and peasants, and conspired to keep the nobleman in his rights. The nobleman, enraged at this cruelty, prayed heaven and hell for vengeance, but at last gave the pettifogger his gold, his equipages and what was dearest to him — the advocate shared with his friends and at last wrote the judgment in favour of him who had sacrificed the most. The result was that the advocates and their following had within the first quarter-year the furniture and equipages, fed from the finest porcelain or silver and lived in perpetual revelry. That their plunder might not be torn from them again, they secured themselves a following also in the Tribunal at Berlin. A certain Kütz had in Berlin the Tribunal Councillor v. L. and v. J.; and so everyone his party, so that to the horror of mankind sentences and judgments went out from thence at which horror and dismay seized mankind. Only to him who had money did everything succeed; the advocate travelled with his client to Berlin, recommended him, his ducats and bijouteries, and his suit was decided and won for ever. Now the way was made plain to this rabble, and all too soon both the one and the other passed from filouterie to downright swindling; the money of the misled noblemen, Jews and subjects flowed continually into the purses of these villains; but not content with this, they strove
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-17">p. 17</a></h2>
+<section class="lit-passage" id="p-17" data-page="17">
+<div class="pg" id="p17"><a href="#p17">p. 17</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 nach das Vermögen der Gutsbesitzer, auch dies gelang ihnen, denn zu bald war vom Ersten bis zum Letzten Niemand in den Gerichtsbüreaux, der nicht große Güter, doch wenigstens Häuser, Gärten oder dergleichen bedeutende Besitzungen gehabt hätte — die noch jetzt vorhandenen Hypothekenbücher sind hiervon die redendsten Beweise. Selbst sprechen diese von denen, die statt Güter baares Geld hatten und damit handelten, so war z. B. ein gewisser Regierungs-, jetzt Kammergerichtsrath Sch —, der an 36,000 Thlr. zusammengebracht hatte, welches er an einen gewissen B—i auf Sulislawice borgte, woher er aber wohl nie etwas zurückerhalten wird. Für den ehrliebenden Patrioten und biedern Mann war es mehr als empörend, wenn man auf den sogenannten Johannis-Transactionen selbst Räthe auf dem Markt in ihren Paradeuniformen Geldhandel treiben sah. Auf einer Seite hing solch einem, von diesen Menschen aufs Korn genommenen, schon halb geplünderten pohlnischen Edelmann vampirartig ein Beamter und auf der andern Seite ein Jude, um die Beute festzuhalten, und nie verfehlten diese Geier ihr Ziel.
@@ -160,12 +159,10 @@ Meanwhile — what is also to be remarked here — after scarcely 1½ years of P
 The Poles now complained loudly of the harshest oppressions which Minister v. Voss was said to have
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-18">p. 18</a></h2>
+<section class="lit-passage has-related" id="p-18" data-page="18">
+<div class="pg" id="p18"><a href="#p18">p. 18</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 than haben sollte; das Resultat war, daß man Voß das Departement abnahm und dem Minister Grafen Hoym gab. Man strafte die Pohlen um einige hunderttausend Thaler und gab ihnen eine allgemeine Amnestie.
@@ -192,7 +189,6 @@ An honest man (War Councillor v. Triebenfeld) helped Hoym out of this need. He c
 Count Hoym had wished only 5 per cent more, and was very much surprised when the honest man brought him the Poles' resolution; nay, he was so moved that for the present he would have nothing said of the tax in kind.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The memoir's classification story: the Poles, warned by "an honest man, War Councillor v. Triebenfeld", volunteer 24 per cent where Hoym asked five, and the tax in kind is dropped. The memoir's honest man is the writer of the letters to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen; what the same years brought him stands in his own hand — the estates he sold taxed at over 700,000 rt (April 1799) against the 500,000 he says he let the buyer have them on.</p>
@@ -200,9 +196,8 @@ Count Hoym had wished only 5 per cent more, and was very much surprised when the
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-19">p. 19</a></h2>
+<section class="lit-passage has-related" id="p-19" data-page="19">
+<div class="pg" id="p19"><a href="#p19">p. 19</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wollte. Der Gewinn für den Monarchen war bedeutend; denn nicht nur alle Kosten der neuen Klassifikation, die mehrere hunderttausend Thaler betragen haben würde, wurden erspart, die 24 Procent waren verhältnißmäßig viel höher als die 28 in Schlesien, — denn Schlesien ward 1742 und Pohlen 1794 klassificirt, — sondern die Einsassen waren zufrieden und näherten sich schon mit Vertrauen dem Throne. Hoym erhielt dafür die höchsten Belobungsdekrete, der treue Patriot (Kriegsrath v. Triebenfeld) aber für seine Bemühung und Kostenaufwand weiter nichts als die Erlaubniß, sich im Stillen zu freuen und im Staube anzubeten.
@@ -217,7 +212,6 @@ The gain for the monarch was considerable; for not only were all the costs of th
 Meanwhile in the course of time all the starosties and clerical estates had been taken in; indeed a few estates of rebels, who would not by any means return, were confiscated. The monarch, created solely to make men happy, bestowed on many worthy, and often also on undeserving, men a part of these estates. This afterwards gave the enemies of Hoym, at whose head stood Ministers Schulenburg, Voss and Struensee, material for placing Hoym in a bad light before the world, and especially with the future ruler, and for tripping him up. Meanwhile Hoym was wholly guiltless in this; the best, good king had only the inclination to do good, and he commanded — who would have dared to contradict? Nevertheless several cabinet orders were, in the last period, set aside by the then departmental councillor who handled this branch (War Councillor v. Triebenfeld). Thus, for example, General Count Wartensleben was to have had the great office of Krewe, Count Schmettau the Klunero starosty, Privy Councillor Count Carmer the
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The memoir closes on its hero's reward: Hoym commended, and the patriot got "for his pains and outlay … nothing but leave to rejoice in secret and worship in the dust", though it was his branch that set the cabinet orders bestowing the confiscated estates aside. The letters show what the same career had made by then: the estates sold to Prince George encumbered with 270,000 rt of debt at a price of 280,000 (July 1800), and resold for 750,000 (February 1801) — their writer petitioning to be kept out of arrest.</p>
@@ -225,9 +219,8 @@ Meanwhile in the course of time all the starosties and clerical estates had been
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-20">p. 20</a></h2>
+<section class="lit-passage" id="p-20" data-page="20">
+<div class="pg" id="p20"><a href="#p20">p. 20</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Starostei Moschin u. a. d. m. Schon dies war gewagt, und alle diese Menschen, welche nichts erhalten, sprüheten hernach Feuer und Flamme.
@@ -242,12 +235,10 @@ Moschin starosty, and so forth. This alone was a bold stroke, and all these men,
 The warm-hearted king died in 1797. Hoym did not care to go unsummoned to Berlin; Schulenburg thereby gained time; he pressed himself into the presence of the present king's Majesty; his first aim was to overthrow Hoym. He had Held make pasquils against Hoym, Goldbeck and Triebenfeld, with Struensee. This was the most rabid nonsense and nothing but clumsy calumny. Yet the pasquil was read everywhere. The monarch, however, animated by the same exalted goodness of heart as his late majesty the king his father, lent envy not quite his ear, and Hoym remained minister nevertheless; Schulenburg therefore took refuge in stratagem — he wrote to Hoym that the king was displeased with his South Prussian administration, that the monarch would gladly see him give up the South Prussian department of himself. Hoym, weighed down too by sundry weaknesses, fell into the trap and begged the king to take the department off his hands, quaest. [i.e. for money]. Now Schulenburg was victor; he followed up this victory harshly. Hoym's deadly enemy, Minister v. Voss, at once received the South Prussian department again, accompanied by the Red Eagle order and with a cabinet letter which was made public in the newspapers, whereby Voss was exalted to the heavens and Hoym cast to the antipodes. Too late Hoym saw his error and chafed that Schulenburg had become his master in craft. Hoym, however, soon pulled himself together and through a certain Gentz turned the matter so that he was summoned to Berlin. He sacrificed
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-21">p. 21</a></h2>
+<section class="lit-passage" id="p-21" data-page="21">
+<div class="pg" id="p21"><a href="#p21">p. 21</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Summen und erhielt am Ende den Auftrag für alle Minister und eigentlich für alle Departements eine gründliche Organisation zu entwerfen. Hätte Hoym dies Zutrauen des Königs benutzt, so hätte er den größten Würkungskreis haben und das Land glücklich machen können. Von diesem glücklichen Zufall aber berauscht, ward Hoym faul und übertrug alles seinem vermeinten Busenfreund dem 2c. Gentz, mit dem Geheimen Finanzrath v. Prittwitz. Schulenburg, der dies schnell entdeckte, suchte alsbald diese beiden Helden dadurch zu gewinnen, daß er dem einen — nehmlich Gentz — Geld vollauf gab, dem andern aber auf das heiligste versicherte, daß, wenn Hoym gestürzt sei, er ihm gewiß zum dirigirenden schlesischen Minister machen würde. Jetzt entwarf Gentz mit Prittwitz dies und jenes, sie trugen es Schulenburg vor, und was dem nicht gefiel, ward gestrichen und dafür Unsinn hingesetzt, der nur zum Schaden des Landes abzweckte — der Erfolg war, daß die ganze Sache trotz der mehreren Monita, so Hoym erhielt, gänzlich ins Stocken gerieth. — Schulenburg und Voß frohlockten und thaten nur, was ihnen allein nützlich war und gut dünkte. Nicht nur Südpreußens Bewohner murrten laut, sondern das ganze Land fühlte den Druck dieser beiden Männer. Hoym hatte den Pohlen in jener Periode, als sie sich so bereitwillig zu den höhern Abgaben verstanden, ein Kreditsystem zu bewürken, auf das heiligste versichert, die Pohlen bathen nun den Voß stürmisch darum. Des Ministers Meinung aber war es nie, die Pohlen eine Landschaft unter sich organisiren zu lassen, weil er befürchtete, sein Privat-Holz- und besonders Getraide-Handel würde hinfort für ihn nicht so ergiebig aus-
@@ -258,12 +249,10 @@ Summen und erhielt am Ende den Auftrag für alle Minister und eigentlich für al
 sums and received at the end the commission to draw up a thorough organisation for all ministers, and indeed for all departments. Had Hoym used this confidence of the king, he would have had the greatest sphere of action and could have made the land happy. Intoxicated by this happy chance, however, Hoym grew lazy and transferred everything to his supposed bosom-friend, the etc. Gentz, with the Privy Finance Councillor v. Prittwitz. Schulenburg, who quickly discovered this, sought to gain both these heroes thereby: he gave the one — namely Gentz — money in plenty, and assured the other in the most solemn manner that, when Hoym was overthrown, he would surely make him the directing minister of Silesia. Now Gentz drew up with Prittwitz this and that; they laid it before Schulenburg, and what did not please him was struck out and nonsense inserted in its place, aimed only at the land's hurt — the result was that, despite the several monitions Hoym received, the whole business came wholly to a standstill. — Schulenburg and Voss exulted and did only what was useful to themselves alone and seemed to them good. Not only South Prussia's inhabitants murmured aloud, but the whole land felt the pressure of these two men. Hoym had assured the Poles, in that period when they so willingly consented to the higher dues, that he would bring about a credit system; the Poles now begged Voss importunately for it. The minister's mind, however, was never to let the Poles organise a Landschaft among themselves, because he feared his private timber and especially his grain trade would not henceforth turn out so profitable for him,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-22">p. 22</a></h2>
+<section class="lit-passage" id="p-22" data-page="22">
+<div class="pg" id="p22"><a href="#p22">p. 22</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 fallen, — um so mehr als er für die großen Überschüsse, welche ihm der Holzhandel gewährte, Güter in Südpreußen kaufen wollte. Das Geschrei der Pohlen über die fortwährende stiefmütterliche Behandlung nahm indes zu, so daß man sich genöthiget sah, den Pohlen endlich einigen Kredit zu gewähren. In der Bank, in den Wittwen-, Invaliden-, Seehandlungs- und Pupillenkassen lagen einige Gelder und besonders viele Papiere, die 2—3 und höchstens 4 Procent Zinsen brachten. Dem König ward nun vorgeschlagen, daß man diese Gelder zum allgemeinen Nutzen in Südpreußen vortheilhafter und zu höhern Procenten unterbringen könne. Der Monarch, in der Meinung, seinen Südpreußen zu helfen, willigte gerne ein und approbirte des Ministers Vorschlag. Dies war kaum den Pohlen bekannt, als diese auch schon Schaarenweise kamen und um Darlehen bathen. Jedem Kreditsuchenden wurden nun die Konditionen bekannt gemacht, unter welchen sie Geld erhalten konnten. Es wurde erfordert, daß die Hypothekenscheine und Taxen der Güter, auf welche Geld geliehen werden sollte, zur Prüfung eingereicht werden mußten. Die Pohlen, bald durch Juden und Juristen belehrt, produzirten schnell Taxen, die den Werth der Güter 3 bis 4 Mahl überstiegen. So war es zum Beispiel bei den Gütern, welche der Prinz Karl George von Hessen in Südpreußen gekauft hatte. Er kaufte für circa 230,000 Thlr., und die Taxe, die ein gewisser Wildeganns leitete, und die dem Prinzen etwa 3500 Thlr. kostete, fiel auf 800,000 Thlr. aus. Die Taxatoren waren ein gewisser Kammerrath Korn und Justizrath Schröter. Der Prinz eilte mit dieser Taxe zur Wittwenkasse und zu dem Pupillencollegium. Ein gewisser Michelis war der Justiziarius der Wittwenkasse. Er prüfte für 100 Dukaten die Taxen,
@@ -274,12 +263,10 @@ fallen, — um so mehr als er für die großen Überschüsse, welche ihm der Hol
 — all the more as he wished to buy estates in South Prussia with the great surpluses which the timber trade yielded him. The outcry of the Poles over the continued stepmotherly treatment grew, however, till one found oneself obliged at last to grant the Poles some credit. In the Bank, in the Widows', Invalids', Sea-Trade and Pupils' funds lay some moneys, and especially many papers, bearing 2—3 and at most 4 per cent interest. It was now proposed to the king that this money could be laid out in South Prussia more advantageously and at higher percentages for the general good. The monarch, in the belief that he was helping his South Prussia, gladly consented and approved the minister's proposal. This was hardly known to the Poles when they too came already in shoals and begged for loans. To every credit-seeker were made known the conditions under which they could receive money. It was required that the mortgage notes and valuations of the estates on which money was to be lent should be submitted for examination. The Poles, soon instructed by Jews and jurists, quickly produced valuations which exceeded the worth of the estates 3 to 4 times. So it was, for example, with the estates which Prince Karl George of Hessen had bought in South Prussia. He bought for circa 230,000 thalers, and the valuation, which a certain Wildeganns conducted, and which cost the prince about 3500 thalers, came out at 800,000 thalers. The valuers were a certain Cameral Councillor Korn and Justiciary Councillor Schröter. The prince hastened with this valuation to the Widows' fund and to the Pupils' college. A certain Michelis was the justiciary of the Widows' fund. He examined the valuations for 100 ducats,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-23">p. 23</a></h2>
+<section class="lit-passage" id="p-23" data-page="23">
+<div class="pg" id="p23"><a href="#p23">p. 23</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und sie waren billig und sehr gut. Der Prinz glaubte schon etliche 100,000 Thlr. im Sacke zu haben, als es hieß, daß der Hofagent Heymann Ephraim alle vorräthige Gelder bei der Wittwenkasse in Beschlag genommen und davon 5 Procent zahle, man rieth ihm, sich nur an diesen zu wenden. Der Prinz that dies ungesäumt, indem er den Heymann Ephraim zu sich bitten ließ. Dieser Jude aber hatte die edle Dreistigkeit, dem Prinzen (der im Grunde dem Königl. Hause verwandt war) das Geld um deswillen abzuschlagen, weil ihm das Geld viel koste. Dem Prinzen lag es am Herzen, Geld zu erhalten. Er ließ sich daher herab, den Juden zu bitten. Der Jude ward von der Humanität des Prinzen gerührt und sagte endlich das Geld auf 6 Jahre (es waren 200,000 Thlr.) unter der Kondition zu, daß Seine Durchlaucht ein für allemal 30,000 Thlr.
@@ -302,12 +289,10 @@ proxeneticum [brokerage] to be deducted from the 200,000 thalers at the very pay
 "Despite many harshnesses, hostile and untrue statements, the essay of War Councillor v. T. is yet a glorious
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-24">p. 24</a></h2>
+<section class="lit-passage" id="p-24" data-page="24">
+<div class="pg" id="p24"><a href="#p24">p. 24</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Beispiel von unsrer jezigen Verwaltung und von den Grundsätzen, nach welchen jetzt die Regierung handelt, und deshalb verdiente er, als ein zurechtweisendes Beispiel für die stets unzufriedenen Schreier über Alles, was bei uns geschieht, nicht verloren zu gehen,“ — diese waren die Worte des Fürsten v. Hardenberg, als D. demselben die Schrift im November 1816 in Berlin mittheilte.
@@ -318,6 +303,7 @@ Beispiel von unsrer jezigen Verwaltung und von den Grundsätzen, nach welchen je
 example of our present administration and of the principles by which the government now acts; and therefore it deserves, as a reproachful example for the ever-dissatisfied complainers about everything that happens among us, not to be lost," — these were the words of Prince v. Hardenberg, when D. [Dorow] communicated the writing to him in November 1816 in Berlin.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

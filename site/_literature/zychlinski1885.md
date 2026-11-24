@@ -7,20 +7,27 @@ alt_url: "/de/literatur/zychlinski1885/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-187">187</a> <a href="#p-188">188</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-187">pp. 187–188</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage has-related" id="p-187">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-187">p. 187</a></h2>
+<section class="lit-passage has-related" id="p-187" data-page="187">
+<div class="pg" id="p187"><a href="#p187">p. 187</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 **wrzysztof** Prusimski Ostrorog (IX pok.), pan na Kolnie dwukrotnie był żonaty, najpierw z Teresą z Grudny **Grudzińską** herbu Grzymała, kasztelanką nakielską, córką Jana i Maryanny Łodzia Iwińskiéj; powtóre z Wiktoryą Łodzia z Bnina **Opalińską**, wojewodzianką poznańską (Inscr. Valc. 1668 f. 303), córką Jana i Urszuli Potulickiéj (córki Jana i Barbary Grudzińskiéj, kasztelanki nakielskiéj), siostrą Apolinary z Opalińskich Gajewskiéj, kasztelanowéj rogozińskiéj i Urszuli Andrzejowéj Grodzickiéj (zob. R. VI str. 50. Ta powiła mu córkę **Konstancyą**, pmo voto za Stanisławem z Tuczna **Tuczyńskim**, kasztelanem gnieźnieńskim, z którym miała dwie córki: Maryannę pmo voto za Andrzejem Mycielskim, chorążym poznańskim, sdo voto za Adamem Radońskim, starostą inowłodzkim, i Annę Niemojewską herbu Rola, kasztelanową bydgoską (zob. R. V str. 155—156;233); sdo voto za Władysławem Zarembą **Suchorzewskim**. — Syn Krzysztofa z Grudzińskiéj:
 
 **Jan** Prusimski Ostrorog (X pok.), pan na Kolnie, poślubił swą powinowatą, Teresę z Błociszewa Ostoja **Gajewską**, kasztelankę rogozińską, córkę Wojciecha i Apolinary Opalińskiéj (zob. R. II str. 81). Z niéj liczne pozostawił potomstwo: pięciu synów i dwie córki: Teresę za Janem **Trąmpczyńskim** herbu Topór (1700) i Annę za Maciejem Leszczycem **Belęckim** (1700). Z synów zmarli **Ludwik** i **Wojciech** (Rel. Valc. 1711 f. 163) bezpotomnie; **Paweł Apollo**, podkomorzy JKMci, miał wprawdzie z Katarzyną hr. **Rozdrażewską**, wdową po Aleksandrze Łodzi z Ponina Ponińskim, łowczym wschowskim (zob. R. II str. 264; R. V str. 239) prócz córki Konstancyi **Rumiejowskiéj** herbu Wczele syna **Michała**, ale ten zmarł młodo. Po **Sebastyanie Krystyanie** i **Krzysztofie** poszły dwie odnogi linii młodszéj, z któréj **druga** już przy końcu zeszłego wieku **wygasła po mieczu** i dlatego od niéj rozpoczynamy:
 
-#### 1. **Odnoga na Trąmbczynie.**
+### 1. **Odnoga na Trąmbczynie.**
 
 **Krzysztof** Prusimski Ostrorog (XI pok.), pan na Kolnie, Kamionnie i majętności Trąmbczyńskiéj w Kaliskiém, miał za żonę Teresę **Golińską** herbu Zabawa IIdo (w Rocz. VI str. 287, gdzie przez pomyłkę wydrukowano „herbu Prawdzic“ zamiast Zabawa IIdo, podaliśmy krótki wywód jednéj odnogi téj rodziny. któréj krew w kilku rodzinach wielkopolskich po kądzieli dotąd płynie.) Z niéj pozostawił czterech synów i trzy córki (Rel. Valc. 1736 f. 468). Z córek Konstancya za Janem Wieruszem **Kowalskim**, dziedzicem dóbr Śmiełowa w Szamotulskiém, synem Marcina i Jadwigi Bończa Miaskowskiéj; Maryanna pmo voto za Janem Józefem Dryą **Tomickim**, sdo voto za Kazimierzem Pomianem **Zakrzewskim**, podwojewodzym radziejowskim (Inscr. Gnesn. 1775 f. 33);
 
@@ -31,11 +38,10 @@ excerpt_separator: ""
 
 **Jan** Prusimski Ostroróg (10th generation), lord of Kolno, married his kinswoman by marriage, Teresa **Gajewska** of Błociszewo, of the Ostoja arms, daughter of the castellan of Rogoźno, daughter of Wojciech and of Apolinara Opalińska (see vol. II p. 81). By her he left many children: five sons and two daughters, Teresa, married to Jan **Trąmpczyński** of the Topór arms (1700), and Anna, married to Maciej **Belęcki** of the Leszczyc arms (1700). Of the sons, **Ludwik** and **Wojciech** (Rel. Valc. 1711 f. 163) died without issue; **Paweł Apollo**, chamberlain of His Royal Majesty, had indeed by Countess Katarzyna **Rozdrażewska**, widow of Aleksander Poniński of Ponin, of the Łodzia arms, master of the hunt of Wschowa (see vol. II p. 264; vol. V p. 239), besides a daughter Konstancya **Rumiejowska**, of the Wczele arms, a son **Michał**, but he died young. From **Sebastyan Krystyan** and **Krzysztof** came two branches of the younger line, of which the **second** already **died out in the male line** at the end of the last century, and for that reason we begin with it:
 
-#### 1. **The branch at Trąbczyn [Trąmbczyn].**
+### 1. **The branch at Trąbczyn [Trąmbczyn].**
 
 **Krzysztof** Prusimski Ostroróg (11th generation), lord of Kolno, Kamionna and the estate of Trąbczyn in the Kalisz country, had for wife Teresa **Golińska** of the Zabawa II arms (in vol. VI p. 287, where "of the Prawdzic arms" was printed by mistake for Zabawa II, we gave a short account of one branch of this family, whose blood still flows in the female line in several families of Greater Poland.) By her he left four sons and three daughters (Rel. Valc. 1736 f. 468). Of the daughters, Konstancya was married to Jan Wierusz **Kowalski**, heir of the estate of Śmiełów in the Szamotuły district, son of Marcin and of Jadwiga Miaskowska of the Bończa arms; Maryanna, married first to Jan Józef **Tomicki** of the Drya arms, secondly to Kazimierz **Zakrzewski** of the Pomian arms, deputy voivode of Radziejów (Inscr. Gnesn. 1775 f. 33);
 
-</div>
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
@@ -44,9 +50,8 @@ excerpt_separator: ""
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-188">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-188">p. 188</a></h2>
+<section class="lit-passage has-related" id="p-188" data-page="188">
+<div class="pg" id="p188"><a href="#p188">p. 188</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wreszcie Wiktorya za Michałem **Tworowiczem**. Z synów Krzysztofa zmarli **Jan Paweł** († 1773) i **Teofil** bezżennie, **Antoni** zaś z Barbary **Rayskiéj**, córki Macieja i Anny Nowickiéj (Inscr. Gnesn. 1753 f. 626; Inscr. Posn. 1781 f. 179) nie pozostawił potomstwa. Poprowadził daléj tę odnogę:
@@ -69,11 +74,12 @@ and lastly Wiktorya, married to Michał **Tworowicz**. Of Krzysztof's sons, **Ja
 **Michalina** Prusimska Ostroróg (14th generation), heiress of Kolno, Kamionna and Trąbczyn, who married first Count Józef **Dąmbski** of Lubraniec, son of the voivode of Brześć Kujawski, son of Stanisław and of Józefa Wessel, daughter of the starosta of Golub; grandson of Antoni Dąmbski, also voivode of Brześć Kujawski, and of Princess Antonina Lubomirska, daughter of the voivode of Sandomierz (see vol. V p. 120); great-grandson, lastly, of Wojciech Dąmbski, court marshal of the Crown, and of Princess Adelajda Cecylia Radziwiłł, daughter of the chancellor in Lithuania (see vol. I pp. 56—59; vol. IV, table II of the Radziwiłłs; vol. V p. 51.) — Michalina married a second time, Count Stanisław **Miączyński**, captain in Napoleon's armies and adjutant of Prince Józef Poniatowski (see vol. I pp. 187--189), heir of the estate of Pawłów in the Poznań country. To him she brought as her dowry the Trąbczyn estate, which her grandson, Count Władysław Miączyński, holds today.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>Żychliński carries the branch through Stefan and Wiktoria Malczewska to Antoni, Starost of Nieszczewice, and his daughter Michalina, whose marriages brought Trąbczyn to the Miączyńskis. The relatio of September 1782 (Konin Gr. 118) names Antoni son of Stefan and Wiktoria Malczewska, sole heir after the childless deaths of his brothers Jan, Bogumił, Antoni and Paweł — where Żychliński has Jan Paweł, Teofil and Antoni, Bogumił being the Polish form of Teofil — and styles him, as the delivery of November 1782 does (Konin Gr. 153), Captain of Nieszczewice and Knight of the Order of St Stanislaus. The summons of 1860 (APP 53/968/0/-/783) is issued at the demand of Count Włodzimierz Miączyński as heir of the Trąbczyn estates, where Żychliński writes that her grandson Władysław holds the estate.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/app53170koningr145/1/' | relative_url }}">53/17/0/-/Konin Gr.145, document 1 (23 September 1776)</a><a href="{{ '/documents/app53170koningr118/23/' | relative_url }}">53/17/0/-/Konin Gr.118, document 23 (21 September 1782)</a><a href="{{ '/documents/app53170koningr136/1/' | relative_url }}">53/17/0/-/Konin Gr.136, document 1 (12 July 1754)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, document 1 (26 January 1728)</a><a href="{{ '/documents/app53170koningr153/2/' | relative_url }}">53/17/0/-/Konin Gr.153, document 2 (28 November 1782)</a><a href="{{ '/documents/app539680783/1/' | relative_url }}">53/968/0/-/783, document 1 (19 October 1860)</a></p>
 </aside>{% raw %}
 </section>
+</div>
+</div>
 {% endraw %}

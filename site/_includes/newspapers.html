@@ -14,7 +14,7 @@
   with a note, and its page holds only a summary of its contents, as a work
   of the literature kept off the site does.
 {%- endcomment -%}
-{% include sources-tools.html %}
+{% include browse.html kind="newspapers" list=true %}
 <div class="sources">
   {% for w in site.data.newspapers %}
     {%- capture w_page -%}{{ u_np }}{{ w.slug }}/{%- endcapture -%}

@@ -7,13 +7,29 @@ alt_url: "/de/literatur/rusinski1947/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-I">I</a> <a href="#p-III">III</a> <a href="#p-V">V</a> <a href="#p-VI">VI</a> <a href="#p-VII">VII</a> <a href="#p-VIII">VIII</a> <a href="#p-IX">IX</a> <a href="#p-X">X</a> <a href="#p-1">1</a> <a href="#p-2">2</a> <a href="#p-3">3</a> <a href="#p-4">4</a> <a href="#p-5">5</a> <a href="#p-6">6</a> <a href="#p-7">7</a> <a href="#p-8">8</a> <a href="#p-9">9</a> <a href="#p-10">10</a> <a href="#p-11">11</a> <a href="#p-12">12</a> <a href="#p-13">13</a> <a href="#p-14">14</a> <a href="#p-15">15</a> <a href="#p-16">16</a> <a href="#p-17">17</a> <a href="#p-18">18</a> <a href="#p-19">19</a> <a href="#p-20">20</a> <a href="#p-21">21</a> <a href="#p-22">22</a> <a href="#p-23">23</a> <a href="#p-24">24</a> <a href="#p-25">25</a> <a href="#p-26">26</a> <a href="#p-27">27</a> <a href="#p-28">28</a> <a href="#p-29">29</a> <a href="#p-30">30</a> <a href="#p-31">31</a> <a href="#p-32">32</a> <a href="#p-33">33</a> <a href="#p-34">34</a> <a href="#p-35">35</a> <a href="#p-36">36</a> <a href="#p-37">37</a> <a href="#p-38">38</a> <a href="#p-39">39</a> <a href="#p-40">40</a> <a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-45">45</a> <a href="#p-46">46</a> <a href="#p-47">47</a> <a href="#p-48">48</a> <a href="#p-49">49</a> <a href="#p-50">50</a> <a href="#p-51">51</a> <a href="#p-52">52</a> <a href="#p-53">53</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-56">56</a> <a href="#p-57">57</a> <a href="#p-58">58</a> <a href="#p-59">59</a> <a href="#p-60">60</a> <a href="#p-61">61</a> <a href="#p-62">62</a> <a href="#p-63">63</a> <a href="#p-64">64</a> <a href="#p-65">65</a> <a href="#p-66">66</a> <a href="#p-67">67</a> <a href="#p-68">68</a> <a href="#p-69">69</a> <a href="#p-70">70</a> <a href="#p-71">71</a> <a href="#p-72">72</a> <a href="#p-73">73</a> <a href="#p-74">74</a> <a href="#p-75">75</a> <a href="#p-76">76</a> <a href="#p-77">77</a> <a href="#p-78">78</a> <a href="#p-79">79</a> <a href="#p-80">80</a> <a href="#p-81">81</a> <a href="#p-82">82</a> <a href="#p-83">83</a> <a href="#p-84">84</a> <a href="#p-85">85</a> <a href="#p-86">86</a> <a href="#p-87">87</a> <a href="#p-88">88</a> <a href="#p-89">89</a> <a href="#p-90">90</a> <a href="#p-91">91</a> <a href="#p-92">92</a> <a href="#p-93">93</a> <a href="#p-94">94</a> <a href="#p-95">95</a> <a href="#p-96">96</a> <a href="#p-97">97</a> <a href="#p-98">98</a> <a href="#p-99">99</a> <a href="#p-100">100</a> <a href="#p-101">101</a> <a href="#p-102">102</a> <a href="#p-103">103</a> <a href="#p-104">104</a> <a href="#p-105">105</a> <a href="#p-106">106</a> <a href="#p-107">107</a> <a href="#p-108">108</a> <a href="#p-109">109</a> <a href="#p-110">110</a> <a href="#p-111">111</a> <a href="#p-112">112</a> <a href="#p-113">113</a> <a href="#p-114">114</a> <a href="#p-115">115</a> <a href="#p-116">116</a> <a href="#p-117">117</a> <a href="#p-118">118</a> <a href="#p-119">119</a> <a href="#p-120">120</a> <a href="#p-121">121</a> <a href="#p-122">122</a> <a href="#p-123">123</a> <a href="#p-145">145</a> <a href="#p-146">146</a> <a href="#p-147">147</a> <a href="#p-148">148</a> <a href="#p-149">149</a> <a href="#p-150">150</a> <a href="#p-151">151</a> <a href="#p-152">152</a> <a href="#p-153">153</a> <a href="#p-154">154</a> <a href="#p-155">155</a> <a href="#p-156">156</a> <a href="#p-157">157</a> <a href="#p-front">front</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-I">pp. I–7</a></li>
+<li class="l1"><a href="#p-8">pp. 8–22</a></li>
+<li class="l1"><a href="#p-23">pp. 23–37</a></li>
+<li class="l1"><a href="#p-38">pp. 38–52</a></li>
+<li class="l1"><a href="#p-53">pp. 53–67</a></li>
+<li class="l1"><a href="#p-68">pp. 68–82</a></li>
+<li class="l1"><a href="#p-83">pp. 83–97</a></li>
+<li class="l1"><a href="#p-98">pp. 98–112</a></li>
+<li class="l1"><a href="#p-113">pp. 113–148</a></li>
+<li class="l1"><a href="#p-149">pp. 149–157</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-I">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-I">p. I</a></h2>
+<section class="lit-passage" id="p-I" data-page="I">
+<div class="pg" id="pI"><a href="#pI">p. I</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 POLSKA AKADEMIA UMIEJĘTNOŚCI
@@ -72,12 +88,10 @@ The Jagiellonian University Press in Kraków, under the management
 of Karol Kieć. M – 14707
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-III">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-III">p. III</a></h2>
+<section class="lit-passage" id="p-III" data-page="III">
+<div class="pg" id="pIII"><a href="#pIII">p. III</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 SPIS TREŚCI
@@ -253,12 +267,10 @@ Settlement plans . . . 157
 Map
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-V">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-V">p. V</a></h2>
+<section class="lit-passage" id="p-V" data-page="V">
+<div class="pg" id="pV"><a href="#pV">p. V</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 WYKAZ SKRÓTÓW
@@ -394,12 +406,10 @@ Karola de Perthees... 1791 (A particular map of the Poznań
 voivodeship, made... by Karol de Perthees).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-VI">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-VI">p. VI</a></h2>
+<section class="lit-passage" id="p-VI" data-page="VI">
+<div class="pg" id="pVI"><a href="#pVI">p. VI</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 M. Schr. — Karte von Ost-Preussen nebst Preussisch Litthauen und West-  
@@ -553,12 +563,10 @@ the tariff of the lustration). The Treasury Archives in Warsaw:
 call marks LI. 508, 113.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-VII">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-VII">p. VII</a></h2>
+<section class="lit-passage" id="p-VII" data-page="VII">
+<div class="pg" id="pVII"><a href="#pVII">p. VII</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Tp. — Topographisches Verzeichniss aller in dem Kön. Südpreussischen Po-  
@@ -680,12 +688,10 @@ Goldmann, Über die Siegel der Neutomischeler Hauländereien. Deutsche Blätter
 in Polen, III, s. 420 i nast.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-VIII">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-VIII">p. VIII</a></h2>
+<section class="lit-passage" id="p-VIII" data-page="VIII">
+<div class="pg" id="pVIII"><a href="#pVIII">p. VIII</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Grossert, Evangelium und Deutschtum im Filehner Gebiet, Schönlanke 1929.  
@@ -792,12 +798,10 @@ lungen, roczn. 75, r. 1929.
 Hauländereien, Holländereien. DWZP. zesz. 29, Poznań 1935.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-IX">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-IX">p. IX</a></h2>
+<section class="lit-passage" id="p-IX" data-page="IX">
+<div class="pg" id="pIX"><a href="#pIX">p. IX</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Maas Walter, Der Netzedistrikt 1774. Zeitschrift für Politik, r. 1928.  
@@ -904,12 +908,10 @@ Schumacher Bruno, Niederländische Ansiedlungen im Herzogtum Preussen zur
 Zeit Herzog Albrechts (1525—1568), Leipzig 1903.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-X">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-X">p. X</a></h2>
+<section class="lit-passage" id="p-X" data-page="X">
+<div class="pg" id="pX"><a href="#pX">p. X</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Schwochow H., Die deutschen Ansiedlungen in der Provinz Posen nach ihrer  
@@ -970,12 +972,10 @@ Zimmermann Kazimierz, Fryderyk Wielki i jego kolonizacja rolna na ziemiach
 polskich, t. 1/2, Poznań 1915.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1">p. 1</a></h2>
+<section class="lit-passage" id="p-1" data-page="1">
+<div class="pg" id="p1"><a href="#p1">p. 1</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Wiadomości wstępne
@@ -1016,12 +1016,10 @@ Thanks to the valuable card index of localities, compiled by the Poznań Commiss
 <span class="lit-note" id="n-en-6">1-6</span> cf. Wojciechowska M., Sprawozdanie z prac nad mapą woj. poznańskiego w dobie Sejmu czteroletniego. Poznań 1934. Offprint from Sprawozdania Poznańskiego Tow. Przyjaciół Nauk no. 3 for the year 1933. Some of the source materials utilised here are characterised more closely ibid.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2">p. 2</a></h2>
+<section class="lit-passage" id="p-2" data-page="2">
+<div class="pg" id="p2"><a href="#p2">p. 2</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 sującego nas tutaj punktu widzenia kc żdej z osobna miejscowości opracowywanego terytorium, co w innym wypadku byłoby prawdopodobnie nie do pomyślenia. Przeważna część zużytkowanych materiałów źródłowych znajduje się w Archiwum Państwowym w Poznaniu. Z nich najcenniejsze są tzw. akta wiejskie, następnie akta grodzkie i ziemskie dla czterech grodów: Kościana, Poznania, Wałcza i Wschowy.<sup class="lit-fn"><a href="#n-pl-7">2-1</a></sup> Akta wiejskie tworzą zbiór uszeregowany alfabetycznie według poszczególnych wsi, w trzech działach: w dziale A przechowywane są oryginalne dyplomy (przywileje, nadania itd.), dział B obejmuje odpisy dyplomów, wreszcie w dziale C są zgrupowane pozostałe dokumenty. Z innych akt wyzyskane zostały akta gruntowe i hipoteczne, b. landratur, miejskie, wreszcie pruskie akta skarbowe (domen, klasyfikacyjne i katastralne), oraz dawne mapy. Akta klasyfikacyjne pruskie omówił Bar M. w pracy Westreussen unier Friedrich dem Grossen, Leipzig 1909, s. 210, oraz Kniat M. na s. 13 i nast. swej pracy o gospodarczym znawłościa ńskiej\| Polsce czeniu ciężarów ludności w w XVITII w. Dla części demograficznej pracy szczególne znaczenie miały znajdujące się w tymże Archiwum: tabela dymów powiatu kościańskiego oraz tabela dymów i ludności ziemi wschowskiej z r. 1789<sup class="lit-fn"><a href="#n-pl-8">2-2</a></sup>. Ze zbiorów Archiwum Archidiecezjalnego w Poznaniu szczególnie przydatne okazały się protokoły wizytacji parafialnych z I. 1777—87. Cennego materiału statystycznego dostarczyły rękopisy Archiwum Skarbowego w Warszawie, zawierające tabele dymów z \|. 1775, 1789? i 1790 (sygn. LI. 111 i LI. 508. 113), dalej tabela ludności powiatu kościańskiego z r. 1789, znajdująca się w Archiwum Głównym w Warszawie (sygn. 163 nr 5 A). Tabela ta podobnie jak i w innych powiatach została zestawiona na skutek uchwały sejmowej z dn. 22 czerwca 1789 nakazującej dokonanie pierwszego w dziejach Polski, co prawda niezupełnego spisu ludności<sup class="lit-fn"><a href="#n-pl-9">2-3</a></sup>. Niestety skrupulatne poszukiwania analogicznej tabeli dla powiatu poznańskiego, przeprowadzone przez Komisję Atlasu Historycznego, pozostały bez rezultatu. Z innych źródeł wypada w pierwszym rzędzie wymienić obszerne Opisy parafij z 1. 1783—4, sporządzone przez ówczesnych proboszczów na życzenie prymasa Poniatowskiego, który chciał w ten sposób uzyskać materiał
@@ -1040,12 +1038,10 @@ interests us here each individual locality of the territory under investigation 
 <span class="lit-note" id="n-en-9">2-3</span> Korzon T., Wewnętrzne dzieje Polski, vol. I, p. 68.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3">p. 3</a></h2>
+<section class="lit-passage" id="p-3" data-page="3">
+<div class="pg" id="p3"><a href="#p3">p. 3</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 do projektowanej mapy Polski. Rękopisy te są własnością Biblioteki Narodowej. Z dawnych map szczególnie przydatną okazała się Mapa Prus południowych (zaboru pruskiego), wykonana w I. 1796—1805 pod kierunkiem Brodowskiego, Gilly'ego i Langnera w skali 1 : 57.6001 (skrót MGd). Oryginalna mapa znajduje się w Berlinie; w pracy zużytkowana została jej odbitka fotograficzna. Skróty źródeł 1 literatury podane zostały przed tekstem.
@@ -1080,12 +1076,10 @@ The beginnings of “Olęder” colonisation in the territory of Wielkopolska ar
 <span class="lit-note" id="n-en-12">3-3</span> Albert the Bear in particular carried on an especially vigorous colonising activity (Kronika Helmolda, I, 88, cited after Schróder, p. 18).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-4">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-4">p. 4</a></h2>
+<section class="lit-passage" id="p-4" data-page="4">
+<div class="pg" id="p4"><a href="#p4">p. 4</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 brzegami wód, bądź na miejscach nizinnych i mokradłach; dzięki wielowiekowemu doświadczeniu w walce z zalewem wody, wyniesionemu z ojczyzny, potrafili oni drogą zakładania całego systemu rowów, tam 1 grobli nawet całkiem nieużyteczne połacie ziemi doprowadzić do stanu kwitnącej kultury. W gospodarstwie ich dominującą rolę odgrywała hodowla bydła i owiec. Tradycja o Holendrach jako hodowcach przechowała się w Meklemburgii do naszych czasów<sup class="lit-fn"><a href="#n-pl-13">4-1</a></sup>.
@@ -1114,12 +1108,10 @@ After the exhaustion of the first wave of settlement, a new, intensified period 
 <span class="lit-note" id="n-en-18">4-6</span> Ludkiewicz, Osady holenderskie, p. 31.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-5">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-5">p. 5</a></h2>
+<section class="lit-passage" id="p-5" data-page="5">
+<div class="pg" id="p5"><a href="#p5">p. 5</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 D spodarcze stwarzane przez Albrechta pruskiego<sup class="lit-fn"><a href="#n-pl-19">5-1</a></sup>. W r. 1562 powstaje osada holenderska Tygienhof na Wielkiej Żuławie?. Podobne osady<sup class="lit-fn"><a href="#n-pl-20">5-2</a></sup><sup class="lit-fn"><a href="#n-pl-21">5-3</a></sup> pojawiają się również w starostwie puckim (osałla Kniewskie Błoto) 3, a jednocześnie rozpoczyna się pochód osadnictwa holenderskiego w górę Wisły. Zostają skolonizowane Montawy, oraz Zajączkowo Wielkie i Małe<sup class="lit-fn"><a href="#n-pl-22">5-4</a></sup>, dalej Szkaradowo w starostwie sztumskim 5,<sup class="lit-fn"><a href="#n-pl-23">5-5</a></sup> wyrasta też cały szereg osad w dolinie sartawicko-nowskiej 6. W starostwie dybowskim już w r. 1562 powstaje osada Silno ?. Na lewym brzegu Wisły<sup class="lit-fn"><a href="#n-pl-24">5-6</a></sup> założone zostają dalsze osady holenderskie w okolicy Fordonu, Bydgoszczy<sup class="lit-fn"><a href="#n-pl-26">5-8</a></sup>, "Torunia (Nieszawka Wielka 1 Mała)<sup class="lit-fn"><a href="#n-pl-25">5-7</a></sup>, na prawym w okolicy Solca<sup class="lit-fn"><a href="#n-pl-27">5-9</a></sup>, i w ziemi dobrzyńskiej "1. Cofając się dalej w górę Wisły, po prawej<sup class="lit-fn"><a href="#n-pl-28">5-10</a></sup> stronie jej biegu spotykamy osiedla Holendrów w starostwie bobrownickim, po lewej na Kujawach wschodnich, w ziemi gostyńskiej i sochaczewskiej. W r. 1624 ruch kolonizacyjny dosięga Warszawy; Holendrzy osiedlają się na Saskiej Kępie !?. Zaznaczyć jednak wypada, że z postę-<sup class="lit-fn"><a href="#n-pl-29">5-11</a></sup><sup class="lit-fn"><a href="#n-pl-30">5-12</a></sup> pem czasu skład etniczny osad „„holenderskich” staje się bardziej skomplikowany; prócz właściwych Holendrów stwierdzić można w osadnictwie niewątpliwy udział narodowości niemieckiej i polskiej 1%. Tego rodzaju osady spotykamy różnych okolicach Polski, i. Wołyniu, w m. na ich powstawania możemy obserwować aż do chwili rozbiorów, a proces
@@ -1160,12 +1152,10 @@ Just as in Germany in the Middle Ages, the Dutch colonists were settled on low-l
 <span class="lit-note" id="n-en-30">5-12</span> For example, the “Dutchmen” settled in Wielkie Książki in the Brodnica starostwo bore, according to Lustr. pruska 1664, p. 63, the surnames: Bahr, Prusak, Maniecki, Meller, Karkiu, Spychacz, Bieniek, Bednarz. Hcuer (Die Hollinderdorier, p. 122–155) cites the village of Brzoza near Toruń, where in 1788, of 4 “Olęders”, 3 were Poles.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-6">p. 6</a></h2>
+<section class="lit-passage" id="p-6" data-page="6">
+<div class="pg" id="p6"><a href="#p6">p. 6</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 chełmińskiego !, a przypominało bardzo podstawy prawne, na Jakich<sup class="lit-fn"><a href="#n-pl-31">6-1</a></sup> osadzano w średniowieczu kolonistów niderlandzkich<sup class="lit-fn"><a href="#n-pl-32">6-2</a></sup>. Porównując stanowisko prawne o$adnika-Holendra ze stanowiskiem chłopa średniowiecznego, lokowanego na prawie niemieckim (pod którym. rozumiano również prawo chełmińskie), stwierdzamy następujące najważniejsze różnice:
@@ -1210,12 +1200,10 @@ Ducal Prussia, certain small labour dues were imposed there on the Dutchmen too,
 <span class="lit-note" id="n-en-38">6-8</span> Schumacher, Niedcerlindische Ansiedlungen, p. 96.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-7">p. 7</a></h2>
+<section class="lit-passage" id="p-7" data-page="7">
+<div class="pg" id="p7"><a href="#p7">p. 7</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 5. prawo Holendrów do ziemi opierało się z reguły na dzierżawie czasowej, wynoszącej lat kilkanaście do kilkudziesięciu<sup class="lit-fn"><a href="#n-pl-39">7-1</a></sup>. Później jednak spotykamy się już i z dzierżawą wieczystą<sup class="lit-fn"><a href="#n-pl-40">7-2</a></sup>.
@@ -1250,12 +1238,10 @@ From the serf population of the time the Dutchmen differed in law also in that, 
 <span class="lit-note" id="n-en-45">7-7</span> This view had already been expressed at the close of the XVIII century by Stenger (Die Hauliinder in Sidpreussen, p. 247). He quoted the following explanation from a contemporary statistical-geographical dictionary (Topographisch-Statistisch-Greographisches Wórterbuch der simmtl. preuss. Staaten, u. s. w., ] Th., Halle 1790): “Hauland in der gemeinen Mundart Holand oder Hollande polnisch Olędry, bedeutet ein urbares Feld, dass nur, nachdem erst alles darau! gewachsene Holz abgehauen, und dann aui einem FHlaufen verbraunt war, bebaut werden konnte” [‘Hauland in the common speech Holland or Hollande, in Polish Olędry, means an arable field which could be tilled only after all the timber growing on it had first been felled and then burnt on a heap’].
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-8">p. 8</a></h2>
+<section class="lit-passage" id="p-8" data-page="8">
+<div class="pg" id="p8"><a href="#p8">p. 8</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Pogląd ten jednak zupełnie słusznie uznany został za nieuzasadniony, gdyż termin Hauldinder spotyka się po raz pierwszy dopiero w urzędowych aktach pruskich po pierwszym rozbiorze!. Przed tym na<sup class="lit-fn"><a href="#n-pl-46">8-1</a></sup> oznaczenie wszystkich osadników używano wyłącznie terminu Holldnder. Że obu terminów używano dowolnie bez względu na sposób powstania osad, wykazuje niezbicie następujący przykład: dla osady Ujskie Olędry założonej na odwodnionej nizinie nadrzecznej, nie na gruncie leśnym, utarła się nazwa niemiecka Usch Hzuland, gdy tymczasem osada Jędrzejowo, powstała drogą karczunku leśnego, nosiła niemiecką nazwę Hollanderdorf. Obecnie przeważa pogląd, że słowo Hauldinder stanowi późniejszą równoznaczną odmianę słowa Holldnder<sup class="lit-fn"><a href="#n-pl-47">8-2</a></sup> (podobnie polskie „holender” przeszło w „olęder””), a odmiana ta powstała przez pomieszanie nazwy osadników z nazwą karczunków leśnych<sup class="lit-fn"><a href="#n-pl-48">8-3</a></sup>.
@@ -1280,12 +1266,10 @@ This view, however, has been recognised — and quite rightly so — as unjustif
 <span class="lit-note" id="n-en-49">8-4</span> Zmiany krajobrazu, p. 86.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-9">p. 9</a></h2>
+<section class="lit-passage" id="p-9" data-page="9">
+<div class="pg" id="p9"><a href="#p9">p. 9</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 nie. mają nic wspólnego. Jako punkt wyjścia dla dalszych rozważań przyjmiemy podane w rozdziale poprzednim zestawienie różnic zachodzących między osadnikami holenderskimi, a ludnością miejscową na terenie Prus.
@@ -1314,12 +1298,10 @@ I. The criterion of nationality, essential in relation to the settler-Dutchmen o
 <span class="lit-note" id="n-en-51">9-2</span> Maas, Haulindereien, p. 201. Warschauer, Geschichte der Prov. Posen, p. 104.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-10">p. 10</a></h2>
+<section class="lit-passage" id="p-10" data-page="10">
+<div class="pg" id="p10"><a href="#p10">p. 10</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 na poczet przyszłych usług otrzymują przy rozmiarze wsi pewien obszar gruntu wolny od czynszu. Wyróżniają się też osady olęderskie charakterem samorządu gminnego. Administrację i sądownictwo w gminie<sup class="lit-fn"><a href="#n-pl-52">10-1</a></sup> sprawują wybierani corocznie sołtys i ławnicy. Nie ma więc dziedzicz-<sup class="lit-fn"><a href="#n-pl-53">10-2</a></sup> nego sołtysa z nominacji pańskiej, uposażonego na stałe w pewne przywileje, jak to miało miejsce przy kolonizacji na prawie niemieckim. Wśród członków gminy istnieje daleko sięgające współżycie i współpraca. Równorzędność i solidarność zarówno w stosunku do pana, jak i we wzajemnych stosunkach gminnych stanowi więc istotę osadnictwa olęderskiego na terenie dawnego województwa pozneńskiego 1. Oczynszowanie, jako prawno-gospodarcza podstawa stosunku olędrów do dworu, w wielu wypadkach stanowi cenną wskazówkę przy ustalaniu charakteru osad, jednak znaczenia decydującego kryterium nie posiada. Zwłaszcza bowiem w w. XVIII wsię czynszowe nie-olęderskie są na obszarze dawnego województwa pozndńskiego zjawiskiem dosyć częstym. To samo odnosi się do dzierżawy czasowej; ta, początkowo charakterystyczna dla olędrów forma dzierżenia ziemi, w późniejszych osadach olęderskich jest zupełnie niespotykana; zamiast niej mamy właściwą również innym typom osad młodszych dzierżawę wieczystą.
@@ -1344,12 +1326,10 @@ There remains to be considered the question whether the essence of Olęder settl
 <span class="lit-note" id="n-en-53">10-2</span> The view that the term “olędry” is, in relation to Wielkopolska, a concept of a legal character is shared by a number of authors, though not always in a sufficiently clear and exhaustive form. We quote here the most apt sentence of Baranowski (Wsie holenderskie, *. 0): “The name ‘Holendry’ thus acquires in Poland a different meaning; it ceases to characterise the nationality of the colonists 1 the economic tasks of the colony, adapting itself to a certain social organisation of the colonists, having forms modelled on those which the proper Dutch colonies once assumed. In the XVIII century the name ‘Holendry’ is in Poland rather a legal than an ethnic term.” Already during the war (1943) there appeared the work of Reinhard, based on materials relating to the eastern part of the present-day voivodeship of Poznań. Its results (p. Gl–04) are in complete agreement with the characterisation of the Olęder settlements given here.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-11">p. 11</a></h2>
+<section class="lit-passage" id="p-11" data-page="11">
+<div class="pg" id="p11"><a href="#p11">p. 11</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 1 opartego na równości wszystkich członków gminy stosunku do pana, bądź przez zanik równouprawnienia olędrów w gminie na korzyść sołtysa. Pierwszy przypadek miał miejsce zwłaszcza wtedy, gdy poszczególni olędrzy rozliczali się odrębnie z panem z tytułu uprzedniego przyorania nowych, przywilejem nie objętych gruntów, lub uzyskiwali indywidualnie zgodę na przyszłe użytkowanie części gruntów dworskich<sup class="lit-fn"><a href="#n-pl-54">11-1</a></sup>. Natomiast zwiększenie osady przez utworzenie i przyłączenie do niej nowych gospodarstw nie powodowało zróżnicowania w gminie. Zwykle bowiem w tych wypadkach przywilej zawierał formułkę zezwalającą na przyłączenie się do gminy nowych osadników, oczywiście za zgodą pańską<sup class="lit-fn"><a href="#n-pl-55">11-2</a></sup>, lub też pan wydawał nowy wspólny przywilej dla wszystkich członków gminy<sup class="lit-fn"><a href="#n-pl-56">11-3</a></sup>. Zagadnienie osadnictwa olęderskiego formalnie przestaje istnieć z chwilą wprowadzenia przez Prusy jednolitego samorządu gminnego i regulacji stosunków wiejskich przeprowadzonej na mocy ustawy z 1823. Lata więc regulacji stanowią dolną granicę r. chronologiczną niniejszej pracy.
@@ -1368,12 +1348,10 @@ There remains to be considered the question whether the essence of Olęder settl
 <span class="lit-note" id="n-en-56">11-3</span> cf. the charters for the Nowe (Wielkokrobielewskie) and Gębickie Ol. in Appendix I.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-12">p. 12</a></h2>
+<section class="lit-passage" id="p-12" data-page="12">
+<div class="pg" id="p12"><a href="#p12">p. 12</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ROZDZIAŁ I Powstawanie osad, ich rozmieszczenie geograficzne, oraz liczebność w okresie Sejmu cztero-<sup class="lit-fn"><a href="#n-pl-57">12-1</a></sup> letniego
@@ -1398,12 +1376,10 @@ The oldest surviving location charter from the territory of the former voivodesh
 <span class="lit-note" id="n-en-60">12-4</span> cf. Appendix I b. According to Werner-Steffani (Geschichte der evangelischen Parochicen, p. 372), the Ol. Świniary were founded in 1619, and thus before this date. The author did not, however, state from what source he took this information.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-13">p. 13</a></h2>
+<section class="lit-passage" id="p-13" data-page="13">
+<div class="pg" id="p13"><a href="#p13">p. 13</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Po założeniu wspomnianych osad następuje okres chwilowej przerwy. Działalność kolonizacyjna, tym razem na szeroką już skalę odżywa na schyłku w. XVII i trwa z niesłabnącą siłą aż do rozbiorów.<sup class="lit-fn"><a href="#n-pl-61">13-1</a></sup> Wytwarzają się wielkie skupienia osad: nad Notecią na linii Czarnków-Wieleń, nad Wartą w okolicy Międzychodu, i na wschód od linii Obry. Na granicy dawnych województw: poznańskiego, kaliskiego 1 gnieźnieńskiego mamy dwa dalsze wielkie skupienia osad: pierwsze nad Wartą na odcinku Śrem-Pyzdry i drugie, ciągnące się szerokim pasem na linii Czerniejewo-Murowana Goślina-Rogoźno-Chodzież. Wszystkie osiedla leżą w dawnych powiatach: kościańskim i poznańskim; w powiecie wałeckim i w Ziemi Wschowskiej osad olęderskich brak zupełnie. Rozmieszczenie osad przedstawia dołączona na końcu mapa. W szeregu wypadków duże trudności nastręczało wykreślenie na niej granic poszczególnych powiatów. Przeprowadzone na mapie granice mają charakter prowizoryczny; nad dokładną ich rekonstrukcją pracuje Poznańska Komisja Atlasowa. \|
@@ -1422,12 +1398,10 @@ In the brochure Uber Ursprung und Verbreitung des Deuischtums im Grossherzogihum
 <span class="lit-note" id="n-en-61">13-1</span> See further, p. 31.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-14">p. 14</a></h2>
+<section class="lit-passage" id="p-14" data-page="14">
+<div class="pg" id="p14"><a href="#p14">p. 14</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 i zaliczył je wszystkie do osad olęderskich. Takim sposobem doszedł do cyfry 832 miejscowości, czyli, jak pisze, udało mu się podawaną dotąd liczbę osad podwoić<sup class="lit-fn"><a href="#n-pl-62">14-1</a></sup>. Wprawdzie autor zastrzega się, Że niektóre z wymienionych przez niego miejscowości mogą należeć do osiedli innych typów, a niektóre inne mógł liczyć podwójnie, „ale to wszystko nie wynosi znowu zbyt wiele”. W rzeczywistości liczba. osad na terenie Wielkopolski wynosi około 550, a zatem na pomyłki autora wypada !/, wyprowadzonej przez niego liczby. Pomyłki te są nawet znaczniejsze, gdyż autor, nie przeprowadziwszy badań źródłowych, mimo najlepszych chęci, szereg osad olęderskich przeoczył. Błędy autora polegają najczęściej na podwójnym liczeniu niektórych wsi<sup class="lit-fn"><a href="#n-pl-63">14-2</a></sup>, na doliczaniu osad, które nigdy nie
@@ -1444,12 +1418,10 @@ and classed them all as Olęder settlements. In this way he arrived at the figur
 <span class="lit-note" id="n-en-63">14-2</span> Thus, for example: Dąbrowo Ol. (on the border of Pyzdry county; with the author as Dąbrowo and as Grodzewo), Grabowiec Ol. (as Birkwerder and as Bzower Hld; the author, moreover, admits the mistake himself, though outside the text), Lubaskie Ol. (as Lubascher Hld. and as Miłkówko Hild.), Łoskońskie Stare Ol. (as Alt Laskun and as Gozdowiec), Obra (either Nowe or Stare Oborskie Ol.), Olszewniak (as Olszewniak and as Chmielowo), Pietronki (as Miren Hld. and as Pietronke), Wymyślanka (as Wymyslanke 1 as Maschlanke). Some settlements the author counted even three times, e.g. Mechnacz (with the author separately Rozbitek, Mechnacz, Urbanówko; the Ol. Mechnacz were sometimes called Urbanówek because they were located (in 1784) also on part of the abandoned holdings of Urbanówek), or the Szarki Ol. The author cites Głuchowo wrongly, following Schmidt. The document A. 1, kept in the village records, was assigned by mistake to the folder of Głuchowo in Szamotuły county, whereas it relates to Głuchowo in the parish of Goraj. Nor is it at all a location document, but a copy of a judgment of the patrimonial court of 1741. At that time the parish contained the Ol. Róża (founded 1024), and in all probability the document mentioned concerns precisely that settlement. The Fitzen Hid. and Frey Hld. given by the author are parts of the Pącheńskie Ol.; they did not form independent communes; neither name figures in the sources of the Polish period. The Ol. Glinki included two houses marked on MGd as Sątop Ol. (with the author Hollendry); there are no data showing that these farms already existed in the Polish period. The name Jabłonka Nowa (Neu Jablonke) appears for the first time only in the list of 1845 (1843). This is probably a part of the Nowosileńskie Ol., or else a completely new settlement. The old village of Wierzchabno has nothing in common with the Ol. Strychowskie. It cannot have been part of them, if only on account of its position in relation to the Olęders. The name Goraj Ol. refers to one of the settlements belonging to the Goraj estate, or else all the settlements of the Goraj estate are understood by it.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-15">p. 15</a></h2>
+<section class="lit-passage" id="p-15" data-page="15">
+<div class="pg" id="p15"><a href="#p15">p. 15</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 istniały 1, wreszcie na zaliczaniu do olęderskich osed innego typu?. \|
@@ -1468,12 +1440,10 @@ For an enumeration of the Olęder settlements to have any value at all, it is ne
 (e.g. Mniszek), forest lodges (e.g. Tarnówko), and finally the colonies of the Prussian period (e.g. Birkenhorst (a settlement that developed from the older suburb of Trzciel), Julianka, Władysławowo (a settlement that came into being in the first half of the XIX century from the forest lodge of that same name), Lubs Gross and Klein, Schwaben Hld., Siewert Hld. (on MG 1 settler), Trzydomy near Chodzież (this hamlet is absent from the classification records of 1773), probably also Wełna Ol. (for the first time on MG and MGd I — a settler), and the settlement of Schwarzlug (sometimes described as a forest lodge (Fórsterei)); this settlement could not be located; near the Trzciel Hamr there lay separate Ol. Czarne (Scharne). Such questions of the author as: “are they Olęders?” (e.g. Stróżewo), or: “since when Olęders?” (e.g. Piotrowo), “where?” (e.g. Fiechoren, or else: Bożny, Bronisz, Kościelec, Buckow Hld.) must be regarded as pointless, since the settlements called in doubt were never Olęder, or (in the third case) did not exist. Besides this, the author gathered a mass of erroneous data concerning the settlements from other sources, e.g. from the Słownik Geograficzny K. P. (Sowinki, Stodólsko, Włościejewki, Różyńskie Ol. etc.), from the studies of Goldmann (Glinno or Glinki, and probably Boruja as well), Hampel (Bukowiec), and even of W. Schulz (Jędrzejewskie Ol.). Equally wrongly does the author infer the founding of the Nowe Jastrzębskie and Chojnickie Ol. from an article on the Zbąszyń Olęders in the newspaper Posener Tageblatt of 18 March 1934. We quote only examples relating to the former voivodeship of Poznań, for it is not possible within the frame of the present study to enumerate all the errors committed by the author. The author made no effort to present the true state of affairs; he did not even examine the fundamental source for knowing the numbers of the settlements, namely the original (large) map of Gilly, kept in the state collections in Berlin.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-16">p. 16</a></h2>
+<section class="lit-passage" id="p-16" data-page="16">
+<div class="pg" id="p16"><a href="#p16">p. 16</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 w r. 1789. Rok ten za podstawę obliczeń przyjęty został z tej przyczyny, że właśnie z tego czasu datuje się szereg ważnych, wspomnianych już we wstępie źródeł, pozwalających na przeprowadzenie dość dokładnych obliczeń ludności osad. Według powyższego wykazu liczba osad olęderskich wynosi: w powiecie kościańskim 111, w powiecie poznańskim 156 osad, których charakter olęderski występuje źródłach wyraźnie, 11 osiedli typu przejściowego oraz 4 osady, których przynależności do osad olęderskich z powodu niedostatecznych, niepewnych lub sprzecznych przekazów źródłowych z większym prawdopodobieństwem nie dało się ustalić. W sumie otrzymujemy 282 miejscowości. Znane daty lokacji osad zostały podane w odpowiedniej rubryce wykazu. Pytajniki w nawiasach przy niektórych datach oznaczają, że w tych wypadkach za datę lokacji przyjęto datę przywileju. Przy kwalifikacji osad przyjęta została interpretacja raczej rozszerzająca. Tak więc do olęderskich zaliczono te wszystkie osady, o których ustroju (mającym jak wiadomo decydujące znaczenie) brak było danych, o ile tylko źródła zgodnie określały je jako olędry. Sposób rozstrzygania o charakterze osiedli zilustrujemy na dwóch przykładach:<sup class="lit-fn"><a href="#n-pl-64">16-1</a></sup><sup class="lit-fn"><a href="#n-pl-65">16-2</a></sup>
@@ -1526,12 +1496,10 @@ hearth; Verz/1845, no. 1492 — Wymysłowo, a forestry belonging to Czarkowo, d.
 <span class="lit-note" id="n-en-65">16-2</span> Burzykowo in the parish of Oborniki. Sources: MP — absent. MG and MGd — Burzykower Holl (one house); Tp. 89, 90 — the Burzykowo cottage, 1789 — absent, 1790 — I hearth. Of all the other sources of the Polish period
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-17">p. 17</a></h2>
+<section class="lit-passage" id="p-17" data-page="17">
+<div class="pg" id="p17"><a href="#p17">p. 17</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 | brak. TV — Chata Burzykowa, folw., karczma, d. 3. (własn. szlach.). Widać stąd, że oznaczenie na MG i MGd jest błędne. Chodzi zapewne o nowo założony folwark, względnie pojedyńcze gospodarstwo. Brak źródeł z czasów polskich i nazwa „chata” nasuwa nawet wątpliwości, czy w tych czasach nie był to jakiś opuszczony budynek, zamieszkiwany tylko przygodnie<sup class="lit-fn"><a href="#n-pl-66">17-1</a></sup>.
@@ -1568,12 +1536,10 @@ In Poznań county: I. Budy, a folwark (2 1/5 hubas); 2. The already-mentioned Bu
 <span class="lit-note" id="n-en-71">17-6</span> This settlement appears for the first time on MP as a folwark. All the other sources of the Polish period are lacking. In Verz/1800: Hol. d. 2.; in Verz/1821, no. 239: Krebs CGolonie.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-18">p. 18</a></h2>
+<section class="lit-passage" id="p-18" data-page="18">
+<div class="pg" id="p18"><a href="#p18">p. 18</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 jewskie Ol.1 w par. Goraj; 8. Podolany, al. Golęcińskie Ol. w par.<sup class="lit-fn"><a href="#n-pl-72">18-1</a></sup> Poznań (Św. Wojciech) 1 gosp.; 9. Stojenka w par. Parkowo 1 — — gosp.<sup class="lit-fn"><a href="#n-pl-73">18-2</a></sup>; 10. Szóstaki par. Sieraków<sup class="lit-fn"><a href="#n-pl-74">18-3</a></sup>; 11. Trzy Góry w par. Ryczywół. Tu mieszkający olęder należał do gminy Gościejewskie Olędry i tam też został zaliczony. 12. 'Turowskie Ol. w par. Brody; 13. Zwierzyniec<sup class="lit-fn"><a href="#n-pl-75">18-4</a></sup> w per. Międzychód, 1 gosp.
@@ -1602,12 +1568,10 @@ As a special case there must still be discussed the settlement of Jędrzejewo. I
 <span class="lit-note" id="n-en-75">18-4</span> An unverified copy of a charter, originating probably already in the XIX century (AW. Jędrzejewo, B. 1).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-19">p. 19</a></h2>
+<section class="lit-passage" id="p-19" data-page="19">
+<div class="pg" id="p19"><a href="#p19">p. 19</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dalej<sup class="lit-fn"><a href="#n-pl-76">19-1</a></sup> uprzywilejowanych kmieci, 10 uprzywilejowanych półkmieci i I zagrodnika. Tego rodzaju składu społecznego w osadach olęderskich się nie spotyka. Albo więc nazwa „holendrzy” w przywileju lokacyjnym użyta została w innym znaczeniu, co jest najwięcej prawdopodobne, zwłaszcza, że przywilej mówi o „„holendrach niemieckiego pochodzenia”, albo też osada z początkowej olęderskiej przekształciła się powoli w osiedle o charakterze odmiennym. W każdym razie w okresie rozbiorów Jędrzejewa do osad olęderskich zaliczyć nie można.
@@ -1632,12 +1596,10 @@ Finally the question arises whether there existed Olęder settlements that did n
 <span class="lit-note" id="n-en-79">19-4</span> Before 1791 Miłostowo consisted of a contract village and a folwark. In that year Krzysztof Unrug sold to the Miłostowo commune both the lands it had hitherto occupied and the folwark fields, on the terms of perpetual lease, reckoning 100 Dutch ducats per huba, and granted to it, by a charter of 10 June 1791 (Rel. Posn. no. 641, 1792, fol. 450), the rights and the organisation of the Olęder settlements. We have here thus one of the cases in which a hitherto corvée village was converted into an Olęder one without any change in its personal composition.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-20">p. 20</a></h2>
+<section class="lit-passage" id="p-20" data-page="20">
+<div class="pg" id="p20"><a href="#p20">p. 20</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Nazwy osad. Wszystkie nazwy osad olęderskich dadzą się według swego bezpośredniego źródła podzielić na dwie grupy: pierwszą grupę tworzą nazwy odziedziczone po istniejących poprzednio osiedlach<sup class="lit-fn"><a href="#n-pl-80">20-1</a></sup>. Miało to miejsce wtedy, gdy osadę olęderską lokowano na miejscu wsi opustoszałej?. W wypadkach, gdy dawniej istniejącej wsi nadano<sup class="lit-fn"><a href="#n-pl-81">20-2</a></sup> prawa olęderskie, zachowywano dotychczasową nazwę osiedla<sup class="lit-fn"><a href="#n-pl-82">20-3</a></sup>.<sup class="lit-fn"><a href="#n-pl-83">20-4</a></sup>
@@ -1674,12 +1636,10 @@ of Fr. Kozierowski,
 <span class="lit-note" id="n-en-85">20-6</span> A considerable majority of the Olęder settlements bore such names. The following qualification must, however, be made here: the term “Olędry” is used in the sources beside the proper name of a settlement in a twofold sense — to denote the character of the locality (like the terms: folwark, colony, etc.) and as a component part of the settlement's name. On account of the old orthography, however (the word “Olędry” always written with a capital letter), no distinction can be made here. In giving the term “Olędry” with the names of settlements we were guided by considerations of a purely external kind; we gave it in those cases in which it figured beside the name of the village in the majority of the sources. 7 Even in those few cases in which the owner assigned a name to the settlement in the location charter, a different name often later prevailed. The cases known to us of the bestowal of a name by the owner relate to the following settlements: Cegielskie Ol. (in the charter the name Trzcielskie Ol. was given), Gębickie Ol. (in the charter Mielęcin), Marienwald (Marigenwalde), Nowe Ol. (part of Krobielewo, part Baba), Róża Ol. (Rosenthal), Ujskie Ol. (Olędrowo). Further, names such as Marianowo (in the parish of Zbąszyń and in the parish of Wieleń), Filipowo, Folsztyn, Herbardowo, Józefowo, Krystynka, Wyssogotowo, Zakrzewo undoubtedly took their origin from the owner.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-21">p. 21</a></h2>
+<section class="lit-passage" id="p-21" data-page="21">
+<div class="pg" id="p21"><a href="#p21">p. 21</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 się samorzutnie. Że osadnicy mieli wpływ na wytworzenie się nazwy osiedla, domyślać się można tylko w sporadycznych wypadkach. Wchodzą tu w rachubę nazwy: Niemiecko-Czeskie i Polsko-Czeskie, a prawdopodobnie również Albertowskie i Amtskasnerowskie Ol. Być może, że ostatnie dwie nazwy utarły się od nazwisk osadźców, czy sołtysów wsi, przypuszczenie to Jednak z całą pewnością stwierdzić się nie da. Częstokroć te same miejscowości występują pod dwiema i więcej nazwami; w ta-<sup class="lit-fn"><a href="#n-pl-86">21-1</a></sup> kich wypadkach przyjęliśmy tę nazwę, która w źródłach powtarza się najczęściej l. Jeżeli osady nosiły równocześnie dwie nazwy, w zestawieniu podane zostały obie (np. Błonie Ol., al. Źdżar itd.).
@@ -1694,12 +1654,10 @@ of themselves. That the settlers had an influence on the formation of the name o
 <span class="lit-note" id="n-en-86">21-1</span> prepared for the Historical [Atlas] with the collaboration of Dr A. Tomaszewski, docent of Slavonic philology of the University of Poznań.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-22">p. 22</a></h2>
+<section class="lit-passage" id="p-22" data-page="22">
+<div class="pg" id="p22"><a href="#p22">p. 22</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ROZDZIAŁ II Stosunki demograficzne w osadach olęderskich
@@ -1724,12 +1682,10 @@ The considerable number of Olęder settlements suggests the supposition that the
 <span class="lit-note" id="n-en-88">22-2</span> cf. Rybarski, Skarbowość Polski, p. 241.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-23">p. 23</a></h2>
+<section class="lit-passage" id="p-23" data-page="23">
+<div class="pg" id="p23"><a href="#p23">p. 23</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dymy podawane są najczęściej zbiorowo (dla sąsiadujących miejscowości, dla całych majętności), gdy tymczasem taryfa z r. 1790 podaje je zazwyczaj dla każdej osady z osobna. Jeśli chodzi o ilość dymów w poszczególnych osadach, to Tod. 89 i Tp. 89 są ze sobą całkowicie zgodne. Zaznaczyć jeszcze należy, że tabele dymów obejmują wszystkie warstwy ludności. W odpowiednich rubrykach wykazu osad (aneks I) wyszczególniono kolejno: I. liczbę dymów poszczególnych osad olęderskich według Tp. 89 (gwiazdką oznaczone zostały te dymy, które w Tp. 89 podane są zbiorowo; szacowano je wtedy zazwyczaj według Tp. 90, a w wypadku osad mieszanych, na podstawie liczby siedzących w osadzie gospodarzy olędrów), 2. liczbę dymów dla osad nie uwzględnionych w Tp. 89<sup class="lit-fn"><a href="#n-pl-89">23-1</a></sup>, 3. ludność osad według Tol. Opuszczone zostały podane Tol. cyfry dla Jaromierskich Nowych i Starych Ol. oraz dla Ujścia Starego, jako oczywiście niekompletne. Po zsumowaniu otrzymujemy dla osad uwzględnionych w Tol.: 2144 dymy i 12967 dusz. Na jeden dym przypada więc 6,05 osób. Według tej przeciętnej obliczamy ludność osad, dla których Tol. brak: 334 dymy*? X 6,05 = 2020 dusz.<sup class="lit-fn"><a href="#n-pl-90">23-2</a></sup> Ogółem więc ludność olęderska powiatu kościańskiego w r. 1789 wynosiła 14.987, w zeokrągleniu 15.000 osób. Trudniej jest odpowiedzieć na pytanie, jaki odsetek ludności powiatu kościańskiego stanowiła ludność olęderska. Trzeba by w tym celu dokonać obliczenia całej ludności powiatu. Obliczenia takie wychodzą jednak poza zakres niniejszej pracy. Żeby na postawione wyżej pytanie odpowiedzieć przynajmniej częściowo, spróbujemy — pomijając kwestię ludności miejskiej — obliczyć stosunek olędrów do pozostałej ludności wiejskiej. Według Tol. ludność osad wiejskich powiatu kościańskiego wynosiła 97.557 osób<sup class="lit-fn"><a href="#n-pl-91">23-3</a></sup>. Tod. 89 dla tychże osad podaje 15.831 dymów f£. W ogólnej sumie ludności według Tol. brakuje szlachty i du-<sup class="lit-fn"><a href="#n-pl-92">23-4</a></sup> chowieństwa. Nie posiadając żadnych dokładniejszych danych do obliczenia obu tych warstw ludności, za punkt wyjścia przyjmiemy obliczenia Holsche'go 5<sup class="lit-fn"><a href="#n-pl-93">23-5</a></sup> dla departamentu poznańskiego z r. 1800. Według
@@ -1752,12 +1708,10 @@ hearth are given in it most often collectively (for neighbouring localities, for
 <span class="lit-note" id="n-en-93">23-5</span> Geographie und Statistik, vol. II, p. 448 ff. Korzon (Ostatnie lata panowania Stan. Augusta, vol. I, p. 72) places great confidence in Holsche's statistics.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-24">p. 24</a></h2>
+<section class="lit-passage" id="p-24" data-page="24">
+<div class="pg" id="p24"><a href="#p24">p. 24</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 tych obliczeń szlachta i duchowieństwo w departamencie poznańskim stanowiły około 2% ludności. Cyfra ta jest bardzo mała, co w części przynajmniej należy tłumaczyć tym, że ludność włościańska w latach 1789—1800 wzrastała w silniejszym stopniu, niż ludrość pozostała. Zapewne więc najwłaściwszą rzeczą będzie przyjąć, że szlachta i duchowieństwo w r. 1789 wynosiły 3% ogółu ludności wiejskiej, czyli w zaokrągleniu 3.000 osób. Doliczywszy tę sumę do cyfry 97.5557 dusz pozostałej ludności wiejskiej, otrzymamy 100.557 dusz. Gdy następnie od tej sumy odejmiemy obliczoną poprzednio ludność i dymy osed olęderskich, na ludność wicjską nieolęderską przypadnie 85.570 osób i 13.353 dymy. Stąd Jako przeciętną na jeden dym wiejski (bez uwzględnienia dymów olęderskich) otrzymamy cyfrę 6.41 dusz. Jak jednak wiadomo, Tod. 89, na podstawie której dokonaliśmy powyższych obliczeń, jest pod względem terytorialnym niekompletna. Rzeczywista liczba dymów wiejskich dla powiatu kościańskiego; po odliczeniu dymów olęderskich, wynosi 13.915 [sic] [sic] dymów<sup class="lit-fn"><a href="#n-pl-94">24-1</a></sup>. W Tod. 89 brak zatem 552 dymów. Po wymnożeniu ich przez współczynnik 6,41, otrzym: my 3.538 dusz. Cała więc ludność wiejska powiatu kościańskiego wyniesie 104.095 osób. Jest to jednak cyfra minimalna, gdyż opuszczenia w Tol., które można było stwierdzić odrośnie do osed olęderskich zdarzały się niewątpliwie 1 w odniesieniu do pozostałych osad. Liczbę tę więc należy nieco powiększyć. W ten sposób ogół ludności wiejskiej powiatu kościańskiego wyrazi się okrągłą cyfrą 105.000 osób.
@@ -1798,12 +1752,10 @@ less 2,478 Olęder hearths.
 We obtain as a result 13,915 hearths.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-25">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-25">p. 25</a></h2>
+<section class="lit-passage" id="p-25" data-page="25">
+<div class="pg" id="p25"><a href="#p25">p. 25</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 stałej przy Polsce obliczyć w przybliżeniu drogą szacunku. Podobnie jak w odniesieniu do powiatu kościańskiego, w odpowiednich rubrykach zestawienia osad (aneks I b) zostały zamieszczone: 1. dymy poszczególnych osad powiatu na podstawie Tp. 89 względnie 90 (oznaczone gwiazdką), 2. dymy osad, dla których Tp. 89 względne 90 brak, 3. dymy osad zajętych w pierwszym rozbiorze przez Prusy według Goldbecka lub klasyfikacji pruskich. Liczba dymów wykazana w pierwszych dwu rubrykach wynosi 2.254. Po wymnożeniu tej liczby przez liczbę osób przypadającą w powiecie kościańskim na 1 dym olęderski (tj. 6.05), suma ludności olęderskiej na obszarze powiatu poznańskiego pozostałym przy Polsce wyrazi się cyfrą 13.637 dusz.
@@ -1844,12 +1796,10 @@ There are added 42 hearths of the parish of Iwno omitted in Tp. 89,
 together 14,431 hearths. As we see from the column of hearths not covered by Tp. 89, placed in Appendix I, this last source is incomplete for Poznań county. It must be supposed that the omissions in Tp. 89, with which we came up in calculating the Olęder hearths, occurred also in regard to the remaining rural hearths. Since, however, within the frame of the present study it is not possible to check the hearths of each individual locality of the county, we must rest content with increasing the non-Olęder rural hearths in the same proportion as for the Olęders, i.e. in the proportion 38 : 2216. To the previously given figure of 14431 hearths there will thus be added a further 247 hearths, which makes altogether 14678 hearths. After deducting the 2216 hearths falling to the Olęder settlements, we obtain finally 12,462 hearths.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-26">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-26">p. 26</a></h2>
+<section class="lit-passage" id="p-26" data-page="26">
+<div class="pg" id="p26"><a href="#p26">p. 26</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 TABELA I
@@ -1903,12 +1853,10 @@ The sources have not preserved data for calculating the natural increase of the 
 <span class="lit-note" id="n-en-98">26-3</span> This coefficient, calculated on the basis of the data of 1789, may possibly not correspond exactly to the state of 1773. Any difference due to fluctuations of the natural increase we have, however, no way of establishing or calculating.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-27">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-27">p. 27</a></h2>
+<section class="lit-passage" id="p-27" data-page="27">
+<div class="pg" id="p27"><a href="#p27">p. 27</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 są znacznie liczniejsze od rodzin olędrów; można więc wnioskować z dużym prawdopodobieństwem, że przyrost naturalny ludności olęderskiej był mniejszy, niż przyrost pozostałej ludności.
@@ -1951,12 +1899,10 @@ We possess no source statistics from which the religious composition of the popu
 <span class="lit-note" id="n-en-109">27-11</span> According to O 83 XIX the greater part of the inhabitants was Evangelical. There must therefore have been Catholics as well.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-28">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-28">p. 28</a></h2>
+<section class="lit-passage" id="p-28" data-page="28">
+<div class="pg" id="p28"><a href="#p28">p. 28</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wzmianki spotykamy i w odniesieniu do niektórych osad powiatu poznańskiego<sup class="lit-fn"><a href="#n-pl-110">28-1</a></sup>. Osad tego rodzaju było niewątpliwie więcej, niż to wynika z przypadkowych, skąpych przekazów źródłówych, musiały być również liczne formy pośrednie, tj. osady o ludności pod względem wyznaniowym mieszanej. Wyznanie ewangelickie dominowało przede wszystkim w północnej części powiatu pozn: ńskiego. Pruskie akta klasyfikacyjne podają spośród osad olęderskich, jako czysto ewangelickie (luterskie). Natomiast im dalej sięgało oszdnictwo na południe i na wschód, tym silniejszy był w nim udział ludrości katolickiej. Ważne wnioski dotyczące stosunków wyznaniowych osed olęderskich nasuwa uwarstwienie społeczne ludności osad. Jak wynika z tabeli IV, około 36%, ludności. tworzyli bezrolni, którzy na os'edlenic się w osadzie nie potrzebowali indywidualnie wyrażonej zgody pana, ani środków materialnych na okupienie się i zagospodarowanie. Z drugiej strony na<sup class="lit-fn"><a href="#n-pl-111">28-2</a></sup> podstawie rejestrów osadników zamieszczanych niekiedy w przywilejach, oraz z lustracji jednych i tych samych osad przeprowadzanych w różnym czasie, stwierdzić można, że osadnicy nie sprowadzali z sobą potrzebnego kontyngentu najemnych sił roboczych, ale wynajmowali je sobie w miarę rozrostu gospodarstwa i zwiększenia się zapotrzebowania na pracę. Najprawdopodobniejszą jest rzeczą, że takich sił roboczych szukali olędrzy w najbliższym sąsiedztwie. Nie spotyksło się to z przeszkodami natury prawnej wskutek tego, że we wsiach Wielkopolski istniała liczba wyrobników niepoddanych (luźnych, kontrakznaczna towych), których Tol. ujmuje nawet w<sup class="lit-fn"><a href="#n-pl-112">28-3</a></sup> grupy: „luźnych za robotą bawiących” i „żebraków”. Niewątpliwie szeregi ich zasilali wydatnie zbiegli poddani. Stąd tcż przyjąć należy, że zwłaszcza w oszdach lokowanych w otoczeniu wsi polskich ludrość uboższa, bezrolna, była polska i katolicka. Wniosek ten potwierdzają źródła współczesne? 1 późniejsze pruskie wykazy ludrości. Fakt, że np. w spisie z r. 18438 we wszystkich niemal osadach olęderskich wykazywany jest znaczny odsetek ludności katolickiej, nie da się wcale wytłumaczyć twierdzeniami o rzekomej polonizacji ludrości niemieckiej, a już w żadnym wypadku nie może tu być mowy o zmianie wyznania. Tak samo trudno tutaj
@@ -1975,12 +1921,10 @@ Similar mentions we meet also in relation to some settlements of the Poznań cou
 <span class="lit-note" id="n-en-112">28-3</span> Verzeichniss sammtlicher Ortschaften des Regierungs-Bezirks Posen, Poznań 1845,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-29">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-29">p. 29</a></h2>
+<section class="lit-passage" id="p-29" data-page="29">
+<div class="pg" id="p29"><a href="#p29">p. 29</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 mówić o przemieszaniu ludności, gdyż zupełnie wyjątkowe musiały być wypadki, że najemnik ewangelik pracował u pracodawcy katolika, zważywszy, że takim był z reguły Polak<sup class="lit-fn"><a href="#n-pl-113">29-1</a></sup>. Biorąc za punkt wyjścia liczbę ludności wymienionych poprzednio osad katolickich oraz obie grupy „luźnych”, wykazanych dla osad olęderskich w Tol., uwzględniając ponadto inne zastrzeżenia podane wyżej, dochodzimy do stwierdzenia, że ludność olęderska katolicka na omawianym przez nas terenie w okresie rozbiorów wynosiła około 40% ogółu mieszkańców osad.
@@ -2015,12 +1959,10 @@ I. All the settlements mentioned are located on the waterlogged Noteć lowland. 
 <span class="lit-note" id="n-en-115">29-3</span> This position was taken by Schmidt and Grossert (Evangelium und Dcutschtum, p. 18), and lately also by Schmitz and Reinhard. A position entirely opposite was taken by P. v. Gebhardt (Parochia Kottnensis, p. XI). He maintains that the first Olęders were Germans coming from the March, but he does not justify his conclusions in any detail. Gebhardt's opinion is supported by Schulz W. (Die zwette deutsche Ostsiedlung).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-30">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-30">p. 30</a></h2>
+<section class="lit-passage" id="p-30" data-page="30">
+<div class="pg" id="p30"><a href="#p30">p. 30</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 2. Jak wynika z zachowanych przywilejów dla Ol. Ujskich<sup class="lit-fn"><a href="#n-pl-116">30-1</a></sup> i Ol. Nowe Dwory<sup class="lit-fn"><a href="#n-pl-117">30-2</a></sup>, Holendrzy analogicznie jak w Prusach, otrzymują grunty w dzierżawę wieczystą. / 3. Poprzednio już, na s. 12 wykazany został związek osoby właściciela zachodzący między osadami wieleńskimi, a osadami. holenderskimi w starostwie świeckim.
@@ -2055,12 +1997,10 @@ The kinship of language and the community of religion must have led to the compl
 <span class="lit-note" id="n-en-120">30-5</span> The inventory of 1653 distinguishes Polish, German (or mixed) villages, and "Olęder" ones.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-31">p. 31</a></h2>
+<section class="lit-passage" id="p-31" data-page="31">
+<div class="pg" id="p31"><a href="#p31">p. 31</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 szybko wśród napływowej ludności niemieckiej1. Czy i niektóre późniejsze osady zasiedlone zostały Holendrami, trudno stwierdzić. Przywilej dla Ol. Róża z r. 1624 wymienia następujących osadników: Jachim Fresa, Jan Pantka, Jachim Nazbant. Zapewne i oni byli Holendrami, za czym przemawia popularne wśród Holendrów, a nie spotykane prawie zupełnie w zużytkowanych tu źródłach przy nazwiskach niewątpliwie niemieckich imię Joachim. Przez Holendrów, przynajmniej częściowo zasiedlone zostały prawdopodobnie także późniejsze osady nizinne nad Wartą. Natomiast wydaje się rzeczą pewną, że osady
@@ -2085,12 +2025,10 @@ located in forests, on clearances, were colonised in the seventeenth century wit
 <span class="lit-note" id="n-en-124">31-4</span> Die Posener Haulindereien.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-32">p. 32</a></h2>
+<section class="lit-passage" id="p-32" data-page="32">
+<div class="pg" id="p32"><a href="#p32">p. 32</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Jak się rzecz przedstawiała. w rzeczywistości? Po większej części polska była ludność osad zakładanych w majątkach kościelnych, oraz wspomnianych w poprzednim ustępie osad szlacheckich, zasiedłonych przez katolików<sup class="lit-fn"><a href="#n-pl-125">32-1</a></sup>. W wielu innych osadach obok ewangelików Niemców siedzieli katolicy Polacy<sup class="lit-fn"><a href="#n-pl-126">32-2</a></sup>. Nie brak było również osad, w których część ludności rekrutowała się z Polaków, ewangelików<sup class="lit-fn"><a href="#n-pl-127">32-3</a></sup>. Element nie-
@@ -2118,12 +2056,10 @@ How did the matter present itself in reality? For the most part Polish was the p
 <span class="lit-note" id="n-en-127">32-3</span> Of the Chrząstowskie Olęders VO 78 (19 August 1777) relates that they are inhabited by Dissidents, who had come to an agreement with the previous parish priest on the payment of 36 zł, and since the statute of 1768 they have paid nothing. (Cf. Vol. Leg. vol. VII, 570 1 ff.) Meanwhile in 1787 there was filed to the Kościan grod books in the name of the community the manifest "Antoni Taterka, sołtys of the Chrząstowskie Olęders", undoubtedly a Pole (Rel. Cost. no. 220, 1787, fol. 524 and 530). There was in the village, then, at least a majority of inhabitants who were Poles, if they were able to choose a sołtys from among themselves. Evangelical Poles are found also in Daleszyno. According to VO 78 (27 August 1777) the Olęders who settled there were Lutherans, and yet the inspection of Daleszyno of 1778 (AGH court of Gostyń, the Daleszyno estate, vol. no. 55, fol. 8) gives, among others, the surnames: Fryderyk Wróbel, Samuel Wróbel, Fryderyk Adam Kaźmierczak. These settlers even bear forenames then popular among the Evangelical Olęders. It was similar in Zaborowo Ol. According to a note in Rel. Cost. no. 216, 1783, fol. 32: "On these Holendry there are six farmers, that is Kazimierz Drelich the sołtys, Jan Sztybania, Michał Cierpiński, Szymon Cierpiński, Woyciech Kwaśniewski Ręczkoś, Jakub Holendrzy". The census of population of 1843 (Verz./1845, no. 1417) showed in the village of Zaborowo Evangelicals alone. Several dozen Evangelical Poles are still in Zaborowo today (cf. the census of 1921, p. 80).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-33">p. 33</a></h2>
+<section class="lit-passage" id="p-33" data-page="33">
+<div class="pg" id="p33"><a href="#p33">p. 33</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 miecki reprezentowany był stosunkowo najsilniej w osadach olęderskich północnej części powiatu poznańskiego. Jednak i w pruskich aktach klasyfikacyjnych dla osad zabranych w pierwszym rozbiorze trafiają się nazwiska polskie, co prawda podawane zwykle w tak zniemczonej formie, że odcyfrowanie ich nastręcza bardzo wielkie trudności !.<sup class="lit-fn"><a href="#n-pl-128">33-1</a></sup> Wszystkie te fragmentaryczne dane źródłowe wymagają uzupełnienia dwóch kierunkach. Uwzględniają one w sposób niedostateczny, albo też nie uwzględniają wcale niższych warstw społecznych osad (czeladzi, komorników). Rozumowanie o pochodzeniu tych warstw z miejscowej ludności, przeprowadzone przy omawianiu stosunków wyznaniowych osad, stosuje się w pełni i do rozważań niniejszych. Odsetek Polaków wśród ludności olęderskiej bezrolnej był niewątpliwie większy, niż analogiczny odsetek Polaków-gospodarzy<sup class="lit-fn"><a href="#n-pl-129">33-2</a></sup>, Dalej, nie zawsze nazwisko olędra może być uważane za wykładnik jego narodowości. Trzeba bowiem pamiętać, że pewien procent ludności Wielkopolski mógł nosić nazwiska niemieckie w następstwie procesów asymilacyjnych, jakie dokonały się w średniowieczu, a także w wyniku wchodzenia później mieszane związki małżeńskie. Powtóre, niektórzy olędrzy, zwłaszcza jeśli chodzi o Niemców katolików, jeszcze w czasie istnienia dawnej
@@ -2140,12 +2076,10 @@ element was represented comparatively most strongly in the Olęder settlements o
 <span class="lit-note" id="n-en-129">33-2</span> For example in the Stare Dymaczewskie Olęders in 1782 among the surnames of the farmers we meet no surname of Polish sound, while there are named: Józef Kluczyński tailor, Stanisław Piczański potter, further, given without surnames: a herdsman, a fisherman and a forester, possibly also Poles. Cf. also the note on p. 32. To the journeymen or lodgers there belonged presumably also "Józef Świątek of Łokacz", named in the Wieleń tailors' guild book under the year 1737 (Schulz, Die zweite deutsche Ostsiedlung, II, p. 61). prace Komisji Atlasu hist. Polski, z. 5 5:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-34">p. 34</a></h2>
+<section class="lit-passage" id="p-34" data-page="34">
+<div class="pg" id="p34"><a href="#p34">p. 34</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Rzeczypospolitej spolonizowali się całkowicie, przyjmując polski język i kulturę. Zaliczanie ich okresie rozbiorów do ludności niemieckiej jest takim samym błędem, jak zaliczanie do Holendrów mieszkańców tych osad, które przez Holendrów pierwotnie zostały zasiedlone. Podkreślić jeszcze należy, że nie tylko ludność nieolęderska 1, ale i olędrzy<sup class="lit-fn"><a href="#n-pl-130">34-1</a></sup> Polacy posiadali liczniejsze rodziny, niż olędrzy Niemcy. Charakterystyczny przykład pod tym względem stanowią olędrzy majętności sierakowskiej. W czysto polskich Ol. Chorzępowa na rodzinę olęderską (uwzględniamy tylko posiadających ziemię) przypadło w r. 1759 6,5 osób, gdy w pozostałych osadach olęderskich w tym samym czasie przypadało na rodzinę 5,1 dusz<sup class="lit-fn"><a href="#n-pl-131">34-2</a></sup>. Nazwisko polskie w osadzie reprezentowało więc większą ilość osób, niż nazwisko niemieckie.
@@ -2178,12 +2112,10 @@ The origin of the settlers stands in connexion with their nationality. 3,<sup cl
 <span class="lit-note" id="n-en-133">34-4</span> On emigration from these countries to Prussia writes Zimmermann (Fryderyk Wielki).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-35">p. 35</a></h2>
+<section class="lit-passage" id="p-35" data-page="35">
+<div class="pg" id="p35"><a href="#p35">p. 35</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 3D siedlone zostały kolonistemi z okolic Bemberga<sup class="lit-fn"><a href="#n-pl-134">35-1</a></sup>. Olędrzy protestanci natomiast przybyli głównie z prowincyj pogranicznych pruskich, a więc ze Śląska<sup class="lit-fn"><a href="#n-pl-135">35-2</a></sup>, z Nowej Mzrchii<sup class="lit-fn"><a href="#n-pl-136">35-3</a></sup> i z Pomorza<sup class="lit-fn"><a href="#n-pl-137">35-4</a></sup>. W późniejszych osadach czść ich pochodziła z olędrów It b innych osad wcześniejszych<sup class="lit-fn"><a href="#n-pl-138">35-5</a></sup>, względnie rekrutoweła się z mieszki ńców okolicznych mizst<sup class="lit-fn"><a href="#n-pl-139">35-6</a></sup>.
@@ -2214,12 +2146,10 @@ The Olęder colonization was caused by the same factor that marked out the roads
 <span class="lit-note" id="n-en-140">35-7</span> See further, p. 110.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-36">p. 36</a></h2>
+<section class="lit-passage" id="p-36" data-page="36">
+<div class="pg" id="p36"><a href="#p36">p. 36</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 przesądza sprawę, w jakim stopniu napływ osadników olędrów był wynikiem akcji werbunkowej ze strony panów polskich<sup class="lit-fn"><a href="#n-pl-141">36-1</a></sup>. Wyjaśnienie dają również materiały źródłowe. Na przeszło 140 przywilejów lokacyjnych, przytoczonych w aneksie I., tylko w 28 wypadkach spotykamy wzmianki, że sprowadzeniu olędrów współdziałał osadźca i tu pan mógł ewentualnie pośrednio przyczynić się do sprowadzenia osadników, przyobiecując lokatorowi korzyści za skolonizowanie osady. W żadnym przywileju nie ma najmniejszego śladu wzmianki o przybyciu osadników na skutek poprzedniej umowy z panem lub jakiejkolwiek akcji propagandowej z jego strony, natomiast często powtarza się zwrot, który tu przytoczymy z przywileju dla Ol. Chromiec: „Ponieważ niektórzy Hollędrzy na gruncie y borach chromieckich rudować y grunty sobie powyrabiać podięli się, y o to upraszali, tedy ia przychylaiąc się do ich prośby...” itd.<sup class="lit-fn"><a href="#n-pl-142">36-2</a></sup>. Decydującym więc powodem wędrówek Niemców olędrów do Polski były ciężkie warunki bytu we własnym kraju<sup class="lit-fn"><a href="#n-pl-143">36-3</a></sup>. Nie ulega wątpliwości, że dla poddanego chłopa marchijskiego perspektywa egzystencji za granicą w Charakterze wolnego człowieka musiała przedstawiać silny bodziec do wychodztwa. Nie utrudniały imigracji różnice wyznaniowe, gdyż znaczna część szlachty prowadzącej akcję kolonizacyjną była protestancka<sup class="lit-fn"><a href="#n-pl-144">36-4</a></sup>. Wydaje się natomiast dosyć wątpliwe, czy do opuszczenia kraju skłoniły osadników m. i. motywy natury psychicznej, emocjonalnej, wyrażające się w mniejszym przywiązaniu do ziemi ojczystej, względnie w przyrodzonej skłonności do wędrówek<sup class="lit-fn"><a href="#n-pl-145">36-5</a></sup>.
@@ -2242,12 +2172,10 @@ in itself settles the question to what extent the inflow of the settler Olęders
 <span class="lit-note" id="n-en-145">36-5</span> Such, it seems, is the opinion of Lepucki H. in relation to the German colonists in Galicia (Działalność kolonizacyjna Marii Teresy i Józefa II w Galicji, 1772–1790, Lwów 1938, p. 152).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-37">p. 37</a></h2>
+<section class="lit-passage" id="p-37" data-page="37">
+<div class="pg" id="p37"><a href="#p37">p. 37</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ROZDZIAŁ III
@@ -2274,12 +2202,10 @@ There were no legal norms concerning the Olęders specifically, issued by the pu
 <span class="lit-note" id="n-en-146">37-1</span> Vol. Leg. II, 982, 996, 1026, 1302; III, 026.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-38">p. 38</a></h2>
+<section class="lit-passage" id="p-38" data-page="38">
+<div class="pg" id="p38"><a href="#p38">p. 38</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 rogozińskiego !. Skarżący otrzymali tu Jeszcze przed wydaniem właściwego wyroku glejt królewski, zobowiązujący ich aż do rozstrzygnięcia sprawy tylko do tych świadczeń, które uiszczali przed rozpoczęciem sporu, a nadto chroniący ich przed ewentualnymi aktami represji ze strony starosty. Jak przedstawiały się te stosunki w dobrach szlacheckich, trudno stwierdzić. Dawny polski proces sądowy nie uwzględniał w swych postanowieniach ludności włościańskiej niepoddanej. Zapewne istniała pod tym względem jakaś praktyka sądowa, jednak wypadki takie dotychczas nie są dostatecznie zbadane. Prawdopodobnie w praktyce przeważała dążność, aby włościan wolnych traktować na równi z poddanymi. Jeśli chodzi o olędrów, wydaje się rzeczą pewną, że przyznawano im prawo samodzielnego składania skarg i manifestów ? przed urzędami<sup class="lit-fn"><a href="#n-pl-147">38-1</a></sup> grodzkimi i ziemskimi, nawet przeciwko Iiwłasnemu panu. Prawo takie, jak wynika z praktyki stosowanej przy wpisach do ksiąg ziemskich i grodzkich nie przysługiwało włościanom poddanym; ci mogli składać zeznania przed urzędami grodzkimi czy ziemskimi tylko w esystencji swych panów. Bardzo niejasna jest sprawa występowania olędrów przed. sądami publicznymi. W jednym wypadku, w którym udało się nam odnaleźć odpowiednie akta procesowe, olęder, który samodziclnie wniósł manifest przeciwko swemu byłemu panu i gminie olęderskiej O bezprawne usunięcie z zajmowanego gospodarstwa, na rozprawach sądowych występuje „in assistentia Illustrissimi Lucae Bniński Judicis Terrestris Posnaniensis”<sup class="lit-fn"><a href="#n-pl-149">38-3</a></sup>. Ni suwa się tutaj możliwość, że albo ów olęder<sup class="lit-fn"><a href="#n-pl-148">38-2</a></sup> . / 628,
@@ -2312,12 +2238,10 @@ of Rogoźno. The complainants received here, even before the delivery of the pro
 s. Johann Bóhme" In consequence of the Olęder's action the case came before the Poznań land court, where it was heard at three terms (Decr. Posn. no. 137, fol. 303, 485 and 597–600). The defendants maintained that the whole sum obtained from the sale had been applied to the payment of the debts of the plaintiff, which in their opinion were considerably more than the plaintiff had stated. How the case was finally decided is not known, for the further collections of decrees have not survived.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">p. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">p. 39</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 chwili procesu siedział dobrach Bnińskiego (majętność Biezdrowo w w w powiecie poznańskim), i wobec tego obecność tego ostatniego na rozprawie miała charakter ustawowego zastępstwa peńskiego !, albo też<sup class="lit-fn"><a href="#n-pl-150">39-1</a></sup> występował on jako patron? uproszony przez olędra, lub dodany mu<sup class="lit-fn"><a href="#n-pl-151">39-2</a></sup> przez sąd<sup class="lit-fn"><a href="#n-pl-152">39-3</a></sup>. Mamy również ciekawy wypadek, że pan oblatuje w księ-<sup class="lit-fn"><a href="#n-pl-153">39-4</a></sup> gach grodzkich skargę na własnych olędrów, zarzucając im, że „nieposłuszeństwo czynią<sup class="lit-fn"><a href="#n-pl-154">39-5</a></sup> powinności swych i zacięgów skarżącemu się nie odprawują” *. Gdzieindziej znowu pan zastrzega się: „Jeźżeliby się jaki exces albo kryminalna sprawa stcła, nie powinni się do żadnego sądu udawać bez mojej wiadomości, albo possessora mojego”? 5. Zapewne zastrzeżenie to byłoby zbędne, gdyby zwierzchność sądowa pana nad olędrami była niewątpliwa 1 zupełna. Z drugiej strony mamy do zanotowania i taki pozew, gdzie powód, gmina olęderska, występuje „in competenti domini sui assistentia”? $, W każdym razie kwestii, czy<sup class="lit-fn"><a href="#n-pl-155">39-6</a></sup> olędrzy mieli możność korzystania z sądów publicznych z całą pewnością rozstrzygnąć nie można. Zresztą, gdyby nawet ta możliwość istniała, to i tak nie przedstawiałaby dla, olędrów większego znaczenia wobec ówczesnej procedury sądowej, zbyt powolnej i nie zabezpieczającej przed represjami pozwanego. Dla olędrów, cieszących się swobodą opuszczenia wsi, daleko prościej było sprzedać gospodarstwo i osiąść u innego pana. Zdaje się, że z tej możliwości korzystano dosyć często.
@@ -2342,12 +2266,10 @@ at the moment of the suit was sitting on the lands of Bniński (the Biezdrowo es
 <span class="lit-note" id="n-en-155">39-6</span> Rel. Cost. no. 224, 1791, fol. 676.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-40">p. 40</a></h2>
+<section class="lit-passage" id="p-40" data-page="40">
+<div class="pg" id="p40"><a href="#p40">p. 40</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 B. Prawo dworskie w osadach olęderskich l. Stosunek prawny do pana. a. Przywilej.
@@ -2376,12 +2298,10 @@ While the public authorities issued no legal norms concerning Olęder settlement
 <span class="lit-note" id="n-en-161">40-6</span> Meanwhile Maas (Entstehung, p. 84) maintains that "diese Privilegien... sind fast alle in deutscher Sprache geschrieben. Schon dies west uns auf die Nationalitit der Bewohner hin..." [these charters... are almost all written in the German language. This alone points to us the nationality of the inhabitants...].
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">p. 41</a></h2>
+<section class="lit-passage" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">p. 41</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 kim!. Pod względem treści przywileje wykazują duże pokrewieństwo. Pochodzi to stąd, że przy wystawianiu ich wzorowano się na przywilejach osad wcześniejszych. Nie brak jednak dokumentów bardzo oryginalnych, niekiedy nacechowanych głęboką myślą społeczną i moralną. Jeden z takich dokumentów, przywilej zbiorowy dla olędrów klucza kicińskiego, przytacza my w całości w aneksie. Dla utwierdzenia wagi przywileju, panowie częstokroć zobowiązywali się oblatoweć go we właściwych księgach grodzkich. To stało się precedensem dla olędrów, którzy sami również zaczęli podawać przywileje do oblaty. Szereg przywilejów zawiera dodatkowe konfirmaty późniejszych właścicieli oszdy. Niekiedy takie późniejsze zatwierdzenie stawało s'ę okazją co zwiększenia powinności olędrów. W każdym .niemal przywileju pan zobowiązywał się na wypadek zniszczenia lub zagubienia oryginału wystawić bez żadnych kosztów równobrzmiący duplikat<sup class="lit-fn"><a href="#n-pl-162">41-1</a></sup>. b. Prawna zależność olędrów od pana mogła zaznaczyć się w trojaki sposób: jako zależność osobista, sądowa<sup class="lit-fn"><a href="#n-pl-163">41-2</a></sup> gruntowa. W odniesieniu do ludności pańszczyźnianej zależność ta była całkowita; odróżnia się tu odpowiednio poddz ństwo osobiste, sądowe i gruntowe<sup class="lit-fn"><a href="#n-pl-164">41-3</a></sup>. Poddzń-<sup class="lit-fn"><a href="#n-pl-165">41-4</a></sup> stwo osobiste gospodarzy olędrów w ogólności nie istniało. Podkreślały to zgodnie niemel wszystkie przywileje +. Mniej jesto przedsta-<sup class="lit-fn"><a href="#n-pl-166">41-5</a></sup> wiała się sprawa osobistej zależności olędrów w wypzdkach, gdy wieś już istniejącą przenoszono na prawo olęderskie. Tak np. przywilej dla powstałych w ten sposób Ol. Chorzępowa w majętn. s'erakowskiej zezwalał im na sprzedaż gospodarstw, a więc prawdopodobnie i na opuszczenie majętności, a powinności ich określał tak samo, jak powinności innych olędrów. Jednak oświadczenia stwierdzającego ich wolność osobistą przywileju brak, a późniejszy o lat 6 inwentarz majętności część gospodarzy zalicza do poddanych 5. Zupełnie natomiest brak danych dla pozostałych osad tego typu. Nie ulega jednak wątpliwości, że nawet
@@ -2404,12 +2324,10 @@ As regards content the charters show a great kinship. This comes of the fact tha
 <span class="lit-note" id="n-en-166">41-5</span> AM. Sieraków, C. 53, fol. 162 ff.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">p. 42</a></h2>
+<section class="lit-passage" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">p. 42</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 w wypadku, gdy odnośni osadnicy przed tym byli poddarymi, a z wydaniem przywileju nie poszło w parze wydanie aktu libertacji, zależność osob:sta olędrów stawała się luźniejsza wskutek ograniczenia. jej do norm przywileju. Wyjątkowo i przy lokacji nowych os:d panowie brali pod uwagę możliwość osadzenia w nich poddanych, jak tego dowodzi następujące zastrzeżenie w przywileju z r. 1729 dla Ol. Kotusz: ,,...to s'ę dokłada, że do żadnych inszych powinności ciż olędrzy nie będą należeć, oprócz wyżey wyrażonych danin, także 'y ich possessorowie albo następcy zostaną wolnymi ludźmi, oprócz tych, którzyby, już przed tym byli poddanemi”?<sup class="lit-fn"><a href="#n-pl-167">42-1</a></sup>. Czy w rzeczywistości osadzeni zostali tam Jacy poddani, w$daje się rzeczą bardzo wątpliwą. W każdym razie samej zasady wolności osobistej olędrów źródła w wątpliwość nie podają. Oczywiście zasada ta rozciągała się ij na rodziny olędrów. Trudniej jest ustalić, czy osobiście wolna była także pozostała, bezrolna, społecznie niższa warstwa ludności olęderskiej. Bezpośrednie dane pod tym względem posiadamy jedynie w odnies'eniu do majętn. sierakowskiej. Inwentarz tej m ijętności z r. 1759 zawiera podział ogółu ludności osad na wolnych i poddanych; cała ludność bezrolna osad olęderskich z wyjątkiem 1 rodziny<sup class="lit-fn"><a href="#n-pl-168">42-2</a></sup> jest osobiście wolna. Jedynie we wspomnianych już Ol. Chorzępowa znajdujemy 2 rodziny poddane<sup class="lit-fn"><a href="#n-pl-169">42-3</a></sup>. Potwierdza to przypuszczenie, że 1 bezrolni m'eszkańcy osad z bardzo nielicznymi wyjątkami uważani byli za osobiście wolnych. Wolność osobista wyróżniała dodatnio olędrów wśród ludności poddanej. Nawiasem jednak zauważymy tutaj, że jak wykazują nieopracowane dotąd inwentarze<sup class="lit-fn"><a href="#n-pl-170">42-4</a></sup> i zestawienia<sup class="lit-fn"><a href="#n-pl-171">42-5</a></sup>, liczba niepoddanych wśród pozost:łej ludności włoście ńskiej była większa, niż oceniaro Ją dotąd<sup class="lit-fn"><a href="#n-pl-172">42-6</a></sup>, W obecnym stanić badań przeprowadzanie nacechowarych tendencją porównań między olędram! a resztą ludności włościańskiej, tak jak to czynili niektórzy autorzy niemieccy, wydaje się co najmniej przedwczesne.
@@ -2438,12 +2356,10 @@ c. The lord's judicature forms the second member of the relations connecting the
 <span class="lit-note" id="n-en-172">42-6</span> Cf. Cieplucha, Z przeszłości, pp. 92–93.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">p. 43</a></h2>
+<section class="lit-passage" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">p. 43</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 szej instancji wszystkie cięższe przestępstwa, tzw. criminalia (rabunki, podpalenia, zabójstwa, cięższe uszkodzenia ciała<sup class="lit-fn"><a href="#n-pl-173">43-1</a></sup>), oraz naturalnie wszystkie wykroczenia skierowane bezpośrednio przeciwko panu. Jako druga instancja sąd ten rozstrzygał e: pelacje od wyroków sądu gminnego.<sup class="lit-fn"><a href="#n-pl-174">43-2</a></sup> Odnośnie do procedury sądownictwa pańskiego brak w źródłach bliższych danych. Opłat za czynności sądowe pan nie pobierał.
@@ -2478,12 +2394,10 @@ instance all the graver offences, the so-called criminalia (robberies, arson, ki
 <span class="lit-note" id="n-en-181">43-9</span> Cf. p. 19.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">p. 44</a></h2>
+<section class="lit-passage" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">p. 44</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wieczyste. Ta forma władania staje się regułą w pozostałych oszdach. Wyjątkowo w Ol. Barcinek ziemia nzdana zosteła olędrom „prawem emphiteutycznym... a to do czwartego pokolenia z krwi męskiey”1 zaś w Ol. Połajewskich osadnicy otrzymali kontrakt pierwotnie na lat trzy 2. W związku z przejściem od dzierżawy czesowej do nzdań wie-<sup class="lit-fn"><a href="#n-pl-182">44-1</a></sup> czystych pojawia się tzw. okupne (niem. Grundgeld). Była to zapłata za wydzieloną olędrom ziemię. Gdy więc pierwsi olędrzy, którzy nie okupili się, mogli dysporowzć jedynie budynkz mi i majątkiem ruchomym, a grunt<sup class="lit-fn"><a href="#n-pl-183">44-2</a></sup> pozostawał wyłączrą własnością pana, późniejsi olędrzy po zapłaceniu okupnego stawali się właścicielami całego gospodarstwa, tak ziemi jak i budynków oraz ruchomości. Także i wieleńscy olędrzy, zanim w miejsce<sup class="lit-fn"><a href="#n-pl-184">44-3</a></sup><sup class="lit-fn"><a href="#n-pl-185">44-4</a></sup> dzierżawy nadaro im prawo wieczyste, musieli grunt okupić %*. Osady<sup class="lit-fn"><a href="#n-pl-186">44-5</a></sup> nieokupione były wśród olędrów niezmierną rzadkością. Poza wymienionymi już Ol. Ujskimi, częściowo na nieokupionych gospodarstwach siedzieli olędrzy w Daleszynie 4, w Chorzępowej, a prawdopodo-<sup class="lit-fn"><a href="#n-pl-187">44-6</a></sup> bnie 1 w Starych Łoskońskich Ol. 5.
@@ -2514,12 +2428,10 @@ According to the tenor of the charters the Olęders received their farms in heri
 <span class="lit-note" id="n-en-188">44-7</span> Die ländliche Verfassung, p. 123.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-45">p. 45</a></h2>
+<section class="lit-passage" id="p-45" data-page="45">
+<div class="pg" id="p45"><a href="#p45">p. 45</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 idąc za definicją pruskiego prawa krajowego (Landrecht) z r. 17211,<sup class="lit-fn"><a href="#n-pl-189">45-1</a></sup> określa tego rodzaju stosunek do ziemi Jako „wieczyste prawo czynszowe”<sup class="lit-fn"><a href="#n-pl-190">45-2</a></sup> (.Erbzinsrecht), na mocy którego posiadacz mógł ziemią dowolnie rozporządzać, o ile tylko uiścił panu należne świadczenia. Czynszownik zobowiązany był mieć o grunt takie staranie, „jak gdyby był jego własnością”. Podobnie ujmuje rzecz Guradze Fr.<sup class="lit-fn"><a href="#n-pl-191">45-3</a></sup>, u Schmidta * natomiast mamy pomieszane pojęcia wieczystego prawa czynszowego z pojęciem dzierżawy wieczystej, która miała znaczenie inne £. Odmiennie przed-<sup class="lit-fn"><a href="#n-pl-192">45-4</a></sup> stawiała się sprawa w tych nielicznych wypadkach, gdy olęder siedział na gruncie nieokupionym. Tutaj stosunek olędra do gruntu podobny był raczej do dzierżawy wieczystej.
@@ -2558,12 +2470,10 @@ I. As a rule the lord required that the change of holder should not take place t
 <span class="lit-note" id="n-en-195">45-7</span> AW. Uścikowskie Ol., B. 1054, charter of 1746: "Each of them shall be free to sell his Holenderstwo, to give, to bestow, to barter away, only to a virtuous, unrecorded and free man...". AW. Wielkokrobielewskie Ol., B. 1 b., charter of 1672: "It shall be free for everyone to go and settle wherever he may wish, but with my knowledge, and having taken up a place with a good neighbour, with which I or the lordship would be content, so that the rents do not perish".
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-46">p. 46</a></h2>
+<section class="lit-passage" id="p-46" data-page="46">
+<div class="pg" id="p46"><a href="#p46">p. 46</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 „człowiekiem dobrym” zobowiązany był dbać nie tylko zbywca, ale 1 cała gmina solidernie I.
@@ -2608,12 +2518,10 @@ I. As a rule the Olęder was bound to inform the lord of the intended sale of th
 <span class="lit-note" id="n-en-203">46-8</span> Rel. Cost. no. 191, 1756, fol. 94.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-47">p. 47</a></h2>
+<section class="lit-passage" id="p-47" data-page="47">
+<div class="pg" id="p47"><a href="#p47">p. 47</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 +7 było każdemu olędrowi „pole spłacić bez opowiedzi dworowi y przedać”? 1.<sup class="lit-fn"><a href="#n-pl-204">47-1</a></sup> Ten sam warunek obowiązyweł zbywcę często i w stosunku do gminy. Akt sprzedaży w zesedzie musiał być dokonany w urzędzie gminnym, a jeśli gmina miała księgę gminną, nastąpić musiał odpowiedni wpis. Należrość za grunt nabywca zobowiązany był złożyć w urzędzie gminnym, który pokrywał z niej wszystkie opłaty z tytułu sprzedaży, spłacał długi zaciągnięte przez zbywcę, a dopiero resztę wypłacał mu do<sup class="lit-fn"><a href="#n-pl-205">47-2</a></sup>;
@@ -2660,12 +2568,10 @@ in Rudka Olęders.<sup class="lit-fn"><a href="#n-en-212">47-9</a></sup> In the 
 <span class="lit-note" id="n-en-214">47-11</span> AW. Uścikowskie Ol., B. 1054: "whoever buys as successor shall owe the community a barrel of introductory beer". Similarly: Rel. Posn. no. 640, 1791, fol. 248, Rataje Ol.; Rel. Posn. no. 620, 1787, fol. 27, Snowidowo Ol.; AGH, court of Wolsztyn, the Gościeszyn estate, vol. V (334 cards), fol. 33, Stodólsko Ol.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-48">p. 48</a></h2>
+<section class="lit-passage" id="p-48" data-page="48">
+<div class="pg" id="p48"><a href="#p48">p. 48</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wyjątkowo zastrzegał sobie pan<sup class="lit-fn"><a href="#n-pl-215">48-1</a></sup>, natomiast dość często przysługiwało sąsiadom zbywcy wzgl. pozostałym członkom gminy*?.<sup class="lit-fn"><a href="#n-pl-216">48-2</a></sup>
@@ -2708,12 +2614,10 @@ On the lands of the Olęders there could exist certain servitudes in favour of t
 <span class="lit-note" id="n-en-223">48-9</span> Thus, for example, the inhabitants of the village of Rosko had the right of driving cattle across the lands of Ol. Nowe Dwory (AW. Nowe Dwory, B. 1).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-49">p. 49</a></h2>
+<section class="lit-passage" id="p-49" data-page="49">
+<div class="pg" id="p49"><a href="#p49">p. 49</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wiały się rzadko i nigdy nie uszczuplały poważnie praw posiadaczy gruntów.
@@ -2753,12 +2657,10 @@ rarely and never seriously diminished the rights of the holders of the land.
 <span class="lit-note" id="n-en-227">49-4</span> Very detailed provisions in this respect are found in the charters for Ol. Huta, Krystynka and the Milczewskie Olęders: "Since considerable wrong is done to the children after each deceased father through the disposition of their stepmothers, I hereby establish for them, by good order, complete security: as soon as the father dies, the sołtys with the ławniks and the natural guardians shall at once set down the whole remaining substance of the deceased, as it stands in inventories and furnishings, and likewise value the goods conscientiously, and set down that sum together with the other movables and enter the register into this protocol where their other transactions are entered, as he is bound to do; and should the surviving widow be about to marry, then the sołtys and the ławniks together with the guardians shall assign to the children, in proportion, the shares due to them out of the paternal1 substance under the marriage contract, so that the children may enjoy the substance won by their father's labour of blood. But should there be no children from the second marriage and the mother should die before the second husband, then one half of that substance which she bequeathed to her second husband by the marriage contract is to fall to the children of the first marriage as natural successors, while the other half is to remain with the second husband. But if she has children from the second marriage, then from that portion of her own, also after her death, the children of the first marriage are to share equally, as in the maternal substance, since only by the proportion of the expressed marriage contract out of the paternal substance will those children of the first marriage be satisfied. And should she survive her second husband and have no children at all, then that part which was bequeathed to him by the marriage contract belongs to his successors and not to the children of the first marriage",
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-50">p. 50</a></h2>
+<section class="lit-passage" id="p-50" data-page="50">
+<div class="pg" id="p50"><a href="#p50">p. 50</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dzane w określonej formie. Tak np. w Jędrzejewskich Ol. osadnicy zobowiązani byli sporządzać je na piśmie i przedkłedać Co podpisu najprzód sołtysowi i ławnikom, a następnie panu. Za czynrość tę pobierał pan 11<sup class="lit-fn"><a href="#n-pl-228">50-1</a></sup> tynfów od każdego aktuł.
@@ -2787,12 +2689,10 @@ up in a definite form. Thus, for example, in the Jędrzejewskie Olęders the set
 <span class="lit-note" id="n-en-233">50-6</span> For example in the Budziszewskie Olęders (AW. B. 108), in Ol. Dziewczastruga (AW. B. 1028), in the Gębickie Olęders (AW. A. 1).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-51">p. 51</a></h2>
+<section class="lit-passage" id="p-51" data-page="51">
+<div class="pg" id="p51"><a href="#p51">p. 51</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 hl wybór wymagał zatwierdzenia przez dwór !, lub nawet pan wybierał jednego z przedstawionych mu<sup class="lit-fn"><a href="#n-pl-234">51-1</a></sup> kandydatów.
@@ -2825,12 +2725,10 @@ b. The functions of self-government may be divided into delegated<sup class="lit
 <span class="lit-note" id="n-en-239">51-6</span> In Ol. Charłub, Komorowskie, Włościejewskie (call numbers in Appendix I).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-52">p. 52</a></h2>
+<section class="lit-passage" id="p-52" data-page="52">
+<div class="pg" id="p52"><a href="#p52">p. 52</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Kompetencje organów gminnych w zakresie własnym obejmowały dwa rodzaje spraw: administrację gminną i sądownictwo gminne. Przepisy administracyjne obowiązujące członków gminy zebrane były w tzw. wilkierzach (Wizlikiire) l. Jakkolwiek nadane w różnym czasie i przez<sup class="lit-fn"><a href="#n-pl-240">52-1</a></sup><sup class="lit-fn"><a href="#n-pl-241">52-2</a></sup> różnych panów, pod względem treści są one niemal identyczne, co<sup class="lit-fn"><a href="#n-pl-242">52-3</a></sup><sup class="lit-fn"><a href="#n-pl-243">52-4</a></sup> wskazuje na to, że pisano je według wspólnego wzoru, albo raczej, że wilkierze późniejsze wzorowane były na wilkierzach spisanych wcześniej. Badania porównawcze nad pochodzeniem norm zawartych w wilkierzach przekroczyłyby ramy niniejszej pracy; w każdym razie wydaje się rzeczą pewną, że normy te oparte są na wzorach obcych. Jeden wilkierzów przytaczamy całości aneksie. Z wilkierzów przebija z w w silne poczucie wspólności gminnej. Znaczna liczba postanowień w nich zawartych ma na celu usunięcie źródeł niezgody między poszczególnymi członkami gminy, względnie zobowiązuje ich do pomagania sobie w potrzebie. To drugie leżało zresztą we własnym interesie olędrów, gdyż za powinności dworskie gmina odpowiadała zazwyczaj solidarnie, żadnemu więc z jej członków nie mógł być obojętny stan majątkowy i wypłacalność sąsiada. Kontrola nad gospodarką poszczególnych członków gminy należała do ważnych funkcji administracji gminnej. Organy gminne zobowiązane były nawet do przymusowego usunięcia olędra źle gospodarującego i obsadzenia gospodarstwa innym. Że obowiązek ten był rzeczywiście wykonywany, dowodzi przypis na s. 38. W niektórych osadach poszczególni gospodarze zobowiązani byli podawać do wiadomości władz gminnych ważniejsze zdziałane przez siebie akty prawne (kontrakty kupna-sprzedaży, testamenty, zapisy itd.). Akty te wpisywane były do specjalnej księgi prowadzonej przez każdorazowe organy samorządowe. Ksiąg takich przechowało się kilka 3, zawierają one wiele ciekawego materiału z życia osad. Niekiedy akty prawne wpisane do ksiąg gminnych musiały być przedstawione do dodatkowej aprobaty pańskiej. Przy tej okazji pan pobierał pewne opłaty 4.
@@ -2851,12 +2749,10 @@ The competences of the communal organs in their own sphere comprised two kinds o
 <span class="lit-note" id="n-en-243">52-4</span> For example in the Lubaskie Olęders (Kl. XIT, 6. V, fol. 116).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-53">p. 53</a></h2>
+<section class="lit-passage" id="p-53" data-page="53">
+<div class="pg" id="p53"><a href="#p53">p. 53</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Sądownictwo gminne obejmowało w pierwszym rzędzie sprawy o wykroczenia przeciw przepisom wilkierza i zarządzeniom edministracyjnym organów gminnych, dalej wszystkie inne sprawy (zw:dy, bójki, kradzieże, spory graniczne) prócz spraw większej wagi zastrzeżonych panu. Do kompetencji sądu gminnego należały również sprawy o wykroczenia przeciwko postanowieniom przywileju lokacyjnego !, Być może, że sąd gminny pełnił również funkcje sądu polubownego. Według przywileju dla Borui*? sędziowie gminni „na porządek, bez-<sup class="lit-fn"><a href="#n-pl-244">53-1</a></sup> pieczność i spokojność, zgoła powodzenie, rząd i sprawiedliwość naypilniey poglądać będą i wszelkiey do tego dołożą staranności i usilrości<sup class="lit-fn"><a href="#n-pl-245">53-2</a></sup> swoiey”. Karą stosowaną przez sąd była grzywna, a w wyjątkowych wypadkach areszt 3. Od orzeczeń sądu gminnego przysługiwe ła zasą-<sup class="lit-fn"><a href="#n-pl-246">53-3</a></sup> dzonym zawsze apelacja do dworu. Aby jednek środka odwoławczego nie nadużywano, wilkierze postanawiały, że „kto by epeloweł przez złośliwość i niepotrzebnie, bezpodstawnie pana trudził, podwójnie zostanie ukarany”<sup class="lit-fn"><a href="#n-pl-247">53-4</a></sup>. Gdy w dziedzinie administracji sołtys miał zwykle szersze kompetencje, niż pozostałe organy gminne, w zespole sądzącym każdy członek miał równe prawa<sup class="lit-fn"><a href="#n-pl-248">53-5</a></sup>. Oskarżony członek sądu był sądzony przez pozostałych przysięgłych tak samo jak każdy inny mieszkaniec osady. Wilkierze dokładnie określały procedurę sądową. W Góździnie posiedzenia sądu miały odbywać się co 2 tygodnie, w Jastrzębnickich Ol. co 4 tygodnie, w dzień niedzielny. Członkowie gminy zobowiązani byli do stawienia się na każde wezwanie sądu, do składania zeznań i do bezwzględnego respektowania wszystkich innych wydanych przez sąd orzeczeń i zarządzeń. Specjalne przepisy porządkowe miały na celu zapewnienie bezpieczeństwa i powagi sądu podczas rozpraw. Kobiety z reguły nie miały zdolności procesowej, ani też nie mogły znajdować się w miejscu urzędowania sądu. Wyjątkowo mogły stawać sądzie wtedy, gdy rozstrzygano ich własre sprawy i osobiste stawiennictwo było konieczne. Również w drodze wyjątku mogły zastępować mężow w sprawuch nagłych, w wypadku ich nieobecrości lub obłożnej choroby. Gdyby jednakże ważyły się mioteć przed sądem obelgi, czekała je surowa kara. Fgzekucji wyroków zapadłych w sądzie gminnym dokonyweł prawdopodobnie soltys przy popzrciu pańskim. Gmina po-
@@ -2879,12 +2775,10 @@ The communal judicature comprised above all cases of offences against the provis
 <span class="lit-note" id="n-en-248">53-5</span> According to the charter for Ol. Sikorka (AW. B. 9I1): "no matter shall the sołtys judge by himself alone, but only together with the ławniks, on pain of nullity of the decree".
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">p. 54</a></h2>
+<section class="lit-passage" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">p. 54</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 D4 siadała niekiedy własną pieczęć, kiórą organy gminne pieczętowały urzędowe pisma i dokumenty I.<sup class="lit-fn"><a href="#n-pl-249">54-1</a></sup>
@@ -2923,12 +2817,10 @@ For their administrative and judicial acts the communal organs received a certai
 <span class="lit-note" id="n-en-259">54-11</span> Rel. Cost. no. 215, 1782, fol. 351.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
+<section class="lit-passage" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">p. 55</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ROZDZIAŁ IV
@@ -2956,12 +2848,10 @@ I. Topography of the settlements. Olęder colonization was in its entirety agric
 <span class="lit-note" id="n-en-262">55-3</span> E.g. in the Suzeleckie Olęders: “Der Acker wäre sandigt und schlecht und könnten die Bauern den 3-ten Theil davon recht gebrauchen” [The soil is very sandy and poor, and the farmers could make good use of the third part of it] (Kl. XII 6 II, fol. 97). Matters were little better in the other settlements. The same is affirmed by Schmidt (Geschichte, p. 398).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-56">p. 56</a></h2>
+<section class="lit-passage" id="p-56" data-page="56">
+<div class="pg" id="p56"><a href="#p56">p. 56</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Db najbujnicj rozwinęło się osadnictwo olęderskie (Babimost, Buk, Chodzież, Czarnków, Międzychód, Międzyrzecz, Poznań, Śrem), mają gleby najmniej urodzajne na terenie całego województwa<sup class="lit-fn"><a href="#n-pl-263">56-1</a></sup>. Jedynie na zandrowej równinie nowotomyskiej spotyka my glebę średnio urodzajną. Fakt ten wytłumczenie w historycznym rozwoju osadnictwa ma swe omawianym przez nas terenie, Ziemie urodzajne zostały tutaj zana siedlone już oddawna przez ludrość miejscową, która zwiększając się liczebnie, zajęła później częściowo I role mniej żyzne. Koloniści średniowiecza również wybierali ziemie możliwie urodzajne. Zapes gruntu stojący do dyspozycji olędrów stanowił więc najmniej wartościową część pozostałą po selekcji gruntów, Jakiej dokonało osadnictwo wielu wieków.
@@ -2986,12 +2876,10 @@ The settlement of the second type presented itself otherwise. Here the lord allo
 <span class="lit-note" id="n-en-264">56-2</span> Kuhn, Die deutschen Siedlungsformen; Maas, Entstehung; idem, Über deutsche Dorfformen in Posen; Martiny, Formen der Siedlungen. Cf. also Ebert, Ländliche Siedelformen im deutschen Osten. The author goes beyond the limits laid down by his title, occupying himself also with western Wielkopolska. There, on p. 43, we find an extensive German-language literature of the subject. Of the old maps we have made use here of MGd. and of a number of maps of the individual districts or estates, preserved in the State Archive in Poznań.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-57">p. 57</a></h2>
+<section class="lit-passage" id="p-57" data-page="57">
+<div class="pg" id="p57"><a href="#p57">p. 57</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 DT czaj samodzielnie wybierał sobie miejsce dogodne na karczunek. Ze względów ekonomicznych starał się on przygotować sobie pod uprawę grunt w jednym lawałku i to w formie zbliżonej do kwadratu albo też wieloboku. Z tych samych względów budynki stawiał w najdogodniejszyny punkcie, najczęściej po środku wykarczowanego, gruntu, bez względu na położenie gospodarstw sąsiednich. Gospodarstwo swe osobną drogą łączył z tiaktem głównym biegnącym przez osadę lub w najbliższej od niej odległości. Wzory kartograficzne obu form osadniczych. podane zostały na końcu książki.
@@ -3014,12 +2902,10 @@ Beyond the two described categories of settlement there occurred Olęder settlem
 <span class="lit-note" id="n-en-267">57-3</span> Cf. the descriptions of the buildings of the Ol. Borkowskie, Ol. Krosińskie, Krosien, Ol. Nowe and Ol. Sowińskie (Rel. Posn. nr 632, 1790, fol. 47 ff.), of Kawczyn (Rel. Cost. nr 196, 1761, fol. 476) and of the Ol. Radoszkowskie (Rel. Cost. nr 197, 1762, fol. 82).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-58">p. 58</a></h2>
+<section class="lit-passage" id="p-58" data-page="58">
+<div class="pg" id="p58"><a href="#p58">p. 58</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 5 OO Budynki na ogół znajdowały się w dobrym stanie. Do gospodarstwa należało również ogrodzone ze wszystkich stron podwórko<sup class="lit-fn"><a href="#n-pl-268">58-1</a></sup>. W wielu wypadkach panowie w przywileju lokacyjnym czynili zastrzeżenia co do sposobu stawiania przyszłych budynków. W Ol. Charłub każdy dom mieszkalny „powinien być o dwóch izbach porządnie z facyatą wystawiony” ?. W Ol. Dymaczewskich „domostwa te, które oni<sup class="lit-fn"><a href="#n-pl-269">58-2</a></sup> budować będą, powinny być obszerne, w blochy fundamentalnie wybudowane, y regularną postawione dyspozycją”?<sup class="lit-fn"><a href="#n-pl-270">58-3</a></sup>. Gdzie indziej zastrzegano się, aby olędrzy ,,na przyciesiach słuszne budynki stawiali”?<sup class="lit-fn"><a href="#n-pl-271">58-4</a></sup>, Z dużym prawdopodobieństwem można wnioskować, że budynki drewniane częstsze były w osadach powstałych na karczunkach, gdzie łatwiej było o budulec.
@@ -3052,12 +2938,10 @@ The occupational composition of the Olęders. Among the population of the Olęde
 <span class="lit-note" id="n-en-273">58-6</span> Cases of this kind are known to us in only two instances: in Przyborowo (AGH sąd Szamotuły, Tax Acten fol. 46) and in the Kwiejce Nowe (Kl. XII 6 II, fol. 43). In both these settlements there lived, outside the community, manorial forest guards.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-59">p. 59</a></h2>
+<section class="lit-passage" id="p-59" data-page="59">
+<div class="pg" id="p59"><a href="#p59">p. 59</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Oczywiście tacy mieszkańcy do gminy olęderskiej nie należeli, a co. za tym idzie, nie stanowią przedmiotu naszych rozważań.
@@ -3080,12 +2964,10 @@ The most important source for the occupational composition of the population of 
 <span class="lit-note" id="n-en-274">59-1</span> Thus, for example, in the Starojastrzębskie Olęders, out of a total of 282 souls they entered 50 in the column “beggars”, and none at all in the column “the unattached at work”.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-60">p. 60</a></h2>
+<section class="lit-passage" id="p-60" data-page="60">
+<div class="pg" id="p60"><a href="#p60">p. 60</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 60 : o czym była już mowa, przechowała się w odniesieniu do powiatu kościańskiego ('Tod. 89). Dymy podzielono tutaj na następujące kategorie: I. „dwory i zabudowania dworskie, to jest pałac, oficyny, folwarki, stajnie, owczarnie, za jeden dym rachowane”, 2. „plebania i inne budynki plebańskie”, 3. „klasztory, zakonnicy, zakonnice”, 4. „browary”, 5. ,karczmy”, 6. „młyny”, 7. „dymy żydowskie”, 8. „dymy w chałupach wieyskich, futorach i leśnych chatach gruntu posiadających”: a. „chałupa o dwóch gospodarzach”, b. „chałupa o jednym gospodarzu”, 9. „dymy w chałupach i chatach ogrodowych”: a. „chałupa ogrodowa”, b. „chałupa bez gruntu i ogrodu”, 10. „dymy w domach, -gdzie rzemieślnicy mieszkcją”: a. „dymy fabryczne”, b. „dymy rzemieślników”. Tabela II przedstawia skład zawodowy ludności osad olęderskich powiatu koścgiańskiego, obliczony na podstawie tabeli ludności, uzupełnionej w miarę potrzeby tabelą dymów.
@@ -3104,12 +2986,10 @@ The corresponding source for Poznań county is lacking. The occupational and soc
 2. Social composition. Different figures will be obtained if we attempt to reconstruct the social division of the Olęder population. In pre-partition Poland the broadest framework for social stratification was furnished by estate membership. Within each estate, however, social po-
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-61">p. 61</a></h2>
+<section class="lit-passage" id="p-61" data-page="61">
+<div class="pg" id="p61"><a href="#p61">p. 61</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 TABELA II
@@ -3168,12 +3048,10 @@ sition was decided above all by the degree of economic independence of the given
 <span class="lit-note" id="n-en-278">61-4</span> There must have been more village schoolmasters than the 1 family recorded in the Tol., as may be inferred from various incidental mentions. They are presumably contained in the columns “farmers”, “lodgers” and “craftsmen”. The figure of persons belonging to the teachers' families, entered in the column “incidentally employed in the given occupation”, has been estimated on the basis of the results of Table III. For the 94 settlements of Kościan county there fell, proportionally, 36 teachers (together with the readers — cf. Tab. III), of whom 1 had already been reckoned, while the rest, reckoning 4 persons to a teacher or reader with his family, made in all 140 souls.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-62">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-62">p. 62</a></h2>
+<section class="lit-passage" id="p-62" data-page="62">
+<div class="pg" id="p62"><a href="#p62">p. 62</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 TABELA III
@@ -3242,12 +3120,10 @@ ing stratum we shall assign the economically independent units; a socially lower
 <span class="lit-note" id="n-en-281">62-3</span> 1 teacher, 4 readers (Vorleser).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-63">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-63">p. 63</a></h2>
+<section class="lit-passage" id="p-63" data-page="63">
+<div class="pg" id="p63"><a href="#p63">p. 63</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 teczne dochody z własnych warsztatów pracy, zmuszore są uzupełnizć je pracą w obcym gospodarstwie, wreszcie najniższą społecznie kategorię tworzyć będą utrzymujący się wyłącznie z pracy najemnej w gospodarstwach cudzych. Wśród włościan są to warstwy określone w Tol. jako „czeladź”, „luźni za robotą” i „żebraki”. Czynnikiem powodującym pośrednio zróżnicowanie społeczne warstwy włościeńskiej było stanowisko prawne poszczególnych Jej członków. Chłop osobiście wolny miał daleko większe szanse dojścia do niezależności gospodarczej chociażby wskutek tego, że Jako niezależny od pana, na którego gruncie pragnął osiąść, mógł przy umowie wysuwać własne żądania i w ten sposób dojść do zgody na korzystniejszych dla siebie warunkach. Odnosi się to szczególnie do ludności osad olęderskich. Ludność ta, należąc całości do stanu włościeńskiego 1,<sup class="lit-fn"><a href="#n-pl-282">63-1</a></sup> również w całości przynajmniej w — jeśli chodzi o właściwych olędrów gospodarzy — była niepoddana. Z. braku dokładniejszych podstaw do odtworzenia całej hierarchii społecznej tej ludności, trzeba było ograniczyć się do uproszczonego podziału na „gospodarczo samodzielnych”, ,pośrednich” i „gospodarczo niesamodzielnych”. Do, zobrazowania struktury społecznej ludności olęderskiej w tych najogólniejszych granicach posłużą nam zużytkowane już przy omawianiu podziału zawodowego tabele ludności i dymów z I. 1789 i 1790. Do samodzielnych zaliczyć należy wyszczególnionych tamże gospodarzy, karczmarzy i młynarzy. O ich samodzielności zadecydował fakt posiadania wystarczająco wielkich gospodarstw rolnych. Trudniej rozstrzygać o stanowisku społecznym rzemieślników. Niektórzy nich byli uposażeni w ziemię, co zrównywało ich z warstwą samodzielnych. Wyodrębnienie rzemieślników jest jednak rzeczą bardzo trudną. W ogólności, jakkolwiek pracowali we własnych warsztatach, ich sytuacja materialna układała się rozmaicie, zależnie od lokalnego zapotrzebowania na pracę fachową względnie gotowe wytwory. W tych warunkach najwłaściwiej będzie zaliczyć ich do warstwy społecznej „pośredniej”. Pozostałe warstwy zawodowe, a więc wszystkich bezrolnych, między nimi spełniających posługi kulturalne 1<sup class="lit-fn"><a href="#n-pl-283">63-2</a></sup> religijne*?,
@@ -3264,12 +3140,10 @@ mes from their own workshops are forced to supplement them by work upon another'
 <span class="lit-note" id="n-en-283">63-2</span> See further, pp. 113–117.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-64">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-64">p. 64</a></h2>
+<section class="lit-passage" id="p-64" data-page="64">
+<div class="pg" id="p64"><a href="#p64">p. 64</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 należy zaliczyć do niesamodzielnych. Przeprowadzony na podstawie powyższych rozważań podział społeczny ludności przedstawiał się będzie następująco:
@@ -3324,12 +3198,10 @@ For lack of comparative figures for the other settlements of Wielkopolska we sha
 <span class="lit-note" id="n-en-284">64-1</span> Cf. Rusiński Władysław, Uwarstwienie ludności wiejskiej w królewszczyznach Prus Królewskich w drugiej połowie XVII w., Roczniki dziejów społecznych i gospodarczych, vol. VI, 1937, p. 111.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-65">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-65">p. 65</a></h2>
+<section class="lit-passage" id="p-65" data-page="65">
+<div class="pg" id="p65"><a href="#p65">p. 65</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 C. Poszczególne działy gospodarstwa olędrów
@@ -3354,12 +3226,10 @@ I. Agriculture. a. The agricultural technique of the Olęders, like the forms of
 <span class="lit-note" id="n-en-286">65-2</span> Cf. p. 84.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-66">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-66">p. 66</a></h2>
+<section class="lit-passage" id="p-66" data-page="66">
+<div class="pg" id="p66"><a href="#p66">p. 66</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 olęderskie. Ułatwiona była ona także w wypadkach, gdy olędrzy obejmowali „wieś zerosłą”. Po uwzględnieniu ról częścią zarosłych, dane zawarte w aneksie I wyrażą się następującymi cyfremi:
@@ -3419,12 +3289,10 @@ The drainage of the land was carried out in such a way that the water was either
 <span class="lit-note" id="n-en-290">66-4</span> Such a provision we find in the charters of 1677 for the Olęders of the Wieleń estate.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-67">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-67">p. 67</a></h2>
+<section class="lit-passage" id="p-67" data-page="67">
+<div class="pg" id="p67"><a href="#p67">p. 67</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dzie również stosowany 1, ale zapewne rzadziej, ze względu na pewną wartość, jaką zawsze dla olędra musiało przedstawiać wykarczowane drzewo. Grunty, niewątpliwie na życzenie osadników, wymierzano im prawie zawsze w jednym kawełku. Ta właściwość cechowała zresztą i pozostałe typy osadnictwa nowożytnego na omawianym tutaj terenie. Wyjątkowo do gospodarstwa olęderskiego należały role w dwóch kzwałkach, lub nawet w trzech”, zwykle wtedy, gdy osadnicy okupili opustoszełe gospodzrstwa kmiece. Role po największej części, jak to wykazują dawne mapy, dzieloro na dwa pola: ozime i jare. Prawdopo-. dobnie część każdego pola przez pewien czas leżała ugorem, tak że systemem uprawy roli najczęściej stosowanym przez olędrów była trójpolówka<sup class="lit-fn"><a href="#n-pl-291">67-1</a></sup>. Jest też rzeczą możliwą, że na gruntach lepszych stosowano częściowo przynajmniej trójpolówkę ulepszoną. W wielu osadach o szczególnie złej glebie ugór przerosił %/, ogólnej powierzchni gruntów, rola musiała leżeć ugorem przez kilka lat, zanim mogła być znowu wzięta pod uprawę.
@@ -3453,12 +3321,10 @@ b. Endowment with land. The share of the individual settlers in the social incom
 <span class="lit-note" id="n-en-296">67-6</span> Rel. Cost. nr 222, 1789, fol. 348, the Ol. Gogolewskie: “I permit the same Hollendry to measure out their lands with the margravial rod, that is, the rod of nine ells”. Stamm (Miary powierzchni, p. 9 ff.) in his deliberations takes into account only the rod of 7½ ells.[7] AW. Lewice, dep. A. I (1732).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-68">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-68">p. 68</a></h2>
+<section class="lit-passage" id="p-68" data-page="68">
+<div class="pg" id="p68"><a href="#p68">p. 68</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 sejmową z r. 1764 ustalono Ją na 24 cale (59,55 cm). Według Stamma<sup class="lit-fn"><a href="#n-pl-297">68-1</a></sup> łokieć chełmiński, prawdopodobnie jednoznaczny z wymienianym w Źródłach łokciem starym czy niemieckim, był nieco krótszy i mierzył 57,6 cm<sup class="lit-fn"><a href="#n-pl-298">68-2</a></sup>. Jeżeli przyjmiemy za zasadę ten ostatni łokieć: cm powierzchnia włóki wymierzona prętem 7½-łokciowym wyniesie 16,80 ha; 8 łokci — 19,10 ha; 8½ łokci — 21,60 ha; 9 łokci — 24,20 ha.
@@ -3507,12 +3373,10 @@ The size of the farms in the Olęder settlements underwent considerable changes 
 <span class="lit-note" id="n-en-306">68-10</span> Cf. the lustration of the Wieleń estate of 1630, Rel. Posn. nr 157, 1632, fol. 170.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-69">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-69">p. 69</a></h2>
+<section class="lit-passage" id="p-69" data-page="69">
+<div class="pg" id="p69"><a href="#p69">p. 69</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 zwłaszcza przy lokacji oszd późniejszych, musiało być nawet rzeczą dość częstą, zważywszy, że olędrzy wydzielone im grunty okupywali, a zasoby majątkowe poszczególnych osadników nicwątpliwie były różne. Liczba i wielkość gospodarstw zmieniła się stale<sup class="lit-fn"><a href="#n-pl-307">69-1</a></sup> wskutek podziału ich drogą spadkobrania, a być może także, na skutek częściowej sprzedaży<sup class="lit-fn"><a href="#n-pl-308">69-2</a></sup>. Zmianę arcału gospodarstw pociągało za sobą również bezprawne przyorywanie grutnów pańskich. Było ono, jeśli chodzi o olędrów, powszechnie praktykowanym nadużyciem, które na próżno usiłoweł zwalczać dwór. Pomiary gruntów z czasów pruskich wykazały, że obszar prawie każdego gospodarswa przedstawia wielkość z ułemkiem<sup class="lit-fn"><a href="#n-pl-309">69-3</a></sup>. W aktach klasyfikacyjnych pruskich spotykamy odpisy szeregu aktów sprzedaży gruntów, już dawno przed tym bezprawnie przyoranych i użytkowanych przez olędrów<sup class="lit-fn"><a href="#n-pl-310">69-4</a></sup>. Zderzały się wypedki, że olędrzy powiększali obszar swych gospodarstw kosztem dróg publicznych. Tak np. w r. 1752 Jan Gruszczyński, sędzia wałecki, oblatuje w grodzie kościańskim manifest przeciwko olędrom z Kawczyna, skarżąc się, że rozorują granice, miedze, kopce graniczne „nie kontentując się dawnemi wiolencyami”, dalej, że drogę wiodącą od Jasienia do Kościana tak
@@ -3533,12 +3397,10 @@ especially at the founding of the later settlements, must even have been a fairl
 <span class="lit-note" id="n-en-310">69-4</span> Cases of this kind are quoted also by the village records. In the Ol. Nowe Dwory, for example, Adam Sapieha in 1094 sells to 2 settlers land hitherto used by them unlawfully beyond the original extent. In 1702 Jan Kazimierz Sapieha sells to the Olęders the lands ploughed in before that, of an area of 3¾ włókas, forbidding them categorically for the future any further ploughing-in (AW. Nowe Dwory B. 1, fol. 110–11).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-70">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-70">p. 70</a></h2>
+<section class="lit-passage" id="p-70" data-page="70">
+<div class="pg" id="p70"><a href="#p70">p. 70</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 rozorali, „że niepodobna szerokim tam więcey przeiechać, powozem pagórki otoczone nakształt znaków granicznych porozorywali, rowem kamieni wielką lewey stronie rolach leżące nade drogą od moc na po Jasienia do Kościana idącą wyrudowali, do Kawczyna poodwozili, y aby oczywistość same dokumenta iawne granic zaćmić 1.” Przeciwko<sup class="lit-fn"><a href="#n-pl-311">70-1</a></sup> y przyorywaniu gruntów dwór starał się zabezpieczyć w różny sposób; surowymi karami groził<sup class="lit-fn"><a href="#n-pl-312">70-2</a></sup> winnym, zastrzegał sobie możność dokonania każdej chwili pomiaru gruntów<sup class="lit-fn"><a href="#n-pl-313">70-3</a></sup>, zobowiązywał urząd gminny do przeprowadzania co pewien czas kontroli granic i znaków granicznych<sup class="lit-fn"><a href="#n-pl-314">70-4</a></sup>. lub też do przeprowadzania pomiarów całej osady<sup class="lit-fn"><a href="#n-pl-315">70-5</a></sup>. Ten sam cel miały postanowienia o obowiązkowych wymiarach rowu granicznego, czy miedzy<sup class="lit-fn"><a href="#n-pl-317">70-7</a></sup>, lub o szerokości dróg publicznych biegnących<sup class="lit-fn"><a href="#n-pl-316">70-6</a></sup> przez grunty osady. \|
@@ -3581,12 +3443,10 @@ Sometimes the Olęders, being the sole users of their own lands, drew profit in 
 <span class="lit-note" id="n-en-320">70-10</span> Thus, for example, in Lewice, AW. dep. A. 1, there were added to every huba, free of charge, 2 morgs of meadow for the Olęders.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-71">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-71">p. 71</a></h2>
+<section class="lit-passage" id="p-71" data-page="71">
+<div class="pg" id="p71"><a href="#p71">p. 71</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 nych. Grunty takie trafiały się jednak dość rzadko. Były to niemal zawsze łąki względnie pastwiska<sup class="lit-fn"><a href="#n-pl-321">71-1</a></sup>. produkcji c. Produkcja roślinna. Ściślejsze dane dotyczące roślinnej posiadamy Jedynie dla osad zagarniętych przez Prusy w I rozbiorze (z r. 1773), oraz dla osad majętn. sierakowskiej. Dane odnoszące się do osad na obszarze I zaboru pruskiego, zawarte w pruskich aktach klasyfikacyjnych, są schematyczne i wskutek tego budzą mniejsze zaufanie, natomiast dane dotyczące majętn. sierakowskiej, znajdujące się we wspomnianym już kilkakrotnie inwentarzu z r. 1759, zestawione są naogół sumiennie. Jak wynika z powyższych źródeł, produkcja roślinna olędrów z powodu złej gleby przedstawiała się nader skromnie<sup class="lit-fn"><a href="#n-pl-322">71-2</a></sup>. Pszenicy w ogóle nie uprawiano<sup class="lit-fn"><a href="#n-pl-323">71-3</a></sup>, Z innych zbóż w majętn. sierakowskiej<sup class="lit-fn"><a href="#n-pl-324">71-4</a></sup> uprawiano żyto, owies i Jęczmień, z innych płodów groch. W osadach klasyfikowanych w r. 1773 produkcja obejmowała czasem jeszcze tatarkę i len. Wysiew na jednostkę roli przedstawiał się różnie, zależnie od tego, jak długo poszczególne kawałki roli musiały leżeć ugorem. W Króteckich Ol. np. rola musiała 6—8 lat, a w Kwiejcach Nowych 6—9 lat pozostawać nieuprawiana<sup class="lit-fn"><a href="#n-pl-325">71-5</a></sup>. Przeciętny wysiew w Ol. Bielawy, Jasionna, Obelżanki i Rzecień$, gdzie podano również specyfikację gruntów poszczególnych osadników, wynosił na I włókę 30-morgową w korcach berlińskiej miary (!/a korca warszawskiego) : 10 korcy żyta, 4 korce jęczmienia, 3<sup class="lit-fn"><a href="#n-pl-326">71-6</a></sup> korce owsa, 1/s korca grochu, 1%/4 korca tatarki i 3 garnce Inu. Naogół jednak, jak się zdaje, uprawiano więcej owsa niż jęczmienia. Plon dawał 3 ziarna, niekiedy Jeszcze mniej, wyjątkowo 31/, ziarna.
@@ -3619,12 +3479,10 @@ In the gardens hops were occasionally grown, sometimes potatoes and carrots, but
 <span class="lit-note" id="n-en-327">71-7</span> Kl. XII 6 II.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-72">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-72">p. 72</a></h2>
+<section class="lit-passage" id="p-72" data-page="72">
+<div class="pg" id="p72"><a href="#p72">p. 72</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dach tytoń !. W źródłach brak wiadomości, czy<sup class="lit-fn"><a href="#n-pl-328">72-1</a></sup> w Jakiej mierze olędrzy hodowali drzewa owocowe*?.
@@ -3651,12 +3509,10 @@ d. The rearing of domestic animals, in contrast to plant production, developed i
 <span class="lit-note" id="n-en-330">72-3</span> Exceptionally in the Ol. Budziszewskie: “since concerning the hubas the Olęders lodged a complaint with the manor, suffering wrong in the pasture from the half-huba holders, who keep as many or more cattle and give from the pasture half as much less oats according to law... every Olęder keeping five head of horned cattle of whatever kind apart from horses owes the manor... on St Martin's day two wierteles of oats of the great skocki measure; and every Olęder keeping more than five head of horned cattle is bound each year to come to an agreement with the lord”.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-73">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-73">p. 73</a></h2>
+<section class="lit-passage" id="p-73" data-page="73">
+<div class="pg" id="p73"><a href="#p73">p. 73</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wykluczały zwiększenie hodowli poned tą normę. Wypadku, żeby zupełnie zakazano hodowli jakichkolwiek zwierząt Comowych, za wyjątkiem kóz ! źródła nie podają. Wracając do pierwszego rodzaju ograniczeń, stwierdzić trzeba, że miały one zawsze charakter opłaty za serwituty pastwiskowe; zawsze bowiem wtedy, gdy olędrzy zobowiązani byli uiszczać opłaty od hodowli owicc w ogóle, przysługiwało im prawo wypasu. Serwituty pastwiskowe i związane z nimi opłaty omówione zostaną na innym miejscu. Tu nadmienimy, że rzadko obowiązywały opłaty od całkowitej liczby owiec, ale zazwyczaj pewien kontyngent wolny był zupełnie od opłat, a dopiero od nadwyżki płacono dodatkowe czynsze. Przeciętnie granicą była cyfra 50<sup class="lit-fn"><a href="#n-pl-331">73-1</a></sup> owiec. Mogło się oczywiście zdarzyć, że ograniczenia względne w postaci dodatkowych czynszów od hodowli miały faktycznie charakter bczwzględny, gdy były tak wygórowane, że hodowla na skutek ich istnienia nie przedstawiała żadnego interesu. Zazwyczaj wolno było olędrom chować do<sup class="lit-fn"><a href="#n-pl-332">73-2</a></sup> owiec na I hubę. Wyjątkowo zezwalano na chów 60? lub nawet 100 owiec<sup class="lit-fn"><a href="#n-pl-333">73-3</a></sup> *, czasem znowu norma wynosiła mniej, 30, 25, 20 owiec. np.<sup class="lit-fn"><a href="#n-pl-334">73-4</a></sup> W olędrach majętn. sierakowskiej z początku wolro było choweć owce bez żadnych opłat, jednak aby zapobiec nadużyciom ze strony małorolnych, w proporcji do obszaru gospodarstw. Decydowała prawdopodobnie liczba owiec posiadanych przez większych gospodarzy. Hodowla owiec doszła tam do wielkiego rozkwitu; według inwentarza 1759 na I włókę olęderską przypadały przeciętnie 22 owce i 9 ja-<sup class="lit-fn"><a href="#n-pl-335">73-5</a></sup> z r. gniąt. W r. 1776 wprowadzone zostały opłaty w wysokości 15 gr od każdej owcy powyżej 20 sztuk, nie wiadomo jednak, jak to wpłynęło na rozmiary hodowli.
@@ -3683,12 +3539,10 @@ The pasturing of the Olęder sheep was as a rule in the hands of a common commun
 <span class="lit-note" id="n-en-335">73-5</span> Cf. the classification records. The total number of herdsmen in the classified settlements and in the Sieraków estate is given in Tab. III.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-74">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-74">p. 74</a></h2>
+<section class="lit-passage" id="p-74" data-page="74">
+<div class="pg" id="p74"><a href="#p74">p. 74</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 rozmiary hodowli jedno-hubowego gospodarza. Pan zwykle zezwalał<sup class="lit-fn"><a href="#n-pl-336">74-1</a></sup>, niekiedy nawet nakazywał utrzymywać pastuchów<sup class="lit-fn"><a href="#n-pl-337">74-2</a></sup>. Wyjątkowo w Ol. Rataje pan zabraniał olędrom trzymać własnego owczarza, a nakazywał ugodzić się o pasenie owiec z owczarzem pańskim<sup class="lit-fn"><a href="#n-pl-338">74-3</a></sup>.
@@ -3727,12 +3581,10 @@ the dimensions of the keeping of a one-huba farmer. The lord as a rule permitted
 <span class="lit-note" id="n-en-344">74-9</span> Inscr. Valc. nr 85, 1663–74, fol. 402. In the settlements upon the territory of central Poland the right of unrestricted hunting belonged to the Olęders more often. Cf. Baranowski, Wsie holenderskie, p. 76.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-75">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-75">p. 75</a></h2>
+<section class="lit-passage" id="p-75" data-page="75">
+<div class="pg" id="p75"><a href="#p75">p. 75</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Ogólny dochód olędrów z rybołówstwa tworzą dwie najściślej ze sobą złączone pozycje: dochody z własnej gospodarki rybnej i dochody z serwitutów rybnych. Rozgraniczenie tych dwu pozycji jest tutaj niezmiernie trudne do przeprowadzenia. Nie wiadomo bowiem, czy i w jakich wypadkach z posiadaniem gruntów olęderskich łączyło się prawo połowu w wodach pogranicznych (rzece, jeziorach, bagnach, stawach). Te same wątpliwości nasuwają stawy, które znajdowały się często na gruntach olęderskich, a które albo wchodziły, albo nie wchodziły do obszaru poszczególnych gospodarstw. O ile wydaje się rzeczą pewną, że przyległe wody, które rozgraniczały role pańskie i olęderskie, a także stawy leżące wprawdzie na gruntach olęderskich, ale nie wchodzące w skład tych gruntów pozostawały własnością psońską i prawo korzystania z nich uważane musi być za serwitut rybny, o tyle trudniej rozstrzygnąć, czy olędrzy w wypadkach, gdy np. otrzymali role nad rzeką lub jeziorem graniczącym z inną majętnością, wchodzili w dotychczasowe prawa pańskie do tychże wód, czy też przysługiwały im one również tylko w charakterze serwitutów. Źródła uzasadniają raczej drugą ewentualność, rozróżniają bowiem dość wyraźnie wody leżące na gruntach olęderskich i +wchodzące do obszaru tych gruntów (stawy<sup class="lit-fn"><a href="#n-pl-345">75-1</a></sup> wykopane przez olędrów, czasowe wylewy na gruntach przybrzeżnych) 1, oraz pozostałe obszary wodne ?. Przy tym założeniu lwia część<sup class="lit-fn"><a href="#n-pl-346">75-2</a></sup> dochodu olędrów z rybołówstwa przypadnie na serwituty rybne. Regułą było, że pan zezwalał na połów ryb we wszystkich wodach pogranicznych, wyjąwszy stawy pańskie na gruntach olęderskich. Olędrom nie wolno było jednak zakładać jazów na wodach bieżących<sup class="lit-fn"><a href="#n-pl-347">75-3</a></sup>. Niekiedy zakazywał pan łowienia ryb w okresie tarła<sup class="lit-fn"><a href="#n-pl-348">75-4</a></sup>. W wypadkach wyjątkowych, gdy pan rezerwował dla siebie wyłączne prawo rybołówstwa, dawał gminie pierwszeństwo przy wypuszczaniu go w dzierżawę 5.<sup class="lit-fn"><a href="#n-pl-349">75-5</a></sup> O istnieniu zawodowych rybaków wśród olędrów źródła nie wspominają.
@@ -3755,12 +3607,10 @@ The Olęders' total income from fishing is made up of two items most closely lin
 <span class="lit-note" id="n-en-349">75-5</span> Such was the case in the settlements of the Sieraków estate.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-76">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-76">p. 76</a></h2>
+<section class="lit-passage" id="p-76" data-page="76">
+<div class="pg" id="p76"><a href="#p76">p. 76</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 4, Przemysł. a. Karczmarstwo. Karczmy znajdowały się we wszystkich niemal osadach olęderskich. Był one.jednak zawsze jak gdyby ekspozyturami mielcuchów pańskich, gdyż w olędrach obowiązywał przymus propinacyjny i karczmarze otrzymywali gotowe trunki pańskie, które mieli obowiązek rozprzedawać w osadzie po wyznaczonej z góry cenie.
@@ -3790,12 +3640,10 @@ Exceptionally in Ostrówek the settlers, to whom Kerol Maciej Grudziński in the
 <span class="lit-note" id="n-en-354">76-5</span> AW. A. I.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-77">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-77">p. 77</a></h2>
+<section class="lit-passage" id="p-77" data-page="77">
+<div class="pg" id="p77"><a href="#p77">p. 77</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 był dla niego pewnego rodzaju powinnością dworską. Zdarzało się wyjątkowo, że w osadzie nie było ani karczmy, ani przynależnego do niej gospodarstwa, a osadnicy sprawowali szynk kolejno, otrzymując za to tylko świętojankę, lub w tej samej proporcji wynagrodzenie pieniężne I,<sup class="lit-fn"><a href="#n-pl-355">77-1</a></sup> "Tego rodzaju sprzedaż trunków mogła być dla nich nawet uciążliwym obowiązkiem. Karczmarz zobowiązany był sam zwieść trunki z pań-<sup class="lit-fn"><a href="#n-pl-356">77-2</a></sup> skiego mielcucha 3? i pod karą mieć je zawsze w dostatecznej ilości na<sup class="lit-fn"><a href="#n-pl-357">77-3</a></sup><sup class="lit-fn"><a href="#n-pl-358">77-4</a></sup> składzie<sup class="lit-fn"><a href="#n-pl-359">77-5</a></sup>. Szynk obejmował zarówno piwo jak i wódkę. „Sołtys<sup class="lit-fn"><a href="#n-pl-360">77-6</a></sup> ławnicy dojrzeć powinni, żeby (karczmarz) trunków wodą nie tworzył, 'aby ludzie za dobre pieniądze złych trunków nie pili”? 5. Zobowiązany był też karczmarz „o muzykę się starać dla wesołych ludzi przy wolnym czasie”? $, zapewne dla zwiększenia konsumcji trunków. Ze sprzedanych trunków karczmarz winien był zdawać rachunek prawdopodobnie przy każdorazowym braniu nowych zapasów. Zdarzały się odosobnione wypadki, że obowiązki sołtysa<sup class="lit-fn"><a href="#n-pl-361">77-7</a></sup> karczmarza złączone były jednej osobie. Tak np. w Radoszkowskich Ol. każdorazowy (dożywotni) ' sołtys był równocześnie: karczmarzem<sup class="lit-fn"><a href="#n-pl-362">77-8</a></sup>, W myśl zaleceń pańskich karczma winna się przedstawiać jako „dom przyzwoity do szynku jako i wygody podróżnych” 8, przy niej znajdować się miała przestronna stajnia ?.<sup class="lit-fn"><a href="#n-pl-363">77-9</a></sup> Ubocznie poruszymy tu kwestię rozmiarów konsumcji trunków, czym posiadamy tylko fragmentaryczne dane statystyczne. W karczmach Starych i Nowych Borujskich Ol. oraz w Ol. Szarki według urzędowej taksacji dochodów dworskich sporżądzonej w r. 1797 wyszynk roczny wynosił 229 beczek<sup class="lit-fn"><a href="#n-pl-364">77-10</a></sup> garncy piwa, oraz 12 beczek 121½ garnca wódki, w mierze kościańskiej 19. W r. 1789 (Tol.) ludność tych gmin wynosiła 1152 osoby. Spożycie trunków na \| osobę, licząc
@@ -3828,12 +3676,10 @@ of liquors was for him a kind of manorial duty. It happened exceptionally that i
 <span class="lit-note" id="n-en-364">77-10</span> AGH sąd Wolsztyn, the Hamer estate, t. III H. I (Tax Acten), fol. 110. Alternatively — though this seems scarcely probable — the sołtyses may still have received the świętojanka, which did not enter into the given quantity of liquors.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-78">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-78">p. 78</a></h2>
+<section class="lit-passage" id="p-78" data-page="78">
+<div class="pg" id="p78"><a href="#p78">p. 78</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 na beczkę 36 garncy<sup class="lit-fn"><a href="#n-pl-365">78-1</a></sup>. wynosiło więc około 8 garncy piwa i 1/, garnca wódki rocznie. Pojemność garnca miary kościańskiej nie jest dokładnie ustalona; zapewne.zbliżona była do pojemności garnca berlińskiego, który zawierał 4,58 litra<sup class="lit-fn"><a href="#n-pl-366">78-2</a></sup>. Faktyczna. konsumcja musiała być conaj-<sup class="lit-fn"><a href="#n-pl-367">78-3</a></sup> mniej dwukrotnie większa, ponieważ olędrzy dzięki zupełnej swobodzie handlu płodami rolnymi i wszystkimi innymi towarami często jeździli do miast i osad sąsiednich<sup class="lit-fn"><a href="#n-pl-368">78-4</a></sup>, to zaś podobnie Jak się to dzieje i dzisiaj, było niewątpliwie okazją do konsumcji trunków. Oczywiście, z drugiej strony, w karczmach olęderskich pewien procent trunków konsumowany mógł być przez mieszkańców innych osad względnie przejezdnych kupców. Stosunek ilościowy spożycia wódki do spożycia piwa wyrosił I : 16. Przeciętnie w. tym samym mniej więcej stosunku konsumowano piwo i wódkę w Bronicach i Kwiejcach Nowych według danych z r. 1773<sup class="lit-fn"><a href="#n-pl-369">78-5</a></sup>.<sup class="lit-fn"><a href="#n-pl-370">78-6</a></sup> b. Młynarstwo. Ogólna liczba młynarzy podana została szacunkowo w tab. II i III. Prawie wszystkie młyny istniejące w osadach olęderskich były wiatrakami. Budowa młyna wymagała według wszelkiego prawdopodobieństwa specjalnego zezwolenia pańskiego 5. Młynarze olędrzy płacili z młyna tylko stały czynsz pieniężny 6. Dochody młynarzy zmniejszały się wskutek tego, że olędrów nie obowiązywał na ogół przymus mlewa, mogli więc wozić zboże do dowolnego młyna, gdy tymczasem okoliczni włościanie pańszczyźniani zobowiązani byli mleć zboże tylko w młynach pańskich. było c. Rzemiosło. Jak wykazują tab. II i III, rzemiosło w olędrach słabo rozwinięte. Tłumaczyć to należy zapewne tym, że olędrzy mieli ściślejszy niż pozostała ludność, kontakt z okolicznymi miastami (por. wyżej). Pan nie zabraniał gminie trzymać u siebie rzemieślników, wymagał tylko aby byli „poczciwi”<sup class="lit-fn"><a href="#n-pl-371">78-7</a></sup> W Podgradowicach i Rakoniewicach wolno było olędrom „płótna robić dla potrzeby swojej domowej, ale komu inszemu za pieniądze nie wolno pod sztrafą”<sup class="lit-fn"><a href="#n-pl-373">78-9</a></sup>.<sup class="lit-fn"><a href="#n-pl-372">78-8</a></sup>
@@ -3864,12 +3710,10 @@ na beczkę 36 garncy<sup class="lit-fn"><a href="#n-pl-365">78-1</a></sup>. wyno
 <span class="lit-note" id="n-en-373">78-9</span> Rel. Cost. nr 164, 1729, fol. 177 ad.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-79">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-79">p. 79</a></h2>
+<section class="lit-passage" id="p-79" data-page="79">
+<div class="pg" id="p79"><a href="#p79">p. 79</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Warsztaty prowadzone były przez rzemieślników przybyłych miasta, 1to —z wyjątkiem kowali zapewne bez pomocników. Prace wykony— wali rzemieślnicy prawdopodobnie na zamówienie. Panu nie byli zobowiązani świadczyć żadnych powinności od rzemiosła, jedynie (poza niektórymi kowalami, którzy posiadali własne gospodarstwa) płacili czynsz olędrom za wynajem odpowiedniego pomieszczenia na warsztat.
@@ -3896,12 +3740,10 @@ d. Forest industry, embracing the burning of charcoal, the making of tar<sup cla
 <span class="lit-note" id="n-en-379">79-6</span> Dom. P. 6755, fol. 16, the Ol. Uścikowskie.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-80">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-80">p. 80</a></h2>
+<section class="lit-passage" id="p-80" data-page="80">
+<div class="pg" id="p80"><a href="#p80">p. 80</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 nież postanowienia przywilejów, mocą których olędrzy zostawali zwolnieni od opłat targowych w miastach należących do tego samego pana, o ile nie kupowali „na przekup”?<sup class="lit-fn"><a href="#n-pl-380">80-1</a></sup>. Prawdopodobnie częstym przedmiotem handlu było zboże, które niewątpliwie za poprzednimi staraniami olędrów, zezwalano im w przywilejach swobodnie sprzedawać i kupować<sup class="lit-fn"><a href="#n-pl-381">80-2</a></sup>. W bardzo rzadkich wypadkach pan ograniczał swobodę sprzedaży zboża, żądając np. aby olędrzy zbytni jęczmień sprzedawali wyłącznie na słód do pańskiego mielcucha (browaru)<sup class="lit-fn"><a href="#n-pl-382">80-3</a></sup>. 6. Inne zawody. Gmina mogła niekiedy utrzymywać własnego stróża. W Popowie pan dla takiego stróża, który miał równocześnie doglądać i dworskich obiektów, przeznaczał „kawał roli”<sup class="lit-fn"><a href="#n-pl-383">80-4</a></sup>. Pewien procent ludności osad tworzyli nauczyciele względnie lektorzy, pełniący funkcje nauczycielskie i religijne. Ich sytuacja gospodarcza omówiona zostanie na dalszych stronach. Tutaj zaznaczymy tylko, że główne dochody czerpali oni z roli, wyznaczonej im przez pana, wolnej od wszelkich czynszów. D. Prawa użytkowe olędrów na posiadłościach pań” skich (serwituty)
@@ -3932,12 +3774,10 @@ Besides the incomes from their own economy the Olęders drew profits from the lo
 <span class="lit-note" id="n-en-386">80-7</span> AW. Borkowskie Ol., A. 1: “for the pasture... they shall have to pay, apart from the sheep, which, if they keep them, each must pasture on his own huba”. Item AW. Krosińskie Ol., A. 1.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-81">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-81">p. 81</a></h2>
+<section class="lit-passage" id="p-81" data-page="81">
+<div class="pg" id="p81"><a href="#p81">p. 81</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 bądź ograniczone ilościowo, bądź też uwarunkowane pewnymi opłatami za pastwisko (por. s. 83). Możliwe były tutaj następujące kombinacje: a. Olędrzy opłacali od pastwiska pewien czynsz pieniężny, w naturze, lub świadczyli pewne robocizny w ilości stałej, niezależnie od liczby wypasanych na pańskich gruntach owiec<sup class="lit-fn"><a href="#n-pl-387">81-1</a></sup>. b. Opłaty wyznaczane były od każdej owcy (względnie od pewnej ilości, np. od każdych 4, od każdych 25 owiec)<sup class="lit-fn"><a href="#n-pl-388">81-2</a></sup>, i to w ten sposób, że albo opłacie podlegały wszystkie owce<sup class="lit-fn"><a href="#n-pl-389">81-3</a></sup>, albo też pewną liczbę owiec mogli olędrzy paść bez żadnych opłat, a dopiero od pozostałej nadwyżki obowiązywały pewne świadczenia<sup class="lit-fn"><a href="#n-pl-390">81-4</a></sup>. c. Do rzadkości należały opłaty wymierzane proporcjonalnie od powierzchni wydzielonego olędrom pastwiska<sup class="lit-fn"><a href="#n-pl-391">81-5</a></sup>. Świń i wieprzów przeważnie nie wolno było wypasać w pańskich lasach bez specjalnej ugody z panem<sup class="lit-fn"><a href="#n-pl-392">81-6</a></sup>. W niektórych osadach majętn. wieleńskiej mogli olędrzy wypasać trzodę chlewną na pańskiej żołędzi, ale nie wolno lm było zbierać żołędzi na zapas<sup class="lit-fn"><a href="#n-pl-393">81-7</a></sup>, w innym wypadku dozwalał pan paść na dworskiej żołędzi najwyżej, 2 wieprze z każdej huby<sup class="lit-fn"><a href="#n-pl-394">81-8</a></sup>. Surowo zabraniano olędrom przyjmować na wypas cudze bydło, owce lub nierogaciznę<sup class="lit-fn"><a href="#n-pl-395">81-9</a></sup>. W nielicznych tylko wypadkach wolno im było wypasać' trzody! na wszystkich gruntach dworskich. Pan żądał wtedy, aby nie czynili bydłem szkód w dworskim zbożu i łąkach<sup class="lit-fn"><a href="#n-pl-396">81-10</a></sup>. Po największej części serwituty pastwiskowe odnosiły się do pańskich lasów i pastwisk. "Wyłączone były zagajenia i kultury<sup class="lit-fn"><a href="#n-pl-397">81-11</a></sup>. Niekiedy wypas mógł się odbywać tylko na wydzielonej części pastwiska lub lasu<sup class="lit-fn"><a href="#n-pl-398">81-12</a></sup>. Przywileje zawierały —.
@@ -3974,12 +3814,10 @@ either limited in quantity, or else made conditional upon certain payments for t
 <span class="lit-note" id="n-en-398">81-12</span> Dom. P. 10 820, fol. 39, the Połajewskie Olęders.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-82">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-82">p. 82</a></h2>
+<section class="lit-passage" id="p-82" data-page="82">
+<div class="pg" id="p82"><a href="#p82">p. 82</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ponadto ogólne zastrzeżenie, aby wypasanie trzód olęderskich nie odbywało się z uszczerbkiem dla bydła dworskiego i pańszczyźnianego I,<sup class="lit-fn"><a href="#n-pl-399">82-1</a></sup> Wypas mógł być również ograniczony czasowo. W Ol. Jasionowych np. dozwolony był tylko od Wielkiejnocy do Zielonych Świątek?,<sup class="lit-fn"><a href="#n-pl-400">82-2</a></sup> a Ol. Strychowskich tylko w jesieni<sup class="lit-fn"><a href="#n-pl-402">82-4</a></sup>. W Złotkowie nie wolro było<sup class="lit-fn"><a href="#n-pl-401">82-3</a></sup> paść bydła na pańskim ściernisku „zeraz za stopem”, a więc. przed zagrabieniem pola<sup class="lit-fn"><a href="#n-pl-403">82-5</a></sup>. 2. Serwituty leśne. Będziemy pod nimi rozumieli uprawnienia olędrów do użytkowania pańskiego lasu w określonych granicach — poza serwitutami pastwiskowymi. Zakres serwitutów leśnych olędrów przedstawiał się inaczej w latach wolnych od czynszów, a inaczej w latach późniejszych. W pierwszym okresie olędrzy mieli zawsze prawo do pobierania wszelkiego rodzaju drzewa z lasu pańskiego, o ile nie było go w wystarczającej ilości i jakości na wydzielonych im gruntach5. Po upływie<sup class="lit-fn"><a href="#n-pl-404">82-6</a></sup><sup class="lit-fn"><a href="#n-pl-405">82-7</a></sup> czasu wolnizny olędrom z reguły przysługiwało prawo zbierania w pańskim lesie drzewa na opał, natomiast budulca i żerdzi na płoty nie wolno im było ciąć bez zezwolenia dworu 8, Zezwolenie na korzystanie w dowolnym stopniu z wszelkiego rodzaju drzewa było rzadkością”. Często olędrzy otrzymywali bezpłatnie drzewo do reparacji budynków<sup class="lit-fn"><a href="#n-pl-406">82-8</a></sup>, lub na wypadek pogorzeli, w tym ostatnim wypadku za osobną ugodą z panem? W ogóle było zasadą, że wyrąb drzewa musiało poprzedzić<sup class="lit-fn"><a href="#n-pl-407">82-9</a></sup> uzyskanie odpowiedniego „„kwitu” pańskiego 19, Surowo wzbroniona była<sup class="lit-fn"><a href="#n-pl-408">82-10</a></sup> sprzedaż drzewa z lasów pańskich. W niektórych przywilejach spotykamy również zezwolenie na zbieranie w pańskim lesie igliwia na mierzwę ?. Natomiast sprawa zbierania grzybów i jagód nie była w przy-<sup class="lit-fn"><a href="#n-pl-409">82-11</a></sup><sup class="lit-fn"><a href="#n-pl-410">82-12</a></sup> wilejach uregulowana. Wypadki, w których olędrom w ogóle nie przysługi-
@@ -4016,12 +3854,10 @@ over and above this the general stipulation that the pasturing of the Olęder he
 <span class="lit-note" id="n-en-410">82-12</span> AW. Krosna, A. 2; AM. Trzciel, A. 1.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-83">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-83">p. 83</a></h2>
+<section class="lit-passage" id="p-83" data-page="83">
+<div class="pg" id="p83"><a href="#p83">p. 83</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wały serwituty leśne, należały do rzadkości<sup class="lit-fn"><a href="#n-pl-411">83-1</a></sup>. W Ol. Budziszewskich (lokowanych w r. 1746) miejsce pierwotnych serwitutów zastąpiła w r. 1770 coroczna umowa z panem, od której każda ze stron z końcem roku miała prawo odstąpić<sup class="lit-fn"><a href="#n-pl-412">83-2</a></sup>. Za korzystanie z serwitutów dwór wyjątkowo tylko nie pobierał żadnego ekwiwalentu<sup class="lit-fn"><a href="#n-pl-413">83-3</a></sup>. Normalnie obowiązywały z tego tytułu pewne stałe opłaty i to zazwyczaj w naturaliach (najczęściej w owsie)<sup class="lit-fn"><a href="#n-pl-414">83-4</a></sup>.
@@ -4066,12 +3902,10 @@ To this category belong the lord's non-recurrent material benefits of the nature
 <span class="lit-note" id="n-en-418">83-8</span> AW. Stróżewskie Ol., A. I.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-84">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-84">p. 84</a></h2>
+<section class="lit-passage" id="p-84" data-page="84">
+<div class="pg" id="p84"><a href="#p84">p. 84</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 olęderski na wyżywienie do dworu<sup class="lit-fn"><a href="#n-pl-419">84-1</a></sup>. Świadczeniem niematerialnym była opieka dworu nad olędrami i obrona ich przed szkodą ze strony mieszkańców osad sąsiednich<sup class="lit-fn"><a href="#n-pl-420">84-2</a></sup>. Opieka taka dla olędrów wyrażała się korzyściami materialnymi, co uwidaczniało się zwłaszcza wtedy, gdy pan gwarantował olędrom odszkodowanie ze strony sąsiedów za wyrządzone szkody (w zasiewach, w inwentarzu itd.)<sup class="lit-fn"><a href="#n-pl-421">84-3</a></sup>.
@@ -4104,12 +3938,10 @@ I. Rents. All the Olęders were rent-payers. Labour dues had only a slight signi
 <span class="lit-note" id="n-en-424">84-6</span> AW. Lubieńskie Ol., B. 1; AW. Marienwald, B. 1; AW. Nieszawskie Ol., A. 1–5; AW. Szklarka Trzcielska, A. I.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-85">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-85">p. 85</a></h2>
+<section class="lit-passage" id="p-85" data-page="85">
+<div class="pg" id="p85"><a href="#p85">p. 85</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 8D a. Czynsze pieniężne wymierzane byly w różnych jednostkach monetarnych, których kurs podlegał ciągłym wahaniom, a wskutek tego zmieniała się ciągle ich wzajemna relacja. W dalszych rozważaniach wszystkie czynsze przeliczone zostały na trzydziestogroszowe złote polskie<sup class="lit-fn"><a href="#n-pl-425">85-1</a></sup>. Często zresztą były one wyznaczane alternatywnie w dwóch odrębnych jednostkach pieniężnych i w związku z tym podawano wartość jednej monety w stosunku do drugiej.
@@ -4148,12 +3980,10 @@ Among the money rents the most important, and sometimes the only, item was forme
 <span class="lit-note" id="n-en-433">85-9</span> AW. Tuchorskie Stare Ol., dep. A. 1 (1703) — 10 thalers; AW. Sowiagóra, B. 2 (1703) — 8 thalers; AW. Zielonka, A. I (1704) — 10 thalers; Rel. Posn. nr 035, 1790, fol. 316, the Słonawskie Olęders (1707) — 8 thalers; AW. Jaromierz (Nowy), B. 4, fol. 63 (1719) — 12 thalers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-86">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-86">p. 86</a></h2>
+<section class="lit-passage" id="p-86" data-page="86">
+<div class="pg" id="p86"><a href="#p86">p. 86</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 złotówkach tynfowych; w tym ostatnim wypadku ndleżność wynosiłą przeciętnie 50 tynfów, wahając się w poszczególnych wypadkach od 30<sup class="lit-fn"><a href="#n-pl-434">86-1</a></sup> do 70<sup class="lit-fn"><a href="#n-pl-435">86-2</a></sup> tynfów. Nieco wyższy czynsz notujemy w osadach lokowanych w latach osiemdziesiątych w. XVIII; wynosi on tam niekiedy 75—88 zł<sup class="lit-fn"><a href="#n-pl-436">86-3</a></sup>, czyli 60—70 tynfów, licząc tynfa po 38 gr. Wyjątkowo niski czynsz w Radoszkowskich Ol. wynosi z huby (włóki) 16 zł (r. 1781), natomiast we Włościejewskich O. (r. 1783) mamy świadczenia dość wysokie, bo wynoszące 100 tynfów z huby. Koło tej sumy waha się czynsz w osadach lokowanych w ostatniej ćwierci w. XVIII<sup class="lit-fn"><a href="#n-pl-437">86-4</a></sup>.
@@ -4194,12 +4024,10 @@ In several settlements the Olęders paid to the lord the so-called stróżowe (w
 <span class="lit-note" id="n-en-443">86-10</span> Rel. Cost. nr 190, 1755, fol. 33.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-87">p. 87</a></h2>
+<section class="lit-passage" id="p-87" data-page="87">
+<div class="pg" id="p87"><a href="#p87">p. 87</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wego była bardzo różna; w Popowie wynosiła nawet 23<sup class="lit-fn"><a href="#n-pl-444">87-1</a></sup> zł rocznie1 gdzie indziej płacono mniej (8 zł, 6<sup class="lit-fn"><a href="#n-pl-445">87-2</a></sup> zł)?.
@@ -4244,12 +4072,10 @@ b. Rents in kind. Rents of this kind we meet with in the second half of the seve
 <span class="lit-note" id="n-en-457">87-14</span> AW. Trojanowo Ol., B. 1037: “For St Martin's day 2 geese, 2 mendle of eggs, 4 capons they are to deliver, or money for them according to agreement”.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-88">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-88">p. 88</a></h2>
+<section class="lit-passage" id="p-88" data-page="88">
+<div class="pg" id="p88"><a href="#p88">p. 88</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 2. Opłaty. Prócz czynszów pieniężnych olędrzy uiszczali pówne opłaty. Różniły się one tym od czynszów, że płacoro je dopiero w pewnych okoliczności: ch (rp. w rzzie sprzedaży gospod: rstwa), gdy tymczasem czynsze płacone były zawsze, w stałej, określonej wysokości. Na granicy czynszów i opłat stała omówiona już należrość za serwituty pastwiskowe, płacona od każdej poszczególnej owcy. Właściwe opłaty uiszczane przez olędrów można podzielić na 2 grupy: opłaty o charakterze gospodarczym i opłaty administracyjne. Do pierwszej kategorii opłat należało okupne (za grunt, za budynki), dalej ewentualne opłaty targowe. Wysokość okupnego wahała się w berdzo szerokich granicach i trudno tu podać jakąś cyfrę przeciętną. W 2 oszdach lokowanych na schyłku w. XVII okupne wyrosiło za hubę 40 talarów, licząc talar 15 szóstaków (== 120 zł)<sup class="lit-fn"><a href="#n-pl-458">88-1</a></sup> i 100 talarów po kursie 5 zł za talar (== 500 zł)<sup class="lit-fn"><a href="#n-pl-459">88-2</a></sup>. Na początku w. XVIII płacono za hubę: 150 zł (r. 1701)<sup class="lit-fn"><a href="#n-pl-460">88-3</a></sup>, 30 zł (r. 1707)<sup class="lit-fn"><a href="#n-pl-461">88-4</a></sup>, 10 zł (r. 1709)<sup class="lit-fn"><a href="#n-pl-462">88-5</a></sup>, 100 tynfów (r. 1712)<sup class="lit-fn"><a href="#n-pl-463">88-6</a></sup>. W związku ze spadkiem wartości pieniądza podrosi się nominalnie suma okupnego, dochodząc około r. 1730 wyjątkowo nawet do 600 zł<sup class="lit-fn"><a href="#n-pl-464">88-7</a></sup>, Z drugiej strony, w tym samym czasie mamy do zanotowania okupne w wysokości. 6 zł<sup class="lit-fn"><a href="#n-pl-465">88-8</a></sup>, a nieco później (r. 1752) 1 czerwony złoty z huby<sup class="lit-fn"><a href="#n-pl-466">88-9</a></sup>. Na dłuższy czas wysokość okupnego ustala się na mniej więcej 100 zł z huby. W ostatniej ćwierci w. XVIII okupne jest wyższe. Za hubę płaci się: 900 zł (r. 1771 — role uprawne z budynkami)<sup class="lit-fn"><a href="#n-pl-467">88-10</a></sup>, 24 zł (r. 1773)<sup class="lit-fn"><a href="#n-pl-468">88-11</a></sup>, 30 czerwonych zł (r. 1775)<sup class="lit-fn"><a href="#n-pl-469">88-12</a></sup>, 900 zł (role uprawne z budynkami — r. 1776 i 1781)<sup class="lit-fn"><a href="#n-pl-470">88-13</a></sup>, 10 czerw. zł (r. 1783)<sup class="lit-fn"><a href="#n-pl-471">88-14</a></sup>, 1.800 zł i 1.500 zł (role uprawne z budynkami — r. 1785)<sup class="lit-fn"><a href="#n-pl-472">88-15</a></sup>, 150 zł (r. 1786)<sup class="lit-fn"><a href="#n-pl-473">88-16</a></sup>, 20 czerw. zł (r. 1787)<sup class="lit-fn"><a href="#n-pl-474">88-17</a></sup>.
@@ -4296,12 +4122,10 @@ b. Rents in kind. Rents of this kind we meet with in the second half of the seve
 <span class="lit-note" id="n-en-474">88-17</span> The Ol. Charłub, Rel. Cost. nr 220, 1787, fol. 182.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-89">p. 89</a></h2>
+<section class="lit-passage" id="p-89" data-page="89">
+<div class="pg" id="p89"><a href="#p89">p. 89</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Niekiedy pan zwalniał olędrów od uiszczania opłat targowych<sup class="lit-fn"><a href="#n-pl-475">89-1</a></sup> w miastach leżących w jego majętności. Przypuszczać należy, że gdy olędrzy nie byli od opłat zwolnieni, obowiązywały ich stawki stosowane ogólnie. Źródła nic jednak o tym nie mówią.
@@ -4328,12 +4152,10 @@ Among the administrative dues the greatest significance belonged to the fee on t
 <span class="lit-note" id="n-en-479">89-5</span> Rel. Posn. nr 038, r. 1791, fol. 602.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-90">p. 90</a></h2>
+<section class="lit-passage" id="p-90" data-page="90">
+<div class="pg" id="p90"><a href="#p90">p. 90</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 nymi i to bądź przez podanie obowiązujących dni pracy, bądź przez wyznaczenie obszaru roli, na którym miały być pewne prace wykonane. Liczba dni pracy, jak zresztą i ilość pozostałych robocizn wahała się w bardzo szerokich granicach. Obok wypadków, kiedy nie było robocizny zupełnie !, spotykamy i taki wypadek, że odrabiano ją w liczbie 50 dni<sup class="lit-fn"><a href="#n-pl-480">90-1</a></sup> rocznie z huby<sup class="lit-fn"><a href="#n-pl-481">90-2</a></sup>. Przeciętnie liczba dni robocizny wynosiła 6—12 dni z huby; robocizny niższe lub ich brak spotykamy w wypadkach, gdy odrabiano jeszcze inne robocizny, nie określone liczbą dni (np. zwózki). Zwykle określano rodzaj pracy i porę roku, w której praca miała być wykonana (orka, wożenie mierzwy, zasiewy, żęcie zboża, sianokosy itd.). Rzadziej spotykamy obowiązek wykonania pewnych prac rolnych na określonym obszarze roli, czyli tzw. jutrzyny 3. W wyjątkowych wypadkach<sup class="lit-fn"><a href="#n-pl-482">90-3</a></sup> zastosowanie miała kombinacja pośrednia, tzw. robocizna wydziałowa, polegająca na tym, że ustalano pewną liczbę dni pracy, ale jednocześnie określano minimum pracy, która miała być wykonana w ciągu dnia. Tak np. w jednej z osad olędrzy zobowiązani byli „3 dni orać po 12 zagonów”<sup class="lit-fn"><a href="#n-pl-483">90-4</a></sup>, w innym wypadku obowiązkiem ich było od św. Wojciecha do św. Marcina w każdym tygodniu zorać morgę roli<sup class="lit-fn"><a href="#n-pl-484">90-5</a></sup>. Jutrzyny obejmowały zazwyczaj tylko orkę (30<sup class="lit-fn"><a href="#n-pl-485">90-6</a></sup> do 60<sup class="lit-fn"><a href="#n-pl-486">90-7</a></sup> zagonów), niekiedy tylko koszenie<sup class="lit-fn"><a href="#n-pl-487">90-8</a></sup>, rzadziej orkę i koszenie<sup class="lit-fn"><a href="#n-pl-488">90-9</a></sup>, a wyjątkowo wszystkie prace prócz siewu<sup class="lit-fn"><a href="#n-pl-489">90-10</a></sup>. Robocizny jutrzynne mogły również polegać na koszeniu i suszeniu siana na określonym kawałku łąki<sup class="lit-fn"><a href="#n-pl-490">90-11</a></sup>. W Ol.. Cisiogórskich olędrzy zobowiązani byli jeszcze wydzielone im łąki „trzymać w dozorze ...ażeby nie zarastały”<sup class="lit-fn"><a href="#n-pl-491">90-12</a></sup>. Do tej kategorii powinności należał
@@ -4370,12 +4192,10 @@ nite, either by the specification of a number of working days, or by the designa
 <span class="lit-note" id="n-en-491">90-12</span> Rel. Cost. nr 224, r. 1788, fol. 379.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-91">p. 91</a></h2>
+<section class="lit-passage" id="p-91" data-page="91">
+<div class="pg" id="p91"><a href="#p91">p. 91</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 również bardzo rzadko zresztą spotykany obowiązek rąbania pewnej Określonej ilości drzewa na potrzeby pańskie<sup class="lit-fn"><a href="#n-pl-492">91-1</a></sup>.
@@ -4418,12 +4238,10 @@ Among the labour dues an important place was occupied by the so-called tłoki [c
 <span class="lit-note" id="n-en-499">91-8</span> AGH, Międzychód court, the Białokosz estate, vol. IIL,/ fol. 19, Białokoskie Ol.; AW, Karpicko, A. 1; AW. Niwka, A. 1]; AGH, Wronki court, the Popowo estate, XIX 199, a copy of the charter of 1708; AGH, Rogoźno court, the Wojnowo estate, vol. I, fol. 161, Wojnowskie Ol.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-92">p. 92</a></h2>
+<section class="lit-passage" id="p-92" data-page="92">
+<div class="pg" id="p92"><a href="#p92">p. 92</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 robociznami dobrowolnymi, lecz obowiązywały osadników tak samo jak inne powinności dworskie. Obowiązek świadczenia ich był często wyraźnie podkreślony w przywileju. Można mieć wątpliwości, czy zawsze wynagrodzenie w piwie starowiło wystarczający ckwiwalent za wykonywane przez olędrów prace. Początkowo, według wszelkiego prawdopodobieństwa tłoki świadczone były w ilości niewielkiej i tylko w razie bezrdzo nagłej potrzeby. Ponieważ olędrzy otrzymywali za pracę wynagrodzenie, nie uważano tłok za powinrość obciążającą olędrów i niekiedy nie dawaro o nich wzmianki w przywileju. I tak według lustracji majętn. wieleńskiej z r. 1653 olędrzy, którzy lokowani zostali w tejże majętności na początku XVII stulecia, zobowiązani byli pracować \| dzień przy żniwach, a mimo to w późniejszych przywilejach z r. 1677 nie spotykamy o robociznach iych żadnej wzmianki. Na ogół jednak obowiązek odprawiania tłok jest! w przywilejach wyraźnie sformułowany<sup class="lit-fn"><a href="#n-pl-500">92-1</a></sup>, a nawet odróżnia się wyrzźnie tłoki i robocizny „za uproszeniem””. Przywilej dla Ol. Jerackich postanawia że: ,,Inszey zaś robocizny (prócz za uproszeniem i tłuk zwyczainych) dwór na pomienionych olędrach pretendować nie powinien”<sup class="lit-fn"><a href="#n-pl-501">92-2</a></sup>, Określenie liczby tłok w przywileju uważać trzeba za korzystre dla olędrów, gdyż zabezpieczało ich przed ewentualnymi nadużyciemi ze strony pana. Najczęściej świadczono robociznę ręczną (stąd niekiedy nazywano tłoki szarwark: łni)<sup class="lit-fn"><a href="#n-pl-502">92-3</a></sup>, spotyke my jednak i tłoki sprzężajne<sup class="lit-fn"><a href="#n-pl-503">92-4</a></sup>.
@@ -4452,12 +4270,10 @@ Owing to the number of working days being sometimes left undetermined more close
 <span class="lit-note" id="n-en-505">92-6</span> AW. Blinek Ol., A. 1; AW. Borkowskie Ol., A. 1; Rel. Posn. nr 489, r. 1751, fol. 69, Dymaczewskie Stare Ol.; AW. Jaromierskie Stare Ol., A. 1; Kat. II, fol. 239; AW. Kielczynek, A. 1; AW. Krosna, A. 2; AW. Łoskońskie Stare Ol., B. 365; AW. Marienwald, B. I; Rel. Posn. nr 038, r. 1791, fol. 602, Róża Ol.; Rel. Posn. nr 620, r. 1787, fol. 27, Snowidowo; AW. Jaromierz B. 4, fol. 78, Ujście Nowe.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-93">p. 93</a></h2>
+<section class="lit-passage" id="p-93" data-page="93">
+<div class="pg" id="p93"><a href="#p93">p. 93</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Z innych prac wymienić należy obowiązek zwożenia drzewa do pańskich budynków<sup class="lit-fn"><a href="#n-pl-506">93-1</a></sup> i strzyżenia owiec<sup class="lit-fn"><a href="#n-pl-507">93-2</a></sup>, wreszcie pomocy przy połowie ryb<sup class="lit-fn"><a href="#n-pl-508">93-3</a></sup> i warzeniu piwa<sup class="lit-fn"><a href="#n-pl-509">93-4</a></sup>. Olędrzy zobowiązani byli również mieć staranie o całość i dobry stan granici znaków granicznych osady<sup class="lit-fn"><a href="#n-pl-510">93-5</a></sup>, oraz strzec pańskiego lasu (pilnować przed złodziejami<sup class="lit-fn"><a href="#n-pl-511">93-6</a></sup> i gasić pożary<sup class="lit-fn"><a href="#n-pl-512">93-7</a></sup>). Zaznaczyć wypada, że. wszystkie te robocizny nieokreślone do ilości co spotyka się na ogół rzadko i to stosowane w sposób umiarkowany; przeważają robocizny określone.
@@ -4494,12 +4310,10 @@ Among other works mention must be made of the obligation to cart timber to the l
 <span class="lit-note" id="n-en-515">93-10</span> AW. Paproć, C. 2, fol. 257, Różyńskie Ol. Rel. Posn. nr 640, r. 1791, fol. 268, Paproć Pl.: it shall be permitted to them also to make the konwent drink, alias cienkusz, in their houses for themselves 1 their household, yet nevertheless, should they wish to arrange a wedding or christenings and other honourable revels and need beer for that, they must take it from my malt-kiln. Item: Rel. Posn. nr 435, r. 1742, fol. 230, Chełmskie Ol.; ibid. nr 645, r. 1793, fol. 101, Komorowskie Ol.; AW. Koziclaski, A. 1; AGH, Poznań court, Naramowice, t. 1, fol. 5; Rel. Posn. nr 043, r. 1792, fol. 54, Sękowo Ol.; ibid. nr 641, r. 1792, fol. 824, Węgielna Ol.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-94">p. 94</a></h2>
+<section class="lit-passage" id="p-94" data-page="94">
+<div class="pg" id="p94"><a href="#p94">p. 94</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 zobowiązani byli zawsze pić trunki pańskie<sup class="lit-fn"><a href="#n-pl-516">94-1</a></sup>. O ile olędrzy mieli wolność wyrobu trunków, to była ona zwykle ograniczona do produkcji na własną potrzebę, ewentualnie na sprzedaż w obrębie osady<sup class="lit-fn"><a href="#n-pl-517">94-2</a></sup>. W odosobnionych wypadkach przysługiwało olędrom nieograniczone prawo wyrobu i sprzedaży trunków<sup class="lit-fn"><a href="#n-pl-518">94-3</a></sup>, zazwyczaj jednak. za osobną opłatą roczną i to zwykle pieniężną<sup class="lit-fn"><a href="#n-pl-519">94-4</a></sup>, wyjątkowo w słodzie<sup class="lit-fn"><a href="#n-pl-520">94-5</a></sup>. Najwcześniej lokowanym olędrom wieleńskim, którzy początkowo mogli na swe potrzeby warzyć piwo bez żadnych opłat, w w. XVIII narzucony został obowiązek kupna 5 beczek piwa z browaru dworskiego<sup class="lit-fn"><a href="#n-pl-521">94-6</a></sup>. Przymus propinacyjny obejmował również gorzałkę<sup class="lit-fn"><a href="#n-pl-522">94-7</a></sup>.
@@ -4544,12 +4358,10 @@ If there was not a sufficient quantity of liquors in the lord's tavern or malt-k
 <span class="lit-note" id="n-en-527">94-12</span> AW. Góździn, A. I.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-95">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-95">p. 95</a></h2>
+<section class="lit-passage" id="p-95" data-page="95">
+<div class="pg" id="p95"><a href="#p95">p. 95</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 b. Przymus mlewa. Spotykamy go osadach olęderskich w tylko wyjątkowo<sup class="lit-fn"><a href="#n-pl-528">95-1</a></sup>. Na ogół olędrzy mogli mleć zkoże, gdzie im się podobało.
@@ -4582,12 +4394,10 @@ c. Manorial servitudes on the Olęders' land. In a few cases the lord had the ri
 <span class="lit-note" id="n-en-531">95-4</span> Die Haulinder s. 251: ,,...da es denn auch nicht an unberufnen Dienern, weltlichen und geistlichen Standes, fehlte, die ihnen zu Munde redeten, so liessen sie es beinah' jedes mał auf das ilusserste ankommen, ohne zwischen guten und bosen HerrschafIten einen Unter- Schied zu machen. Fs steht mir besonders ein Biespiel lebhaft vor, wo zwey grosse Hauldnder- Gemeinen ihren Herrn verklagten, die nur 10 Tage jahrlich dienten, recht wohlhabend sind und selbst cingestehen miissen, dass sie den besten Herrn von der Welt haben. Dennoch ver- tolgten sie ihn mit einer ausgesuchten Bosheit, stellten sich blutarm, und dichteten ihm Hand- , ą PY lungen an, deren nur der ganz bóse und gemeine Tyrann fahig gewesen seyn wiirde”. ["...for it was not lacking in unauthorised servants, of secular and ecclesiastical estate, who spoke into their ears; and so they almost always carried matters to the extreme, without making any distinction between good and bad lords. A particular example stands vividly before me, where two great Hauländer communities sued their lord, who rendered only ten days of service yearly, are quite prosperous and must themselves confess that they have the best lord in the world. Nevertheless they persecuted him with a refined malice, represented themselves as destitute, and imputed to him deeds of which only the utterly wicked and base tyrant would have been capable."]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-96">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-96">p. 96</a></h2>
+<section class="lit-passage" id="p-96" data-page="96">
+<div class="pg" id="p96"><a href="#p96">p. 96</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 procesów o nieprawne nakładanie względnie podwyższanie powinności, które olędrzy zaczęli wytaczać swym parom po zajęciu kraju przez Prusy. Zastanawiając się nad ich przyczynami, dochodzi co przekonania, że w niektórych wypadkach panowie rzeczywiście pogwałcili prawa olędrów zawarowane im w przywilejach, z drugiej strony nie szczędzi cierpkich słów oszdnikom, przypisując im złośliwość i pieniactwo. Zwraca również trafnie uwagę na niejasną i dającą powód do sporów redakcję wielu przywilejów. Podobnie stawia sprawę w kilka lat później pruski urzędnik Holsche<sup class="lit-fn"><a href="#n-pl-532">96-1</a></sup>. Stwierdza jednak, że panowie, zapewne aby przynęcić osadników, wyznaczali im czynsz bardzo niski, którego wartość realna w dodatku zmniejszała się ciągle<sup class="lit-fn"><a href="#n-pl-533">96-2</a></sup>.
@@ -4618,12 +4428,10 @@ Schmitt treats the matter in an extreme way<sup class="lit-fn"><a href="#n-en-53
 <span class="lit-note" id="n-en-536">96-5</span> In the letter of 23 October 1778 (AW. Brzekiniec C. 1, fol. 68) the Olęders of the Brzekinieckie Ol. and the inhabitants of Brzekiniec complain: 1. that they are unlawfully burdened with manifold transport duties and are subject to continual military requisitions (among others they are forced to make journeys with building material to the fortress of Grudziądz), 2. that instead of remuneration from the officials of the domain in Podstolice (Amt Podstolitz) they receive blows with rods, 3. that their rents, settled by charters from Polish times, are being unlawfully raised. By letter of 28 December 1778 min. Gandi
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-97">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-97">p. 97</a></h2>
+<section class="lit-passage" id="p-97" data-page="97">
+<div class="pg" id="p97"><a href="#p97">p. 97</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 zresztą upraszali podani przez autora za przykład olędrzy starostwa ujskiego<sup class="lit-fn"><a href="#n-pl-537">97-1</a></sup>. Fakt, że w domen:e Podstolice urzędnicy pruscy stosowali chłostę wobec olędrów, nie dowodzi, że tak było we wszystkich domenach, wskazuje jednak, do jakich błędów prowadzi metoda uogólniania wypadków skrajnych. W podobny sposób podchodzą do zagadnienia Brandenburger<sup class="lit-fn"><a href="#n-pl-538">97-2</a></sup> i Koerth<sup class="lit-fn"><a href="#n-pl-539">97-3</a></sup>. Dziwnymi drogami idzie rozumowanie tego ostatniego autora. Zarzuca on panom postępowanie wbrew postanowieniom przywilejów, a w dalszym ciągu Jako przykład przytacza spór z panem o serwituty pastwiskowe, przy czym jednak dodaje:: w imieniu króla poleca przychylnie rozpatrzyć petycję gmin i zakazuje kategorycznie bić skarżących. Widocznie jednak położenie osadników nie wiele się poprawiło, gdyż 22 maja' 1782 olędrzy brzekińscy wystosowują nowe (fol. 130), pismo do króla następującej treści: „Nachdem Ihro Majestät aus besonderer Gnadenbezeigung gerichtet haben, uns allergnädigst bey unserer alten Gerechtigkeit, so wie ehemals unter Königlich Pohlnischer Regierung genossen, zu schützen und unverändert dabei zu erhalten; wir aber demohngeachtet nach der Maassgabe des Conducteurs Eichmann, welcher unsere Felder vor zwey Jahren gemessen, in unsern Abgaben sehr erhöhet worden, indem gedachter Conducteur aus unsern Gründen weit mehr gemessen als wir nach altem Königlich Pohlnischen Maasse wirklich besitzen. Da doch unsere Gründe vor wenig Jahren noch durch die ehemalige Pohlnische Obrigkeit aufs allergenauste gemessen wurden und zwar jeden Morgen zu 300 Ruthen, jede Ruthe zu 8 Ellen, jede Elle zu 24 Zoll, die Baustelle wurde aus einem Morgen, darzu Graben, Wege und Triften Zinsfrey gelassen.
@@ -4650,12 +4458,10 @@ TóT olędrzy
 <span class="lit-note" id="n-en-539">97-3</span> Aus der Vergangenhcit. The author does not state from what sources he drew his material.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-98">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-98">p. 98</a></h2>
+<section class="lit-passage" id="p-98" data-page="98">
+<div class="pg" id="p98"><a href="#p98">p. 98</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 „Wydaje się jednak; iż to prawo wypasu nie zostało przyznane przy lokacji osady, ale tylko nabyte przez dawne używanie”. Przytacza również dalsze procesy z olędrami jednak już z czasów pruskich. —
@@ -4692,12 +4498,10 @@ in the first case 44¼ zł, in the second 49 zł 18 gr. Meanwhile the author sta
 <span class="lit-note" id="n-en-545">98-6</span> Gumowski, Podręcznik numizmatyki, pp. 290–2.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-99">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-99">p. 99</a></h2>
+<section class="lit-passage" id="p-99" data-page="99">
+<div class="pg" id="p99"><a href="#p99">p. 99</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 latach uchylone! nie wiadomo nawet, olędrzy je<sup class="lit-fn"><a href="#n-pl-546">99-1</a></sup> czy rzeczywiście w całości uiszczali.
@@ -4731,12 +4535,10 @@ A proper view of the development of the manorial obligations of the Olęders is 
 <span class="lit-note" id="n-en-550">99-5</span> The year 1597, Ol. Ujskie. 6 Gumowski, Podręcznik numizmatyki. 7%
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-100">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-100">p. 100</a></h2>
+<section class="lit-passage" id="p-100" data-page="100">
+<div class="pg" id="p100"><a href="#p100">p. 100</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 talarów w r. 1773 (por. księgę gminną), a pamiętać trzeba, że w tym czasie wartość talara obniżyła się w sposób nieznaczny. W osadach późniejszych pojawiają się również daniny i robocizny. Jak wykazał Kniat, który na podstawie akt klasyfikacyjnych z r. 1773 zbadał i przedstawił statystycznie powinności dworskie<sup class="lit-fn"><a href="#n-pl-551">100-1</a></sup> osad czynszowych tzw. okręgu noteckiego ! będących przeważnie osadami olęderskim,i daniny i robocizny tych osad przeliczone na gotówkę wynosiły 5-30 sumy czynszu ?. Jeśli przyjmiemy, że do czynszu wliczone być mogły pewne opłaty, np. za serwituty i inne, to i tak łączna wartość danin, robocizn<sup class="lit-fn"><a href="#n-pl-552">100-2</a></sup> i opłat nie przekroczy 10% kwoty czynszowej. Wyniki te znajdują potwierdzenie w innych źródłach<sup class="lit-fn"><a href="#n-pl-553">100-3</a></sup>. Oczywiście są<sup class="lit-fn"><a href="#n-pl-554">100-4</a></sup> miejscowości, gdzie daniny i robocizny mają w stosunku do czynszu wartość znaczniejszą, tu jednak czynsz Jest niższy od podanej; przez nas przeciętnej<sup class="lit-fn"><a href="#n-pl-555">100-5</a></sup>. rormy W ostatecznej konkluzji stwierdzić należy, że zwiększenie powinności dworskich olędrów z reguły miało charakter tylko nominalny, natomiast realna wartość powinności na ogół uległa zmniejszeniu. Fakt ten wystąpi jeszcze Jaskrawiej, gdy porównamy go z procesem ciągłego zwiększania się ciężarów ludności pańszczyźniarej 5. Nieco inaczej przedstawia się prawno-moralne oblicze zagadnienia. Między panem, a olędrami powstawały niekiedy spory, które po zajęciu kraju przez Prusy wyraziły się w całym szeregu procesów sądowych. Stroną skarżącą byli najczęściej olędrzy, chociaż bywało: i odwrotnie<sup class="lit-fn"><a href="#n-pl-556">100-6</a></sup>. Można rozróżnić trzy zasadnicze przyczyny procesów: a) niejasne sformułowanie powinności 1 uprawnień olędrów w przywilejach, b) chęć zysku względnie zła wola ze strony pana, c) to samo ze strony olędrów.
@@ -4761,12 +4563,10 @@ thalers in 1773 (cf. the community book), and it must be remembered that in the 
 <span class="lit-note" id="n-en-556">100-6</span> Two such cases from Polish times we have adduced on pp. 39 and 69. Already in Prussian times Melchior Łącki brings an action against the Olęders of Węgielna for compensation for oaks unlawfully felled, belonging to the manor (AW. Węglewo, C. 1).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-101">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-101">p. 101</a></h2>
+<section class="lit-passage" id="p-101" data-page="101">
+<div class="pg" id="p101"><a href="#p101">p. 101</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Niejasna, często dwuznaczna treść przywilejów, stwarzała wielu wypadkach okazję do sporów i pieniactwa. W przywileju dla Ol. Cisiogórskich spotykamy np. następujące, niejasno zredagowane postanowienie: „We żniwa pomagać w robocie według potrzeby jak inni olędrzy będą, w prawie zaś dni tyle się wyrazi, jak zwyczaj jest olędrów... Drzewo na potrzebę pańską, jako to i do kuchni mają wozić jak insi olędrzy 1””. Jest rzeczą oczywistą, że „zwyczaj olędrów” można interpretować bardzo szeroko. Gdzie indziej zrowu olędrzy mają się stawić do robót na zawołanie, a przy żniwach mają pracowzć tak długo, aż wszystko zostanie sprzątnięte<sup class="lit-fn"><a href="#n-pl-558">101-2</a></sup>. Również niejasro określany był zakres serwitutów; np. postanowienie: „owce<sup class="lit-fn"><a href="#n-pl-557">101-1</a></sup> inne bydło pomierkowanie chować będą, aby pańskie inwentzrze swoją wygodę misły” 3, zachęca wprost do pieniactwa f. :
@@ -4797,12 +4597,10 @@ Disputes arising from the desire to raise the Olęders' hitherto existing obliga
 <span class="lit-note" id="n-en-563">101-7</span> AW. Budziszewskie Ol., B. 108 i 110.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-102">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-102">p. 102</a></h2>
+<section class="lit-passage" id="p-102" data-page="102">
+<div class="pg" id="p102"><a href="#p102">p. 102</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 szył w r. 1793 powinności Ol. Strzeleckich l. Również w Ol. Dziewcza-<sup class="lit-fn"><a href="#n-pl-564">102-1</a></sup> struga w r. 1796 powinności zostały niewspółmiernie podwyższone przez zarządcę dóbr Wełna, v. Braunecka (właścicielką była Goetzendort Grabowska). Na ogół jednak wypadki istotnego zwiększania powinności olęderskich zdarzały się rzadko<sup class="lit-fn"><a href="#n-pl-566">102-3</a></sup>. W chwili uwłaszczenia,<sup class="lit-fn"><a href="#n-pl-565">102-2</a></sup> jak to wynika z akt hipotecznych, w przeważającej większości wypadków obowiązywały powinności ustalone w przywilejach lokacyjnych. Podkreślone jest to wyraźnie w recesie dla Ol. Stodólsko 4: „Die Wirthe,<sup class="lit-fn"><a href="#n-pl-567">102-4</a></sup> welche aus der Stelle der Stiftungs-Urkunde „Jeżeliby zaś od kogo mieli mieć jaką oppressyą etc” die Verbindlichkeit der Gutsherrschaft zum Schutz und zur Vertretung\| ihres Eigenthums herleiten wollten, erkennen nunmchr an, dass sie im vollstandigen Besitze der Ihnen vermóge der, Stiftungsurkunde verliehenen Grundstiicke und Rechte sind, und dass dec ihnen verheissene Schutz und die Vertretung daher erfullt, und nicht weiter zu beanspruchen sind”. Wyjątkowo nawet zdarzało się, że panowie olędrom w późniejszych przywilejach powinności zmniejszali, jak to miało miejsce w Ol. Chełmskich<sup class="lit-fn"><a href="#n-pl-568">102-5</a></sup>, va prawdopodobnie i w Ol. Lubaskich8. Wypada w końcu zauważyć, że przedstawione wyżej stosunki wyrazem „polskiego systemu”, jak to chce Schmidt, być nie mogą, chociażby dla tego, że rzeczywisty ucisk gospodarczy Holendrów zainicjował całe 200 lat wcześniej Albrecht Hohenzollern w Prusach Wschodnich<sup class="lit-fn"><a href="#n-pl-569">102-6</a></sup>.
@@ -4835,12 +4633,10 @@ The causes of some of the lawsuits must also be sought in the craftiness and ill
 <span class="lit-note" id="n-en-570">102-7</span> Cf. Uber Ursprung, p. 31 ff.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-103">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-103">p. 103</a></h2>
+<section class="lit-passage" id="p-103" data-page="103">
+<div class="pg" id="p103"><a href="#p103">p. 103</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 swe na Wielkopolskę przedstawiał jako wystąpienia w obronie kolonistów niemieckich, a rabunki wojsk pruskich jako restytucję,ich mienia<sup class="lit-fn"><a href="#n-pl-571">103-1</a></sup>. Rzecz jasna, że musiało to wśród olędrów, będących w dużej części Niemcami, wyrobić zwłaszcza. po katastrofie rozbiorowej przekonanie, że ze strony władz pruskich należą im się specjalne, daleko idące względy. Nie wchodząc w to, czy i w jakim stopniu ze względów tych w rzeczywistości korzystali, procesy wytaczane przez olędrów z tego rodzaju pobudek przyjąć trzeba jako rzecz naturalną i praktykowaną. Pieniactwo i złą wolę niektórych gmin olęderskich podkreśla zresztą naoczny, doskonale poinformowany świadek, sędzia. Stenger, który jednocześnie zwraca uwagę na kulisy polityczne procesów, pisząc, że popychali do nich olędrów „„niepowołani doradcy świeckiego i duchownego stanu”?.<sup class="lit-fn"><a href="#n-pl-572">103-2</a></sup> Wypada jeszcze zbadać, jak układał się gospodarczy stosunek olędrów do dworu po rozbiorach. Rozpatrywać tutaj trzeba z osbna osady w dobrach prywatnych i dobrach państwowych. Liczba tych ostatnich zwiększyła się wydatnię, wskutek objęcia przez państwo dóbr kościelnych i niektórych szlacheckich, w których osady olęderskie były szczególnie liczne (majętn. połajewska, sierakowska, międzychodzka). W dobrach szlacheckich położenie olędrów wybitnie się poprawiło wskutek tego, że znies'ono sądownictwo patrymonialne, Niewątpliwie na korzyść wyszło olędrom również wrogie nastawienie rządu pruskiego do szlachty polskiej. Natomiast, jeśli chodzi o domeny państwowe, sytuacja gospodarcza olędrów pogorszyła się sposób zupełnie widoczny. We wszystkich domenach zaczęto odbierać olędrom przyorane grunty, ograniczeć uprawnienia serwitutowe, a zwiększać robocizny. Przytoczyliśmy już przykłady odnoszące się do starostwa ujskiego i domeny Podstolice. Również mieszkańcy leżących na gruncie starostwa rogozińskiego i budzińskiego Ol. Trzydomy piszą w r. 1794 petycję do króla pruskiego z prośbą o zachowanie ich przy powinnościach, jakie pełnili za czasów polskich<sup class="lit-fn"><a href="#n-pl-573">103-3</a></sup>. Olędrzy uścikowscy w domenie Połajewo
@@ -4863,12 +4659,10 @@ on Wielkopolska as manifestations in defence of the German colonists, and the pl
 <span class="lit-note" id="n-en-573">103-3</span> AW. 'Irzydomy, C. I: „Da wir auf Allerhóchsten Beichl unsere alte Pohlnische Gerechtigkeiten haben iiberschicken missen, so haben wir erfahren, wie Allerhóchst Dieselben uns neue Lrbgerichtigkeiten allergnidigst ertheilen werden; weil aber schon eine gercume Zeit verflossen, dass wir kcine erhalten, so wagen wir es in tiefster Unterthinigkcit Euer Kónigl. Majestat, um selbige dermuthigst zu bitten, und dass Hóchst Dieselben die Gnade fur uns haben móchien, uns becy vorigen alten Dienst wie zu pohlnischen Żeiten, und bey demjenigen, was wir aufs neue zugenommen haben (nihmlich auf die halbe Hufe oder 15 pohlnische Morgen cinen Berliner Scheffel Roggen nach Kónigliche Taxa zu bezahlen, wenn wir das Erbrecht erlangen wiirden da wir bey unsern schlechten Unstimden nicht hoher steigen und mehr annehmen kónnen) allergnidigst zu Jassen: und uns die jetzt aufglegte Spanntage allerhuldreichst wieder abzuhmen und zu erlassen; auch zu erlauben, dass wir simtlichen Dienst bezahlen kónnen; und uns, da wir bey unsern Griinden keine Wiesen haben, und wir jetzt auswśrts keine Wiesen bey andern Herrschaften wie vor Zeiten geschehen, auf dem Netzbruche zur Miethe bekommen und erhalten kónnen, Wiesen uns auf Erbpacht iiberlassen wie auch freye Weide und Hiitung des Kónigl. Forst zu gestaten”. ["As we have had to submit our old Polish rights to Your Most High command, so we have learned how Your Most Highness will most graciously grant us new obligations; but since already a considerable time has elapsed without our receiving any, we venture, in deepest submission, humbly to beg Your Royal Majesty for the same, and that Your Highness may have the grace for us most graciously to grant us the former old service as in Polish times, and, as regards what we have newly taken upon ourselves (namely to pay, for the half Hufe or fifteen Polish Morgen, one Berlin scheffel of rye at the Royal valuation, should we obtain the hereditary right — since with our poor means we cannot rise higher and undertake more), most graciously to grant it; and to take away and remit most graciously the Spanntage now imposed upon us; also to permit that we may pay all services in money; and, since our lands have no meadows and we can now obtain no meadows from other lords abroad as in former times, to grant that we may obtain and receive meadows for rent on the Netzbruch, and meadows be left to us on hereditary lease, and likewise free pasture and grazing in the Royal forest be permitted to us”."]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-104">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-104">p. 104</a></h2>
+<section class="lit-passage" id="p-104" data-page="104">
+<div class="pg" id="p104"><a href="#p104">p. 104</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 toczą ze skarbem państwa ciągnące się przez lat kilka procesy<sup class="lit-fn"><a href="#n-pl-574">104-1</a></sup>, Skarb państwa prowadzi szereg procesów także z olędrami domeny sierakow= skiej, m. 1. skarży olędrów z Chorzępowej (jak wiadomo Polaków) o dodatkowe robocizny<sup class="lit-fn"><a href="#n-pl-575">104-2</a></sup>. Tak samo z olędrzmi Starego i Nowego Merynia w domenie międzychodzkiej toczy zarząd przez całą połowę w. XIX liczne procesy<sup class="lit-fn"><a href="#n-pl-576">104-3</a></sup>. Historyczny rozwój powinności dworskich olędrów zamknęła ostatecznie regulacja.
@@ -4907,12 +4701,10 @@ Olęder settlements, from the moment of their foundation, entered within the par
 <span class="lit-note" id="n-en-582">104-9</span> AW. Huta (Knarrhitte), C. 1, fol. 21; AW. Tuchorskie Nowe Ol., A. I.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-105">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-105">p. 105</a></h2>
+<section class="lit-passage" id="p-105" data-page="105">
+<div class="pg" id="p105"><a href="#p105">p. 105</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wspominają również o kolędach<sup class="lit-fn"><a href="#n-pl-583">105-1</a></sup>. Opłaty doraźne pobierano od chrztów, ślubów, wywodów, pogrzebów<sup class="lit-fn"><a href="#n-pl-584">105-2</a></sup>. Były to tzw. iura stolae<sup class="lit-fn"><a href="#n-pl-585">105-3</a></sup>, Opłaty te olędrzy ewangelicy zobowiązani byli często uiszczać również wtedy, gdy korzystali z usług księży ewangelickich<sup class="lit-fn"><a href="#n-pl-586">105-4</a></sup>. Traktowano je wtedy widocznie jako odszkodowanie za uszczerbek w dochodach kościelnych. Nie było to zresztą czymś wyjątkowym; w Prusach postępowano tak samo wobec katolików<sup class="lit-fn"><a href="#n-pl-587">105-5</a></sup>. W wielu wypadkach, gdy olędrzy uiszczali opłaty stałe, nie pobierano opłat od poszczególnych usług. Najczęściej jednak wszystkie dotychczas wymienione opłaty wliczano w jedną, ustalając pewną stałą opłatę ryczałtową. Jako ustaloną w drodze umowy panem lub osadnikami zwano ją czasem kompozytą<sup class="lit-fn"><a href="#n-pl-588">105-6</a></sup>, chociaż niekiedy kompozyta dotyczyła tylko mesznego<sup class="lit-fn"><a href="#n-pl-589">105-7</a></sup>. Wyjątkowo na określenie powinności kościelnych spotykamy termin Gottespfennig<sup class="lit-fn"><a href="#n-pl-590">105-8</a></sup>. Opłaty stałe płacili olędrzy bądź od jednostki gruntu, bądź też cała gmina uiszczała opłatę zbiorową. Powinności kościelne określał pan w przywileju na podstawie poprzedniego porozumienia się z właściwym
@@ -4941,12 +4733,10 @@ also mention the kolędas<sup class="lit-fn"><a href="#n-en-583">105-1</a></sup>
 <span class="lit-note" id="n-en-590">105-8</span> AW. Niwka, A. 1.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-106">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-106">p. 106</a></h2>
+<section class="lit-passage" id="p-106" data-page="106">
+<div class="pg" id="p106"><a href="#p106">p. 106</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 proboszczem<sup class="lit-fn"><a href="#n-pl-591">106-1</a></sup>, albo też zobowiązywał olędrów od porozumienia się z władzą kościelną w najbliższym czasie. Z reguły, jeśli osada powstała na miejscu innej, poprzednio istniejącej osady, obowiązywały ją powinności płacone dawniej<sup class="lit-fn"><a href="#n-pl-592">106-2</a></sup>. To samo oczywiście odnosi się do osad przeniesionych na prawo olęderskie bez zmiany dotychczasowych mieszkańców<sup class="lit-fn"><a href="#n-pl-593">106-3</a></sup>. Dwór niekiedy całkowicie<sup class="lit-fn"><a href="#n-pl-594">106-4</a></sup>, lub częściowo<sup class="lit-fn"><a href="#n-pl-595">106-5</a></sup> przejmował na siebie obowiązek uiszczania należnych od osady powinności kościelnych, albo też tytułem częściowego zwrotu opłat zobowiązywał się po dostarczeniu mu ziarna wywarzyć olędrom bezpłatnie pewną ilość piwa<sup class="lit-fn"><a href="#n-pl-596">106-6</a></sup>. W innych znowu wypadkach olędrzy otrzymywali zaręczenie, że „proteccyą od ;pana zawsze mieć będą, żeby więcey nie dawali, tylko co słuszność każe, i co zwierzchność kościoła postanowiła”??”. Czasem też<sup class="lit-fn"><a href="#n-pl-597">106-7</a></sup> alędrzy mieli obowiązek uiszczać powinności kościelne za pośrednictwem dworu<sup class="lit-fn"><a href="#n-pl-598">106-8</a></sup>, Wysokość opłat kształtowała się różnie. Opłaty stałe, wymierzane od jednostki gruntu, wynosiły z huby 2—8 zł<sup class="lit-fn"><a href="#n-pl-599">106-9</a></sup>, lub korzec żyta i korzec owsa<sup class="lit-fn"><a href="#n-pl-600">106-10</a></sup>, Opłata ryczałtowa natomiast nie przenosiła zazwyczaj 50 zł<sup class="lit-fn"><a href="#n-pl-601">106-11</a></sup>, lub odpowiedniej ilości zboża<sup class="lit-fn"><a href="#n-pl-602">106-12</a></sup>, wyjątkowo przekraczała nawet 100 zł<sup class="lit-fn"><a href="#n-pl-603">106-13</a></sup>, Przypuszczać należy, że przy jej ustalaniu decydującą rolę odgrywał obszar wsi i liczba osadników.
@@ -4985,12 +4775,10 @@ parish priest<sup class="lit-fn"><a href="#n-en-591">106-1</a></sup>, or else bo
 <span class="lit-note" id="n-en-603">106-13</span> Rel. Cost. nr 167, r. 1732, fol. 205, Ręcko — 100 zł; Rel. Cost. nr 164, r. 1729, fol. 177, Podgradowice — 120 zł.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-107">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-107">p. 107</a></h2>
+<section class="lit-passage" id="p-107" data-page="107">
+<div class="pg" id="p107"><a href="#p107">p. 107</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Konstytucja z r. 1768 zniosła obowiązek uiszczania opłat kościelnych przez dysydentów. Skorzystali z niego olędrzy<sup class="lit-fn"><a href="#n-pl-604">107-1</a></sup>. Według obliczeń Kniata<sup class="lit-fn"><a href="#n-pl-605">107-2</a></sup>, w r. 1773 na włókę roli we wsiach czynszowych okręgu noteckiego przypadało: w dobrach szlacheckich 26—66 gr, w dobrach państwowych 19 gr, czasem nawet nie płacono nic, w dobrach duchownych 7 talarów 42 gr pruskie dziesięcin. W tym ostatnim jednak. wypadku płacącymi byli niemal zawsze katolicy, poza tym trudno tutaj odróżnić świadczenia płacone iure parochiali od powinności dworskich. Jeśli weźmiemy pod uwagę, że 1 w osadach czynszowych szlacheckich państwowych część mieszkańców była katolicka, na ludność ewanczy gelicką wypadnie kwota zupełnie minimalna.
@@ -5025,12 +4813,10 @@ The Olęders, like the other peasants, were obliged to pay certain public dues. 
 <span class="lit-note" id="n-en-608">107-5</span> According to the remark in the community book of Folsztyn (AW. dep. G. 5, cf. also Schmidt, Geschichte, p. 403) the Olęders were bound to give the pastor: 1 zł per huba (part in good coin, part in szeląg coin), for every 2 hubs 1 cart of hay, a New Year offering, a tribute in eggs at Easter. Moreover, at each of the 3 feasts: Christmas, Easter and Whitsuntide, every farmer was bound to give as an offering 1½ gr. Apart from this, for the individual religious services, rather high dues were in force.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-108">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-108">p. 108</a></h2>
+<section class="lit-passage" id="p-108" data-page="108">
+<div class="pg" id="p108"><a href="#p108">p. 108</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 równo złe y dobre znosić”<sup class="lit-fn"><a href="#n-pl-609">108-1</a></sup>. Zdarzały się jednak. wypadki, że pan zwalniał olędrów na zawsze od wszelkich podatków, biorąc tym samym ra siebie obowiązek uiszczania ich z własnej szkatuły<sup class="lit-fn"><a href="#n-pl-610">108-2</a></sup>. Oczywiście podatki tutaj mogły być przerzucone na olędrów w postaci zwiększorego czynszu. Z obowiązkiem płacenia podatków spotykamy się już w rajwcześnie'szym okresie kolonizacji. Tak np. O]. Nowe Dwory założore w r. 1601 zobowiązane były uiszczać „pobór koronny ra seymie uchwalony”?<sup class="lit-fn"><a href="#n-pl-611">108-3</a></sup>, Ten sam przepis spotykamy w przywilejach z r. 1677 dla Folsztyna, Herbardowa i Mariarowa. W przywilejach z pierwszej połowy, XVIII pojawiają się wzmianki o podymrym<sup class="lit-fn"><a href="#n-pl-612">108-4</a></sup>. Olędrzy w dobrach królewskich uiszczają hybernę<sup class="lit-fn"><a href="#n-pl-613">108-5</a></sup>. Najważniejszym jednak podatkiem od końca w. XVII było pogłówne. Przywileje bądź ogólnie wspominały o obowiązku płacenia tego podatku, względnie zalecały płacić go w wysokości ustalonej przez władze, a wtedy olędrzy zobowiązani byli zazwyczaj przypadającą im należność podobnie jak i pozostałe podatki wpłacać bezpośrednio do właściwej kasy<sup class="lit-fn"><a href="#n-pl-614">108-6</a></sup>, bądź też zobowiązywały olędrów do płacenia z tego tytułu pewnej stałej kwoty ryczałtowej ra ręce pana. Tenże zabierał nadwyżkę ponad taryfę albo też Cokładał różnicę między taryfą a kwotą wpłaconą. Stała kwota podatku była określona od jednostki gruntu (huby), lub też wyznaczona zbiorowo dla całej gminy, która dokonywała jej repartycji między poszczególnych członków. W pierwszym przypadku przeciętna Jej wysokość mieściła się granicach 3—6 zł z huby, w drugim wyrosiła około 50 zł. Wyjątkowo tylko w majętn. sierakowskiej pogłówne przenosiło 100 zł<sup class="lit-fn"><a href="#n-pl-615">108-7</a></sup>, W związku z reformami skarbowymi z lat 1764 i 1775<sup class="lit-fn"><a href="#n-pl-616">108-8</a></sup> przywileje
@@ -5059,12 +4845,10 @@ the bad and the good alike”<sup class="lit-fn"><a href="#n-en-609">108-1</a></
 <span class="lit-note" id="n-en-616">108-8</span> Rybarski, Skarbowość, p. 228, 336.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-109">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-109">p. 109</a></h2>
+<section class="lit-passage" id="p-109" data-page="109">
+<div class="pg" id="p109"><a href="#p109">p. 109</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wystawione po tychże latach w miejsce pogłównego wspominają znowu o podymnym<sup class="lit-fn"><a href="#n-pl-617">109-1</a></sup>. Nie ominął olędrów również obowiązek uiszczania wprowadzonego w r. 1789<sup class="lit-fn"><a href="#n-pl-618">109-2</a></sup> podatku od skór i rzezi<sup class="lit-fn"><a href="#n-pl-619">109-3</a></sup>, oraz. subsidium charitativum w dobrach duchownych<sup class="lit-fn"><a href="#n-pl-620">109-4</a></sup>.
@@ -5099,12 +4883,10 @@ Judge Stenger, who wrote his remarks on the Olęders on the basis of personal ob
 <span class="lit-note" id="n-en-623">109-7</span> Netzdistrikt, p. 223.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-110">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-110">p. 110</a></h2>
+<section class="lit-passage" id="p-110" data-page="110">
+<div class="pg" id="p110"><a href="#p110">p. 110</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 nież fakt, że osady wcześniej lokowane Costarczyły pewrego kontyngentu osadników dla osad późniejszych; a jak wiadomo, okupienie się w nowo zakładanych osadach wymagało pewrego zapasu gotówki. Nieźle też, jak możra wywnioskować ze staru inwentarza, powodziło się olędrom w majętn. sierakowskiej. Najgorzej przedstawiała się spraw a w osadach północnej i zachodniej części powiatu pozrańskiego. Większość osadników z powodu nędznej gleby skazana była tylko na wegetację !. Pewne dochody dawał jedynie chów bydła i owiec w oparciu o serwituty pastwiskowe, oraz, w nielicznych wypedkach, hodowla roślin ogrodowych (jarzyn, okopowizny). Poziom życia olędrów nie różnił się wcale od skali życiowej pozostałej ludności wiejskiej. W jednym i drugim wypadku podstawą wyżywienia było zboże i jego przetwory. Według akt klasyfikacyjnych w Ol. Stróżewskich, gdzie jakość gleby była jeszcze zrośna, roczne spożycie na osobę wyrosiło<sup class="lit-fn"><a href="#n-pl-624">110-1</a></sup> korcy żyta, \| korzec jęczmienia i 1/, korca grochu, w Ol. Bronice 4 korce żyta 1 I korzec jęczmienia. O spożyciu mięsa przez osadników trudno powiedzieć coś konkretnego ; stwierdzić trzeba w każdym razie, że hodowla nierogacizny nie była tutej wcale znaczniejsza, niż we wsiach pańszczyźnianych. Na ogół jednak gospodarstwo olęderskie rozwijało się w lepszych warunkach, niż gospodarstwo włościan pańszczyźnianych. Położenie gospodarcze olędrów było uprzywilejowane, jeśli weźmiemy pod uwagę chociażby ich niezależrość osobistą, własrość gruntów, budynków i inwentarza, możność swobodnego dysponowania plonem swej pracy (swoboda handlu), niskie czynsze, minimalne robocizny, Olęder więc, mimo że siedział na ziemi nieurodzajnej, w porównaniu z kmieciem pańszczyźnianym miał większe szanse osiągnięcia dobrobytu.
@@ -5119,12 +4901,10 @@ by the fact that the settlements located earlier supplied a certain contingent o
 <span class="lit-note" id="n-en-624">110-1</span> Kl. XII 6 V, fol. 134, Bielawy: „Weil der Acker von solcher schlechten Beschaffenheit sey, so kónnten dieselben selten das 3-te Korn gewinnen, und wiirden sie auch hieselbst ihr nótiges Auskommen nicht finden, wenn sie sich nicht durch Holtz Verkauf bishero ernihret hitten; da ihnen aber diese Freyheit anjetzo benommen wśre, so wiirden sie sich wohl an diesem Orte in der Folge nicht erhalten kónnen”. ["Since the soil is of such poor quality, they can seldom win the third grain, and they would not find here their necessary livelihood if they had not hitherto supported themselves by the sale of timber; but if this freedom were now taken from them, they would hardly be able to maintain themselves in this place in future.”] The same, fol. 139, Jasionna.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-111">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-111">p. 111</a></h2>
+<section class="lit-passage" id="p-111" data-page="111">
+<div class="pg" id="p111"><a href="#p111">p. 111</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ROZDZIAŁ V
@@ -5147,12 +4927,10 @@ A. Psychological type
 The Olęders, as has already been said, apart from the first comers from the Netherlands, came from various parts of eastern Germany and western Poland. They were thus, at the moment of the location of the settlements, neither uniform in the racial respect, nor united by ties of character, customs and culture. In the later generations, however, the common conditions of existence largely levelled their cultural and customary distinctiveness, and the self-governing constitution of the communities, above all the institution of the joint liability of all the members of the community in external relations, closely bound together the fortunes of the individual settlers and contributed to the formation among them of a kind of group consciousness. This may be regarded as equivalent to the formation of a distinct psychological type, that of the “Olęder”. Contemporaries did not speak with enthusiasm of the character of the Olęders. A serious observer such as Stenger writes of them as follows: “It is a certain thing that with the ancestors of our present-day Olęders the best part of the German nation did not leave its fatherland; for, although below we tried to find the reasons why the Olęders have become worse, their present corruption could not be explained if one were to assume that they brought with them good customs and character. Diligence and dexterity, as the children of poverty, were probably their only dowry: if only they had at least preserved these qualities intact! The Olęder is not narrow-minded, but by no means intelligent: he is cunning when he fears an attack, and he holds so strictly to old prejudices and habits that, blinded, he does not notice his own obvious advantages; to the most convincing arguments he gives no hearing at all, for the innate fear of everything that is new makes him deaf to it. Further, he is extraordinarily suspicious: the husband does not trust his wife, the father his children, but all unite when it is a matter of distrust towards the lord or the superior. The Olęder is also extraordinarily stubborn, audacious and un-
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-112">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-112">p. 112</a></h2>
+<section class="lit-passage" id="p-112" data-page="112">
+<div class="pg" id="p112"><a href="#p112">p. 112</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 uczynny: nie robi chętnie niczego, czego nie musi robić; w końcu, nie ma on żadnej religii”*1. Na innym miejscu autor zarzuca olędrom pieniactwo. Ta sprawa omówiona została już poprzednio<sup class="lit-fn"><a href="#n-pl-626">112-2</a></sup>. Jako rys korzystny olędrów autor podkreśla silne poczucie wspólności gminnej (zmysł społeczny), stwierdza również, że w osadach olęderskich panowała na ogół trzeźwość. Ostatnie dwie uwagi uznać należy za słuszne. Wprawdzie karczmy wzgl. wyszynk trunków pańskich znajdowały się we wszystkich niemal osadach, a za robocizny zw. „tłokami” otrzymywali osadnicy wynagrodzenie w piwie, być może<sup class="lit-fn"><a href="#n-pl-625">112-1</a></sup> w wódce, nie dowodzi to jednak wcale, że używanie trunków praktykowane było wśród olędrów nałogowo. W pewnej sprzeczności z poczuciem wspólności gminnej stało rzucające się niekiedy w oczy słabe przywiązanie olędrów do ziemi 1 skłonność do przenoszenia się z jednej osady do innej<sup class="lit-fn"><a href="#n-pl-628">112-4</a></sup>. Zdaje się stąd<sup class="lit-fn"><a href="#n-pl-627">112-3</a></sup> wynikać, że olędrom, często przybyszom z zagranicy, nawet w dalszych pokoleniach towarzyszyło uczucie\| pewnej obcości. O dobre obyczaje w gminie dbał również pan, grożąc niekiedy nawet przepędzeniem z osady jednostek bez zasad moralnych i charakteru.
@@ -5173,12 +4951,10 @@ obliging: he does not willingly do anything that he need not do; finally, he has
 <span class="lit-note" id="n-en-628">112-4</span> AGH, Międzychód court, Skrzydlewo vol. I, fol. 27, charter of 1785: „Wird denen- selben gute Żucht und Ehrbarkeit... nicht nur auls beste anemplohlen, und das Fluchen, Schwó- ren, Gottesliistern, und alle iibrige iuppige und liederliche Lebensarth aufs ernstlichste ver- bothen, widrigenfalls dieselben von der Herrschaft recht nachdriicklich gestrafet. Die ganzen Widersprustigen hingegen nach Auszahlung ihrer taxirten Giither aus der Gemeinde fort- 39 e * gejagt werden sollen.. ["Good discipline and uprightness … shall be not only most earnestly commended to them, and cursing, swearing, blasphemy and all other riotous and disorderly ways of life most earnestly forbidden, failing which they shall be punished by the lordship in the most emphatic manner. The stubborn recalcitrants, on the other hand, after payment for their valued goods, shall be chased out of the community.."]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-113">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-113">p. 113</a></h2>
+<section class="lit-passage" id="p-113" data-page="113">
+<div class="pg" id="p113"><a href="#p113">p. 113</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 B. Szkolnictwo
@@ -5205,12 +4981,10 @@ The school was usually housed in a separate building, erected with the lord's co
 <span class="lit-note" id="n-en-631">113-3</span> AW. Gębiczyn A. 2, Gębickie Ol.: And since these Olęders are of the evangelical faith, I permit them to keep a bachelor [schoolmaster] of their faith for the reading of the gospel. Rel. Posn, nr 645, r. 1793, fol. 320, Jasionowe Ol.: The supplement of 1780 to the charter of 1701 confirms to the community the right of keeping a “forlezer”. Similarly Rel. Cost. nf 164, r. 1729, s. 485, Kotusz Ol.; AW. Krosno Ol., A. 1, Krosińskie Ol.: A bachelor for divine service is permitted to them. Rel. Posn. nr 430, r. 1741, fol. 230, Kuślińskie Ol.: The Olęders are permitted to build a school and keep a teacher “for the holding of divine service in that same school”. AW. Lubicńskie Ol., B. 1: „...soll dicsc Gemeine ihre Schule zum Gottes-Dienst mit den Hutten Hollindern haben und halten, und auch darzu hegen und ee ["…this community shall have and keep its school for divine service together with the Hutt Holländer, and shall also maintain and endow it for that purpose…"] AW. Nieszawskie Ol., B. 15: A bachelor, who should read them the gospel, I permit…
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-114">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-114">p. 114</a></h2>
+<section class="lit-passage" id="p-114" data-page="114">
+<div class="pg" id="p114"><a href="#p114">p. 114</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 regoś. z gospodarzy<sup class="lit-fn"><a href="#n-pl-632">114-1</a></sup>. Utrzymanie nauczyciela umożliwiał pan, przydzielając szkole pewien obszar roli wolnej od wszelkich czynszów.
@@ -5249,12 +5023,10 @@ The community could not always afford to maintain a professional teacher. The lo
 <span class="lit-note" id="n-en-640">114-9</span> Von den Haulindern, p. 254.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-115">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-115">p. 115</a></h2>
+<section class="lit-passage" id="p-115" data-page="115">
+<div class="pg" id="p115"><a href="#p115">p. 115</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 niewiele; wystarczyło, żeby umieli jako tako czytać i pisać oraz dostosować się do wymagań gminy !. Do, obowiązków nauczyciela nale.
@@ -5289,12 +5061,10 @@ It remains in turn to discuss the extent, level and significance of schooling in
 <span class="lit-note" id="n-en-644">115-4</span> Schulz W., Die zweite deutsche Ostsiedlung, I, p. 23.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-116">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-116">p. 116</a></h2>
+<section class="lit-passage" id="p-116" data-page="116">
+<div class="pg" id="p116"><a href="#p116">p. 116</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 bezsprzecznie większa od liczby szkół we wsiach zaciężnych, ale sprawa zmienia się zasadniczo, jeśli weźmiemy pod uwagę procent dzieci korzystających z nauki szkolnej. Z urzędowej rewizji szkół przeprowadzonej w r. 1793 na obszarze drugiego zaboru, dowiadujemy się, że np. do szkoły w Ol. Siereckich w czasie największej frekwencji uczęszczało 20 uczniów. Osada liczyła w r. 1789 43 dymy, co przy zastosowaniu klucza 6,05 osób na I dym, da w rezultacie 260 osób. Do szkoły uczęsz-<sup class="lit-fn"><a href="#n-pl-645">116-1</a></sup> czała więc co trzynasta osoba, o ile przyjmiemy, że nie<sup class="lit-fn"><a href="#n-pl-646">116-2</a></sup> posyłano do niej dzieci z innych osad ale tylko przez miesiące zimowe. Niemal do — świąt Bożego Narodzenia szkoła stała pusta 1. Tego rodzaju stosunki nie były wcale czymś wyjątkowym. Władze pruskie przeprowadzające w r. 1793 rewizję szkół ewangelickich w okręgu Trzciela, jako powszechne niedomaganie szkolnictwa podają opieszałość rodziców w posyłaniu dzieci do szkoły. Rodzice według opinii władz spełniają ten obowiązek niechętnie i nieregularnie, niekiedy dopiero wtedy, gdy dziecko ma przystępować do sakramentów<sup class="lit-fn"><a href="#n-pl-647">116-3</a></sup>. Dalej następuje charakterystyczna uwaga: „Diese Klage muss man besonders iber viele den Einwohvon der Haulander fuhren, die ihre Kinder żusserst nern sogenannten. schlecht zur Schule anhalten, sie nur immer zum Hitten ihres Viches brauchen, und sie durch solche Vernachlissigung beynahe selbst bis zum Vich herabwirdigen<sup class="lit-fn"><a href="#n-pl-648">116-4</a></sup>. Zakres nauki szkolnej nie wykraczał poza<sup class="lit-fn"><a href="#n-pl-649">116-5</a></sup> naukę religii oraz początki pisania, czytania i liczenia. Poziom nauczania i jego skuteczność były wypadkową zarówno wykształcenia i; zdolności pedagogicznych nauczyciela, jak i ustosunkowania 'się do szkoły rodziców i dzieci.f.
@@ -5325,12 +5095,10 @@ In the older generation of the Olęders the ability to write belonged to the rar
 <span class="lit-note" id="n-en-649">116-5</span> In the records concerning the Stróżewskie Ol., of 11 signatories 10 made manual signs (AW. Stróżewskie Ol., C. 2); in the Ujskie Ol., of the total number of 31 settlers only 2 were able to sign (AW. Ujskie Ol., C. 2, I, fol. 160). The agreement of 1798 between the heir Gajewski and the community of the Tłockie Ol. was signed with little crosses by all the Olęders to the number of 13 (AW. Tłockie Ol., dep. A. I, fol. 4). Also in Złotkowo, whose monograph was worked out by Brandenburger (Das Flaulinder — Dorf Goldau), all the inhabitants to the number of 12 were illiterate (AW. B. 14–15). A great number of illiterate Olęders is shown likewise by the earliest Protestant registers of Lwówek (Archiwum Państwowe w Poznaniu, Metryki 441 C). Even in the regulation records drawn up mostly in 1830–40 the settlers, although part of them had had school instruction already in Prussian times, were for the most part unable to sign.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-117">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-117">p. 117</a></h2>
+<section class="lit-passage" id="p-117" data-page="117">
+<div class="pg" id="p117"><a href="#p117">p. 117</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 przyczynił się częściowo analfabetyzm wtórny. Bądź co bądź, nawet gdy się weźmie pod uwagę, że szkoły olęderskie zakładane były przeważnie potrzeb natury religijnej,a rezultaty nauki szkolnej były bardzo skromne, stwierdzić trzeba, iż samo ich istnienie stanowi w historii osad pozycję bezsprzecznie dodatnią. Korzystnie również na interesach osady musiało się odbić wykonywanie przez nauczyciela funkcji pisarza gminnego. Tym sposobem przez załatwianie spraw gminy na piśmie, mógł być w nich utrzymany potrzebny ład i porządek.
@@ -5357,12 +5125,10 @@ As a rule the charters guaranteed to the Olęders freedom of confession<sup clas
 <span class="lit-note" id="n-en-652">117-3</span> A restriction of this kind we met only once, with regard to the Olęders of Bukowiec (charter of 1692, AW. Bukowiec, A. 1): neither to keep a preacher, nor to bring him into the village, but should the greatest need arise, they are free to ride to the preacher. Baptism, however, they ought to receive in the Sieraków church, and weddings likewise. The above prohibition, inserted in the charter probably in consequence of the remonstrances of the Sieraków parish priest, survived only until 1751. In the charter of that year it no longer figures. It is possible that in practice it was observed for an even shorter space of time.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-118">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-118">p. 118</a></h2>
+<section class="lit-passage" id="p-118" data-page="118">
+<div class="pg" id="p118"><a href="#p118">p. 118</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 lektora 1,<sup class="lit-fn"><a href="#n-pl-653">118-1</a></sup> a w odosobnionych wypadkach także zakaz czytania ewan-<sup class="lit-fn"><a href="#n-pl-654">118-2</a></sup> gelii 2%, Natomiast swoboda wykonywania przez .olędrów praktyk reli-<sup class="lit-fn"><a href="#n-pl-655">118-3</a></sup><sup class="lit-fn"><a href="#n-pl-656">118-4</a></sup> gijnych poza gminą (w zborach miejskich itd.) nie była kwestionowana 3.<sup class="lit-fn"><a href="#n-pl-657">118-5</a></sup> W ogóle, jeżeli pominiemy osady leżące w dobrach szlachty-dysydentów usposobionych dla swych współwyznawców szczególnie przychylnie, stwierdzić trzeba, że panowie dla spraw religijnych olędrów nie wykazywali większeg zainteresowania. Pomieszczanie w przywilejach nielicznych, wspomnianych wyżej ograniczeń w związku z powinnościami na rzecz kościoła nasuwa myśl, że wprowadzano je do przywilejów na skutek interwencji właściwych proboszczów. Niekiedy panowie nie zajmowali w ogóle własnego stanowiska wobec spraw religijnych olędrów, zalecając, aby w tych sprawach postępowali tak „jak Rzeczpospolita pozwala” 4. Żródła nie zawierają ani jednej wzmianki o jakiejkolwiek kontroli życia religijnego olędrów, przeprowadzonej z inicjatywy pana pod kątem widzenia zgodności z przepisami przywileju. Nie znalazł się również w źródłach ani jeden wypadek późniejszego ograniczenia zagwarantowanej olędrom w przywileju lokacyjnym swobody wyznania. Jeśli zaś chodzi o wspomniane wyżej ograniczenia zawarte w przywilejach lokacyjnych, te olędrom, jako ludziom wolnym i mogącym dowolnie wybrać przyszłego pana, nie mogły być narzucone bez ich zgody.
@@ -5391,12 +5157,10 @@ Where there were particularly numerous clusters of Olęder settlements with an e
 <span class="lit-note" id="n-en-657">118-5</span> Rel. Posn. nr 140, r. 1602, fol. 660, Nowe Dwory. Such permission we meet likewise in the charters of 1677 for the remaining settlements of the Wieleń estate. Werner Steffani (Geschichte der ewangelischen Parochieen) enumerates the following churches existing in the settlements in the times of the old Commonwealth: in Folsztyn, the Gębickie Ol., Herbardowo (registers from 1692, cf. Jahrbuch der Historischen Gesellschaft f. d. Netzedistrikt, 1898, pp. 24–5), Krosno, the Lewickie Ol., Łokacz, Nowe Dwory, Szklana Huta, the Wielkokrobielewskie Ol.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-119">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-119">p. 119</a></h2>
+<section class="lit-passage" id="p-119" data-page="119">
+<div class="pg" id="p119"><a href="#p119">p. 119</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 r. 1768) ograniczały swobodę stawiania świątyń dysydenckich, już znowu z tej przyczyny, że olędrzy nie byli w stanie pobudować świątyni własnym sumptem lub utrzymać pastora, albo też, co miało najczęściej. miejsce, normąlnę ich potrzeby religijne zaspakajał w zupełności miejscowy nauczyciel, w wyjątkowych zaś wypadkach mieli możność skomunikowania się z najbliższym pastorem. Źródła nie zawierają bliższych danych dotyczących pastorów, przypuszczać jednak nalcży, że były to osoby na ogółświatłe i przygotowane do pełnienia funkcji duchownych. Oczywiście i tu zdarzały się wyjątki<sup class="lit-fn"><a href="#n-pl-658">119-1</a></sup>. Stosunki pastorów z gminą nie zawsze układały się zadawalająco. Poprzednio już wspominano o procesach gminy Herbardowo z miejscowym duchownym. Zupełnie ujemne świadectwo wystawił swym parafianom pastor gminy ewangelickiej Piotrowa, do której należały również Króteckie i Miłkowskie Ol.<sup class="lit-fn"><a href="#n-pl-659">119-2</a></sup>.
@@ -5419,12 +5183,10 @@ The ordinary religious needs of the Olęders were fully satisfied by the local t
 <span class="lit-note" id="n-en-660">119-3</span> Von den Haulindern, p. 254.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-120">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-120">p. 120</a></h2>
+<section class="lit-passage" id="p-120" data-page="120">
+<div class="pg" id="p120"><a href="#p120">p. 120</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 błogosławieństwem dla swojej okolicy<sup class="lit-fn"><a href="#n-pl-661">120-1</a></sup>. Zgodnie z zasadami swych. wyznań (katolickiego i ewangelickiego) olędrzy dużo starań poświęcali kultowi zmarłych. Katolicy podobnie jak i pozostała ludność katolicka: grzebali zmarłych na cmentarzach parafialnych. Ewangelicy mieli zazwyczaj przy każdej osadzie osobny cmentarz, założony na gruncie otrzymanym na ten cel bezpłatnie od pana. Rolę cmentarną mogli sobie olędrzy według upodobania ogrodzić<sup class="lit-fn"><a href="#n-pl-662">120-2</a></sup>. Obrzędów pogrzebowych dopełniał, jak to wspomniano już, nauczyciel.
@@ -5441,12 +5203,10 @@ a blessing for their neighbourhood<sup class="lit-fn"><a href="#n-en-661">120-1<
 <span class="lit-note" id="n-en-662">120-2</span> AW. Góździn, A. I: There is permitted to them also a piece of free ground for a churchyard, on which they will be free to bury the bodies of the dead, each according to his custom, and this ground they may enclose with a fence. AW. Kąkolewo, A. 1: „in gleichen vergónne ihre Todten nach hollinderischen gebrauch ehrlich zur Erde bestadten, wo zu ich ihnen cinen freyen Kirchhoff so im ihren Griintzen gebe, welcher auch von Niemanden so]l gekriincket, oder von cinem einigen Gesstlichen turbieret werden”. ["in like manner I grant that their dead may be honourably committed to earth according to the Holländer custom, for which I give them a free churchyard within their boundaries, which shall also be encroached upon by no one, nor molested by any ecclesiastic”] AW. Dziewczastruga, B. 1028: a place for burial is likewise promised to be designated for them.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-121">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-121">p. 121</a></h2>
+<section class="lit-passage" id="p-121" data-page="121">
+<div class="pg" id="p121"><a href="#p121">p. 121</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Uwagi końcowe
@@ -5473,12 +5233,10 @@ In order to grasp what the Olęder colonisation meant for the old Wielkopolska, 
 <span class="lit-note" id="n-en-663">121-1</span> Of a different opinion was Schmidt (Geschichte, p. 422): „Der Hass Polen der gegen alles, was deutsch und michtig und wuchs sich leiden- protestantisch war, flammite empor zur schaftlichsten Verfolgungssucht aus” ["The Pole's hatred of everything that was German and Protestant flared up into the most unbounded mania of persecution"]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-122">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-122">p. 122</a></h2>
+<section class="lit-passage" id="p-122" data-page="122">
+<div class="pg" id="p122"><a href="#p122">p. 122</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 datnio. Natomiast sprawie utrzymania bezpieczeństwa i całości państwa kolonizacja olęderska nie przyniosła korzyści. Znaczna ilość osadników Niemców na ziemiach przygranicznych osłabiała siłę obronną dawnej Rzeczypospolitej wobec Prus, stwarzała pretekst do mieszania się obcego państwa w sprawy wewnętrzne kraju, podawana była nawet przez króla pruskiego jako jedna z przyczyn rozbiorów, wreszcie przyczyniła się również w pewnym stopniu do okrojenia granic Polski w chwili odbudowy naszej niepodległości. Jeśli chodzi o wpływy kulturalne olędrów na resztę ludności, te nie zaznaczyły się wskutek tego że, jak to już podkreślono, kulturze olędrów brak było zasadniczych przymiotów potrzebnych do ' zajęcia przodującej roli w stosunku do kultury rodzimej.
@@ -5489,12 +5247,10 @@ datnio. Natomiast sprawie utrzymania bezpieczeństwa i całości państwa koloni
 favourably. On the other hand, as regards the maintenance of the security and integrity of the state, the Olęder colonisation brought no advantage. A considerable number of German settlers on the frontier lands weakened the defensive power of the old Commonwealth in the face of Prussia, created a pretext for the interference of a foreign state in the internal affairs of the country, was even adduced by the Prussian king as one of the causes of the partitions, and finally contributed to a certain degree to the cropping of Poland's borders at the moment of the rebirth of our independence. As for the cultural influence of the Olęders upon the rest of the population, it made no mark because, as has already been emphasised, the culture of the Olęders lacked the fundamental qualities needed for holding a leading position in relation to the native culture.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-123">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-123">p. 123</a></h2>
+<section class="lit-passage" id="p-123" data-page="123">
+<div class="pg" id="p123"><a href="#p123">p. 123</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ANEKS I
@@ -6415,12 +6171,10 @@ Lp. \| Nazwa osady w okresie rozbiorów \| Ówczesna parafia \| Nazwa dzisiejsza
 reconciled against the page images, are in `original.md`, pp. 123–144.]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-145">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-145">p. 145</a></h2>
+<section class="lit-passage" id="p-145" data-page="145">
+<div class="pg" id="p145"><a href="#p145">p. 145</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ANEKS II Sygn:: AW. Kliny Ol., pow. Poznań- Wschćd, CG. 3, Jol. 46 5I. —
@@ -6451,12 +6205,10 @@ Yielding to the petitions of our faithful subjects paying rent in the Kicin esta
 Polski, 5 10 Prace Komisji Atlasu hist. z.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-146">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-146">p. 146</a></h2>
+<section class="lit-passage" id="p-146" data-page="146">
+<div class="pg" id="p146"><a href="#p146">p. 146</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 prawa uczestnictwem darowali, wszystkim komu o tym wiedzieć należy, wiadomo czyniemy, że maiąc przed oczyma nadane od poprzedników niektórych Okupników Klucza Kicińskiego prawo, do tego stosownie wszystkim innym wyżey wzmiankowanym po przemierzeniu ich chub nadaliśmy i wypisaliśmy prawo.
@@ -6491,12 +6243,10 @@ Establishment of the community chest.
 It is to this end that people join together, so as to be of use to one another; unforeseen events reduce even the mightiest men to nothing and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-147">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-147">p. 147</a></h2>
+<section class="lit-passage" id="p-147" data-page="147">
+<div class="pg" id="p147"><a href="#p147">p. 147</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ubóstwa przyprowadzaią, naysprawiedliwsza więc rzecz iest, aby gminy miały swóy pewny skarb, w którym w prawdziwym nieszczęściu mogliby znaleźć pomoc; za tym każdy z czynszuiących wszystkich ogólnie gminów będzie powinien' bez przecznie do Kassy Gminney na każdy Sty Woyciech zapłacić do rąk ławnika lub sołtysa po grzywnie iedncy, to iest po złotemi po groszy miedziannych piętnaście, w przypadku niezapłacenia tey grzywny podpadać będzie karze zapłacenia grzywien dwóch. Kassa zaś ta zostawać będzie przy sołtysie pod dwicma różnemi zamknięciami, od których ławnicy dwa klucze mieć będą, ale do niey ieden bez drugiego i bez sołtysa otwierać nie może, gdyby zaś który na ten czas zachorzał i nie byi w domu, gdyby była potrzeba do kassy otworzyć, tedy klucz starszemu gospodarzowi bydź ma powierzony, na każde zaś Sto świętego Woyciecha przy zwałaniu gminów przerachowana bydź ma ta kassa i niey ńigdy nikomu niema bydź pożyczanego bez zwołania dziesięciu przynaimniey gospodarzy 1 bez widoczney [przyczyny], przyczym i to .naydaley na pół roku wyjąwszy przypadek ognia, dla ktorego do lat trzech można z kassy pożyczyć, a po tych wyszłych bez prowizyi odebrać.
@@ -6515,12 +6265,10 @@ Penalties for offenders
 If any insubordination against the authority of the manor, or of the sołtys or of the ławniks, should appear in any of the rent-payers, or he transgresses even the smallest point of this ordinance, then, once this is proven to him, he is to pay three grzywnas into the community chest, that is four and a half złotys. If a neighbour does damage to a neighbour in the field or in the barn, or causes an uproar, a quarrel or plain abuse of the house, or in an inn — God forbid — a beating (this is to be understood as applying to outsiders as well), and the matter is brought before the village court, then the wrong done to the injured party is to be made good as soon as it can be assessed; as in cases of quarrels and abuse, that is three grzywnas for the injured party, and the offender is to give one and a half to the chest. If on a Sunday or on a holy day ordered for public observance in the Kingdom of Poland any of the rent-payers presumes to go to town to sell or to buy, and as a Catholic fails through laziness to be found in his parish church at Kicin, he is to be fined two grzywnas to the community chest. If anyone — God preserve him — is careless with fire in his house, as by carrying a burning splinter about the yard or the buildings, or using a candle without a lantern, or not keeping a chimney or ladders, or failing to sweep out the soot on a Saturday or a Friday, or drying splinters at, and yet not properly on, the household oven, he is to be fined two grzywnas to the chest; and if from such an occasion a fire of any kind should break out, the injured party is to pursue the wrongdoer for damages on his estate. Should God permit an unlucky fire at any of the farmers', then anyone who is lazy about helping to save the property and does not come with water incurs a fine of three grzywnas; 10*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-148">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-148">p. 148</a></h2>
+<section class="lit-passage" id="p-148" data-page="148">
+<div class="pg" id="p148"><a href="#p148">p. 148</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 przyszedł z wodą, podpada winien grzywien trzech, któryby zaś do ratunku naypierszy z wodą przyszedł, lub w inszym iakim nieszczęśliwym przypadku o życie lub kalectwo na ratunek przybył, temu za nadgrodę Kassa Gminna grzywien sześć bez odwłoki zapłacić, czego Sąd Gminny nayuroczyściey przestrzegać będzie. Żadnemu z czynszuiących w Kluczu Kicińskim pod prawem ninieyszem zostającemu nie będzie się godziło zaciągać długu na chubę swoię i budynki od nikogo bez opowiedzy się naprzod w Sądzie gminnym i otrzymaniu na piśmie pozwolenia odc dworu, które znowu przed sądem gminnym złożyć powinien, a sąd dopiero, icżeli uzna, że icst tego prawdziwa potrzeba, one akceptować ma; ieżeliby zaś widział, że nie masz przyczyny sprawiedliwey zaciągnienia długu, albo że pożyczalnik iuż mocno zadłużony, pozwolenie dworskie. odnieść do dworu ma i nie akceptowania 20 przyczyny przedłożyć, które dwór za sprawiedliwe przyjąć ma, inaczey pożyczający nie będzie miał do dłużnika impetycyi. Każdy; z czynszuiących starać się powinien, aby dzieci iego wszystkie lub przynaymniey z nich iedno zwłaszcza synowie czytać, pisać i rachować umiało, ktoby tego zaniedbał, grzywien trzy do Kassy ma płacić.
@@ -6547,12 +6295,10 @@ The dues of the leaseholders of the Kicin estate complex.
 Every leaseholder (except those who may hold separate charters) of the Kicin estate complex is to pay into the lord's treasury on every feast of St Martin fifty Polish złotys, 50 zł, counting thirty copper groszes to the złoty, and two wierts of oats; the wiertel is to hold sixteen garnce of the new measure. From the other lordly dues — hens, sheep, spinning quotas, nuts, mushrooms, watch duty — they are freed for ever. Excepted from this common point applying to the other leaseholders are the three leaseholders at the Hamer, who are to pay rent, without the other lordly dues and even without oats, sixty-six Polish złotys. Every one of the leaseholders of the Kicin estate complex, unless he sits under a separate charter, is to go out ploughing three times a year, that is for the root crops, for the fallow and for the winter sowing, and on each occasion he is to plough eight rods, i.e. 8; the rod is to hold seven and a half ells of the new measure. They are also to do nine days' hand labour, that is three in the garden, three with the sickle and three with the scythe. From all the other labour dues, such as the carting of manure from the provost's curia and the carting of wood there, they are freed; in return they are to receive each year six sądki [small casks] of beer of the new measure — three at Czerwonak with their Olęders, two at Kliny, one at the Hamer and the Janikowo Olęders.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-149">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-149">p. 149</a></h2>
+<section class="lit-passage" id="p-149" data-page="149">
+<div class="pg" id="p149"><a href="#p149">p. 149</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 żenia mierzwy z kuryi proboszczowey, drzewa tamże wożenia uwalnialą się, za to zaś brać będą rok sądków nowcy miary sześć piwa, na trzy Czerwonak z swoiemi Hollendrami, dwa Kliny, ieden Hamer 1 Janikoscy Hollendrzy. Wywóz zboża naydaley mil sześć rok o raz na czynić będą powinni, tak ićdnak, że nie więcej nigdy ładować forę na gospodarzowi się nie powinno, iak korcy nowey miary cztery, to iest wierteli ośm. Gdyby zaś tego dwór nie nie potrzebował, tedy wywozu drogą o mil sześć to odprawić powinien, albo pługiem dzień za z na leden wylechać j wyorać ośm prętów. Drogę iedną naydaley mil sześć każdy z Okupnych odprawi, a gdyby tey nie potrzeba było, wyjechać orać na dzień ieden i prętów ośm. Od zboża i od drogi wyorze wywozu wolnemi się czynią Hollendrzy Czerwonaccy, którzy zato wyjadą orać dwa dni w rok po prętów ośm. Do piwa robienia mielcuchu kicińskim po koley chodzić powinni i drwa do niego przysposobiać y zwieźć, słód wywieźć i przywieźć. Pomoc wszelką do budowania, to iest w przywożeniu drzewa, kamieni, cegły, wapna, gliny i piasku, podnoszenia budynków, lepienia winny będą z kolei. Kościelne daniny, iako to i podatki, raty iakiegokolwiek gatunku dziś, lub czasie będzie wcześnie do sołtysa każdy, a ten gdzie należeć będzie, oddawać będą.
@@ -6591,12 +6337,10 @@ I certify the corrections made above, so that they may not fall under any suspic
 Miaskowski Kat. Poznański mpp.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-150">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-150">p. 150</a></h2>
+<section class="lit-passage" id="p-150" data-page="150">
+<div class="pg" id="p150"><a href="#p150">p. 150</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Powyższy wyciąg ksiąg burmistrzowskich Chwaliszewskich z wypisany i z temiż księgami czyli oblatą skonfrontowany, że się we wszystkim zgadza, Wydział Sporny Sądu Pokoiu Miasta Poznania, nad Archiwem dozór maiący zaświadcza i przy położeniu pieczęci sądu swego własnoręcznie podpisuie z tym dodatkiem iż przekryślenie dwóch wierszy przez omyłkę z innego interesu wypisane przez Sąd swoy nastąpiło.
@@ -6615,12 +6359,10 @@ Poznań, on the 26th of the month, in the year 1810. (signed) Wincenty Mierzyńs
 M. Kamiński P. D. i L. M. O. B. Certified as agreeing with the original (signed) Betkowski
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-151">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-151">p. 151</a></h2>
+<section class="lit-passage" id="p-151" data-page="151">
+<div class="pg" id="p151"><a href="#p151">p. 151</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ANNEKS III
@@ -6651,12 +6393,10 @@ Given [1] and confirmed to the Olęders. I give notice and make known to each an
 If anyone, however, stays at home and does not carry out the obedience owed to his sołtys, he is to be fined five groszes.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-152">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-152">p. 152</a></h2>
+<section class="lit-passage" id="p-152" data-page="152">
+<div class="pg" id="p152"><a href="#p152">p. 152</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Gdyby zaś który. [z] sąsiadów sołtysowi ławnikom jego niepolitycz. i nymi, albo szkalującymi słowy, albo bronią jaką się odezwał, albo zastawiał, do sądu przyszedłszy, słuchać nie chciał, ten bez wszelukarany. Gdyby ' kiej ekscepcji na dwie dobre grzywny ma być zaś sobie gorzej postępował, albo biciem odgrażał, ma być według; uznania sądu ich na wyższą karę sądzony. Kto by zaś zuchwale przeciw sołtysowi i ławnikom jego sobie grubo postąpił, a po wypełnieniu złości [fol. 6] nie chciał być posłuszny, albo się poddać nie chciał, w tej okazji bity albo zraniony czy we dnie albo w rocy przepada i żadnej kary nie ma, ani sądu nie potrzeba. Ktobykolwiek zaś od sołtysa był w funkcji urzędowej posłany, a ważył by się jego kto szkalować albo bić, ten powinien dwie dobre. na grzywny być karany. Gdy zaś sołtys z ławnikami sąd trzyma, nie ma przy tym być żadna kobieta, chyba że ona sama ma jaką skargę dla siebie, albo żeby męża Jej nie było w domu. Oprócz tego zaś kobieta [przy] wykroczeniu tym ma pięć groszy kary położyć. Pozwalam, że sołtysowi co rok z każdej huby trzydzieści groszy płacić powinni za fatygę 1 żmudę, jego ławnikom zaś po groszy piętnaście co rok. Kto by się temu sprzeciwił, powinien karany in duplo być. Kiedyby sołtys i ławnicy w interesie gminy i dobra ich podróż jaką mieli, mają być koszta te z hub wzięte według rachunku. Sołtys i ławnicy powinni na całe wsi i gminy dobro pilnie uważać, tak o płotach, groblach, rowach, upustach staranie mieć 1 gdziekolwiek może być szkoda gminie, zagradzać, reparować 1 poprawiać. Gdyby zaś sołtys i ławnicy niedbali w tym byli, powinni według uznania całej gminy być ukarani. Gdy się znajduje kupno jakie zboża albo bydła jakiego, a . przy kupnie tym litkup już pili i pity był, powinien ten, który nie dotrzyma. kupna, beczkę piwa dać kary. 10. Czego Boże broń, gdyby piorunu albo okazji złych ludzi sąsiaz z dowi się budynek palił i zgorzał, powinni mu z litości chrześcijańskiej dopomóc z huby każdej [od] 100 grzywien 15-ty grosz według uznania szkody, drzewem, trzciną, do wożenia wspomóc powinni. IT. Gdyby się ogień z nieostrożności czego Boże zachowaj wsi znaj— — dował, a z domowych, sąsiadów, który nie chciał do ratunku i gaszenia przybyć, ten powinien na trzy dobre grzywny być [ukarany]. 12. Kto by przy ogniu cudzą siekierę, topór, albo węborek, motykę czyli naczynie jakie cudze wziął, ten rzeczy te powinien do sołtysa przynieść 1 to u niego złożyć, żeby się wróciło, komu należy, pod karą grzywny dobrej jednej.
@@ -6687,12 +6427,10 @@ Gdyby zaś który. [z] sąsiadów sołtysowi ławnikom jego niepolitycz. i nymi,
 12. Whoever at a fire takes someone else's axe, hatchet, weborek [?], hoe or any other utensil belonging to another, is to bring those things to the sołtys and deposit them with him, so that they may be returned to their owner, on pain of a fine of one good grzywna.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-153">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-153">p. 153</a></h2>
+<section class="lit-passage" id="p-153" data-page="153">
+<div class="pg" id="p153"><a href="#p153">p. 153</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 13. Żaden żeby się [nie] ważył. przed sień albo drzwi drugiego pójść ] wyzywać. Kto to czyni, podpada karze grzywien dobrych trzy. 14. [Na] fantowanego gdyby się kto ważył drugiemu na drodze albo w polu czyli we wsi czatować, a mógłby to dowieść dwoma godnymi świadkami, powinien według uznania wielkości rzeczy być ukarany. ' [fo] Ń 7] 15. Gdyby zaś sąsiad jeden drugiego, Iżył, albo kobiety jedna drugą słowami nieuczciwymi konfundowały, poczciwości ich szkodząc, miawszy dwóch świadków statecznych, mają być karani na grzywny dobrę dwie, słów nieuczciwych [mają] sobie dowieść, albo poczciwość wrócić według uznania urzędu. 16. Powinien jeden drugiemu do zbudowaniai wyporządzenia podwórza gnojem i wodą, jeżeli tego potrzeba, służyć. Kto by tego czynić nie chciał, przepada na karę grzywny dobrej jednej. 17. Gdyby sąsiad Jaki otworzył zagrodzenie, lub płot, a znowu nie zagrodził, przez to by się jaka szkoda stałaż, powinien szkodę tę bonifikować i sztrafy grzywnę jedną dać. 18. Jeżeliby kto drugiego zasianą rolę jechał, powinien karę przez grzywny jednej ponosić [i] szkodę nagrodzić. 19. Jeżeliby rozkazu sołtysa pastwiska chędożyć, granice kończyć, odchód wód, chędożyć i szlamować, ilekolwiek może być wsi rowy pożytecznego [należało], kto by rozkazu tego nie słuchał, i zadosyć nie uczynił, podpada karze grzywien dwie 1 robotę pomienioną przez tydzień powinien dokończyć pod dwojaką karą. 20. Powinien sąsiad jeden drugiemu granice jego, czy to rowy, albo płoty według okoliczności miejsca trzymać 1 zachować. Kto tego czynić nie będzie, szkoda by się to stała, powinien szkodę a przez powrócić i nagrodzić i wiele skarga taka by była, sołtysowi tę razy zawsze groszy dziesięć przypada. = 21. Należyta granica zaś być taka: rowie pół pręta albo laski ma w szeroka, dwa łokcie głęboka. Płot albo zagrodzenie ma być dwa łokcie wysoki, tak żeby półletnie cielę przezeń nie przelazło. Przy tym, gdyby się [we] wsi znajdował koń albo bydło rogate, które by płoty psuło i -przeskakiwało, powinni temu zapobiec, albo bydło takie zbyć. Trzydzieści zaś rózg albo prętów powinno być podwórza domostwem, ogrodem, stajniami dla bydła, świń, kur, gęsI z z 1 kaczek, dobrze opatrzone. 22. Gdyby komu konia, wołu albo krowę ukradzioro, powinni sąsiedzi starania dołożyć, aby się kradzicż taka wydała i znalazła.
@@ -6721,12 +6459,10 @@ Gdyby zaś który. [z] sąsiadów sołtysowi ławnikom jego niepolitycz. i nymi,
 22. If anyone's horse, ox or cow is stolen, the neighbours are to take pains that the theft is disclosed and found out.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-154">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-154">p. 154</a></h2>
+<section class="lit-passage" id="p-154" data-page="154">
+<div class="pg" id="p154"><a href="#p154">p. 154</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 23. Żeby się nikt nie ważył robotników czyli najemników najętych odmawiać 1 odbierać bez konsensu tego, któremu robią, chyba że już po zapłacie uwolnieni są. Kto by się tego ważył, będzie winien kary grzywnę jedną dobrą. 4fol. 8] 24. Kto by się zaś ważył sąsiadowi parobka albo dziewkę odmawiać, czy wykupić, ten który to czyni powinien na grzywnę jedną być karany i parobka czyli dzięwkę panu przeszłemu do służby odesłać. 25. Gdyby kto sąsiadowi swemu bydło w szkodzie fantował, powinien je poić i ochraniać, żeby nie szwankowało albo zdechło. Kto by tego był okazją, powinien szkodę [po]nosić. Gdy zaś czyje bydło fantowane bywa, sołtys każe oznajmić . a gospodarzowi bydła tego, ten gdy zostawia bydło swoje w urzędzie, powinien przez noc jedną od sztuki płacić groszy pięć, drugiej nocy od sztuki groszy dziesięć 1 tak aż do piątej nocy, zawsze dopelt. Gdyby po piątej nocy bydła] tego nie odebrano i nie wykupiono, [powinno] być na podwórze pańskie zapędzone. 27. Żaden żeby się nie ważył sąsiedzkiego bydła do domu swego zagnać, tylko do sołtysa albo ławnika zaraz żeby oddane było pod winą grzywny Jednej. 28. Sołtysowi od fantowanego bydła należy trzecia część z wykupna.
@@ -6763,12 +6499,10 @@ Whoever has no money to redeem the cattle is to find those who will stand surety
 33. If the sołtys orders the pigs to be hobbled (klockować), and anyone neglects this, so that damage results to a neighbour, he is to take [recte: give] 5 groszes a pig for the impounding.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-155">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-155">p. 155</a></h2>
+<section class="lit-passage" id="p-155" data-page="155">
+<div class="pg" id="p155"><a href="#p155">p. 155</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 (fol 9] 34. Gęsi i kaczki, gdy szkodę sągiadowi wchodzą, wolno je zabić 1 komu należą, do domu odesłać. 35. Ważąc się który podczas sądu komu niepolitycznymi słowy fukać \| albo szalbierstwo zadać, powinien pięć groszy sztrafy położyć, gdyby zaś odgrażał biciem, powinien na posłuszeństwo pójść i gro-' szy 10 położyć. Zaś prędzej wypuszczony z posłuszeństwa być nie ma, póki się z sąsiadem swoim nie zgodzi i przeprosi. 36. Wiertel, kwarta i miara piwna ma być sprawiedliwa według miast sąsiedzkich odmierzona,. żeby się nikomu krzywda nie uczyniła. Kto naprzeciw temu czyni, a bliźniego swego oszuka, ma być według uznania sołtysa i ławników karany. 37. Żeby się żaden nie ważył i tej nie daję, zagrodnika albo chamocy łupnika czyli komornika do siebie wziąć, albo na rolę swoją wsadzić bez wiadomości całego sąsiedztwa pod karą beczki piwa. 38. Żeby tego potrzeba było dla lepszego [dobra] wsi albo groblę spust czyli rowy dla spustu wód uczynić, czyli też role tamami opatrzyć, powinni się sąsiedzi według hub składać na to, ja [ze].strony mojej przyobiecuję sąsiedzkie wsie do pomocki przybrać. Ktoby się temu sprzeciwiał, powinien według uznania sołtysa i ławników być karany. 39. Sołtys i ławnicy będą obligowani co dwie niedziele, a to w wtorkowy dzień sąsiadom sądy trzymać, skarg słuchać, kłótnie zgadzać, sztrafy jak najpilniej odbierać, tylko żeby strona jedna dzień przed sądem drugiej stronie zawczasu oznajmowała i obstalowała, cudzemu zaś każdego czasu przy zapłacie urzędowej sprawiedliwość uczynić potrzeba. " 40. Przed zejściem sądu powinien skarżący dwanaście groszy cesarskich położyć, z których sołtysowi cztery należą grosze cesarskie. 41. To zaś sobie zachowuję, żeby sołtys miał baczenie dobre, ażeby sprawy kryminalne, sztrafy dworne nie były zatajone. Te się zawsze do mnie będą ferowały i mnie donieść potrzeba sprawy takie. Co się inszych spraw tyczy, oddaję to dla lepszego wsi sądzenia, ile sołtysowi zawsze od okrwawienia i bicia [z] znakami ośm groszy cesarskich powinni oddawać, oprócz [tego] ławnikom ich należącą kwotę. 42. Uskarżając się kto przed sołtysem i ławnikami jego, mając wolę w sprawie swojej do pana pójść, tego jemu pozwolić potrzeba [fol. 10] rozkazuję, ktoby zaś zuchwale i hardym sposobem apelować chciał, powinien być na grzywnę jedną karany. 43. Jeżeliby sąsiad jeden drugiemu chciał majętność czyli cudzemu sprzedać, powinien to pierwej sołtysowi oznajmić, a pokryjomu nie sprzedawać, żeby kto długów po sobie nie zostawił. Czy to pod pa-
@@ -6797,12 +6531,10 @@ Whoever has no money to redeem the cattle is to find those who will stand surety
 43. If one neighbour wishes to sell another an estate or property of any kind, he must first notify the sołtys
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-156">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-156">p. 156</a></h2>
+<section class="lit-passage" id="p-156" data-page="156">
+<div class="pg" id="p156"><a href="#p156">p. 156</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 O nem, czy pod gminą kupujący, zawsze powinien piwa beczkę sąsiadom dać, kupując. Swoi, którzy zawsze bliżsi kupna, i ci powinni beczkę piwa sąsiadom. — 44. Gdyby kto cudzy chciał hubę albo majętność czyjąś kupować, powinien najprzód u sołtysa należytą uczynić wiadomość przy beczce piwa, jeżeli się znajduje sąsiad, który hubę tę może kupić, a jeżeliby się kto taki znajdował [we] wsi, ma przodek kupowania huby tej i do kupna przypuszczony być ma, lecz bliższy kupna tego sąsiad ten, który z hubą sprzedawaną graniczy. Jeżeliby się zaś znajdowali krewni z huby tej, ci najbliżsi do otrzymania huby sprzedawanej, i żadnym sposobem zabraniać im nie potrzeba. Ktoby się temu sprzeciwiał, powinien na pana położyć sztrafy grzywien dobrych dziesięć, a sąsiadom za zuchwałość tę kary beczkę piwa.
@@ -6823,12 +6555,10 @@ I therefore earnestly command the sołtys and the ławniks to hold firmly to the
 [The date, seal and signature are lacking. The founding charter was granted to the Olęders in 1729. The issue of the present wilkierz probably followed in the years nearest to it.]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-157">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-157">p. 157</a></h2>
+<section class="lit-passage" id="p-157" data-page="157">
+<div class="pg" id="p157"><a href="#p157">p. 157</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Plany osad (the settlement plans, eight plates) and the Mapa: image  
@@ -6845,18 +6575,16 @@ tom5_0174's caption reads "3. Nowe al. Wielkokrobielewskie Olędry.
 Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
+<div class="pg"><a href="#p-front">front</a></div>
 <div class="lit-orig lit-none" lang="pl">
 <p>This page is not marked in the original: its text stands under the page before.</p>
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Władysław Rusiński, *Osady tzw. „olędrów" w dawnym województwie poznańskim* — English translation
+## Władysław Rusiński, *Osady tzw. „olędrów" w dawnym województwie poznańskim* — English translation
 
 > **Translator's note.** This is a translation of the monograph  
 > (Poznań 1939, Kraków 1947). Conventions, agreed with the editor:  
@@ -6897,6 +6625,7 @@ Przykład osady rozrzuconej. Fotografia mapy nr 113 z r. 1830."
 > levy. *korzec/garniec* — dry measures (pl. *korcy/garnce*).
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

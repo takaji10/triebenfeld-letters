@@ -7,22 +7,47 @@ alt_url: "/de/literatur/kucharski2023/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-226">226</a> <a href="#p-227">227</a> <a href="#p-228">228</a> <a href="#p-229">229</a> <a href="#p-230">230</a> <a href="#p-231">231</a> <a href="#p-232">232</a> <a href="#p-233">233</a> <a href="#p-234">234</a> <a href="#p-235">235</a> <a href="#p-236">236</a> <a href="#p-237">237</a> <a href="#p-238">238</a> <a href="#p-239">239</a> <a href="#p-240">240</a> <a href="#p-241">241</a> <a href="#p-242">242</a> <a href="#p-243">243</a> <a href="#p-244">244</a> <a href="#p-245">245</a> <a href="#p-246">246</a> <a href="#p-247">247</a> <a href="#p-248">248</a> <a href="#p-249">249</a> <a href="#p-250">250</a> <a href="#p-251">251</a> <a href="#p-252">252</a> <a href="#p-253">253</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-226"><span>VARIA</span> <span class="toc-p">p. 226</span></a></li>
+<li class="l1"><a href="#p-226"><span class="toc-e">Judiciary of the nobility from the 15th to the 18th century</span><span class="toc-o" lang="pl">Sądownictwo szlacheckie od XV do XVIII wieku</span> <span class="toc-p">p. 226</span></a></li>
+<li class="l1"><a href="#p-226"><span class="toc-e">Abstract</span><span class="toc-o" lang="pl">Streszczenie</span> <span class="toc-p">p. 226</span></a></li>
+<li class="l1"><a href="#p-227"><span class="toc-e">Key words</span><span class="toc-o" lang="pl">Słowa kluczowe</span> <span class="toc-p">p. 227</span></a></li>
+<li class="l1"><a href="#p-227"><span class="toc-e">1. The land law</span><span class="toc-o" lang="pl">1. Prawo ziemskie</span> <span class="toc-p">p. 227</span></a></li>
+<li class="l1"><a href="#p-231"><span class="toc-e">2. The noble courts</span><span class="toc-o" lang="pl">2. Sądy szlacheckie</span> <span class="toc-p">p. 231</span></a></li>
+<li class="l1"><a href="#p-236"><span class="toc-e">3. The judicial offices</span><span class="toc-o" lang="pl">3. Urzędy sądowe</span> <span class="toc-p">p. 236</span></a></li>
+<li class="l1"><a href="#p-236"><span class="toc-e">3.1. The professional judges</span><span class="toc-o" lang="pl">3.1. Sędziowie zawodowi</span> <span class="toc-p">p. 236</span></a></li>
+<li class="l1"><a href="#p-238"><span class="toc-e">3.2. The lay judges – the assessors</span><span class="toc-o" lang="pl">3.2. Sędziowie społeczni – asesorzy</span> <span class="toc-p">p. 238</span></a></li>
+<li class="l1"><a href="#p-238"><span class="toc-e">3.3. The court scribe</span><span class="toc-o" lang="pl">3.3. Pisarz sądowy</span> <span class="toc-p">p. 238</span></a></li>
+<li class="l1"><a href="#p-239"><span class="toc-e">3.4. The court chancellery</span><span class="toc-o" lang="pl">3.4. Kancelaria sądowa</span> <span class="toc-p">p. 239</span></a></li>
+<li class="l1"><a href="#p-241"><span class="toc-e">3.5. The usher</span><span class="toc-o" lang="pl">3.5. Woźny</span> <span class="toc-p">p. 241</span></a></li>
+<li class="l1"><a href="#p-242"><span class="toc-e">3.6. The instygator</span><span class="toc-o" lang="pl">3.6. Instygator</span> <span class="toc-p">p. 242</span></a></li>
+<li class="l1"><a href="#p-242"><span class="toc-e">3.7. The advocates</span><span class="toc-o" lang="pl">3.7. Adwokaci</span> <span class="toc-p">p. 242</span></a></li>
+<li class="l1"><a href="#p-243"><span class="toc-e">4. The judicial process</span><span class="toc-o" lang="pl">4. Proces sądowy</span> <span class="toc-p">p. 243</span></a></li>
+<li class="l1"><a href="#p-251"><span class="toc-e">Bibliography</span><span class="toc-o" lang="pl">Bibliografia</span> <span class="toc-p">p. 251</span></a></li>
+<li class="l1"><a href="#p-252"><span>Judiciary of the nobility from the 15th to the 18th century</span> <span class="toc-p">p. 252</span></a></li>
+<li class="l1"><a href="#p-252"><span>Abstract</span> <span class="toc-p">p. 252</span></a></li>
+<li class="l1"><a href="#p-253"><span>Key words</span> <span class="toc-p">p. 253</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-226">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-226">p. 226</a></h2>
+<section class="lit-passage" id="p-226" data-page="226">
+<div class="pg" id="p226"><a href="#p226">p. 226</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### VARIA
+## VARIA
 
 Robert Kucharski<sup class="lit-fn"><a href="#n-pl-1">1</a></sup>
 
-### Sądownictwo szlacheckie od XV do XVIII wieku
+## Sądownictwo szlacheckie od XV do XVIII wieku
 
-### Streszczenie
+## Streszczenie
 
 *Sądownictwo okresu monarchii feudalnej w naturalny sposób zmieniło swój charakter na stanowy co związane było z wyodrębnieniem się stanów społecznych, szczególnie szlachty, która na skutek zachodzących procesów politycznych i zmian społecznych uzyskiwała coraz większe przywileje, w tym immunitety sądowe*<sup class="lit-fn"><a href="#n-pl-2">2</a></sup>*. Niniejsze opracowanie nakreśliło ogólnie sądowe organy wymiaru sprawiedliwości w Rzeczpospolitej Polskiej od XV wieku aż do schyłku państwowości polskiej. Organy te naturalnie nie były jednolite strukturalnie i organizacyjnie a ich kompetencje pokrywały się. Ewoluowały z czasem choć faktem jest, że zmiany te nie nadążały za zmianami zachodzącymi w środowisku międzynarodowym wokół Pierwszej Rzeczpospolitej, i nie były w stanie odpowiedzieć na potrzeby zarówno w zakresie reform państwa jak i zmian społecznych. Na pewnym etapie stały się nawet obciążeniem w reformach politycznych, dokładając niejako swój udział do skostnienia struktur ówczesnego państwa Polskiego i jego upadku w końcu XVIII wieku. Okres ten charakteryzował się wielością*
 
@@ -33,13 +58,13 @@ Robert Kucharski<sup class="lit-fn"><a href="#n-pl-1">1</a></sup>
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### VARIA
+## VARIA
 
 Robert Kucharski<sup class="lit-fn"><a href="#n-en-1">1</a></sup>
 
-### Judiciary of the nobility from the 15th to the 18th century
+## Judiciary of the nobility from the 15th to the 18th century
 
-### Abstract
+## Abstract
 
 *The judiciary of the age of the feudal monarchy changed its character in a natural way into an estate one, which was bound up with the emergence of the social estates, above all the nobility, which as a result of the political processes and the social changes under way won ever greater privileges, among them judicial immunities*<sup class="lit-fn"><a href="#n-en-2">2</a></sup>*. This study has sketched in general the judicial organs of the administration of justice in the Polish Commonwealth from the 15th century to the decline of the Polish state. These organs were naturally not uniform in structure or organisation, and their competences overlapped. They evolved with time, though it is a fact that these changes did not keep pace with the changes taking place in the international environment around the First Commonwealth, and were not able to answer the needs both of the reform of the state and of the social changes. At a certain stage they even became a burden on the political reforms, adding their share, as it were, to the ossification of the structures of the then Polish state and its fall at the end of the 18th century. That period was marked by a multitude*
 
@@ -48,21 +73,19 @@ Robert Kucharski<sup class="lit-fn"><a href="#n-en-1">1</a></sup>
 <span class="lit-note" id="n-en-2">2</span> R. Kucharski, Geneza sądów polskich [The origin of the Polish courts], Warszawa 2022, Collegium Iuridicum 2022, no. 1–2, p. 10.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-227">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-227">p. 227</a></h2>
+<section class="lit-passage" id="p-227" data-page="227">
+<div class="pg" id="p227"><a href="#p227">p. 227</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 *typów sądów, ich kognicji oraz właściwości terytorialnej, które zazębiały się a mimo to nie stanowiły jednolitej i zwartej struktury do jakiej przyzwyczajeni jesteśmy w czasach obecnych. Omówienie tych organów z nakreśleniem ich praktyki i krótkiego opisu specyfiki prawa ziemskiego stanowi przedmiot niniejszego opracowania.*
 
-### Słowa kluczowe
+## Słowa kluczowe
 
 *Sąd ziemski, sąd grodzki, sędzia, wymiar sprawiedliwości, szlachecki, Pierwsza Rzeczpospolita, prawo, instygator, sędzia, pisarz, woźny, podsędek, wyrok, kocz, roczki, delacja, pozew, skarga, apelacja, nagana sędziego, gród, starosta, król, monarcha, sądy ziemiańskie, Sejm Czteroletni, reformy, kancelaria sądowa, księga, księgi sądowe, szlachta, plebejski, zbrodnia, kara, zabójca, starościński, prawo zwyczajowe, konstytucja sejmowa, protest, nagana, skrutynium, podkomorskich, miejskich, oprawca, kat, miecze, kara śmierci, przysięga, środki dowodowe, rozprawa, wieczność ksiąg, wieczność wpisów, lauda, statuty, nieruchomości, prawo karne, kryminalne, cywilne, procedura sądowa.*
 
-### 1. Prawo ziemskie
+## 1. Prawo ziemskie
 
 Jak już wspomniano w okresie istnienia Królestwa Polskiego, w czasach wyodrębnienia się sądownictwa szlacheckiego opierało się ono na prawie zwyczajowym. Brak było jednolitej kodyfikacji praw i procedur używanych przez organy sądowe w procesie wymiaru sprawiedliwości. Powodowało to ogromny chaos prawny i niepewność obrotu prawnego, oraz erozję autorytetu sądów a pośrednio także i Państwa. Brak spójnych procedur nie był jednak główną przyczyną słabości sądów a martwa egzekucja ich orzeczeń. Słabość ta wiązała się z obawą szlachty, iż jej przywileje i swobody zostaną naruszone przez silną władzę centralną. Przez cały czas istnienia Pierwszej Rzeczypospolitej stan ten się utrzymywał a wszelkie próby jego zmiany były torpedowane, co finalnie doprowadziło do upadku Państwa. Te same bolączki dotykały ogólnie całą administrację i organy państwowe, których praktyka i działalność minimalistyczna w swej formie i treści była tolerowana na tyle na ile nie wchodziła na kurs kolizyjny z interesami partykularnymi szlachty.
 
@@ -71,21 +94,19 @@ Jak już wspomniano w okresie istnienia Królestwa Polskiego, w czasach wyodręb
 
 *of kinds of courts, of their cognisance and of their territorial jurisdiction, which overlapped one another and yet did not make a single and compact structure of the kind we are used to in our own times. A discussion of these organs, with an outline of their practice and a short description of the peculiarities of the land law, is the subject of this study.*
 
-### Key words
+## Key words
 
 *Land court, municipal court, judge, the administration of justice, noble, the First Commonwealth, law, instygator, judge, scribe, usher, sub-judge, verdict, kocz, roczki, delation, summons, complaint, appeal, the judge's reprimand, castle, starost, king, monarch, land courts, the Four-Year Sejm, reforms, the court chancellery, book, court books, the szlachta, plebeian, crime, punishment, murderer, starost's, customary law, a sejm constitution, protest, reprimand, scrutiny, of the chamberlains, municipal, executioner, headsman, swords, the death penalty, oath, means of proof, hearing, the perpetuity of the books, the perpetuity of the entries, lauda, statutes, immovables, criminal law, criminal, civil, court procedure.*
 
-### 1. The land law
+## 1. The land law
 
 As has already been said, in the age of the Kingdom of Poland, in the times when the noble judiciary was separating out, it rested on customary law. There was no uniform codification of the laws and procedures used by the judicial organs in the process of the administration of justice. This caused an enormous legal chaos and an uncertainty of legal dealings, and the erosion of the courts' authority and, indirectly, of the State's as well. The lack of consistent procedures was not, however, the chief cause of the courts' weakness but the dead execution of their rulings. That weakness was bound up with the nobility's fear that its privileges and liberties would be infringed by a strong central power. Through the whole existence of the First Commonwealth that state of things held, and every attempt to change it was torpedoed, which in the end led to the fall of the State. The same troubles touched the administration and the organs of the state in general, whose practice and activity, minimalist in their form and substance, was tolerated just so long as it did not enter on a collision course with the particular interests of the nobility.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-228">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-228">p. 228</a></h2>
+<section class="lit-passage" id="p-228" data-page="228">
+<div class="pg" id="p228"><a href="#p228">p. 228</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Prawo zwyczajowe nigdy nie doczekało się prawdziwej kodyfikacji, choć jak wiadomo już Kazimierz Wielki w Statutach wiślickich z 1347 roku wprowadził zasadę uchylenia obowiązywania zwyczaju niekorzystnego. Nie doprowadziło to ani wtedy ani w wiekach późniejszych do skodyfikowania praw w sposób jednorodny, pozwalający na wzmocnienie władzy centralnej i unitarnej funkcji państwa, choć należy zaznaczyć, iż próby takie były podejmowane.
@@ -116,12 +137,10 @@ Customary law was gradually extended and supplemented by the privileges and the 
 <span class="lit-note" id="n-en-4">4</span> S. Zarański, Pierwiastki dziejów ojczystych w ich organicznym rozwoju [The elements of the country's history in their organic development], Kraków 1886, pp. 169–171.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-229">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-229">p. 229</a></h2>
+<section class="lit-passage" id="p-229" data-page="229">
+<div class="pg" id="p229"><a href="#p229">p. 229</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 legislacji z zakresu prawa cywilnego, karnego, procesowego i w części publicznego wydanych w Wielkim Księstwie Litewskim.
@@ -144,12 +163,10 @@ of the legislation in the field of civil, criminal, procedural and in part publi
 Even so, the land law through the whole time of its force remained dismembered and inconsistent, and every attempt at its codification
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-230">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-230">p. 230</a></h2>
+<section class="lit-passage" id="p-230" data-page="230">
+<div class="pg" id="p230"><a href="#p230">p. 230</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 napotykały opór większości szlachty przekonanej o najdoskonalszej naturze praw zwyczajowych obowiązujących w Polsce. „Ogólnych praw zbioru nie ma, konstytucje i rozporządzenia często są ze sobą sprzeczne. A jest ich tak wiele, że przy najpilniejszym badaniu przejrzeć ich niepodobna wszystkich i pojąć właściwe im znaczenie. Co za doskonała dla sędziów i asesorów wymówka, gdy nienawykli do pracy poważnej niewiele się o te prawa troszczą, jak szerokie pole dla szykan i pieniactwa rzeczników” (adwokatów) – pisał Fryderyk Schulz, podróżnik inflancki przemierzający Polskę epoki stanisławowskiej<sup class="lit-fn"><a href="#n-pl-5">5</a></sup>. Całe prawo ziemskie było chaotyczne i przypominało raczej dżunglę stanowiącą znakomite pole dla mataczy i pieniaczy procesowych, trudne do ogarnięcia dla praktyków sądowych. Sędziowie istotnie odczuwali brak jednolitego zbioru praw materialnych i procedury, skodyfikowanych, jednolitych pozwalających na utrwalenie praktyki orzeczniczej na terenie kraju, co pozwalałoby na wzmocnienie spójności politycznej i społecznej Państwa. Także kadra orzecznicza do końca trwania Rzeczypospolitej Szlacheckiej nie legitymowała się solidnym wykształceniem prawniczym, albowiem do funkcji sądowych powoływano szlachtę posesorów lokalnych, których przygotowanie merytoryczne bazowało raczej na doświadczeniu zdobytym w pracy kancelaryjnej niż na wykształceniu uniwersyteckim. „Wkrótce nauczyłem się jak zwykle na pamięć accesorjów (formułek na rozpoczęcie procesu). Miała to być książka elementarna prawnictwa. (…) Dzień i noc męczyłem się na osobności nad czytaniem statutów Herburta i krektury pruskiej, nie mając najmniejszego wyobrażenia ducha praw i jego zasad. Nie znając różnicy, co prawo natury, polityczne, cywilne, kryminalne i narodów znaczyć w gruncie miało. Wymawiałem prawa rzymskie, statuta magdeburskie jak papuga z zwyczaju, bo tak całe godne moje zgromadzenie czyniło”<sup class="lit-fn"><a href="#n-pl-6">6</a></sup> – pisał Józef Wybicki. Praktyką było wczesne rozpoczęcie kariery w sądownictwie, co zauważa autor hymnu narodowego pisząc: „Lat szesnaście mając już biegałem po różnych sądach, gdzie nas pieniacze wyprowadzali. Nabywałem z doświadczenia wiadomości praktycznej, tak, iż w siedemnastym roku pierwszy kancelarzysta zacząłem stawać, czy odzywać się, jak mawiano, w sądach grodzkich i ziemskich…”<sup class="lit-fn"><a href="#n-pl-7">7</a></sup>.
@@ -172,15 +189,13 @@ met with the resistance of the majority of the nobility, convinced of the most p
 <span class="lit-note" id="n-en-7">7</span> Ibidem p. 17.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-231">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-231">p. 231</a></h2>
+<section class="lit-passage" id="p-231" data-page="231">
+<div class="pg" id="p231"><a href="#p231">p. 231</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 2. Sądy szlacheckie
+## 2. Sądy szlacheckie
 
 Po ukształtowaniu się szlachty jako odrębnego stanu społecznego naturalną koleją rzeczy było, iż sądownictwo szlacheckie zyskało specyficzną i oddzielną formę od pozostałych sądów w ówczesnej Rzeczypospolitej.
 
@@ -197,7 +212,7 @@ Pierwszy rodzaj sądów: sądy ziemskie wywodziły się ze struktur sądów star
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 2. The noble courts
+## 2. The noble courts
 
 Once the nobility had taken shape as a separate social estate, it followed as a natural course of things that the noble judiciary won a form specific and separate from the remaining courts of the Commonwealth of the time.
 
@@ -212,12 +227,10 @@ The first kind of courts: the land courts descended from the structures of the s
 <span class="lit-note" id="n-en-10">10</span> S. Kutrzeba, Historia ustroju Polski w zarysie [The history of the constitution of Poland in outline], Warszawa 1949, p. 119 and on.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-232">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-232">p. 232</a></h2>
+<section class="lit-passage" id="p-232" data-page="232">
+<div class="pg" id="p232"><a href="#p232">p. 232</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 , stały się nieporęczne a zatem stopniowo zanika praktyka przybywania na nie wszystkich szlachciców z danej ziemi, co wiąże się z innymi obowiązkami i zajęciami jakie mieli oni w terminach roczków powiatowych. Roczek rozpoczynał się od wywołania sprawy, gdzie sędzia w imieniu starosty lub sam starosta odczytywał pozew i wysłuchiwał racji stron. Pisarz odpowiedzialny był za sporządzanie pisemnych dokumentów sądowych. Właściwość rzeczowa sądów ziemskich obejmowała początkowo głównie sprawy cywilne między szlachcicami a czasem także sprawy karne. Co ciekawe pełniły one funkcje jakie dziś przypisujemy urzędom notarialnym a mianowicie to przed nimi zawierano umowy kupna–sprzedaży nieruchomości ziemskich i budynków, sporządzano umowy zastawne, akty ugód z duchowieństwem o dziesięciny, podziały dóbr w procesie spadkobrania, wytyczania granic między nieruchomościami, spisywanie darowizn dla klasztorów, umowy pożyczkowe jak i sprawę o zapłatę długów i innych należności oraz wpisów do ksiąg ziemskich (wieczystych) tytułów własności. Sądy ziemskie rozstrzygały kwestie sporów o własność ziemi i innych nieruchomości zarówno między dwoma stronami stanu szlacheckiego jak i między szlachcicem a mieszczaninem lub duchownym. Cechą dystynktywną tego rodzaju sądów było rozpatrywanie jedynie spraw szlachty osiadłej, posesjonatów. Sądy te stopniowo zaczynają tracić na ważności w XVII wieku, co związane jest z upadkiem sejmików ziemskich, które nie zbierają się i nie wybierają sędziów ani nie obsadzają urzędów. Nadużywanie liberum veto spowodowało paraliż tych sejmików a co za tym idzie szlachta nie miała sędziów do załatwiania spraw zawisłych przed sądami ziemskimi.
@@ -232,12 +245,10 @@ ings, became inconvenient, and so the practice gradually died away of all the no
 Meanwhile the unsettled nobility was subject to the jurisdiction of the second type of court — namely the municipal court. That type of judiciary had different competences, composition and manner of functioning, and its first beginnings are to be sought in the 14th century in Lesser Poland, where it supplemented the land courts functionally. They were held in the castles (in Lesser Poland at Kraków, Biecz and Sącz) and their territorial competence was close to that of the land courts, yet in its subject-matter that type of courts was proper to the civil and criminal matters of the unsettled nobility. With time the criminal jurisdiction of the municipal courts was also extended to the settled nobility, along with the moving away from the armed raid and the nobility's self-help as the chief way of the meting out of justice in the so-called four municipal articles: of arson, of the attack on a noble
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-233">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-233">p. 233</a></h2>
+<section class="lit-passage" id="p-233" data-page="233">
+<div class="pg" id="p233"><a href="#p233">p. 233</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 szlachecki, rabunek na drodze publicznej i zgwałcenie<sup class="lit-fn"><a href="#n-pl-11">11</a></sup>. Sądem grodzkim kierował starosta grodowy a skład orzekający uzupełniali podstarości, sędzia grodzki, pisarz grodzki i asesor. Sprawy techniczne i porządkowe zabezpieczał woźny. W XVII wieku sądy ziemskie weszły w okres stagnacji i upadku, albowiem nie zbierały się przez długi okres sejmy ziemskie co powodowało, iż ich rolę zaczęły stopniowo przejmować sądy grodzkie, które sądziły ciągle, a przez to stopniowo przejęły kompetencje do dokonywania wpisów w księgach wieczystych, co uprzednio należało tylko do sądów ziemskich. Posiedzenie sądu otwierał starosta grodowy, woźny wywoływał sprawę i wzywano strony do przedstawienia swojej sprawy i dowodów na ich poparcie. Tu otwierało się pole do popisu dla rozmaitych zastępców procesowych, którzy z czasem stawali się coraz aktywniejsi w miarę jak komplikowało się prawo. Wyrok zapadły po naradzie składu wpisywany był do specjalnych ksiąg, o czym będzie mowa niżej przy omawianiu działania kancelarii sądowych i ich roli w praktyce wymiaru sprawiedliwości.
@@ -260,12 +271,10 @@ The third kind of the courts of first instance were the podkomorski courts, aris
 <span class="lit-note" id="n-en-12">12</span> Volumina legum, vol. 3, pp. 16, 88 and 94. The most important officials of the land were the voivode and the castellan, for by virtue of their office they entered the Senate. The land offices had an honorary character, gave no place in the Senate, and divided into the dignitary ones (Lat. *dignitates*) and *officia*. The dignitaries were: the voivode, the castellan, the podkomorzy and the land judge. The *officia* are the offices: the stolnik, the podstoli, the cześnik, the podczaszego, the łowczy, the miecznik, the chorąży and the wojski. (More on the offices: Z. Góralski, Urzędy i godności w dawnej Polsce [The offices and the dignities in old Poland], Warszawa 1998, pp. 187 to 192.) The instygators, that is the prosecutors, were also central officials not of the Senate.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-234">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-234">p. 234</a></h2>
+<section class="lit-passage" id="p-234" data-page="234">
+<div class="pg" id="p234"><a href="#p234">p. 234</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 były dowody zgromadzone przez oględziny, zaś wszelkie inne dowody mogły służyć uzupełnieniu ustaleń poczynionych bezpośrednio przez skład sądzący w terenie.
@@ -288,12 +297,10 @@ In the 15th century the wiec courts keep on further, one in each voivodeship, wh
 <span class="lit-note" id="n-en-13">13</span> R. Kucharski, Zarys historii Prokuratury w Polsce [An outline of the history of the Prosecution Service in Poland], Prokuratura i Prawo 2021, no. 11, p. 122.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-235">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-235">p. 235</a></h2>
+<section class="lit-passage" id="p-235" data-page="235">
+<div class="pg" id="p235"><a href="#p235">p. 235</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 niego odwołania, zatem jego kwestionowanie nie jest możliwe, podobnie jak od wyroków zapadłych w sądach orzekających w imieniu króla<sup class="lit-fn"><a href="#n-pl-14">14</a></sup>. Instytucja odwołania od wyroków zostanie wprowadzona dopiero w XVI wieku przez Formula Processus. Ta kodyfikacja prawa ziemskiego uchwalona przez Sejm piotrkowski w 1523 roku<sup class="lit-fn"><a href="#n-pl-15">15</a></sup> wprowadziła instytucję apelacji, usprawniła egzekucję wyroków, skróciła czas trwania procesów, ale i zniosła instytucję nagany sędziego<sup class="lit-fn"><a href="#n-pl-16">16</a></sup>. Zanim to nastąpiło praktyka kwestionowania wyroków ukształtowała się w inny sposób. Mianowicie przez tzw. naganę sędziego, będącą *sui generis* skargą odwoławczą. Wobec niemożliwości wystąpienia przeciw wyrokowi, (co równałoby się z wystąpieniem przeciwko królowi, który decydował i przemawiał przez wyrok), niezadowolenie stron z rozstrzygnięcia kieruje się przeciwko sędziemu orzekającemu. Skarga dotyczy niesprawiedliwego lub nieprawidłowego i sprzecznego z przepisami prowadzenia postępowania. Strona, która nie zgadzała się z rozstrzygnięciem zgłaszała w trakcie rozprawy „naganę” sędziemu, co powodowało konieczność rozpatrzenia sprawy przez sąd wyższej instancji, który orzekał co do jej zasadności i przekazywał sprawę do tego samego sądu, który orzekał już w innym składzie. Strona wnosząca naganę wchodziła w pozycję procesową powoda a sędzia pozwanego. Strona, która wygrałaby takie postępowanie „naganne” zobligowana była wnieść opłatę tzw. „pamiętne”. Nagana mogła być wniesiona tylko wobec sędziów zasiadających w sądach ziemskich, grodzkich, podkomorskich i miejskich. Z oczywistych względów nie było możliwości jej wniesienia wobec sędziego sądu królewskiego, którego wyroki były nieodwołalne, albowiem wydawał je król. Wniesienie nagany sędziego wstrzymywało wykonanie wyroku. Nagana powinna być wniesiona po zakończeniu czytania wyroku, przy czym gwarantem jej skuteczności było uregulowanie opłaty sądowej zwanej koczem. Wraz z wprowadzeniem do procedury sądowej instytucji apelacji w 1523 roku pojawiły się inne jeszcze środki odwoławcze takie jak: mocja (zbliżona do dawnej nagany sędziego), gravamen (przewód o uciążliwość, gdy sędzia odmawiał
@@ -316,21 +323,19 @@ peal from it, and so its questioning is not possible, as neither is from the rul
 <span class="lit-note" id="n-en-16">16</span> More on the reprimand of the judge, (in:) J. Rafacz, Nagana sędziego w dawnym procesie polskim [The reprimand of the judge in the old Polish process], Lublin 1921.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-236">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-236">p. 236</a></h2>
+<section class="lit-passage" id="p-236" data-page="236">
+<div class="pg" id="p236"><a href="#p236">p. 236</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 przyjęcia skargi), wznowienie procesu (po znalezieniu nowych dowodów) i *male obtentum* (zaskarżenie wyroku zaocznego)<sup class="lit-fn"><a href="#n-pl-17">17</a></sup>.
 
-### 3. Urzędy sądowe
+## 3. Urzędy sądowe
 
 Omówienie instytucji wymiaru sprawiedliwości okresu Rzeczypospolitej Szlacheckiej nie będzie pełne bez omówienia urzędów sądowych. Jak wiadomo sprawne funkcjonowanie wymiaru sprawiedliwości bazuje na dwóch filarach: przepisach i kadrze. Omawiane instytucje pojawiają się we wszystkich sądach Rzeczypospolitej Szlacheckiej.
 
-### 3.1. Sędziowie zawodowi
+## 3.1. Sędziowie zawodowi
 
 W sensie funkcjonalnym na czele urzędów sądowych stał zawsze reprezentant króla w danej ziemi, zatem mógł to być starosta, wojewoda lub komisarz. W okresie monarchii wymiar sprawiedliwości był sprawowany w imieniu suwerena, którym jest król. W wykonywaniu tej funkcji, która wymagała specjalizacji a z czasem także coraz większej wiedzy, monarchowie polscy posługiwali się powoływanymi sędziami i podsędkami. Sędzia stawał się zatem przewodniczącym składu orzekającego w imieniu króla i pochodził z nominacji królewskiej, pełniąc swą funkcję dożywotnio. Po zasięgnięciu opinii swoich doradców król wyznaczał szlachcica na stanowisko sędziego, spośród kandydatów wybranych przez sejmiki ziemskie. Wymagano, aby kandydat był posesorem, osiadłym na danej ziemi, spełniającym wymóg zacności, aby cieszył się szacunkiem, dobrą opinią i zaufaniem lokalnej braci szlacheckiej. Tak postawione wymogi w stosunku do sędziego miały dać rękojmię uczciwego wykonywania obowiązków oraz przyczynić się do podniesienia prestiżu rozstrzygnięć przez niego dokonanych, co miało niebagatelne znaczenie wobec słabości instytucji egzekucyjnych i poleganiu w tym zakresie na pospolitym ruszeniu. Znajomość specyfiki danej ziemi i osobistego szlachciców tamże osiadłych miało duże znaczenie dla skuteczności sądzenia. Sędziowie sądów szlacheckich wykonywali swe obowiązki bez wynagrodzenia, co związane było z dość powszechnym przekonaniem, że jako funkcja honorowa przynosić miała prestiż i szacunek. Tam gdzie sędzia nominowany przez monarchę nie mógł wypełniać swojej funkcji posiłkował się swoim zastępcą – komornikiem, wobec którego także wymagano przymiotu
 
@@ -341,23 +346,21 @@ W sensie funkcjonalnym na czele urzędów sądowych stał zawsze reprezentant kr
 
 fused to take the complaint), the renewal of the process (after the finding of new proofs) and the *male obtentum* (the challenging of a default ruling)<sup class="lit-fn"><a href="#n-en-17">17</a></sup>.
 
-### 3. The judicial offices
+## 3. The judicial offices
 
 A discussion of the institutions of the administration of justice of the Noble Commonwealth will not be full without a discussion of the judicial offices. As is known, the efficient functioning of the administration of justice rests on two pillars: the rules and the personnel. The institutions discussed appear in all the courts of the Noble Commonwealth.
 
-### 3.1. The professional judges
+## 3.1. The professional judges
 
 In the functional sense at the head of the judicial offices always stood the representative of the king in a given land, so that it might be the starost, the voivode or a commissioner. In the period of the monarchy the administration of justice was exercised in the name of the sovereign, who is the king. In the exercise of that function, which demanded a specialisation and with time also an ever greater knowledge, the Polish monarchs made use of the judges and the sub-judges they appointed. The judge thus became the president of the adjudicating composition in the name of the king and came from the royal nomination, filling his function for life. After the taking of the opinion of his advisers the king named a nobleman to the post of judge, from among the candidates chosen by the land sejmiks. It was required that the candidate be a landholder, settled in the given land, meeting the requirement of worthiness, so that he enjoyed the respect, the good opinion and the trust of the local noble brethren. Requirements so laid with respect to the judge were to give a warranty of the honest exercise of the duties and to help raise the prestige of the rulings made through him, which had no small significance given the weakness of the institutions of execution and the relying in that field on the general levy. The knowledge of the specific character of the given land and of the personal [relations] of the noblemen settled there had a great significance for the effectiveness of the judging. The judges of the noble courts performed their duties without a pay, which was bound up with the fairly common conviction that as an honorary function it was to bring prestige and respect. Where the judge nominated by the monarch could not fill his function, he had recourse to his substitute — the komornik, towards whom likewise the require-
 
 <span class="lit-note" id="n-en-17">17</span> J. Bardach, B. Leśnodorski, M. Pietrzak, Historia ustroju i prawa polskiego, Warszawa 1998, p. 277.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-237">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-237">p. 237</a></h2>
+<section class="lit-passage" id="p-237" data-page="237">
+<div class="pg" id="p237"><a href="#p237">p. 237</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 osiadłości w danej ziemi. Podobne wymogi, jak w stosunku do sędziego i komornika, stosowano wobec podsędka. Cechą charakterystyczną wszystkich tych funkcji był brak wymogu posiadania wiedzy prawniczej. Zdobycie jej było niezwykle trudne, zatem przyjmowano, że sędziowie zdobędą wiedzę, doświadczenie i wykształcą umiejętności, wedle zasady, że praktyka czyni mistrza, rozpatrując poszczególne sprawy. Proces tamtego okresu stopniowo przyjmuje formułki i instytucje prawne ukształtowane w praktyce europejskiej, jednak nigdy nie przybierze on jednolitej i skonsolidowanej formy jaką znano choćby z prawa kanonicznego. Związane to było z oporem przed zmianami, które szlachta uważała za niebezpieczeństwo „absolutum dominium” i zwalczała wszelkimi sposobami. W sądach grodzkich sędziów powołuje starosta (z czasem i tę kompetencję przejmie także szlachta) zaś w sądach ziemskich sejmik ziemski wyznacza a zatwierdza król<sup class="lit-fn"><a href="#n-pl-18">18</a></sup>.
@@ -380,19 +383,17 @@ ment of the settledness in the given land was laid. Similar requirements, as tow
 <span class="lit-note" id="n-en-18">18</span> M. Pawlikowski, Sądownictwo ziemskie w przedrozbiorowej Rzeczypospolitej [The land judiciary in the Commonwealth before the Partitions], Strzałków 2012.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-238">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-238">p. 238</a></h2>
+<section class="lit-passage" id="p-238" data-page="238">
+<div class="pg" id="p238"><a href="#p238">p. 238</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 3.2. Sędziowie społeczni – asesorzy
+## 3.2. Sędziowie społeczni – asesorzy
 
 Oprócz sędziów zawodowych, w skaldach sądów zasiadli sędziowie społeczni, którzy reprezentowali interesy szlachty jako ogółu danej ziemi zwani asesorami. Byli to szlachcice z danej ziemi, których dobierał sobie sędzia zawodowy, aby orzekali razem w nim w składzie sędziowskim. Z reguły było ich sześciu w składzie, nie posiadali wykształcenia prawniczego i raczej doradzali sędziemu w wydawaniu judykatów. Jak czytamy w literaturze „asesor sądowy to osoba, która bądź to na mocy przysługującego jej uprawnienia, albo powołania uprawnionej władzy sądowej, lub też piastowanego urzędu, dopomaga sędziemu lub trybunałowi w czynnościach sądownictwa spornego i niespornego, będąc jednocześnie świadkiem przewodu sądowego”<sup class="lit-fn"><a href="#n-pl-19">19</a></sup>. Co ciekawe, asesorzy byli stali i niestali, przy czym ci pierwsi rekrutowali się spośród szlachciców piastujących urzędy w danej ziemi i mianowani przez króla. Jest to zatem druga funkcja w składzie sędziowskim sądu ziemskiego nominowana przez władcę, podczas gdy w sądach grodzkich nie było wymogu ich powoływania, choć praktyka ta zaczynała się utrwalać<sup class="lit-fn"><a href="#n-pl-20">20</a></sup>. „Szlachta zasiadała nie tylko na swoich sądach ziemskich i grodzkich, ale także i na sądach miejskich, z drugiej znowu strony na sądach szlacheckich zasiadali często jako asesorowie, mieszczanie, i to nie tylko urzędnicy miejscy, burmistrz, wójt, ławnicy, ale i zwykli mieszczanie, urzędów niepiastujący, a także duchowni łacińscy i nawet ruscy. (…) To dopuszczenie rozmaitych warstw i stanów do udziału w sesjach sądowych było dowodem wysokiej tolerancji, a zarazem umacniało powagę sądu i zaufanie w jego sprawiedliwość bez względu na różnice stanowe”<sup class="lit-fn"><a href="#n-pl-21">21</a></sup>.
 
-### 3.3. Pisarz sądowy
+## 3.3. Pisarz sądowy
 
 Całość składu sędziowskiego domykał pisarz (sądu ziemskiego lub grodzkiego), który zasiadał za stołem prezydialnym, choć sporną pozostaje kwestia czy uczestniczył w wydawaniu wyroków. W przeciwieństwie do sędziego oraz asesorów musiał on posiadać solidne wykształcenie, umiejętność posługiwania się łaciną i znajomość przepisów oraz uprzednich rozstrzygnięć służących za podstawę i wzorzec
 
@@ -405,11 +406,11 @@ Całość składu sędziowskiego domykał pisarz (sądu ziemskiego lub grodzkieg
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 3.2. The lay judges – the assessors
+## 3.2. The lay judges – the assessors
 
 Beside the professional judges, in the compositions of the courts there sat the lay judges, who represented the interests of the nobility as the whole of a given land, called the assessors. They were noblemen of the given land, whom the professional judge chose for himself, so that they adjudicated together with him in the judicial composition. As a rule there were six of them in the composition; they had no legal education and rather advised the judge in the giving of the judgments. As we read in the literature, "a court assessor is a person who, either by virtue of an entitlement belonging to her, or of a calling by an empowered judicial authority, or of an office she holds, assists the judge or the tribunal in the acts of the adjudication, contentious and non-contentious, being at the same time a witness of the course of the trial"<sup class="lit-fn"><a href="#n-en-19">19</a></sup>. Curiously, the assessors were standing and non-standing, and the former were recruited from among the noblemen holding the offices in the given land and appointed by the king. It is thus a second function in the judicial composition of the land court nominated by the ruler, while in the municipal courts there was no requirement of their appointment, though that practice began to fix itself<sup class="lit-fn"><a href="#n-en-20">20</a></sup>. "The szlachta sat not only on their own land and municipal courts, but also on the town courts; on the other hand, on the noble courts there often sat as assessors townsmen, and not only the local officials, the burgrave, the wójt, the jurymen, but also ordinary townsmen, holding no office, and also Latin clergy and even Ruthenian. (…) This admission of the various strata and estates to a share in the court sittings was a proof of a high tolerance, and at the same time it strengthened the authority of the court and the trust in its justice, regardless of the differences of estate"<sup class="lit-fn"><a href="#n-en-21">21</a></sup>.
 
-### 3.3. The court scribe
+## 3.3. The court scribe
 
 The whole of the judicial composition was closed by the scribe (of the land court or of the municipal one), who sat at the presidial table, though the question whether he took part in the giving of the rulings remains disputed. In contradistinction to the judge and the assessors, he had to possess a solid education, the ability of the handling of Latin and the knowledge of the rules and of the earlier rulings serving as the basis and the pattern
 
@@ -420,17 +421,15 @@ The whole of the judicial composition was closed by the scribe (of the land cour
 <span class="lit-note" id="n-en-21">21</span> P. Dąbkowski, Zasada jawności w dawnem prawie polskiem [The principle of publicity in the old Polish law], (in:) offprint from Przewodnik historyczno-prawny, vol. V, Lwów 1937, p. 8.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-239">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-239">p. 239</a></h2>
+<section class="lit-passage" id="p-239" data-page="239">
+<div class="pg" id="p239"><a href="#p239">p. 239</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 orzekania. Pisarze ziemscy spisywali osnowy wyroków, zaopatrywali je w formułki prawnicze i dokonywali ich wpisu do ksiąg sądowych. Mieli oni także swoich zastępców zwanych podpiskami, którzy byli pisarzami powiatowymi mającymi za zadanie prowadzenie ksiąg sądowych dla poszczególnych powiatów, gdzie wpisywano wyroki sądowe dotyczące danego powiatu. Pisarz sądowy miał za zadanie uczestnictwa w rozprawie i notowanie jej przebiegu oraz prowadzenie ksiąg sądowych, w których odnotowywana była treść wyroku z krótkim opisem okoliczności sprawy. Pisarz „zapisywał do ksiąg podanych przez strony świadków i wydawał wypisy podanych świadków oraz kopie rot przysiąg, mających być wykonanymi przez świadków, a także sporządzał wykazy zasądzonych kar do ściągnięcia”<sup class="lit-fn"><a href="#n-pl-22">22</a></sup>. Od XVI wieku przybywa spraw wnoszonych do sądów – szczególnie grodzkich, które zawłaszczyły sobie część kompetencji sądów ziemskich (w związku z ich rzadszą działalnością), co wiązało się z uzyskaniem tzw. prawa wieczności. Kancelarie sądów grodzkich specjalizują się w prowadzeniu różnych rodzajów ksiąg, czego naturalną konsekwencją był wzrost liczby urzędników. Pisarz miał za zadanie wykonywać wszelkie polecenia sędziego w zakresie przygotowania i przebiegu rozprawy. Wszyscy urzędnicy sądowi wchodzący do składu orzekającego musieli być wybrani przez sejmik ziemski i nominowani przez monarchę. „Pisarz tenże ziemski, który przez elekcyą od szlachty obrany, a przez Króla J. Mci dawan bywa, a nie inszy żaden, akta grodzkie sprawować ma, i u siebie w mocy mieć” – czytamy w ustawie z 1576 roku<sup class="lit-fn"><a href="#n-pl-23">23</a></sup>. Pisarze przy sądach grodzkich mianowani byli przez starostę.
 
-### 3.4. Kancelaria sądowa
+## 3.4. Kancelaria sądowa
 
 Kancelarie sądowe prowadzone były przez pisarza, który był odpowiedzialny za ich sprawne funkcjonowanie. Ciekawostką jest to, że w miarę jednolita praktyka prowadzenia ksiąg sądowych utrwalała się na ziemiach polskich w XV wieku.
 
@@ -445,7 +444,7 @@ Księgi sądowe przeznaczone były do wpisów wszelkich rozstrzygnięć sądowyc
 
 of the adjudicating. The land scribes wrote the outlines of the rulings, furnished them with the legal formulae and made their entry into the court books. They had their substitutes too, called the sub-scribes, who were the district scribes charged with the keeping of the court books for the individual districts, where the rulings of the court concerning a given district were entered. The court scribe had the task of the participation in the hearing and of the noting of its course and of the keeping of the court books, in which the content of the ruling was recorded with a short description of the circumstances of the case. The scribe "wrote into the books the witnesses given by the parties and issued the copies of the witnesses given and of the texts of the oaths that were to be performed by the witnesses, and drew up the registers of the fines adjudged to be collected"<sup class="lit-fn"><a href="#n-en-22">22</a></sup>. From the 16th century the matters brought to the courts grow in number — the municipal ones in particular, which appropriated a part of the competences of the land courts (in connection with their rarer activity), which was bound up with the gaining of the so-called right of perpetuity. The chancelleries of the municipal courts specialise in the keeping of the various kinds of books, of which the natural consequence was the growth of the number of the officials. The scribe had the task of the performing of all the commands of the judge in the field of the preparation and the course of the hearing. All the court officials entering the adjudicating composition had to be chosen by the land sejmik and nominated by the monarch. "That same land scribe, who is chosen through the election by the szlachta, and is given by His Royal Grace the King, and no other whatsoever, is to administer the castle acts and to have them in his power" — we read in the statute of the year 1576<sup class="lit-fn"><a href="#n-en-23">23</a></sup>. The scribes at the municipal courts were appointed by the starost.
 
-### 3.4. The court chancellery
+## 3.4. The court chancellery
 
 The court chancelleries were kept by the scribe, who was responsible for their efficient functioning. A curiosity is that the fairly uniform practice of the keeping of the court books fixed itself on the Polish lands in the 15th century.
 
@@ -456,12 +455,10 @@ The court books were destined for the entries of every kind of judicial ruling o
 <span class="lit-note" id="n-en-23">23</span> Volumina Legum, t. 2 [vol. 2], p. 167.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-240">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-240">p. 240</a></h2>
+<section class="lit-passage" id="p-240" data-page="240">
+<div class="pg" id="p240"><a href="#p240">p. 240</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 i dokumenty sądowe, które sporządzane były wyjątkowo starannie. Volumina Legum wymagała, aby były one sporządzane dokładnie i precyzyjnie, w formie solennej, w sposób jednoznaczny wskazujący na prawa i obowiązki z nich wynikłe. „Zapisy, a zwłaszcza wieczności mają być pisane wedle formularza w statucie opisanego”<sup class="lit-fn"><a href="#n-pl-24">24</a></sup>. Wypisy z akt i ksiąg sporządzano na pergaminie, z podpisami sędziego i podsędka, z ich pieczęciami na paskach pergaminowych, dodatkowo z podpisem starosty jako przedstawiciela króla na danej ziemi, w której funkcjonowała kancelaria. Wypisy sporządzano pismem ręcznym, często z ozdobnymi majuskułami tekstury, opatrywano pieczęciami lakowymi, przyklejonymi sznurem do pergaminu. W ogóle prowadzenie ksiąg sądowych miało ogromne znaczenie, albowiem oprócz wyroków karnych, które w nich zamieszczano, wszelkie wpisy o charakterze cywilnym takie jak dotyczące nabycia ziemi, darowizn, testowania, zastawów nieruchomości uzyskiwały moc prawną dopiero w chwili dokonania wpisu w księdze sądowej. Przykłady takich wpisów przytacza literatura<sup class="lit-fn"><a href="#n-pl-25">25</a></sup>:
@@ -508,19 +505,17 @@ The entries made in the land court books as well as in the municipal ones could 
 <span class="lit-note" id="n-en-25">25</span> P. Dąbkowski, Palestra i księgi sądowe trembowelskie [The bar and the court books of Trembowla], Lwów 1920, p. 51 and on.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-241">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-241">p. 241</a></h2>
+<section class="lit-passage" id="p-241" data-page="241">
+<div class="pg" id="p241"><a href="#p241">p. 241</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 – akty publiczne: statuty, lauda, przywileje, oblaty przywilejów, poświadczenia o wyborze lub złożonych przysiąg przez urzędników sądowych<sup class="lit-fn"><a href="#n-pl-26">26</a></sup>.
 
 Ówczesna praktyka sądowa dbała o najwyższe zabezpieczenia pomieszczeń kancelarii, które lokowano w budynkach murowanych specjalnie do tego celu zakupionych i utrzymywanych, celem zapewnienia wieczystego trwałości dokumentów. Wraz z utrwaleniem się nowych struktur sądowych i praktyki wymiaru sprawiedliwości okresu szlacheckiego, pojawiają się odrębne budynki, gdzie mają swe siedziby sądy ziemskie i przy nich lokowane są kancelarie sądowe, gdzie przechowywane są dokumenty sądowe. Władze dbały szczególnie o prawidłowe zabezpieczenie archiwów, przez zapewnienie solidnych krat w oknach i drzwi obitych grubą blachą z zamkami, albowiem było to niezbędne dla zapewnienia pewności obrotu prawnego przez zabezpieczenie dokumentacji sądowej. Księgi sądowe na początku nie były otaczane szczególną troską, albowiem przyjmowano ówcześnie, że stanowią one własność starosty i jako takie traktowane były po ich śmierci jak części spadku. Dopiero wywalczenie sobie prawa wieczności<sup class="lit-fn"><a href="#n-pl-27">27</a></sup> przez sądy zmieniło tę sytuację, szczególnie po przyjęciu konstytucji sejmikowej z 1496 roku, gdzie postanowiono, że „w razie opróżnienia starostwa mają księgi być składane w ratuszach w osobnych skrzyniach, pod kluczami wojewody, sędziego ziemskiego oraz urzędującego starosty”<sup class="lit-fn"><a href="#n-pl-28">28</a></sup>.
 
-### 3.5. Woźny
+## 3.5. Woźny
 
 Oprawę techniczną i porządkową ówczesnych sądów zapewniał woźny, który nie musiał być szlachcicem co powodowało, że w tej roli występowało wielu ludzi pochodzenia chłopskiego. Nazwa urzędu pochodziła od funkcji wożenia dokumentów kancelarii książęcych jako woźnica. Nominowani byli przez wojewodę, a w późniejszym okresie przez sejmiki, składali przysięgę po czym dokonywano ich symbolicznych postrzyżyn, co symbolizowało poddanie się władzy wojewody, który osobiście dokonywał tego obrządku. Do podstawowych zadań woźnego należało doręczanie pozwów, rozmaitych pism urzędowych,
 
@@ -537,7 +532,7 @@ Oprawę techniczną i porządkową ówczesnych sądów zapewniał woźny, który
 
 The judicial practice of the time cared for the highest securing of the rooms of the chancellery, which were located in buildings of brick bought and kept specially for that purpose, with the aim of ensuring the perpetual durability of the documents. With the fixing of the new structures of the courts and of the practice of the administration of justice of the noble age, separate buildings appear, where the land courts have their seats and at them the court chancelleries are located, where the court documents are kept. The authorities cared in particular for the proper securing of the archives, through the providing of solid gratings in the windows and of doors covered with a thick sheet iron with locks, for that was indispensable for the assurance of the certainty of the legal dealings through the securing of the court documentation. The court books at the beginning were not surrounded by any particular care, for it was accepted at the time that they were the property of the starost, and as such were treated, after his death, as parts of the inheritance. Only the winning of the right of perpetuity<sup class="lit-fn"><a href="#n-en-27">27</a></sup> by the courts changed that situation, in particular after the taking of the sejmik constitution of the year 1496, where it was resolved that "in case a starosty falls empty, the books are to be laid in the town halls, in separate chests, under the keys of the voivode, of the land judge and of the starost in office"<sup class="lit-fn"><a href="#n-en-28">28</a></sup>.
 
-### 3.5. The usher
+## 3.5. The usher
 
 The technical and the order outfitting of the courts of the time was provided by the usher, who did not have to be a nobleman, which caused that in that role there appeared many people of peasant origin. The name of the office came from the function of the carrying of the documents of the princely chancelleries as a carter. They were nominated by the voivode, and in the later period by the sejmiks; they took the oath, after which their symbolic hair-cutting was done, which symbolised the submission to the power of the voivode, who performed that rite in person. To the basic tasks of the usher belonged the delivering of the summonses, of the various official letters,
 
@@ -548,21 +543,19 @@ The technical and the order outfitting of the courts of the time was provided by
 <span class="lit-note" id="n-en-28">28</span> O. Balzer, Kancelarie i akta grodzkie w wieku XVIII, offprint from Przewodnik Naukowy i Literacki, Lwów 1882, p. 48.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-242">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-242">p. 242</a></h2>
+<section class="lit-passage" id="p-242" data-page="242">
+<div class="pg" id="p242"><a href="#p242">p. 242</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wywoływanie stron przed sąd, dbałość o porządek na sali sądowej podczas rozprawy, organizowanie i zabezpieczanie niektórych czynności sądu związanych z oględzinami w terenie i wizją lokalną, wreszcie przeprowadzanie egzekucji wyroków zapadłych przed sądem. Ustawy procesowe *Volumina Legum* obejmowały woźnego szczególną ochroną, albowiem ktokolwiek by go pobił lub zabił podlegał takim samym karom jak za czyn ten uczyniony na szkodę szlachcica, zatem karą na gardle. Ta sama regulacja nakazywała szlachcie poważnie traktować czynności woźnego i zakazywała odmowy przyjęcia pozwów i wezwań sądowych. Za swoją pracę woźni byli wynagradzani otrzymując po groszu za milę drogi przebytej do adresata pisma, a także za rozmaite inne czynności wykonywane na rzecz sądu.
 
-### 3.6. Instygator
+## 3.6. Instygator
 
 Sądownictwo szlacheckie wykształciło instytucję oskarżyciela publicznego – instygatora<sup class="lit-fn"><a href="#n-pl-29">29</a></sup>, zwanego też delatorem. Jego rolą było reprezentowanie interesu ogólnego zarówno w procesach karnych jak i cywilnych, np. broniąc interesów szlachty w procesach odszkodowawczych danej ziemi, jeżeli okolica ucierpiała przez przemarsz wojsk. Wraz z uksztaltowaniem się praktyki, iż ofiara występków powinna być reprezentowana i w jakiś sposób wynagrodzona a porządek prawny naruszony tym czynem przywrócony przez sprawiedliwą karę, instygatorzy ziemscy stopniowo pojawiają się w praktyce sądowniczej, choć nie od razu zyskują funkcje jakie w czasach współczesnych przypisuje się prokuratorom. Występowali oni przed wszystkimi rodzajami sądów, a wybierani byli spośród szlachty posesorów, o uznanej pozycji społecznej na sejmiku ziemskim. W XVI wieku pojawi się instygator jako centralny urząd królewski – Instigator Regni. Nazwa tego urzędu pochodzi z łacińskiego słowa instigare – oskarżać. Z tytułu sprawowania swoich zadań instygatorowie ziemscy nie pobierali wynagrodzenia a ich funkcja podobnie jak sędziowska była związana z obowiązkiem wobec społeczności i wiązała się z prestiżem piastowania stanowiska.
 
-### 3.7. Adwokaci
+## 3.7. Adwokaci
 
 Obrońców w procesach przed sądami ziemskimi nazywano adwokatami, jurystami, palestrantami, patronami. Występując przed sądem nie posiadali wykształcenia prawniczego a znajomość procedury i prawa materialnego zyskiwali w praktyce dnia codziennego. Byli nimi najczęściej
 
@@ -573,28 +566,26 @@ Obrońców w procesach przed sądami ziemskimi nazywano adwokatami, jurystami, p
 
 the calling of the parties before the court, the care for the order in the court room during the hearing, the organising and the securing of some of the acts of the court bound with the views in the field and the local visitation, lastly the carrying out of the executions of the rulings fallen before the court. The procedural statutes of *Volumina Legum* surrounded the usher with a particular protection, for whoever should beat him or kill him was subject to the same punishments as for that deed done to the harm of a nobleman, and so the punishment on the throat. The same regulation ordered the nobility to treat the usher's acts seriously and forbade the refusal of the taking of the summonses and the court calls. For his work the ushers were remunerated, receiving a penny for a mile of road covered to the addressee of the letter, and also for the various other acts performed for the court.
 
-### 3.6. The instygator
+## 3.6. The instygator
 
 The noble judiciary formed the institution of the public prosecutor — the instygator<sup class="lit-fn"><a href="#n-en-29">29</a></sup>, called also the delator. His role was the representing of the general interest both in the criminal and in the civil processes, e.g. defending the interests of the nobility in the processes for damages of a given land, if the neighbourhood suffered through the march-through of troops. With the shaping of the practice, that the victim of the misdeeds should be represented and in some way recompensed, and the legal order infringed by that deed restored through a just punishment, the land instygators appear gradually in the judicial practice, though not at once do they gain the functions that in the modern times are assigned to the prosecutors. They appeared before all the kinds of courts, and were chosen from among the noble landholders, of an acknowledged social position at the land sejmik. In the 16th century the instygator appears as a central royal office — the Instigator Regni. The name of that office comes from the Latin word instigare — to accuse. By the title of the exercising of his tasks the land instygators took no pay, and their function, as the judicial one, was bound with the duty towards the community and tied itself with the prestige of the holding of the post.
 
-### 3.7. The advocates
+## 3.7. The advocates
 
 The defenders in the processes before the land courts were called the advocates, the jurists, the palestrants, the patrons. Appearing before the court, they had no legal education, and the knowledge of the procedure and of the material law they gained in the practice of the day everyday. They were most often
 
 <span class="lit-note" id="n-en-29">29</span> More on the origin of the instygator as the protoplast of the prosecutor in: R. Kucharski, Zarys historii Prokuratury w Polsce, Prokuratura i Prawo 2021, no. 11.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-243">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-243">p. 243</a></h2>
+<section class="lit-passage" id="p-243" data-page="243">
+<div class="pg" id="p243"><a href="#p243">p. 243</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 zubożali szlachcice, poszukujący szybkiego i łatwego zarobku na przedłużaniu procesów. Powszechnie panowała o nich opinia jako o przekupnych krętaczach, zdolnych do zagmatwania sprawy w taki sposób, że winny uchodził kary jeśli dobrze zapłacił<sup class="lit-fn"><a href="#n-pl-30">30</a></sup>, a sam wyrok w sądzie często zależał od talentu krasomówczego palestranta<sup class="lit-fn"><a href="#n-pl-31">31</a></sup>. Funkcja ta wiąże się otrzymywaniem wynagrodzenia od stron reprezentowanych i nie pochodziła ona z nominacji ze strony urzędów publicznych.
 
-### 4. Proces sądowy
+## 4. Proces sądowy
 
 Przyjrzyjmy się zatem jak wyglądał proces przed sądem ziemskim okresu Rzeczypospolitej Szlacheckiej na przykładzie procesu karnego. W tamtym czasie nie wykształcił się jeszcze czytelny podział na proces karny i cywilny, w związku z czym elementy proceduralne przeplatają się dla obu typów postępowań. Sprawa kryminalna rozpoczynała się od wniesienia skargi przez samego poszkodowanego, którego z czasem wspierał przed sądem instygator. Następnie kancelaria sądowa sporządza dokument zwany pozwem, który powinien być doręczony szlachcie osiadłej przez woźnego na piśmie, na 14 dni przed terminem rozprawy, zaś szlachcie gołocie ogłoszony ustnie. Ten ważny dokument wystawiany jest przez pisarza ziemskiego przy sądzie, opatrywany pieczęcią królewską i ziemską, w języku łacińskim a od połowy XVI wieku w języku polskim. Doręczenie pozwu sądowego było poświadczane zeznaniem woźnego w księdze sądowej, co traktowano jako fakt skutecznego doręczenia. Częstą praktyką jednak było ignorowanie pozwów. Szlachetny Arnold z Kościerzyny pozwał Mikołaja, kasztelana bydgoskiego przed sąd ziemski w Nakle w procesie „o zbiegłe poddane”, co było dość częstym przedmiotem sporu między szlachtą. „Sąd pozwał pana Mikołaja, który wcale nie stawał, lekceważąc pozwy przynoszone przez woźnego: „tenże woźny zdając sprawę w obliczu sądu publicznie stwierdził, że wzywał pierwszy, drugi, trzeci i czwarty ponadto raz pana Libijskiego ze Złotowa aby stanął i wyjaśnił, który to pan Mikołaj ani sam, ani przez zastępcę nie stawił się i wyjaśnić nie postarał się”<sup class="lit-fn"><a href="#n-pl-32">32</a></sup>. Pisarz sądowy wpisywał sprawę w odrębnej księdze zwanej wokandą lub regestrem, z której wywoływano kolejne sprawy. Była to technicznie rola woźnych, jednak
 
@@ -609,7 +600,7 @@ Przyjrzyjmy się zatem jak wyglądał proces przed sądem ziemskim okresu Rzeczy
 
 impoverished noblemen, seeking a quick and an easy earning on the drawing out of the processes. An opinion prevailed of them as of purchasable pettifoggers, able to tangle a case in such a way that the guilty escaped the punishment if he paid well<sup class="lit-fn"><a href="#n-en-30">30</a></sup>, and the ruling in the court often depended on the oratorical talent of the palestrant<sup class="lit-fn"><a href="#n-en-31">31</a></sup>. The function binds itself with the receiving of a remuneration from the parties represented, and it did not come from a nomination on the side of the public offices.
 
-### 4. The judicial process
+## 4. The judicial process
 
 Let us look then at how the process before a land court of the age of the Noble Commonwealth looked, on the example of a criminal process. In that time a clear division into a criminal and a civil process had not yet taken shape, and so the procedural elements interweave for both types of the proceedings. A criminal case began with the bringing of a complaint by the wronged party himself, whom with time the instygator supported before the court. Then the court chancellery draws up the document called the summons, which was to be served on the settled nobility by the usher in writing, 14 days before the term of the hearing, while to the landless nobility it was announced orally. That important document is issued by the land scribe at the court, furnished with the royal and the land seal, in the Latin language and from the mid-16th century in the Polish language. The serving of the summons was attested by the deposition of the usher in the court book, which was held as the fact of an effective service. A frequent practice, however, was the ignoring of the summonses. The noble Arnold of Kościerzyna sued Mikołaj, the castellan of Bydgoszcz, before the land court at Nakło in a process "over the fled subjects", which was a rather frequent subject of the disputes between the nobility. "The court summoned lord Mikołaj, who did not stand at all, holding in contempt the summonses brought by the usher: 'the same usher, giving his account in the face of the court, attested publicly that he called the first, the second, the third and a fourth time over that lord Libijski of Złotów to stand and explain, which lord Mikołaj neither himself, nor through a substitute, stood forth and made no effort to explain'"<sup class="lit-fn"><a href="#n-en-32">32</a></sup>. The court scribe entered the case in a separate book called the wokanda or the register, from which the successive cases were called. It was technically the role of the ushers, yet
 
@@ -620,12 +611,10 @@ Let us look then at how the process before a land court of the age of the Noble 
 <span class="lit-note" id="n-en-32">32</span> Polska w okresie monarchii stanowej. Wybór tekstów [Poland in the age of the estate monarchy. A choice of texts], ed. R. Heck, Warszawa 1955, pp. 34–35.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-244">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-244">p. 244</a></h2>
+<section class="lit-passage" id="p-244" data-page="244">
+<div class="pg" id="p244"><a href="#p244">p. 244</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wobec praktyki, iż byli oni niepiśmiennymi, odczytu oznaczenia sprawy z wokandy dokonywał instygator.
@@ -648,12 +637,10 @@ The courts gathered in the rooms called the audience chambers, where at the chie
 <span class="lit-note" id="n-en-34">34</span> J. Bardach, B. Leśnodorski, M. Pietrzak, Historia ustroju i prawa polskiego, Warszawa 1998, pp. 170–171.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-245">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-245">p. 245</a></h2>
+<section class="lit-passage" id="p-245" data-page="245">
+<div class="pg" id="p245"><a href="#p245">p. 245</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 średniowiecznej znała ordalia, czyli sądy boże<sup class="lit-fn"><a href="#n-pl-35">35</a></sup>, wstecz (powołanie się na wyrok jaki zapadł w tej samej sprawie w innym sądzie), poświadczenie sędziego, polegające na potwierdzeniu przez sędziego, że wydano określony wyrok. Środki te zanikają stopniowo wraz z upowszechnieniem się ksiąg sądowych, gdzie zapisywane są wyroki. Stosowano także przysięgę stron, zeznania woźnego, zeznania świadków i rosnące na wadze dowody z dokumentów. Z czasem jednak coraz większego znaczenia nabiera urzędowe śledztwo zwane skrutynium prowadzone przez instygatora jako organ neutralny i obiektywny w stosunku do stron, które z kolei nie znały prawa i nie potrafiły odpowiednio udowodnić swoich racji, szczególnie w sprawach kryminalnych gdzie ważnym było imperium urzędowe do dokonywania pewnych ustaleń. W sytuacji, gdy pozwany nie stawił się na termin zawity (na pierwszy nieusprawiedliwiony lub po czterech odroczeniach) odbywała się rozprawa zaoczna (zwana także niestawną) pod nieobecność pozwanego sprawcy<sup class="lit-fn"><a href="#n-pl-36">36</a></sup>. O ile jeszcze w XVI wieku wezwania woźnego do stawiennictwa przed sądem były szanowane to z czasem pojawiło się coraz więcej rozpraw zaocznych. Ówczesna Rzeczpospolita nie posiadała organów, które mogłyby doprowadzić siłą pozwanego przed sąd, rozmaici przestępcy skutecznie unikali sprawiedliwości, lekceważąc porządek prawny. Co prawda wyrok zaoczny był wydawany na korzyść powoda, jednak wobec braku egzekucji był on nieskuteczny a sami sprawcy przestępstw często uciekali poza granice kraju np. na Dzikie Pola lub pod protekcje ościennych władców. Przykładem takiego zachowania jest sprawa kniazia Michała Glińskiego, który po śmierci Aleksandra Jagiellończyka ubiegał się o władzę nad Księstwem Litewskim. Prawowity dziedzic tronu stawił opór uzurpatorowi zbrojnie i pokonał Glińskiego. Tenże jednak udając poprawę złożył broń i ukorzył się przed królem Zygmuntem Jagiellończykiem. Szybko zaczął ponownie spiskować przeciwko suwerenowi. Sprawa zdrady stanu stanęła przed sądem królewskim a oskarżał wiarołomnego zdrajcę jako instygator Marszalek Litewski Jan Zabrzeziński. Gliński nie stawił się przed sądem mimo wezwania, aby oczyścić się z zarzutów, które były dobrze udokumentowane zeznaniami
@@ -672,12 +659,10 @@ of the Middle Ages knew the ordalias, that is the judgments of God<sup class="li
 <span class="lit-note" id="n-en-36">36</span> M. Borucki, op. cit., pp. 32–33.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-246">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-246">p. 246</a></h2>
+<section class="lit-passage" id="p-246" data-page="246">
+<div class="pg" id="p246"><a href="#p246">p. 246</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 świadków. Chcąc jednak zemścić się na marszałku, napadł ze zbrojną grupą na dom wielmoży i zabił go. Wobec nieuchronnie nadciągającej kary, uciekł do księcia moskiewskiego, któremu zadeklarował pomoc w wojnie z Polską i gdzie dokończył swego podłego żywota w więzieniu moskiewskim w 1534 roku.
@@ -708,12 +693,10 @@ So Wacław Matuszewicz, after a quarrel, beat and shot with a pistol his adversa
 <span class="lit-note" id="n-en-38">38</span> M. Matuszewicz, Pamiętniki [Memoirs], vol. 1, Warszawa 1876, p. 190.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-247">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-247">p. 247</a></h2>
+<section class="lit-passage" id="p-247" data-page="247">
+<div class="pg" id="p247"><a href="#p247">p. 247</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 jak z nienawiści, nieumyślne lub w obronie własnej. Szlachcic, który zabiłby drugiego szlachcica płacił karę 240 grzywien, posługując się bronią sieczną zagrożony był karą jednego roku i sześciu tygodni wieży dolnej, gdy zaś użył broni palnej kara była dwukrotnie dłuższa. Konstytucja sejmowa z 1588 roku określała głębokość wieży dolnej na 12 łokci od podłogi do sufitu. Przepisowość rozmiarów pomieszczeń więziennych pilnować mieli starostowie oraz surowo zwalczać wszelkie usiłowania czynienia ulgi skazańcom. Można założyć, iż wyjście żywym z takiego pomieszczenia bez okien, ciemnego, nieogrzewanego i zawilgoconego, gdzie skazaniec spał na ziemi lub sianie, było praktycznie niemożliwe, tym bardziej, że pożywienie musiała dostarczać rodzina pokrzywdzonego, która wygrywała proces. „Jeżeli im tej kary nie ulżyła litość lub przychylność stróżów, najczęściej śmierć ukaranych jej wysiedzenie przerywała”, jak słusznie zauważał Kajetan Koźmin<sup class="lit-fn"><a href="#n-pl-39">39</a></sup>. Skazaniec po doprowadzeniu go do odbycia takiej kary schodził po drabinie na dół, wyciągano ją i zatrzaskiwano wejście. Znacznie lżejszą była kara tzw. wieży górnej, gdzie cele miały okienka, znajdowały się sprzęty a i więzień mógł być odwiedzany. Obowiązywała jednak zasada, że jeżeli więzień wychylił głowę przez okno lub przestąpił próg celi, odbywał karę od początku.
@@ -736,12 +719,10 @@ as out of hatred, unintentional or in self-defence. A nobleman who would kill an
 <span class="lit-note" id="n-en-39">39</span> K. Koźmian, Pamiętniki [Memoirs], 1–2, Poznań 1858, p. 186.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-248">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-248">p. 248</a></h2>
+<section class="lit-passage" id="p-248" data-page="248">
+<div class="pg" id="p248"><a href="#p248">p. 248</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Jedyną instytucją powołaną i uprawnioną do egzekucji wyroków był starosta, który jak wiemy działał w imieniu władzy królewskiej. Starosta przyjmował do więzienia sprawców, których złapali pokrzywdzeni i natychmiast dostarczyli do jego urzędu. Więzień siedział w areszcie tylko tak długo jak zainteresowany pokrzywdzony lub jego rodzina dostarczała środki na jego utrzymanie. Ciekawie wyglądała praktyka egzekucji wyroków z nieruchomości. Służba starościńska napotykała ogromne przeszkody w wykonaniu takich wyroków, ale sytuacja i tak była łatwiejsza niż w przypadku ścigania zbrodniarzy skazanych na śmierć. Możni szlachcice dysponowali liczną służbą i nie wpuszczali do swych posiadłości żadnych przedstawicieli władz sądowych. W takiej sytuacji starosta organizował zajazd na dobra opornego skazańca. Cała szlachta powiatu miała obowiązek dostarczenia posiłków i wsparcia dla takiej wyprawy. Ustawy sejmowe z początku XVII wieku już wyraźnie nakładały na szlachtę taki obowiązek, przewidując karę 100 grzywien za jego niezrealizowanie. Osoba, przeciwko której organizowano zajazd miała status banity, czyli wyjętego spod prawa, zatem jej zamordowanie uchodziło bezkarnie. Dobra takiej osoby mogły być splądrowane a po ich zajęciu trwały uczty na koszt banity. Żywot takiego szlachcica nie był wcale łatwy, albowiem skazany wyrokiem sądowym na banicję mógł być bezkarnie zabity przez każdego komu się naraził, schwytany i oddany staroście celem wykonania kary. Był nadto pozbawiony czci, co w tamtym czasie wiązało się ze śmiercią cywilną. Żaden szanujący się szlachcic nie podałby mu dłoni ani nie chciał wchodzić w żadne stosunki. Osoba uznana za niehonorową, a taką był *infamis*, nie liczyła się towarzysko i nie miała prawa stawać na sejmikach.
@@ -756,12 +737,10 @@ The only institution appointed and entitled to the execution of the rulings was 
 The court acts of the age deliver numerous examples of the people of noble birth troubling themselves with the common criminal misdeeds. A rather frequent practice was the meting out of the justice on one's own hand, not believing in the effective execution of the rulings fallen, which the condemned held in contempt and ignored. A known Kraków rich merchant, Walerian Montelupi, a descendant of the Italian immigrants, held a landed estate in the village of Piersice near Sandomierz. One day in the year 1609, staying at his manor, he was fallen upon by an armed band under the command of Zygmunt Łaziński. The merchant was taken, beaten, bound and stolen away in a stolen coach to Łaziński's village of Siniawy in the district of Sanok. There the Italian was shut in a dungeon, and to the family there were sent letters written by Montelupi with the demand of a ransom for the freeing of the kidnapped, under the threat of his being tortured
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-249">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-249">p. 249</a></h2>
+<section class="lit-passage" id="p-249" data-page="249">
+<div class="pg" id="p249"><a href="#p249">p. 249</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 i śmierci. Aby nastraszyć nieszczęśnika, Łaziński kazał mu kopać grób w piwnicy jeśli nie przekona rodziny i innych kupców krakowskich do zapłaty okupu w wysokości 12600 złotych. Kupiec był nieugięty i odmawiał, na co Łaziński obawiając się go trzymać w swoim domu przewiózł go do popa w Moszczeńcu. Tam dziarski kupiec zostawiony sam na sam wszedł w komitywę w duchownym i opisawszy mu swój los skłonił go do przesłania widomości na zamek w Sanoku. W reakcji na powyższe natychmiast przybył podstarości i wraz ze strażą starościńską odbił więźnia z rąk porywaczy. Łaziński ukrył się licząc ze sprawa przycichnie i uniknie odpowiedzialności. Kupiec Montelupi nie dał jednak za wygraną, wynajął zbrojną grupę i w rok po zdarzeniu przyjechał do Siniawy do dworu Łazińskiego w towarzystwie swego zięcia Damiana Balińskiego. Dwór otoczono i schwytano Łazińskiego. Montelupi nie planował bynajmniej przekazania swego oprawcy w ręce sprawiedliwości, ale sam wymierzył mu karę. Po przywiązaniu rozbójnika do słupa rozstrzelano go, po czym cała grupa nie niepokojona spokojnie odjechała<sup class="lit-fn"><a href="#n-pl-40">40</a></sup>.
@@ -788,12 +767,10 @@ It happened that before the courts for the nobility there stood also offenders o
 <span class="lit-note" id="n-en-41">41</span> Z. Turska, Oskarżeni oskarżają. Wieś osiemnastowieczna w mrokach kronik sądowych [The accused accuse. The village of the 18th century in the glooms of the court chronicles], Warszawa 1960, pp. 138–139.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-250">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-250">p. 250</a></h2>
+<section class="lit-passage" id="p-250" data-page="250">
+<div class="pg" id="p250"><a href="#p250">p. 250</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 stosownie do zbrodni popełnionej. W powiecie łuckim dwaj słudzy rotmistrza Weleżyńskiego okrutnie zamordowali swego pana i całą jego rodzinę, splądrowali dom i zbiegli. Po krótkim pościgu służba starościńska schwytała obu morderców. Instygator wniósł manifest do sądu grodzkiego a po krótkim procesie sąd wydał dekret tak opisujący wymierzoną karę: „Ręce ich przędziwem poobwijać i smołą oblawszy, palić. Każdemu z nich po trzy pasy udrzeć z ciała. Tymiż samymi obuchami od siekiery, którymi niewinnych porąbali, kości im u nóg poniżej kolan połamać. Żywcem ich ćwiartować i głowy poucinać. Ucięte ich głowy po obojej stronie wsi Niewierkowa na pale powbijać (…) A cały tych zabójców majątek i jeśli co z zasług do wypłacenia zostaje, wszystko to na jałmużnę ubogim rozdać za dusze zmarłych”<sup class="lit-fn"><a href="#n-pl-42">42</a></sup>.
@@ -824,15 +801,13 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 <span class="lit-note" id="n-en-45">45</span> J. Bardach, B. Leśnodorski, M. Pietrzak, Historia ustroju i prawa polskiego, Warszawa 1998, p. 315.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-251">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-251">p. 251</a></h2>
+<section class="lit-passage" id="p-251" data-page="251">
+<div class="pg" id="p251"><a href="#p251">p. 251</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Bibliografia
+## Bibliografia
 
 1\. Balzer O., Kancelarie i akta grodzkie w wieku XVIII, odbitka z Przewodnika Naukowego i Literackiego, Lwów 1882.
 
@@ -877,7 +852,7 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Bibliography
+## Bibliography
 
 1\. Balzer O., Kancelarie i akta grodzkie w wieku XVIII [The chancelleries and the municipal acts in the 18th century], offprint from Przewodnik Naukowy i Literacki, Lwów 1882.
 
@@ -920,12 +895,10 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 20\. Naworski Z., Prawo karne i proces Polski przedrozbiorowej [The criminal law and the process of Poland before the Partitions], Toruń 1993.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-252">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-252">p. 252</a></h2>
+<section class="lit-passage" id="p-252" data-page="252">
+<div class="pg" id="p252"><a href="#p252">p. 252</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 21\. Naworski Z., Szlachecki wymiar sprawiedliwości w Prusach Królewskich (1454–1772), Toruń 2004.
@@ -956,9 +929,9 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 
 34\. Zarański S., Pierwiastki dziejów ojczystych w ich organicznym rozwoju, Kraków 1886.
 
-### Judiciary of the nobility from the 15th to the 18th century
+## Judiciary of the nobility from the 15th to the 18th century
 
-### Abstract
+## Abstract
 
 *The judiciary of the feudal monarchy naturally changed its character to the state one, which was associated with the emergence of social classes, especially the nobility, which, as a result of the ongoing political processes and social changes, obtained more and more privileges, including*
 
@@ -993,24 +966,22 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 
 34\. Zarański S., Pierwiastki dziejów ojczystych w ich organicznym rozwoju [The elements of the country's history in their organic development], Kraków 1886.
 
-### Judiciary of the nobility from the 15th to the 18th century
+## Judiciary of the nobility from the 15th to the 18th century
 
-### Abstract
+## Abstract
 
 *The judiciary of the feudal monarchy naturally changed its character to the state one, which was associated with the emergence of social classes, especially the nobility, which, as a result of the ongoing political processes and social changes, obtained more and more privileges, including*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-253">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-253">p. 253</a></h2>
+<section class="lit-passage" id="p-253" data-page="253">
+<div class="pg" id="p253"><a href="#p253">p. 253</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 *judicial immunities. This study will outline in general the judicial organs of the judiciary in the Republic of Poland from the 15th century until the end of Polish statehood. Naturally, these bodies were not uniform in terms of structure and organization, and their competences coincided. They evolved over time, although the fact is that these changes did not keep up with the changes taking place in the international environment around the First Polish Republic, and were not able to meet the needs of both state reforms and social changes. At a certain stage, they even became a burden in political reforms, contributing in some way to the ossification of the structures of the then Polish state and its collapse at the end of the 18th century. This period was characterized by a multitude of types of judgments, their cognition and territorial properties, which overlapped and yet did not constitute the uniform and coherent structure to which we are used these days. The subject of this study will be a discussion of these organs with an outline of their practice and a short description of the specificity of land law.*
 
-### Key words
+## Key words
 
 *Land court, municipal court, magistrate, justice, nobility, First Republic, law, instigator, judge, scribe, usher, sub-judge, verdict, cochus, yearnings, delation, suit, complaint, appeal, judge's reprimand, castle, starosta, king, monarch, land courts, Four-Year Sejm, reforms, court office, book, court books, nobility, plebeian, crime, punishment, murderer, starosta, common law, parliamentary constitution, protest, reprimand, scrutiny, chamberlain, municipal, executioner, executioner, swords, death penalty, oath, evidence, trial, perpetuity of books, perpetuity of entries, lauda, statutes, real estate, criminal law, criminal law, civil law, court procedure.*
 
@@ -1019,11 +990,12 @@ The land judiciary in the 17th and the 18th century lived through a crisis becau
 
 *judicial immunities. This study will outline in general the judicial organs of the judiciary in the Republic of Poland from the 15th century until the end of Polish statehood. Naturally, these bodies were not uniform in terms of structure and organization, and their competences coincided. They evolved over time, although the fact is that these changes did not keep up with the changes taking place in the international environment around the First Polish Republic, and were not able to meet the needs of both state reforms and social changes. At a certain stage, they even became a burden in political reforms, contributing in some way to the ossification of the structures of the then Polish state and its collapse at the end of the 18th century. This period was characterized by a multitude of types of judgments, their cognition and territorial properties, which overlapped and yet did not constitute the uniform and coherent structure to which we are used these days. The subject of this study will be a discussion of these organs with an outline of their practice and a short description of the specificity of land law.*
 
-### Key words
+## Key words
 
 *Land court, municipal court, magistrate, justice, nobility, First Republic, law, instigator, judge, scribe, usher, sub-judge, verdict, cochus, yearnings, delation, suit, complaint, appeal, judge's reprimand, castle, starosta, king, monarch, land courts, Four-Year Sejm, reforms, court office, book, court books, nobility, plebeian, crime, punishment, murderer, starosta, common law, parliamentary constitution, protest, reprimand, scrutiny, chamberlain, municipal, executioner, executioner, swords, death penalty, oath, evidence, trial, perpetuity of books, perpetuity of entries, lauda, statutes, real estate, criminal law, criminal law, civil law, court procedure.*
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

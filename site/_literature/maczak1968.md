@@ -7,13 +7,24 @@ alt_url: "/de/literatur/maczak1968/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-75">75</a> <a href="#p-76">76</a> <a href="#p-77">77</a> <a href="#p-78">78</a> <a href="#p-79">79</a> <a href="#p-80">80</a> <a href="#p-81">81</a> <a href="#p-82">82</a> <a href="#p-83">83</a> <a href="#p-84">84</a> <a href="#p-85">85</a> <a href="#p-86">86</a> <a href="#p-87">87</a> <a href="#p-88">88</a> <a href="#p-89">89</a> <a href="#p-90">90</a> <a href="#p-91">91</a> <a href="#p-92">92</a> <a href="#p-93">93</a> <a href="#p-94">94</a> <a href="#p-95">95</a> <a href="#p-96">96</a> <a href="#p-97">97</a> <a href="#p-98">98</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-75">pp. 75–79</a></li>
+<li class="l1"><a href="#p-80">pp. 80–84</a></li>
+<li class="l1"><a href="#p-85">pp. 85–89</a></li>
+<li class="l1"><a href="#p-90">pp. 90–94</a></li>
+<li class="l1"><a href="#p-95">pp. 95–98</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-75">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-75">p. 75</a></h2>
+<section class="lit-passage" id="p-75" data-page="75">
+<div class="pg" id="p75"><a href="#p75">p. 75</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 Antoni Mączak
@@ -33,12 +44,10 @@ Poland of this time presents a singularly complex problem. By entering into the 
 <span class="lit-note" id="n-en-2">2</span> C. M. Cipolla, The Decline of Italy: the Case of a Fully Matured Economy, “The Economic History Review,” 2nd ser., vol. V, 1952, p. 178.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-76">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-76">p. 76</a></h2>
+<section class="lit-passage" id="p-76" data-page="76">
+<div class="pg" id="p76"><a href="#p76">p. 76</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 a deep crisis of the serf-labour system, which dominated Polish economy, and was only made worse through the rapid fall of world trade in the years 1619 - 1622.<sup class="lit-fn"><a href="#n-en-3">3</a></sup>
@@ -58,12 +67,10 @@ This economic reconstruction was carried through at the expense of the peasantry
 <span class="lit-note" id="n-en-5">5</span> This conception of the development scheme of Poland in the 16th - 17th centuries was first developed by M. Małowist, Über die Frage der Handelspolitik des Adels in den Ostseeländern 15. und 16. Jahrhundert, “Hansische Geschichtsblätter,” vol. LXXV, 1957, p. 39 ff. idem, The Economic and Social Development of the Baltic Countries from the Fifteenth to the Seventeenth Centuries, “The Economic History Review,” 2nd ser., vol. XII, 1959.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-77">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-77">p. 77</a></h2>
+<section class="lit-passage" id="p-77" data-page="77">
+<div class="pg" id="p77"><a href="#p77">p. 77</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 That may explain several problems not only economic but also political and administrative of the 17th century Poland. The following questions, however, arise: in which phase of the changes sketched was Poland at the end of the 16th and the beginning of the 17th century and what additional elements should be stressed in this outline?
@@ -81,12 +88,10 @@ According to Gostomski, peasants enjoyed higher yield ratios than the lord. So t
 <span class="lit-note" id="n-en-8">8</span> Vide: “Studia z Dziejów Gospodarstwa Wiejskiego,” vol. VII, 1965, papers of J. Topolski, Mrs A. Wawrzyńczyk, L. Żytkowicz (in French).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-78">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-78">p. 78</a></h2>
+<section class="lit-passage" id="p-78" data-page="78">
+<div class="pg" id="p78"><a href="#p78">p. 78</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 tenants and lowered their market surplus. Still at the end of the 16th century, in the bishop’s of Cuyavia estates, on the lower Vistula, one could see typical “country richmen,” village usurers, ready to take the land of their poorer neighbours as a mortgage and collecting a relatively large number of draught animals. This phenomenon had disappeared since the beginning of the 17th century: prosperous peasants were ready victims to the greediness of the landowners and could not survive long enough to become a social class of yeomanry.<sup class="lit-fn"><a href="#n-en-9">9</a></sup>
@@ -104,12 +109,10 @@ The price system: one could imagine a situation in which prospective exporters o
 <span class="lit-note" id="n-en-11">11</span> “Studia z Dziejów Gospodarstwa Wiejskiego,” vol. VIII, 1966, p. 343.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-79">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-79">p. 79</a></h2>
+<section class="lit-passage" id="p-79" data-page="79">
+<div class="pg" id="p79"><a href="#p79">p. 79</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 to make the news from Gdańsk decisively influence the supply. Granaries owned by the gentry in close ports served to store corn until spring so that it could go with the first high water rather than they served to keep the flexibility of sales. The grain supply did not seem to depend on prices. This is, however, a matter that should be looked into.
@@ -129,12 +132,10 @@ Great Poland, Cuyavia and Masovia supplied jointly about two-thirds of grain reg
 <span class="lit-note" id="n-en-13">13</span> Cf. A. Mączak, Zur Grundeigentumsstruktur in Polen im 16. bis 18. Jh., “Jahrbuch für Wirtschaftsgeschichte,” vol. IV, 1967.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-80">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-80">p. 80</a></h2>
+<section class="lit-passage" id="p-80" data-page="80">
+<div class="pg" id="p80"><a href="#p80">p. 80</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 in the 1530’s and 1540’s; in the lean years their share lowered slightly. Red Ruthenia and Volhynia kept their character of marginal regions, whose export in the barren years was three times smaller than the average rate of their export share, and four times smaller as compared to their share in the total volume of grain sent to Gdańsk during the period of the greatest prosperity of the entire middle lower Vistula basin.
@@ -148,12 +149,10 @@ Let us consider more closely the grain surplus from large estates. If we examine
 <span class="lit-note" id="n-en-14">14</span> W. Kula. Teoria ekonomiczna ustroju feudalnego. Próba modelu. [Economic Theory of the Feudal System. A Model], Warszawa 1962, p. 114 ff.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-81">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-81">p. 81</a></h2>
+<section class="lit-passage" id="p-81" data-page="81">
+<div class="pg" id="p81"><a href="#p81">p. 81</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/maczak1968/81.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/maczak1968/81.jpg' | relative_url }}" alt="Mączak (1968), p. 81" loading="lazy"></a></figure>{% raw %}
 <div class="lit-only" lang="en" markdown="1">
 
@@ -162,12 +161,10 @@ Poland, 1569 - 1637
 1: frontiers of Poland; 2: frontiers of provinces; 3: frontiers of districts; 4: frontiers of the voivodships of Little Poland; 5: Vistula custom houses discused in the text
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-82">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-82">p. 82</a></h2>
+<section class="lit-passage" id="p-82" data-page="82">
+<div class="pg" id="p82"><a href="#p82">p. 82</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 Table 2. Various groups of landowners in the Vistula transport of grain (1555 - 1576)
@@ -179,12 +176,10 @@ Source: Calculated according to the figures from Chudoba, op. cit.
 H — 4 years of highest river transport of grain from a given region; L — 4 years of the lowest river transport; 4 years of medium river transport — omitted. Figures in italics: percentages of the whole transport and of the transport by gentry, Roman types — grain in lasts.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-83">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-83">p. 83</a></h2>
+<section class="lit-passage" id="p-83" data-page="83">
+<div class="pg" id="p83"><a href="#p83">p. 83</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 position than his lesser neighbours and could stand better the fluctuation of the market. We shall try to define this phenomenon in three districts: Masovia, Little Poland and Red Ruthenia (with Volhynia). We have the data concerning 8 years about prices which were taken by the royal estate of Malbork, detractis oneribus, for supplies largely surpassing one hundred lasts.<sup class="lit-fn"><a href="#n-en-15">15</a></sup> We have taken into consideration the prices of rye as the minimal ones (omitting wheat as its share in the river transport is hard to define), we do not speak about transport costs, as well as about the possibility that a part, perhaps considerable, of corn was sold before it reached Gdańsk. We also understand that in customs registers one has to do with the uniform Gdańsk last at 60 quarters. Here we follow the example of the editors of Włocławek registers (one last = about 2,2 metric tons for rye).
@@ -208,12 +203,10 @@ only the Masovians obtained better prices as a compensation for bad yields. Fluc
 <span class="lit-note" id="n-en-15">15</span> Central Ancient Record Office (AGAD) Warsaw, Ekonomia Malborska, sygn. W 224, 225, 226, 228, 238, 239, 242; Rachunki królewskie sygn. 196 (for the year 1561).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-84">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-84">p. 84</a></h2>
+<section class="lit-passage" id="p-84" data-page="84">
+<div class="pg" id="p84"><a href="#p84">p. 84</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 examined between 1563 and 1587.<sup class="lit-fn"><a href="#n-en-16">16</a></sup> Therefore, the relations between the corn prices and the surplus, presented on Table 3, were rather usual although they may seem striking. One should stress that point since it weakens a little our previous conclusion about the general thesis of the superiority of large estates in the grain export. But even if such was the situation during the years under discussion, the fluctuation of income for big estates was lower and the profit was more certain.
@@ -229,12 +222,10 @@ It would be helpful to know the meaning of the sums quoted on Table 3. Unfortuna
 <span class="lit-note" id="n-en-19">19</span> Observation shows that the amount of corn sent down by both families was much more tightly correlated to the total river transport from Little Poland than to the transport from Ruthenia.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-85">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-85">p. 85</a></h2>
+<section class="lit-passage" id="p-85" data-page="85">
+<div class="pg" id="p85"><a href="#p85">p. 85</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 Table 4. The Tęczyńskis’ and the Firlejs’ share in relation to the total river transport of grain (1555 - 1576) in lasts
@@ -252,12 +243,10 @@ It is not easy to compare the figures registered at Włocławek in the sixteenth
 <span class="lit-note" id="n-en-21">21</span> H. Obuchowska-Pysiowa, Handel wiślany w pierwszej połowie XVII w. [Vistula Trade in the First Half of the 17th Century], Wrocław 1965.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-86">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-86">p. 86</a></h2>
+<section class="lit-passage" id="p-86" data-page="86">
+<div class="pg" id="p86"><a href="#p86">p. 86</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 Table 5. River transport of grain from Little Poland and Ruthenia in the 16th/17th century
@@ -277,12 +266,10 @@ By the end of the 16th century the process of land concentration, which has cont
 <span class="lit-note" id="n-en-22">22</span> Kula, op. cit., p. 141.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-87">p. 87</a></h2>
+<section class="lit-passage" id="p-87" data-page="87">
+<div class="pg" id="p87"><a href="#p87">p. 87</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 a social class but were continually losing land and thus were losing their social standing. This well-known phenomenon of the rise in importance and wealth of aristocratic families, the rise of a successful “new aristocracy” had a political meaning of highest importance. It became an economic basis of an oligarchial political system characterized by inefficiency of central power, lack of initiative in foreign policy and sometimes even a political dependence on the neighbouring countries. It has been agreed that families which obtained land in the Ukraine (taken away from the Lithuanians in 1569) had the quickest way to the top. This is, however, a complex phenomenon; in any case, the concentration of land was also visible in the first half of the 16th century in the remote Podlasia and maybe elswhere. However, the inclusion of the Vistula basin into the systematic and intensive trade exchange with the West created new stimuli to a spontaneous rise of large fortunes. As a rule, it is hard to determine a relative importance of several causes of a social-economic phenomenon and, therefore, we cannot formulate our view otherwise than by putting forward a hypothesis: the grain export boom which since the middle of the 16th century opened vast southern regions of Poland and brought large sums of money to the class which was most active in the trade — aristocracy. Owing to profit from grain export they were able to increase their landed estates and thus constituted a further stimulus for continuing this activity.
@@ -290,12 +277,10 @@ a social class but were continually losing land and thus were losing their socia
 At that time, ownership of land had a special importance in Poland. Though it formed a basis of prestige and social standing even in the highly developed countries like England, yet in Poland the margin of transactions not connected with land or land mortgage was particularly limited for the gentry. Land-ownership also had a marked political importance: royal favour, rewarding and winning the affections of prominent subjects, promoted a transfer of landed property. Courtiers and higher officials would not be wholly satisfied by other kinds of income of the State, such as duties and taxes. The overwhelming superiority of the magnate meant also his political domination over the local gentry and therefore, every ambitious nobleman wanted to increase his landed property. But the basic stimulus was the economic one. A great and still growing part of a lord’s income was derived from demesne land and labour and not from rents and therefore the increase of his income, though limited, did not depend on the money at his disposal. Construction of mills, breweries, manorial buildings, tillage of waste-land, settling new peasants — it was all a charge to the manor itself and temporarily lowered its net income; the manor was in need of labour and this exhausted its supplies though money expenditure was trifling. The better the manor was developed the lower was the expenditure. Investments remained outside the sphere of money turnover the more so, that notwithstanding some new gun foundries in the royal domains of Little Poland in the 1st half of 17th century, there was a general tendency to liquidate small forges (which were the principal form of iron industry of the time) as the cause of the devastation of forests. The only real possibility of investment was, for the magnate, to buy up land. It was, of course, an investment from the view point of a single landowner; for the national economy it meant only a transfer of property from one owner to another.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-88">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-88">p. 88</a></h2>
+<section class="lit-passage" id="p-88" data-page="88">
+<div class="pg" id="p88"><a href="#p88">p. 88</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 In order to conclude a transaction two contractors must be present. What induced, or even forced the poorer gentry to sell their land and fall in social status? W. Kula suggested that the squire got less convenient terms of trade than the big landowner, when exchanging his corn for imported industrial articles and groceries.<sup class="lit-fn"><a href="#n-en-23">23</a></sup> Watching the organization and the rhythm of the Vistula grain trade one sees that the situation was made difficult for the poorer gentry as a result of high fluctuation of surplus and of the fluctuation of income. This situation also broadened the financial gap between the magnates and the lesser gentry.
@@ -315,12 +300,10 @@ We do not know much about the money turnover and the land market in Poland of th
 <span class="lit-note" id="n-en-25">25</span> According to the data in the Introduction to Rejestr poborowy województwa krakowskiego z roku 1680 [Tax Register of the Cracow Voivodship, 1680], ed. by E. Trzyna and S. Żyga, Wrocław 1959, p. IX. The statement may raise some doubt as the family names of the gentry were still unsettled at the beginning of the 17th century, but it gives an idea of the range of the phenomenon. The 224 examined manors contituted 19 per cent of the total of existing manors as registered in 1629.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-89">p. 89</a></h2>
+<section class="lit-passage" id="p-89" data-page="89">
+<div class="pg" id="p89"><a href="#p89">p. 89</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 224 villages of the voivodship of Cracow may give us a certain idea<sup class="lit-fn"><a href="#n-en-26">26</a></sup> (Table 6). The data about turnover, embracing longer periods (1581 - 1629, 1655 - 1673, 1680 - 1712) are certainly too low, as they do not include the manifold changes of owners (changes of the owners’ names) in the meantime. We must take into consideration that, setting apart the ecclesiastical and royal property, nine per cent of villages belonging to big owners, i.e., owners of ten or more villages in 1581, rose to as much as twenty-five per cent. The large estates were less frequently for sale; they changed hands mostly by inheritance or dowry, etc. In view of this,
@@ -340,12 +323,10 @@ The indicated trends of changes in the property structure were characteristic fo
 <span class="lit-note" id="n-en-27">27</span> M. Horn, Handel wołami na Rusi Czerwonej w pierwszej połowie XVII w. [Oxen Trade from the Red Ruthenia in the First Half of the 17th Century], “Roczniki Dziejów Społecznych i Gospodarczych,” vol. XXIV, 1962. Horn estimated that in the 1st half of the 17th century export of oxen could reach 60 thousands a year (p. 86).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-90">p. 90</a></h2>
+<section class="lit-passage" id="p-90" data-page="90">
+<div class="pg" id="p90"><a href="#p90">p. 90</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 — it seems — near the Prussian border, the concentration of property was highly marked.
@@ -367,12 +348,10 @@ The discussion on national income and wealth in the sixteenth and seventeenth ce
 <span class="lit-note" id="n-en-28">28</span> A. E. Christensen, Dutch Trade to the Baltic about 1600, Copenhague 1941; A. Attman, Den ryska marknaden i 1500-talets baltiska politik, 1558 - 1595, Lund 1944.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-91">p. 91</a></h2>
+<section class="lit-passage" id="p-91" data-page="91">
+<div class="pg" id="p91"><a href="#p91">p. 91</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 IV
@@ -394,12 +373,10 @@ For about seventy years from the middle of the 16th century the inflow of money 
 <span class="lit-note" id="n-en-31">31</span> Demographic data, if not marked otherwise are taken from I. Gieysztorowa, Badania nad historią zaludnienia Polski [Studies in the History of the Population in Poland], “Kwartalnik Historii Kultury Materialnej,” vol. IX, 1963, tab. 6. The data on the value of Gdańsk trade as given by H. Samsonowicz, Badania nad kapitałem handlowym w Gdańsku w drugiej połowie XV w. [Studies in the Merchant Capital in Gdańsk in the Second Half of the 15th Century], Warszawa 1961 and by Bogucka, op. cit., whose data I have recalculated in Rdl.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-92">p. 92</a></h2>
+<section class="lit-passage" id="p-92" data-page="92">
+<div class="pg" id="p92"><a href="#p92">p. 92</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 of Gdańsk to cut away the hinterland from the oversea merchants is responsible for our ignorance about the Gdańsk intermediaries’ margin of profit. They participated by two or three per cent, exceptionally up to ten or more per cent in the extremely lucrative sea-trade, where — considering the difference in prices between Amsterdam and Gdańsk — the sum of goods reached about 40% of the previous f.a.s. value.<sup class="lit-fn"><a href="#n-en-32">32</a></sup> The profit of the Gdańsk inhabitants consited mainly in local brokerage over the Green Bridge, which made a barrier between the river boats and the merchantmen, as well as in intensive draining of the market by credits granted to landowners and intermediaries from smaller towns.
@@ -419,12 +396,10 @@ Let us go farther back into the hinterland. Availing himself of estimations conc
 <span class="lit-note" id="n-en-35">35</span> A. Wyczański, Tentative Estimate of Polish Rye Trade in the Sixteenth Century, “Acta Poloniae Historica,” vol. IV, 1961.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-93">p. 93</a></h2>
+<section class="lit-passage" id="p-93" data-page="93">
+<div class="pg" id="p93"><a href="#p93">p. 93</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 agrees with the then average export, whereas some reservations must be made as to the regional division of the whole bulk. When we compare these figures with Chudoba’s calculations we can see that in fact Little Poland exported one-third of what — according to Wyczański — it should import; this difference could not be found on other routes. Great Poland also exported, at least from the regions near the Vistula, and a little along the Warta river. The Włocławek duties could reflect only a part of this export. Some corn came from Red Ruthenia and Volhynia, amounting to at least a few per cent of the national grain surplus. As our corrections augmented the estimation of export possibilities from particular regions, so we must mention, too, that the whole bulk of export must have been higher than what is shown by the Sund duties; the Sund customs quotations after 1569 were certainly too low, and moreover, they omitted the export to the other Baltic ports. Taking into account also wheat, we must stress its export from Royal Prussia and Little Poland; one should bear in mind that its price was about 60 per cent higher than that of rye.
@@ -438,12 +413,10 @@ The scale of changes occurring throughout several decennia shows the enormous im
 <span class="lit-note" id="n-en-36">36</span> Chudoba, op. cit., and Tabeller...
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-94">p. 94</a></h2>
+<section class="lit-passage" id="p-94" data-page="94">
+<div class="pg" id="p94"><a href="#p94">p. 94</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 production is estimated in relation to the total employment in agriculture and to the food balance of the country.<sup class="lit-fn"><a href="#n-en-37">37</a></sup>
@@ -461,12 +434,10 @@ The great trade boom found Royal Prussia — this main supplier of exported grai
 <span class="lit-note" id="n-en-38">38</span> A. Wyczański, La consommation alimentaire en Pologne au XVIᵉ siècle, “Annales. Économies, Sociétés, Civilisations,” vol. II, 1962.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-95">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-95">p. 95</a></h2>
+<section class="lit-passage" id="p-95" data-page="95">
+<div class="pg" id="p95"><a href="#p95">p. 95</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 of important ecclesiastical estates and enormous royal domains as well as the existence of large areas belonging to cities were factors that shaped the specific feature of landed property of the region, a heritage of the Teutonic Order which had ruled there to the middle of the 15th century. Large waste lands — remainder of war destruction from the past century — and greater freedom of the peasantry who had farms twice as big as those on the upper Vistula, these were the conditions in which this region had to adapt itself to the growing overseas demand. The grain surplus in Royal Prussia grew twice during fifty years (1570 - 1620), thus not so much as in Little Poland, but very much indeed if we take into consideration that 1° the starting point of the rise was placed higher (ca 3 thousands for Little Poland, ca 15 thousands for Prussia); 2° the density of population of Prussia was much lower, and in addition the percentage of population employed outside agriculture grew quickly with the rise of the Gdańsk agglomeration from 70 to 100 thousand inhabitants.<sup class="lit-fn"><a href="#n-en-39">39</a></sup> All these factors made possible an important surplus in the 16th century, but any reorganization of economy as well as any further increase of surplus were very difficult.
@@ -480,12 +451,10 @@ As results from the drawn — perhaps overdrawn — contrast between Little Pola
 <span class="lit-note" id="n-en-40">40</span> The social and economic development of Royal Prussia will be more largely presented in vol. II of the collective History of Pomerania (in preparation).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-96">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-96">p. 96</a></h2>
+<section class="lit-passage" id="p-96" data-page="96">
+<div class="pg" id="p96"><a href="#p96">p. 96</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 account the number of the unemployed; discussing gentry and peasantry one should think about those members of those who owned no land.) The corn boom found Prussia not only in a better geographical position, but also in a more advantageous phase of development. The structure of landed property and the supply of cheap labour from Masovia helped to continue this development. The neighbourhood of Gdańsk proved a very important factor for agriculture; the analysis of the results of demesne and of rich peasants’ farming shows that the latter could, in conditions of relative freedom, successfully compete in productivity with their landlords. This rosy picture must be, however, disturbed; from the very beginning of the 17th century pressure upon the peasants became stronger and the process of their pauperization gained momentum especially when the organic development of the Prussian economy became troubled by war with the Swedes (1626 - 1629).
@@ -499,12 +468,10 @@ It might help, too, to estimate the relation of the national product (and/or inc
 <span class="lit-note" id="n-en-41">41</span> A. Mączak, Sukiennictwo wielkopolskie w XIV - XVII w. [Clothmaking Industry in Great Poland in the 14th - 17th Centuries], Warszawa 1955, p. 243.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-97">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-97">p. 97</a></h2>
+<section class="lit-passage" id="p-97" data-page="97">
+<div class="pg" id="p97"><a href="#p97">p. 97</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/maczak1968/97.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/maczak1968/97.jpg' | relative_url }}" alt="Mączak (1968), p. 97" loading="lazy"></a></figure>{% raw %}
 <div class="lit-only" lang="en" markdown="1">
 
@@ -525,12 +492,10 @@ Gdańsk; Cracow; Warsaw
 Regional differences of prices and wages (10-yearly averages in grams of silver)
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-98">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-98">p. 98</a></h2>
+<section class="lit-passage" id="p-98" data-page="98">
+<div class="pg" id="p98"><a href="#p98">p. 98</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 especially advantageous price terms in the 16th - 17th centuries. There are some available price and wages relations concerning Gdańsk, Cracow, Lwów and Warsaw:<sup class="lit-fn"><a href="#n-en-42">42</a></sup> bricks — mostly twice the price in Gdańsk in comparison to Cracow or Lwów; timber (deals) — still more expensive; footwear — high prices in Gdańsk; a sometimes mason’s or carpenter’s journeyman and even an unskilled worker could count in Gdańsk on much higher wages. Only the building boom in Warsaw, which had just become the royal residence, brought about comparable salaries.
@@ -546,6 +511,7 @@ These are our estimations, suggestions and hypotheses put forward in the belief 
 <span class="lit-note" id="n-en-43">43</span> R. Romano, Mouvement des prix et développement économique. L’Amérique du Sud au XVIIIᵉ siècle, “Annales E.S.C.,” 1963, No. 1, p. 74.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

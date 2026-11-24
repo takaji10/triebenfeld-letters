@@ -7,13 +7,22 @@ alt_url: "/de/literatur/minakowska2026miaczynski/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-front">front</a> <a href="#p-c01">Rodzice</a> <a href="#p-c02">Przodkowie</a> <a href="#p-c03">śluby i dzieci, wnuki, i do prawnuków</a> <a href="#p-c04">Wnuki</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<ol>
+<li class="l1"><a href="#p-c01"><span class="toc-e">Parents</span><span class="toc-o" lang="pl">Rodzice</span></a></li>
+<li class="l1"><a href="#p-c02"><span class="toc-e">Ancestors</span><span class="toc-o" lang="pl">Przodkowie</span></a></li>
+<li class="l1"><a href="#p-c03"><span class="toc-e">Marriages and children, grandchildren, and to the great-grandchildren</span><span class="toc-o" lang="pl">śluby i dzieci, wnuki, i do prawnuków</span></a></li>
+<li class="l1"><a href="#p-c04"><span class="toc-e">Grandchildren</span><span class="toc-o" lang="pl">Wnuki</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
+<div class="pg"><a href="#p-front">front</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Stanisław Adam Miączyński z Miączyna h. Suchekomnaty (ID: 4.285.278)  
@@ -39,15 +48,12 @@ Age: 64 years
 Wikipedia (Stanisław Adam Miączyński): Stanisław Adam Miączyński of the arms Suchekomnaty (born 24 December 1780 in Warsaw, died 12 April 1845 in Berlin) - son of Kajetan Adam Miączyński and Teresa Rafałowiczówna, known for their lavish way of life. more...
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c01">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c01">Rodzice</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Rodzice
+## Rodzice
 Kajetan Jan Aleksander Miączyński z Miączyna h. Suchekomnaty, bohater PSB  
 Urodzony w roku 1751  
 zmarł dnia 26 XI 1801 - Żytomierz, wiek: 50 lat.  
@@ -58,7 +64,7 @@ zmarła dnia 27 IV 1843 - Warszawa, wiek: prawdopodobnie 94 lat.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Parents
+## Parents
 
 Kajetan Jan Aleksander Miączyński of Miączyn, arms Suchekomnaty, a "hero of the PSB"  
 born in 1751  
@@ -69,15 +75,12 @@ born about 1749
 died on 27 April 1843 - at Warsaw, aged probably 94.
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c02">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c02">Przodkowie</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Przodkowie
+## Przodkowie
 
 pradziadkowie  
 Atanazy Adam Miączyński h. Suchekomnaty, bohater PSB 1639-1723  
@@ -101,7 +104,7 @@ Stanisław Adam Miączyński z Miączyna h. Suchekomnaty, artykuł w Nekrologii,
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Ancestors
+## Ancestors
 
 great-grandparents  
 Atanazy Adam Miączyński, arms Suchekomnaty, a "hero of the PSB" 1639-1723  
@@ -123,15 +126,12 @@ Teresa Teodora Rafałowicz ca 1749-1843
 Stanisław Adam Miączyński of Miączyn, arms Suchekomnaty, an article in the Nekrologia, 1780-1845
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c03">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c03">śluby i dzieci, wnuki, i do prawnuków</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### śluby i dzieci, wnuki, i do prawnuków
+## śluby i dzieci, wnuki, i do prawnuków
 żona (ślub: dnia 17 VIII 1810, Warszawa, Cyrkuł IV (obecn. m. Warszawa), ): Michalina Zofia Ostroróg-Prusimska z Kolna h. Nałęcz, artykuł w Nekrologii 1778-1851, (Rodzice : Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz, bohater PSB 1744-ca 1806 & Marianna Dąmbska z Dąbia h. Godziemba ca 1763-), dzieci  
 Aleksander Adam Stanisław hr. Miączyński z Miączyna h. Suchekomnaty, hr. [tytuł] nadany (1853), (linia: Kajetan Miączyński 8.192.505), artykuł w Nekrologii, oficer Powstania Listopadowego (1830-1831), student Uniwersytetu Warszawskiego (1828) 1810-1869  
 & Bronisława Kalkstein h. Kos artykuł w Nekrologii, (linia: Józef Radzimiński 16.78.177) 1825-1858
@@ -139,22 +139,19 @@ Aleksander Adam Stanisław hr. Miączyński z Miączyna h. Suchekomnaty, hr. [ty
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Marriages and children, grandchildren, and to the great-grandchildren
+## Marriages and children, grandchildren, and to the great-grandchildren
 
 Wife (married: on 17 August 1810, Warsaw, Cyrkuł IV (today the city of Warsaw), ): Michalina Zofia Ostroróg-Prusimska of Kolno, arms Nałęcz, an article in the Nekrologia 1778-1851, (parents: Antoni Michał Kazimierz Ostroróg-Prusimski of Kolno, arms Nałęcz, a "hero of the PSB" 1744-ca 1806 & Marianna Dąmbska of Dąbie, arms Godziemba ca 1763-), children  
 Aleksander Adam Stanisław Count Miączyński of Miączyn, arms Suchekomnaty, count [title] granted (1853), (line: Kajetan Miączyński 8.192.505), an article in the Nekrologia, an officer of the November Uprising (1830-1831), a student of the University of Warsaw (1828) 1810-1869  
 & Bronisława Kalkstein, arms Kos, an article in the Nekrologia, (line: Józef Radzimiński 16.78.177) 1825-1858
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c04">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c04">Wnuki</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Wnuki
+## Wnuki
 
 dzieci  
 Stanisława hr. Miączyńska z Miączyna h. Suchekomnaty 1848-1860  
@@ -216,7 +213,7 @@ Wincenty Karski z Kars h. Boleścic 1895-1934 \|
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Grandchildren
+## Grandchildren
 
 children  
 Stanisława Countess Miączyńska of Miączyn, arms Suchekomnaty 1848-1860  
@@ -276,6 +273,7 @@ Tadeusz Andrzej Edmund Karski of Kars, arms Boleścic 1888-1917 \|
 Wincenty Karski of Kars, arms Boleścic 1895-1934 \|
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

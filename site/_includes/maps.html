@@ -13,7 +13,7 @@
   <h1>{{ t.maps_h1 }}</h1>
 </div>
 
-{% include sources-tools.html %}
+{% include browse.html kind="maps" list=true %}
 <div class="sources">
   {% for m in site.data.maps_list %}
     {%- capture m_page -%}{{ u_maps }}{{ m.slug }}/{%- endcapture -%}

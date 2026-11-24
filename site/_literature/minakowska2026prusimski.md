@@ -7,13 +7,22 @@ alt_url: "/de/literatur/minakowska2026prusimski/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-front">front</a> <a href="#p-c01">Rodzice</a> <a href="#p-c02">Przodkowie</a> <a href="#p-c03">śluby i dzieci, wnuki, i do prawnuków</a> <a href="#p-c04">Wnuki</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<ol>
+<li class="l1"><a href="#p-c01"><span class="toc-e">Parents</span><span class="toc-o" lang="pl">Rodzice</span></a></li>
+<li class="l1"><a href="#p-c02"><span class="toc-e">Ancestors</span><span class="toc-o" lang="pl">Przodkowie</span></a></li>
+<li class="l1"><a href="#p-c03"><span class="toc-e">Marriages and children, grandchildren, and to the great-grandchildren</span><span class="toc-o" lang="pl">śluby i dzieci, wnuki, i do prawnuków</span></a></li>
+<li class="l1"><a href="#p-c04"><span class="toc-e">Grandchildren</span><span class="toc-o" lang="pl">Wnuki</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
+<div class="pg"><a href="#p-front">front</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz (ID: 4.285.619)  
@@ -36,15 +45,12 @@ Age: probably 62 years
 Polski Słownik Biograficzny vol. 28 p. 582: PRUSIMSKI Kazimierz Józef (1744- ca. 1806), envoy, émigré activist
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c01">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c01">Rodzice</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Rodzice
+## Rodzice
 Stefan Prusimski z Kolna h. Nałęcz  
 Urodzony prawdopodobnie w roku 1710  
 zmarł  
@@ -55,7 +61,7 @@ zmarła w roku 1780, wiek: 58 lat.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Parents
+## Parents
 
 Stefan Prusimski of Kolno, arms Nałęcz  
 born probably in 1710  
@@ -66,15 +72,12 @@ born in 1722
 died in 1780, aged 58.
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c02">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c02">Przodkowie</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Przodkowie
+## Przodkowie
 
 pradziadkowie  
 Jan Prusimski z Kolna h. Nałęcz ?1640-  
@@ -98,7 +101,7 @@ Antoni Michał Kazimierz Ostroróg-Prusimski z Kolna h. Nałęcz, bohater PSB, 1
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Ancestors
+## Ancestors
 
 great-grandparents  
 Jan Prusimski of Kolno, arms Nałęcz ?1640-  
@@ -120,15 +123,12 @@ Wiktoria Malczewska of Malczewo, arms Awdaniec 1722-1780
 Antoni Michał Kazimierz Ostroróg-Prusimski of Kolno, arms Nałęcz, a "hero of the PSB", 1744-ca 1806
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c03">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c03">śluby i dzieci, wnuki, i do prawnuków</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### śluby i dzieci, wnuki, i do prawnuków
+## śluby i dzieci, wnuki, i do prawnuków
 żona (ślub: około 1770): Marianna Dąmbska z Dąbia h. Godziemba ca 1763-, (Rodzice : Józef Wojciech Dąmbski z Dąbia h. Godziemba, kasztelan [bku] Kowal 1713-1778 & Barbara Zofia Komorowska z Komorowa h. Korczak, kanoniczka [maz] Warszawa ca 1732-), dzieci  
 Michalina Zofia Ostroróg-Prusimska z Kolna h. Nałęcz artykuł w Nekrologii 1778-1851  
 & Józef hr. Dąmbski z Dąbia h. Godziemba (linia: August Iliński 11.1.1147), (linia: Jan Iliński 8.73.162), (linia: Kajetan Aksak 1.63.62), (linia: Stanisław Dąmbski 4.285.212), (linia: Stanisław Dąmbski 4.285.260) ca 1790-  
@@ -137,7 +137,7 @@ Michalina Zofia Ostroróg-Prusimska z Kolna h. Nałęcz artykuł w Nekrologii 17
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Marriages and children, grandchildren, and to the great-grandchildren
+## Marriages and children, grandchildren, and to the great-grandchildren
 
 Wife (married: about 1770): Marianna Dąmbska of Dąbie, arms Godziemba ca 1763-, (parents: Józef Wojciech Dąmbski of Dąbie, arms Godziemba, castellan [bku] Kowal 1713-1778 & Barbara Zofia Komorowska of Komorowo, arms Korczak, canoness [maz] Warsaw ca 1732-), children  
 Michalina Zofia Ostroróg-Prusimska of Kolno, arms Nałęcz an article in the Nekrologia 1778-1851  
@@ -145,15 +145,12 @@ Michalina Zofia Ostroróg-Prusimska of Kolno, arms Nałęcz an article in the Ne
 & Stanisław Adam Miączyński of Miączyn, arms Suchekomnaty an article in the Nekrologia, a "hero of Wiki", a member of the Sejm 1830-31, captain of the army of the Duchy of Warsaw, (line: Kajetan Miączyński 8.192.505) 1780-1845
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c04">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c04">Wnuki</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Wnuki
+## Wnuki
 
 dzieci  
 Aleksander Adam Stanisław hr. Miączyński z Miączyna h. Suchekomnaty 1810-1869  
@@ -180,7 +177,7 @@ Maria hr. Miączyńska z Miączyna h. Suchekomnaty 1862-1919 \|
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Grandchildren
+## Grandchildren
 
 children  
 Aleksander Adam Stanisław Count Miączyński of Miączyn, arms Suchekomnaty 1810-1869  
@@ -205,6 +202,7 @@ Jerzy Bernard Count Miączyński of Miączyn, arms Suchekomnaty 1860-1913 \|
 Maria Countess Miączyńska of Miączyn, arms Suchekomnaty 1862-1919 \|
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

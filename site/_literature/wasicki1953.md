@@ -7,13 +7,28 @@ alt_url: "/de/literatur/wasicki1953/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-137">137</a> <a href="#p-138">138</a> <a href="#p-139">139</a> <a href="#p-140">140</a> <a href="#p-141">141</a> <a href="#p-142">142</a> <a href="#p-143">143</a> <a href="#p-144">144</a> <a href="#p-145">145</a> <a href="#p-146">146</a> <a href="#p-147">147</a> <a href="#p-148">148</a> <a href="#p-149">149</a> <a href="#p-150">150</a> <a href="#p-151">151</a> <a href="#p-152">152</a> <a href="#p-153">153</a> <a href="#p-154">154</a> <a href="#p-155">155</a> <a href="#p-156">156</a> <a href="#p-157">157</a> <a href="#p-158">158</a> <a href="#p-159">159</a> <a href="#p-160">160</a> <a href="#p-161">161</a> <a href="#p-162">162</a> <a href="#p-163">163</a> <a href="#p-164">164</a> <a href="#p-165">165</a> <a href="#p-166">166</a> <a href="#p-167">167</a> <a href="#p-168">168</a> <a href="#p-169">169</a> <a href="#p-170">170</a> <a href="#p-171">171</a> <a href="#p-172">172</a> <a href="#p-173">173</a> <a href="#p-174">174</a> <a href="#p-175">175</a> <a href="#p-176">176</a> <a href="#p-177">177</a> <a href="#p-178">178</a> <a href="#p-179">179</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-137">pp. 137–141</a></li>
+<li class="l1"><a href="#p-142">pp. 142–146</a></li>
+<li class="l1"><a href="#p-147">pp. 147–151</a></li>
+<li class="l1"><a href="#p-152">pp. 152–156</a></li>
+<li class="l1"><a href="#p-157">pp. 157–161</a></li>
+<li class="l1"><a href="#p-162">pp. 162–166</a></li>
+<li class="l1"><a href="#p-167">pp. 167–171</a></li>
+<li class="l1"><a href="#p-172">pp. 172–176</a></li>
+<li class="l1"><a href="#p-177">pp. 177–179</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-137">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-137">p. 137</a></h2>
+<section class="lit-passage" id="p-137" data-page="137">
+<div class="pg" id="p137"><a href="#p137">p. 137</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 JAN WĄSICKI
@@ -68,12 +83,10 @@ Of the more recent works of German historians that deal only incidentally with t
 <span class="lit-note" id="n-en-7">7</span> Das Jahr 1793. Urkunden und Aktenstücke zur Geschichte der Organisation Südpreussens, Posen 1895.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-138">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-138">p. 138</a></h2>
+<section class="lit-passage" id="p-138" data-page="138">
+<div class="pg" id="p138"><a href="#p138">p. 138</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Z polskich opracowań nie odnoszących się ściśle do interesującego nas okresu, wypada przytoczyć pracę Stefana Komornickiego<sup class="lit-fn"><a href="#n-pl-8">8</a></sup>, opierającego się głównie na wynikach wspomnianej pracy Beheim-Schwarzbacha oraz Kazimierza Zimmermanna<sup class="lit-fn"><a href="#n-pl-9">9</a></sup>. Ten ostatni autor choć omawia w zasadzie kolonizację fryderycjańską, to jednak przedstawia również bardzo krótko przebieg jej w latach 1793—1806 w Prusach Południowych. Najnowsze wreszcie opracowanie tego zagadnienia, to książka Z. Kaczmarczyka<sup class="lit-fn"><a href="#n-pl-10">10</a></sup>. Nie wymieniam tu innych, drobniejszych, przyczynkowych prac, rozrzuconych po różnych czasopismach, w szczególności w Deutsche Wissenschaftliche Zeitschrift f. Polen.
@@ -116,12 +129,10 @@ Before proceeding to discuss the colonisation carried on in South Prussia by the
 <span class="lit-note" id="n-en-10">10</span> Kolonizacja niemiecka na wschód od Odry, Poznań 1945.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-139">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-139">p. 139</a></h2>
+<section class="lit-passage" id="p-139" data-page="139">
+<div class="pg" id="p139"><a href="#p139">p. 139</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Zaraz po zajęciu ziem polskich w drugim rozbiorze Fryderyk Wilhelm II myślał o skolonizowaniu swych nowych nabytków osadnikami sprowadzonymi z Rzeszy. W tej sprawie pisał do nadprezydenta kamery poznańskiej Buggenhagena, że zależy mu bardzo na powiększeniu ilości ludności w świeżo zajętej prowincji oraz podniesieniu kultury rolnej w Prusach Południowych<sup class="lit-fn"><a href="#n-pl-11">11</a></sup>. Wynikałoby więc z tych planów królewskich, że kolonizacja miała być podjęta głównie ze względów gospodarczo-populacyjnych. Niewątpliwie z tych też dwóch aspektów patrzeć należy na cele kolonizacyjne Hohenzollernów w okresie Prus Południowych. Nie można bowiem utożsamiać — jak to do niedawna czyniono — prowadzonej kolonizacji z akcją germanizacyjną, tym więcej, że w czasach szlacheckiej Rzplitej ściągano na te tereny osadników przeważnie niemieckich. Zwrócił na to także uwagę T. Ladenberger w pracy „O kolonizacji fryderycjańskiej na Śląsku“, omawiając zarówno opinie historyków polskich, jak i niemieckich w tej sprawie oraz przebieg i wyniki kolonizacji z tego okresu. Burżuazyjni historycy niemieccy przedstawiali akcję kolonizacyjną królów pruskich zarówno na Śląsku, jak na Pomorzu jako „dzieło kulturalne“, a kolonistów uważali za „nosicieli kultury“. T. Ladenberger, ukazując właściwy cel kolonizacji, stwierdza jednocześnie, i słusznie, że „kolonizacja służyła przede wszystkim skarbowi królewskiemu i wielkiej własności“<sup class="lit-fn"><a href="#n-pl-12">12</a></sup>, a jej efekty kulturalne były wręcz opłakane.
@@ -148,12 +159,10 @@ The situation in South Prussia took a similar shape, although in this period an 
 <span class="lit-note" id="n-en-13">12a</span> Holsche, s. 499.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-140">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-140">p. 140</a></h2>
+<section class="lit-passage" id="p-140" data-page="140">
+<div class="pg" id="p140"><a href="#p140">p. 140</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 gdzie osiedlano większą ilość osadników, i to na terenach nadających się do natychmiastowej uprawy, przydzielając im ponadto znaczne obszary ziemi od 1 łanu do 3, a obok nich osiedlając pracowników najemnych, miały zapewnione szanse rozwojowe i dlatego też przetrwały długo. Kolonizacja bowiem w okresie Prus Południowych prowadzona była na odmiennych zasadach aniżeli kolonizacja fryderycjańska. Duże gospodarstwa, opierając się na pracy najemników, dawały gwarancję utrzymania i rozwoju, tym więcej, że, jak zobaczymy, pozycja prawna kolonisty płacącego jedynie czynsz, a nie połączonego żadnymi innymi węzłami zależności feudalnej, była odmienna od panujących w tym okresie stosunków tak na folwarkach szlacheckich, jak i w domenach królewskich.
@@ -180,12 +189,10 @@ From the exchange of letters between minister Voss and the Prussian envoy in War
 <span class="lit-note" id="n-en-14">13</span> Prümers D. J., s. 441.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-141">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-141">p. 141</a></h2>
+<section class="lit-passage" id="p-141" data-page="141">
+<div class="pg" id="p141"><a href="#p141">p. 141</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Wydawać by się mogło z początkowych zarządzeń ministra, że Voss przystąpi od razu do wcielania w życie poleceń królewskich; tak jednak nie było. Jak się przekonamy jeszcze, Voss i inni ministrowie zajmowali w stosunku do całej akcji stanowisko niechętne i dopiero na wyraźne zarządzenie królewskie przystąpili do wprowadzenia jej w życie.
@@ -224,12 +231,10 @@ Frederick William II's colonising plans, however, met with fairly serious diffic
 <span class="lit-note" id="n-en-17">16</span> Edict wegen des Südpreussischen Incolats oder wegen Besitzfähigkeit zu adligen Gütern in Südpreussen. Berlin, den 16. Mai 1794.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-142">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-142">p. 142</a></h2>
+<section class="lit-passage" id="p-142" data-page="142">
+<div class="pg" id="p142"><a href="#p142">p. 142</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 zajęcia się zorganizowaniem prowincji na modłę pruską. Sprawa ta była głównym przedmiotem prac zarządzającego prowincją min. Vossa, a następnie śląskiego ministra Hoyma. Przerwane wybuchem Insurekcji Kościuszkowskiej i rozszerzeniem się jej na Wielkopolskę zabiegi podjęte zostały następnie po jej stłumieniu.
@@ -268,12 +273,10 @@ Besides, the Silesian minister Hoym had already formed an unfavourable judgement
 <span class="lit-note" id="n-en-20">19</span> Zimmermann K., Tom I, s 40.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-143">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-143">p. 143</a></h2>
+<section class="lit-passage" id="p-143" data-page="143">
+<div class="pg" id="p143"><a href="#p143">p. 143</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Starał się więc minister śląski przekonać Fryderyka Wilhelma II, że koszta związane z akcją sprowadzania obcych osadników, są zbyt wielkie, i to zarówno dla państwa, jak dla właścicieli folwarków. Lepsze wyniki dać może osiedlanie ludności miejscowej. I wielu współczesnych podzielało w tej sprawie zdanie min. Hoyma. Min. Schulenburg-Kehnert, podkreślając w uwagach o Prusach Południowych wzrastającą liczbę ludności, wyrażał pogląd, że powinno się ograniczyć akcję kolonizacyjną. Należy bowiem starać się o poprawę położenia miejscowej ludności i dać jej możność nabywania ziemi. Odnosiło się to głównie do „Olędrów“, ponieważ z tą kategorią ludności zetknął się minister w swej podróży przez nową pruską prowincję. Posiadali oni mały kapitał, który według ich zapewnień przejadali, ponieważ nie mieli możności nabycia odpowiedniego gospodarstwa. Ci ludzie zasługują — zdaniem ministra — na szczególne poparcie z tej przyczyny, że nie potrzebują albo wcale, albo też bardzo małą pomoc ze strony państwa. Ponadto znają się dobrze na uprawie roli w miejscowych warunkach i mogą służyć za wzór ludności polskiej<sup class="lit-fn"><a href="#n-pl-21">20</a></sup>.
@@ -312,12 +315,10 @@ Thus during the reign of Frederick William II and in the period of minister Hoym
 <span class="lit-note" id="n-en-24">23</span> S. P. Z. vol. VI, fol. 138.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-144">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-144">p. 144</a></h2>
+<section class="lit-passage" id="p-144" data-page="144">
+<div class="pg" id="p144"><a href="#p144">p. 144</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 odpowiednich funduszów. Tylko w Prusach Nowo-Wschodnich po ich zorganizowaniu min. Schrötter starał się ściągnąć kolonistów rekrutujących się w głównej mierze z ludności tatarskiej, z Litwy i Wołynia<sup class="lit-fn"><a href="#n-pl-25">24</a></sup>. Tatarów jednak nie osiedlano w Prusach Nowo-Wschodnich dla celów gospodarczych, ale raczej dla utworzenia z osiedleńców odpowiednich oddziałów lekkiej jazdy, co też w przyszłości uczyniono. Fakt jednak, że osiedlano w tej prowincji ludność tatarską, a także chłopów litewskich, świadczyć może najlepiej, że nie wchodziły tu w grę momenty germanizacyjne, ale, jak poprzednio już podkreślaliśmy, momenty populacyjno-skarbowe, a przy osiedlaniu Tatarów również wojskowe.
@@ -360,12 +361,10 @@ Soon, however, minister Voss together with the provincial authorities was placed
 <span class="lit-note" id="n-en-28">27</span> Stadelman, cz. IV. s. 7.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-145">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-145">p. 145</a></h2>
+<section class="lit-passage" id="p-145" data-page="145">
+<div class="pg" id="p145"><a href="#p145">p. 145</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 że należy ich przyjmować i osadzać w nowej prowincji, gdy tylko okażą zaświadczenie stwierdzające ich pracowitość i pilność. Chodziło naturalnie o osadzanie ich w domenach królewskich jako pracowników najemnych. Przybyszów z Berlina, gdzie się początkowo zgłaszali, kierować miano nie tylko do Prus Południowych, ale także do Nowo-Wschodnich. Fryderyk Wilhelm uważał za stosowne nie czekać nawet na samo zgłoszenie się osadników, ale wydać publiczne obwieszczenie, zachęcające do osiedlania się w nowych pruskich prowincjach<sup class="lit-fn"><a href="#n-pl-29">28</a></sup>.
@@ -404,12 +403,10 @@ Despite the express royal order to begin the colonising action, minister Voss to
 <span class="lit-note" id="n-en-33">32</span> Müller, s. 94.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-146">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-146">p. 146</a></h2>
+<section class="lit-passage" id="p-146" data-page="146">
+<div class="pg" id="p146"><a href="#p146">p. 146</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 zniechęconych trudnościami wróciło prawdopodobnie do swych stron ojczystych.
@@ -448,12 +445,10 @@ A great hindrance in carrying on the whole action was the lack of any guidelines
 <span class="lit-note" id="n-en-38">37</span> S. P. Z. vol. X, fol. 60.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-147">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-147">p. 147</a></h2>
+<section class="lit-passage" id="p-147" data-page="147">
+<div class="pg" id="p147"><a href="#p147">p. 147</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dodawać specjalną klauzulę ostrzegającą osadników przed niedbałym prowadzeniem gospodarstwa.
@@ -492,12 +487,10 @@ In the principality of Nassau Weiss found a fairly favourable reception from the
 <span class="lit-note" id="n-en-41">40</span> Müller, s. 99.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-148">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-148">p. 148</a></h2>
+<section class="lit-passage" id="p-148" data-page="148">
+<div class="pg" id="p148"><a href="#p148">p. 148</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 pomocy i opieki ze strony państwa, przerzucić na pruskich oficerów werbunkowych. Min. Schrötter porozumiał się w tej sprawie z Wyższym Kolegium Wojennym (Ober-Kriegs-Collegium), obiecując jednocześnie oficerom werbunkowym wynagrodzenie w wysokości 5 talarów od rodziny kolonisty osiedlającego się na 3—4 łanach, a 3 talary za każdą rodzinę, osiedlającą się na mniejszym obszarze.
@@ -536,12 +529,10 @@ As to the first point, the instruction explained that for purposes of colonisati
 <span class="lit-note" id="n-en-45">44</span> The Warsaw chamber in particular was ordered to prepare forest land for the arriving settlers. S. P. Z. vol. X, 20 IV 1799.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-149">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-149">p. 149</a></h2>
+<section class="lit-passage" id="p-149" data-page="149">
+<div class="pg" id="p149"><a href="#p149">p. 149</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wówczas należy wejść z nimi w porozumienie dla uzyskania zgody na założenie kolonii. Gdy właściciele nie będą chcieli dać swej zgody na propozycję kamer, wówczas całą sprawę należy przekazać do rozstrzygnięcia ministerstwu sprawiedliwości, które zleci rozstrzygnięcie tej sprawy odpowiedniej regencji.
@@ -568,12 +559,10 @@ Similar principles were to be applied in founding colonies on land near the town
 This care to settle free hired labourers on the one hand, and then to create large farms for colonists, bore witness to the far-reaching changes already under way in rural conditions. The feudal economy had at this time begun to outlive itself and slowly, first on the royal estates and then on the nobles' manor farms, to take on the forms of a capitalist economy. The transition to new forms of cultivation, the clearing of forests and the draining of marshes required the settling of a large number of free cottagers, gardeners and smallholders, compelled to sell their labour to the owners of manor farms. And so, although in principle there was constant talk of settling colonist-farmers, at the same time especially many hired labourers were settled, so needed on the manor farms. Colonists were settled mainly on the royal domains, where progressive forms of farming were being introduced, but the Prussian government also influenced the South Prussian nobility to introduce new forms of farming on their manor farms, increasing the areas
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-150">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-150">p. 150</a></h2>
+<section class="lit-passage" id="p-150" data-page="150">
+<div class="pg" id="p150"><a href="#p150">p. 150</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 folwarków przez obsiewanie ugorów, zakładanie łąk, uprawę roślin przemysłowych. Zachęcano ich także do znoszenia wspólnych pastwisk, zwiększania hodowli owiec i uprzemysławiania folwarków. Dość ogólnie i ostrożnie, ale w każdym razie podkreślano, że zmiany takie pociągać za sobą powinny „odmianę stosunków między dziedzicami a chłopami“. Te zasady realizować miało np. Towarzystwo Ekonom. Międzyrzeckie, założone w 1802 r., a władze pruskie liczyły się z możliwością rozszerzenia sieci podobnych towarzystw na cały obszar Prus Południowych<sup class="lit-fn"><a href="#n-pl-46">45</a></sup>. Obok miast zaś powstawać miały kolonie rzemieślnicze i pracowników dniówkowych, potrzebnych do pracy w rozwijających się w tym okresie przedsiębiorstwach produkcyjnych, opierających się na wolnonajemnej sile roboczej. Nie można stwierdzić, ażeby w Prusach Południowych w tym okresie powstawały szczególnie liczne przedsiębiorstwa przemysłowe, a nawet wręcz przeciwnie, daje się zauważyć stopniowy upadek dotychczas istniejących, wskutek konkurencji innych prowincji pruskich, gdzie przemysł manufakturowy był silnie rozwinięty, jak np. na Śląsku, jednakże wytyczne Gen. Dyrektorium sprowadzały się jedynie do ogólnych zasad kolonizacyjnych, nie uwzględniając w takich wypadkach szczególnych względów miejscowych.
@@ -642,12 +631,10 @@ In all, 13 colonies were founded in this department by 1800, in which 109 famili
 <span class="lit-note" id="n-en-49">48</span> Ratowice Holsche, s. 499.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-151">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-151">p. 151</a></h2>
+<section class="lit-passage" id="p-151" data-page="151">
+<div class="pg" id="p151"><a href="#p151">p. 151</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Koszty osiedlenia kolonistów były stosunkowo wysokie, wynosiły bowiem:
@@ -716,12 +703,10 @@ S. P. Z. vol. XV, fol. 186.
 <span class="lit-note" id="n-en-55">54</span> Instruction behufs des Reichskolonisten Engagements für Südpreussen. S. P. Z. vol. XII, fol. 260.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-152">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-152">p. 152</a></h2>
+<section class="lit-passage" id="p-152" data-page="152">
+<div class="pg" id="p152"><a href="#p152">p. 152</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 na fachowe kwalifikacje osadników. Zdawano bowiem sobie jasno sprawę z tego, że na terenach, gdzie głównie odbywać się miał werbunek, a więc na lewym brzegu Renu i Wirtembergii, rodzaj i sposób prowadzonej gospodarki był odmienny aniżeli w Prusach Południowych. Z tych względów zastrzegano, aby nie przyjmować zgłoszeń rolników znających się wyłącznie na uprawie winnej latorośli, lecz tylko tych, których specjalnością jest uprawa zbóż. Mogą być dopuszczane wypadki, że kolonista znać będzie obydwa rodzaje uprawy. Tego wymogu trzymały się kamery dość ściśle, odrzucając zgłoszenia ludzi nie znających się na uprawie roli<sup class="lit-fn"><a href="#n-pl-56">55</a></sup>.
@@ -774,12 +759,10 @@ In order to conduct the whole action properly and to co-ordinate it with the act
 <span class="lit-note" id="n-en-59">58</span> Stadelman, op. cit., s. 266.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-153">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-153">p. 153</a></h2>
+<section class="lit-passage" id="p-153" data-page="153">
+<div class="pg" id="p153"><a href="#p153">p. 153</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Do tego czasu główny nacisk ze strony króla położony był na skolonizowanie Prus Południowych, z pominięciem pozostałych prowincji wchodzących przedtem w skład szlacheckiej Rzplitej. Motywy tego działania opierały się w dużej mierze na uzasadnieniu całej akcji, przedłożonym królowi pruskiemu przez kapitana Nothardta. Na tej samej podstawie min. Schrötter wystąpił z propozycją rozwinięcia żywszej akcji kolonizacyjnej w Prusach Nowo-Wschodnich, głównie zaś w departamencie płockim. Stanowił on bowiem przedłużenie Prus Południowych i połączenie między Śląskiem a Prusami Wschodnimi. Kwestia ta nie budziła widocznie żadnych wątpliwości, toteż król zgodził się rozszerzyć akcję kolonizacyjną na ten teren, na tych samych zasadach, na jakich prowadzono kolonizację na pozostałych terenach nowych prowincji pruskich. W tej sprawie min. Schrötter miał się porozumieć z min. Vossem i kptem Nothardtem co do przydziału kolonistów w poszczególnych prowincjach<sup class="lit-fn"><a href="#n-pl-60">59</a></sup>.
@@ -806,12 +789,10 @@ Moreover, the advance of 1,000 thalers for setting up provided in the instructio
 <span class="lit-note" id="n-en-61">60</span> Müller, op. cit., s. 103.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-154">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-154">p. 154</a></h2>
+<section class="lit-passage" id="p-154" data-page="154">
+<div class="pg" id="p154"><a href="#p154">p. 154</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 oni ściągać na te tereny swych krewnych i znajomych z Rzeszy<sup class="lit-fn"><a href="#n-pl-62">61</a></sup>. Przedłożony przez niego projekt kolonizacji Prus Nowo-Wschodnich i prośba o przeznaczenie na ten cel odpowiednich funduszów, uzyskały zgodę króla, który przyznał na prowadzenie tej akcji 200 tys. talarów. Pomoc przeznaczana dla kolonistów nie była tak wysoka, jak w Prusach Południowych. Opierano się na ścisłym obliczeniu, że dla całkowitego urządzenia się kolonisty, otrzymującego 3 łany ziemi na nowym gospodarstwie, potrzebna jest kwota 600 talarów, dla 4-łanowego — 800 talarów; na jeden więc łan przypadało 200 tal. Przewidziano zatem, że pomoc pieniężna państwa wynosić będzie dla osiedlających się na 3 łanach 300 talarów, czyli że kolonista musi posiadać własnego majątku 300 talarów, na 4 łanach 400 tal., na 5 łanach 500 tal. itd. Wysokość pomocy pieniężnej była zatem proporcjonalna do wniesionego przez kolonistę własnego majątku i otrzymanego areału ziemi. Oprócz pomocy pieniężnej przyznawać miano kolonistom, podobnie jak w Prusach Południowych, pieniądze podwodowe i drzewo na budowę. Kolonista w określonym czasie objąć miał przydzieloną ziemię i pod groźbą jej utraty przystąpić do zagospodarowania.
@@ -838,12 +819,10 @@ The Prussian envoy officiating at Frankfurt on the Main, Formey, did not, howeve
 <span class="lit-note" id="n-en-63">62</span> The leaflet printed in 1802, "Der glückliche Bauer. Ein Gespräch zwischen einem südpreussischen Kolonisten und einem schwäbischen Bauern" [The happy peasant. A conversation between a South Prussian colonist and a Swabian peasant], tried to present the condition of the colonists settled in South Prussia in the best possible light. The conversation between the Swabian peasant and the colonist from South Prussia, who came from those parts, begins with the colonist trying to dispel the doubts of the Swabian peasant, who thought that in the new Prussian province there was nothing but hunger, sorrow and dejection. For that was how the situation had been presented to him by those who had returned from there, not having found the promised happiness. The colonist, however, presents the conditions prevailing in South Prussia in an altogether different light. He praises the fertility of the soil, the state's help for settlers, and finally the fact that many colonies had already arisen there, settled mainly by settlers from Germany. To the question why, then, the Prussian government was trying to attract settlers there, and whether the peasants there did not cultivate the land, the newcomer from South Prussia replies that the peasants living in South Prussia are lazy and negligent, because in Polish times they were oppressed by the nobility with labour service. Finally the last revolution that broke out there caused many of them to leave the country, and for this reason new settlers are now needed there. He adds that colonists are settled only on land belonging to the king and are therefore only his subjects, not obliged to the labour service that the peasants sitting on the nobles' and church lands of this province must perform. The colonists are thus free men and all the yield is their property. The Swabian peasants need not fear coming to a province inhabited by a foreign population, since there are already many colonists from Germany there, and besides all the officials speak German. Convinced, the Swabian peasant decides to leave and settle in South Prussia, taking all his property with him. Zimmermann, t. II, s. 37.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-155">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-155">p. 155</a></h2>
+<section class="lit-passage" id="p-155" data-page="155">
+<div class="pg" id="p155"><a href="#p155">p. 155</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Schrötter, interweniując w departamencie zagranicznym<sup class="lit-fn"><a href="#n-pl-64">63</a></sup>. Zgłoszenia osadników napływały także z Meklemburga.
@@ -890,12 +869,10 @@ In the forefront of this new instruction was put the requirement that settlers h
 <span class="lit-note" id="n-en-68">67</span> Tableau der den zu engagierenden Kolonisten zu bewilligenden Benefizien. Berlin, 29. Januar 1802. S. P. Z. vol. XIV, fol. 14.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-156">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-156">p. 156</a></h2>
+<section class="lit-passage" id="p-156" data-page="156">
+<div class="pg" id="p156"><a href="#p156">p. 156</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 w miejscu osiedlenia<sup class="lit-fn"><a href="#n-pl-69">68</a></sup>. Nie zrezygnowano bynajmniej ani też nie obniżono wymogów majątkowych, wprowadzono jedynie tę małą zmianę, że połowę majątku musiał posiadać kolonista w gotówce, drugą zaś mógł dostarczyć w przeciągu dwu do czterech lat, przy tym suma ta miała być sądownie zahipotekowana na gruncie otrzymanym od państwa, a posiadanie jej musiało być udowodnione wiarygodnymi dokumentami. Do wnoszonego majątku w gotówce wliczało się koloniście wartość konia, licząc za każdego po 54 guld. lub 84 tal. O obszarze przydzielanej ziemi decydowała, tak jak poprzednio, wysokość posiadanego majątku. Według tych kryteriów koloniści podzieleni zostali na sześć klas.
@@ -958,12 +935,10 @@ To the first class were assigned day labourers and cottagers (Tagelöhner und H�
 <span class="lit-note" id="n-en-72">71</span> Two cows, 1 pig, 4 geese, 4 hens and a cock.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-157">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-157">p. 157</a></h2>
+<section class="lit-passage" id="p-157" data-page="157">
+<div class="pg" id="p157"><a href="#p157">p. 157</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Do drugiej kategorii zaliczeni zostali koloniści, którzy posiadali majątek w wysokości od 300 do 1000 Reichsgeld. lub 162 tal. 12 gr. do 541 tal. 16 gr. Osadzać ich miano na gospodarstwach o obszarze od 15 do 40 mórg. Prócz ziemi otrzymywać mieli pieniądze podwodowe, 3 do 6 lat wolnych i zwolnienie od kantonów.
@@ -1002,12 +977,10 @@ From the above instruction it follows fairly clearly that the General Directory 
 The figures given in minister Voss's report confirm the principle applied. Of a total of 534 families there were settled in the Poznań department:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-158">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-158">p. 158</a></h2>
+<section class="lit-passage" id="p-158" data-page="158">
+<div class="pg" id="p158"><a href="#p158">p. 158</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -1056,12 +1029,10 @@ In reply to the chambers' enquiries on the occupation of empty peasant farms, me
 <span class="lit-note" id="n-en-76">75</span> S. P. Z. vol. XIV, fol. 155.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-159">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-159">p. 159</a></h2>
+<section class="lit-passage" id="p-159" data-page="159">
+<div class="pg" id="p159"><a href="#p159">p. 159</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 nawet ziemi, tak jak kolonistom. Niewątpliwie łączyć się to musiało ściśle ze sprawą powinności świadczonych na rzecz domen czy folwarków, o czym już poprzednio było mowa. Ponadto wyjaśniano, że mieszkańców Prus Południowych można osadzać jedynie jako chałupników, którym przysługiwać miały te same beneficja, co przybyszom. Prośby kolonistów pierwszej kategorii o powiększanie budynków i budowę stodół należało odrzucać, a nawet zezwalać im na sprzedaż części otrzymywanego gruntu<sup class="lit-fn"><a href="#n-pl-77">76</a></sup>, i to zarówno kolonistom jak i miejscowym chłopom. W ten sposób starano się uniemożliwić zajęcie się wyłącznie gospodarką na otrzymanym kawałku ziemi, co by się mijało z celem osiedlania w tej kategorii przybyszów. Nie zezwolono także kamerom na powiększanie areału ziemi chałupnikom, nakazując załatwiać odmownie wszelkie w tej sprawie prośby kolonistów<sup class="lit-fn"><a href="#n-pl-78">77</a></sup>. Ponadto zwracano uwagę, że w żadnym wypadku nie należy traktować kolonizacji jako zaopatrzenia dla inwalidów<sup class="lit-fn"><a href="#n-pl-79">78</a></sup>. Min. Voss przestrzegał kamery, ażeby nie przyjmować na kolonistów przybyszów, którym biura werbunkowe odmówiły zezwolenia na osiedlenie. Obawiał się bowiem, że w przeciwnym razie zgłosi się zbyt wiele osób, nie posiadających wymaganego majątku, które staną się tylko brzemieniem dla władz prowincji, obciążając fundusz przeznaczony na kolonizację<sup class="lit-fn"><a href="#n-pl-80">79</a></sup>. Jednakże Fryderyk Wilhelm, jak zwykle zresztą w tych sprawach, nie pozwalał na ich usuwanie z granic Prus Południowych.
@@ -1096,12 +1067,10 @@ The colonist, after arriving in the new province, received land in a place indic
 <span class="lit-note" id="n-en-80">79</span> S. P. Z. vol. XV, fol. 124. „... Durch diese Leute nicht allein die Provinz mit einer Menge von Armen und von allen Industrie entblössten Familien überladen, sondern auch der Kolonisten Fond mit grossen Ausgaben von deren Verwendung wenig oder nichts gutes zu erwarten ist“ [Through these people not only is the province overloaded with a crowd of poor families devoid of all industry, but the colonists' fund too with great expenses from which little or no good is to be expected].
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-160">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-160">p. 160</a></h2>
+<section class="lit-passage" id="p-160" data-page="160">
+<div class="pg" id="p160"><a href="#p160">p. 160</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 trzech lat, gdy płacił już cały czynsz, nie mógł ziemi zbywać, ani też zaciągać pożyczki. Po upływie tego czasu mógł ziemię sprzedać, jednakże po przedstawieniu nowego nabywcy kamerze, która stwierdzała jego kwalifikacje. Kolonista mógł wyznaczyć na wypadek śmierci swego następcę, także za zgodą kamery. Jeżeli pozostawił więcej następców, wybór jednego z nich należał do kamery.
@@ -1132,12 +1101,10 @@ Relying on the list drawn up by the Poznań chamber in 1804, giving both the num
 <span class="lit-note" id="n-en-81">80</span> Müller, c. o., s. 199. Erb-Pacht-Contract zwischen der königlichen Neu-Ost-Preussischen Krieges und Domainen Kammer zu Bialystok und dem Einsassen George Susdorff über ein Colonisten-Etablissement von 4 Hufen Magdeburgisch zu Günthersaue im Amte Chodorowken landräthlich Dombrowaschen Kreises [Contract of hereditary lease between the royal New East Prussian War and Domains Chamber at Białystok and the inhabitant George Susdorff for a colonist establishment of 4 Magdeburg Hufen at Günthersaue in the domain office of Chodorowken, in the district of Dombrowa].
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-161">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-161">p. 161</a></h2>
+<section class="lit-passage" id="p-161" data-page="161">
+<div class="pg" id="p161"><a href="#p161">p. 161</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 stało. Co do lat 1805 i 1806 to brak jest szczegółowych danych. Nie przytacza ich także I. Rhode, która zużytkowała w swej pracy materiały archiwalne z tego okresu. Prawdopodobnie jednak liczba kolonistów osiedlonych w innych departamentach Prus Południowych nie mogła być wyższa od osiągniętej w latach poprzednich, o ile nie niższa. Można więc przypuszczać, że ogółem osiedlono w Prusach Południowych w latach 1793—1806 około 6000 osób. Przytoczona przez Vossa liczba 10.000 osób przypuszczalnie obejmuje kolonizację wiejską prowadzoną przez państwo, oraz kolonizację w miastach. Ogólna jednak liczba 10.000 osób osiedlonych w Prusach Południowych nie jest możliwa do przyjęcia, czego najlepszym dowodem jest przytoczona tabela odzwierciedlająca wyniki akcji kolonizacyjnej w departamencie poznańskim.
@@ -1208,12 +1175,10 @@ In the department of the Warsaw chamber there were founded:
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-162">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-162">p. 162</a></h2>
+<section class="lit-passage" id="p-162" data-page="162">
+<div class="pg" id="p162"><a href="#p162">p. 162</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/162.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/162.jpg' | relative_url }}" alt="Wąsicki (1953), p. 162" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1225,12 +1190,10 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-163">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-163">p. 163</a></h2>
+<section class="lit-passage" id="p-163" data-page="163">
+<div class="pg" id="p163"><a href="#p163">p. 163</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/163.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/163.jpg' | relative_url }}" alt="Wąsicki (1953), p. 163" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1242,12 +1205,10 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-164">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-164">p. 164</a></h2>
+<section class="lit-passage" id="p-164" data-page="164">
+<div class="pg" id="p164"><a href="#p164">p. 164</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/164.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/164.jpg' | relative_url }}" alt="Wąsicki (1953), p. 164" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1259,12 +1220,10 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-165">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-165">p. 165</a></h2>
+<section class="lit-passage" id="p-165" data-page="165">
+<div class="pg" id="p165"><a href="#p165">p. 165</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/165.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/165.jpg' | relative_url }}" alt="Wąsicki (1953), p. 165" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1276,12 +1235,10 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-166">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-166">p. 166</a></h2>
+<section class="lit-passage" id="p-166" data-page="166">
+<div class="pg" id="p166"><a href="#p166">p. 166</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/166.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/166.jpg' | relative_url }}" alt="Wąsicki (1953), p. 166" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1293,12 +1250,10 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-167">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-167">p. 167</a></h2>
+<section class="lit-passage" id="p-167" data-page="167">
+<div class="pg" id="p167"><a href="#p167">p. 167</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/167.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/167.jpg' | relative_url }}" alt="Wąsicki (1953), p. 167" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1310,12 +1265,10 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-168">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-168">p. 168</a></h2>
+<section class="lit-passage" id="p-168" data-page="168">
+<div class="pg" id="p168"><a href="#p168">p. 168</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/168.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/168.jpg' | relative_url }}" alt="Wąsicki (1953), p. 168" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1327,12 +1280,10 @@ In the department of the Warsaw chamber there were founded:
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-169">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-169">p. 169</a></h2>
+<section class="lit-passage" id="p-169" data-page="169">
+<div class="pg" id="p169"><a href="#p169">p. 169</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/169.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/169.jpg' | relative_url }}" alt="Wąsicki (1953), p. 169" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1344,12 +1295,10 @@ Kolonia Nowe Gałęzewo w Ciążyńskim Urzędzie Domen. Typowy przykład koloni
 The colony of Nowe Gałęzewo in the domain office of Ciążyń. A typical example of a colony founded on cultivated land. Farm buildings were put up along the two roads laid out. As the plan shows, the cottagers have only dwelling houses. Plan of 1803.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-170">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-170">p. 170</a></h2>
+<section class="lit-passage" id="p-170" data-page="170">
+<div class="pg" id="p170"><a href="#p170">p. 170</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Ogółem w departamencie kamery warszawskiej założono:
@@ -1422,12 +1371,10 @@ The colonisation of the period of South Prussia might properly be called a Würt
 The principles and course of colonisation in South Prussia in the years 1793—1806 differ fairly clearly from the colonisation of Polish lands carried on by Frederick II both in Silesia and in West Prussia. Frederician colonisation is well known, since it has received many exhaustive studies, and the work of T. Ladenberger cited at the beginning sums up the results of the research carried on in this direction. It does not therefore seem to us justified to present it again. It is necessary only to show the differences in the principles and course of colonisation in its two periods.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-171">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-171">p. 171</a></h2>
+<section class="lit-passage" id="p-171" data-page="171">
+<div class="pg" id="p171"><a href="#p171">p. 171</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Podział kolonistów wg pochodzenia<sup class="lit-fn"><a href="#n-pl-82">*</a></sup>
@@ -1478,12 +1425,10 @@ The colonists of the period of Frederick II's colonising action were in principl
 <span class="lit-note" id="n-en-82">*</span> The origin of the settlers was not everywhere given, so this list is not quite exact as to the number of families of colonists settled. The figures in the list are indicative.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-172">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-172">p. 172</a></h2>
+<section class="lit-passage" id="p-172" data-page="172">
+<div class="pg" id="p172"><a href="#p172">p. 172</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Koszty urządzenia kolonii w okresie Prus Południowych wzrosły o połowę w stosunku do kosztów z czasów fryderycjańskich, starano się bowiem zapewnić kolonistom lepsze warunki życiowe. Jednakże i kolonizacja z lat 1793—1803 była dziełem nieudanym. Przybyszom przydzielano nieużytki albo tereny wymagające karczunku czy osuszenia, co niewątpliwie zraziło wielu spośród nich, spodziewających się otrzymać w tej prowincji ziemię, już przygotowaną do uprawy i większy jej obszar. Z tej więc przyczyny duża ilość kolonistów albo wracała do Rzeszy, albo wyjeżdżała do Rosji, gdzie warunki osiedlania były korzystniejsze.
@@ -1530,12 +1475,10 @@ A) The peasants received:
 <span class="lit-note" id="n-en-83">81</span> Stadelman, o. c., s. 7.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-173">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-173">p. 173</a></h2>
+<section class="lit-passage" id="p-173" data-page="173">
+<div class="pg" id="p173"><a href="#p173">p. 173</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/173.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/173.jpg' | relative_url }}" alt="Wąsicki (1953), p. 173" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1563,12 +1506,10 @@ The political situation at the time favoured the recruiting of colonists, and so
 <span class="lit-note" id="n-en-85">83</span> Hofmann W., o. c., s. 15.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-174">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-174">p. 174</a></h2>
+<section class="lit-passage" id="p-174" data-page="174">
+<div class="pg" id="p174"><a href="#p174">p. 174</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/174.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/174.jpg' | relative_url }}" alt="Wąsicki (1953), p. 174" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1600,12 +1541,10 @@ The Prince of Hohenlohe-Ingelfingen likewise received in 1796 the Zagórów and 
 <span class="lit-note" id="n-en-87">85</span> Komornicki, o. c., s. 180.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-175">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-175">p. 175</a></h2>
+<section class="lit-passage" id="p-175" data-page="175">
+<div class="pg" id="p175"><a href="#p175">p. 175</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/175.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/175.jpg' | relative_url }}" alt="Wąsicki (1953), p. 175" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1625,12 +1564,10 @@ Pasture set aside for the settling of 4 smallholder colonists at Główna. Domai
 hired labourers were settled. The initiative in winning further settlers and settling them beside the larger colonies was left to the colonists who held considerable areas of land. In the Warta valley near Zagórów there thus arose
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-176">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-176">p. 176</a></h2>
+<section class="lit-passage" id="p-176" data-page="176">
+<div class="pg" id="p176"><a href="#p176">p. 176</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 więc w tym okresie w dobrach ks. Hohenlohego następujące wsie: Sophiental (Olchowo), Ludwigslust (Mały Las), Friedrichsfelde (Tarszewo), Adelshof (Chróściki), folwark Adolfsberg, Ingelfingen (Anielewo), Emilienheim (Michalinów), Augustinhof (Augustynów), Schwentz (Święcia) i kolonia Wrąbczyn.
@@ -1685,12 +1622,10 @@ Already in 1793, immediately after the entry of the Prussian troops, when the ac
 <span class="lit-note" id="n-en-93">91</span> Prümers R., Das Jahr 1793. s. 89.
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-176-u1">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-176-u1">unnumbered page after p. 176</a></h2>
+<div class="pg"><a href="#p-176-u1">after p. 176</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/176-u1.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/176-u1.jpg' | relative_url }}" alt="Wąsicki (1953), p. 176-u1" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1702,12 +1637,10 @@ Koszty założenia i osiedlenia kolonii Nowe Gałęzewo w urzędzie domen Ciąż
 Costs of founding and settling the colony of Nowe Gałęzewo in the domain office of Ciążyń (State Archive, Poznań, S. P. Z. — General Tableau)
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-177">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-177">p. 177</a></h2>
+<section class="lit-passage" id="p-177" data-page="177">
+<div class="pg" id="p177"><a href="#p177">p. 177</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W wydanym 16 stycznia 1794 r.<sup class="lit-fn"><a href="#n-pl-94">92</a></sup> zarządzeniu Gen. Dyr. przyrzekało pomoc i poparcie finansowe dla osadzanych w miastach kolonistów. Pomoc ta uzależniona była od tego, czy kolonista pochodził spoza granic królestwa pruskiego, czy też z prowincji Hohenzollernów, a wreszcie, czy osiedlał się w miastach królewskich, czy prywatnych. W zasadzie koloniści mogli się osiedlać tylko w tych miastach, gdzie brak było fachowców z pewnej gałęzi rzemiosła, którą uprawiał kolonista. W myśl instrukcji otrzymywali przybysze spoza granic państwa pruskiego: 1) wolne prawo miejskie, 2) bezpłatną koncesję na prowadzenie rzemiosła lub prawo mistrzowskie, 3) trzyletnią bonifikację akcyzy, 4) sześcioletnie zwolnienie od serwisu, tj. od opłat na utrzymanie stróża nocnego, sprzętu przeciwpożarowego oraz innych opłat miejskich i ciężarów osobistych, jak warty itp., 5) kolonista zwolniony był wraz ze swymi synami i przyjeżdżającemi z nim czeladnikami od obowiązku służby wojskowej. Podobnie jak koloniści osiedlani na wsiach, tak i koloniści miejscy otrzymywali pieniądze podwodowe w wysokości 2 groszy od głowy za jedną milę. Ponadto przyznawano im specjalny dodatek za transport majątku ruchomego. Pomoc finansowa państwa wyrażała się również w zapłacie rocznego czynszu za mieszkanie oraz częściowego zwrotu kosztów wyłożonych na urządzenie warsztatu i zakup narzędzi, których nie można było przywieźć ze sobą. Zarządzenie podkreśla raz jeszcze, że pomoc ta przeznaczona jest wyłącznie dla kolonistów osiedlających się w miastach, gdzie brak jest tej kategorii rzemieślników. Nie zabraniano im osiedlania się w innych miastach, ale w takich wypadkach odpadała pomoc finansowa państwa. Przyznawano im jedynie jako beneficjum wolne prawo miejskie, koncesję lub prawo mistrzowskie i zwolnienie od kantonów. Jeszcze większe ograniczenia stosowano do rzemieślników pochodzących z granic państwa pruskiego. Otrzymywali oni wprawdzie wymienione wyżej ulgi, jednakże nie byli zwolnieni od kantonów.
@@ -1738,12 +1671,10 @@ The inflow of settlers to the towns was relatively small compared with the inflo
 <span class="lit-note" id="n-en-94">92</span> S. P. Z. vol. III, fol. 9.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-178">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-178">p. 178</a></h2>
+<section class="lit-passage" id="p-178" data-page="178">
+<div class="pg" id="p178"><a href="#p178">p. 178</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 gdy osadnicy przybywali do miasta, cechy odmawiały im bezpłatnego udzielenia prawa mistrzowskiego, co zastrzegało zarządzenie Gen. Dyr.<sup class="lit-fn"><a href="#n-pl-95">93</a></sup> Kwestię tę rozstrzygnięto w ten sposób, że dopóki nie zostaną wydane w tej sprawie osobne przepisy dla cechów, będą one musiały przyznawać prawo mistrzowskie tym spośród przybyszów, którzy je poprzednio posiadali. Gdy ubiegający się nie posiadał takiego prawa, wówczas wszelkie koszty z tym związane pokrywać miała kamera z ogólnego funduszu, przeznaczonego na kolonizację. Z licznych zapytań, skierowanych przez kamery do Gen. Dyr., możemy wywnioskować, że wśród przybyszów znajdowali się tacy, którzy opuścili tę prowincję jeszcze za czasów szlacheckiej Rzpltej i teraz pragnęli do niej powrócić. W takich wypadkach przysługiwały im wszelkie ulgi przewidziane dla kolonistów. Gdy jednak te ziemie opuścili po zaborze i teraz chcieli znowu powrócić, tracili wszelkie prawa do beneficjum<sup class="lit-fn"><a href="#n-pl-96">94</a></sup>.
@@ -1790,12 +1721,10 @@ In August 1799 Voss informed the South Prussian chambers that many artisans from
 <span class="lit-note" id="n-en-99">97</span> S. P. Z. vol. X, fol. 32a.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-179">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-179">p. 179</a></h2>
+<section class="lit-passage" id="p-179" data-page="179">
+<div class="pg" id="p179"><a href="#p179">p. 179</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 majątkowym rzemieślnika pragnącego się osiedlić w Prusach Południowych i nie dawały zezwolenia na osiedlenie, jeżeli nie posiadał odpowiedniego majątku<sup class="lit-fn"><a href="#n-pl-100">98</a></sup>. Przy kolonizacji więc miejskiej decydującą rolę odgrywały te same momenty majątkowe, co przy kolonizacji wiejskiej. Widocznie kamery niezbyt ściśle trzymały się instrukcji i wskazówek ministra, skoro na liczne zapytania kamer w sprawie osiedlania kolonistów nakazywał trzymać się ściśle poprzednio wydanych zarządzeń<sup class="lit-fn"><a href="#n-pl-101">99</a></sup>. Kamerom jednak chodziło głównie o przybyszów z Wirtembergii, których stosunkowo duża ilość przybyła do Prus Południowych, i dla nich też starały się uzyskać zwiększoną pomoc finansową ze strony państwa. Na te jednak starania otrzymały odmowną odpowiedź Generalnego Dyrektorium, które pouczało kamery, że celem funduszu przeznaczonego na kolonizację jest pomoc dla wszystkich osiedlających się kolonistów bez czynienia szczególnych wyróżnień<sup class="lit-fn"><a href="#n-pl-102">100</a></sup>. W konkretnym przypadku kolonisty-stolarza, Baltazara Schiedta, osiedlonego w Krotoszynie, Gen. Dyr. wyliczyło przysługujące mu beneficja, o jakich mówiło zarządzenie w tej sprawie ze stycznia 1794 r.
@@ -1830,6 +1759,7 @@ As follows from the facts cited above, then, the Prussian authorities did not at
 <span class="lit-note" id="n-en-103">101</span> Breyer Albert, Die erste deutsche Tuchmacherstadt in Mittelpolen (Dombie). Dtsche Wissenschaftliche Zeitschrift für Polen. Heft 35, Jahr 1935.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

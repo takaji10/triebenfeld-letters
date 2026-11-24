@@ -365,6 +365,11 @@ def main():
             for fn in files:
                 if not fn.endswith(('.html', '.js', '.json', '.xml', '.txt', '.csv')):
                     continue
+                # The search index of the literature carries the shown works'
+                # passages (they may quote a hidden work, as the pages skipped
+                # above); it is held to the rule row by row below instead.
+                if fn in ('search-literature.json', 'search-literature-en.json'):
+                    continue
                 p = os.path.join(root, fn)
                 with io.open(p, encoding='utf-8', errors='replace') as f:
                     text = html.unescape(f.read())
@@ -373,6 +378,22 @@ def main():
                         leaks[f'{slug} in {os.path.relpath(p, SITE)}'] += 1
         for where in leaks:
             fail(f'literature: the text of a work not to be shown appears on the site: {where}')
+        # the search index: a hidden work has one row, its summary, and no text
+        _hidden = {w['slug'] for w in hidden}
+        for _fn in ('search-literature.json', 'search-literature-en.json'):
+            _p = os.path.join(SITE, 'assets', _fn)
+            if not os.path.isfile(_p):
+                continue
+            with io.open(_p, encoding='utf-8') as f:
+                _d = json.load(f)
+            if isinstance(_d, list):
+                for r in _d:
+                    if r.get('slug') in _hidden and (r.get('text') or r.get('a')):
+                        fail(f"literature: {_fn} carries text of the hidden work {r['slug']}")
+            else:
+                for k in _d:
+                    if k.split('/')[0] in _hidden:
+                        fail(f"literature: {_fn} carries text of the hidden work {k.split('/')[0]}")
     print(f'  {len(shown)} works with pages in both languages, '
           f'{len(hidden)} kept off the site (summary only)')
 
@@ -417,6 +438,11 @@ def main():
         for root, dirs, files in os.walk(SITE):
             for fn in files:
                 if not fn.endswith(('.html', '.js', '.json', '.xml', '.txt', '.csv')):
+                    continue
+                # The search index of the literature carries the shown works'
+                # passages (they may quote a hidden work, as the pages skipped
+                # above); it is held to the rule row by row below instead.
+                if fn in ('search-literature.json', 'search-literature-en.json'):
                     continue
                 p = os.path.join(root, fn)
                 with io.open(p, encoding='utf-8', errors='replace') as f:
@@ -836,6 +862,54 @@ def main():
                  '#estate- anchors')
         print(f'  {_n} place pages checked in both languages, '
               'no estate anchors left')
+
+    # ---- the year range of the search bar ---------------------------------
+    # The range selector's limits are the earliest and latest year of anything
+    # the site holds: documents, newspapers, literature, maps. They are written
+    # into site/_data/stats.yml (year_min / year_max) by search_indexes.py. New
+    # material that widens the range would otherwise be unreachable in the
+    # selector, so the built limits must equal the data's own.
+    print('checking the search bar\'s year range...')
+    import yaml as _y
+    _years = []
+    _idx_dir = os.path.join(SITE, 'assets')
+    for _fn in ('search-index.json', 'search-newspapers.json', 'search-literature.json', 'search-maps.json'):
+        _p = os.path.join(_idx_dir, _fn)
+        if not os.path.isfile(_p):
+            fail(f'search: assets/{_fn} is missing from the built site - run '
+                 'python3 pipeline/build/search_indexes.py (and build_site_data.py), then jekyll build')
+            continue
+        with io.open(_p, encoding='utf-8') as f:
+            _rows = json.load(f)
+        _years += [int(r['year']) for r in _rows if str(r.get('year') or '').isdigit()]
+    # the same years again from the data the lists are built from, so an index
+    # file left stale is caught as well as stale limits
+    _src = []
+    for _fn, _key in (('newspapers.yml', 'year'), ('literature.yml', 'year'), ('maps_list.yml', 'year')):
+        with io.open(os.path.join(ROOT, 'site', '_data', _fn), encoding='utf-8') as f:
+            _src += [int(r[_key]) for r in (_y.safe_load(f) or []) if str(r.get(_key) or '').isdigit()]
+    with io.open(os.path.join(ROOT, 'site', '_data', 'stats.yml'), encoding='utf-8') as f:
+        _stats = _y.safe_load(f)
+    _src += [int(y['year']) for y in _stats.get('years', [])]
+    if _years and _src:
+        if min(_years) != min(_src) or max(_years) != max(_src):
+            fail(f'search: the built indexes span {min(_years)}-{max(_years)} but the site data span '
+                 f'{min(_src)}-{max(_src)} - run python3 pipeline/build/search_indexes.py to rebuild them')
+        _lo, _hi = min(_years + _src), max(_years + _src)
+        if _stats.get('year_min') != _lo or _stats.get('year_max') != _hi:
+            fail(f'search: the year range selector is {_stats.get("year_min")}-{_stats.get("year_max")} '
+                 f'but the material spans {_lo}-{_hi} - run python3 pipeline/build/search_indexes.py '
+                 '(after build_site_data.py), then rebuild the site')
+        _page = os.path.join(SITE, 'documents', 'index.html')
+        if os.path.isfile(_page):
+            with io.open(_page, encoding='utf-8') as f:
+                _h = f.read()
+            _m = re.search(r'id="yr" data-min="(\d+)" data-max="(\d+)"', _h)
+            if not _m or (int(_m.group(1)), int(_m.group(2))) != (_lo, _hi):
+                fail(f'search: the built /documents/ page offers the year range '
+                     f'{_m.group(1) + "-" + _m.group(2) if _m else "none"}, the material spans {_lo}-{_hi} '
+                     '- run python3 pipeline/build/search_indexes.py, then rebuild the site (jekyll build)')
+        print(f'  year range {_lo}-{_hi} agrees with the data')
 
     # ---- summary ----------------------------------------------------------
     print()

@@ -7,6 +7,7 @@ alt_url: "/de/literatur/dabrowska1976/"
 excerpt_separator: ""
 ---
 {% raw %}
+<div class="lit-reader lit-reader--solo"><div class="lit-text">
 <div class="lit-summary" markdown="1">
 
 Three entries of *Pinkas Hakehillot Polin*, Yad Vashem's encyclopedia of the Jewish communities of Poland (vol. I, Łódź and its region, 1976), in the English translations Morris Gradel made for JewishGen. Each opens with a table of the general and the Jewish population and closes with the Holocaust.
@@ -28,4 +29,5 @@ The longest of the three, in four parts. **To 1918:** a town since the late thir
 The Zagórów entry dates the town's status to 1368. The document is King Władysław II's privilege of 19 November 1407 allowing the abbey of Ląd to found a town at its village of Zagórów under Magdeburg law (Kodeks Dyplomatyczny Wielkopolski; KDW, doc. 14). The entry's Jews settling about 1800 agrees with the parish count of 1791 (ADWł 85, doc. 2), which lists none in the town. Against the Encyclopedia of Camps and Ghettos (2012) the entries differ on details of 1940-1941 (where the Jews of Słupca were sent, the numbers in the Zagórów ghetto, the month of the murder); neither is a document.
 
 </div>
+</div></div>
 {% endraw %}

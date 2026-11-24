@@ -47,7 +47,6 @@ layout: default
     <div class="viewbar lit-viewbar" role="group" aria-label="{{ t.lit_view_label }}">
       <button type="button" class="vbtn is-on" data-show="en" aria-pressed="true">{{ t.lit_view_en }}</button>
       <button type="button" class="vbtn" data-show="orig" aria-pressed="false">{{ t[lang_key] }}</button>
-      <span class="viewhint" data-hint="en">{% if w.translation == 'editor' %}{{ t.np_caveat_editor }}{% else %}{{ t.np_caveat }}{% endif %}</span>
     </div>
     {%- endunless %}
 

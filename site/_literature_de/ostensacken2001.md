@@ -7,13 +7,22 @@ alt_url: "/literature/ostensacken2001/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-33">33</a> <a href="#p-34">34</a> <a href="#p-35">35</a> <a href="#p-36">36</a> <a href="#p-37">37</a> <a href="#p-38">38</a> <a href="#p-39">39</a> <a href="#p-40">40</a> <a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-325">325</a> <a href="#p-326">326</a> <a href="#p-327">327</a> <a href="#p-328">328</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-33">S. 33–37</a></li>
+<li class="l1"><a href="#p-38">S. 38–42</a></li>
+<li class="l1"><a href="#p-325">S. 325–328</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-33">S. 33</a></h2>
+<section class="lit-passage" id="p-33" data-page="33">
+<div class="pg" id="p33"><a href="#p33">S. 33</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 III. Marianne Gräfin von Hoym und Friedrich Ludwig Fürst zu Hohenlohe-Ingelfingen
@@ -38,12 +47,10 @@ The hereditary prince Friedrich Ludwig zu Hohenlohe-Ingelfingen, born on 31 Janu
 <span class="lit-note" id="n-en-2">p33-2</span> 2 Ingeborg Weber-Kellermann: Frauenleben im 19. Jahrhundert – Empire und Romantik, Biedermeier, Gründerzeit, München 1983, S. 20
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-34">S. 34</a></h2>
+<section class="lit-passage" id="p-34" data-page="34">
+<div class="pg" id="p34"><a href="#p34">S. 34</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Führung vorsichtshalber jeder Schlacht aus dem Weg gegangen war.<sup class="lit-fn"><a href="#n-de-3">p34-3</a></sup> Noch im Jahr 1786 stieg er zum Generalmajor auf und wurde zum Befehlshaber des Infanterieregimentes Alt-Rotkirch ernannt, das den Namen „Hohenlohe“ erhielt. Die Wertschätzung, die ihm Friedrich II. gezeigt hatte, wurde ihm auch von Seiten des Nachfolgers und Neffen des im Jahr 1786 verstorbenen Königs, Friedrich Wilhelm II., entgegengebracht, der ihm am 27. März 1788 die Generalinspektion der schlesischen Füsilierbataillone mit ständigem Sitz in Breslau übertrug und ihn am 24. März 1791 zum Gouverneur von Breslau ernannte.
@@ -76,12 +83,10 @@ Two of the five sons of Heinrich von Hohenlohe, Gottfried and Konrad, were able 
 <span class="lit-note" id="n-en-6">p34-6</span> 6 Carlheinz Gräter und Peter Fuchs: Hohenlohe – Bilder eines alten Landes, Bindlach 1991, S. 24 sowie: Friedrich Karl Fürst zu Hohenlohe-Waldenburg: Hohenlohe – Bilder aus der Geschichte von Haus und Land, Neuenstein 1983 und Gerlinde Kraus: Die wirtschaftlichen Aktivitäten des Hauses Hohenlohe im 19. Jahrhundert, Mühlheim am Main 1995, S. 6
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-35">S. 35</a></h2>
+<section class="lit-passage" id="p-35" data-page="35">
+<div class="pg" id="p35"><a href="#p35">S. 35</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 tei über das Kloster Schäftersheim beauftragt. Das Chorherrenstift in Oehringen bildete später den Ausgangspunkt für die über das hohenlohesche Territorium hinausgehende Landesherrschaft, mit der die Grafenrechte im nördlichen Kochergau und das Recht der hohen Gerichtsbarkeit verbunden waren.<sup class="lit-fn"><a href="#n-de-7">p35-7</a></sup> Im Jahr 1418 erhielt der allein regierende Albrecht von Hohenlohe die souveräne Landeshoheit, nachdem ihm König Sigismund auf dem Konstanzer Konzil die uneingeschränkte Gerichtsbarkeit verliehen hatte. Von Kaiser Friedrich III. wurden die Herren von Hohenlohe im Zusammenhang mit Erbansprüchen auf die Grafschaften Nidda und Ziegenhain in den Grafenstand erhoben. In diesen, für das Haus Hohenlohe damals entlegenen Gegenden, konnte es sich zwar nicht gegen die Landgrafen von Hessen behaupten, es blieb ihm jedoch der Grafentitel, der für die Festigung des es unmittelbar umgebenden Territoriums insofern von Bedeutung war, als er half, die Landeshoheit im hohenloheschen Stammland zu stabilisieren und auszubauen.<sup class="lit-fn"><a href="#n-de-8">p35-8</a></sup>
@@ -112,12 +117,10 @@ The tiresome quarrels among the various side lines had hardly left time to take 
 <span class="lit-note" id="n-en-11">p35-11</span> 11 HZAN, AÖ PA 80/5/3
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-36">S. 36</a></h2>
+<section class="lit-passage" id="p-36" data-page="36">
+<div class="pg" id="p36"><a href="#p36">S. 36</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 fen, um den fürstlichen Haushalt wieder auf eine solide Basis zu stellen. Als einziger des Fürstenhauses wagte Friedrich Ludwig von Hohenlohe-Ingelfingen den Sprung nach vorn.<sup class="lit-fn"><a href="#n-de-12">p36-12</a></sup>
@@ -148,12 +151,10 @@ Even before his marriage with the rich heiress Marianne Countess of Hoym the pri
 <span class="lit-note" id="n-en-16">p36-16</span> 16 Ebd., S. 46
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-37">S. 37</a></h2>
+<section class="lit-passage" id="p-37" data-page="37">
+<div class="pg" id="p37"><a href="#p37">S. 37</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 konnte nur der im Jahr 1782 begonnene Bau der nach seiner Gattin benannten Mariannenvorstadt, einer Siedlung, die den Zweck hatte, das Gewerbe in seiner kleinen Residenz zu fördern. Um die Attraktivität der Siedlung zu steigern, stellte er den Gewerbetreibenden Grund und Boden für den Bau der Häuser zum Teil kostenlos zur Verfügung, so daß Handwerkerfamilien, wie Tuchmacher und Strumpfwirker oder Hutmacher dort bald heimisch werden konnten. Eine anschließend, teils mit fürstlichen Geldern, teils auf Aktien, gegründete Goldwarenfabrik mußte ihren Betrieb allerdings langfristig ebenfalls wieder einstellen, da sie keinen Profit abwarf.<sup class="lit-fn"><a href="#n-de-17">p37-17</a></sup>
@@ -192,12 +193,10 @@ that no stays be put on the little daughters. My hatred of these shells goes so 
 <span class="lit-note" id="n-en-21">p37-21</span> 21 Ebd., S. 292. The welcome that was finally prepared for her by her children, who had been brought to their grandmother in Berlin, must have been quite to her taste. To her husband she wrote: "Mon cher ami! Enfin me voici arrivée après bien des peines en bonne Santé ici – le Mercredi après minuit j'ai été rendue ici, – et j'aurai peine à Vous exprimer la sensation de mon Coeur en me rapprochant de nos chers Enfants – ces chers petites Creatures ayant été éveillée par le Postillon sont sortie tous hors de Leurs Nits pour me recevoir et me temoigner Leur joie – Ils ont très bien grandies – Auguste s'est beaucoup formés par ses Etudes – Il parle coulament le francais, le prononce bien – et s'est appliques en general – Adele est come Elle a toujours été – vive, drôle, mais excellente – elle était si touchée en me revoyant qu'Elle a pleurée et rie en même temps et n'a pue s'arracher de mon Coeur – aussi a-t-Elle voulue recevoir tous ses Droits, Elle loger chez moi, ne me quitte pas – et s'attacher plus que jamais à moi. (…) Emilie a grandie – et bien plus regulièrement bien que sa Soeur – mais sa Physionomie est moins Spirituelle – et Elle est beaucoup plus indolente qu'Adele – mais c'est un bon Enfant, et Nous ne saurions rendre assez grée au Ciel des ces bonheur de les posseder tous trois tel qu'ils sont." [My dear friend! At last here I am, arrived after much trouble in good health here - on Wednesday after midnight I was returned here, - and I shall have trouble expressing to You the sensation of my heart as I come near to our dear Children - these dear little creatures, having been woken by the postilion, all came out of their beds to receive me and show me their joy - They have grown very much - Auguste has much formed himself by his studies - He speaks coulament [fluently] the French, pronounces it well - and has applied himself in general - Adele is come as She has always been - lively, funny, but excellent - she was so moved at seeing me again that She cried and laughed at the same time and could not tear herself from my heart - She also wanted to receive all her rights, She lodges with me, does not leave me - and attaches herself more than ever to me. (…) Emilie has grown - and much more regularly well than her Sister - but her physiognomy is less spiritual - and She is much more indolent than Adele - but she is a good child, and We cannot thank heaven enough for the happiness of possessing all three as they are.] Letter of Marianne Fürstin von Hohenlohe Ingelfingen to her husband of 4 February 1792, HZAN 47, K 1, F2
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-38">S. 38</a></h2>
+<section class="lit-passage" id="p-38" data-page="38">
+<div class="pg" id="p38"><a href="#p38">S. 38</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es ist naheliegend, daß sich Fürst Friedrich Ludwig zu Hohenlohe-Ingelfingen als liebevoller und fürsorglicher Vater Sorgen um die Zukunft seiner Kinder machte. Drängend lasteten daher die im Laufe der Jahre zusätzlich angehäuften Schulden auf ihm. Eine Möglichkeit, das Auskommen seiner Familie langfristig zu sichern, glaubte er, mit dem Kauf des Rittergutes Bytkow im oberschlesischen Kreis Beuthen, das er am 24. April 1801 gegen ein Entgelt von 43.000 Reichstalern erwarb, bewerkstelligen zu können. Zu diesem Rittergut gehörte eine Zinkhütte im Wald von Bytkow und zwei Steinkohlengruben in Ignazhütte. Der Komplex wurde nach dem Kauf in „Hohenlohe-Hütte“ umbenannt.<sup class="lit-fn"><a href="#n-de-22">p38-22</a></sup>
@@ -226,12 +225,10 @@ The first experiments with coke in the winning of iron had been undertaken on th
 <span class="lit-note" id="n-en-25">p38-25</span> 25 Gentzen: Denkschrift zur Feier des hundertfünfzigjährigen Bestehens der königlichen Hütte zu Malapane, Berlin 1904, S. 9
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">S. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">S. 39</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ken eingesetzt. Mit John Baildons Unterstützung konnte dann im Jahr 1804 auch in Hohenlohe-Hütte ein mit Koksfeuerung versehener Hochofen angeblasen werden, der von seiner technischen Ausstattung den Vergleich mit den staatlichen Anlagen nicht zu scheuen brauchte. Zudem wurde eine Kohlengrube, die in „Fristen“ lag, wieder aufgerichtet. Der Kriegsausbruch zwischen Preußen und Frankreich im Jahr 1806 führte das gerade erst begonnene Unternehmen in eine schwere Krise.
@@ -264,12 +261,10 @@ From the battle, which had been fought by the Prussian main army with 58000 sold
 <span class="lit-note" id="n-en-29">p39-29</span> 29 Otto Hintze: Die Hohenzollern und ihr Werk – 1415–1915, Berlin 1915, S. 435
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-40">S. 40</a></h2>
+<section class="lit-passage" id="p-40" data-page="40">
+<div class="pg" id="p40"><a href="#p40">S. 40</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Als sich Fürst Friedrich von Hohenlohe-Ingelfingen nach dem Ende der Schlacht auf seine oberschlesischen Besitzungen zurückziehen wollte, um sich dort um den ins Stocken geratenen Hüttenbetrieb zu kümmern, wurde ihm dies zunächst verwehrt. Als Gefangener wurde er nach Oehringen gebracht. Dem Ingenieur John Baildon, der mit ihm in Korrespondenz stand, um ihn über die Betriebslage zu unterrichten, konnte er aus eigener Kraft nicht mehr helfen.<sup class="lit-fn"><a href="#n-de-30">p40-30</a></sup>
@@ -318,12 +313,10 @@ In a letter to the grandson and heir August of 9 August 1810 the princess Sacken
 <span class="lit-note" id="n-en-35">p40-35</span> 35 Adolf Fischer, S. 358
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">S. 41</a></h2>
+<section class="lit-passage" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">S. 41</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 entsetzlich in Schlawentzitz, dabei wende er sehr erniedrigende Mittel an. Er wäre imstande, das Moos von den Dächern zu verkaufen, um sich Geld zu verschaffen. Wenn sie ihn nicht aus eigener Kraft unschädlich machen könne, müsse sie sich gerichtlicher Hilfe bedienen und ihm das Mitadministrationsrecht der schlesischen und sächsischen Besitzungen entziehen. Es gelang der Fürstin zwar, den Fürsten zu veranlassen, auf seine Administrationsrechte zu verzichten, aber vielleicht doch zu spät, denn über die Höhe der gesamten Hypotheken, die der Fürst auf seine Besitzungen aufgenommen hatte, hatte sie lange Zeit keine genauen Kenntnisse gehabt. Die Schulden lasteten nun insgesamt allein auf dem Sohn und Erben, Friedrich August Carl zu Hohenlohe-Ingelfingen-Oehringen, dem sein Vater kurz vor der Mediatisierung das hohenlohesche Stammland und die damit verbundenen ebenfalls beträchtlichen Verbindlichkeiten abgetreten hatte.
@@ -352,12 +345,10 @@ The daughter of the princess Sacken, Marianne, had after eighteen years of marri
 <span class="lit-note" id="n-en-41">p41-41</span> 41 Communication of Hofrat Mangold of Oehringen of 27 April 1840, who communicated that the countess Marianne von der Osten-Sacken, née countess Hoym, mother of the most gracious prince and lord, had died quietly on 20 April of that year at Marienhof near Rostock. Vgl. ThHStAW, RG Oppurg 132
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">S. 42</a></h2>
+<section class="lit-passage has-related" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">S. 42</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Mit Zustimmung der Tochter Marianne waren bereits in den am 9. Oktober 1781 und 8. August 1787 in Leipzig abgeschlossenen Eheverträgen Vereinbarungen getroffen worden, die darauf zielten, etwaige Besitzansprüche und die Nutznießung der Hoymschen Güter von Seiten des zukünftigen Gatten Friedrich Ludwig zu Hohenlohe-Ingelfingen deutlich einzugrenzen. Als Vormund ihrer Tochter behielt sich die Fürstin Sacken das Recht der Verwaltung der Güter ihres ersten Gatten, des Grafen Hoym, so lange sie wollte, vor. Laut Ehevertrag, den sie noch als Freiin von Dieskau mit dem Grafen Hoym abgeschlossen hatte, stand ihr die Hälfte der sämtlichen Einkünfte aus den schlesischen und sächsischen Gütern zu, das heißt, etwa 8250 Taler. Sie hätte aber auf 2250 Taler der Einkünfte verzichtet, wenn dieses Geld zur Tilgung der noch auf den Gütern lastenden Schulden eingesetzt worden wäre. Der Betrag sollte dann mit dem Anteil des Fürsten in einem Geld-Fideikommiß angelegt werden:
@@ -390,7 +381,6 @@ in order to preserve them "zum Flor beiderseitiger künftiger Descendenz" [for t
 <span class="lit-note" id="n-en-43">p42-43</span> 43 HZAN, PA Oehringen K2 F7, Transact, S. 10
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Kraus (2001) hält auf S. 42 fest, dass der Fürst, um an „baare Mittel“ zu gelangen, die erworbenen Herrschaften Betsche, Zogorowo, Trobczyn, Botkowo und Winiec „weit unter Wert“ wieder verkaufte, darunter in den Schreibweisen des Buches Zagórów und Trąbczyn. Die königliche Genehmigung vom 28. Januar 1806 (APP 53/968/0/-/801, Dokument 2) zeigt den Fürsten in denselben Jahren bei der Parzellierung der „Herrschaften Zagurowo und Trompczyn“, während das Buch seine Finanzen als zusammenbrechend beschreibt. Das Dokument sagt nicht, was die Parzellierung einbrachte, und das Buch datiert die Verkäufe nicht.</p>
@@ -398,9 +388,8 @@ in order to preserve them "zum Flor beiderseitiger künftiger Descendenz" [for t
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-325">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-325">S. 325</a></h2>
+<section class="lit-passage" id="p-325" data-page="325">
+<div class="pg" id="p325"><a href="#p325">S. 325</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Anlage 8
@@ -445,12 +434,10 @@ I know, and I knew it then just as well as now, that no power in the world could
 <span class="lit-note" id="n-en-45">p325-5</span> 5 APK Hohenlohe Koscz. 480, Brief der Gräfin Osten-Sacken vom 12. Oktober 1811
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-326">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-326">S. 326</a></h2>
+<section class="lit-passage" id="p-326" data-page="326">
+<div class="pg" id="p326"><a href="#p326">S. 326</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 erhalten – aber ich unterschrieb mit stummem Gehorsam alle diese Papiere. Gute verklärte Mutter! aus Deinem Herzen flossen sie nicht, diese kalt gewesenen Forderungen jener Documente – darum sollen sie nicht auf Deinem Sarge ruhen; ich allein will für mich alle ihre Folgen tragen! Ich unterschrieb alle jene Papiere, theils um mit meiner unbedingten Unterwürfigkeit meine gütige Mutter zu versöhnen, theils weil ich es mit Dank erkannte, daß das Wohl meiner lieben Kinder durch sie gesichert wurde. In diesem großen Pfand war mir mein eigenes Wohl feil.
@@ -505,12 +492,10 @@ née countess Hoym
 [.]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-327">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-327">S. 327</a></h2>
+<section class="lit-passage" id="p-327" data-page="327">
+<div class="pg" id="p327"><a href="#p327">S. 327</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 [.]
@@ -543,12 +528,10 @@ Since my lady daughter, the countess von Sacken, is so deeply entangled in debts
 <span class="lit-note" id="n-en-48">p327-8</span> 8 HZAN Kosz. 472
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-328">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-328">S. 328</a></h2>
+<section class="lit-passage" id="p-328" data-page="328">
+<div class="pg" id="p328"><a href="#p328">S. 328</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gern so gut als er es will und vermag, zu untersuchen und abzuschließen und alles vollständig zu regulieren, damit die Ruhe und Zufriedenheit meiner Frau Tochter wieder hergestellt wird. Ich autorisiere Herrn von Cosmar ferner, über die Güter Bellin und Hülseburg einen jeden Vertrag und Vergleich, welcher nötig und zweckdienlich sein möchte, abzuschließen. (…) Alle Summen, welche Herr von Cosmar den Gläubigern der beiden Sackenschen Güter versprechen wird, will ich aus meinen Mitteln und aus meinem Vermögen zahlen. (…) Ich will überhaupt den ganzen Vergleich, welchen der Herr Cosmar mit diesen Creditoren schließen wird, als einen von mir selbst ausgegangenen Vergleich nicht nur festhalten und besonders in Absicht der zu leistenden Zahlung erfüllen – nur setze ich hiermit als eine und zwar als die einzige Bestimmung fest, daß das Quantum, welches der Herr Cosmar den hypothekarischen Bellin- und Hülseburgischen Creditoren für die Zeit bis 1. Januar 1808 an vollständigen Zinsen allen persönlichen Gläubigern der von Sackenschen beiden Ehegatten an Capital und Zinsen bewilligen wird, die Summe von 60.000 Taler Courant nicht übersteigen darf, so daß ich also diesen hypothekarischen Gläubigern und den persönlichen Creditoren resp. in Absicht der Zinsen und Kapitalien der letzteren, nur bis auf die Summe von 60/m tausendstel eintreten werde. Unter den Zinsen, die ich den hypothekarischen Gläubigern bezahlen will, sind die Summen, welche ich dem Herrn Grafen von Hardenberg und dem Herrn Baron von Hammerstein schon bezahlt habe. (…) Alles, was von Herrn Cosmar diesem gemäß, für mich, wenn auch unter seinem Namen eingehen und verhandeln wird, soll von mir und meinen Gaben als norma auch verbindlich und für mich eingegangene Handlung anerkannt und treulich erfüllt werden: und zur Vorsicht des Herrn Cosmar und meiner Erben setze ich hiermit noch fest, daß dieser Aufsatz nicht bloß als eine von mir ausgestellte Vollmacht, sondern als ein zu meiner testamentarischen Disposition gehöriges Codicill, wenn auch dasselbe nicht in meinem Nachlaß befindlich ist, gelten soll und daß die den Creditoren zu bewilligenden Summen als von mir zum Besten meiner Frau Tochter angeordneten Legate aus meinem Vermögen gezahlt und daß solche selbst dann von meinen Gaben abgetragen werden sollen, wenn meine Frau Tochter noch vor mir mit dem Tode abgehen oder ein solcher Fall eintreten möchte, daß Sie in Gemäßheit meiner freyen Disposition von meiner Erbschaft ganz ausgeschlossen werden oder nur dem Pflichttheil oder noch weniger erhalten soll. Ich habe diese Vollmacht und Codicill selbst gelesen und eigenhändig unterschrieben, auch mit meinem Jussiegel besiegeln lassen.
@@ -575,6 +558,7 @@ née von Dieskau
 [.]
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

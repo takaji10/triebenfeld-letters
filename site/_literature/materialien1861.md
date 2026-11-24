@@ -7,18 +7,116 @@ alt_url: "/de/literatur/materialien1861/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-front">front</a> <a href="#p-1">1</a> <a href="#p-2">2</a> <a href="#p-3">3</a> <a href="#p-4">4</a> <a href="#p-5">5</a> <a href="#p-6">6</a> <a href="#p-7">7</a> <a href="#p-8">8</a> <a href="#p-9">9</a> <a href="#p-10">10</a> <a href="#p-11">11</a> <a href="#p-12">12</a> <a href="#p-13">13</a> <a href="#p-14">14</a> <a href="#p-15">15</a> <a href="#p-16">16</a> <a href="#p-17">17</a> <a href="#p-18">18</a> <a href="#p-19">19</a> <a href="#p-20">20</a> <a href="#p-21">21</a> <a href="#p-22">22</a> <a href="#p-23">23</a> <a href="#p-24">24</a> <a href="#p-25">25</a> <a href="#p-26">26</a> <a href="#p-27">27</a> <a href="#p-28">28</a> <a href="#p-29">29</a> <a href="#p-30">30</a> <a href="#p-31">31</a> <a href="#p-32">32</a> <a href="#p-33">33</a> <a href="#p-34">34</a> <a href="#p-35">35</a> <a href="#p-36">36</a> <a href="#p-37">37</a> <a href="#p-38">38</a> <a href="#p-39">39</a> <a href="#p-40">40</a> <a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-45">45</a> <a href="#p-46">46</a> <a href="#p-47">47</a> <a href="#p-48">48</a> <a href="#p-49">49</a> <a href="#p-50">50</a> <a href="#p-51">51</a> <a href="#p-52">52</a> <a href="#p-53">53</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-56">56</a> <a href="#p-57">57</a> <a href="#p-58">58</a> <a href="#p-59">59</a> <a href="#p-60">60</a> <a href="#p-61">61</a> <a href="#p-62">62</a> <a href="#p-63">63</a> <a href="#p-64">64</a> <a href="#p-65">65</a> <a href="#p-66">66</a> <a href="#p-67">67</a> <a href="#p-68">68</a> <a href="#p-69">69</a> <a href="#p-70">70</a> <a href="#p-71">71</a> <a href="#p-72">72</a> <a href="#p-73">73</a> <a href="#p-74">74</a> <a href="#p-75">75</a> <a href="#p-76">76</a> <a href="#p-77">77</a> <a href="#p-78">78</a> <a href="#p-79">79</a> <a href="#p-80">80</a> <a href="#p-81">81</a> <a href="#p-82">82</a> <a href="#p-83">83</a> <a href="#p-84">84</a> <a href="#p-85">85</a> <a href="#p-86">86</a> <a href="#p-87">87</a> <a href="#p-88">88</a> <a href="#p-89">89</a> <a href="#p-90">90</a> <a href="#p-91">91</a> <a href="#p-92">92</a> <a href="#p-93">93</a> <a href="#p-94">94</a> <a href="#p-95">95</a> <a href="#p-96">96</a> <a href="#p-97">97</a> <a href="#p-98">98</a> <a href="#p-99">99</a> <a href="#p-100">100</a> <a href="#p-101">101</a> <a href="#p-102">102</a> <a href="#p-103">103</a> <a href="#p-104">104</a> <a href="#p-105">105</a> <a href="#p-106">106</a> <a href="#p-107">107</a> <a href="#p-108">108</a> <a href="#p-109">109</a> <a href="#p-110">110</a> <a href="#p-111">111</a> <a href="#p-112">112</a> <a href="#p-113">113</a> <a href="#p-114">114</a> <a href="#p-115">115</a> <a href="#p-116">116</a> <a href="#p-117">117</a> <a href="#p-118">118</a> <a href="#p-119">119</a> <a href="#p-120">120</a> <a href="#p-121">121</a> <a href="#p-122">122</a> <a href="#p-123">123</a> <a href="#p-124">124</a> <a href="#p-125">125</a> <a href="#p-126">126</a> <a href="#p-127">127</a> <a href="#p-128">128</a> <a href="#p-129">129</a> <a href="#p-130">130</a> <a href="#p-131">131</a> <a href="#p-132">132</a> <a href="#p-133">133</a> <a href="#p-134">134</a> <a href="#p-135">135</a> <a href="#p-136">136</a> <a href="#p-137">137</a> <a href="#p-138">138</a> <a href="#p-139">139</a> <a href="#p-140">140</a> <a href="#p-141">141</a> <a href="#p-142">142</a> <a href="#p-143">143</a> <a href="#p-144">144</a> <a href="#p-145">145</a> <a href="#p-146">146</a> <a href="#p-147">147</a> <a href="#p-148">148</a> <a href="#p-149">149</a> <a href="#p-150">150</a> <a href="#p-151">151</a> <a href="#p-152">152</a> <a href="#p-153">153</a> <a href="#p-154">154</a> <a href="#p-155">155</a> <a href="#p-156">156</a> <a href="#p-157">157</a> <a href="#p-158">158</a> <a href="#p-159">159</a> <a href="#p-160">160</a> <a href="#p-161">161</a> <a href="#p-162">162</a> <a href="#p-163">163</a> <a href="#p-164">164</a> <a href="#p-165">165</a> <a href="#p-166">166</a> <a href="#p-167">167</a> <a href="#p-168">168</a> <a href="#p-169">169</a> <a href="#p-170">170</a> <a href="#p-171">171</a> <a href="#p-172">172</a> <a href="#p-173">173</a> <a href="#p-174">174</a> <a href="#p-175">175</a> <a href="#p-176">176</a> <a href="#p-177">177</a> <a href="#p-178">178</a> <a href="#p-179">179</a> <a href="#p-180">180</a> <a href="#p-181">181</a> <a href="#p-182">182</a> <a href="#p-183">183</a> <a href="#p-184">184</a> <a href="#p-185">185</a> <a href="#p-186">186</a> <a href="#p-187">187</a> <a href="#p-188">188</a> <a href="#p-189">189</a> <a href="#p-190">190</a> <a href="#p-191">191</a> <a href="#p-192">192</a> <a href="#p-193">193</a> <a href="#p-194">194</a> <a href="#p-195">195</a> <a href="#p-196">196</a> <a href="#p-197">197</a> <a href="#p-198">198</a> <a href="#p-199">199</a> <a href="#p-200">200</a> <a href="#p-201">201</a> <a href="#p-202">202</a> <a href="#p-203">203</a> <a href="#p-204">204</a> <a href="#p-205">205</a> <a href="#p-206">206</a> <a href="#p-207">207</a> <a href="#p-208">208</a> <a href="#p-209">209</a> <a href="#p-210">210</a> <a href="#p-211">211</a> <a href="#p-212">212</a> <a href="#p-213">213</a> <a href="#p-214">214</a> <a href="#p-215">215</a> <a href="#p-216">216</a> <a href="#p-217">217</a> <a href="#p-218">218</a> <a href="#p-219">219</a> <a href="#p-220">220</a> <a href="#p-221">221</a> <a href="#p-222">222</a> <a href="#p-223">223</a> <a href="#p-224">224</a> <a href="#p-225">225</a> <a href="#p-226">226</a> <a href="#p-227">227</a> <a href="#p-228">228</a> <a href="#p-229">229</a> <a href="#p-230">230</a> <a href="#p-231">231</a> <a href="#p-232">232</a> <a href="#p-233">233</a> <a href="#p-234">234</a> <a href="#p-235">235</a> <a href="#p-236">236</a> <a href="#p-notes">Notes</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-front"><span class="toc-e">Materials for the History of Polish Territories under Prussian Administration.</span></a></li>
+<li class="l2"><a href="#p-front"><span class="toc-e">Translator&#x27;s Note</span></a></li>
+<li class="l2"><a href="#p-front"><span class="toc-e">Glossary of terms left untranslated</span></a></li>
+<li class="l2"><a href="#p-front"><span class="toc-e">Preface</span></a></li>
+<li class="l2"><a href="#p-front"><span class="toc-e">Contents</span></a></li>
+<li class="l2"><a href="#p-1"><span class="toc-e">The German Colonizations in the Grand Duchy of Posen from the earliest times to the first partition of Poland 1772</span><span class="toc-o" lang="de">Die deutschen Kolonisationen im Grossherzogthume Posen</span> <span class="toc-p">p. 1</span></a></li>
+<li class="l2"><a href="#p-16"><span class="toc-e">Events down to the First Partition of Poland 1772.</span><span class="toc-o" lang="de">Vorgänge bis zur ersten Theilung Polens 1772.</span> <span class="toc-p">p. 16</span></a></li>
+<li class="l3"><a href="#p-16"><span class="toc-e">Frederick as Protector of Republican Liberty and of the Liberum Veto.</span><span class="toc-o" lang="de">Friedrich als Beschützer der republikanischen Freiheit und des Liberum Veto.</span> <span class="toc-p">p. 16</span></a></li>
+<li class="l3"><a href="#p-18"><span class="toc-e">The So-called Lynar Project for the Partition of Poland.</span><span class="toc-o" lang="de">Das sogenannte Lynar&#x27;sche Project zur Theilung Polens.</span> <span class="toc-p">p. 18</span></a></li>
+<li class="l3"><a href="#p-21"><span class="toc-e">Prince Henry in Petersburg.</span><span class="toc-o" lang="de">Prinz Heinrich in Petersburg.</span> <span class="toc-p">p. 21</span></a></li>
+<li class="l3"><a href="#p-23"><span class="toc-e">Frederick&#x27;s Secret Preparations for Taking Possession of West Prussia and the Netze District.</span><span class="toc-o" lang="de">Friedrichs geheime Vorbereitungen zur Besitznahme Westpreussens und des Netzdistrikts.</span> <span class="toc-p">p. 23</span></a></li>
+<li class="l3"><a href="#p-31"><span class="toc-e">Frederick Orders that the Poles of His Own Portion of the Land Be Secretly Incited to Rebellion and Led into Insubordination, So As to Have Legal Grounds to Punish Them.</span><span class="toc-o" lang="de">Friedrich befiehlt die Polen seines eignen Landestheiles heimlich aufzuwiegeln und zur Widersetzlichkeit zu verleiten, um einen Rechtsgrund zu haben, sie zu bestrafen.</span> <span class="toc-p">p. 31</span></a></li>
+<li class="l3"><a href="#p-34"><span class="toc-e">The Distribution of the Contribution.</span><span class="toc-o" lang="de">Die Contributions-Vertheilung.</span> <span class="toc-p">p. 34</span></a></li>
+<li class="l3"><a href="#p-37"><span class="toc-e">From the Patent of Possession of 13 September 1772 to the Estates, Inhabitants, etc. etc. of the New Province.</span><span class="toc-o" lang="de">Aus dem Besitznahme-Patent vom 13. September 1772 an die Stände, Einwohner etc. etc. der neuen Provinz. [43]</span> <span class="toc-p">p. 37</span></a></li>
+<li class="l3"><a href="#p-39"><span class="toc-e">From the Treaty of Warsaw of 18 September 1773 between the King of Prussia and the Republic of Poland.</span><span class="toc-o" lang="de">Aus dem Vertrage zu Warschau vom 18. September 1773 zwischen dem Könige von Preussen und der Republik Polen.[47]</span> <span class="toc-p">p. 39</span></a></li>
+<li class="l3"><a href="#p-39"><span>Art. 1.</span> <span class="toc-p">p. 39</span></a></li>
+<li class="l3"><a href="#p-39"><span>Art. VI.</span> <span class="toc-p">p. 39</span></a></li>
+<li class="l3"><a href="#p-40"><span>Art. VIII.</span> <span class="toc-p">p. 40</span></a></li>
+<li class="l3"><a href="#p-40"><span class="toc-e">Threefold Extension of the Borders.</span><span class="toc-o" lang="de">Dreimalige Erweiterung der Grenzen.[48]</span> <span class="toc-p">p. 40</span></a></li>
+<li class="l2"><a href="#p-43"><span class="toc-e">Frederick the Great&#x27;s Paternal Sentiments toward the Poles.</span><span class="toc-o" lang="de">Friedrichs des Grossen landesväterliche Gesinnung gegen die Polen.</span> <span class="toc-p">p. 43</span></a></li>
+<li class="l3"><a href="#p-43"><span class="toc-e">A Royal Act of Grace at the Homage.</span><span class="toc-o" lang="de">Ein Königl. Gnadenakt bei der Huldigung.</span> <span class="toc-p">p. 43</span></a></li>
+<li class="l3"><a href="#p-44"><span class="toc-e">Frederick as Solon and Lycurgus among the Polish Barbarians and Iroquois.</span><span class="toc-o" lang="de">Friedrich als Solon und Lycurg unter den polnischen Barbaren und Irokesen.</span> <span class="toc-p">p. 44</span></a></li>
+<li class="l3"><a href="#p-53"><span class="toc-e">Frederick in Letters to D&#x27;Alembert.</span><span class="toc-o" lang="de">Friedrich in Briefen an D’Alembert.</span> <span class="toc-p">p. 53</span></a></li>
+<li class="l2"><a href="#p-56"><span class="toc-e">Frederick William II&#x27;s Assurances of Peace and Friendship.</span><span class="toc-o" lang="de">Friedrich Wilhelms II. Friedens- und Freundschafts-Versicherungen. [81]</span> <span class="toc-p">p. 56</span></a></li>
+<li class="l3"><a href="#p-56"><span class="toc-e">From the Declaration of the Prussian Envoy Extraordinary v. Buchholz of 12 October 1788.</span><span class="toc-o" lang="de">Aus der Erklärung des preussischen ausserordentlichen Gesandten v. Buchholz vom 12. October 1788. [82]</span> <span class="toc-p">p. 56</span></a></li>
+<li class="l3"><a href="#p-58"><span class="toc-e">From the Note of v. Buchholtz, etc., of 19 November 1788.</span><span class="toc-o" lang="de">Aus der Note des etc. v. Buchholtz vom 19. November 1788. [83]</span> <span class="toc-p">p. 58</span></a></li>
+<li class="l3"><a href="#p-60"><span class="toc-e">From the Reply of Minister v. Herzberg to a Note Presented by Prince Czartoryski on 28 February 1789.</span><span class="toc-o" lang="de">Aus der Antwort des Ministers v. Herzberg auf eine am 28. Februar 1789 vom Fürsten Czartoryski überreichte Note.[85]</span> <span class="toc-p">p. 60</span></a></li>
+<li class="l3"><a href="#p-61"><span class="toc-e">From the Treaty of Alliance of 29 March 1790.</span><span class="toc-o" lang="de">Aus dem Alliance-Vertrage vom 29. März 1790.[86]</span> <span class="toc-p">p. 61</span></a></li>
+<li class="l3"><a href="#p-64"><span class="toc-e">From the Letter of the King to the Deputy Envoy Count von der Goltz, of 23 March 1791.</span><span class="toc-o" lang="de">Aus dem Briefe des Königs an den stellvertretenden Gesandten Grafen von der Goltz, vom 23. März 1791.[87]</span> <span class="toc-p">p. 64</span></a></li>
+<li class="l3"><a href="#p-65"><span class="toc-e">From the Letter of Frederick William II to the King of Poland, of 11 April 1790.</span><span class="toc-o" lang="de">Aus dem Briefe Friedrich Wilhelms II. an den König von Polen vom 11. April 1790.[88]</span> <span class="toc-p">p. 65</span></a></li>
+<li class="l3"><a href="#p-65"><span class="toc-e">Frederick William Congratulates on the Constitution of 3 May 1791.</span><span class="toc-o" lang="de">Friedrich Wilhelm gratulirt zur Constitution vom 3. Mai 1791.[89]</span> <span class="toc-p">p. 65</span></a></li>
+<li class="l3"><a href="#p-67"><span class="toc-e">Frederick William to Stanislaus August 23 May 1791.</span><span class="toc-o" lang="de">Friedrich Wilhelm an Stanislaus August</span> <span class="toc-p">p. 67</span></a></li>
+<li class="l3"><a href="#p-68"><span class="toc-e">From the Prussian Note of 21 June 1791.</span><span class="toc-o" lang="de">Aus der preussischen Note vom 21. Juni 1791.[91]</span> <span class="toc-p">p. 68</span></a></li>
+<li class="l3"><a href="#p-68"><span class="toc-e">From the Declarations of the Prussian Envoy Lucchesini.</span><span class="toc-o" lang="de">Aus den Erklärungen des preussischen Gesandten Lucchesini.</span> <span class="toc-p">p. 68</span></a></li>
+<li class="l3"><a href="#p-68"><span class="toc-e">On 14 April 1792.</span><span class="toc-o" lang="de">Am 14. April 1792.[92]</span> <span class="toc-p">p. 68</span></a></li>
+<li class="l3"><a href="#p-68"><span class="toc-e">On 4 May 1792.</span><span class="toc-o" lang="de">Am 4. Mai 1792.[93]</span> <span class="toc-p">p. 68</span></a></li>
+<li class="l3"><a href="#p-69"><span class="toc-e">From the Reply of the Prussian Envoy to a Note of 25 May 1792.</span><span class="toc-o" lang="de">Aus der Antwort des preussischen Gesandten auf eine Note vom 25. Mai 1792.[94]</span> <span class="toc-p">p. 69</span></a></li>
+<li class="l3"><a href="#p-69"><span class="toc-e">From the Reply of the King of Prussia to the King of Poland.</span><span class="toc-o" lang="de">Aus der Antwort des Königs von Preussen an den König von Polen.</span> <span class="toc-p">p. 69</span></a></li>
+<li class="l3"><a href="#p-70"><span class="toc-e">From the Declaration of the King Concerning the Entry of His Troops into Poland, of 6 January 1793.</span><span class="toc-o" lang="de">Aus der Deklaration des Königs in Betreff des Einmarsches seiner Truppen in Polen, vom 6. Januar 1793.[97]</span> <span class="toc-p">p. 70</span></a></li>
+<li class="l3"><a href="#p-71"><span class="toc-e">From the Patent of Possession of 25 March 1793 to All the Estates and Inhabitants of South Prussia and the Cities of Danzig and Thorn.</span><span class="toc-o" lang="de">Aus dem Besitznahme-Patent vom 25. März 1793 an die sämmtlichen Stände und Einwohner in Südpreussen und den Städten Danzig und Thorn. [99]</span> <span class="toc-p">p. 71</span></a></li>
+<li class="l3"><a href="#p-73"><span class="toc-e">From the Treaty of Peace at Grodno of 25 September 1793 between His Majesty the King of Prussia and the Polish Republic.</span><span class="toc-o" lang="de">Aus dem Friedensvertrage zu Grodno vom 25. September 1793 zwischen Sr. Majestät dem Könige von Preussen und der polnischen Republik.[101]</span> <span class="toc-p">p. 73</span></a></li>
+<li class="l3"><a href="#p-74"><span>Art. III.</span> <span class="toc-p">p. 74</span></a></li>
+<li class="l3"><a href="#p-74"><span>Art. V.</span> <span class="toc-p">p. 74</span></a></li>
+<li class="l3"><a href="#p-75"><span class="toc-e">From the Patent Concerning the Administration of the Starosties in South Prussia, dated Berlin, 26 February 1794.</span><span class="toc-o" lang="de">Aus dem Patent über die Bewirthschaftung der Starosteien in Südpreussen, d. d. Berlin, 26. Februar 1794.[102]</span> <span class="toc-p">p. 75</span></a></li>
+<li class="l3"><a href="#p-76"><span>§. 1—8.</span> <span class="toc-p">p. 76</span></a></li>
+<li class="l3"><a href="#p-76"><span>§. 9—12.</span> <span class="toc-p">p. 76</span></a></li>
+<li class="l3"><a href="#p-77"><span>§. 12—15.</span> <span class="toc-p">p. 77</span></a></li>
+<li class="l3"><a href="#p-77"><span>§. 15.</span> <span class="toc-p">p. 77</span></a></li>
+<li class="l3"><a href="#p-77"><span>§. 16.</span> <span class="toc-p">p. 77</span></a></li>
+<li class="l3"><a href="#p-77"><span>§. 17—22.</span> <span class="toc-p">p. 77</span></a></li>
+<li class="l3"><a href="#p-77"><span>§. 22—24.</span> <span class="toc-p">p. 77</span></a></li>
+<li class="l3"><a href="#p-77"><span>§. 24—26.</span> <span class="toc-p">p. 77</span></a></li>
+<li class="l3"><a href="#p-78"><span>§. 27—44.</span> <span class="toc-p">p. 78</span></a></li>
+<li class="l3"><a href="#p-78"><span>§. 44—57.</span> <span class="toc-p">p. 78</span></a></li>
+<li class="l3"><a href="#p-79"><span class="toc-e">From the Patent Concerning the Administration of the Starosty Forests in South Prussia, dated Berlin, 25 March 1794.</span><span class="toc-o" lang="de">Aus dem Patent wegen der Bewirthschaftung der starosteilichen Forsten in Südpreussen, d. d. Berlin, 25. März 1794.[103]</span> <span class="toc-p">p. 79</span></a></li>
+<li class="l3"><a href="#p-80"><span>§. 8—10.</span> <span class="toc-p">p. 80</span></a></li>
+<li class="l3"><a href="#p-80"><span>§. 11.</span> <span class="toc-p">p. 80</span></a></li>
+<li class="l3"><a href="#p-80"><span class="toc-e">From the Patent of Notification Concerning the Establishment of the Ecclesiastical and Secular Judicial System in South Prussia, dated 8 May 1793.</span><span class="toc-o" lang="de">Aus dem Notifications-Patent, betreffend die Einrichtung des geistlichen und weltlichen Justizwesens in Südpreussen, d. d. 8. Mai 1793.[104]</span> <span class="toc-p">p. 80</span></a></li>
+<li class="l3"><a href="#p-82"><span class="toc-e">From the Patent of Possession of 26 December 1795 to the Estates and Inhabitants of the former Polish Voivodeships, etc.</span><span class="toc-o" lang="de">Aus dem Besitznahme-Patent vom 26. Dezember 1795 an die Stände und Einwohner der bisherigen polnischen Woywodschaften etc.[105]</span> <span class="toc-p">p. 82</span></a></li>
+<li class="l3"><a href="#p-83"><span>Declaration</span> <span class="toc-p">p. 83</span></a></li>
+<li class="l3"><a href="#p-87"><span class="toc-e">Instruction for the War and Domains Chambers and for the constituted Domains Organisation Commissions concerning the Confiscation and Administration of the Royal and Ecclesiastical Estates.</span><span class="toc-o" lang="de">Instruction für die Kriegs- und Domainenkammern und für die constituirten Domainen-Einrichtungskommissionen wegen Einziehung und Verwaltung der Königl. und Geistlichen Güter.</span> <span class="toc-p">p. 87</span></a></li>
+<li class="l3"><a href="#p-88"><span class="toc-e">1. Object of the Confiscation.</span><span class="toc-o" lang="de">1. Gegenstand der Einziehung.</span> <span class="toc-p">p. 88</span></a></li>
+<li class="l3"><a href="#p-89"><span class="toc-e">2. Manner of Administering and Using the Confiscated Estates.</span><span class="toc-o" lang="de">2. Art der Verwaltung und Benutzung der eingezogenen Güter.</span> <span class="toc-p">p. 89</span></a></li>
+<li class="l3"><a href="#p-95"><span class="toc-e">3. Recovery of Lost Landed Properties.</span><span class="toc-o" lang="de">3. Herbeibringung der abgekommenen Grundstücke.</span> <span class="toc-p">p. 95</span></a></li>
+<li class="l3"><a href="#p-95"><span class="toc-e">4. Ascertainment of the Yield of the Confiscated Estates.</span><span class="toc-o" lang="de">4. Ausmittelung des Ertrages der eingezogenen Güter.</span> <span class="toc-p">p. 95</span></a></li>
+<li class="l3"><a href="#p-96"><span class="toc-e">5. Deductions and Determination of the Allowance.</span><span class="toc-o" lang="de">5. Abzüge und Bestimmung der Kompetenz.</span> <span class="toc-p">p. 96</span></a></li>
+<li class="l3"><a href="#p-97"><span class="toc-e">6. How the Allowance is to be Paid.</span><span class="toc-o" lang="de">6. Wie die Kompetenz zu entrichten sei.</span> <span class="toc-p">p. 97</span></a></li>
+<li class="l3"><a href="#p-98"><span class="toc-e">7. Immutability of the Allowance.</span><span class="toc-o" lang="de">7. Unveränderlichkeit der Kompetenz.</span> <span class="toc-p">p. 98</span></a></li>
+<li class="l3"><a href="#p-99"><span class="toc-e">8. Who is to Receive the Allowance.</span><span class="toc-o" lang="de">8. Wer die Kompetenz erhalte.</span> <span class="toc-p">p. 99</span></a></li>
+<li class="l3"><a href="#p-99"><span class="toc-e">9. Duration of the Allowance.</span><span class="toc-o" lang="de">9. Dauer der Kompetenz.</span> <span class="toc-p">p. 99</span></a></li>
+<li class="l3"><a href="#p-100"><span class="toc-e">10. Procedure in Carrying Out the Operation.</span><span class="toc-o" lang="de">10. Verfahren bei Ausführung der Operation.</span> <span class="toc-p">p. 100</span></a></li>
+<li class="l2"><a href="#p-103"><span class="toc-e">The German Colonisations in the Grand Duchy of Posen</span><span class="toc-o" lang="de">Die deutschen Kolonisationen im Grossherzogthume Posen</span> <span class="toc-p">p. 103</span></a></li>
+<li class="l3"><a href="#p-105"><span class="toc-e">Colonisations of the Nobility and the Great Landowners.</span><span class="toc-o" lang="de">Kolonisationen des Adels und der grossen Grundbesitzer.</span> <span class="toc-p">p. 105</span></a></li>
+<li class="l3"><a href="#p-105"><span class="toc-e">Editor&#x27;s Introduction.</span><span class="toc-o" lang="de">Einleitung des Herausgebers.</span> <span class="toc-p">p. 105</span></a></li>
+<li class="l3"><a href="#p-140"><span class="toc-e">I. In the Department of the Chamber at Posen</span><span class="toc-o" lang="de">I. Im Departement der Kammer zu Posen[129]</span> <span class="toc-p">p. 140</span></a></li>
+<li class="l3"><a href="#p-156"><span class="toc-e">II. In the Department of the Chamber at Kalisch.</span><span class="toc-o" lang="de">II. Im Departement der Kammer zu Kalisch.</span> <span class="toc-p">p. 156</span></a></li>
+<li class="l3"><a href="#p-166"><span class="toc-e">III. In the Department of the Chamber at Warsaw.</span><span class="toc-o" lang="de">III. Im Departement der Kammer zu Warschau.</span> <span class="toc-p">p. 166</span></a></li>
+<li class="l3"><a href="#p-175"><span class="toc-e">Held&#x27;s Judgment on the Poles.</span><span class="toc-o" lang="de">Held&#x27;s Urtheil über die Polen.</span> <span class="toc-p">p. 175</span></a></li>
+<li class="l3"><a href="#p-178"><span class="toc-e">II. Colonizations of Peasants and Craftsmen.</span><span class="toc-o" lang="de">II. Kolonisationen der Bauern und Handwerker.</span> <span class="toc-p">p. 178</span></a></li>
+<li class="l3"><a href="#p-185"><span class="toc-e">In the Netze District</span><span class="toc-o" lang="de">Im Netzdistrikt</span> <span class="toc-p">p. 185</span></a></li>
+<li class="l3"><a href="#p-186"><span class="toc-e">In the Bromberg Department</span><span class="toc-o" lang="de">Im Bromberger Departement</span> <span class="toc-p">p. 186</span></a></li>
+<li class="l3"><a href="#p-187"><span class="toc-e">In South Prussia, namely in the Posen Department</span><span class="toc-o" lang="de">In Südpreussen, namentlich im Posner Departement</span> <span class="toc-p">p. 187</span></a></li>
+<li class="l3"><a href="#p-190"><span class="toc-e">In the Province of West Prussia</span><span class="toc-o" lang="de">In der Provinz Westpreussen</span> <span class="toc-p">p. 190</span></a></li>
+<li class="l3"><a href="#p-190"><span class="toc-e">In the Province of New East Prussia</span><span class="toc-o" lang="de">In der Provinz Neu-Ostpreussen</span> <span class="toc-p">p. 190</span></a></li>
+<li class="l3"><a href="#p-201"><span class="toc-e">III. Colonizations of the German Officials and Notaries.</span><span class="toc-o" lang="de">III. Kolonisationen der deutschen Beamten und Notare.</span> <span class="toc-p">p. 201</span></a></li>
+<li class="l3"><a href="#p-201"><span class="toc-e">The Officialdom.</span><span class="toc-o" lang="de">Das Beamtenthum.</span> <span class="toc-p">p. 201</span></a></li>
+<li class="l3"><a href="#p-205"><span class="toc-e">Poland under Frederick II and Frederick William II</span><span class="toc-o" lang="de">Pohlen unter Friedrich II. und Friedrich Wilhelm II.</span> <span class="toc-p">p. 205</span></a></li>
+<li class="l3"><a href="#p-216"><span class="toc-e">Various voices concerning the South Prussian officials.</span><span class="toc-o" lang="de">Verschiedene Stimmen über die südpreussischen Beamten.</span> <span class="toc-p">p. 216</span></a></li>
+<li class="l2"><a href="#p-232"><span class="toc-e">Supplements.</span><span class="toc-o" lang="de">Nachträge.</span> <span class="toc-p">p. 232</span></a></li>
+<li class="l3"><a href="#p-232"><span>I.</span> <span class="toc-p">p. 232</span></a></li>
+<li class="l3"><a href="#p-234"><span>II.</span> <span class="toc-p">p. 234</span></a></li>
+<li class="l2"><a href="#p-notes"><span class="toc-e">Notes</span><span class="toc-o" lang="de">Anmerkungen</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
+<div class="pg"><a href="#p-front">front</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 [Title page]
 
-### Materialien zur Geschichte polnischer Landestheile unter preussischer Verwaltung.
+## Materialien zur Geschichte polnischer Landestheile unter preussischer Verwaltung.
 
 Nach authentischen Quellen und Darstellungen preussischer Beamten und deutscher Geschichtsforscher.
 
@@ -32,7 +130,7 @@ LIBRAIRIE ÉTRANGÈRE.
 
 [Vorwort]
 
-#### Vorwort.
+### Vorwort.
 
 Der vorstehende Titel macht jede längere Vorrede für die folgenden Blätter entbehrlich. Sie bieten keine zusammenhängende Geschichte, sondern eben nur Materialien, einzelne, äusserlich meist unzusammenhängende historische Thatsachen für spätere Bearbeitung. Sie haben indess auch als solche, als *disjecta membra*, selbst in dieser Form ihren Werth; — *facta loquuntur.*
 
@@ -40,7 +138,7 @@ Ein zweites Heft ist zum Drucke vorbereitet.
 
 [Contents]
 
-#### Inhalt.
+### Inhalt.
 
 |  | Seite |
 |---|---:|
@@ -59,7 +157,7 @@ Druckfehler: S. 14, Z. 7 v. o. lese: in das französische Kaiserreich, statt: in
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Materials for the History of Polish Territories under Prussian Administration.
+## Materials for the History of Polish Territories under Prussian Administration.
 
 From authentic sources and accounts by Prussian officials and German historians.
 
@@ -71,7 +169,7 @@ LEIPZIG.
 LIBRAIRIE ÉTRANGÈRE.  
 1861.
 
-#### Translator's Note
+### Translator's Note
 
 This is a complete English translation of *Materialien zur Geschichte polnischer  
 Landestheile unter preussischer Verwaltung* ("Materials for the History of Polish  
@@ -108,7 +206,7 @@ free of translator's interventions:
   original printing; the author's parenthetical interjections — (!), (?), (!—) —  
   are his own.
 
-#### Glossary of terms left untranslated
+### Glossary of terms left untranslated
 
 - **Starosty / starosta** — a Polish crown estate held for life (occasionally  
   longer) by its holder, the starosta, in return for a quarter of its revenue.
@@ -131,13 +229,13 @@ free of translator's interventions:
   former holders of confiscated church and crown estates.
 - **The fisc (Fiskus)** — the treasury as a party at law.
 
-#### Preface
+### Preface
 
 The foregoing title makes any longer preface to the following pages unnecessary. They offer no connected history, but merely materials — single historical facts, for the most part outwardly unconnected — for later treatment. Yet even as such, as *disjecta membra*, they have their value even in this form; — *facta loquuntur.*
 
 A second part is prepared for the press.
 
-#### Contents
+### Contents
 
 |  | Page |
 |---|---:|
@@ -154,15 +252,13 @@ A second part is prepared for the press.
 Erratum: p. 14, l. 7 from the top, read: into the French Empire, instead of: into the French Republic.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1">p. 1</a></h2>
+<section class="lit-passage" id="p-1" data-page="1">
+<div class="pg" id="p1"><a href="#p1">p. 1</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Die deutschen Kolonisationen im Grossherzogthume Posen
+### Die deutschen Kolonisationen im Grossherzogthume Posen
 
 von der ältesten Zeit bis zur ersten Theilung Polens 1772.
 
@@ -175,7 +271,7 @@ Kein Wunder daher, dass wir deutsche Niederlassungen schon in ältesten Zeiten a
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### The German Colonizations in the Grand Duchy of Posen from the earliest times to the first partition of Poland 1772
+### The German Colonizations in the Grand Duchy of Posen from the earliest times to the first partition of Poland 1772
 
 The admonition "*stay in the land and support yourself honestly*" seems not to have been devised by Germans. Our emigrations show that at all times we have sought to support ourselves in foreign lands. Whoever takes into consideration the German settlements in Holland and Hungary, in European and Asiatic Russia, in America and at the Cape, in New Holland and on the Mosquito Coast — in short, in the most diverse regions of the globe — must concede that the German *bears* within himself a particular desire, an urge, nay that he regards it as his calling, as his mission, to make himself at home everywhere, under the most alien circumstances. It is the German above all who sings *ubi bene, ibi patria!*
 
@@ -184,12 +280,10 @@ Old *Sebastian Frank* derives the name Germania from *germino* and says: "There 
 No wonder, then, that we find German settlements even in the oldest times in the formerly Polish territories as well. Germany has ever been the breeding-nest of population for all the world. It reared, as in the most recent times, so already in earlier centuries, even princes and princesses for foreign thrones. Thus German princesses married Polish dukes of the house of the *Piasts*, and German colonists went early to Lower Silesia, German Cistercians to *Paradies, Blesen, Obra* etc.; German families moved into Polish towns and received Saxon or Magdeburg law. This was the time of the *first* German settlements in Poland.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2">p. 2</a></h2>
+<section class="lit-passage" id="p-2" data-page="2">
+<div class="pg" id="p2"><a href="#p2">p. 2</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Diese, so wie die auch während der folgenden Periode der *Jagellonen* eingewanderten Deutschen gingen indess so unbeschwert und unbemerkt in die polnische Nationalität auf, dass die deutschen Familien der damaligen Zeit, z. B. *Schepel, Wilde, Struth, Raschke, Winkler, Unger, Pestel, Bedermann, Hape, Treter, Halt, Spor* u. v. a. durch und durch Polen wurden.
@@ -204,12 +298,10 @@ These Germans, however, like those who also immigrated during the following peri
 The *third period* of German immigrations into Great Poland, or into the present Grand Duchy of Posen, fell in the time of the Reformation. In troops the Germans, persecuted for their religious views, immigrated from Silesia, Bohemia, and Moravia into Great Poland and found hospitable reception here. Poland had then, and even earlier, far outstripped the most civilized states of Europe in religious toleration. While in France Molai and Joan of Arc died at the stake, while St Bartholomew's Night and the wars of religion consigned hundreds of thousands to death, — while in Spain the religious terrorism of Philip, — in the Netherlands the fanatical hangman's-men of Alba, — in England the bloody reign of the Catholic Mary slaughtered countless human victims, — while Germany burned its Huss, and even, a hundred years afterward, the bones of Wiclef, who had died in 1384, — while centuries later still it tore itself to pieces in the bloodiest wars of religion, — in Poland *Casimir the Great* had already in 1356 given the *Statute of Toleration* for every faith, and had opened Poland as an asylum to which everything fled that in all the then civilized world was given over to persecution and death.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3">p. 3</a></h2>
+<section class="lit-passage" id="p-3" data-page="3">
+<div class="pg" id="p3"><a href="#p3">p. 3</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Der vornehme Pole", sagt selbst der deutsche Biograph Friedrichs d. Gr.,[1] „ist kein unduldsamer Katholik; ja, es muss eben hier mit ehrenhafter Auszeichnung hervorgehoben werden, dass im Reformations-Jahrhunderte, wo in andern katholischen Ländern die Inquisition mordete, wo auf Calvins Betrieb der spanische Arzt *Michael Servede* 1553 in Genf verbrannt wurde, in Bern 1556 der Neapolitaner *Valentin Gentilis* unter dem Henkerbeil fiel, wo *Melanchton, Beza* u. a. Evangelische für die Todesstrafe der Ketzer stimmten und überall die Freiheit der spanischen, italienischen und andrer Freidenker gefährdet war, — in Polen allein die Freistätte für Socinianer und Evangelische zu finden war. Ja, der unvergessliche Edelsinn ging so weit, dass man den Dissidenten, d. h. Nichtrömisch-Katholischen 1573 auf dem Reichstage in Wilna *gleiche* Rechte mit den übrigen Einwohnern gewährte. Kein Volk in der Welt konnte sich damals, und lange nachher einer solchen christlichen Hochherzigkeit rühmen." Erst seit den schwedischen Kriegen machten die Jesuiten die kirchlichen Dissidenten zu einer politischen Partei, und schürten die Funken zu lodernden Flammen.
@@ -228,12 +320,10 @@ Thus arose and multiplied the German population in the towns of *Schmiegel, Pose
 True, Herr Naval Councillor *Jordan* rose, in the Paulskirche at Frankfurt, "*to the necessary world-historical standpoint from which the Posen affair is to be examined*" — and perorated "*with the desired historical criticism*":
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-4">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-4">p. 4</a></h2>
+<section class="lit-passage" id="p-4" data-page="4">
+<div class="pg" id="p4"><a href="#p4">p. 4</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „die Westkreise Birnbaum, Meseritz, Bomst, Fraustadt *sind seit undenklicher Zeit, wie Sie schon aus dem Namen dieser Städte entnehmen können, in der überwiegenden Mehrheit ihrer Bewohner deutsch gewesen;* [2] —
@@ -256,12 +346,10 @@ And yet Herr *Wilhelm Jordan*, from his "*necessary* standpoint," and "with the 
 What an argument, by analogy, must he and the Frankfurt Chamber of Reunion have had against *Copenhagen* in the mere wording, the very sound of the name, had they risen, before the glorious armistice of Malmö, to that "*necessary*" standpoint and to that "*desired*" criticism, since this city, "as
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-5">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-5">p. 5</a></h2>
+<section class="lit-passage" id="p-5" data-page="5">
+<div class="pg" id="p5"><a href="#p5">p. 5</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 man schon aus dem Namen entnehmen kann," seit undenklicher Zeit deutsch ist. —
@@ -284,12 +372,10 @@ But woe to the Frankfurt historical criticism if one day French and Russians sho
 How magnanimously the Germans were received by the Poles even in later times is attested, among other things, by the following Imperial-Royal Court Decree to Count *Andreas Zamoyski*:<sup class="lit-fn"><a href="#n-en-4">4</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-6">p. 6</a></h2>
+<section class="lit-passage" id="p-6" data-page="6">
+<div class="pg" id="p6"><a href="#p6">p. 6</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Nachdem der Zamoscer Herr Ordinat von Zamoyski durch die auf seinem Ordinatsdominium *ganz freiwillig übernommene Dotirung von 80 deutschen Ansiedlerfamilien* seinen patriotischen Eifer in Befolgung der Allerhöchsten Gesinnungen zu Sr. Majestät vollkommensten Zufriedenheit an den Tag gelegt hat, so ist auf Sr. Majestät Befehl dieses patriotische Benehmen des Herrn Grafen Zamoyski durch ein gedrucktes Kreisschreiben bekannt zu machen und anzurühmen.“
@@ -308,12 +394,10 @@ In particular the owners of far-extended lordships, as well as the usufructuary 
 These *Hauländer* were, from the similarity of the sound of the name, erroneously also called *Holländer*. But they were neither Hollanders, nor did they found Holländereien in the proper sense. Even later, Frederick the Great's fancy of this kind could not be fulfilled — to supply Berlin and Warsaw with butter from the so-called Holländereien here <sup class="lit-fn"><a href="#n-en-5">5</a></sup>. On the cleared forest soil they founded chiefly arable farms. Their condition belonged among the better of the rural inhabitants. They had small farmsteads, mostly in considerable numbers side by side; buildings and stock were their own, in part also the ground and soil; in part they sat on lease and belonged to the category of the emphyteutic tenants. Their husbandry, however, was not always the most exemplary; in particular the devastation of the forests by fire, and the so-called girdling of the trees, is laid to their charge — a devastation against which all the travellers and writers of that day unanimously declared themselves <sup class="lit-fn"><a href="#n-en-6">6</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-7">p. 7</a></h2>
+<section class="lit-passage" id="p-7" data-page="7">
+<div class="pg" id="p7"><a href="#p7">p. 7</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es ist indess irrig und gehässig, die deutschen Kolonisten mit den Negern zu vergleichen, die noch im zehnten Geschlecht ihre schwarze Haut bewahren. Im Gegentheil die Haut der Deutschen ist politisch und national elastischer, und nimmt fast allemal und überall leicht jede Farbe an. Die meisten Kolonisten auch dieser Periode waren daher wahre Polen geworden, obwol Polen *deutschen Ursprunges.* Die eingewanderten Deutschen *Morsztyn, Bonar, Kromer, Hosius, Plater, Unrug (Unruh), Kalkstein, Biberstein, Wolszlegier, Götzendorf, (Grabowski), Waldorf (Wolicki), Pac, Szauman, Szuman, Wierusz, Szulz* u. v. a. stehen denen der polnischen Autochtonen mit Erinnerungen aller patriotischen Tugenden und national-polnischen Volksthümlichkeiten ebenbürtig zur Seite.
@@ -328,12 +412,10 @@ It is, however, erroneous and spiteful to compare the German colonists with the 
 How thoroughly the Germans Polonized themselves, and how actively they also took part in the insurrectionary war of 1792, is proved, among many other things, by the fact that a German magnate, at his *own cost, voluntarily fitted out 12 cannon* for the insurrectionary army. This was the German magnate — **v. Manteuffel.**<sup class="lit-fn"><a href="#n-en-7">7</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-8">p. 8</a></h2>
+<section class="lit-passage" id="p-8" data-page="8">
+<div class="pg" id="p8"><a href="#p8">p. 8</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Unter den in Warschau im Jahre 1831 hingerichteten Insurgenten war die Mehrzahl derselben solche *Polen deutscher Abkunft*.
@@ -364,12 +446,10 @@ then so brazen a falsification of manifest history, which asserts "*a German gov
 Let us, however, consider more closely the conditions in
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-9">p. 9</a></h2>
+<section class="lit-passage" id="p-9" data-page="9">
+<div class="pg" id="p9"><a href="#p9">p. 9</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 denen die deutschen Einwanderer bisher unter den Polen, unter polnischer Regierung gelebt haben.
@@ -392,12 +472,10 @@ But it had not occurred to the Poles to restrict the German inhabitants in their
 In the town of *Posen*, burgomasters of German descent are mentioned in the year 1284. In *Rawicz* a Saxon
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-10">p. 10</a></h2>
+<section class="lit-passage" id="p-10" data-page="10">
+<div class="pg" id="p10"><a href="#p10">p. 10</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und ein magdeburgisches Recht angeschafft, damit die verschiedenen Einwohner die Gesetze ihrer Herkunft haben. In *Barczyn* bestand der Rath zur Hälfte aus Polen, zur Hälfte aus Deutschen. Im Stadtarchiv zu Posen sind noch Kriminal-Acten aus dem 16. Jahrhundert vorhanden, die in deutscher Sprache geführt wurden.
@@ -420,12 +498,10 @@ The history of the Jews in *Germany* is, like that in *Spain, France, England,* 
 To whom, knowing even in some measure the history of the sufferings
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-11">p. 11</a></h2>
+<section class="lit-passage" id="p-11" data-page="11">
+<div class="pg" id="p11"><a href="#p11">p. 11</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der Juden kennt, wären die Greuel unbekannt geblieben, die wiederholentlich in Prag an ihnen verübt wurden! Als den Peter von Amiens, den Walter von Habenichts und später den *heiligen* Bernhard der fanatische Einfall überkam, die Feinde Christi vor allererst in der Heimath auszurotten, war es nicht ganz Deutschland, Bayern, Franken, Schwaben, Sachsen, Böhmen, Oestreich, das in frommer Bestialität die Länder vom Rhein bis zur Oder mit einem Blutmeer erschlagener Juden überschwemmte? — Wo mehr als in Deutschland gaben angeblich entweihte Hostien, Kinderraub, Epidemien Vorwand zu den grausamsten Judenverfolgungen? Wo mehr als in Deutschland gab es jene verrotteten *Judengassen*? — Und nicht genug die *Lebenden* zu bedrücken, bedrückte man auch noch die *Leichen* der Juden. Kam eine Judenleiche in der Mark Brandenburg auf dem Wege zum Grabe an einer Zollstätte vorbei, so musste sie verzollt werden, und „der Zoll einer Judenleiche war hoch.“[9] — Deutschland war es, wo noch in unsern Jahren das „*Hephep*“ die Blutparole gegen die Juden war. Ja, in einem deutschen Landestheile, in der Grafschaft *Wittgenstein*, in dem preussischen Regierungsbezirk Arnsberg, waren die Juden bis zu den denkwürdigen Märztagen des Jahres 1848 noch **gesetzlich** — — **vogelfrei!** —[10]
@@ -440,12 +516,10 @@ of the Jews, could the horrors have remained unknown that were repeatedly perpet
 Such was the position of the Jews in *Germany*. Otherwise in *Poland*.<sup class="lit-fn"><a href="#n-en-11">11</a></sup> While in Germany no complaint of a Jew was accepted if it did not concern him
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-12">p. 12</a></h2>
+<section class="lit-passage" id="p-12" data-page="12">
+<div class="pg" id="p12"><a href="#p12">p. 12</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 betraf, konnte in Polen dagegen ein Jude nicht anders, als auf ausdrückliches Verlangen eines Klägers vor Gericht gestellt werden. Und nur der König oder der Wojewode konnte über ihn Recht sprechen, keinen anderen Richter brauchte er anzuerkennen, während er in Deutschland vor dem Stadtrichter gestellt wurde. In Polen konnte er sich von der gegen ihn erhobenen Anschuldigung durch einen Eid reinigen, in Deutschland konnte dies zwar der Christ, nicht aber der Jude. Den Mord eines Juden richtete in Polen allein der König, in Deutschland richtete der Voigt darüber. Wurde ein Jude eines Verbrechens beschuldigt, so musste es durch das Zeugniss dreier Christen und dreier Juden bewiesen werden, in Deutschland brauchte der Christ dazu nur einen Christen und einen Juden. Die Zolleinnehmer durften einen Juden, der über die Grenze reisete, nicht visitiren, wenn er den Leichnam eines verstorbenen Glaubensgenossen mit sich führte, um ihn zu beerdigen; in Deutschland mussten die Leichen versteuert werden. Die Entweihung eines jüdischen Kirchhofs oder einer Synagoge wurde als Kirchenraub bestraft. — Das Gesetz verbot, die Juden zu verläumden, oder den Argwohn zu verbreiten, dass sie Christenblut zu abergläubischen Ceremonien gebrauchen. In Deutschland hatten die Juden eben wegen dieses Wahns viel zu leiden, und es macht den polnischen Fürsten Ehre, dass sie in diesem Punkte viel heller sahen, als die deutschen.[12]
@@ -456,12 +530,10 @@ betraf, konnte in Polen dagegen ein Jude nicht anders, als auf ausdrückliches V
 personally, in Poland, on the contrary, a Jew could not be brought before a court otherwise than upon the express demand of a plaintiff. And only the King or the voivode could pronounce judgment over him; no other judge needed he to acknowledge, whereas in Germany he was brought before the town judge. In Poland he could clear himself of an accusation raised against him by an oath; in Germany the Christian indeed could do this, but not the Jew. The murder of a Jew was judged in Poland by the King alone; in Germany the bailiff judged it. If a Jew was accused of a crime, it had to be proved by the testimony of three Christians and three Jews; in Germany the Christian needed for this only one Christian and one Jew. The toll-collectors were not permitted to search a Jew travelling across the frontier if he carried with him the corpse of a deceased fellow-believer in order to bury it; in Germany the corpses had to pay duty. The desecration of a Jewish churchyard or of a synagogue was punished as church-robbery. — The law forbade slandering the Jews, or spreading the suspicion that they use Christian blood for superstitious ceremonies. In Germany the Jews had much to suffer precisely on account of this delusion, and it does honour to the Polish princes that on this point they saw much more clearly than the German.<sup class="lit-fn"><a href="#n-en-12">12</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-13">p. 13</a></h2>
+<section class="lit-passage" id="p-13" data-page="13">
+<div class="pg" id="p13"><a href="#p13">p. 13</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 So haben die Polen selbst in den finstersten Zeiten der rohen Gewalt, in den verrufensten Jahren der Republik gegen Fremdlinge, die sie aufgenommen, gedacht und gehandelt, obwol sie das Recht gehabt hätten, zu fordern, dass sie sich den Sitten und Gesetzen, der Sprache des Landes zu fügen hätten. Die Deutschen waren bei den Polen gleich vor dem Gesetz, hatten unbeschränktes Besitzrecht, freien Gebrauch ihrer Sprache in Schule und Kirche, und Schutz ihrer Nationalität. Das Recht des Eroberers hatten und wollten sie nicht, am allerwenigsten hatten und wollten sie das Recht, die Eingebornen zu verdrängen. Um so weniger dürfen daher ihre Nachkommen im dritten, vierten und noch späteren Geschlechte ein solches Recht für sich in Anspruch nehmen, ohne die undankbarste, unbegründetste Anmassung darzuthun, ohne auf die rohe Gewalt der Bajonette, auf den willfährigen Beistand eines Beamtenthums zu pochen,
@@ -472,12 +544,10 @@ So haben die Polen selbst in den finstersten Zeiten der rohen Gewalt, in den ver
 Thus did the Poles, even in the darkest times of brute force, in the most ill-famed years of the Republic, think and act toward the strangers whom they had received, although they would have had the right to demand that these conform themselves to the customs and laws, to the language of the land. The Germans were equal before the law among the Poles, had unrestricted right of possession, free use of their language in school and church, and protection of their nationality. The right of the conqueror they neither had nor wanted; least of all had they, or wanted they, the right to displace the natives. So much the less, therefore, may their descendants in the third, fourth, and still later generations claim such a right for themselves, without displaying the most ungrateful, most groundless presumption, without relying upon the brute force of bayonets, upon the compliant assistance of an officialdom
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-14">p. 14</a></h2>
+<section class="lit-passage" id="p-14" data-page="14">
+<div class="pg" id="p14"><a href="#p14">p. 14</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 das von nationaler Parteisucht geleitet, nur sein eigenstes Partei-Interesse wahrnimmt. Die Deutschen, deren Väter vor 1772 nach Polen kamen, sind *Polen deutscher Abkunft.*
@@ -508,12 +578,10 @@ Let it be permitted, however, to adduce already here, from this later, more rece
 In *Leonhardi's* "Erdbeschreibung der preussischen Monarchie," pt. 1, Halle 1791, one finds here and there the number of the population in individual towns stated according to nationality. We here bring together in one view the most important of the scattered statements. There were
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-15">p. 15</a></h2>
+<section class="lit-passage" id="p-15" data-page="15">
+<div class="pg" id="p15"><a href="#p15">p. 15</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ---
@@ -588,19 +656,17 @@ The columns "Germans" and "Jews" stand under the common heading "of which".
 | Zempelburg | 1628 S. | 651 S. | 581 S. |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-16">p. 16</a></h2>
+<section class="lit-passage" id="p-16" data-page="16">
+<div class="pg" id="p16"><a href="#p16">p. 16</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Vorgänge bis zur ersten Theilung Polens 1772.
+### Vorgänge bis zur ersten Theilung Polens 1772.
 
 ---
 
-##### Friedrich als Beschützer der *republikanischen* Freiheit und des Liberum Veto.
+#### Friedrich als Beschützer der *republikanischen* Freiheit und des Liberum Veto.
 
 Polen war eben im Begriff den Weg zu betreten, auf welchem die versäumte Gesammtbildung nachgeholt und der Unfug des *Wahlreichs* in die Ordnung *einer Erbmonarchie* umgewandelt werden sollte. Aber eine solche Erhebung aus der Ohnmacht schien der Moskowiterin Katharina und dem Könige von Preussen wider Gesetz und Recht; der Kaiserin, weil sie hier mit richtigem Instinct für ihre Raubsucht die reichste Befriedigung sah, — dem Könige, weil er die Nothwendigkeit des Besitzes des untern Weichselgebietes als Verbindungsglied seiner Provinzen erkannte.
 
@@ -611,9 +677,9 @@ Daher enthielt auch schon das gleich nach dem Ende des siebenjährigen Krieges z
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Events down to the First Partition of Poland 1772.
+### Events down to the First Partition of Poland 1772.
 
-##### Frederick as Protector of *Republican* Liberty and of the Liberum Veto.
+#### Frederick as Protector of *Republican* Liberty and of the Liberum Veto.
 
 Poland was just about to enter upon the path by which the neglected general development was to be made good, and the mischief of the *elective kingdom* transformed into the order of *a hereditary monarchy*. But such a rising out of impotence seemed to the Muscovite Catherine and to the King of Prussia contrary to law and right; to the Empress, because here, with a true instinct for her rapacity, she saw the richest satisfaction, — to the King, because he recognized the necessity of possessing the lower Vistula region as the connecting link of his provinces.
 
@@ -622,12 +688,10 @@ Hence the alliance concluded between Frederick and Catherine immediately after t
 "In consideration that it is in the common interest of Their Majesties the King of Prussia and the Autocrat of All the Russias that the election to the Polish crown remain *free*, and that no family possess itself of the *hereditary* throne of this country, the said Majesties mutually bind themselves, in the most solemn manner, by this secret article, never to permit *that the Republic be robbed of its free right of election.* They likewise bind themselves to combat, by all the means at their command, the design of establishing a *hereditary* throne in this country, to repel by force every undertaking of this kind, and to act in concert in order to preserve the constitution and the fundamental laws of the Polish Republic."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-17">p. 17</a></h2>
+<section class="lit-passage" id="p-17" data-page="17">
+<div class="pg" id="p17"><a href="#p17">p. 17</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 In diesem Sinne informirte auch Friedrich seinen Gesandten an einem fremden Hofe am 22. November 1766:[16]
@@ -642,19 +706,17 @@ In this sense Frederick also informed his envoy at a foreign court on 22 Novembe
 "As concerns Polish affairs, I must hereby make known to you, for your *information* and *direction*, that the present Diet at Warsaw is drawing to its close, and that little has as yet been accomplished at it; but that it has therein come to light that the Polish court had the *design* of profiting by the opportunity of this *Confederation Diet* — at which kind the resolutions are framed according to the majority of votes — and would surprise the *Republic*, in order wholly to abolish the so-called *Liberum veto* at the Diets, and to introduce, in place of the *unanimity* of the votes, the *plurality* of them, and thus to alter the hitherto existing *form of government* of the *Republic*, and to change that which at all times has constituted the foundation of Polish liberty. Both the Russian Empress and I have therefore, by virtue of the *guarantee* of the Polish constitution incumbent upon us, had to see to it that so injurious a *design* be interrupted; wherefore we have caused the requisite *declarations* to be made through our *ministers* at Warsaw to the assembled *Diet*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-18">p. 18</a></h2>
+<section class="lit-passage" id="p-18" data-page="18">
+<div class="pg" id="p18"><a href="#p18">p. 18</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *solenniter* thun lassen, auf dass die *Republique*, bei ihren *Constitutionen* und dem *Liberum veto* gelassen werden müssen. Um aber auch solchen *Declarationen* den mehrern Nachdruck zu geben, hat der Russischen Kaiserin Majestät vor gut und nöthig gefunden, einige von ihren Truppen (30,000 Mann) annoch in Pohlen einrücken zu lassen, bloss in der Absicht, die gegen die Freiheit der *Republique* übelgesinnten Pohlen dadurch in Ordnung zu halten, die wohl intentionirten aber nöthigenfalls zu secondiren, und nicht unterdrücken zu lassen." etc. etc.
 
 ---
 
-##### Das sogenannte *Lynar'sche Project* zur Theilung Polens.
+#### Das sogenannte *Lynar'sche Project* zur Theilung Polens.
 
 Inzwischen hatte der Einfluss Katharina's in der Türkei und Polen die Schalen des europäischen Gleichgewichts bedrohlich in's Schwanken gebracht, und Friedrich erinnerte sich jetzt der Worte, die sein Gesandter, v. Solms, in Petersburg in einer Unterredung mit Panin am 29. December 1763 von demselben vernommen.
 
@@ -667,19 +729,17 @@ Inzwischen hatte der Einfluss Katharina's in der Türkei und Polen die Schalen d
 
 ---
 
-##### The So-called *Lynar Project* for the Partition of Poland.
+#### The So-called *Lynar Project* for the Partition of Poland.
 
 Meanwhile Catherine's influence in Turkey and Poland had set the scales of the European balance swaying alarmingly, and Frederick now remembered the words which his envoy, v. Solms, had heard from Panin in Petersburg in a conversation on 29 December 1763.
 
 "*He added further,* reported *Solms* at the time, *that Your Majesty would have no cause to regret having entered into engagements with his court, because, if against all expectation things should come to a great extremity, he vouched to me that Y. M. would have Your pains repaid as well as Russia, and that one would not have laboured for nothing. It is an affair, said he, which I have arranged in advance, but*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-19">p. 19</a></h2>
+<section class="lit-passage" id="p-19" data-page="19">
+<div class="pg" id="p19"><a href="#p19">p. 19</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *que je ne peux expliquer que quand les choses seront plus avancées.*“ [17]
@@ -702,12 +762,10 @@ To this was added what five years before had not been taken into consideration. 
 *"Count Lynar has come to Berlin to marry his daughter to the son of Count Kameke. He is the same who concluded the peace of Kloster-Zeven. He is a great politician and still governs Europe from the depths of the village to which he has retired. Count Lynar has had a rather singular idea*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-20">p. 20</a></h2>
+<section class="lit-passage" id="p-20" data-page="20">
+<div class="pg" id="p20"><a href="#p20">p. 20</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *pour réunir tous les intérêts de princes en faveur de la Russie et pour donner tout d'un coup une face différente aux affaires de l'Europe. Il veut que la Russie offre à la cour de Vienne pour son assistance contre les Turcs la ville de Léopold et ses environs, qu'elle nous donne la Prusse Polonaise avec la Warmie et droit de protection sur Danzig et que la Russie pour se dédommager des frais de guerre accroche telle partie de la Pologne qui lui conviendrait et qu'alors n'y ayant aucune jalousie entre l'Autriche et la Prusse ils secourraient la Russie à l'envie les uns des autres contre les Turcs. Ce plan a quelque éclat; il paraît séduisant. J'ai cru devoir vous le communiquer. Vous qui connaissez la façon de penser du comte de Panin, ou vous supprimerez tout ceci, ou vous en ferez l'usage que vous jugerez à-propos, quoiqu'il me semble qu'il s'y trouve plus de brillant que de solide.*“
@@ -726,19 +784,17 @@ When the King, at the opening of this letter, represents the whole plan as a wor
 The *societas leonina* ("a lion's partnership") seemed concluded. But when Solms raised the question how Russia herself intended to hold herself harmless in this division of lands, Panin was naive enough to answer: "*that Russia ought not to claim any share in the partition, seeing that she already possessed far more country than she was in a condition to govern; thus, excepting a few fortified places on the distant frontiers, she ought no longer to think of acquiring provinces.*" <sup class="lit-fn"><a href="#n-en-18">18</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-21">p. 21</a></h2>
+<section class="lit-passage" id="p-21" data-page="21">
+<div class="pg" id="p21"><a href="#p21">p. 21</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Mit dieser Antwort war nichts oder mehr als Alles gesagt. In einem Augenblicke, wo fast ganz Polen von russischen Truppen besetzt war und wo die Kaiserin sogar am Bosphorus festen Fuss fassen wollte, — in einem solchen Augenblicke jede Eroberungspolitik zu verleugnen heisst soviel, als sich über seine Absichten nicht aussprechen wollen, weil man auch ohne fremden Rath und Beistand seine Zwecke werde erreichen können.
 
 ---
 
-##### Prinz Heinrich in Petersburg.
+#### Prinz Heinrich in Petersburg.
 
 Friedrich wurde bedenklich und zurückhaltend, Russland immer mächtiger und dreister, als während des Aufenthalts des Prinzen *Heinrich* am Petersburger Hofe (October 1770 — Januar 1771) hier die Nachricht eintraf, dass Oestreich die Zipser Starosteien besetzt haben.
 
@@ -751,19 +807,17 @@ With this answer nothing, or more than everything, was said. At a moment when al
 
 ---
 
-##### Prince Henry in Petersburg.
+#### Prince Henry in Petersburg.
 
 Frederick grew doubtful and reserved, Russia ever mightier and bolder, when, during the stay of Prince *Henry* at the Petersburg court (October 1770 — January 1771), the news arrived here that Austria had occupied the Zips starosties.
 
 "*But why should not everyone take too?*" — "*In Poland, it seems, one has only to stoop and take,*" — were the well-known passing utterances of the Empress to the Prince, which the latter reported to the King with the remark: "*Though this was but talk in jest, it is certain that it was not for nothing, and I do not doubt that it will be very possible for Y. M. to profit by this occasion.*"<sup class="lit-fn"><a href="#n-en-19">19</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-22">p. 22</a></h2>
+<section class="lit-passage" id="p-22" data-page="22">
+<div class="pg" id="p22"><a href="#p22">p. 22</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Auch *Solms* erstattete ausführlichen Bericht, und in schneller Folge antwortete der König bereits im Januar 1771: „*Ce qu'on nous fait voir vu perspective, l'Ermeland, ne vaut pas la peine de dépenser dix sous pour l'acquérir.*“ — Ferner: *Quant à l'article de prise de possession du douché de Varmie, je m'en suis abstenu, parce que le jeu n'en vaut pas la chandelle. Cette portion est si mince, qu'elle ne récompenserait pas les clameurs qu'elle exciterait; mais la Prusse polonaise en vaudrait la peine, quand même Danzig n'y serait pas compris, car nous aurions la Vistule et la communication libre avec le royaume, ce qui ferait un article important. S'il s'agissait de dépenser de l'argent, cela en vaudrait la peine, et d'en donner même largement. Mais quand on prend des bagatelles avec empressement, cela donne un caractère d'avidité et d'insatiabilité que je ne voudrais pas qu'on m'attribuât plus qu'on ne le fait déjà en Europe.*“
@@ -774,12 +828,10 @@ Auch *Solms* erstattete ausführlichen Bericht, und in schneller Folge antwortet
 *Solms* too rendered a detailed report, and in quick succession the King answered as early as January 1771: "*What is shown us in prospect, the Ermland, is not worth the pains of spending ten sous to acquire it.*" — Further: *As to the article of the taking possession of the duchy of Warmia, I have abstained from it, because the game is not worth the candle. This portion is so slender that it would not repay the clamours it would excite; but Polish Prussia would be worth the pains, even if Danzig were not included in it, for we should have the Vistula and free communication with the kingdom, which would make an important article. If it were a question of spending money, it would be worth the pains, and even of giving it largely. But when one seizes trifles with eagerness, that gives a character of greed and of insatiability which I should not wish to have attributed to me more than is already done in Europe.*"
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-23">p. 23</a></h2>
+<section class="lit-passage" id="p-23" data-page="23">
+<div class="pg" id="p23"><a href="#p23">p. 23</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es gehört daher sicher zu den patriotischen, *fables convenues*, die auch Raumer[20] wiederholt hat, „dass Friedrich sehr erschrak, als ihm sein Bruder Heinrich zuerst jenen Gedanken einer Theilung Polens überbrachte, denn er fühlte richtig, wie viel an Recht, Treu und Glauben auf dem Spiele stand," — zu denselben Fabeln, die auch Maria Theresien rührend sentimentale Aeusserungen in den Mund legen, als ihr der Vorschlag zur Theilung Polens gemacht wurde.
@@ -788,7 +840,7 @@ Dass Friedrich schon sehr früh und sehr ernstlich an eine Theilung Polens gedac
 
 ---
 
-##### Friedrichs geheime Vorbereitungen zur Besitznahme Westpreussens und des Netzdistrikts.
+#### Friedrichs geheime Vorbereitungen zur Besitznahme Westpreussens und des Netzdistrikts.
 
 Kab.-Ordre an den geschäftskundigen Kammer-Präsidenten v. Domhardt[21] d. d. Potsdam den 22. October 1769.[22]
 
@@ -803,19 +855,17 @@ That Frederick thought of a partition of Poland very early and very much in earn
 
 ---
 
-##### Frederick's Secret Preparations for Taking Possession of West Prussia and the Netze District.
+#### Frederick's Secret Preparations for Taking Possession of West Prussia and the Netze District.
 
 Cabinet order to the well-versed Chamber President v. Domhardt<sup class="lit-fn"><a href="#n-en-21">21</a></sup>, dated Potsdam, 22 October 1769.<sup class="lit-fn"><a href="#n-en-22">22</a></sup>
 
 "Especially trusty and well-beloved. I have received the intelligence on the Bishopric of Ermland and the *Marienburg* territory that you sent Me with your report of the 16th of this month, and although I can make no use of it at present
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-24">p. 24</a></h2>
+<section class="lit-passage" id="p-24" data-page="24">
+<div class="pg" id="p24"><a href="#p24">p. 24</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 keinen Gebrauch machen kann, Euch gleichwohl vor Eure Mir dadurch bewiesene Attention hierdurch danken wollen“ etc. etc.
@@ -846,12 +896,10 @@ After the revenue and population of the Marienburg and Culm territories, of Pome
 The *noble* estates will be put on the same footing as the *contribution* in the part I presently possess. Likewise, as regards the starosties and the bishopric, I shall take the estates and shall lease them on the footing of *domains*, and one must then agree upon a certain sum to be paid to the bishop and the *canons* monthly or *quarterly*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-25">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-25">p. 25</a></h2>
+<section class="lit-passage" id="p-25" data-page="25">
+<div class="pg" id="p25"><a href="#p25">p. 25</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 darauf getzahlet werden, wegen den Starosteien, wird es so gehalten, dass Man sich mit die *Starosten* auf eine gewisse Sume verstehet, die Man ihnen gibt bis Sie andere Starosteien Empfangen, gedoch müssen Sie Solche im lande vetzehren bei verlust wegen der *Haupt*arangemens So mus Ermelandt zum Königsbergischen Kammer geschlagen werden und dahr ein *par* Krigraht *agumentir*et werden, den Mus eine *Deputacion* in Marienwerder oder *Dir*schau oder *Culm* Etabliret werden von Directer und Einigen *Rä*then, umb das neue Stück zu *Respicir*en aber diese Kamern alle müssen mit der Königsbergischen *Combinir*et werden, landt *Rä*the müssen gleichwohl errichtet werden, wegen der justitz mus in Marienwerder oder in Marienburg ein justitz *Collegium* Errichtet werden, was die Stähte angehet mus die *Accise* *Introdicir*et werden, aber mit aller Behutsamkeit umb das *Commerce* nicht zu hindern gedoch mit aller Sorgfalt den *Debit* der Manufacturen zu befördern.
@@ -882,12 +930,10 @@ for the *artillery* 1000 men
 = 6600 men \|
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-26">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-26">p. 26</a></h2>
+<section class="lit-passage" id="p-26" data-page="26">
+<div class="pg" id="p26"><a href="#p26">p. 26</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und wen es Krieg ist 6000 *artillerie* Knechte nunmehr rechne ich auf das Stück *preussen* mit *Danzich* 500,000 sollen also 250,000 Manbahre So Macht was Soldatte wirdt 3 *procent* in Friedens Zeiten, welches nicht zu vihl ist.
@@ -946,12 +992,10 @@ Potsdam, 3 February 1772.<sup class="lit-fn"><a href="#n-en-26">26</a></sup>
 "Trusty and well-beloved. I can now tell you in confidence that the *acquisition*, already known to you, of what has hitherto been Polish Prussia (*excluding* the city of Danzig and its *territory*, and also *Thorn*) and of the tract on the Netze, has already reached such complete certainty that I can count on it with confidence. In order to be reasonably assured, upon taking possession, of the revenue and how high it may amount to, you are — however avoiding all *éclat* — to take the greatest pains to inform yourself as fully as possible, *au fait*, of the *revenues* of this *acquisition*, if it is administered on the footing customary in My provinces" etc. etc.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-27">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-27">p. 27</a></h2>
+<section class="lit-passage" id="p-27" data-page="27">
+<div class="pg" id="p27"><a href="#p27">p. 27</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Potsdam, den 20. Februar 1772.[27]
@@ -968,12 +1012,10 @@ Potsdam, 20 February 1772.<sup class="lit-fn"><a href="#n-en-27">27</a></sup>
 etc. etc.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-28">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-28">p. 28</a></h2>
+<section class="lit-passage" id="p-28" data-page="28">
+<div class="pg" id="p28"><a href="#p28">p. 28</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Potsdam, den 2. Martii 1772.[29]
@@ -992,12 +1034,10 @@ Potsdam, 2 March 1772.<sup class="lit-fn"><a href="#n-en-29">29</a></sup>
 All the starosties are being *administered*, in order to ascertain their actual revenue, and to have them properly leased out from *Trinity* 1773. The subjects are being *declared* free, and serfdom abolished.<sup class="lit-fn"><a href="#n-en-30">30</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-29">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-29">p. 29</a></h2>
+<section class="lit-passage" id="p-29" data-page="29">
+<div class="pg" id="p29"><a href="#p29">p. 29</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Potsdam, den 19. April 1772.[31]
@@ -1020,12 +1060,10 @@ Meanwhile the diplomatic negotiations too had steadily progressed. As early as 2
 *"I have thought it proper to communicate to you the particulars that have reached me concerning the taking of possession that the Austrians have carried out along the frontiers of Hungary, and which appear to me interesting enough to merit the attention of the neighbouring powers. I have indeed just learned that, besides the starosty of Zips, those of Novitak, of Szotin, and another no less considerable district have been enclosed within the Austrian cordon; that this territory thus occupied must have an extent of about twenty (German) miles in length, from the comitat of Sarosch in Hungary to the frontier of Austrian Silesia; that the whole together comprises several towns and as many as ninety-seven villages; that the Court of Vienna has already exercised several acts of sovereignty there; that upon the complaints which the Republic of Poland has had lodged concerning it, Prince Kaunitz is said to have replied in a vague manner, which nevertheless clearly indicates the design of asserting ancient rights, and that a deduction is already being drawn up at Vienna to justify and support these several possessions. I do not doubt that most of these circumstances are already known at St. Petersburg.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-30">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-30">p. 30</a></h2>
+<section class="lit-passage" id="p-30" data-page="30">
+<div class="pg" id="p30"><a href="#p30">p. 30</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Je me rappelle même que la première nouvelle qu’on eut de cette prise de possession, fit naître à plusieurs personnes de la cour de Russie l’idée d’un aggrandissement égal pour tous les voisins de la Pologne et quoique j’aie vu par un de vos rapports que cette idée n’a pas généralement pris et que je sens fort bien les raisons qu’on peut alléguer pour la combattre, j’ai cependant cru devoir vous en écrire puisque ces raisons supposent toujours que la cour de Vienne doive se désister de son entreprise, tandis qu’il paraît clairement par tout ce que je viens de vous en marquer qu’elle est dans la ferme résolution de la soutenir.*
@@ -1048,12 +1086,10 @@ Noch bestimmter am 25. März: „*Il faut que je vous dise pour votre informatio
 Still more definitely, on 25 March: "*I must tell you, for your particular information, that of all the acquisitions I might obtain, those bordering on my states of Prussia, of the Neumark, of Silesia, or of Pomerania would be the most suitable for me. They would contribute further to rounding out my states and would consequently be the most to my convenience.*" At the same time he enclosed
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-31">p. 31</a></h2>
+<section class="lit-passage" id="p-31" data-page="31">
+<div class="pg" id="p31"><a href="#p31">p. 31</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 er eine von Herzberg verfasste Denkschrift bei,[33] über seine Rechtsansprüche auf Pomerellen, Ermeland, auf den zwischen Weichsel und Netze gelegenen Theil von Grosspolen, sowie auf die Palatinate von Culm und Marienburg, mit der Ermässigung:
@@ -1064,7 +1100,7 @@ Die Forderung fand indess volle Billigung, die erste Theilung war vollbracht, un
 
 ---
 
-##### Friedrich befiehlt die Polen seines eignen Landestheiles heimlich aufzuwiegeln und zur Widersetzlichkeit zu verleiten, um einen Rechtsgrund zu haben, sie zu bestrafen.
+#### Friedrich befiehlt die Polen seines eignen Landestheiles heimlich aufzuwiegeln und zur Widersetzlichkeit zu verleiten, um einen Rechtsgrund zu haben, sie zu bestrafen.
 
 In der Instruktion an den General-Lieutenant *von Stutterheim* und den Kammer-Präsidenten *von Domhardt* zur Besitznehmung von Polnisch-Preussen d. d. 6. Juni 1772 und unterzeichnet *Friedrich* heisst es buchstäblich:[34]
 
@@ -1081,19 +1117,17 @@ The demand, however, met with full approval; the first partition was accomplishe
 
 ---
 
-##### Frederick Orders that the Poles of His Own Portion of the Land Be Secretly Incited to Rebellion and Led into Insubordination, So As to Have Legal Grounds to Punish Them.
+#### Frederick Orders that the Poles of His Own Portion of the Land Be Secretly Incited to Rebellion and Led into Insubordination, So As to Have Legal Grounds to Punish Them.
 
 In the instruction to Lieutenant-General *von Stutterheim* and the Chamber President *von Domhardt* for the taking of possession of Polish Prussia, dated 6 June 1772 and signed *Frederick*, it says verbatim:<sup class="lit-fn"><a href="#n-en-34">34</a></sup>
 
 "On the day of homage fixed in the aforesaid **patent**, on which the Estates are summoned to *Marienburg* for this purpose, Lieutenant-General v. *Stutterheim* shall have homage rendered to him in my name, and I shall
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-32">p. 32</a></h2>
+<section class="lit-passage" id="p-32" data-page="32">
+<div class="pg" id="p32"><a href="#p32">p. 32</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „dem *Etats-Ministre* v. *Rhod* zugleich dahin bescheiden, der die in dergl. Fälle übliche Rede an die Stände halten wird.
@@ -1132,12 +1166,10 @@ in a postscript in the King's own most exalted hand:
 "I hereby likewise inform you that you are to
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-33">p. 33</a></h2>
+<section class="lit-passage" id="p-33" data-page="33">
+<div class="pg" id="p33"><a href="#p33">p. 33</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „den Grafen von *Keyserlingk* aus denen *Marienwerder’schen Revenues* monatlich 500 Thlr. vorläufig und bis Ich hierunter anders disponiren kann, sollet auszahlen lassen.“
@@ -1176,15 +1208,13 @@ To his thanks the King replied:
 The Chamberlain later became Court Marshal and was also favoured with a gift of several estates in South Prussia. (See "the Black Register".)
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-34">p. 34</a></h2>
+<section class="lit-passage" id="p-34" data-page="34">
+<div class="pg" id="p34"><a href="#p34">p. 34</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Die Contributions-Vertheilung.
+#### Die Contributions-Vertheilung.
 
 Schon den 11. Mai 1772 liess der König den Präsidenten der Mindenschen Kammer *Rode* nach Sanssouci kommen und gab ihm im Geheim den Auftrag in polnisch Preussen und in einigen Stücken an der Netze, welche er nächstens in Besitz nehmen werde, die Kontribution auf ostpreussischen Fuss einzurichten und durch eine Classifikation festzusetzen.
 
@@ -1201,7 +1231,7 @@ Schon den 11. Mai 1772 liess der König den Präsidenten der Mindenschen Kammer 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### The Distribution of the Contribution.
+#### The Distribution of the Contribution.
 
 As early as 11 May 1772 the King had *Rode*, President of the Minden Chamber, come to Sanssouci and secretly gave him the commission to organize the contribution in Polish Prussia and in certain tracts on the Netze, which he was shortly to take possession of, on the East Prussian footing, and to fix it by means of a classification.
 
@@ -1216,12 +1246,10 @@ As early as 11 May 1772 the King had *Rode*, President of the Minden Chamber, co
 7. The craftsmen in the open country shall move into the towns."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-35">p. 35</a></h2>
+<section class="lit-passage" id="p-35" data-page="35">
+<div class="pg" id="p35"><a href="#p35">p. 35</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Alles was sonst noch ist, muss Er der Instruktion hinzufügen. Er soll in Berlin nicht sagen, wo Er hingehet.“
@@ -1256,12 +1284,10 @@ On this it should be noted that *Rode* himself says:
 "on the other hand, the cabinet order of 7 June 1772 commanded the Chamber at Marienwerder to treat the *common man*, whether of the Catholic or Protestant faith, without distinction."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-36">p. 36</a></h2>
+<section class="lit-passage" id="p-36" data-page="36">
+<div class="pg" id="p36"><a href="#p36">p. 36</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 In der an den v. *Domhardt* am 1. November 1772 erlassenen Resolution[42] erklärte zwar der König, dass er die 50 p. C. Contribution von den geistlichen Besitzungen und liegenden Gründen so verstanden wissen wolle, dass den Grundherrschaften von dem reinen Ertrage, nach Abzug aller Bau-, Vergütigungs- u. a. Nebenunkosten 50 p. C. bezahlt werden sollen. Dagegen befahl ein „höchsteigenhändiges“ P. S.:
@@ -1284,15 +1310,13 @@ Further, dated Potsdam, 2 November 1772, to the same:
 "The postscript in my own hand, which I appended to an answer given to you yesterday, I wish to be understood as meaning that, in determining the 50 p. C. granted to the clergy from their possessions, the yield ascertained by the present Classification Commission shall always be taken as the basis; from this the building and other costs are first to be deducted, and the net surplus only then divided; the surplus arising from improvements made *ex post*, however, shall always accrue to My half. The clergy are to be given, as the reason for the taking away of their estates and landed properties, that this is done with the intention that they may not be distracted by managing them, and may thereby be the less hindered in their spiritual duties."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-37">p. 37</a></h2>
+<section class="lit-passage" id="p-37" data-page="37">
+<div class="pg" id="p37"><a href="#p37">p. 37</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### Aus dem Besitznahme-Patent vom 13. September 1772 an die Stände, Einwohner etc. etc. der neuen Provinz. [43]
+##### Aus dem Besitznahme-Patent vom 13. September 1772 an die Stände, Einwohner etc. etc. der neuen Provinz. [43]
 
 Wir *Friedrich* von Gottes Gnaden König von Preussen etc. etc. etc. entbieten hiemit denen sämmtlichen Ständen, Bischöfen, *Aebten* . . . . . . . . und allen übrigen, sowohl Geistlichen als Weltlichen Einsassen und Einwohnern der Lande Preussen und Pommern, welche die Krone Polen bishero besessen, wie auch der bishero zu Gross-Polen gerechneten Distrikte diesseits der Netze, Unsern geneigten Willen, Königliche Gnade und alles Gutes und geben denenselben hierdurch folgendes gnädigst zu vernehmen. Es ist einem jeden der Geschichtskundigen zur Genüge bekannt, . . . . . . . [44]
 
@@ -1305,7 +1329,7 @@ Wir haben diesen Unseren fest und reiflich gefassten Entschluss allen obgedachte
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### From the Patent of Possession of 13 September 1772 to the Estates, Inhabitants, etc. etc. of the New Province.<sup class="lit-fn"><a href="#n-en-43">43</a></sup>
+##### From the Patent of Possession of 13 September 1772 to the Estates, Inhabitants, etc. etc. of the New Province.<sup class="lit-fn"><a href="#n-en-43">43</a></sup>
 
 We *Frederick*, by the Grace of God King of Prussia, etc. etc. etc., hereby extend to all the Estates, Bishops, *Abbots* . . . . . . . . and all others, both ecclesiastical and secular residents and inhabitants of the lands of Prussia and Pomerania hitherto possessed by the Crown of Poland, as well as of the districts hitherto reckoned to Great Poland this side of the Netze, Our gracious will, Royal favour, and all good things, and hereby give them most graciously to understand the following. It is sufficiently known to every student of history, . . . . . . . <sup class="lit-fn"><a href="#n-en-44">44</a></sup>
 
@@ -1316,12 +1340,10 @@ We have wished, by this open letter, to make known solemnly this Our firm and ma
 "In return, We are also inclined and firmly resolved, and hereby likewise assure, that We will, as regards *them* (the Estates and inhabitants of the lands of Prussia and Pomerania hitherto possessed by the Crown of Poland, as well as of the districts reckoned to Great Poland this side of the Netze), *one and all, in their possessions and rights, both ecclesiastical and secular,* — especially those adhering to the Roman Catholic religion — in the free exercise of their religion *leave, protect, and maintain,* <sup class="lit-fn"><a href="#n-en-45">45</a></sup> and in general to govern the whole land in such wise that the reasonable and right-thinking inhabitants may be happy and content, and shall have no cause to regret the change."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-38">p. 38</a></h2>
+<section class="lit-passage" id="p-38" data-page="38">
+<div class="pg" id="p38"><a href="#p38">p. 38</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wir hoffen, dass einjeder sich hiernach gehorsamlich achten wird, falls aber jemand der Einsassen der obgedachten Lande, wider besseres Vermuthen, dem Inhalte dieses Unseres offenen Briefes nicht gehorsamen, Uns den Eid der Treue nicht leisten, oder sich gar Unsrer Herrschaft nicht unterwerfen, noch Uns für seinen Landesherrn erkennen, oder auch Unseren Befehlshabern und Truppen Widerstand zu thun sich unterfangen, oder sich einiger Untreuen und Ungehorsams schuldig oder verdächtig machen sollte, der oder diejenigen haben sich ohnausbleiblich zu gewärtigen, dass wir mit denen in dergleichen Fällen üblichen Strafen wider sie, ohne Ansehung der Person verfahren lassen werden[46] etc. etc. etc.
@@ -1344,55 +1366,51 @@ We hope that everyone will conduct himself obediently accordingly; but should an
 Finkenstein.  C. F. von Herzberg.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">p. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">p. 39</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Aus dem Vertrage zu Warschau vom 18. September 1773 zwischen dem Könige von Preussen und der Republik Polen.[47]
+#### Aus dem Vertrage zu Warschau vom 18. September 1773 zwischen dem Könige von Preussen und der Republik Polen.[47]
 
-###### Art. 1.
+##### Art. 1.
 
 Es soll von nun an, und zu ewigen Zeiten, ein *unverbrüchlicher Friede, ein aufrichtiges Bündniss und eine vollkommene Freundschaft* zwischen Sr. Majestät dem König von Preussen, ihren Erben, Nachfolgern und allen ihren Ländern von einer Seite, und Sr. Majestät dem König von Polen, Grossherzog von Lithauen und ihren Nachfolgern sowohl, als dem Königreich Polen und Grossherzogthum Lithauen von der andern Seite herrschen, dergestalt, dass in Zukunft die beiden hohen vergleichenden Theile weder selbst unmittelbar noch mittelbar die geringste Feindseligkeit eine gegen die andere vornehmen, noch zulassen solle, dass solche durch die Ihrigen geschehe, dass sie auch keine Schritte weder selbst thun, noch thun lassen sollen, welche diesem Vergleich zuwider sein möchten, sondern dass sie selbigen vielmehr aufs Heiligste in jedem Stück halten, beständig unter sich ein vollkommenes gutes Verständniss beobachten und sich bemühen sollen, die Ehre, den Nutzen und die gemeinschaftliche Sicherheit zu erhalten, sowie allen Schaden und Nachtheil, welcher dem einen oder andern Theil zuwachsen könnte, abzuwenden.
 
-###### Art. VI.
+##### Art. VI.
 
 Dagegen *entsagen* auch Se. Majestät der König von Preussen, durch diesen Tractat sowohl für sich als für ihre Erben und Nachfolger beiderlei Geschlechts *auf die bündigste und förmlichste Art allen Ansprüchen,* unter welchem Vorwand es sein möchte, so sie an das
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### From the Treaty of Warsaw of 18 September 1773 between the King of Prussia and the Republic of Poland.<sup class="lit-fn"><a href="#n-en-47">47</a></sup>
+#### From the Treaty of Warsaw of 18 September 1773 between the King of Prussia and the Republic of Poland.<sup class="lit-fn"><a href="#n-en-47">47</a></sup>
 
-###### Art. 1.
+##### Art. 1.
 
 Henceforth, and for all time, there shall reign an *inviolable peace, a sincere alliance, and a perfect friendship* between His Majesty the King of Prussia, his heirs, successors, and all his lands, on the one side, and His Majesty the King of Poland, Grand Duke of Lithuania, and his successors, as well as the Kingdom of Poland and the Grand Duchy of Lithuania, on the other side; in such wise that in future the two High Contracting Parties shall neither directly nor indirectly undertake the least hostility, the one against the other, nor permit such to be committed by their subjects; that they shall likewise neither themselves take, nor allow to be taken, any steps that might be contrary to this agreement, but shall rather observe it most sacredly in every particular, maintain between themselves at all times a perfect good understanding, and endeavour to preserve their honour, their advantage, and their common security, as well as to avert all harm and prejudice that might accrue to the one or the other party.
 
-###### Art. VI.
+##### Art. VI.
 
 In return, His Majesty the King of Prussia likewise *renounces*, by this Treaty, both for himself and for his heirs and successors of both sexes, *in the most binding and most formal manner, all claims,* under whatever pretext they might be, that he has had or might still have to the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-40">p. 40</a></h2>
+<section class="lit-passage" id="p-40" data-page="40">
+<div class="pg" id="p40"><a href="#p40">p. 40</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Königreich Polen u. Grossherzogthum Lithauen* gehabt, oder noch haben könnten. Se. Majestät übernehmen auch die Versicherung und Gewähr derjenigen Provinzen, welche der Republik Polen nach dem Schluss dieses Tractats verbleiben, und sie werden jederzeit alles mögliche abwenden, um sie ihr zu erhalten; die Kriege jedoch ausgenommen, welche zwischen der Republik Polen und der Ottomanschen Pforte entstehen können.
 
-###### Art. VIII.
+##### Art. VIII.
 
 Die Römisch-Katholischen sollen in den durch diesen Tractat abgetretenen Provinzen, sowie in dem Königreich Preussen und den Districten Lauenburg, Bütow und Draheim, *alle ihre Besitzungen und Eigenthum, sowohl in bürgerlichen als Glaubenssachen, behalten und zu geniessen haben, sie sollen völlig in statu quo erhalten werden, das heisst, in der nämlichen freien Ausübung ihres Gottesdienstes und ihrer Kirchengebräuche, mit allen den Kirchen- und geistlichen Gütern, welche sie zur Zeit,* wie sie im Monat September **1772** unter Sr. Königl. Majestät von Preussen Oberherrschaft kamen, *besassen,* und Se. Majestät und ihre Nachfolger sollen sich ihres Hoheitsrechts nicht zum Nachtheil des status quo, was die Katholische Religion in den erwähnten Ländern betrifft, bedienen.
 
 ---
 
-##### Dreimalige Erweiterung der Grenzen.[48]
+#### Dreimalige Erweiterung der Grenzen.[48]
 
 Im September 1772 erfolgte die Besitznahme des Netzdistricts durch *Brenkenhof*. Er sollte die Netze mit beiden Ufern bis *Rynarzewo* eingrenzen, ging aber noch 2 Meilen weiter hinaus bis Szulic, nahm auch die Luboczyner und Baroczyner Güter der Gräfin Skórzewska mit fast
 
@@ -1401,23 +1419,21 @@ Im September 1772 erfolgte die Besitznahme des Netzdistricts durch *Brenkenhof*.
 
 *Kingdom of Poland and Grand Duchy of Lithuania.* His Majesty also undertakes the assurance and guarantee of those provinces which remain to the Republic of Poland after the conclusion of this Treaty, and he will at all times avert everything possible in order to preserve them to it; excepting, however, the wars that may arise between the Republic of Poland and the Ottoman Porte.
 
-###### Art. VIII.
+##### Art. VIII.
 
 The Roman Catholics shall, in the provinces ceded by this Treaty, as well as in the Kingdom of Prussia and the districts of Lauenburg, Bütow, and Draheim, *retain and enjoy all their possessions and property, both in civil and religious matters; they shall be maintained wholly in statu quo,* that is to say, *in the same free exercise of their worship and their church usages, with all the church and ecclesiastical estates which they possessed at the time* when, in the month of September **1772**, they came under the supreme authority of His Royal Majesty of Prussia, *and His Majesty and his successors shall not make use of their sovereign right to the prejudice of the status quo as regards the Catholic religion in the aforesaid lands.*
 
-##### Threefold Extension of the Borders.
+#### Threefold Extension of the Borders.
 
 <sup class="lit-fn"><a href="#n-en-48">48</a></sup>
 
 In September 1772 the taking of possession of the Netze District took place through *Brenkenhof*. He was to bound the Netze, with both banks, as far as *Rynarzewo*, but went a further 2 (German) miles beyond, as far as Szulic, and also took the Luboczyn and Baroczyn estates of Countess Skórzewska, with almost
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">p. 41</a></h2>
+<section class="lit-passage" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">p. 41</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *2000 Familien*,[49] „und erhielt den Beifall des Königs.“ —
@@ -1444,12 +1460,10 @@ The acquisition comprised 28 towns, 520 villages, with 89,105 souls. In bread- a
 *Frederick* himself declared that through these additions he merely wished to restore the equality in the relationship disturbed by Austria,<sup class="lit-fn"><a href="#n-en-50">50</a></sup> — and his envoy argued at Warsaw: the Netze belongs to the King, therefore also when it overflows, consequently also the land that had been
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">p. 42</a></h2>
+<section class="lit-passage" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">p. 42</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gewesene Land, wenn sie wieder in ihr Bett zurücktritt; wobei er freilich annahm, dass die Netze bei der Ueberschwemmung an einer Stelle 12 Meilen weit austreten könne!
@@ -1464,19 +1478,17 @@ flooded by it, once it recedes again into its bed; wherein, to be sure, he assum
 The *patent of possession* to the Estates in this part of the Netze District is dated Berlin, 22 April 1775<sup class="lit-fn"><a href="#n-en-51">51</a></sup>, and promises, in the usual most gracious forms, "*paternal grace, provision, and protection.*" *Brenkenhof* received the homage at Inowraclaw on 22 May 1775.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">p. 43</a></h2>
+<section class="lit-passage" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">p. 43</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Friedrichs des Grossen landesväterliche Gesinnung gegen die Polen.
+### Friedrichs des Grossen landesväterliche Gesinnung gegen die Polen.
 
 ---
 
-##### Ein Königl. Gnadenakt bei der Huldigung.
+#### Ein Königl. Gnadenakt bei der Huldigung.
 
 In der bereits angeführten Instruktion zur Huldigung vom 6. Juni 1772[52] heisst es:
 
@@ -1489,9 +1501,9 @@ Dagegen lautet die Kab.-Ordre an den Kammer-Präsidenten von *Domhardt* in Marie
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Frederick the Great's Paternal Sentiments toward the Poles.
+### Frederick the Great's Paternal Sentiments toward the Poles.
 
-##### A Royal Act of Grace at the Homage.
+#### A Royal Act of Grace at the Homage.
 
 In the instruction for the homage of 6 June 1772, already cited above,<sup class="lit-fn"><a href="#n-en-52">52</a></sup> it says:
 
@@ -1502,17 +1514,15 @@ By contrast, the cabinet order to the Chamber President von *Domhardt* in Marien
 "Lt.-Gen. v. Stutterheim has been instructed, apart from the medal sent to him, to be distributed to the estates after the homage, to have a further 2000 thalers in various Prussian coin denominations thrown out among the people. You may accordingly *only for so long* **advance** these 2000 thalers out of My discretionary fund of the Kammer-Extraordinarium *and have them paid out to the said Lt.-Gen. v. Stutterheim, until you shall be in a position to reimburse the same out of the revenues of* **the new province** *and to recover them again.*" And yet hyperpatriotic historians<sup class="lit-fn"><a href="#n-en-54">54</a></sup> believe they may particularly extol this farce of princely grace.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">p. 44</a></h2>
+<section class="lit-passage" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">p. 44</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ---
 
-##### Friedrich als Solon und Lycurg unter den polnischen Barbaren und Irokesen.
+#### Friedrich als Solon und Lycurg unter den polnischen Barbaren und Irokesen.
 
 In einem Briefe an *D'Alembert* vom 19. Juni 1775 schreibt der König[55]:
 
@@ -1525,7 +1535,7 @@ Nach Obigem wären also zur Civilisation dieser Barbaren, Kanadier und Irokesen 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Frederick as Solon and Lycurgus among the Polish Barbarians and Iroquois.
+#### Frederick as Solon and Lycurgus among the Polish Barbarians and Iroquois.
 
 In a letter to *D'Alembert* of 19 June 1775 the King writes<sup class="lit-fn"><a href="#n-en-55">55</a></sup>:
 
@@ -1536,12 +1546,10 @@ According to the above, then, 180 schools would already have been founded by Jun
 "His Royal Majesty of Prussia etc. hereby causes His West Prussian Chamber, upon their report of the 14th inst., to be informed that, since the 200,000 thalers appointed for the improvement of the school institutions, for the time being, and so that the matter may only make a beginning until a suitable opportunity is found for the purchase of estates,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-45">p. 45</a></h2>
+<section class="lit-passage" id="p-45" data-page="45">
+<div class="pg" id="p45"><a href="#p45">p. 45</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 bei der Ostfriesischen Landschaft gegen 5 pro Cent Zinsen untergebracht werden sollen, Selbige dieser Sache, und der Uebermachung der davon fallenden Zinsen wegen sich auch Dero Etats-Ministre Freiherrn von der Schulenburg addressiren und das nöthige abmachen muss. Sr. Königl. Majestät Allerhöchste Intention gehet indessen zugleich dahin, dass für diese 10000 Thlr. Zinsen sofort soviele Schulmeister, sowohl Evangelische als Katholische, als davon salariret werden können, welches ohngefähr 170 sein werden, an den nothwendigsten Orten angesetzet werden sollen. Die Kammer hat also davon ein namentliches Verzeichniss mit Benennung der Sprache und der Religion anderweit anzufertigen und nachhero einzusenden. Se. Königl. Majestät wollen sodann zusehen, die Evangelisch-Deutsche aus der Berlinschen Real- und andern Schulen, die Katholisch-Deutsche aber aus Schlesien zu bekommen, und worüber die Kammer demnächst mit Dero Etats-Ministre Freih. v. Zedlitz und von Hoym weiter correspondiren soll. — Was aber die Katholisch-Polnische Schulmeister betrifft, desshalb muss sich die Kammer sodann an den Bischof von Ermeland wenden, der wird solche schon anzuschaffen wissen, und sie allenfalls unter den *Jesuiten* aussuchen und erhalten können.“
@@ -1560,12 +1568,10 @@ The cabinet order of 24 January 1776<sup class="lit-fn"><a href="#n-en-57">57</a
 "His Royal Majesty of Prussia etc. hereby causes His West Prussian etc. Chamber to be informed that, as regards the interest-bearing placement with the East Frisian Estates of the capital of 200,000 thalers appointed for the salarying of the schoolmasters in that province, the necessary arrangements have now already been made in such a way that the interest, reckoned from 1 June of this year, will accrue thereon at 5 per cent. Whereupon the Chamber
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-46">p. 46</a></h2>
+<section class="lit-passage" id="p-46" data-page="46">
+<div class="pg" id="p46"><a href="#p46">p. 46</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sich gehörig zu achten und in Ansehung der anzusetzenden Schulmeister, der Ordre vom 20. d. gemäss, das Nöthige überall zu besorgen hat."
@@ -1600,12 +1606,10 @@ Thus in the cabinet order dated Potsdam, 1 April 1772<sup class="lit-fn"><a href
 Further, in the instruction dated Marienwerder, 6 June 1772<sup class="lit-fn"><a href="#n-en-62">62</a></sup>:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-47">p. 47</a></h2>
+<section class="lit-passage" id="p-47" data-page="47">
+<div class="pg" id="p47"><a href="#p47">p. 47</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „ . . . . . Beyläufig gebe dem Kammer-Präsidenten v. Domhardt auch auf, dass . . . . derselbe demnächst dahin sehen und Bedacht sein soll, dass sowie ehedem im Cottbusschen und in Oberschlesien geschehen, *Teutsche* Schulmeisters in denen Kleinen Städten und auf denen Dörfern mit angesetzet, und die Einwohner mehr *und mehr mit Teutschen* melirt werden.“
@@ -1628,12 +1632,10 @@ How little suited the soldiers and non-commissioned officers of that time were t
 "According to the spirit of the age at that time, military service was no matter of honour for the common man. Foreigners, the dregs of the native population, and the poorer classes especially were drawn into the profession of arms under the leadership of noble officers. The popular saying, characteristic of the moral esteem accorded to the soldier's estate, 'He who will not follow father and mother *must follow the drum*,' had its good grounds. As early as 1693, when in Brandenburg the recruits needed by the regiments were apportioned among the provinces, and it was left to these to levy the men themselves, the authorities were permitted to assign 'the useless rabble'<sup class="lit-fn"><a href="#n-en-64">64</a></sup> chiefly to the militia, and so it remained under *Frederick* and down to the last canton exemptions before 1806, by which the amber-turners' guild was freed from military service, 'with the exception of the dissolute of this trade,' who were given up to complete the ranks of the defenders of the fatherland."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-48">p. 48</a></h2>
+<section class="lit-passage" id="p-48" data-page="48">
+<div class="pg" id="p48"><a href="#p48">p. 48</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 In einer Kab. Ord. d. d. Breslau 6. November 1778 an den General v. Tauentzien heisst es[65]:
@@ -1676,12 +1678,10 @@ In the cabinet order of 8 June 1773 to President v. *Domhardt*<sup class="lit-fn
 ". . . . Before 1774/75, however, you shall not fail to give advance consideration to the following points, namely that you: . . . . give thought to the establishment of village schools in both the Protestant and Catholic villages
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-49">p. 49</a></h2>
+<section class="lit-passage" id="p-49" data-page="49">
+<div class="pg" id="p49"><a href="#p49">p. 49</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und deren Besetzung durch teutsche Schulmeisters denken, und was dergleichen anzusetzen kosten dürfte, Mir anzeigen.“ ....
@@ -1738,12 +1738,10 @@ Provinz.-Bl. f. d. Grossh. Posen 1846.
 Heft III. p. 140.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-50">p. 50</a></h2>
+<section class="lit-passage" id="p-50" data-page="50">
+<div class="pg" id="p50"><a href="#p50">p. 50</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 In der Kabinets-Ordre d. d. Potsdam den 31. Januar 1773[68] heisst es:
@@ -1774,12 +1772,10 @@ In the instruction to the Director of the Bromberg Chamber, v. *Domhardt*, dated
 * * *
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-51">p. 51</a></h2>
+<section class="lit-passage" id="p-51" data-page="51">
+<div class="pg" id="p51"><a href="#p51">p. 51</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 In gleichem Sinne lautet auch die Kab.-Ordre d. d. Potsdam den 16. Juni 1786 an den Minister v. *Gaudi*[70]
@@ -1802,12 +1798,10 @@ It should be noted here that, since the estates of the Polish nobles came, as a 
 It may further be asked what benefit the "so ill-conditioned province" derived from the fact that Prince Henry received 12,000 thalers in gold annually from *its* revenues? — and that solely because he recognized in the notorious
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-52">p. 52</a></h2>
+<section class="lit-passage" id="p-52" data-page="52">
+<div class="pg" id="p52"><a href="#p52">p. 52</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Worte der Moskowitischen Kathrine: *Il semble, qu'en Pologne il n'y a qu'à se bessair[sic] et en prendre* *Friedrichs* Lieblingswunsch nach Ruhe und Preussen abzurunden erkannte.[72] — Welchen Nutzen hatte die „so schlecht beschaffene Provinz" davon, dass *Brenkenhof* in *Driesen* „den neuen Markt anlegen und eine grosse Anzahl Häuser grössten Theils aus der Netzverwaltungskasse erbauen lassen?"[73] — — Welchen Nutzen hatte die „so schlecht beschaffene Provinz" davon, dass Graf v. *Keyserlingk* aus ihren Revenues den Sündenlohn von jährl. 6000 Thaler für meuterische und verführerische Dienste zog? —
@@ -1856,19 +1850,17 @@ general."*
 In the instruction to Director *Domhardt*, dated Berlin, 4 January 1782, it states:<sup class="lit-fn"><a href="#n-en-75">75</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-53">p. 53</a></h2>
+<section class="lit-passage" id="p-53" data-page="53">
+<div class="pg" id="p53"><a href="#p53">p. 53</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „So muss er auch mit denen Polen keine Complimente machen, denn dadurch werden sie nur noch mehr verdorben, sondern er muss scharf darauf halten, dass sie denen Ordres gehörig nachleben, ihre praestanda zur gesetzlichen Zeit richtig und prompt abführen und *ihnen nicht die geringste Nachsicht gestatten, sonsten wenn er nicht mit der Execution gleich dahinter ist, hilft alles nichts.*“
 
 ---
 
-##### Friedrich in Briefen an D’Alembert.
+#### Friedrich in Briefen an D’Alembert.
 
 Den 3. November 1771. [76]
 
@@ -1885,7 +1877,7 @@ Den 26. Januar 1772. [77]
 
 "So too he must pay the Poles no compliments, for by this they are only further spoiled; rather, he must keep a strict watch that they duly comply with the orders, render their *praestanda* correctly and promptly at the legally appointed time, and *allow them not the slightest indulgence, for otherwise, if he is not immediately behind them with execution, nothing at all will help.*"
 
-##### Frederick in Letters to D'Alembert.
+#### Frederick in Letters to D'Alembert.
 
 3 November 1771.<sup class="lit-fn"><a href="#n-en-76">76</a></sup>
 
@@ -1898,12 +1890,10 @@ Den 26. Januar 1772. [77]
 "I pity the philosophers who take an interest in this *people contemptible in every respect*. Poland
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">p. 54</a></h2>
+<section class="lit-passage" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">p. 54</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 hat keine Gesetze, es geniesst nicht, was man Freiheit nennt, sondern die Regierung ist in eine Art von frecher Anarchie ausgeartet. Der Adel übt die schrecklichste Tyrannei über seine Sklaven; kurz, von allen europäischen Regierungen (die türkische allenfalls ausgenommen) ist die polnische die schlechteste.“ [78]
@@ -1926,12 +1916,10 @@ has no laws; it does not enjoy what is called liberty, but its government has de
 One of the volumes from which the foregoing documents are
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
+<section class="lit-passage" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">p. 55</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 entnommen sind, hat auf dem Titelblatt aus *Ramlers* berühmter Ode die Verse:
@@ -1952,19 +1940,17 @@ taken bears on its title page the verses from *Ramler*'s famous ode:
 But in truth the entire German people, together with its princes, would have to bow down as a pedestal to the monument before *Frederick*'s princely greatness; one cannot hold it against the Poles if they do not hasten too eagerly to render this homage. A people to whom this is done remains deeply wounded, whether it avenges or endures the treatment.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-56">p. 56</a></h2>
+<section class="lit-passage" id="p-56" data-page="56">
+<div class="pg" id="p56"><a href="#p56">p. 56</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Friedrich Wilhelms II. Friedens- und Freundschafts-Versicherungen. [81]
+### Friedrich Wilhelms II. Friedens- und Freundschafts-Versicherungen. [81]
 
 ---
 
-##### Aus der Erklärung des preussischen ausserordentlichen Gesandten v. Buchholz vom 12. October 1788. [82]
+#### Aus der Erklärung des preussischen ausserordentlichen Gesandten v. Buchholz vom 12. October 1788. [82]
 
 *„Si l'alliance projettée entre la Russie & la Pologne doit avoir pour premier but, la conservation de l'intégrité de la Pologne, le Roi n'en voit aucune utilité ni nécessité, cette intégrité se trouvant déjà suffisemment garantie par les derniers traités.*
 
@@ -1973,21 +1959,19 @@ But in truth the entire German people, together with its princes, would have to 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Frederick William II's Assurances of Peace and Friendship.<sup class="lit-fn"><a href="#n-en-81">81</a></sup>
+### Frederick William II's Assurances of Peace and Friendship.<sup class="lit-fn"><a href="#n-en-81">81</a></sup>
 
-##### From the Declaration of the Prussian Envoy Extraordinary v. Buchholz of 12 October 1788. <sup class="lit-fn"><a href="#n-en-82">82</a></sup>
+#### From the Declaration of the Prussian Envoy Extraordinary v. Buchholz of 12 October 1788. <sup class="lit-fn"><a href="#n-en-82">82</a></sup>
 
 *"If the alliance projected between Russia and Poland is to have as its first object the preservation of the integrity of Poland, the King sees in it neither utility nor necessity, this integrity being already sufficiently guaranteed by the recent treaties.*
 
 *One cannot suppose that Her Majesty the Empress of Russia, nor her Ally the Emperor of the Romans, would wish to infringe their own.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-57">p. 57</a></h2>
+<section class="lit-passage" id="p-57" data-page="57">
+<div class="pg" id="p57"><a href="#p57">p. 57</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Il faudroit donc supposer au Roi un pareil dessein, & diriger en conséquence contre Lui cette alliance.*
@@ -2018,12 +2002,10 @@ But in truth the entire German people, together with its princes, would have to 
 *The King flatters himself that His Majesty the King of Poland, and the Estates of the Most Serene Republic assembled in the present Diet, will be pleased to take into mature consideration all that His Majesty has just represented to them, with the views and upon the principles of the most sincere friendship, and for the true good and common interest of the two States*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-58">p. 58</a></h2>
+<section class="lit-passage" id="p-58" data-page="58">
+<div class="pg" id="p58"><a href="#p58">p. 58</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *si étroitement liés par des liens indissolubles d'alliance permanente & éternelle.*
@@ -2041,7 +2023,7 @@ Envoyé Extraordinaire de Sa Majesté Prussienne.“*
 
 ---
 
-##### Aus der Note des etc. v. Buchholtz vom 19. November 1788. [83]
+#### Aus der Note des etc. v. Buchholtz vom 19. November 1788. [83]
 
 *„Le soussigné se trouve expressément chargé de témoigner aux illustres Etats de la Diette de Pologne, la vive satisfaction dont Sa Majesté a été pénétrée en apprenant par la Réponse (du 20. d'Octbr. sur la declaration du 12. de ce mois) qu'ils ont rendu justice à Ses sentiments d'amitié pour la République & qu'ils ont bien voulu assurer, que le projet d'alliance entre la Russie & la Pologne, que Sa Majesté le Roi de Pologne & Ses Ministres ont proposée à la Cour de Russie, selon l'assurence de cette Cour, ne fait point l'objet de l'Acte d'Union de la Diette présente, qui ne s'occupoit que de l'augmentation des impôts & du militaire de la République.*
 
@@ -2063,17 +2045,15 @@ Envoy Extraordinary of His Prussian Majesty."*
 
 ---
 
-##### From the Note of v. Buchholtz, etc., of 19 November 1788.<sup class="lit-fn"><a href="#n-en-83">83</a></sup>
+#### From the Note of v. Buchholtz, etc., of 19 November 1788.<sup class="lit-fn"><a href="#n-en-83">83</a></sup>
 
 *"The undersigned finds himself expressly charged to testify to the illustrious Estates of the Diet of Poland the lively satisfaction with which His Majesty was filled on learning, from the Reply (of the 20th of October, to the declaration of the 12th of this month), that they have done justice to His sentiments of friendship for the Republic, and that they have been pleased to assure that the project of alliance between Russia and Poland, which His Majesty the King of Poland and His Ministers proposed to the Court of Russia, does not, according to the assurance of that Court, form the object of the Act of Union of the present Diet, which was concerned only with the increase of the taxes and of the military forces of the Republic.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-59">p. 59</a></h2>
+<section class="lit-passage" id="p-59" data-page="59">
+<div class="pg" id="p59"><a href="#p59">p. 59</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Le Roi trouvant dans cette Réponse, une preuve aussi agréable que convaincante de la sagesse qui dirige les deliberations des Etats de la présente Diette, a appris avec le même plaisir, que les illustres Etats, fidèles à leurs justes principes, ont reglé dans la séance du trois de Novembre par une sanction publique révetue de toutes les formalités constitutionelles, le commandement de leurs forces militaires d'une manière, qui en assurant l'indépendance de la République, en écarte la possibilité d'abus despotiques & d'influence étrangère, dont tout autre arrangement auroit été susceptible.*
@@ -2092,12 +2072,10 @@ Envoy Extraordinary of His Prussian Majesty."*
 *The King is nonetheless ready and disposed to fulfil toward the Most Serene Republic His engagements of alliance and general guarantee, above all to assure it its independence, without otherwise wishing to interfere in its internal affairs, nor to hamper the freedom of its deliberations*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-60">p. 60</a></h2>
+<section class="lit-passage" id="p-60" data-page="60">
+<div class="pg" id="p60"><a href="#p60">p. 60</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *& de ses résolutions, laquelle il garantira plutôt de son mieux.*
@@ -2106,7 +2084,7 @@ Envoy Extraordinary of His Prussian Majesty."*
 
 ---
 
-##### Aus der Antwort des Ministers v. *Herzberg* auf eine am 28. Februar 1789 vom Fürsten Czartoryski überreichte Note.[85]
+#### Aus der Antwort des Ministers v. *Herzberg* auf eine am 28. Februar 1789 vom Fürsten Czartoryski überreichte Note.[85]
 
 *„Sa Majesté nous a chargés de faire connoitre à M. l'envoyé extraordinaire, en réponse à son Mémoire susdit,*
 
@@ -2119,24 +2097,22 @@ Envoy Extraordinary of His Prussian Majesty."*
 
 ---
 
-##### From the Reply of Minister v. *Herzberg* to a Note Presented by Prince Czartoryski on 28 February 1789.<sup class="lit-fn"><a href="#n-en-85">85</a></sup>
+#### From the Reply of Minister v. *Herzberg* to a Note Presented by Prince Czartoryski on 28 February 1789.<sup class="lit-fn"><a href="#n-en-85">85</a></sup>
 
 *"His Majesty has charged us to make known to Monsieur the Envoy Extraordinary, in reply to his aforesaid Memorandum,*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-61">p. 61</a></h2>
+<section class="lit-passage" id="p-61" data-page="61">
+<div class="pg" id="p61"><a href="#p61">p. 61</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *qu'elle est aussi touchée que flattée des sentimens de reconnaissance que la sérénissime république lui a voulu témoigner. Le roi, mettant le plus grand prix à l'amitié de l'illustre nation Polonoise, et connoissant toute l'importance des liaisons qui ont subsisté, depuis plusieurs siècles, entre ses prédécesseurs et la sérénissime république de Pologne, emploiera toujours un des premiers soins de son règne, pour perpétuer et pour resserrer de plus en plus des liaisons aussi utiles que réciproquement nécessaires pour les deux Etats, et fondées, sur les intérêts communs les plus essentiels. Dans ces dispositions, et sous ce points-de-vue, Sa Majesté se fera un plaisir des plus empressés de renouveler avec la sérénissime république de Pologne les traités d'alliance et de garantie, qui subsistent déjà entre les deux États, aussitôt que les circonstances et les occasions rendront un pareil renouvellement convenable ; et elle s'emploiera aussi volontiers à engager ses co-alliés à accéder aux susdites garanties. Comme les traités subsistans déjà entre les deux puissances les obligent à s'assister mutuellement contre toute attaque hostile et injuste, Sa Majesté ne manquera pas, de son côté, dans les occasions, et elle fera aussi ce qui dépendra d'elle, pour que la sérénissime république de Pologne puisse envoyer au futur congrès de paix, s'il en existe un, son représentant, et y faire reconnoitre et constater son indépendance.“*
 
 ---
 
-##### Aus dem Alliance-Vertrage vom 29. März 1790.[86]
+#### Aus dem Alliance-Vertrage vom 29. März 1790.[86]
 
 *Article I.*
 
@@ -2149,19 +2125,17 @@ Envoy Extraordinary of His Prussian Majesty."*
 
 ---
 
-##### From the Treaty of Alliance of 29 March 1790.<sup class="lit-fn"><a href="#n-en-86">86</a></sup>
+#### From the Treaty of Alliance of 29 March 1790.<sup class="lit-fn"><a href="#n-en-86">86</a></sup>
 
 *Article I.*
 
 *"There shall be a sincere and constant friendship and union between His Majesty the King of Prussia, his Heirs and Successors, and His Majesty the King of Poland and his Successors, as well as the Most Serene Republic of Poland, such that the High Contracting Parties shall pay the greatest attention to maintaining between Themselves and Their States and subjects the most perfect friendship and mutual correspondence, and engage to contribute, as far as shall be in their power, to defend and mutually preserve one another in peace and tranquility.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-62">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-62">p. 62</a></h2>
+<section class="lit-passage" id="p-62" data-page="62">
+<div class="pg" id="p62"><a href="#p62">p. 62</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Article II.*
@@ -2184,12 +2158,10 @@ Envoy Extraordinary of His Prussian Majesty."*
 *Should the case arise that one of the High Contracting Parties be threatened with a hostile attack by whomsoever it may be, the other shall employ without delay its most effective good offices to prevent hostilities, to procure satisfaction for the injured party, and to bring matters back onto the path of conciliation; but if these good offices should not have the desired effect within the space of two months, and one of the two High Contracting Parties should meanwhile be hostilely attacked, molested, or disturbed in any of its States, rights, possessions, or interests, or in any manner whatsoever, the other Contracting Party engages to succour its Ally without delay, in order mutually to maintain possession of all the States,*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-63">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-63">p. 63</a></h2>
+<section class="lit-passage" id="p-63" data-page="63">
+<div class="pg" id="p63"><a href="#p63">p. 63</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Territoires, Villes et Places, qui leur ont appartenu avant le commencement de ces hostilités, pour lequel effet, si le Royaume de Pologne venoit à être attaqué, Sa Majesté le Roi de Prusse fournira à Sa Majesté le Roi et la Sérénissime République de Pologne un secours de Quatorze Mille hommes d'Infanterie et de Quatre Mille hommes de Cavallerie, accompagné d'un train d'Artillerie proportionné au nombre des Troupes, et si Sa Majesté Prussienne venait à être attaquée, Sa Majesté le Roi et la République de Pologne, lui fourniront un secours de Huit Mille hommes de Cavallerie et de Quatre Mille hommes d'Infanterie, accompagné d'un train d'Artillerie proportionné au nombre des Troupes, lequel secours respectiv sera fourni dans l'espace de deux mois, à dater du jour que la réquisition sera remise de la part de la partie requérante et demeurera à sa disposition, pendant toute la durée de sa guerre dans laquelle Elle se trouvera engagée. &. &.*
@@ -2216,17 +2188,15 @@ Envoy Extraordinary of His Prussian Majesty."*
 *Should any foreign Power whatsoever wish, by virtue of any previous Acts and stipulations whatsoever, or of their interpretation, to arrogate to itself the right to meddle in the internal affairs of the Republic of Poland or of its dependencies, at any time or in any manner whatsoever, His Majesty the King of Prussia shall first employ his most effective good offices to prevent hostilities arising from such a pretension. But if these good offices should not have their effect, and hostilities should result on this occasion against Poland, His Majesty the King of Prussia, recognizing this case as one of alliance, shall then assist the Republic according to the tenor of Article IV of the present Treaty.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-64">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-64">p. 64</a></h2>
+<section class="lit-passage" id="p-64" data-page="64">
+<div class="pg" id="p64"><a href="#p64">p. 64</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ---
 
-##### Aus dem Briefe des Königs an den stellvertretenden Gesandten Grafen von der Goltz, vom 23. März 1791.[87]
+#### Aus dem Briefe des Königs an den stellvertretenden Gesandten Grafen von der Goltz, vom 23. März 1791.[87]
 
 „Ich kann Ihnen meine Verwunderung nicht genug darüber zu erkennen geben, dass ein solches Gerücht hat nach Polen kommen können, und noch mehr, dass es, da es mir Absichten von der Art zuschreibt, dort auch nur den geringsten Glauben hat finden können. Mein Wille ist, dass Sie die Falschheit und Trüglichkeit dieser Nachrichten in meinen Namen unverzüglich verbürgen und allenthalben und bei jeder schicklichen Gelegenheit auf das feierlichste und nachdrücklichste erklären, dass dieses Gerücht boshafter Weise ersonnen sei, um mich mit dem Reichstage zu entzweien und bei der Nation Misstrauen gegen mich zu erwecken. Ich behaupte dreist, dass Niemand im Stande sein werde, auch nur den geringsten Beweis vorzubringen, dass zwischen mir und dem Wiener Hofe irgend etwas vorgegangen sei, das einen solchen Verdacht rechtfertigen könne, etc. . . . . . . . . Ihro Majestät der König von Polen und die Republik können versichert sein, und mein Verfahren muss sie davon überzeugen, dass es niemals meine Absicht war, von ihnen die geringste Aufopferung zu begehren. Ich hoffe diese Erklärung werde die Gemüther beruhigen und das Gerücht unterdrücken, welches meinen persönlichen Karakter kränkt, und eben so sehr meinen Grundsätzen als meiner Zuneigung zur polnischen Nation widerstreitet.“
 
@@ -2235,28 +2205,26 @@ Envoy Extraordinary of His Prussian Majesty."*
 
 ---
 
-##### From the Letter of the King to the Deputy Envoy Count von der Goltz, of 23 March 1791.<sup class="lit-fn"><a href="#n-en-87">87</a></sup>
+#### From the Letter of the King to the Deputy Envoy Count von der Goltz, of 23 March 1791.<sup class="lit-fn"><a href="#n-en-87">87</a></sup>
 
 "I cannot sufficiently express to you my astonishment that such a rumor could have found its way to Poland, and still more, that it could have found even the slightest credence there, since it ascribes to me intentions of that kind. My will is that you vouch without delay, in my name, for the falsity and deceitfulness of these reports, and declare everywhere, and at every fitting opportunity, in the most solemn and emphatic manner, that this rumor was maliciously invented in order to set me at odds with the Diet and to arouse the nation's distrust of me. I boldly maintain that no one will be able to produce even the slightest proof that anything has passed between me and the Vienna court that could justify such a suspicion, etc. . . . . . . . . His Majesty the King of Poland and the Republic may rest assured, and my conduct must convince them, that it was never my intention to demand of them the slightest sacrifice. I hope this declaration will calm minds and suppress the rumor, which injures my personal character and runs counter equally to my principles and to my affection for the Polish nation."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-65">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-65">p. 65</a></h2>
+<section class="lit-passage" id="p-65" data-page="65">
+<div class="pg" id="p65"><a href="#p65">p. 65</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ---
 
-##### Aus dem Briefe Friedrich Wilhelms II. an den König von Polen vom 11. April 1790.[88]
+#### Aus dem Briefe Friedrich Wilhelms II. an den König von Polen vom 11. April 1790.[88]
 
 *Je suis flatté de la confiance, dont V. M. m'honore, et je n'omettrai surement rien de mon côté pour la justifier . . . . . . . J'ai ordonné à mon Ministre le Marquis de Lucchesini, d'en faire abstraction et de se borner à la conclusion d'un simple traité d'alliance. Je suis redevable à V. M. d'avoir recommandé à Sa Nation la conclusion de cette alliance. J'y mets un très grand prix et je tiens à honneur d'être le principal allié d'une Nation aussi noble et aussi brave. Je ne doute pas, qu'elle saura également apprécier mon alliance, et qu'elle reconnoîtra ce que j'ai fait et ce que j'aurai encore à faire pour la rendre utile et convenable aux deux parties.*
 
 ---
 
-##### Friedrich Wilhelm gratulirt zur Constitution vom 3. Mai 1791.[89]
+#### Friedrich Wilhelm gratulirt zur Constitution vom 3. Mai 1791.[89]
 
 Am 16. Mai 1791 erklärte v. d. Goltz, der zeitige Vertreter des preussischen Gesandten in Warschau der Deputation für die auswärtigen Angelegenheiten:
 
@@ -2265,23 +2233,21 @@ Am 16. Mai 1791 erklärte v. d. Goltz, der zeitige Vertreter des preussischen Ge
 
 ---
 
-##### From the Letter of Frederick William II to the King of Poland, of 11 April 1790.<sup class="lit-fn"><a href="#n-en-88">88</a></sup>
+#### From the Letter of Frederick William II to the King of Poland, of 11 April 1790.<sup class="lit-fn"><a href="#n-en-88">88</a></sup>
 
 *I am flattered by the confidence with which Your Majesty honors me, and I shall assuredly omit nothing on my part to justify it . . . . . . . I have ordered my Minister the Marquis de Lucchesini to refrain from that matter and to confine himself to the conclusion of a simple treaty of alliance. I am indebted to Your Majesty for having recommended to Your Nation the conclusion of this alliance. I set very great store by it, and I hold it an honor to be the principal ally of a Nation as noble and as brave. I have no doubt that it will likewise know how to appreciate my alliance, and that it will recognize what I have done and what I shall yet do to render it useful and fitting to both parties.*
 
 ---
 
-##### Frederick William Congratulates on the Constitution of 3 May 1791.<sup class="lit-fn"><a href="#n-en-89">89</a></sup>
+#### Frederick William Congratulates on the Constitution of 3 May 1791.<sup class="lit-fn"><a href="#n-en-89">89</a></sup>
 
 On 16 May 1791, v. d. Goltz, the acting representative of the Prussian envoy in Warsaw, declared to the Deputation for Foreign Affairs:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-66">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-66">p. 66</a></h2>
+<section class="lit-passage" id="p-66" data-page="66">
+<div class="pg" id="p66"><a href="#p66">p. 66</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 er habe von S. M. dem Könige von Preussen den Befehl, der Deputation zu versichern, dass S. M. mit *der* grössten Genugthuung die Nachricht von der glücklichen Veränderung vernommen habe, *welche endlich Polen eine weise und geordnete* Constitution gegeben habe, und verlas folgende
@@ -2304,19 +2270,17 @@ that he had received from His Majesty the King of Prussia the order to assure th
 "In accordance with the heartfelt affection with which I have ever been devoted to the welfare of the Republic and to the founding of its new Constitution — the affection, I say, of which I have never failed to give proof on every occasion that depended on me alone — *I approve and commend* the momentous step which the nation has resolved to take, and which I regard as essential to the founding of its *happiness.* The news thus *conveyed to me* could only be the more welcome to me, since I am bound by ties of friendship to the virtuous Prince now chosen to bring happiness to Poland, and since between his House and mine there subsist bonds of neighborly relation and the happiest concord. I am therefore convinced that the choice made by the Republic will establish *harmony and the closest understanding between it and myself.*"
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-67">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-67">p. 67</a></h2>
+<section class="lit-passage" id="p-67" data-page="67">
+<div class="pg" id="p67"><a href="#p67">p. 67</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Ihnen gebe ich nun den Auftrag, dem Könige, den Reichstagsmarschällen, und allen, die bei diesem so grossen Werke mitgewirkt haben, meinen aufrichtigsten Glückwunsch auf die nachdrücklichste Weise abzustatten.“
 
 ---
 
-##### Friedrich Wilhelm an Stanislaus August
+#### Friedrich Wilhelm an Stanislaus August
 den 23. Mai 1791.[90]
 
 *„Monsieur mon frère, j’ai reçu presque en même temps les deux lettres par lesquelles V. M. a bien volu me faire part de la résolution importante que la diète confédérée vient de prendre, en fixant la succession héréditaire de son trône, en faveur de la maison Saxe. L’empressement que j’ai mis à faire connoître ma façon de panser à cet égard, a dû la convaincre, ainsi que toute la nation Polonoise, de l’intérêt que j’y prends. Je me félicite d’avoir pu contribuer au maintien de sa liberté et de son indépendance, et un de mes soins le plus agréables sera celui d’entretenir et d’affermir les liens qui nous unissent. Je n’ai pu qu’applaudir, en particulier, au choix qu’elle a fait d’un prince que ses vertus rendent digne du trône qui l’attend. Je souhaite cependant que ce moment soit encore éloigné, et que V. M. puisse faire, pendant une longue suite d’années, le bonheur de ses peuples.“*
@@ -2328,66 +2292,62 @@ den 23. Mai 1791.[90]
 
 ---
 
-##### Frederick William to Stanislaus August 23 May 1791.<sup class="lit-fn"><a href="#n-en-90">90</a></sup>
+#### Frederick William to Stanislaus August 23 May 1791.<sup class="lit-fn"><a href="#n-en-90">90</a></sup>
 
 *"Monsieur my Brother, I have received almost at the same time the two letters by which Your Majesty was pleased to inform me of the important resolution which the confederated Diet has just taken, in fixing the hereditary succession to its throne in favor of the House of Saxony. The eagerness with which I have made known my way of thinking in this regard must have convinced Your Majesty, as well as the whole Polish nation, of the interest I take in it. I congratulate myself on having been able to contribute to the maintenance of its liberty and its independence, and one of my most agreeable cares will be to maintain and strengthen the bonds that unite us. I could but applaud, in particular, the choice it has made of a prince whom his virtues render worthy of the throne that awaits him. I wish, however, that this moment may still be distant, and that Your Majesty may, for a long succession of years, make the happiness of his peoples."*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-68">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-68">p. 68</a></h2>
+<section class="lit-passage" id="p-68" data-page="68">
+<div class="pg" id="p68"><a href="#p68">p. 68</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Aus der preussischen Note vom 21. Juni 1791.[91]
+#### Aus der preussischen Note vom 21. Juni 1791.[91]
 
 ...... „Indessen hält es der König von Preussen für eine angenehme Pflicht, von Neuem wieder zu versichern, dass er, *treu seinen Verbindlichkeiten,* immerfort darauf achten werde, die zu erfüllen, die er im vorigen Jahre mit Ihrer Maj. dem Könige von Polen eingegangen ist, indem er nach nichts so sehr trachtete, als über genügende Beweise von seiner unveränderlichen Anhängigkeit an diejenige Art von Gesinnungen zu geben, welche die Verbindungen zwischen beiden Höfen stärken und ihre ewige Dauer fördern könnten.“
 
 ---
 
-##### Aus den Erklärungen des preussischen Gesandten Lucchesini.
+#### Aus den Erklärungen des preussischen Gesandten Lucchesini.
 
-###### Am 14. April 1792.[92]
+##### Am 14. April 1792.[92]
 
 „Es ist nicht glaubwürdig, dass die Russen in die Länder der Republik einfallen sollten, vielleicht werden sie sich als *Freunde und Beschützer* der Missvergnügten blos den Gränzen näheren. Uebrigens liegt es den Polen ob, selbst an ihr Schicksal zu denken und so die übrigen Mächte wirksam für sich zu gewinnen. Denn die Mittel, die Polen ergreifen werde, würden auch die fremde Unterstützung derselben leiten.“
 
-###### Am 4. Mai 1792.[93]
+##### Am 4. Mai 1792.[93]
 
 „Sr. Majestät der König von Preussen können von
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### From the Prussian Note of 21 June 1791.<sup class="lit-fn"><a href="#n-en-91">91</a></sup>
+#### From the Prussian Note of 21 June 1791.<sup class="lit-fn"><a href="#n-en-91">91</a></sup>
 
 ...... "Meanwhile the King of Prussia holds it an agreeable duty to assure once again that he, *faithful to his obligations,* will constantly take care to fulfill those which he entered into last year with His Majesty the King of Poland, seeking nothing so much as to give sufficient proof of his unalterable attachment to that kind of sentiment which could strengthen the ties between the two Courts and promote their eternal duration."
 
-##### From the Declarations of the Prussian Envoy Lucchesini.
+#### From the Declarations of the Prussian Envoy Lucchesini.
 
-###### On 14 April 1792.<sup class="lit-fn"><a href="#n-en-92">92</a></sup>
+##### On 14 April 1792.<sup class="lit-fn"><a href="#n-en-92">92</a></sup>
 
 "It is not credible that the Russians should invade the lands of the Republic; perhaps they will, as *friends and protectors* of the discontented, merely draw nearer to the frontiers. For the rest, it is incumbent upon the Poles themselves to think of their own fate, and thereby effectively to win the other Powers to their side. For the means which Poland shall employ will also guide the foreign support given to her."
 
-###### On 4 May 1792.<sup class="lit-fn"><a href="#n-en-93">93</a></sup>
+##### On 4 May 1792.<sup class="lit-fn"><a href="#n-en-93">93</a></sup>
 
 "His Majesty the King of Prussia can take no notice of
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-69">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-69">p. 69</a></h2>
+<section class="lit-passage" id="p-69" data-page="69">
+<div class="pg" id="p69"><a href="#p69">p. 69</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 den Anordnungen keine Notiz nehmen, mit denen sich der Reichstag beschäftige, da ihnen die Gegenstände, die man dabei verhandelt, durchaus fremd seien.“
 
 ---
 
-###### Aus der Antwort des preussischen Gesandten auf eine Note vom 25. Mai 1792.[94]
+##### Aus der Antwort des preussischen Gesandten auf eine Note vom 25. Mai 1792.[94]
 
 Am 28. Mai 1792.
 
@@ -2395,7 +2355,7 @@ Am 28. Mai 1792.
 
 ---
 
-###### Aus der Antwort des Königs von Preussen an den König von Polen.
+##### Aus der Antwort des Königs von Preussen an den König von Polen.
 
 Am 8. Juni 1792.[95]
 
@@ -2406,47 +2366,43 @@ Am 8. Juni 1792.[95]
 
 the measures with which the Diet is occupied, since the matters negotiated therein are wholly foreign to him."
 
-###### From the Reply of the Prussian Envoy to a Note of 25 May 1792.<sup class="lit-fn"><a href="#n-en-94">94</a></sup>
+##### From the Reply of the Prussian Envoy to a Note of 25 May 1792.<sup class="lit-fn"><a href="#n-en-94">94</a></sup>
 
 On 28 May 1792.
 
 "I still await, with regard to the points contained in the last Note, the orders of my Court; I nevertheless hold it my duty to remind the Minister of Foreign Affairs of the content of my Note presented on 4 May, and of the verbal declarations which I renewed on the same day to the Chancellor, the Marshal of the Diet, the members of the Council of State, and the Diet now sitting. These declarations, which agree with all my official statements heard from me since my return to Warsaw and since the occurrence of the *Revolution* of 3 May 1791, are a fresh proof of the *well-known integrity* of the King of Prussia; for he did not wish the Polish nation to remain in ignorance of his measures and concerns in the present critical situation."
 
-###### From the Reply of the King of Prussia to the King of Poland.
+##### From the Reply of the King of Prussia to the King of Poland.
 
 On 8 June 1792.<sup class="lit-fn"><a href="#n-en-95">95</a></sup>
 
 "Your Majesty will readily perceive that, since the state of affairs has been entirely altered since the Alliance which I concluded with the Republic, and since the present circumstances occasioned by the Constitution of 3 May 1791 cannot be applied to the obligations stipulated in the previously concluded Alliance, *it does not depend on me to* meet Your Majesty's expectations, if the patriotic Party continues to hold the same intentions and wishes to maintain its work."<sup class="lit-fn"><a href="#n-en-96">96</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-70">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-70">p. 70</a></h2>
+<section class="lit-passage" id="p-70" data-page="70">
+<div class="pg" id="p70"><a href="#p70">p. 70</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ---
 
-##### Aus der Deklaration des Königs in Betreff des Einmarsches seiner Truppen in Polen, vom 6. Januar 1793.[97]
+#### Aus der Deklaration des Königs in Betreff des Einmarsches seiner Truppen in Polen, vom 6. Januar 1793.[97]
 
 „Es ist in ganz Europa bekannt, dass die Staatsveränderung, welche am 3. Mai 1791 ohne Vorwissen und Theilnahme der freundschaftlichen und benachbarten Mächte in Polen stattgehabt hat, bald das Missfallen und den Widerspruch eines grossen Theils der Nation erregte, und dass diejenigen, die der alten Regierungsform ergeben blieben, den Beistand der erhabenen Souveraine anriefen, welche die Garantie davon übernommen hat. Ihre Russische Kais. Maj. gaben dem Ansuchen Gehör und eilten mit einem ansehnlichen Truppenkorps zu Hilfe, um die eingeführten
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### From the Declaration of the King Concerning the Entry of His Troops into Poland, of 6 January 1793.<sup class="lit-fn"><a href="#n-en-97">97</a></sup>
+#### From the Declaration of the King Concerning the Entry of His Troops into Poland, of 6 January 1793.<sup class="lit-fn"><a href="#n-en-97">97</a></sup>
 
 "It is known throughout Europe that the change of government which took place in Poland on 3 May 1791, without the foreknowledge or participation of the friendly and neighboring Powers, soon aroused the displeasure and opposition of a great part of the nation, and that those who remained attached to the old form of government invoked the assistance of the exalted Sovereign who had undertaken the guarantee thereof. Her Imperial Russian Majesty gave ear to the request and hastened to their aid with a considerable body of troops, in order to abolish the introduced
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-71">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-71">p. 71</a></h2>
+<section class="lit-passage" id="p-71" data-page="71">
+<div class="pg" id="p71"><a href="#p71">p. 71</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Neuerungen ab- und die alte Grundverfassung wieder herzustellen.
@@ -2457,7 +2413,7 @@ Preussen musste an diesen Hergängen Antheil nehmen. Der König hoffte indess no
 
 ---
 
-###### Aus dem Besitznahme-Patent vom 25. März 1793 an die sämmtlichen Stände und Einwohner in Südpreussen und den Städten Danzig und Thorn. [99]
+##### Aus dem Besitznahme-Patent vom 25. März 1793 an die sämmtlichen Stände und Einwohner in Südpreussen und den Städten Danzig und Thorn. [99]
 
 Wir Friedrich Wilhelm, von Gottes Gnaden etc. entbieten hiermit den sämmtlichen Ständen, Bischöfen,
 
@@ -2472,17 +2428,15 @@ Prussia was obliged to take part in these events. The King, however, still hoped
 
 ---
 
-###### From the Patent of Possession of 25 March 1793 to All the Estates and Inhabitants of South Prussia and the Cities of Danzig and Thorn.<sup class="lit-fn"><a href="#n-en-99">99</a></sup>
+##### From the Patent of Possession of 25 March 1793 to All the Estates and Inhabitants of South Prussia and the Cities of Danzig and Thorn.<sup class="lit-fn"><a href="#n-en-99">99</a></sup>
 
 We, Frederick William, by the Grace of God, etc., hereby extend to all the Estates, Bishops,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-72">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-72">p. 72</a></h2>
+<section class="lit-passage" id="p-72" data-page="72">
+<div class="pg" id="p72"><a href="#p72">p. 72</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Aebten etc. etc. der Woywodschaften Posen, Gnesen, Kalisch etc. etc. nach Massgabe des Gränzzuges, in gleichem der Städte Danzig und Thorn, welche die Krone Polen bishero besessen, Unseren geneigten Willen, Königliche Gnade und alles Gutes, und geben denselben hierdurch folgendes gnädigst zu vernehmen:
@@ -2501,12 +2455,10 @@ It is generally known that the Polish nation has never ceased to give the neighb
 We have therefore resolved, in agreement with Her Imperial Russian Majesty, to take possession of the districts of Poland named at the outset, together with the cities of Danzig and Thorn, and to incorporate them into Our State. We hereby publicly announce this Our firm and unshakable resolve, and expect of the Polish nation that it will assemble on the Diet as soon as possible and adopt suitable measures, so that everything requisite in this matter may be amicably settled, and thereby the salutary end attained of procuring for the Republic of Poland an undisturbed peace, and preserving its inhabitants from the dreadful consequences of anarchy. At the same time we exhort the Estates and inhabitants of those districts and cities which We have caused to be taken into possession as aforesaid, as graciously as earnestly, not to oppose Our said taking of possession, nor the commanders and troops appointed by Us for that purpose, but rather willingly to submit to Our government, henceforth to regard and acknowledge Us as their lawful King and Sovereign, to show themselves Our faithful and obedient
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-73">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-73">p. 73</a></h2>
+<section class="lit-passage" id="p-73" data-page="73">
+<div class="pg" id="p73"><a href="#p73">p. 73</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Unterthanen zu erweisen und sich aller Gemeinschaft mit der Krone Polen zu entziehen.
@@ -2521,7 +2473,7 @@ Finkenstein. Alvensleben.
 
 ---
 
-##### Aus dem Friedensvertrage zu Grodno vom 25. September 1793 zwischen Sr. Majestät dem Könige von Preussen und der polnischen Republik.[101]
+#### Aus dem Friedensvertrage zu Grodno vom 25. September 1793 zwischen Sr. Majestät dem Könige von Preussen und der polnischen Republik.[101]
 
 *Art. I.*
 
@@ -2542,28 +2494,26 @@ Finkenstein. Alvensleben.
 
 ---
 
-##### From the Treaty of Peace at Grodno of 25 September 1793 between His Majesty the King of Prussia and the Polish Republic.<sup class="lit-fn"><a href="#n-en-101">101</a></sup>
+#### From the Treaty of Peace at Grodno of 25 September 1793 between His Majesty the King of Prussia and the Polish Republic.<sup class="lit-fn"><a href="#n-en-101">101</a></sup>
 
 *Art. I.*
 
 *There shall be a sincere and constant friendship and union between His Majesty the King of Prussia, His heirs and Successors, and all His States, on the one part, and His Majesty the*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-74">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-74">p. 74</a></h2>
+<section class="lit-passage" id="p-74" data-page="74">
+<div class="pg" id="p74"><a href="#p74">p. 74</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Roi de Pologne, Grand-Duc de Lithuanie etc. et Ses Successeurs aussi bien que le Royaume de Pologne et le Grand-Duché de Lithuanie de l'autre; de manière que les deux hautes Parties contractantes apporteront la plus grande attention à maintenir entre Elles une bonne intelligence et correspondance réciproques, en évitant tout ce qui pourrait altérer la tranquillité et la prospérité de Leurs Etats.*
 
-###### Art. III.
+##### Art. III.
 
 *. . . . Sa Majesté le Roi de Prusse renonce très expressément pour Elle et pour Ses héritiers et Successeurs de l'un et de lautre sexe, à toutes les prétentions, qu' Elle peut à présent ou qu' Elle pourra à l'avenir former, soi directement ou indirectement, et sous quels titres, denominations, prétexte ou stipulations de circonstances ou d' évenements que cela puisse être, sur aucune province, ou la moindre partie du territoire, que comprend actuellement la Pologne. Sa Majesté le Roi de Prusse renonce également à la possession et aux droits sur les terres de Serreie et de Tauroggi et leurs dépendances, situées dans la Lithuanie, s'engageant en outre à maintenir la Pologne dans l'état de possession actuel et de Lui garantir, comme elle Lui garantit en effet par le présent article, de la manière la plus expresse et la plus obligatoire, l'intégrité et la souveraineté de dites possessions actuelles, avec tous les droits qui en dérivent.*
 
-###### Art. V.
+##### Art. V.
 
 *Les Catholiques Romains, à linstar de ceux de leur religion, qui ont passé précedement dans la domination Prussienne, jouiront dans les provinces cédées par le présent Traité, de tous leurs droits et propriété, quant au civil; et par rapport à la religion, ils conserveront le même libre exercice de culte et de discipline dans l'état actuel, avec toutes les églises et tous les biens ecclesiastiques, dont ils étoient en possession ci-devant. Sa Majesté Prussienne*
 
@@ -2572,21 +2522,19 @@ Finkenstein. Alvensleben.
 
 *King of Poland, Grand Duke of Lithuania, etc., and His Successors, as well as the Kingdom of Poland and the Grand Duchy of Lithuania, on the other part; in such manner that the two High Contracting Parties shall give the greatest attention to maintaining between Them a good understanding and mutual correspondence, avoiding everything that might disturb the tranquility and prosperity of Their States.*
 
-###### Art. III.
+##### Art. III.
 
 *. . . . His Majesty the King of Prussia renounces most expressly, for Himself and for His heirs and Successors of either sex, all pretensions which He may now, or may hereafter, form, whether directly or indirectly, and under whatever titles, denominations, pretext, or stipulations arising from circumstances or events these may be, upon any province, or the smallest part of the territory, which Poland at present comprises. His Majesty the King of Prussia likewise renounces the possession of, and the rights to, the lands of Serreie and Tauroggi and their dependencies, situated in Lithuania, engaging moreover to maintain Poland in her present state of possession and to guarantee to her, as He does in fact guarantee to her by the present article, in the most express and most binding manner, the integrity and sovereignty of the said present possessions, together with all rights deriving therefrom.*
 
-###### Art. V.
+##### Art. V.
 
 *The Roman Catholics, following the example of those of their religion who have previously passed under Prussian dominion, shall enjoy, in the provinces ceded by the present Treaty, all their rights and property as regards civil matters; and as regards religion, they shall retain the same free exercise of worship and discipline in their present state, together with all the churches and all the ecclesiastical property of which they were formerly in possession. His Prussian Majesty*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-75">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-75">p. 75</a></h2>
+<section class="lit-passage" id="p-75" data-page="75">
+<div class="pg" id="p75"><a href="#p75">p. 75</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *déclarant pour Elle et pour Ses Successeurs de ne vouloir jamais exercer les droits de souverainité, au préjudice de l’état actuel de la religion Catholique dans les pays passés sous Sa domination par le présent Traité.*
@@ -2595,7 +2543,7 @@ Finkenstein. Alvensleben.
 
 ---
 
-##### Aus dem Patent über die Bewirthschaftung der Starosteien in Südpreussen, d. d. Berlin, 26. Februar 1794.[102]
+#### Aus dem Patent über die Bewirthschaftung der Starosteien in Südpreussen, d. d. Berlin, 26. Februar 1794.[102]
 
 Wir *Friedrich Wilhelm,* von Gottes Gnaden König von Preussen etc. etc.
 
@@ -2612,7 +2560,7 @@ Wir wiederholen diese Unsere Königliche Versicherung hierdurch und wollen zur S
 
 ---
 
-##### From the Patent Concerning the Administration of the Starosties in South Prussia, dated Berlin, 26 February 1794.<sup class="lit-fn"><a href="#n-en-102">102</a></sup>
+#### From the Patent Concerning the Administration of the Starosties in South Prussia, dated Berlin, 26 February 1794.<sup class="lit-fn"><a href="#n-en-102">102</a></sup>
 
 We, *Frederick William,* by the Grace of God King of Prussia, etc. etc.
 
@@ -2621,23 +2569,21 @@ Already at the taking of possession of South Prussia We assured the lawful posse
 We hereby repeat this Our Royal assurance, and will, for the security of his possession, that such a possessor, on the strength of his right received from the Crown and the Republic of Poland and of this Our most high Patent, shall be newly enfeoffed by Our General Directory as usufructuary holder of such starosty or Crown and feudal estates, Tenuten, Vibranzen and Lahnen, Freischulzereien, or by whatever other names they may be called, rights and revenues, as belong to Us.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-76">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-76">p. 76</a></h2>
+<section class="lit-passage" id="p-76" data-page="76">
+<div class="pg" id="p76"><a href="#p76">p. 76</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wir wiederholen (?) und bestimmen aber ausdrücklich, dass Wir als Besitzer starosteilicher und ähnlicher Güter, bloss diejenigen, welche zur Zeit Unserer Occupation von Südpreussen im rechtmässigen Besitz derselben waren, anerkennen: dass Wir bloss für ihre Person, und nur auf ihre Lebenszeit, oder auf die Zeit der Verleihung, insofern diese vor ihrem Tode ablaufen sollte, ihren Besitz fortdauern lassen, alsdann aber mit ihrem Ableben, oder bei einer jeden früheren Erledigung, die Güter Unseren Domainen zufallen sollen.
 
 Um die gegenseitigen Verhältnisse, Rechte und Verbindlichkeiten zwischen den Starosteibesitzern, den Besitzern starosteilicher und ähnlicher Güter und Zubehörungen, näher zu bestimmen, haben Wir Folgendes zu verordnen, für nöthig gefunden.
 
-###### §. 1—8.
+##### §. 1—8.
 
 Alle Besitzer von starosteilichen etc. etc. Gütern, Gerechtsamen und Einkünften, mit denen sie unter polnischer Administration beliehen sind, werden aufgefordert, dieselben der Kriegs- und Domainenkammer ihres Departements anzuzeigen und die ursprünglichen zugehörigen Inventarien an Staat, Vieh, Acker- und Wirthschaftsgeräthen, bei Strafe sofortigen Verlustes für wissentliche Verheimlichung, anzuzeigen, das Besitzrecht nachzuweisen, und prüfen zu lassen, um von Neuem mit denselben belehnt werden zu können.
 
-###### §. 9—12.
+##### §. 9—12.
 
 Verbindlichkeit zur Conservirung der Güter und der Unterthanen und zur Entrichtung der Lasten.
 
@@ -2648,88 +2594,84 @@ We repeat (?), but expressly determine, that We recognize as possessors of staro
 
 In order to determine more precisely the mutual relations, rights, and obligations between the starosty-holders, the possessors of starosty and similar estates and appurtenances, We have found it necessary to ordain the following.
 
-###### §. 1—8.
+##### §. 1—8.
 
 All possessors of starosty etc. etc. estates, rights, and revenues with which they were enfeoffed under Polish administration are called upon to report the same to the War and Domains Chamber of their Department, and to declare the original inventories pertaining thereto of livestock, cattle, and agricultural and husbandry implements — under penalty of immediate forfeiture for wilful concealment — to prove their right of possession, and to have it examined, in order to be newly enfeoffed with the same.
 
-###### §. 9—12.
+##### §. 9—12.
 
 Obligation to preserve the estates and the subjects, and to discharge the burdens.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-77">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-77">p. 77</a></h2>
+<section class="lit-passage" id="p-77" data-page="77">
+<div class="pg" id="p77"><a href="#p77">p. 77</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### §. 12—15.
+##### §. 12—15.
 
 Afterverleihungen sind ohne Genehmigung der Regierung nicht statthaft; — desgleichen neue Verpachtungen oder Erneuerung alter Pachtverträge und die Vorauszahlung der Pacht auf ein halbes Jahr und darüber. Die Pachtkontrakte müssen der Kammer abschriftlich eingereicht und ihr Ablauf ein Jahr früher angezeigt werden. — Auch die Pächter haften mit ihrem Vermögen für die Erfüllung aller Vorschriften dieses Patents.
 
-###### §. 15.
+##### §. 15.
 
 Im Falle der Selbstverwaltung müssen die Wirthschafter der Kammer zur Approbation vorgestellt werden und die Pflichten der Starosteibesitzer übernehmen.
 
-###### §. 16.
+##### §. 16.
 
 Enthält die Anordnung vorschriftsmässiger Wirthschaftsbücher, die auf Verlangen produzirt und beeidet werden müssen.
 
-###### §. 17—22.
+##### §. 17—22.
 
 Specielle Pflichten zur Conservation der Gebäude.
 
-###### §. 22—24.
+##### §. 22—24.
 
 Meliorationen und neue Nützungen, die von Sachverständigen für gut befunden und vom Generaldirectorio beschlossen wurden, darf kein Starosteibesitzer hindern.
 
-###### §. 24—26.
+##### §. 24—26.
 
 Abgaben müssen von der Nutzung entrichtet werden, die Starosteibesitzer sind daher schuldig, alle auf den Starosteigütern haftenden Abgaben und Lasten bis zur Einführung des neuen Steuersystems, sowie sie bisher waren, von Publikation des neuen Systems an aber nach Vorschrift desselben, auch alle sonstigen öffentlichen Auflagen zu berichtigen und dabei die Termine der Zahlung gehörig zu beobachten, widrigen Falls soll gegen die Säumigen zuvörderst mit Execution, und ist diese fruchtlos, sofort mit der Sequestration verfahren werden.
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### §. 12—15.
+##### §. 12—15.
 
 Sub-enfeoffments are not permissible without the approval of the government; — likewise new leases, or the renewal of old lease contracts, and the advance payment of rent for half a year or more. The lease contracts must be submitted to the Chamber in copy, and their expiry announced one year in advance. — The lessees are also liable with their property for the fulfillment of all the provisions of this Patent.
 
-###### §. 15.
+##### §. 15.
 
 In the case of self-administration, the managers must be presented to the Chamber for approbation, and must assume the duties of the starosty-holders.
 
-###### §. 16.
+##### §. 16.
 
 Contains the requirement of proper account-books, which must be produced and sworn to upon demand.
 
-###### §. 17—22.
+##### §. 17—22.
 
 Special duties for the preservation of the buildings.
 
-###### §. 22—24.
+##### §. 22—24.
 
 No starosty-holder may hinder improvements and new uses which have been found good by experts and resolved upon by the General Directory.
 
-###### §. 24—26.
+##### §. 24—26.
 
 Dues must be paid from the usufruct; the starosty-holders are therefore obliged to discharge all dues and burdens resting upon the starosty estates, until the introduction of the new tax system, as they have hitherto stood, but from the publication of the new system according to its provisions, as well as all other public imposts, and duly to observe the terms of payment; otherwise proceedings shall first be taken against defaulters by execution, and, should this prove fruitless, immediately by sequestration.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-78">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-78">p. 78</a></h2>
+<section class="lit-passage" id="p-78" data-page="78">
+<div class="pg" id="p78"><a href="#p78">p. 78</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### §. 27—44.
+##### §. 27—44.
 
 §. 27—31 bestimmt die Verhältnisse zu den Unterthanen; §. 31—34 zur Polizei; §. 34—39 zur Justizverwaltung; §. 40—43 zu den Vorgesetzten der Kammer. Die Kammerräthe sind die beständigen Kommissarien in allen wirthschaftlichen und polizeilichen Angelegenheiten auch ohne besondern Auftrag. Auf ihr Verlangen sind ihnen jeder Zeit und alle in ihr Geschäft einschlagenden Nachrichten zu suppeditiren und jede Auskunft zu geben.
 
-###### §. 44—57.
+##### §. 44—57.
 
 Verbindlichkeiten beim Rückfall der Güter: Mit dem Tode des lebenslänglich Beliehenen hört sofort der Niessbrauch auf, und die Erben müssen bei fiskalischer Ahndung der Kammer schleunige Anzeige machen. Vor der Liquidation darf nichts herausgenommen werden. „*Jedoch werden Wir Uns dabei auf keine bei der Beleihung und Acquisition gezahlten Kauf- und andere Gelder, und eingegangene lästige Bedingungen einlassen.*“ — „*Vorhandene Pächter noch beizubehalten, oder ihnen wegen irgend einer mit dem vorigen Besitzer getroffenen Verabredung Gewähr zu leisten, sind wir nicht verbunden.*“ — „*Für absichtliche Deteriorationen (Seitens der Starosteibesitzer) und für den Missbrauch der ihm verliehenen Güter sind Wir ihn, seine Erben etc. in Anspruch zu nehmen, berechtigt,*“ etc. etc.
 
@@ -2744,11 +2686,11 @@ v. Voss.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### §. 27—44.
+##### §. 27—44.
 
 §. 27—31 determines the relations to the subjects; §. 31—34 relates to the police; §. 34—39 to the administration of justice; §. 40—43 to the superiors of the Chamber. The Chamber Councillors are the permanent commissioners in all economic and police matters, even without special commission. At their request, all information and news pertaining to their business must at all times be furnished to them, and every disclosure given.
 
-###### §. 44—57.
+##### §. 44—57.
 
 Obligations upon reversion of the estates: with the death of the life-tenant enfeoffee, the usufruct ceases at once, and the heirs must give prompt notice to the Chamber, under fiscal penalty. Nothing may be removed before the liquidation. "*We shall not, however, thereby enter into any purchase money or other moneys paid at the enfeoffment and acquisition, nor into any onerous conditions entered upon.*" — "*We are not bound to retain existing lessees, or to give them any warranty on account of any agreement made with the previous possessor.*" — "*For wilful deteriorations (on the part of the starosty-holder) and for the misuse of the estates granted to him, We are entitled to hold him, his heirs, etc., liable,*" etc. etc.
 
@@ -2761,15 +2703,13 @@ v. Voss.
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-79">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-79">p. 79</a></h2>
+<section class="lit-passage" id="p-79" data-page="79">
+<div class="pg" id="p79"><a href="#p79">p. 79</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Aus dem Patent wegen der Bewirthschaftung der starosteilichen Forsten in Südpreussen, d. d. Berlin, 25. März 1794.[103]
+#### Aus dem Patent wegen der Bewirthschaftung der starosteilichen Forsten in Südpreussen, d. d. Berlin, 25. März 1794.[103]
 
 Wir *Friedrich Wilhelm,* von Gottes Gnaden etc. etc. verordnen und befehlen ......
 
@@ -2792,7 +2732,7 @@ Mit dieser Selbstverwaltung fällt alle Concurrenz der Starostei- und anderer k�
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### From the Patent Concerning the Administration of the Starosty Forests in South Prussia, dated Berlin, 25 March 1794.<sup class="lit-fn"><a href="#n-en-103">103</a></sup>
+#### From the Patent Concerning the Administration of the Starosty Forests in South Prussia, dated Berlin, 25 March 1794.<sup class="lit-fn"><a href="#n-en-103">103</a></sup>
 
 We, *Frederick William,* by the Grace of God, etc. etc., ordain and command ......
 
@@ -2813,19 +2753,17 @@ Of this timber already felled, they shall first be furnished with the husbandry 
 With this self-administration, all participation of the starosty and other Royal estate possessors and their forest officials, and their influence and authority in the forests, lapses.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-80">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-80">p. 80</a></h2>
+<section class="lit-passage" id="p-80" data-page="80">
+<div class="pg" id="p80"><a href="#p80">p. 80</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### §. 8—10.
+##### §. 8—10.
 
 Den Starostei- und anderen königl. Gutsbesitzern soll, insofern damit Forsten verbunden sind (nach einem Etat von 6 zu 6 Jahren) jährlich ihr wirthschaftlicher Holzbedarf darin angewiesen und darauf frei verabfolgt werden, so dass sie nur das *Anweisegeld* und *Holzhauerlohn* *dafür vergüten.* Der Ort der Ablieferung ist die Forst selbst, und die Empfänger müssen es sogleich abholen lassen.
 
-###### §. 11.
+##### §. 11.
 
 Der Bauholzbedarf zur Erhaltung der starosteilichen und anderer königl. Gebäude soll nicht anders als nach jedesmaligen Anschlägen eines königl. Baubedienten, und mit der Einschränkung gereicht werden, dass sie den wirklichen Verbrauch nach Vollendung der Bauten und Reparaturen sofort oder alljährlich nachweisen müssen.
 
@@ -2836,7 +2774,7 @@ Arnim.  v. Voss.
 
 ---
 
-##### Aus dem Notifications-Patent, betreffend die Einrichtung des geistlichen und weltlichen Justizwesens in Südpreussen, d. d. 8. Mai 1793.[104]
+#### Aus dem Notifications-Patent, betreffend die Einrichtung des geistlichen und weltlichen Justizwesens in Südpreussen, d. d. 8. Mai 1793.[104]
 
 Wir Friedrich Wilhelm, von Gottes Gnaden etc. etc., thuen kund und fügen hierdurch jedermänniglich zu wissen:
 
@@ -2845,11 +2783,11 @@ Nachdem wir Uns durch Unser Patent vom 25. März c.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### §. 8—10.
+##### §. 8—10.
 
 To the starosty and other Royal estate possessors, insofar as forests are connected therewith (according to a schedule renewed every six years), their husbandry requirement of timber shall be assigned annually therein and freely furnished thereupon, so that they need only pay the *assignment fee* and the *woodcutter's wage* *for it.* The place of delivery is the forest itself, and the recipients must have it fetched at once.
 
-###### §. 11.
+##### §. 11.
 
 The requirement of building timber for the maintenance of starosty and other Royal buildings shall be furnished only according to estimates drawn up on each occasion by a Royal building official, and with the restriction that they must prove the actual consumption immediately, or annually, upon completion of the buildings and repairs.
 
@@ -2858,19 +2796,17 @@ The requirement of building timber for the maintenance of starosty and other Roy
 *Frederick William.*  
 Arnim.  v. Voss.
 
-##### From the Patent of Notification Concerning the Establishment of the Ecclesiastical and Secular Judicial System in South Prussia, dated 8 May 1793.<sup class="lit-fn"><a href="#n-en-104">104</a></sup>
+#### From the Patent of Notification Concerning the Establishment of the Ecclesiastical and Secular Judicial System in South Prussia, dated 8 May 1793.<sup class="lit-fn"><a href="#n-en-104">104</a></sup>
 
 We, Frederick William, by the Grace of God, etc. etc., do make known and hereby give every one to understand:
 
 After We have, by Our Patent of 25 March of this year,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-81">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-81">p. 81</a></h2>
+<section class="lit-passage" id="p-81" data-page="81">
+<div class="pg" id="p81"><a href="#p81">p. 81</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und durch die eingenommene Erbhuldigung der Treue und des Gehorsams Unserer nunmehrigen Unterthanen bereits versichert haben; so ist nunmehro billig Unsere erste und Hauptsorgfalt dahin gerichtet, die Ruhe und Glückseligkeit dieser Unserer neuen acquirirten Provinzen und Unterthanen zu befördern und zu sichern. . . . . .
@@ -2893,12 +2829,10 @@ With regard to Our now subjects of the Roman Catholic religion, We will indeed l
 We further will that, both at Our Regierung and at all subordinate courts, in all business generally, everything shall henceforth be transacted in the *German language*, and whoever is not conversant with this language must, both for everything he has to submit to the courts, and in order to understand the orders and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-82">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-82">p. 82</a></h2>
+<section class="lit-passage" id="p-82" data-page="82">
+<div class="pg" id="p82"><a href="#p82">p. 82</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Verordnungen, welche er erhält, zu verstehen, sich eines Dolmetschers bedienen etc. etc.
@@ -2912,7 +2846,7 @@ Gegeben in unserm Hauptquartier.
 
 ---
 
-##### Aus dem Besitznahme-Patent vom 26. Dezember 1795 an die Stände und Einwohner der bisherigen polnischen Woywodschaften etc.[105]
+#### Aus dem Besitznahme-Patent vom 26. Dezember 1795 an die Stände und Einwohner der bisherigen polnischen Woywodschaften etc.[105]
 
 *Wir Friedrich Wilhelm,* von Gottes Gnaden König von Preussen etc. etc.
 
@@ -2933,7 +2867,7 @@ Given at Our headquarters.
 *Baron von Dankelmann.*
 
 
-##### From the Patent of Possession of 26 December 1795 to the Estates and Inhabitants of the former Polish Voivodeships, etc.<sup class="lit-fn"><a href="#n-en-105">105</a></sup>
+#### From the Patent of Possession of 26 December 1795 to the Estates and Inhabitants of the former Polish Voivodeships, etc.<sup class="lit-fn"><a href="#n-en-105">105</a></sup>
 
 *We, Frederick William,* by the Grace of God King of Prussia, etc. etc.
 
@@ -2942,17 +2876,15 @@ Tender Our gracious will and Royal favour to all Estates and Inhabitants in the 
 After We have incorporated the lands lying within the aforesaid boundary line into Our Realm in such a manner that they shall belong to the Prussian sceptre for all time, and to that end shall be solemnly taken into possession in Our name; We hereby exhort the inhabitants of these lands, as graciously as earnestly, not to oppose this taking of possession, nor the commanders, troops, and commissioners deputed by Us to that end, but rather willingly to submit to Our government; henceforth to regard and acknowledge Us as their lawful King and Sovereign; to render Us the oath of fidelity and submission; to show themselves Our faithful and obedient vassals and subjects, and thereby to render themselves worthy and partaking of Our Royal protection, favour, and goodwill, which We hereby assure to them equally with Our other vassals and subjects, etc. etc.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-83">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-83">p. 83</a></h2>
+<section class="lit-passage" id="p-83" data-page="83">
+<div class="pg" id="p83"><a href="#p83">p. 83</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ---
 
-##### **Declaration**
+#### **Declaration**
 
 wegen Einziehung und künftiger Verwaltung der geistlichen Güter, ingleichen der Starosteien und anderer königl. Güter in Südpreussen und der von der ehemaligen Republik Polen neuerlich acquirirten Provinzen.[106]
 
@@ -2961,19 +2893,17 @@ Es ist bekannt, dass die Güter und Grundstücke, welche die römisch-katholisch
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### **Declaration**
+#### **Declaration**
 
 concerning the confiscation and future administration of the ecclesiastical estates, likewise of the starosties and other royal estates in South Prussia and in the provinces recently acquired from the former Republic of Poland.<sup class="lit-fn"><a href="#n-en-106">106</a></sup>
 
 It is well known that the estates and landed properties which the Roman Catholic clergy have hitherto held
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-84">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-84">p. 84</a></h2>
+<section class="lit-passage" id="p-84" data-page="84">
+<div class="pg" id="p84"><a href="#p84">p. 84</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gehabt hat, einen sehr beträchtlichen Theil des ganzen Landeigenthums in denjenigen Districten ausmachen, die Se. Königl. Majestät von Preussen, Unserm allergnädigsten Herrn, sowohl im Jahre 1793 als bei der neuesten Grenz-Regulirung von der ehemaligen Republik Polen anheim gefallen sind.
@@ -2992,12 +2922,10 @@ His said Majesty was indeed at first minded to leave the possession and the admi
 However, in South Prussia the outcome did not answer to this expectation; rather, experience has throughout confirmed that persons who from youth up are trained and guided only in scholarly knowledge and religious pursuits, and who, if they wish duly to discharge their duties, must devote almost their entire time to the cure of souls, the conduct of divine service, and other spiritual exercises, have neither the capacity nor the leisure to apply themselves with any success to the conduct of husbandry on a large scale; and that even the desire and inclination for sound improvements — which commonly require the sacrifice of considerable present advantage for a greater but more distant gain — are not to be expected from those whose enjoyment of it ends with their life or with their further advancement, and who must then leave the fruits of their industry and their sacrifices to strangers with whom they are connected by neither kinship nor any other close tie.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-85">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-85">p. 85</a></h2>
+<section class="lit-passage" id="p-85" data-page="85">
+<div class="pg" id="p85"><a href="#p85">p. 85</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Da Se. Königl. Majestät nicht gestatten können, dass ein so beträchtlicher Theil des Landes noch länger in dem bisherigen vernachlässigten Zustande bleibe, und die wichtigen Vortheile aus einer verbesserten Kultur desselben für den Staat und das gesammte Publikum ungenutzt verloren gehen; so haben Allerhöchstdieselben resolvirt:
@@ -3020,12 +2948,10 @@ Since, however, His Royal Majesty is by no means minded, by this measure taken f
 > that of all these estates, according to their present condition, proper valuations shall, insofar as this has not already been done, be taken up with all speed, and that that portion of the former net revenue which remains after deduction of the administration costs, of the taxes fixed at certain percentages, and of the other public and common charges, shall be paid out to the clergy as a fixed allowance (Kompetenz) for their maintenance, for the conduct of divine service, and for the fulfilment of other useful purposes to which such estates may have been assigned by their former possessors to the clergy.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-86">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-86">p. 86</a></h2>
+<section class="lit-passage" id="p-86" data-page="86">
+<div class="pg" id="p86"><a href="#p86">p. 86</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Aus völlig gleichen Gründen und da eine allgemeine regelmässige Organisation der Provinz täglich dringlicher wird, diese aber unmöglich eingeführt werden kann, so lange ein so grosser Theil der Königl. Domainen sich in den Händen von Privatbesitzern befindet, die dieselben nach eigener Willkühr verwalten, haben Se. Königl. Majestät ferner resolvirt:
@@ -3044,12 +2970,10 @@ For entirely the same reasons, and since a general, orderly organisation of the 
 His Royal Majesty may confidently expect that everyone, and even those most directly concerned, will not fail to recognise His Majesty's paternal intentions and sentiments in a measure whereby, on the one hand, the common good is promoted through the improvement of the cultivation of the land, and the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-87">p. 87</a></h2>
+<section class="lit-passage" id="p-87" data-page="87">
+<div class="pg" id="p87"><a href="#p87">p. 87</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Verstärkung der innern Staatskräfte befördert wird, auf der andern Seite aber auch die bisherigen Besitzer dieser geistlichen und königl. Güter in unverkürztem Genusse der eigentlichen Vortheile verbleiben, die sie aus den Nutzungen derselben bisher wirklich gezogen haben und zu ziehen berechtigt gewesen sind.
@@ -3064,7 +2988,7 @@ Berlin, 28. Juli 1796.
 
 ---
 
-##### Instruction für die Kriegs- und Domainenkammern und für die constituirten Domainen-Einrichtungskommissionen wegen Einziehung und Verwaltung der Königl. und Geistlichen Güter.
+#### Instruction für die Kriegs- und Domainenkammern und für die constituirten Domainen-Einrichtungskommissionen wegen Einziehung und Verwaltung der Königl. und Geistlichen Güter.
 
 Vom 10. Septbr. 1796.[107]
 
@@ -3083,46 +3007,42 @@ Berlin, 28 July 1796.
 
 *Frederick William.*
 
-##### Instruction for the War and Domains Chambers and for the constituted Domains Organisation Commissions concerning the Confiscation and Administration of the Royal and Ecclesiastical Estates.
+#### Instruction for the War and Domains Chambers and for the constituted Domains Organisation Commissions concerning the Confiscation and Administration of the Royal and Ecclesiastical Estates.
 
 Of 10 September 1796.<sup class="lit-fn"><a href="#n-en-107">107</a></sup>
 
 Now that the necessary steps for the publication of the Most High *Declaration* of 28 July of this year, respecting the Royal and Ecclesiastical estates to be confiscated both in South Prussia and in the new *Acquisition*, have been initiated and set in motion, His Royal Majesty of Prussia, etc., Our Most Gracious Lord, has found it necessary to furnish His South Prussian War and Domains Chambers, and the Domains Organisation Commissions *constituted* from their number, to whom the execution of this business in their *respective Departments* has been entrusted, with the following more detailed *Instruction*, in pursuance of the negotiations conducted between our *General Commissary*, the Privy Finance Councillor *Schultz*, and the South Prussian Chamber *Presidiums*, and approved by our South Prussian *General Finance Department* by means of the *rescript* of 24 August 1796 and the specially executed *operations plan*.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-88">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-88">p. 88</a></h2>
+<section class="lit-passage" id="p-88" data-page="88">
+<div class="pg" id="p88"><a href="#p88">p. 88</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### 1. Gegenstand der Einziehung.
+##### 1. Gegenstand der Einziehung.
 
 Die *Einziehung ist allgemein,* und erstreckt sich über alle Arten der Königl. und Geistlichen Güter, die nach den letzten *Lustrationen* und Steuer-Tarifs der ehemaligen polnischen Schatz-Commission als solche angesehen werden können, und deren *Qualität* also dadurch ausser Zweifel
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### 1. Object of the Confiscation.
+##### 1. Object of the Confiscation.
 
 The *confiscation is general,* and extends to all kinds of Royal and Ecclesiastical estates which, according to the latest *lustrations* and tax tariffs of the former Polish Treasury Commission, can be regarded as such, and whose *character* is thereby placed beyond doubt.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-89">p. 89</a></h2>
+<section class="lit-passage" id="p-89" data-page="89">
+<div class="pg" id="p89"><a href="#p89">p. 89</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gesetzt ist. Weder die Benennung, noch sonstige Eigenschaft eines solchen Guts, noch der Titul, aus welchen dasselbe von seinem gegenwärtigen Inhaber besessen wird, machen dabei einen Unterschied. Auch solche Güter, welche nach der *Constitution* des letzten *Warschauer* Reichstages von gewissen Personen oder Familien auf eine bestimmte Reihe von Jahren im *emphiteutischen* Besitz übernommen worden, sind deswegen von der Einziehung nicht befreit.
 
 Nur in dem einzelnen Falle, wenn jemand behauptet, dass er ein ursprünglich Königliches Gut als sein wahres, volles Eigenthum besitze, und wenn er diese Angabe durch unverdächtige Urkunden sofort bescheiniget, kann mit der Einziehung nicht verfahren, sondern die Sache muss nach den Grundsätzen der gemeinen und polnischen Rechte von Veräusserung der Domainen- und Staats-Güter, näher untersucht und der Besitzer allenfalls rechtlich darüber gehört werden, worüber das weitere unten vorkommen wird.
 
-###### 2. Art der Verwaltung und Benutzung der eingezogenen Güter.
+##### 2. Art der Verwaltung und Benutzung der eingezogenen Güter.
 
 Daraus, dass die Einziehung selbst allgemein ist, folgt jedoch noch nicht, dass auch die Art und Weise, die eingezogenen Güter zu verwalten und zu benutzen, durchgehend dieselbe sein müsse; vielmehr muss in jedem einzelnen Fall derjenige *Modus* gewählt werden, welcher dem wahren Interesse des Staats am zuträglichsten ist. In dieser Rücksicht ist, um eines Theils die von Sr. Königl. Maj. beabsichtigte *Menagementes*, gegen die Interessenten beobachten zu können, anderntheils aber um jeder Verwirrung, und allen daraus, sowohl für die *Administrations*-Einrichtung, als für das Allerhöchste Kassen-Interesse, unvermeidlich entstehenden Folgen vorzubeugen, der Unterschied nicht aus den Augen zu lassen, der zwischen der allgemeinen Einziehung, oder der eigentlichen Besitznahme welche unmittelbar durch die *Publikation* der Königlichen Allerhöchsten *Declaration* vom 28. Juli c. vollzogen wird, und zwischen der Wirthschafts-Uebernahme, oder der *Administration* für Sr. Königliche Majestät Rechnung statt findet.
 
@@ -3133,17 +3053,15 @@ Neither the name nor any other characteristic of such an estate, nor the title u
 
 Only in the individual case where someone asserts that he possesses an originally Royal estate as his true, full property, and where he at once substantiates this statement by unimpeachable documents, is confiscation not to proceed; rather, the matter must be more closely examined according to the principles of common and Polish law governing the alienation of Domain and State estates, and the possessor, if need be, given a legal hearing on the matter, further particulars of which will follow below.
 
-###### 2. Manner of Administering and Using the Confiscated Estates.
+##### 2. Manner of Administering and Using the Confiscated Estates.
 
 From the fact that the confiscation itself is general, it does not, however, follow that the manner of administering and using the confiscated estates must throughout be the same; rather, in every individual case that *mode* must be chosen which is most conducive to the true interest of the State. In this regard, in order on the one hand to be able to observe the *forbearance* intended by His Royal Majesty toward the parties concerned, and on the other hand to forestall all confusion and all the consequences inevitably arising therefrom, both for the *administrative* arrangement and for the Most High Treasury's interest, the distinction must not be lost sight of between the general confiscation, or the actual taking of possession, which is accomplished directly through the *publication* of the Royal Most High *Declaration* of 28 July of this year, and the taking-over of management, or the *administration*, which takes place on His Royal Majesty's account.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-90">p. 90</a></h2>
+<section class="lit-passage" id="p-90" data-page="90">
+<div class="pg" id="p90"><a href="#p90">p. 90</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Durch die *declarirte* Einziehung gewinnt *Fiscus* das unstreitige Recht, sich in völligen Besitz der Güter zu setzen, und die Bewirthschaftung derselben seinem Interesse gemäss sofort zu verfügen. Da aber Sr. Königl. Majestät die bisherigen Besitzer, die ausserdem keine *Ressourcen* haben, und Höchstderenselben treu und ergeben sind möglichst schonen und nicht auf der Stelle *depossediren*, vielmehr selbigen dazu geräumige Termine bestimmen, und sie bis dahin im Besitz der Güter unter der erforderlichen Aufsicht und unter der Bedingung pachtweise belassen wollen, dass sie die Abgaben davon, nach den anzufertigenden neuen Anschlägen, die zur Bestimmung der künftigen *Competenz* dienen werden, bezahlen, und sonst ordentlich und gehörig wirthschaften, auch die Gebäude im baulichen Stande erhalten; so ist die eigentliche Uebernahme vorerst nur in Absicht solcher Güter zu veranlassen, bei welcher obige *Consideration* nicht statt findet. Es muss daher
@@ -3158,12 +3076,10 @@ Through the *declared* confiscation, the *Fisc* acquires the indisputable right 
 a. immediately, as soon as the necessary preparations for it have been made, and in any case still within the current year, a beginning shall be made with the take-over of those estates whose *dominia* and *usufructuaries* reside outside the country, while for the rest it shall be continued according to time and circumstances; and it is self-evident that all those from whom the estates cannot or should not yet be taken in the current fiscal year must be cited in writing on the above conditions,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-91">p. 91</a></h2>
+<section class="lit-passage" id="p-91" data-page="91">
+<div class="pg" id="p91"><a href="#p91">p. 91</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wozu die Kammern sich der Land- und Steuerräthe, ebenfalls auch der Kreisjustizräthe bedienen können. Dagegen bleiben Sr. Majestät Allerhöchsten Absicht gemäss,
@@ -3190,12 +3106,10 @@ d. such insignificant Royal and Ecclesiastical estates as lie singly and scatter
 f. As regards the *administration* of the confiscated estates in and of itself, as a rule no general leasing shall for the present take place, partly because it is not yet possible at this time to ascertain the true yield of the estates and their appurtenances, and partly because the interest of the general lessee only too often comes into collision here with the interest of the subjects entrusted to his care, and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-92">p. 92</a></h2>
+<section class="lit-passage" id="p-92" data-page="92">
+<div class="pg" id="p92"><a href="#p92">p. 92</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 die Wohlfahrt und Emporbringung der letzteren, dadurch leicht aus den Augen gesetzt werden würde, vorzüglich aber in der Rücksicht, um den unbemittelten Adel, und andere unangesessene Oeconomen, die sonst von Pachtungen und Administrationen subsistirt haben, Gelegenheit zu geben in den eingezogenen Gütern ihre Subsistenz zu suchen. Es soll daher ein jeder Intendant, insofern er sich zur Pachtung qualifizirt nur ein Vorwerk zu seiner *Sustentation* für sich in Pacht erhalten, alle übrigen Güter aber, so viel möglich einzeln, gesammt den dazu gehörigen Gefällen und Diensten, oder allenfalls so, wie sie bisher in sogenannten Schlüsseln getheilt sind, schlüsselweise verpachtet, oder durch die Intendanten ganz für Königl. Rechnung *administrirt* werden.
@@ -3218,12 +3132,10 @@ The leases of beer- and brandy-distilleries shall likewise remain undisturbed, w
 As to what is to be observed generally in the leasings, and to what conditions those desirous of leasing must in general submit, further provision on this will be made in a special Regulation, which will shortly be issued concerning the respective temporary-emphyteutic and hereditary leasing of the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-93">p. 93</a></h2>
+<section class="lit-passage" id="p-93" data-page="93">
+<div class="pg" id="p93"><a href="#p93">p. 93</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Königlichen Domainen nächstens emaniren wird, das Weitere bestimmt werden.
@@ -3240,12 +3152,10 @@ Now, as it follows from all this that the office and duties of an intendant beco
 g. In selecting the subjects for this post, the utmost caution must be exercised, especially since the intendant affects most directly and immediately the weal and woe of the office's subjects, since the improvement of husbandry depends chiefly on his dispositions, and since the purpose of the confiscation rests, above all, on the diligence, *integrity*, and general conduct and bearing of the intendant. The Chambers will therefore, by all that is sacred to them, take care that no persons be proposed for this office other than such as are fully qualified, both by their knowledge and their morality; and, so that they may be held responsible for such qualification, none shall be appointed and accepted other than those whom they have examined and declared competent, and to that end all those who apply at the Department shall likewise be referred to them. No recommendation shall serve them as an evasion in this matter; it is, however, self-evident that those candidates who have already earned a claim to provision in the Royal service must retain preference over others. And in order that the Chambers may gain greater opportunity to satisfy themselves of the candidates' qualification, it is generally established that these shall be employed as commissioners in the first organisation of the intendancies, and shall, under the supervision and direction of the Chamber councillors, besides the ordinary *administration* of the police and what belongs to it, be charged with taking up complete inventories and descriptions of each and every landed property, appurtenance, building, and use, etc., belonging to the intendancy entrusted to them *ad interim*; with the assessment of a complete yield according to the accepted principles; and with a terrier of each and every deed and privilege of the subjects — but no one (not even the Chamber councillors excepted) shall, until the whole Domains system has been brought into complete order, be given any claim either to this post or, still less, to that particular intendancy in which the candidate was first placed.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-94">p. 94</a></h2>
+<section class="lit-passage" id="p-94" data-page="94">
+<div class="pg" id="p94"><a href="#p94">p. 94</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Nur nach völlig beendigter Einrichtung des ganzen Domainenwesens sollen die Intendanten ihre Bestallungen auf eine bestimmte Intendantur erhalten, und wird bei den desfällgen Vorschlägen einzig und allein auf die mehrere oder mindere *Qualification* der Kandidaten Rücksicht genommen werden. Und da natürlich die Intendanturen, je nachdem viele oder wenige bedeutende oder unbedeutende Güter in einem Bezirke belegen sind, auch mehr oder minder wichtig werden müssen, so müssen auch die Gehälter und *Emolumente* der Intendanten danach eingerichtet werden, so wie dann das Hülfspersonale der Intendantur danach regulirt werden muss, zumal in der Regel jedem Intendanten nur ein *Actuarius*, der zugleich Kassenkontrolleur und Protocollführer der Justizbeamten sein soll, und ein Land-Reuter mit einem bestimmten Königlichen Gehalt zur Seite gesetzt werden soll, und werden übrigens zu seiner Zeit sowohl für die Intendanten, als für die übrigen Intendantur-Offizianten besondere *Instructionen* erfolgen.
@@ -3256,47 +3166,43 @@ Nur nach völlig beendigter Einrichtung des ganzen Domainenwesens sollen die Int
 Only after the entire organisation of the Domains system has been fully completed shall the intendants receive their commissions to a particular intendancy, and in the proposals made for this purpose regard shall be had solely and exclusively to the greater or lesser *qualification* of the candidates. And since, naturally, the intendancies must become more or less important according as many or few, significant or insignificant, estates are situated in a district, the salaries and *emoluments* of the intendants must likewise be arranged accordingly, just as the auxiliary personnel of the intendancy must be regulated accordingly; especially as, as a rule, every intendant is to have at his side only one *actuary*, who is at the same time to be treasury controller and minute-keeper for the justice officials, and one mounted rural constable with a fixed Royal salary; and special *instructions* will, moreover, be issued in due course both for the intendants and for the other intendancy officials.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-95">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-95">p. 95</a></h2>
+<section class="lit-passage" id="p-95" data-page="95">
+<div class="pg" id="p95"><a href="#p95">p. 95</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### 3. Herbeibringung der abgekommenen Grundstücke.
+##### 3. Herbeibringung der abgekommenen Grundstücke.
 
 Da während der vorigen schwachen und unrichtigen Staatsadministration viele wichtige Pertinenzstücke, Realitäten und Gerechtigkeiten von den Gütern abgekommen und verdunkelt worden sind, so müssen dergleichen Rechte sorgfältig aufgeführt, und wieder herbeigeschafft werden. Dieses erfordert inzwischen nähere Recherchen und ist daher mit der gegenwärtigen *Operation* nicht zu vermengen, sondern so lange auszusetzen bis die Domainen-Aemter regulirt und in Ordnung gebracht sein werden. Die Intendanten müssen indessen schon bei der Einrichtung der Intendanturen alle ihnen darüber zu Ohren kommenden Nachrichten, sorgfältig sammeln und solche der Kriegs- und Domainen-Kammer einsenden, welche zu seiner Zeit das Weitere dieserhalb in den vorgeschriebenen Wegen einzuleiten haben.
 
-###### 4. Ausmittelung des Ertrages der eingezogenen Güter.
+##### 4. Ausmittelung des Ertrages der eingezogenen Güter.
 
 Der Ertrag der eingezogenen Güter muss nach dem gegenwärtigen Zustande derselben ausgemittelt werden. Dies geschieht in der Regel, besonders bei den geistlichen Gütern durch ökonomische Anschläge nach moderalen, billigen und wahrhaft zuverlässigen Sätzen, und zwar nach den *Principiis* der *Detaxations*-Kommission, daher denn auch diejenigen Anschläge, welche gedachte Kommission gefertigt hat, und die sich auf die an Eides-Statt geschehene Nutzungs-Angabe der geistlichen Dominiorum gründen, folglich von selbigem als richtig anerkannt werden müssen, bei Festsetzung der Kompetenz für die Geistlichen zur *Basis* angenommen werden können und sollen, zu diesem Ende auch den Kammern zu seiner Zeit werden ausgehändigt werden. Bei Starosteien und Kauf-Gütern, wo die Kompetenz nicht immerwährend ist, sondern mit dem Leben des jetzigen Besitzers aufhört, müssen zwar ebenfalls öconomische Nutzungsanschläge gefertigt und zur Bestimmung der Kompetenz zu Grunde gelegt werden, insofern solche von den öconomischen Anschlägen nicht gar zu stark differiren, daher denn jedesmal das Anschlags*quantum* mit den bisherigen Nutzungsverträgen balancirt und diese *Balance* mit einem *Raisonnement* von *Plus* und *Minus* begleitet werden muss.
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### 3. Recovery of Lost Landed Properties.
+##### 3. Recovery of Lost Landed Properties.
 
 Since, during the former weak and irregular administration of the State, many important appurtenances, realities, and rights have become detached from the estates and been obscured, such rights must be carefully listed and recovered. This, however, requires closer investigation, and is therefore not to be confounded with the present *operation*, but must be deferred until the Domain offices have been regulated and put in order. In the meantime, however, the intendants must, already during the organisation of the intendancies, carefully collect all information that comes to their ears in this respect, and forward it to the War and Domains Chamber, which shall in due course take the further necessary steps in the prescribed manner.
 
-###### 4. Ascertainment of the Yield of the Confiscated Estates.
+##### 4. Ascertainment of the Yield of the Confiscated Estates.
 
 The yield of the confiscated estates must be ascertained according to their present condition. This is done, as a rule, especially with the ecclesiastical estates, by economic valuations at moderate, fair, and truly reliable rates, that is, according to the *principles* of the *Detaxation* Commission; accordingly those valuations which the said Commission has prepared, and which are founded on the sworn statement of use made by the ecclesiastical *dominia*, and which must consequently be recognised by it as correct, can and shall be taken as the *basis* for fixing the allowance for the clergy, and shall to that end be handed to the Chambers in due course. For starosties and purchased estates, where the allowance is not perpetual but ceases with the life of the present possessor, economic use-valuations must likewise be prepared and made the basis for determining the allowance, insofar as these do not differ too greatly from the economic valuations; accordingly the valuation *amount* must in every instance be balanced against the previous use-contracts, and this *balance* must be accompanied by a *reasoning* of *plus* and *minus*.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-96">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-96">p. 96</a></h2>
+<section class="lit-passage" id="p-96" data-page="96">
+<div class="pg" id="p96"><a href="#p96">p. 96</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Damit indessen die Kompetenz-Berechtigten in Absicht der aus den eingezogenen Gütern ihnen zustehenden Kompetenz nicht im Blossen gelassen werden, so können vorläufig die *Lustrationen* und Tarifs der ehemaligen Schatzkommission zum Ausmitteln der Revenüen dienen und versteht es sich von selbst, dass die Mehreinkünfte, welche durch die nachherige Nutzungsanschläge werden ausgemittelt werden, diesen Kompetenz-Berechtigten dereinst *pro rata* noch zu Gute kommen müssen, als weshalb nach vollendeter Veranschlagung und erfolgter Bestimmung der wahren Kompetenz mit jedem Dominio welches vor der Hand blos nach den Lustrationsverträgen abgefunden wird, richtige Berechnung zugelegt werden soll.
 
 Eben diese Berechnung soll und muss nach obigen Festsetzungen gegenseitig zum Besten der Königl. Kasse statt finden, wenn nämlich die zeitigen Besitzer noch ferner in dem Besitz der Güter belassen werden und sich nach den vorhergehenden §. 2 erklärt haben, während ihres Besitzes den neuen Anschlag zu erfüllen, bis dahin aber blos die jetzigen Abgaben entrichten.
 
-###### 5. Abzüge und Bestimmung der Kompetenz.
+##### 5. Abzüge und Bestimmung der Kompetenz.
 
 Von dem ausgemittelten Ertrage werden in Abzug gebracht.
 
@@ -3310,19 +3216,17 @@ In order, however, that those entitled to an allowance may not, in the meantime,
 
 This same reckoning shall and must likewise take place, according to the above provisions, reciprocally for the benefit of the Royal treasury, namely where the present possessors are left further in possession of the estates and have, in accordance with §2 above, declared themselves willing to meet the new valuation during their possession, but until then merely to pay the present dues.
 
-###### 5. Deductions and Determination of the Allowance.
+##### 5. Deductions and Determination of the Allowance.
 
 From the ascertained yield the following are deducted.
 
 a. The contribution and other public dues. In the case of ecclesiastical estates these are assessed according to the ecclesiastical, but in the case of Royal estates according to the noble *divisor*, of which the *Publicandum* for South Prussia of 24 April 1795, and the *respective* Patent issued for the new *Acquisition* of 12 June 1796, determine the particulars.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-97">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-97">p. 97</a></h2>
+<section class="lit-passage" id="p-97" data-page="97">
+<div class="pg" id="p97"><a href="#p97">p. 97</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 b. Die allgemeinen *Administrations*-Kosten, wozu mit Inbegriff der Kosten zur Unterhaltung der Güter, zu *Remissionen*, Ausfällen, Uebertragung der Unglücksfälle etc. vorläufig 10% der Brutto-Einnahme bestimmt sind.
@@ -3333,7 +3237,7 @@ d. Noch 5% des *Netto* Ertrages wegen der extraordinairen Abgaben und Lasten, we
 
 *ad a.* die *Contribution* bei den Steuer-Kassen und die *Administrations*- und Unterhaltungskosten bei den Domainen-Kassen zu einem besondern *Administrationsfonds* fliessen und besonders berechnet werden sollen, so müssen auch *ad c.* die Retablissement- und Inventarien-*Fonds* ebenfalls bei den Domainenkassen *separatim* administrirt und verrechnet werden.
 
-###### 6. Wie die Kompetenz zu entrichten sei.
+##### 6. Wie die Kompetenz zu entrichten sei.
 
 Diese Kompetenz wird der Regel nach in haaren Gelde gegeben, es kann jedoch bei solchen Geistlichen und Stiftungsgütern, deren Einkünfte unmittelbar zur täglichen Lebensnothdurft gewissen Personen oder zur Verpflegung von Armen und Kranken und zu andern dergleichen wohlthätigen Anstalten gewidmet sind, ein Theil der Kompetenz auch in Naturalien zum Exempel in Getreide nach dem Anschlagspreise ausgesetzt werden, insofern die Unterthanen oder Pächter ihrer Güter zu Natural-Lieferungen verpflichtet sind, oder ohne Nachtheil ihrer Wirthschaft dazu verpflichtet werden können, doch wird diese Naturallieferung bei denjenigen geistlichen *Dominiis* gänzlich wegfallen können, welche gegen ein bestimmtes Anschlagsquantum ein Vorwerk zur eigenen Benutzung zu behalten wünschen, und denen solches mit Allerhöchsten Königl. *Approbation* gegen 25% *Contribution* akkordirt wird.
 
@@ -3348,20 +3252,18 @@ d. A further 5% of the *net* yield on account of the extraordinary dues and burd
 
 *as to a.*, the *contribution* shall flow into the tax treasuries, and the *administration* and maintenance costs into the Domains treasuries, forming a special *administration fund* and being reckoned separately; so, too, *as to c.*, the re-establishment and inventory *funds* must likewise be administered and accounted for *separately* at the Domains treasuries.
 
-###### 6. How the Allowance is to be Paid.
+##### 6. How the Allowance is to be Paid.
 
 This allowance is as a rule given in ready money; however, in the case of such ecclesiastical and foundation estates whose incomes are devoted directly to the daily necessities of life of certain persons, or to the care of the poor and sick, or to other such charitable institutions, a part of the allowance may also be assigned in kind, for example in grain at the assessed price, insofar as the subjects or lessees of their estates are obliged to deliveries in kind, or can be so obliged without detriment to their husbandry; this delivery in kind may, however, be entirely dispensed with in the case of those ecclesiastical *dominia* which wish to retain a *Vorwerk* for their own use against a fixed valuation amount, and to whom this is granted, with Most High Royal *approval*, against a 25% *contribution*.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-98">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-98">p. 98</a></h2>
+<section class="lit-passage" id="p-98" data-page="98">
+<div class="pg" id="p98"><a href="#p98">p. 98</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### 7. Unveränderlichkeit der Kompetenz.
+##### 7. Unveränderlichkeit der Kompetenz.
 
 Die Kompetenz ist unveränderlich. Nur wenn wegen des steigenden Preises der Dinge die Aufschlags-Preise in den Kammertaxe künftig einmal erhöht werden sollten, so soll auch eine verhältnissmässige Erhöhung der Kompetenz stattfinden.
 
@@ -3370,26 +3272,24 @@ Ueber die zu dieser Erhöhung anzuwendenden Grundsätze wird aber noch zu seiner
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### 7. Immutability of the Allowance.
+##### 7. Immutability of the Allowance.
 
 The allowance is immutable. Only if, owing to the rising price of goods, the mark-up prices in the Chamber tariff should at some future time be raised, shall a proportionate increase of the allowance likewise take place.
 
 As to the principles to be applied to this increase, however, more detailed provision will be made in due course. From the fact that the allowance is in itself immutable, it already follows of itself with what great caution the valuations, according to which it is to be determined, must be prepared; wherefore it also remains necessary to reserve to the *fisc* the right to be able to take special recourse against those *dominia* which, in the valuation, *fraudulently* stated exaggerated uses, or otherwise induced the valuation commission to the detriment of the Royal interest. The Chambers must therefore not fail, when announcing the future allowance, to publish this *clause* along with it.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-99">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-99">p. 99</a></h2>
+<section class="lit-passage" id="p-99" data-page="99">
+<div class="pg" id="p99"><a href="#p99">p. 99</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### 8. Wer die Kompetenz erhalte.
+##### 8. Wer die Kompetenz erhalte.
 
 Die Kompetenz wird demjenigen angewiesen, der sich jetzt wirklich im Besitze und Genüsse der Güter befindet, ohne Unterschied ob er dieselben unmittelbar vom Staate oder durch *Cession* oder After-Verleihung von einem Dritten erhalten hat. Wenn sich jedoch findet, dass der gegenwärtige Inhaber widerrechtlicher Weise zum Besitze und Genüsse gelangt sei, entweder zum *Praejudicio* des *fisci* oder zum *Praejudicio* eines Dritten; so wird im ersten Falle die Kompetenz wieder eingezogen, und im letzteren demjenigen beigelegt, der sein besseres Recht gegen den jetzigen Besitzer gerichtlich nachweisen kann. Die p. Kammern werden daher am sichersten gehen, wenn sie die Kompetenz in allen solchen streitigen Fällen bis zu ausgemachter Sache *ad Depositum* ziehen.
 
-###### 9. Dauer der Kompetenz.
+##### 9. Dauer der Kompetenz.
 
 Die Dauer der Kompetenz ist bei den Geistlichen immerwährend, doch ist solches nur in Absicht der Klöster und anderer Korporationen und Stiftungen zu verstehen, bei den geistlichen *Individuis* aber nicht, und muss bei deren Ableben davon berichtet und wegen der ferneren Auszahlung der Kompetenz Anfrage gemacht werden. Bei Königl. Gütern hört sie ebenfalls mit dem Tode des jetzigen Besitzers auf und seine Erben erhalten nur noch das Sterbequartal es sei denn, dass
 
@@ -3400,11 +3300,11 @@ wenn ein Starosteibesitzer auf den Grund der Warschauer Reichstags *Constitution
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### 8. Who is to Receive the Allowance.
+##### 8. Who is to Receive the Allowance.
 
 The allowance is assigned to whoever is now actually in possession and enjoyment of the estates, without distinction as to whether he obtained them directly from the State or by *cession* or sub-enfeoffment from a third party. Should it be found, however, that the present holder has come into possession and enjoyment unlawfully, either to the *prejudice* of the *fisc* or to the *prejudice* of a third party, then in the first case the allowance shall be confiscated again, and in the latter case awarded to whoever can legally prove his better right against the present possessor. The aforesaid Chambers will therefore proceed most safely if, in all such contested cases, they place the allowance *ad Depositum* until the matter is settled.
 
-###### 9. Duration of the Allowance.
+##### 9. Duration of the Allowance.
 
 The duration of the allowance is, in the case of the clergy, perpetual; this, however, is to be understood only with respect to monasteries and other corporations and foundations, but not in the case of ecclesiastical *individuals*, and on their decease report must be made thereof, and inquiry made concerning the further payment of the allowance. In the case of Royal estates it likewise ceases with the death of the present possessor, and his heirs receive only the quarter's allowance due at death, unless
 
@@ -3413,19 +3313,17 @@ an estate has been granted to several persons jointly under the so-called *jure 
 if a starosty-holder, on the strength of the Warsaw Diet *Constitution*, has taken over such a royal estate in *emphyteutic* possession for a fixed number of years and has paid a certain entry or purchase money, and dies before the expiry of these years, then his heirs must
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-100">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-100">p. 100</a></h2>
+<section class="lit-passage" id="p-100" data-page="100">
+<div class="pg" id="p100"><a href="#p100">p. 100</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 entweder die Kompetenz für den Ueberrest der Zeit gelassen, oder ihnen das Einkaufsgeld *pro rata* der noch rückständigen Jahre zurückgezahlt werden.
 
 Von allen diesen *resp. jure communicativo* verliehenen und zu *emphiteuti*schen Rechten ausgegebenen Besitzungen müssen die Kammern so schleunig als möglich und ohnfehlbar noch vor Ablauf *November* c. ganz vollständige und zuverlässige, mit vidimirten Abschriften der Besitz- und Berechtigungsdokumente, justifizirte Nachweisungen dem General-*Finanz*departement einsenden, damit besonders in Absicht der *emphiteuti*schen Güter ganz eigentlich bestimmt werden könne, wie es mit der Kompetenz nach Ableben des jetzigen Besitzers gehalten werden soll.
 
-###### 10. Verfahren bei Ausführung der Operation.
+##### 10. Verfahren bei Ausführung der Operation.
 
 Wegen des Verfahrens bei der Einziehung sind die Kammern und die Domainen Einrichtungskommissionen durch die dieserhalb mit dem Kammer Präsidio gepflogenen Verhandlungen bereits hinlänglich instruirt. Es kommt dabei alles auf eine vorsichtige Auswahl derjenigen Mittel an, welche nach Verschiedenheit der Lokalität dem Zwecke am sichersten entsprechen. Das vorzüglichste dabei ist, dass
 
@@ -3438,19 +3336,17 @@ either be left the allowance for the remainder of the time, or be repaid the pur
 
 Of all these estates, granted *respectively* under *jure communicativo* or issued under *emphyteutic* rights, the Chambers must, as speedily as possible and without fail before the end of *November* of this year, send to the General *Finance* Department wholly complete and reliable statements, justified by certified copies of the possession and entitlement documents, so that, especially with regard to the *emphyteutic* estates, it may be quite precisely determined how the allowance is to be handled after the death of the present possessor.
 
-###### 10. Procedure in Carrying Out the Operation.
+##### 10. Procedure in Carrying Out the Operation.
 
 As regards the procedure in the confiscation, the Chambers and the Domains Organisation Commissions have already been sufficiently instructed by the negotiations conducted in this regard with the Chamber Presidium. Everything here depends on a careful selection of those means which, according to the variety of local circumstances, most surely answer the purpose. The most important point in this is that
 
 a. at the publication of the Declaration of 28 July of this year, care be taken, in accordance with His Majesty's Most High intention, that minds be calmed against all fears of sudden and detrimental revolutions in the fortunes and property circumstances of private persons and families, since His Royal Majesty is by no means minded to allow quiet and industrious inhabitants and families of the land — who may have been established as colonists, or in some other manner, on starosty or ecclesiastical lands against hereditary quit-rent or hereditary lease — to be disturbed or prejudiced in their possessions and rights; likewise, the allowance to be measured out to the clergy and other *pious bodies* will be determined on such principles that, in the future also, as needs progress, it may as far as possible remain in a fair proportion; but above all, at all times the fullest possible regard will be paid to the preservation of the lower clergy, of the churches and schools, and even to the improvement of their condition; wherefore, in cases where it might be found that the further independent administration of such estates is actually more advantageous to those concerned, as well as to the State itself, than the take-over into Domains administration, such independent administration shall likewise continue to be maintained.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-101">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-101">p. 101</a></h2>
+<section class="lit-passage" id="p-101" data-page="101">
+<div class="pg" id="p101"><a href="#p101">p. 101</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 b. Die Uebernahme der Güter geschieht mit dem 1. Juli d. J. Dieses ist eigentlich von der allgemeinen Einziehung und von der Bewegung, welche von Trinitatis zu Trinitatis läuft zu verstehen, daher denn auch die Kompetenz Berechnungen von hier ab zu datiren sind.
@@ -3469,12 +3365,10 @@ c. As take-over commissioners, solid, sensible men must be chosen who are alread
 d. regard shall as far as possible be had to the preservation of the present temporary lessees. Yet, where they claim to have paid in advance, this assertion must be carefully examined, and not at once accepted as established on the mere receipts of the lessors, which could easily be backdated.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-102">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-102">p. 102</a></h2>
+<section class="lit-passage" id="p-102" data-page="102">
+<div class="pg" id="p102"><a href="#p102">p. 102</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Und da es mit Gewissheit vorauszusehen ist, dass nach §.1, 3 und 8 manche streitige Ansprüche vorkommen können, so ist das General-*Finanz*departement mit dem Justizdepartement bereits in Korrespondenz getreten, wie und auf was für Art und Weise die vorkommenden Rechtsfälle eingeleitet und durchgeführt werden sollen, daher dieserhalb auch nähere Instruktion zu erwarten ist.
@@ -3497,15 +3391,13 @@ By His Majesty's most gracious special command
 *v. Hoym.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-103">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-103">p. 103</a></h2>
+<section class="lit-passage" id="p-103" data-page="103">
+<div class="pg" id="p103"><a href="#p103">p. 103</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Die deutschen Kolonisationen im Grossherzogthume Posen
+### Die deutschen Kolonisationen im Grossherzogthume Posen
 
 von der ersten Theilung Polens bis zur Napoleonischen Zeit, 1772—1806.
 
@@ -3516,7 +3408,7 @@ Beispiellos war namentlich die Provinz *Südpreussen* preisgegeben einem Beamten
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### The German Colonisations in the Grand Duchy of Posen
+### The German Colonisations in the Grand Duchy of Posen
 
 from the first Partition of Poland to the Napoleonic era, 1772—1806.
 
@@ -3525,12 +3417,10 @@ Since the "*shameful wrong of the Partition of Poland,*"<sup class="lit-fn"><a h
 Without precedent, in particular, was the province of *South Prussia* abandoned to a bureaucracy which soon transformed it into a cesspool, into which the most worthless subjects flowed together, and who ruined, root and branch, all the material and spiritual goods of the Poles. Without precedent was *South Prussia*, of all provinces, abandoned to a ministerial administration which, within the short space of a few years, squandered the most valuable estates of this, then the largest province of the Prussian state, and inoculated its Polish inhabitants
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-104">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-104">p. 104</a></h2>
+<section class="lit-passage" id="p-104" data-page="104">
+<div class="pg" id="p104"><a href="#p104">p. 104</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 den Krebsschaden eingeimpft hat, unheilbar für alle Zeiten. — Nicht ein Füllhorn segensreicher Saaten, eine Pandorabüchse jeglichen Verderbens schüttete man über das unglückselige Land. Und ärger als der Raub materieller Güter, vernichtender als die rohe Gewalt, war das sittliche geistige Verderbniss, mit dem man ein bei manchen beklagenswerthen Eigenschaften, dennoch anerkannt geistig hochbegabtes Volk in seinem innersten Gemüths- und Geistesleben verpestete.
@@ -3557,15 +3447,13 @@ The German colonisations since 1772 are most appropriately grouped into the foll
 3. Colonisation of officials and notaries.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-105">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-105">p. 105</a></h2>
+<section class="lit-passage" id="p-105" data-page="105">
+<div class="pg" id="p105"><a href="#p105">p. 105</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Kolonisationen des Adels und der grossen Grundbesitzer.
+#### Kolonisationen des Adels und der grossen Grundbesitzer.
 
 ---
 
@@ -3587,7 +3475,7 @@ von
 
 ---
 
-###### Einleitung des Herausgebers.
+##### Einleitung des Herausgebers.
 
 „*Das schwarze Register*“ ist eine büreaukratische Mysterie aus der Zeit des absoluten Königsthums Friedrich Wilhelms II. Je weniger dieses Dokument bekannt wurde, um so fabelhafter waren und sind zum grössten Theile noch jetzt die Gerüchte und Urtheile über dasselbe. Für die Geschichte des Grossherzogthums Posen, der deutschen Kolonisationen in diesem ehemals polnischen Landestheile ist es indess unter allen Umständen von höchster Bedeutung.
 
@@ -3596,7 +3484,7 @@ Es erscheint daher gerechtfertigt, wenn hier die Schicksale des „*schwarzen Re
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Colonisations of the Nobility and the Great Landowners.
+#### Colonisations of the Nobility and the Great Landowners.
 
 **The Black Register**
 
@@ -3616,19 +3504,17 @@ by
 
 ---
 
-###### Editor's Introduction.
+##### Editor's Introduction.
 
 "*The Black Register*" is a bureaucratic mystery from the era of the absolute kingship of Frederick William II. The less this document became known, the more fabulous were, and for the most part still are, the rumours and judgments concerning it. For the history of the Grand Duchy of Posen, and of the German colonisations in this formerly Polish territory, it is, however, of the highest importance in every respect.
 
 It therefore appears justified that the vicissitudes of the "*Black Register*" — which is frequently confused with the so-called "*Black Book*" by the same author — should be communicated here in full detail.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-106">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-106">p. 106</a></h2>
+<section class="lit-passage" id="p-106" data-page="106">
+<div class="pg" id="p106"><a href="#p106">p. 106</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Die Preussen,“ sagt *Varnhagen*,[109] „fanden zur Zeit der neuen Erwerbungen in Polen i. J. 1793 ein verwahrlostes Land, aufgelöste Verhältnisse, Missbräuche aller Art, unendlichen Stoff zum Bilden, aber leider auch zum Ausbeuten. Zahllose Beamte, oft nur durch Gunst und Zufall ausgewählt, unter ihnen die schlechtesten Leute, die man anderwärts anzustellen nicht wagen durfte, ergossen sich in die neue Provinz, und statt der Ordnung, welche sie bringen sollten, brachten sie nur ihre Selbstsucht und Unredlichkeit.“ —
@@ -3647,12 +3533,10 @@ The noble and honest among these officials therefore faced the twofold effort of
 About this time, in September 1794, Minister Hoym, who since 1769 had governed Silesia independently of the General Directory according to the most capricious arbitrariness and favouritism, also took over the independent administration of South Prussia. "Hoym, so characterizes him *Varnhagen loc. cit.*, was a handsome man who, in his distinction — a mixture of amiability and pride — combined with an open, unconstrained manner and refined, ingratiating conversation, won regard and affection at first sight. He truly possessed goodness of heart and great amiability. Yet lacking moral strength, these qualities were devoid of all serious substance, and served only vanity and self-interest. His personal favour disposed of appointments and honours, and dispensed money and property at will. Surrounded by flatterers and petitioners, secure in his support at court, he soon gave himself over to all the weaknesses of a vain and powerful man who believes the world exists in order to bear and to venerate his like; for birth and rank counted with him above all else, and the sorry delusion that distinguished command and polished worldliness sufficed to make a statesman had settled deep within him."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-107">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-107">p. 107</a></h2>
+<section class="lit-passage" id="p-107" data-page="107">
+<div class="pg" id="p107"><a href="#p107">p. 107</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Unzufriedenheit in Schlesien war mittlerweile immer höher gestiegen und der Hass gegen *Hoym* zeigte sich immer offener und drohender. Die neue Provinz Südpreussen sollte nun das Arsenal werden zur Unterdrückung jenes Hasses und jener Unzufriedenheit, die Schatzkammer zur Befriedigung seiner Leidenschaften, zur Bestechung ihm gefährlicher Personen, zur Belohnung seiner Helfershelfer.
@@ -3667,12 +3551,10 @@ Meanwhile discontent in Silesia had risen ever higher, and hatred of *Hoym* show
 *Hoym* therefore surreptitiously obtained royal approval to donate a portion of the formerly Polish crown and ecclesiastical estates to so-called "*deserving men*." By this means he succeeded in winning over the most wretched accomplices and in obligating the most influential persons at court, so as to be safe from every accusation. He now conducted in South Prussia the same regime of arbitrariness and satrapy as in Silesia. It was therefore all the more vexing and inconvenient to him when *Zerboni* confronted him with the dutiful report of his discovery — namely, that the state had been defrauded of a million thalers by certain officials. The honest *Zerboni* was for the time being, for his "uncalled-for officiousness,"
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-108">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-108">p. 108</a></h2>
+<section class="lit-passage" id="p-108" data-page="108">
+<div class="pg" id="p108"><a href="#p108">p. 108</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zur Ruhe verwiesen und bald darauf mit zweien Untersuchungen belastet, die ihn in die Kasematten von Spandau und Magdeburg entfernten.
@@ -3733,12 +3615,10 @@ had only hinted at the hope placed in the future king Frederick William III, who
 > of an insolent ruler of the people."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-109">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-109">p. 109</a></h2>
+<section class="lit-passage" id="p-109" data-page="109">
+<div class="pg" id="p109"><a href="#p109">p. 109</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 liessen keinen Zweifel übrig, welches Wort die beissendste Anspielung hervorrief, und wem sie galt. —
@@ -3765,12 +3645,10 @@ left no doubt as to which word evoked the most biting allusion, and to whom it a
 "If the thieving rabble triumphs, and we do not see each other again, then do not fail to hear my plea: so far as you are able, remain the friend of my pitiable wife, save my honest name before the public, and think now and then of a man who, in an unprecedented, shameless manner, before the visible eyes of justice and of an entire educated nation, became together with his friends the victim of a villain who would generally
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-110">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-110">p. 110</a></h2>
+<section class="lit-passage" id="p-110" data-page="110">
+<div class="pg" id="p110"><a href="#p110">p. 110</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ein Schurke genannt werden würde, trüge er nicht Stern und Band und hätte er nicht von jeher die Maxime befolgt, seinen Raub mit seltener Grossmuth zu theilen.“
@@ -3789,12 +3667,10 @@ While Zerboni's case was pending in the second instance, Held had undertaken to 
 *Zerboni's* manuscripts fared better, although they came out of prison. At the beginning of the year 1800 there appeared with Fromann in Jena "*Einige Gedanken*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-111">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-111">p. 111</a></h2>
+<section class="lit-passage" id="p-111" data-page="111">
+<div class="pg" id="p111"><a href="#p111">p. 111</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *über das Bildungsgeschäft in Südpreussen*“, eine Schrift, in der er im edelsten Sinne die Aufgabe des Staates in Betreff dieser Provinz, und die Mittel, dem Lande und Volke aufzuhelfen, mit hellem Geiste untersuchte. War schon dies seinen Gegnern verdriesslich, so steigerte sich ihr Verdruss noch mehr, als noch in demselben Jahre ohne Angabe des Druckorts ein Band: „*Aktenstücke zur Beurtheilung der Staatsverbrechen des südpreussischen Kriegs- und Domainenraths Zerboni und seiner Freunde*“ erschien, mit *Zerboni's* Namen als Herausgebers unter der Vorrede.
@@ -3817,12 +3693,10 @@ These "*Aktenstücke*," because published without higher permission, soon became
 The bookseller *Fröhlich* in Berlin printed this work under the seal of secrecy; and because of the peculiar binding of the copies sent out by *Held* (the cover and edges were **black**, and on the spine, in silver lettering, stood "*Hoym und Goldbeck*"), it was only under the mysterious name:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-112">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-112">p. 112</a></h2>
+<section class="lit-passage" id="p-112" data-page="112">
+<div class="pg" id="p112"><a href="#p112">p. 112</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **„Das schwarze Buch“**
@@ -3861,12 +3735,10 @@ The defence begins with the following introduction:
 "As I resolve, before the second and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-113">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-113">p. 113</a></h2>
+<section class="lit-passage" id="p-113" data-page="113">
+<div class="pg" id="p113"><a href="#p113">p. 113</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 letzten Instanz, die im eigentlichen Sinne über das Schicksal und die Wendung meines übrigen Lebens entscheiden wird, mich wegen der That selbst zu vertheidigen, deren Folgen mich jetzt äusserlich unglücklich machen, bin ich zweifelhaft, ob ich besser thue, lediglich mein Buch zu rechtfertigen, oder lediglich die Sentenz erster Instanz zu widerlegen, — zur Sophistik der gesetzlichen Formen oder zu dem Wesen des Gegenstandes meine Zuflucht zu nehmen, — noch Einmal auf die Güte der menschlichen Natur zu bauen, oder diese Hoffnung und mit ihr fast alles, was diesem Dasein einigen Werth giebt, gänzlich fahren zu lassen?“
@@ -3881,12 +3753,10 @@ last instance, which in the proper sense will decide the fate and turn of the re
 "The mere jurist, I feel, can no longer represent me. What the laws contain with regard to the present case, *pro et contra*, has been sufficiently argued in the first instance. I can convey the sources, the warmth, the overwhelming force of my convictions vividly enough to no one whose cold assent weighs words, and who, anxiously wavering between too much and too little, torments himself with the — to him foreign — worry of seeing the kernel discarded along with the shell. What still remains to be said, I must say myself. I have been overcome by a sovereign, shuddering disgust at reliance upon forms, ever since I learned by palpable experience that under their protection every infamy is easily accomplished, and the best impulse, the simplest truth, is cast out if it neglects to clothe itself in that trapping. No helper suffices me. All those whom I have called upon wish only to manoeuvre me artificially out of my distress; *I, on the other hand, wish to save the cause;* I who have sacrificed fortune, peace, and freedom for it — and that no one understands. The cause lies close to my heart and means everything to me; my own self is worth less to me. For the cause I have undertaken this heated struggle, not for myself; to it I will remain faithful, and to myself consistent,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-114">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-114">p. 114</a></h2>
+<section class="lit-passage" id="p-114" data-page="114">
+<div class="pg" id="p114"><a href="#p114">p. 114</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 bleiben, es entstehe auch daraus, was da wolle! — — Tugend ist ihr eigner Lohn, wie ihr eignes Gesetz, und unterscheidet von dem zusammenhangslosen Lebenstumulte der Bösewichter hauptsächlich sich dadurch, dass das über jede ihrer Handlungen herrschende Princip der beständige, recht lebhafte Gedanken einer engverbundenen Konsequenz der jetzigen und der künftigen Welt ist. Der Tugendhafte berechnet seine Existenz astronomisch, der Schuft nach den vier Spezies. Mitten in der Anfluth der auf mich einströmenden Ideen, von einer beständigen Ohnmacht sie ordnen zu können, von der Bangigkeit des Misslingens, von allen nur erdenklichen Schmerzen geschwächt, weiss ich daher nichts Besseres zu thun, als die letzten Reste meines Muthes aufzubieten, und den gradesten und kürzesten Weg querdurch einzuschlagen, zu bestreiten, was mir entgegensteht, mir anzueignen, was mich unterstützt, regellos, je nachdem beides sich mir naht.“
@@ -3905,12 +3775,10 @@ Having adjured his new judges to judge not by the dry letter, the wooden yardsti
 "It truly does not occur to me to wish to bribe practised, wise, and upright men with pathetic arts of rhetoric, or even with tearful sentimentality. I know not only that so trivial an artifice would not succeed with me, but I myself, however bowed down I may be, am too proud for such a resort, and hold my cause too good to wish to disfigure it with such feeble paint. Unbounded sincerity, the most open-hearted declaration, the purest love of truth, will here speak out of me. As the most unaffected son of Nature I wish to give myself over, without any affectation, exactly as I feel, think, and judge. I know, romantic as it may sound, next to the gathering of insights for the mind, next to friendship for the heart, no further interest in life than to be good and true, and *to be ardently effective for both*. It is quite possible that what I have to say will turn out badly ordered, and in the legal sense confused. But I am not able to say it otherwise. My stoicism is not strong enough to keep from succumbing to the great suffering that now almost crushes me. Nature vindicates her rights. In prison only pain dwells, and this knows nothing of artificial, least of all of legal, logic. My intention is to supply my new judges with new data and views for a new *judgment on the matter, and, through the matter, also* on myself. It is their duty to unite, under the focal point of their acumen, what I put forward in scattered fashion." —
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-115">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-115">p. 115</a></h2>
+<section class="lit-passage" id="p-115" data-page="115">
+<div class="pg" id="p115"><a href="#p115">p. 115</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Im ersten Theile seiner Selbstvertheidigungsschrift beleuchtet *Held* das bisherige Verfahren gegen ihn und sagt unter andern: „Wollte das Kabinet im Namen des Staates die von mir angegriffene Dienstehre und Moralität der beiden Minister *Hoym* und *Goldbeck* vertheidigen, so musste dasselbe bei der hohen Wichtigkeit des Angriffs und bei der *schon vor Erscheinung meines Buches sehr grossen Notorität der von mir aufgestellten Thatsachen* nicht nur jedes Mittel mir verstatten, womit ich meinen Angriff rein durchführen konnte, sondern es müsste sogar selbst ein jedes solches Mittel hervorsuchen und mir überliefern, um recht deutlich zu zeigen, dass das Publikum im Irrthum und ich ein Kalumniant oder verrückter Don Quixote sei. Schützt ein Kabinet den schlechten Ruf und die zweideutigen Thaten eminenter Staatsdiener, wenn dieser Ruf bereits weit verbreitet ist, und der grösste Theil der Nation ihn und die Thaten glaubt, so muss es, zumal bei
@@ -3921,12 +3789,10 @@ Im ersten Theile seiner Selbstvertheidigungsschrift beleuchtet *Held* das bisher
 In the first part of his written self-defence *Held* sheds light on the proceedings hitherto conducted against him, and says among other things: "Had the cabinet wished, in the name of the state, to defend the official honour and morality of the two ministers *Hoym* and *Goldbeck* which I attacked, then it would have had, given the high importance of the attack and given the *notoriety, already very great before the appearance of my book, of the facts I set forth*, not only to grant me every means by which I could carry my attack through cleanly, but would even have had to seek out itself every such means and hand it over to me, in order to show quite plainly that the public was in error and that I was a calumniator or a mad Don Quixote. If a cabinet protects the bad reputation and the equivocal deeds of eminent servants of the state, when that reputation is already widely spread and the greater part of the nation believes it and those deeds, then it must, especially in the case of
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-116">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-116">p. 116</a></h2>
+<section class="lit-passage" id="p-116" data-page="116">
+<div class="pg" id="p116"><a href="#p116">p. 116</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 einem öffentlichen Angriff, solche Staatsdiener auch rechtfertigen. Nimmt es Notiz von ehrenrügigen Anschuldigungen gegen solche Leute, so muss es sie gründlich und mit Würde widerlegen. Kurz, wenn ich zur Verantwortung gezogen wurde, müssten auch von *Hoym* und *Goldbeck* ihre Rechtfertigungen eingefordert, meine Behauptungen müssten untersucht werden. Das ist nicht geschehen. Gewaltstreiche aber können das, was wahr ist, nicht unwahr machen, und besiegen nicht die öffentliche Meinung, sondern erhitzen und stärken sie viel mehr.“
@@ -3945,12 +3811,10 @@ a public attack, also justify such servants of the state. If it takes notice of 
 In another passage he complains: "I hear here in the Hausvogtei daily the words *scoundrel*, *knave*, *rabble*, etc. hurled at all sorts of criminals, and no one has anything to object to it. But shame decreases with the magnitude of the crime, and even turns into security, courage, and defiance. The thieves who surround me evidently sit in the Hausvogtei for no other reason than that they stole far too little, and did not steal it in the properly protecting form. — Never would I have published my book had I not believed I was thereby rendering a great service to the King, to the state, and to the venerable areopagus of the Council of State. The principles of state administration and of upholding it are, after all, higher than persons. Never did I dream that personal relations and considerations could operate so overpoweringly as I now, alas, see." ......
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-117">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-117">p. 117</a></h2>
+<section class="lit-passage" id="p-117" data-page="117">
+<div class="pg" id="p117"><a href="#p117">p. 117</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Jeder weise und in die Zukunft blickende Monarch unserer Tage muss nicht um seiner Familie willen, denn das wäre doch gar zu kleinlich, sondern um etlichen Millionen Menschen, einen grossen Kreis von Unordnung, Auflösung und Elend zu ersparen, mit der *öffentlichen Meinung* sich alliiren. Sie ist als Freundin sein wohlthätigster Genius für Wollen und Vollbringen, als Gegnerin eine Furie, die ihm alles verdirbt. Die Zeit ist sichtbar da, wo überall mehr als sonst diese beiden Kräfte, die thätigen Gewalten und die öffentliche Meinung, so lange sich mit einander messen, bis beide in dasjenige gegenseitige Gleichgewicht treten, welches allein das richtige ist, und das bisher grösstentheils feindselige Verhältniss zwischen Befehlenden und Gehorchenden in einen zutrauensvollen, glücklichen Zusammenhang umschaffen wird. Obwol nun morgen oder übermorgen bei uns noch kein Aufruhr zu befürchten ist, so scheint doch jene Wahrheit dem Könige unseres Landes, und denen, auf die seine Gewalt zunächst vertheilt ist, noch nicht genug einzuleuchten.“
@@ -3965,12 +3829,10 @@ In another passage he complains: "I hear here in the Hausvogtei daily the words 
 "Since I may hope for no mercy, I can practise none either. Inexorable necessity drives me to seize the shield of truth and to attempt whether, covered by it, I am able to work my way through. I will cite *new particulars*. The first that come, the best. Of many, only a few, as my memory offers them to me, since here in prison I lack all helpful documentary materials and evidence. But even the little will suffice to present a picture of
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-118">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-118">p. 118</a></h2>
+<section class="lit-passage" id="p-118" data-page="118">
+<div class="pg" id="p118"><a href="#p118">p. 118</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Hoym* darzustellen, das die gesunde Vernunft, die Klugheit, die Rechtschaffenheit, die Regierungskunst und jedes Gefühl für Tugend empört. Es ist verdienstlich, wenn gelegentlich unter den jetzigen zahllosen und grössten Theils schlechten Civilbedienten ein Einzelner Enthusiast ist und die Resignation hat, den Anfang zu machen und auf alle Gefahr im Guten vorauszugehen, wenn es in der innern Staatsverwaltung besser werden und sie von vielen personellen und formellen Mängeln gereinigt werden soll, die immer ärger darin überhand nehmen. Mein Muth kann nicht anders, und er muss mit der Grösse der Gefahr anwachsen.“ ......
@@ -3997,12 +3859,10 @@ The 23rd fragment now contains the particulars concerning the donations of estat
 "But nothing surpasses in infamy the — to this hour still far from adequately known and exposed — *donation of a great many ecclesiastical, starosty, confiscated estates in South Prussia*, brought about by v. *Hoym*. Instead of turning them into domains, and settling upon these choice estates, at first for a light rent, enterprising lessees and farmers from the Magdeburg and Halberstadt regions, from the Mark and from Silesia — men who within a few years would have given a highly advantageous impetus to the agriculture of this far-flung province, full of dormant powers — Hoym induced the late King to donate them, for the most part, to entirely undeserving private persons, who either did not live there, but leased out the estates and consumed the rental proceeds far from South Prussia, thereby draining this land, already poor in money, even further; or who sold them to venturesome speculators and bunglers, who, with little capital of their own and large sums of capital left owing, were unable to set in motion the dormant natural resources of their enormous undertakings."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-119">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-119">p. 119</a></h2>
+<section class="lit-passage" id="p-119" data-page="119">
+<div class="pg" id="p119"><a href="#p119">p. 119</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „So hat die Staatsverwaltung nicht nur ein grosses Einkommen beim Domainen-Fonds, sondern noch mehr hat der Staat im Ganzen und im Allgemeinen dadurch verloren, dass durch die Donationen, *die Entwicklung und Ausbildung Süd-Preussens unendlich retardirt worden ist.*“
@@ -4017,12 +3877,10 @@ The 23rd fragment now contains the particulars concerning the donations of estat
 "The trick by whose aid Hoym carried out the manoeuvre consisted in this: that whenever he submitted such a donation proposal to the late King, he always deceptively undervalued the estates at only a fourth or a sixth of their true worth, and sometimes far lower still; so that the late King really did not know what he was actually giving away — since it is otherwise highly probable that he, who had to rely on his minister and on the correctness of the latter's statements, would nevertheless, in the case of many proposals of this kind, have thought
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-120">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-120">p. 120</a></h2>
+<section class="lit-passage" id="p-120" data-page="120">
+<div class="pg" id="p120"><a href="#p120">p. 120</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 besonnen haben würde, wenn er die Wahrheit erfahren hätte. Die Ursache aber, warum Hoym auf dies sonst unbegreifliche Donations-System verfiel, war, dass er sich dankbare Freunde, die ihn einst schützen sollten, um den Thronfolger, jetzigen König, her erwerben wollte, zu dessen damals immer düsterer Stirn und immer schweigendem Munde er, der seit langer Zeit in Unthaten befangene Minister, dereinst nichts Gutes sich versah. Er fühlte tief, dass er Vorsprache bedürfe, wenn er einmal, wie er gegen das Ende der vorigen Regierung fürchtete, wegen seiner Verwaltung Süd-Preussens und Schlesiens, während der Regierung des vorigen Königs, vom jetzigen Könige zur Verantwortung gezogen werden sollte. Diesen Zweck hat er erreicht. Mit glücklich errathendem Blicke griff er damals, die beim jetzigen Monarchen geltenden Personen heraus, und so war es Dankbarkeit (aber welch’ eine Dankbarkeit!) was ihn auf seinem hohen Posten erhielt.“
@@ -4041,12 +3899,10 @@ better of it, had he learned the truth. The reason, however, why Hoym fell upon 
 "The donations themselves fall within the period of that four years' administration by *Hoym*, and began about the year 1795, after the last complete partition of Poland, in which New East Prussia was additionally acquired and placed under Minister v. *Schrötter.*"
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-121">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-121">p. 121</a></h2>
+<section class="lit-passage" id="p-121" data-page="121">
+<div class="pg" id="p121"><a href="#p121">p. 121</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „**Verschenkt wurden**
@@ -4081,12 +3937,10 @@ partly larger, partly smaller portions, **241 estates at a valuation of about 3�
 "Far too late has one looked from the old provinces toward these highly important dilapidations in that *terra incognita*, and roused oneself out of the long indifference toward them. Time, however, which reveals all things, is beginning to pass judgment on this too. When *Frederick the Great* gave the domain office of *Quilitz*<sup class="lit-fn"><a href="#n-en-111">111</a></sup> to General *Prittwitz*, Prittwitz had, after all, at some time done something worth mentioning, and had in particular actually saved his
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-122">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-122">p. 122</a></h2>
+<section class="lit-passage" id="p-122" data-page="122">
+<div class="pg" id="p122"><a href="#p122">p. 122</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Könige bei *Kunersdorf* das Leben wirklich gerettet, wofür ihm jeder denkende Mann und Verehrer des grossen und guten Königs herzlich dankte und gern gedankt sah. Eben so machte *Friedrich* der Grosse den General *Fouquet*, zum Domprobst von Brandenburg und Jedermann hielt damals letzteren für reichlich belohnt.“
@@ -4117,12 +3971,10 @@ king's life at *Kunersdorf*, for which every thinking man and admirer of the gre
 "The fancy-goods dealer v. *Treskow* got *Owinsk*<sup class="lit-fn"><a href="#n-en-112">112</a></sup> with its splendid forests, and close beside it lies the former starosty, now the domain, of *Szrim*, which has not a single tree and is so poor that no one would want it. The official at Szrim must now buy all the timber he needs for building, firing, and brewing out of the Treskow forests, and the state must reimburse this official at Szrim in cash for what could be supplied from its own natural growth, if Owinsk too had been added to the domain fund and not given away."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-123">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-123">p. 123</a></h2>
+<section class="lit-passage" id="p-123" data-page="123">
+<div class="pg" id="p123"><a href="#p123">p. 123</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Hätte man nicht diese 241 Güter verschenkt, sondern sie zu Domainen gemacht, wie viel würde nicht für die Kultur der in Süd-Preussen in so vieler Hinsicht noch schlecht organisirten Landwirthschaft, Viehzucht, Gärtnerei, ingleichem für die Strassen-Polizei und Wegeverbesserung mit systematischerem Nachdruck geleistet und beschafft worden sein!“
@@ -4141,12 +3993,10 @@ king's life at *Kunersdorf*, for which every thinking man and admirer of the gre
 "Had the state remained the owner of these extensive possessions, South Prussia would have gained by this alone: that the income in question would not have been drawn off in cash, but reinvested in the province — for instance, for the building of one or two frontier fortresses. The 160 German miles long eastern frontier of the Prussian state, from Memel to Czenstochau, lies wholly open; the Austrians and Russians can come in unhindered by every forest track, and can also march about within the interior, without finding a single defensible position, an entrenchment, or even a blockhouse opposed to them. The Silesian Oder fortresses and Graudenz on the Vistula now lie in the middle of the continental mass of the Prussian state, and no place of arms covers the great and long tract of land lying to their right."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-124">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-124">p. 124</a></h2>
+<section class="lit-passage" id="p-124" data-page="124">
+<div class="pg" id="p124"><a href="#p124">p. 124</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Süd-Preussen schmachtet jetzt unter einem alle Thätigkeit lähmenden Geldmangel und die sparsamen Garnisonen reichen nicht hin, eine merkliche Circulation zu befördern.“
@@ -4165,12 +4015,10 @@ king's life at *Kunersdorf*, for which every thinking man and admirer of the gre
 "Only New East Prussia has, ever since it was acquired in the year 1795, stood uninterruptedly under Minister v. *Schrötter* in Berlin, and thus always under the General Directory; and both he and the presently truly meritorious Privy Finance Councillor v. *Knoblauch* in Berlin, former President of the Chamber of Bjalystock, have, with untiring effort and rare zeal, without the slightest self-interest, accomplished an extraordinary amount of good in a short time in this so raw a province, torn from the former Lithuania and Masovia. There the organization has also turned out far more solid and is proceeding well, whereas, on the contrary, *Voss* in South Prussia must even now still patch up and remedy the corruptions left by Hoym. Schrötter hardly involved himself at all in the donation of estates, and when unavoidable circumstances forced him to it, he gave away only a few of the worst plots, and had them correctly surveyed and valued beforehand. The few villages that, for instance, Colonel v. *Hund* received are not worth naming here!"
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-125">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-125">p. 125</a></h2>
+<section class="lit-passage" id="p-125" data-page="125">
+<div class="pg" id="p125"><a href="#p125">p. 125</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Warum handelte Hoym nun nicht eben so brav wie *Schrötter*? Zum Verstehen dieser Darstellung ist eine geographische Ansicht der Karte, und die genaue Unterscheidung Süd-Preussens von Neu-Ost-Preussen schlechterdings nothwendig, denn ich rede lediglich von Süd-Preussen, weil nur dieses mit seinen drei Kammern in *Posen, Kalisch* und *Warschau* der Hoymschen Obhut anvertraut, und weil nur Süd-Preussen der Schauplatz jener skandalösen Donationen war.“
@@ -4205,12 +4053,10 @@ This may show my judges the motley mixture of these donataries, consisting of ca
 "Of the worthy there are everywhere only very few, of the unworthy so much the more. Some are quite unknown people; the few worthy ones got precisely the worst portions, and, besides, a few wretched scraps have been thrown to some native-born Polacks, merely to affect impartiality."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-126">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-126">p. 126</a></h2>
+<section class="lit-passage" id="p-126" data-page="126">
+<div class="pg" id="p126"><a href="#p126">p. 126</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Im Ganzen ist es aber doch nicht fein, dass man den Kindern das Brod nahm und warf es vor die Hunde!"
@@ -4233,12 +4079,10 @@ This may show my judges the motley mixture of these donataries, consisting of ca
 "It is highly probable that a cabal under the previous King, striving after the South Prussian estates, which did not find Minister v. *Voss* compliant to its purposes, was to blame for South Prussia being played into *Hoym's* hands in the year 1794. He, who kept his word to no one else, did after all, for his own sake, finally keep his word to it. *Hoym* foresaw that the health of the King of that time was gradually tottering toward the grave, and therefore devised in good time the plan of making friends for the future with the unrighteous mammon, and of averting the threatening storm from himself, by placing grateful defenders of his conduct of office around the future monarch, and by making use of circumstances
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-127">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-127">p. 127</a></h2>
+<section class="lit-passage" id="p-127" data-page="127">
+<div class="pg" id="p127"><a href="#p127">p. 127</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und Mittel, die schlechte Menschen ihm darboten, benutzte, und auch die Besseren sich zu verpflichten bestrebte."
@@ -4257,12 +4101,10 @@ and means that bad men offered him, while also striving to obligate the better s
 "My Tableau explains sufficiently how it has become possible that *Hoym*, even under this King, in spite of countless accusations lodged against him in the new cabinet, and against all the public's expectation, was able to maintain himself in his ministerial post in Silesia — a post continually abused since the death of Frederick the Great, wholly independent, and only remotely connected with the General Directory in Berlin. I doubt that the present King has ever seen so complete a Tableau as mine. The soldiers about him do not wish to be ungrateful; their notions of civil honour are in any case not very delicate, and they think it their duty not to let the man who made them rich go under, although they otherwise despise him deeply too, and he is, to them as to the whole monarchy, an object of disgust, abhorrence, and derision, as they have often enough let him know in coarse private letters. They were afraid of acting ignobly if they demanded *Hoym's* dismissal, and this considerate but misguided magnanimity alone has saved him."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-128">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-128">p. 128</a></h2>
+<section class="lit-passage" id="p-128" data-page="128">
+<div class="pg" id="p128"><a href="#p128">p. 128</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Welche scheussliche Unordnung und Willkür in jenen Dilapidationen damals herrschte, geht unwidersprechlich daraus hervor, dass *Hoym*, als damaliger südpreussischer Departements-Chef, mehrere Güter, sogar ganz *ohne Genehmigung* des regierenden Königs verschenkt hat, und dass diese allerhöchsten Orts unbewilligt verschenkten Güter, jetzt unter der *Voss’schen* Verwaltung Süd-Preussens *de facto* vom Fiscus wieder eingezogen werden, wie dies, indem ich es schreibe, namentlich mit verschiedenen *Lüttichaui’schen* Gütern der Fall ist. Mein Tableau ist übrigens aktenmässig[116] und in sofern zuverlässig genau, als in demselben noch einige Donationen fehlen[117], über die ich in der Geschwindigkeit keine soliden Nachrichten habe bekommen können. Es bedarf daher noch allerdings
@@ -4273,12 +4115,10 @@ and means that bad men offered him, while also striving to obligate the better s
 "What hideous disorder and arbitrariness reigned at that time in those dilapidations is shown incontrovertibly by the fact that *Hoym*, as then head of the South Prussian department, gave away several estates entirely *without the approval* of the reigning King, and that these estates, given away without highest sanction, are now, under *Voss's* administration of South Prussia, being *de facto* taken back by the fisc — as, at the very time I am writing this, is namely the case with various *Lüttichau* estates. My Tableau is, moreover, documented<sup class="lit-fn"><a href="#n-en-116">116</a></sup>, and reliably exact in so far as some donations are still missing from it<sup class="lit-fn"><a href="#n-en-117">117</a></sup>, concerning which, in my haste, I have not been able to obtain solid information. It still needs, therefore, indeed
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-129">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-129">p. 129</a></h2>
+<section class="lit-passage" id="p-129" data-page="129">
+<div class="pg" id="p129"><a href="#p129">p. 129</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 einiger Ergänzungen, die jedoch nicht gegen meine Behauptungen, sondern noch stärker für sie sprechen[118].“
@@ -4297,12 +4137,10 @@ some additions, which, however, speak not against my assertions, but even more s
 "I maintain that I am speaking the truth, so long as no one convicts me of lying. Confirmation of this truth can be learned, in part, very easily by the higher authorities right here at the local Feudal Department, if only one truly wishes to inquire after it and does not shrink from the answer. Meanwhile I simply demand that I be believed. Who among my judges can prove a lie against me? But if I speak the truth, why does one not believe me and act accordingly? If I am believed, then I demand to be told whether such infamies and absurdities as I have here brought forward concerning *Hoym* do not sufficiently document and justify all the abusive terms I hurled against him, on account of the *Früson* affair, in the black book. If the abusive terms are appropriate to their object,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-130">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-130">p. 130</a></h2>
+<section class="lit-passage" id="p-130" data-page="130">
+<div class="pg" id="p130"><a href="#p130">p. 130</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 anpassend, so frage ich endlich, warum ich gestraft werden soll, und ob ich zu gleicher Zeit gegen den nämlichen Mann, Recht und Unrecht haben soll. Der gemeine Menschenverstand entscheidet, dass es für einen so verworrenen und unmoralischen Minister, wie *Hoym* ist, keinen freundlichen Namen und kein ehrliches Beiwort in allen Sprachen giebt. Existirt ein Recht, Schandthaten unbestraft zu begehen, so muss auch ein Recht existiren, sie ungestraft in Büchern erzählen und nach Verdienst benennen zu dürfen. Der ganze Staat, in dem solche Dinge vorgehen ist entehrt, und es ist ein Beweis, dass in der ganzen Nation alle Vaterlandsliebe und Diensttreue, alles Gefühl für Ordnung und Scham erloschen sein muss, weil bis jetzt kein einziger Mann aufgetreten ist, der sie zur Sprache gebracht hätte.“ — —
@@ -4321,12 +4159,10 @@ In order not to draw upon ourselves the appearance of a one-sided, partisan pres
 "Notwithstanding all the promises of the homage commissioners in 1793," writes Cölln<sup class="lit-fn"><a href="#n-en-119">119</a></sup>, "that the ecclesiastical estates and starosties should remain with their possessors, provided they paid, respectively, 50, 75, and 81 per cent in dues, according to the standard fixed by the lustration, all these estates have now been seized entirely, a meagre allowance has been assigned to their possessors, and the finest portion of them has been given away to the King's favourites. That was *Bischofswerder's* plan at the occupation of South Prussia. — With the ecclesiastical estates it might pass; but that one takes from the starostas their possessions
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-131">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-131">p. 131</a></h2>
+<section class="lit-passage" id="p-131" data-page="131">
+<div class="pg" id="p131"><a href="#p131">p. 131</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 nimmt, die sie erkauft haben, das scheint mir ungerecht zu sein, besonders, wenn man sehen muss, dass diese Einziehung nicht zum Vortheil des Staats, sondern der Privatpersonen geschieht, die den Thron umlagern.“
@@ -4349,12 +4185,10 @@ which they had purchased seems to me to be unjust, especially when one must see 
 "Count *Hoym*, from whom the cabinet first demanded an opinion as to under what conditions the ecclesiastical and starosty estates might be seized, set himself forcefully against it, and represented that the King had, at the homage, guaranteed the possessors their rights; that these estates had accordingly been assessed, the ecclesiastical ones at 50, the starosty ones even higher, in the contribution; that the King would not profit very much from the seizure, especially at first, since a great deal of money had to be deducted from the proceeds for the maintenance of divine worship, for charitable foundations, and for the support of the clergy; that the buildings and the livestock on these estates were in poor condition, and that the royal interest would be better served if the dues were raised gradually instead. The bad impression that this stroke of violence would make on the nation, and on the common people, who were attached to the clergy, was, finally, in its consequences quite incalculable. But none of this helped at all; *Bischofswerder*,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-132">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-132">p. 132</a></h2>
+<section class="lit-passage" id="p-132" data-page="132">
+<div class="pg" id="p132"><a href="#p132">p. 132</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 oder vielmehr seine Frau, wollte sich bereichern, desshalb musste *Friedrich Wilhelm* II. wortbrüchig werden.“[120]
@@ -4369,12 +4203,10 @@ or rather his wife, wished to enrich herself; and for that reason *Frederick Wil
 "As soon as the ecclesiastical estates had been seized, *Bischofswerder* drew Herr v. *Triebenfeld* to Berlin, who took lodging at the Golden Eagle, and made use of him to draw up the proposals concerning the estates to be given away, since he possessed a great deal of local knowledge. In the cabinet, the draft of the deed of donation was prepared each time, and sent to Herr v. *Triebenfeld*, who inserted the names of whoever was to receive the donation. The fair copy was laid before the King, who was already nearly moribund; he was told that they were insignificant Vorwerks, and he thanked God once he had signed the deed<sup class="lit-fn"><a href="#n-en-121">121</a></sup>."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-133">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-133">p. 133</a></h2>
+<section class="lit-passage" id="p-133" data-page="133">
+<div class="pg" id="p133"><a href="#p133">p. 133</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „*Bischofswerdern* war nichts daran gelegen, Güter in Südpreussen zu besitzen; kaum waren sie ihm tradirt, so wollte er sie auch verkaufen. Dazu fand sich denn auch ein Gimpel aus Kopenhagen, ein während des Reichs-Interimistikums neugebackener Reichsgraf v. *Lüttichau* u. s. w.“ Das Nähere über ihn findet sich weiter unten Seite 147 und 148.
@@ -4405,12 +4237,10 @@ So much may suffice for an appraisal of this little-known and little-regarded do
 As for Held personally, he maintained, on the strength of the facts he had cited, that he must not only be acquitted, but that his opponents must be removed from their offices and punished. "*Hoym* deserves far more to sit here in the so-called Ochsenkopf than I deserve to sit in the Hausvoigtei." — That ministers too
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-134">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-134">p. 134</a></h2>
+<section class="lit-passage" id="p-134" data-page="134">
+<div class="pg" id="p134"><a href="#p134">p. 134</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Schurken sein könnten, bewiesen die Beispiele: Friedrich habe den Minister v. *Görne*[124] als einen überführten Betrüger auf die Festung geschickt, der regierende König habe den Minister v. *Wöllner* als einen schlechten Menschen aus dem Dienste gestossen.
@@ -4433,12 +4263,10 @@ How Held himself later thought about the Black Register we see from his own lett
 "The matter" — Held wrote to *Cölln* — "is over, it lies far behind me, forgotten like an abominable dream. I do not wish, at least as long as I live, to be its further disseminator. I therefore make it an express condition with you that you lend out neither piece, and show them to no one at all whatsoever. — Pain and disgust and vexation have worked so strangely upon my brain that I have in earnest quite forgotten the entire content of the Black Book, exactly as if I had never composed it, and for four years I have
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-135">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-135">p. 135</a></h2>
+<section class="lit-passage" id="p-135" data-page="135">
+<div class="pg" id="p135"><a href="#p135">p. 135</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 nicht mehr entschliessen können, eine Zeile darin zu lesen. Nur durch die neuliche Unterhaltung mit Ihnen ist es mir wieder einigermassen interessant geworden. Wenn Sie daher mir die Seiten andeuten wollen, wo Sie Fehler finden, so will ich das Ding abermals durchstudiren. Es ist mir an einer gründlichen Kritik nicht weniger gelegen, als an Ihrer eigentlichen Meinung“ u. s. w.
@@ -4461,12 +4289,10 @@ not been able to bring myself to read a single line of it. Only through our rece
 Held found himself thereby once again embroiled in disputes. He defended himself repeatedly. Here only a few passages of a letter that he wrote to the South Prussian Government Councillor v. Grevenitz on 28 October 1807.<sup class="lit-fn"><a href="#n-en-126">126</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-136">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-136">p. 136</a></h2>
+<section class="lit-passage" id="p-136" data-page="136">
+<div class="pg" id="p136"><a href="#p136">p. 136</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *„Ob ich, da ich dem Könige das schwarze Buch schickte, moralisch recht oder unrecht und als Phantast oder richtiger Seher gehandelt habe, bedarf keiner weiteren Dispüte, nachdem, wie unbedeutend ich auch immer sein mag, das Weltgeschick selbst mich handgreiflich und augenscheinlich gerechtfertigt hat. Das Ganze meiner damaligen That lässt sich in wenigen Worten zusammenfassen. Ich wollte damit nichts anderes, als dem Könige die Unzuverlässigkeit der büreaukratischen Formen in Hinsicht des Wesens der Staatsverwaltung beweisen und rief ihm zu: werde strenger, zeige mehr Energie gegen deine Nächsten, meist unfähigen und demoralisirten Verwaltungs-Organe, oder du stürzest durch deine Apathie dich sammt dem Staate ins Unglück!*[127] — Mir ist nun genau dasselbe widerfahren, was
@@ -4477,12 +4303,10 @@ Held found himself thereby once again embroiled in disputes. He defended himself
 *"Whether I, in sending the King the Black Book, acted rightly or wrongly in a moral sense, and whether as a visionary or as a truer seer, needs no further dispute, since — however insignificant I myself may always be — the fate of the world itself has palpably and manifestly justified me. The whole of my deed at that time may be summed up in a few words. I wished thereby to prove nothing else to the King than the unreliability of bureaucratic forms with regard to the true nature of state administration, and I called out to him: become stricter, show more energy against your subordinate — mostly incapable and demoralized — organs of administration, or through your apathy you will plunge yourself, together with the state, into misfortune!*<sup class="lit-fn"><a href="#n-en-127">127</a></sup> — Now precisely the same thing has befallen me that
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-137">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-137">p. 137</a></h2>
+<section class="lit-passage" id="p-137" data-page="137">
+<div class="pg" id="p137"><a href="#p137">p. 137</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *mutatis mutandis* ein Sultan thut, der einen Boten deshalb spiessen lässt, weil er ihm von ferner Gegend her eine fatale Nachricht bringt.“ — —
@@ -4505,12 +4329,10 @@ Held found himself thereby once again embroiled in disputes. He defended himself
 "Surely you yourself believe that I had no part in the publication of the Black Register. Every kind of vexation overcame me when it suddenly appeared in the second part of the Feuerbrände, all the more so since I saw it, and moreover my own person, disgraced in the third part by
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-138">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-138">p. 138</a></h2>
+<section class="lit-passage" id="p-138" data-page="138">
+<div class="pg" id="p138"><a href="#p138">p. 138</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Cölln,* dem ekelhaften Schmierer, geschändet sah.[128] Endlich kamen auch Sie hervor, ohne zu bedenken, dass, wenn Akten, die ursprünglich nur für die Augen des Königs und der Richter bestimmt waren, gedruckt werden, lediglich der Anstifter des Druckes der Injuriant ist. In Ihrer Stelle hätte ich, statt mit Akten anzumarschiren, mich auf eine ganz entgegengesetzte Art benommen und dem schwarzen Registrator ganz anders gedient. Ein freimüthiges Geständniss hätte Ihnen die grösste Ehre gemacht, versanken auch Andere darüber in Schande. Dreist konnten Sie sagen: Ich — bin noch einer der Besten in Südpreussen gewesen. Ist es nun mit mir so hergegangen, waren meine Verhältnisse dieser Art, so lässt sich schliessen, wie vollends erst die Wirthschaft jener Herren angethan war! Ich — that weiter nichts, als dass ich mir von der allgemeinen Beute da einen Knochen zueignete, wo Andere *pêle-mêle* die Braten an sich rissen!“
@@ -4529,12 +4351,10 @@ Only from this time on, since 1807, did the Black Register become a much sought-
 The *Black Register* is therefore an important document, both for that worthless ministerial regime which once flourished in Prussia, and *quite especially* for the history of the *German colonisations in*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-139">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-139">p. 139</a></h2>
+<section class="lit-passage" id="p-139" data-page="139">
+<div class="pg" id="p139"><a href="#p139">p. 139</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 dem preussischen, ehemals polnischem Landestheile des Grossherzogthums Posen, namentlich des Adels und der grossen Grundbesitzer.
@@ -4561,12 +4381,10 @@ And so we close with a few judgments concerning that document:
 > "However much untruth the notorious Black Register may contain, there is still too much truth in it for a good government, and the whole is a sad monument to abused good nature and shameless self-interest. Berlin innkeepers, with whom eminent state officials had lodged, wrote small bills for their guests because they hoped to receive an estate in recompense, and sent larger ones afterward because they saw themselves deceived in their expectation." *Manso*, Gesch. Preussens v. 1763 bis 1797, vol. I. 371.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-140">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-140">p. 140</a></h2>
+<section class="lit-passage" id="p-140" data-page="140">
+<div class="pg" id="p140"><a href="#p140">p. 140</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **Das schwarze Register**
@@ -4579,7 +4397,7 @@ der 1794 bis 1798 verschenkten, ehemaligen polnischen Kron- und geistlichen Güt
 
 ---
 
-###### I. Im Departement der Kammer zu Posen[129]
+##### I. Im Departement der Kammer zu Posen[129]
 
 ---
 
@@ -4616,7 +4434,7 @@ of the former Polish crown and ecclesiastical estates donated between 1794 and 1
 
 ---
 
-###### I. In the Department of the Chamber at Posen<sup class="lit-fn"><a href="#n-en-129">129</a></sup>
+##### I. In the Department of the Chamber at Posen<sup class="lit-fn"><a href="#n-en-129">129</a></sup>
 
 ---
 
@@ -4641,12 +4459,10 @@ Now retired and living in Berlin.
 } (1–11) 70225 Thlr.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-141">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-141">p. 141</a></h2>
+<section class="lit-passage has-related" id="p-141" data-page="141">
+<div class="pg" id="p141"><a href="#p141">p. 141</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die jährlichen Einkünfte dieser eilf Güter betragen jetzt zum allerwenigsten 8000 Thaler. Ihren wahren Werth kann man daher ohnstreitig auf 160,000 Thaler annehmen. Die Donations-Urkunde ist d. d. Berlin den 14ten Januar 1797 und von Hoym und Reck unterzeichnet. Sie lautet: *Zum Beweise Unsrer gnädigsten Zufriedenheit mit dem Uns und Unserm Königlichen Hause geleisteten langjährigen treuen und rechtschaffenen Dienste etc.* Und so lauten sie fast alle.
@@ -4687,7 +4503,6 @@ Now retired and living on his fine estate of Marquard, one mile from Potsdam, wh
 The infamy of this so understated valuation is notorious; for *Bischofswerder* sold these four estates to
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The entry opens the comparison with Bischofswerder: four estates valued at 18000 Thlr., the understatement notorious. Triebenfeld's letter of 13 March 1799 gives the letter's side of the same comparison: the Bischofswerder estates were to bear at most 1,500 rt by the assessment, and he sold them for 207,000 rt.</p>
@@ -4695,9 +4510,8 @@ The infamy of this so understated valuation is notorious; for *Bischofswerder* s
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-142">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-142">p. 142</a></h2>
+<section class="lit-passage has-related" id="p-142" data-page="142">
+<div class="pg" id="p142"><a href="#p142">p. 142</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 den Grafen v. *Lüttichau* für **25,000** Stück Friedrichsd'or verkauft.
@@ -4779,7 +4593,6 @@ True value between 40,000 and 50,000 thalers. Deed of donation dated Berlin, 25 
 } (1–3) 15000 Thlr.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The page completes the story the entry began: Bischofswerder sold the four estates to Count Lüttichau for 25,000 Friedrichsd'or, who bought his donations from him again for 50,000. The letter's comparison continues here too: it was Triebenfeld who sold the Bischofswerder estates, for 207,000 rt, after an assessment that gave them at most 1,500 rt a year.</p>
@@ -4789,9 +4602,8 @@ True value between 40,000 and 50,000 thalers. Deed of donation dated Berlin, 25 
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-143">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-143">p. 143</a></h2>
+<section class="lit-passage" id="p-143" data-page="143">
+<div class="pg" id="p143"><a href="#p143">p. 143</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Der jährliche Pachtertrag beläuft sich jetzt auf 4000 Thlr. Bloss für Lubrzec, welches herrliche Wiesen und Holzungen hat, bot unlängst der Graf Kwilecki auf Dobrojewo dem bei der Posenschen Kammer als Assessor angestellten Sohne des Boumann 12000 Thlr.
@@ -4847,12 +4659,10 @@ Now leased to a certain von Jaworowitz for 2000 thalers annually. True value 40,
 "The untruth of this calumny is self-evident. Whoever knows Count Hoym understands at once that it was physically and morally impossible for him *to fall on his knees.* How could the *lame*<sup class="lit-fn"><a href="#n-en-130">130</a></sup> man have managed that? Under all circumstances, Hoym's prudence had resources enough to spare him from such a degrading act toward an Eisenberg. The blame for having caused the riot fell upon Werner, the City President in Breslau, an immediate favourite of Frederick William II, for whom he had negotiated funds while the latter was still Crown Prince."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-144">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-144">p. 144</a></h2>
+<section class="lit-passage" id="p-144" data-page="144">
+<div class="pg" id="p144"><a href="#p144">p. 144</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Neue Feuerbrände III. S. 131.
@@ -4931,12 +4741,10 @@ The annual yield of all these estates is already now close to 10000 Thlr.
 "Herr von *Hünerbein* was the lover of the beautiful Fräulein von *Knobelsdorf*, lady-in-waiting to Princess *Louis*; she was staying with the King at Pyrmont. Once the King was at breakfast with the Princess in the morning, when the *Knobelsdorf* lady passed through the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-145">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-145">p. 145</a></h2>
+<section class="lit-passage has-related" id="p-145" data-page="145">
+<div class="pg" id="p145"><a href="#p145">p. 145</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Zimmer ging. Es entfuhren ihm die Worte: Hübsch Mädchen, Prinzess! — O ja! (antwortete diese) sie ist auch schon Braut! — Mit wem? fragte der König. Mit dem Herrn von *Hünerbein* erwiderte sie; es ist aber eine Verbindung der wahren Liebe, denn sie haben beide nichts. — Heirathen, Güter schenken! war die Antwort des Königs.“
@@ -4994,7 +4802,6 @@ In Breslau. See No. 8 in the Department of Kalisch.
 These and the estates designated *sub* No. 8 in the Department of Kalisch are together worth about 800,000 thalers and yield 50,000 thalers in revenue annually; these estates are accordingly better than the indebted Principality of Ingelfingen. A few years ago the Prince wished to exchange these scattered estates for the Royal Domain of Krotoszyn, already coveted by so many speculators, but the Cabinet Councillor Beyme prevented the
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The entry gives the Prince's estates as worth about 800,000 Thaler and yielding 50,000 a year, where the late King had meant a gift of 6,000, and says Beyme stopped the Prince's exchange of them for Krotoszyn. The papers of the gift itself survive: Hoym's proposal of 14 July 1796 and the King's cabinet order of 23 July grant the Prince the Prusimski estates — Trąbczyn, Szetlewek, Nowa Wieś, Łazy, Osiny, the Laski and the Hauland of Trąbczyn among them — at a proposed value of 120,000 rt and a yield of 4 to 6,000, and the deed of 9 August 1796 follows. The King's refusal of 4 December 1798 answers the exchange with the yield counted otherwise, and Triebenfeld writes from Berlin in January 1799 that only "B[eyme] and K[öckritz]" stood firm against having it refused outright.</p>
@@ -5002,9 +4809,8 @@ These and the estates designated *sub* No. 8 in the Department of Kalisch are to
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-146">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-146">p. 146</a></h2>
+<section class="lit-passage has-related" id="p-146" data-page="146">
+<div class="pg" id="p146"><a href="#p146">p. 146</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Ausführung dieses Projektes mit Recht. Bei dieser Veranlassung gab der Fürst selbst oben genannten jährlichen Ertrag à 50,000 Thlr. im Kabinette des jetzigen Königs auf so hoch an. Der verstorbene König willigte eigentlich nur in eine Schenkung ein, die dem Fürsten jährlich 6000 Thlr. einbringen sollte.
@@ -5069,7 +4875,6 @@ He was travelling equerry to the previous King and was then called *Leberenz.* H
 } 30150 Thlr.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>Here the register has the Prince stating his yield at 50,000 in the cabinet himself, and quotes Cölln on Voss having thwarted the exchange. The letters give the figures on both sides: the King counts the Prince's estates at a yield of 8,650 a year, improved since at a cost of some 26,000 in meliorations, now bringing 40,500, against Krotoszyn's 49,043; the Prince answers that his estates yield 41,500 and Krotoszyn pays a rent of no more than 30,100; and Triebenfeld writes that Voss "still boils with wrath and rage" against the exchange. The Prince's second petition answers Voss's own stated reasons point by point, taking the Pacht of 30,100 for its basis against the 60,000 the minister's reckoning reaches.</p>
@@ -5077,9 +4882,8 @@ He was travelling equerry to the previous King and was then called *Leberenz.* H
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-147">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-147">p. 147</a></h2>
+<section class="lit-passage" id="p-147" data-page="147">
+<div class="pg" id="p147"><a href="#p147">p. 147</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Der wahre Werth ist circa 100,000 Thlr. und der jährliche Ertrag zwischen 4 und 5000 Thlr. Beides würde höher sein, wenn für eine ordentliche Bewirthschaftung gesorgt würde. Die Gunst der Kabinetsräthin Beyer war wohl der Hauptkanal, aus dem dies Geschenk floss. Ihr Mann, der bereits *sub* No. 1 mit eilf Gütern designirt ist, befand sich einst mit dem *Krackwitz* in Posen und erzählte sehr gutmüthig an der Tafel des Kammer-Präsidenten v. Harlein, dass diese Schenkung eine Belohnung dafür sei, dass *Krackwitz* dem verstorbenen Könige in der Campagne zweimal das Leben gerettet habe. Andere Leute wollen jedoch hiervon nichts wissen. Krackwitz hat diese Güter an den Landrath von Potworowski im Kostenschen Kreise für 60,000 Thaler verkauft.
@@ -5149,12 +4953,10 @@ The true value is approximately 100,000 thalers, and the annual yield between 4,
 } (1–13) 84000 Thlr.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-148">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-148">p. 148</a></h2>
+<section class="lit-passage" id="p-148" data-page="148">
+<div class="pg" id="p148"><a href="#p148">p. 148</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Güter, zusammen mit denen No. 10 im Departement von Kalisch, sind 800,000 Thlr. werth. Die Bewandtniss, die es mit diesem Lüttichau hat, ist sehr verworren und räthselhaft und zweideutig. Eigentlich ist er ein Vicariats-Graf und war noch vor 15 Jahren erster Commis der dänisch-ostindischen Handelsgesellschaft in Kopenhagen, auf welcher Stelle er sich dermassen bereicherte, dass er eine Menge Güter in Holstein kaufen konnte, die er aber bald darauf, von seinen Unterthanen gehasst, mit anderen Gütern im Braunschweigischen vertauschte. Im Jahre 1795 wollte Hoym die Herrschaften Krotoszyn und Połajewo auf 36 Jahre jährlich für 50,000 Thlr. an ihn verpachten und diese Angelegenheit führte ihn in Südpreussen ein. Hier gab er zuweilen seinen Namen zu Schenkungen her, welche eigentlich andere bekamen, die nicht genannt werden sollten. Dies war z. B. der Fall mit dem 2 Meilen von Posen belegenen Gute Tarnowo, No. 7, welches der Regierungsrath v. Grevenitz in Posen zum Lohn dafür bekam, weil er in dem Ehescheidungsprozesse des einfältigen Grafen Gurowski mit seiner Frau, einer Bischofswerderschen Tochter, die ihm aufgehalset worden war, zu Gunsten dieser Person so entschied, dass ihr 72,000 Thlr. von ihrem Manne herausgezahlt werden mussten. Grevenitz gab dem Lüttichau für Tarnowo 3000 Thlr. und verkaufte es nachher für 65000 Thlr. Eben so musste Lüttichau das Gut Konojad, No. 8, an den Justizrath Reinhard zu Posen, zufolge einer mit Hoym heimlich geschlossenen Konvention abtreten, zur Belohnung dafür, dass der Reinhard, der das südpreussische Hypothekenwesen organisiren half, mithin von den vakant werdenden Gütern und ihrem Werthe sehr wohl unterrichtet war, die zu verschenkenden Güter aussuchte. Die Donations-Urkunde ist v. 25. Jan. 1797 u. lautet: *Um ihm ein Merkmal Unsrer Königlichen Huld, Gnade und Wohlwollen zu geben, haben wir resolvirt* etc. Die Kab.-Ordre an den Min. v. Hoym fängt an: *Eurem Antrage gemäss* etc.
@@ -5165,12 +4967,10 @@ Die Güter, zusammen mit denen No. 10 im Departement von Kalisch, sind 800,000 T
 The estates, together with those under No. 10 in the Department of Kalisch, are worth 800,000 thalers. The circumstances surrounding this Lüttichau are very confused, mysterious, and equivocal. He is in fact an Imperial Count, and as recently as fifteen years ago was chief clerk of the Danish East India Trading Company in Copenhagen, a position in which he enriched himself so greatly that he was able to buy a great many estates in Holstein — which, however, hated by his subjects, he soon afterward exchanged for other estates in Brunswick. In 1795 Hoym wished to lease him the lordships of Krotoszyn and Połajewo for 36 years at 50,000 thalers annually, and this matter introduced him into South Prussia. Here he sometimes lent his name to donations that were actually received by others who were not to be named. This was the case, for example, with the estate of Tarnowo, No. 7, situated two [German] miles from Posen, which the Government Councillor v. Grevenitz in Posen received as a reward for having, in the divorce suit of the simple-minded Count Gurowski against his wife — a Bischofswerder daughter who had been foisted upon him — ruled in favour of this person in such a way that 72,000 thalers had to be paid out to her by her husband. Grevenitz gave Lüttichau 3,000 thalers for Tarnowo and afterward sold it for 65,000 thalers. Likewise Lüttichau had to cede the estate of Konojad, No. 8, to the Justice Councillor Reinhard at Posen, pursuant to a convention secretly concluded with Hoym, as a reward for the fact that Reinhard — who had helped organize the South Prussian mortgage system and was thus very well informed about the estates becoming vacant and their value — selected the estates to be given away. The deed of donation is dated 25 January 1797 and reads: *To give him a token of Our Royal favour, grace, and goodwill, We have resolved* etc. The cabinet order to the Minister v. Hoym begins: *In accordance with your motion* etc.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-149">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-149">p. 149</a></h2>
+<section class="lit-passage" id="p-149" data-page="149">
+<div class="pg" id="p149"><a href="#p149">p. 149</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Cölln* präsentirte in der bereits Seite 133 angeführten Stelle den *Lüttichau* als einen „Gimpel aus Kopenhagen,“ als „einen während des Reichsintermisticums neugebackenen Reichsgrafen.“ „Dieser *Lüttichau* — heisst es übereinstimmend mit vorstehender Behauptung in jener Stelle weiter — erhielt nun eine Menge Güter, und da man dem Könige nicht zu viele verschiedene Namen nennen wollte, so wurden die Güter, die man andern Creaturen schenken wollte, auf des Grafen Namen gesetzt, der darüber einen Scheinkaufscontract sogleich mit dem wahren Donatario eingehen musste.“ Ferner heisst es:
@@ -5197,12 +4997,10 @@ On the situation of the comital *Gurowski* couple, *Cölln* reports loc. cit. p.
 A fateful mishap befell this royal favourite (Bischofswerder) shortly before the insurrection, in connection with his daughter. The holder of the starosty of Koło, Count *Gurowsky*, wished to secure possession of his starosty; Bischofswerder received him graciously, drew him into his family circle, and thereby an attachment of love arose between Gurowsky and Fräulein Bischofswerder. The father gave his blessing, and the wedding was celebrated at Fraustadt. Five days later, however, the young couple were afflicted with an
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-150">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-150">p. 150</a></h2>
+<section class="lit-passage" id="p-150" data-page="150">
+<div class="pg" id="p150"><a href="#p150">p. 150</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Uebel befallen, welches die gerechteste Ursache zur Scheidung enthielt. Gurowski wollte von seiner Frau angesteckt worden sein. In Folge der Scheidungsklage bei der Posenschen Regierung wurde ein Interimistikum regulirt, und ein Gut des Grafen, *Murowana Goślin*, in Sequestration genommen, um daraus der Ehefrau standesmässigen Unterhalt anzuweisen. Der junge *Gurowsky*, voll Verzweiflung, trat der Insurrektion bei, und später gedrängt und geängstigt von den Vermittlern *Grevenitz und Triebenfeld*, gab er das reiche Murowana Goslin der Bischofswerderschen Tochter.
@@ -5264,12 +5062,10 @@ Now envoy at Paris.
 } (5–11) 151500 Thlr.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-151">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-151">p. 151</a></h2>
+<section class="lit-passage" id="p-151" data-page="151">
+<div class="pg" id="p151"><a href="#p151">p. 151</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Diese Schenkung ist wegen ihrer trefflichen arrondirten Lage und Durchströmung der Obra eine der ansehnlichsten, wichtigsten und schönsten. Jetzt ist sie gerichtlich auf 500,000 Thlr. taxirt und dies vollkommen werth. Der feine Italiener hat mit pfäffischem Scharfblick richtig den besten Fleck erspäht und ihn sich zuzueignen gewusst. Seine ehemalige gesandtschaftliche Mühwaltung in Warschau ist hiermit reichlich belohnt. Es war billig, dass er von der Theilung Polens, die er einleitete, ein Stück abbekam. Diese Starostei Meseritz gehörte ehemals dem Fürsten Jablonowski. Die Donations-Urkunde d. d. Berlin den 14. Januar 1797 lautet: *Zum Beweise Unserer gnädigsten Zufriedenheit mit den Uns und Unserem Königlichen Hause geleisteten, treuen, ausgezeichneten und erspriesslichen Diensten etc.*
@@ -5288,12 +5084,10 @@ Girolamo *Lucchesini* was, up to Frederick's death, one of his most intimate fri
 On Lucchesini's character and public activity see the *Militärische Geschichte des Prinzen Friedrich August von Braunschweig-Lüneburg*. Oels 1797. p. 313. *Manso*, *Geschichte des preussischen Staats*. I. 308.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-152">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-152">p. 152</a></h2>
+<section class="lit-passage" id="p-152" data-page="152">
+<div class="pg" id="p152"><a href="#p152">p. 152</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **16. Baron von Schilden.**
@@ -5392,12 +5186,10 @@ See further No. 10 in the Warsaw Department.
 } 73325 Thlr.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-153">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-153">p. 153</a></h2>
+<section class="lit-passage" id="p-153" data-page="153">
+<div class="pg" id="p153"><a href="#p153">p. 153</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Owinsk hat treffliche Waldungen und die nahe daran grenzende, eine königliche Domaine gewordene ehemalige Starostei Szrim hat keinen Baum, so dass der Beamte in Szrim nicht nur sein Bau-, sondern sogar sein Brennholz von dem Treskow kaufen und dieser Ankauf ihm auf dem Domainen-Etat von Szrim zu gut gerechnet werden muss. Nahe an Owinsk und Szrim liegt die Herrschaft Murowano Goślin; diese gewann die Bischofswerdersche Tochter (siehe No. 14) von ihrem Manne, statt der baaren 72000 Thlr., die Grevenitz ihr zubilligte. Hoym kaufte hierauf dieser Dame ihr Murowano Goślin für 72000 Thlr. ab und verkaufte es wieder an Treskow für 120,000 Thlr. Welch ein Trafik! Der Treskow ist jedoch der nützlichste von allen Donatarien, wegen des rastlosen, verständigen, ja verschwenderischen Eifers, mit dem er seine Güter in Stand setzt und seine Bauern fleissig macht. Diese Güter zusammen mit denen, die sub No. 10. im Warschauer Departement verzeichnet sind, haben einen Werth von ungefähr 350000 Thlr.
@@ -5416,12 +5208,10 @@ In the deed of gift, dated Berlin, 24 January 1787, no further reason for the do
 **"Hoym bought Murowano Goślin for 120,000 thalers and sold it again for exactly the same price. If the purchase had been made by him as a favour to Bischofswerder, how unwise would he have been**
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-154">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-154">p. 154</a></h2>
+<section class="lit-passage" id="p-154" data-page="154">
+<div class="pg" id="p154"><a href="#p154">p. 154</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sein, sogleich an 40 Prozent (?) daran zu verdienen? Man sieht, wie sehr den Verfasser die Wuth zu schmähen hingerissen, und wie inkonsequent er dabei verfahren hat.“
@@ -5487,12 +5277,10 @@ Owner of Heinersdorf near Züllichow in the Neumark. A brother-in-law of Colonel
 These estates were actually given to Colonel v. Köckeritz, adjutant-general to the King, and only because he and his brother-in-law, on the basis of a mutual pact of inheritance existing between them, regard and treat their respective fortunes as one, were they given and made out in the name of this
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-155">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-155">p. 155</a></h2>
+<section class="lit-passage" id="p-155" data-page="155">
+<div class="pg" id="p155"><a href="#p155">p. 155</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Schwagers geschenkt und geschrieben. Zur Ehre dieses Köckeritz wird hier bemerkt, dass Hoym diese Donation ihm viermal anbieten und zuletzt aufdringen musste, bevor er sich entschliessen konnte, sie anzunehmen. Endlich nahm er sie auch nur an, nachdem er dem Kronprinzen (jetzigen König) davon Anzeige gemacht hatte. Man ersieht übrigens aus dieser Demarche des Hoym, wie dringend er bemüht war, sich bei Zeiten bei den nächsten Freunden des Thronfolgers einzuschmeicheln und sie für sich möglichst zu gewinnen. Donations-Urkunde d. d. Berlin den 25. Januar 1797. Sie lautet: *Um dem Unruh ein Merkmal Unserer Königlichen Huld und Gnade zu geben, haben Wir resolvirt.*
@@ -5530,12 +5318,10 @@ See No. 11 in the Warsaw Department.
 Presumably Wendessen, during the period before the acquisition of South Prussia, while he was in garrison at Breslau, entered into very friendly relations with Hoym. Deed of donation dated Berlin, 25 January 1797.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-156">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-156">p. 156</a></h2>
+<section class="lit-passage has-related" id="p-156" data-page="156">
+<div class="pg" id="p156"><a href="#p156">p. 156</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **22. Generalmajor von Zastrow in Posen.**
@@ -5557,7 +5343,7 @@ Diese in der fruchtbarsten Gegend der Woywodschaft Posen belegenen Güter sind z
 
 ---
 
-###### II. Im Departement der Kammer zu Kalisch.
+##### II. Im Departement der Kammer zu Kalisch.
 
 ---
 
@@ -5596,7 +5382,7 @@ These estates, situated in the most fertile region of the voivodeship of Posen, 
 
 ---
 
-###### II. In the Department of the Chamber at Kalisch.
+##### II. In the Department of the Chamber at Kalisch.
 
 ---
 
@@ -5619,7 +5405,6 @@ Probably insignificant, and given to a native-born Pole only to affect impartial
 The cabinet order of 20 April 1797 begins, like most similar ones to Hoym, with: *In accordance with your proposal* etc. The true value is 36,000 thalers, after Favrat had already had 20,000 thalers' worth of timber felled.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The entry on Zastrow gives eight estates at 87650 Thlr. which he "has, very prudently, not yet had valued", worth at least 200,000. The letter answers with the same reckoning: the Zastrow estates were to bear some 2,000 rt, and bring beyond doubt "some twenty thousand".</p>
@@ -5627,9 +5412,8 @@ The cabinet order of 20 April 1797 begins, like most similar ones to Hoym, with:
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-157">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-157">p. 157</a></h2>
+<section class="lit-passage" id="p-157" data-page="157">
+<div class="pg" id="p157"><a href="#p157">p. 157</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **3/25. Geheime Rath von Goldbeck.**
@@ -5684,12 +5468,10 @@ valued at; and besides, Klokinie has not even been valued yet. Incidentally, the
 "*Goldbeck* took the opportunity, from the favours shown to Hoym in the *Zerbony-Früson* lawsuit,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-158">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-158">p. 158</a></h2>
+<section class="lit-passage" id="p-158" data-page="158">
+<div class="pg" id="p158"><a href="#p158">p. 158</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 für seinen Sohn südpreussische Güter zu acquiriren, und zugleich eine entehrende Herabsetzung der Steuer von diesen Gütern gegen die aller übrigen Landsassen vom vorigen Könige erschlichen, die kein reeller Staatsdiener, und am allerwenigsten ein Grosskanzler verlangen und annehmen sollte.“
@@ -5774,12 +5556,10 @@ As is said, this man, out of patriotism, is supposed to take no salary as minist
 } 9700 Thlr.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-159">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-159">p. 159</a></h2>
+<section class="lit-passage has-related" id="p-159" data-page="159">
+<div class="pg" id="p159"><a href="#p159">p. 159</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **8/30. General-Lieutenant Fürst von Hohenlohe-Ingelfingen in Breslau.**
@@ -5864,7 +5644,6 @@ See No. 14 in the Department of Posen.
 The shameless fraud in the accompanying valuation is proven; for the estate Kuchary, No. 7, alone has been judicially assessed at 90,000 thalers.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The Kalisch section's entry lists Trombczyn, Nowa-Wies, Oswiery, Lazy and Szetlewek at 12000 Thlr. — villages of the grant the deed of 9 August 1796 makes the Prince, confiscated from Prusimski (the deed adds Alt and Neu Laske and the Hauland of Trąbczyn, which the row does not name). With the Posen entry's 77250 Thlr. the register's official valuation of the whole gift comes to 89,250 Thlr., where Hoym's proposal of 14 July 1796 had counted all the Prince's items at 120,000 rt; and where the register prints a valuation, the letters give a yield: Triebenfeld reports the Trąbczyn estates alone bringing 8,400 rt by March 1799.</p>
@@ -5872,9 +5651,8 @@ The shameless fraud in the accompanying valuation is proven; for the estate Kuch
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-160">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-160">p. 160</a></h2>
+<section class="lit-passage has-related" id="p-160" data-page="160">
+<div class="pg" id="p160"><a href="#p160">p. 160</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **11/33. Legations-Rath Neumann.**
@@ -5981,7 +5759,6 @@ The judicial valuation by the Regierung at Kalisch stands at 200,000 thalers. Po
 } 30000 Thlr.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The entry on Rüchel opens here: eight estates, the lordship of Ostrzeszow at their head, at 30000 Thlr. The letter's comparison names him: the Rüchel estates were to bear 940 rt a year, and were sold for 140,000.</p>
@@ -5991,9 +5768,8 @@ The judicial valuation by the Regierung at Kalisch stands at 200,000 thalers. Po
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-161">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-161">p. 161</a></h2>
+<section class="lit-passage has-related" id="p-161" data-page="161">
+<div class="pg" id="p161"><a href="#p161">p. 161</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Rüchel bekam die Herrschaft Ostrzeszów oder die 7 ersten Nummern, laut der Donations-Urkunde, unter dem Titel eines *Gratialgütchens* und nach einer Taxe von 20000 Thaler geschenkt. Gleich nach der Schenkung fuhr eine Windsbraut durch die grossen Waldungen dieses *Gratialgütchens* und warf wirklich einige Tannen nieder. Darüber erhob Rüchel ein gewaltiges Geschrei und stellte sich, als wollte er dieses angeblich ruinirte Gratialgütchen gar nicht einmal behalten. Hoym liess den Windbruch hierauf zu 40000 Thaler taxiren und machte, dass Rüchel zur Entschädigung noch Kaliszkowice, nach einer Taxe von 10000 Thaler, geschenkt bekam. Nun dauerte es nicht lange, so verkaufte Rüchel alle 8 Güter, ohne dass er sie je besucht oder gesehen hätte, an den Regierungsrath von Reibnitz in Kalisch für 130000 Thaler. Nach dem Kauf liess Reibnitz sie gerichtlich taxiren und da fand sich, dass die Herrschaft Ostrzeszów oder die 7 ersten Güter 341000 Thaler und das geistliche Gut Kaliszkowice 39000 Thaler, alle zusammen also 380000 Thaler werth sind. Nun wollte Rüchel gegen Reibnitz klagen, dass er über die Hälfte verletzt sei und den Verkauf zurücknehmen, es gelang ihm aber nicht. Reibnitz hat bereits 12000 Thlr. Einkünfte aus diesen Gütern, ist jedoch dem Rüchel noch 90000 Thaler à 5 pro Cent schuldig.
@@ -6008,7 +5784,6 @@ Rüchel received the lordship of Ostrzeszów, or the first 7 numbers, according 
 Euclid teaches that the part is smaller than the whole, and God Himself cannot alter that. Nonetheless Hoym managed it. For how else, a few months after the donation, could he, on a little estate that he had valued at 20,000 thalers and on which Rüchel had not repaired so much as a single fence-post, far less undertaken any other improvements, have put down forest damage of 40,000 thalers
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The entry tells Rüchel's sale: all eight estates, never seen by their recipient, sold to Reibnitz for 130,000 Thaler, then valued at 341,000 and 39,000 — 380,000 together. The letter's comparison puts the same sale at 140,000, the estates meant to bear 940 rt a year.</p>
@@ -6016,9 +5791,8 @@ Euclid teaches that the part is smaller than the whole, and God Himself cannot a
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-162">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-162">p. 162</a></h2>
+<section class="lit-passage has-related" id="p-162" data-page="162">
+<div class="pg" id="p162"><a href="#p162">p. 162</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 angeben, da der Wald doch nur ein Theil eines Gutes ist? Und überhaupt, welch ein *Gütchen*, wo ein so grosser Waldschaden vorkommen kann und dennoch der Wald stehen bleibt! Man sieht offenbar, entweder die Taxe von Ostrzeszow à 20000 Thlr. oder die Taxe des Waldschadens à 40000 Thlr. musste falsch gewesen sein.
@@ -6091,7 +5865,6 @@ Lasky 271061 Thlr. 4 Gr. 2 Pf.
 Still missing here, however, is the valuation of Nowa Wies and Szmardzice. On these estates considerable sums of capital are entered in favour of Bischofswerder. Triebenfeld has recently sold them all together to Prince George of
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The entry gives the first four estates as valued at 31,000 Thaler at the donation, the lordship of Laski taken for a hereditary-tenure sum of 20,000, and the spring 1797 valuation at over 700,000. The letters agree on the valuation from the man's own hand: in April 1799 he writes that the estates he sold to Prince George stand, at a judicial and chamber tax, at over 700,000 rt — while he reckons he let the gentleman have them on a basis of about 500,000.</p>
@@ -6099,9 +5872,8 @@ Still missing here, however, is the valuation of Nowa Wies and Szmardzice. On th
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-163">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-163">p. 163</a></h2>
+<section class="lit-passage has-related" id="p-163" data-page="163">
+<div class="pg" id="p163"><a href="#p163">p. 163</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Hessen-Darmstadt für 400000 Thlr. verkauft, und dieser hat sie wieder an den sächsischen Ober-Forstmeister und Kammerjunker v. Schirnding, laut Kontrakt, d. d. Berlin in der goldnen Sonne, den 9. März 1801 für 750000 Thlr. verkauft.
@@ -6140,7 +5912,6 @@ The Breslau Chamber, under Minister *Hoym*, reckoned the Krotoszyn revenues to t
 And so it indeed succeeded in driving the Amtmann *Früson* out of Krotoszyn, and it was in these and similar services that the sole merit of Triebenfeld was to be found — merit which was rewarded with the aforementioned donation of estates.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>Here the register gives the sale: to Prince George of Hesse-Darmstadt for 400,000 Thaler, and the resale by contract of 9 March 1801 to Schirnding for 750,000. The letters give the same story as their writer counted it: his own price to Prince George 280,000 (July 1800), and in February 1801 that Prince George "has sold my estates for 750,000 rt".</p>
@@ -6150,9 +5921,8 @@ And so it indeed succeeded in driving the Amtmann *Früson* out of Krotoszyn, an
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-164">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-164">p. 164</a></h2>
+<section class="lit-passage" id="p-164" data-page="164">
+<div class="pg" id="p164"><a href="#p164">p. 164</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Man sieht, sagt der Verfasser des schwarzen Buches, mit Schrecken, wie leicht ein gewissenloser Minister den Schaden eines Privatmannes decretirt, wenn es darauf ankommt, einem andern Minister gefällig zu sein, oder ihn aus Verlegenheit zu ziehen; wie wenig Ueberwindung und List Männern dieses Gepräges und Ranges ein sonnenklarer Betrug kostet und wie sie sans façon nicht nur mit Staatseinkünften und Privatwohl umspringen, sondern sogar dem Landesherrn ins Angesicht lügen, wenn Angst und ausbrechende Schande sie antreiben, ihre alten Niederträchtigkeiten mit neuen zu bedecken.“
@@ -6171,12 +5941,10 @@ In a more recent work<sup class="lit-fn"><a href="#n-en-131">131</a></sup> Trieb
 "I was a huntsman in the service of a starosta who belonged to the commission set up for the suppression of the Jesuits. The commissioners had received as gifts from the Jesuits chalices and other gold and silver vessels set with precious stones, which, however, were thrown together to be divided up afterward. One day the whole worthy commission was assembled at the starosta's; I stood behind my master's chair. The conversation turned to the division of the gifts, and everyone was at a loss how it was to be managed. They could not agree; the gentlemen's eyes flashed, and a fearful quarrel, murder and manslaughter, seemed in the offing. Then I spoke up and assured them I knew a remedy. I was ordered to speak, whereupon I made the following proposal: to break the precious stones out of the vessels and then have the metal melted down, into bars of 12 loth each. The proposal was found excellent, and I was appointed to carry out this melting. As a reward, I was always to receive the 21st bar. I arranged everything, and took as my assistant a cunning Jew well versed in chemistry. On the first day of our joint work, the Jew said to me: 'The gentleman could make his fortune now and become a rich man, if I am given 4,000 thalers, I will tell my advice.' — I promised the money, if the business should really bring in as much as was assured. — 'Sir!' — the Jew then began — 'I understand the chemical process of separation; let us separate the gold from the silver, and then let the gentleman cast the 21st bar for himself out of pure gold with a thin coating of silver.' The advice was excellent, and was followed. — Toward the end of the business the Jew brought along a little bag of Bohemian stones, which I was to deliver in place of the genuine ones
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-165">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-165">p. 165</a></h2>
+<section class="lit-passage" id="p-165" data-page="165">
+<div class="pg" id="p165"><a href="#p165">p. 165</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 den dummen Polen ausliefern sollte. — Der Jude erhielt seine 4000 Thaler und ich zog mit einem Vermögen von 30—35000 Thaler nach Schlesien und begann meine Laufbahn als Forstkandidat.“
@@ -6277,19 +6045,17 @@ Prussian General of Cavalry. Now in Russia.
 } (6–20) These 20 estates were granted to the Prince against a *purchase money* of 20,000 thalers, and against payment of a canon, fixed at the time of the donation, of 13,398 thalers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-166">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-166">p. 166</a></h2>
+<section class="lit-passage" id="p-166" data-page="166">
+<div class="pg" id="p166"><a href="#p166">p. 166</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 In den berlinischen Intelligenzblättern vom Juni 1801 sind allein die beiden ersten Güter, Zarembice und Przyrow nach einer gerichtlichen Taxe von 82300 Thlr. 14 Sgr. 6 Pf. zum Verkauf ausgeboten.
 
 ---
 
-###### III. Im Departement der Kammer zu Warschau.
+##### III. Im Departement der Kammer zu Warschau.
 
 ---
 
@@ -6317,7 +6083,7 @@ In den berlinischen Intelligenzblättern vom Juni 1801 sind allein die beiden er
 
 In the Berlin Intelligenzblätter of June 1801, the first two estates alone, Zarembice and Przyrow, are advertised for sale at a judicial valuation of 82,300 thalers 14 Sgr. 6 Pf.
 
-###### III. In the Department of the Chamber at Warsaw.
+##### III. In the Department of the Chamber at Warsaw.
 
 **1\|42. Lieutenant-General Count von Brühl.**
 
@@ -6341,12 +6107,10 @@ In the Berlin Intelligenzblätter of June 1801, the first two estates alone, Zar
 } 32500 Thaler
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-167">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-167">p. 167</a></h2>
+<section class="lit-passage" id="p-167" data-page="167">
+<div class="pg" id="p167"><a href="#p167">p. 167</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Donations-Urkunde d. d. Berlin den 14. Jan. 1797 lautet: *Zum Beweise Unsrer gnädigsten Zufriedenheit mit Uns und Unserm Königlichen Hause geleisteten treuen, ausgezeichneten (?) und erspriesslichen (?) Diensten etc.*
@@ -6385,12 +6149,10 @@ The deed of donation, dated Berlin, 14 Jan. 1797, reads: *In token of Our most g
 The deed of donation is dated Berlin, 17 June 1796. The annual rent amounts to 6,000 thalers. Komorow alone brings in 1,500 thalers annually. This village he gave to his present wife — previously divorced already from two husbands, and lastly from the War Councillor Buchholz at Posen — while she was still his mistress, because he feared that she might use against him the secrets of his that she knew. At the homage ceremony in Warsaw, which Hoym received, Chlebowsky is said to have addressed this Hoym as nothing other than: Your Royal Majesty.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-168">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-168">p. 168</a></h2>
+<section class="lit-passage has-related" id="p-168" data-page="168">
+<div class="pg" id="p168"><a href="#p168">p. 168</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **3\|44. Michael von Dzierbicky.**
@@ -6463,7 +6225,6 @@ He received this estate merely through an oversight. The Grand Chancellor von Go
 *Vertraute Briefe* etc. Vol. I, p. 82.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The entry on Dolffs gives five estates in the Gostinin district at 20000 Thlr. and dates his deed of donation Berlin, 9 August 1796 — the deed itself is in the dossier: the gravial estate of Strzelec between Gostinin and Kutno, proposed with a yield of 1,000 rt and a value of 20,000 rt. The page's Goldbeck entry (the estate received "merely through an oversight", the deed carrying the same date) belongs to the same dossier: it shows the Grand Chancellor's chancery expediting the seven deeds of 9 August 1796.</p>
@@ -6471,9 +6232,8 @@ He received this estate merely through an oversight. The Grand Chancellor von Go
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-169">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-169">p. 169</a></h2>
+<section class="lit-passage" id="p-169" data-page="169">
+<div class="pg" id="p169"><a href="#p169">p. 169</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **6\|47. Artillerie-Lieutenant von Holtzendorff.**
@@ -6548,12 +6308,10 @@ He essentially made himself a gift of these estates, and afterward exchanged the
 At the Chargenkasse he declared the value of the adjoining donation at only 60000 Thlr. He thus defrauded the Monarch not only as to the value itself, but also as to the Chargenkasse.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-170">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-170">p. 170</a></h2>
+<section class="lit-passage" id="p-170" data-page="170">
+<div class="pg" id="p170"><a href="#p170">p. 170</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Eine üble Erscheinung an einem Minister, der auf Wahrheit und Ordnung und über die Intraden der Staatskassen selbst wachen soll. In der, in diesem Falle blos vom Grosskanzler Goldbeck kontrasignirten Schenkungs-Urkunde d. d. Berlin, den 14. September 1796 ist als Grund der Schenkung gesagt: *Um Unserm etc. Hoym ein besonderes Merkmal Unserer gnädigsten Zufriedenheit und allerhöchsten Wohlwollens, wie auch Unserer Erkenntlichkeit für die von demselben Uns und Unserm Königlichen Hause seit geraumen Jahren mit dem ruhmwürdigsten Eifer geleisteten, treuen und erspriesslichen Dienste zu geben etc.!!*
@@ -6610,12 +6368,10 @@ This deed of gift is dated Berlin, 3 May 1797.
 } 32500 Thlr.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-171">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-171">p. 171</a></h2>
+<section class="lit-passage" id="p-171" data-page="171">
+<div class="pg" id="p171"><a href="#p171">p. 171</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **10/51. Galanteriehändler von Treskow.**
@@ -6669,12 +6425,10 @@ Osermno Gostinin 14200 Thlr.
 } 14200 Thlr.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-172">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-172">p. 172</a></h2>
+<section class="lit-passage" id="p-172" data-page="172">
+<div class="pg" id="p172"><a href="#p172">p. 172</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **Einige Rescripte und Erlasse**
@@ -6711,12 +6465,10 @@ By His Royal Majesty's most gracious special command
 *Breslau, 19 December 1796.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-173">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-173">p. 173</a></h2>
+<section class="lit-passage" id="p-173" data-page="173">
+<div class="pg" id="p173"><a href="#p173">p. 173</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **Circularrescript**
@@ -6751,12 +6503,10 @@ unless the first or one of the subsequent possessors should have obtained consen
 *Voss. Goldbeck. Alvensleben.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-174">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-174">p. 174</a></h2>
+<section class="lit-passage" id="p-174" data-page="174">
+<div class="pg" id="p174"><a href="#p174">p. 174</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **Erlass**
@@ -6807,15 +6557,13 @@ Royal South Prussian War and Domains Chamber.
 The cabinet order of 13 March 1833 belongs, of course, to the later period of Oberpräsident *Flottwell.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-175">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-175">p. 175</a></h2>
+<section class="lit-passage" id="p-175" data-page="175">
+<div class="pg" id="p175"><a href="#p175">p. 175</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### Held's Urtheil über die Polen.
+##### Held's Urtheil über die Polen.
 
 ---
 
@@ -6828,7 +6576,7 @@ Es ist Held der Vorwurf gemacht worden, er habe „das schwarze Buch“ und „d
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### Held's Judgment on the Poles.
+##### Held's Judgment on the Poles.
 
 ---
 
@@ -6839,12 +6587,10 @@ Held has been reproached with having written "the Black Book" and "the Black Reg
 .... "Can anything more foolish be conceived than setting up a Polack as judge when the national faults of the Polacks are under discussion? Naturally
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-176">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-176">p. 176</a></h2>
+<section class="lit-passage" id="p-176" data-page="176">
+<div class="pg" id="p176"><a href="#p176">p. 176</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 dieser dagegen blind und mit solchen Rügen sehr unzufrieden seyn. Ein Hurone und Kamtschadale würden in dem nehmlichen Falle das Nehmliche thun. Wenn ich im schwarzen Buche so nebenher die Polakken im Durchschnitte: *läppisch, versoffen, eigennützig und für Wein, Brandtwein und etwas Geld feil nannte, wenn ich* einen Popanz wie den preussischen Ex-Minister Görne, für sie zum Könige gut genug erklärte, so habe ich nichts als die reine Wahrheit gesagt, die ich hiemit wiederhohle, voll des Vertrauens: sie werde Jedem einleuchten, der kein landsmännisches Interesse vertheidigen zu müssen glaubt und nicht selbst zu den Polakken gehört, sie aber in ihrem eigenen Lande hinlänglich kennen gelernt hat. Auf die Dauer ist der Umgang mit ihnen äusserst fade und keine fortgesetzte Unterhaltung über würdige Gegenstände des Verstandes oder Gemüths mit ihnen möglich.“ ...
@@ -6867,12 +6613,10 @@ he must needs be blind to it and greatly displeased with such censures. A Huron 
 .... "In my eyes, the Lapps perhaps excepted, the Polacks are the worst people in all Europe, not even a nation but a mere disorderly rabble of humanity; they were never a state, but only a
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-177">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-177">p. 177</a></h2>
+<section class="lit-passage" id="p-177" data-page="177">
+<div class="pg" id="p177"><a href="#p177">p. 177</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sedentair gewordene Tartarenhorde, die eben durch das Sedentairwerden sklavisch und viel schlechter geworden, als der freie nomadische asiatische Tartar, dem nicht aller Edelsinn abgesprochen werden kann. Die Polakken eine *edle* Nation nennen, ist ein Frevel gegen Natur, Geschichte, Wahrheit und Sprachrichtigkeit. Nie waren sie im Stande, sich durch sich selbst zur Kultur, Civilisation und Humanität (hier Humanität im Sinne fortschreitender Ausbildung und Veredelung, genommen) empor zu heben; nie befand sich in ihrer Regierung Intelligenz genug, um einen Staat mit wohlgeordneten Social-Verhältnissen, Finanzen, Industrie, Armee, Festungen und Justiz zu organisiren; immer mussten Fremde kommen und zu ihnen sagen: so müsst ihr es machen! immer dienten sie fremden Nationen zum Spielball der Politik, zum Theater des Haders; immer wurden sie wie Narren behandelt, denen Alles ungestraft geboten werden durfte; immer durchzogen fremde Heere ihr Land und schrieben ihnen vor, wie sie sich regieren sollten, und so hat dies bis heutigen Tag fortgedauert. Ihre lange achthundertjährige und langweilige Geschichte ist von allen die thatenleerste und bietet in ihren Fürsten nur eine Reihe von Pagoden dar, an denen nichts Merkwürdiges zu entdecken ist. Nur einige wenige derselben, z. B. Jagello, Kasimir der Grosse und Sobiesky ragen einigermaassen hervor, allein auch die, was haben sie denn Wesentliches und Bleibendes ausgerichtet? und beweiset nicht selbst die kleine Zahl dieser Personagen, die Armuth und Seltenheit des Nationalgenies?" ....
@@ -6883,15 +6627,13 @@ sedentair gewordene Tartarenhorde, die eben durch das Sedentairwerden sklavisch 
 Tartar horde turned sedentary, which through this very sedentariness became servile and far worse than the free nomadic Asiatic Tartar, to whom all nobility of mind cannot be denied. To call the Polacks a *noble* nation is an outrage against nature, history, truth, and correctness of language. Never were they able to raise themselves by their own strength to culture, civilization, and humanity (humanity here taken in the sense of progressive cultivation and refinement); never was there sufficient intelligence in their government to organize a state with well-ordered social relations, finances, industry, army, fortresses, and justice; foreigners always had to come and tell them: this is how you must do it! They always served foreign nations as the plaything of politics, as the theatre of discord; they were always treated like fools, upon whom anything could be imposed with impunity; foreign armies always marched through their land and prescribed to them how they should govern themselves, and so it has continued to this day. Their long, eight-hundred-year, and tedious history is, of all histories, the emptiest of deeds, and offers in its princes only a series of nodding pagods, in whom nothing remarkable is to be discovered. Only a very few of them, e.g. Jagiello, Casimir the Great, and Sobieski, stand out to some degree — but even these, what essential and lasting thing did they accomplish? And does not the very smallness of the number of these personages itself prove the poverty and rarity of national genius?" ....
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-178">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-178">p. 178</a></h2>
+<section class="lit-passage" id="p-178" data-page="178">
+<div class="pg" id="p178"><a href="#p178">p. 178</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### II. Kolonisationen der Bauern und Handwerker.
+#### II. Kolonisationen der Bauern und Handwerker.
 
 ---
 
@@ -6902,7 +6644,7 @@ Bei der nähern Untersuchung dieser Kategorie deutscher Kolonisation tritt aber 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### II. Colonizations of Peasants and Craftsmen.
+#### II. Colonizations of Peasants and Craftsmen.
 
 ---
 
@@ -6911,12 +6653,10 @@ Since Frederick the Great, since 1772, the colonization of German peasants and c
 On closer examination of this category of German colonization, however, the drawback presents itself at the outset that the German administration in the formerly Polish parts of the country was, indeed, not overly well-ordered and exemplary. Even the official writers of that time<sup class="lit-fn"><a href="#n-en-136">136</a></sup> all complain of the lack of reliable and complete sources.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-179">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-179">p. 179</a></h2>
+<section class="lit-passage" id="p-179" data-page="179">
+<div class="pg" id="p179"><a href="#p179">p. 179</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Unsere Aufgabe mag sich daher nur auf einen Theil von Westpreussen, das alte Bromberger Kammerdepartement oder den Netzdistrikt und das alte Posener Kammerdepartement der Provinz Süd-Preussen beschränken.
@@ -6935,12 +6675,10 @@ In general the colonists were divided into *two* classes.
 1. Those who were induced by conditions at home to leave their fatherland and who settled abroad in order to better their lot. These people came into the country with the honest intention of becoming loyal and good inhabitants of it; they took to their new homeland all the more readily because they were not lured here by promises and false pretences, but because the reputation of a good and mild territorial government, and the hope of enjoying here the rights and privileges which their fatherland had denied them, moved them to choose their new home. Such were the *French* colonists whom the Great Elector admitted into his country; such were the *Palatines, Bohemians, and Salzburgers* to whom his successors granted settlement in their realm. The reception of the French colonists in particular was especially important and advantageous, since the country owes to them a strong increase in population, many useful trades, and a true refinement of the manners of its inhabitants. They were virtuous, skilled workers, and some of them by no means poor people, who, immediately upon their arrival in the country, sought to carry out their sincere intention of supporting themselves honestly and diligently in it, and who, through their conduct and industry, became an exemplary model to the native-born inhabitants. Every state gains by such colonists, and they are the most fruitful means of increasing and improving the population.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-180">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-180">p. 180</a></h2>
+<section class="lit-passage" id="p-180" data-page="180">
+<div class="pg" id="p180"><a href="#p180">p. 180</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Sehr verschieden dagegen von dieser nützlichen Klasse der Kolonisten sind:
@@ -6959,12 +6697,10 @@ Very different, on the other hand, from this useful class of colonists are:
 The *beggars* hasten, whenever their trade is laid low in their homeland, to the country which seeks colonists and offers them land, houses, support in money, and manifold exemption from the ordinary taxes and civic burdens of its old inhabitants. — *Idle* people present themselves just as readily, for they hope for a comfortable life; they believe, at least, that in the first period of their settlement they need not work much, and they hope, finally, that the territorial government, which takes the recruitment of colonists very much to heart, will grant them, in the absence of their own industry, the support necessary for their maintenance. — *Dissolute people* are greatly served by it if they are given the prospect of passing from the sorry condition into which they have fallen through their own fault into a better one. They therefore all gladly avail themselves of the colonist-recruitment, and thereby obtain fresh occasion to squander money and goods, the acquisition of which cost them no effort. — *Restless people* are their exact equals in the haste with which they crowd toward the offered colonist benefices. Ever discontented with their lot and with the country in which they dwell, they strive after another situation and place of residence, and try for a
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-181">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-181">p. 181</a></h2>
+<section class="lit-passage" id="p-181" data-page="181">
+<div class="pg" id="p181"><a href="#p181">p. 181</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Zeit lang, ob ihnen etwa eine neue Heimath bequemer und ergiebiger sein möchte, als die bisherige.
@@ -6983,12 +6719,10 @@ while whether some new homeland might perhaps be more comfortable and more profi
 "The number of beggars who were thereby drawn into the country was large. They brought nothing with them but many children, and the sovereign's support could not protect them from hunger, on account of the size of their families, and because only a few of them were industrious, while most were lazy, unskilled, and incapable of the occupations they were supposed to pursue. The fault, that some colonists could not fulfil their purpose, could for the most part, despite their mendacious statements, have been forestalled through
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-182">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-182">p. 182</a></h2>
+<section class="lit-passage" id="p-182" data-page="182">
+<div class="pg" id="p182"><a href="#p182">p. 182</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 eine vorsichtige Auswahl, derselben vorgebeugt werden können; dann wären keine Perückenmacher als Ackersleute, keine Pastetenbäcker als Arbeiter in Kalksteinbrüchen, keine Büchsenmacher, Schlosser, Schlächter oder andere auf dem platten Lande nicht anwendbare Handwerker in den zu denselben gehörenden Kolonien angesetzt worden.“
@@ -7011,12 +6745,10 @@ a careful selection of them; then no wig-makers would have been settled as farme
 The colonists believed, as they themselves admitted, that they had been called not to work but merely to increase the number of the population, and were not a little astonished when the demand was made upon them to cultivate the fields and meadows allotted to them and to keep them in the required condition. "Those colonists to whom the village of *Neu-Ulm* was assigned, and who arrived rather late in the year, found not only their houses built, their stables stocked with the most necessary livestock, and their farm implements procured, but even their fields tended and sown. Yet even all this seemed to them still insufficient, for a few weeks later almost the entire village appeared before the War and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-183">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-183">p. 183</a></h2>
+<section class="lit-passage" id="p-183" data-page="183">
+<div class="pg" id="p183"><a href="#p183">p. 183</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Domainenrath Schartow, meldete ihm, dass das Korn reife, fragte ihn, wer es nun abschneiden solle? — und wunderten sich nicht wenig, dass man dies ihnen selbst überliesse.“[138]
@@ -7039,12 +6771,10 @@ Domains Councillor Schartow, reported to him that the grain was ripening, and as
 Colonists such as those just characterized are not fitted to promote the prosperity of the country. They impart to the natives only the inclination to idleness, which is the source of all vices, and their restless nature propagates itself as a natural inclination from father to son. When they had received and consumed the promised benefices, they wanted new ones, and besieged the Chamber with petitions. If they could wheedle nothing, they caused mischief or ran out of the country. In many colonies long established in the open country, they have been, from their settlement onward,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-184">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-184">p. 184</a></h2>
+<section class="lit-passage" id="p-184" data-page="184">
+<div class="pg" id="p184"><a href="#p184">p. 184</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 stets unruhig gewesen und werden es auch wohl bleiben, so lange noch das böse Blut in ihren Adern rinnt.
@@ -7075,12 +6805,10 @@ The same principles are likewise expressed in the report which the Kurmark Chamb
 Relying on documented proofs of this kind of the slight value of increasing a country's population through strangers who are lured to resettle merely by promised rewards and support, *von Lamotte* repeated the assertion that we must, above all, promote in our country the increase of *native-born children of the land*,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-185">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-185">p. 185</a></h2>
+<section class="lit-passage" id="p-185" data-page="185">
+<div class="pg" id="p185"><a href="#p185">p. 185</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 da selbige bessere, ruhigere und weit sichere Unterthanen sind, als die mit eigennützigen oder andern unlautern Absichten einwandernde Kolonisten. — „Oft, sehr oft, war ein Stück Bauholz mehr werth, als der Kolonist, für den es gefällt wurde, und die Forsten empfanden es zur Genüge, dass auch die Zahl der Holzdiebe zugenommen hat.“ —
@@ -7089,7 +6817,7 @@ So urtheilten deutsche Beamte, sachverständige Männer nach vieljähriger Amtse
 
 Die Gründung *deutscher Kolonisten-Etablissements* in den eroberten *polnischen* Landestheilen wurde für das wirksamste Mittel erachtet, hier Wohlstand, deutsche Kultur und Civilisation einzuführen und zu befördern. Die Gründung solcher Kolonien gehörte, wie schon bemerkt, zu den ersten und unablässigsten Anordnungen Friedrichs des Grossen, die auch von seinen Nachfolgern eifrigst fortgesetzt wurde. — Wir beschränken uns im Folgenden zunächst auf die Mittheilung numerischer Details in einzelnen Landestheilen.
 
-###### Im Netzdistrikt
+##### Im Netzdistrikt
 
 sagt *Holsche*, [140] hat die Regierung vorzüglich ihr Augenmerk hierauf gerichtet. Es sind hier seit der preussischen Besitznehmung in den Königlichen Domainenämtern angesetzt:
 
@@ -7102,17 +6830,15 @@ Thus judged German officials, men expert through many years of official experien
 
 The founding of *German colonist establishments* in the conquered *Polish* parts of the country was regarded as the most effective means of introducing and promoting prosperity, German culture, and civilization there. The founding of such colonies belonged, as already noted, among the earliest and most unremitting measures of Frederick the Great, which was also most zealously continued by his successors. — In what follows we confine ourselves, to begin with, to the communication of numerical details in individual parts of the country.
 
-###### In the Netze District
+##### In the Netze District
 
 says *Holsche*,<sup class="lit-fn"><a href="#n-en-140">140</a></sup> the government has directed its attention to this above all. There have been settled here, since the Prussian taking of possession, in the Royal domain offices:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-186">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-186">p. 186</a></h2>
+<section class="lit-passage" id="p-186" data-page="186">
+<div class="pg" id="p186"><a href="#p186">p. 186</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 506 Bürgerfamilien in den Städten mit 1478 Seelen  
@@ -7126,7 +6852,7 @@ Zu den musterhaften Beförderern der Kultur können wir also diese Kolonisten ni
 
 In einem spätern Werke berichtet derselbe Verfasser[142], dem sicher die besten Quellen zur Hand waren:
 
-###### Im Bromberger Departement
+##### Im Bromberger Departement
 
 betrug die Zahl der ersteren i. J. 1798 schon 4378 Seelen und die Verwendungskosten beliefen sich auf 183,975 Thlr., mithin kostete jeder Mensch, *worunter auch die Kinder mitbegriffen waren,* 42 Thlr.“ — Da diese Angabe aus einer späteren Zeit herrührt, als die vorher angeführte[143], und bestimmter als jene von einer bestimmten Zeit, ausdrücklich bis zum Jahre 1798, spricht, so folgt aus der Vergleichung dieser Zahlenangaben, dass in den fünf Jahren von 1793—1798 trotz der neuen Zuzüge sich dennoch die Zahl der Kolonisten um 251 *verringert* habe, was durch ihre Unzuverlässigkeit und Neigung zum Vagabundiren erklärlich ist. — „König *Friedrich II.*“, sagt *Holsche* ferner, „hatte eine entschiedene Vorliebe für *ausländische* Kolonisten, besonders aus dem südlichen Deutschlande, der Schweiz und Frankreich, und verwendete darauf in allen preussischen Provinzen ungeheure Summen. Die ersten Kolonisten, welche aus entfernten südlichen Provinzen Deutschlands, aus dem Würtembergischen, der Pfalz und den Rheingegenden kamen, waren *grösstentheils schlechte und verarmte Wirthe*, welche ihr weniges Vermögen zu Gelde gemacht und unterweges verzehrt hatten. Sie kannten das nördliche Klima und die Landeskultur nicht, *scheuten schwere Arbeit* und trieben Gartenbau, wovon sie mit den Ihrigen nicht leben konnten, wurden Bettler und fielen theils dem Publikum zur Last, theils liefen sie *wieder davon.*“
 
@@ -7144,37 +6870,33 @@ We cannot, then, count these colonists among the exemplary promoters of cultivat
 
 In a later work the same author<sup class="lit-fn"><a href="#n-en-142">142</a></sup>, who certainly had the best sources at hand, reports:
 
-###### In the Bromberg Department
+##### In the Bromberg Department
 
 the number of the former already amounted, in 1798, to 4378 souls, and the costs of maintenance came to 183,975 thalers; each person, *the children being included among them,* thus cost 42 thalers." — Since this figure derives from a later time than the one cited before<sup class="lit-fn"><a href="#n-en-143">143</a></sup>, and speaks more definitely than that one of a fixed time, expressly up to the year 1798, it follows from the comparison of these figures that in the five years from 1793—1798, despite the new influxes, the number of colonists nevertheless *decreased* by 251, which is explicable by their unreliability and inclination to vagabondage. — "King *Frederick II*," says *Holsche* further, "had a decided preference for *foreign* colonists, especially from southern Germany, Switzerland, and France, and expended enormous sums on this in all the Prussian provinces. The first colonists, who came from distant southern provinces of Germany, from Württemberg, the Palatinate, and the Rhine regions, were *for the most part poor and impoverished farmers*, who had turned their small means into money and consumed it along the way. They knew neither the northern climate nor the cultivation of the land, *shunned heavy labour*, and took up gardening, from which they could not support themselves and their families; they became beggars and fell partly as a burden upon the public, partly *ran off again.*"
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-187">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-187">p. 187</a></h2>
+<section class="lit-passage" id="p-187" data-page="187">
+<div class="pg" id="p187"><a href="#p187">p. 187</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### In Südpreussen, namentlich im Posner Departement
+##### In Südpreussen, namentlich im Posner Departement
 
 sagt derselbe Verfasser [144], „waren bis zu Ende des Jahres 1800 überhaupt 13 Kolonisten-Etablissements, die für sich bestehen, zu Stande gekommen, und darin 109 grosse Ackerwirthe mit 1½ bis 2 Hufen magdeburgische Länderei, und 32 Tagelöhnerfamilien angesetzt worden, welches, 5 Personen auf eine Familie gerechnet, über 700 Köpfe beträgt.
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### In South Prussia, namely in the Posen Department
+##### In South Prussia, namely in the Posen Department
 
 says the same author <sup class="lit-fn"><a href="#n-en-144">144</a></sup>, "there had come into being, by the end of the year 1800, 13 colonist establishments in all, subsisting independently, and in them 109 large farmers with 1½ to 2 Hufen of Magdeburg land, and 32 day-labourer families had been settled, which, reckoning 5 persons to a family, amounts to over 700 individuals.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-188">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-188">p. 188</a></h2>
+<section class="lit-passage" id="p-188" data-page="188">
+<div class="pg" id="p188"><a href="#p188">p. 188</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Diese 13 Kolonisten-Etablissements sind folgende:
@@ -7239,12 +6961,10 @@ The greatest part of these colonists too consists of *Württembergers, "who, how
 8. Daily 2 groschen subsistence money per head, when they are without occupation."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-189">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-189">p. 189</a></h2>
+<section class="lit-passage" id="p-189" data-page="189">
+<div class="pg" id="p189"><a href="#p189">p. 189</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Etablissementskosten für diese 41 Familien betragen:
@@ -7278,12 +6998,10 @@ Not counting the annual canon of 2177 thalers for the appurtenant 5241 morgen of
 If one further considers that even later, under *Frederick William III*, 16,500 thalers were expended annually as a matter of budget from the *revenues of the province* for colonists of this kind, and that beyond this, in the mere nine-year span from 1798 to 1807, **2,040,083 thalers** were expended extraordinarily, then one must confess that the Prussian government paid the forebears of the clamorous champions of German interests in the Grand Duchy of Posen over and over again — and that *with Polish money, with the revenues from Polish territories.* <sup class="lit-fn"><a href="#n-en-145">145</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-190">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-190">p. 190</a></h2>
+<section class="lit-passage" id="p-190" data-page="190">
+<div class="pg" id="p190"><a href="#p190">p. 190</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Hierbei muss indess noch ausdrücklich bemerkt werden, dass unter obiger Summe die Ausgaben  
@@ -7293,11 +7011,11 @@ nicht mitbegriffen sind, die ebenfalls nur aus den Einkünften der Provinz bestr
 
 Leider musste selbst dieser hohe Staatsmann seine Darstellung nur auf die ersten Regierungsjahre *Friedrich Wilhelm's* III. beschränken, „weil aus der vorigen so vollständige Uebersichten nicht vorhanden waren“[146] und selbst hier fehlen die Angaben über Familien- und Seelenzahl der neuen deutschen Ansiedler.
 
-###### In der Provinz Westpreussen
+##### In der Provinz Westpreussen
 
 sollten zwar nach der Instruction Friedrichs d. d. Berlin, den 4. Januar 1782 an den Director v. Domhardt[147] 14,000 solche neue Familien angesiedelt werden. Mangel an nöthigen Geldern haben ihn indess daran gehindert und Holsche bemerkt ausdrücklich, dass er über die Zahl der Kolonisten und die Verwendungskosten für dieselben in dem Departement Marienwerder nichts habe ermitteln können.
 
-###### In der Provinz Neu-Ostpreussen
+##### In der Provinz Neu-Ostpreussen
 
 lässt sich im Grossen und Ganzen noch weniger ermitteln.
 
@@ -7315,11 +7033,11 @@ which were likewise defrayed solely from the revenues of the province.
 
 Unfortunately even this high-ranking statesman had to confine his account to the first years of the reign of *Frederick William* III, "because from the earlier period no such complete surveys were available"<sup class="lit-fn"><a href="#n-en-146">146</a></sup>, and even here the figures on the number of families and souls of the new German settlers are missing.
 
-###### In the Province of West Prussia
+##### In the Province of West Prussia
 
 14,000 such new families were indeed supposed, according to Frederick's instruction dated Berlin, 4 January 1782, to Director v. Domhardt<sup class="lit-fn"><a href="#n-en-147">147</a></sup>, to be settled there. A lack of the necessary funds, however, prevented this, and Holsche expressly notes that he was unable to ascertain anything regarding the number of colonists and the costs expended on them in the Marienwerder Department.
 
-###### In the Province of New East Prussia
+##### In the Province of New East Prussia
 
 even less can, on the whole, be ascertained.
 
@@ -7328,12 +7046,10 @@ As to the number and category of *craftsmen* among these colonists, nothing reli
 We close these figures with a few reflections on the results of these German colonizations
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-191">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-191">p. 191</a></h2>
+<section class="lit-passage" id="p-191" data-page="191">
+<div class="pg" id="p191"><a href="#p191">p. 191</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 in den polnischen Landestheilen, eben derselben Schriftsteller die als Fachbeamte ihre Urtheile nach dienstlichen Erfahrungen ausgesprochen haben.
@@ -7356,12 +7072,10 @@ in the Polish territories — reflections of these very same writers, who, as ex
 "The increase of the *rural population*, on the other hand, could be achieved far more readily through the settlement of *natives* and people from the *neighbouring* countries, if one were willing to support them and promote their marriages... If *this* class of people were given precisely the support that is granted to *foreign* colonists, many families would establish themselves who are now lost to the state, and none of them would cost it half as much as a foreign colonist family, among whom not even a selection can be made. In the manner hitherto followed, however, each family costs the state *several hundred thalers*, and yet the fewest of them remain where they have been assigned."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-192">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-192">p. 192</a></h2>
+<section class="lit-passage" id="p-192" data-page="192">
+<div class="pg" id="p192"><a href="#p192">p. 192</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Und an einer andern Stelle, [149] wo er über die Verwaltung der südpreussischen Domainen spricht: „Meiner Meinung nach könnten die grossen Kosten, welche das Aemter-Retablissement erfordert, ganz erspart werden, wenn alle Aemter und, wenigstens vor der Hand, die kleinen abgelegenen Domainenstücke, und diejenigen Aemter, deren Ausbau einen allzugrossen Kostenaufwand erfordert, in Erbpacht ausgethan würden. In den alten Provinzen, wo auf den Aemterausbau so beträchtliche Summen verwendet werden, mag es bedenklich scheinen, auf einmal ein anderes System anzunehmen, weil jene grosse Summen umsonst ausgelegt sein würden. In den neuacquirirten polnischen Provinzen fallen alle jene Bedenklichkeiten weg. Man kann ein System wählen, welches man will, und das beste ist unstreitig dasjenige, wodurch Kosten erspart werden und an Staatseinnahmen nichts verloren geht, die Landeskultur aber befördert wird, und viele Familien in Thätigkeit gesetzt werden, die sonst verarmen oder sonst aus dem Lande ziehen müssen, weil sie sich blos dem Landbau gewidmet und von Industrie und Handel zu leben nicht gelernt haben, dies auch ihrem Stande nicht angemessen finden.“
@@ -7380,12 +7094,10 @@ And in another passage, <sup class="lit-fn"><a href="#n-en-149">149</a></sup> wh
 And how rightly does he judge the lamentable neglect of the natives, which appears justified neither before policy nor before the conscience of the powerful, and which was fit only to spread endless, ever self-propagating misfortune over many thousands of families.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-193">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-193">p. 193</a></h2>
+<section class="lit-passage" id="p-193" data-page="193">
+<div class="pg" id="p193"><a href="#p193">p. 193</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Die Eingeborenen können an der Landesadministration nicht Theil nehmen, weil sie die Geschäfte und Sprache nicht kennen. Sie können keine Militairdienste nehmen, weil sie zu alt sind. Der geistliche Stand wird von Zeit zu Zeit mehr eingeschränkt, und die wenigsten sind dazu qualificirt. Vom Handel können in einem Lande, wo derselbe wenig getrieben wird, auch nur wenige leben, und überdies wird dazu Vermögen erfordert. Handwerke haben diese Menschen nicht erlernt und sind jetzt zu alt dazu, wenn sie es auch wollten. Landwirthschaft allein ist ihr Fach, und in diesem können sie nicht ankommen! Was sollten sie also thun? Sie müssen auswandern.
@@ -7400,12 +7112,10 @@ And how rightly does he judge the lamentable neglect of the natives, which appea
 "And this mass of inhabitants is not small. The great, wealthy nobles usually held starosties and lived either on these or on their hereditary estates. They leased them out, placed them in antichretic pledge-possession, or had them administered. From one great nobleman many lesser men found their living, as tenants, governors, commissioners, stewards, etc. Now they have lost the starosties; these have become royal offices and are for the most part given to *Germans*. The nobles draw allowances from the royal treasuries, live on their hereditary estates, retrench themselves, and thus for the most part dismiss their tenants, governors, commissioners, etc., and make shift as best they can. But those people become bread-less. — It is the same case with the ecclesiastical estates. The number of managers, stewards, etc. on them was considerable; many thousands found work and bread there. Now, however, the ecclesiastical estates have been confiscated, the clergy
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-194">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-194">p. 194</a></h2>
+<section class="lit-passage" id="p-194" data-page="194">
+<div class="pg" id="p194"><a href="#p194">p. 194</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 selbst ziehen ihre Kompetenzen aus königlichen Kassen. Die eingezogenen Güter sind in Domainen verwandelt und in Händen *deutscher* Beamten und *deutscher* Pächter. Die zahlreichen früheren Officianten der Geistlichkeit aber sind ohne Brod.“
@@ -7428,12 +7138,10 @@ themselves draw their allowances from the royal treasuries. The confiscated esta
 In vain does the same man also complain, in another work<sup class="lit-fn"><a href="#n-en-150">150</a></sup>, of the neglect of the natives, the Poles. "A few morgen of fields and meadows," says he,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-195">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-195">p. 195</a></h2>
+<section class="lit-passage" id="p-195" data-page="195">
+<div class="pg" id="p195"><a href="#p195">p. 195</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 eine Hütte, ein Bett und eine Kuh gründen das Glück einer ganzen Familie. Der ganze Aufwand besteht in 80 bis 100 Thlr., denn in einem Lande, welches so wenig bevölkert ist, wie der Netzdistrikt, sind einige Morgen Acker ein unbedeutender Gegenstand und bei der Güte des Bodens gewähren sie doch einer ganzen Familie den Unterhalt. Man theile also jährlich eine bestimmte Morgenzahl wüster Gründe unter dergleichen junge eingeborene Polen, baue ihnen ein Haus oder eine Hütte, gebe ihnen ein Bett, eine Kuh, ein Schwein, einiges Federvieh und die nöthigen Geräthschaften, und verwende so für jede Familie etwa 100 Thlr. so ist sie fundirt und wird sich gewiss erhalten. Dies muss von weit besserem Effect sein, als aus entfernten Gegenden mit schweren Kosten Kolonisten in die Provinz zu ziehen, die ganz fremd sind, und sich weder an das Klima, noch an die hiesige Landwirthschaft gewöhnen können. Der Reichs- und Rheinländer redet beständig vom Weinbau, welcher hier nicht getrieben werden kann. Ein jährlicher Fond von 10000 Thlr. würde hinreichend sein, jährlich 100 Familien ansässig zu machen.“
@@ -7452,12 +7160,10 @@ It would carry us too far were we to follow the perceptive man further in his ac
 And so let a few judgments of Prussian German officials *of our own day* find a place here:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-196">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-196">p. 196</a></h2>
+<section class="lit-passage" id="p-196" data-page="196">
+<div class="pg" id="p196"><a href="#p196">p. 196</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Wie unvortheilhaft sich das Bild einer polnischen Bauernwirthschaft auch darstellen mag, sagt Herr v. *Lengerke*, so muss doch dabei beruhigend bemerkt werden, dass dasselbe sich bezüglich auf dasjenige Eigenthum, welches unter übrigens nicht allzu ungünstigen Verhältnissen nun aus der Regulirung hervorgegangen ist, allmälig günstiger gestaltet.
@@ -7480,12 +7186,10 @@ v. *Lengerke*, Königl. Preuss. Landes-Oekonomie-Rath, ord. Mitglied und Gen.-Se
 v. *Lengerke*, Royal Prussian Land-Economy Councillor, ordinary member and Secretary-General of the Royal Land-Economy College. Entwurf einer Agrikultur-Statistik des Preuss. Staats nach den Zuständen in den Jahren 1842 u. 1843. p. 51.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-197">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-197">p. 197</a></h2>
+<section class="lit-passage" id="p-197" data-page="197">
+<div class="pg" id="p197"><a href="#p197">p. 197</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Zunächst war es schon misslich, dass man die Kolonisten nicht aus den benachbarten deutschen Provinzen, sondern aus sehr entfernten Gegenden (aus dem sogenannten Reiche) verschrieb, deren Klima, Boden, Wirthschafts- und Lebensweise zu sehr von dem hiesigen abwichen. Nicht nur, dass durch die weite Entfernung die Kosten bedeutend vermehrt wurden, so hatte es auch den doppelten Uebelstand zur Folge, dass man genöthigt war, die Ansiedler durch Bewilligung übermässiger Vortheile zu locken und dass sie sich in die so sehr verschiedenartigen Verhältnisse nicht zu finden wussten, und sich fremd und unbehaglich fühlten.“
@@ -7504,12 +7208,10 @@ v. *Lengerke*, Royal Prussian Land-Economy Councillor, ordinary member and Secre
 "To this was added that the colonist plots — which, incidentally, were mostly let out without purchase money, on hereditary quit-rent or hereditary-lease rights, merely against an annual rent — were as a rule left to the domain tenants, who naturally were not inclined to give up the best soil. The colonies were therefore not infrequently established on sterile sandy soil without the indispensable addition of meadows, or on cleared woodland whose overestimated fertility, for want of lasting manure, gave out after a few years."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-198">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-198">p. 198</a></h2>
+<section class="lit-passage" id="p-198" data-page="198">
+<div class="pg" id="p198"><a href="#p198">p. 198</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „So geschah es, dass von den bis zum Jahre 1806 in die Provinz gekommenen Kolonistenfamilien, deren Zahl sich allein im Departement der Posener Kammer auf 381 mit ungefähr 1700 Köpfen belief, ein grosser Theil zu Grunde ging, oder das Land wieder verliess, und nur wenige dieser mit unverhältnissmässigen Opfern Seitens des Staats angelegten Kolonien sind zu einigem Wohlstande gelangt. Die meisten derselben führen bis auf den heutigen Tag nur eine kümmerliche Existenz.“
@@ -7540,12 +7242,10 @@ To the German colonists belong also a great number of *millers* and *shepherds*.
 "Most of the mills," says *Holsche,* <sup class="lit-fn"><a href="#n-en-151">151</a></sup> "are let out in hereditary lease in a manner burdensome to the lordship; all the advantage is on the side of the millers, and all the loss on the side of the lordship. They pay a certain mill-rent, usually in grain, and grind the lordship's grain free of charge. This due cannot be raised, even though the customers, with the generally increasing population, increase from time to time. The lordship must usually supply them the wood for the upkeep of the mill free of charge; this has now risen enormously in value, and because of the heavier use the mills now cost far more to maintain than formerly, while the canon remains unchanged. Besides this, the millers usually have other handsome privileges which are burdensome to the lordship, and their prosperity has made it envious, so that many costly lawsuits also arise with the millers. The millers have a special guild, form a caste, and usually marry among themselves; they are also for the most part of *German* origin."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-199">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-199">p. 199</a></h2>
+<section class="lit-passage" id="p-199" data-page="199">
+<div class="pg" id="p199"><a href="#p199">p. 199</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Mit den Schäfern hat es beinahe eine gleiche Bewandtniss. Sie haben unter sich besondere Gesetze und Gewohnheiten, wovon sie nicht abweichen, und welche den Grundherrschaften oft äusserst schädlich sind. Die Schäfer-Ordnungen haben die eingeschlichenen Missbräuche nicht völlig abgestellt, sie halten ihre eigenen Heerden, und bezahlen der Herrschaft für jedes Schaf was gewisses, ausser diesem hat die Grundherrschaft den Dünger und der Schäfer den ganzen Nutzen der Heerde. Die Herrschaft muss dem Schäfer freie Wohnung, Deputat, Feuerung und die Winter-Fütterung geben, und wenn man alles zu Gelde berechnet, haben die Grundherrschaften von den Schäfereien beinahe gar nichts. Wollte ein Grundherr sich eine eigene Heerde auf seine Gefahr halten und einen Schäfer gegen Lohn und Deputat annehmen, so würde er nicht damit durchkommen, denn es dient kein Schäfer für Lohn und Deputat, die Herrschaft läuft Gefahr die ganze Heerde zu verlieren, eine solche Verbindung herrscht unter den Schäfern. Wenn einer ja eigene Schafe halten will, muss er sein Interesse mit dem Interesse des Schäfers zu verbinden suchen, und diesem erlauben, dass er seine eigene Heerde dabei halte. Hierbei aber tritt die gewöhnliche Schäfer-Betrügerei ein, dass die Schäfer immer die besten Schafe haben, und wenn was stirbt, solches gewöhnlich die Herrschaft trifft. Das beste Mittel, dieser Betrügerei Einhalt zu thun, ist dieses, wenn der Schäfer keine bestimmten Schafe hat, sondern ihm ein gewisser intellectueller Antheil der Heerde zugehört, mithin die Herrschaft und der Schäfer den Schaden nach dem Verhältniss des daran habenden Antheils tragen, den Gewinnst
@@ -7556,12 +7256,10 @@ To the German colonists belong also a great number of *millers* and *shepherds*.
 "With the shepherds it is almost the same case. They have among themselves special laws and customs from which they do not depart, and which are often extremely detrimental to the lordships. The shepherd-ordinances have not entirely abolished the abuses that have crept in; they keep their own flocks, and pay the lordship a certain fixed sum for each sheep — apart from this the lordship has the dung and the shepherd the entire profit of the flock. The lordship must give the shepherd free housing, allowance in kind, firewood, and the winter feeding, and when everything is reckoned in money, the lordships get almost nothing at all from the sheep-farms. Should a lord wish to keep a flock of his own at his own risk and hire a shepherd for wages and allowance, he would not succeed in it, for no shepherd will serve for wages and allowance; the lordship runs the risk of losing the whole flock, so close is the combination that prevails among the shepherds. If one does wish to keep sheep of his own, he must try to unite his interest with that of the shepherd, and allow him to keep his own flock along with it. But here the usual shepherd-fraud comes into play, that the shepherds always have the best sheep, and when anything dies, it is usually the lordship that suffers the loss. The best means of putting a stop to this fraud is this: that the shepherd should have no specific sheep of his own, but rather a certain notional share of the flock should belong to him, so that the lordship and the shepherd bear the loss in proportion to their respective shares, and divide the profit
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-200">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-200">p. 200</a></h2>
+<section class="lit-passage" id="p-200" data-page="200">
+<div class="pg" id="p200"><a href="#p200">p. 200</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der Wolle und der zu verkaufenden Schafe aber verhältnissmässig theilen. Allein hierauf wollen sich die Schäfer nicht einlassen, und es hält schwer eine andere Ordnung einzuführen. Die Schäfereien sind hier beträchtlich, und die Wolle kommt hin und wieder beinahe der Schlesischen gleich, ist aber sehr verschieden. Die Schäfer sind zum Theil wohlhabend, und auch grösstentheils *deutschen* Ursprungs.“
@@ -7576,19 +7274,17 @@ of the wool and of the sheep to be sold, proportionately. But to this the shephe
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-201">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-201">p. 201</a></h2>
+<section class="lit-passage" id="p-201" data-page="201">
+<div class="pg" id="p201"><a href="#p201">p. 201</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### III. Kolonisationen der deutschen Beamten und Notare.
+#### III. Kolonisationen der deutschen Beamten und Notare.
 
 ---
 
-###### Das Beamtenthum.
+##### Das Beamtenthum.
 
 Als Preussen die einzelnen Theile von Polen an sich riss, war seine Landesregierung in einzelne Departements getheilt, die trotz dem General-Directorio in Berlin die einzelnen Provinzen nach den verschiedensten Grundsätzen verwalteten. Nur die Rechtspflege, die obere Leitung der Staatskassen, das Post-Departement und die Lotterie-Verwaltung waren in allen Provinzen allgemein gleich. Die einzelnen Theile dieses durch Erbschaften, Verträge, Eroberungen zusammengebrachten Länderconglomerats waren durch eigene Zoll-Barrieren von einander so getrennt wie vom Auslande. In den meisten[sic] Verschiedenheit von Münze, Maass, Gewicht, Steuern, Gewerbe und Polizei, in der Verwaltung der Finanzen und Staatsgüter.
 
@@ -7597,23 +7293,21 @@ Unter dem Namen von *West-, Süd-, Neuostpreussen* und *Neuschlesien* kamen zu d
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### III. Colonizations of the German Officials and Notaries.
+#### III. Colonizations of the German Officials and Notaries.
 
 ---
 
-###### The Officialdom.
+##### The Officialdom.
 
 When Prussia tore the individual parts of Poland to itself, its provincial government was divided into separate departments, which, despite the General Directory in Berlin, administered the individual provinces according to the most varied principles. Only the administration of justice, the higher direction of the state treasuries, the Post Department, and the lottery administration were, in general, uniform in all the provinces. The individual parts of this conglomerate of lands, brought together by inheritances, treaties, and conquests, were as much separated from one another by their own customs barriers as from foreign countries. In most [sic — clause defective in the original] diversity of coinage, measure, weight, taxes, trades, and police, in the administration of the finances and of the state estates.
 
 Under the names of *West, South, New East Prussia,* and *New Silesia*, the shares of Poland were now added, one after another, to this variegated territorial and administrative state mosaic, and were organized by the individual departments and their Chambers according to wholly different systems, and administered according to wholly different principles. To the errors of the administration in general were added, moreover, the blunders in
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-202">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-202">p. 202</a></h2>
+<section class="lit-passage" id="p-202" data-page="202">
+<div class="pg" id="p202"><a href="#p202">p. 202</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 den einzelnen Departements hinzu, denen eine allgemeine obere Leitung fehlte, und die sich daher nie verstanden, nie vereinigten. Dass die neue Provinz, die zwar den gemeinsamen Namen *Südpreussen* führte, gleichzeitig durch das Ostpreussische, das Märkische und das Schlesische Provinzial-Departement unter den an Karakter und Verwaltungsprinzipien so verschiedenen Ministern v. *Schroetter*, v. *Voss* und v. *Hoym* verwaltet wurde, steigerte die Verwirrung noch mehr.
@@ -7636,12 +7330,10 @@ The error lay at hand. The Poles did not understand German, the Germans did not 
 It is true that in some departments the laws were printed in split columns, in German and Polish. Some had the decrees drawn up under official supervision in both languages, while others kept private interpreters for this purpose. The judicial rulings, however, as well as
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-203">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-203">p. 203</a></h2>
+<section class="lit-passage" id="p-203" data-page="203">
+<div class="pg" id="p203"><a href="#p203">p. 203</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sehr viele andere wichtige Verfügungen der verschiedenen Behörden wurden nur in *deutscher* Sprache erlassen.
@@ -7664,12 +7356,10 @@ Those who chose these candidates did not understand the language of the country,
 The difficulty and inconvenience, at an advanced age, of learning a difficult language, and the forbidding sight of so many consonants in Polish words, made the older officials of the old provinces almost universally averse to accepting an office in the new province. The general ill repute, according to which Poland passed for a second Siberia, where no ray of enlightenment penetrated into the impenetrable forests and the steppes along the Vistula, the not unfounded fear of the revolutionary and avenging spirit of the people, and the anxiety of a bad conscience before the insecurity of possession, aroused among the most proven, most capable older officials in the old provinces an almost universal aversion to accepting offices in the new province. Even a cabinet order, that all the old servants of the state of the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-204">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-204">p. 204</a></h2>
+<section class="lit-passage" id="p-204" data-page="204">
+<div class="pg" id="p204"><a href="#p204">p. 204</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 alten Provinzen jedes Amt in der neuen annehmen sollten, bei Verlust ihrer jetzigen Stelle, wirkte wenig.
@@ -7688,15 +7378,13 @@ In vain did all the departments seek to entice by promotions, titles, and cash c
 But still more pernicious than this *lack of capable men* was the beyond-all-measure *great number of absolutely worthless officials*.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-205">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-205">p. 205</a></h2>
+<section class="lit-passage" id="p-205" data-page="205">
+<div class="pg" id="p205"><a href="#p205">p. 205</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### Pohlen unter Friedrich II. und Friedrich Wilhelm II.
+##### Pohlen unter Friedrich II. und Friedrich Wilhelm II.
 
 Skizze, wie Pohlen von Preussen benutzt werden, und wie Preussen wenigstens seine Interessen für die dahin geliehenen siebenundzwanzig Millionen Thaler (?) erhalten kann,
 
@@ -7715,7 +7403,7 @@ Pohlen war wie bekannt durch Jahrhunderte nie mit das[sic] Haus Brandenburg verb
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### Poland under Frederick II and Frederick William II
+##### Poland under Frederick II and Frederick William II
 
 Sketch, how Poland is being used by Prussia, and how Prussia can at least safeguard its interests for the twenty-seven million thalers (?) lent thereto,
 
@@ -7732,12 +7420,10 @@ by
 Poland was, as is well known, through centuries never connected with the House of Brandenburg. — Rather, a perpetual national hatred prevailed between these countries or subjects. In earlier times, therefore, a kind of trade was carried on with this rough nation, as with half-nomadic peoples, whereby, however, the German found his account in it. (—)
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-206">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-206">p. 206</a></h2>
+<section class="lit-passage" id="p-206" data-page="206">
+<div class="pg" id="p206"><a href="#p206">p. 206</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Erst Friedrich der Grosse fing an, diese rauhe Nation ins Auge zu fassen, und zog die bedeutendsten Vortheile aus diesem Lande; durch die mehrmalige Theilung fiel endlich ein bedeutender Theil dieses Reichs an das Haus Preussen. Friedrich der Grosse und Weise verwandte sofort grosse Summen an die ihm zugefallenen Bezirke und bildete durch rastlose Thätigkeit der dahin gesandten Personen, ein glückliches Ländchen. Ein gleiches Loos aber wurde denen in der zweiten und dritten Theilung Pohlens unter Friedrich Wilhelm II. zufallenden Pohlen nicht zu Theil. Dieser herzensgute Monarch wollte zwar das Beste seiner neuen und alten Unterthanen bewirken, durch das allzu grosse Zutrauen aber, welches der biederste Monarch in seine Minister setzte, blieb sein wohlmeinender Wille unerfüllt. Durch das rabulistische Verfahren der Justizbeamten wurde Alles verworren, und die Pohlen selbst mit zur Meuterei und zum Unsinn verleitet.
@@ -7752,12 +7438,10 @@ Only Frederick the Great began to take this rough nation into consideration, and
 The saddest event that befell the province was that the minister v. *Voss* became its administrator. — He at once ordered, under the supervision of the Privy Finance Councillor *Schulz*, the classification of the estates, or of all lands. This was expedient, and must necessarily precede any true organization. But when, as was the case here, self-interested superiors held the helm and chose the scum of humanity as their assistants, not only was the good purpose lost, but the foundation-stone was thereby laid for the insurrection that soon followed. Formerly the Pole had the highest idea of all Prussian institutions, and never believed that a Prussian official could be bought; but when the classification commissioners not only let themselves be bribed, but moreover gave themselves over to the vice of drink and all manner of gluttony, then the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-207">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-207">p. 207</a></h2>
+<section class="lit-passage" id="p-207" data-page="207">
+<div class="pg" id="p207"><a href="#p207">p. 207</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Pohle nicht nur diese, sondern die ganze neue Regierung mit dem höchsten *Dedain* und schwur ihr im Herzen Rache. Das Gebahren dieser Menschen war aber auch zu auffallend; denn ehedem gaben die Pohlen von ihrer Habe 10 Procent; nach der Voss- oder Schulzischen Klassifikationskommission würden die Abgaben vieler Güter, wo zum Beispiel so ein Kriegsrath v. *Reisewitz* und Andere seines Gleichen klassificirt hatten, kaum 5 Procent gegen den alten Satz betragen haben. (?—) Um indess dem guten Monarchen ein Blendwerk vorzumachen, so ward auf den geheimen Vorschlag des Kriegsraths *Noldichen* mit Verschönerung der Städte der Anfang gemacht. Der gute König gab Bau- und andere Hülfsgelder dazu her, diese aber eigneten sich nur die Justiz und Finanzbedienten zu, der Pohle erhielt wenig oder nichts davon und sahe mit blutendem Herzen zu, dass Prachtgebäude für seine Antagonisten, die nun vampirartig an ihm hingen, auf den Plätzchen aufgeführt wurden, wo er und seine Ureltern gehauset hatten.
@@ -7772,12 +7456,10 @@ Pole regarded not only these, but the whole new government, with the utmost *dis
 If, meanwhile, the self-interest of the classification commissioners and the cameralists was already great, the conduct of the justice officials went far beyond all bounds. These were not judges or defenders of justice, whose office it was to counsel the innocent, to preserve the property of widows and orphans, and to protect them against grasping and litigious creatures — no, it was an army of shameless creatures and knaves, who set people against one another, dreadfully entangled their affairs, and afterwards divided among themselves the remainder of their substance, even that of poor widows and orphans. —<sup class="lit-fn"><a href="#n-en-153">153</a></sup>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-208">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-208">p. 208</a></h2>
+<section class="lit-passage" id="p-208" data-page="208">
+<div class="pg" id="p208"><a href="#p208">p. 208</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Arm, nackend und bloss zogen diejenigen, welche der Herr v. Goldbeck nach Pohlen oder eigentlich in der Provinz Warschau anstellte, hier ein. Ein Heer Justizkommissarien, zerlumpt und abgerissen, folgte ihnen, Officianten mit hohlen Augen und ausgedörrten Leibern schlichen hinterher, die Herolde der Gerechtigkeit, die nun einem Jeden zu Theil werden sollte, waren eigentlich diese zerlumpten Advokaten; vor Hunger schmachtend, borgten sie von dem Juden, der sein Geld alle Wege zu wagen pflegt — der Jude, der ehedem in Pohlen nur Halbmensch war und nie, so wie der Bauer und Unterthan, Klage gegen einen Edelmann anbringen durfte, horchte hoch auf, als diese Lumpen im marktschreierischen Tone ihnen Wunder verhiessen, besonders dass sie, die Juden, eben das sein sollten, was der Edelmann wäre. Gleich erhoben die Juden und deutschen Bauern Hunderte von Prozessen gegen
@@ -7836,12 +7518,10 @@ Poor, naked, and bare, those whom Mr. v. Goldbeck appointed to Poland, or rather
 | before the Upper Silesian Oberamtsreg. at Brieg | 544 | 329 | 215. |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-209">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-209">p. 209</a></h2>
+<section class="lit-passage" id="p-209" data-page="209">
+<div class="pg" id="p209"><a href="#p209">p. 209</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ihre Herrschaften, die Advokaten füllten ihre Säckel, eilten zu den Edelleuten, verriethen diesen die Meinung der Juden und Bauern und verschworen sich, den Edelmann bei seinen Gerechtsamen zu erhalten. Der Edelmann, entrüstet über diese Grausamkeit, flehete Himmel und Hölle um Rache an, gab aber endlich dem Rabulisten sein Gold, seine Equipagen und was ihm das Liebste war — der Advokat theilte mit seinen Freunden und schrieb endlich zu Gunsten dessen, der das Meiste geopfert hatte, das Urtheil. Das Resultat war, dass die Advokaten und deren Anhang im ersten Vierteljahre die Möbels und die Equipagen hatten, vom schönsten Porzellan oder Silber speisten und in immerwährender Schwelgerei lebten. Um indess auch gewiss zu sein, dass ihnen der Raub nicht wieder entrissen werden möchte, verschafften sie sich auch ihren Anhang im Tribunal zu Berlin. Ein gewisser *Kütz* hatte in Berlin den Tribunalsrath v. L. und v. J.; und so ein Jeder seine Parthie, so dass zum Schrecken der Menschheit von dort aus Sentenzen und Urtheile hervorgingen, wofür dem Menschen Grausen und Entsetzen anwandelte. Nur dem gelang Alles, der Geld hatte, der Advokat reiste mit seinem Klienten nach Berlin, empfahl denselben, dessen Dukaten und Bijouterien, und sein Prozess war auf ewig entschieden und gewonnen. Jetzt war dieser Rotte der Weg gebahnt, und nur zu bald gingen sowohl der Eine als der Andere von der Filouterie zur wirklichen Friponnerie über, das Geld der verführten Edelleute, Juden und Unterthanen floss fortwährend in den Säckel dieser Bösewichter.
@@ -7856,12 +7536,10 @@ their lordships; the advocates filled their pockets, hastened to the noblemen, b
 Not content with this any longer, they strove after the fortunes of the estate-owners; this too succeeded for them, for all too soon there was, from the first to the last, no one in the court offices who did not possess great estates, or at least houses, gardens, or similar considerable properties — the mortgage-books still extant today are the most eloquent proof of this.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-210">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-210">p. 210</a></h2>
+<section class="lit-passage" id="p-210" data-page="210">
+<div class="pg" id="p210"><a href="#p210">p. 210</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Selbst sprechen diese von denen, die statt Güter baares Geld hatten und damit handelten, so war z. B. ein gewisser Regierungs-, jetzt Kammergerichtsrath Sch —, der an 36,000 Thlr. zusammengebracht hatte, welches er an einen gewissen B — i auf Sulislawice borgte, woher er aber wohl nie etwas zurückerhalten wird. Für den ehrliebenden Patrioten und biedern Mann war es mehr als empörend, wenn man auf den sogenannten Johannis-Transactionen selbst Räthe auf dem Markt in ihren Paradeuniformen Geldhandel treiben sah. Auf einer Seite hing solch einem, von diesen Menschen aufs Korn genommenen, schon halb geplünderten pohlnischen Edelmann vampirartig ein Beamter und auf der andern Seite ein Jude, um die Beute festzuhalten, und nie verfehlten diese Geier ihr Ziel.
@@ -7888,12 +7566,10 @@ The fine was, to be sure, hardly calculated to convert the Poles to more loyal s
 Through the classification carried out by Herr Schulz and all the self-seeking classification commissioners, not even the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-211">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-211">p. 211</a></h2>
+<section class="lit-passage" id="p-211" data-page="211">
+<div class="pg" id="p211"><a href="#p211">p. 211</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Hälfte herausgebracht, als die Pohlen ehedem den vierten Groschen nach gegeben hatten.
@@ -7916,12 +7592,10 @@ Count Hoym had wished for only 5 per cent more and was greatly surprised when th
 Meanwhile, in the course of time, all starosties and ecclesiastical estates had been resumed, indeed even a few estates of rebels who absolutely refused to return had been confiscated. The monarch, wholly made only to make men happy, bestowed a part of these estates upon many worthy men, and often also upon undeserving ones.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-212">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-212">p. 212</a></h2>
+<section class="lit-passage" id="p-212" data-page="212">
+<div class="pg" id="p212"><a href="#p212">p. 212</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 (S. das schwarze Register.) Dies gab in der Folge den Feinden des *Hoym*, an deren Spitze Minister *Schulenburg*, *Voss* und *Struensee* standen, Stoff, *Hoym* vor der Welt und besonders bei dem künftigen Regenten in ein böses Licht zu stellen und ein Bein zu schlagen. Inzwischen war *Hoym* hieran völlig schuldlos; der beste gute König hatte nur den Hang, wohlzuthun, und er befahl, wer durfte hier widersprechen? Dennoch sind durch den damaligen Departementsrath, der dies Fach bearbeitete (Kriegsrath v. *Triebenfeld*), mehrere Kabinetsordres in den letzten Zeiten zurückgelegt. So sollte zum Beispiel der General Graf *Wartensleben* das grosse Amt Krewe haben, der Graf *Schmettau* die Starostei Klunero, der Geheimerath Graf *Carmer* die Starostei Moschin u. a. d. m. Schon dies war gewagt, und alle diese Menschen, welche nichts erhalten, sprüheten hernach Feuer und Flamme.
@@ -7936,12 +7610,10 @@ Der herzensgute König starb 1797. *Hoym* wollte nicht ungerufen nach Berlin geh
 The good-hearted king died in 1797. Hoym did not wish to go to Berlin uncalled; Schulenburg thereby gained time — he pressed himself into the favor of His present Majesty the King; his first aim was to bring down Hoym. Together with Struensee, he had Held compose lampoons on Hoym, Goldbeck, and Triebenfeld. This was the most vulgar nonsense and nothing but crude slander. Nevertheless the lampoon was read on every side. The monarch, however, animated by the same exalted goodness of heart as his late King Father, of most blessed memory, did not lend envy his full ear, and Hoym remained minister nonetheless; Schulenburg therefore took refuge in cunning — he wrote to Hoym that the King was dissatisfied with his South Prussian administration, and that the monarch would be glad to see him give up the South Prussian department of his own accord. Hoym, who was also burdened by more than one weakness, fell into the trap and asked the King to relieve him of the department in question. Now Schulenburg was victorious, and he pursued this victory harshly,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-213">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-213">p. 213</a></h2>
+<section class="lit-passage" id="p-213" data-page="213">
+<div class="pg" id="p213"><a href="#p213">p. 213</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Hoyms* Todfeind, der Minister v. *Voss*, erhielt sofort das südpreussische Departement wieder, begleitet mit dem rothen Adlerorden und mit einem Kabinetsschreiben, welches öffentlich in den Zeitungen bekannt gemacht wurde, wodurch man *Voss* bis in den Himmel erhob und *Hoym* bis zu den Antipoden warf. Zu spät sah *Hoym* seinen Irrthum ein und ärgerte sich darüber, dass *Schulenburg* ihm Meister in der List geworden war. *Hoym* ermannte sich indess bald und drehete durch einen gewissen *Gentz* die Sache so, dass er nach Berlin berufen wurde. Er opferte Summen und erhielt am Ende den Auftrag für alle Minister und eigentlich für alle Departements eine gründliche Organisation zu entwerfen. Hätte *Hoym* dies Zutrauen des Königs benutzt, so hätte er den grössten Wirkungskreis haben und das Land glücklich machen können. Von diesem glücklichen Zufall aber berauscht, ward *Hoym* faul und übertrug alles seinem vermeinten Busenfreund dem etc. *Gentz*, mit dem Geheimen Finanzrath v. *Prittwitz.* *Schulenburg*, der dies schnell entdeckte, suchte alsbald diese beiden Helden dadurch zu gewinnen, dass er, dem einen — nehmlich *Gentz* — Geld vollauf gab, dem andern aber auf das heiligste versicherte, dass, wenn *Hoym* gestürzt sei, er ihm gewiss zum dirigirenden schlesischen Minister machen würde. Jetzt entwarf *Gentz* mit *Prittwitz* dies und jenes, sie trugen es *Schulenburg* vor, und was dem nicht gefiel ward gestrichen und dafür Unsinn hingesetzt, der nur zum Schaden des Landes abzweckte — der Erfolg war, dass die ganze Sache trotz der mehreren Monita, so *Hoym* erhielt, gänzlich ins stocken gerieth.— *Schulenburg* und *Voss* frohlockten und thaten nur, was ihnen allein nützlich war und gut dünkte.
@@ -7956,12 +7628,10 @@ Hoym's mortal enemy, Minister v. Voss, at once received the South Prussian depar
 Not only did the inhabitants of South Prussia grumble loudly, but the whole country felt the oppression of these two men. Hoym had, in that period when they had so
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-214">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-214">p. 214</a></h2>
+<section class="lit-passage" id="p-214" data-page="214">
+<div class="pg" id="p214"><a href="#p214">p. 214</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 bereitwillig zu den höhern Abgaben verstanden, ein Kreditsystem zu bewirken, auf das heiligste versichert, die Pohlen baten nun den Voss stürmisch darum. Des Ministers Meinung aber war es nie, die Pohlen eine Landschaft unter sich organisiren zu lassen, weil er befürchtete, sein Privat-Holz- und besonders Getraide-Handel würde hinfort für ihn nicht so ergiebig ausfallen, — um so mehr als er für die grossen Ueberschüsse, welche ihm der Holzhandel gewährte, Güter in Südpreussen kaufen wollte. Das Geschrei der Pohlen über die fortwährende stiefmütterliche Behandlung nahm indess zu, so dass man sich genöthiget sah, den Pohlen endlich einigen Kredit zu gewähren.
@@ -7976,12 +7646,10 @@ readily agreed to the higher taxes, most solemnly assured the Poles that he woul
 In the bank, and in the widows', invalids', Seehandlung, and wards' funds, there lay some monies, and in particular many bonds, which yielded 2 to 3, and at most 4, per cent interest. The King was now advised that these monies could be invested more advantageously and at higher interest in South Prussia, to the general benefit. The monarch, believing that he was helping his South Prussians, gladly consented and approved the minister's proposal. No sooner was this known to the Poles than they came in droves and asked for loans. Every seeker of credit was now informed of the conditions on which he could obtain money. It was required that the mortgage certificates and valuations of the estates on which money was to be lent be submitted for examination. The Poles, soon instructed by Jews and lawyers, quickly produced valuations that exceeded the value of the estates by four to four times [sic — figure defective in the original]. So it was, for example, with the estates that Prince Karl George von Hessen (was he a Pole too? —) had purchased in South Prussia. He bought for about 230,000 thalers, and the valuation, which a certain Wildeganns conducted, and which cost the prince about 3,500 thalers, came out at 800,000 thalers. The valuers were a certain
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-215">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-215">p. 215</a></h2>
+<section class="lit-passage" id="p-215" data-page="215">
+<div class="pg" id="p215"><a href="#p215">p. 215</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Kammerrath *Korn* und Justizrath *Schröter*. Der Prinz eilte mit dieser Taxe zur Wittwenkasse und zu dem Pupillenkollegium. Ein gewisser *Michaelis* war der Justiziarius der Wittwenkasse. Er prüfte für 100 Dukaten die Taxen, und sie waren billig und sehr gut. Der Prinz glaubte schon etliche 100,000 Thlr. im Sacke zu haben, als es hiess, dass der Hofagent *Heymann Ephraim* alle vorräthige Gelder bei der Wittwenkasse in Beschlag genommen und davon 5 Procent zahle, man rieth ihm, sich nur an diesen zu werden. Der Prinz that dies ungesäumt, indem er den *Heymann Ephraim* zu sich bitten liess. Dieser Jude aber hatte die edle Dreistigkeit, dem Prinzen (der im Grunde dem Königl. Hause verwandt war) das Geld um deswillen abzuschlagen, weil ihm das Geld viel koste. Dem Prinzen lag es am Herzen, Geld zu erhalten. Er liess sich daher herab, den Juden zu bitten. Der Jude ward von der Humanität des Prinzen gerührt und sagte endlich das Geld auf 6 Jahre (es waren 200,000 Thlr.) unter der Kondition zu, dass Seine Durchlaucht ein für allemal 30,000 Thlr. proxeneticum von die 200,000 Thlr. sich gleich bei Zahlung der Summe abzuziehen geruhen lassen müssten, denn er müsse sowohl an den Herrn Minister Graf von der *Schulenburg*, als auch an alle andere Herren abgeben. Wann Seine Durchlaucht dies genehmigten, so stände das Kapital à 5 Procent jährlich zu Diensten — der Prinz, der die Zinsen niedrig fand, schlug ein. Indess schalt der Minister *Schulenburg* den Juden einen dummen Teufel, verboth das Geld an den Prinzen zu zahlen, weil man sich nicht dürfte von einem Manne, der mit dem Königlichen Hause so nahe verwandt sei, in die Charte kukken lassen.
@@ -7992,12 +7660,10 @@ Kammerrath *Korn* und Justizrath *Schröter*. Der Prinz eilte mit dieser Taxe zu
 Chamber Councillor Korn and Justice Councillor Schröter. The prince hastened with this valuation to the Widows' Fund and to the Wards' College. A certain Michaelis was the legal officer (Justiziarius) of the Widows' Fund. He examined the valuations for 100 ducats, and they were found fair and very good. The prince already believed he had some hundred thousand thalers in his pocket, when it was said that the court agent Heymann Ephraim had seized all the funds available at the Widows' Fund and was paying 5 per cent on them; he was advised to apply to this man alone. The prince did so without delay, having Heymann Ephraim summoned to him. But this Jew had the noble effrontery to refuse the prince (who was, at bottom, related to the Royal House) the money, on the ground that the money cost him a great deal. The prince had his heart set on obtaining the money. He therefore condescended to entreat the Jew. The Jew was moved by the prince's humanity and at last agreed to the money for 6 years (it was 200,000 thalers), on condition that His Serene Highness would deign to have 30,000 thalers deducted once and for all as brokerage (proxeneticum) from the 200,000 thalers, immediately upon payment of the sum, since he had to give a share both to Minister Count von der Schulenburg and to all the other gentlemen. If His Serene Highness agreed to this, the capital stood at his service at 5 per cent annually — the prince, who found the interest low, agreed. Meanwhile Minister Schulenburg called the Jew a stupid devil and forbade the payment of the money to the prince, because one must not let a man so closely related to the Royal House see into his cards.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-216">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-216">p. 216</a></h2>
+<section class="lit-passage" id="p-216" data-page="216">
+<div class="pg" id="p216"><a href="#p216">p. 216</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Als *Dorow* im November 1816 diese Schrift dem Fürsten v. *Hardenberg* mittheilte, äusserte dieser:
@@ -8006,7 +7672,7 @@ Als *Dorow* im November 1816 diese Schrift dem Fürsten v. *Hardenberg* mittheil
 
 ---
 
-###### Verschiedene Stimmen über die südpreussischen Beamten.
+##### Verschiedene Stimmen über die südpreussischen Beamten.
 
 Hören wir zunächst die Kabinets-Ordre des milden, rechtliebenden Fürsten, des Königs Friedrich Wilhelm III.:
 
@@ -8023,7 +7689,7 @@ When Dorow communicated this document to Prince v. Hardenberg in November 1816, 
 
 "Despite many harshnesses, hostile and untrue statements, the essay of War Councillor v. T. is nevertheless a glorious example of our present administration, and of the principles by which the government now acts, and it therefore deserved not to be lost, as a corrective example for the ever-discontented complainers about everything that happens among us."
 
-###### Various voices concerning the South Prussian officials.
+##### Various voices concerning the South Prussian officials.
 
 Let us first hear the cabinet order of the mild, justice-loving Prince, King Frederick William III:
 
@@ -8034,12 +7700,10 @@ Let us first hear the cabinet order of the mild, justice-loving Prince, King Fre
 "The first cause of this lies unquestionably in the former lawlessness and in the arbitrary oppression thereby fostered, which especially the inhabitants of the open country and of the small towns had to endure from their landlords. This lawlessness and this arbitrariness have been abolished, and in their place has come the equality before the law peculiar to the Prussian constitution; the lowliest subject has, before Me and before the law, the worth of a human being; he has the duty of fidelity and obedience toward his sovereign and toward his authorities, and if he observes these, he has, equally with the most eminent, a sacred right to the protection and security of his person and his property."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-217">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-217">p. 217</a></h2>
+<section class="lit-passage" id="p-217" data-page="217">
+<div class="pg" id="p217"><a href="#p217">p. 217</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Aber noch kennen Meine neuen Unterthanen diesen ihren Werth, den sie dem preussischen Scepter verdanken; *nicht, weil ein grosser Theil der angestellten Unterbedienten*[155] *ihren Beruf verkennen und ihr Amt, statt es zum Schutz der Unterdrückten auszuüben, zu Gewaltthätigkeiten missbrauchen.* Es ist unter ihnen fast zum Sprüchwort geworden, dass der *vormalige Pole nur mit der Peitsche gehandhabt* werden könne, und Ich habe vielfache Klagen über thätliche Misshandlungen der Unterthanen, besonders beim Vorspanne, gehört, ungeachtet Ich selbst Mich überzeugt habe, *dass die Süd- und Neu-Ostpreussen ein gutmüthiges und biegsames Volk ausmachen,* das eine solche Behandlung nicht verdient. Eben so sehr hat man sich überhaupt in diesen Provinzen über ein ungesittetes, unanständiges und abschreckendes Benehmen der Unterbedienten gegen diejenigen, mit denen sie, bei Ausübung ihres Amtes, in Berührung kommen, beschwert. Alle diese vielfachen Beschwerden gereichen Mir um so mehr zum höchsten Missfallen, als nur durch ein entgegengesetztes pflichtmässiges Betragen der Officianten der uncultivirte Theil der Nation *civilisirt,* für das Gute in der preussischen Verfassung empfänglich gemacht und dem Staate mit Liebe, Anhänglichkeit und Treue verwandt werden kann, dessen Oberhaupt alle seine Schritte nur auf Wohlfahrt des Ganzen berechnet und diese durch die Glückseligkeit aller und jedes Unterthanen zu erreichen bemüht ist.“
@@ -8050,12 +7714,10 @@ Let us first hear the cabinet order of the mild, justice-loving Prince, King Fre
 "But My new subjects do not yet know this worth of theirs, which they owe to the Prussian sceptre; not because a great part of the appointed subordinate officials<sup class="lit-fn"><a href="#n-en-155">155</a></sup> mistake their calling and, instead of exercising their office for the protection of the oppressed, misuse it for acts of violence. It has become almost a proverb among them that the former Pole can be handled only with the whip, and I have heard manifold complaints of physical maltreatment of subjects, especially in connection with the furnishing of relay horses, notwithstanding that I have Myself convinced Myself that the South and New East Prussians form a good-natured and pliable people, who do not deserve such treatment. Equally, complaints have been made in general in these provinces of unmannerly, indecent, and repellent conduct on the part of the subordinate officials toward those with whom they come into contact in the exercise of their office. All these manifold complaints are the more highly displeasing to Me, since only through an opposite, dutiful conduct on the part of the officials can the uncultivated part of the nation be civilized, made receptive to what is good in the Prussian constitution, and attached to the state with love, devotion, and fidelity — a state whose head calculates all his steps solely for the welfare of the whole, and strives to attain this through the happiness of all and of every subject."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-218">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-218">p. 218</a></h2>
+<section class="lit-passage" id="p-218" data-page="218">
+<div class="pg" id="p218"><a href="#p218">p. 218</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Durch Erwägung alles dessen werde ich veranlasst, Euch aufzutragen, Euch die Abstellung dieses Missbrauches, welchen die Unterbedienten von der ihnen anvertrauten Gewalt machen, so lieb Euch Meine Gnade ist, ernstlich angelegen sein zu lassen, auf das Benehmen der Unterbedienten genau Acht zu haben, diejenigen, welche sich durch gute Begegnung der Unterthanen auszeichnen, nach dem Maasse ihrer Fähigkeiten zur weiteren Beförderung vorzuschlagen, gegen Andere, welche hierin ihren Beruf verkennen, ohne Ansehen der Person, mit der gesetzlichen Strenge zu verfahren, und endlich diejenigen, welche durchaus nicht zu bessern sind, Mir zur Dienstentlassung anzuzeigen, überhaupt aber, bei allen Euren Einrichtungen nie aus dem Gesichte zu verlieren, dass solche nur mit der Civilisirung der Nation und ihrer Ueberzeugung von der Güte der dabei zum Grunde liegenden, Absichten gedeihen können.“
@@ -8066,12 +7728,10 @@ Let us first hear the cabinet order of the mild, justice-loving Prince, King Fre
 "In consideration of all this I am led to charge you, as My favor is dear to you, to make it your earnest concern to put a stop to this abuse which the subordinate officials make of the power entrusted to them; to keep close watch upon the conduct of the subordinate officials; to propose for further promotion, according to the measure of their abilities, those who distinguish themselves by good treatment of the subjects; to proceed with legal severity, without respect of persons, against others who in this regard mistake their calling; and finally to report to Me for dismissal from service those who are altogether beyond improvement; but above all, in all your arrangements, never to lose sight of the fact that these can prosper only together with the civilization of the nation and its conviction of the goodness of the intentions underlying them."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-219">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-219">p. 219</a></h2>
+<section class="lit-passage" id="p-219" data-page="219">
+<div class="pg" id="p219"><a href="#p219">p. 219</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Je eher und je vollständiger Ihr hierunter Meine Absicht erreichen werdet, desto mehr werden sich Eure Ansprüche auf Meine Gnade rechtfertigen, womit Ich bin Euer wohl affectionirter König.“
@@ -8108,12 +7768,10 @@ To the Ministers of State von Voss
 "Soon thereafter I heard the lamentation of all the Polish officials whose places had been taken from them and filled with Germans. I saw the eagerness of so many hungry Prussians who believed they had found in their appointments the means of filling their pockets. I could find neither the whole of this occupation just, nor suited to the interests of the Prussian state; still less did the method of organization which Minister v. Voss saw fit to adopt seem to me in accordance with prudence. Imagine a country in which the Catholic religion still held its sway over the great mass, where a distinct language was spoken, a national dress was worn, and where a general character showed itself that was wholly at variance with the German. In this country Minister Voss dared to attempt to introduce the police and financial order customary in strictly-run military Prussia. He was so bold as to set up forthwith a commission for the devaluation of the whole of the landed property, without first determining the total amount to be apportioned in the lump, he forced upon the Poles the German language, which they did not understand, and did not take the trouble to have his new laws translated (at least intelligibly) into Polish, but instead had ignoramuses engaged as translators for a paltry wage. Besides the tax quota, which was not to be fixed until after the devaluation had taken place, the stamp duties were also raised, the playing of bagpipes was farmed out, the tolls and consumption duties were raised, and collected with the utmost severity."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-220">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-220">p. 220</a></h2>
+<section class="lit-passage" id="p-220" data-page="220">
+<div class="pg" id="p220"><a href="#p220">p. 220</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Die Officianten, welche man fand, jagte man fort, und setzte dagegen in der Regel den Ausschuss aus diesem Stande an, der sich in den alten Provinzen befand."
@@ -8132,12 +7790,10 @@ To the Ministers of State von Voss
 "In doing so, Herr von Voss was toward the Poles, accustomed as they were to splendor, not merely cold and repellent, but also quite literally economical; his table was very frugally served, his outward appearance as simple as possible, his speech dictatorial; he brooked no contradiction; his creatures were, one and all, financiers bred amid the dust of files, who would only too gladly have made hard thalers out of Polish muck straightaway. Privy Councillor Schultz, a former actuary raised in the East Prussian domain offices, next a calculator, then War Councillor, and at last Privy Finance Councillor, possessed entirely the closed, self-absorbed provincial character peculiar to this people. He directed the classification and domain business, had mountains of files and figures upon figures piled up, in which there was not a true word; for his economy commissioners knew well how to line their own pockets unlawfully (*per nefas*), but not how to assess the fields. He himself had only
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-221">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-221">p. 221</a></h2>
+<section class="lit-passage" id="p-221" data-page="221">
+<div class="pg" id="p221"><a href="#p221">p. 221</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 mechanisch die ost- und westpreussischen Domainen veranschlagt, und Klassifikationsgrundsätze im Kopfe, die er auf Südpreussen anwendete. Es war aber nicht die geringste Genialität, aber desto mehr Eigensinn in ihm, nach diesem abgenutzten Leisten in Polen verfahren zu wollen, woraus nur verkehrte Resultate entstehen mussten.“
@@ -8160,12 +7816,10 @@ mechanically estimated the East and West Prussian domains, and carried in his he
 *Cölln*, Vertraute Briefe, I. p. 71.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-222">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-222">p. 222</a></h2>
+<section class="lit-passage" id="p-222" data-page="222">
+<div class="pg" id="p222"><a href="#p222">p. 222</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „In Polen geht es lustig her; Wunder ist's, dass die Nation ruhig ist.“
@@ -8188,12 +7842,10 @@ The one and only anecdote of its kind is the following:
 "A certain Gottwald from Glogau became *Inquisitor publicus* in Posen. He was as skilful as he was unscrupulous and dissolute; he let all criminal proceedings lie, and drew up the lists concerning them falsely. Many a criminal prisoner waited for years for his first examination. One of his defendants, Herr Kiez, deliberately drowned himself, and left behind a will which was a lampoon on the Grand Chancellor. Herr Gottwald thought it fit to send him a copy of it. He thereby drew attention to himself, and the authenticity of his case-lists was investigated. Here they discovered his falsifications, locked him up together with the prisoners in the gaol, and assured him that he should not be free until he had processed all the files. He discharged himself of this task quickly enough, and, since he foresaw his fate (cashiering), carried out, together with a like-minded friend, the following knavish trick: . . . . (fraud and theft)."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-223">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-223">p. 223</a></h2>
+<section class="lit-passage" id="p-223" data-page="223">
+<div class="pg" id="p223"><a href="#p223">p. 223</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Alle Festungen im Lande sind mit südpreussischen Offizianten überladen, und es ist ein Schimpf geworden als Civilist in dieser Provinz zu dienen.“
@@ -8224,12 +7876,10 @@ The one and only anecdote of its kind is the following:
 "Yet at first the satisfaction of the love of splendor still proceeded at a measured pace; most of the first officials were transplants from Silesia, where not so much is done for dazzling the eye, and where the nobleman especially finds the greatness of his person in his benevolent "Von" and in the address, "Gracious Sir." Luxury made bolder strides already in Posen, where more men from the Mark, from Magdeburg, and from West Prussia were appointed. But soon the simple folk of Petrikau too were to be drawn into the whirlpool of folly, when Hoym, instead of Voss, was appointed head of the department, and Kalisz, instead of Petrikau, was named the seat of the provincial college.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-224">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-224">p. 224</a></h2>
+<section class="lit-passage" id="p-224" data-page="224">
+<div class="pg" id="p224"><a href="#p224">p. 224</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „In Kalisz befand sich schon seit einigen Jahren eine Accisedirection. Man hatte die ersten Jahre die Landeseingeborenen mit der Hyder[sic] der Accise nicht erschrecken wollen. Die Einfuhr der übrigens verbotenen Waaren blieb noch auf die erste Zeit in Südpreussen frei. Unterdess ward der Handel der Juden doch durch mehrere harte Gesetze beschränkt. Die Acciseoffizianten lösten aber diese Knoten durch vergoldete Hände; und so waren denn die Familien der Direction in einen Wohlstand gerathen, der bei grösstentheils aus Nichts emporgekommenen Leuten in übermüthige Pracht ausarten musste. Sie säumten nicht, vor den einfachern Abkömmlingen das Uebergewicht mit ihren seidenen und Linonkleidern, ihren Shawls, ihren Trimeaux, ihren Kronleuchtern, endlich ihren Equipagen und ihrem vollen Keller zu behaupten und sie ihr Uebergewicht fühlen zu lassen.
@@ -8252,12 +7902,10 @@ The one and only anecdote of its kind is the following:
 "To the aforementioned plagues of Pharaoh was added the further misfortune that the officials appointed in South Prussia, mostly young and unmarried, as if driven to fury by a tarantula's sting, contracted marriage upon marriage. Old school sweethearts, maidservants, and whores were chosen as wives with equally hasty resolve. Here, in this foreign land, far from relatives, former connections, and friends, it was believed that the unseemly would easily accommodate itself to the seemly, and that many a youthful folly would be effaced. Here, where the poor nobleman served the rich, the kitchen-maid could easily have herself stamped a Gracious Lady.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-225">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-225">p. 225</a></h2>
+<section class="lit-passage" id="p-225" data-page="225">
+<div class="pg" id="p225"><a href="#p225">p. 225</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Das gab denn auch ein loses und lustiges Leben. Ehescheidungen folgten der Trauung, und jener eine neue Verlobung, oder eine Hochzeit, die schon in früherer Ehe besprochen war. Die unglücklichen Früchte solch ungezügelter Lüste konnten oft nicht früh genug ans Licht der Welt kommen, um entschieden darzuthun, wen sie Vater rufen durften.
@@ -8272,12 +7920,10 @@ The one and only anecdote of its kind is the following:
 "That such a partly ragtag rabble did not lack immoderate pretensions and unmannerly presumption of every kind, that the pride of the civilized Poles was thereby offended, that they were loath to see their husbands, sons, and daughters in such seductive surroundings, requires, surely, no proof. That the tone of such mixed society could be worth nothing leaps to the eye. That the most insipid immorality was at home there, wholly stripped of the veil of French wit, of the semblance of decorum found in people of good breeding, and even of the exuberance of Berlin high society — which after all still assumes at least the mask of innocence and virtue — will readily be believed. This mindless picture-gallery could please only in the dumb show of the dance; and here these mostly well-formed figures, with faces mostly youthful and some even handsome, could make an impression on the stranger.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-226">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-226">p. 226</a></h2>
+<section class="lit-passage" id="p-226" data-page="226">
+<div class="pg" id="p226"><a href="#p226">p. 226</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Ob nun bei einem solchen Leben, welches blos auf Genuss berechnet war, so lange das Gehalt vorhielt, so lange Juden noch borgen wollten, nicht bei Vielen der Grundsatz ihrer Rechtlichkeit in die Klemme kommen musste, bedarf wohl keiner Untersuchung.“
@@ -8304,12 +7950,10 @@ The one and only anecdote of its kind is the following:
 "Equally significant was another occasion of discontent, though more excusable, because it was fear
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-227">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-227">p. 227</a></h2>
+<section class="lit-passage" id="p-227" data-page="227">
+<div class="pg" id="p227"><a href="#p227">p. 227</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sie erzeugte. Die Fürsten haben sichs nie verborgen, dass die Herrschaft über ein fremdes Volk, sei sie errungen durch Gewalt, oder erschlichen durch List, ihnen so lange ungewiss ist, bis die Zeit und die Menge empfangener Wohlthaten (und öfters vermögen beide nichts) die Besiegten versöhnt. Immer war davon die Folge, dass sie die Eingeborenen ungern an der Verwaltung Theil nehmen liessen und Aemter und Würden am liebsten an ihre längst gekannten und geprüften Diener vergeben. So handelte nach Gewinnung Schlesiens und Westpreussens Friedrich II., so sein Nachfolger. Schaaren von Deutschen zogen zu einträglichen Stellen immerfort aus den alten Ländern in die neuen, und überall wichen ihnen die Polen, wenn nicht der Sprache Unentbehrlichkeit sie beizubehalten rieth oder zwang. Bald fiel Wichtiges und Unwichtiges in die Hände der Ausländer, und mit dem Gedanken an ihre höhere Brauchbarkeit wuchs die Aufgeblasenheit, die beleidigt. Zugleich ging dieser, bei vielen der Angestellten, eine Unwürdigkeit ohne Gleichen zur Seite: denn da weder die alten Länder einen Ueberfluss an trefflichen Geschäftsmännern hatten, noch die trefflichen unter Leuten wohnen mochten, die als ungebildet von ihnen verachtet oder gefürchtet wurden, so blieben meist nur solche übrig, die, schlecht und gehaltlos, ihr eigenes, nicht fremdes Glück machen wollten. Sie waren es, die durch feile Bestechlichkeit sich erniedrigten, durch auffälligen Prunk ärgerten, und als geringe Emporkömmlinge von den Polen, wie ihre eiteln Weiber von den mitbuhlenden Polinnen gehasst wurden."
@@ -8332,12 +7976,10 @@ that produced it. Princes have never concealed from themselves that dominion ove
 Besides the actual *state officials*, however, a host of so-called *men of business* also soon appeared
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-228">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-228">p. 228</a></h2>
+<section class="lit-passage" id="p-228" data-page="228">
+<div class="pg" id="p228"><a href="#p228">p. 228</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 in der Provinz auf, die man allgemein für Staatsbeamte hielt, obwohl sie es im gesetzlichen Sinne nicht waren. Es sind dies die Justizkommissarien, Notare, und *Rechtsconsulenten* unter den verschiedensten Namen. Sie waren mit die unersättlichsten Wampyre, welche bei den vielfachen Verwirrungen, die durch die letzten Hergänge herbeigeführt waren, die Kräfte des Volkes aussaugten.
@@ -8352,12 +7994,10 @@ in the province, whom people generally took for state officials, although in the
 The defective demarcation of territorial property, the boundary disputes, multiplied and perpetuated a host of lawsuits without end. The deficiencies of a proper organization of the mortgage system had greatly endangered the security of capital lent on landed property; the Polish laws knew no prescription (limitation of actions), and so, with the introduction of the new courts, the new laws, and a new judicial order, a host of so-called "dormant" lawsuits awoke. The Polish- and German-speaking advocates therefore soon found, in the multitude of lawsuits and in the eagerness to multiply them still further, the richest nourishment for their business; they gathered riches, and gained reputation and estates. The report of this quickly-made fortune resounded in the old provinces. The report of the rich success of this hybrid, half-official and half-private business activity lured *a great* number of young, immature jurists into choosing this calling, in order to become quickly rich and respected in the new province. These men of business, furnished with titles borrowed from actual state offices, soon acquired, in the eyes of the nation — for as long as it was unacquainted with the constitution — precisely the standing and respect that the actual state officials enjoyed. People saw them not only in daily intercourse with the officials, but ceaselessly occupied within the inner business-chamber; the fortunate outcome of their representations was taken to be the result of a secret influence
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-229">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-229">p. 229</a></h2>
+<section class="lit-passage" id="p-229" data-page="229">
+<div class="pg" id="p229"><a href="#p229">p. 229</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 auf die Behörden, man überschüttete sie mit Gold, mit Weihrauch und Ehrenbezeugungen, Weiber und Männer vereinigten sich, getrieben von Eigennutz, um die Moralität und die Sitten dieser Geschäftsmänner zu verderben.
@@ -8442,12 +8082,10 @@ In the Chamber Department of Westpreussen . . . . 453
 In the Chamber Department of Netzdistrikt . . . . 426
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-230">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-230">p. 230</a></h2>
+<section class="lit-passage" id="p-230" data-page="230">
+<div class="pg" id="p230"><a href="#p230">p. 230</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 7629
@@ -8474,12 +8112,10 @@ It must, however, still be noted in this connection:
 2. That many officials remained in the service of the new Duchy of Warsaw. For "if the Poles have in individual instances shown bitterness and aversion toward the Prussian constitution, if these have passed over into actions that have had an important influence on the outcome of the war, they were never provoked by the spirit and the principles of that constitution, but rather by those persons to whom its application and exercise had been entrusted. Of this they furnished the greatest proof, in that, of the former officials, they retained the most proven among those conversant with the language, and, of the constitution, retained every institution almost down to its most inessential forms. This occurred above all when the so-called Administration Chambers were set up by the Government Commission. Except for the name, there was absolutely no
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-231">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-231">p. 231</a></h2>
+<section class="lit-passage" id="p-231" data-page="231">
+<div class="pg" id="p231"><a href="#p231">p. 231</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Unterschied statt; die collegialische Bearbeitung der Geschäfte war ganz die nämliche, und wo die Zeitumstände nicht neue Vorschriften nothwendig gemacht hatten, wurden die alten noch in ihrem ganzen Umfange befolgt.“ [159]
@@ -8498,17 +8134,15 @@ difference between them and the Chambers; the collegial handling of business was
 Finally, consideration of the small number of *clergy and school employees* dismissed from office (in the Posen Cham.-Dept. and in the Netze District together only 4!) leads to the conclusion either that the number of school employees, that is, of schoolteachers, cannot have been as great as is commonly boasted, or that the Poles cannot have been such barbarians, Iroquois, Canadians, and Kamchadals, since, being receptive to teaching and instruction, they left these people in office.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-232">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-232">p. 232</a></h2>
+<section class="lit-passage" id="p-232" data-page="232">
+<div class="pg" id="p232"><a href="#p232">p. 232</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Nachträge.
+### Nachträge.
 
-##### I.
+#### I.
 
 zu S. 9.
 
@@ -8519,9 +8153,9 @@ Abgeordneter **v. Bonin** (Genthin):[161] „........ Die Germanisirungstendenz 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Supplements.
+### Supplements.
 
-##### I.
+#### I.
 
 to p. 9.
 
@@ -8530,12 +8164,10 @@ From the stenographic proceedings of the House of Deputies, 55th sitting, 23 May
 Deputy **v. Bonin** (Genthin):<sup class="lit-fn"><a href="#n-en-161">161</a></sup> ". . . . . . . . The tendency toward Germanization in the Province of Posen does not date from more recent times; it already stood here in fullest bloom as early as the thirteenth century. In this connection, without dwelling on all the other instances, I refer to the privilege granted to the city of Posen by a Polish king — I cannot state the exact year, but it will have been in the year 1200 and some 50. — In this privilege, the ground on which the city of Posen stands is handed over to German colonists together with municipal rights, and at the same time Magdeburg Law is granted to the city. (Hear!) I believe I may assume that this constituted a significant attempt at Germanization. This Germanization was also continued in earlier times, and followed down to the very latest period, under Polish administration and during the existence of the Kingdom of Poland — not only through the founding of new towns, which efforts were made chiefly to people with German craftsmen, but, as even a superficial glance at this country shows, also through the fact that, through the drawing-in of German colonists,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-233">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-233">p. 233</a></h2>
+<section class="lit-passage" id="p-233" data-page="233">
+<div class="pg" id="p233"><a href="#p233">p. 233</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 die Wälder urbar gemacht, ganz neue Gemeinden gebildet worden sind, die noch heute unter dem Namen der sogenannten Hauländereien bestehen, die aus deutschen Kolonisten bestehen, welche grossentheils, wie ich wiederholt hervorhebe, unter Polnischem Regiment in das Land hineingezogen worden sind.......“
@@ -8550,19 +8182,17 @@ the forests were cleared and entirely new communities were formed, which still e
 Deputy Dr. **v. Niegolewski**: ". . . . If the honorable Deputy for Genthin has gone back as far as the thirteenth century in order to deduce from it a right to the Germanization of the Grand Duchy of Posen, then this ground for our Germanization, drawn from the noble disposition of our forefathers, is incomprehensible to me. I shall not, however, be angry with my forefathers for having acted nobly; I shall not be angry with them for not having forced their language upon foreign nationalities; I do not hold it against them that they left the Germans their laws and their language. At least, however, one might have expected, in the nineteenth century, that one would not derive from the noble-mindedness of the fathers a ground for the persecution of the sons, and formally punish them for the noble deeds of their fathers — in order to cripple them, in order to degrade them. For, gentlemen, every man who gives up his nationality is degraded. How well-founded must our claims and rights be, if you must take refuge in such arguments, and call this your persecution of our nationality a conquest of culture. Far be German culture from us, if you wish to Germanize us even on the ground that our fathers once acted nobly; we, gentlemen, have never forced our nationality upon others — for this speak all our statutes, all the resolutions of our Diets. We have never done harm to any nation, we have never conquered other peoples, we have kept faith and loyalty to all peoples
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-234">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-234">p. 234</a></h2>
+<section class="lit-passage" id="p-234" data-page="234">
+<div class="pg" id="p234"><a href="#p234">p. 234</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 — und wenn sich andere Völker mit unserem Vaterlande verbunden haben, so haben sie dieses wirklich nur im Namen der Civilisation gethan, die wir in Ehren gehalten, — der Civilisation, die Sie jetzt uns gegenüber verhöhnen, (Widerspruch) ja, Sie verhöhnen unsere Kultur, die getragen wurde von einer Nation, deren Königen deutsche Kaiser durch ihre Gesandten zu Füssen gelegen und um Schutz angefleht haben." —
 
 ---
 
-##### II.
+#### II.
 
 zu S. 175.
 
@@ -8577,7 +8207,7 @@ zu S. 175.
 
 ---
 
-##### II.
+#### II.
 
 to p. 175.
 
@@ -8586,12 +8216,10 @@ to p. 175.
 "It will be that part of the nobility which begins to be at a loss for the placement of its capital, and which, with a part of its surplus, will buy up entire lordships, which it will perhaps never see, or see only occasionally, to satisfy curiosity,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-235">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-235">p. 235</a></h2>
+<section class="lit-passage" id="p-235" data-page="235">
+<div class="pg" id="p235"><a href="#p235">p. 235</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 während er dieselben durch andere besoldete Personen verwalten lässt.
@@ -8610,12 +8238,10 @@ while having them administered by other salaried persons.
 "These persons, living in the capitals and other populous cities amid the higher luxury, or adventurers, will be the ones who, under present circumstances, may be expected to buy in South Prussia. Adventurers from a neighboring province, where, to the no small detriment of agriculture, favored by the established credit system, they have with more or less success carried on their usury business and made landed estates into an article of trade which, without any regard to its substance, needs only finish, gloss, and a colored wrapper to deceive an ignorant buyer. These people do not buy in order to possess, to put new productive forces into their land, to enliven the industry of their dependents, to lend them a hand toward their prosperity, and in this way — while promoting their own fortune in a sound and lawful manner — to make their contribution to the common good. — — They are speculators who have succeeded in solving the problem of how to acquire a fortune, in a manner befitting their rank, at another's expense. The real cultivation of their possessions does not concern them; entirely
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-236">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-236">p. 236</a></h2>
+<section class="lit-passage" id="p-236" data-page="236">
+<div class="pg" id="p236"><a href="#p236">p. 236</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gleichgültig ist ihnen die Wohlfahrt ihrer Unterthanen. Ein ungeheurer Viehstand, für den sie im Geheim das Futter im ganzen Kreise aufkaufen, eine Anzahl Vorrathsgebäude, die drei Erndten nicht füllen würden, einige Jagdzüge erlesener Pferde, und eine Allee italienischer Pappeln, die von der Grenze des Gutes in grader Linie durch einen englischen Garten, nach der Terrasse eines eleganten niedlich möblirten Schlosses führt — werden hinreichend sein, sie in den Stand zu setzen, die Summe zu bestimmen, welche ihnen der nächste majoren werdende Erbe für das Etablissement zu zahlen hat.“
@@ -8640,15 +8266,12 @@ indifferent to them is the welfare of their subjects. An immense stock of livest
 Printed by I. Blumenthal in Berlin, Adlerstr. 9.
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-notes">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-notes">Notes</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Anmerkungen
+### Anmerkungen
 
 1. *Preuss* Friedrich d. Gr. Bd. IV. S. 7.
 
@@ -9000,7 +8623,7 @@ Auch ein Segen K. K. österreichisch-deutscher Kultur und Civilisation, die Pole
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Notes
+### Notes
 
 <span class="lit-note" id="n-en-1">1</span> *Preuss*, Friedrich d. Gr., vol. IV, p. 7.
 
@@ -9350,6 +8973,7 @@ Yet another blessing of Imperial-Royal Austro-German culture and civilization, w
 <span class="lit-note" id="n-en-161">161</span> At that time Oberpräsident in Posen.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

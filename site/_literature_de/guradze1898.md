@@ -7,16 +7,28 @@ alt_url: "/literature/guradze1898/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-c01">Der Bauer in Posen.</a> <a href="#p-c02">Vorbemerkung.</a> <a href="#p-c03">I. Kapitel. (Einleitung).</a> <a href="#p-c04">II. Kapitel.</a> <a href="#p-c05">III. Kapitel.</a> <a href="#p-c06">IV. Kapitel.</a> <a href="#p-c07">V. Kapitel.</a> <a href="#p-c08">VI. Kapitel.</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<ol>
+<li class="l1"><a href="#p-c01"><span class="toc-e">The Peasant in Posen.</span><span class="toc-o" lang="de">Der Bauer in Posen.</span></a></li>
+<li class="l1"><a href="#p-c02"><span class="toc-e">Preface.</span><span class="toc-o" lang="de">Vorbemerkung.</span></a></li>
+<li class="l1"><a href="#p-c03"><span class="toc-e">Chapter I. (Introduction).</span><span class="toc-o" lang="de">I. Kapitel. (Einleitung).</span></a></li>
+<li class="l1"><a href="#p-c04"><span class="toc-e">Chapter II.</span><span class="toc-o" lang="de">II. Kapitel.</span></a></li>
+<li class="l1"><a href="#p-c05"><span class="toc-e">Chapter III.</span><span class="toc-o" lang="de">III. Kapitel.</span></a></li>
+<li class="l1"><a href="#p-c06"><span class="toc-e">Chapter IV.</span><span class="toc-o" lang="de">IV. Kapitel.</span></a></li>
+<li class="l1"><a href="#p-c07"><span class="toc-e">Chapter V.</span><span class="toc-o" lang="de">V. Kapitel.</span></a></li>
+<li class="l1"><a href="#p-c08"><span class="toc-e">Chapter VI.</span><span class="toc-o" lang="de">VI. Kapitel.</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-c01">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c01">Der Bauer in Posen.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-### Der Bauer in Posen.
+## Der Bauer in Posen.
 
 Beiträge zur Geschichte der rechtlichen und wirthschaftlichen Hebung  
 des Bauernstandes der jetzigen Provinz Posen durch den preußischen Staat  
@@ -30,7 +42,7 @@ Franz Guradze.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### The Peasant in Posen.
+## The Peasant in Posen.
 
 Contributions to the History of the Legal and Economic Advancement of the Peasant Class in the Present Province of Posen by the Prussian State  
 **from 1772—1805.**
@@ -41,15 +53,12 @@ Franz Guradze.
 ---
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c02">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c02">Vorbemerkung.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-### **Vorbemerkung.**
+## **Vorbemerkung.**
 
 Die vorliegende Arbeit befaßt sich hauptsächlich mit der „Bauernbefreiung" in der Provinz Posen, von den ersten Reformen unter Preußens Scepter anfangend bis zu jener Zeit hin, wo die Generalkommission zu Posen ihre Wirksamkeit beendet hatte. Auf Grund umfangreicher Aktenstudien habe ich versucht, nicht nur die Gesetzgebung selbst zur Anschauung zu bringen, sondern auch soviel als möglich die Geschichte der Entstehung der Gesetze. Ferner habe ich versucht, mir, soweit dies aus dem Studium der Generalakten und einiger aus der ungeheueren Menge der Speziakakten ausgewählten Stücke in Verbindung mit der Kenntniß der Litteratur und der thatsächlichen Verhältnisse möglich war, ein unpartheiisches Urtheil über alle jene Vorgänge und die Wirkung der ganzen Gesetzgebung zu bildeu. Dieses Urtheil weicht wesentlich von demjenigen ab, welches besonders durch Professor Knapp in Straßburg und dessen Schüler repräsentirt wird.
 
@@ -76,7 +85,7 @@ Franz Guradze.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### **Preface.**
+## **Preface.**
 
 This work primarily deals with the 'peasant emancipation' in the province of Posen, starting from the initial reforms under Prussian rule until the time when the General Commission in Posen concluded its activities. Based on extensive document studies, I have attempted not only to present the legislation itself but also to shed as much light as possible on the history of the formation of these laws. Furthermore, I have endeavoured to form an impartial judgement on all these processes and the impact of the entire legislation, to the extent possible through the study of the general documents and some selected pieces from the vast amount of specific documents, in conjunction with knowledge of the literature and actual circumstances. This judgement significantly differs from the one represented, in particular, by Professor Knapp in Strasbourg and his students.
 
@@ -101,15 +110,12 @@ Franz Guradze.
 ---
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c03">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c03">I. Kapitel. (Einleitung).</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-### **I. Kapitel. (Einleitung).**
+## **I. Kapitel. (Einleitung).**
 
 Bäuerliche Verhältnisse der jetzt die Provinz Posen bildenden Gebiete in der letzten Zeit des polnischen Reiches.
 
@@ -213,7 +219,7 @@ Allein ehe diese Beschlüsse irgend welche Wirkung haben konnten, wurde nach Bil
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### **Chapter I. (Introduction).**
+## **Chapter I. (Introduction).**
 
 Peasant Conditions in the Areas Now Constituting the Province of Posen in the Last Days of the Polish Empire.
 
@@ -329,15 +335,12 @@ However, before these resolutions could have any effect, following the formation
 ---
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c04">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c04">II. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-### **II. Kapitel.**
+## **II. Kapitel.**
 
 Die bäuerliche Gesetzgebung für den Netzedistrikt von 1772—1806.
 
@@ -470,7 +473,7 @@ Spätere Rechtsquellen sind seit 1794 Theil I, Titel 21 und Theil II, Titel 7 de
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### **Chapter II.**
+## **Chapter II.**
 
 The Peasant Legislation for the Netze District from 1772 to 1806\.
 
@@ -601,15 +604,12 @@ Spätere Rechtsquellen sind seit 1794 Theil I, Titel 21 und Theil II, Titel 7 de
 ---
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c05">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c05">III. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-### **III. Kapitel.**
+## **III. Kapitel.**
 
 Ueber die persönlichen und Prästationsverhältnisse der Bauern des Netze-Distriktes.
 
@@ -740,7 +740,7 @@ Das Ergebniß der ersten preußischen Besitzzeit des Netzedistrikts für den Bau
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### **Chapter III.**
+## **Chapter III.**
 
 About the Personal and Service Obligations of the Peasants in the Netze District.
 
@@ -869,15 +869,12 @@ Das Ergebniß der ersten preußischen Besitzzeit des Netzedistrikts für den Bau
 ---
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c06">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c06">IV. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-### **IV. Kapitel.**
+## **IV. Kapitel.**
 
 Die bäuerliche Gesetzgebung für Südpreußen von 1793 bis 1806\.
 
@@ -982,7 +979,7 @@ Gleich nach Ausbruch des Krieges von 1806 wurden die preußischen Behörden der 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### **Chapter IV.**
+## **Chapter IV.**
 
 The Peasant Legislation for South Prussia from 1793 to 1806\.
 
@@ -1100,15 +1097,12 @@ Immediately after the outbreak of the war of 1806, the Prussian authorities of t
 ---
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c07">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c07">V. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-### **V. Kapitel.**
+## **V. Kapitel.**
 
 Einiges über die Prästationsverhältnisse der Bauern Südpreußens.
 
@@ -1174,7 +1168,7 @@ Daher rührt wahrscheinlich die ganze, am Schlüsse des vorigen Kapitels erwähn
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### **Chapter V.**
+## **Chapter V.**
 
 Some Insights into the Service Obligations of the Farmers of South Prussia.
 
@@ -1238,15 +1232,12 @@ This is probably the source of the entire difference in legislation between Sout
 ---
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage has-related" id="p-c08">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c08">VI. Kapitel.</a></h2>
 <div class="lit-orig" lang="de" markdown="1">
 
-### **VI. Kapitel.**
+## **VI. Kapitel.**
 
 Die Zeit des Großherzogthums Warschau 1807—1815.
 
@@ -1732,7 +1723,7 @@ Datum in residentia nostra Kaszczorensi anno 1766 die 21 decembris. Johannes Szo
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### **Chapter VI.**
+## **Chapter VI.**
 
 The Time of the Grand Duchy of Warsaw 1807–1815.
 
@@ -2208,11 +2199,12 @@ Datum in residentia nostra Kaszczorensi anno 1766 die 21 decembris. Johannes Szo
 <span class="lit-note" id="n-en-189">189</span> Knapp a. a. O. Theil II S. 147-163.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Guradze (1898) datiert das Ende der Erbuntertänigkeit im Herzogtum Warschau auf die Konstitution vom 22. Juli 1807 und das Dekret des Königs Friedrich August vom 24. Dezember 1807, das die Aufhebung dessen vollzog, was Artikel 4 der Konstitution esclavage nannte — ein Dekret, das derselbe Absatz des Buchs wenige Zeilen später eines vom 21. Dezember nennt. Der Erbpachtvertrag von 1805/6 über den Wald von Drzewce hatte seine achtzehn Erbpächter zwei Jahre davor von der Erbuntertänigkeit freigestellt, durch seinen eigenen Paragraphen 13 — die Freiheit, die das Dekret des Herzogtums dann allgemein machte.</p>
 <p class="lit-related-docs"><a href="{{ '/documents/app539680801/3/' | relative_url }}">53/968/0/-/801, Dokument 3 (21. März 1806)</a></p>
 </aside>{% raw %}
 </section>
+</div>
+</div>
 {% endraw %}

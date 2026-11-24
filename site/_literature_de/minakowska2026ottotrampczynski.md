@@ -7,13 +7,18 @@ alt_url: "/literature/minakowska2026ottotrampczynski/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-front">Titel</a> <a href="#p-c01">śluby i dzieci, wnuki, i do prawnuków</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<ol>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
+<div class="pg"><a href="#p-front">Titel</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Wojciech Otto-Trąmpczyński (ID: sw.35437)  
@@ -29,15 +34,12 @@ Born probably in 1560
 died
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c01">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c01">śluby i dzieci, wnuki, i do prawnuków</a></h2>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### śluby i dzieci, wnuki, i do prawnuków
+## śluby i dzieci, wnuki, i do prawnuków
 żona (ślub: około 1590): Anna Cerekwicka ?1570-, dzieci  
 Stanisław ?1600-  
 & Anna Słonecka z Słonczyc ?1630-1662/  
@@ -62,7 +64,7 @@ Zofia Debrzyńska z Błogowa h. Nałęcz (odm.) ?1640- \|
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Marriages and children, grandchildren, and to the great-grandchildren
+## Marriages and children, grandchildren, and to the great-grandchildren
 
 Wife (married: about 1590): Anna Cerekwicka ?1570-, children  
 Stanisław ?1600-  
@@ -86,6 +88,7 @@ Zofia Debrzyńska of Błogowo, arms Nałęcz (odm.) ?1640- \|
 & Mikołaj Grylewski, arms Topór ?1650-
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

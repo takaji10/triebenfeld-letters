@@ -7,13 +7,21 @@ alt_url: "/de/literatur/zychlinski1891/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-219">219</a> <a href="#p-220">220</a> <a href="#p-221">221</a> <a href="#p-222">222</a> <a href="#p-223">223</a> <a href="#p-224">224</a> <a href="#p-225">225</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-219">pp. 219–223</a></li>
+<li class="l1"><a href="#p-224">pp. 224–225</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-219">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-219">p. 219</a></h2>
+<section class="lit-passage" id="p-219" data-page="219">
+<div class="pg" id="p219"><a href="#p219">p. 219</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Hr. **Stanisław** Adam (XI pok.), *pułkownik b. wojsk polskich, adjutant księcia Józefa Poniatowskiego, kawaler krzyża Virtuti militari,* dziedzic Trąbczyna, Wieńca, Brzezia, Dobielewa, Jaronówka, Pawłowa, Dzwonowa, Kolna, Berenbusza i Kamionny, ur. dnia 24 grudnia 1780 r., zmarły w Berlinie dnia 22 kwietnia 1845 r. Ztąd jego zwłoki przewieziono do kaplicy grobowéj Miączyńskich w Trąbczynie i tu pochowano. Młodzieńcem wstąpił do szeregów wojsk napoleońskich do gwardyi W. Księcia Bergu i Kliwii, późniejszego króla obojga
@@ -24,12 +32,10 @@ Hr. **Stanisław** Adam (XI pok.), *pułkownik b. wojsk polskich, adjutant księ
 Count **Stanisław** Adam (11th generation), *colonel of the former Polish army, adjutant of Prince Józef Poniatowski, knight of the cross Virtuti militari,* heir of Trąbczyn, Wieniec, Brzeź, Dobielewo, Jaronówek, Pawłowo, Dzwonowo, Kolno, Berenbusz and Kamionna, born 24 December 1780, died in Berlin on 22 April 1845. From there his body was taken to the burial chapel of the Miączyńskis at Trąbczyn and buried there. As a young man he joined the ranks of Napoleon's armies, in the guard of the Grand Duke of Berg and Cleves, later king of the Two
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-220">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-220">p. 220</a></h2>
+<section class="lit-passage" id="p-220" data-page="220">
+<div class="pg" id="p220"><a href="#p220">p. 220</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Sycylii, poczém przez „wzgląd na jego zdatność“ mianowany dnia 2 września przez księcia Józefa Poniatowskiego kapitanem nadliczbowym, do sztabu generalnego wojsk Księstwa Warszawskiego przeniesiony został. Wskutek odznaczenia się na tém stanowisku przy prowadzeniu szwadronu straży przedniéj, postąpił rozkazem ministra wojny z dnia 24 listopada 1809 r. na szefa szwadronu w stopniu podpułkownika i adjutanta przy boku księcia Józefa. Z okazyi téj nominacyi, zatwierdzonéj przez Księcia Warszawskiego, Króla Fryderyka Augusta Saskiego, na dniu 11 grudnia t. r., i rozwiązania chorągwi t. z. „Przewodnich“, wydał książę następujący, nader pochlebny dla Stanisława Miączyńskiego:
@@ -120,12 +126,10 @@ Worn out [printed "Stérauy", for Stérany] by the hardships of the Moscow campa
 The discharge he asked for was issued, with the rank of colonel, on 25 January 1812; after which Count Stanisław went first to Dresden, and then settled on his wife's estates at Trąbczyn in the Kalisz country. — For already earlier,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-221">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-221">p. 221</a></h2>
+<section class="lit-passage has-related" id="p-221" data-page="221">
+<div class="pg" id="p221"><a href="#p221">p. 221</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 jako świetny i aureolą męztwa otoczony oficer, poznał w stolicy bogatą i młodą, pełną cnót znakomitych wdowę, Michalinę z **Ostrorogów Prasimskich** Józefową hrabinę Dąmbską, córkę Antoniego, starosty nieszczewickiego i Maryanny z Dąmbskich herbu Godziemba,<sup class="lit-fn"><a href="#n-pl-1">1</a></sup> kasztelanki kowalskiéj (zob. R. I str. 59; R. VII str. 188), i pozyskawszy jéj serce, zaślubił ją w sierpniu 1809 roku. Intercyzę — mocą któréj Michalina z Prusimskich hr. Józefowa Dąmbska zapisuje przyszłemu mężowi swemu wszystkie zwyż wymienione majątki, hr. Stanisław zaś przyszłéj żonie swéj zabezpiecza z summy 100,000 złp. z działu po matce już odebranéj, 90,000 złp. na dobrach Ignacego hr. Miączyńskiego, starosty kamienopolskiego zabezpieczonych, a resztę 10,000 złp. ulokowanych na majątku hr. Józefa Ossolińskiego, swego ojczyma i przyrzeka resztę macierzyńskiego działu po najdłuższém życiu matki także zlać na żonę, ogółem w kwocie 280,000 złp.; — podpisali: Stanisław hrabia Miączyński, Michalina z Prusimskich Dąmbska, w imieniu żony, Teresy z Rafałowiczów pmo voto Miączyńskiéj, Józef hr. Ossoliński, Józef Nowicki, pułkownik, Adam Broniec, Agnieszka z Dąmbskich hr. Skarbkowa, Walenty Skorochód Majewski, notaryusz i t. d.
@@ -148,7 +152,6 @@ The couple lived very happily, now on the Trąbczyn estates in the Kalisz countr
 <span class="lit-note" id="n-en-1">1</span> She died at Padua on 2 September 1797, aged 38, and was buried there on 5 September, with a tombstone raised by her husband in the church of St Anthony. Author's note.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>Żychliński (1891) says that Michalina, born Prusimska, the widow of Count Józef Dąmbski, married Count Stanisław Miączyński in August 1809 and brought him the Trąbczyn estates. In the letters to and from the Prince of Hohenlohe of 1814 and 1815 she is "the Moscinska born Prusimska", who holds the estates given back to her in 1807 and stands high in favour with the Russian governor general Lanskoy; a letter of 2 February 1815 says that "Moscinski, husband of the born Prusimska" and Lanskoy are bosom friends. Moscinski is the letters' form of Miączyński. The letters give no date for the marriage.</p>
@@ -158,9 +161,8 @@ The couple lived very happily, now on the Trąbczyn estates in the Kalisz countr
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-222">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-222">p. 222</a></h2>
+<section class="lit-passage has-related" id="p-222" data-page="222">
+<div class="pg" id="p222"><a href="#p222">p. 222</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Koss, ur. dnia 21 marca 1825 r., córkę Ferdynanda i Pauliny Radzimińskiéj, wojewodzicówny gnieźnieńskiéj, z którą kontrakt ślubny zawarł dnia 16 listopada 1847 r. przed sądem w Wągrówcu, a którą przedwcześnie utracił dnia 15 sierpnia 1858 roku. Zgon ukochanéj żony tak boleśnie nań oddziałał, iż odtąd coraz bardziéj upadał na siłach. Tknięty paraliżem, przysposobiwszy się na śmierć z wielką pobożnością która go nigdy nieodstępowała w życiu, zasnął w pokoju, otoczony dziećmi, dnia 31 października 1869 r. w Pawłowie, pochowany w Trąbczynie. Z trojga jego dzieci poprzedziła go do grobu córka **Stanisława**, ur. 1848 r., zmarła 1860 r. Pozostało dwoje:
@@ -199,7 +201,6 @@ Countess **Marya** Józefa Felicya, born 8 February 1888 at Włocławek.
 "The late Włodzimierz, son of a powerful family known throughout the country, did not, it is true, take a prominent part in public life; but as a citizen of rare uprightness of character, of steady and conscientious work, and of great love of his native soil and its tradition, he was everywhere held up as a model to the younger generations. Brought up with great care in his parents' house and in the then famous school of the Piarists at Żoliborz, at seventeen he went to Kraków to complete his studies at the Jagiellonian University. The events of 1830 broke off the course of his further studies and condemned Count Włodzimierz, with his elder brother Count Aleksander, to a stay of many years abroad. When at last he was allowed to return to his native home, Count Włodzimierz, having taken over the family estate of Trąbczyn in the Konin country, gave himself with extraordinary zeal to the care of the piece
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>Żychliński (1891) says that Count Włodzimierz Miączyński, an officer of 1831, held the Trąbczyn estate, which he bought from his brother Mieczysław after his return from exile, and that he died at Trąbczyn, unmarried, in December 1879. The printed summons of 19 October 1860 is issued at the demand of "Włodzimierz Count Miączyński, heir of the Trąbczyn estates, living in the village of Trąbczyn", in his counterclaim against the colonists of Trąbczyn.</p>
@@ -207,9 +208,8 @@ Countess **Marya** Józefa Felicya, born 8 February 1888 at Włocławek.
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-223">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-223">p. 223</a></h2>
+<section class="lit-passage" id="p-223" data-page="223">
+<div class="pg" id="p223"><a href="#p223">p. 223</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ziemi ojczystéj, który nań spadł po przodkach w udziale i stał się, choć całe życie niemal dotąd pędził za granicą w stolicach pierwszorzędnych, wzorowym rolnikiem i prawdziwym ojcem swych włościan. Nieraz rodzina sama i przyjaciele namawiali go, by ze względu na słabość zdrowia porzucił kłopoty wiejskiego gospodarstwa; zawsze na to odpowiadał, że najświętszym obowiązkiem polskiego obywatela strzeżenie powierzonego mu kawałka rodzinnéj ziemi i utrzymywanie z polskim kmiotkiem tego stósunku wzajemnego zaufania i przywiązania, który jedynie brać młodszą ocalić może od zdradliwych podszeptów wrogich żywiołów. Ś. p. Włodzimierz Miączyński wytrwale aż do zgonu trzymał się téj zasady i dla tego samego już należy mu się cześć.
@@ -240,12 +240,10 @@ of native soil that had fallen to his share from his forebears, and became, alth
 3\. Count **Mieczysław** (12th generation), born 13 February 1818, heir of the estates of Wieniec and Izbica in the Kingdom of Poland, married Marya **Słubicka** of the Prus I arms, born 1828, died 18 October 1865, buried at Trąbczyn, daughter of August, general of the former Polish army [printed "wojsk wojsk", the word twice], and of Łucya née Countess Zboińska, daughter of a voivode. Of this marriage there was only one daughter, Countess Zdzisława, born 10 June 1851, who died in the flower of her age on 23 August 1876, wife of the late Zbigniew Dzierzykraj **Morawski** of the Nałęcz arms, son of Józef, member of the Prussian House of Lords, former director-general of the Old Landschaft of Posen, and of Eugenia née Dzierzykraj Morawska, daughter of Józef, referendary of state, and of Paula née Countess Łubieńska. Zbigniew Morawski, a man of great gifts, died in June 1889, leaving two little daughters, Joanna and Zdzisława Morawska,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-224">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-224">p. 224</a></h2>
+<section class="lit-passage" id="p-224" data-page="224">
+<div class="pg" id="p224"><a href="#p224">p. 224</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dziedziczki Wieńca i Izbicy. Hr. Mieczysław znany kompozytor znanych w całym kraju, osnutych na tle pieśni ludowych „Kujawiaków“, zakończył życie nagle dnia 16 marca 1887 roku w Włocławku i tamże został pochowany. Otrzymawszy jak najstaranniejsze w domu rodzicielskim i w pierwszorzędnych zakładach naukowych wychowanie, zwiedziwszy następnie obce stolice i kraje, powrócił ś. p. Mieczysław na ojczystą ziemię młodzieńcem, uposażonym bogato w wszelkie przymioty, które otwierają wstęp do najpierwszych towarzystw i czynią ulubieńcem salonów. Znakomity ród, fortuna dostatnia, postać wspaniała i prawdziwie pańska, twarz o rysach regularnych i pięknych, rzadka uprzejmość i serdeczność w obejściu, ujęta w formy jak najwykwintniejsze, a przytém urok tchnącéj poezyą duszy, odczuwającéj wszystko, co wzniosłe, lubującéj się mianowicie we wszystkiém, co ojczyste, wreszcie niepospolity artyzm muzyczny, zjednały ś. p. Mieczysławowi szerokie koło przyjaciół i zdobyły mu rękę zarówno pięknéj, jak niewieściemi cnotami jaśniejącéj dziewicy. Niczém niezakłócone szczęście domowe przerwała śmierć ukochanéj żony, a w 12 lat późniéj jedynaczki córki po dwuletniém zaledwie z mężem pożyciu. Jednocześnie niemal z zagaśnięciem téj jasnéj gwiazdy w osamotnioném wdowiém życiu, zgasł i wzrok hr. Mieczysława. Ociemniał, ale i ten grom straszliwy nie zdołał złamać jego życia. Przeciwnie żył odtąd zdwojoném życiem wewnętrzném. Na twarzy rozlała się pogoda czystego sumienia i prawości charakteru, umysł zachował świeżość młodzieńczego polotu, który płynął z pod jego palcy szerokim strumieniem melodyi, gdy w tęsknych godzinach samotności siadł do fortepianu, lub tryskał bystrością poglądów, głębszą nauką i znajomością świata i ludzi, oraz nie raniącym nikogo dowcipem, gdy się znalazł w kole krewnych, przyjaciół i znajomych. Trzeba było podziwiać nieraz tego sędziwego, ale czerstwego starca, który najdotkliwsze na ziemi kalectwo umiał znosić z takim spokojem ducha i z taką swobodą! Głęboko przywiązany, jak już wspomnieliśmy do ojczystéj ziemi i jéj tradycyi, znał wybornie literaturę polską i rozkoszował się jéj skarbami. Lubił się wsłuchiwać w pieśni wieśniaczego ludu i z téj przędzy gminnéj, z tych prostych uczuć kwiecia wysnuwał i układał następnie swe „Kujawiaki“, naprzemian smętne i rzewne, jak szmer cichy wiosennego deszczu, lub pełne tego dziarskiego zacięcia, jakiemi się melodye naszego ludu odznaczają. To téż Miączyńskiego „Kujawiaki“ pozostaną dlań zawsze trwałym w dzisdzinie muzyki polskiéj pomnikiem i tworzyć będą cenne źródło pieśni gminnéj dla przyszłych naszych kompozytorów. Była to natura szlachetna i silna, był to dawnych wieków dąb śród dzisiejszego skarłowaciałego pokolenia i padł téż do ostatniéj chwili burzą nieszczęść niezachwiany, jak dąb potężny, którego tylko nagły z nieba grom, lub sroga, podstępna siekiera powalić zdolną o ziemię.
@@ -268,12 +266,10 @@ heiresses of Wieniec and Izbica. Count Mieczysław, the known composer of the "K
 "The Council of State, in the Department of Civil and Ecclesiastical Affairs, having examined the decision of the Ruling Senate, Department of Heraldry, on the comital dignity of the Miączyński family, considered: 1) that the ancestor of this family, Atanazy Miączyński, was raised by the Roman Emperor Leopold I, in the year 1683, to the dignity of count; 2) that the descent from him of the present petitioners is attested by the documents they have submitted; 3) that the petitioners have been entered by the Heraldry of the Kingdom of Poland in the books of the nobility of the Kingdom. In consequence the Ruling Senate, in conformity with the law of 1840 on honorary dignities in the Kingdom of Poland, art. 16, 17 and 25, confirmed by the Emperor, of 30 June 1847, the resolution of the Council of State, point 1, and the annex to art. 56 (note), vol. IX of the Code of Laws of 1857, point 4, **resolved**: to the noblemen Mieczysław and Witold Michał (two names) Miączyński, with the right to their descendants, in accordance with [the note continues on p. 226, which is not in the editor's copy]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-225">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-225">p. 225</a></h2>
+<section class="lit-passage" id="p-225" data-page="225">
+<div class="pg" id="p225"><a href="#p225">p. 225</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Hr. **Michalina**, ur. 1848 r., małżonka Ambrożego **Zaborowskiego**, senatora Królestwa Polskiego, rzeczywistego radzcy stanu i ces. król. szambelana, dziedzica dóbr Pińczyc.
@@ -308,6 +304,7 @@ Countess **Marya**, born 26 September 1862, married on 20 May 1885 at Warsaw Wł
 <span class="lit-note" id="n-en-3">1</span> Our information on Count Witold's sons goes to 1885; we therefore do not know whether they have more children. Author's note.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

@@ -7,13 +7,20 @@ alt_url: "/literature/janocki1779/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-159">159</a> <a href="#p-160">160</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-159">S. 159–160</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-159">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-159">S. 159</a></h2>
+<section class="lit-passage" id="p-159" data-page="159">
+<div class="pg" id="p159"><a href="#p159">S. 159</a></div>
 <div class="lit-orig" lang="la" markdown="1">
 
 LXXVII.
@@ -44,12 +51,10 @@ The Cracow edition of the year 1701 the learned men of Leipzig reviewed, with de
 II.) THE BOUNDARY PROCESS OF THE LAW OF THE KINGDOM OF POLAND. By Stanisław Lochowski, notary of the castle of Opoczno. Cracow, in the printing shop of Franciscus Caesarius. In the year of the Lord 1641. Quarto.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-160">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-160">S. 160</a></h2>
+<section class="lit-passage" id="p-160" data-page="160">
+<div class="pg" id="p160"><a href="#p160">S. 160</a></div>
 <div class="lit-orig" lang="la" markdown="1">
 
 Librum hunc perutilem, Nobilibusque Polonis pernecessarium: sed inventu olim in Polonia ipsa difficillimum; aetate nostra MARTINUS PACIORKOWSKI bis curavit recudendum. Qui tamen, oppresso LOCHOWSKII auctoris veri nomine, temere atque insolenter opus sibi ipsi tribuit, inscriptione eiusmodi praefixa:
@@ -86,6 +91,7 @@ IV.) THE FORM, FORCE AND EFFECT OF THE GENERAL ASSEMBLIES OF THE KINGDOM OF POLA
 A most rare little book. The letter prefixed to it, to CHRISTOPHORUS SULOWSKI, Palatine of Rawa: the author himself, STANISLAUS LOCHOWSKI, notary of the castle of Opoczno, subscribed it at Miedzyborze on the eleventh day of the month of January, 1644.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

@@ -7,13 +7,20 @@ alt_url: "/literature/werner1904/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-front">Titel</a> <a href="#p-422">422</a> <a href="#p-423">423</a> <a href="#p-424">424</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-422">S. 422–424</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
+<div class="pg"><a href="#p-front">Titel</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Geschichte  
@@ -66,12 +73,10 @@ Friedrich Ebbecke's publishing house.
 1904.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-422">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-422">S. 422</a></h2>
+<section class="lit-passage" id="p-422" data-page="422">
+<div class="pg" id="p422"><a href="#p422">S. 422</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 201. Wreschen. (Diözese Posen I.)
@@ -90,12 +95,10 @@ Soon after the beginning of the eighteenth century Evangelicals seem to have liv
 In 1822 the church, which had become very dilapidated, was rebuilt from the ground up, for which the lord of the estate Poniński gave generous help; it had massive enclosing walls and a massive tower in the lower storeys. For its further furnishing the Gustav Adolf Verein granted help of 500 Mark in 1883. A new church nevertheless had to be
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-423">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-423">S. 423</a></h2>
+<section class="lit-passage" id="p-423" data-page="423">
+<div class="pg" id="p423"><a href="#p423">S. 423</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Jahre 1895 erbaut werden. Dieselbe wurde am 27. September desselben Jahres durch den Generalsuperintendenten D. Hesekiel geweiht. Sie hat 67500 Mark gekostet. Zu der Bausumme haben beigesteuert: Der Evangelische Ober-Kirchenrat 3000 Mark, der Gustav-Adolf-Frauenverein in Bremen 1000 Mark, die Provinzialsynode aus der Provinzialnotstandskollekte vom Jahre 1893 1000 Mark, Gustav-Adolf-Vereine 14000 Mark, außerdem brachte eine Lotterie 1158,05 Mark.
@@ -142,12 +145,10 @@ The pastorate has been held by:
 6. Friedrich Wilhelm Gotthelf Vogel, born at Primkenau in the government district of Liegnitz, entered his office here in 1835. The days of terror which April 1848 brought the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-424">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-424">S. 424</a></h2>
+<section class="lit-passage" id="p-424" data-page="424">
+<div class="pg" id="p424"><a href="#p424">S. 424</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 deutschen Einwohnern von Wreschen brachte, zwangen ihn mit seiner Familie zur Flucht, und diese zog zweien seiner frisch daniederliegenden Kinder den Tod zu. Auch sein früher Tod scheint eine Folge der ausgestandenen Leiden gewesen zu sein. Er starb am 24. Dezember 1849, 41 Jahre alt.
@@ -178,6 +179,7 @@ German inhabitants of Wreschen forced him to flee with his family, and they brou
 On 1 May 1894 an assistant preacher was sent here in the person of the hitherto assistant curate Emil Gellert. When he was called in the same year still to Gogolin, Traugott Schent took his place. The latter was called in 1895 to be pastor of Lindenwald, whereupon Martin Sänger was sent here.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

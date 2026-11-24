@@ -7,13 +7,21 @@ alt_url: "/literature/rostworowski1918/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-303">303</a> <a href="#p-304">304</a> <a href="#p-321">321</a> <a href="#p-322">322</a> <a href="#p-323">323</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-43">S. 43–303</a></li>
+<li class="l1"><a href="#p-304">S. 304–323</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage has-related" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">S. 43</a></h2>
+<section class="lit-passage has-related" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">S. 43</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […]
@@ -40,7 +48,6 @@ Present His Excellencies President Małachowski, Gutakowski, Stanisław Potocki,
 After deliberating the queries of the Administrative Chamber of the Department of Poznań, that is, in what manner the January instalment
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Sitzung vom 13. Februar überweist Dąbskas Memorial dem Justizdirektor, damit er allgemeine Regeln für die unter der früheren Regierung konfiszierten Güter vorschlage. Die Akte hält ihre Briefe vom Juli 1807, nicht aber dieses Memorial; ihr Brief vom 20. Juli an die Kommission in Dresden sagt, sie habe schon zweimal um die Güter gebeten, die ihrem Vater zugunsten der preußischen Generale genommen waren — das Bitten, das die Februareinträge des Dziennik verzeichnen.</p>
@@ -48,9 +55,8 @@ After deliberating the queries of the Administrative Chamber of the Department o
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">S. 44</a></h2>
+<section class="lit-passage has-related" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">S. 44</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 24 grosza y rata Marcowa Kominowego mają być zapłacone, y po przeczytaniu w tej mierze opinii przeszłego Dyrektora Skarbu Małachowskiego, udecydowano przez rezolucyą in actis, ażeby ta cała kwestya równie jak y względem następnych rat podatkowych 24 grosza y kominowego, po uformowanie projektu jeszcze do JW. Dyrektora Wewnętrznego jako Zastępcy Skarbowego była odesłana.
@@ -85,7 +91,6 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Eintrag schließt die Überweisung ab: das Memorial, mit der Empfehlung, der Direktor lege einen Entwurf allgemeiner Regeln über die Konfiskationen vor. Ihr Brief vom 20. Juli 1807 — das erneute Bitten um Trąbczyn, Kamionna, Kolna, Pawłowa, Pawłówka und das Magazin in Włocławek — ist dieselbe Bittschrift in Dresden, nachdem die Kommission dorthin gezogen war.</p>
@@ -93,9 +98,8 @@ Stanisław Małachowski, President.
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">S. 54</a></h2>
+<section class="lit-passage has-related" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">S. 54</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […]
@@ -126,7 +130,6 @@ The memorials of Mr. Podgurski, asking that it be permitted him to deliver the r
 Upon receiving from His Excellency the Director of Justice, on the memorial of Michalina née Prusimska Dąbska sent to him, his opinion that the petition she brought, with regard to the return of the estates confiscated by the past government, is a matter
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Meinung des Justizdirektors vom 18. Februar — die Rückgabe der Güter „eine Sache von rein politischem Charakter", die nicht den gewöhnlichen Weg der Gerichte gehen könne — ist der Eintrag, den der Entwurf der Resolution vom 21. Juli beantwortet: er erstreckt das kaiserliche Dekret von Finckenstein auf ihren Fall und schickt die konfiszierten Güter an ihre wahren Eigentümer zurück.</p>
@@ -134,9 +137,8 @@ Upon receiving from His Excellency the Director of Justice, on the memorial of M
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">S. 55</a></h2>
+<section class="lit-passage has-related" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">S. 55</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 jedynie politycznym, a jako wypływającym z woli Samowładnego Monarchy, gdy prawa na takowe przypadki milczą, zwyczajną drogą sądownictwa iść nie może, Komisya udecydowała podanie noty do Najj. Cesarza y Króla, z prośbą o zniesienie tych konfiskat, y powrót dóbr dawnym prawym właścicielom. Wyszło przytem zalecenie do JW. Dyrektora Wewnętrznego, ażeby nakazał Izbom Administracyjnym pilne baczenie na stan tych dóbr, y strzeżenie, aby od teraźniejszych posiedzicielów rujnowane nie były. Wyciąg tego artykułu Dziennika, z komunikacyą w kopii zalecenia do Dyrektora Wewnętrznego JP. Dąbskiej w odpowiedzi na jej memoryał Komisya wydać rozkazała.
@@ -163,7 +165,6 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Beschluss der Kommission — den Kaiser um Aufhebung der Konfiskationen zu bitten, und die Administrativen Kammern die Güter beaufsichtigen zu lassen — ist, was der Entwurf des Dekrets vom 21. Juli 1807 ausführt: das kaiserliche Dekret für Wybicki auf Dąbska erstreckt, damit ihre erblichen Güter an ihre wahren Eigentümer zurückkehren.</p>
@@ -171,9 +172,8 @@ Stanisław Małachowski, President.
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-303">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-303">S. 303</a></h2>
+<section class="lit-passage has-related" id="p-303" data-page="303">
+<div class="pg" id="p303"><a href="#p303">S. 303</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […]
@@ -204,7 +204,6 @@ Whereas the affair of Madame Michalina née Prusimska Dąbska, demanding the ret
 Inclining to the petition of Mr. Batowski, on the motion of His Highness the Prince Director of War, present at this sitting, it was permitted
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Das Protokoll der außerordentlichen Sitzung vom 21. Juli 1807 in Dresden im Dziennik sagt, die Kommission habe, dem Beispiel des kaiserlichen Dekrets vom 5. Juni folgend, das in Finckenstein für Wybicki erging, das Dekret auf die Fälle von Michalina Dąbska, General Niemojewski und Wichrowski erstreckt, damit ihre erblichen, vom früheren preußischen Staat konfiszierten Güter an ihre wahren Eigentümer zurückkehren. Das Register trägt die Resolution selbst, vom 21. Juli und unterschrieben von Małachowski und Łuszczewski, in fast gleichem Wortlaut; es schreibt „z Prusińskich Dambskiey“, wo der Druck „z Prusimskich Dambskiej“ hat. Die Akte enthält den Entwurf desselben Tages. Ihr Brief vom 23. Juli nimmt das Dekret vom 5. Juni als Grundsatz und Vorbild des Dekrets der Kommission und bittet, die Administrativen Kammern anzuweisen, sie, wie Wybicki, in die Güter einzuführen.</p>
@@ -212,9 +211,8 @@ Inclining to the petition of Mr. Batowski, on the motion of His Highness the Pri
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-304">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-304">S. 304</a></h2>
+<section class="lit-passage" id="p-304" data-page="304">
+<div class="pg" id="p304"><a href="#p304">S. 304</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 temuż JP. Batowskiemu, nosić mundur Gwardyi Narodowej, y używać znaków do szarży Pułkownika przywiązanych.
@@ -233,12 +231,10 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-321">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-321">S. 321</a></h2>
+<section class="lit-passage" id="p-321" data-page="321">
+<div class="pg" id="p321"><a href="#p321">S. 321</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […]
@@ -293,12 +289,10 @@ The Director of the Interior brought in orally and showed the original letters, 
 Mr. Daru has requisitioned that magazines of food be established in Warsaw; the French authorities were asked, through Mr. the Director of the Interior, what funds there are to be for this?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-322">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-322">S. 322</a></h2>
+<section class="lit-passage has-related" id="p-322" data-page="322">
+<div class="pg" id="p322"><a href="#p322">S. 322</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Różne partykularne petita brevi manu rezolwowane.
@@ -337,7 +331,6 @@ The Governor reports that peace between the Emperor of the French and the Empero
 At the sitting, those gathered wished to know how they ought to conduct themselves when Mr. Kamieniecki comes to the sitting, whether as Deputy Director he may take a seat? To this end there was read the Commissorium given to the General Directorium on the 10th of the month, in which the Governing Commission names expressly His Excellency Dembowski as having the right of a seat in the Directorium, as presiding in the Treasury Administration; besides that we looked into the establishment of that same Administration, in which it is set down that His Excellency Dembowski by his office is to sit in the Directorium
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Das Protokoll Nr. 3 des Directorium vom 15. Juli 1807, in der ersten Person geschrieben vom Polizeidirektor Łubieński, meldet, sehr viele reisten nach Dresden – "Dąmbska, Kownacka, Węgrzecki, Bórakowski" unter ihnen – und daß der Regierung täglich gemeldet werden müsse, wer dort ankommt. Sie war binnen der Woche in Dresden: ihre Briefe vom 20., 21. und 23. Juli 1807 an die Regierungskommission und an den Kaiser sind alle in Dresden geschrieben, die Briefe vom 20. und 23. Juli unterzeichnet "Michalina z Prusimskich Dambska", der Brief vom 21. Juli an den Kaiser französisch "Micheline Dambska née Prusimska" unterzeichnend, der letzte mit der Kenntnis des Dekrets der Kommission vom 21. Juli.</p>
@@ -345,9 +338,8 @@ At the sitting, those gathered wished to know how they ought to conduct themselv
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-323">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-323">S. 323</a></h2>
+<section class="lit-passage" id="p-323" data-page="323">
+<div class="pg" id="p323"><a href="#p323">S. 323</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ; jasna zatym wola w tym była Rządu. Przeczytaliśmy następnie rezolucyą Komisyi Rządzącej dozwalającą X-ciu Direktorowi Wojny oddalenia się wydaną d. 11 t. m. a zatym nazajutrz po danym Directorio commissorium; jednakże znaleźliśmy wielką różnicę; tam p. Dembowski wyraźnie jest naznaczony do zasiadania, tu p. Kamieniecki jest Zastępcą Direktora Wojny, lecz z dwoma przydanemi oficerami; trzech zaś do Directorium wpuszczać niepodobna. Umyśliliśmy zatym czekać w tym prędkiej i wyraźnej woli Kom. Rządzącej, czy ma p. Kamieniecki zasiadać jako Zastępca Direktora Wojny między nami, lub nie; nic albowiem nie chcemy sobie pozwolić nad moc udzieloną, a rzecz publiczna na tym nie cierpi, gdyż zawsze jest przepisany komplet.
@@ -406,6 +398,7 @@ All nominated according to law; there is needed only the approval of the Governm
 […]
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

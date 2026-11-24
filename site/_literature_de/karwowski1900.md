@@ -7,13 +7,19 @@ alt_url: "/literature/karwowski1900/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-87">87</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-87">S. 87</a></h2>
+<section class="lit-passage" id="p-87" data-page="87">
+<div class="pg" id="p87"><a href="#p87">S. 87</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […] W tym razie Panny postąpiły sobie nieostrożnie, bo miasto Zagórów i należące do niego włości były przez poprzedniego dziedzica, księcia Hohenlohe-Ingelfingen, obdłużone na 2,000,000 złp., Ignacy Trzciński zaś kupił je w r. 1812 z ciążącymi na nich długami, które, jako jeszcze z r. 1805 pochodzące i z hipoteki pruskiej przeniesione, pierwsze miejsce w hipotece nowej regulacyi otrzymały. Na samem mieście Zagórowie, za które Trzciński dał 78,000 złp., było długów 300,000 złp. Nic więc dziwnego, że wśród takich okoliczności Trzciński nie mógł się utrzymać przy dobrach zagórskich, które nabył dnia 1 września 1827 r. za 1,000,000 złp. na publicznej licytacji Karol Bogumił Weygel, bankier wrocławski, przyczem z 120,000 złp., które miał na nich zahipotekowane, uratował tylko 56,879 złp., z resztą zaś spadł, a po nim wszyscy inni wierzyciele hipoteczni.
@@ -36,6 +42,7 @@ Thus the sum of 40,000 Polish gulden was lost to the Cistercian Nuns, together w
 […]
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

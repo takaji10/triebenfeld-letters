@@ -7,16 +7,31 @@ alt_url: "/de/literatur/mielewczyk2017/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-45">45</a> <a href="#p-46">46</a> <a href="#p-47">47</a> <a href="#p-48">48</a> <a href="#p-49">49</a> <a href="#p-50">50</a> <a href="#p-51">51</a> <a href="#p-52">52</a> <a href="#p-53">53</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-56">56</a> <a href="#p-57">57</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-41"><span class="toc-e">Changes in rural space in the second half of the 19th and early 20th centuries as exemplified by selected maps from the collections of the National Museum of Agriculture and Agro-Food Industry in Szreniawa</span><span class="toc-o" lang="pl">Zmiany przestrzeni wsi w drugiej połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie</span> <span class="toc-p">p. 41</span></a></li>
+<li class="l1"><a href="#p-41"><span class="toc-e">1. The changes in the countryside in the 19th century</span><span class="toc-o" lang="pl">1. Przemiany na wsi w XIX wieku</span> <span class="toc-p">p. 41</span></a></li>
+<li class="l1"><a href="#p-41"><span class="toc-e">1.1. The Prussian partition</span><span class="toc-o" lang="pl">1.1. Zabór pruski</span> <span class="toc-p">p. 41</span></a></li>
+<li class="l1"><a href="#p-45"><span class="toc-e">1.2. The Russian partition</span><span class="toc-o" lang="pl">1.2. Zabór rosyjski</span> <span class="toc-p">p. 45</span></a></li>
+<li class="l1"><a href="#p-51"><span class="toc-e">2. The changes in the countryside in the interwar period</span><span class="toc-o" lang="pl">2. Przemiany na wsi w okresie międzywojennym</span> <span class="toc-p">p. 51</span></a></li>
+<li class="l1"><a href="#p-54"><span class="toc-e">3. Conclusion</span><span class="toc-o" lang="pl">3. Zakończenie</span> <span class="toc-p">p. 54</span></a></li>
+<li class="l1"><a href="#p-55"><span class="toc-e">Literature</span><span class="toc-o" lang="pl">Literatura</span> <span class="toc-p">p. 55</span></a></li>
+<li class="l1"><a href="#p-55"><span class="toc-e">Cartographic sources</span><span class="toc-o" lang="pl">Źródła kartograficzne</span> <span class="toc-p">p. 55</span></a></li>
+<li class="l1"><a href="#p-57"><span>Changes the villages space in the second half of the nineteenth and early twentieth centuries on selected maps from the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa</span> <span class="toc-p">p. 57</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">p. 41</a></h2>
+<section class="lit-passage" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">p. 41</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Zmiany przestrzeni wsi w drugiej połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie
+## Zmiany przestrzeni wsi w drugiej połowie XIX i na początku XX wieku na przykładzie wybranych map ze zbiorów Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie
 
 **Wojciech Mielewczyk**
 
@@ -30,9 +45,9 @@ Przemiany zachodzące na wsi znajdowały swoje odzwierciedlenie i udokumentowani
 
 **Słowa kluczowe:** mapy wielkoskalowe, wieś, przestrzeń wiejska, reforma rolna, źródło historyczne
 
-### 1. Przemiany na wsi w XIX wieku
+## 1. Przemiany na wsi w XIX wieku
 
-### 1.1. Zabór pruski
+## 1.1. Zabór pruski
 
 W odniesieniu do terenów wiejskich wiek XIX oraz pierwsza połowa XX stulecia, były bogate w wydarzenia skutkujące zmianami w przestrzeni wsi na ziemiach polskich. Związane one były przede wszystkim z reformami agrarnymi wprowadzonymi przez władze państw zaborczych. Największe przekształcenia miały miejsce na wsiach w zaborze pruskim.
 
@@ -41,7 +56,7 @@ W wyniku przeprowadzonych w latach 1823–1865 reform uwłaszczeniowych i regula
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Changes in rural space in the second half of the 19th and early 20th centuries as exemplified by selected maps from the collections of the National Museum of Agriculture and Agro-Food Industry in Szreniawa
+## Changes in rural space in the second half of the 19th and early 20th centuries as exemplified by selected maps from the collections of the National Museum of Agriculture and Agro-Food Industry in Szreniawa
 
 **Wojciech Mielewczyk**
 
@@ -55,21 +70,19 @@ The changes taking place in the countryside found their reflection and their doc
 
 **Key words:** large-scale maps, village, rural space, land reform, historical source
 
-### 1. The changes in the countryside in the 19th century
+## 1. The changes in the countryside in the 19th century
 
-### 1.1. The Prussian partition
+## 1.1. The Prussian partition
 
 With regard to the rural areas, the 19th century and the first half of the 20th were rich in events resulting in changes in the space of the village in the Polish lands. They were bound up above all with the agrarian reforms introduced by the authorities of the partitioning states. The greatest transformations took place in the villages of the Prussian partition.
 
 As a result of the enfranchisement and regulation reforms carried out in the years 1823–1865 land was given in all to 88,918 peasant holdings
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">p. 42</a></h2>
+<section class="lit-passage" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">p. 42</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 o łącznej powierzchni 371 829,3 ha. Dokonana separacja, czyli oddzielenie gruntów chłopskich od dworskich objęła obszar około 2,5 mln hektarów<sup class="lit-fn"><a href="#n-pl-1">1</a></sup>. W jej wyniku przeniesiono na nowe miejsce 793 wsie. Jednocześnie przeprowadzono akcję znoszenia wspólnot, do których zaliczono serwituty pastwiskowe i leśne. Objęły one 64 386 gospodarstw<sup class="lit-fn"><a href="#n-pl-2">2</a></sup>. W wyniku prac związanych z separacją gruntów i uwłaszczeniem chłopów zanikły dawne rozplanowania wsi, a pojawiły się osiedla folwarczne i luźne kolonie rzędowe. Całkowitej przebudowie uległa ¼ ogółu wielkopolskich wsi<sup class="lit-fn"><a href="#n-pl-3">3</a></sup>.
@@ -116,12 +129,10 @@ In the second half of the 19th century drainage works intensified. To their inte
 <span class="lit-note" id="n-en-6">6</span> A characterisation of this collection of maps is given inter alia by: W. Mielewczyk, Wykorzystanie map do badania zmian przestrzeni społeczno-ekonomicznej wsi na przykładzie zbiorów Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie [The use of maps in the study of the changes of the socio-economic space of the village on the example of the collections of the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa], in: Dawne mapy jako źródła historyczne [Old maps as historical sources], "Biblioteka Polskiego Przeglądu Kartograficznego" [The Library of the Polish Cartographic Review], vol. 3, Warszawa 2012, pp. 104–112, and idem, Mapy wsi dawnego powiatu pyzdrskiego w zbiorach Muzeum Narodowego Rolnictwa i Przemysłu Rolno-Spożywczego w Szreniawie [Maps of the villages of the former Pyzdry district in the collections of the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa], in: Terra Pisdrensis dawniej i dziś [Terra Pisdrensis then and now], vol. 1, Poznań–Pyzdry 2014, pp. 22–29.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">p. 43</a></h2>
+<section class="lit-passage" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">p. 43</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Ryc. 1. Fragment mapy wsi Przecław z 1894 r. w skali 1:5000 z odręcznym rysunkiem areałów powstałych w wyniku parcelacji majątku. Pomniejszona. Sygn. AN 681/1
@@ -140,12 +151,10 @@ of which as many as 156 were companies of peasants only<sup class="lit-fn"><a hr
 <span class="lit-note" id="n-en-7">7</span> J. Rutkowski, Historia gospodarcza Polski, t. 2: Czasy porozbiorowe do 1918 roku [The economic history of Poland, vol. 2: The times of the partitions to the year 1918], Poznań 1950, pp. 283–284.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">p. 44</a></h2>
+<section class="lit-passage" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">p. 44</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dróg, miedz lub przy granicach pól. Plany przeprowadzonych drenowań sporządzono m.in. dla Kromolic (obecnie gm. Kórnik, pow. poznański, woj. wielkopolskie) w Majętności Kórnickiej (ryc. 2) oraz dla dóbr szelejewskich (obecnie gm. Piaski, pow. gostyński, woj. wielkopolskie) (ryc. 3).
@@ -164,15 +173,13 @@ the roads, the balks or at the boundaries of the fields. Plans of the drainages 
 *Fig. 3. A fragment of the map of the fields of the grange of Stefanowo of 1879 at the scale of 1:2500, with a drawing of the melioration ditches led through the fields and along the roads. Reduced. Shelfmark AN 3824*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-45">p. 45</a></h2>
+<section class="lit-passage" id="p-45" data-page="45">
+<div class="pg" id="p45"><a href="#p45">p. 45</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 1.2. Zabór rosyjski
+## 1.2. Zabór rosyjski
 
 W zaborze rosyjskim uwłaszczenie chłopów nastąpiło później i miało inny przebieg niż w zaborze pruskim. Wydany 2 marca 1864 r. ukaz uwłaszczeniowy władz carskich „O urządzeniu włościan” oddawał chłopom na własność ziemię przez nich użytkowaną. Nadanie to nie było połączone ze scalaniem działek rolnych należących do poszczególnych gospodarstw, zniesieniem serwitutów i separacją gruntów chłopskich od dworskich. Przykładem mapy z zaznaczonymi gruntami chłopów uwłaszczonych jest mapa dóbr Trąbczyn (obecnie gm. Zagórów, pow. słupecki, woj. wielkopolskie) (ryc. 4)<sup class="lit-fn"><a href="#n-pl-8">8</a></sup>.
 
@@ -185,7 +192,7 @@ Wobec dużego rozdrobnienia pól należących do poszczególnych gospodarstw ch�
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 1.2. The Russian partition
+## 1.2. The Russian partition
 
 In the Russian partition the enfranchisement of the peasants came later and took a different course than in the Prussian one. The enfranchisement ukase of the tsarist authorities issued on 2 March 1864, "On the ordering of the peasants", gave the peasants as their property the land they used. This grant was not joined with the merging of the arable plots belonging to the individual holdings, the abolishing of the servitudes and the separation of the peasants' lands from the manorial ones. An example of a map with the lands of the enfranchised peasants marked on it is the map of the estates of Trąbczyn (today the gmina of Zagórów, the powiat of Słupca, the voivodeship of Wielkopolska) (fig. 4)<sup class="lit-fn"><a href="#n-en-8">8</a></sup>.
 
@@ -196,12 +203,10 @@ In the face of the great fragmentation of the fields belonging to the individual
 <span class="lit-note" id="n-en-8">8</span> Examples of maps showing the fields of enfranchised peasants were presented in: W. Mielewczyk, Wykorzystanie map do badania zmian przestrzeni społeczno-ekonomicznej wsi… [The use of maps in the study of the changes of the socio-economic space of the village…], pp. 109–110.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-46">p. 46</a></h2>
+<section class="lit-passage" id="p-46" data-page="46">
+<div class="pg" id="p46"><a href="#p46">p. 46</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Dopiero w 1911 r. rozpoczęła się komasacja rządowa prowadzona przez urzędy do spraw włościańskich<sup class="lit-fn"><a href="#n-pl-9">9</a></sup>. Mimo nasilenia tej akcji większość gospodarstw chłopskich była nadal mocno rozdrobniona. Jednak w miejscowościach, w których scalono grunty, zniknęła charakterystyczna szachownica pól.
@@ -228,12 +233,10 @@ On the parcelled lands new settlements came into being, settled by colonists arr
 <span class="lit-note" id="n-en-9">9</span> Z. Ludkiewicz, Podręcznik polityki agrarnej [A textbook of agrarian policy], vol. 1, Warszawa 1932, pp. 67–68 and 117–118.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-47">p. 47</a></h2>
+<section class="lit-passage" id="p-47" data-page="47">
+<div class="pg" id="p47"><a href="#p47">p. 47</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wsi galicyjskich. W nowych osadach zabudowania stawiane były rzędowo wzdłuż drogi głównej, regularnie również rozplanowywano pola. Uwidocznione zostało to np. na mapie Kolonii Izydorek (obecnie część wsi Mniewo, gm. Olszówka, pow. kolski, woj. wielkopolskie) z roku 1886 (ryc. 6), jak też na mapie dóbr Skarżyn (obecnie gm. Kawęczyn, pow. turecki, woj. wielkopolskie) z 1859 r. (ryc. 7), w których utworzono pięć kolonii (Kolonia Brzozowiec,
@@ -252,12 +255,10 @@ villages of Galicia. In the new settlements the buildings were put up in rows al
 *Fig. 7. A fragment of the map of the village of Skarżyn of 1859 at the scale of 1:5000 with the fields of the Kolonia Brzozowiec drawn out. Reduced. Shelfmark AN 4438*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-48">p. 48</a></h2>
+<section class="lit-passage" id="p-48" data-page="48">
+<div class="pg" id="p48"><a href="#p48">p. 48</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Kolonia Czachulec Nowy, Kolonia Czachulec Stary, Kolonia Marcyanów oraz Kolonia Niedźwiada).
@@ -276,12 +277,10 @@ The newly founded villages often had the word Kolonia [colony] in their names, e
 *Fig. 8. A fragment of the map of the estates of Grabienice of 1873 at the scale of 1:20 000 with the areas taken by the newly created colonies. Reduced. Shelfmark AN 489/17*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-49">p. 49</a></h2>
+<section class="lit-passage" id="p-49" data-page="49">
+<div class="pg" id="p49"><a href="#p49">p. 49</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Ryc. 9. Fragment mapy wsi Umień z 1845 r. w skali 1:5000 (?) z zaznaczonymi gruntami kolonii. Pomniejszona. Sygn. AN 1355
@@ -304,12 +303,10 @@ In the 19th century still one of the ways of enlarging the area of arable land w
 <span class="lit-note" id="n-en-10">10</span> See more widely: W. Mielewczyk, ibidem, p. 110.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-50">p. 50</a></h2>
+<section class="lit-passage" id="p-50" data-page="50">
+<div class="pg" id="p50"><a href="#p50">p. 50</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Ryc. 10. Fragment mapy folwarku Przytuki z 1868 r. w skali 1:5000 z polami i zabudowaniami kolonii. Pomniejszona. Sygn. AN 1357
@@ -324,19 +321,17 @@ Ryc. 11. Fragment mapy dóbr Mikulice z 1852 r. w skali 1:5000 (?) z zaznaczonym
 *Fig. 11. A fragment of the map of the estates of Mikulice of 1852 at the scale of 1:5000 (?) with the place of the cut-down forest marked. Reduced. Shelfmark AN 4443*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-51">p. 51</a></h2>
+<section class="lit-passage" id="p-51" data-page="51">
+<div class="pg" id="p51"><a href="#p51">p. 51</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Ryc. 12. Fragment mapy wsi Umień z 1845 r. w skali 1:5000 (?) z adnotacją o przeznaczeniu boru sosnowego do wykarczowania. Pomniejszona. Sygn. AN 1355
 
 mapach można znaleźć informacje o zmianach w zalesieniu. Np. na mapie dóbr prywatnych Mikulice (obecnie gm. Dobra, pow. turecki, woj. wielkopolskie) z roku 1858 zaznaczone są Nowiny – miejsce po wyciętym lesie przeznaczone na pola uprawne (ryc. 11). Z kolei na mapie wsi Umień z 1845 r. na fragmencie zajętym przez bór sosnowy umieszczono adnotację, że jest to teren do wykarczowania z przeznaczeniem na pole uprawne (ryc. 12).
 
-### 2. Przemiany na wsi w okresie międzywojennym
+## 2. Przemiany na wsi w okresie międzywojennym
 
 Po odzyskaniu niepodległości do najważniejszych spraw wymagających uregulowania na wsi należały: przeprowadzenie reformy rolnej, czyli parcelacja wielkiej własności ziemskiej i nadzielenie ziemią chłopów bezrolnych i małorolnych, a także likwidacja szachownicy gruntów oraz przeprowadzenie melioracji.
 
@@ -351,7 +346,7 @@ W latach Drugiej Rzeczypospolitej rozparcelowano ogółem 2 654 tys. ha ziemi, c
 
 maps one can find information about the changes in the woodland. E.g. on the map of the private estates of Mikulice (today the gmina of Dobra, the powiat of Turek, the voivodeship of Wielkopolska) of the year 1858 there are marked the Nowiny — the place of the cut-down forest destined for arable fields (fig. 11). In turn on the map of the village of Umień of 1845 on the fragment taken by the pine forest an annotation was placed that this is ground to be cleared with the destination of an arable field (fig. 12).
 
-### 2. The changes in the countryside in the interwar period
+## 2. The changes in the countryside in the interwar period
 
 After the regaining of independence, among the most important matters requiring regulation in the countryside were: the carrying-out of the land reform, that is the parcellation of the great landed property and the granting of land to landless and smallholding peasants, and also the liquidation of the chessboard of lands and the carrying-out of melioration.
 
@@ -360,12 +355,10 @@ In the years of the Second Republic 2,654 thousand ha of land were parcelled in 
 <span class="lit-note" id="n-en-11">11</span> W. Roszkowski, Rolnictwo i leśnictwo [Agriculture and forestry], in: Problemy gospodarcze Drugiej Rzeczypospolitej [The economic problems of the Second Republic], collective work, Warszawa 1989, p. 143.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-52">p. 52</a></h2>
+<section class="lit-passage" id="p-52" data-page="52">
+<div class="pg" id="p52"><a href="#p52">p. 52</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Do wybuchu wojny utworzono 153,6 tys. nowych gospodarstw rolnych, a 503,0 tys. powiększono<sup class="lit-fn"><a href="#n-pl-12">12</a></sup>. Nowe zagrody chłopskie, w większości stawiane w zabudowie rozproszonej, znacząco zmieniły przestrzeń wielu polskich wsi. Przeprowadzona w tym samym czasie melioracja zmieniła 548,7 tys. ha podmokłych łąk na pola uprawne; łączna długość rowów melioracyjnych oraz uregulowanych rzek wyniosła 19,0 tys. km<sup class="lit-fn"><a href="#n-pl-13">13</a></sup>.
@@ -416,12 +409,10 @@ Of the about 12 million ha of lands requiring consolidation in the interwar peri
 <span class="lit-note" id="n-en-18">18</span> Przemówienie pana Ministra Rolnictwa i Reform Rolnych Juliusza Poniatowskiego na komisji budżetowej Sejmu [The speech of the Minister of Agriculture and Land Reforms Juliusz Poniatowski to the Sejm's budget commission], delivered 20 January 1938, "Polska Gospodarcza" [Polish Economy] year 19, 1938, no. 5, p. 180.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-53">p. 53</a></h2>
+<section class="lit-passage" id="p-53" data-page="53">
+<div class="pg" id="p53"><a href="#p53">p. 53</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Ryc. 13. Fragment mapy wsi Błonawy z 1931 r. w skali 1:4000 z areałami skomasowanymi. Pomniejszona. Sygn. AN 934
@@ -436,19 +427,17 @@ Ryc. 14. Fragment mapy wsi Lisewo z 1931 r. w skali 1:5000 z areałami skomasowa
 *Fig. 14. A fragment of the map of the village of Lisewo of 1931 at the scale of 1:5000 with the consolidated areas. Reduced. Shelfmark AN 1348*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">p. 54</a></h2>
+<section class="lit-passage" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">p. 54</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Ponadto komasacja umożliwiała wprowadzenie doskonalszych sposobów gospodarowania, wskutek czego podnosiła się znacznie wartość ziemi o co najmniej 30%<sup class="lit-fn"><a href="#n-pl-19">19</a></sup>. Rezultaty akcji scaleniowej były jednak krótkotrwałe – w wyniku działów rodzinnych i spadkowych w krótkim czasie następowało ponowne rozdrabnianie gospodarstw.
 
 Przykładami map przedstawiających komasację gruntów w roku 1930 we wschodniej Wielkopolsce są mapy wsi Błonawy (gm. Sompolno, pow. koniński, woj. wielkopolskie) (ryc. 13) oraz Lisewo (gm. Pyzdry, pow. wrzesiński, woj. wielkopolskie) (ryc. 14).
 
-### 3. Zakończenie
+## 3. Zakończenie
 
 Od połowy XIX stulecia aż po połowę XX w. na ziemiach polskich na wsiach zachodziły zasadnicze zmiany społeczno-gospodarcze. Związane one były przede wszystkim z procesami uwłaszczeniowymi chłopów, ale także z prowadzonymi pracami melioracyjnymi, z komasacją gruntów rolnych, a także karczunkiem lasów pod nowe uprawy i tworzeniem nowych osad. Działania te powodowały szybkie i częste zmiany w przestrzeni wiejskiej.
 
@@ -463,7 +452,7 @@ Besides, consolidation made possible the introduction of more perfect ways of hu
 
 Examples of maps showing the consolidation of lands in the year 1930 in eastern Wielkopolska are the maps of the village of Błonawy (the gmina of Sompolno, the powiat of Konin, the voivodeship of Wielkopolska) (fig. 13) and of Lisewo (the gmina of Pyzdry, the powiat of Września, the voivodeship of Wielkopolska) (fig. 14).
 
-### 3. Conclusion
+## 3. Conclusion
 
 From the mid-19th century until the mid-20th century fundamental socio-economic changes took place in the villages of the Polish lands. They were bound up above all with the processes of the enfranchisement of the peasants, but also with the drainage works carried out, with the consolidation of agricultural lands, and with the clearing of forests for new crops and the founding of new settlements. These actions caused quick and frequent changes in the rural space.
 
@@ -472,15 +461,13 @@ A map, as a picture of the surface of the Earth, presents chosen objects and phe
 <span class="lit-note" id="n-en-19">19</span> W. Michalski, Wykonanie reformy rolnej [The carrying-out of the land reform], in: Pięć lat na froncie gospodarczym 1926–1931 [Five years on the economic front 1926–1931], vol. 1, Warszawa 1931, p. 90.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
+<section class="lit-passage" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">p. 55</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Literatura
+## Literatura
 
 Borowski S., 1973, *Rolnictwo*, w: *Dzieje Wielkopolski, t. 2: Lata 1793–1918*, praca zbior., Poznań.
 
@@ -514,14 +501,14 @@ Rutkowski J., 1950, *Historia gospodarcza Polski, T. 2: Czasy porozbiorowe do 19
 
 *Ustawa z dnia 31 lipca 1923 r. o scaleniu gruntów*, „Dziennik Ustaw RP” nr 92, poz. 718 z późn. zmianami.
 
-### Źródła kartograficzne
+## Źródła kartograficzne
 
 *Regierungsbezirk Posen. Kreis Obornik. Gemarkung Przeclaw (Prinzenau) Nr 144. Gemarkungskarte in 1 Blatt als Copie der Karte der alten Landschaft 1840 Strasburg gefertigt im Oktober 1861 durch den Vermessungs-Revisor Heinamann. Rektificirt im April 1862 durch den Geometer Heidenwich. Copirt im Monat Mai 1894 durch Tuck. Wiederkopirt im Monat April 1895 durch Boetzel*. Kopia mapy z 1840 r. oprac. przez Strasburga, 1:5000, 68 × 102 cm, rękopiśmienna, sygn. AN 681/1.
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Literature
+## Literature
 
 Borowski S., 1973, Rolnictwo [Agriculture], in: Dzieje Wielkopolski, t. 2: Lata 1793–1918 [The history of Wielkopolska, vol. 2: The years 1793–1918], collective work, Poznań.
 
@@ -555,17 +542,15 @@ Rutkowski J., 1950, Historia gospodarcza Polski, T. 2: Czasy porozbiorowe do 191
 
 Ustawa z dnia 31 lipca 1923 r. o scaleniu gruntów [The act of 31 July 1923 on the consolidation of lands], "Dziennik Ustaw RP" [The Journal of Laws of the Republic of Poland] no. 92, item 718, as later amended.
 
-### Cartographic sources
+## Cartographic sources
 
 *Regierungsbezirk Posen. Kreis Obornik. Gemarkung Przeclaw (Prinzenau) Nr 144. Gemarkungskarte in 1 Blatt als Copie der Karte der alten Landschaft 1840 Strasburg gefertigt im Oktober 1861 durch den Vermessungs-Revisor Heinamann. Rektificirt im April 1862 durch den Geometer Heidenwich. Copirt im Monat Mai 1894 durch Tuck. Wiederkopirt im Monat April 1895 durch Boetzel* [Government district of Posen. Kreis Obornik. The cadastral district of Przecław (Prinzenau) no. 144. The cadastral map in one sheet as a copy of the map of the old survey of 1840, made by Strasburg in October 1861 by the survey reviser Heinamann. Rectified in April 1862 by the surveyor Heidenwich. Copied in the month of May 1894 by Tuck. Copied again in the month of April 1895 by Boetzel]. A copy of the map of 1840 prepared by Strasburg, 1:5000, 68 × 102 cm, manuscript, shelfmark AN 681/1.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-56">p. 56</a></h2>
+<section class="lit-passage" id="p-56" data-page="56">
+<div class="pg" id="p56"><a href="#p56">p. 56</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 *Szkic wykonanego drenowania w roku 1903 na Kromolicach, Maj[ętność] Kórnicka.* 1903, oprac. W. Krzywoszyński, 1:2000, 38 × 49 cm, rękopiśmienna, sygn. AN 4445.
@@ -616,17 +601,15 @@ Ustawa z dnia 31 lipca 1923 r. o scaleniu gruntów [The act of 31 July 1923 on t
 *Plan gruntów wsi Błonawy w gminie Sompolno, powiecie Kolskim, województwie Łódzkim położonej scalonych na mocy orzeczenia Okręgowej Komisji Ziemskiej w Piotrkowie z dnia 15–XII–1930 r. Pomiaru na gruncie dokonał w roku 1930 i plan niniejszy sporządził według południka magnetycznego w roku 1931 mierniczy przysięgły Stanisław Skarbek* [A plan of the lands of the village of Błonawy lying in the commune of Sompolno, in the Koło district, of the Łódź Voivodeship, consolidated by force of the ruling of the District Land Commission in Piotrków of 15 December 1930. The survey on the ground was carried out in the year 1930 and this plan was made to the magnetic meridian in the year 1931 by the sworn surveyor Stanisław Skarbek], 1:4000, manuscript, shelfmark AN 934.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-57">p. 57</a></h2>
+<section class="lit-passage" id="p-57" data-page="57">
+<div class="pg" id="p57"><a href="#p57">p. 57</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 *Plan gruntów wsi Lisewo w gminie Dłusk, powiecie Słupeckim województwie Łódzkiem położonej scalonych na mocy orzeczenia Okręgowej komisji w Piotrkowie z dnia 26 czerwca 1930 roku. Na podstawie pomiaru dokonanego w roku 192… przez mierniczego Okręgowego Urzędu Ziemskiego w Piotrkowie Mieczysława Sypniewskiego, plan niniejszy sporządził według południka magnetycznego w roku 1931 mierniczy przysięgły Hugo Hermel*, 1:5000, rękopiśmienna, sygn. AN 1348.
 
-### Changes the villages space in the second half of the nineteenth and early twentieth centuries on selected maps from the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa
+## Changes the villages space in the second half of the nineteenth and early twentieth centuries on selected maps from the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa
 
 **Wojciech Mielewczyk**
 
@@ -647,7 +630,7 @@ The presented maps make up to valuable historical source to research changes in 
 
 *Plan gruntów wsi Lisewo w gminie Dłusk, powiecie Słupeckim województwie Łódzkiem położonej scalonych na mocy orzeczenia Okręgowej komisji w Piotrkowie z dnia 26 czerwca 1930 roku. Na podstawie pomiaru dokonanego w roku 192… przez mierniczego Okręgowego Urzędu Ziemskiego w Piotrkowie Mieczysława Sypniewskiego, plan niniejszy sporządził według południka magnetycznego w roku 1931 mierniczy przysięgły Hugo Hermel* [A plan of the lands of the village of Lisewo lying in the commune of Dłusk, in the Słupca district of the Łódź Voivodeship, consolidated by force of the ruling of the District Commission in Piotrków of 26 June 1930. On the basis of the survey carried out in the year 192… by the surveyor of the District Land Office in Piotrków Mieczysław Sypniewski, this plan was made to the magnetic meridian in the year 1931 by the sworn surveyor Hugo Hermel], 1:5000, manuscript, shelfmark AN 1348.
 
-### Changes the villages space in the second half of the nineteenth and early twentieth centuries on selected maps from the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa
+## Changes the villages space in the second half of the nineteenth and early twentieth centuries on selected maps from the National Museum of Agriculture and Agricultural-Food Industry in Szreniawa
 
 **Wojciech Mielewczyk**
 
@@ -664,6 +647,7 @@ The presented maps make up to valuable historical source to research changes in 
 **Keywords:** large-scale maps, village, village space, land reform, historical source
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

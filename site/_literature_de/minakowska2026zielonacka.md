@@ -7,13 +7,20 @@ alt_url: "/literature/minakowska2026zielonacka/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-front">Titel</a> <a href="#p-c01">Parents</a> <a href="#p-c02">Spouses and children, the grandchildren, and up to the great-grandchildren</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<ol>
+<li class="l1"><a href="#p-c01"><span class="toc-e">Parents</span></a></li>
+<li class="l1"><a href="#p-c02"><span class="toc-e">Spouses and children, the grandchildren, and up to the great-grandchildren</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
+<div class="pg"><a href="#p-front">Titel</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 Helena Zielonacka (ID: 2.976.216)  
@@ -21,15 +28,12 @@ Born possibly in 1700
 Died
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c01">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c01">Parents</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
-### Parents
+## Parents
 Andrzej Zielonacki  
 Born possibly in 1690  
 died  
@@ -56,15 +60,12 @@ Joanna Wierusz-Kowalska z Kowali h. Wieruszowa ?1700-
 Helena Zielonacka, ?1700-
 
 </div>
-</div>
 </section>
 
 <section class="lit-passage" id="p-c02">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-c02">Spouses and children, the grandchildren, and up to the great-grandchildren</a></h2>
 <div class="lit-only" lang="en" markdown="1">
 
-### Spouses and children, the grandchildren, and up to the great-grandchildren
+## Spouses and children, the grandchildren, and up to the great-grandchildren
 Married about 1720 to Józef Ścibor-Chełmski z Chełmu i Woli h. Ostoja ?1690-, (Parents : Andrzej «Scibor» Ścibor-Chełmski z Chełmu i Woli h. Ostoja, chorąży [san] Sandomierz ?1660-1697 & N. Pałuska ?1670-), with  
 Katarzyna Ścibor-Chełmska z Chełmu i Woli h. Ostoja ?1730-  
 Heliodor, kanonik [poz] Poznań (1765) ?1730-  
@@ -119,6 +120,7 @@ Stanisław Bronisz ?1840-1863 \|
 Maria Bronisz 1849-1913 \|
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

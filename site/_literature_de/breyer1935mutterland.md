@@ -7,13 +7,22 @@ alt_url: "/literature/breyer1935mutterland/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-front">Titel</a> <a href="#p-2">2</a> <a href="#p-3">3</a> <a href="#p-4">4</a> <a href="#p-5">5</a> <a href="#p-6">6</a> <a href="#p-7">7</a> <a href="#p-8">8</a> <a href="#p-9">9</a> <a href="#p-10">10</a> <a href="#p-11">11</a> <a href="#p-12">12</a> <a href="#p-13">13</a> <a href="#p-14">14</a> <a href="#p-15">15</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-2">S. 2–6</a></li>
+<li class="l1"><a href="#p-7">S. 7–11</a></li>
+<li class="l1"><a href="#p-12">S. 12–15</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
+<div class="pg"><a href="#p-front">Titel</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Albert Breyer
@@ -47,12 +56,10 @@ First published in:
 Deutsche Monatshefte in Polen, Jahrgang 2 (12), Heft 1/2, July/August 1935
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2">S. 2</a></h2>
+<section class="lit-passage" id="p-2" data-page="2">
+<div class="pg" id="p2"><a href="#p2">S. 2</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Der polnische Forscher H. Wiercieński sagt in einer dem Deutschtum in Kongresspolen gewidmeten Abhandlung über die deutsche Einwanderung folgendes:
@@ -75,12 +82,10 @@ Over the centuries German people streamed continually, with greater or lesser in
 <span class="lit-note" id="n-en-1">1</span> "Ekonomista", year 1908, vol. II
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3">S. 3</a></h2>
+<section class="lit-passage" id="p-3" data-page="3">
+<div class="pg" id="p3"><a href="#p3">S. 3</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Vorarbeiten sind auf diesem Gebiet wenig vorhanden. Die Untersuchung muss daher auf den *Quellen* aufbauen. Als solche kommen in Frage:
@@ -127,12 +132,10 @@ Questioning the old people succeeded only in the rarest cases. Among the country
 Mapping the places of origin found sometimes met great difficulties, especially for the small villages and hamlets. In many cases neither old nor new gazetteers helped. Old topographical maps sometimes gave excellent help, but so did newer maps on a large scale.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-4">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-4">S. 4</a></h2>
+<section class="lit-passage" id="p-4" data-page="4">
+<div class="pg" id="p4"><a href="#p4">S. 4</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Im folgenden soll für drei ständische Gruppen des mittelpolnischen Deutschtums der Nachweis ihrer Herkunft geführt werden:
@@ -175,12 +178,10 @@ The settlers of these lowland villages, who are also called "Holländer" at Lent
 <span class="lit-note" id="n-en-3">3</span> "Przegląd Hist." year 1915, vol. 19, no. 1.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-5">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-5">S. 5</a></h2>
+<section class="lit-passage" id="p-5" data-page="5">
+<div class="pg" id="p5"><a href="#p5">S. 5</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 die deutschen Bauern der angrenzenden Bruchgebiete die holländische Wirtschaftsweise. So ging in rechtlicher und technischer Hinsicht der Name "Holländer" auf sie über.
@@ -211,12 +212,10 @@ Going through five years of the registers of the congregation of *Gombin*, found
 The church books of the Lutheran parish of *Iłow*, founded in 1775, contain for the period 1779 to 1840 the following 80 places of origin, which we list going up the Vistula: Danzig Werder, Baldrum near Marienwerder, Neuenburg, Montau 1 settler each, Graudenz 4, the Kulm lowland 2, Bromberg, Flötenau 1 each; from Neidenburg, Amt Schoden, Bergbruch, Neuenort, Altretz 1 settler each, Altendorf (3), the neighbourhood of Thorn (11), Nischewke 19, Deutsch-Glinne 9, Slonske 9, Neu-Ciechocinek (2), Woluschewo and Rybit (1), Bogpomoż 5, Witoschiner Lengde, Liciszewo near Lipno 1 family each.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-6">S. 6</a></h2>
+<section class="lit-passage" id="p-6" data-page="6">
+<div class="pg" id="p6"><a href="#p6">S. 6</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 In den Zivilstandsbüchern der Gemeinde zu *Neuhof* (Nowydwór), die 1780 entstanden, finden wir 1782 bis 1806 folgende Herkunftsorte: Danzig 1, Langenau 6, Bromberg 2, Straßburg in Ostpreußen 2, Umgegend von Rypin 5, Umgegend von Thorn 4, Slonske und Rybit je 1, Bogpomoż und Osieker Lengden 2.
@@ -247,12 +246,10 @@ The church books of the Lutheran congregation of *Lipno* in the Dobrzyń country
 The dialect of the Dobrzyń country is also spoken in the Vistula lowland, around Danzig and in the western strip of present-day East Prussia. The folklore of the colo-
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-7">S. 7</a></h2>
+<section class="lit-passage" id="p-7" data-page="7">
+<div class="pg" id="p7"><a href="#p7">S. 7</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 nisten zeigt starke Anlehnung an diese Gebiete, auch die Familiennamen stimmen überein. Schließlich war hier wie dort das Rogaler und zum Teil das Thorner Gesangbuch im Gebrauch. Charakteristisch für die Siedlungsgeschichte des Dobriner Landes ist der Zusatzname "Räumungen" für die meisten deutschen Dörfer. Er findet sich auch im Kreise Straßburg. Alle diese Tatsachen sprechen dafür, dass *die Deutschen des Dobriner Landes aus dem benachbarten Westpreußen* und den westlichen Kreisen von Ostpreußen herkommen.
@@ -275,12 +272,10 @@ Into the *Kalisz country* (Kalischer Land) the Germans immigrated from the areas
 <span class="lit-note" id="n-en-4">4</span> These findings agree, happily, with the map of the Posen Holländereien drawn by Dr. Maas in the special issue for the fiftieth anniversary.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-8">S. 8</a></h2>
+<section class="lit-passage" id="p-8" data-page="8">
+<div class="pg" id="p8"><a href="#p8">S. 8</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 schlesische Mundart, die Wirtschaftsweise (Hopfenanbau), das Brauchtum, die Tracht, Bauart der Häuser, die vorwiegend Züllichauer und Breslauer Gesangbücher und die Familiennamen einen überzeugenden Hinweis auf Niederschlesien, zum Teil den Wartebruch. Besondere Bedeutung fällt auch in diesem Fall den Standesamtsbüchern der evang. Gemeinden: Zagorow, Grodziec, Stawiszyn, Turek und Władysławow zu, die Herkunftsangaben, wenn auch nicht immer in der gewünschten Anzahl, enthalten. Manche der Kirchenbücherschreiber machten jahrelang keinerlei Angaben über den Herkunftsort. Mitunter war es auch bei den Totenakten so, dass die Angehörigen den Geburtsort nicht wussten; bei Ausgedingern war dies vorwiegend der Fall.
@@ -311,12 +306,10 @@ The church books of the congregation of *Turek* supply for 1837 to 1847 42 state
 For *Władysławow*, the mother congregation of the Kalisz country, we found for 1775 to 1800 the following 15 statements of place: Neutomischel county 2, Lower Silesia 5, the Silesian dialect area in Posen county 3, the eastern, Pomeranian part of the same county 2, the Netze marshes 1, from Pomerania 2.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-9">S. 9</a></h2>
+<section class="lit-passage" id="p-9" data-page="9">
+<div class="pg" id="p9"><a href="#p9">S. 9</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Fassen wir die Herkunftsangaben für das Kalischer Land zusammen, so erhalten wir folgende Verteilung: *an Schlesiern* 54 v.H, *an Pommern* 21 v.H., *an Märkern* 12 v.H., *auf das übrige Reich entfallen* 10 v.H
@@ -343,12 +336,10 @@ In conclusion we state: *the German rural population in central Poland comes in 
 The *urban Germans of central Poland* look back on a history of a good 200 years. The immigrants of the 18th century, it is true, as shows most starkly in Warsaw, were lost in the host people; only small groups have kept their nationality (Volkstum), for example in the town of Władysławów, founded in 1738. As everywhere, the urban Germans who arose from single immigrants have here too a far smaller national (völkisch) power of resistance than the German farmers settled together. In the time of the Polish kings of the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-10">S. 10</a></h2>
+<section class="lit-passage" id="p-10" data-page="10">
+<div class="pg" id="p10"><a href="#p10">S. 10</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sächsischem Hause kamen aus Sachsen viele Beamte, Handwerker und Kriegsleute nach Warschau. Der Warschauer Traktat von 1768, der den Dissidenten Glaubensfreiheit verbürgte, hatte ein stärkeres Einströmen von deutschen Handwerkern und Vertretern der freien Berufe zur Folge. 1781 wird in Warschau die prächtige evangelische Kirche eingeweiht. Unter den damaligen Deutschen stammten viele aus den angrenzenden preußischen Gebieten. Es würde über den Rahmen eines kurzen Vortrags gehen, alle die Namen aufzuzählen. Einige hervorragende Vertreter sollen jedoch genannt werden. Der bekannte Kutschenfabrikant Thomas Michael *Dangel*, der 1792 in den polnischen Adelsstand erhoben wurde, kam aus Pasewalk i. Pom. Der hervorragende Warschauer Baumeister Ephraim von *Schröger* war ein gebürtiger Thorner; 1775 wurde er ebenfalls geadelt. Ein anderer bedeutender Baumeister, Theodor Gottlieb *Seyfried*, ist in Buk bei Posen geboren. Von den Vorfahren der führenden polnischen Buchhändler-Firma *Gebethner* und *Wolff*, kamen Gebethner 1727 aus Krotoschin und Wolff aus Brätz. Das Geschlecht des bekannten Warschauer Großkaufmannes *Herse* stammt aus Schwiebus. Um 1776 kamen die Vorfahren der Warschauer Fabrikbesitzer *Schlenker* aus Thorn. Der Schönfärber *Werner* in Warschau, dessen Nachkommen gegenwärtig über einen ausgedehnten Goßgrundbesitz in der Umgegend von Łęczyca verfügen, stammen aus Obersitzko. Die Reihe ließe sich, wie gesagt, beliebig fortsetzen.
@@ -367,12 +358,10 @@ Let us now turn to the urban Germans who arose from settlement in closed groups.
 When, by the second and third partitions of Poland, considerable territories of the Polish Republic fell to Prussia, German craftsmen and merchants streamed into the depopulated Polish towns together with the Prussian officials. A fine example of this is the voivodeship town of *Kalisch*, which had fallen victim to a terrible fire in 1793. The first concern of the Prussian authorities was the rebuilding of the town, which lay well placed for trade and administration. From the neighbouring areas of Silesia numerous building craftsmen immigrated, who within a few years raised the town out of rubble and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-11">S. 11</a></h2>
+<section class="lit-passage" id="p-11" data-page="11">
+<div class="pg" id="p11"><a href="#p11">S. 11</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 hoben. 1795 setzen die preußischen Behörden bereits den ersten lutherischen Prediger Karl Michael Christian *Sinell* aus Stolzenhagen in Pom. an. Seinen Eintragungen über die Kopulierten im Zeitraum von 1795 bis 1815 entnehmen wir nachstehende Herkunftsorte: von 298 entfallen auf das schlesische Mundartgebiet 192, das pommersche Mundartgebiet 36, auf Ostpreußen 14, das übrige Reich 36. Das ergibt: 69,3 Prozent Schlesier, 13 Prozent Pommern, 5 Prozent Ostpreußen und 13 Prozent aus dem übrigen Reich. Unter den schlesischen Städten steht Zduny mit 30 Einwanderern an erster Stelle, es folgen Breslau mit 14, Ostrowo 12, Groß-Wartenberg 11, Rawitsch und Militsch je 7, Kempen, Suhlau und Namslau 5, Festenberg, Krotoschin, Guhrau und Oels 4. Aus Bromberg kamen 8 Personen, aus Sachsen 20, aus Württemberg 8. Der beruflichen Gliederung nach waren: Bäcker 17, Tischler und Maurer je 15, Schneider 12, Zimmerleute 9, Hut- und Schuhmacher je 8, Windmüller und Kutscher je 6, Kaufleute 5, Sattler und Fleischer je 4, Ärzte, Lehrer, Buchdrucker und Seifensieder je 3, Friseure, Glaser, Gürtler, Seiler, Gastwirte, Drechsler, Zuckerbäcker, Kunstgärtner, Stellmacher und Büttner je 2. Von für das damalige Stadtleben gewiss neuen Berufen seien genannt: ein Siegellackfabrikant, ein Handschuhmacher, ein Zeugmacher, ein Walkmüller, ein Musikinstrumentenmacher, ein Buchbinder, ein Färber, ein Kürschner.
@@ -391,12 +380,10 @@ If the border town of Kalisch naturally received the strongest increase of Germa
 The statements on the origin of the cloth-makers in *Zgierz, Alexandrow* and *Blendow* are in my contribution to Lück's book "Die Aufbaukräfte". The en-
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-12">S. 12</a></h2>
+<section class="lit-passage" id="p-12" data-page="12">
+<div class="pg" id="p12"><a href="#p12">S. 12</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gungen in den Kirchenbüchern der Gemeinde Zduńska Wola, Konstantynow, Brzeziny und Pabjanice ergeben im großen und ganzen das gleiche Bild. In den *nördlichen* Städten Mittelpolens überwiegen die Tuchmacher aus dem Netzegau, in den *südlicher* gelegenen die aus Schlesien. Aufgrund der bisher gesammelten 685 Ortsnamen, wobei leider die Angaben aus Ozorkow und zum Teil aus Tomaschow noch fehlen, ergibt sich, dass *66 v.H. der eingewanderten Tuchmacher aus Schlesien und 34 v.H. aus dem Netzegau kamen*.
@@ -423,12 +410,10 @@ Now something more about the origin of the *Lutheran clergy* in central Poland. 
 After the death of the first pastor of the newly founded *Warsaw* congregation, Johann Jakob *Scheidemantel*, a Silesian by birth, Pastor Gottlieb *Ringeltaube* was elected; he came from Gramtschen near Thorn, where his father was the Lutheran preacher. The afternoon preacher Friedrich *Cerulli*, whom the congregation had elected in 1779, came from Königsberg.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-13">S. 13</a></h2>
+<section class="lit-passage" id="p-13" data-page="13">
+<div class="pg" id="p13"><a href="#p13">S. 13</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Besondere Verdienste um die Entwicklung der Warschauer evang. Gemeinde erwarb sich der 1790 bis 1813 amtierende Pastor Karl Heinrich Wilhelm *Schmidt*, der in Karge geboren wurde. Er war langjähriger Vormund der deutsch-evangelischen Schule in Warschau und Präses des Konsistoriums. Sein größtes Verdienst jedoch besteht darin, dass er das *erste Gesangbuch* für die evangelische Kirche im Königreich Polen im Jahre 1803 herausgab, dessen verbesserte Auflage erst 40 Jahre später erschien. Vom polnischen Nationalhelden Th. Kościuszko erhielt Pastor Schmidt ein Handschreiben für vorbildliche Krankenpflege und echt patriotische Gesinnung, die er im Kriegsjahr 1795 bewiesen hatte.
@@ -459,12 +444,10 @@ In the time of the Duchy of Warsaw there immigrated: Pastor *Gieser* in Babiak, 
 The long-serving pastor and president of the Reformed consistory in Warsaw, the court preacher Karl *Diehl*, was born in Lissa in 1765. The deserving pastor of Władysławów, the mother congregation in the Kalisz country, Karl Gottlieb *Bartsch*, who held office in that congregation from 1810 to 1852, came from Michelsdorf in Silesia.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-14">S. 14</a></h2>
+<section class="lit-passage" id="p-14" data-page="14">
+<div class="pg" id="p14"><a href="#p14">S. 14</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Einwanderung von deutsch-evangelischen Tuchmachern, Webern und anderen "Professionisten" zwischen 1818 und 1828, welche die Entstehung von elf evangelischen Pfarreien zur Folge hatte, brachte auch eine Anzahl von evangelischen Geistlichen ins Land, in den meisten Fällen junge Kandidaten der Theologie. Von den in jener Zeit angestellten Pastoren nannten sieben das schlesische Stammesgebiet ihre Heimat: Pastor *Benni* aus Lissa, dessen Nachkommen bekannte Sprachforscher waren, *Biedermann* aus Zduny, *Gerbling* und *Rother* aus Breslau, *Hayn* aus Oels, *Rüdiger* aus Schawone und *Sachs* aus Rawitsch. Die Väter von einigen waren Tuchmacher. Die Pastoren *Modl*, *Berkau* und *Jaeckel* waren aus Posen bzw. Thorn und Filehne. Von den nach 1830 ins Land gekommenen Pastoren entstammten: *Stiller* aus Rawisch, Tuchmachersohn, *Wilhelm* - aus Birnbaum, Pastorsohn, *Jeute* aus Bojanowo - Tuchmachersohn, *Kattein* aus Beuthen, Bürgersohn, *Hinz* aus Wilhelmsburg in Ostpreußen, wo sein Vater Superintendent war, *Sray* aus Postelwitz i. Schl. Nach 1840 wurden neuangestellt: Pastor *Häßner* aus Hermersdorf bei Görlitz gebürtig, *Jarnecki* aus Klein-Ellgut bei Oels; *Cotta* aus Winzig i. Schlesien; *Modl* aus Herrnstadt i. Schlesien; *Menzmann* aus Langenau i. Preußen; *Kruschwitz* aus Jaulitz i. d. Lausitz. Pastor *Lemon* wurde in Posen als Sohn eines Geheimrats geboren; er ist zeitlich der letzte der Pastoren, die aus den angrenzenden preußischen Gebieten nach Polen eingewandert sind. Er wirkte in Ozorkow von 1880-1910.
@@ -483,12 +466,10 @@ After 1850 sons of the native German burghers and craftsmen were already choosin
 In sum we state that in the period 1780 to 1850 41 pastors immigrated into central Poland from Silesia and the Posen country. If we add the pastors whose fathers came into the country as Prussian officials, namely Schwarz, Hermes, Lembke and Börner, the number comes to 45. To these brave German Lutheran men the founding and building up of the Lutheran church and school system is owed without reserve. This, unfortunately, is all too often knowingly passed over in silence by the present Lutheran clergy.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-15">S. 15</a></h2>
+<section class="lit-passage" id="p-15" data-page="15">
+<div class="pg" id="p15"><a href="#p15">S. 15</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Neben dem Geistlichen kamen in die neuentstandenen Städte und Dörfer deutsche Volksschullehrer, zum überwiegenden Teil aus den deutschen Nachbarprovinzen. Davon zeugen zahlreiche Schullisten in den Kirchenarchiven.
@@ -519,6 +500,7 @@ If the migration of the rural settlers went on quietly, unnoticed and evenly, th
 The guiding idea of our work is to establish as exactly as possible the make-up of the Germans by stock. Only this sure foundation makes possible, taking into account the very different colonising abilities, strengths and weaknesses of the individual stocks, a full understanding of the historical development and of the prospects of the Germans of central Poland.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

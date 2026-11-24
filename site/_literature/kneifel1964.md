@@ -7,22 +7,36 @@ alt_url: "/de/literatur/kneifel1964/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-39">39</a> <a href="#p-40">40</a> <a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-45">45</a> <a href="#p-89">89</a> <a href="#p-90">90</a> <a href="#p-91">91</a> <a href="#p-92">92</a> <a href="#p-93">93</a> <a href="#p-94">94</a> <a href="#p-102">102</a> <a href="#p-112">112</a> <a href="#p-123">123</a> <a href="#p-165">165</a> <a href="#p-166">166</a> <a href="#p-179">179</a> <a href="#p-180">180</a> <a href="#p-226">226</a> <a href="#p-235">235</a> <a href="#p-236">236</a> <a href="#p-256">256</a> <a href="#p-257">257</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-39"><span class="toc-e">III. The flowering of new evangelical life</span><span class="toc-o" lang="de">III. Das Aufblühen neuen evangelischen Lehens</span> <span class="toc-p">p. 39</span></a></li>
+<li class="l1"><a href="#p-39"><span class="toc-e">in the 17th and 18th centuries</span><span class="toc-o" lang="de">im 17. und 18. Jahrhundert</span> <span class="toc-p">p. 39</span></a></li>
+<li class="l2"><a href="#p-39"><span class="toc-e">1. The rural colonization</span><span class="toc-o" lang="de">1. Die ländliche Kolonisation</span> <span class="toc-p">p. 39</span></a></li>
+<li class="l1"><a href="#p-89"><span class="toc-e">VI. The Church in Prussian Times</span><span class="toc-o" lang="de">VI. Die Kirche zu preußischer Zeit</span> <span class="toc-p">p. 89</span></a></li>
+<li class="l2"><a href="#p-89"><span>(1793 — 1806)</span> <span class="toc-p">p. 89</span></a></li>
+<li class="l2"><a href="#p-89"><span class="toc-e">1. The Prussian Colonization in Central Poland</span><span class="toc-o" lang="de">1. Die preußische Kolonisation in Mittelpolen</span> <span class="toc-p">p. 89</span></a></li>
+<li class="l2"><a href="#p-93"><span class="toc-e">2. Expansion of the School and Church System</span><span class="toc-o" lang="de">2. Ausbau des Schul- und Kirchenwesens</span> <span class="toc-p">p. 93</span></a></li>
+<li class="l2"><a href="#p-112"><span class="toc-e">3. Schools and Cantorates</span><span class="toc-o" lang="de">3. Schulen und Kantorate</span> <span class="toc-p">p. 112</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">p. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">p. 39</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
 
-#### III. Das Aufblühen neuen evangelischen Lehens
+### III. Das Aufblühen neuen evangelischen Lehens
 
-#### im 17. und 18. Jahrhundert
+### im 17. und 18. Jahrhundert
 
-##### 1. Die ländliche Kolonisation
+#### 1. Die ländliche Kolonisation
 
 Den deutschen Kolonisationsbewegungen im Osten, beginnend mit der mittelalterlichen Früh- und Hochsiedlungszeit, folgte als weitere die der Neuzeit (1550—-1800). Unter Sigismund August setzte sie ein und erreichte unter König Wladyslaw IV. ihren Höhepunkt. Die Ursachen, die diese Ostsiedlung auslösten, waren religiöser, wirtschaftlicher und sozialer Art. Schwierig z. B. war die Lage der Evangelischen in Schlesien, wo sie ihres Glaubens nicht froh werden konnten. Nicht minder verwüstete der 30jährige Krieg (1618—1648) weite Gebiete des Deutschen Reiches, während Polen von ihm fast unberührt blieb. Unter dem Schutz polnischer Adliger, die vielfach selbst Protestanten waren, hoffte man, sich eine neue Existenz gründen und des evangelischen Glaubens unangefochten leben zu können. Und so ergoß sich aus Schlesien, Pommern, Brandenburg, aus der Neumark und aus anderen Gebieten ein Strom von Einwanderern nach Westpreußen und in das angrenzende Posener Land, wo neue Städte und Dörfer gegründet und die alten Orte durch Zuzug erweitert und bevölkert wurden. Die Wellenschläge dieser Kolonisationsbewegung erreichten auch Mittelpolen. Im Jahre 1605 wurde als erstes deutsches Dorf in der Weichselniederung Schlonsk (Slonsk) gegründet *). Seine Entstehung verdankte es dem Bromberger Starosten Smogolewski, der zwölf Holländern aus dem Danziger Werder 25 Hufen zu vierzigjähriger Erbpacht überlassen hatte. Wie bei den alten deutschrechtlichen Dörfern lag die Verwaltung von Slonsk mitsamt der Gerichtsbarkeit in der Hand des aus freier Wahl hervorgegangenen **) Albert Ritsdil setzte sich mit den Sozinianern in seinem Hauptwerk „Die christliche Lehre von der Rechtfertigung und Versöhnung" auseinander. Band 3, Seite 65, 77 u. a. Hugo Grotius näherten sie sich. Seine irenischen Bemühungen deuteten sie dahin, als ob er sich ihnen anschließen und der ihrige werden wollte. Adolf von Harnack nahm gleichfalls Stellung zu ihnen. Nach 1945 befassen sich polnische Forscher sehr eingehend mit den Sozinianern, so J. Tazbir, W. Urban, K. Lepszy, A. Kaminska, Z. Ogonowski u. a.
 
@@ -35,11 +49,11 @@ Den deutschen Kolonisationsbewegungen im Osten, beginnend mit der mittelalterlic
 
 […]
 
-#### III. The flowering of new evangelical life
+### III. The flowering of new evangelical life
 
-#### in the 17th and 18th centuries
+### in the 17th and 18th centuries
 
-##### 1. The rural colonization
+#### 1. The rural colonization
 
 To the German colonization movements in the East, beginning with the medieval period of early and high settlement, there followed, as the next, that of the modern age (1550—-1800). Under Sigismund August it set in and reached its high point under King Wladyslaw IV. The causes that triggered this eastward settlement were of a religious, economic and social kind. Difficult, for example, was the situation of the Evangelicals in Schlesien, where they could get no joy of their faith. Not less did the 30 Years War (1618—1648) lay waste wide areas of the German Reich, while Poland remained almost untouched by it. Under the protection of Polish nobles, who were often themselves Protestants, one hoped to be able to found a new existence and to live in the evangelical faith unchallenged. And so there poured from Schlesien, Pommern, Brandenburg, from the Neumark and from other areas a stream of immigrants into Westpreußen and into the adjoining Posener Land, where new cities and villages were founded and the old places were enlarged and peopled by influx. The wave-strokes of this colonization movement reached Mittelpolen as well. In the year 1605 there was founded as the first German village in the Weichsel lowland Schlonsk (Slonsk) *). Its origin it owed to the Bromberg Starost Smogolewski, who had granted twelve Hollanders from the Danziger Werder 25 hides on forty-year hereditary lease. As with the old German-law villages, the administration of Slonsk together with the jurisdiction lay in the hand of the from free election emerged **) Albert Ritsdil occupied himself with the Socinians in his main work „Die christliche Lehre von der Rechtfertigung und Versöhnung". Volume 3, page 65, 77 and others; Hugo Grotius they drew near to. His irenic efforts they interpreted to mean as if he wished to join himself to them and become one of theirs. Adolf von Harnack likewise took a position on them. After 1945 Polish scholars have been concerning themselves very closely with the Socinians, thus J. Tazbir, W. Urban, K. Lepszy, A. Kaminska, Z. Ogonowski and others.
 
@@ -48,12 +62,10 @@ To the German colonization movements in the East, beginning with the medieval pe
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-40">p. 40</a></h2>
+<section class="lit-passage" id="p-40" data-page="40">
+<div class="pg" id="p40"><a href="#p40">p. 40</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Schulzen. Die evangelischen Dorfbewohner erhielten auch in der „Willkür", in der die Dorfgesetze ihren Niederschlag fanden, das Recht freier Religionsübung, und zwar mit der ausdrücklichen Zusicherung, daß sie „zu einem anderen Gottesdienst nicht gezwungen werden sollen". Um 1610 kam es bei dem Städtchen Bobrowniki zur Gründung der Siedlung Bogpomöz (Gotthelf) an der Weichsel, des ältesten deutschen Dorfes im Dobrzyner Lande<sup class="lit-fn"><a href="#n-de-1">p40-2</a></sup>
@@ -80,12 +92,10 @@ After 1725 the German colonization set in again in increased measure. The old vi
 <span class="lit-note" id="n-en-2">p40-8</span> 8) Albert Breyer, Deutsche Gaue in Mittelpolen, 1935, Verlag Günther Wolff in Plauen/Vogtl. D. Wiss. Ztschr. f. Polen 1939, Heft 36, S. 39 to 61: Dr. Walter Maas, Mittelpolnische Hau-ländereien.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">p. 41</a></h2>
+<section class="lit-passage has-related" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">p. 41</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sehen Dialekts. „Als geschickter Roder und kluger Ackersmann hat sich der Pommer, fälschlich,Kaschube 6 genannt, vorbehaltlos im mittelpolnischen Raum bewährt." Im Warthebruch, der die Landstriche von der ehemaligen preußischen Grenze bis Leśnik (südlich von Uniejów) umfaßte, hob die Kolonisation erst nach 1750 an. Im Jahre 1767 stiftete der Gutsbesitzer und Landrichter S. Leszczyc-Zielonawski auf den Ländereien von Slawsk die Kolonie Wenglewer-Hol. und die Holländereien Rumin, Kolno und Slawsk. Am 4. September 1781 bestätigte König Stanislaw August die Privilegien der im Schlüssel Chelmno gelegenen Siedlung Majdany. Um 1785 bestanden bereits die Dörfer Police, Daniszew und Leszcze. Die Besiedlung des Kalischer Landes begann zwei Jahrzehnte früher als im Warthebruch. Nach der Schulchronik von Czachulec-Schlachtholz soll das gleichnamige Dorf 1726 gegründet worden sein. 1746 wies Paul von Kolno-Prusinski, Grundherr von Trombezyn, deutschen Bauern Waldungen und Wüstungen zur Urbarmachung zu. Sie schufen auf ihnen die Kolonie Lazinsk Hol. Nach 1770 wurden etabliert: die Großsiedlung Prazuehy auf den Besitzungen des Dorfes Cekow und 1775 Zbiersk Hol. 1782 forderte Martin Wagrowski, Grundherr von Sobiesenki und Stok, schlesische Kolonisten zur Niederlassung auf seinen Gütern auf. Kazimierka Stara war im Besitz einer Gründungsurkunde aus dem Jahre 1782. Der Besitzer von Biskupice kolonisierte 1784 Adler Hol. (Orlina). In unmittelbarer Nähe von Kalisch fehlten, im Unterschied von der mittelalterlichen Kolonisation in diesem Raum, geschlossene deutsche Ortschaften. Die Einwanderer waren Schlesier, mit Ausnahme der pommerschen Kolonie Wielopole, Józefów und zum Teil Bialobloty. Die Besiedlung des Gostyniner Landes kam erst in den beiden letzten Jahrzehnten des18.
@@ -112,7 +122,6 @@ Before them went the fame of model settlement technicians, who developed particu
 <span class="lit-note" id="n-en-3">p41-4</span> 4) Of a preponderance of the „holländisch element in the earliest settlements 66, as Gen.-Sup. D. Julius Bursche believed he could establish in the contribution on the Evangelisch-Augsburgische Kirche Bd. V (See bibliography) in the „Ekklesia", there can be no talk.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>Kneifel (1964) says that in 1746 Paul von Kolno-Prusinski, lord of "Trombezyn" (Trąbczyn), assigned German peasants woodland and waste to clear, and that on it they created the colony of Lazinsk (Łazińsk), Trąbczyńskie Stare Olędry. The documents carry the same grant: the summons of 1860 names "Paweł z Kolna Prusiński" with his wife Katarzyna as the grantors who gave the Hollanders on the lands of the Trąbczyn estate their privilege in 1746, and the boundary decree of 1775 attests the settlement of the olędry on those woodlands "as attested by the rights granted them in 1746". Kneifel names the husband alone; the documents the couple.</p>
@@ -120,9 +129,8 @@ Before them went the fame of model settlement technicians, who developed particu
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">p. 42</a></h2>
+<section class="lit-passage" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">p. 42</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Kolonisten im 17. und bis zum Ausgang des 18. Jahrhunderts waren ausschließlich Lutheraner. Während meiner früheren jahrelangen Forschungen habe ich keinerlei Spuren einer etwaigen Einwanderung deutsch-katholischer Siedler in Mittelpolen in jenem Zeitraum gefunden. Bei der Beurteilung der deutschen ländlichen Kolonisation in der genannten Periode sei festgestellt:1.
@@ -141,12 +149,10 @@ Leading secular and spiritual personalities of the Polish people called German p
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-45">p. 45</a></h2>
+<section class="lit-passage" id="p-45" data-page="45">
+<div class="pg" id="p45"><a href="#p45">p. 45</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 1731 hieß es: „Es wird ihnen anf ewige Zeiten erlaubt, eine Schule aufzubauen und zu erhalten, und zu dieser Schule gibt man ihnen zwei Morgen Land, damit sie davon einen Schulmeister unterhalten können". Ferner entstanden Schulen: 1765 in Witoszyn-Lengden, 1770 in Bögpomöz und 1780 in Rybitwy.
@@ -177,21 +183,19 @@ In the German village schools, generally called cantorate schools (religion scho
 Besides their service as teachers the „school-holders" were also cantors, i.e. readers in the service of worship and rural representatives of the pastors. On Sundays and feast days they held a reading service, performed churchly acts (baptisms and burials) and represented the pastor also otherwise, for example in confirmation instruction. To the cantor was subject the religious care often of several localities, which were joined together into the so-called cantorate. According to their size a rural church congregation was made up of a number of cantorates. They lay from the parish place on the average five to twenty kilometers and even more distant away. In consequence of the great distances, especially with the bad conditions of the roads, the pastors visited them only two to three times a year. In the last century more regularly and more frequently. The cantorate members themselves took part also only rarely in the divine ser-
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-89">p. 89</a></h2>
+<section class="lit-passage" id="p-89" data-page="89">
+<div class="pg" id="p89"><a href="#p89">p. 89</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
 
-#### VI. Die Kirche zu preußischer Zeit
+### VI. Die Kirche zu preußischer Zeit
 
-##### (1793 — 1806)
+#### (1793 — 1806)
 
-##### 1. Die preußische Kolonisation in Mittelpolen
+#### 1. Die preußische Kolonisation in Mittelpolen
 
 Aus den durch die Teilungen von 1793 und 1795 erworbenen und bis zum Tilsiter Frieden von 1807 verwalteten polnischen Gebieten bildete Preußen die Provinzen Süd-und Neuostpreußen und Neu-Schlesien. 1793 wurden die südpreußischen Gebiete in zwei Verwaltungsbezirke gegliedert: in den Posener und Lentschützer resp. statt des letzteren in den Petrikauer oder Kalischer. 1796 traten an deren Stelle drei Kammer-Departements: das Posener, Kalischer und Warschauer. Neuostpreußen wurde 1795 in zwei Kammer-Departements geteilt: in das Plozker und Bialystoker1)
 
@@ -210,11 +214,11 @@ Wenn zur Kolonisation deutsche Bauern und Handwerker herangezogen wurden, dann g
 
 […]
 
-#### VI. The Church in Prussian Times
+### VI. The Church in Prussian Times
 
-##### (1793 — 1806)
+#### (1793 — 1806)
 
-##### 1. The Prussian Colonization in Central Poland
+#### 1. The Prussian Colonization in Central Poland
 
 From the Polish territories acquired through the partitions of 1793 and 1795 and administered until the Peace of Tilsit of 1807, Prussia formed the provinces of South Prussia and New East Prussia and New Silesia. In 1793 the South Prussian territories were divided into two administrative districts: into the Posen and Lentschütz ones, respectively in place of the latter the Petrikau or Kalisch one. In 1796 three chamber departments took their place: the Posen, Kalisch and Warschau ones. New East Prussia was divided in 1795 into two chamber departments: the Plozk and Bialystok ones1)
 
@@ -229,12 +233,10 @@ If German farmers and craftsmen were drawn upon for the colonization, this happe
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-90">p. 90</a></h2>
+<section class="lit-passage" id="p-90" data-page="90">
+<div class="pg" id="p90"><a href="#p90">p. 90</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 kulturschöpferischen Erwägungen. Mit der Siedlungstätigkeit bezweckte man, wie es Freiherr von Schroetter, der führende Kopf in Neuostpreußen, erklärte, nicht bloß „Vermehrung der Volksmenge und Vermehrung des National-Vermögens durch das Vermögen der Golonisten, sondern auch und hauptsächlich Beförderung der Landes-Cultur unmittelbar durch die Colonisten selbst und Hebung der allgemeinen Industrie durch ihr Beispiel". Wer also germanisatorische Tendenzen den preußischen Behörden bei ihren damaligen Kolonisationsbestrebungen unterschiebt, wird den geschichtlichen Vorgängen jener Tage nicht gerecht.
@@ -269,12 +271,10 @@ In the same year, on the woodlands of the manor of Skoszewy, the colonies Gtogow
 3) H. Textor, Die schwäbische Auswanderung nach Polen, Volksfr.-KaL, 1930, pp. 75 f.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-91">p. 91</a></h2>
+<section class="lit-passage" id="p-91" data-page="91">
+<div class="pg" id="p91"><a href="#p91">p. 91</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sulzfeld, das in Sternform angelegt wurde, machte sich Bernhard Zimmermann aus Sulzfeld/Württemberg verdient. „Geometrisch klare Formen waren das Ideal der preußischen Kolonisation und ihrer Feldmesser." In allen diesen Kolonien wurden hauptsächlich Schwaben angesiedelt» Außerdem wanderten in Neusulzfeld in den ersten Jahrzehnten des 19. Jahrhunderts Familien aus dem Badischen, aus Bayern (Pfalz), aus Hessen, Preußen, Sachsen, aus dem Posenschen und zum Teil aus Lothringen ein. Nach Königsbach kamen Schwaben, nach Grünberg auch Elsässer. Die ersten Siedler von Effingshausen stammten aus Baden und Sachsen. In Königsbach hat sich schwäbische Art und Sprache am längsten und reinsten erhalten. In Hochwald machten sich Schwaben und Elsässer ansässig. Die Ansetzung der Kolonisten in Hochwald geschah so wie in den anderen königlichen Dörfern. In den Waldungen wurden Wege gehauen, dann Plätze vermessen und in Form von Erbzinsverschreibungen an die einzelnen Familien vergeben. Den Bau von Wohn-und Wirtschaftsgebäuden, die Anschaffung von Vieh, Saat und Geräten besorgten die Kriegs- und Dämonenkammern. Es sei vermerkt, daß in der Anfangszeit die Kolonisten schwer unter der Wolfsplage zu leiden hatten.
@@ -293,12 +293,10 @@ With the state colonization private colonization kept step, and that through Pol
 6) August Müller, Die preußische Kolonisation in Nordpolen und Litauen, 1795—-1807.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-92">p. 92</a></h2>
+<section class="lit-passage" id="p-92" data-page="92">
+<div class="pg" id="p92"><a href="#p92">p. 92</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Brand von 1793 arg zerstörte Kalisch bauten die preußischen Behörden wieder auf. Die anderen Städte des Kalischer Landes, wie Stawiszyn, Turek, Wladyslawow erhielten gleichfalls evangelische Einwanderer. Ebenso im Warthebruch die Städte Konin, Zagö-röw und Kolo. In Kujawien, in Dombie, ließen sich deutsche Tuchmacher nieder. Schon 1798 bildete sich hier eine deutsche Tuchmacherinnung. Im Städtchen Wiskitki machten sich Tuchmacher, Tuchscherer, Färber, Leineweber und Lohgerber ansässig. Um die gleiche Zeit sind im Gostyniner Lande, in Gombin, Handwerker und Ackerbürger anzutreffen. Dasselbe gilt für Pabianice, Lentschütz, Petrikau und Brzeziny, wo auch einzelne Tuchweber ihr Fortkommen fanden. In Kowal und Chodetsch wanderten zahlreiche Handwerker ein, darunter eine Anzahl von Webern. Im Jahre 1797 schenkte der preußische König dem Grafen von Lüttichau das Grodztwo Kowal an der dortigen Stadt grenze. Während der preußischen Herrschaft sind nach Warschau viele evangelische Zivil- und Militärbeamte, Handwerker, Kaufleute und sonstige Erwerbssuchende zugezogen7)
@@ -341,17 +339,15 @@ Bogumil Goltz wrote: Buch der Kindheit (Frankfurt a. M. 1847); Ein Kleinstädter
 10) Cf. section VIH 2: Vigorous growth of new congregations.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-93">p. 93</a></h2>
+<section class="lit-passage" id="p-93" data-page="93">
+<div class="pg" id="p93"><a href="#p93">p. 93</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 war, so reicht die Bedeutung dieser Tatsache angesichts der in dieser kurzen Zeit geleisteten großen kulturschöpferischen Arbeit weit über das übliche Maß kurzfristiger territorialer Eroberungen hinaus. Gerade der Umstand, daß Preußen unter Hintansetzung der Interessen staatlicher Nutznießung und Sicherheit sich von einer Politik liberalistisch-humanitärer Prägung leiten ließ, hat zu Leistungen geführt, wie sie unter anderen Umständen kaum erreicht worden wären. Es war nicht die Politik des Eroberers und Ausbeuters, die Preußen in der neuen Provinz betrieb, sondern ehrliche, opfervolle Arbeit am Aufbau des darniederliegenden Landes. Viel zu wenig ist diese Tatsache von der Geschichtsschreibung beachtet worden"
 
-##### 2. Ausbau des Schul- und Kirchenwesens
+#### 2. Ausbau des Schul- und Kirchenwesens
 
 Im Jahre 1803 wurde der aus Thorn gebürtige Samuel Gottlieb Linde (1771—1847), Ordner des polnischen Sprachschatzes (Wörterbuch in sechs Bänden; 1814 abgeschlossen), vom Minister Voss zur Errichtung und Leitung eines Lyzeums in Warschau berufen. Linde erwarb sich um die Anstalt, die im Sächsischen Palais untergebracht war und deren Einrichtung fast 5000 Taler kostete, Verdienste<sup class="lit-fn"><a href="#n-de-6">p93-12</a></sup>
 
@@ -366,7 +362,7 @@ Im Dobriner Lande wird die Zahl der deutschen Volksschulen und Kantorate für da
 
 been, the significance of this fact, in view of the great culture-creating work accomplished in this short time, reaches far beyond the usual measure of short-term territorial conquests. It was precisely the circumstance that Prussia, setting aside the interests of state profit and security, let itself be guided by a policy of liberalistic-humanitarian stamp, that led to achievements such as would hardly have been reached under other circumstances. It was not the policy of the conqueror and exploiter that Prussia pursued in the new province, but honest, sacrificial work on the building up of the prostrate land. Far too little has this fact been heeded by the writing of history"
 
-##### 2. Expansion of the School and Church System
+#### 2. Expansion of the School and Church System
 
 In the year 1803 Samuel Gottlieb Linde (1771—1847), born in Thorn, arranger of the Polish vocabulary (dictionary in six volumes; completed 1814), was called by Minister Voss to the establishment and direction of a lyceum in Warschau. Linde acquired merits for the institution, which was housed in the Saxon Palace and whose outfitting cost almost 5000 thaler<sup class="lit-fn"><a href="#n-en-6">p93-12</a></sup>
 
@@ -377,12 +373,10 @@ In the Dobrin land the number of German elementary schools and cantorates for th
 <span class="lit-note" id="n-en-6">p93-12</span> 12) Alfred Lattermann, Samuel Gottfried Linde, der Ordner des polnischen Sprachschatzes, pp. 216 f. (in: Kurt Lück, Deutsche Gestalter und Ordner im Osten. 1942).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-94">p. 94</a></h2>
+<section class="lit-passage" id="p-94" data-page="94">
+<div class="pg" id="p94"><a href="#p94">p. 94</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 preußischer Zeit in der Lodzer Gegend 15 deutsch-evangelische Volksschulen. Die Dorflehrer waren keine pädagogisch vorgebildeten Kräfte, meist übten sie noch einen Nebenberuf aus. Hingegen in den Stadtschulen sah es in bezug auf die Ausbildung der Lehrer erfreulicher aus. Die Besoldung war hier geordneter und gesicherter. Ähnliche Verhältnisse auf dem Gebiete der Schule herrschten damals auch in Deutschland.
@@ -421,12 +415,10 @@ By decree of the Prussian chamber at Plozk of September 24, 1799 the seat of the
 The efforts for the establishment of the parish of Dombie date from 1799. At that time a commission appeared here, whose members were, among others, War Councillor von Colomb and Tax Councillor von Koehlichen. This commission determined three Morgen of land for the evangelical church to be erected, the parsonage and schoolhouse. Toward the building of the house of God completed in 1806 1 S) D. Wiss. Ztsch. f. Polen. Posen 1934, issue 27, p. 87. u ) Ibid.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-102">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-102">p. 102</a></h2>
+<section class="lit-passage" id="p-102" data-page="102">
+<div class="pg" id="p102"><a href="#p102">p. 102</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 aas Stawiszyn, wohin zuletzt Prazuchy administrativ gehörte. Die Verselbständigung der Gemeinde Prazuchy verfügte Konsistorialrat Herzberg aus Kalisch am 1. Mai 1808. Kirche und Pfarrhaus aus Holz wurden im gleichen Jahre errichtet. Bei den Durch* märschen napoleonischer Truppen nach Rußland hatten die Eingepfarrten viel zu leiden. Die ersten beiden Pastoren waren: Sigismund Wilhelm Valentin Künzel, von 1808 bis 1824, und Friedrich Rüdiger, 1824 bis 18436).
@@ -461,17 +453,15 @@ Since 1790 the little town of Slesin, 20 kilometers from Konin, with the preachi
 <span class="lit-note" id="n-en-7">p101-6</span> 6) Cf. Busch, Beiträge..., Kneifel, E., Die evang.-augsb. Gemeinden 4er Kalischer Diözese.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-112">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-112">p. 112</a></h2>
+<section class="lit-passage" id="p-112" data-page="112">
+<div class="pg" id="p112"><a href="#p112">p. 112</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Blendow; 1840 Plonsk, Jawor, Kozienice, Szczuczyn; 1841 Feliksow (seit 1842 in Ra-domsko) und Konska Wola, 1842 Maslaki, Sadoles-Platkownica, Pultusk, Wisztyniec, Augustow, 1843 Kolo, Stara Iwiczna, Nasielsk, 1844 Sejny, 1846 Tschenstochau, Czarny-las und Secymin, 1848 Lentschiitz. Im ganzen wurden also 23 neue lutherische Pfarrgemeinden und 24 neue Filiale gegründet. In einem Zeitraum von 21 Jahren war dies ein sehr erfreuliches gemeindliches Wachstum!
 
-##### 3. Schulen und Kantorate
+#### 3. Schulen und Kantorate
 
 Das Schulwesen im Lande leitete und beaufsichtigte an Stelle der Edukations-Kammer die Kommission für Volksaufklärung im Königreich Polen. Die Schulordnung aus dem Jahre 1808 und das 1834 erlassene neue Schulgesetz verpflichteten römisch-katholische und auch evangelische Pfarrer und Gutsbesitzer zur Aufsicht und Berichterstattung über die Schulen in den Gemeinden. Das Schulgesetz 1840, das der russische Minister Uwarow entworfen und Kaiser Nikolaus L bestätigt hatte, war für die Lutheraner insofern ungünstig, als es durch seine unklaren Bestimmungen der Ingerenz polnisch-katholischer Behörden in das deutsch-evangelische Schulwesen Tür und Tor öffnete. So nahm u. a. der Kurator des Warschauer Lehrbezirks im Reskript vom 23. Februar 1843 an das General-Konsistorium Stellung gegen das Versenden von römisch-katholischen Büchern und Schriften an evangelische Schulen. Ebenso erklärte der Schulkurator im Erlaß vom 28. August 1847, der Statthalter habe zwecks Pflege religiösen Geistes und Erhaltung der deutschen Sprache nicht nur die Trennung der deutsch-evangelischen Schulen von den polnisch-katholischen, sondern auch die Gründung neuer Schulen in den deutsch-lutherischen Gemeinden befohlen. Durch diese Anordnung sind die konfessionell und national gemischten Schulen nach dem Sprach- und Bekenntnisprinzip größtenteils getrennt worden. Die polnisch-katholischen Behörden versuchten, die Realisierung der Anordnung zu hintertreiben, indem sie bei der Umwandlung der Simultanschulen bzw. bei der Gründung neuer evangelischer Schulen Schwierigkeiten machten. Nach 1830 ging das Bestreben der Regierung dahin, die Kantoratsschulen nach Möglichkeit in Elementarschulen umzuwandeln. Sie wollte dadurch ihr Niveau heben. Denn vielerorts waren sie in einem beklagenswerten Zustande. Nach 1840 gab es in der Weichselniederung neben zahlreichen Kantoratsschulen nachstehende Elementarschulen: in Bögpomöz, Osieker Lengden, Witoszyn, Rybitwy, Wolfswinkel, Lentzen, Modzerowo, Groß-Domb, Troszyn, Borki, Sady, Wymysle, Wionczemin, Kladow. Die Elementarschulen sollten auch polnischen Kindern zugänglich sein. Diese Absicht aber wurde auf russisches Eingreifen hin sowohl hier als auch anderwärts vereitelt. Im Gostyniner Lande betrug die Zahl der deutschen Schulen im vierten Jahrzehnt des 19. Jahrhunderts im ganzen 22. Im Kalischer Lande war die Zahl bedeutend höher. Allein in der Gemeinde Stawiszyn bestanden acht Schulen, in der zu Wladyslawow sieben, Grodziec etwa zehn, im Bezirk Zagörow sieben, Turek sechs, Prazuchy zehn. Mit den drei Schulen in der Parochie Kalisch zählte das Kalischer Land an 55 evangelische Schulen. Einzelne von ihnen, wie z. B. Orlina Wielka, Lazinsk, Obory, waren mit je 15,18 und 22 Morgen Land ausgestattet.
 
@@ -482,19 +472,17 @@ Unter den Lehrern des Kalischer Landes zeichnete sich der in Schönwald/Schlesie
 
 Blendow; 1840 Plonsk, Jawor, Kozienice, Szczuczyn; 1841 Feliksow (since 1842 in Ra-domsko) and Konska Wola, 1842 Maslaki, Sadoles-Platkownica, Pultusk, Wisztyniec, Augustow, 1843 Kolo, Stara Iwiczna, Nasielsk, 1844 Sejny, 1846 Tschenstochau, Czarny-las and Secymin, 1848 Lentschiitz. In all, then, 23 new Lutheran parish congregations and 24 new filials were founded. In a period of 21 years this was a very gratifying congregational growth!
 
-##### 3. Schools and Cantorates
+#### 3. Schools and Cantorates
 
 The school system in the country was directed and supervised in place of the Chamber of Education (Edukations-Kammer) by the Commission for Popular Enlightenment (Kommission für Volksaufklärung) in the Kingdom of Poland. The school ordinance of the year 1808 and the new school law issued in 1834 obligated Roman Catholic and also evangelical pastors and estate owners to supervision and reporting on the schools in the congregations. The school law of 1840, which the Russian minister Uwarow had drafted and Emperor Nikolaus L had confirmed, was unfavorable for the Lutherans insofar as it opened door and gate through its unclear provisions to the interference (Ingerenz) of Polish-Catholic authorities in the German-evangelical school system. Thus, among others, the curator of the Warschau school district took in the rescript of 23 February 1843 to the General Consistory a position against the sending of Roman Catholic books and writings to evangelical schools. Likewise the school curator declared in the decree of 28. August 1847 that the viceroy had, for the cultivation of a religious spirit and the preservation of the German language, ordered not only the separation of the German-evangelical schools from the Polish-Catholic but also the founding of new schools in the German-Lutheran congregations. Through this ordinance the confessionally and nationally mixed schools were for the most part separated according to the language and confession principle. The Polish-Catholic authorities attempted to thwart the realization of the ordinance by making difficulties in the conversion of the Simultanschulen (interconfessional schools) or in the founding of new evangelical schools. After 1830 the striving of the government went toward converting the cantorate schools into elementary schools so far as possible. It thereby wished to raise their level. For in many places they were in a lamentable state. After 1840 there existed in the Weichsel lowland, besides numerous cantorate schools, the following elementary schools: in Bögpomöz, Osieker Lengden, Witoszyn, Rybitwy, Wolfswinkel, Lentzen, Modzerowo, Groß-Domb, Troszyn, Borki, Sady, Wymysle, Wionczemin, Kladow. The elementary schools were also to be accessible to Polish children. This intention, however, was thwarted upon Russian intervention both here and elsewhere. In the Gostynin land the number of German schools in the fourth decade of the 19th century amounted in all to 22. In the Kalisch land the number was considerably higher. In the congregation of Stawiszyn alone there existed eight schools, in that of Wladyslawow seven, Grodziec about ten, in the district of Zagörow seven, Turek six, Prazuchy ten. With the three schools in the parish of Kalisch the Kalisch land counted in all 55 evangelical schools. Individual ones of them, such as for example Orlina Wielka, Lazinsk, Obory, were endowed with 15,18 and 22 Morgen of land respectively.
 
 Among the teachers of the Kalisch land the Karl Kittner born in Schönwald/Schlesien distinguished himself. For over 50 years, from 1813 to 1869, he labored at the school in Wladyslawow. „In the memory of the members of the congregation teacher and cantor Kittner lives on indeed as a strict, but also as a hard-working pedagogue". In the Lodz region likewise numerous new schools were called into life. In the town and country congregations founded in the period 1828/49 schools arose everywhere, their number amounting to about 80 to 90. In Lodz itself there were in the year 1841 already two
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-123">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-123">p. 123</a></h2>
+<section class="lit-passage" id="p-123" data-page="123">
+<div class="pg" id="p123"><a href="#p123">p. 123</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
@@ -521,12 +509,10 @@ To the diocese of Kalisch belonged: Kalisch, Sobiesenki, Wielun with the filial 
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-165">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-165">p. 165</a></h2>
+<section class="lit-passage" id="p-165" data-page="165">
+<div class="pg" id="p165"><a href="#p165">p. 165</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 1855 wurde das massive Pfarrhaus in Lowicz errichtet, 1860/61 die Kirche in Ilow, deren Einweihung am 1» Advent 1861 stattgefunden hat. Das steinerne Pfarrhaus in Rawa stammte aus dem Jahre 1860. Im Kirchspiel Brzeziny wurden 1862 die Kirche, dann von 1878/85 das Pfarrhaus umgebaut. 1904 erstellte Pastor Wojak das Gemeindehaus (Konfirmandenhaus). Am 11. Oktober 1904 wurde es, verbunden mit der 75-Jahr-Feier des Bestehens der Brzeziner Parochie, eingeweiht. Am 15. August 1877 konnte der Grundstein zu der neuen Kirche in Wloclawek gelegt werden. Ihre Einweihung vollzog General-Superintendent Everth am 25. Oktober 1881. Im Jahre 1873 erbaute Pastor Fiedler das Pfarrhaus zu Belchatow. Nach 1870 ging die Gemeinde zahlenmäßig stark zurück. 1870 (Pestjahr) und 1872 (Hungerjahr) gab wohl hier den äußeren Anlaß zur Auswanderung nach Wolhynien. 1870 betrug die Zahl der Taufen im Kirchspiel 190, 1875 nur noch 125. Am 10* Juni 1888 wurde die neue Kirche zu Rypin durch Bischof von Everth eingeweiht. Sie war eine der größten Provinzkirchen und faßte etwa 2000 Besucher. 1853 erwarb die Filialgemeinde Lentschütz das Kirchlein von Groß-Bruzyca bei Alexandrow für 2700 Zloty. Von 1873 bis 1888 betreute die Parochie Alexandrow Pastor Zander, der sich durch Güte und Freundlichkeit auszeichnete. Zu seiner Zeit wurde eine Zählung der Gemeinde durchgeführt, die 768 lutherische Familien mit einer Seelenzahl von 4187 ergab. In Wladyslawow wurde eine neue Kirche errichtet, deren Grundsteinlegung am 6. Mai 1872 stattgefunden hat. Im Jahre 1900 beabsichtigte man, die Parochie aufzulösen, indem ein Teil der Ortschaften an die Gemeinde Turek und der andere an die in Kolo angegliedert werden sollte.Da man jedoch auf Widerstand des Wladyslawower Kirchspiels stieß, so ließ man die Absicht fallen. Seit 1873 wanderten aus der Parochie Dombie zahlreiche Kolonisten nach dem Lubliner Gouvernement und Wolhynien aus. 1875/76 wurde die Kirche in Stawiszyn erbaut. Von 1889 bis 1899 amtierte hier Pastor Joseph Rosenberg, der die Missionsfeste im Kalischer Lande eingeführt hatte. In der Zeit von 1846 bis 1866, also 20 Jahre, dauerte der Kirchbau in der armen Gemeinde Grodziec. Von 1864 bis 1868 war man mit der Errichtung des Pfarrhauses beschäftigt. In Sobiesenki wurden 1880 Kirche und Pfarrhaus wegen Baufälligkeit versiegelt. Pastor Kaspar Mikulski errichtete 1882 das Pfarrhaus und vollführte in der Zeit 1882/84 den Bau der Kirche. Die Erstellungskosten des Gotteshauses und des Pastorats betrugen insgesamt 25 465 Rubel 19 Kopeken. Die Vermehrung deutsch-evangelischer Siedlungen im Bereiche der Parochie Wiehln um 1866 bedingte die Notwendigkeit der Gründung von Schul- und Bethäusern in Swoboda, Janow, Wolnica-Grabowska und Mar janow. Der Ausbruch der Cholera in Wielun im Jahre 1873 bewog das dortige Kirchenkollegium, den im Stadtbezirk liegenden evangelischen Friedhof stillzulegen und einen neuen an der Widoradzka-Straße einzurichten. Im Jahre 1888 beabsichtigte man im Filial Maslaki die Erstellung einer neuen Kirche. Die russischen Behörden bestätigten jedoch das Projekt nicht, so daß das baufällige Bethaus notgedrungen ausgebessert werden mußte. In den 70 bis 80 Jahren des verflossenen Jahrhunderts wanderten zahlreiche Eingepfarrte aus der Parochie Przedecz aus, wodurch sich ihre Seelenzahl beträchtlich verminderte. So zählte sie z. B. im Jahre 1865 224 Taufen, dagegen 1875 nur 120. 1875 erwarb das lutherische Kirchspiel Zdunska-Wola zum Pfarrhaus das ehemals Julius Hillesche Besitztum mit Garten und Nebengebäuden für 4230 Rubel. Auf Pastor Boerners Antrag hin errichtete man 1895 ein zweistöckiges Gebäude mit Lokalitäten für den Kirchengesangverein und für das Kir chenpersonal. Später wurde in ihm auch eine siebenklassige allgemeine Volksschule eingemietet. Die Baukosten beliefen sich auf 15 000 Rubel. In Sieradz wurde ein neues Bethaus erbaut, dessen Einweihung 1897 stattgefunden hat. In den Jahren 1867/69 wurde der Bau des Pfarrhauses in Turek durchgeführt. Am 30. Mai 1861 wurde die Kirche zu Sompolno eingeweiht. 1863/64 wanderten zahlreiche Gemeindeglieder nach
@@ -537,12 +523,10 @@ To the diocese of Kalisch belonged: Kalisch, Sobiesenki, Wielun with the filial 
 In 1855 the massive parsonage in Lowicz was erected, in 1860/61 the church in Ilow, whose dedication took place on 1� Advent 1861. The stone parsonage in Rawa dated from the year 1860. In the parish of Brzeziny there were rebuilt in 1862 the church, then from 1878/85 the parsonage. In 1904 Pastor Wojak erected the congregation house (confirmation house). On 11 October 1904 it was dedicated, connected with the 75-year celebration of the existence of the Brzeziny parish. On 15 August 1877 the foundation stone of the new church in Wloclawek could be laid. Its dedication was performed by General-Superintendent Everth on 25 October 1881. In the year 1873 Pastor Fiedler built the parsonage at Belchatow. After 1870 the congregation declined heavily in numbers. 1870 (plague year) and 1872 (hunger year) probably gave here the external occasion for the emigration to Wolhynien. In 1870 the number of the baptisms in the parish was 190, in 1875 only 125. On 10* June 1888 the new church at Rypin was dedicated by Bishop von Everth. It was one of the largest provincial churches and held about 2000 visitors. In 1853 the filial congregation of Lentschütz acquired the churchlet of Groß-Bruzyca near Alexandrow for 2700 zloty. From 1873 to 1888 Pastor Zander, who distinguished himself by goodness and friendliness, cared for the parish of Alexandrow. In his time a count of the congregation was carried out, which yielded 768 Lutheran families with a soul number of 4187. In Wladyslawow a new church was erected, whose foundation-stone laying took place on 6 May 1872. In the year 1900 it was intended to dissolve the parish, in that one part of the localities was to be attached to the congregation of Turek and the other to that in Kolo. Since one however met with resistance of the Wladyslawow parish, the intention was let fall. From 1873 numerous colonists emigrated from the parish of Dombie to the Lublin gouvernement and to Wolhynien. In 1875/76 the church in Stawiszyn was built. From 1889 to 1899 Pastor Joseph Rosenberg served here, who had introduced the mission festivals in the Kalisch land. In the time from 1846 to 1866, thus 20 years, the church building lasted in the poor congregation of Grodziec. From 1864 to 1868 one was occupied with the erection of the parsonage. In Sobiesenki church and parsonage were sealed in 1880 because of dilapidation. Pastor Kaspar Mikulski erected in 1882 the parsonage and carried out in the period 1882/84 the building of the church. The construction costs of the house of God and of the parsonage amounted in all to 25 465 rubles 19 kopecks. The increase of the German-evangelical settlements in the area of the parish of Wielun about 1866 conditioned the necessity of the founding of school- and prayer houses in Swoboda, Janow, Wolnica-Grabowska and Marjanow. The outbreak of the cholera in Wielun in the year 1873 moved the church board there to close down the evangelical cemetery lying in the city district and to set up a new one on the Widoradzka street. In the year 1888 it was intended in the filial of Maslaki to erect a new church. The Russian authorities however did not confirm the project, so that the dilapidated prayer house had of necessity to be repaired. In the 70 to 80 years of the past century numerous parishioners emigrated from the parish of Przedecz, whereby its soul number decreased considerably. Thus it counted for example in the year 1865 224 baptisms, on the other hand in 1875 only 120. In 1875 the Lutheran parish of Zdunska-Wola acquired for the parsonage the former Julius Hille property with garden and outbuildings for 4230 rubles. At Pastor Boerner's request there was erected in 1895 a two-storeyed building with premises for the church singing society and for the church personnel. Later there was rented into it also a seven-grade public elementary school. The building costs amounted to 15 000 rubles. In Sieradz a new prayer house was built, whose dedication took place in 1897. In the years 1867/69 the building of the parsonage in Turek was carried out. On 30.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-166">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-166">p. 166</a></h2>
+<section class="lit-passage" id="p-166" data-page="166">
+<div class="pg" id="p166"><a href="#p166">p. 166</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
@@ -561,12 +545,10 @@ The foundation stone of the building of the Lutheran church in Zagórów was lai
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-179">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-179">p. 179</a></h2>
+<section class="lit-passage" id="p-179" data-page="179">
+<div class="pg" id="p179"><a href="#p179">p. 179</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
@@ -585,12 +567,10 @@ In the first decade of the 20th century the church and tower alteration was carr
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-180">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-180">p. 180</a></h2>
+<section class="lit-passage" id="p-180" data-page="180">
+<div class="pg" id="p180"><a href="#p180">p. 180</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
@@ -609,12 +589,10 @@ In the autumn of 1912 Pastor Bierschenk opened the confirmands' home in Sompolno
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-226">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-226">p. 226</a></h2>
+<section class="lit-passage" id="p-226" data-page="226">
+<div class="pg" id="p226"><a href="#p226">p. 226</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
@@ -633,12 +611,10 @@ From 1930 to 1939 there administered the congregation Sobiesenki Pastor Viktor M
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-235">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-235">p. 235</a></h2>
+<section class="lit-passage" id="p-235" data-page="235">
+<div class="pg" id="p235"><a href="#p235">p. 235</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
@@ -657,12 +633,10 @@ In Lazinsk, in the congregation of Zagörow, there existed before 1914 a Hahn so
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-236">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-236">p. 236</a></h2>
+<section class="lit-passage" id="p-236" data-page="236">
+<div class="pg" id="p236"><a href="#p236">p. 236</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der Spitze des Lazinsker Brüderkreises stand zuerst der Laienprediger Buchinski, zuletzt die Bauern Schmechel und Polsfuth. Als die Lodzer Christliche Gemeinschaft in Lazinsk Fuß faßte, verloren die „Brüder" an Boden.
@@ -677,12 +651,10 @@ the head of the Lazinsk Brethren circle stood at first the lay preacher Buchinsk
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-256">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-256">p. 256</a></h2>
+<section class="lit-passage" id="p-256" data-page="256">
+<div class="pg" id="p256"><a href="#p256">p. 256</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
@@ -701,12 +673,10 @@ Pastor Adolf Doberstein wrote in the "Luthererbe in Polen" of 13. March 1938 on 
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-257">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-257">p. 257</a></h2>
+<section class="lit-passage" id="p-257" data-page="257">
+<div class="pg" id="p257"><a href="#p257">p. 257</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 […]
@@ -729,6 +699,7 @@ On the basis of this compilation Pastor D ob erst ein concludes: "For the answer
 […]
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

@@ -7,6 +7,7 @@ alt_url: "/literature/seidel2018/"
 excerpt_separator: ""
 ---
 {% raw %}
+<div class="lit-reader lit-reader--solo"><div class="lit-text">
 <div class="lit-summary" markdown="1">
 
 Eine Biographie Friedrich Ludwigs, Fürst zu Hohenlohe-Ingelfingen (1746-1818), im Buch durchgehend „FL“, von Hans-Joachim Seidel, der in Ingelfingen aufwuchs. Sie schöpft vor allem aus den Briefen und Akten des Hohenlohe-Zentralarchivs Neuenstein, die oft ausführlich angeführt werden, aus Adolf Fischers Geschichte des Hauses Hohenlohe (1871) und aus der Untersuchung der oberschlesischen Güter von Gerlinde Kraus (2001). Dreiundzwanzig Kapitel mit „Exkursen“ zum Hintergrund, acht Anhänge und ein Quellenverzeichnis; die Anmerkungen (S. 257-266) sind in der Abschrift nicht übertragen.
@@ -54,4 +55,5 @@ Eine Tafel von FLs militärischer Laufbahn; eine Karte Oberschlesiens und Polens
 ### Wo die Dokumente anderes sagen Trąbczyn kam mit Szetlewek, Nowa Wieś, Łazy und Osiny durch die königliche Schenkungsurkunde vom 9. August 1796 an FL, als der Krone heimgefallene, also Prusimskis eingezogene Güter (Oe 1 Bü 14525, Dok. 1), nicht als Kron- oder Starosteigut; Zagórów kam durch eine Verleihungsurkunde vom 19. Juni 1797 (I. HA Rep. 162 Nr. 295, Dok. 3), nicht 1796. Der Abschrift des Kolonistenvertrags fehlt der Anfang; sie ist nach ihrer Ausfertigung datiert, 21. März 1806 (APP 53/968/0/-/801, Dok. 3), sodass der 18. Mai 1805 weder bestätigt noch ausgeschlossen werden kann; die Zustimmung der Kammer vom 28. Januar 1806 (Dok. 2) und Triebenfelds Schuldschein vom 28. Januar 1805 über die 50.000 Taler (Rep. 162 Nr. 295, Dok. 1) stimmen überein.
 
 </div>
+</div></div>
 {% endraw %}

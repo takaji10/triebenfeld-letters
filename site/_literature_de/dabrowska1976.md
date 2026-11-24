@@ -7,6 +7,7 @@ alt_url: "/literature/dabrowska1976/"
 excerpt_separator: ""
 ---
 {% raw %}
+<div class="lit-reader lit-reader--solo"><div class="lit-text">
 <div class="lit-summary" markdown="1">
 
 Drei Artikel aus *Pinkas Hakehillot Polin*, Yad Vashems Enzyklopädie der jüdischen Gemeinden Polens (Bd. I, Łódź und Umgebung, 1976), in den englischen Übersetzungen, die Morris Gradel für JewishGen gemacht hat. Jeder beginnt mit einer Tafel der Gesamt- und der jüdischen Bevölkerung und endet mit dem Holocaust.
@@ -28,4 +29,5 @@ Der längste der drei Artikel, in vier Teilen. **Bis 1918:** Stadt seit dem spä
 Der Artikel über Zagórów datiert das Stadtrecht auf 1368. Das Dokument ist das Privileg König Władysławs II. vom 19. November 1407, das der Abtei Ląd erlaubt, bei ihrem Dorf Zagórów eine Stadt nach Magdeburger Recht anzulegen (Kodeks Dyplomatyczny Wielkopolski; KDW, Dok. 14). Die Ansiedlung der Juden um 1800 stimmt zur Seelenzählung der Pfarrei von 1791 (ADWł 85, Dok. 2), die in der Stadt keine verzeichnet. Gegenüber der Enzyklopädie der Lager und Ghettos (2012) weichen die Artikel in Einzelheiten von 1940-1941 ab (wohin die Juden aus Słupca kamen, die Zahlen im Ghetto Zagórów, der Monat des Mordes); keines von beiden ist ein Dokument.
 
 </div>
+</div></div>
 {% endraw %}

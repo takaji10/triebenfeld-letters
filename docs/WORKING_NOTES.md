@@ -5082,3 +5082,47 @@ Słownik's gmina and parish tables, is still to do.
 - **Sub-agents can stop on the account's usage limit** (2026-11-24, both
   Sonnet agents at once). Their edits so far stay in the working tree;
   resume them with SendMessage after the reset rather than starting anew.
+
+### The work pages: reading column, margin page marks, the width check (2026-11-24)
+
+The editor's chosen answer for a work of the literature ("a reading column
+with a contents panel"): `literature_site.py` writes the whole reader
+(`.lit-reader`: the contents panel `.lit-toc`, then `.lit-text` with one
+`.lit-passage` per printed page); the layout only adds the head and the
+viewbar. Lessons:
+
+- **One page-mark style for everything**: `.pg` (a zero-size block whose link
+  hangs in the left margin, id `p41`; on a phone it becomes a label line). The
+  literature draws one per passage (a passage is a printed page; "front" and
+  "after p. 12" for the unnumbered ones); the newspapers draw one for each
+  page-number line the text carries, found by `pipeline/pagemarks.py`. A bare
+  `[720]` line counts only inside a run of consecutive numbers (at least two);
+  the named forms (`[s. 720]`, `[p. 720]`) and `- 720 -` count alone; footnote
+  `[^n]` markers, table cells and years never do. `pipeline/review/page_marks_report.py`
+  lists the forms per work and item. Found: the passage keys of the literature
+  (all drawn), and in the press only the bare `[N]` lines of zdrowie1912z10,
+  zdrowie1914z6 and jutrzenka1913z8; nothing else in the texts.
+- **The full-width bug** was the summary-only works (Seidel, Słowiński &
+  Połom 2024, 2023, Dąbrowska, the two dictionaries): `.lit-summary` had no
+  measure. Also uncapped: the English title line of every work, the "In the
+  literature" paragraphs on a document page (1331px), the clamped summary of a
+  document and of a newspaper item, and a newspaper's text beside its clipping.
+  All capped now (70ch for text, 46rem for facts and summaries).
+- **`pipeline/review/check_text_width.py`** serves `site/_site`, opens every
+  built page of the literature, newspapers, places, people, holdings and a
+  sample of the documents (`--docs N`) at 1440px in Chromium (Node +
+  Playwright) and reports any paragraph or list item with a text line wider than
+  760px. A holding's page is laid out at `--wide` (62rem, 992px) by the
+  editor's earlier rule, so its text is held to 1000px, not 760; the list pages
+  (cards) are skipped. Run it after any layout change, after the Jekyll build.
+- **Side by side needs 80rem** (two 70ch columns do not fit a narrower
+  screen beside the contents panel); between 64 and 80rem the panel stays and one
+  text shows; below 64rem the panel is a sticky button and drawer. The saved
+  view moved to `tf-lit-view2` so the old "English" default does not hide the
+  side-by-side one. The translation labels ("English translation by
+  Claude...") are gone from the work and newspaper pages; `np_caveat` stays
+  for the Zagórów place page only (the About page keeps the statement).
+- **A grid row with a Related note**: side by side, the original spans the
+  English row and the note's row (`grid-row: 1 / span 2`); otherwise the note's
+  row adds blank space under the original.
+

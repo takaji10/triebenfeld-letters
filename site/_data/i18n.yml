@@ -38,8 +38,8 @@ en:
 
   browse_title: Browse the documents
   browse_lede: >-
-    All %d documents. Search the full German text, or narrow by year, person,
-    place and condition.
+    All %d documents. Search their original text, the English translations
+    and the summaries, or narrow them by era, years, people and places.
   f_search: Search the text
   f_search_ph: "e.g. Sequestration, Trąbczyn, 112000"
   f_order: Order
@@ -65,6 +65,46 @@ en:
   f_load_error: Could not load the index
   f_showing_all: Showing all
   f_showing: Showing
+  # The one search bar (2026-11-24): Order, Advanced search, the year range,
+  # people and places as chips, the search options.
+  f_order_chrono_asc: Chronological (oldest first)
+  f_order_chrono_desc: Chronological (newest first)
+  f_order_az: A–Z
+  f_order_za: Z–A
+  f_advanced: Advanced search
+  f_from: From
+  f_to: To
+  f_year_note: Items with no year are listed only while the whole range is chosen.
+  f_people_ph: Type a name…
+  f_places_ph: Type a place…
+  f_no_names: No name matches
+  f_remove: Remove
+  f_options: Search options
+  f_opt_phrase: Exact phrase
+  f_opt_all: All words
+  f_opt_any: Any word
+  f_opt_whole: Whole words only
+  f_opt_accents: Ignore accents
+  f_opt_case: Match case
+  f_in: Search in
+  f_in_orig: Original text
+  f_in_en: English translation
+  f_in_sum: Summaries
+  f_hit_orig: Original
+  f_hit_en: English
+  f_hit_sum: Summary
+  f_n_documents: documents
+  f_n_newspapers: items
+  f_n_literature: passages
+  f_n_maps: maps
+  f_loading_en: Loading the English texts…
+  f_archive: Archive
+  f_all_archives: All archives
+  f_type: Type
+  f_all_types: All types
+  f_results_for: Results
+  f_more: Show more
+  f_pick_year: Year range
   chip_register: register
   chip_undated: undated
   chip_supplied: date supplied
@@ -406,7 +446,13 @@ en:
   unit_no_about: A description of this holding has not been written yet.
   unit_no_process: An account of how this holding was prepared has not been written yet.
   lit_h1: Literature
-  lit_caveat: "English translation by Claude, an AI model, not checked against the original as a whole."
+  lit_contents: Contents
+  lit_goto: Go to page
+  lit_goto_go: Go
+  lit_goto_none: No such page
+  lit_both: Side by side
+  lit_after: "after p. %s"
+  lit_toc_range: "pp. %s–%s"
   alt_litpage: Page from %s
   lit_summary_only: "Under copyright: a summary of the contents stands in place of the text."
   lit_summary_h: Summary of the contents
@@ -432,7 +478,6 @@ en:
   lit_english: English
   lit_view_label: Text shown
   lit_view_en: English
-  lit_hint_en: "English translation by Claude."
   lit_missing: "This page is not marked in the %s: its text stands under the page before."
   lit_mentions: "In the literature: %d passages"
   lit_mentions_one: "In the literature: one passage"
@@ -446,7 +491,6 @@ en:
   np_h1: Newspapers
   np_caveat: "English translation by Claude, an AI model, not checked against the original as a whole."
   alt_clipping: Clipping of %s
-  np_caveat_editor: The English translation is the one supplied with the transcription.
   np_mentions: "In the newspapers: %d passages"
   np_mentions_one: "In the newspapers: one passage"
   place_more: More about the place
@@ -513,8 +557,9 @@ de:
 
   browse_title: Dokumente durchsuchen
   browse_lede: >-
-    Alle %d Dokumente. Durchsuchen Sie den vollständigen deutschen Text oder
-    grenzen Sie nach Jahr, Person, Ort und Zustand ein.
+    Alle %d Dokumente. Durchsuchen Sie den Originaltext, die englischen
+    Übersetzungen und die Zusammenfassungen, oder grenzen Sie nach Epoche,
+    Jahren, Personen und Orten ein.
   f_search: Text durchsuchen
   f_search_ph: "z. B. Sequestration, Trąbczyn, 112000"
   f_order: Reihenfolge
@@ -540,6 +585,44 @@ de:
   f_load_error: Das Verzeichnis konnte nicht geladen werden
   f_showing_all: Alle
   f_showing: Angezeigt
+  f_order_chrono_asc: Chronologisch (älteste zuerst)
+  f_order_chrono_desc: Chronologisch (neueste zuerst)
+  f_order_az: A–Z
+  f_order_za: Z–A
+  f_advanced: Erweiterte Suche
+  f_from: Von
+  f_to: Bis
+  f_year_note: Stücke ohne Jahr erscheinen nur, solange der ganze Bereich gewählt ist.
+  f_people_ph: Name eingeben …
+  f_places_ph: Ort eingeben …
+  f_no_names: Kein Name passt
+  f_remove: Entfernen
+  f_options: Suchoptionen
+  f_opt_phrase: Genauer Wortlaut
+  f_opt_all: Alle Wörter
+  f_opt_any: Eines der Wörter
+  f_opt_whole: Nur ganze Wörter
+  f_opt_accents: Akzente ignorieren
+  f_opt_case: Groß-/Kleinschreibung beachten
+  f_in: Suchen in
+  f_in_orig: Originaltext
+  f_in_en: Englische Übersetzung
+  f_in_sum: Zusammenfassungen
+  f_hit_orig: Original
+  f_hit_en: Englisch
+  f_hit_sum: Zusammenfassung
+  f_n_documents: Dokumente
+  f_n_newspapers: Stücke
+  f_n_literature: Textstellen
+  f_n_maps: Karten
+  f_loading_en: Die englischen Texte werden geladen …
+  f_archive: Archiv
+  f_all_archives: Alle Archive
+  f_type: Art
+  f_all_types: Alle Arten
+  f_results_for: Treffer
+  f_more: Mehr anzeigen
+  f_pick_year: Jahresbereich
   chip_register: Register
   chip_undated: undatiert
   chip_supplied: Datum ergänzt
@@ -880,7 +963,13 @@ de:
   unit_no_about: Eine Beschreibung dieses Bestandes ist noch nicht geschrieben.
   unit_no_process: Ein Bericht über die Bearbeitung dieses Bestandes ist noch nicht geschrieben.
   lit_h1: Literatur
-  lit_caveat: "Englische Übersetzung von Claude, einem KI-Modell, nicht als Ganzes mit dem Original verglichen."
+  lit_contents: Inhalt
+  lit_goto: Gehe zu Seite
+  lit_goto_go: Los
+  lit_goto_none: Keine solche Seite
+  lit_both: Nebeneinander
+  lit_after: "nach S. %s"
+  lit_toc_range: "S. %s–%s"
   alt_litpage: Seite aus %s
   lit_summary_only: "Urheberrechtlich geschützt: anstelle des Textes steht eine Inhaltsübersicht."
   lit_summary_h: Zusammenfassung des Inhalts
@@ -906,7 +995,6 @@ de:
   lit_english: Englischen
   lit_view_label: Angezeigter Text
   lit_view_en: Englisch
-  lit_hint_en: "Englische Übersetzung von Claude."
   lit_missing: "Diese Seite ist im %s nicht bezeichnet: Ihr Text steht unter der vorigen Seite."
   lit_mentions: "In der Literatur: %d Stellen"
   lit_mentions_one: "In der Literatur: eine Stelle"
@@ -920,7 +1008,6 @@ de:
   np_h1: Zeitungen
   np_caveat: "Englische Übersetzung von Claude, einem KI-Modell, nicht als Ganzes mit dem Original verglichen."
   alt_clipping: Ausschnitt aus %s
-  np_caveat_editor: Die englische Übersetzung ist die mit der Transkription gelieferte.
   np_mentions: "In den Zeitungen: %d Stellen"
   np_mentions_one: "In den Zeitungen: eine Stelle"
   place_more: Mehr über den Ort

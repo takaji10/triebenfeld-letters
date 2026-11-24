@@ -15,7 +15,7 @@ Water was one of the weapons in the quarrel between Trąbczyn and Łukom. In 176
 
 By 1767 Trąbczyn belonged to Antoni Prusimski, later Starost of Niszczewice. In its woods, towards the boundary with Łukom, he and his predecessors had settled Olęder farmers. On that boundary lay the pond-ground (stawisko), the bed of a former pond, which both estates claimed. An embankment across its outlet held the water back onto whoever lay upstream. The commission of 1775 judged the pond-ground to be Trąbczyn's and awarded Prusimski damages for the flooding: <a href="{{ '/sources/app53170koningr145/' | relative_url }}">53/17/0/-/Konin Gr.145</a>. <!-- context -->
 
-The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the municipal court and office of Konin. A report (relatio) was the commonest kind of entry in these books: a sworn court messenger came before the office and declared what he had seen or done, and the declaration was written down. A man who meant to go to law over damage had it seen and reported in this way first, so that the state of things on a given day stood in a public record. <!-- context -->
+The municipal court and office of Konin was the starost's court for the nobility of the district. Its office, open every day, registered the business they brought to it, sales, debts, the reports of the court's messengers and their suits, and what was entered in its books was accepted as proof. <!-- context -->
 
 ### Contents
 

@@ -111,6 +111,13 @@ MERGED = [
     # the place pages, whose layout reads the places' appearances.
     ('pipeline/maps/map_pages.py --quiet', 'map pages',
      'site/_maps*/ - the page of each map in the edition'),
+    # The search bar's other indexes (the newspapers, the literature's passages,
+    # the maps, the documents' English) and the year range's limits in
+    # stats.yml. After everything whose output it reads: the website data (the
+    # documents, stats.yml), the literature and newspapers pages (their data),
+    # the map pages (maps.yml); verify_site.py fails if the limits are stale.
+    ('pipeline/build/search_indexes.py', 'search indexes',
+     'site/assets/search-*.json and year_min / year_max in site/_data/stats.yml'),
     # The cemeteries (docs/CEMETERIES_PLAN.md): the editor's survey of the
     # Evangelical cemeteries of the area, a page per cemetery with the
     # headstones as tables. After the place pages: a cemetery's place link

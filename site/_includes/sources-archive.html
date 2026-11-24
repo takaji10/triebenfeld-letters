@@ -17,7 +17,7 @@
 {%- endcomment -%}
 {%- assign u_listed = site.data.units | where_exp: "x", "x.listed_in != 'literature'" -%}
 {%- assign u_archives = u_listed | map: "archive" | uniq | sort_natural -%}
-{% include sources-tools.html archives=u_archives %}
+{% include browse.html kind="documents" list=true archives=u_archives %}
 <div class="sources">
   {% for u in u_listed %}
     {%- assign u_card = u.card_title | default: u.ref -%}

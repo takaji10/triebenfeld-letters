@@ -10,7 +10,7 @@ The land court at Konin was a court of the nobility. The starost or his deputy, 
 
 ### Contents
 
-**The parties.** Katarzyna Prusimska, born Rozdrażewska, the widow of Paweł Prusimski, with Joseph Puchalski, and Stanisław Ścibor Chełmski of Łukom, with one Czajkowski, had each sued the other. The land court at Konin heard them on 30 May 1763 and took the testimony of witnesses on oath [[1]].
+**The parties.** Katarzyna Prusimska, born Rozdrażewska, the widow of Paweł Prusimski, with Joseph Puchalski, and Stanisław Ścibor Chełmski of Łukom, with one Czajkowski, had each sued the other. The land court at Konin heard them and took the testimony of witnesses on oath [[1]].
 
 **What the testimony showed.** In 1761 Prusimska sent potash-burners off with potash; when it had been made is not established. Chełmski, on his way to Poznań, came upon them near the town of Pyzdry as they were making for Gdańsk. He had the potash seized and stored in an inn at Pyzdry, and had the notary of the customs house forbid its removal. Afterwards the burners, helped by two noblemen, Wawrowski and Gotartowski, took the potash away over the notary's objection and brought it to Gdańsk [[1]].
 

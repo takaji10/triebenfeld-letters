@@ -11,11 +11,15 @@ excerpt_separator: ""
 
 ### W sprawie odżywiania się ludu.
 
-[720]
+
+<div class="pg" id="p720" data-page="720"><a href="#p720">p. 720</a></div>
+
 
 Jak odżywia się lud wiejski, o tym zgoła nic nie wiemy, lub też mamy o tym bardzo niedokładne wiadomości. Wiemy np., że lud nasz odżywianie przeważnie czerpie ze świata roślinnego, a tutaj kartofle stanowią codzienną jego potrawę i że kartoflami lud przywykł głównie zaspokajać swoje uczucia głodu. Na tym kończą się nasze wiadomości o odżywianiu się ludu. Były próby obliczania ilości spożywanego pokarmu przez lud, lecz próby te, podług mnie, wzięte z jednej lub kilku chociażby wiosek danej okolicy, zbyt uogólniały otrzymane cyfry na kraj cały, boć faktem jest, że lud nasz odżywia się rozmaicie, w zależności od okolicy, jaką zamieszkuje, a oprócz tego w tej samej okolicy różnica w odżywianiu się ludu jest ogromna, a zależna od stopnia zamożności jego: inaczej odżywia się fornal, inaczej mało lub bezrolny, a inaczej zamożny wieśniak. Otóż sądzę, że jeżeli chcemy mieć dokładniejsze wiadomości o odżywianiu się ludu, należałoby uwzględnić oddzielnie terytoria, zostające mniej więcej w jednakowych warunkach ekonomicznych, a oprócz tego trzeba podzielić lud na
 
-[721]
+
+<div class="pg" id="p721" data-page="721"><a href="#p721">p. 721</a></div>
+
 
 kategorie, względnie do zamożności jego i zebrane dane będą dopiero nam mówić, jak odżywia się lud w danej okolicy.
 
@@ -27,7 +31,9 @@ A więc włościanie zamożniejsi, posiadający więcej niż 15 morgów. Tutaj �
 
 Organizm człowieka ciężko pracującego, jakim jest nasz wieśniak, potrzebuje na dzień i na kilogram wagi około 50 ciepłostek.
 
-[722]
+
+<div class="pg" id="p722" data-page="722"><a href="#p722">p. 722</a></div>
+
 
 Przyjmując wagę dorosłego człowieka na 70 kg, będzie potrzeba, aby on na dzień z pożywieniem przyjął 3500 ciepłostek. Obliczymy dzienne pożywienie tej kategorii wieśniaka.
 
@@ -69,7 +75,9 @@ chleba 150 gr.						390 c.
 	mleka 200 gr.						80 c.  
 	**Razem							470 c.**
 
-[723]
+
+<div class="pg" id="p723" data-page="723"><a href="#p723">p. 723</a></div>
+
 
 obiad: kartofli 300 gr.					282 c.  
 	mleka 300 gr.						120 c.  
@@ -95,7 +103,9 @@ Lecz nie dość tego, że wieśniak nasz odżywia się niedostatecznie; są jesz
 
 Dziewczyna wiejska, która nie ma najmniejszego pojęcia o odżywianiu i gotowaniu, wychodząc za mąż, przygotowuje pokarmy dla siebie i męża, to też sposób jej przygotowywania strawy jest nad
 
-[724]
+
+<div class="pg" id="p724" data-page="724"><a href="#p724">p. 724</a></div>
+
 
 wyraz prymitywny, a pokarmy gotowane jej ręką są niesmaczne i mało strawne. Ilość potraw, jakie podaje swoim domownikom, ogranicza się do 5-6 i te ustawicznie gotuje, a jak wpływa jednostajność pokarmów na asymilację przez organizm, o tym wszyscy wiemy.
 
@@ -107,7 +117,9 @@ Wieśniak nasz od wieków przyzwyczajony patrzeć na ciało swoje, jako na coś 
 
 To też z rozwojem oświaty i odżywianie naszego ludu musi się polepszyć. Ponieważ zaś rozwój oświaty wśród ludu nie od nas w zupełności zależy, powinniśmy się starać, aby lud nasz w sprawie odżywiania nabył pewnych wiadomości, przez które odżywianie swoje znakomicie by poprawił. W tym kierunku można dużo zrobić.
 
-[725]
+
+<div class="pg" id="p725" data-page="725"><a href="#p725">p. 725</a></div>
+
 
 Jeżeli gospodarze wiejscy mają dzisiaj ułatwione nabywanie wiadomości o rolnictwie, z czego wielce korzystają, a przez co zamożność ich wzrasta, należałoby również i gospodynie wiejskie pouczyć gotować, aby dostarczyć organizmowi dostateczną ilość pokarmów, przy tym w formie takiej, aby mogły być przez przewód pokarmowy asymilowane.
 
@@ -120,11 +132,15 @@ Jeżeli lud wiedzieć będzie, że odżywianie nie jest tak rzeczą błahą, jak
 
 ### On the Nutrition of the People
 
-[720]
+
+<div class="pg" data-page="720"><a href="#p720">p. 720</a></div>
+
 
 We know absolutely nothing about how rural people nourish themselves, or we have very inaccurate information about it. We know, for example, that our people derive their nutrition mainly from the plant world, and here potatoes constitute their daily dish, and that the people have become accustomed to satisfy their feelings of hunger mainly with potatoes. This is where our knowledge about the nutrition of the people ends. There have been attempts to calculate the quantity of food consumed by the people, but these attempts, according to me, taken from one or even several villages of a given area, too broadly generalized the obtained figures to the entire country, for it is a fact that our people nourish themselves differently, depending on the region they inhabit, and besides, in the same region the difference in the people's nutrition is enormous, and dependent on their degree of wealth: a stable hand nourishes himself differently, differently a smallholder or landless peasant, and differently a wealthy peasant. So I think that if we want to have more accurate information about the nutrition of the people, we should consider separately territories that remain in more or less similar economic conditions, and besides, we need to divide the people into
 
-[721]
+
+<div class="pg" data-page="721"><a href="#p721">p. 721</a></div>
+
 
 categories according to their wealth, and the collected data will only then tell us how the people in a given area nourish themselves.
 
@@ -136,7 +152,9 @@ So, wealthier peasants owning more than 15 morgans [unit of land measurement]. H
 
 The organism of a hard-working person, such as our peasant, needs about 50 heat units per day per kilogram of weight.
 
-[722]
+
+<div class="pg" data-page="722"><a href="#p722">p. 722</a></div>
+
 
 Taking the weight of an adult person as 70 kg, it will be necessary for him to receive 3500 heat units per day with food. Let us calculate the daily nutrition of this category of peasant.
 
@@ -178,7 +196,9 @@ bread 150 g							390 h.u.
 	milk 200 g							80 h.u.  
 	**Total								470 h.u.**
 
-[723]
+
+<div class="pg" data-page="723"><a href="#p723">p. 723</a></div>
+
 
 dinner: potatoes 300 g					282 h.u.  
 	milk 300 g							120 h.u.  
@@ -204,7 +224,9 @@ But it is not enough that our peasant nourishes himself insufficiently; there ar
 
 A rural girl who has not the slightest idea about nutrition and cooking, when she marries, prepares food for herself and her husband, so her method of food preparation is
 
-[724]
+
+<div class="pg" data-page="724"><a href="#p724">p. 724</a></div>
+
 
 extremely primitive, and the food cooked by her hand is tasteless and poorly digestible. The number of dishes she serves to her household members is limited to 5-6 and these she constantly cooks, and we all know how the monotony of foods affects assimilation by the organism.
 
@@ -216,7 +238,9 @@ Our peasant has been accustomed for centuries to look at his body as something u
 
 So with the development of education, the nutrition of our people must also improve. Since the development of education among the people does not depend entirely on us, we should strive to ensure that our people acquire certain knowledge about nutrition, through which they would excellently improve their nutrition. Much can be done in this direction.
 
-[725]
+
+<div class="pg" data-page="725"><a href="#p725">p. 725</a></div>
+
 
 If rural farmers today have facilitated acquisition of knowledge about agriculture, which they greatly benefit from, and through which their wealth increases, rural housewives should also be taught to cook, to provide the organism with a sufficient amount of food, and in such a form that it can be assimilated by the digestive tract.
 

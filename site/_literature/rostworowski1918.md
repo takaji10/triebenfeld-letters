@@ -7,13 +7,21 @@ alt_url: "/de/literatur/rostworowski1918/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-303">303</a> <a href="#p-304">304</a> <a href="#p-321">321</a> <a href="#p-322">322</a> <a href="#p-323">323</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-43">pp. 43–303</a></li>
+<li class="l1"><a href="#p-304">pp. 304–323</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage has-related" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">p. 43</a></h2>
+<section class="lit-passage has-related" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">p. 43</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […]
@@ -40,7 +48,6 @@ Present His Excellencies President Małachowski, Gutakowski, Stanisław Potocki,
 After deliberating the queries of the Administrative Chamber of the Department of Poznań, that is, in what manner the January instalment
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The sitting of 13 February refers Dąbska's memorial to the Director of Justice, so that he propose general rules for the estates confiscated under the former government. The file holds her letters of July 1807 but not this memorial; her letter of 20 July to the Commission at Dresden says she has already asked twice for the estates taken from her father for the Prussian generals — the asking that the Dziennik's February entries record.</p>
@@ -48,9 +55,8 @@ After deliberating the queries of the Administrative Chamber of the Department o
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">p. 44</a></h2>
+<section class="lit-passage has-related" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">p. 44</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 24 grosza y rata Marcowa Kominowego mają być zapłacone, y po przeczytaniu w tej mierze opinii przeszłego Dyrektora Skarbu Małachowskiego, udecydowano przez rezolucyą in actis, ażeby ta cała kwestya równie jak y względem następnych rat podatkowych 24 grosza y kominowego, po uformowanie projektu jeszcze do JW. Dyrektora Wewnętrznego jako Zastępcy Skarbowego była odesłana.
@@ -85,7 +91,6 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The entry ends the referral: the memorial, with the recommendation that the Director submit a project of general rules on the confiscations. Her letter of 20 July 1807 — the asking again for Trąbczyn, Kamionna, Kolna, Pawłowa, Pawłówka and the warehouse at Włocławek — is the same petition at Dresden, after the Commission had moved there.</p>
@@ -93,9 +98,8 @@ Stanisław Małachowski, President.
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">p. 54</a></h2>
+<section class="lit-passage has-related" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">p. 54</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […]
@@ -126,7 +130,6 @@ The memorials of Mr. Podgurski, asking that it be permitted him to deliver the r
 Upon receiving from His Excellency the Director of Justice, on the memorial of Michalina née Prusimska Dąbska sent to him, his opinion that the petition she brought, with regard to the return of the estates confiscated by the past government, is a matter
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The Director of Justice's opinion of 18 February — the return of the estates "a matter of a purely political character" that cannot go the ordinary way of the courts — is the entry the draft resolution of 21 July answers: it extends the Emperor's Finckenstein decree to her case and sends the confiscated estates back to their rightful owners.</p>
@@ -134,9 +137,8 @@ Upon receiving from His Excellency the Director of Justice, on the memorial of M
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
+<section class="lit-passage has-related" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">p. 55</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 jedynie politycznym, a jako wypływającym z woli Samowładnego Monarchy, gdy prawa na takowe przypadki milczą, zwyczajną drogą sądownictwa iść nie może, Komisya udecydowała podanie noty do Najj. Cesarza y Króla, z prośbą o zniesienie tych konfiskat, y powrót dóbr dawnym prawym właścicielom. Wyszło przytem zalecenie do JW. Dyrektora Wewnętrznego, ażeby nakazał Izbom Administracyjnym pilne baczenie na stan tych dóbr, y strzeżenie, aby od teraźniejszych posiedzicielów rujnowane nie były. Wyciąg tego artykułu Dziennika, z komunikacyą w kopii zalecenia do Dyrektora Wewnętrznego JP. Dąbskiej w odpowiedzi na jej memoryał Komisya wydać rozkazała.
@@ -163,7 +165,6 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The Commission's resolution — to petition the Emperor for the repeal of the confiscations, and to have the Administrative Chambers watch over the estates — is what the draft decree of 21 July 1807 carries out: the Emperor's decree for Wybicki extended to Dąbska, so that her hereditary estates return to their rightful owners.</p>
@@ -171,9 +172,8 @@ Stanisław Małachowski, President.
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-303">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-303">p. 303</a></h2>
+<section class="lit-passage has-related" id="p-303" data-page="303">
+<div class="pg" id="p303"><a href="#p303">p. 303</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […]
@@ -204,7 +204,6 @@ Whereas the affair of Madame Michalina née Prusimska Dąbska, demanding the ret
 Inclining to the petition of Mr. Batowski, on the motion of His Highness the Prince Director of War, present at this sitting, it was permitted
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The Dziennik's record of the extraordinary sitting of 21 July 1807 at Dresden says that the Commission, taking example from the Emperor's decree of 5 June given at Finckenstein for Wybicki, extended that decree to the cases of Michalina Dąbska, General Niemojewski and Wichrowski, so that their hereditary estates, confiscated by the former Prussian government, return to their true owners. The register carries the resolution itself, of 21 July and signed by Małachowski and Łuszczewski, in wording near the print's; it writes "z Prusińskich Dambskiey" where the print has "z Prusimskich Dambskiej". The file holds the draft of the same day. Her letter of 23 July takes the decree of 5 June for the principle and pattern of the Commission's decree and asks that the Administrative Chambers be ordered to put her, as Wybicki was put, into possession of the estates.</p>
@@ -212,9 +211,8 @@ Inclining to the petition of Mr. Batowski, on the motion of His Highness the Pri
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-304">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-304">p. 304</a></h2>
+<section class="lit-passage" id="p-304" data-page="304">
+<div class="pg" id="p304"><a href="#p304">p. 304</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 temuż JP. Batowskiemu, nosić mundur Gwardyi Narodowej, y używać znaków do szarży Pułkownika przywiązanych.
@@ -233,12 +231,10 @@ Stanisław Małachowski, President.
 […]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-321">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-321">p. 321</a></h2>
+<section class="lit-passage" id="p-321" data-page="321">
+<div class="pg" id="p321"><a href="#p321">p. 321</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 […]
@@ -293,12 +289,10 @@ The Director of the Interior brought in orally and showed the original letters, 
 Mr. Daru has requisitioned that magazines of food be established in Warsaw; the French authorities were asked, through Mr. the Director of the Interior, what funds there are to be for this?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-322">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-322">p. 322</a></h2>
+<section class="lit-passage has-related" id="p-322" data-page="322">
+<div class="pg" id="p322"><a href="#p322">p. 322</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Różne partykularne petita brevi manu rezolwowane.
@@ -337,7 +331,6 @@ The Governor reports that peace between the Emperor of the French and the Empero
 At the sitting, those gathered wished to know how they ought to conduct themselves when Mr. Kamieniecki comes to the sitting, whether as Deputy Director he may take a seat? To this end there was read the Commissorium given to the General Directorium on the 10th of the month, in which the Governing Commission names expressly His Excellency Dembowski as having the right of a seat in the Directorium, as presiding in the Treasury Administration; besides that we looked into the establishment of that same Administration, in which it is set down that His Excellency Dembowski by his office is to sit in the Directorium
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The Directorium's protocol Nr. 3 of 15 July 1807, written in the first person by the Director of Police Łubieński, reports that very many were leaving for Dresden – "Dąmbska, Kownacka, Węgrzecki, Bórakowski" among them – and that the Government must be told daily who arrives there. She was in Dresden within the week: her letters of 20, 21 and 23 July 1807 to the Governing Commission and to the Emperor were all written at Dresden, the letters of 20 and 23 July signed "Michalina z Prusimskich Dambska", the letter of 21 July to the Emperor signing in French "Micheline Dambska née Prusimska", the last acknowledging the Commission's decree of 21 July.</p>
@@ -345,9 +338,8 @@ At the sitting, those gathered wished to know how they ought to conduct themselv
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-323">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-323">p. 323</a></h2>
+<section class="lit-passage" id="p-323" data-page="323">
+<div class="pg" id="p323"><a href="#p323">p. 323</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ; jasna zatym wola w tym była Rządu. Przeczytaliśmy następnie rezolucyą Komisyi Rządzącej dozwalającą X-ciu Direktorowi Wojny oddalenia się wydaną d. 11 t. m. a zatym nazajutrz po danym Directorio commissorium; jednakże znaleźliśmy wielką różnicę; tam p. Dembowski wyraźnie jest naznaczony do zasiadania, tu p. Kamieniecki jest Zastępcą Direktora Wojny, lecz z dwoma przydanemi oficerami; trzech zaś do Directorium wpuszczać niepodobna. Umyśliliśmy zatym czekać w tym prędkiej i wyraźnej woli Kom. Rządzącej, czy ma p. Kamieniecki zasiadać jako Zastępca Direktora Wojny między nami, lub nie; nic albowiem nie chcemy sobie pozwolić nad moc udzieloną, a rzecz publiczna na tym nie cierpi, gdyż zawsze jest przepisany komplet.
@@ -406,6 +398,7 @@ All nominated according to law; there is needed only the approval of the Governm
 […]
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

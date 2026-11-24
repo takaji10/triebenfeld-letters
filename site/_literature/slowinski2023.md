@@ -7,6 +7,7 @@ alt_url: "/de/literatur/slowinski2023/"
 excerpt_separator: ""
 ---
 {% raw %}
+<div class="lit-reader lit-reader--solo"><div class="lit-text">
 <div class="lit-summary" markdown="1">
 
 A book of 96 PDF pages (printed pp. 7-101 and unnumbered leaves) by Mirosław Słowiński, Konin 2023, with the epigraph "Manuscripts do not burn" – Woland's word from Bulgakov's Master and Margarita. It edits a wall cache of letters found in the former cantor's house at Łazińsk and discusses them from the position of a regional historian; Scripture epigraphs from the Warsaw Bible of 1975 head each group of the letters (Psalm 25:4, 146:2, 18:36, 17:5, 71:1 among them). Twenty-five photographs of German soldiers under Petsamo/Pieczenga, from public-domain veteran archives of the Alpine countries, stand between the pages; their authors could not be traced.
@@ -84,4 +85,5 @@ The 32 notes stand on their printed pages. Among them: note 1, Chodyła's book o
 The book is a witness of the twentieth century, not a document of the estates' history. Its introduction and its annex repeat the founding of Łazińsk in 1718 by fourteen families from Silesia - the Ostdeutscher Beobachter's figure of 1942, which stands against the records; the book is a second witness to the date, not a settlement of it. Its "Prusińscy" of 1746 stands against Chodyła's Prusimscy, and its contemporary note's "Andrzej i Paweł Prusińscy" against the introduction's own "Katarzyna i Paweł". Its account of the cantor Gustav Adolf Mielke: cantor and schoolmaster of Łazińsk since 1925, the new school built in 1933 by his means per the annex's German-era note (the introduction's "a hundred years later" against it). Made to leave Łazińsk in 1936 (the 1942 article says the Poles let him work four years from 1933), teaching again from 1940, called up later to the navy, the artilleryman of the naval infantry at Hamburg in December 1944. It is the fullest account of the man the 1942 feature and Breyer's notebook of 1936 (APP 53/968/0/-/669, "Mielke seit 1925") name. These Mielkes are one man.
 
 </div>
+</div></div>
 {% endraw %}

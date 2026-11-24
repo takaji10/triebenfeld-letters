@@ -7,13 +7,29 @@ alt_url: "/literature/szwiec2009/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-front">Titel</a> <a href="#p-6">6</a> <a href="#p-7">7</a> <a href="#p-8">8</a> <a href="#p-9">9</a> <a href="#p-10">10</a> <a href="#p-11">11</a> <a href="#p-12">12</a> <a href="#p-13">13</a> <a href="#p-14">14</a> <a href="#p-15">15</a> <a href="#p-16">16</a> <a href="#p-17">17</a> <a href="#p-18">18</a> <a href="#p-19">19</a> <a href="#p-20">20</a> <a href="#p-21">21</a> <a href="#p-22">22</a> <a href="#p-23">23</a> <a href="#p-24">24</a> <a href="#p-25">25</a> <a href="#p-26">26</a> <a href="#p-27">27</a> <a href="#p-28">28</a> <a href="#p-29">29</a> <a href="#p-30">30</a> <a href="#p-31">31</a> <a href="#p-32">32</a> <a href="#p-33">33</a> <a href="#p-34">34</a> <a href="#p-35">35</a> <a href="#p-36">36</a> <a href="#p-37">37</a> <a href="#p-38">38</a> <a href="#p-39">39</a> <a href="#p-40">40</a> <a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-45">45</a> <a href="#p-46">46</a> <a href="#p-47">47</a> <a href="#p-48">48</a> <a href="#p-49">49</a> <a href="#p-50">50</a> <a href="#p-51">51</a> <a href="#p-52">52</a> <a href="#p-53">53</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-56">56</a> <a href="#p-57">57</a> <a href="#p-58">58</a> <a href="#p-59">59</a> <a href="#p-60">60</a> <a href="#p-61">61</a> <a href="#p-62">62</a> <a href="#p-63">63</a> <a href="#p-64">64</a> <a href="#p-65">65</a> <a href="#p-66">66</a> <a href="#p-67">67</a> <a href="#p-68">68</a> <a href="#p-69">69</a> <a href="#p-70">70</a> <a href="#p-71">71</a> <a href="#p-72">72</a> <a href="#p-73">73</a> <a href="#p-74">74</a> <a href="#p-75">75</a> <a href="#p-76">76</a> <a href="#p-77">77</a> <a href="#p-78">78</a> <a href="#p-79">79</a> <a href="#p-80">80</a> <a href="#p-81">81</a> <a href="#p-82">82</a> <a href="#p-83">83</a> <a href="#p-84">84</a> <a href="#p-85">85</a> <a href="#p-86">86</a> <a href="#p-87">87</a> <a href="#p-88">88</a> <a href="#p-89">89</a> <a href="#p-90">90</a> <a href="#p-91">91</a> <a href="#p-92">92</a> <a href="#p-93">93</a> <a href="#p-94">94</a> <a href="#p-95">95</a> <a href="#p-96">96</a> <a href="#p-97">97</a> <a href="#p-98">98</a> <a href="#p-99">99</a> <a href="#p-100">100</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-6">S. 6–15</a></li>
+<li class="l1"><a href="#p-16">S. 16–25</a></li>
+<li class="l1"><a href="#p-26">S. 26–35</a></li>
+<li class="l1"><a href="#p-36">S. 36–45</a></li>
+<li class="l1"><a href="#p-46">S. 46–55</a></li>
+<li class="l1"><a href="#p-56">S. 56–65</a></li>
+<li class="l1"><a href="#p-66">S. 66–75</a></li>
+<li class="l1"><a href="#p-76">S. 76–85</a></li>
+<li class="l1"><a href="#p-86">S. 86–95</a></li>
+<li class="l1"><a href="#p-96">S. 96–100</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
+<div class="pg"><a href="#p-front">Titel</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 KATALOG ARCHITEKTURY REGIONALNEJ DLA OBSZARU
@@ -88,12 +104,10 @@ Pyzdry – Poznań 2009
 The material gathered during the research was written up by Dr Piotr Szwiec. All the photographs and other pictures in the report come from the material gathered in the research programme “THE PYZDRY FOREST: THE OLĘDERS AND THEIR IRON HOUSES”, organised by the MECENAT ASSOCIATION. The project was co-financed from funds of the MINISTRY OF LABOUR AND SOCIAL POLICY under the CIVIC INITIATIVES FUND OPERATIONAL PROGRAMME. The research team, authors of the photographs: Przemysław Kowalski (the MECENAT Association), Dr Anna Weronika Brzezińska (Institute of Ethnology and Cultural Anthropology, Adam Mickiewicz University, Poznań), Witold Przewoźny, MA (Ethnographic Museum of the National Museum in Poznań), Dr Piotr Szwiec (Studio of Detail Design, Academy of Fine Arts, Poznań), Patrycja Mikołajczak, MA (Studio of Detail Design, Academy of Fine Arts, Poznań), Paulina Baranowska (Institute of Ethnology and Cultural Anthropology, Adam Mickiewicz University, Poznań), Bartosz Stańda (Institute of Ethnology and Cultural Anthropology, Adam Mickiewicz University, Poznań). Design and layout: Dr Piotr Szwiec, Studio of Detail Design, Department of Architecture and Urban Planning, Faculty of Architecture and Design, Academy of Fine Arts in Poznań, Al. Marcinkowskiego 29, 60-967 Poznań, tel. 061 85525 21. Publication financed by a grant of the Ministry of Labour and Social Policy. Poznań 2009.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-6">S. 6</a></h2>
+<section class="lit-passage" id="p-6" data-page="6">
+<div class="pg" id="p6"><a href="#p6">S. 6</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 1. Wstęp
@@ -140,12 +154,10 @@ Specialists experienced in each field carried out interdisciplinary fieldwork. E
 In the planned fieldwork, carried out in the villages of the Pyzdry Forest, the present state of the inhabitants’ sense of cultural identity was in part recorded: who they feel themselves to be, how far
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-7">S. 7</a></h2>
+<section class="lit-passage" id="p-7" data-page="7">
+<div class="pg" id="p7"><a href="#p7">S. 7</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 identyfikują się z rejonem swego często już ponad 50-letniego zamieszkiwania a także podjęto próbę odszukiwania śladów dawnych osadników olęderskich na terenie Puszczy Pyzdrskiej.
@@ -184,12 +196,10 @@ The knowledge of the features of traditional architecture, of its relation to th
 The aim of the research was to look for a regional style, and to show the relations of the landscape and their influence on the local architecture and on the rise of a regional style.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-8">S. 8</a></h2>
+<section class="lit-passage" id="p-8" data-page="8">
+<div class="pg" id="p8"><a href="#p8">S. 8</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W poszukiwaniu tego stylu zostały przebadane obiekty architektoniczne i krajobrazowe reprezentujące wszystkie fazy rozwoju form architektonicznych na przebadanym terenie. Poddano analizie zarówno obiekty istniejące, jak i te, które już uległy przebudowie bądź też całkowitemu zniszczeniu.
@@ -228,12 +238,10 @@ It is an area with a common cultural landscape, which coincides with the so-call
 The research covered the whole area of the so-called “Pyzdry Forest”. The buildings in the following places, with the land around them, were studied in detail in the field and compared with topographical maps (military staff maps at the scales 1:100,000, 1:50,000 and 1:25,000, and topographical maps at 1:100,000, 1:50,000, 1:25,000 and 1:10,000), modern and archival, with the orthophotomap, and with aerial and satellite photographs: Czarny Bród, Dolne Grądy,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-9">S. 9</a></h2>
+<section class="lit-passage" id="p-9" data-page="9">
+<div class="pg" id="p9"><a href="#p9">S. 9</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Jarantów, Jarantów Kolonia, Józefów, Kolonia Obory, Królewiny, Lipe, Nowa Kaźmierka, Nowolipsk, Nowy Olesiec, Orlina, Ruda Komorska, Ruda Wieczyńska, Stara Kaźmierka, Trąbczyn, Walga, Wierzchy, Wrąbczynek, Wrąbczynkowskie Holendry, Wronów, Zapowiednia.
@@ -268,12 +276,10 @@ The project aims to gather and preserve knowledge of the regional features of th
 The scientific aim of the project is to carry out research on the architectural fabric of town and village, covering urban and architectural composition, spatial relations and their mutual influence, in the context of the semantics of space in the broad sense. The most important result of the research is to be the “discovery” of the regional features of the existing architecture by describing, comparing and evaluating it, and by making
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-10">S. 10</a></h2>
+<section class="lit-passage" id="p-10" data-page="10">
+<div class="pg" id="p10"><a href="#p10">S. 10</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 przykładowych propozycji projektowych. Ma to na celu stworzenie wytycznych, które mogą się stać sugestią dla twórców architektury regionalnej. Istotne jest to, iż dzieło ma pokazywać architekturę regionalną w szerokim kontekście wizualnym i naukowym (fizjograficznym i historycznym).
@@ -319,12 +325,10 @@ the building of a network of the EU’s rural areas – both those receiving LEA
 http://www.funduszestrukturalne.gov.pl/LEADER/
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-11">S. 11</a></h2>
+<section class="lit-passage" id="p-11" data-page="11">
+<div class="pg" id="p11"><a href="#p11">S. 11</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 1.5. Sposób realizacji projektu
@@ -371,12 +375,10 @@ In modern times settlement in the Pyzdry Forest grew almost twice as fast as in 
 Zbigniew Chodyła, extract from “Settlement in the Pyzdry Forest, from the Middle Ages to the beginning of the twenty-first century”.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-12">S. 12</a></h2>
+<section class="lit-passage" id="p-12" data-page="12">
+<div class="pg" id="p12"><a href="#p12">S. 12</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 2.1. Budynki mieszkalne we wsiach zlokalizowanych w „Puszczy Pyzdrskiej”
@@ -419,12 +421,10 @@ In some of them it is hard to tell what the construction of their walls really i
 <span class="lit-note" id="n-en-2">2</span> Unlike the architecture of the Pyzdry Forest, such a construction and a gable set out beyond the gable wall are very often found in the Olęder cottages around Nowy Tomyśl.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-13">S. 13</a></h2>
+<section class="lit-passage" id="p-13" data-page="13">
+<div class="pg" id="p13"><a href="#p13">S. 13</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/13.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/13.jpg' | relative_url }}" alt="Szwiec (2009), S. 13" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -444,12 +444,10 @@ All this building has the features typical of the architecture of the Olęder vi
 2. Dwelling house – gable – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-14">S. 14</a></h2>
+<section class="lit-passage" id="p-14" data-page="14">
+<div class="pg" id="p14"><a href="#p14">S. 14</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/14.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/14.jpg' | relative_url }}" alt="Szwiec (2009), S. 14" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -465,12 +463,10 @@ All this building has the features typical of the architecture of the Olęder vi
 4. Roof detail – thatch – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-15">S. 15</a></h2>
+<section class="lit-passage" id="p-15" data-page="15">
+<div class="pg" id="p15"><a href="#p15">S. 15</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/15.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/15.jpg' | relative_url }}" alt="Szwiec (2009), S. 15" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -486,12 +482,10 @@ All this building has the features typical of the architecture of the Olęder vi
 6. Dwelling house – roof detail – photograph by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-16">S. 16</a></h2>
+<section class="lit-passage" id="p-16" data-page="16">
+<div class="pg" id="p16"><a href="#p16">S. 16</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/16.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/16.jpg' | relative_url }}" alt="Szwiec (2009), S. 16" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -503,12 +497,10 @@ All this building has the features typical of the architecture of the Olęder vi
 7. Dwelling house – gable – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-17">S. 17</a></h2>
+<section class="lit-passage" id="p-17" data-page="17">
+<div class="pg" id="p17"><a href="#p17">S. 17</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/17.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/17.jpg' | relative_url }}" alt="Szwiec (2009), S. 17" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -528,12 +520,10 @@ All this building has the features typical of the architecture of the Olęder vi
 9. Dwelling house – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-18">S. 18</a></h2>
+<section class="lit-passage" id="p-18" data-page="18">
+<div class="pg" id="p18"><a href="#p18">S. 18</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/18.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/18.jpg' | relative_url }}" alt="Szwiec (2009), S. 18" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -549,12 +539,10 @@ All this building has the features typical of the architecture of the Olęder vi
 11. Dwelling house – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-19">S. 19</a></h2>
+<section class="lit-passage" id="p-19" data-page="19">
+<div class="pg" id="p19"><a href="#p19">S. 19</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/19.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/19.jpg' | relative_url }}" alt="Szwiec (2009), S. 19" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -570,12 +558,10 @@ All this building has the features typical of the architecture of the Olęder vi
 13. Dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-20">S. 20</a></h2>
+<section class="lit-passage" id="p-20" data-page="20">
+<div class="pg" id="p20"><a href="#p20">S. 20</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/20.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/20.jpg' | relative_url }}" alt="Szwiec (2009), S. 20" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -591,12 +577,10 @@ All this building has the features typical of the architecture of the Olęder vi
 15. Dwelling house – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-21">S. 21</a></h2>
+<section class="lit-passage" id="p-21" data-page="21">
+<div class="pg" id="p21"><a href="#p21">S. 21</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/21.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/21.jpg' | relative_url }}" alt="Szwiec (2009), S. 21" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -608,12 +592,10 @@ All this building has the features typical of the architecture of the Olęder vi
 16. Dwelling house – photograph 2009, by Wiesław Krzyżaniak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-22">S. 22</a></h2>
+<section class="lit-passage" id="p-22" data-page="22">
+<div class="pg" id="p22"><a href="#p22">S. 22</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/22.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/22.jpg' | relative_url }}" alt="Szwiec (2009), S. 22" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -633,12 +615,10 @@ All this building has the features typical of the architecture of the Olęder vi
 18. Dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-23">S. 23</a></h2>
+<section class="lit-passage" id="p-23" data-page="23">
+<div class="pg" id="p23"><a href="#p23">S. 23</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/23.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/23.jpg' | relative_url }}" alt="Szwiec (2009), S. 23" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -654,12 +634,10 @@ All this building has the features typical of the architecture of the Olęder vi
 20. Dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-24">S. 24</a></h2>
+<section class="lit-passage" id="p-24" data-page="24">
+<div class="pg" id="p24"><a href="#p24">S. 24</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/24.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/24.jpg' | relative_url }}" alt="Szwiec (2009), S. 24" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -679,12 +657,10 @@ All this building has the features typical of the architecture of the Olęder vi
 22. Dwelling house – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-25">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-25">S. 25</a></h2>
+<section class="lit-passage" id="p-25" data-page="25">
+<div class="pg" id="p25"><a href="#p25">S. 25</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/25.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/25.jpg' | relative_url }}" alt="Szwiec (2009), S. 25" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -700,12 +676,10 @@ All this building has the features typical of the architecture of the Olęder vi
 24. Dwelling house – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-26">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-26">S. 26</a></h2>
+<section class="lit-passage" id="p-26" data-page="26">
+<div class="pg" id="p26"><a href="#p26">S. 26</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/26.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/26.jpg' | relative_url }}" alt="Szwiec (2009), S. 26" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -721,12 +695,10 @@ All this building has the features typical of the architecture of the Olęder vi
 26. Dwelling house – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-27">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-27">S. 27</a></h2>
+<section class="lit-passage" id="p-27" data-page="27">
+<div class="pg" id="p27"><a href="#p27">S. 27</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/27.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/27.jpg' | relative_url }}" alt="Szwiec (2009), S. 27" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -738,12 +710,10 @@ All this building has the features typical of the architecture of the Olęder vi
 27. Dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-28">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-28">S. 28</a></h2>
+<section class="lit-passage" id="p-28" data-page="28">
+<div class="pg" id="p28"><a href="#p28">S. 28</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/28.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/28.jpg' | relative_url }}" alt="Szwiec (2009), S. 28" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -763,12 +733,10 @@ All this building has the features typical of the architecture of the Olęder vi
 29. Dwelling house – photograph 2009, by Piotr Szwiec.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-29">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-29">S. 29</a></h2>
+<section class="lit-passage" id="p-29" data-page="29">
+<div class="pg" id="p29"><a href="#p29">S. 29</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/29.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/29.jpg' | relative_url }}" alt="Szwiec (2009), S. 29" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -780,12 +748,10 @@ All this building has the features typical of the architecture of the Olęder vi
 30. Dwelling house – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-30">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-30">S. 30</a></h2>
+<section class="lit-passage" id="p-30" data-page="30">
+<div class="pg" id="p30"><a href="#p30">S. 30</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/30.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/30.jpg' | relative_url }}" alt="Szwiec (2009), S. 30" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -805,12 +771,10 @@ All this building has the features typical of the architecture of the Olęder vi
 32. Dwelling house – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-31">S. 31</a></h2>
+<section class="lit-passage" id="p-31" data-page="31">
+<div class="pg" id="p31"><a href="#p31">S. 31</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/31.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/31.jpg' | relative_url }}" alt="Szwiec (2009), S. 31" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -826,12 +790,10 @@ All this building has the features typical of the architecture of the Olęder vi
 34. Dwelling house – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-32">S. 32</a></h2>
+<section class="lit-passage" id="p-32" data-page="32">
+<div class="pg" id="p32"><a href="#p32">S. 32</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/32.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/32.jpg' | relative_url }}" alt="Szwiec (2009), S. 32" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -847,12 +809,10 @@ All this building has the features typical of the architecture of the Olęder vi
 36. Dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-33">S. 33</a></h2>
+<section class="lit-passage" id="p-33" data-page="33">
+<div class="pg" id="p33"><a href="#p33">S. 33</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/33.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/33.jpg' | relative_url }}" alt="Szwiec (2009), S. 33" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -868,12 +828,10 @@ All this building has the features typical of the architecture of the Olęder vi
 37. Dwelling house – photograph 2009, by Piotr Szwiec.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-34">S. 34</a></h2>
+<section class="lit-passage" id="p-34" data-page="34">
+<div class="pg" id="p34"><a href="#p34">S. 34</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/34.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/34.jpg' | relative_url }}" alt="Szwiec (2009), S. 34" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -889,12 +847,10 @@ All this building has the features typical of the architecture of the Olęder vi
 39. Dwelling house – photograph 2009, by Witold Przewoźny.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-35">S. 35</a></h2>
+<section class="lit-passage" id="p-35" data-page="35">
+<div class="pg" id="p35"><a href="#p35">S. 35</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/35.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/35.jpg' | relative_url }}" alt="Szwiec (2009), S. 35" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -930,12 +886,10 @@ The roofs of all types of building, both dwelling houses and farm buildings, had
 <span class="lit-note" id="n-en-3">3</span> The buildings studied that have such a construction are two: one in Dolne Grądy, the other in Wrąbczynkowskie Holędry. Inventory cards 007 and 021.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-36">S. 36</a></h2>
+<section class="lit-passage" id="p-36" data-page="36">
+<div class="pg" id="p36"><a href="#p36">S. 36</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 2.1.8. Okna i drzwi w budynkach mieszkalnych
@@ -958,12 +912,10 @@ Box windows were used most often. The window joinery was made very simple.
 The surviving front doors are of ledged and of frame-and-panel construction, from the simplest, unornamented, in older buildings, to doors more or less ornamented in farms that were once richer, made from the end of the nineteenth century. These last have carved decoration, more elaborate and eclectic, in various forms. The commonest are double doors of many panels with a fanlight, each leaf divided into three or four equal vertical panels, in proportions close to 3:5, and the doors themselves 3:4, or 4 to 4.5 : 6.5 to 7. Newer doors, from the beginning of the twentieth century, are also double and have the proportions 1:2 with a fanlight over the door, the doors themselves 2:3 and ¼, divided into two unequal panels of which the higher is the larger. There are also double doors without a fanlight in the same proportions (2:3 and ¼), and single doors in the same proportions with panes of glass in the upper part of the leaf, the glass divided, for example, into three panes. The division of the whole door is in proportion (glass 1 : 2.5 wooden panels).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-37">S. 37</a></h2>
+<section class="lit-passage" id="p-37" data-page="37">
+<div class="pg" id="p37"><a href="#p37">S. 37</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/37.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/37.jpg' | relative_url }}" alt="Szwiec (2009), S. 37" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -979,12 +931,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 42. Window – dwelling house – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-38">S. 38</a></h2>
+<section class="lit-passage" id="p-38" data-page="38">
+<div class="pg" id="p38"><a href="#p38">S. 38</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/38.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/38.jpg' | relative_url }}" alt="Szwiec (2009), S. 38" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1000,12 +950,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 44. Window – dwelling house – photograph 2009, by Piotr Szwiec.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">S. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">S. 39</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/39.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/39.jpg' | relative_url }}" alt="Szwiec (2009), S. 39" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1021,12 +969,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 46. Window – dwelling house – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-40">S. 40</a></h2>
+<section class="lit-passage" id="p-40" data-page="40">
+<div class="pg" id="p40"><a href="#p40">S. 40</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/40.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/40.jpg' | relative_url }}" alt="Szwiec (2009), S. 40" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1042,12 +988,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 48. Window – dwelling house – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">S. 41</a></h2>
+<section class="lit-passage" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">S. 41</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/41.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/41.jpg' | relative_url }}" alt="Szwiec (2009), S. 41" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1063,12 +1007,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 50. Window – dwelling house – photograph 2009, by Witold Przewoźny.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">S. 42</a></h2>
+<section class="lit-passage" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">S. 42</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/42.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/42.jpg' | relative_url }}" alt="Szwiec (2009), S. 42" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1084,12 +1026,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 52. Window – dwelling house – photograph 2009, by Piotr Szwiec.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">S. 43</a></h2>
+<section class="lit-passage" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">S. 43</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/43.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/43.jpg' | relative_url }}" alt="Szwiec (2009), S. 43" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1105,12 +1045,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 54. Window – dwelling house – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">S. 44</a></h2>
+<section class="lit-passage" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">S. 44</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/44.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/44.jpg' | relative_url }}" alt="Szwiec (2009), S. 44" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1126,12 +1064,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 56. Front door – dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-45">S. 45</a></h2>
+<section class="lit-passage" id="p-45" data-page="45">
+<div class="pg" id="p45"><a href="#p45">S. 45</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/45.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/45.jpg' | relative_url }}" alt="Szwiec (2009), S. 45" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1147,12 +1083,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 58. Front door – dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-46">S. 46</a></h2>
+<section class="lit-passage" id="p-46" data-page="46">
+<div class="pg" id="p46"><a href="#p46">S. 46</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/46.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/46.jpg' | relative_url }}" alt="Szwiec (2009), S. 46" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1168,12 +1102,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 60. Front door – dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-47">S. 47</a></h2>
+<section class="lit-passage" id="p-47" data-page="47">
+<div class="pg" id="p47"><a href="#p47">S. 47</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/47.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/47.jpg' | relative_url }}" alt="Szwiec (2009), S. 47" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1189,12 +1121,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 62. Front door – dwelling house – photograph 2009, by Piotr Szwiec.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-48">S. 48</a></h2>
+<section class="lit-passage" id="p-48" data-page="48">
+<div class="pg" id="p48"><a href="#p48">S. 48</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/48.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/48.jpg' | relative_url }}" alt="Szwiec (2009), S. 48" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1210,12 +1140,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 64. Front door – dwelling house – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-49">S. 49</a></h2>
+<section class="lit-passage" id="p-49" data-page="49">
+<div class="pg" id="p49"><a href="#p49">S. 49</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/49.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/49.jpg' | relative_url }}" alt="Szwiec (2009), S. 49" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1231,12 +1159,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 66. Inner door – dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-50">S. 50</a></h2>
+<section class="lit-passage" id="p-50" data-page="50">
+<div class="pg" id="p50"><a href="#p50">S. 50</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/50.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/50.jpg' | relative_url }}" alt="Szwiec (2009), S. 50" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1252,12 +1178,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 68. Inner door – dwelling house – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-51">S. 51</a></h2>
+<section class="lit-passage" id="p-51" data-page="51">
+<div class="pg" id="p51"><a href="#p51">S. 51</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/51.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/51.jpg' | relative_url }}" alt="Szwiec (2009), S. 51" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1273,12 +1197,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 70. Inner door – dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-52">S. 52</a></h2>
+<section class="lit-passage" id="p-52" data-page="52">
+<div class="pg" id="p52"><a href="#p52">S. 52</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/52.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/52.jpg' | relative_url }}" alt="Szwiec (2009), S. 52" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1294,12 +1216,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 72. Inner door – dwelling house – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-53">S. 53</a></h2>
+<section class="lit-passage" id="p-53" data-page="53">
+<div class="pg" id="p53"><a href="#p53">S. 53</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/53.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/53.jpg' | relative_url }}" alt="Szwiec (2009), S. 53" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1315,12 +1235,10 @@ The surviving front doors are of ledged and of frame-and-panel construction, fro
 73. Porch – dwelling house – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">S. 54</a></h2>
+<section class="lit-passage" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">S. 54</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/54.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/54.jpg' | relative_url }}" alt="Szwiec (2009), S. 54" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1348,12 +1266,10 @@ The buildings have ground-floor walls built of red fired brick.
 74. Farm building – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">S. 55</a></h2>
+<section class="lit-passage" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">S. 55</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/55.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/55.jpg' | relative_url }}" alt="Szwiec (2009), S. 55" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1369,12 +1285,10 @@ The buildings have ground-floor walls built of red fired brick.
 76. Farm building – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-56">S. 56</a></h2>
+<section class="lit-passage" id="p-56" data-page="56">
+<div class="pg" id="p56"><a href="#p56">S. 56</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/56.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/56.jpg' | relative_url }}" alt="Szwiec (2009), S. 56" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1390,12 +1304,10 @@ The buildings have ground-floor walls built of red fired brick.
 78. Farm building – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-57">S. 57</a></h2>
+<section class="lit-passage" id="p-57" data-page="57">
+<div class="pg" id="p57"><a href="#p57">S. 57</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/57.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/57.jpg' | relative_url }}" alt="Szwiec (2009), S. 57" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1411,12 +1323,10 @@ The buildings have ground-floor walls built of red fired brick.
 80. Farm building – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-58">S. 58</a></h2>
+<section class="lit-passage" id="p-58" data-page="58">
+<div class="pg" id="p58"><a href="#p58">S. 58</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/58.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/58.jpg' | relative_url }}" alt="Szwiec (2009), S. 58" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1432,12 +1342,10 @@ The buildings have ground-floor walls built of red fired brick.
 82. Farm building – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-59">S. 59</a></h2>
+<section class="lit-passage" id="p-59" data-page="59">
+<div class="pg" id="p59"><a href="#p59">S. 59</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/59.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/59.jpg' | relative_url }}" alt="Szwiec (2009), S. 59" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1453,12 +1361,10 @@ The buildings have ground-floor walls built of red fired brick.
 84. Farm building – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-60">S. 60</a></h2>
+<section class="lit-passage" id="p-60" data-page="60">
+<div class="pg" id="p60"><a href="#p60">S. 60</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/60.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/60.jpg' | relative_url }}" alt="Szwiec (2009), S. 60" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1474,12 +1380,10 @@ The buildings have ground-floor walls built of red fired brick.
 86. Farm building – photograph 2009, by Witold Przewoźny.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-61">S. 61</a></h2>
+<section class="lit-passage" id="p-61" data-page="61">
+<div class="pg" id="p61"><a href="#p61">S. 61</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/61.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/61.jpg' | relative_url }}" alt="Szwiec (2009), S. 61" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1495,12 +1399,10 @@ The buildings have ground-floor walls built of red fired brick.
 88. Farm building – photograph 2009, by Witold Przewoźny.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-62">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-62">S. 62</a></h2>
+<section class="lit-passage" id="p-62" data-page="62">
+<div class="pg" id="p62"><a href="#p62">S. 62</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/62.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/62.jpg' | relative_url }}" alt="Szwiec (2009), S. 62" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1516,12 +1418,10 @@ The buildings have ground-floor walls built of red fired brick.
 90. Farm building – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-63">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-63">S. 63</a></h2>
+<section class="lit-passage" id="p-63" data-page="63">
+<div class="pg" id="p63"><a href="#p63">S. 63</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/63.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/63.jpg' | relative_url }}" alt="Szwiec (2009), S. 63" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1537,12 +1437,10 @@ The buildings have ground-floor walls built of red fired brick.
 92. Farm building – photograph 2009, by Wiesław Krzyżaniak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-64">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-64">S. 64</a></h2>
+<section class="lit-passage" id="p-64" data-page="64">
+<div class="pg" id="p64"><a href="#p64">S. 64</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/64.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/64.jpg' | relative_url }}" alt="Szwiec (2009), S. 64" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1566,12 +1464,10 @@ Buildings with walls of timber and of clay were roofed with straw or reed, brick
 93. Gable – farm building – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-65">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-65">S. 65</a></h2>
+<section class="lit-passage" id="p-65" data-page="65">
+<div class="pg" id="p65"><a href="#p65">S. 65</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/65.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/65.jpg' | relative_url }}" alt="Szwiec (2009), S. 65" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1587,12 +1483,10 @@ Buildings with walls of timber and of clay were roofed with straw or reed, brick
 95. Eaves – farm building – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-66">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-66">S. 66</a></h2>
+<section class="lit-passage" id="p-66" data-page="66">
+<div class="pg" id="p66"><a href="#p66">S. 66</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/66.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/66.jpg' | relative_url }}" alt="Szwiec (2009), S. 66" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1620,12 +1514,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 96. Window opening – farm building – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-67">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-67">S. 67</a></h2>
+<section class="lit-passage" id="p-67" data-page="67">
+<div class="pg" id="p67"><a href="#p67">S. 67</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/67.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/67.jpg' | relative_url }}" alt="Szwiec (2009), S. 67" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1641,12 +1533,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 98. Window opening – farm building – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-68">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-68">S. 68</a></h2>
+<section class="lit-passage" id="p-68" data-page="68">
+<div class="pg" id="p68"><a href="#p68">S. 68</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/68.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/68.jpg' | relative_url }}" alt="Szwiec (2009), S. 68" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1662,12 +1552,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 100. Window opening – farm building – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-69">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-69">S. 69</a></h2>
+<section class="lit-passage" id="p-69" data-page="69">
+<div class="pg" id="p69"><a href="#p69">S. 69</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/69.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/69.jpg' | relative_url }}" alt="Szwiec (2009), S. 69" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1683,12 +1571,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 102. Window opening – farm building – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-70">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-70">S. 70</a></h2>
+<section class="lit-passage" id="p-70" data-page="70">
+<div class="pg" id="p70"><a href="#p70">S. 70</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/70.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/70.jpg' | relative_url }}" alt="Szwiec (2009), S. 70" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1704,12 +1590,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 104. Window opening – farm building – photograph 2009, by Wiesław Krzyżaniak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-71">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-71">S. 71</a></h2>
+<section class="lit-passage" id="p-71" data-page="71">
+<div class="pg" id="p71"><a href="#p71">S. 71</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/71.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/71.jpg' | relative_url }}" alt="Szwiec (2009), S. 71" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1725,12 +1609,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 106. Door – farm building – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-72">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-72">S. 72</a></h2>
+<section class="lit-passage" id="p-72" data-page="72">
+<div class="pg" id="p72"><a href="#p72">S. 72</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/72.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/72.jpg' | relative_url }}" alt="Szwiec (2009), S. 72" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1746,12 +1628,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 108. Door – farm building – photograph 2009, by Piotr Szwiec.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-73">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-73">S. 73</a></h2>
+<section class="lit-passage" id="p-73" data-page="73">
+<div class="pg" id="p73"><a href="#p73">S. 73</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/73.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/73.jpg' | relative_url }}" alt="Szwiec (2009), S. 73" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1767,12 +1647,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 110. Door – farm building – photograph 2009, by Wiesław Krzyżaniak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-74">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-74">S. 74</a></h2>
+<section class="lit-passage" id="p-74" data-page="74">
+<div class="pg" id="p74"><a href="#p74">S. 74</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/74.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/74.jpg' | relative_url }}" alt="Szwiec (2009), S. 74" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1788,12 +1666,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 112. Double doors – farm building – photograph 2009, by Piotr Szwiec.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-75">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-75">S. 75</a></h2>
+<section class="lit-passage" id="p-75" data-page="75">
+<div class="pg" id="p75"><a href="#p75">S. 75</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/75.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/75.jpg' | relative_url }}" alt="Szwiec (2009), S. 75" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1809,12 +1685,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 114. Door – farm building – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-76">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-76">S. 76</a></h2>
+<section class="lit-passage" id="p-76" data-page="76">
+<div class="pg" id="p76"><a href="#p76">S. 76</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/76.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/76.jpg' | relative_url }}" alt="Szwiec (2009), S. 76" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1830,12 +1704,10 @@ The doors of farm buildings were made of simple ledged construction, in various 
 116. Double doors and door – farm building – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-77">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-77">S. 77</a></h2>
+<section class="lit-passage" id="p-77" data-page="77">
+<div class="pg" id="p77"><a href="#p77">S. 77</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/77.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/77.jpg' | relative_url }}" alt="Szwiec (2009), S. 77" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1855,12 +1727,10 @@ The detail of the older dwelling houses and farm buildings, especially those of 
 117. Door detail – farm building – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-78">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-78">S. 78</a></h2>
+<section class="lit-passage" id="p-78" data-page="78">
+<div class="pg" id="p78"><a href="#p78">S. 78</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/78.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/78.jpg' | relative_url }}" alt="Szwiec (2009), S. 78" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1876,12 +1746,10 @@ The detail of the older dwelling houses and farm buildings, especially those of 
 119. Door detail – farm building – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-79">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-79">S. 79</a></h2>
+<section class="lit-passage" id="p-79" data-page="79">
+<div class="pg" id="p79"><a href="#p79">S. 79</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/79.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/79.jpg' | relative_url }}" alt="Szwiec (2009), S. 79" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1913,12 +1781,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 120. Small structures – private wayside shrine – farm building – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-80">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-80">S. 80</a></h2>
+<section class="lit-passage" id="p-80" data-page="80">
+<div class="pg" id="p80"><a href="#p80">S. 80</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/80.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/80.jpg' | relative_url }}" alt="Szwiec (2009), S. 80" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1934,12 +1800,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 122. Small structures – fence – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-81">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-81">S. 81</a></h2>
+<section class="lit-passage" id="p-81" data-page="81">
+<div class="pg" id="p81"><a href="#p81">S. 81</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/81.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/81.jpg' | relative_url }}" alt="Szwiec (2009), S. 81" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1955,12 +1819,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 124. Small structures – fence – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-82">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-82">S. 82</a></h2>
+<section class="lit-passage" id="p-82" data-page="82">
+<div class="pg" id="p82"><a href="#p82">S. 82</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/82.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/82.jpg' | relative_url }}" alt="Szwiec (2009), S. 82" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1976,12 +1838,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 126. Small structures – fence – photograph 2009, by Anna Weronika Brzezińska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-83">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-83">S. 83</a></h2>
+<section class="lit-passage" id="p-83" data-page="83">
+<div class="pg" id="p83"><a href="#p83">S. 83</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/83.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/83.jpg' | relative_url }}" alt="Szwiec (2009), S. 83" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1997,12 +1857,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 128. Small structures – well – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-84">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-84">S. 84</a></h2>
+<section class="lit-passage" id="p-84" data-page="84">
+<div class="pg" id="p84"><a href="#p84">S. 84</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/84.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/84.jpg' | relative_url }}" alt="Szwiec (2009), S. 84" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2018,12 +1876,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 130. Small structures – well sweep and well – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-85">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-85">S. 85</a></h2>
+<section class="lit-passage" id="p-85" data-page="85">
+<div class="pg" id="p85"><a href="#p85">S. 85</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/85.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/85.jpg' | relative_url }}" alt="Szwiec (2009), S. 85" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2039,12 +1895,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 132. Small structures – well – photograph 2009, by Patrycja Mikołajczak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-86">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-86">S. 86</a></h2>
+<section class="lit-passage" id="p-86" data-page="86">
+<div class="pg" id="p86"><a href="#p86">S. 86</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/86.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/86.jpg' | relative_url }}" alt="Szwiec (2009), S. 86" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2060,12 +1914,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 134. Small structures – well sweep and well – photograph 2009, by Paulina Baranowska.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-87">S. 87</a></h2>
+<section class="lit-passage" id="p-87" data-page="87">
+<div class="pg" id="p87"><a href="#p87">S. 87</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/87.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/87.jpg' | relative_url }}" alt="Szwiec (2009), S. 87" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2081,12 +1933,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 136. Small structures – dog kennel – photograph 2009, by Bartosz Stańda.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-88">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-88">S. 88</a></h2>
+<section class="lit-passage" id="p-88" data-page="88">
+<div class="pg" id="p88"><a href="#p88">S. 88</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/88.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/88.jpg' | relative_url }}" alt="Szwiec (2009), S. 88" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2102,12 +1952,10 @@ Bread ovens (only one oven could be recorded in the field) were set at a good di
 138. Small structures – privy – photograph 2009, by Wiesław Krzyżaniak.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-89">S. 89</a></h2>
+<section class="lit-passage" id="p-89" data-page="89">
+<div class="pg" id="p89"><a href="#p89">S. 89</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 2.5. Układy przestrzenne – rozplanowanie wsi.
@@ -2146,12 +1994,10 @@ The villages merge into one great village, in which the farm’s position in rel
 Each Olęder village had its own cemetery near it, mostly on a hillock or a glacial dune. In some cases these dunes were levelled and shaped. In scattered villages, where there was ground high enough, it was placed near the centre of the village or an important crossroads. In compact villages the cemetery always lies outside the buildings. Mostly there are deciduous trees several hundred years old in it, often oaks, which may remember the time when the cemetery was founded.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-90">S. 90</a></h2>
+<section class="lit-passage" id="p-90" data-page="90">
+<div class="pg" id="p90"><a href="#p90">S. 90</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/90.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/90.jpg' | relative_url }}" alt="Szwiec (2009), S. 90" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2171,12 +2017,10 @@ Each Olęder village had its own cemetery near it, mostly on a hillock or a glac
 141. Aerial photograph (orthophotomap) of the village of Kolonia Usewo – from the portal http://www.geoportal.gov.pl
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-91">S. 91</a></h2>
+<section class="lit-passage" id="p-91" data-page="91">
+<div class="pg" id="p91"><a href="#p91">S. 91</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/91.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/91.jpg' | relative_url }}" alt="Szwiec (2009), S. 91" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2196,12 +2040,10 @@ Each Olęder village had its own cemetery near it, mostly on a hillock or a glac
 144. Parts of the German map called the Messtischblatt, scale 1:25,000. Sheet no. 3872 Pyzdry of 1944.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-92">S. 92</a></h2>
+<section class="lit-passage" id="p-92" data-page="92">
+<div class="pg" id="p92"><a href="#p92">S. 92</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/92.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/92.jpg' | relative_url }}" alt="Szwiec (2009), S. 92" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2217,12 +2059,10 @@ Each Olęder village had its own cemetery near it, mostly on a hillock or a glac
 146. Parts of the German map called the Messtischblatt, scale 1:25,000. Sheet no. 4074 Stawiszyn of 1944.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-93">S. 93</a></h2>
+<section class="lit-passage" id="p-93" data-page="93">
+<div class="pg" id="p93"><a href="#p93">S. 93</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/93.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/93.jpg' | relative_url }}" alt="Szwiec (2009), S. 93" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2238,12 +2078,10 @@ Each Olęder village had its own cemetery near it, mostly on a hillock or a glac
 148. Parts of the Polish general staff map, zone 40, column 26 Konin, Military Geographical Institute, of 1935, scale 1:100,000
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-94">S. 94</a></h2>
+<section class="lit-passage" id="p-94" data-page="94">
+<div class="pg" id="p94"><a href="#p94">S. 94</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/szwiec2009/94.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/szwiec2009/94.jpg' | relative_url }}" alt="Szwiec (2009), S. 94" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2259,12 +2097,10 @@ Each Olęder village had its own cemetery near it, mostly on a hillock or a glac
 150. Parts of the Polish general staff map, zone 41, column 26 Kalisz, Military Geographical Institute, of 1936, scale 1:100,000
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-95">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-95">S. 95</a></h2>
+<section class="lit-passage" id="p-95" data-page="95">
+<div class="pg" id="p95"><a href="#p95">S. 95</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 5. Podsumowanie
@@ -2299,12 +2135,10 @@ This should not, however, lead to a kind of artificial open-air-museum treatment
 And what future generations inherit will depend on the inhabitants of the region!
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-96">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-96">S. 96</a></h2>
+<section class="lit-passage" id="p-96" data-page="96">
+<div class="pg" id="p96"><a href="#p96">S. 96</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 6. Bibliografia
@@ -2395,12 +2229,10 @@ Monographs
 [18] Krawczak Cz., Prawo budowlane na ziemiach polskich od połowy XVIII wieku do 1939 roku, Uniwersytet Im. Adama Mickiewicza w Poznaniu, Prace Wydziału Prawa nr 69, Poznań 1975.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-97">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-97">S. 97</a></h2>
+<section class="lit-passage" id="p-97" data-page="97">
+<div class="pg" id="p97"><a href="#p97">S. 97</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 [19] Liżewska I., Tradycyjne budownictwo wiejskie na Warmii i Mazurach, Borussia, Olsztyn 2007.
@@ -2479,12 +2311,10 @@ Monographs
 [36] Wiśniewska M., Osadnictwo wiejskie, Ofic. Wydawnicza, Politechniki Warszawskiej, Warszawa 1999.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-98">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-98">S. 98</a></h2>
+<section class="lit-passage" id="p-98" data-page="98">
+<div class="pg" id="p98"><a href="#p98">S. 98</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 [37] Wróblewski T., Chłopskie budownictwo podcieniowe w Wielkopolsce w XIX w i XX w., Zeszyty Naukowe uniwersytetu im. Adama Mickiewicza, Poznań 1958.
@@ -2543,12 +2373,10 @@ Articles
 [8] Nadolny R., Wojewódzki Oddział Służby Ochrony Zabytków w Poznaniu, Boruja - ulicowa wieś olęderska, Ogólnopolska konferencja Olędrzy i ich dziedzictwo w Polsce. Historia, stan zachowania, ochrona, Toruń, 11-13 października 2001 r udostępnione na stronie WWW: http://holland.org.pl/art.php?kat=art&dzial=polska&id=1_2
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-99">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-99">S. 99</a></h2>
+<section class="lit-passage" id="p-99" data-page="99">
+<div class="pg" id="p99"><a href="#p99">S. 99</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 [9] Nawrocki S., Modernizacja folwarku w Wielkopolsce w połowie XIX wieku. Rocznik Muzeum Narodowego Rolnictwa w Szreniawie tom 22, Muz. Nar. Rol. i Przem. Rolno – Spoż., Szreniawa 2001, str. 41 – 52.
@@ -2611,12 +2439,10 @@ Dictionaries, encyclopaedias and statistical collections
 [8] Skorowidz miejscowości Rzeczpospolitej Polskiej, t. X. Województwo poznańskie, Warszawa, 1926.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-100">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-100">S. 100</a></h2>
+<section class="lit-passage" id="p-100" data-page="100">
+<div class="pg" id="p100"><a href="#p100">S. 100</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 [9] Taradejna U., Korczak - Żydaczewska K., Milusz M., Wójcikowska J., Powierzchnia ludności w przekroju statystycznym, GUS Departament Statystyki Przedsiębiorstw i Rejestrów, OPRAC., w Wydziale Rejestru TERYT, Druk – Zakład Wydawnictw Statystycznych, Warszawa 2006
@@ -2663,6 +2489,7 @@ Maps
 [3] Mapy polskie sztabowe z lat 1945 – 2007
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

@@ -7,16 +7,33 @@ alt_url: "/de/literatur/dean2012warthegau/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-34">34</a> <a href="#p-35">35</a> <a href="#p-36">36</a> <a href="#p-37">37</a> <a href="#p-38">38</a> <a href="#p-39">39</a> <a href="#p-48">48</a> <a href="#p-57">57</a> <a href="#p-58">58</a> <a href="#p-59">59</a> <a href="#p-60">60</a> <a href="#p-61">61</a> <a href="#p-63">63</a> <a href="#p-64">64</a> <a href="#p-99">99</a> <a href="#p-100">100</a> <a href="#p-120">120</a> <a href="#p-121">121</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-34"><span class="toc-e">WARTHEGAU REGION (REICHSGAU WARTHELAND)</span> <span class="toc-p">p. 34</span></a></li>
+<li class="l2"><a href="#p-48"><span class="toc-e">CHOCZ</span> <span class="toc-p">p. 48</span></a></li>
+<li class="l2"><a href="#p-48"><span class="toc-e">CIECHOCINEK</span> <span class="toc-p">p. 48</span></a></li>
+<li class="l2"><a href="#p-57"><span class="toc-e">GRODZIEC</span> <span class="toc-p">p. 57</span></a></li>
+<li class="l2"><a href="#p-59"><span class="toc-e">IZBICA KUJAWSKA</span> <span class="toc-p">p. 59</span></a></li>
+<li class="l2"><a href="#p-60"><span class="toc-e">KALISZ</span> <span class="toc-p">p. 60</span></a></li>
+<li class="l2"><a href="#p-63"><span class="toc-e">KONIN</span> <span class="toc-p">p. 63</span></a></li>
+<li class="l2"><a href="#p-99"><span class="toc-e">RZGÓW</span> <span class="toc-p">p. 99</span></a></li>
+<li class="l2"><a href="#p-100"><span class="toc-e">SANNIKI</span> <span class="toc-p">p. 100</span></a></li>
+<li class="l2"><a href="#p-120"><span class="toc-e">ZAGÓRÓW</span> <span class="toc-p">p. 120</span></a></li>
+<li class="l2"><a href="#p-121"><span class="toc-e">ZDUŃSKA WOLA</span> <span class="toc-p">p. 121</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-34">p. 34</a></h2>
+<section class="lit-passage" id="p-34" data-page="34">
+<div class="pg" id="p34"><a href="#p34">p. 34</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
-### WARTHEGAU REGION (REICHSGAU WARTHELAND)
+## WARTHEGAU REGION (REICHSGAU WARTHELAND)
 
 *Pre-1939: parts of the Łódź, Poznań, and Warsaw województwa; 1939–1945: Regierungsbezirke Posen, Hohensalza, and Litzmannstadt (1939–1941, Regierungsbezirk Kalisch), Reichsgau Wartheland, Deutsches Reich; post-1998: parts of kujawsko-pomierskie, łódzkie, wielkopolskie, and mazowieckie województwa*
 
@@ -29,12 +46,10 @@ By county (Kreis), running north to south, the German authorities established th
 Portrait of Arthur Greiser, Gauleiter and governor of the Reichsgau Wartheland, taken when he was deputy Gauleiter of Danzig under Albert Forster, 1930s. USHMM WS #20379, COURTESY OF NARA
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-35">p. 35</a></h2>
+<section class="lit-passage" id="p-35" data-page="35">
+<div class="pg" id="p35"><a href="#p35">p. 35</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 As the example of Kłodawa demonstrates, although ghettos were used to concentrate Jews from surrounding villages, as well as refugees from further away, in a few towns Jews continued to live without formal concentration in a ghetto right up to the final liquidation Aktions in the first half of 1942. In Kreis Hermannsbad, the German authorities were anxious to deny the official existence of “ghettos” even in those towns, such as Radziejów, where Jews were resettled into “residential districts” (open ghettos) exclusively for Jews. In such cases, the evidence of Jewish survivors also has been used to assist in determining whether open ghettos, nevertheless, were established.
@@ -50,12 +65,10 @@ From late 1939 through the spring of 1940, Greiser, with the support of Reichsf�
 Information on the precise reasons for setting up specific ghettos is sparse, but beyond the overall intent to concentrate the Jews in preparation for their intended deportation, Alberti has identified several concerns that influenced the authorities. In Piątek, Żychlin, and Pabianice, fears about the spread of disease spurred the German authorities to establish ghettos. In some places, such as the county towns of Turek and Sieradz, the need to house German administrators—or possibly make space for ethnic German settlers—played a role. The ghetto in Koźminek was set up in early 1940, as the authorities in Łódź refused to take the Jews concentrated for deportation from Kreis Kalisch. Subsequently some open ghettos were enclosed, again due to the authorities’ medical concerns, to attempt to suppress black market activities, and for other security-related reasons.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-36">p. 36</a></h2>
+<section class="lit-passage" id="p-36" data-page="36">
+<div class="pg" id="p36"><a href="#p36">p. 36</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 Resettlement into the ghettos generally meant the abandonment of much property. For example, in Pabianice, the Jews could bring in with them only what they could carry themselves. The Jews of Konin, who were resettled without warning to three village ghettos in the Kreis, were collected by German Gendarmes who allowed the Jews to take with them only a small bundle.<sup class="lit-fn"><a href="#n-en-1">1</a></sup> In Łódź, the Jews were given several weeks to complete the transfer but could bring in only one suitcase and a bed; about 200 Jews were shot dead during the resettlement Aktion in the city.
@@ -79,12 +92,10 @@ In an attempt to provide some supposed security from deportation to forced labor
 In spite of the harsh conditions, the Jews in many Wartheland ghettos tried to maintain some cultural life. In Kutno, Jews held meetings to discuss literature, sang songs, and organized
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-37">p. 37</a></h2>
+<section class="lit-passage" id="p-37" data-page="37">
+<div class="pg" id="p37"><a href="#p37">p. 37</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 a library.<sup class="lit-fn"><a href="#n-en-10">10</a></sup> Underground schools were operated in a number of ghettos, including Sompolno, and Jews also made efforts to maintain religious observance and bury their dead. In Zduńska Wola, an agricultural kibbutz operated until the ghetto was liquidated. In Łódź, concerts and other cultural events enabled Jews to forget their isolation, hunger, and despair, at least for a time.
@@ -104,12 +115,10 @@ Mid-1930s portrait of Herbert Lange, commander of Sonderkommando Lange and first
 Ten Jews are publicly hanged for black marketeering by the German police in the Zduńska Wola ghetto, February 28, 1942. In Reichsgau Wartheland, such mass hangings served as precursors to killing center deportations. USHMM WS #18853, COURTESY OF IPN
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-38">p. 38</a></h2>
+<section class="lit-passage" id="p-38" data-page="38">
+<div class="pg" id="p38"><a href="#p38">p. 38</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 closings, coming into possession of the small surviving legacy of all the liquidated Jewish communities of the Wartheland. The Łódź ghetto was one of the very last ghettos to be liquidated; most of its remaining population was deported to Auschwitz in August 1944, with the final deportations to the camps from the remnant ghetto leaving in October.
@@ -149,12 +158,10 @@ Hans Biebow, the Nazi administrator of the Łódź ghetto, sits at his desk, n.d
 Night-time view of the members of Reserve Police Battalion 101 guarding the perimeter of the Łódź ghetto, 1940–1941. One image from a photograph album that once belonged to a member of Police Battalion 101. USHMM WS #47443, COURTESY OF MICHAEL O.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">p. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">p. 39</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 <span class="lit-note" id="n-en-12">12</span> Accounts of “Szlamek” and Michał Podchlebnik published in Pawlicka-Nowak, *Chełmno Witnesses Speak*, pp. 100–120.
@@ -164,12 +171,10 @@ Night-time view of the members of Reserve Police Battalion 101 guarding the peri
 <span class="lit-note" id="n-en-14">14</span> Leib Pudlovsky, “Unter der Nazi Okupatsie,” in *Belkhatov: Yizker-bukh: Gevidmet dem ondenk fun a farshvundn Yidish shtetl in Poyln* (Buenos Aires: Tsentral-Farband fun PoylisheYidn in Argentine tsuzamen mit der Belkhatover Landslayt-Farayn in Argentine, Brazil un Tsofen-Amerike, 1951), pp. 434–445, includes a photograph of one of the hangings. *DDR-Justiz und NS-Verbrechen*, vol. 4 (Amsterdam: Amsterdam University Press, 2004), Lfd. Nr. 1225a, p. 316, implies there was a general order in the Wartheland for a certain number of Jews to be hanged in each community.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-48">p. 48</a></h2>
+<section class="lit-passage" id="p-48" data-page="48">
+<div class="pg" id="p48"><a href="#p48">p. 48</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 *Tod: NS-Ausrottungspolitik gegen polnischen Juden, gesehen mit den Augen der Opfer. Ein historischer Essay und ausgewählte Dokumente aus dem Ringelblum-Archiv 1941–1943* (Berlin: Hentrich, 1993).
@@ -194,7 +199,7 @@ Evelyn Zegenhagen and Martin Dean
 
 <span class="lit-note" id="n-en-21">7</span> USHMM, RG-15.019M, reel 16, (IPN) ASG, województwo poznańskie, vol. 54, pp. 103 and reverse.
 
-#### CHOCZ
+### CHOCZ
 
 *Pre-1939: Chocz, village, Łódź województwo, Poland; 1939–1945: Petershagen (1939–1943), Petersried (1943–1945), Kreis Kalisch, Regierungsbezirk Litzmannstadt, Reichsgau Wartheland; post-1998: Chocz, województwo wielkopolskie, Poland*
 
@@ -222,19 +227,17 @@ Jolanta Kraemer
 
 <span class="lit-note" id="n-en-22">1</span> USHMM, RG-15.019M (ASG), file 59 (Chocz), pp. 1–3.
 
-#### CIECHOCINEK
+### CIECHOCINEK
 
 *Pre-1939: Ciechocinek, town, Warsaw województwo, Poland; 1939–1944: Hermannsbad, Kreis Hermannsbad, Regierungsbezirk Hohensalza, Reichsgau Wartheland; post-1998: Ciechocinek, powiat Aleksandrowski, województwo kujawsko-pomorskie, Poland*
 
 Ciechocinek is located about 28 kilometers (17.5 miles) north-northwest of Włocławek. In 1921, there were 769 Jews out of
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-57">p. 57</a></h2>
+<section class="lit-passage" id="p-57" data-page="57">
+<div class="pg" id="p57"><a href="#p57">p. 57</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 **NOTES**
@@ -263,7 +266,7 @@ Ciechocinek is located about 28 kilometers (17.5 miles) north-northwest of Włoc
 
 <span class="lit-note" id="n-en-34">12</span> Shmuel Krakowski, *Das Todeslager Chełmno/Kulmhof: Der Beginn der “Endlösung”* (Göttingen: Wallstein, 2007), p. 84.
 
-#### GRODZIEC
+### GRODZIEC
 
 *Pre-1939: Grodziec (Yiddish: Gruyets), village, Łódź województwo, Poland; 1939–1944: Grossdorf, Kreis Konin, Regierungsbezirk Hohensalza, Reichsgau Wartheland; post-1998: Grodziec, województwo wielkopolskie, Poland*
 
@@ -288,12 +291,10 @@ Around this period (July 17–18, 1940), the Jewish community of nearby Skulsk (
 According to Isaiah Trunk, residents of such hamlet ghettos in the Warthegau were supposed to draw their livelihood from farming. Secondary sources state that the majority of such ghettos were unfenced, unguarded, and only occasionally patrolled by the Germans. They disagree on whether Poles
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-58">p. 58</a></h2>
+<section class="lit-passage" id="p-58" data-page="58">
+<div class="pg" id="p58"><a href="#p58">p. 58</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 living in the Grodziec hamlet ghettos were evicted from their households to accommodate the ghetto residents; it appears, however, that some at least took in the Jews on their farms, using them as unpaid labor in return for food and shelter. Jews generally describe conditions here as tolerable, although work hours were long. Some Jews subsequently were sent back from Grodziec to Konin and other towns for periods of forced labor, with most returning to Grodziec by February 1941.<sup class="lit-fn"><a href="#n-en-40">6</a></sup>
@@ -327,12 +328,10 @@ Jolanta Kraemer
 <span class="lit-note" id="n-en-39">5</span> “We Remember the Extermination Pits!” at www.zchor.org/extermination/pits.htm.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-59">p. 59</a></h2>
+<section class="lit-passage" id="p-59" data-page="59">
+<div class="pg" id="p59"><a href="#p59">p. 59</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 <span class="lit-note" id="n-en-40">6</span> Gelbart, *Kehilat Konin*, pp. 536, 541.
@@ -349,7 +348,7 @@ Jolanta Kraemer
 
 <span class="lit-note" id="n-en-46">12</span> “We Remember the Extermination Pits!”
 
-#### IZBICA KUJAWSKA
+### IZBICA KUJAWSKA
 
 *Pre-1939: Izbica Kujawska, town, Poznań województwo, Poland; 1939–1944: Mühlenthal, Landgemeinde, Kreis Wartbrücken (Koło), Regierungsbezirk Hohensalza, Reichsgau Wartheland; post-1998: Izbica Kujawska, województwo kujawsko-pomorskie, Poland*
 
@@ -372,12 +371,10 @@ The male Jews from Izbica Kujawska and Bugaj sent to Chełmno a few days before 
 **SOURCES** Information on the Izbica Kujawska ghetto and its liquidation is available in the following publications: Shmuel Krakowski, *Das Todeslager Chełmno/Kulmhof: Der Beginn der “Endlösung”* (Göttingen: Wallstein, 2007), pp. 38–39; Łucja Pawlicka-Nowak, ed., *Chełmno Witnesses Speak* (Konin: Council for the Protection of Memory of Combat and Martyrdom in Warsaw and District Museum in Konin, 2004), pp. 101, 120; and Ruta Sakowska, ed., *Die zweite Etappe ist der Tod: NS-Ausrottungspolitik gegen polnischen Juden, gesehen mit den Augen der Opfer. Ein historischer Essay und ausgewählte Dokumente aus dem Ringelblum-Archiv 1941–1943* (Berlin: Hentrich, 1993), pp. 177–178. The ghetto is also mentioned in: Czesław Pilichowski et al., eds., *Obozy hitlerowskie na ziemiach polskich 1939–1945: Informator encyklopedyczny* (Warsaw: PWN, 1979), p. 200, no. 1441; and *BŻIH*, nos. 13–14 (1955): 169. On the operation
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-60">p. 60</a></h2>
+<section class="lit-passage" id="p-60" data-page="60">
+<div class="pg" id="p60"><a href="#p60">p. 60</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 of the gas vans at Chełmno, see, for example, Michael Alberti, *Die Verfolgung und Vernichtung der Juden im Reichsgau Wartheland 1939–1945* (Wiesbaden: Harrassowitz, 2006), pp. 427–432.
@@ -406,7 +403,7 @@ Evelyn Zegenhagen and Martin Dean
 
 <span class="lit-note" id="n-en-55">9</span> Lucjan Dobroszycki, ed., *The Chronicle of the Łódź Ghetto, 1941–1944* (New Haven, CT: Yale University Press, 1984), p. xxi.
 
-#### KALISZ
+### KALISZ
 
 *Pre-1939: Kalisz, city, Łódź województwo, Poland; 1939–1945: Kalisch, center, Kreis Kalisch and Regierungsbezirk Kalisch (later Regierungsbezirk Litzmannstadt), Reichsgau Wartheland; post-1998: Kalisz, województwo wielkopolskie, Poland*
 
@@ -423,12 +420,10 @@ On November 20, 1939, several hundred German Gendarmes went into action, clearin
 In mid-February 1940, 1,912 Jews held behind barbed wire at the “Market Hall” were receiving rations from the Jewish
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-61">p. 61</a></h2>
+<section class="lit-passage" id="p-61" data-page="61">
+<div class="pg" id="p61"><a href="#p61">p. 61</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 hospital. On February 23, 1940, these Jews were transferred to the “open ghetto,” which was established for them and other Jews of the region in the small town of Koźminek about 20 kilometers (12 miles) to the northeast.<sup class="lit-fn"><a href="#n-en-61">6</a></sup>
@@ -474,12 +469,10 @@ Martin Dean
 <span class="lit-note" id="n-en-66">11</span> Glicksman, “Some Figures,” p. 288; Gross, “The End of the Community,” pp. 268–271; see also Lucjan Dobroszycki, ed., *The Chronicle of the Łódź Ghetto, 1941–1944* (New Haven, CT: Yale University Press, 1984), pp. 220–222, 233–234.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-63">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-63">p. 63</a></h2>
+<section class="lit-passage" id="p-63" data-page="63">
+<div class="pg" id="p63"><a href="#p63">p. 63</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 The extermination camp in Chełmno was located only 14 kilometers (9 miles) from Koło. On the first day of the liquidation of the ghetto, about 800 Jews were transferred to this camp in groups of several dozen by truck. During this Aktion, between 2,000 and 2,300 Jews from Koło were killed in Chełmno. The Jews of Koło were the first victims of this extermination camp. However, many of the Koło Jews who had been deported earlier to Bugaj and Nowiny Brdowskie were also transported to Chełmno later on January 13, 1942.<sup class="lit-fn"><a href="#n-en-77">11</a></sup> Efforts were made by the Jews in nearby ghettos to discover the fate of Koło’s Jews. For example, the Jewish Council in the Dąbie ghetto sent two separate missions to Koło to gather information about the fate of the deported Jews on December 9 and December 11, 1941.<sup class="lit-fn"><a href="#n-en-78">12</a></sup>
@@ -522,7 +515,7 @@ Documents on the history of the Jewish community of Koło and its fate during th
 
 <span class="lit-note" id="n-en-80">14</span> Bednarz, *Obóz straceń,* pp. 39–45.
 
-#### KONIN
+### KONIN
 
 *Pre-1939: Konin, town, Łódź województwo, Poland; 1939–1944: Landkreis Konin, Regierungsbezirk Hohensalza, Reichsgau Wartheland; post-1998: województwo wielkopolskie, Poland*
 
@@ -533,12 +526,10 @@ After the roundup of between 1,080 and 1,200 Jews on November 30, 1939, the firs
 Wehrmacht troops prepare to shoot a Pole and a Jew on the Wolność Square in Konin. The Polish victim was Aleksander Kurowski and the Jewish victim was Slodki. USHMM WS #50294, COURTESY OF IPN
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-64">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-64">p. 64</a></h2>
+<section class="lit-passage" id="p-64" data-page="64">
+<div class="pg" id="p64"><a href="#p64">p. 64</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 Turobin, both near Krasnystaw in Distrikt Lublin. Witnessing the hostility and brutality of the deportation process, many Konin Jews evaded the roundup to avoid expulsion.
@@ -580,12 +571,10 @@ Jolanta Kraemer
 <span class="lit-note" id="n-en-86">6</span> VHF, # 31143—Obar believes she was deported to Józefów in 1939 or 1940; Julius Ancer, www.chgs.umn.edu/histories/minnesotans/andHolocaust/ancer/index.html. See also Gelbart, *Kehilat Konin*, pp. 529–530, 545–546.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-99">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-99">p. 99</a></h2>
+<section class="lit-passage" id="p-99" data-page="99">
+<div class="pg" id="p99"><a href="#p99">p. 99</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 and attempted to ameliorate conditions for the Jews. As the roundups for the forced labor camps intensified, Jews went into hiding to avoid being caught.
@@ -638,7 +627,7 @@ Martin Dean
 
 <span class="lit-note" id="n-en-99">13</span> Wagner, *A Promise Kept*, pp. 45–61, dates her arrival in Auschwitz in 1943.
 
-#### RZGÓW
+### RZGÓW
 
 *Pre-1939: Rzgów, village, Łódź województwo, Poland; 1939–1945: Roggen, Kreis Konin, Regierungsbezirk Hohensalza, Reichsgau Wartheland; post–1998: two separate villages, Rzgów Pierwszy and Rzgów Drugi, województwo wielkopolskie, Poland*
 
@@ -647,12 +636,10 @@ Rzgów is located 17 kilometers (10.5 miles) southwest of Konin. In 1921, the Je
 An open ghetto was set up in Rzgów in the summer of 1940, when the remaining Jews of Kreis Konin were deported
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-100">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-100">p. 100</a></h2>
+<section class="lit-passage" id="p-100" data-page="100">
+<div class="pg" id="p100"><a href="#p100">p. 100</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 to a network of “hamlet ghettos” in the southern part of the Kreis; one of them was established in Rzgów and its 14 adjoining settlements. On July 17–18, 1940, 1,000 Jews from nearby Słupca were resettled to the Rzgów ghetto. Also a number of Jews from Konin, Kleczew, and Skulsk (Jewish population of 210 in 1939) were deported there.<sup class="lit-fn"><a href="#n-en-100">1</a></sup>
@@ -681,19 +668,17 @@ Jolanta Kraemer
 
 <span class="lit-note" id="n-en-103">4</span> “We Remember the Extermination Pits!”
 
-#### SANNIKI
+### SANNIKI
 
 *Pre-1939: Sanniki, village, Warsaw województwo, Poland; 1939–1945: Kreis Gasten (later Walderode), Regierungsbezirk Hohensalza, Reichsgau Wartheland; post-1998: województwo mazowieckie, Poland*
 
 Sanniki is located 69 kilometers (43 miles) north-northeast of Łódź. In 1921, the Jewish population was 315, out of a total of 1,447 inhabitants of the village. At the time of the German invasion in September 1939, the Luftwaffe bombed Sanniki, setting many houses on fire. Some local Jews fled towards Warsaw, but other refugees ar-
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-120">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-120">p. 120</a></h2>
+<section class="lit-passage" id="p-120" data-page="120">
+<div class="pg" id="p120"><a href="#p120">p. 120</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 Donat-Verlag, 1993), which contains numerous photographs concerning Jewish life in Włocławek before and during the ghetto period. Worthy of mention are also the memoirs of Peninah Cypkewicz-Rosin, *Flight to Survival. Włocławek—Warszawa—Częstochowa . . . Eretz Yisrael, 1939–1945* (League City, TX: Jewishgen, 2006); and the yizkor book by K.F. Thursh and M. Korzen, eds., *Votslavek veha-sevivah: Sefer zikaron* (Israel: Association of Former Włocławek Jews in Israel and America, 1967), which includes much information on the ghetto.
@@ -726,7 +711,7 @@ trans. Martin Dean
 
 <span class="lit-note" id="n-en-113">10</span> Ibid., p. 842.
 
-#### ZAGÓRÓW
+### ZAGÓRÓW
 
 *Pre-1939: Zagórów, town, Łódź województwo, Poland; 1939–1945: Hinterberg, Kreis Konin, Regierungsbezirk Hohensalza, Reichsgau Wartheland; post-1998: Zagórów, województwo wielkopolskie, Poland*
 
@@ -743,12 +728,10 @@ On October 24, 1940, the Jewish Council reported to the AJDC that a soup kitchen
 The German authorities raze the Włocławek ghetto to the ground, following the deportation of its inhabitants, April or May 1942. USHMM WS #61359A, COURTESY OF YIVO
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-121">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-121">p. 121</a></h2>
+<section class="lit-passage" id="p-121" data-page="121">
+<div class="pg" id="p121"><a href="#p121">p. 121</a></div>
 <div class="lit-only" lang="en" markdown="1">
 
 ruined and unable to contribute to the needs of the ghetto. Furthermore, the Jewish Council also had to pay for the 120 Zagórów Jews who had been taken to a forced labor camp in Konin and needed new wooden shoes. According to one survivor, Jews sent to Konin were used to clear remaining furniture from former Jewish houses there.<sup class="lit-fn"><a href="#n-en-121">8</a></sup>
@@ -791,7 +774,7 @@ Evelyn Zegenhagen and Martin Dean
 
 <span class="lit-note" id="n-en-125">12</span> USHMM, RG-15.079M, Ring I/394, “After January 1942”—protocol about the events in the Koło region.
 
-#### ZDUŃSKA WOLA
+### ZDUŃSKA WOLA
 
 *Pre-1939: Zduńska Wola, town, Łódź województwo, Poland; 1939–1945: Zdunska Wola, Kreis Schieratz, Regierungsbezirk Kalisch (later Regierungsbezirk Litzmannstadt), Reichsgau Wartheland; post-1998: Zduńska Wola, powiat center, Łódź województwo, Poland*
 
@@ -800,6 +783,7 @@ Zduńska Wola is located about 45 kilometers (28 miles) west-southwest of Łód�
 In August 1939, immediately before the beginning of World War II, Zduńska Wola had about 27,000 inhabitants, including 13,190 Poles (48.9 percent), 9,330 Jews (34.6 percent), and 4,480 Germans (16.6 percent). The town was captured by
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

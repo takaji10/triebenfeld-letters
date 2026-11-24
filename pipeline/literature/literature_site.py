@@ -36,17 +36,23 @@ A work made from a page of the Minakowska genealogy database
 here) and `full.md` (the whole page, the knowledgebase, never shown here).
 No page marks: cut at its headings.
 
-Each page gives the work passage by passage, each passage headed by its
-printed page so that it can be cited, and holding both texts, the original and
-the English; the page shows one of them at a time, the English first, by the
-buttons of _layouts/literature.html (site/assets/literature.js). The
-text is the passage file's, rendered as Markdown by Jekyll. Only the rendering
+Each page gives the work passage by passage (a passage is a printed page),
+as one continuous read in a book-width column (the editor's "reading column
+with a contents panel", 2026-11-24): the printed page number is a marker in
+the left margin (`.pg`, id "p41", the same marker the newspapers use), a
+contents panel stands at the left (the work's headings, else its page ranges,
+and a "Go to page" box), and each passage holds both texts, the original and
+the English: side by side from 80rem, one at a time (the English first) on a
+narrower screen, by the buttons of _layouts/literature.html
+(site/assets/literature.js). The text is the passage file's, rendered as
+Markdown by Jekyll. Only the rendering
 is changed, never the words: footnote markers [^n] become links to their notes
 (kramdown's own footnotes would clash between the two texts), headings are
-set two levels down under the page's own, and the four-space indent of a
+set one level down under the page's own, and the four-space indent of a
 note's second paragraph is taken off so that it is not shown as code, a "|"
 outside a table is escaped (kramdown would make the line a table), and a line
-break inside a paragraph is kept as a break.
+break inside a paragraph is kept as a break. There is no index of pages (the
+editor, 2026-11-24: "this is useless"); the contents panel replaces it.
 
 A work printed in English (`language: en`, Mączak 1968) has one text, shown
 without the buttons. A work's `figures` (page key -> file in
@@ -130,7 +136,7 @@ BLOCK = re.compile(r'^\s*(\||#|[-*+] |\d+[.)] )')
 
 def render(t):
     t = IAL.sub('', t)
-    t = HEADING.sub(lambda m: '#' * min(6, len(m.group(1)) + 2), t)
+    t = HEADING.sub(lambda m: '#' * min(6, len(m.group(1)) + 1), t)
     t = re.sub(r'^    (?=\S)', '', t, flags=re.M)
     # a name printed as asterisks ("v. ****d") is not emphasis
     t = re.sub(r'\*{4,}', lambda m: '\\*' * len(m.group(0)), t)
@@ -168,17 +174,125 @@ def _label(p, s):
     return part + s['lit_page'].replace('%s', str(p['page']))
 
 
-def short(p, s):
-    """The label in the list of pages at the head of a work."""
-    if p['key'] == 'notes':
-        return s['lit_notes']
-    if p.get('title'):
-        return p['title']
-    if p['key'].endswith('front'):
-        return (f"{p['part']}: " if p['part'] else '') + s['lit_front_short']
-    if re.search(r'-u\d+$', p['key']):
+def marker(p, s, used):
+    """The passage's page mark for the margin (assets/style.css, .pg), or None
+    for a passage that is a section with its own heading (a Minakowska
+    section, a regest, the notes). The mark is the printed page (a link,
+    id "p41"), "front" for the matter before page 1, "after p. 12" for a
+    page without a number. Ids are unique over the work: a part's pages carry
+    the part's number ("p2-IV")."""
+    key = p['key']
+    if key == 'notes' or p.get('title'):
         return None
-    return (f"{p['part']}: " if p['part'] and p['page'] in ('1',) else '') + str(p['page'])
+    if key.endswith('front'):
+        return f'<div class="pg"><a href="#p-{key}">{s["lit_front_short"]}</a></div>'
+    m = re.search(r'(\w+)-u(\d+)$', key)
+    if m:
+        return f'<div class="pg"><a href="#p-{key}">{html.escape(s["lit_after"].replace("%s", m.group(1)))}</a></div>'
+    page = str(p['page'])
+    pid = f'p{p["part"]}-{page}' if p['part'] else f'p{page}'
+    if pid in used:
+        pid += f'-{key}'
+    used.add(pid)
+    return (f'<div class="pg" id="{pid}"><a href="#{pid}">'
+            f'{html.escape(s["lit_page"].replace("%s", page))}</a></div>')
+
+
+MDHEAD = re.compile(r'^(#{1,6})[ \t]+(.*?)\s*$', re.M)
+
+
+def clean_heading(t):
+    """A heading's words as plain text for the contents panel."""
+    t = IAL.sub('', t)
+    t = re.sub(r'\[\^[^\]\s]+\]', '', t)
+    t = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', t)
+    t = re.sub(r'<[^>]+>', '', t)
+    t = re.sub(r'[*_\\]', '', t)
+    return re.sub(r'\s+', ' ', t).strip()
+
+
+def headings(text):
+    return [(len(m.group(1)), clean_heading(m.group(2))) for m in MDHEAD.finditer(text or '')
+            if clean_heading(m.group(2))]
+
+
+def toc_entries(w, ps, raw, orig):
+    """The contents panel's entries from the headings of the text, or [] where
+    the work has fewer than two: (passage key, level, English, original)."""
+    ent = []
+    for i, p in enumerate(ps):
+        he = headings(raw['en'][i]) if raw.get('en') else []
+        ho = headings(raw[orig][i]) if orig != 'en' and raw.get(orig) else []
+        if orig == 'en':
+            rows = [(l, t, None) for l, t in he]
+        elif len(he) == len(ho):
+            rows = [(l, e, o) for (l, e), (_, o) in zip(he, ho)]
+        else:
+            rows = [(l, t, None) for l, t in (he or ho)]
+        for l, e, o in rows:
+            if ent and ent[-1][0] == p['key'] and ent[-1][2] == e:
+                continue                      # a running head repeated on the page
+            ent.append((p['key'], l, e, o))
+    # the original's first-level heading of the work's own title page etc. is
+    # kept; shorten very long lists to the upper levels
+    while len(ent) > 120 and max(e[1] for e in ent) > min(e[1] for e in ent):
+        top = max(e[1] for e in ent)
+        ent = [e for e in ent if e[1] < top]
+    return ent if len(ent) >= 2 else []
+
+
+def toc_ranges(ps, s):
+    """No headings: the printed pages in groups ("pp. 1-30"), each a link to
+    the first page of the group."""
+    pages = [(p['key'], str(p['page'])) for p in ps if p['page'] and p['key'] != 'notes']
+    if len(pages) < 2:
+        return []
+    g = max(5, -(-len(pages) // 12))
+    g = -(-g // 5) * 5
+    out = []
+    for k in range(0, len(pages), g):
+        grp = pages[k:k + g]
+        a, b = grp[0][1], grp[-1][1]
+        out.append((grp[0][0], s['lit_toc_range'].replace('%s', a, 1).replace('%s', b, 1)
+                    if a != b else s['lit_page'].replace('%s', a)))
+    return out
+
+
+def toc_html(w, ps, raw, orig, s):
+    """The contents panel: the work's headings (the English, and the
+    original's where its headings pair with them), else the page ranges; a
+    "Go to page" box when the work has printed pages."""
+    ent = toc_entries(w, ps, raw, orig)
+    pageof = {p['key']: (str(p['page']) if p['page'] else '') for p in ps}
+    out = ['<details class="lit-toc" open>',
+           f'<summary>{html.escape(s["lit_contents"])}</summary>',
+           '<div class="lit-toc-body">']
+    if any(p['page'] for p in ps):
+        out.append(f'<form class="lit-goto" action="#" data-none="{html.escape(s["lit_goto_none"])}">'
+                   f'<label for="lit-goto-in">{html.escape(s["lit_goto"])}</label>'
+                   '<input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" '
+                   'spellcheck="false" size="6">'
+                   f'<button type="submit">{html.escape(s["lit_goto_go"])}</button>'
+                   '<span class="lit-goto-msg" role="status"></span></form>')
+    out.append('<ol>')
+    if ent:
+        lo = min(e[1] for e in ent)
+        for key, lvl, en, o in ent:
+            rel = min(lvl - lo, 2) + 1
+            txt = f'<span class="toc-e">{html.escape(en)}</span>'
+            if o and o != en:
+                txt += f'<span class="toc-o" lang="{orig}">{html.escape(o)}</span>'
+            elif o:
+                txt = f'<span>{html.escape(en)}</span>'
+            pg = pageof.get(key)
+            pgs = (f' <span class="toc-p">{html.escape(s["lit_page"].replace("%s", pg))}</span>'
+                   if pg else '')
+            out.append(f'<li class="l{rel}"><a href="#p-{key}">{txt}{pgs}</a></li>')
+    else:
+        for key, lab in toc_ranges(ps, s):
+            out.append(f'<li class="l1"><a href="#p-{key}">{html.escape(lab)}</a></li>')
+    out += ['</ol>', '</div>', '</details>']
+    return out
 
 
 def yaml_str(v):
@@ -380,9 +494,10 @@ def main():
         slug, orig = w['slug'], w['language']
         ps = w['passages']
         langs = [orig] if orig == 'en' else [orig, 'en']
-        texts = {}
+        texts, raws = {}, {}
         for lg in langs:
-            texts[lg], missing = footnotes([passage_text(slug, p['key'], lg) for p in ps], lg)
+            raws[lg] = [passage_text(slug, p['key'], lg) for p in ps]
+            texts[lg], missing = footnotes(raws[lg], lg)
             if missing:
                 print(f'{slug} ({lg}): {missing} note markers with no note, left as they stand')
         listing_row = {k: w.get(k, '') for k in (
@@ -399,17 +514,24 @@ def main():
                        | {'pages': sum(1 for p in ps if p['page'])})
         for lang, (folder, base, other) in BASES.items():
             s = strings[lang]
-            body = ['{% raw %}', '<nav class="lit-jump" aria-label="' + s['lit_pages'] + '">']
-            jumps = [(p['key'], short(p, s)) for p in ps]
-            body.append(' '.join(f'<a href="#p-{k}">{v}</a>' for k, v in jumps if v))
-            body.append('</nav>')
+            body = ['{% raw %}', '<div class="lit-reader">']
+            body += toc_html(w, ps, raws, orig, s)
+            body.append('<div class="lit-text">')
+            used, last_part = set(), None
             for i, p in enumerate(ps):
                 pk = p['key']
                 lns = at.get(f'{slug}/{pk}', [])
+                if p['part'] and p['part'] != last_part:
+                    body.append(f'<h2 class="lit-sec" id="part-{p["part"]}">'
+                                + html.escape(s['lit_part'].replace('%d', str(p['part']))) + '</h2>')
+                last_part = p['part']
                 body += ['', f'<section class="lit-passage'
-                             f'{" has-related" if lns else ""}" id="p-{pk}">',
-                         '<div class="lit-main">',
-                         f'<h2 class="lit-loc"><a href="#p-{pk}">{label(p, s)}</a></h2>']
+                             f'{" has-related" if lns else ""}" id="p-{pk}"'
+                             + (f' data-page="{html.escape(str(p["page"]))}"' if p['page'] else '')
+                             + (f' data-part="{p["part"]}"' if p['part'] else '') + '>']
+                mk = marker(p, s, used)
+                if mk:
+                    body.append(mk)
                 body += figure(slug, p['key'], w.get('figures') or {}, w['cite'], s)
                 pairs = (((orig, 'lit-only'),) if orig == 'en'
                          else ((orig, 'lit-orig'), ('en', 'lit-en')))
@@ -420,13 +542,15 @@ def main():
                         body += [f'<div class="{cls} lit-none" lang="{lg}">',
                                  '<p>' + s['lit_missing'].replace('%s', which) + '</p>', '</div>']
                     else:
+                        head = p.get('title') or (s['lit_notes'] if pk == 'notes' else None)
+                        if head and not MDHEAD.match(t.lstrip()):
+                            t = f'# {head}\n\n{t}'
                         body += [f'<div class="{cls}" lang="{lg}" markdown="1">', '',
                                  render(t), '', '</div>']
-                body.append('</div>')
                 if lns:
                     body += links_box(lns, f'{slug}/{pk}', s, lang)
                 body.append('</section>')
-            body.append('{% endraw %}')
+            body += ['</div>', '</div>', '{% endraw %}']
             fm = ['---',
                   f'work: {yaml_str(slug)}',
                   f'title: {yaml_str(w["cite"])}',
@@ -462,8 +586,9 @@ def main():
         listing.append(listing_row | card_extra(w)
                        | {'pages': 0, 'summary_only': True})
         for lang, (folder, base, other) in BASES.items():
-            body = ['{% raw %}', '<div class="lit-summary" markdown="1">', '',
-                    w['summary_' + lang].strip(), '', '</div>', '{% endraw %}']
+            body = ['{% raw %}', '<div class="lit-reader lit-reader--solo"><div class="lit-text">',
+                    '<div class="lit-summary" markdown="1">', '',
+                    w['summary_' + lang].strip(), '', '</div>', '</div></div>', '{% endraw %}']
             fm = ['---',
                   f'work: {yaml_str(slug)}',
                   f'title: {yaml_str(w["cite"])}',

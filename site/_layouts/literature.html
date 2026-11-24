@@ -26,8 +26,7 @@ layout: default
     </dl>
     <div class="prose">
       <p>{% if lang == 'de' %}{{ w.account_de }}{% else %}{{ w.account_en }}{% endif %}</p>
-      {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>
-      {% elsif w.language != 'en' %}<p class="lit-caveat">{{ t.lit_caveat }}</p>{% endif %}
+      {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>{% endif %}
       {% if w.scan != "" %}<p><a href="{{ w.scan }}">{{ t.lit_scan }}</a></p>{% endif %}
       {%- comment -%} The sub-items' note (Janocki 1779 on Paciorkowski 1776). {%- endcomment -%}
       {%- assign lit_subs = site.data.literature | where: "parent", page.work -%}
@@ -45,9 +44,11 @@ layout: default
   </header>
 
   {%- comment -%}
-    One text at a time, like a document's views (editor, 2026-10-19): the
-    English first, a button for the original. assets/literature.js switches
-    them and remembers the choice; without it both stand one under the other.
+    One text at a time on a narrow screen, like a document's views (editor,
+    2026-10-19): the English first, a button for the original; from 80rem the
+    two side by side, passage by passage (editor, 2026-11-24, the reading
+    column with a contents panel). assets/literature.js switches them and
+    remembers the choice; without it both stand one under the other.
     The Related toggle sits beside the buttons (or alone, for a work printed
     in English, which has no viewbar); it hides the Related column page-wide.
   {%- endcomment %}
@@ -58,7 +59,7 @@ layout: default
   <div class="viewbar lit-viewbar" role="group" aria-label="{{ t.lit_view_label }}">
     <button type="button" class="vbtn is-on" data-show="en" aria-pressed="true">{{ t.lit_view_en }}</button>
     <button type="button" class="vbtn" data-show="orig" aria-pressed="false">{{ t[lang_key] }}</button>
-    <span class="viewhint" data-hint="en">{{ t.lit_hint_en }}</span>
+    <button type="button" class="vbtn" data-show="both" aria-pressed="false">{{ t.lit_both }}</button>
     {% if w.related %}<button type="button" class="vbtn rbtn is-on" data-related-toggle aria-pressed="true" title="{{ t.lit_related_toggle }}">{{ t.lit_related }}</button>{% endif %}
   </div>
   {% elsif w.related %}

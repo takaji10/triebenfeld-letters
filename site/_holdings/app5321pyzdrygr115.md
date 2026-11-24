@@ -9,52 +9,19 @@ has_process: true
 about_lang: en
 process_lang: en
 ---
-A register of the court office at Pyzdry for 1791 and 1792 contains a table of the farming households (dymy rolne, "hearths") of the parishes of the district. The page here is the head of the table for the parish of Trąbczyn, village by village – the village of Trąbczyn, the parsonage, Nowa Wieś, Osiny, Łazy, the smithy of Maryantów and the Hollander settlements – with the number of hearths and two columns of figures headed gara. <!-- context -->
+In 1791 or 1792 the court office at Pyzdry recorded the farming households (dymy rolne, "hearths") of the parishes of its district. For the parish of Trąbczyn it lists the village of Trąbczyn, the parsonage, Nowa Wieś, Osiny, Łazy, the smithy of Maryantów and the Hollander settlements, with the number of hearths in each and two further columns of dues. <!-- context -->
 
-### The fonds and its court
+### The court
 
-The archive describes the fond's contents as resignations, inscriptions,
-relations, judgments, oblates, registers of cases, plenipotencies and
-dissoluta. The municipal court took shape at the end of the fourteenth century
-and, as concerned the nobility, took within its competence the criminal
-matters of the so-called four grod articles: arson, attack on a nobleman's
-house, robbery on a public road, and rape. In time its competence changed
-and came to cover the remaining criminal matters as well, and also matters
-of land and of sums of money, and it took over the right of appeal from the
-town courts. Beside the court there developed the municipal court office, where the
-court books were kept; the office was open every day for entries of
-uncontested matters, and the books had the force of the so-called public
-faith (wiara publiczna). <!-- context -->
+The municipal court took shape at the end of the fourteenth century and, as concerned the nobility, first heard the criminal matters of the four "castle articles": arson, an attack on a nobleman's house, robbery on a public road, and rape. In time it came to cover the remaining criminal matters as well, and matters of land and of sums of money, and took over appeals from the town courts. Beside the court grew the court office, open every day for the registration of uncontested business; what was entered in its books was accepted as proof. <!-- context -->
 
 ### Contents
 
-The page carries the head of a table of the parish of Trąbczyn, in Polish:
-five columns, the parish, the names of the towns, villages and demesne
-farms, the agricultural hearths (dymy rolne), and two columns of dues whose
-headings read "gara zyta" and "gara owcza" <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. Seven rows stand under the
-parish: the village of Trąbczyn itself, 21 hearths, 22 and 84; the parsonage
-(Plebania), 4, 8 and 16; Nowawieś, 5, 10 and 20; Osiny, 6, 12 and 24; Łazy,
-5, 10 and 20; Kuznia Maryantów, the smithy, 1, 2 and 4; and "Hollendry Luzne
-Stare i nowe z Hutą", the scattered Hollander settlements old and new with
-the Huta, 31, 62 and 124 <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>.
-
-In every row but the first the figures double from column to column; the
-village's own row, 21, 22 and 84, is the one whose middle figure does not
-follow the doubling, and it stands as written – the transcription is the
-editor's own and correct <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. <!-- context -->
-
-The entry stands in the first half of the page; the rest of the page belongs
-to the entry after it and is not transcribed. The table carries no date of
-its own; the volume's title names the years 1791 and 1792. <!-- context -->
+The village of Trąbczyn had 21 hearths; the parsonage (Plebania) 4; Nowawieś 5; Osiny 6; Łazy 5; Kuznia Maryantów, the smithy, 1; and "Hollendry Luzne Stare i nowe z Hutą", the scattered Hollander settlements old and new with the glassworks (Huta), 31. Two further columns, headed "gara zyta" and "gara owcza", give each place twice and four times its number of hearths: the parsonage 8 and 16, Nowa Wieś 10 and 20, Osiny 12 and 24, Łazy 10 and 20, the smithy 2 and 4, the Hollanders 62 and 124. Only the village of Trąbczyn breaks the pattern, with 22 and 84 <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. What the two columns measured is not certain; "zyta" is rye. <!-- context -->
 
 ### The places of the table
 
-The rows are the villages of the parish of Trąbczyn. The smithy "Kuznia
-Maryantów" of the table is the Marianton, Mariantów, where
-the Hohenlohe patrimonial court for Trąbczyn sat ("Actum Marianton") – the
-editor's identification <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. The one row "Hollendry Luzne Stare i nowe z
-Hutą" names both Olęder colonies of the estate together, the old and the new
-<span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>.
+The smithy "Kuznia Maryantów" is Marianton, later Mariantów, where the patrimonial court of the Hohenlohe estate of Trąbczyn sat <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>. "Hollendry Luzne Stare i nowe z Hutą" takes both Olęder colonies of the estate together, the old and the new <span class="cite">[<a href="{{ '/documents/app5321pyzdrygr115/1/' | relative_url }}">1</a>]</span>.
 
 The visitation of the parish made in 1791 lists the same places: the church
 in the village of Trąbczyn, the inheritance of Antoni Prusimski, Starost of

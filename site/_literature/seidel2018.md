@@ -7,6 +7,7 @@ alt_url: "/de/literatur/seidel2018/"
 excerpt_separator: ""
 ---
 {% raw %}
+<div class="lit-reader lit-reader--solo"><div class="lit-text">
 <div class="lit-summary" markdown="1">
 
 A biography of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen (1746-1818), called "FL" throughout, by Hans-Joachim Seidel, who grew up in Ingelfingen. It is drawn above all from the letters and papers in the Hohenlohe Central Archive at Neuenstein, many of them quoted at length, from Adolf Fischer's history of the House of Hohenlohe (1871) and from Gerlinde Kraus's study of the Upper Silesian estates (2001). Twenty-three chapters, with "excursuses" on the background, eight appendices and a list of sources; the notes (pp. 257-266) are not transcribed in the copy.
@@ -54,4 +55,5 @@ A table of FL's military career; a map of Upper Silesia and of Poland after the 
 ### Where the documents say otherwise Trąbczyn, with Szetlewek, Nowa Wieś, Łazy and Osiny, came to FL by the King's deed of gift of 9 August 1796 as estates fallen to the crown, that is Prusimski's confiscated estates (Oe 1 Bü 14525, doc. 1), not as crown or starost land; Zagórów came by a deed of grant of 19 June 1797 (I. HA Rep. 162 Nr. 295, doc. 3), not in 1796. The copy of the colonists' lease lacks its beginning and is dated by its engrossing, 21 March 1806 (APP 53/968/0/-/801, doc. 3), so the 18 May 1805 can be neither confirmed nor ruled out; the chamber's consent of 28 January 1806 (doc. 2) and Triebenfeld's bond of 28 January 1805 for the 50,000 thalers (Rep. 162 Nr. 295, doc. 1) agree.
 
 </div>
+</div></div>
 {% endraw %}

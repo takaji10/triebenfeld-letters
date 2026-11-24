@@ -28,6 +28,8 @@ import io, os, re, sys, json
 import yaml
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+import pagemarks
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 NEWS = os.path.join(ROOT, 'newspapers')
@@ -76,6 +78,19 @@ def yaml_str(v):
     return json.dumps(v, ensure_ascii=False)
 
 
+def with_marks(text, label, anchor):
+    """The text's printed page numbers, as lines of their own ("[720]", "[s. 720]",
+    "- 720 -": pipeline/pagemarks.py says which count), become the margin
+    marker of the literature's pages (assets/style.css, .pg) - the editor,
+    2026-11-24. `label` is the page word of the page's language ("p. %s");
+    only one of the item's two texts carries the anchor id ("#p720")."""
+    lines = text.split('\n')
+    marks = pagemarks.find_marks(lines)
+    for i, (page, _form) in marks.items():
+        lines[i] = '\n' + pagemarks.marker_html(page, label.replace('%s', page), anchor) + '\n'
+    return '\n'.join(lines)
+
+
 MONTH_DATE = re.compile(r'\b\d{1,2}\.? [A-Za-zäöüÄÖÜ]+ \d{4}\b')
 PAGES = re.compile(r'\b(?:pp|S\.|p)\.? ?(\d+)(?:\s*[-\u2013]\s*(\d+))?\s*$')
 
@@ -98,6 +113,8 @@ def card_date(issue, year):
 
 
 def main():
+    with open(os.path.join(SITE, '_data', 'i18n.yml'), encoding='utf-8') as f:
+        strings = yaml.safe_load(f)
     items = []
     for slug in sorted(os.listdir(NEWS)):
         d = os.path.join(NEWS, slug)
@@ -151,7 +168,8 @@ def main():
             if it.get('visible', True):
                 for lg, cls in ((it['language'], 'lit-orig'), ('en', 'lit-en')):
                     body += [f'<div class="{cls}" lang="{lg}" markdown="1">', '',
-                             render(texts[lg]), '', '</div>']
+                             render(with_marks(texts[lg], strings[lang]['lit_page'],
+                                               cls == 'lit-orig')), '', '</div>']
             else:
                 body += ['<div class="np-summary" markdown="1">', '',
                          it['summary_' + lang].strip(), '', '</div>']

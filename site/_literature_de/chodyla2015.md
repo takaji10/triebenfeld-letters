@@ -7,18 +7,37 @@ alt_url: "/literature/chodyla2015/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-front">Titel</a> <a href="#p-5">5</a> <a href="#p-6">6</a> <a href="#p-7">7</a> <a href="#p-8">8</a> <a href="#p-9">9</a> <a href="#p-10">10</a> <a href="#p-11">11</a> <a href="#p-12">12</a> <a href="#p-13">13</a> <a href="#p-14">14</a> <a href="#p-15">15</a> <a href="#p-16">16</a> <a href="#p-17">17</a> <a href="#p-18">18</a> <a href="#p-19">19</a> <a href="#p-20">20</a> <a href="#p-21">21</a> <a href="#p-22">22</a> <a href="#p-23">23</a> <a href="#p-24">24</a> <a href="#p-25">25</a> <a href="#p-26">26</a> <a href="#p-27">27</a> <a href="#p-28">28</a> <a href="#p-29">29</a> <a href="#p-30">30</a> <a href="#p-31">31</a> <a href="#p-32">32</a> <a href="#p-33">33</a> <a href="#p-34">34</a> <a href="#p-35">35</a> <a href="#p-36">36</a> <a href="#p-37">37</a> <a href="#p-38">38</a> <a href="#p-39">39</a> <a href="#p-40">40</a> <a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-45">45</a> <a href="#p-46">46</a> <a href="#p-47">47</a> <a href="#p-48">48</a> <a href="#p-49">49</a> <a href="#p-50">50</a> <a href="#p-51">51</a> <a href="#p-52">52</a> <a href="#p-53">53</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-56">56</a> <a href="#p-57">57</a> <a href="#p-58">58</a> <a href="#p-59">59</a> <a href="#p-60">60</a> <a href="#p-61">61</a> <a href="#p-62">62</a> <a href="#p-63">63</a> <a href="#p-64">64</a> <a href="#p-65">65</a> <a href="#p-66">66</a> <a href="#p-67">67</a> <a href="#p-68">68</a> <a href="#p-69">69</a> <a href="#p-70">70</a> <a href="#p-71">71</a> <a href="#p-72">72</a> <a href="#p-73">73</a> <a href="#p-74">74</a> <a href="#p-75">75</a> <a href="#p-76">76</a> <a href="#p-77">77</a> <a href="#p-78">78</a> <a href="#p-79">79</a> <a href="#p-80">80</a> <a href="#p-81">81</a> <a href="#p-82">82</a> <a href="#p-83">83</a> <a href="#p-84">84</a> <a href="#p-85">85</a> <a href="#p-86">86</a> <a href="#p-87">87</a> <a href="#p-88">88</a> <a href="#p-89">89</a> <a href="#p-90">90</a> <a href="#p-91">91</a> <a href="#p-92">92</a> <a href="#p-93">93</a> <a href="#p-94">94</a> <a href="#p-95">95</a> <a href="#p-96">96</a> <a href="#p-97">97</a> <a href="#p-98">98</a> <a href="#p-99">99</a> <a href="#p-100">100</a> <a href="#p-101">101</a> <a href="#p-102">102</a> <a href="#p-103">103</a> <a href="#p-104">104</a> <a href="#p-105">105</a> <a href="#p-106">106</a> <a href="#p-107">107</a> <a href="#p-108">108</a> <a href="#p-109">109</a> <a href="#p-110">110</a> <a href="#p-111">111</a> <a href="#p-112">112</a> <a href="#p-113">113</a> <a href="#p-114">114</a> <a href="#p-115">115</a> <a href="#p-116">116</a> <a href="#p-117">117</a> <a href="#p-118">118</a> <a href="#p-119">119</a> <a href="#p-120">120</a> <a href="#p-121">121</a> <a href="#p-122">122</a> <a href="#p-123">123</a> <a href="#p-124">124</a> <a href="#p-125">125</a> <a href="#p-126">126</a> <a href="#p-127">127</a> <a href="#p-128">128</a> <a href="#p-129">129</a> <a href="#p-130">130</a> <a href="#p-131">131</a> <a href="#p-132">132</a> <a href="#p-133">133</a> <a href="#p-134">134</a> <a href="#p-135">135</a> <a href="#p-136">136</a> <a href="#p-137">137</a> <a href="#p-138">138</a> <a href="#p-139">139</a> <a href="#p-140">140</a> <a href="#p-141">141</a> <a href="#p-142">142</a> <a href="#p-143">143</a> <a href="#p-144">144</a> <a href="#p-145">145</a> <a href="#p-146">146</a> <a href="#p-147">147</a> <a href="#p-148">148</a> <a href="#p-149">149</a> <a href="#p-150">150</a> <a href="#p-151">151</a> <a href="#p-152">152</a> <a href="#p-153">153</a> <a href="#p-154">154</a> <a href="#p-155">155</a> <a href="#p-156">156</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-front"><span class="toc-e">Outline of the Earliest History of the Olęder Settlements in the Pyzdry Forest, 1746 – 1793</span><span class="toc-o" lang="pl">Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793</span></a></li>
+<li class="l1"><a href="#p-5"><span class="toc-e">The Near Unknown</span><span class="toc-o" lang="pl">Bliskie nieznane</span> <span class="toc-p">S. 5</span></a></li>
+<li class="l1"><a href="#p-8"><span class="toc-e">Ladies and Gentlemen!</span><span class="toc-o" lang="pl">Szanowni Państwo !</span> <span class="toc-p">S. 8</span></a></li>
+<li class="l1"><a href="#p-9"><span class="toc-e">Introduction</span><span class="toc-o" lang="pl">Wstęp</span> <span class="toc-p">S. 9</span></a></li>
+<li class="l1"><a href="#p-21"><span class="toc-e">1. Distribution, chronology, causes, conditions and organisation of the founding of the Olęder settlements in the Pyzdry Forest, and their naming</span><span class="toc-o" lang="pl">1. Rozmieszczenie, chronologia, przyczyny, warunki i organizacja lokacji osad olęderskich w Puszczy Pyzdrskiej oraz ich nazewnictwo</span> <span class="toc-p">S. 21</span></a></li>
+<li class="l1"><a href="#p-80"><span class="toc-e">2. The area and layout of the Olęder settlements, their size and types by the number and structure of hearths, and their social and functional-economic organisation</span><span class="toc-o" lang="pl">2. Obszar, rozplanowanie przestrzenne osad olęderskich, ich wielkość i rodzaje pod względem liczby i struktury dymów oraz organizacji społeczno- i funkcjonalno-gospodarczej</span> <span class="toc-p">S. 80</span></a></li>
+<li class="l1"><a href="#p-96"><span class="toc-e">3. The population of the Olęder villages in the Pyzdry Forest and its demographic, social and occupational, confessional and ethnic structure, and the origin of the settlers</span><span class="toc-o" lang="pl">3. Zaludnienie wsi olęderskich w Puszczy Pyzdrskiej i jego struktura demograficzna, społeczno-zawodowa, wyznaniowa, etniczna oraz pochodzenie osadników</span> <span class="toc-p">S. 96</span></a></li>
+<li class="l1"><a href="#p-114"><span class="toc-e">4. The legal status and the administrative and judicial organisation of the Olęder settlements in the Pyzdry Forest</span><span class="toc-o" lang="pl">4. Stan prawny i organizacja administracyjno-sądowa osad olęderskich w Puszczy Pyzdrskiej</span> <span class="toc-p">S. 114</span></a></li>
+<li class="l1"><a href="#p-123"><span class="toc-e">5. The economic and social life of the Olęder settlements in the Pyzdry Forest in the years 1746-1793</span><span class="toc-o" lang="pl">5. Życie gospodarcze i społeczne osad olęderskich w Puszczy Pyzdrskiej w latach 1746-1793</span> <span class="toc-p">S. 123</span></a></li>
+<li class="l1"><a href="#p-132"><span class="toc-e">6. The material and spiritual culture and the daily life of the inhabitants of the Olęder settlements in the Pyzdry Forest in the years 1746-1793</span><span class="toc-o" lang="pl">6. Kultura materialna i duchowa oraz życie codzienne mieszkańców osad olęderskich w Puszczy Pyzdrskiej w latach 1746-1793</span> <span class="toc-p">S. 132</span></a></li>
+<li class="l1"><a href="#p-140"><span class="toc-e">Conclusion</span><span class="toc-o" lang="pl">Zakończenie</span> <span class="toc-p">S. 140</span></a></li>
+<li class="l1"><a href="#p-149"><span class="toc-e">Glossary of Old Polish terms</span><span class="toc-o" lang="pl">Słowniczek staropolskich pojęć</span> <span class="toc-p">S. 149</span></a></li>
+<li class="l1"><a href="#p-152"><span class="toc-e">List of illustrations</span><span class="toc-o" lang="pl">Spis ilustracji</span> <span class="toc-p">S. 152</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Vor der ersten Seite</a></h2>
+<div class="pg"><a href="#p-front">Titel</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Zbigniew Chodyła
 
-### Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793
+## Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746 – 1793
 
 Pyzdry 2015
 
@@ -27,20 +46,18 @@ Pyzdry 2015
 
 Zbigniew Chodyła
 
-### Outline of the Earliest History of the Olęder Settlements in the Pyzdry Forest, 1746 – 1793
+## Outline of the Earliest History of the Olęder Settlements in the Pyzdry Forest, 1746 – 1793
 
 Pyzdry 2015
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-5">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-5">S. 5</a></h2>
+<section class="lit-passage" id="p-5" data-page="5">
+<div class="pg" id="p5"><a href="#p5">S. 5</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Bliskie nieznane
+## Bliskie nieznane
 
 Puszcza Pyzdrska to duży kompleks leśny zawdzięczający swoją nazwę faktowi, że blisko 1/6 jego obszaru stanowiła w latach 1387-1793 własność miasta Pyzdry. Naturalne granice tej krainy geograficznej tworzą od zachodu, północy i wschodu rzeki: Prosna, Warta i Powa. Granicę południową Puszczy Pyzdrskiej wyznacza zasięg zwartych lasów ciągnących się na północ od miejscowości Brudzew, Stawiszyn i Ceków Kolonia. Na skutek wielowiekowej kolonizacji rolnej polegającej na wycinaniu lasów obszar puszczy uległ znacznemu zmniejszeniu. Do naszych czasów zachował się jednak zwarty kompleks leśny o powierzchni 16,5 tys. ha oraz położone blisko trzy inne kompleksy leśne o powierzchni od 1,1 do 1,4 tys. ha. Dodatkowo w ich sąsiedztwie znajduje się ponad 300 mniejszych lasów.
 
@@ -53,7 +70,7 @@ Na północy Puszcza Pyzdrska sąsiaduje z obszarem równie ekstensywnie zagospo
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### The Near Unknown
+## The Near Unknown
 
 The Pyzdry Forest (Puszcza Pyzdrska) is a large forest complex that owes its name to the fact that nearly one sixth of its area belonged to the town of Pyzdry from 1387 to 1793. The natural boundaries of this geographical region are formed on the west, north and east by the rivers Prosna, Warta and Powa. The southern boundary of the Pyzdry Forest is set by the extent of the continuous woods stretching north of Brudzew, Stawiszyn and Ceków Kolonia. Centuries of agricultural colonisation, which consisted in cutting down the forest, reduced its area considerably. A continuous forest complex of 16,500 ha has nevertheless survived to our day, together with three other complexes close by of 1,100 to 1,400 ha. In their neighbourhood there are, besides, more than 300 smaller woods.
 
@@ -64,12 +81,10 @@ After the Second World War, when the descendants of the Protestant German Olęde
 To the north the Pyzdry Forest borders on an area farmed just as extensively, the valley of the Middle Warta, protected within the Nadwarciański Landscape Park, which includes two areas of the NATURA 2000 network. Together the two regions form an area with a clear
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-6">S. 6</a></h2>
+<section class="lit-passage" id="p-6" data-page="6">
+<div class="pg" id="p6"><a href="#p6">S. 6</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 spójność geograficzną, przyrodniczą i kulturową wyróżniającą go od bardziej zurbanizowanych obszarów przyległych. Spójność geograficzno-kulturową tworzą wyraźne, ukształtowane przez przyrodę, granice oraz olęderski krajobraz, na który składają się mozaika lasów, pól i łąk z rozrzuconymi pośród nich samotnymi, wkomponowanymi w krajobraz zagrodami. Spójność przyrodnicza całego obszaru wynika z dużej lesistości oraz ze znacznej ilości użytkowanych ekstensywnie pól i łąk. Jest tam wiele bagiennych uroczysk, wysokich śródleśnych wydm, ale i wiejskich zakątków pełnych kolorów, ciepła i ciszy. Dolina Warty podczas częstych powodzi zamienia się w ogromne rozlewisko będące ostoją ptactwa wodno-błotnego o randze europejskiej. Spójność kulturową wyróżniającą cały obszar od terenów przyległych tworzy przede wszystkim bogate dziedzictwo olęderskiej architektury. Do naszych czasów zachowało się wiele zamieszkałych tradycyjnych zagród spotykanych gdzie indziej tylko w skansenach. Szczególnym wyróżnikiem są „domy z żelaza”, czyli wybudowane z darniowej rudy żelaza. Na terenie puszczy występuje największa ilość w Polsce budynków wybudowanych z tego ciekawego budulca. Przeprowadzone w roku 2009 badania architektoniczne pozwoliły wyodrębnić wspólne cechy tutejszego budownictwa. Stanowi to podstawę do stopniowego definiowania własnego stylu architektonicznego, który w sposób trwały i pozytywny wyróżni tę krainę w Polsce i na świecie. Izolacja obszaru puszczy względem obszarów przyległych sprzyjała zachowaniu dawnych zawodów i zwyczajów gospodarowania. Dawne rzemiosło reprezentuje jedyna w Wielkopolsce pracownia garncarska w Czarnym Brodzie. Do dzisiaj też kontynuowane są dawne sposoby hodowli i towarzyszące im zwyczaje jak np. wolny wypas zagórowskich gęsi i niezmienione od 1864 r. wspólnoty łąkowe w Dolinie Warty.
@@ -84,12 +99,10 @@ geographical, natural and cultural unity that sets it apart from the more urbani
 The unity of the area, and at the same time its difference from the neighbouring areas, was noticed by local volunteers, gathered chiefly in the Cultural Society "Echo Pyzdr". In 2009 the long-forgotten name "Puszcza Pyzdrska" was restored. Thanks to grants won in competitions for non-governmental organisations, the first research in history on the cultural heritage of the area (architecture, design), which had until then seemed uninteresting, was begun. Its results were very fruitful and were partly presented in public, among other places in the Ethnographic Museum in Poznań, at the exhibition "Puszcza Pyzdrska. Olędrzy i ich domy z żelaza" (The Pyzdry Forest. The Olęders and their houses of iron). Workshops in old building techniques were held, teaching materials were prepared for teachers and teachers were trained in using them in lessons, and the first tourist map of the forest was made and published, with the publication "Puszcza Pyzdrska – olęderskie dziedzictwo" (The Pyzdry Forest – the Olęder heritage). In 2013 the first tourist guide to the Pyzdry Forest was prepared and published, and together with the map it received a distinction at the Tour Salon tourism fair in Poznań. A demonstration outcrop of bog iron ore at Wierzchy was opened, and the building of stops – museums was begun. In 2014 the first documentary film about the people of the Pyzdry Forest, "Ludzie z żelaznych domów" (People of the houses of iron), was made. Those who revived the name "Puszcza Pyzdrska" realised the size of what they had set in motion. The forest turned out to cover, as a reasonably compact area, 15 and in a wider
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-7">S. 7</a></h2>
+<section class="lit-passage" id="p-7" data-page="7">
+<div class="pg" id="p7"><a href="#p7">S. 7</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 rozumieniu nawet 17 gmin położonych w 6 powiatach, które dotychczas praktycznie nie współpracowały ze sobą. By podołać temu wyzwaniu już w 2012 powołano Lokalną Organizację Turystyczną „Puszcza Pyzdrska”, koalicję wszystkich lokalnych sił i autorytetów zainteresowanych budowaniem tożsamości i potencjału turystycznego tego wielkiego obszaru. W reaktywację Puszczy Pyzdrskiej aktywnie włączył się także Zespół Parków Krajobrazowych Województwa Wielkopolskiego. Obie instytucje realizują wspólnie od 2014 roku koncepcję budowy Ekomuzeum Doliny Warty i Puszczy Pyzdrskiej. Celem utworzenia Ekomuzeum jest ochrona walorów przyrodniczych, kulturowych i krajobrazowych Nadwarciańskiego Parku Krajobrazowego i Puszczy Pyzdrskiej traktowanych jako jeden region oraz udostępnienie tych walorów mieszkańcom i zwiedzającym. Ekomuzeum to muzeum bez etatów, murów i gablot. Obejmuje sieć rozproszonych w terenie obiektów, które tworzą kolekcję pokazującą atrakcje regionu. W skład Ekomuzeum wchodzą zarówno zabytki, wartościowe obiekty przyrodnicze, tradycyjne zagrody, pracownie rzemieślnicze oraz elementy infrastruktury turystycznej. Pod nazwą Ekomuzeum rozumie się czynną a nie bierną formę ratowania całości dziedzictwa przyrodniczego, kulturowego i krajobrazowego, jako trzech nierozłącznych elementów.
@@ -108,15 +121,13 @@ The publication "Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrsk
 President of the Local Tourist Organisation "Puszcza Pyzdrska"
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-8">S. 8</a></h2>
+<section class="lit-passage" id="p-8" data-page="8">
+<div class="pg" id="p8"><a href="#p8">S. 8</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Szanowni Państwo !
+## Szanowni Państwo !
 
 Z wielką przyjemnością oddajemy w Państwa ręce publikację dotyczącą najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej. Teren puszczy przebiegający przez Gminy Powiatu Kaliskiego: Blizanów, Stawiszyn, Mycielin oraz Ceków Kolonia przepleciony jest nitkami polnych dróg i kanałów, wydmami porośniętymi przez lasy i polanami wyciętymi niegdyś przez pierwszych osadników. Jesteśmy przekonani, że piękno tej ziemi i gościnność jej mieszkańców zapadną w pamięci każdego, kto postanowi nas odwiedzić.
 
@@ -129,7 +140,7 @@ Starosta Kaliski Krzysztof Nosal
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Ladies and Gentlemen!
+## Ladies and Gentlemen!
 
 It is with great pleasure that we hand you a publication on the earliest history of the Olęder settlements in the Pyzdry Forest. The forest, running through the communes of the District of Kalisz – Blizanów, Stawiszyn, Mycielin and Ceków Kolonia – is threaded with field tracks and canals, with dunes overgrown by woods, and with clearings cut long ago by the first settlers. We are sure that the beauty of this land and the hospitality of its people will stay in the memory of everyone who decides to visit us.
 
@@ -140,32 +151,28 @@ We warmly invite everyone to read this book and to visit the District of Kalisz.
 Krzysztof Nosal, Starost of the District of Kalisz
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-9">S. 9</a></h2>
+<section class="lit-passage" id="p-9" data-page="9">
+<div class="pg" id="p9"><a href="#p9">S. 9</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Wstęp
+## Wstęp
 
 Jednym z najważniejszych typów wiejskiego czynszowego osadnictwa na ziemiach polskich w latach 1547-1864 r. było osadnictwo olęderskie, które wzięło swoją nazwę od jego pionierów – Holendrów, zwanych w języku staropolskim olędrami, olendrami lub holędrami. O jego istocie decydowały jednak nie przynależność etniczna osadników, charakter gruntów (podmokłe albo suche) czy sposób ich zajmowania (melioracja lub karczunek), ale prawo holenderskie/ olęderskie, przyniesione przez Holendrów i stosowane przez ich kontynuatorów, głównie Niemców i Polaków, a także realizowana w jego ramach funkcja gospodarcza, polegająca przeważnie na zajmowaniu terenów trudnych do zagospodarowania, uprawie ziemi w jednym kawałku i dużym znaczeniu hodowli zwierząt. Zgodnie z zasadami tego prawa olędrzy, holędrzy, nazywani tak nawet wtedy, kiedy nie reprezentowali już narodowości holenderskiej, byli ludźmi osobiście wolnymi i dzierżyli ziemię na warunkach emfiteuzy – najpierw wieloletniej długoterminowej, a później (zwłaszcza w Wielkopolsce) wieczystej dzierżawy, wieczystego prawa czynszowego za tzw. okupne, z możliwością przekazywania gospodarstwa swym spadkobiercom lub jego sprzedaży za powiadomieniem właściciela ziemi. Po upływie czasu wolnizny, przeznaczonej na zagospodarowanie, świadczyli na rzecz pana feudalnego jedynie czynsze (w pieniądzu oraz naturze) i w bardzo ograniczonym wymiarze (chociaż nie zawsze) – robociznę. Posiadali ograniczoną wolność gruntową, odpowiadali solidarnie całą gminą za terminowe dopełnienie zobowiązań wobec pana, mieli wybieralny samorząd gminny, który m. in. pilnował wywiązywania się z tych zobowiązań i zachowywali ograniczoną wolność sądową, podlegając własnemu sądowi wiejskiemu, a tylko częściowo (w sprawach kryminalnych i w trybie odwoławczym) sądownictwu pańskiemu. Uiszczali ponadto opłaty na rzecz Kościoła katolickiego i podatki dla państwa, posiadali z reguły wolność handlu oraz cieszyli się swobodą wyznaniową i prawem zakładania własnych szkół, najczęściej będących zarazem domami modlitwy. Z tych zasad zwłaszcza zbiorowa solidarność gminy olęderskiej względem pana, gwarantująca mu pewne i stałe dochody (zwłaszcza z czynszów pieniężnych), wynikające z niej równouprawnienie i wzajemna, sąsiedzka pomoc osadników wewnątrz gminy oraz odpowiednia organizacja i funkcje samorządu wiejskiego (gminnego)
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Introduction
+## Introduction
 
 One of the most important types of rural rent-paying settlement in the Polish lands in the years 1547-1864 was Olęder settlement, which took its name from its pioneers, the Dutch, called in Old Polish *olędrzy*, *olendrzy* or *holędrzy*. What decided its nature, however, was not the settlers' ethnic origin, the kind of land (wet or dry) or the way it was taken in (by draining or by clearing), but the Dutch or Olęder law, brought by the Dutch and applied by those who came after them, chiefly Germans and Poles, together with the economic function carried out under it: for the most part, taking in land that was hard to bring into use, farming the land in one piece, and a large place for stock-raising. Under this law the Olęders, *holędrzy*, so called even when they were no longer of Dutch nationality, were personally free and held their land by emphyteusis: at first a lease for many years, a long term, and later (especially in Greater Poland) a perpetual lease, a perpetual rent tenure for what was called entry money (*okupne*), with the right to pass the farm on to their heirs or to sell it after informing the owner of the land. When the free years allowed for setting up the farm had run out, they owed the feudal lord only rents (in money and in kind) and, to a very limited extent (though not always), labour. They had a limited freedom of the land, answered jointly, as a whole commune, for meeting their obligations to the lord on time, had an elected commune self-government, which among other things saw to it that these obligations were met, and kept a limited judicial freedom, being subject to their own village court and only partly (in criminal cases and on appeal) to the lord's jurisdiction. They paid, besides, dues to the Catholic Church and taxes to the state, as a rule had freedom of trade, and enjoyed freedom of religion and the right to found their own schools, which were most often also houses of prayer. Of these principles it was above all the collective solidarity of the Olęder commune towards the lord, which guaranteed him a sure and steady income (especially from the money rents), the equality of rights and the mutual help of neighbours within the commune that followed from it, and the particular organisation and functions of the village (commune) self-government that
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-10">S. 10</a></h2>
+<section class="lit-passage" id="p-10" data-page="10">
+<div class="pg" id="p10"><a href="#p10">S. 10</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 stanowiły o odrębności prawnej i większej atrakcyjności osadnictwa olęderskiego w stosunku do innych form kolonizacji na prawie niemieckim, takich jak np. osadnictwo sołtysie, w ramach którego osadnicy otrzymywali nadziały(gospodarstwa) w wieczyste użytkowanie ale nie, jak olędrzy na podstawie umów lokacyjnych zawieranych z całą gminą, lecz za indywidualnymi przywilejami<sup class="lit-fn"><a href="#n-pl-1">1</a></sup>.
@@ -196,12 +203,10 @@ According to research so far, at least about 1,700 Olęder settlements in all we
 <span class="lit-note" id="n-en-4">4</span> The certain settlements had a sure legal and constitutional character, confirmed in the sources, and above all in their foundation charters, issued to whole communes. The transitional settlements, whose legal constitution is not quite certain, could develop towards settlements that were certainly Olęder, or towards sołtys or emphyteutic ones. The settlements whose legal status is unclearly stated in the sources had an elected self-government or a sołtys appointed by the lord, but did not always keep complete equality and solidarity towards the lord, and, besides, because of the sometimes small number of hearths – farms (2-3) – and of inhabitants, they raise the doubt whether an Olęder self-government could have been organised and could have worked in them. Since, however, 1) before and in the years 1789-1793, and later, they were very consistently described as *olędry* and showed other secondary features of Olęder settlements, 2) they were probably for the most part tied administratively and judicially to larger Olęder settlements or formed communes of two or more villages, and 3) by the end of the eighteenth century and the first quarter of the nineteenth they had grown, and their legal status had on the whole probably settled, and most often they had gained a separate administrative and judicial organisation, we count them as such.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-11">S. 11</a></h2>
+<section class="lit-passage" id="p-11" data-page="11">
+<div class="pg" id="p11"><a href="#p11">S. 11</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 w różnych typach feudalnej własności ziemskiej: królewskiej, miejskiej, kościelnej (diecezjalnej i zakonnej), a zwłaszcza w zdecydowanie przeważającej szlacheckiej. Były one zamieszkiwane w regionie wielkopolskim przez ludność napływową – holenderską wyznania mennonickiego i jej potomków (w ok. 0,8%), w zdecydowanej większości (ok. 54%) przez napływową ludność ewangelicką, głównie luterańską i stosunkowo nieliczną ewangelicko-reformowaną, głównie etnicznie niemiecką, chociaż w pewnej części i polską), a w dużym odsetku (ok. 38 %) przez ludność katolicką, polską, a częściowo także mieszaną wyznaniowo i etniczne, to jest ewangelicko-katolicką i niemiecko-polską (w ok. 7, 2%)<sup class="lit-fn"><a href="#n-pl-5">5</a></sup>.
@@ -224,12 +229,10 @@ This forest area, a part of which has now been set apart as the Nadwarciański L
 <span class="lit-note" id="n-en-5">5</span> Cf. Z. Chodyła, the works cited in n. 1.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-12">S. 12</a></h2>
+<section class="lit-passage" id="p-12" data-page="12">
+<div class="pg" id="p12"><a href="#p12">S. 12</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wyludnienia i porastania przez lasy. Spadek liczby osad był przełamywany stopniowo na szerszą już skalę dopiero od lat 20.tych XVIII w. poprzez lokacje osad czynszowych, od drugiej połowy lat 40.tych tegoż stulecia zakładanych zwłaszcza na prawie olęderskim. W ich następstwie dokonywał się bezwzględny i względny wzrost liczby miejscowości przez zakładanie wsi i osiedli zupełnie nowych na tzw. surowym korzeniu oraz odbudowę starych, ale na innych warunkach prawnych i przeważnie z nowymi mieszkańcami.
@@ -276,12 +279,10 @@ Tab. 1. List of the Olęder settlements founded in the years 1746-1793 in the Py
 <span class="lit-note" id="n-en-7">7</span> Cf. S. Litak, *Struktura terytorialna Kościoła łacińskiego w Polsce w 1772 r.* [The territorial structure of the Latin Church in Poland in 1772] Materiały do Atlasu Chrześcijaństwa w Polsce. Vol. IV, Lublin 1980, pp. 131-134, 140-142, 244.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-13">S. 13</a></h2>
+<section class="lit-passage" id="p-13" data-page="13">
+<div class="pg" id="p13"><a href="#p13">S. 13</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -314,12 +315,10 @@ Tab. 1. List of the Olęder settlements founded in the years 1746-1793 in the Py
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-14">S. 14</a></h2>
+<section class="lit-passage" id="p-14" data-page="14">
+<div class="pg" id="p14"><a href="#p14">S. 14</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -354,12 +353,10 @@ Tab. 1. List of the Olęder settlements founded in the years 1746-1793 in the Py
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-15">S. 15</a></h2>
+<section class="lit-passage" id="p-15" data-page="15">
+<div class="pg" id="p15"><a href="#p15">S. 15</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -400,12 +397,10 @@ Below we present in outline only the beginnings of the history of these Olęder 
 <span class="lit-note" id="n-en-9">9</span> The Olęder settlements that arose after 1793 and before 1864 are recorded by the maps discussed below: the Prussian maps of South Prussia of 1796-1795 and 1801-1803 (the so-called large and small Gilly) and the Polish maps of the Kingdom of Poland, made by the Quartermaster General's staff of its army before 1830, and of 1859, by General W. Chrzanowski.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-16">S. 16</a></h2>
+<section class="lit-passage" id="p-16" data-page="16">
+<div class="pg" id="p16"><a href="#p16">S. 16</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Pyzdrskiej, 2) ich obszar, rozplanowanie przestrzenne, wielkość i rodzaje pod względem liczby dymów (gospodarstw) i organizacji społeczno – i funkcjonalno-gospodarczych, 3) zaludnienie tych osiedli, ich liczebność i strukturę demograficzną, społeczno-zawodową, wyznaniową i etniczną oraz pochodzenie mieszkańców, 4) stan prawny i organizację administracyjno-sądową osad, 5) ich życie gospodarcze i społeczne oraz 6) kulturę materialną i duchową oraz życie codzienne mieszkańców tych osiedli. Przedstawiamy je jednak z nierówną dokładnością, odpowiednio do stanu zachowania i treści źródeł.
@@ -444,12 +439,10 @@ The literature on the Olęder settlements that concern us is modest. Most of the
 <span class="lit-note" id="n-en-15">15</span> I. F. Tłoczek, *Osadnictwo rolnicze w dolinach rzek nizinnych* [Agricultural settlement in the valleys of lowland rivers], "Zeszyty Naukowe Szkoły Głównej Gospodarstwa Wiejskiego – Akademii Rolniczej w Warszawie". Seria historyczna, no. 15, Warsaw 1978, pp. 9-18 (where the author, judging from Fig. 1 (a small map): Dutch settlement of the eighteenth and nineteenth centuries in the woods of the town of Pyzdry, extends the area of this forest complex, and correspondingly of the settlement mentioned, southwards and to the west of Konin).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-17">S. 17</a></h2>
+<section class="lit-passage" id="p-17" data-page="17">
+<div class="pg" id="p17"><a href="#p17">S. 17</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Opracowanie to, bardzo bogato ilustrowane, w innych szkicach autorstwa W. Kowalskiej przedstawia aktualny stan środowiska naturalnego w Puszczy Pyzdrskiej, rodzaje i stan zachowania budownictwa i innych elementów krajobrazu kulturowego (po) olęderskich wsi z tego obszaru (kościoły ewangelickie i cmentarze), zabytki archeologiczne, rolnictwo, sady i ogrody, rzemieślników i artystów ludowych, tradycje kulinarne, targi, festyny i odpusty, nazwy miejsc, lokalnych działaczy i liderów praz wskazówki pomocne w upowszechnianiu znajomości historii lokalnej i zachowaniu pamięci o niej wśród współczesnych mieszkańców regionu<sup class="lit-fn"><a href="#n-pl-16">16</a></sup>. Pewne wiadomości o niektórych z osad olęderskich z obszaru Puszczy Pyzdrskiej ze schyłkowego okresu XVIII w. i ich dalszych losach w XIX w. podał K. P. Woźniak w swej książce dotyczącej rozwoju osadnictwa niemieckiego między Prosną a Pilica i Wisłą w okresie od ósmej dekady XVIII w. do 1866 roku<sup class="lit-fn"><a href="#n-pl-17">17</a></sup>. Uczynił on to głównie za przyczynkarską i w ograniczonym stopniu opartą o źródła rękopiśmienne literaturą niemiecką, z której do najważniejszych należy zaliczyć, wykorzystane tu także i przez nas opracowania W. Maasa, a zwłaszcza A. Breyera<sup class="lit-fn"><a href="#n-pl-18">18</a></sup>.
@@ -492,12 +485,10 @@ The information on the oldest settlements founded in the Pyzdry Forest could be 
 <span class="lit-note" id="n-en-21">21</span> *Materiały do dziejów chłopa wielkopolskiego w drugiej połowie XVIII wieku* [Materials for the history of the Greater Poland peasant in the second half of the eighteenth century]. Selected from the municipal court books and edited by J. Deresiewicz, Vol. III: Województwo kaliskie [The voivodeship of Kalisz], Wrocław 1957. (PAN IH. Materiały do dziejów wsi polskiej. Ed. S. Arnold. Series III. Inwentarze dóbr ziemskich); cited below as Der., *Materiały do dziejów chłopa*. Vol. III.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-18">S. 18</a></h2>
+<section class="lit-passage" id="p-18" data-page="18">
+<div class="pg" id="p18"><a href="#p18">S. 18</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 XVIII w., a ponadto ksiąg Referendarii Koronnej (centralnego sądu apelacyjnego dla chłopów z wsi w dobrach królewskich) z lat 1768-1794<sup class="lit-fn"><a href="#n-pl-22">22</a></sup>.
@@ -536,12 +527,10 @@ Use was also made of the *Geograficzno–statystyczne opisanie parafiów Króles
 <span class="lit-note" id="n-en-26">26</span> Most of the tax tables and surveys, kept as a separate collection in the APP, are listed by J. Bielecka, *Inwentarze archiwów ksiąg grodzkich i ziemskich* *Wielkopolski XIV-XVIII wieku...*, pp. 502-506. For the district of Konin they survive only in very small fragments, both in this collection and in the municipal court books and elsewhere.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-19">S. 19</a></h2>
+<section class="lit-passage" id="p-19" data-page="19">
+<div class="pg" id="p19"><a href="#p19">S. 19</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 t. V–VI: Archidiecezja Gnieźnieńska<sup class="lit-fn"><a href="#n-pl-27">27</a></sup> oraz pruskie urzędowe drukowane i rękopiśmienne opracowania opisowo-statystyczne dla lat 1775-1776, 1793 i 1795 oraz 1796: A. F. Büschinga (drukowane) oraz Augusta Sadebecka o pseudonimie Sirissa, zachowane w brulionowym rękopisie w APP i wydane następnie drukiem i Generalnej Dyrekcji Prus Południowych, pisane, przechowywane w Archiwum Głównym Akt Dawnych w Warszawie<sup class="lit-fn"><a href="#n-pl-28">28</a></sup>.
@@ -580,12 +569,10 @@ In describing some questions of the material culture and the daily life of the p
 <span class="lit-note" id="n-en-31">31</span> [*Königliche Grosse Topographische Vermessungs Karte*] prepared by David Gilly, Cron, Langner, 1:5000, Staatsbibliothek Preussicher Kulturbesitz, West Berlin, call no. Kart N 14431. [In Rus.: MGd – Map of South Prussia of 1796-1805 at a scale of 1:57,600 (large Gilly)]; *Special Karte von Südpreussen (...) aus der Königlichen Grossen Topographischen Vermessungs Karte unter Mitwürking des Directors Langer reducirt und herausgegeben von Geheimen Bau-Rath Gilly (...)*.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-20">S. 20</a></h2>
+<section class="lit-passage" id="p-20" data-page="20">
+<div class="pg" id="p20"><a href="#p20">S. 20</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wprawdzie z XIX i XX w., ale niewątpliwie opartych na starszych osiemnastowiecznych wzorach oraz dotyczącą ich muzealną dokumentację fotograficzną. Uczyniono to jednak pośrednio za maszynopisem pracy magisterskiej Mirosławy Jasińskiej, dotyczącej osad olęderskich w dobrach królewskich powiatu pyzdrskiego w 2 poł. XVIII w. i artykułem S. Błaszczyka, przedstawiającym kulturę ludową powiatu kaliskiego oraz w świetle badań terenowych za studiami architektów I. F. Tłoczka, Piotra Szwieca oraz Radosława Barka<sup class="lit-fn"><a href="#n-pl-32">32</a></sup> .
@@ -612,15 +599,13 @@ In its construction the study consists of an introduction; six separate chapters
 <span class="lit-note" id="n-en-32">32</span> M. Jasińska, *Osadnictwo olęderskie w dobrach królewskich powiatu pyzdrskiego w 2 połowie XVIII wieku* [Olęder settlement on the royal estates of the district of Pyzdry in the second half of the eighteenth century]. Master's thesis written in the Department of Early Modern History to the end of the eighteenth century, Adam Mickiewicz University, under the supervision of Prof. J. Topolski, Poznań 1992); St. Błaszczyk, *Kultura ludowa ziemi kaliskiej* [The folk culture of the Kalisz land]. [In:] *Osiemnaście wieków Kalisza* [Eighteen centuries of Kalisz], Vol. 2, Poznań 1961, pp. 386-459; I. F. Tłoczek, *Chałupy polskie* [Polish cottages], Warsaw 1958; P. Szwiec, a collective work, *Katalog architektury regionalnej dla obszaru Puszczy Pyzdrskiej* [Catalogue of the regional architecture of the Pyzdry Forest area], Pyzdry 2009; R. Barek, a collective work, *Puszcza Pyzdrska – wzornik zabudowy* [The Pyzdry Forest – a pattern book of buildings], Pyzdry 2011; the last two studies on the website www.puszczapyzdrska.com
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-21">S. 21</a></h2>
+<section class="lit-passage" id="p-21" data-page="21">
+<div class="pg" id="p21"><a href="#p21">S. 21</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 1. Rozmieszczenie, chronologia, przyczyny, warunki i organizacja lokacji osad olęderskich w Puszczy Pyzdrskiej oraz ich nazewnictwo
+## 1. Rozmieszczenie, chronologia, przyczyny, warunki i organizacja lokacji osad olęderskich w Puszczy Pyzdrskiej oraz ich nazewnictwo
 
 Jak już wyżej stwierdzono na obszarze Puszczy Pyzdrskiej, w granicach 21 parafii i 3 dawnych powiatów – pyzdrskiego, konińskiego i kaliskiego, w województwie kaliskim, w kilku typach feudalnej własności ziemskiej, założono w latach 1746-1793, a więc w ciągu bez mała pół wieku, 58 osad olęderskich. Całą sieć tych osad przedstawia współcześnie wydana mapa: Puszcza Pyzdrska (1:55 000) dostępna w księgarniach turystycznych. W czasach bliższych okresowi ich lokacji ukazują ją z różnym stopniem dokładności wraz z osadami olęderskim powstałymi po 1793 r. i na tle całego obrazu osadnictwa scharakteryzowane już wcześniej mapy polskie i pruskie. Fragmenty trzech z nich: *Mapy szczególnej województwa kaliskiego* Karola de Perthèesa, Prus Południowych Dawida Gille’go i *Karty topograficznej Królestwa Polskiego* opracowanej przez Kwatermistrzostwo Generalne Wojska Polskiego z siecią osad olęderskich w różnych częściach Puszczy Pyzdrskiej są reprodukowane poniżej (Il. 1-3)<sup class="lit-fn"><a href="#n-pl-33">33</a></sup>.
 
@@ -631,7 +616,7 @@ Poniżej w odniesieniu do owych 58 osad staropolskich omawiane są szczegółowo
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 1. Distribution, chronology, causes, conditions and organisation of the founding of the Olęder settlements in the Pyzdry Forest, and their naming
+## 1. Distribution, chronology, causes, conditions and organisation of the founding of the Olęder settlements in the Pyzdry Forest, and their naming
 
 As has already been said above, 58 Olęder settlements were founded in the years 1746-1793, that is within almost half a century, in the area of the Pyzdry Forest, within 21 parishes and 3 former districts – those of Pyzdry, Konin and Kalisz – in the voivodeship of Kalisz, under several types of feudal landownership. The whole network of these settlements is shown on a map published in our day, Puszcza Pyzdrska (1:55,000), available in tourist bookshops. For times nearer to their founding it is shown, with varying accuracy, together with the Olęder settlements founded after 1793 and against the whole picture of settlement, by the Polish and Prussian maps described above. Parts of three of them, the *Mapa szczególna województwa kaliskiego* of Karol de Perthées, the map of South Prussia of David Gilly, and the *Karta topograficzna Królestwa Polskiego* prepared by the Quartermaster General's staff of the Polish Army, with the network of Olęder settlements in various parts of the Pyzdry Forest, are reproduced below (Ill. 1-3)<sup class="lit-fn"><a href="#n-en-33">33</a></sup>.
 
@@ -640,12 +625,10 @@ Below, for these 58 Old Polish settlements, we discuss in detail or more general
 <span class="lit-note" id="n-en-33">33</span> Cf. nn. 29-30; [*Königliche Grosse Topographische Vermessungs Karte*] prepared by David Gilly, Cron, Langner, 1:5000, Staatsbibliothek Preussicher Kulturbesitz, West Berlin, call no. Kart N 14431. [In Rus.: MGd – Map of South Prussia of 1796-1805 at a scale of 1:57,600 (large Gilly)]; *Special Karte von Südpreussen (...) aus der Königlichen Grossen Topographischen Vermessungs Karte unter Mitwürking des Directors Langer reducirt und herausgegeben von Geheimen Bau-Rath Gily (...), 1802 i 1803*, Simon Schrop und Comp. Berlin [1:150,000] (small Gilly). Gilly's map (the smaller-scale, printed one) shows settlements unknown from written sources, or wrongly described as "holendry", rent-paying forest settlements that did not have an Olęder legal and economic character, both of which arose only after the Second Partition; see also: K. Buczek, Prace kartografów pruskich w Polsce za czasów Stanisława Augusta na tle współczesnej kartografii [The work of Prussian cartographers in Poland in the time of Stanisław August against the background of contemporary cartography], PKAHP PAU, III, 1935, pp. 176-177; the same, *Dzieje kartografii polskiej od XV do XVIII w.* [The history of Polish cartography from the fifteenth to the eighteenth century], Ossolineum, Wrocław-Warsaw-Kraków 1963; B. Medyńska-Gulij, D. Lorek, *Pruskie mapy topograficzne Wielkopolski do 1803 roku* [Prussian topographical maps of Greater Poland to 1803], Badania Fizjograficzne nad Polską Zachodnią. Seria A-Geografia Fizyczna, Vol. 59 (2008), pp. 29-42. A-Geografia Fizyczna, Vol. 59 (2008), pp. 29-42.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-22">S. 22</a></h2>
+<section class="lit-passage" id="p-22" data-page="22">
+<div class="pg" id="p22"><a href="#p22">S. 22</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/22.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/22.jpg' | relative_url }}" alt="Chodyła (2015), S. 22" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -657,12 +640,10 @@ Below, for these 58 Old Polish settlements, we discuss in detail or more general
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-23">S. 23</a></h2>
+<section class="lit-passage" id="p-23" data-page="23">
+<div class="pg" id="p23"><a href="#p23">S. 23</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/23.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/23.jpg' | relative_url }}" alt="Chodyła (2015), S. 23" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -674,12 +655,10 @@ Below, for these 58 Old Polish settlements, we discuss in detail or more general
 1\. The Olęder settlements in the Pyzdry Forest founded in the years 1746-1792, on a part of the *Mapa szczegulna*[!] *Województwa Kaliskiego* of Karol de Perthées [n.d. [1791?] and about 1801, at a scale of 1:225,000.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-24">S. 24</a></h2>
+<section class="lit-passage" id="p-24" data-page="24">
+<div class="pg" id="p24"><a href="#p24">S. 24</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/24.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/24.jpg' | relative_url }}" alt="Chodyła (2015), S. 24" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -691,12 +670,10 @@ Below, for these 58 Old Polish settlements, we discuss in detail or more general
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-25">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-25">S. 25</a></h2>
+<section class="lit-passage" id="p-25" data-page="25">
+<div class="pg" id="p25"><a href="#p25">S. 25</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/25.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/25.jpg' | relative_url }}" alt="Chodyła (2015), S. 25" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -708,12 +685,10 @@ Below, for these 58 Old Polish settlements, we discuss in detail or more general
 2\. The Olęder settlements in the Pyzdry Forest founded in the years 1746-1792, on a part of the map *Special Karte von Südpreussen* (...) of David Gilly of 1802 and 1803, at a scale of 1:150,000.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-26">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-26">S. 26</a></h2>
+<section class="lit-passage" id="p-26" data-page="26">
+<div class="pg" id="p26"><a href="#p26">S. 26</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/26.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/26.jpg' | relative_url }}" alt="Chodyła (2015), S. 26" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -725,12 +700,10 @@ Below, for these 58 Old Polish settlements, we discuss in detail or more general
 
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-27">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-27">S. 27</a></h2>
+<section class="lit-passage" id="p-27" data-page="27">
+<div class="pg" id="p27"><a href="#p27">S. 27</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/27.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/27.jpg' | relative_url }}" alt="Chodyła (2015), S. 27" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -742,12 +715,10 @@ Below, for these 58 Old Polish settlements, we discuss in detail or more general
 3\. The Olęder settlements in the Pyzdry Forest founded in the years 1746-1792, on a part of the *Topograficzna Karta Królestwa Polskiego* (the map of the Quartermaster General's staff of the Polish Army), [Warsaw], prepared before 1830, published in 1843 dated 1839, column I, section II.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-28">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-28">S. 28</a></h2>
+<section class="lit-passage has-related" id="p-28" data-page="28">
+<div class="pg" id="p28"><a href="#p28">S. 28</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 majątkowego fundatorów, czyli założycieli, czasem osadźców i osadników z określeniem ich społecznej pozycji, wyznania i narodowości, rodzajów dokumentów fundacyjnych, sposobów i kosztów zakładania osiedli oraz nazewnictwa osad).
@@ -770,7 +741,6 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 <span class="lit-note" id="n-en-35">35</span> The inspection of the Trąbczyn estate with the villages of Osiny, Łazy, Nowa Wieś, Olędry and Huta of 1754, made at the request of Katarzyna Prusimska, contains this information: "Wieś Nowa – – . Olędrów 15, szesnasta huba próżna, jedni się pobudowali dobrze, drugi (!) tylko budy w ziemi mają" [Nowa Wieś – – . 15 Olęders, the sixteenth huba empty; some have built well, others (!) have only huts in the ground]; [in the Trąbczyn woods] "Zaś mimo Łazów i Osin między Hutą, gdzie najpiękniejsze drzewo było, i tam powycinane same też wybirki stoją. Także i dęby w lasach stojące dotychczas same też wybirki stoją tylko, gdyż olędry pozabirali hubami, gdzie piękniejsze drzewo było, wydzielonymi z dawna każdemu z nich" [And past Łazy and Osiny, by Huta, where the finest timber was, it has been cut there too, and only the culls stand. Of the oaks standing in the woods, too, only the culls stand so far, for the Olęders took them in hubas, where the finer timber was, allotted long ago to each of them].), APP, Konin. Gr. 136 (1754), fol. 122v, *oblata* (below: obl.) 12 VII 1754; the same in Der., *Materiały do dziejów chłopa*, vol. III, pp. 12-13.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Seite gibt die Gründung von 1746 durch Paweł und Katarzyna Prusimscy mit einem nicht erhaltenen Privileg und das Grenzdekret von 1776 als ihren Beleg. Das Dekret selbst ist erhalten, das Oblatum vom 23. September 1776, zu Brześć Kujawski verlesen: es sagt, der Onkel Antoni Prusimskis habe Holländer auf den Wäldern Miąsykąt, Dziadulina und Luśnie angesiedelt, „wie die ihnen 1746 verliehenen Rechte bezeugen", und nennt Katarzyna nicht; die Vorladung von 1860, die die Seite auch anführt, nennt beide Verleiher, „Paweł z Kolna Prusiński" und seine Frau Katarzyna z Rozdrażewskich. Das Buch nennt das Dekret das von 1776, dem Jahr seiner Eintragung in die Gerichtsbücher, obwohl die Kommission seit dem 13. September 1775 tagte. Seine Anmerkung 34 läßt die Kolonisten 1860 gegen Graf Władysław Miączyński streiten, während die Vorladung auf Verlangen des Grafen Włodzimierz Miączyński erging.</p>
@@ -784,9 +754,8 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-29">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-29">S. 29</a></h2>
+<section class="lit-passage has-related" id="p-29" data-page="29">
+<div class="pg" id="p29"><a href="#p29">S. 29</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/29.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/29.jpg' | relative_url }}" alt="Chodyła (2015), S. 29" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -798,7 +767,6 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 4\. (1) Parts of the decree of the boundary commission court of 1776 telling of the founding of the Trąbczyńskie St. Ol. and the Luśnie Ol. by Paweł and Katarzyna née Rozdrażewska Prusimski in 1746. APP, Konin Gr. 145, fol. 681.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Abbildung zeigt Blatt 681 des Dekrets, und das Dekret steht hier ganz: das Oblatum vom 23. September 1776, zu Brześć Kujawski verlesen, zwischen Trąbczyn des Antoni Prusimski, Łukom des Stanisław Chełmski und Drzewce des Stifts Łąd, sein Text die Grenze am Wald Luśnie und am Stawisko entlangführend.</p>
@@ -806,9 +774,8 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-30">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-30">S. 30</a></h2>
+<section class="lit-passage has-related" id="p-30" data-page="30">
+<div class="pg" id="p30"><a href="#p30">S. 30</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/30.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/30.jpg' | relative_url }}" alt="Chodyła (2015), S. 30" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -820,7 +787,6 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 4\. (2) Parts of the decree of the boundary commission court of 1776 telling of the founding of the Trąbczyńskie St. Ol. and the Luśnie Ol. by Paweł and Katarzyna née Rozdrażewska Prusimski in 1746. APP, Konin Gr. 145, fol. 692.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Abbildung zeigt Blatt 692 des Dekrets, und das Dekret steht hier ganz: das Oblatum vom 23. September 1776, zu Brześć Kujawski verlesen, zwischen Trąbczyn des Antoni Prusimski, Łukom des Stanisław Chełmski und Drzewce des Stifts Łąd, sein Text die Grenze am Wald Luśnie und am Stawisko entlangführend.</p>
@@ -828,9 +794,8 @@ The oldest Olęder settlements in the Pyzdry Forest, founded in 1746 in the dist
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-31">S. 31</a></h2>
+<section class="lit-passage has-related" id="p-31" data-page="31">
+<div class="pg" id="p31"><a href="#p31">S. 31</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 starostę niszczewickiego, dziedzica i posiadacza dóbr Trąbczyn i innych, w osadzie ufundowanej *niezbyt dawnym czasem* w borze lub lesie zwanym Luśnie, było 12 olędrów z owczarzem (10 o niemieckich i 2 polskich nazwiskach)<sup class="lit-fn"><a href="#n-pl-36">36</a></sup>.
@@ -873,7 +838,6 @@ Before 1750 and in 1772 the Przespolewskie Ol. arose in the district of Kalisz, 
 <span class="lit-note" id="n-en-41">41</span> Rus. Inw. 2, Pt. I, p. 222 (decree of the commission court of 10 III 1779); the same in APP, Kalisz Gr. 433 (1779), fols. 199v and 202-202v.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Seite führt die Übergabeurkunde vom 4. November 1771 in zwei Abschriften an (Konin Gr. 142 und Kalisz Gr. 414) und ihre zwölf Olęder, zehn mit deutschen und zwei mit polnischen Namen. Die hier gegebene Abschrift ist die Kalischer: dieselben zwölf mit Namen — Michał Kinos, Chenryk Bedka, Jan und Krystyan Tulka, Bogusław Celmer, Samól Frinderberg, Bogusław Effthman, Krzysztofowa Kulawa, Maci Klinczpor, Antoni Pisarz, Wawrzyń Welner — mit dem Schäfer Brudzewski, zum Gehorsam gegen Chełmski angewiesen.</p>
@@ -881,9 +845,8 @@ Before 1750 and in 1772 the Przespolewskie Ol. arose in the district of Kalisz, 
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-32">S. 32</a></h2>
+<section class="lit-passage has-related" id="p-32" data-page="32">
+<div class="pg" id="p32"><a href="#p32">S. 32</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/32.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/32.jpg' | relative_url }}" alt="Chodyła (2015), S. 32" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -923,7 +886,6 @@ After 1765, and before 1793, the settlement of the Lisewskie Ol. (Olsz) was foun
 <span class="lit-note" id="n-en-45">45</span> ADWł., Wiz. 85, fols. 23 ff.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Seite datiert das preußische Register auf 1796 und hält „Łazy H." (5 Häuser, S. 401) für das Dorf Łazy unter Olęder-Recht. Die Seiten selbst tragen kein Datum — das Archiv datiert den Band auf 1797 — und lesen „Haul. Lazy.", 5 Häuser und 42 Menschen, Nr. 150 des Registers. Eine Anmerkung zu diesem Eintrag hielt ihn für wahrscheinlich die Łazińskie Olędry.</p>
@@ -933,9 +895,8 @@ After 1765, and before 1793, the settlement of the Lisewskie Ol. (Olsz) was foun
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-33">S. 33</a></h2>
+<section class="lit-passage" id="p-33" data-page="33">
+<div class="pg" id="p33"><a href="#p33">S. 33</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 na północny zachód od Lisewa, nowej osady Lisewskie Ol., zwanej też Olsz lub Olszowiec. Informacja z dwóch lustracji starostwa pyzdrskiego – z 1765 r. o okupnej wsi Lisewo na czynszach oraz z 1789 r. o gospodarzach-rolnikach i czynszownikach-chałupnikach w Lisewie i o czterech *pustkowianach kontraktowych* przy wsi Lisewo<sup class="lit-fn"><a href="#n-pl-46">46</a></sup>, nawet przy braku wyraźnego określenia mieszkańców tej drugiej osady jako olędrów, nie podważa tezy o jej olęderskim charakterze prawnym. Pewne wątpliwości pod tym względem może budzić tylko pozostawanie jej mieszkańców na indywidualnych kontraktach (umowach). Wydaje się jednak, że było ono przejściowe i doczekali się oni zbiorowego (choć nieznanego nam) przywileju lokacyjnego, skoro i w późniejszych źródłach w nazwie tej wsi stosowano konsekwentnie dodatek Olędry. W aktach metrykalnych parafii Szymanowice spotyka się w latach 1775-1780 zapisy dotyczące mieszkańców „Lisewskich Olędrów *alias* [inaczej] Olszowiec”, etnicznie i wyznaniowo chyba mieszanych<sup class="lit-fn"><a href="#n-pl-47">47</a></sup> Osada ta występuje też jako *Holendry Lisewskie* na mapie K. Perthèesa. Nie była natomiast osadą olęderską (przynajmniej staropolską) wieś zwana dziś Kolonia Lisewo. Została ona założona z udziałem osadników niemieckich i luterańskich w ramach tzw. kolonizacji fryderycjańskiej w okresie tzw. Prus Południowych, w ich departamencie poznańskim, w państwowej domenie Pyzdry, jako kolonia przy folwarku Lisewo, która w 1804 r. liczyła 20 rodzin, 99 osób, z obszarem 23 łanów i 13 mórg<sup class="lit-fn"><a href="#n-pl-48">48</a></sup>.
@@ -970,12 +931,10 @@ In 1761 the Zbierskie Olędry were founded in the district of Kalisz, in the par
 <span class="lit-note" id="n-en-49">49</span> ADWł., Parish registers of Szymanowice of the years 1756-1758, pp. 163, 166, 182, 183, 185, 186, 298 (baptismal entries). See also the receipts for rents received from the Olęders in the village of Tomice of the years 1769-1783, 1789), APP, Pyzdry. Gr. 107 (1784) fols. 1215-1216; in Czaykowski, p. 117: Hollendry and Wierzchy in the parish of Szymanowice in the deanery of Pleszew; MGdruk: Szymanowicer Hol. On the Topograficzna Karta Królestwa Polskiego, col. I, sec. 2: Holendry Stare Ciemierowa. Although Ciemierów earlier belonged to the district of Pyzdry, in the sources of the end of the eighteenth century (APP, Collection of tax tables and surveys. Tab. 21 and 25 (Tof. z Todl). Kalisz) it is recorded in the district of Kalisz, as are the Stare Ol. lying above it.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-34">S. 34</a></h2>
+<section class="lit-passage" id="p-34" data-page="34">
+<div class="pg" id="p34"><a href="#p34">S. 34</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wolnizny (liczone od 11 XI 1761 r.). Osiedlonych zostało 14 osadników (7 o niemieckich i 7 o polskich nazwiskach), ewangelików (na co wskazują pozwolenie na utrzymywanie bakałarza, czyli nauczyciela czytającego im Ewangelię i wyznaczenie placu na cmentarz grzebalny). Pod oblatą (urzędowym odpisem) tekstu przywileju lokacyjnego wymienieni zostali olędrzy w podanej wyżej liczbie, osiadli w latach 1761-1778, w części ci sami, ale także i inni niż pierwsi z 1761 r., zapewne m. in. wskutek sprzedaży-kupna gospodarstw. Przywilej ten stanowił, *że Od zaczęcia i obrania chuby swojej każdy obywatel kartę brać ma dla pamięci wolnych lat i udać się do pana swego, aby były imiona i przezwiska ich wpisan*e<sup class="lit-fn"><a href="#n-pl-50">50</a></sup> (Il. 6). Na podstawie tych dwóch przesłanek można wnioskować, że proces lokacji całej tej wsi trwał aż 17 lat. Inwentarz dóbr Zbiersk, znajdujących sie wtedy w posesji Leona Gąsiorowskiego, szambelana (podkomorzego) królewskiego, spisany w 1771 r. przez dzierżawców małżonków Jakuba i Franciszkę Przespolewskich, wymienia w tej osadzie 6 olędrów (w tym sołtysa) i ich świadczenia i 3 olędrów jeszcze ich nieuiszczających<sup class="lit-fn"><a href="#n-pl-51">51</a></sup>. Inwentarz dóbr Zbiersk, sporządzony w 1775 r. stwierdzał m. in. występowanie w Zbierskich Ol. nadal 14 gospodarzy<sup class="lit-fn"><a href="#n-pl-52">52</a></sup>.
@@ -1010,12 +969,10 @@ Before or in 1767 Wielołęka was founded as an Olęder settlement in the distri
 <span class="lit-note" id="n-en-54">54</span> APP, SAB 789 (a contemporary copy in German).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-35">S. 35</a></h2>
+<section class="lit-passage" id="p-35" data-page="35">
+<div class="pg" id="p35"><a href="#p35">S. 35</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/35.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/35.jpg' | relative_url }}" alt="Chodyła (2015), S. 35" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1027,12 +984,10 @@ Before or in 1767 Wielołęka was founded as an Olęder settlement in the distri
 6\. (1-2) Parts of the emphyteutic-perpetual foundation charter for the Zbierskie Ol. of 11 XI 1761, issued by Stanisław Dzik Kożuchowski, land judge of Wieluń, owner of the Zbiersk estate. APP Kal. Gr. 448, fols. 254-255v (obl. 25 VII 1783).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-36">S. 36</a></h2>
+<section class="lit-passage" id="p-36" data-page="36">
+<div class="pg" id="p36"><a href="#p36">S. 36</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/36.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/36.jpg' | relative_url }}" alt="Chodyła (2015), S. 36" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1052,12 +1007,10 @@ and the Olęders, personally free peasants, 9 in number (8 of them with German n
 <span class="lit-note" id="n-en-55">55</span> APP, SAB 789 (an authenticated extract from the records of the Civil Tribunal of the Government of Kalisz of 19 IX/1 X 1841, in Polish; a typescript copy); mentioned in: Breyer 2, p. 412 (with the wrong year 1772).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-37">S. 37</a></h2>
+<section class="lit-passage" id="p-37" data-page="37">
+<div class="pg" id="p37"><a href="#p37">S. 37</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/37.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/37.jpg' | relative_url }}" alt="Chodyła (2015), S. 37" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1069,12 +1022,10 @@ and the Olęders, personally free peasants, 9 in number (8 of them with German n
 7\. (1) Parts of the foundation charter for Wielołęka as an Olęder settlement, issued on 6 XI 1770 by Jan Wężyk, castellan of Konary, of Sieradz, in Polish, an authenticated extract from the records of the Civil Tribunal of the Government of Kalisz of 19 IX/1 X 1841, a typescript copy. APP, SAB. 789.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-38">S. 38</a></h2>
+<section class="lit-passage" id="p-38" data-page="38">
+<div class="pg" id="p38"><a href="#p38">S. 38</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/38.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/38.jpg' | relative_url }}" alt="Chodyła (2015), S. 38" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1086,12 +1037,10 @@ and the Olęders, personally free peasants, 9 in number (8 of them with German n
 7\. (2) Parts of the foundation charter for Wielołęka as an Olęder settlement, issued on 6 XI 1770 by Jan Wężyk, castellan of Konary, of Sieradz, in Polish, an authenticated extract from the records of the Civil Tribunal of the Government of Kalisz of 19 IX/1 X 1841, a typescript copy. APP, SAB. 789.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">S. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">S. 39</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 z nazwiska szkolny, czyli nauczyciel), częściowo rudujących [karczujących] się na zróżnicowanych obszarowo nadziałach<sup class="lit-fn"><a href="#n-pl-56">56</a></sup>. Wieś tę niejako refundował i powiększył jego zięć Franciszek hr. Stadnicki, starosta ostrzeszowski, dziedzic dóbr Grójca (Grodźca), Królikowa i Biskupic, swym przywilejem emfiteutycznowieczystym, wydanym w Biskupicach 3 lutego 1791 r. Uczynił to... *celem powiększenia ludności i pomnożenia intrat* [dochodów] *z lasów nieużytecznych, powodując się prośbom* [!] *wolnych przychodniów częścią już osiadłym i osiąść jeszcze mającym..., którzy gruntgielta* [okupne] *już opłacili*. Czas wolnizny wynosił prawdopodobnie 7 lub przynajmniej 5 lat. W przywileju tym fundator wyznaczył też dla wsi darmo pół huby na szkółkę i nałożył na osadników mieszanych wyznaniowo – katolików i dysydentów (ewangelików) obowiązek opłat od chrztów, ślubów i pogrzebów na rzecz proboszcza kościoła parafialnego w Grodźcu; chrzty i śluby w tej świątyni powinni odbywać także dysydenci<sup class="lit-fn"><a href="#n-pl-57">57</a></sup>.
@@ -1126,12 +1075,10 @@ In the years 1770-1772 six more Olęder settlements were founded in the district
 <span class="lit-note" id="n-en-59">59</span> Inventory of the Ceków estate, drawn up at Ceków on 20 I 1774 when it was handed over on lease to Arnold Byszewski, colonel of the Front Guard of the Crown army, signed by Franciszek Byszewski, [in:] *Królewszczyzny kaliskie w drugiej połowie XVIII w*. [The crown estates of Kalisz in the second half of the eighteenth century]. Edited with an introduction by W. Rusiński, "Rocznik Kaliski". Vol. XVII, Poznań 1984, p. 171.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-40">S. 40</a></h2>
+<section class="lit-passage" id="p-40" data-page="40">
+<div class="pg" id="p40"><a href="#p40">S. 40</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Należały do nich najpierw Konary albo Konarskie Olędry, które w dobrach grodzieckich założył ich właściciel, wspomniany już Józef Wężyk, swym przywilejem właściwie wspólnym, a w każdym razie identycznym w treści dla nich i Wielołęki Ol., wydanym 6 września 1770 r. Osiedli w niej olędrzy luteranie, na co wskazuje zawarta w tym przywileju informacja o ugodzie z proboszczem grodziskim w sprawie opłat od ślubów i pogrzebów<sup class="lit-fn"><a href="#n-pl-60">60</a></sup> (Il. 8). Fundację tej osady potwierdził formalnie i rozszerzył swym przywilejem, wspólnym dla nich i Borowieckich Ol., wydanym języku polskim w zamku grójeckim (grodzieckim) 25 sierpnia 1785 r. Franciszek hr. Stadnicki. Osadę założono w borach grójeckich, stanowiących część Puszczy Pyzdrskiej. Osadnikom przyznano 7 lat wolnizny *...już teraz osiadłym, a te* [bory grojeckie] *...nadając każdemu od wciągnienia i opłacenia gruntgieltu...”*. Według tego przywileju osadnicy byli ewangelikami i katolikami<sup class="lit-fn"><a href="#n-pl-61">61</a></sup>. Tę ostatnią informację można jednak odnieść tylko do Borowieckich Ol., gdyż w Konarach, jak to wynika z informacji pochodzących z innego, dalej cytowanego współczesnego źródła, mieszkali tylko luteranie.
@@ -1170,12 +1117,10 @@ Probably in the same year 1770 the Białobłockie (Białe, Białogłowy, otherwi
 <span class="lit-note" id="n-en-64">64</span> APP, SAB 626.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">S. 41</a></h2>
+<section class="lit-passage" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">S. 41</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/41.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/41.jpg' | relative_url }}" alt="Chodyła (2015), S. 41" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1187,12 +1132,10 @@ Probably in the same year 1770 the Białobłockie (Białe, Białogłowy, otherwi
 8\. Part of the foundation charter in German of Józef Wężyk, castellan of Konary, of Sieradz, for Konary/the Konarskie Ol. of 6 IX 1770. APP, SAB 696.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">S. 42</a></h2>
+<section class="lit-passage" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">S. 42</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/42.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/42.jpg' | relative_url }}" alt="Chodyła (2015), S. 42" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1212,12 +1155,10 @@ Probably in the same year 1770 the Białobłockie (Białe, Białogłowy, otherwi
 <span class="lit-note" id="n-en-65">65</span> APP, SAB 626 (no. 8, extract, that is an excerpt of the *oblata* of the charter of 29 VI 1788 from the municipal court book of Kalisz); Breyer 2, p. 412.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">S. 43</a></h2>
+<section class="lit-passage" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">S. 43</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/43.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/43.jpg' | relative_url }}" alt="Chodyła (2015), S. 43" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1229,12 +1170,10 @@ Probably in the same year 1770 the Białobłockie (Białe, Białogłowy, otherwi
 10\. (1) Parts of the emphyteutic-perpetual foundation charter for the community of the Białobłockie Olędry "now already settled", of 17 X 1787 and 1792, of Count Franciszek Stadnicki, SAB 626 (no. 8, extract of the *oblata* of 29 VI 1788 from the municipal court book of Kalisz). APP, SAB 626.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">S. 44</a></h2>
+<section class="lit-passage" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">S. 44</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/44.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/44.jpg' | relative_url }}" alt="Chodyła (2015), S. 44" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1246,12 +1185,10 @@ Probably in the same year 1770 the Białobłockie (Białe, Białogłowy, otherwi
 10\. (2) Parts of the emphyteutic-perpetual foundation charter for the community of the Białobłockie Olędry "now already settled", of 17 X 1787 and 1792, of Count Franciszek Stadnicki, SAB 626 (no. 8, extract of the *oblata* of 29 VI 1788 from the municipal court book of Kalisz). APP, SAB 626.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-45">S. 45</a></h2>
+<section class="lit-passage" id="p-45" data-page="45">
+<div class="pg" id="p45"><a href="#p45">S. 45</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 także dosiedlonych w 1787 r., jest nieznana. Jedno z przytoczonych sformułowań tego przywileju pozwala przypuszczać, że napłynęli i osiedli oni na obszarze tej wsi już wcześniej i po części na mocy indywidualnych umów, od czasu zawarcia których liczyły się im okresy wolnizny.
@@ -1298,12 +1235,10 @@ Before and in 1771, and in 1791, the Grądy Stare and Nowe Ol. were also founded
 <span class="lit-note" id="n-en-72">72</span> APP, Kalisz. Gr. 482 (1791), fols. 77-77v and 89-89v; SAB 666; mentioned in Breyer 2, p. 412.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-46">S. 46</a></h2>
+<section class="lit-passage" id="p-46" data-page="46">
+<div class="pg" id="p46"><a href="#p46">S. 46</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/46.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/46.jpg' | relative_url }}" alt="Chodyła (2015), S. 46" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1315,12 +1250,10 @@ Before and in 1771, and in 1791, the Grądy Stare and Nowe Ol. were also founded
 11\. Part of the joint second emphyteutic-perpetual foundation charter for the Grądy St. and Nw., founded before and in 1772 and in 1791, in the district of Konin, issued on 6 II 1791 by Count Franciszek Stadnicki, starost of Ostrzeszów, owner of the estates of Grójec (Grodziec), Królików and Biskupice. APP, Kalisz. Gr. 482, fols. 77-77v and 89-89v, obl. 4 III 1791.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-47">S. 47</a></h2>
+<section class="lit-passage" id="p-47" data-page="47">
+<div class="pg" id="p47"><a href="#p47">S. 47</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/47.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/47.jpg' | relative_url }}" alt="Chodyła (2015), S. 47" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1348,12 +1281,10 @@ Not much later, in 1774 and 1780, the Cekowskie Nowe [Ol.] or Prażuchy were set
 <span class="lit-note" id="n-en-74">74</span> APP, Kal. Gr. 450 (1783), fols. 27-27v and 29-29v (emphyteutic-perpetual foundation charter issued at Stropieszyn on 28 X 1780 by Krzysztof Celiński; obl. 27 III 1783 by the honest Bogusław Szwander, Olęder of the Ceków estate); this foundation charter is mentioned in: APP, Tab. 20, Kalisz (Survey of the starosties and crown estates of the voivodeship of Kalisz of 1789), p. 23; cf. also the Cekowskie St. Ol.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-48">S. 48</a></h2>
+<section class="lit-passage" id="p-48" data-page="48">
+<div class="pg" id="p48"><a href="#p48">S. 48</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/48.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/48.jpg' | relative_url }}" alt="Chodyła (2015), S. 48" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1381,12 +1312,10 @@ Next, in the years 1776-1781, in the same district, on the same estates and in t
 <span class="lit-note" id="n-en-76">76</span> APP, Kalisz Gr. 482 (1791), fol. 682 (foundation charter for 2 Olęders to build on half-hubas in Kosmów under Olęder law, "jako i in. Ol. Kosmowskie" [like the other Kosmowskie Ol.], issued at Kuszyn on 2 VI 1784; *oblata* in 1791, with a receipt for the hearth tax of 1787-1789); Tab. 24. Kalisz (Tof. z Todl. of 1789), fols. 90v-91 and 115, with the information that 4 Olęders will begin to pay rent in 1790,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-49">S. 49</a></h2>
+<section class="lit-passage" id="p-49" data-page="49">
+<div class="pg" id="p49"><a href="#p49">S. 49</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 dwaj przedstawiciele osadników – Michał Gesse i Krzysztof Malus, a następnie w latach 1776-1781 zostało do niej dopisanych jeszcze 5 innych olędrów. Według tego przywileju osada ze względu na szczupłość miejsca miała wspólną szkółkę i cmentarz z sąsiednimi Kosmowskimi Ol.<sup class="lit-fn"><a href="#n-pl-77">77</a></sup>.
@@ -1417,12 +1346,10 @@ Probably as early as about 1770, and in 1781, two settlements were founded in th
 <span class="lit-note" id="n-en-79">79</span> APP, Pyzdry. Gr. 110, fols. 200-202.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-50">S. 50</a></h2>
+<section class="lit-passage" id="p-50" data-page="50">
+<div class="pg" id="p50"><a href="#p50">S. 50</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/50.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/50.jpg' | relative_url }}" alt="Chodyła (2015), S. 50" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1434,12 +1361,10 @@ Probably as early as about 1770, and in 1781, two settlements were founded in th
 13\. (1) Parts of the emphyteutic-perpetual foundation charter for the Lubieńskie Ol., issued on 10 XI 1777 by Anna Chlebowska, superior of the convent of the Order of St Clare (the Franciscan nuns) in Kalisz. APP, Kalisz. Gr. 429 (1778), fols. 153v-154v.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-51">S. 51</a></h2>
+<section class="lit-passage" id="p-51" data-page="51">
+<div class="pg" id="p51"><a href="#p51">S. 51</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/51.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/51.jpg' | relative_url }}" alt="Chodyła (2015), S. 51" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1451,12 +1376,10 @@ Probably as early as about 1770, and in 1781, two settlements were founded in th
 13\. (2, 3) Parts of the emphyteutic-perpetual foundation charter for the Lubieńskie Ol., issued on 10 XI 1777 by Anna Chlebowska, superior of the convent of the Order of St Clare (the Franciscan nuns) in Kalisz. APP, Kalisz. Gr. 429 (1778), fols. 153v-154v.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-52">S. 52</a></h2>
+<section class="lit-passage" id="p-52" data-page="52">
+<div class="pg" id="p52"><a href="#p52">S. 52</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 z 19 czerwca 1781 r. wystawionym przez Krystynę z Szembeków Turnową stolnikową poznańską, matkę i Stefana/Szczepana Turno starostę pietrzykowskiego, syna, Ignacemu Dobrskiemu, w charakterystyce wsi Wrąbczynek znalazła się informacja, że oddają się temuż *olędry tak na Budach, jako też i Nowe Olędry, którym już w tym roku wolność wychodzi z wszelkiemi ich powinnościami i czynszami...*<sup class="lit-fn"><a href="#n-pl-80">80</a></sup>. W wizji miejsca (gruntu) z 1776 r. *Benefickie* za rzeką Wartą, należącego do dóbr miasta Pyzdry, jest mowa o jego zajęciu wraz z częścią starej drogi z Pyzdr do Konina przez olędra osadzonego niedawno przez Stefana (Szczepana) Turno i o tym, że *w lesie Spławie olędrzy tegoż p. Turny rudują się i w pień las tną i budynkowe drzewo niszczą*<sup class="lit-fn"><a href="#n-pl-81">81</a></sup>. Według wspólnego zbiorowego i końcowego przywileju lokacyjnego emfiteutyczno-wieczystego dla obu osad, wydanego w Pietrzykowie 20 października 1781 r. przez wspomnianego Szczepana Turno ich lokacja nastąpiła celem doprowadzenia zniszczonych dóbr królewskich starostwa pietrzykowskiego, a dokładnie *wiosek Rąpczyno* do dobrego stanu. Dlatego fundator nadał Jakubowi Krysie [Kriese] sołtysowi, Wojciechowi Kurtzowi i Krzysztofowi Szultzowi ławnikom *...folwark z wszelkiemi gruntami i wiejskiemi zaroślami* w dotychczasowej wsi Wrąbczynek o ogólnej powierzchni 11 hub wymierzonych przez miernika, *prócz ogrodów i placów wiejskich, jako też pastwisk, zaś Hollendrom Rąpczyńskim* [tj. mieszkańcom Wrąbczynkowskich Olędrów], 9 i ½ huby wykarczowane przez nich z dezerty [pustki] w borze, ustanawiając w nich wcześniej sołtysa i 2 ławników, wymienionych z imion i nazwisk. Wolniznę, czyli czas na zabudowę i zagospodarowanie otrzymali oni podług pozyskanych wcześniej indywidualnych kontraktów. Ponadto dostali także 16 morgów wykarczowanych przez nich łąk. Postanowienia przywileju odnosiły się do obu osad, co potwierdzało zawarte w nim sformułowanie: *Prawem niniejszym* [zbiorowym] *z dawna im przyobiecanym zabezpieczam tak wiejską, jako i holenderską gminę...*”. W obu osadach osiedli osadnicy o nazwiskach niemieckich i polskich. Byli oni chyba w większości luteranami, na co wskazuje nadanie obu osadom terenu dla nauczyciela i na cmentarz grzebalny<sup class="lit-fn"><a href="#n-pl-82">82</a></sup>, chociaż wizytacja dekanatu konińskiego z 1792 r. wykazuje we Wrąbczynku tylko katolików, a we Wrąbczynkowskich Ol. tylko ewangelików<sup class="lit-fn"><a href="#n-pl-83">83</a></sup>. W asekuracji z 20 XI 1781 wystawionej przez S. Dobrskiego, plenipotenta Turny, starosty pietrzykowskiego, poza stwierdzeniem odbycia robocizn, przyrzekano olędrom uzyskanie prawa królewskiego (tj. potwierdzenia przez króla przywileju lokacyjnego wydanego przez starostę-tenutariusza) po uiszczeniu na ten cel składki i stwierdza, *że Niemcy, którzy folwarkiem pańskim są rozmierzeni powinni będą grungielt[u] resztującą połowę wypłacić*”<sup class="lit-fn"><a href="#n-pl-84">84</a></sup>. Potwierdzenie tego przywileju przez króla Stanisława Augusta Poniatowskiego nastąpiło jednak dopiero 2 lutego 1787 r.<sup class="lit-fn"><a href="#n-pl-85">85</a></sup>.
@@ -1491,12 +1414,10 @@ of 19 June 1781, issued by Krystyna née Szembek Turnowa, wife of the *stolnik* 
 <span class="lit-note" id="n-en-85">85</span> APP, Pyzdry, Gr. 110 (1787), fols. 206v-209v (emphyteutic-perpetual foundation charter for Wrąbczynek and the Wrąbczynkowskie Ol. with the royal confirmation of 2 II 1787).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-53">S. 53</a></h2>
+<section class="lit-passage" id="p-53" data-page="53">
+<div class="pg" id="p53"><a href="#p53">S. 53</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W 1777 r., a następnie przed i w 1784 r. w powiecie konińskim, w parafii Dzierzbin, erygowane zostały Gadowskie Stare i Nowe (dziś Gadowskie Holendry). Ich fundatorami byli Piotr Sokół Gałczyński i Agnieszka z Sieroszewskich Gałczyńska, wdowa po nim, posesorka dożywotnia dóbr Gadowa, Smuszewa i innych z przyległościami. Ta ostatnia założenie osady uzasadniała w swym przywileju lokacyjnym wystawionym w Gadowie 1 listopada 1784 r. przyczynami ekonomicznymi: *Gdy rozległość i obfitość lasów w dobrach Gadowo z przyległościami...żadnego ani teraz i na potym nie przyniosą użytku wziąwszy wzór w kraju tym, już to do dóbr dziedzicznych, już dożywotnich, w stanowieniu Holędrów dotąd praktykowany, widząc potrzebę wzmocnienia prowentów* [dochodów] *gadowskich przez różne przypadki gruntowe osłabionych, pragnąc ich stan w najlepszej i najukochańszym dzieciom utrzymywać w życiu moim porze* [tj. utrzymywać te dobra w jak najlepszym stanie dla dzieci], *niemniej podać* [przekazać] *im powiększone na potym dóbr tych intraty* [powiększone później z dóbr tych zyski] *umyśliłam ... dać prawo emfiteutyczne na Holendry Gadowskie jeszcze za życia męża mego... zaprowadzonym i za posiadania mego sprowadzającym* [się] *ludziom wolnym, żadnemu poddaństwu nie podległym ... podług osobnych kontraktów* [umów]. W przywileju tym zostali wymienieni 3 osadnicy o niemieckich nazwiskach – sołtys i ławnicy, ale byli także i inni o niemieckich i polskich nazwiskach, ewangelicy-luteranie i katolicy. Zostali oni osadzeni w lesie zwanym „Zielony Las”. Z jego treści wynika też, że lokowali się stopniowo i otrzymali zindywidualizowany czas wolnizny, określony wcześniej osobnymi kontraktami<sup class="lit-fn"><a href="#n-pl-86">86</a></sup>. Według protestu z 23 VIII 1787 r. przeciwko A. Gałczyńskiej złożonego przez Bogumiła Leszczyc Dobrzyckiego, szambelana królewskiego, dziedzica dóbr Rychwała i dezerty Sokołowa z przyległościami, graniczącymi z dobrami gadowskimi, *kilkunastu olędrów A. Gałczyńska lokowała na gwałtownie i bezprawnie zajętych borach rychwalskich i dezercie* [pustce] *Sokołowo, wyciąwszy drzewa i je sprzedawszy, a ponadto z przywłaszczonych łąk gwałtownie sprząta siano*<sup class="lit-fn"><a href="#n-pl-87">87</a></sup>. W wizji dóbr gadowskich A. Gałczyńska z 10 czerwca 1780 r. dowodziła, że olędrzy zostali osadzeni na gruncie którego przynależność do Gadowa nie była kwestionowana od wieków, a w odpowiedziach na interogatoria (zapytania) sądowe z 3 XII 1787 r., skierowane także do mieszkańców Gadowskich Ol., znalazła się m. in. informacjami i ta, że zostali oni ulokowani przed 10 laty<sup class="lit-fn"><a href="#n-pl-88">88</a></sup>.
@@ -1527,12 +1448,10 @@ After 1777 and before 1784 the Smuszewskie Ol. arose, in the same district and p
 <span class="lit-note" id="n-en-89">89</span> Cf. n. 86.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">S. 54</a></h2>
+<section class="lit-passage" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">S. 54</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wskazywać, że i one powstały najpóźniej przed lub w 1784 r. i tworzyły prawdopodobnie wspólną gminę z Gadowskimi Nw. i St. Ol., za czym zdaje się też przemawiać występowanie w nich w 1791 zaledwie 2 dymów „samorolnych”<sup class="lit-fn"><a href="#n-pl-90">90</a></sup>.
@@ -1575,12 +1494,10 @@ In 1781 Wierzchy, or the Tomickie Nowe Olędry, were created in the district of 
 <span class="lit-note" id="n-en-94">94</span> Mentioned [in:] Breyer 2, p. 412. See also APP, Pyzdry. Gr. 115 (1791), fol. 532v, and Księgi sądów ziemiańskich [Books of the landowners' courts]. Konin. Zm. 3 (1791), fol. 16v (a case about the harbouring, in the Jarantowskie Ol., which belonged to Tomasz Radoński, boundary *komornik* of Kalisz, of another lord's subject).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">S. 55</a></h2>
+<section class="lit-passage" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">S. 55</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/55.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/55.jpg' | relative_url }}" alt="Chodyła (2015), S. 55" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1592,12 +1509,10 @@ In 1781 Wierzchy, or the Tomickie Nowe Olędry, were created in the district of 
 14\. (1) Emphyteutic-perpetual foundation charter for the Pyzdrskie Ol., issued on 24 IV 1778 by the magistrate of the town of Pyzdry. APP, Pyzdry Gr. 82 (1780), fols. 36-39, the same in: Konin Gr. 118 (1780), fols. 158-159v (obl. 16 X 1780 by the honest Jakub Bończyk, sołtys, and Józef Baranowski, assessor).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-56">S. 56</a></h2>
+<section class="lit-passage" id="p-56" data-page="56">
+<div class="pg" id="p56"><a href="#p56">S. 56</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/56.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/56.jpg' | relative_url }}" alt="Chodyła (2015), S. 56" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1609,12 +1524,10 @@ In 1781 Wierzchy, or the Tomickie Nowe Olędry, were created in the district of 
 14\. (2) Emphyteutic-perpetual foundation charter for the Pyzdrskie Ol., issued on 24 IV 1778 by the magistrate of the town of Pyzdry. APP, Pyzdry Gr. 82 (1780), fols. 36-39, the same in: Konin Gr. 118 (1780), fols. 158-159v (obl. 16 X 1780 by the honest Jakub Bończyk, sołtys, and Józef Baranowski, assessor).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-57">S. 57</a></h2>
+<section class="lit-passage" id="p-57" data-page="57">
+<div class="pg" id="p57"><a href="#p57">S. 57</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/57.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/57.jpg' | relative_url }}" alt="Chodyła (2015), S. 57" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1626,12 +1539,10 @@ In 1781 Wierzchy, or the Tomickie Nowe Olędry, were created in the district of 
 14\. (3) Emphyteutic-perpetual foundation charter for the Pyzdrskie Ol., issued on 24 IV 1778 by the magistrate of the town of Pyzdry. APP, Pyzdry Gr. 82 (1780), fols. 36-39, the same in: Konin Gr. 118 (1780), fols. 158-159v (obl. 16 X 1780 by the honest Jakub Bończyk, sołtys, and Józef Baranowski, assessor).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-58">S. 58</a></h2>
+<section class="lit-passage" id="p-58" data-page="58">
+<div class="pg" id="p58"><a href="#p58">S. 58</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/58.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/58.jpg' | relative_url }}" alt="Chodyła (2015), S. 58" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1667,12 +1578,10 @@ Before and in 1783 two Dzierzbin settlements were founded in the district of Kal
 <span class="lit-note" id="n-en-97">97</span> APP, SAB 650.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-59">S. 59</a></h2>
+<section class="lit-passage" id="p-59" data-page="59">
+<div class="pg" id="p59"><a href="#p59">S. 59</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/59.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/59.jpg' | relative_url }}" alt="Chodyła (2015), S. 59" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1712,12 +1621,10 @@ Also before 1783 the Plewińskie (Stare) Olędry were founded in the district of
 <span class="lit-note" id="n-en-101">101</span> APP, Kalisz. Gr. 488 (1794), fols. 26v-28.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-60">S. 60</a></h2>
+<section class="lit-passage" id="p-60" data-page="60">
+<div class="pg" id="p60"><a href="#p60">S. 60</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/60.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/60.jpg' | relative_url }}" alt="Chodyła (2015), S. 60" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1729,12 +1636,10 @@ Also before 1783 the Plewińskie (Stare) Olędry were founded in the district of
 16\. Part of the emphyteutic-perpetual foundation charter for the Dzierzbińskie-Zamęty and Zdanowiec Ol., issued on 25 VI 1783 by Kazimierz Poraj Biernacki, *wojski* of the district of Ostrzeszów, owner of the estates of Siąszyce and Dzierzbin and of the property of Sul[i]szew. APP, Kalisz. Gr. 448, fols. 216v-218.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-61">S. 61</a></h2>
+<section class="lit-passage" id="p-61" data-page="61">
+<div class="pg" id="p61"><a href="#p61">S. 61</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/61.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/61.jpg' | relative_url }}" alt="Chodyła (2015), S. 61" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1746,12 +1651,10 @@ Also before 1783 the Plewińskie (Stare) Olędry were founded in the district of
 17\. (1) Parts of the emphyteutic foundation charter for the Plewińskie (Stare) and the Nowe, otherwise Kuźnickie, Olędry, issued on 1 IX 1793 by Antoni Kawiecki, owner of the estates of Kuszyn and Plewnie. APP, Kal. Gr. 488, fols. 26v-28.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-62">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-62">S. 62</a></h2>
+<section class="lit-passage" id="p-62" data-page="62">
+<div class="pg" id="p62"><a href="#p62">S. 62</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/62.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/62.jpg' | relative_url }}" alt="Chodyła (2015), S. 62" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1763,12 +1666,10 @@ Also before 1783 the Plewińskie (Stare) Olędry were founded in the district of
 17\. (2) Parts of the emphyteutic foundation charter for the Plewińskie (Stare) and the Nowe, otherwise Kuźnickie, Olędry, issued on 1 IX 1793 by Antoni Kawiecki, owner of the estates of Kuszyn and Plewnie. APP, Kal. Gr. 488, fols. 26v-28.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-63">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-63">S. 63</a></h2>
+<section class="lit-passage" id="p-63" data-page="63">
+<div class="pg" id="p63"><a href="#p63">S. 63</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/63.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/63.jpg' | relative_url }}" alt="Chodyła (2015), S. 63" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1792,12 +1693,10 @@ In 1783 two settlements were founded by one charter in the district of Kalisz, i
 <span class="lit-note" id="n-en-102">102</span> APP, Kalisz. Gr. 482, fols. 1-2v (obl. 7 I 1791).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-64">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-64">S. 64</a></h2>
+<section class="lit-passage" id="p-64" data-page="64">
+<div class="pg" id="p64"><a href="#p64">S. 64</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/64.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/64.jpg' | relative_url }}" alt="Chodyła (2015), S. 64" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1809,12 +1708,10 @@ In 1783 two settlements were founded by one charter in the district of Kalisz, i
 19\. (2) Part of the joint emphyteutic-perpetual foundation charter for two settlements, Dębniałki/the Bolimowskie or Brudzewskie and the Piskory or Lipeckie Olędry, issued on 17 VII 1783 by Wawrzyniec Antoni Łodzia, *stolnik* of the district of Inowłódz, and Ewa, the married couple Czarnecki, owners of estates in the district of Brzeziny in the voivodeship of Łęczyca and in the district and voivodeship of Kalisz. APP, Kalisz. Gr. 482, fols. 1-2v; obl. 7 I 1791.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-65">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-65">S. 65</a></h2>
+<section class="lit-passage" id="p-65" data-page="65">
+<div class="pg" id="p65"><a href="#p65">S. 65</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 10, a ogółem 150 lasek (prętów) ról dworskich na Bilawach *na ugór, jarzynę, zagon*. W dokumencie tym, będącym faktycznie umową między stronami, zawarta jest także informacja, że dotyczy on olędrów osadzonych na Bilawach przez św. Wawrzyńca Czarneckiego<sup class="lit-fn"><a href="#n-pl-103">103</a></sup>. Pozwala ona przypuszczać, że przynajmniej jedna z tych dwóch osad została założona jeszcze przed 1783 r., albo też, że osada ta została dosiedlona przez tegoż współfundatora po 1783 r.. Według Tabeli podatku ofiary 10 i 20 gr: *Olędry Piskory zwane od olędrów osobnych, którym od roku 1791 lata wolności się kończą i w tymże roku płacić zaczną;* (...) *w roku znowu 1792 szczegulnych* [poszczególnych, osobnych] *olendrów 11 skończą wolność i płacić zaczną ...; jeden olęder siedział w Lipem*<sup class="lit-fn"><a href="#n-pl-104">104</a></sup>.
@@ -1857,12 +1754,10 @@ After 1783-1784 and before 1789 the Lisieckie [Ol.], or Lisiec, were founded on 
 <span class="lit-note" id="n-en-107">107</span> APP. Pyzdry. Gr. 115, fol. 540v; Sirisa, Materiallen 2, p. 401 (4 houses).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-66">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-66">S. 66</a></h2>
+<section class="lit-passage" id="p-66" data-page="66">
+<div class="pg" id="p66"><a href="#p66">S. 66</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Być może już około 1777 r., a na pewno w latach 1785-1789, powstała w tym samym powiecie, w parafii i dobrach szlacheckich Grodziec („Grojec”) osada Stara Huta-Grójeckie Olędry (dziś Stara Huta). Jej fundatorem był zapewne Franciszek hr. Stadnicki, starosta sądowy ostrzeszowski, ówczesny dziedzic dóbr Grodziec, Królikowo, Biskupice. Osada została założona na zarosłej lasem pustce. Mieszkańcy tej wsi byli katolikami i Polakami<sup class="lit-fn"><a href="#n-pl-108">108</a></sup>.
@@ -1901,12 +1796,10 @@ In 1787 the Mycielińskie Stare and Nowe Olędry (today Kazala St. and Nw.) were
 <span class="lit-note" id="n-en-112">112</span> APP, Kalisz. Gr. 472 (1788), fols. 51-51v and 52 (obl. 22 I 1788).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-67">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-67">S. 67</a></h2>
+<section class="lit-passage" id="p-67" data-page="67">
+<div class="pg" id="p67"><a href="#p67">S. 67</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/67.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/67.jpg' | relative_url }}" alt="Chodyła (2015), S. 67" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1918,12 +1811,10 @@ In 1787 the Mycielińskie Stare and Nowe Olędry (today Kazala St. and Nw.) were
 20\. Information on the Siąszyckie Ol., founded about 1786, in the *manifestacja* (protest) of Leon Bi(e)lski, plenipotentiary of Kazimierz Biernacki, *stolnik* of Piotrków, owner of the estate of Siąszyce, against Onufry Gałczyński, a *towarzysz* of the National Cavalry, of 1790. APP, Konin. Gr. 122 (1790), fols. 275v-276.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-68">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-68">S. 68</a></h2>
+<section class="lit-passage" id="p-68" data-page="68">
+<div class="pg" id="p68"><a href="#p68">S. 68</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/68.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/68.jpg' | relative_url }}" alt="Chodyła (2015), S. 68" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1935,12 +1826,10 @@ In 1787 the Mycielińskie Stare and Nowe Olędry (today Kazala St. and Nw.) were
 21\. (1) Parts of the first emphyteutic-perpetual foundation charter for the Mycielińskie St. and Nw. – Kazala St. and Nw. Ol., issued by Maciej Łuczycki, owner of the estate of Mycielin, on 30 III 1787. APP, Kalisz. Gr. 472 (1788), fols. 50-50v, 53; obl. 22 I 1788.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-69">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-69">S. 69</a></h2>
+<section class="lit-passage" id="p-69" data-page="69">
+<div class="pg" id="p69"><a href="#p69">S. 69</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/69.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/69.jpg' | relative_url }}" alt="Chodyła (2015), S. 69" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1952,12 +1841,10 @@ In 1787 the Mycielińskie Stare and Nowe Olędry (today Kazala St. and Nw.) were
 21\. (2) Parts of the first emphyteutic-perpetual foundation charter for the Mycielińskie St. and Nw. – Kazala St. and Nw. Ol., issued by Maciej Łuczycki, owner of the estate of Mycielin, of 30 III 1787. APP, Kalisz. Gr. 472 (1788), fols. 50-50v, 53; obl. 22 I 1788.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-70">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-70">S. 70</a></h2>
+<section class="lit-passage" id="p-70" data-page="70">
+<div class="pg" id="p70"><a href="#p70">S. 70</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W latach 1787 i 1791 w powiecie kaliskim, w parafii Kościelec, lokowane zostały Stropieszyńskie albo Radzany i Gostynie Olędry. Ich założycielem i wystawcą przywilejów lokacyjnych emfiteutyczno-wieczystych był Ignacy Skarbek Kozietulski, skarbnik, a następnie wojski ziemi czerskiej, dziedzic wsi i folwarku Stropieszyn. Według pierwszego przywileju, wystawionego przez niego 6 grudnia 1787 r. w Stropieszynie, osadnicy zajęli grunt „stropieski” (wsi Stropieszyna) gotowy, łąki, grunt zarosły „pod Bugajem i w Radzanowie nad stawami”, dostając na jego zagospodarowanie 3 lata wolnizny (liczone od 11 XI 1787). Wieś otrzymała także grunt na szkołę i na cmentarz grzebalny<sup class="lit-fn"><a href="#n-pl-113">113</a></sup> (Il. 22). Na podstawie ostatniej wiadomości wolno wnioskować, że olędrzy byli luteranami i Niemcami. W drugim przywileju wydanym 22 listopada 1791 r. w Stropieszynie znalazła się wzmianka o wcześniejszej ugodzie z 27 listopada 1787 r. i równocześnie wystawca potwierdził i uzupełnił nim pierwszy przywilej dla tej wsi, włączając do niej także małżeństwo Józefa i Elżbietę Giereckich, służących, osiadłych za osobnym przywilejem na ½ hubie roli<sup class="lit-fn"><a href="#n-pl-114">114</a></sup>.
@@ -2016,12 +1903,10 @@ In the same district, in the parishes and on the estates of Sławsk and Grodziec
 <span class="lit-note" id="n-en-122">122</span> Z. Chodyła, *Osadnictwo i zaludnienie powiatu konińskiego w latach 1789-1791* [Settlement and population of the district of Konin in the years 1789-1791], "Rocznik Koniński". Vol. XIX, in print.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-71">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-71">S. 71</a></h2>
+<section class="lit-passage" id="p-71" data-page="71">
+<div class="pg" id="p71"><a href="#p71">S. 71</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/71.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/71.jpg' | relative_url }}" alt="Chodyła (2015), S. 71" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2033,12 +1918,10 @@ In the same district, in the parishes and on the estates of Sławsk and Grodziec
 22\. (1) One of the two first emphyteutic-perpetual foundation charters for the Stropieszyńskie-Radzany and Gostynie Ol., issued on 6 1787 by Ignacy Skarbek Kozietulski, treasurer of the land of Czersk, owner of the village and demesne farm of Stropieszyn. APP, Kalisz Gr. 466 (1787), fols. 335-336v; obl. 7 XII 1787 by the honest Michał Gultz, Olęder.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-72">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-72">S. 72</a></h2>
+<section class="lit-passage" id="p-72" data-page="72">
+<div class="pg" id="p72"><a href="#p72">S. 72</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/72.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/72.jpg' | relative_url }}" alt="Chodyła (2015), S. 72" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2050,12 +1933,10 @@ In the same district, in the parishes and on the estates of Sławsk and Grodziec
 22\. (2) One of the two first emphyteutic-perpetual foundation charters for the Stropieszyńskie-Radzany and Gostynie Ol., issued on 6 1787 by Ignacy Skarbek Kozietulski, treasurer of the land of Czersk, owner of the village and demesne farm of Stropieszyn. APP, Kalisz Gr. 466 (1787), fols. 335-336v; obl. 7 XII 1787 by the honest Michał Gultz, Olęder.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-73">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-73">S. 73</a></h2>
+<section class="lit-passage" id="p-73" data-page="73">
+<div class="pg" id="p73"><a href="#p73">S. 73</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/73.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/73.jpg' | relative_url }}" alt="Chodyła (2015), S. 73" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -2087,12 +1968,10 @@ Before 1789 the Olęder settlement of Poroże Małe arose in the district of Kal
 <span class="lit-note" id="n-en-124">124</span> Tab. 22. Kalisz (detailed table of the hearths and population of the district of Kalisz of 1789): 2 hearths (fol. 130), Tab. 25. Kalisz (Tof. z Todl. of 1789): "Nowe Kolonie. Poroże Małe" – 2 hearths (fol. 62); Table of hearths and of the *delata* (return) of the hearth tax of 1790 – Kalisz. Gr. 481: "Poroże Małe kolonia..." – 2 hearths (fol. 228), Table of the *delata* from the voivodeship and districts of Kalisz, Konin... of the hearth tax, half hearth tax... for the March instalment of the year 1791 – Kal. Gr. 483: 2 hearths (fol. 107).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-74">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-74">S. 74</a></h2>
+<section class="lit-passage" id="p-74" data-page="74">
+<div class="pg" id="p74"><a href="#p74">S. 74</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W 1790 r. w powiecie kaliskim, w parafii i dobrach szlacheckich Przespolew(o) została lokowana osada Świdle Nowa Kolonia albo Świdle Olędry. Jej fundatorem był Ignacy Zaremba starościc prośniatowski, komisarz porządkowy cywilno-wojskowy kaliski, posesor tych dóbr. Według tabeli zsypki zbożowej z dymów samorolnych powiatu kaliskiego z 1791 r. Świdle Ol. zostały „*w roku 1790 nowe wystawione*”, a liczyły wówczas 3 dymy „samorolne”<sup class="lit-fn"><a href="#n-pl-125">125</a></sup>.
@@ -2115,12 +1994,10 @@ Summing up and supplementing the detailed information given above on the distrib
 <span class="lit-note" id="n-en-126">126</span> Ibid.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-75">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-75">S. 75</a></h2>
+<section class="lit-passage" id="p-75" data-page="75">
+<div class="pg" id="p75"><a href="#p75">S. 75</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 w Polsce i Wielkopolsce<sup class="lit-fn"><a href="#n-pl-127">127</a></sup>, w ich drugiej fazie (1660-1793/1795) i trzecim okresie (1721-1793/95). Z tych 58 osad 3 powstały w pierwszym podokresie (1721-1750), 11 w drugim podokresie (1751-1772), a 44 w trzecim podokresie (1773-1793) tego okresu. Taka kolejność czasowa zakładania osiedli olęderskich jest jednak nie do końca jednoznaczna, gdyż część z nich była refundowana lub dosiedlana w różnych podokresach.
@@ -2143,12 +2020,10 @@ in Poland and Greater Poland<sup class="lit-fn"><a href="#n-en-127">127</a></sup
 <span class="lit-note" id="n-en-127">127</span> Z. Chodyła, *Zarys dziejów osadnictwa olęderskiego w Polsce 1547-1864*, [in:] *Olędry-przestrzenie obok nas*..., pp. 35, 53-54; the same, *Osadnictwo olęderskie w Wielkopolsce (1597–1793).*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-76">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-76">S. 76</a></h2>
+<section class="lit-passage" id="p-76" data-page="76">
+<div class="pg" id="p76"><a href="#p76">S. 76</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ziemiach (Jarantowskie Ol., Plewińskie St. i Nw. Ol. i Zbierskie Ol.), 6 na glebach bagiennych (Dzierzbińskie-Zamęty Ol., Mycielińskie St. i Nw. Ol., Stropieszyńskie – Gostynie i Radzany Ol., Stara Huta-Grojeckie Ol.), 13 na glebach murszowych (Bukowa Ol., Borowieckie St. i Nw. Ol., Cekowskie St. Ol., Dębniałki Ol., Konary, Lubieńskie, Luśnie, Łazy, Orlińskie M. i D. Ol., Piskory Ol., Stara Huta-Zagórowskie Ol.), 4 na madach rzecznych (Ciążeńskie Ol., Lisewskie Ol., Białobłockie Ol. i Ciemierowa/Szymanowickie St. Ol.), 4 na mieszanych, w tym 1 (Pyzdrskie Ol.) na glebach bielicowych, murszowych, madach rzecznych i piaskach wydmowych, a 3 na glebach bielicowo-murszowych (Wrąbczynek, i Kazimierskie St. i Nw. Ol.). Z tych gleb, za urodzajne uznaje się czarne ziemie, na których powstały tylko 4 osady, za średnio urodzajne – bagienne, murszowe i madowe, na których założono 24 całe i częściowo 4 olędry, natomiast za nieurodzajne – bielice i paski wydmowe, na których lokowano 28 całych i częściowo 4 osady<sup class="lit-fn"><a href="#n-pl-128">128</a></sup>. Zatem połowa osad olęderskich w Puszczy Pyzdrskiej została założona na glebach urodzajnych i średniourodzajnych, połowa na nieurodzajnych, a 4 na mieszanych, z przewagą jednak gleb nieurodzajnych.
@@ -2167,12 +2042,10 @@ earths (Jarantowskie Ol., Plewińskie St. and Nw. Ol. and Zbierskie Ol.), 6 on m
 <span class="lit-note" id="n-en-128">128</span> Cf. Z. Chodyła, *Osadnictwo olęderskie w Wielkopolsce (1597-1793)*, map 10.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-77">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-77">S. 77</a></h2>
+<section class="lit-passage" id="p-77" data-page="77">
+<div class="pg" id="p77"><a href="#p77">S. 77</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 na ich zajęcie, zabudowę i zagospodarowanie otrzymanych nadziałów gruntów. Osadnicy niewątpliwie współuczestniczyli w zakładaniu osad, które jak to wynika z treści wielu przywilejów lokacyjnych, odbywało się także na ich prośby. W przypadku lokacji kilku osad można się domyślać występowania przy niej osadźcy (zasadźcy) czy osadźców – przedsiębiorców lokacyjnych, działających z upoważnienia całej gminy, przeważnie jednak w takim charakterze występowały całe grupy (gromady) osadników. Osadnicy większości osad byli w z wyznania protestantami (głównie luteranami), w części katolikami, z narodowości: Niemcami i Polakami, osiadającymi także w niektórych osadach wspólnie. Lokacja osad odbywała się na podstawie przywilejów, za które trzeba było płacić. Proces zakładania osad olęderskich trwał co najmniej przez okres wolnizny (a więc przeważnie kilka lat), ale nieraz, jak to wynika z przytoczonych wyżej informacji, nawet i dłużej, a to zapewne głównie z powodu trudności z pozyskaniem dostatecznej liczby osadników i ich płynności. Dlatego też nieraz osadnicy otrzymywali indywidualne kontrakty, nieraz zbiorowe, ale wstępne, zastępowane dopiero z czasem, po upływie wolnizny wszystkich osadników, zbiorowymi, końcowymi przywilejami lokacyjnymi emfiteutyczno-wieczystymi, gwarantującymi wieczyste prawo czynszowe do posiadanych gospodarstw. Sposób, czyli technika lokacji osad drogą karczunku i/lub melioracji polegającej na kopaniu lub pogłębianiu rowów odpływowych, zależała od charakteru zajmowanych gruntów. Koszty lokacji ponosiły obie strony. Dwór nie tylko dawał grunty pod lokację osad, ale zapewne organizował w części transport kolonistów, przyznawał im za darmo drewno budulcowe (zezwalając na sprzedaż ich nadwyżki po wzniesieniu budnków celem pozyskania gotówki) i czasem pomagał finasowo we wznoszeniu budynków, o czym szczegółowo piszemy dalej.
@@ -2203,12 +2076,10 @@ Most of the settlements, founded sometimes on raw root, but mostly near old moth
 <span class="lit-note" id="n-en-129">129</span> W. Rusiński, *Osady tzw. „olędrów”*, p. 20.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-78">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-78">S. 78</a></h2>
+<section class="lit-passage" id="p-78" data-page="78">
+<div class="pg" id="p78"><a href="#p78">S. 78</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 *– Zdanowiec i Zamęty, Grądy, Luśnie, Orlińskie (Orlina) Duże i Małe, Piskory, Poroże Małe, Wierzchy – Olędry, bagien i błot, jak: Białebłota Olędry,* nazwy obiektów przemysłowych, jak np.: *Stara Huta Grójeckie i Stara Huta Zagórowskie – (Olędry)*, 3) charakterystyczne, tworzone niezależnie od nazewnictwa osad starych, a więc m. in. odosobowe, pochodzące od imion i nazwisk fundatorów i członków ich rodzin, jak np.: *Kazimierskie (Stare i Nowe) Olędry.*
@@ -2251,12 +2122,10 @@ Because of the changes in the meaning and function of the term *(H)olędry*, the
 As a result of the structural and linguistic transformations of most of the old names of Olęder settlements with the element *(H)olędry*, *(H)olendry*, caused by the factors mentioned
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-79">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-79">S. 79</a></h2>
+<section class="lit-passage" id="p-79" data-page="79">
+<div class="pg" id="p79"><a href="#p79">S. 79</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 czynniki i dokonywanych w różnym czasie na różne, scharakteryzowane wyżej sposoby, uległa zatarciu ich historyczno-kulturowa geneza. Do dziś w wiejskim krajobrazie osadniczym Wielkopolski właściwej, w jej historycznych granicach, przetrwało tylko 26 (3,8%) nazw staropolskich osad olęderskich z tym członem. Na obszarze Puszczy Pyzdrskiej człon ten utrzymał się do dzisiaj tylko w nazwach pięciu takich osad, a mianowicie: Ciążeńskie Holendrów, Gadowskie Holendry, Wrąbczynkowskie Holendry, Smaszewskie Olendry i Holendry Jaroszewickie.
@@ -2267,15 +2136,13 @@ czynniki i dokonywanych w różnym czasie na różne, scharakteryzowane wyżej s
 and carried out at various times in the various ways described above, their historical and cultural origin has been blurred. Only 26 (3.8%) names of Old Polish Olęder settlements with this element have survived to this day in the rural settlement landscape of Greater Poland proper, within its historical borders. In the area of the Pyzdry Forest this element has survived to this day only in the names of five such settlements, namely: Ciążeńskie Holendrów, Gadowskie Holendry, Wrąbczynkowskie Holendry, Smaszewskie Olendry and Holendry Jaroszewickie.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-80">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-80">S. 80</a></h2>
+<section class="lit-passage" id="p-80" data-page="80">
+<div class="pg" id="p80"><a href="#p80">S. 80</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 2. Obszar, rozplanowanie przestrzenne osad olęderskich, ich wielkość i rodzaje pod względem liczby i struktury dymów oraz organizacji społeczno- i funkcjonalno-gospodarczej
+## 2. Obszar, rozplanowanie przestrzenne osad olęderskich, ich wielkość i rodzaje pod względem liczby i struktury dymów oraz organizacji społeczno- i funkcjonalno-gospodarczej
 
 Obszar osad olęderskich powstałych w latach 1746-1793 w Puszczy Pyzdrskiej, w czasie ich lokacji, nie jest dokładnie znany w odniesieniu do wszystkich 58. Dla większej części z nich (37) pozwalają go określić w przybliżeniu przywileje lokacyjne i inne akta informujące o liczbie i/lub wielkości nadziałów gruntów (gospodarstw) otrzymanych lub posiadanych w nieodległym od lokacji czasie przez osadników. Dla pozostałych osad można próbować go ustalić tylko prawdopodobnie, na podstawie wiadomości o stanie liczbowym i charakterze dymów w ogóle i dymów (gospodarstw) rolniczych w tych osadach w lata 1789 i 1791. Przemnożenie liczb takowych przez hipotetyczne nadziały jedno – lub półhubowe umożliwia określenie dolnej i górnej granicy obszaru ich gruntów uprawnych.
 
@@ -2284,19 +2151,17 @@ W źródłach dotyczących osad olęderskich w Wielkopolsce obszar nadziałów g
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 2. The area and layout of the Olęder settlements, their size and types by the number and structure of hearths, and their social and functional-economic organisation
+## 2. The area and layout of the Olęder settlements, their size and types by the number and structure of hearths, and their social and functional-economic organisation
 
 The area of the Olęder settlements that arose in the years 1746-1793 in the Pyzdry Forest, at the time of their founding, is not exactly known for all 58. For the greater part of them (37) it can be fixed approximately from the foundation charters and other records giving the number and/or size of the holdings of land (farms) received or held by the settlers not long after the founding. For the remaining settlements one can try to fix it only probably, from the information on the number and character of the hearths in general and of the farming hearths (farms) in these settlements in the years 1789 and 1791. Multiplying these numbers by hypothetical holdings of one huba or half a huba makes it possible to fix the lower and upper limits of the area of their arable land.
 
 In the sources on the Olęder settlements in Greater Poland the area of the holdings of land assigned to the settlers was mostly given in włóki (łany), mostly called hubas (from German *Hufe*), or more rarely *ślady*. The włóka, as a unit of measure of arable land, was the basis for fixing the amount of rents (in money and in kind) and of labour services. It was identified with the area of a full, economically independent farm. Hubas (włóki, łany), however, varied, and their area also depended on the measure by which they were laid out. Usually this was the Chełmno włóka (earlier also called the Flemish or the Środa łan), used in four variants of different area. This włóka was divided into 30 morgen, the morgen = 300 (30x10) square rods. The rod, also called in the sources *laska* or *rózga*, often varied in size, however; it ranged from 7½ ells (the rod of the new or Warsaw measure of 1764) to 9 ells (the margrave's rod). The sources mention ells of the Chełmno, Polish (old), German and Poznań measure, but do not define these measures more closely. Besides, the ell itself, used within the same measure of area, such as the various kinds of włóka, also often varied in size. The constitution of the Diet of 1764 unifying measures fixed the Warsaw ell, as a measure of length, at 24 inches (59.55 cm). A włóka of 30 morgen, each of 300 square rods measured with this ell, would equal 17.95 ha, that is 179,550 m² After 1764, in spite of this unification, ploughland was still mostly measured with the Chełmno rod, which moreover varied, most often of 8 and 9 ells, most rarely of 7½ ells. The Chełmno ell,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-81">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-81">S. 81</a></h2>
+<section class="lit-passage" id="p-81" data-page="81">
+<div class="pg" id="p81"><a href="#p81">S. 81</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 prawdopodobnie jednoznaczny z wymienionym w źródłach łokciem polskim starym, czy niemieckim, był nieco krótszy od koronnego nowej miary z 1764 r. i wynosił 57,6 cm. Powierzchnia włóki wymierzona prętem 7½ ł. wyniesie 16,80 (a ściślej 16,7962) ha, 8 łokciowym – 19,20, 8½ łokciowym – 21,60, zaś 9 łokciowym aż 24,20 ha. Wyjątkowo używane były w osadach olęderskich inne (przynajmniej z nazwy) miary powierzchni niż włóka chełmińska. Z kolei 1 łokieć warszawski jako miara powierzchni wynosił 0,354666 m². Ziemię mierzono niekiedy na ślady identyczne z włóką chełmińską (hubą), ale też nieraz stanowiące odpowiednik prawie lub dokładnie dwóch takich włók (tzn. liczące 50–60 mórg chełmińskich). W odosobnionych wypadkach wzmiankuje się w źródłach o wymierzeniu gruntów prętem magdeburskim, brak jednak danych ile zawierał łokci. W 2 poł. XVIII w. w powiatach kaliskim, konińskim i pyzdrskim grunty wymierzano często w miarze „rydlandskiej” tj. zapewne reńskiej (nazwa ta wywodzi się chyba od wyrazu Reihnland), prętem 7 i ½ łokciowym. Pręt reński, od 1816 r. zwany też magdeburskim (a więc chyba identyczny z wcześniej wspomnianym) albo pruskim (równy ok. 3,766 m) był powszechnie obowiązującą (na mocy rozkazu królewskiego z 1750 r.) i najszerzej stosowaną miarą w Prusach, a od 1775 r. obowiązywał we wszystkich dzielnicach kraju, oprócz Śląska i nowo przyłączonych w I rozbiorze ziem polskich. W osadach zakładanych przy udziale osadników napływających ze Śląska, zwłaszcza do 1740 r., nadziały na ich życzenie wymierzano też prętem cesarskim, chyba równym 8 ½ łokciom<sup class="lit-fn"><a href="#n-pl-130">130</a></sup>.
@@ -2339,12 +2204,10 @@ In the two settlements in the starosty of Pietrzyków, Wrąbczynek and the Wrąb
 <span class="lit-note" id="n-en-132">132</span> Cf. n. 91 (foundation charter of 24 IV 1778).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-82">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-82">S. 82</a></h2>
+<section class="lit-passage" id="p-82" data-page="82">
+<div class="pg" id="p82"><a href="#p82">S. 82</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ziemi, grunty były podzielone na trzy pola (jare, ozime i ugór), sołtys dostał też za swoje starania około gminy *ostrów* [wydział] *w każdym polu morgów pięć*. Poza tym karczmarze w obu osadach uzyskali po pół huby bez czynszu, a dla wspólnej dla obu wsi szkoły (nauczyciela) i na cmentarz także wyznaczono grunty o bliżej nieokreślonej powierzchni<sup class="lit-fn"><a href="#n-pl-133">133</a></sup>. Według lustracji królewszczyzn powiatu pyzdrskiego z 1789 r. we Wrąbczynku było 14 gospodarzy z 11 hubami, a we Wrąbczynkowskich Ol. 17 gospodarzy z 9½ hubami ról i 17½morgami łąk; ponadto istniała tam szkółka nowo postawiona<sup class="lit-fn"><a href="#n-pl-134">134</a></sup>, na wspomnianym nadziale przeznaczonym dla nauczyciela.
@@ -2399,12 +2262,10 @@ In the Gadowskie Nw. and St. Olędry the dissenters received for a school and a 
 <span class="lit-note" id="n-en-139">139</span> APP, Tab. 21. Kalisz (Table of the hearth tax of the districts of the voivodeship of Kalisz of 1789), fol. 11v: "Olędry zwane Borowiec i Huta" [the Olędry called Borowiec and Huta] – – 21 hearths (fol. 11v); Pyzdry. Gr. 115, fol. 540: "Borowieccy" – 31 "self-tilling" hearths. AGAD. Gen. Direkt. Südpreussen I/1745, p. 396: "Borowiec H." – 60 hearths (p. 396).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-83">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-83">S. 83</a></h2>
+<section class="lit-passage has-related" id="p-83" data-page="83">
+<div class="pg" id="p83"><a href="#p83">S. 83</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 szynkujący (czyli sprzedający pańskie trunki) dostał ½ huby gruntu.<sup class="lit-fn"><a href="#n-pl-140">140</a></sup>. W 1791 r. w Gadowskich St. i Nw. Ol. było zapewne przynajmniej tyle gospodarstw, co dymów rolniczych, czyli 22<sup class="lit-fn"><a href="#n-pl-141">141</a></sup>, lecz nie wiadomo ile z nich było ½., a ile 1 hubowych.
@@ -2487,7 +2348,6 @@ In the Luśnie (Lusina) or Łukomskie Olędry, understood at first as a part of 
 <span class="lit-note" id="n-en-151">151</span> APP. Tab. 21. Kalisz. Table of the hearth tax of the districts of the voivodeship of Kalisz of 1789, fol. 18v.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Übersicht zählt die Luśnier (Łukomskie) Olędry auf zwölf Olęder mit einem Schäfer im Jahr 1771. Die Übergabeurkunde vom 4. November 1771 (Kalisz Gr. 414) überantwortet die zwölf mit Namen in Chełmskis Gehorsam, den Schäfer Brudzewski unter ihnen.</p>
@@ -2497,9 +2357,8 @@ In the Luśnie (Lusina) or Łukomskie Olędry, understood at first as a part of 
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-84">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-84">S. 84</a></h2>
+<section class="lit-passage has-related" id="p-84" data-page="84">
+<div class="pg" id="p84"><a href="#p84">S. 84</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W Orlińskich Małych i Dużych Olędrach, według przywileju lokacyjnego z 1784 r., zostało lokowanych 20 osadników gospodarzy, z których 18 miało po całej hubie, a 2 tylko po ½ huby, co pozwala określić areał ówczesnej wsi na 19 hub. Otrzymali oni do wyrudowania w lesie *huby za Otniami w miejscu nazwiskiem Orla* i lasy królikowskie zwane *Orlina*<sup class="lit-fn"><a href="#n-pl-152">152</a></sup>. W 1791 r., razem z Białobłockimi Ol., liczyły one 49 dymów *samorolnych*<sup class="lit-fn"><a href="#n-pl-153">153</a></sup>, czyli gospodarstw rolnych.
@@ -2566,7 +2425,6 @@ In the Cekowskie Nowe Olędry, or Prażuchy, also royal, founded in the years 17
 <span class="lit-note" id="n-en-160">160</span> APP. Pyzdry. Gr. 115, fol. 531v: "Holendry Stare Królewskie" – 9 "self-tilling" hearths.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Zusammenfassung zitiert die Besichtigung noch einmal, „Olędrów 15, szesnasta huba próżna" — sechzehn Hufen, eine unbesetzt. Das Dokument liest sich genauso und datiert sich selbst: die Wizja vom 9. Juli 1754, auf Antrag der Katarzyna Prusimska genommen, der Witwe des Paweł Prusimski.</p>
@@ -2578,9 +2436,8 @@ In the Cekowskie Nowe Olędry, or Prażuchy, also royal, founded in the years 17
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-85">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-85">S. 85</a></h2>
+<section class="lit-passage" id="p-85" data-page="85">
+<div class="pg" id="p85"><a href="#p85">S. 85</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 na karczmę i 3 morgi na nauczyciela (szkołę) bez opłat czynszowych<sup class="lit-fn"><a href="#n-pl-161">161</a></sup>. Ogólny areał tej osady można zatem określić na ponad 14 hub. W 1791 r. Cekowskie Nw. Ol. liczyły 22 dymy samorolne<sup class="lit-fn"><a href="#n-pl-162">162</a></sup>, czyli gospodarstwa rolnicze.
@@ -2643,12 +2500,10 @@ In the Mycielińskie Stare and Nowe Olędry, 2 settlers obtained in the first ch
 <span class="lit-note" id="n-en-169">169</span> APP, Tab. 24. Kalisz (Tdl of 1789), fols. 90v-91 and 115 and 12, with the information that 4 Olęders will begin to pay rent in 1790.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-86">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-86">S. 86</a></h2>
+<section class="lit-passage" id="p-86" data-page="86">
+<div class="pg" id="p86"><a href="#p86">S. 86</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 mierzono prętem 8. łokciowym. W drugim przywileju lokacyjnym z tego samego dnia, miesiąca i roku, wystawionym dla 6 osadników, którzy także zapewne otrzymali nadziały chyba raczej nie jedno-, a półhubowe, znalazło się zastrzeżenie fundatora: .*..mając na dziedzinie tejże wsi* [Mycielin] *części gruntu czyli zarośla, różnym drzewem zagęszczoną, krzewiną zwaną* (...)*, gdy się...holendrzy...grunt przerzeczony Rusiny zwany obsieść podejmują...;* (...) *a gdyby dla szóstego Holendra roli w Rusin[ach] zabrakło, tedy na drugiej części dziedziny mojej Kozale* [Kazala] *zwanej rudować* [karczować] *szóstemu holendrowi...role dla siebie pozwalam*. Według pierwszego przywileju olędrzy mieli się lokować od granic korzeniewskich, a według drugiego od granic słuszkowskich. W obu przywilejach wysokość okupnego z morgi określono na 8 zł. W drugim przywileju znalazło się też postanowienie, że *po 1. ćwierci huby z tego, co z wyrudowanych przez olędrów hub „zbywać będzie”, otrzymają szkolny i gościnny*<sup class="lit-fn"><a href="#n-pl-170">170</a></sup>. Według informacji tabel szczegółowych dymów i ludności z 1789 r. wiadomo, że wówczas *Obsiedli roku przeszłego Holendrzy na nową Kolonią mają dymów 6*, a także że w tej osadzie było 25 *holendrów roku osiadłych przeszłego gospodarzy*; w 1791 r. było w Mycielińskich St. i Nw. Ol. 9 dymów „samorolnych”, a pięć lat później w 1796 r. znajdowało się tam już 17 domów<sup class="lit-fn"><a href="#n-pl-171">171</a></sup>. Zatem wskutek dalszych dosiedleń areał całej wsi znowu uległby powiększeniu.
@@ -2699,12 +2554,10 @@ In the Przespolewskie Olędry, that is a part of Przespolew Pański and of Poro�
 <span class="lit-note" id="n-en-176">176</span> Cf. n. 42.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-87">S. 87</a></h2>
+<section class="lit-passage" id="p-87" data-page="87">
+<div class="pg" id="p87"><a href="#p87">S. 87</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W Stropieszyńskich albo Radzanach i Gostyniach Olędrach przywilej lokacyjny z 6 XII 1787 określał okupne od morgi (równej 300 pr. 2 7 i ½ łokciowych) gotowego gruntu lub łąki, na – 18 złp., a od zarosłej 3 złp., płatne w trzech ratach, do 1789 r.; na szkolnego przeznaczając 4 mr bez opłaty gruntowej i czynszu<sup class="lit-fn"><a href="#n-pl-177">177</a></sup>. Według przywileju lokacyjnego z 1791 r., potwierdzającego i uzupełniajacego równocześnie pierwszy przywilej, na szkołę i cmentarz olędrzy otrzymali 3 mr i drzewo od dworu<sup class="lit-fn"><a href="#n-pl-178">178</a></sup>. W 1791 r. było w nich 6 dymów *samorolnych*<sup class="lit-fn"><a href="#n-pl-179">179</a></sup>, czyli gospodarstw rolniczych.
@@ -2759,12 +2612,10 @@ The data quoted above for the greater part of the Olęder settlements that arose
 <span class="lit-note" id="n-en-183">183</span> APP, Pyzdry. Gr. 115, fol. 536: "Holendry do Zbierska" [the Holendry by Zbiersk] – 18 "self-tilling" hearths.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-88">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-88">S. 88</a></h2>
+<section class="lit-passage" id="p-88" data-page="88">
+<div class="pg" id="p88"><a href="#p88">S. 88</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Liczba i wielkości nadziałów (gospodarstw) w 37 z 58 osad olęderskich założonych w Puszczy Pyzdrskiej, dotyczących ich stanu podczas lokacji, a niekiedy także później, nie dają pełnego statystycznego obrazu ich wielkości w jednym, wspólnym dla nich przekroju czasowym. Jego stworzenie umożliwiają dopiero dane z tabel dymów i podymnego z 1789 r., sporządzone w ramach pierwszego Polsce, a drugiego w Europie spisu ludności, weryfikowanych w 1790 r., oraz z tabel dymów rolniczych z 1791 r. spisanych, w związku z uchwalonym z nich przez sejm podatkiem zsypki zbożowej. Ponieważ są one czasem podawane łącznie dla jednej lub nawet większej liczby osad należących do tych samych dóbr ziemskich, a niekiedy jest nawet ich brak, trzeba ich stan w niektórych osadach określać pośrednio i szacunkowo (uciekając się do innych przekazów źródłowych w postaci informacji z przywilejów lokacyjnych, tabel dymów i podymnego z 1775 r., (z odpowiednimi korektami), lustracji dóbr królewskich z 1789 r. oraz inwentarzy i rewizji dóbr kościelnych z lat 1791-1793. Przy tym tylko dla części interesujących nas tu osad olęderskich położonych w powiatach pyzdrskim i kaliskim zachowały się szczegółowe tabele dymów, pozwalające uchwycić ich strukturę funcjonalno-gospodarczą. Dla powiatu konińskiego trzeba je ustalać pośrednio na podstawie tabeli podymnego z 1789 r. lub tabeli zsypki zbożowej z 1791 r. Zanim jednak przejdziemy do zestawienia liczb dymów w ogóle i dymów rolniczych wszystkich osad olęderskich w Puszczy Pyzdrskiej zaczerpniętych z podanych źródeł lub ustalonych w oparciu o nie szacunkowo, interpretacji ich liczebności i po części wspomnianej struktury, wypada dokonać kilku wyjaśnień.
@@ -2787,12 +2638,10 @@ Second, it should be said that by the Diet's resolution, in accordance with the 
 <span class="lit-note" id="n-en-184">184</span> W. Rusiński, *Struktura osadnictwa...*, p. 59. The notion of the hearth-farm did not always mean the same, however, as is shown by the "village cottages with two or more farmers"; such farms, or rather in this case farmsteads with 2 farmers, were, however, relatively few..
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-89">S. 89</a></h2>
+<section class="lit-passage" id="p-89" data-page="89">
+<div class="pg" id="p89"><a href="#p89">S. 89</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 pozostawiając jej ustalenie w dobrach szlacheckich ich „zwierzchności”, czyli właścicielom. Za uwolnione od zsypki, a więc nierolnicze, miano uznawać tylko te dymy, których posiadacze nie mieli żadnych gruntów, albo mieli „*warzywowe... ogrody*”, tj. zajmowali się wyłącznie warzywnictwem<sup class="lit-fn"><a href="#n-pl-185">185</a></sup>. Zatem przez dymy nierolnicze rozumiano dymy bez gruntów, tylko z ogrodem, a więc rzemieślnicze i ściśle zagrodnicze, a może i komornicze, o ile były one osobnymi chałupami, zamieszkiwanymi przez komorników i komornice – samotnych lub z rodzinami (na co w tym ostatnim przypadku zdają się wskazywać informacje zawarte w tabelach dymów i ludności z 1789 r.).
@@ -2843,12 +2692,10 @@ Tab. 2 Number and structure of the hearths-farms in the Olęder settlements in t
 <span class="lit-note" id="n-en-186">186</span> *Volumina Legum*, Vol. IX, Kraków 1889, pp. 65 and 162; Rybarski, *Skarbowość Polski w dobie rozbiorów* [Poland's finances in the age of the partitions], Kraków 1937, pp. 243-246.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-90">S. 90</a></h2>
+<section class="lit-passage" id="p-90" data-page="90">
+<div class="pg" id="p90"><a href="#p90">S. 90</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -2945,12 +2792,10 @@ Tab. 2 Number and structure of the hearths-farms in the Olęder settlements in t
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-91">S. 91</a></h2>
+<section class="lit-passage" id="p-91" data-page="91">
+<div class="pg" id="p91"><a href="#p91">S. 91</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -3007,12 +2852,10 @@ For 16 of the 58 Olęder settlements Tab. 2 gives detailed data on the functiona
 Sources: APP, Zbiór tabel podatkowych i lustracji [Collection of tax tables and surveys]. APP, Tab. 21. Kalisz (Tp.), fols. 11v, 16, 18v, 19, 20; Tab. 22. Kalisz (Tdl), fols. 27, 130-130v, 162v, 265, 349, 362; Tab. 23. Kalisz (Tdl.), fols. 82v, 162v, 323, 334, 391v, 395v, 500, 506; Tab. 24. Kalisz (Tof. z Todl), fols. 119v, 121v-123; Tab. 25. Kalisz (Tof. z Todl), fol. 63; Tab. 44. Pyzdry (Td), fols. 318v-319, 371v-372, 410v-411; Tab. 45 Pyzdry (Tod), fols. 9, 12, 15v; Kalisz. Gr. 481 (tabddel.p), fol. 222v; Kalisz. Gr. 483 (Tab. del. p.pp), fol. 107; Pyzdry Gr. 115, fols. 528v, 529, 531v, 532-532v, 533v, 534, 535-536, 538-538v, 540-540v, 542-542v, 543-543v, 540, 545v, 549, 549v-550v, 551. Notes: a) "Hollendry Wrąbczyńskie z młynem Białobrzeg" [the Wrąbczyn Hollendry with the mill Białobrzeg]; b) together with the Orlińskie D. and M. Ol., c) "Holędry zwane Borowiec i Huta" [the Holędry called Borowiec and Huta], d) together with the Białobłockie Ol.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-92">S. 92</a></h2>
+<section class="lit-passage" id="p-92" data-page="92">
+<div class="pg" id="p92"><a href="#p92">S. 92</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 pominąc 2 browary i 6 karczem i 2 dymy rzemieślnicze, przeważały zdecydowanie dymy o 1. gospodarzu, występujące we wszystkich 15 olędrach w ogólnej liczbie 636. Dymy o 2 gospodarzach w ogólnej liczbie 37 występowały tylko w 5 osadach, a ogrodowe z gruntem i ogrodem w liczbie 16 w 3 osadach, a bez gruntu i ogrodu w liczbie 2 w 1 osadzie. Niestety dla pozostałych 43 olędrów brak jest danych dotyczących ich struktury. Można jednak przypuszczać, m.in. na podstawie struktury społecznej mieszkańców, że nie tylko w tych 16 osadach, ale i w większości interesujących nas osad olęderskich przeważały dymy–gospodarstwa o jednym gospodarzu, a więc jedno – względnie półwłókowe (kmiece, rolnicze i półkmiece, półrolnicze), a tylko w bardzo małej części występowały w nich mniejsze – o dwóch gospodarzach i zagrodnicze z gruntem i ogrodem a raczej rzadko komornicze.
@@ -3039,12 +2882,10 @@ The settlement charters of the Olęder settlements in the Pyzdry Forest contain,
 <span class="lit-note" id="n-en-188">188</span> Cf. nn. 106 and 65.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-93">S. 93</a></h2>
+<section class="lit-passage" id="p-93" data-page="93">
+<div class="pg" id="p93"><a href="#p93">S. 93</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 założonych na innych obszarach Wielkopolski wiadomo, że ich rozplanowanie było trojakie: 1) przeważnie samorzutne (nieraz narastające stopniowo), 2) zaprojektowane, powstałe od jednego rzutu, z inicjatywy pana feudalnego, albo 3) zastane (jak w przypadku Wrąbczynka). W ramach każdego z tych sposobów zakładania wsi olęderskich, przeważnie odpowiednio do ich form terenowych, uwarunkowanych głównie przez czynniki środowiska geograficznego, występowały trzy typy ich ukształtowania przestrzennego: 1) dostosowana do rzeźby i stosunków wodnych terenu osada nizinna, rzędówka – wieś o zabudowie zwartej, bardziej skupionej (ulicówka regularna) lub luźniejszej (ulicówka nieregularna) i 2) osada luźna, rozproszona (w postaci większych lub mniejszych, nieregularnych skupień zagród, czasem z placem lub stawem) oraz 3) osada mieszana, łącząca pewne elementy pierwszych dwóch typów. Osada skupiona mniej lub bardziej, czyli rzędówka (zwana też rzędówką bagienną) i osada luźna, rozproszona stanowiły w zasadzie dwa nowe typy układu przestrzennego wsi wniesione przez osadnictwo olęderskie w Wielkopolsce i najbardziej w nim rozpowszechnione. Rzędówki – ulicówki o pasach gruntów, w których mieściły się różnego typu użytki rolne (pola, łąki pastwiska i in.), tworzyły w warunkach wielkopolskich jeden, dwa, ale nieraz i trzy proste, zgięte lub łamane rzędy, szeregi zagród (gospodarstw) o różnym usytuowaniu względem siebie (równoległym i prostopadłym) i stopniu ich skupienia oraz różnej długości (przeważnie od 1–1,5 km), znacznie jednak mniejszej od tej, jaką miały w Prusach Królewskich<sup class="lit-fn"><a href="#n-pl-189">189</a></sup>.
@@ -3067,12 +2908,10 @@ The layout of the Olęder settlements (made at the founding on raw root, or take
 <span class="lit-note" id="n-en-189">189</span> W. Rusiński, *Osady tzw. „olędrów”*, pp. 56–57; J. Burszta, *Od osady słowiańskiej do wsi współczesnej* [From the Slavic settlement to the modern village], pp. 108–109, 114–118; the same, *Osadnictwo i kształty wsi* [Settlement and the forms of villages], [in:] *Kultura ludowa Wielkopolski* [The folk culture of Greater Poland], ed. the same, vol. I, Poznań 1960, pp. 31- 105; Z. Chodyła, *Osadnictwo olęderskie w Wielkopolsce (1597-1793)*.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-94">S. 94</a></h2>
+<section class="lit-passage" id="p-94" data-page="94">
+<div class="pg" id="p94"><a href="#p94">S. 94</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Na kształt tych wsi wpływały też rozłogi (układ) pól (gruntów ornych, łąk, pastwisk) i system ich uprawy. Gdy szło o ten ostatni to trójpolówka w olędrach była jednak w zdecydowanie mniejszym stopniu niż we wsiach pańszczyźnianych trójpolówką zbiorową, czyli związaną z tzw. przymusem polnym lub niwowym dla całej wsi, kiedy to każdy z chłopów musiał w danym roku siać na jednym z pól swych gospodarstw, położonym w jednej linii i sąsiadującym z takimi polami innych gospodarstw, określone uprawy (oziminy, jarzyny) lub przeznaczyć to pole na ugór, zgodnie z decyzją całej wiejskiej gromady. W osadach olęderskich zwartych, w rzędówkach regularnych i nieregularnych, ale też reprezentujących inne różne kształty – często, a w rozproszonych, luźnych – powszechnie, stosowano trójpolówkę indywidualną. Wynikało to z przewagi w nich łanowego układu przestrzennego. Przy takim układzie gruntów każdy osadnik miał pole w jednym kawałku (bloku), zwykle na długim pasie gruntu (prostokąt), i uprawiał je według własnego uznania, niezależnie od sąsiadów. Pasy te ułożone były równolegle do siebie i ciągnęły się od środka wsi aż do jej granicy. Cechą charakterystyczną układu łanowego, odróżniającą wsie, w których występował od wsi o układzie niwowym, było jeszcze i to, że każde gospodarstwo miało własną drogę polną, ciągnącą się wzdłuż całego pasa gruntów. Na tworzenie się łanowego układu wielu wsi olęderskich wpływało ich zakładanie na karczunkach leśnych, gdzie właśnie występowało takie położenie i zróżnicowanie glebowe gruntów, lub na tzw. pustkowiach, gdzie zagospodarowanie dokonywało się stopniowo. W tym drugim przypadku osadnictwo najczęściej bowiem zaczynało się od powstania jednego, dwu lub kilku rozproszonych, oddalonych od siebie gospodarstw, które oczywiście nie miały warunków na stosowanie trójpolówki zbiorowej<sup class="lit-fn"><a href="#n-pl-190">190</a></sup>.
@@ -3095,12 +2934,10 @@ The layout of the Olęder villages, especially their internal layout, was affect
 <span class="lit-note" id="n-en-191">191</span> W. Rusiński, *Osady tzw. „olędrów”*, pp. 57–58; A. Pelczyk, *Poolęderskie budownictwo mieszkalne na obszarze Równiny Nowotomyskiej* [Post-Olęder dwelling houses in the area of the Nowy Tomyśl Plain], "Studia Lednickie", IV, Poznań – Lednica 1996, pp. 357–383.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-95">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-95">S. 95</a></h2>
+<section class="lit-passage" id="p-95" data-page="95">
+<div class="pg" id="p95"><a href="#p95">S. 95</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Na początku karczunku gruntów leśnych i zarosłych mieszkańcy osad olęderskich stawiali tymczasowe budy do zamieszkania, a następnie jeszcze w okresie wolnizny byli zobowiązani do wzniesienia chałup. O budach wspominają przywileje lokacyjne i inne źródła dla Cekowskich St. Ol., Przespolewskich Ol. i Świdlów Nowej Kolonii, Trąbczyńskich St. Ol.<sup class="lit-fn"><a href="#n-pl-192">192</a></sup>. W przywilejach dla niektórych osad stwierdzano, że osadnicy budynki powinni wystawić przed wyjściem wolnych lat (Gadowskie St. Ol.), w określonym czasie dwóch lub czterech lat (Białobłockie Ol. Orlińskie D. i M., Lubieńskie Ol.), porządnie (Cekowskie Nw. Ol.), jak najprędzej, porządnie i „pod linią” (czyli z zachowaniem układu ulicówki), w pierwszym przypadku pod nadzorem sołtysa i ławnika (Grądy St. i Nw. Ol. ), w określonym czasie kilku lat pod groźbą kontroli i kary pieniężnej (Grądy St. i Nw. Ol., Borowieckie St. i Nw. i Konarskie Ol.<sup class="lit-fn"><a href="#n-pl-193">193</a></sup>). Takie nakazy wynikały z ociągania się lub lenistwa, albo też ograniczonych możliwości inwestycyjnych niektórych olędrów, co potwierdza przypadek Trąbczyńskich St. i Nw. Ol.<sup class="lit-fn"><a href="#n-pl-194">194</a></sup>. Powierzchnia gruntu przeznaczonego pod siedlisko, czyli zabudowę gospodarstwa została określona tylko raz w przywileju dla Mycielińskich Ol. na 1 morgę (magdeburską?)<sup class="lit-fn"><a href="#n-pl-195">195</a></sup>.
@@ -3131,15 +2968,13 @@ In the buildings and layout of the Olęder villages in the Pyzdry Forest, most o
 <span class="lit-note" id="n-en-195">195</span> Cf. nn. 111–112.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-96">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-96">S. 96</a></h2>
+<section class="lit-passage" id="p-96" data-page="96">
+<div class="pg" id="p96"><a href="#p96">S. 96</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 3. Zaludnienie wsi olęderskich w Puszczy Pyzdrskiej i jego struktura demograficzna, społeczno-zawodowa, wyznaniowa, etniczna oraz pochodzenie osadników
+## 3. Zaludnienie wsi olęderskich w Puszczy Pyzdrskiej i jego struktura demograficzna, społeczno-zawodowa, wyznaniowa, etniczna oraz pochodzenie osadników
 
 Odpowiednio do różnic w wielkości 58 wsi olęderskich w Puszczy Pyzdrskiej pod względem liczby dymów w latach 1789-1791, także ich zaludnienie było w tym przekroju czasowym zróżnicowane. Tylko w odniesieniu do części z nich znamy z przywilejów lokacyjnych lub innych źródeł liczby osadników gospodarzy („głów” rodzin) w okresie ich zakładania lub też w latach następnych. Dla większości z nich (50) można je wraz strukturą ustalić w jednym przekroju czasowym w oparciu o dane z tabel szczegółowych ludności z 1789 r. i z aktu wizytacji dekanatu konińskiego z lat 1790-1791, a dla pozostałych 8 osad (1 w powiecie kaliskim, a 7 w powiecie konińskim) w przybliżeniu, mnożąc określone wcześniej szacunkowo liczby ich dymów przez ustalony przez nas wskaźnik zaludnienia 6,05 osób/1 dym<sup class="lit-fn"><a href="#n-pl-196">196</a></sup>.
 
@@ -3150,7 +2985,7 @@ Zaludnienie osad olęderskich w Puszczy Pyzdrskiej w latach 1789-1791 w ramach t
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 3. The population of the Olęder villages in the Pyzdry Forest and its demographic, social and occupational, confessional and ethnic structure, and the origin of the settlers
+## 3. The population of the Olęder villages in the Pyzdry Forest and its demographic, social and occupational, confessional and ethnic structure, and the origin of the settlers
 
 In keeping with the differences in the size of the 58 Olęder villages in the Pyzdry Forest by the number of hearths in the years 1789-1791, their population too differed at this time. Only for some of them do we know, from foundation charters or other sources, the numbers of the settler farmers (the "heads" of families) at the time of their founding or in the following years. For most of them (50) these numbers, with their structure, can be established at one time on the basis of the data of the detailed tables of population of 1789 and the record of the visitation of the deanery of Konin of 1790-1791, and for the remaining 8 settlements (1 in the district of Kalisz and 7 in the district of Konin) approximately, by multiplying the previously estimated numbers of their hearths by the population index we have established, 6.05 persons per hearth<sup class="lit-fn"><a href="#n-en-196">196</a></sup>.
 
@@ -3159,12 +2994,10 @@ The population of the Olęder settlements in the Pyzdry Forest in the years 1789
 <span class="lit-note" id="n-en-196">196</span> This index is lower than the average of 6.37 persons per rural hearth that we established in the article: *Nowy szacunek zaludnienia Wielkopolski i wskaźników jego struktury u schyłku XVIII wieku* [A new estimate of the population of Greater Poland and of the indices of its structure at the end of the eighteenth century]. [In:] *Przemiany demograficzne Europy Środkowej w czasach nowożytnych. Zielonogórskie spotkania z demografią 1.* Ed. H. Kurowska, University of Zielona Góra, Zielona Góra 2010, pp. 87– 129. It has been lowered because the natural increase in the Olęder settlements was smaller than in other rural settlements. See W. Rusiński, *Osady tzw. olędrów w dawnym woj. poznańskim*, and Z. Chodyła, *Osadnictwo olęderskie w Wielkopolsce (1597-1793).*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-97">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-97">S. 97</a></h2>
+<section class="lit-passage" id="p-97" data-page="97">
+<div class="pg" id="p97"><a href="#p97">S. 97</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wizytacji dekanatu konińskiego z 1792 r., zaś dla 8 pozostałych tylko stan ogólny, określony szacunkowo.
@@ -3227,12 +3060,10 @@ Tab. 3a. Population of the Olęder settlements in the Pyzdry Forest, in the dist
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-98">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-98">S. 98</a></h2>
+<section class="lit-passage" id="p-98" data-page="98">
+<div class="pg" id="p98"><a href="#p98">S. 98</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -3289,12 +3120,10 @@ The number and structure of the inhabitants of the Olęder settlements within th
 Sources: APP, Zbiór tabel podatkowych i lustracji. Tab. 46. Pyzdry (Tl.), fols. 376, 436v-437, 436v-437, 478v-479; Diocesan Archive in Włocławek. Archive of the Archbishops of Gniezno. Wiz. 85: Records of the visitation of the deanery of Konin 1790-1791, call no. 85, fols. 292 (Wrąbczynek, Wrąbczyn[kowskie] Ol. in the parish of Zagórów).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-99">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-99">S. 99</a></h2>
+<section class="lit-passage" id="p-99" data-page="99">
+<div class="pg" id="p99"><a href="#p99">S. 99</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Tab. 3 b. Zaludnienie osad olęderskich w Puszczy Pyzdrskiej, w powiecie kaliskim, w latach 1789-1791
@@ -3373,12 +3202,10 @@ Tab. 3b. Population of the Olęder settlements in the Pyzdry Forest, in the dist
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-100">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-100">S. 100</a></h2>
+<section class="lit-passage" id="p-100" data-page="100">
+<div class="pg" id="p100"><a href="#p100">S. 100</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -3465,12 +3292,10 @@ Tab. 3b. Population of the Olęder settlements in the Pyzdry Forest, in the dist
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-101">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-101">S. 101</a></h2>
+<section class="lit-passage" id="p-101" data-page="101">
+<div class="pg" id="p101"><a href="#p101">S. 101</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -3555,12 +3380,10 @@ Tab. 3b. Population of the Olęder settlements in the Pyzdry Forest, in the dist
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-102">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-102">S. 102</a></h2>
+<section class="lit-passage" id="p-102" data-page="102">
+<div class="pg" id="p102"><a href="#p102">S. 102</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><tbody>  
@@ -3631,12 +3454,10 @@ The number and demographic structure of the inhabitants of the Olęder settlemen
 Sources: APP, Zbiór tabel podatkowych i lustracji. Tab. 21 (Tp.). Kalisz, fol. 41; Tab. 22. Kalisz (Tdl), fols. 26v, 131-131v, 132, 260, 264, 348, 361; Tab. 23. Kalisz (Tdl.), fols. 82v, 163, 324, 333v, 394, 411v, 500, 504; Tab. 24. Kalisz (Tof z Todl), fols. 119v, 121v-123; Tab. 25. Kalisz (Tof z Todl), fols. 61, 63, 63v and 64.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-103">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-103">S. 103</a></h2>
+<section class="lit-passage" id="p-103" data-page="103">
+<div class="pg" id="p103"><a href="#p103">S. 103</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Tab. 3c. Zaludnienie osad olęderskich w Puszczy Pyzdrskiej, w powiecie konińskim, w latach 1789–1791
@@ -3709,12 +3530,10 @@ Tab. 3c. Population of the Olęder settlements in the Pyzdry Forest, in the dist
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-104">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-104">S. 104</a></h2>
+<section class="lit-passage" id="p-104" data-page="104">
+<div class="pg" id="p104"><a href="#p104">S. 104</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Z treści Tab. 3c wynika, że ludność 20 spośród 28 osad olęderskich w powiecie konińskim w ogólnej liczbie 1337 osób, pod względem demograficznym, składała się z 654 osób płci męskiej i 683 osób płci żeńskiej. Dorośli stanowili 782 osoby, a dzieci i młodzież (określani jako chłopcy i dziewczęta bez podziału według wieku) 482 osoby. Natomiast pod względem składu wyznaniowego 1337 mieszkańców 20 z 28 osad przedstawiał się następująco: osad z ludnością wyłącznie dysydencką w łącznej liczbie 385 (luterańską i być może w niewielkim stopniu ewangelicko-reformowaną) było 6, z ludnością katolicką w ogólnej liczbie 210 było 4, zaś osad z ludnością mieszaną, katolicką i ewangelicką, prawie wyłącznie luterańską, odpowiednio w łącznych liczbach 365 katolików i 377 dysydentów było 10. Zatem we wszystkich tych osadach zamieszkiwałoby ogółem 575 katolików i 762 dysydentów, czyli ewangelików – luteranów i może w przypadku dwóch – trzech z tych osad także reformowanych. Ci pierwsi stanowiliby więc 43,01% a drudzy 56,99% ich całej populacji. W pozostałych 8 osadach powiatu konińskiego, dla których nie jest znany ze źródeł ich skład demograficzny i wyznaniowy zamieszkiwały, według szacunkowych obliczeń, dokonanych podobnie jak dla takich osad w powiatach pyzdrskim i kaliskim, 522 osoby. W sumie we wszystkich 28 olędrach tego powiatu mieszkałoby 1859 osób.
@@ -3733,12 +3552,10 @@ Summing up the results of the calculations given in Tab. 3a, b, c, it must be sa
 Sources: Diocesan Archive in Włocławek. Archive of the Archbishops of Gniezno. Wiz. 85: Records of the visitation of the deanery of Konin 1790-1791, call no. 85, fols. 292 (Białobłockie Ol., Borowieckie St. and Nw. Ol., Grądy St. and Nw. Ol., Imielno, Huta St. [-Grojeckie Ol.], Huta St. [-Zagórowskie Ol.], Imielno, Kowalewskie Ol., Łazy, Myszakówko, Orlińskie M. and D. Ol., Trąbczyńskie Luźne St. and Nw. Ol.). Notes: a) together with the Białobłockie Ol.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-105">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-105">S. 105</a></h2>
+<section class="lit-passage" id="p-105" data-page="105">
+<div class="pg" id="p105"><a href="#p105">S. 105</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 89 „białogłowy”, czyli kobiety, a 126 córki. W 22 z 25 olędrów powiatu kaliskiego z ogólną populacją 1368 osób 309 stanowili mężczyźni, następnie 304 synowie do lat 15, następnie 78 synowie od lat 15, dalej 282 kobiety, a 395 – córki. Zatem w 25 osadach olęderskich powiatów pyzdrskiego i kaliskiego z ogólnej liczby 1817 osób ich ludności 397 osób stanowili mężczyźni, 412 osoby synowie do lat 15, 116 synowie od lat 15, 371 kobiety, a 521 córki. Wśród tych pięciu kategorii składu demograficznego ludności niewątpliwie zaniżona była kategoria synów od lat 15, zapewne ze względu na zagrożenie poborem do wojska. Być może część z nich zaliczono jeszcze do synów do lat 15, których liczba wydaje się trochę za wysoka, zwłaszcza przy występującej dawniej dużej śmiertelności dzieci do lat 5. W nieco uproszczonej formie (bez podziału chłopców na kategorie wiekowe) uchwytny jest skład demograficzny populacji 20 z 28 osad olęderskich w powiecie konińskim, który według spisów z lat 1790-1791 ujmują wspomniane już wyżej akta wizytacji parafii dekanatu konińskiego. W ramach tych spisów dzielono ludność osad na cztery kategorie: mężczyźni, kobiety, chłopcy i dziewczęta. Dodając do siebie zawarte w tym źródle dane odnoszące się do interesujących nas 20 osad olęderskich, można stwierdzić, że z ogólnej liczby 1337 mieszkańców (w tym wypadku obejmujących chyba raczej tylko gospodarzy olędrów wraz z członkami ich rodzin, z pominięciem czeladzi i służących i jeszcze innych kategorii ludności bezrolnej) mężczyźni stanowili – 427 osób, kobiety – 428, chłopcy – 227, dziewczęta – 255. Sumując powyższe informacje dotyczące stosunku liczbowego czterech kategorii demograficznych ludności 45 osad olęderskich w trzech powiatach: pyzdrskim, konińskim i kaliskim, z pominięciem różnic wiekowych między chłopcami, można stwierdzić, że z 3124 ich mieszkańców, dla których znany jest taki podział – 824 osób to mężczyźni, 598 – kobiety, 956 – chłopcy, a 756 córki (dziewczęta i panny w różnym wieku).
@@ -3757,12 +3574,10 @@ While the size of the population of each, and of all, of the 58 Olęder villages
 As to the confessional and ethnic composition of the inhabitants of the 58 Olęder settlements founded in the years 1746-1791 in the Pyzdry Forest, it must be said that it was
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-106">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-106">S. 106</a></h2>
+<section class="lit-passage" id="p-106" data-page="106">
+<div class="pg" id="p106"><a href="#p106">S. 106</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 zróżnicowany. Wynika to z przytoczonych już wyżej w Tab. 3 a i 3 c odpowiednich danych statystycznych dla 22 wsi olęderskich (2 w powiecie pyzdrskim i 20 w powiecie konińskim) zawartych w aktach wizytacji kościelnej dekanatu konińskiego z lat 1790-1791, a także z bezpośrednich i pośrednich informacji odnoszących się do tej kwestii zawartych w przywilejach lokacyjnych tych osad i innych źródłach ich dotyczących, zwłaszcza takich, jak wizje, inwentarze i rewizje, a niekiedy także i tabele spisu ludności z 1789 r., które po części podano już wyżej, a po części zostaną przedstawione poniżej.
@@ -3809,12 +3624,10 @@ In the Lisewskie Ol. (Olsz), in the district of Pyzdry, founded after 1751 and b
 <span class="lit-note" id="n-en-202">202</span> ADWł. Parish registers of Szymanowice, 1756-1758, pp. 163, 166, 182, 183, 185, 186, 298.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-107">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-107">S. 107</a></h2>
+<section class="lit-passage" id="p-107" data-page="107">
+<div class="pg" id="p107"><a href="#p107">S. 107</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 i Marii Dąbrowskich, później w 1793 r. zostali w nich odnotowani Feliks i Mara Koźlakowie, a w 1794 r. Józef i Maria Broniarczykowie<sup class="lit-fn"><a href="#n-pl-203">203</a></sup>. Brzmienie nazwisk zdaje się wskazywać, że ludność tej osady była mieszana polsko-niemiecka, przy czym ta druga, jako pozostająca w mniejszości uległa dość szybko, sądząc z przekształcenia nazwiska (Pankow na Pankowski) zasymilowaniu.
@@ -3861,12 +3674,10 @@ In the royal Cekowskie St. Ol. in the district of Kalisz, 9 settlers were settle
 <span class="lit-note" id="n-en-207">207</span> Cf. n. 58; *Królewszczyzny kaliskie*, p. 171; ; Kal. Gr. 481 (1791), fol. 808 (obl. 1 VI 1791).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-108">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-108">S. 108</a></h2>
+<section class="lit-passage" id="p-108" data-page="108">
+<div class="pg" id="p108"><a href="#p108">S. 108</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W sąsiadujących z nimi, a powstałych w tej samej królewskiej dzierżawie Ceków w 1774 i 1780 r.: Cekowskich Nowych Ol. albo Prażuchach osiadło, według kontraktu osadniczego, co najmniej 8 kolonistów luteranów, o nazwiskach niemieckich i polskich, mianowicie: Wojciech Pruchno, Krzysztof Stefan (sołtys), Gotfryd Reszka, Krystian Kurc, Krystian Heinc, Frydrych Heinc, Gotfryd Szwander, Jan Paszkowski. Później w latach 1782, 1785 r. i 1787 zostali osiedleni: Kups, Hertel, Puntzler, Krzysztof Kowal, Gajzler i Grynberg<sup class="lit-fn"><a href="#n-pl-208">208</a></sup>.
@@ -3941,12 +3752,10 @@ In the Kosmowskie or Szadokierskie Olędry, which arose in the years 1775-1784 i
 <span class="lit-note" id="n-en-215">215</span> Cf. n. 78.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-109">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-109">S. 109</a></h2>
+<section class="lit-passage" id="p-109" data-page="109">
+<div class="pg" id="p109"><a href="#p109">S. 109</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 *...którzy swoim i innych imieniem zawierają kontrakt...* (do których dosiedlili się później uczciwi Antoni Morawski i Bartłomiej Masłowski, przedtem zamieszkali w dobrach turskich), którzy byli jednak ewangelikami – luteranami<sup class="lit-fn"><a href="#n-pl-216">216</a></sup>.
@@ -3997,12 +3806,10 @@ The settlers settled in 1778 in the Pyzdrskie Olędry were Poles and Catholics, 
 <span class="lit-note" id="n-en-220">220</span> Cf. n. 86.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-110">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-110">S. 110</a></h2>
+<section class="lit-passage" id="p-110" data-page="110">
+<div class="pg" id="p110"><a href="#p110">S. 110</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Baszcz, Bończyk, Baczkiewicz, Baranowski, Broniarczyk, Depczyński, Drzewiecki, Frankowski, Galeski, Konieczny, Kotecki, Kruszyński, Łyszkiewicz, Modrzejewski, Nowiński, Rodowski, Sobierajski, Stencel<sup class="lit-fn"><a href="#n-pl-221">221</a></sup>.
@@ -4069,12 +3876,10 @@ In the settlements set up in 1783, Dębniałki or the Bolimowskie/Brudzewskie Ol
 <span class="lit-note" id="n-en-228">228</span> Cf. n. 104.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-111">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-111">S. 111</a></h2>
+<section class="lit-passage" id="p-111" data-page="111">
+<div class="pg" id="p111"><a href="#p111">S. 111</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W powstałych w 1783 i przed 1788 r., w powiecie kaliskim, Oborskich Starych albo Wronowie i Nowych Ol. zamieszkiwali także lub wyłącznie ewangelicy, Niemcy<sup class="lit-fn"><a href="#n-pl-229">229</a></sup>.
@@ -4137,12 +3942,10 @@ In the Stropieszyńskie, or Radzany and Gostynie, Olędry, in the district of Ka
 <span class="lit-note" id="n-en-235">235</span> Cf. nn. 113-114.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-112">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-112">S. 112</a></h2>
+<section class="lit-passage" id="p-112" data-page="112">
+<div class="pg" id="p112"><a href="#p112">S. 112</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Natomiast w utworzonych przed 1788-1789 r. Ciążeńskich Olędrach, w powiecie pyzdrskim, w kluczu ciążeńskim dóbr stołowych biskupstwa poznańskiego, według rewizji klucza ciążeńskiego z 1793 r., zamieszkiwało 4 olędrów (3 o nazwiskach polskich: Jan Macieje[w]ski, Mateusz Czajka, Marcin Ławicki i 1 o nazwisku niemieckim: Augustyn Maytler) Polaków, katolików<sup class="lit-fn"><a href="#n-pl-236">236</a></sup>.
@@ -4185,12 +3988,10 @@ For the localities from which the Olęder settlers came are, for the period that
 <span class="lit-note" id="n-en-239">239</span> Cf. n. 121.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-113">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-113">S. 113</a></h2>
+<section class="lit-passage" id="p-113" data-page="113">
+<div class="pg" id="p113"><a href="#p113">S. 113</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 i Nowego Tomyśla)<sup class="lit-fn"><a href="#n-pl-240">240</a></sup>. Z tych terenów, głównie z powiatów województwa kaliskiego (z miast i wsi) pochodzili osadnicy katolicy i Polacy, zamieszkali wyłącznie lub po części w kilkunastu osadach, zwłaszcza stanowiących własność kościelną, ale w kilku przypadkach także i szlachecką<sup class="lit-fn"><a href="#n-pl-241">241</a></sup>. Wydaje się, że już w pierwszych dziesięcioleciach po założeniu osad, zmieniał się, aczkolwiek w bardzo ograniczonym zakresie, skład wyznaniowy i etniczny wsi, wskutek przemieszczania się ich mieszkańców ze względu m. in. na wolność osobistą i sprzedaże gruntów oraz związki małżeńskie z mieszkankami/mieszkańcami sąsiednich wsi, zwłaszcza czynszowych lub olęderskich. Były one zamieszkałe, co najmniej w połowie, w całości lub częściowo, przez osadników Niemców, protestantów, a następnie aż do 1945 przez ich potomków, którzy niekiedy (zwłaszcza w osadach mieszanych wyznaniowo i etnicznie) przyjęli katolicyzm i z czasem spolonizowali się.
@@ -4225,15 +4026,13 @@ In three Olęder settlements, besides peasants, petty nobles also lived, though 
 <span class="lit-note" id="n-en-244">244</span> Cf. n. 104; APP, Kalisz. Gr. 482 (1791), fols. 177-178 and 172-172v; (act of *komplanacja* (settlement) at the manor of Przespolew, 4 IV 1791); Tab. 22, Kalisz (Table of hearths and population of 1789), fol. 132v; Tab. 2 (Table of the offering of 10 (20) gr. of 1789), fol. 21; APP, Kalisz. Gr. 486 (1792), fols. 54-58v (decree of the court of the assembly of 1792, obl. 6 VII 1792).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-114">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-114">S. 114</a></h2>
+<section class="lit-passage" id="p-114" data-page="114">
+<div class="pg" id="p114"><a href="#p114">S. 114</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 4. Stan prawny i organizacja administracyjno-sądowa osad olęderskich w Puszczy Pyzdrskiej
+## 4. Stan prawny i organizacja administracyjno-sądowa osad olęderskich w Puszczy Pyzdrskiej
 
 W osadach olęderskich założonych w Puszczy Pyzdrskiej, stosunek prawny pierwszych osadników i późniejszych mieszkańców osad olęderskich do pana feudalnego (fundatora osady i jego następców), zasady wzajemnego współżycia olędrów w osadach, organizację i funkcje samorządu, wreszcie ich zobowiązania wobec instytucji i osób trzecich (m. in. państwa i kościoła) określały przywileje lokacyjne osad, zwane też prawami, konsensami, listami. Były to formalnie akty jednostronne, wystawione i podpisane przez panów – fundatorów osad, a faktycznie umowy zawierane między nimi a zasadźcami działającym w imieniu całych gmin, jako ich przedstawicielami lub przeważnie z ogółem osadników. Nieraz mogły mieć też charakter ustny lub pisemny, ale wstępny, albo były indywidualne i dopiero z czasem zastępowano je pisemnymi dokumentami końcowymi, wspólnymi dla całej gminy<sup class="lit-fn"><a href="#n-pl-245">245</a></sup>. Tak było w Wielołęce, Konarach, Lubieńskich Ol., Przespolewskich Ol., Wrąbczynku i Wrąbczynkowskich Ol., Gadowskich St. i Nw., Dzierzbińskich-Zdanowcu i Zamętach Ol., gdzie osadnicy osiadający stopniowo uzyskiwali najpierw indywidualne kontrakty określające okresy ich wolnizny, albo jak w Mycielińskich St. i Nw. Ol., przywileje wstępne<sup class="lit-fn"><a href="#n-pl-246">246</a></sup>, które zastępowano dopiero później przywilejami (umowami) zbiorowymi o charakterze ostatecznym. Za wystawienie im przywileju zbiorowego gmina olęderska powinna zapłacić; w przywileju lokacyjnym dla Cekowskich St. Ol. z 1768 stwierdzono, że osadnicy „*na kontrakt pokładnego deklarują się dać po taleru bitym, na to już dali czerwony złoty jeden*”<sup class="lit-fn"><a href="#n-pl-247">247</a></sup>.
 
@@ -4250,7 +4049,7 @@ Olędrzy byli, w odróżnieniu od chłopów pańszczyźnianych, zawsze osobiści
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 4. The legal status and the administrative and judicial organisation of the Olęder settlements in the Pyzdry Forest
+## 4. The legal status and the administrative and judicial organisation of the Olęder settlements in the Pyzdry Forest
 
 In the Olęder settlements founded in the Pyzdry Forest, the legal relation of the first settlers and of the later inhabitants of the Olęder settlements to the feudal lord (the founder of the settlement and his successors), the rules of the Olęders' life together in the settlements, the organisation and functions of their self-government, and finally their obligations to institutions and third persons (among them the state and the Church) were set by the foundation charters of the settlements, also called laws (*prawa*), consents (*konsensy*) and letters (*listy*). Formally they were unilateral acts, issued and signed by the lords, the founders of the settlements; in fact they were agreements made between them and the locators acting on behalf of whole communes as their representatives, or, mostly, with the settlers as a body. Sometimes they could also be oral, or written but preliminary, or individual, and only in time were they replaced by final written documents common to the whole commune<sup class="lit-fn"><a href="#n-en-245">245</a></sup>. So it was in Wielołęka, Konary, the Lubieńskie Ol., the Przespolewskie Ol., Wrąbczynek and the Wrąbczynkowskie Ol., the Gadowskie St. and Nw., and the Dzierzbińskie-Zdanowiec and Zamęty Ol., where the settlers, settling gradually, first obtained individual contracts fixing their free years, or, as in the Mycielińskie St. and Nw. Ol., preliminary charters<sup class="lit-fn"><a href="#n-en-246">246</a></sup>, which were replaced only later by collective charters (agreements) of a final character. The Olęder commune had to pay for the issue of a collective charter; the foundation charter for the Cekowskie St. Ol. of 1768 states that the settlers "*declare they will give for the contract a minted thaler each, and have already given one red złoty towards it*"<sup class="lit-fn"><a href="#n-en-247">247</a></sup>.
 
@@ -4265,12 +4064,10 @@ The Olęders, unlike the peasants owing labour service, were always personally f
 <span class="lit-note" id="n-en-248">248</span> Cf. n. 86.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-115">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-115">S. 115</a></h2>
+<section class="lit-passage" id="p-115" data-page="115">
+<div class="pg" id="p115"><a href="#p115">S. 115</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wolni osobiście wskazuje również pośrednio określanie ich jako *uczciwych* w przywilejach lokacyjnych i innych aktach dla: Pyzdrskich Ol., Białobłockich Ol., Gadowskich St. i Nw. Ol. i Lubieńskich Ol., Cekowskich Nw. Ol., Kosmowskich Ol., Plewińskich Nw. Ol., Stropieszyńskich albo Radzanach i Gostyniach Ol.<sup class="lit-fn"><a href="#n-pl-249">249</a></sup>
@@ -4297,12 +4094,10 @@ The Olęders' subjection as to the land showed itself in their rights in rem to 
 <span class="lit-note" id="n-en-251">251</span> Cf. nn. 58, 111-112, 113-114, 95.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-116">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-116">S. 116</a></h2>
+<section class="lit-passage" id="p-116" data-page="116">
+<div class="pg" id="p116"><a href="#p116">S. 116</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Zgodnie z ustawą z 1775 r. przywileje emfiteutyczne powinny być wystawiane na papierze stemplowym z opłatą skarbową 1 gr. W przypadku niedopełnienia tego warunku ważność urzędowa przywileju mogła być prawnie kwestionowana i to nawet przez samego wystawcę. Taka sytuacja miała miejsce w Pyzdrskich Ol. i stała się przyczyną dłuższego sporu sądowego między ich mieszkańcami a magistratem miasta Pyzdry, który być może celowo wydał osadnikom przywilej na papierze zwykłym<sup class="lit-fn"><a href="#n-pl-252">252</a></sup>.
@@ -4325,12 +4120,10 @@ Be that as it may, the ownership of the land assigned to the Olęders was not fu
 <span class="lit-note" id="n-en-253">253</span> W. Rusiński, *Osady tzw „ olędrów”*, p. 44.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-117">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-117">S. 117</a></h2>
+<section class="lit-passage" id="p-117" data-page="117">
+<div class="pg" id="p117"><a href="#p117">S. 117</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 przy czym sołtys z ławnikami był odpowiedzialny za niepozostawienie gruntu przez wyprowadzającego się gospodarza-następcy), Dzierzbińskich – Zamętów i Zdanowca Ol., Kosmowskich Ol. (kto by się chciał wyprowadzić ma osadzić na swym gospodarstwiem innego olędra za wiedzą sołtysa i ławników, *tudzież całego gminu*), Plewińskich Nw. Ol. (wyprowadzający się ma osadzić na gospodarstwie innego olędra za wiedzą sołtysa i ławników i *całego gminu*, inaczej pozostali będą za niego odpowiadać), Wierzchów Ol. (wolność sprzedaży gospodarstw za powiadomieniem dworu) i Zbierskich Ol<sup class="lit-fn"><a href="#n-pl-254">254</a></sup>.
@@ -4381,12 +4174,10 @@ The law in rem also included, as confirmed in the charter: 1) rights of use on t
 <span class="lit-note" id="n-en-259">259</span> Cf. n. 113.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-118">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-118">S. 118</a></h2>
+<section class="lit-passage" id="p-118" data-page="118">
+<div class="pg" id="p118"><a href="#p118">S. 118</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 gospodarki hodowlanej), z których olędrzy ciągnęli zyski stanowiące ważne uzupełnienie dochodów czerpanych z gospodarstw, 2) niestałą pomoc gospodarczą pana, 3) monopole dworskie.
@@ -4441,12 +4232,10 @@ The existence of a sołtys, and often also of assessors, is clearly confirmed in
 <span class="lit-note" id="n-en-266">266</span> Cf. n. 86.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-119">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-119">S. 119</a></h2>
+<section class="lit-passage" id="p-119" data-page="119">
+<div class="pg" id="p119"><a href="#p119">S. 119</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 (sołtys i ławnik), Wielołęce (sołtys i ławnicy); w powiecie kaliskim w: Cekowskich St. Ol. (gdzie sołtys został określony jako wójt) i Nw. Ol. (sołtys i ławnicy), Dzierzbińskich – Zamętach i Zdanowcu Olędrach (gdzie w każdej osadzie osobni sołtysi i ławnicy), Kosmowskich albo Szadokierskich Ol. (sołtys i ławnicy), Stropieszyńskich albo Radzanach i Gostyniach Ol. (sołtys i ławnicy), Wierzchach Ol. (sołtys) i Zbierskich Ol. (sołtys)<sup class="lit-fn"><a href="#n-pl-267">267</a></sup>.
@@ -4497,12 +4286,10 @@ As the commune court, the sołtys and the assessors were to keep internal peace 
 <span class="lit-note" id="n-en-272">272</span> Cf. nn. 82, 86 and 72.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-120">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-120">S. 120</a></h2>
+<section class="lit-passage" id="p-120" data-page="120">
+<div class="pg" id="p120"><a href="#p120">S. 120</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 (zebranie) gminne, samo lub w porozumieniu z panem, regulujące wewnętrzny ustrój wsi olęderskich. Taki, bardzo obszerny (liczący 41 punktów) wilkierz, spisany w języku niemieckim, niedatowany, ale pochodzący najpewniej jeszcze sprzed 1793 r., zachował się dla Wielołęki Ol. Ze względu na ograniczoną objętość tego opracowania nie sposób dokładnie omówić treść tego aktu. Warto jednak stwierdzić, że reguluje on m.in. takie sprawy, jak: rola samorządu gminnego w zapewnieniu zgodnego współżycia sąsiedzkiego, porządku i spokoju we wsi, m.in. przez kontrolę ruchu osób przybywających do niej z zewnątrz, organizacja i funkcjonowanie sądu gminnego, zachowanie i pilnowanie uczciwości (także poprzez nakładanie kar); określał zasady handlu bydłem, końmi i innymi towarami, pomocy sąsiedzkiej przy odbudowie budynków po pożarach, warunki zwrotu zajętych w szkodzie zwierząt hodowlanych sąsiadów, pomoc wdowom i osobom starszym, liczącym ponad 70 lat, udział mieszkańców wsi w ufundowaniu i utrzymaniu kościoła i szkoły po upływie okresu wolnizny<sup class="lit-fn"><a href="#n-pl-273">273</a></sup>. O wilkierzu wspominają też przywileje lokacyjne dla Zbierskich Ol. i Dzierzbińskich – Zamętów i Zdanowca Ol. W tym pierwszym odnośnie tego aktu stwierdza się: *Prawo zaś swoje względem dobrego się sprawowania, jakie podadzą, alias wilkier, takim sądzeni być mają u sołtysa, od którego ukrzywdzonemu apelacja do dworu iść ma*<sup class="lit-fn"><a href="#n-pl-274">274</a></sup>. Natomiast w drugim zawarta jest o nim następująca informacja: *Podaje się im wilkir, który do przywileju, a przywilej do wilkira należeć będzie, ten jest jednak w wilkirze najpryncypalniejszy* [najpierwszy] *punkt, aby kiedy będzie tego potrzeba z bronią jaką tylko mieć mogą porządna na potrzebę gwałtowną, to jest gdyby nieprzyjaciel wpaść miał do obrony z zupełnym sercem gotowi byli, jako też do obrony [od] ognia, gdyby się bór jakim trefunkiem zapalić miał*<sup class="lit-fn"><a href="#n-pl-275">275</a></sup>.
@@ -4545,12 +4332,10 @@ The lords also guaranteed the Olęders their protection, and promised them and t
 <span class="lit-note" id="n-en-278">278</span> W. Rusiński, *Osady, tzw. „olędrów”*, pp. 42-43; Z. Chodyła, *Osadnictwo olęderskie w Wielkopolsce (1597-1793).*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-121">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-121">S. 121</a></h2>
+<section class="lit-passage" id="p-121" data-page="121">
+<div class="pg" id="p121"><a href="#p121">S. 121</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Spośród członków samorządu główny ciężar obowiązków administracyjnych spoczywał na sołtysie. Był on przede wszystkim zobowiązany dopilnować porządku i gospodarności w gminie, aby cała gmina punktualnie i w całości wypełniała powinności dworskie – czynsze, robocizny i opłaty na rzecz dworu, Kościoła i podatki do skarbu państwa. Do niego i ławników należało ściąganie tych świadczeń (odnotowane dla Stropieszyńskich albo Gostynie i Radzany Ol.). Ponieważ za świadczenia dworskie gmina odpowiadała zazwyczaj solidarnie samorząd gminny zobowiązany był usunąć źle gospodarującego olędra i obsadzenia gospodarstwa innym (Cekowskie Nw. Ol., Plewińskie St. i Nw. Ol.). Zapewne też sołtys przy poparciu pańskim dokonywał egzekucji wyroków zapadłych w sądzie gminnym<sup class="lit-fn"><a href="#n-pl-279">279</a></sup>.
@@ -4581,12 +4366,10 @@ Perhaps some of the Olęder villages or communes founded in the Pyzdry Forest ha
 <span class="lit-note" id="n-en-281">281</span> APP. A. m. Pyzdry I/63: [Court book of the sołtys of the village of Holendry belonging to the town of Pyzdry] of 1785-1809 and 1827-1869, 24 fols.; AAB 803: Village book of the Dzierzbińskie Ol., with transactions of purchase and sale, registers of the rents paid and the labour done, and of the fines imposed for various offences, 1792-1913.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-122">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-122">S. 122</a></h2>
+<section class="lit-passage" id="p-122" data-page="122">
+<div class="pg" id="p122"><a href="#p122">S. 122</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/chodyla2015/122.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/chodyla2015/122.jpg' | relative_url }}" alt="Chodyła (2015), S. 122" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -4598,15 +4381,13 @@ Perhaps some of the Olęder villages or communes founded in the Pyzdry Forest ha
 25\. Part of the village book of the Dzierzbińskie Olędry in Polish and German of the years 1792-1913, with a register, in Polish, of the Olęders who paid their rent, of 14 XI 1792, APP, SAB 803.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-123">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-123">S. 123</a></h2>
+<section class="lit-passage" id="p-123" data-page="123">
+<div class="pg" id="p123"><a href="#p123">S. 123</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 5. Życie gospodarcze i społeczne osad olęderskich w Puszczy Pyzdrskiej w latach 1746-1793
+## 5. Życie gospodarcze i społeczne osad olęderskich w Puszczy Pyzdrskiej w latach 1746-1793
 
 Technika uprawy ziemi w osadach nizinnych polegała na melioracji gruntów przez kopanie i zachowywanie w dobrym stanie systemu dużych i mniejszych rowów odpływowych, oraz na utrzymywaniu raz osuszonych gruntów uprawnych w stanie zdatnym do uprawy. Natomiast w osadach położonych wyżej, na suchych terenach leśnych uprawa polegała na karczowaniu lasów i zarośli, a następnie podnoszeniu jej żyzności przez nawożenie (głównie obornikiem, który zapewniała dobrze rozwinięta hodowla bydła). Czasem olędrzy zajmowali gotowe role uprawne, nawet z budynkami i zasiewkami. Osady zakładane na gruntach gotowych lub częściowo zarosłych dawnych wsi zachowywały zbiorowy trójpolowy układ pól, związany z powszechnym wówczas systemem uprawy roli. Przy rozproszonym układzie przestrzennym gospodarstw w zdecydowanej większości osad trójpolówka była jednak zindywidualizowana i w poszczególnych osadach nie występował raczej przymus wspólnej uprawy. Zróżnicowana, a nieraz niska żyzność gleb częściowo podmokłych, częściowo (po karczunkach lasu) piaszczystych, przy stosowaniu ekstensywnej trójpolówki zbożowo-ugorowej i umiarkowanym (pomimo dość dobrze rozwiniętej hodowli zwierząt, a zwłaszcza bydła) nawożeniu, decydowały o raczej dość niskich plonach.
 
@@ -4617,7 +4398,7 @@ Podstawowe działy gospodarki rolnej w osadach olędrskich Puszczy Pyzdrskiej st
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 5. The economic and social life of the Olęder settlements in the Pyzdry Forest in the years 1746-1793
+## 5. The economic and social life of the Olęder settlements in the Pyzdry Forest in the years 1746-1793
 
 The technique of tilling the land in the lowland settlements consisted in draining the land by digging, and keeping in good order, a system of large and smaller drainage ditches, and in keeping the arable land, once drained, fit for tillage. In the settlements that lay higher, on dry forest land, tillage consisted in clearing the forests and thickets and then raising the fertility of the soil by manuring (chiefly with dung, provided by well-developed cattle-raising). Sometimes the Olęders took up ploughland already in use, even with buildings and sown crops. Settlements founded on the ready or partly overgrown land of former villages kept the communal three-field layout, tied to the system of tillage then general. With the scattered layout of the farms in the great majority of the settlements, however, the three-field system was individualised, and there was, on the whole, no compulsion to till in common in the individual settlements. The varied and often low fertility of the soils, partly wet, partly (after the forest was cleared) sandy, together with the extensive grain-and-fallow three-field system and moderate manuring (in spite of fairly well-developed stock-raising, especially of cattle), made for rather low yields.
 
@@ -4626,12 +4407,10 @@ The basic branches of farming in the Olęder settlements of the Pyzdry Forest we
 <span class="lit-note" id="n-en-282">282</span> They are given by W. Rusiński, *Osady tzw. olędrów*, pp. 71-72.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-124">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-124">S. 124</a></h2>
+<section class="lit-passage" id="p-124" data-page="124">
+<div class="pg" id="p124"><a href="#p124">S. 124</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Drugi ważny dział gospodarki mieszkańców osad olęderskich w Puszczy Pyzdrskiej stanowiła hodowla zwierząt: bydła, owiec i świń, a także koni oraz drobiu. Wskazują na to informacje bezpośrednie o zgodzie na chowanie owiec i bydła, jak i pośrednie o łąkach i pastwiskach podane w przywilejach dla już wymienionych i innych osad, a mianowicie dla: Wrąbczynka i Wrąbczynkowskich Ol., (gdzie osadnicy otrzymali 16 mr gruntów wyrudowanych pod łąki, a Jakub Wróbel półtorej mr na chów owiec i bydła), Pyzdrskich Ol. (wolne pastwisko dla inwentarza na borach), Gadowskich St. i Nw. Ol. (zgoda na hodowanie bydła i in. inwentarza, ale bez szkody dla pastwisk dworskich), Wielołęki (zgoda na tuczenie wieprzy, wolne pastwisko dla bydła w miejscach wyznaczonych), Cekowskich St. Ol., Dzierzbińskich – Zamętów i Zdanowca Ol. (bydła rogatego mogą trzymać ile chcą), Przespolewskich Ol. i Zbierskich Ol.<sup class="lit-fn"><a href="#n-pl-283">283</a></sup> W przywilejach dla Cekowskich St. i Cekowskich Nw. Ol. występują ilościowe ograniczenia hodowanego bydła. Pierwszy zezwalał na *hodowanie 25 sztuk owiec, a drugi na utrzymywanie na hubie: 7 krów, 4 koni, 4 wołów, 10 świń i 30 owiec*<sup class="lit-fn"><a href="#n-pl-284">284</a></sup>. W Ciążeńskich Ol. obowiązywały opłaty za pastwisko: *od krowy 1 zł, od sztuki bydła jałowego, nie licząc cieląt 18 gr*<sup class="lit-fn"><a href="#n-pl-285">285</a></sup>. W Dębniałkach i Piskorach Ol. osadnicy otrzymali wolne pastwisko na borach i pastwiskach w zamian za zaoranie wciągu roku przez każdego z 16 gospodarzy po 10 a ogółem 150 lasek (prętów) ról dworskich na Bilawach*, na ugór, jarzynę, zagon*. Istotną rolę odgrywała też hodowla drobiu. Potwierdzają to pośrednio przytoczone niżej informacje o daninach w naturze: w gęsiach, kapłonach i jajach.
@@ -4670,12 +4449,10 @@ The people of the Olęder settlements founded in the Pyzdry Forest in the years 
 <span class="lit-note" id="n-en-287">287</span> Cf. nn. 58 and 74.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-125">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-125">S. 125</a></h2>
+<section class="lit-passage" id="p-125" data-page="125">
+<div class="pg" id="p125"><a href="#p125">S. 125</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Dochody brutto były pomniejszone o nieznane koszty wewnętrznej konsumpcji i inwestycji oraz przede wszystkim powinności na rzecz dworu, kościoła i państwa, w decydujący sposób określające wartość dochodów netto.
@@ -4726,12 +4503,10 @@ The annual rates of rent per huba varied, but were mostly close to one another. 
 <span class="lit-note" id="n-en-293">293</span> Cf. nn. 98, 75-76, 77 and 101.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-126">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-126">S. 126</a></h2>
+<section class="lit-passage" id="p-126" data-page="126">
+<div class="pg" id="p126"><a href="#p126">S. 126</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 w Przespolewskich Ol. ustalono je na 12 *reichsstalarów*, a w Zbierskich Ol. na *10 talarów z huby*<sup class="lit-fn"><a href="#n-pl-294">294</a></sup>. W nieznanej wysokości płacili je mieszkańcy Orlińskich D. i M. Ol., Mycielińskich – Kazali St. i Nw. Ol., Stropieszyńskich – Gostyni i Radzanów Ol.<sup class="lit-fn"><a href="#n-pl-295">295</a></sup> W Przespolewskich Ol. w 1779 r. pierwsi osiedleni na Porożu trzej olędrzy płacili *po 2 czerwone złote* *(dukaty) czynszu i robili półtora dnia w roku*. O innych dosiedlonych później jest mowa, że nie dają czynszu *gdyż jeszcze wolnością przy kontraktach do czasu zostając zaszczycają się, oprócz karczmarza (...)*<sup class="lit-fn"><a href="#n-pl-296">296</a></sup>. Inwentarz Przespolewskich Ol. (części) z 1785 r., wymieniający 22 olędrów stwierdza, że siedmiu z nich (w tym jednemu z części nadziału) pozostało od 3-6 lat wolnizny, na rzecz dworu, a więc że nie ponoszą oni jeszcze żadnych ciężarów, a inwentarz tychże z 1786 r. stwierdza, że olędrom za tłokę (robociznę żniwną) *trzeba dać beczkę piwa.* Z kolei tabela dymów tej osady z 1789 r. wymienia w tej osadzie 25 dymów z dodatkowym objaśnieniem: „*...Holendry Nowa Kolunia w nazwisku Poroże Wielkie”; w tym „chałup gront wyrudowany mający*[ch] *i z niego czynsz opłacają” 13, „Budów z wolności nie wyszłych i czynszów nie opłacających oprócz jednego jeszcze bez zabudowania 12 (z tych 7 bud obsiadłych w 1789 r., które zaczęły rudunek w 1789 r., a czynsz po 36 złp. będą płacić w 1796 r., 2 budy obsiadłe, które zaczęły rudunek w 1787 r. a czynsz po 36 złp. 1793 r.) oraz w 1 dymie*”<sup class="lit-fn"><a href="#n-pl-297">297</a></sup>.
@@ -4786,12 +4561,10 @@ The charter for the Stropieszyńskie Ol. of 1791 stressed the punctual payment o
 <span class="lit-note" id="n-en-302">302</span> Cf. nn. 113-114.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-127">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-127">S. 127</a></h2>
+<section class="lit-passage" id="p-127" data-page="127">
+<div class="pg" id="p127"><a href="#p127">S. 127</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 (okupnicy luźni) i olędrzy kontraktowi<sup class="lit-fn"><a href="#n-pl-303">303</a></sup>. W Zbierskich Ol. gospodarze płacili na rok do dworu ogółem 540 złp. czynszu i oddawali daniny w naturze, w liczbie *18 wierteli owsa i 18 kur*<sup class="lit-fn"><a href="#n-pl-304">304</a></sup>.
@@ -4838,12 +4611,10 @@ A significant burden on the inhabitants of the Olęder settlements in the Pyzdry
 <span class="lit-note" id="n-en-308">308</span> Cf. nn. 91 and 82.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-128">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-128">S. 128</a></h2>
+<section class="lit-passage" id="p-128" data-page="128">
+<div class="pg" id="p128"><a href="#p128">S. 128</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 (*1 droga o mil 12 lub 24 zł*)<sup class="lit-fn"><a href="#n-pl-309">309</a></sup>. Dalej w: Oborskich St. i Nw. Ol. (*1 droga lub 12 złp. za nią*)<sup class="lit-fn"><a href="#n-pl-310">310</a></sup> .
@@ -4894,12 +4665,10 @@ The inhabitants of all the Olęder settlements founded in the eighteenth century
 <span class="lit-note" id="n-en-315">315</span> Cf. n. 52.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-129">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-129">S. 129</a></h2>
+<section class="lit-passage" id="p-129" data-page="129">
+<div class="pg" id="p129"><a href="#p129">S. 129</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Kosmowskich Ol. (pokwitowanie podymnego dla 2 osadników z lat 1787 i 1788)<sup class="lit-fn"><a href="#n-pl-317">317</a></sup>. Podatki lub podatek podymnego, ogólnie lub z określeniem jego rozdzaju i wysokości z dymu wymieniają przywileje dla: Pyzdrskich Ol. (8złp na rok), Wrąbczynka i Wrąbczynkowskich Ol. (ogólnie); Gadowskich St. i Nw.Ol. (4 zł na każdą ratę), Wielołęce (ogólnie), Dębniałek i Piskorów Ol. (ogólnie), Dzierzbińskich Ol. – Zamętów i Zdanowca Ol. (7 zł. rocznie), Oborskich St. i Nw. Ol. (2 zł 16 gr z półhuby) Stropieszyńskich – Gostyni i Radzanów Ol. (ogólnie), Wierzchów Ol. (3 zł 15 gr na rok)<sup class="lit-fn"><a href="#n-pl-318">318</a></sup>. Kwoty świadczone w jednej racie z podymnego, zwanego też kominowym, odpowiednio do liczby dymów w osadach, podaje tabela tego podatku z trzech powiatów woj. kaliskiego z 1789 r.<sup class="lit-fn"><a href="#n-pl-319">319</a></sup>
@@ -4950,12 +4719,10 @@ Besides, all the inhabitants of many Olęder settlements, Catholics but also, to
 <span class="lit-note" id="n-en-322">322</span> W. Rusiński, *Osady tzw. „olędrów” w dawnym woj. poznańskim*, pp. 104-107; Z. Chodyła, *Osadnictwo olęderskie w Wielkopolsce (1597-1793)*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-130">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-130">S. 130</a></h2>
+<section class="lit-passage" id="p-130" data-page="130">
+<div class="pg" id="p130"><a href="#p130">S. 130</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 się liczby dysydentów i ustanowienia dla nich kościoła przez fundatora dla nich mogli uczęszczać *do jakiego by chcieli kościoła*<sup class="lit-fn"><a href="#n-pl-323">323</a></sup>. Z kolei w Gadowskich St. i Nw. Ol. olędrzy różnej religii oddawali do kościoła parafialnego dzierzbińskiego *2 wiertele owsa miary warszawskiej i płacili od pogrzebu starego człowieka 4 zł, młodego lub dziecka 2 zł, od chrztu 1 zł, od zapowiedzi trzech 18 gr, od ślubu 4 zł, od wywodu 6 gr). ,„...a gdyby dyssydenci chcieli w swej religii kościele też obrządki zachować wolno im wszystko będzie, wszelako teraz ułożony, ugodzony datek do Kościoła katolickiego dobrowolnie bez wszelkiej zatargi i sprzeczki oddawać przyrzekają*”<sup class="lit-fn"><a href="#n-pl-324">324</a></sup>. W Grądach St. i Nw., podobnie, jak w należących do tego samego właściciela Borowieckich St. i Nw. Ol katolicy zostali przyłączeni do pobliskiego kościoła parafialnego w Grodźcu i mieli mu uiszczać takie same opłaty od chrztu i pogrzebu do czasu określenia jego wysokości przez wyższą władzę duchowną, a *dyssidenci* [ewangelicy] tejże gminy śluby i chrzty mieli odbywać *„pod sztrofem”* [karą grzywny] w tym kościele<sup class="lit-fn"><a href="#n-pl-325">325</a></sup>. W stanowiących własność kościelną Lubieńskich Ol. mieszkańcy – katolicy mieli corocznie płacić kościołowi parafialnemu w Dzierzbinie za administrację sakramentów<sup class="lit-fn"><a href="#n-pl-326">326</a></sup>, czyli zapewne uiszczać tzw. *kompozytę*, to jest jednorazową, zryczałtowaną opłatę za chrzty i śluby, a zapewne i inne rodzaje świadczeń (meszne, dziesięcinę). W Cekowskich St. Ol. miała zostać zawarta ugoda z proboszczem o dziesięcinę za pośrednictwem dworu, w Dębniałkach i Piskorach Ol. dysydenci byli zwolnieni od świadczeń, a katolicy mieli płacić *jura stolae*, w Dzierzbińskich Ol. – Zamętach i Zdanowcu Ol. olędrzy mieli według umowy dawać z *włóki wiertel żyta i płacić od ślubu 4 zł, od pogrzebu starego czowieka 1 zł, od chrztu 1 zł, od zapowiedzi trzech 18 gr*, w Kosmowskich Ol., Kuszyńskich Ol. i Plewińskich St. Ol. powinni oni świadczyć według przyszłej ugody z proboszczem kosmowskim, natomiast w Plewińskich Nw. Ol. olędrzy tego samego wyznania ewangelicko-augsburskiego powinni dawać opłatę taką, jaką dawali mieszkańcy Plewińskich St. Ol.<sup class="lit-fn"><a href="#n-pl-327">327</a></sup>, bliżej jednak nieokreśloną. W Oborskich St. i Nw. Ol. ich mieszkańcy zobowiązani zostali oddawać proboszczowi w Żegocinie *co rok 1 dukata*, w Przespolewskich Ol. mieli oni wnosić opłaty jura stolae dla proboszcza katolickiego w Przespolewie Kościelnym<sup class="lit-fn"><a href="#n-pl-328">328</a></sup>. Pierwszy przywilej lokacyjny dla Stropieszyńskich albo Radzanów i Gostyni Ol. z 1787 r. stanowił: „*Ponieważ podług prawa niedawnego ostrzeżono jest dla wszystkich ludzi religij protestantskiej* [sic!] *wolność ich nabożeństwa, dlatego, co należy do spowiedzi i chowania się wolno im będzie do kościoła swego udawać się i dwór im w tym da protekcją, na fundamencie tegoż prawa, od wszelkich /gdyby była/ impetycji duchownych*”. Drugi taki przywilej dla tych osad z 1791 r. stwierdzał natomiast: „*Śluby i chrzty w kościele parafialnym odbywać będzie obowiązkiem tychże Hollędrów, do którego kościoła parafialnego powinni będą płacić w każdym roku na święto 3-ch Króli złotych 12 na wosk czyli*
@@ -4990,12 +4757,10 @@ of dissenters grew and the founder established a church for them, could attend *
 <span class="lit-note" id="n-en-328">328</span> Cf. nn. 105 and 40.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-131">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-131">S. 131</a></h2>
+<section class="lit-passage" id="p-131" data-page="131">
+<div class="pg" id="p131"><a href="#p131">S. 131</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 *światło...*” przez sołtysa, za pośrednictwem dworu<sup class="lit-fn"><a href="#n-pl-329">329</a></sup>. W Zbierskich Olędrach ich mieszkańcy luteranie mieli uiszczać *proboszczowi w Zbiersku kompozytę, czyli ową jednorazową, zryczałtowaną opłatę za chrzty, ale zapewne także i za meszne, dziesięcinę, w uzgodnieniu wysokości, w której ustaleniu i zawarciu w tej sprawie umowy z plebanem fundator osady deklarował im dopomóc*<sup class="lit-fn"><a href="#n-pl-330">330</a></sup>.
@@ -5014,15 +4779,13 @@ of dissenters grew and the founder established a church for them, could attend *
 <span class="lit-note" id="n-en-330">330</span> Cf. n. 50.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-132">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-132">S. 132</a></h2>
+<section class="lit-passage" id="p-132" data-page="132">
+<div class="pg" id="p132"><a href="#p132">S. 132</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### 6. Kultura materialna i duchowa oraz życie codzienne mieszkańców osad olęderskich w Puszczy Pyzdrskiej w latach 1746-1793
+## 6. Kultura materialna i duchowa oraz życie codzienne mieszkańców osad olęderskich w Puszczy Pyzdrskiej w latach 1746-1793
 
 Przejawy kultury materialnej i duchowej oraz życia codziennego mieszkańców osad olęderskich w Puszczy Pyzdrskiej w latach 1746-1793 są w pisanych źródłach staropolskich uchwytne przeważnie w bardzo skromnym stopniu, albo brak jest o nich informacji w ogóle. Nie przetrwały też do dziś ilustrujące je zabytki z 2 połowy XVIII w., dlatego charakterystyka większości zagadnień z nimi związanych, zwłaszcza w przypadku kultury materialnej, jest możliwa tylko w oparciu o zabytki (np. budownictwa, przedmiotów należących do wyposażenia wnętrz domów, narzędzi rolniczych), z XIX i 1 poł. XX w., ich muzealną dokumentację fotograficzną oraz literaturę etnograficzną i inną, przeważnie przy zastosowaniu metody retrogresji.
 
@@ -5031,19 +4794,17 @@ Przejawy kultury materialnej i duchowej oraz życia codziennego mieszkańców os
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### 6. The material and spiritual culture and the daily life of the inhabitants of the Olęder settlements in the Pyzdry Forest in the years 1746-1793
+## 6. The material and spiritual culture and the daily life of the inhabitants of the Olęder settlements in the Pyzdry Forest in the years 1746-1793
 
 The manifestations of the material and spiritual culture and the daily life of the inhabitants of the Olęder settlements in the Pyzdry Forest in the years 1746-1793 can for the most part be grasped only to a very modest extent in the written Old Polish sources, or there is no information about them at all. No objects of the second half of the eighteenth century illustrating them have survived to our day either, so that most of the questions connected with them, especially in the case of material culture, can be described only on the basis of objects (for instance buildings, pieces of the furnishing of houses, farm tools) of the nineteenth and first half of the twentieth century, their museum photographs, and the ethnographic and other literature, mostly by the method of retrogression.
 
 The written sources hand down only a dozen or so pieces of information about dwelling and farm buildings. According to them, the farmsteads of the Olęders in the Pyzdry Forest had, besides the cottage, that is the dwelling house, farm buildings: barns, cowsheds, stables and pigsties for the livestock. As was said above (in Chap. 2), according to the detailed tables of hearths surviving for the Olęder settlements that concern us in the districts of Pyzdry and Kalisz, most of them had "*cottages with one farmer*". The foundation charters surviving for 31 settlements show that the dwelling and farm buildings were put up of timber given by the founder (chiefly pine), mostly standing on the Olęders' holdings and cleared by them. The charters for a few settlements contained recommendations to put them up "*as carefully as possible*", or orders to build them within a set time of several years under threat of a money fine or even removal from the settlement. The dwelling and farm buildings were probably put up by carpenters and masons from the Olęder settlements or neighbouring ones. Among the former, the arcaded cottages proper to the villages of the time, and not only the Olęder ones, most probably predominated, set on the whole with their gable and not their ridge to the road, while the farm buildings were put up round the yard, so that together with the cottage they formed a quadrangle. Unfortunately, in the Old Polish Olęder settlements of the Pyzdry Forest, with a few exceptions, no buildings of the eighteenth century have survived. Far more of the farm buildings and cottages surviving to our day date from the nineteenth century. An inspection of them, together with an analysis of the archival photographs
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-133">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-133">S. 133</a></h2>
+<section class="lit-passage" id="p-133" data-page="133">
+<div class="pg" id="p133"><a href="#p133">S. 133</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 budownictwa ludowego w tych wsiach, przechowywaną w Muzeum Okręgowym w Koninie oraz reprodukowaną w książce I. F. Tłoczka<sup class="lit-fn"><a href="#n-pl-331">331</a></sup>, a także informacje zawarte w literaturze etnograficznej, pozwoliły stwierdzić występowanie w tych domach elementów właściwych także dla osiemnastowiecznego budownictwa. Budynki wówczas wznoszono z drewna, w konstrukcjach: sumikowo-łątkowej, zrębowej oraz szachulcowej (szkieletowej). Powszechnie stosowanym budulcem były także: glina i darniowa ruda żelaza. Budynki wznoszone z drewna i darniowej rudy żelaza ocieplano od wewnątrz polepą z gliny. Architektura budynków mieszkalnych z obszaru Puszczy Pyzdrskiej, co wykazały w latach 2009 – 2011 badania architektoniczne<sup class="lit-fn"><a href="#n-pl-332">332</a></sup>, posiada powtarzające się cechy wspólne dla całego obszaru Puszczy. Są nimi: dwuspadowe, symetryczne dachy pod kątem 45 stopni; szczyty obite deskami w układzie pionowym; krokwie na wystających poza lico ściany zdobionych belkach stropowych; okna skrzynkowe „prostokąt stojący” jedno- lub dwu-skrzydłowe; okna dzielone: wielkość szyb identyczna lub większe u dołu, mniejsze u góry; drzwi zewnętrzne w konstrukcji ryglowej lub ramowo-płytowej, przeważnie zdobione, najczęściej dwuskrzydłowe. Cechy budynków gospodarczych są zbliżone do mieszkalnych. Widoczne różnice dotyczą cech następujących: okna prostokątne lub kwadratowe; dodatkowe małe otwory okienne bez szyb, w kształcie trójkąta foremnego; drzwi z desek ustawionych pionowo.
@@ -5086,12 +4847,10 @@ In the interiors of the Olęders' houses there were also a fair number of the ut
 <span class="lit-note" id="n-en-334">334</span> *Kultura ludowa Wielkopolski*, ed. J. Burszta, vol. I, Poznań 1961, pp. 174-183.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-134">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-134">S. 134</a></h2>
+<section class="lit-passage" id="p-134" data-page="134">
+<div class="pg" id="p134"><a href="#p134">S. 134</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 (konewki), do prania bielizny (waski, balie), do przetwarzania mleka (prasy serowe, kierzynki do robienia masła, dzieże do przechowywania mąki, tzw. koponki do robienia zakwasu chlebowego, łopaty do chleba, tarki do prania, tzw. prasowalnice<sup class="lit-fn"><a href="#n-pl-335">335</a></sup> . Z innych sprzętów na uwagę zasługują żarna do mielenia ziaren i krosna do wyrabiania płótna<sup class="lit-fn"><a href="#n-pl-336">336</a></sup>.
@@ -5150,12 +4909,10 @@ A comparative description of the Olęders and the local people of the villages r
 <span class="lit-note" id="n-en-341">341</span> Stanisław Ciszewski*: in "Wisła" – Miesięcznik Geograficzno-Etnograficzny. 1889, Vol. 3, no. 2*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-135">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-135">S. 135</a></h2>
+<section class="lit-passage" id="p-135" data-page="135">
+<div class="pg" id="p135"><a href="#p135">S. 135</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ubiorem i zwyczajami nawet po upływie przeszło stu lat od ich osiedlenia. Według jego obserwacji: „olędrzy-mężczyźni byli w ogóle niżsi od polskich chłopów, za to bardziej *„przysadziści, rozrośli i silni“.* Ich twarze były typowe, niemieckie, wygolone, bardzo rzadko nosili brody. Polscy chłopi nosili długie, niemal do ziemi sięgające sukmany z szarego, grubego sukna; rzadziej z płótna zgrzebnego, na ciemno niebiesko farbowanego, wyrabianego w domu, a pod sukmanami długie, sukienne kamizele, ze szklanymi, świecącymi się guzikami. Portki i koszula były płócienne; pierwsze niekiedy szyto z takiego płótna, jak sukmana. Buty były zwyczajne, jarmarczne. Na głowy zakładali latem kapelusz filcowy, czarny, z małym rondem, zimą wyżsi nosili czapki z siwego baranka, nadzwyczaj wysokie, z dnem sukiennym niebieskim i ściągającymi je wąskimi, niebieskimi wstążeczkami, związanymi w kokardkę; niżsi zaś wzrostem tak zwany kaptur, to jest rogatywkę niską, obkładaną również siwym barankiem. Olędrzy także jak i miejscowi chłopi, nosili często szare lub niebieskie sukmany, ale te były krótsze i o odmiennym kroju. Z nakryć głowy prawie nigdy nie nosili kapeluszy, lecz czapki sukienne, a w zimie czarne, barankowe. Kobiety polskie ubierały się w spódnice i kaftany lub staniki, w których przeważał zawsze kolor czerwony, a jedynie u starszych spotykało się dawniej powszechnie używany granatowy kabat sukienny, dość krótki, sięgający może pół łokcia i mający przy tym małą, okrągło wyciętą pelerynkę, oraz marszczony z tyłu. Mężatki z obciętymi włosami nosiły na głowach (chociaż nie wszystkie) muślinowe lub tiulowe czepki, przewiązywane wkoło głowy skręconą, wzorzystą chustką, Dziewczęta plotły włosy w warkocze, część upinając z tyłu, część okręcając koło uszu. Do paciorków (korali), noszonych na szyi, tak mężatki, jak i panny, lubiły przyczepiać jasne, kolorowe wstążki. Na nogach wszystkie kobiety nosiły trzewiki, niekiedy ozdobione kokardkami ze wstążek. Olęderki natomiast (zarówno mężatki jak i dziewczęta) chodziły w pasiastych wełniakach swego wyrobu i takich fartuchach oraz zakładały kaftan barchanowy lub inny. W lecie natomiast zamiast wełniaków nosiły perkalowe suknie. Na głowy zakładały chustki wełniane, ale ciemne, miejskiego typu, które wiązały w taki sam sposób, jak kobiety wszystkich stanów. Nogi obuwały w trzewiki.
@@ -5174,12 +4931,10 @@ The customs and manners of the people of these settlements in the second half of
 As for customs, the Olęders blessed at Epiphany (the Three Kings): amber, myrrh, bryony, marjoram and garlic, which was to protect against an evil person. They also blessed then, for the same purpose, the so-called "devil's dung" (asafoetida), with which they fumigated themselves", giving it also to the cows to eat against bewitchment, especially at the new moon and before Whitsun. They also introduced a way of treating cattle, later known to the Polish peasants, by giving them animal oil. Both they and the Polish peasants, in treating people as well as cattle, set great store by various "ninefold" herbs, grasses, roots, drops and ointments. They also believed that someone could fall ill, for instance, from bewitchment by "*cioty*" [witches]. Besides herbs, a favourite medicine were various fats, such as those of the dog, the bear, the lion [sic!] and the badger, which were to help used internally as well as externally. A remedy against worms in children, to be effective, had to be prepared not in the house but behind it. They also used other, magical ways of healing. A remedy that radically helped a child who "screams from morning to evening", [supposedly]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-136">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-136">S. 136</a></h2>
+<section class="lit-passage" id="p-136" data-page="136">
+<div class="pg" id="p136"><a href="#p136">S. 136</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ze względu na ból w krzyżach jest wyrąbanie siekierą krzyży na trzech belkach podtrzymujących powałę [sufit] o wschodzie słońca<sup class="lit-fn"><a href="#n-pl-342">342</a></sup>. Według S. Ciszewskiego wskutek braku u polskich chłopów wrodzonych zdolności asymilujących występowały między obu grupami ludności wiejskiej wyraźnie różnice, powodowane także przez protestantyzm, będący głównym wyznaniem Olędrów oraz obcy język. Małżeństwa olędra z z polską chłopką lub odwrotnie w XVIII w. nie zdarzały się, albo przynajmniej o nich nie słyszał, a ze strony polskiej podkreślano brak stosunków i odrębność między obiema grupami. Chłopi polscy byli pobożni i zamiłowani w zewnętrznych obrządkach religijnych, ale z drugiej strony ogromnie zabobonni, nieufni względem dworu i ludzi z miasta, urzędników, ale i uniżeni wobec nich, nie ceniący oświaty, ale kochający swą ziemie i oceniający człowieka według pracy, ale tylko fizycznej. Do ich wad należało nieposzanowanie cudzej własności, zwłaszcza leśnej i może trochę lekkie życie kobiet. Olędrzy protestanci pod względem pobożności nie ustępowali polskim, a pod względem zabobonności o wiele ich przewyższali, stosując zwłaszcza przy hodowli bydła mnóstwo praktyk guślarskich, które od nich zapożyczyli ich polscy sąsiedzi. Równocześnie jednak wykazywali większą znajomość gospodarowania. W stosunkach z ludźmi inteligentniejszymi olędrzy byli mniej uniżeni, niż chłopi, wykazując więcej światowego obycia. Do nauki również nie przywiązywali większej uwagi, wielu z nich nie umiało pisać, chociaż chyba większość potrafiła czytać. Pomimo zamieszkiwania w Polsce, nie wszyscy umieli mówić po polsku. Występowały między nimi jednostki, które, będąc w wojsku, nauczyły się dość dobrze mówić po rosyjsku. Natomiast polscy chłopi starali się choćby parę słów wymówić w ich gwarze, która była dość trudna do zrozumienia, nawet osób znających w miarę język niemiecki. Olędrzy odznaczali się także pracowitością, ale nie wykazywali takiego przywiązania do ziemi jak polscy chłopi. Wśród olędrów nie spotykało się ludzi bardzo ubogich, częstych wśród polskich wieśniaków, co także wynikało z posiadania przez nich gospodarstw większych obszarowo oraz z przemyślności i gospodarności. Dość spory dochód przynosiło im np. tkactwo domowe, uprawiane przez olęderki, a zaniedbane przez polskie chłopki. Z hodowanych przez olędrów owiec wszystkie prawie olęderki wyrabiały bardzo piękne i trwałe, grubsze i cieńsze wełniaki oraz fartuchy, przędzę oddając do miasta tylko do ufarbowania. Polscy włościanie wyrabiali natomiast tylko płótno zgrzebne, które czasami farbowali w miasteczku na niebiesko i szyli z niego spodnie i sukmany dla mężczyzn, albo też kupowali już wyroby fabryczne Zamożność i wyższa kultura życia codziennego olędrów nad polskim chłopem przejawiała się także w zamiłowaniu do porządnego mieszkania. Chaty chłopskie [polskie] na tle schludnych olęderskich prezentowały się gorzej, za to jako robotnik, tak zwany „ręczny” chłop polski był bardziej poszukiwany.
@@ -5198,12 +4953,10 @@ As for the spiritual culture of the people of the Olęder settlements that arose
 <span class="lit-note" id="n-en-342">342</span> St. Ciszewski, *Notatka etnograficzna z okolic Stawiszyna, w pow. kaliskim* [An ethnographic note from the area of Stawiszyn, in the district of Kalisz]. "Wisła Miesięcznik Geograficzno-Etnograficzny". 1889, Vol. III, no. 2.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-137">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-137">S. 137</a></h2>
+<section class="lit-passage" id="p-137" data-page="137">
+<div class="pg" id="p137"><a href="#p137">S. 137</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Skład ich mieszkańców pod względem wyznaniowym nie był – jak już wyżej ukazano – jednolity. Za przynależnością większej części mieszkańców osad do protestantyzmu przemawiają informacje o charakterze i sposobach uiszczania świadczeń na rzecz Kościoła katolickiego, przedstawione wyżej oraz potwierdzenia istnienia szkół – domów modlitwy i/lub ich nauczycieli i cmentarzy w postaci ich uposażeń w odpowiednie obszary gruntów – w przywilejach i kilku innych źródłach (inwentarzach, wizjach).
@@ -5290,12 +5043,10 @@ Schooling lasted at first only two years and, as was general at the time, only i
 <span class="lit-note" id="n-en-358">358</span> Cf. n. 50.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-138">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-138">S. 138</a></h2>
+<section class="lit-passage" id="p-138" data-page="138">
+<div class="pg" id="p138"><a href="#p138">S. 138</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 w Orlinie Dużej, Zamętach, Wrąbczynkowskich Holendrach i Łazińsku Pierwszym.
@@ -5346,12 +5097,10 @@ The burials of Protestants from Olęder settlements of mixed confession founded 
 <span class="lit-note" id="n-en-364">364</span> Cf. nn. 102, 98, 77, 40, 113-114, 50.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-139">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-139">S. 139</a></h2>
+<section class="lit-passage" id="p-139" data-page="139">
+<div class="pg" id="p139"><a href="#p139">S. 139</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 olęderskimi a proboszczami, zobowiązujacych olędrów do zapłacenia duchownemu katolickiemu tzw. pokładnego. W przywileju dla Stropieszyńskich-Radzanów i Gostyni Ol. z 1791 r. stwierdzano: „*Ponieważ podług prawa niedawnego* [tj. konstytucje sejmu z1768 r. – uzupeł. Z.Ch.] *ostrzeżono jest dla wszystkich ludzi religij protestantskiej* [sic!] *wolność ich nabożeństwa, dlatego, co należy do spowiedzi i chowania się wolno im będzie do kościoła swego udawać się i dwór im w tym da protekcją, na fundamencie tegoż prawa, od wszelkich /gdyby była/ impetycji* [napaści] *duchownych*”<sup class="lit-fn"><a href="#n-pl-365">365</a></sup>.
@@ -5366,15 +5115,13 @@ and the parish priests, binding the Olęders to pay the Catholic clergyman the s
 <span class="lit-note" id="n-en-365">365</span> Cf. n. 114.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-140">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-140">S. 140</a></h2>
+<section class="lit-passage" id="p-140" data-page="140">
+<div class="pg" id="p140"><a href="#p140">S. 140</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Zakończenie
+## Zakończenie
 
 Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej w latach 1746-1793 zawiera sporo luk, wynikających ze stanu zachowania i zakresu treści źródeł. Pozwala on jednak sformułować kilka końcowych wniosków dotyczących: 1) chronologii, organizacji, charakteru terenu, warunków i przyczyn lokacji oraz nazewnictwa osad, 2) ich obszaru, rozplanowania przestrzennego i zabudowy 3) zaludnienia w latach 1789-1790, z uwzględnieniem liczb i struktury mieszkańców według płci, wieku, społeczno-majątkowej i zawodowej, 4) sytuacji prawnej i administracyjno-sądowej ludności olęderskiej, 4) życia gospodarczego i społecznego osad i 5) kultury materialnej i duchowej oraz życia codziennego ich mieszkańców.
 
@@ -5383,19 +5130,17 @@ Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej w latach 1746
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Conclusion
+## Conclusion
 
 This outline of the earliest history of the Olęder settlements in the Pyzdry Forest in the years 1746-1793 has many gaps, which follow from how far the sources survive and how much they contain. It does, however, allow a few final conclusions to be drawn concerning: 1) the chronology, organisation, character of the land, conditions and causes of the founding, and the naming of the settlements, 2) their area, layout and buildings, 3) their population in the years 1789-1790, with the numbers and structure of the inhabitants by sex, age, social and property standing and occupation, 4) the legal, administrative and judicial situation of the Olęder population, 4) the economic and social life of the settlements, and 5) the material and spiritual culture and the daily life of their inhabitants.
 
 1) The Pyzdry Forest, from the early Middle Ages to the present day one of the still fairly large forest complexes in Greater Poland proper, is an area in which, in the eighteenth century, Olęder settlement developed fairly vigorously; it was one of the main forms of rural rent-paying settlement in Poland in the period from the sixteenth to the beginning of the second half of the nineteenth century. In all, 58 Olęder settlements were founded in it in the years 1746-1792 (1793), within three Old Polish districts: the most in the district of Konin (28), then in that of Kalisz (25) and of Pyzdry (5). They belonged to three types of feudal property: royal, or more exactly at that time Crown (7, 1 of them on the estates of the royal town of Pyzdry), church (3, of them 1 on the estates of the bishopric of Poznań and 2 on monastic estates) and as many as 48 on noble estates, mostly on such as Grodziec-Królików, Gadów and Trąbczyn in the district of Konin and Dzierzbin, Chocz, Kosmów and Lipe in the district of Kalisz. Of these, two villages (the Kazimierskie Stare and Nowe Olędry) in the parish and on the estate of Chocz, which formed the endowment of a noble foundation of the mitred provostship of the collegiate church of Chocz, are sometimes regarded in the sources as church villages. Today 67 villages or parts of villages correspond to these 58 Olęder settlements, mostly under changed names, in 15 communes and six districts. The time of origin of 31 of the 58 Olęder settlements that arose in the Pyzdry Forest in the eighteenth century is fixed exactly by their foundation charters; for the rest it can be fixed exactly or approximately from the first mentions in other kinds of sources. Within the periodisation adopted
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-141">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-141">S. 141</a></h2>
+<section class="lit-passage" id="p-141" data-page="141">
+<div class="pg" id="p141"><a href="#p141">S. 141</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 periodyzacji dziejów osadnictwa olęderskiego w Polsce i Wielkopolsce powstały one w drugiej fazie (1660-1793/1795) i trzecim okresie (1721-1793/95), w większości (44) w trzecim ostatnim podokresie (1773-1793) tego okresu. Osady olęderskie zakładali fundatorzy, właściciele lub posiadacze dóbr ziemskich, w porozumieniu z zasadźcami występującymi indywidualnie lub grupowo w imieniu całej przyszłej gminy lub przeważnie z całymi gminami, wydając dla nich nieraz najpierw przywileje indywidualne lub zbiorowe lecz wstępne, a dopiero później (np. po zebraniu się potrzebnej liczby osadników) zbiorowe i końcowe, przesądzające o olęderskim charakterze wsi. W dobrach królewskich fundowali je ich ówcześni tenutariusze (starostowie, dzierżawcy), w duchownych biskup i przełożona z inni członkiniami władz klasztoru Zakonu Franciszkanek w Kaliszu, w miejskich magistrat Pyzdr, a w szlacheckich szlachta bogata i średniozamożna. Współzałożyciel albo założyciel największej liczby wsi olęderskich był w majętności grodziecko-królikowskiej – Fraciszek hr. Stadnicki, który tylko w samym powiecie konińskim posiadał aż 21 osad wiejskich. Fundatorzy kilkudziesięciu innych, w liczbie 12 osób, byli właścicielami co najmniej kilku takich osad wiejskich, a niekiedy i miasteczek. Najstarsze osady, w liczbie co najmniej 12 zostały założone w latach 1746-1771, pozostałe w przeważającej liczbie lokowano w latach 1772-1792. O założeniu wsi olęderskich zadecydowało dążenie fundatorów do podniesienia swych dochodów przez zasiedlenie i zagospodarowanie terenów dawniej opustoszałych, wyludnionych lub leśnych, a często dotychczas nie zajmowanych przez osadnictwo. Osiedlenie olędrów, odpowiadajacych solidarnie, zgodnie z jedną z podstawowych zasad prawa olęderskiego, za świadczenia czynszów pieniężnych na rzecz panów, zapewniało ich założycielom stałe i regularne dochody. Dla olędrów motywację do osiedlenia się stanowiły korzystne, znacznie lepsze niż w kraju i miejscu ich pochodzenia lub poprzedniego zamieszkania w Polsce, prawne i gospodarcze warunki życia oraz zapewnienie im wolności religijnej i swobody kultu publicznego, zagwarantowane w przywilejach lokacyjnych osadnikom, zgodnie z zasadami prawa olęderskiego. Gdy idzie o charakter terenu z 58 wsi olęderskich co najmniej 37 zostało założonych na gruntach leśnych, a z tych co najmniej 27 na surowym korzeniu, czyli w miejscach dotychczas niezasiedlanych, w borach lub lasach (na co także wskazują długie 7-8 letnie okresy wolnizny przeznaczone na karczunek, zagospodarowanie i zabudowę osad), 5 lokowano na miejscu osad lub ich części istniejących pod tymi samymi nazwami już wcześniej, nawet od średniowiecza, a opustoszałych i zarosłych lasem w końcu XVI i początkach XVII w., a 5 na gruntach częściowo uprawnych i gotowych. Z 58 osad założonych w Puszczy Pyzdrskiej 27 założono na glebach bielicowych, 4 na czarnych ziemiach, 6 na glebach bagiennych, 13 na glebach murszowych, 4 na madach rzecznych, a 4 na glebach mieszanych w tym 1 na bielicowych, murszowych, madach rzecznych i piaskach wydmowych, a 3 na bielicowo-murszowych. Zatem połowa z nich powstała na glebach urodzajnych i średniourodzajnych, połowa na nieurodzajnych, a 4 na mieszanych, z przewagą jednak gleb nieurodzajnych. Większość
@@ -5406,12 +5151,10 @@ periodyzacji dziejów osadnictwa olęderskiego w Polsce i Wielkopolsce powstały
 for the history of Olęder settlement in Poland and Greater Poland, they arose in the second phase (1660-1793/1795) and the third period (1721-1793/95), most of them (44) in the third and last sub-period (1773-1793) of that period. The Olęder settlements were founded by the founders, owners or holders of landed estates, in agreement with locators acting individually or as a group on behalf of the whole future commune, or, mostly, with whole communes; they often issued to them first individual or collective but preliminary charters, and only later (for instance once the necessary number of settlers had gathered) collective and final ones, which settled the Olęder character of the village. On the royal estates they were founded by their tenants of the time (starosts, lessees), on the church estates by the bishop and by the superior and other members of the governing body of the convent of the Franciscan nuns in Kalisz, on the town estates by the magistrate of Pyzdry, and on the noble estates by the rich and middling nobility. The co-founder or founder of the largest number of Olęder villages was, on the property of Grodziec-Królików, Count Fraciszek Stadnicki, who in the district of Konin alone owned as many as 21 rural settlements. The founders of several dozen others, 12 persons, owned at least several such rural settlements, and sometimes little towns. The oldest settlements, at least 12 of them, were founded in the years 1746-1771; the rest, the great majority, were founded in the years 1772-1792. The founding of the Olęder villages was decided by the founders' wish to raise their income by settling and bringing into use land that had formerly been deserted and depopulated, or wooded, and often not taken up by settlement until then. The settling of Olęders, who answered jointly, in accordance with one of the basic principles of Olęder law, for paying money rents to the lords, assured their founders of a steady and regular income. For the Olęders the motive for settling were favourable legal and economic conditions of life, far better than in the country and the place of their origin or their earlier residence in Poland, and the assurance of religious freedom and freedom of public worship, guaranteed to the settlers in the foundation charters in accordance with the principles of Olęder law. As to the character of the land, of the 58 Olęder villages at least 37 were founded on woodland, and of these at least 27 on raw root, that is in places not settled before, in forests or woods (which is also shown by the long free years, 7-8, meant for clearing, setting up and building the settlements), 5 were founded on the site of settlements or parts of settlements that had existed earlier under the same names, even since the Middle Ages, and had been deserted and overgrown with forest at the end of the sixteenth and the beginning of the seventeenth century, and 5 on land partly tilled and ready. Of the 58 settlements founded in the Pyzdry Forest, 27 were founded on podzolic soils, 4 on black earths, 6 on marsh soils, 13 on muck soils, 4 on river alluvia, and 4 on mixed soils, 1 of them on podzolic soils, muck soils, river alluvia and dune sands, and 3 on podzolic-muck soils. So half of them arose on fertile and moderately fertile soils, half on infertile ones, and 4 on mixed soils, though with infertile soils predominating. Most
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-142">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-142">S. 142</a></h2>
+<section class="lit-passage" id="p-142" data-page="142">
+<div class="pg" id="p142"><a href="#p142">S. 142</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 osad olęderskich otrzymywała nazwy nowe: dzierżawcze wywodzące się od nazw dawnej wsi lub nazwy topograficzne nie związane z takimi nazwami a nawiązujące do miejscowych nazw lasów, zarośli, borów oraz puszcz na których je zakładano. Niektóre wsie otrzymały nazwy charakterystyczne, tworzone niezależnie od nazewnictwa osad starych, a więc m. in. odosobowe, pochodzące od imion i nazwisk fundatorów i członków ich rodzin. Część osad nosiła nazwy odziedziczone po osadach dawno opustoszałych, zarosłych lasem i krzewami lub wyrugowanych ze starych mieszkańców, na miejscu lub na gruntach, na których je lokowano z udziałem nowych kolonistów osiedlanych na prawie olęderskim, albo po osadach zamieszkałych nadal w całości lub w części przez dotychczasowych mieszkańców, przeniesionych na to prawo – topograficzne i dzierżawcze. W obu przypadkach nazwy tych osad występowały najczęściej z dodatkiem *(H)olendry* lub *(H)olędry)*. Do dzisiaj zachował się on tylko w nazwach 6 osad.
@@ -5426,12 +5169,10 @@ of the Olęder settlements received new names: possessive ones, derived from the
 2) The area of the Olęder villages that arose in the Pyzdry Forest depended on the reserves of land (forest or other) at the founders' disposal, and also on the number of settlers obtained or coming forward. The holdings of land granted to the settlers ranged from 1 to ½ huba, that is włóka (łan), though often of various kinds and sizes according to the length of the basic measures – rods and ells – by which they were measured. Besides, the Olęder villages received smaller holdings of land for the innkeeper, the school (house of prayer), the teacher and the burial ground. In these 58 Olęder settlements there were in the years 1789–1790 about 651 hearths (farms) in all. In the number of farms there was a wide range between settlements – very small ones of 2-5 hearths were 9, small ones of 6-10 hearths 11, middling ones of 11-15 hearths 5, larger than middling, of 16-20 hearths, 8, large ones of 21-25 hearths only 2, and very large ones, of 26 hearths or more, only 1. For 15 settlements the functional and social-economic structure of their hearths is known. Among them, if we leave aside 2 breweries, 6 inns and 2 craftsmen's hearths, hearths with one farmer decidedly predominated, found in all 15 Olęder villages, 636 in all. Hearths with 2 farmers, 37 in all, were found in only 5 settlements, garden hearths with land and garden, 16 in number, in 3 settlements, and those without land and garden, 2 in number, in 1 settlement. Most of the hearths were "self-tilling hearths", that is farms, of which there were 662 in 1791. The layout of the Olęder settlements in the area of this forest complex varied. 9 settlements were row villages on marshy, uniform land, with rows of buildings in various arrangements, sometimes partly scattered; regular and irregular street villages founded on mixed land were 2; as many as 40 settlements were loose, scattered settlements, and 7 were mixed. The buildings of the farmsteads (farms) – dwellings and farm buildings – were scattered; the buildings were usually put up separately on a quadrangular plan; the cottages were most probably, as in all the villages of the time, mostly arcaded; and the farm buildings consisted of barns, stables, cowsheds and pigsties, put up by various
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-143">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-143">S. 143</a></h2>
+<section class="lit-passage" id="p-143" data-page="143">
+<div class="pg" id="p143"><a href="#p143">S. 143</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 techniką z drewnianych bali, gliny i darniowej rudy żelaza. W zabudowie i układzie przestrzennym wsi olęderskich w Puszczy Pyzdrskiej, w większości w całości lub po części zamieszkałych przez ludność wyznaniowo ewangelicką, ważne składniki stanowiły domy modlitwy – szkoły oraz położone na ogół na obrzeżach wsi cmentarze grzebalne.
@@ -5446,12 +5187,10 @@ techniques, of wooden logs, clay and bog iron ore. In the buildings and layout o
 3) In the 58 Olęder settlements in the Pyzdry Forest there lived in the years 1789–1790 about 3,815 persons in all, of whom 499 in 5 settlements in the district of Pyzdry, 1,457 in 25 settlements in the district of Kalisz, and 1,859 in 28 settlements in the district of Konin. The statistical average number of inhabitants per settlement was 65.77 persons. In the 45 settlements for which the demographic structure of their inhabitants is known there lived 3,154 persons, 1,707 (50.32%) of them male and 1,685 (49.68%) female. Of these 3,154 persons, 449 (234 male and 215 female) lived in 3 settlements of the district of Pyzdry, 1,368 persons (691 male and 6776 female) lived in 22 settlements of the district of Kalisz, and 1,337 persons (654 male and 683 female) lived in 20 settlements of the district of Konin. The social, property and occupational structure can be grasped for only 25 Olęder settlements (3 in the district of Pyzdry and 22 in the district of Kalisz). There were in all in them 1,518 farmers and rent-paying cottagers (that is Olęders proper with the members of their families), who can in principle be regarded as one and the same social and occupational category, 50 lodgers, 7 craftsmen, 13 innkeepers and tapsters, 102 farm servants and servants, 68 *luźni* (landless persons) and 59 other persons. The confessional structure of the inhabitants of the 58 Olęder settlements founded in the years 1746-1792 in the Pyzdry Forest varied. A population Protestant by confession predominated in them, and, judging not only from religion but also from names and other indications, ethnically German, but it made up no more than about 52% of the whole population. The composition in this respect of the 1,337 inhabitants of 20 of the 28 Olęder settlements in the district of Konin, which is known more exactly, was as follows: there were 6 settlements inhabited exclusively by dissenters, 385 in all (Lutherans, and perhaps to a small degree Reformed Protestants), 4 with a Catholic population, 210 in all, and 10 settlements with a mixed population, Catholic and Protestant (almost exclusively Lutheran), with 365 Catholics and 377 dissenters in all. So in all these settlements there lived 575 Catholics and 762 dissenters in all, that is Protestants – Lutherans, and perhaps in two or three of these settlements also Reformed. The places the settlers came from are not exactly known, but on the strength of certain indications given above (the measures of land, the similarity of names, the dialects used) it seems that they came to the settlements from the borderland of Greater Poland and Silesia and from Silesia, and from older Protestant Olęder, and perhaps sołtys, settlements, chiefly in western Greater Poland, not known by name, but mostly from the same places (as their kinship, legible in identical surnames, seems to show). Ethnically about 52% of them were Germans. Assuming that confession and ethnicity coincided in about 90%, it may be accepted
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-144">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-144">S. 144</a></h2>
+<section class="lit-passage" id="p-144" data-page="144">
+<div class="pg" id="p144"><a href="#p144">S. 144</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 że ok. 38% stanowili wśród mieszkańców olędrów w Puszczy Pyzdrskiej Polacy. Dokładnych ustaleń nie można tu podać, ponieważ poczucie tożsamości i identyfikacji etnicznej wśród ludności, zwłaszcza chłopskiej, nie było wówczas tak jednoznaczne, jak dzisiaj, i dopiero zaczynało się kształtować.
@@ -5466,12 +5205,10 @@ that about 38% of the inhabitants of the Olęder villages in the Pyzdry Forest w
 4) The inhabitants of the Olęder settlements that arose in the Pyzdry Forest lived according to the principles of Olęder law, that is the solidarity of the whole commune towards the manor and internal equality among themselves. The Olęders, unlike the peasants owing labour service, were always personally free. The Olęders' subjection as to the land showed itself in their rights in rem to the land, through the definition of the forms of holding it and the conditions of the freedom to alienate and sell farms, in their rights of use on the lord's land (the so-called servitudes of pasture, fishing and others), and in their dependence on the manor's monopolies (chiefly that of propination). The most important of them, the right to the land, took in Greater Poland in the eighteenth century, apart from a few exceptions of emphyteusis in the sense of a short-term lease of land, for several decades, in principle the form of emphyteusis in the sense of a lease unlimited in time, perpetual, tied to the requirement that the holding of land first be bought by entry money, which once the entry money was paid turned in practice into a perpetual rent tenure (German *Erbzinsrecht*). The ownership of the land assigned to the Olęders was not full but usufructuary and divided, since its legal owner was still the lord, who, however, had no right to remove an Olęder from it as long as he used it in accordance with the provisions of the charter. The self-government of the Olęder communes consisted of a sołtys and, mostly, two assessors, elected by the commune assemblies, with in principle a one-year term. As the commune court, the sołtys and the assessors were to keep internal peace and order in the settlements and to settle quarrels and disputes. They judged by Olęder law, whose terms were set by the foundation charters of the individual settlements and, for some of them, also by the *wilkierze*. From the judgments of the commune court the Olęders had the right of appeal to the manor, that is to the *dominium* (lord's) court, for which the right to judge in criminal cases of robbery, arson, homicide and serious bodily harm), and of course all offences against the lord, was also reserved. The Olęders' judicial subjection consisted precisely in their being subject to the *dominium* (lord's) court to this extent. The villages they inhabited were for the most part independent spatial-economic, legal-constitutional and administrative-judicial units (communes). Some of them, however, namely 14, formed two-village communes, and in one case even a three-village commune, with common sołtyses. 5) The inhabitants of the 58 Olęder settlements in the Pyzdry Forest in the eighteenth century were nearly 98% directly occupied in farming. This is confirmed, indirectly, by the fact mentioned above that of the total of 681 hearths in 1789, as many as 662 hearths were counted as farming hearths in 1791. For the innkeepers, smallholders, teachers and others with smaller holdings of land, too, work in farming was an important additional occupation. The basic branch of the Olęders' farming was crop-growing, and especially grain. Garden crops were of secondary, supplementary
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-145">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-145">S. 145</a></h2>
+<section class="lit-passage" id="p-145" data-page="145">
+<div class="pg" id="p145"><a href="#p145">S. 145</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 znaczenie miały też uprawy ogrodowe. Drugi ważny dział gospodarki mieszkańców osad olęderskich w Puszczy Pyzdrskiej stanowiła hodowla zwierząt – bydła, owiec i świń, a także koni oraz drobiu. Olędrzy brali aktywny udział w handlu, sprzedając nadwyżki swoich produktów rolnych (zboże) i hodowlanych (bydło, konie, świnie, drób i nabiał), niekiedy także handlując towarami wytwarzanymi lub uzyskiwanymi w ramach zajęć pozarolniczych (np. rzemiosł, pszczelarstwa) i kupując w zamian zboże oraz inne artykuły spożywcze, drewno, lub narzędzia na targach i jarmarkach w miastach. Z tytułu wieczystego, dziedzicznego użytkowania ziemi mieszkańcy olędrów lokowanych w Puszczy Pyzdrskiej zobowiązani byli do świadczenia na rzecz panów – założycieli osad oraz spadkobierców tychże – czynszów pieniężnych od gruntów, danin w naturze i robocizn (tłok – sezonowej pańszczyzny w czasie żniw i sianokosów i innych posług oraz dróg), uiszczanych w wymiarze rocznym, po upływie wolnizny oraz do zakupu dworskich trunków w ramach przymusu propinacyjnego. Ponadto ponosili pewne opłaty administracyjne, np. od sprzedaży gruntów. Najważniejszym obciążeniem był czynsz pieniężny płacony na ogół raz na rok, w określonym terminie i w kwocie odpowiedniej do wielkości posiadanego nadziału (gospodarstwa). Był on zbierany od poszczególnych gospodarzy i przekazywany wspólnie przez sołtysa wsi za pokwitowaniem pana feudalnego lub jego przedstawiciela. Mieszkańcy wszystkich osad olęderskich założonych w XVIII w. w Puszczy Pyzdrskiej zobowiązani byli także, jak mieszkańcy innych wsi, do świadczeń na rzecz państwa w postaci uiszczanych co roku w dwóch ratach (marcowej i wrześniowej) podatków w pieniądzu – pogłównego, poświadczonego w osobnych taryfach dla lat w 1775 r. i 1789-1790, hiberny w osadach położonych w dobrach królewskich w taryfie z 1775 r., ofiary 10 gr (w dobrach szlacheckich) i 20 gr w dobrach duchownych z 1789 r. i podatku w naturze tzw. zsypki z dymów „samorolnych” [rolniczych] w postaci określonej liczby korców żyta i owsa z takiego dymu. Ponadto wszyscy mieszkańcy wielu osad olęderskich, katolicy, ale także w znacznej części ewangelicy, zobowiązani byli do świadczeń na rzecz Kościoła rzymsko-katolickiego w postaci opłat *jura stolae* (tj. od chrztów, ślubów i pogrzebów), mesznego i kolędy. Ewangelicy zobowiązani byli płacić *jura stolae* zarówno do 1768 r., jak nieraz i po ustawie tolerancyjnej z tego roku, zwłaszcza wtedy kiedy osiadali na grutach dawniej zasiedlonych, a później opustoszałych, w olędrach powstałych na miejscu osad średniowiecznych, przypisanych pod tym względem do parafii, nieraz także w aktach erekcyjnych tych okręgów parafialnych.
@@ -5486,12 +5223,10 @@ importance. The second important branch of the economy of the inhabitants of the
 6) The material and spiritual culture and the daily life of the people of the Olęder settlements in the Pyzdry Forest in the eighteenth century are not easy to describe, because the information in the written sources is very scanty. Supplementing it with data from museum documentation, the ethnographic literature and modern research, it can be said that, in the case of dwelling and farm buildings, the architecture of the buildings has common features characteristic of the area of the Pyzdry Forest.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-146">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-146">S. 146</a></h2>
+<section class="lit-passage" id="p-146" data-page="146">
+<div class="pg" id="p146"><a href="#p146">S. 146</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Gdy idzie o kulturę duchową, to można stwierdzić, że mieszkańcy osad olęderskich w Puszczy Pyzdrskiej mieli zagwarantowaną wolność religijną i swobodę kultu publicznego w formie właściwej dla ich religii. Miejscem jego praktykowania były w każdej wsi zamieszkałej przez ewangelików w tym okresie szkoły-domy modlitwy, a nabożeństwu w podstawowym zakresie przewodniczyli nauczyciele (lektorzy) uczący w nich dzieci, zwłaszcza podstaw religii i przygotowujący je do konfirmacji. Olędrzy-dysydenci (ewangelicy) posiadali też własne cmentarze grzebalne, których relikty zachowały się do dziś w zasadzie we wszystkich wsiach, w których oni żyli. Na kulturę życia codziennego ludności osad olęderskich składały się warunki mieszkaniowe (domy mieszkalne z ich wyposażeniem), praca, ubranie, pożywienie, zwyczaje i obyczaje związane z ich produkcją, podziałem i użytkowaniem. Ubierano się odpowiednio do zwyczajów przeniesionych z miejsc pochodzenia, inaczej – co oczywiste – na co dzień, a inaczej od święta, w odzież głównie własnej produkcji, z płótna lnianego i wełny owczej, ale też częściowo szytą z sukna kupowanego w miastach i miasteczkach. Wyżywienie ludności osad olęderskich powstałych w Puszczy Pyzdrskiej nie odbiegało zasadniczo od innych osad i było adekwatne do zamożności. Jedzono chleb żytni i inne potrawy zbożowe lub mączne, kasze, warzywa, masło, ser, od czasu do czasu mięso, w okresie postu zapewne śledzie i inne ryby, które olędrzy mieli prawo poławiać na wodach przyległych do ich gruntów, oraz miód z własnych pasiek, owoce; zapijano powszechnym wówczas piwem, a także mlekiem. Różne przejawy kultury materialnej i duchowej olędrów w porównaniu ze znanymi dla polskiej ludności wiejskiej, nawet po upływie wieku wykazywały różnice. Wynikało to z odrębności językowej, religijnej separacji i niechęci do asymilacji ze strony olędrów, jak też różnic w mentalności obu stron. Niemniej dochodziło pomiędzy nimi do pewnych kontaktów i przejmowania lub naśladowania niektórych działań, zwłaszcza w zakresie gospodarki rolnej i hodowli, w których olędrzy przodowali.
@@ -5510,12 +5245,10 @@ Summing up this outline of the earliest history of the Olęder settlements in th
 In appreciating the contribution of Olęder settlement to the development of the network of settlements and to the social and economic development of the area, it should be seen in the context of rural settlement as a whole, not only that of its own time but also earlier and later. For in the years 1794/1796-1863 further changes took place in the settlement structure of the area of the Pyzdry Forest. In this period at least 28 settlements were founded. Of these, at least 17 Olęder settlements arose by the 1840s, and by the beginning of the 1860s 11 other rent-paying settlements, among them such as Święcia, Olchowo, Emilienheim, that is Oleśnica, Michalinów, Tarszewo, Grądzeń Las, Mały Las, Chruściki, Grądzeń, Drzewce, Kopojno, Oleśnica Kolonia, Oleśnica Wielka and Zarzew, in the then communes of Dąbroszyn, Oleśnica and Dłusk. Some of them were founded in the period of South Prussia on the site of old villages, deserted or
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-147">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-147">S. 147</a></h2>
+<section class="lit-passage" id="p-147" data-page="147">
+<div class="pg" id="p147"><a href="#p147">S. 147</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wyrugowanych z dotychczasowych mieszkańców<sup class="lit-fn"><a href="#n-pl-366">366</a></sup>. W tym samym czasie i później poszczególne części Pyzdrskich Olędrów w miarę podziału obszaru większych gospodarstw i dosiedlania nowych osadników przekształcały się w wielodworcze przestrzennie i osobne administracyjnie wsie. W rezultacie pierwotnie jedna, pod względem administracyjnym i sądowym osada o kolonijnej rozrzuconej (rozproszonej) zabudowie w postaci tzw. pustkowi, przekształciła się w 9, czy nawet, licząc kolejno na obwodzie puszczy, 12 odrębnych osiedli: Kruszyny, Zamość, Grądy Dolne i Górne, Baraniec, Zimochowiec, Tłoczyzna, Glinianki, Trzcianki, Zapowiednia, Żdżary i Królewiny. W tym czasie także z niektórych innych staropolskich osad olęderskich wyodrębniły się z czasem 2 lub nawet 3 osobne osady, np. Białobłockie Ol. podzieliły się na: Białobłoty, Garncarski Kąt i Krzyżówkę.
@@ -5554,12 +5287,10 @@ In the inter-war period about 12 new settlements arose, often in the character o
 <span class="lit-note" id="n-en-369">369</span> E. Kneifel, Die evangelisch-augsburgischen Gemeinden der Kalischer Diöcese..., Leipzig 1937; K. Gorczyca, *Żychlin pod Koninem: dzieje wsi i zboru* [Żychlin near Konin: the history of the village and the church], Warsaw, "Semper" 1997.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-148">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-148">S. 148</a></h2>
+<section class="lit-passage" id="p-148" data-page="148">
+<div class="pg" id="p148"><a href="#p148">S. 148</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 rolnej z 1925 r. Wtedy także, w ramach realizacji tych postanowień, które dotyczyły likwidacji służebności, miasto Pyzdry utraciło 785 ha terenów leśnych na rzecz właścicieli działek, na których ciążył obowiązek ochrony miejskich borów. Nowo tworzone działki wytyczano enklawami wewnątrz obrębów leśnych o cennym drzewostanie, z przewagą udziału dębu. Akcja ta prowadzona chaotycznie, przyczyniła się do dezorganizacji racjonalnej niegdyś gospodarki leśnej i do powstania pokaźnej liczby nowych gospodarstw, także w ramach wsi starszych, bez jakichkolwiek zasad planistycznych. Równocześnie postępował dalej rozpoczęty już w XIX w. proces rozdrabniania gospodarstw, trwający tu z pewnymi przerwami aż do wydania ustawy o ochronie gruntów rolnych i leśnych w 1971 r.
@@ -5586,15 +5317,13 @@ There have survived to this day in the Olęder settlements of the Pyzdry Forest 
 These monuments and this toponymy, being a common historical – human, European – cultural value, raise the tourist attraction of the micro-region of the Pyzdry Forest. They should be protected and cared for permanently by the local communities, local government institutions, religious bodies, schools, and social, cultural, sightseeing and tourist organisations. The Cultural Society "Echo Pyzdr" has done much to protect these monuments, document them and spread knowledge of them in society. Its work helps to deepen the historical awareness of the inhabitants of the individual places and of the whole region, and to spread knowledge of the important elements of the historical space and the cultural heritage not only at the local but also at the wider regional and national level.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-149">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-149">S. 149</a></h2>
+<section class="lit-passage" id="p-149" data-page="149">
+<div class="pg" id="p149"><a href="#p149">S. 149</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Słowniczek staropolskich pojęć
+## Słowniczek staropolskich pojęć
 
 **asekuracja** – tu: zabezpieczenie, poręczenie na piśmie.
 
@@ -5629,7 +5358,7 @@ dobra stołowe – dobra stanowiące uposażenie, źródło dochodów i podstaw�
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### Glossary of Old Polish terms
+## Glossary of Old Polish terms
 
 **asekuracja** – here: a security, a written guarantee.
 
@@ -5662,12 +5391,10 @@ dobra stołowe (mensal estates) – estates forming the endowment, the source of
 **komornicy** (lodgers) – a category of the landless rural population found in the fourteenth to nineteenth centuries, owning neither cottages nor land, living most often with farmers (Olęders too) and living by hired work for them or at the manor, often as servants; sometimes owning a few animals and tilling, in return for work, scraps of land; the poorest stratum of the settled rural population.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-150">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-150">S. 150</a></h2>
+<section class="lit-passage" id="p-150" data-page="150">
+<div class="pg" id="p150"><a href="#p150">S. 150</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 **kontraktowy** – chłop (także olęder), częściej rzemieślnik osiadły we wsi za indywidualnym kontraktem, czyli umową zawartą z panem feudalnym, dziedzicem lub posiadaczem dóbr ziemskich.
@@ -5758,12 +5485,10 @@ przestęp – (white or red bryony) – a perennial, a common plant of the gourd
 **siąg kwadratowy** (square siąg), otherwise *sążeń* – a non-metric measure; the Old Polish one – 1.786 m (according to the constitution
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-151">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-151">S. 151</a></h2>
+<section class="lit-passage" id="p-151" data-page="151">
+<div class="pg" id="p151"><a href="#p151">S. 151</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 1764); pochodną sążnia jest sąg – jako sześcienna miara drewna, 1 sąg (leśny, do drzewa) = ½ sążnia sześciennego = 2,58 m³.
@@ -5842,15 +5567,13 @@ of 1764); derived from the *sążeń* is the *sąg*, a cubic measure of wood: 1 
 **złoty polski**, or złoty (*złotówka*) – a Polish silver coin, from 1764 equal to 4 silver groszy, 2 half-złoty, or 30 copper groszy.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-152">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-152">S. 152</a></h2>
+<section class="lit-passage" id="p-152" data-page="152">
+<div class="pg" id="p152"><a href="#p152">S. 152</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
-### Spis ilustracji
+## Spis ilustracji
 
 1\. Osady olęderskie w Puszczy Pyzdrskiej, lokowane w latach 1746-1792, na fragmencie *Mapy szczegulnej*[!] *Województwa Kaliskiego Karola de Perthéesa* [b.d.[1791?] i ok. 1801 r. w skali 1:225 000.
 
@@ -5887,7 +5610,7 @@ of 1764); derived from the *sążeń* is the *sąg*, a cubic measure of wood: 1 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### List of illustrations
+## List of illustrations
 
 1\. The Olęder settlements in the Pyzdry Forest founded in the years 1746-1792, on a part of the *Mapa szczegulna*[!] *Województwa Kaliskiego* of Karol de Perthées [n.d. [1791?] and about 1801, at a scale of 1:225,000.
 
@@ -5922,12 +5645,10 @@ of 1764); derived from the *sążeń* is the *sąg*, a cubic measure of wood: 1 
 16\. Part of the emphyteutic-perpetual foundation charter for the Dzierzbińskie-Zamęty and Zdanowiec Ol., issued on 25 VI 1783 by Kazimierz Poraj Biernacki, *wojski* of the district of Ostrzeszów, owner of the estates of Siąszyce and Dzierzbin and of the property of Sul[i]szew. APP, Kalisz. Gr. 448, fols. 216v-218.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-153">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-153">S. 153</a></h2>
+<section class="lit-passage" id="p-153" data-page="153">
+<div class="pg" id="p153"><a href="#p153">S. 153</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 17\. (1-2) Fragmenty przywileju lokacyjnego, emfiteutycznego dla Plewińskich (Starych) i Nowych al. Kuźnickich Olędrów wystawionego 1 IX 1793 r. przez Antoniego Kawieckiego, dziedzica dóbr Kuszyn i Plewnie. APP, Kal. Gr. 488, k. 26v.-28.
@@ -5974,12 +5695,10 @@ Pozostałe ilustracje (skany) dokumentów archiwalnych związanych z historią o
 The other illustrations (scans) of archival documents on the history of Olęder settlement in the Pyzdry Forest, which for lack of space could not be included in this publication, can be found on the website www.puszczapyzdrska.com, under the tab: archival documents.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-154">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-154">S. 154</a></h2>
+<section class="lit-passage" id="p-154" data-page="154">
+<div class="pg" id="p154"><a href="#p154">S. 154</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 **Wydawca**:
@@ -6034,12 +5753,10 @@ ISBN: 978-83-943651-0-3
 First edition, Pyzdry 2015
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-155">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-155">S. 155</a></h2>
+<section class="lit-passage" id="p-155" data-page="155">
+<div class="pg" id="p155"><a href="#p155">S. 155</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Zbigniew Chodyła – doktor nauk humanistycznych w zakresie historii, autor
@@ -6066,12 +5783,10 @@ Support the work of discovering the Pyzdry Forest!
 Give **1%** to: the Cultural Society "Echo Pyzdr", KRS 0000117319. Help build a good image of our Little Homeland...
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-156">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-156">S. 156</a></h2>
+<section class="lit-passage" id="p-156" data-page="156">
+<div class="pg" id="p156"><a href="#p156">S. 156</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 **ISBN: 978-83-943651-0-3**
@@ -6082,6 +5797,7 @@ Give **1%** to: the Cultural Society "Echo Pyzdr", KRS 0000117319. Help build a 
 **ISBN: 978-83-943651-0-3**
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

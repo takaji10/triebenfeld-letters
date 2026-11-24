@@ -7,16 +7,112 @@ alt_url: "/literature/feuerbraende1807/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-1-front">1: Titel</a> <a href="#p-1-IV">IV</a> <a href="#p-1-1">1: 1</a> <a href="#p-1-2">2</a> <a href="#p-1-3">3</a> <a href="#p-1-4">4</a> <a href="#p-1-5">5</a> <a href="#p-1-6">6</a> <a href="#p-1-7">7</a> <a href="#p-1-8">8</a> <a href="#p-1-9">9</a> <a href="#p-1-10">10</a> <a href="#p-1-11">11</a> <a href="#p-1-12">12</a> <a href="#p-1-13">13</a> <a href="#p-1-14">14</a> <a href="#p-1-15">15</a> <a href="#p-1-16">16</a> <a href="#p-1-17">17</a> <a href="#p-1-18">18</a> <a href="#p-1-19">19</a> <a href="#p-1-20">20</a> <a href="#p-1-21">21</a> <a href="#p-1-22">22</a> <a href="#p-1-23">23</a> <a href="#p-1-24">24</a> <a href="#p-1-25">25</a> <a href="#p-1-26">26</a> <a href="#p-1-27">27</a> <a href="#p-1-28">28</a> <a href="#p-1-29">29</a> <a href="#p-1-30">30</a> <a href="#p-1-31">31</a> <a href="#p-1-32">32</a> <a href="#p-1-33">33</a> <a href="#p-1-34">34</a> <a href="#p-1-35">35</a> <a href="#p-1-36">36</a> <a href="#p-1-37">37</a> <a href="#p-1-38">38</a> <a href="#p-1-39">39</a> <a href="#p-1-40">40</a> <a href="#p-1-41">41</a> <a href="#p-1-42">42</a> <a href="#p-1-43">43</a> <a href="#p-1-44">44</a> <a href="#p-1-45">45</a> <a href="#p-1-46">46</a> <a href="#p-1-47">47</a> <a href="#p-1-48">48</a> <a href="#p-1-49">49</a> <a href="#p-1-50">50</a> <a href="#p-1-51">51</a> <a href="#p-1-52">52</a> <a href="#p-1-53">53</a> <a href="#p-1-54">54</a> <a href="#p-1-55">55</a> <a href="#p-1-56">56</a> <a href="#p-1-57">57</a> <a href="#p-1-58">58</a> <a href="#p-1-59">59</a> <a href="#p-1-60">60</a> <a href="#p-1-61">61</a> <a href="#p-1-62">62</a> <a href="#p-1-63">63</a> <a href="#p-1-64">64</a> <a href="#p-1-65">65</a> <a href="#p-1-66">66</a> <a href="#p-1-67">67</a> <a href="#p-1-68">68</a> <a href="#p-1-69">69</a> <a href="#p-1-70">70</a> <a href="#p-1-71">71</a> <a href="#p-1-72">72</a> <a href="#p-1-73">73</a> <a href="#p-1-74">74</a> <a href="#p-1-75">75</a> <a href="#p-1-76">76</a> <a href="#p-1-77">77</a> <a href="#p-1-78">78</a> <a href="#p-1-79">79</a> <a href="#p-1-80">80</a> <a href="#p-1-81">81</a> <a href="#p-1-82">82</a> <a href="#p-1-83">83</a> <a href="#p-1-84">84</a> <a href="#p-1-85">85</a> <a href="#p-1-86">86</a> <a href="#p-1-87">87</a> <a href="#p-1-88">88</a> <a href="#p-1-89">89</a> <a href="#p-1-90">90</a> <a href="#p-1-91">91</a> <a href="#p-1-92">92</a> <a href="#p-1-93">93</a> <a href="#p-1-94">94</a> <a href="#p-1-95">95</a> <a href="#p-1-96">96</a> <a href="#p-1-97">97</a> <a href="#p-1-98">98</a> <a href="#p-1-99">99</a> <a href="#p-1-100">100</a> <a href="#p-1-101">101</a> <a href="#p-1-102">102</a> <a href="#p-1-103">103</a> <a href="#p-1-104">104</a> <a href="#p-1-105">105</a> <a href="#p-1-106">106</a> <a href="#p-1-107">107</a> <a href="#p-1-108">108</a> <a href="#p-1-109">109</a> <a href="#p-1-110">110</a> <a href="#p-1-111">111</a> <a href="#p-1-112">112</a> <a href="#p-1-113">113</a> <a href="#p-1-114">114</a> <a href="#p-1-115">115</a> <a href="#p-1-116">116</a> <a href="#p-1-117">117</a> <a href="#p-1-118">118</a> <a href="#p-1-119">119</a> <a href="#p-1-120">120</a> <a href="#p-1-121">121</a> <a href="#p-1-122">122</a> <a href="#p-1-123">123</a> <a href="#p-1-124">124</a> <a href="#p-2-front">2: Titel</a> <a href="#p-2-V">V</a> <a href="#p-2-VI">VI</a> <a href="#p-2-1">2: 1</a> <a href="#p-2-2">2</a> <a href="#p-2-3">3</a> <a href="#p-2-4">4</a> <a href="#p-2-5">5</a> <a href="#p-2-6">6</a> <a href="#p-2-7">7</a> <a href="#p-2-8">8</a> <a href="#p-2-9">9</a> <a href="#p-2-10">10</a> <a href="#p-2-11">11</a> <a href="#p-2-12">12</a> <a href="#p-2-13">13</a> <a href="#p-2-14">14</a> <a href="#p-2-15">15</a> <a href="#p-2-16">16</a> <a href="#p-2-17">17</a> <a href="#p-2-18">18</a> <a href="#p-2-19">19</a> <a href="#p-2-20">20</a> <a href="#p-2-21">21</a> <a href="#p-2-22">22</a> <a href="#p-2-23">23</a> <a href="#p-2-24">24</a> <a href="#p-2-25">25</a> <a href="#p-2-26">26</a> <a href="#p-2-27">27</a> <a href="#p-2-28">28</a> <a href="#p-2-29">29</a> <a href="#p-2-30">30</a> <a href="#p-2-31">31</a> <a href="#p-2-32">32</a> <a href="#p-2-33">33</a> <a href="#p-2-34">34</a> <a href="#p-2-35">35</a> <a href="#p-2-36">36</a> <a href="#p-2-37">37</a> <a href="#p-2-38">38</a> <a href="#p-2-39">39</a> <a href="#p-2-40">40</a> <a href="#p-2-41">41</a> <a href="#p-2-42">42</a> <a href="#p-2-43">43</a> <a href="#p-2-44">44</a> <a href="#p-2-45">45</a> <a href="#p-2-46">46</a> <a href="#p-2-47">47</a> <a href="#p-2-48">48</a> <a href="#p-2-49">49</a> <a href="#p-2-50">50</a> <a href="#p-2-51">51</a> <a href="#p-2-52">52</a> <a href="#p-2-53">53</a> <a href="#p-2-54">54</a> <a href="#p-2-55">55</a> <a href="#p-2-56">56</a> <a href="#p-2-57">57</a> <a href="#p-2-58">58</a> <a href="#p-2-59">59</a> <a href="#p-2-60">60</a> <a href="#p-2-61">61</a> <a href="#p-2-62">62</a> <a href="#p-2-63">63</a> <a href="#p-2-64">64</a> <a href="#p-2-65">65</a> <a href="#p-2-66">66</a> <a href="#p-2-67">67</a> <a href="#p-2-68">68</a> <a href="#p-2-69">69</a> <a href="#p-2-70">70</a> <a href="#p-2-71">71</a> <a href="#p-2-72">72</a> <a href="#p-2-73">73</a> <a href="#p-2-74">74</a> <a href="#p-2-75">75</a> <a href="#p-2-76">76</a> <a href="#p-2-77">77</a> <a href="#p-2-78">78</a> <a href="#p-2-79">79</a> <a href="#p-2-80">80</a> <a href="#p-2-81">81</a> <a href="#p-2-82">82</a> <a href="#p-2-83">83</a> <a href="#p-2-84">84</a> <a href="#p-2-85">85</a> <a href="#p-2-86">86</a> <a href="#p-2-87">87</a> <a href="#p-2-88">88</a> <a href="#p-2-89">89</a> <a href="#p-2-90">90</a> <a href="#p-2-91">91</a> <a href="#p-2-92">92</a> <a href="#p-2-93">93</a> <a href="#p-2-94">94</a> <a href="#p-2-95">95</a> <a href="#p-2-96">96</a> <a href="#p-2-97">97</a> <a href="#p-2-98">98</a> <a href="#p-2-99">99</a> <a href="#p-2-100">100</a> <a href="#p-2-101">101</a> <a href="#p-2-102">102</a> <a href="#p-2-103">103</a> <a href="#p-2-104">104</a> <a href="#p-2-105">105</a> <a href="#p-2-106">106</a> <a href="#p-2-107">107</a> <a href="#p-2-108">108</a> <a href="#p-2-109">109</a> <a href="#p-2-110">110</a> <a href="#p-2-111">111</a> <a href="#p-2-112">112</a> <a href="#p-2-113">113</a> <a href="#p-2-114">114</a> <a href="#p-2-115">115</a> <a href="#p-2-116">116</a> <a href="#p-2-117">117</a> <a href="#p-2-118">118</a> <a href="#p-2-119">119</a> <a href="#p-2-120">120</a> <a href="#p-2-121">121</a> <a href="#p-2-122">122</a> <a href="#p-2-123">123</a> <a href="#p-2-124">124</a> <a href="#p-2-125">125</a> <a href="#p-2-126">126</a> <a href="#p-2-127">127</a> <a href="#p-2-128">128</a> <a href="#p-3-front">3: Titel</a> <a href="#p-3-v">v</a> <a href="#p-3-VI">VI</a> <a href="#p-3-VII">VII</a> <a href="#p-3-VIII">VIII</a> <a href="#p-3-1">3: 1</a> <a href="#p-3-2">2</a> <a href="#p-3-3">3</a> <a href="#p-3-4">4</a> <a href="#p-3-5">5</a> <a href="#p-3-6">6</a> <a href="#p-3-7">7</a> <a href="#p-3-8">8</a> <a href="#p-3-9">9</a> <a href="#p-3-10">10</a> <a href="#p-3-11">11</a> <a href="#p-3-12">12</a> <a href="#p-3-13">13</a> <a href="#p-3-14">14</a> <a href="#p-3-15">15</a> <a href="#p-3-16">16</a> <a href="#p-3-17">17</a> <a href="#p-3-18">18</a> <a href="#p-3-19">19</a> <a href="#p-3-20">20</a> <a href="#p-3-21">21</a> <a href="#p-3-22">22</a> <a href="#p-3-23">23</a> <a href="#p-3-24">24</a> <a href="#p-3-25">25</a> <a href="#p-3-26">26</a> <a href="#p-3-27">27</a> <a href="#p-3-28">28</a> <a href="#p-3-29">29</a> <a href="#p-3-30">30</a> <a href="#p-3-31">31</a> <a href="#p-3-32">32</a> <a href="#p-3-33">33</a> <a href="#p-3-34">34</a> <a href="#p-3-35">35</a> <a href="#p-3-36">36</a> <a href="#p-3-37">37</a> <a href="#p-3-38">38</a> <a href="#p-3-39">39</a> <a href="#p-3-40">40</a> <a href="#p-3-41">41</a> <a href="#p-3-42">42</a> <a href="#p-3-43">43</a> <a href="#p-3-44">44</a> <a href="#p-3-45">45</a> <a href="#p-3-46">46</a> <a href="#p-3-47">47</a> <a href="#p-3-48">48</a> <a href="#p-3-49">49</a> <a href="#p-3-50">50</a> <a href="#p-3-51">51</a> <a href="#p-3-52">52</a> <a href="#p-3-53">53</a> <a href="#p-3-54">54</a> <a href="#p-3-55">55</a> <a href="#p-3-56">56</a> <a href="#p-3-57">57</a> <a href="#p-3-58">58</a> <a href="#p-3-59">59</a> <a href="#p-3-60">60</a> <a href="#p-3-61">61</a> <a href="#p-3-62">62</a> <a href="#p-3-63">63</a> <a href="#p-3-64">64</a> <a href="#p-3-65">65</a> <a href="#p-3-66">66</a> <a href="#p-3-67">67</a> <a href="#p-3-68">68</a> <a href="#p-3-69">69</a> <a href="#p-3-70">70</a> <a href="#p-3-71">71</a> <a href="#p-3-72">72</a> <a href="#p-3-73">73</a> <a href="#p-3-74">74</a> <a href="#p-3-75">75</a> <a href="#p-3-76">76</a> <a href="#p-3-77">77</a> <a href="#p-3-78">78</a> <a href="#p-3-79">79</a> <a href="#p-3-80">80</a> <a href="#p-3-81">81</a> <a href="#p-3-82">82</a> <a href="#p-3-83">83</a> <a href="#p-3-84">84</a> <a href="#p-3-85">85</a> <a href="#p-3-86">86</a> <a href="#p-3-87">87</a> <a href="#p-3-88">88</a> <a href="#p-3-89">89</a> <a href="#p-3-90">90</a> <a href="#p-3-91">91</a> <a href="#p-3-92">92</a> <a href="#p-3-93">93</a> <a href="#p-3-94">94</a> <a href="#p-3-95">95</a> <a href="#p-3-96">96</a> <a href="#p-3-97">97</a> <a href="#p-3-98">98</a> <a href="#p-3-99">99</a> <a href="#p-3-100">100</a> <a href="#p-3-101">101</a> <a href="#p-3-102">102</a> <a href="#p-3-103">103</a> <a href="#p-3-104">104</a> <a href="#p-3-105">105</a> <a href="#p-3-106">106</a> <a href="#p-3-107">107</a> <a href="#p-3-108">108</a> <a href="#p-3-109">109</a> <a href="#p-3-110">110</a> <a href="#p-3-111">111</a> <a href="#p-3-112">112</a> <a href="#p-3-113">113</a> <a href="#p-3-114">114</a> <a href="#p-3-115">115</a> <a href="#p-3-116">116</a> <a href="#p-3-117">117</a> <a href="#p-3-118">118</a> <a href="#p-3-119">119</a> <a href="#p-3-120">120</a> <a href="#p-3-121">121</a> <a href="#p-3-122">122</a> <a href="#p-3-123">123</a> <a href="#p-3-124">124</a> <a href="#p-3-125">125</a> <a href="#p-3-126">126</a> <a href="#p-3-127">127</a> <a href="#p-3-128">128</a> <a href="#p-3-129">129</a> <a href="#p-3-130">130</a> <a href="#p-3-131">131</a> <a href="#p-3-132">132</a> <a href="#p-3-133">133</a> <a href="#p-3-134">134</a> <a href="#p-3-135">135</a> <a href="#p-3-136">136</a> <a href="#p-3-137">137</a> <a href="#p-3-138">138</a> <a href="#p-3-139">139</a> <a href="#p-3-140">140</a> <a href="#p-3-141">141</a> <a href="#p-3-142">142</a> <a href="#p-3-143">143</a> <a href="#p-3-144">144</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-1-front"><span class="toc-e">New Firebrands.</span><span class="toc-o" lang="de">Neue Feuerbrände.</span></a></li>
+<li class="l2"><a href="#p-1-front"><span class="toc-e">Contents.</span><span class="toc-o" lang="de">Inhalt.</span></a></li>
+<li class="l2"><a href="#p-1-1"><span class="toc-e">Correspondence</span><span class="toc-o" lang="de">Correspondenz</span> <span class="toc-p">S. 1</span></a></li>
+<li class="l3"><a href="#p-1-1"><span class="toc-e">Letter from Jena.</span><span class="toc-o" lang="de">Schreiben aus Jena.</span> <span class="toc-p">S. 1</span></a></li>
+<li class="l3"><a href="#p-1-8"><span class="toc-e">Letter from Jena. Continuation.</span><span class="toc-o" lang="de">Schreiben aus Jena. Fortsetzung.</span> <span class="toc-p">S. 8</span></a></li>
+<li class="l3"><a href="#p-1-14"><span class="toc-e">On the Now-General Debasement of the Prussian Military.</span><span class="toc-o" lang="de">Ueber die jetzt allgemeine Herabwürdigung des preußischen Militairs.</span> <span class="toc-p">S. 14</span></a></li>
+<li class="l3"><a href="#p-1-21"><span class="toc-e">The Annexation of Great Poland Was Prussia&#x27;s Ruin.</span><span class="toc-o" lang="de">Groß-Pohlens Besitznahme war der Untergang Preußens.</span> <span class="toc-p">S. 21</span></a></li>
+<li class="l3"><a href="#p-1-25"><span class="toc-e">Is it true that in a country in which the agricultural trade is predominantly carried on, every kind of tax falls upon the landed proprietors?</span><span class="toc-o" lang="de">Ist es wahr, daß in dem Lande, in welchem vorzüglich das landwirthschaftliche Gewerbe getrieben wird, jede Art von Abgaben die Grundeigenthümer treffe?</span> <span class="toc-p">S. 25</span></a></li>
+<li class="l3"><a href="#p-1-38"><span class="toc-e">Prussia&#x27;s Impending Ruin after the Battle of Auerstädt.</span><span class="toc-o" lang="de">Preußens naher Verfall nach der Schlacht bey Auerstädt.</span> <span class="toc-p">S. 38</span></a></li>
+<li class="l3"><a href="#p-1-86"><span class="toc-e">Postscript.</span><span class="toc-o" lang="de">Nachschrift.</span> <span class="toc-p">S. 86</span></a></li>
+<li class="l3"><a href="#p-1-89"><span class="toc-e">History of the Attack, the Blockade, and the Surrender of Glogau, by Carl Friedrich Benkowitz.</span><span class="toc-o" lang="de">Geschichte des Angriffs, der Blockirung und Uebergabe von Glogau, von Carl Friedrich Benkowitz.</span> <span class="toc-p">S. 89</span></a></li>
+<li class="l3"><a href="#p-1-92"><span class="toc-e">Berlin, 21 October.</span><span class="toc-o" lang="de">Berlin, den 21ten October.</span> <span class="toc-p">S. 92</span></a></li>
+<li class="l3"><a href="#p-1-94"><span class="toc-e">Tuesday, 21 October.</span><span class="toc-o" lang="de">Dienstag, den 21ten October.</span> <span class="toc-p">S. 94</span></a></li>
+<li class="l3"><a href="#p-1-94"><span class="toc-e">Wednesday, 22 October.</span><span class="toc-o" lang="de">Mittwoch, den 22ten October.</span> <span class="toc-p">S. 94</span></a></li>
+<li class="l3"><a href="#p-1-95"><span class="toc-e">Thursday 23 October.</span><span class="toc-o" lang="de">Donnerstag den 23ten October.</span> <span class="toc-p">S. 95</span></a></li>
+<li class="l3"><a href="#p-1-99"><span class="toc-e">Friday, 24 October.</span><span class="toc-o" lang="de">Freitag, den 24sten October.</span> <span class="toc-p">S. 99</span></a></li>
+<li class="l3"><a href="#p-1-99"><span class="toc-e">Saturday, 25 October.</span><span class="toc-o" lang="de">Sonnabend, den 25sten October.</span> <span class="toc-p">S. 99</span></a></li>
+<li class="l3"><a href="#p-1-101"><span class="toc-e">Sunday, 26 October.</span><span class="toc-o" lang="de">Sonntag, den 26sten October.</span> <span class="toc-p">S. 101</span></a></li>
+<li class="l3"><a href="#p-1-102"><span class="toc-e">Monday, Tuesday, Wednesday and Thursday, the 27th, 28th, 29th and 30th of October.</span><span class="toc-o" lang="de">Montag, Dienstag, Mittwoch und Donnerstag, den 27sten, 28sten, 29sten und 30sten October.</span> <span class="toc-p">S. 102</span></a></li>
+<li class="l3"><a href="#p-1-106"><span class="toc-e">Friday, 31 October.</span><span class="toc-o" lang="de">Freitag, den 31sten October.</span> <span class="toc-p">S. 106</span></a></li>
+<li class="l3"><a href="#p-1-107"><span class="toc-e">Saturday, 1 November 1806.</span><span class="toc-o" lang="de">Sonnabend, d. 1. November 1806.</span> <span class="toc-p">S. 107</span></a></li>
+<li class="l3"><a href="#p-1-113"><span class="toc-e">Sunday, 2 November.</span><span class="toc-o" lang="de">Sonntag, den 2ten November.</span> <span class="toc-p">S. 113</span></a></li>
+<li class="l3"><a href="#p-1-114"><span class="toc-e">Monday, 3 November.</span><span class="toc-o" lang="de">Montag, den 3ten November.</span> <span class="toc-p">S. 114</span></a></li>
+<li class="l3"><a href="#p-1-115"><span class="toc-e">Tuesday, 4 November.</span><span class="toc-o" lang="de">Dienstag, den 4ten November.</span> <span class="toc-p">S. 115</span></a></li>
+<li class="l3"><a href="#p-1-116"><span class="toc-e">Wednesday, 5 November.</span><span class="toc-o" lang="de">Mittwoch, den 5. November.</span> <span class="toc-p">S. 116</span></a></li>
+<li class="l3"><a href="#p-1-116"><span class="toc-e">Thursday, 6 November.</span><span class="toc-o" lang="de">Donnerstag, d. 6ten November.</span> <span class="toc-p">S. 116</span></a></li>
+<li class="l3"><a href="#p-1-121"><span class="toc-e">Friday, 7 November.</span><span class="toc-o" lang="de">Freitag, den 7ten November.</span> <span class="toc-p">S. 121</span></a></li>
+<li class="l1"><a href="#p-2-front"><span class="toc-e">New Firebrands.</span><span class="toc-o" lang="de">Neue Feuerbrände.</span></a></li>
+<li class="l2"><a href="#p-2-front"><span class="toc-e">Second Part.</span><span class="toc-o" lang="de">Zweytes Heft.</span></a></li>
+<li class="l2"><a href="#p-2-V"><span class="toc-e">Contents.</span><span class="toc-o" lang="de">Inhalt.</span> <span class="toc-p">S. V</span></a></li>
+<li class="l2"><a href="#p-2-1"><span class="toc-e">Correspondence Notices.</span><span class="toc-o" lang="de">Correspondenz-Nachrichten.</span> <span class="toc-p">S. 1</span></a></li>
+<li class="l3"><a href="#p-2-1"><span>Weimar.</span> <span class="toc-p">S. 1</span></a></li>
+<li class="l2"><a href="#p-2-7"><span class="toc-e">Observations on the Campaign in Poland, and on the King of Prussia&#x27;s Unratified Armistice.</span><span class="toc-o" lang="de">Bemerkungen über den Feldzug in Pohlen, und den nicht ratifizirten Waffenstillstand des Königs von Preußen.</span> <span class="toc-p">S. 7</span></a></li>
+<li class="l2"><a href="#p-2-16"><span class="toc-e">What Determines the Invincibility of an Army?</span><span class="toc-o" lang="de">Was bestimmt die Unüberwindlichkeit einer Armee?</span> <span class="toc-p">S. 16</span></a></li>
+<li class="l2"><a href="#p-2-36"><span class="toc-e">Reflections of a Prussian Patriot on the Past, the Present, and the Future.</span><span class="toc-o" lang="de">Blicke eines Preußischen Patrioten in Vergangenheit, Gegenwart und Zukunft.</span> <span class="toc-p">S. 36</span></a></li>
+<li class="l3"><a href="#p-2-38"><span class="toc-e">The Dawn of Prussia,</span><span class="toc-o" lang="de">Die Morgenröthe Preußens,</span> <span class="toc-p">S. 38</span></a></li>
+<li class="l3"><a href="#p-2-44"><span class="toc-e">Prussia at Its Zenith.</span><span class="toc-o" lang="de">Preußen auf seiner Mittagshöhe.</span> <span class="toc-p">S. 44</span></a></li>
+<li class="l3"><a href="#p-2-56"><span class="toc-e">Prussia&#x27;s Evening</span><span class="toc-o" lang="de">Preußens Abend</span> <span class="toc-p">S. 56</span></a></li>
+<li class="l2"><a href="#p-2-62"><span class="toc-e">Proof of How Greatly Circumstances Influence Opinions and Utterances — and Nothing More.</span><span class="toc-o" lang="de">Beweis, wie sehr die Umstände auf Meinungen und Aeußerungen einwirken und — weiter nichts.</span> <span class="toc-p">S. 62</span></a></li>
+<li class="l3"><a href="#p-2-62"><span class="toc-e">The Telegraph. No. 1. Friday, 17 October 1806.</span><span class="toc-o" lang="de">Der Telegraph. Nro. 1. Freitags den 17ten Oktober 1806.</span> <span class="toc-p">S. 62</span></a></li>
+<li class="l3"><a href="#p-2-62"><span class="toc-e">The Telegraph. No. 9. Tuesday 28 October 1806.</span><span class="toc-o" lang="de">Der Telegraph. Nro. 9. Dienstags den 28ten Oktober 1806.</span> <span class="toc-p">S. 62</span></a></li>
+<li class="l3"><a href="#p-2-63"><span class="toc-e">The Telegraph. No. 2. 18 Oct. 1806.</span><span class="toc-o" lang="de">Der Telegraph. Nro. 2. Den 18ten Okt. 1806.</span> <span class="toc-p">S. 63</span></a></li>
+<li class="l3"><a href="#p-2-63"><span class="toc-e">The Telegraph. No. 13. Saturday, 1 November 1806.</span><span class="toc-o" lang="de">Der Telegraph. Nro. 13. Sonnabend den 1sten Nov. 1806.</span> <span class="toc-p">S. 63</span></a></li>
+<li class="l3"><a href="#p-2-63"><span class="toc-e">The Telegraph. No. 34. Saturday, 22 November 1806.</span><span class="toc-o" lang="de">Der Telegraph. Nro. 34. Sonnabend den 22sten Nov. 1806.</span> <span class="toc-p">S. 63</span></a></li>
+<li class="l2"><a href="#p-2-65"><span class="toc-e">The Black Register, or General Table of all the former Polish Crown and ecclesiastical estates in South Prussia which, during the time Minister von Hoym administered this province, in the years 1794 to 1798, were bestowed as grace-and-favour estates.</span><span class="toc-o" lang="de">Das schwarze Register oder General-Tableau sämtlicher in Süd-Preußen, während der Minister von Hoym diese Provinz verwaltet hat, in den Jahren 1794 bis 1798. als Gratialgüter verschenkten, ehemaligen pohlnischen Kron- und geistlichen Güter.</span> <span class="toc-p">S. 65</span></a></li>
+<li class="l3"><a href="#p-2-65"><span class="toc-e">I. In the Department of the Chamber of Posen.</span><span class="toc-o" lang="de">I. Im Departement der Kammer zu Posen.</span> <span class="toc-p">S. 65</span></a></li>
+<li class="l3"><a href="#p-2-78"><span class="toc-e">II. In the Department of the Chamber of Kalisch.</span><span class="toc-o" lang="de">II. Im Departement der Kammer zu Kalisch.</span> <span class="toc-p">S. 78</span></a></li>
+<li class="l3"><a href="#p-2-86"><span class="toc-e">III. In the Department of the Chamber of Warsaw.</span><span class="toc-o" lang="de">III. Im Departement der Kammer zu Warschau.</span> <span class="toc-p">S. 86</span></a></li>
+<li class="l2"><a href="#p-2-91"><span class="toc-e">Experiences Gathered on a Walk in and around Berlin, in April 1807.</span><span class="toc-o" lang="de">Erfahrungen, gesammelt bei einem Spaziergange in und um Berlin, im April 1807.</span> <span class="toc-p">S. 91</span></a></li>
+<li class="l3"><a href="#p-2-112"><span class="toc-e">Remarks on the Military Glory of the Prussians.</span><span class="toc-o" lang="de">Bemerkungen über den preußischen Soldatenruhm.</span> <span class="toc-p">S. 112</span></a></li>
+<li class="l3"><a href="#p-2-118"><span class="toc-e">How Should the Magistrates of Small Towns Now Conduct Themselves in the War toward Friend and Foe? and How Have They Conducted Themselves? Especially in Silesia.</span><span class="toc-o" lang="de">Wie sollten sich Magistratspersonen kleiner Städte jetzt im Kriege gegen Freund und Feind benehmen? und wie haben sie sich benommen? besonders in Schlesien.</span> <span class="toc-p">S. 118</span></a></li>
+<li class="l3"><a href="#p-2-124"><span class="toc-e">Baron Hammer.</span><span class="toc-o" lang="de">Der Baron Hammer.</span> <span class="toc-p">S. 124</span></a></li>
+<li class="l3"><a href="#p-2-125"><span class="toc-e">Are There Not Also War Damages in Peacetime?</span><span class="toc-o" lang="de">Giebt es nicht auch Kriegsschäden im Frieden?</span> <span class="toc-p">S. 125</span></a></li>
+<li class="l1"><a href="#p-3-front"><span class="toc-e">New Firebrands.</span><span class="toc-o" lang="de">Neue Feuerbrände.</span></a></li>
+<li class="l2"><a href="#p-3-front"><span class="toc-e">Third Part.</span><span class="toc-o" lang="de">Drittes Heft.</span></a></li>
+<li class="l3"><a href="#p-3-v"><span class="toc-e">Contents.</span><span class="toc-o" lang="de">Inhalt.</span> <span class="toc-p">S. v</span></a></li>
+<li class="l3"><a href="#p-3-VII"><span class="toc-e">Explanation of the Title Engraving.</span><span class="toc-o" lang="de">Erklärung des Titelkupfers.</span> <span class="toc-p">S. VII</span></a></li>
+<li class="l3"><a href="#p-3-VIII"><span class="toc-e">Correction of Two Passages in the Second Part of the Confidential Letters etc.</span><span class="toc-o" lang="de">Berichtigung zweyer Stellen im zweyten Theil der vertrauten Briefe ic.</span> <span class="toc-p">S. VIII</span></a></li>
+<li class="l2"><a href="#p-3-1"><span class="toc-e">Correspondence Notices.</span><span class="toc-o" lang="de">Correspondenz-Nachrichten.</span> <span class="toc-p">S. 1</span></a></li>
+<li class="l3"><a href="#p-3-1"><span class="toc-e">A Few Letters on This and That in the Prussian Army, Particularly on the Field Commissariat.</span><span class="toc-o" lang="de">Ein Paar Briefe über Dies und Jenes in der Preußischen Armee, besonders über das Feldverpflegungswesen.</span> <span class="toc-p">S. 1</span></a></li>
+<li class="l3"><a href="#p-3-4"><span>1806.</span> <span class="toc-p">S. 4</span></a></li>
+<li class="l3"><a href="#p-3-15"><span>1806.</span> <span class="toc-p">S. 15</span></a></li>
+<li class="l3"><a href="#p-3-31"><span>1806.</span> <span class="toc-p">S. 31</span></a></li>
+<li class="l3"><a href="#p-3-40"><span>1806.</span> <span class="toc-p">S. 40</span></a></li>
+<li class="l3"><a href="#p-3-49"><span class="toc-e">The Apple of Discord among the Nations, or What Created and Sustains the Anglo-French War? And how can it be ended?</span><span class="toc-o" lang="de">Der Zankapfel unter den Völkern oder Was schuf und unterhält den Englisch-Französischen Krieg? und wie kann er beendigt werden?</span> <span class="toc-p">S. 49</span></a></li>
+<li class="l3"><a href="#p-3-85"><span class="toc-e">Retreat and Capture of Bila&#x27;s Corps.</span><span class="toc-o" lang="de">Rückzug und Gefangennehmung des Bilaischen Corps.</span> <span class="toc-p">S. 85</span></a></li>
+<li class="l3"><a href="#p-3-106"><span class="toc-e">Devotion to Duty.</span><span class="toc-o" lang="de">Diensttreue.</span> <span class="toc-p">S. 106</span></a></li>
+<li class="l3"><a href="#p-3-108"><span class="toc-e">Copy.</span><span class="toc-o" lang="de">Copia.</span> <span class="toc-p">S. 108</span></a></li>
+<li class="l3"><a href="#p-3-111"><span class="toc-e">Interesting Trifles.</span><span class="toc-o" lang="de">Interessante Kleinigkeiten.</span> <span class="toc-p">S. 111</span></a></li>
+<li class="l3"><a href="#p-3-123"><span class="toc-e">On the Tendency of the Tract: Confidential Letters on the Internal Affairs of the Prussian Court etc. and of the Journal: New Firebrands.</span><span class="toc-o" lang="de">Ueber die Tendenz der Schrift: Vertraute Briefe über die innern Verhältnisse des preußischen Hofes ꝛc. und des Journals: Neue Feuerbrände.</span> <span class="toc-p">S. 123</span></a></li>
+<li class="l3"><a href="#p-3-129"><span class="toc-e">Declaration by the Author of the Confidential Letters on the Internal Affairs of the Prussian Court, etc. concerning the black register in the second Part of the New Firebrands.</span><span class="toc-o" lang="de">Erklärung des Verfassers der vertrauten Briefe über die innern Verhältnisse des preußischen Hofes ꝛc. das schwarze Register im zweyten Hefte der neuen Feuerbrände betreffend.</span> <span class="toc-p">S. 129</span></a></li>
+<li class="l3"><a href="#p-3-131"><span class="toc-e">p. 67. No. 7. City President Eisenberg in Berlin.</span><span class="toc-o" lang="de">S. 67. No. 7. Stadtpräsident Eisenberg in Berlin.</span> <span class="toc-p">S. 131</span></a></li>
+<li class="l3"><a href="#p-3-132"><span class="toc-e">P. 69. Prince Hohenlohe.</span><span class="toc-o" lang="de">S. 69. Fürst Hohenloh.</span> <span class="toc-p">S. 132</span></a></li>
+<li class="l3"><a href="#p-3-132"><span class="toc-e">P. 71. Count Lüttichau.</span><span class="toc-o" lang="de">S. 71. Der Graf Lüttichau.</span> <span class="toc-p">S. 132</span></a></li>
+<li class="l3"><a href="#p-3-133"><span class="toc-e">p. 75.</span><span class="toc-o" lang="de">S. 75.</span> <span class="toc-p">S. 133</span></a></li>
+<li class="l3"><a href="#p-3-133"><span class="toc-e">p. 76.</span><span class="toc-o" lang="de">S. 76.</span> <span class="toc-p">S. 133</span></a></li>
+<li class="l3"><a href="#p-3-134"><span class="toc-e">P. 83.</span><span class="toc-o" lang="de">S. 83.</span> <span class="toc-p">S. 134</span></a></li>
+<li class="l3"><a href="#p-3-135"><span class="toc-e">Publisher&#x27;s Note.</span><span class="toc-o" lang="de">Note des Verlegers.</span> <span class="toc-p">S. 135</span></a></li>
+<li class="l3"><a href="#p-3-136"><span class="toc-e">Errata.</span><span class="toc-o" lang="de">Druckfehler.</span> <span class="toc-p">S. 136</span></a></li>
+<li class="l3"><a href="#p-3-137"><span class="toc-e">Reply to an Anonymous Letter from the Author of the Black Register.</span><span class="toc-o" lang="de">Antwort auf ein anonymes Schreiben des Verfertigers des schwarzen Registers.</span> <span class="toc-p">S. 137</span></a></li>
+<li class="l2"><a href="#p-3-141"><span class="toc-e">Announcement.</span><span class="toc-o" lang="de">Anzeige.</span> <span class="toc-p">S. 141</span></a></li>
+<li class="l3"><a href="#p-3-142"><span class="toc-e">Volume One.</span><span class="toc-o" lang="de">Erster Band.</span> <span class="toc-p">S. 142</span></a></li>
+<li class="l3"><a href="#p-3-142"><span class="toc-e">First Part. On the Working of the Natural Products of the Animal Kingdom.</span><span class="toc-o" lang="de">Erster Theil. Von der Verarbeitung der Naturproducte des Thierreichs.</span> <span class="toc-p">S. 142</span></a></li>
+<li class="l3"><a href="#p-3-143"><span class="toc-e">Second Part. On the Working of the Natural Products of the Vegetable Kingdom.</span><span class="toc-o" lang="de">Zweyter Theil. Von der Verarbeitung der Naturalien des Pflanzenreichs.</span> <span class="toc-p">S. 143</span></a></li>
+<li class="l3"><a href="#p-3-143"><span class="toc-e">Second Volume.</span><span class="toc-o" lang="de">Zweyter Band.</span> <span class="toc-p">S. 143</span></a></li>
+<li class="l3"><a href="#p-3-143"><span class="toc-e">First Section. Earths and Stones.</span><span class="toc-o" lang="de">Erster Abschnitt. Erden und Steine.</span> <span class="toc-p">S. 143</span></a></li>
+<li class="l3"><a href="#p-3-144"><span class="toc-e">Second Section. Salts.</span><span class="toc-o" lang="de">Zweyter Abschnitt. Salze.</span> <span class="toc-p">S. 144</span></a></li>
+<li class="l3"><a href="#p-3-144"><span class="toc-e">Third Section. Metals.</span><span class="toc-o" lang="de">Dritter Abschnitt. Metalle.</span> <span class="toc-p">S. 144</span></a></li>
+<li class="l3"><a href="#p-3-144"><span class="toc-e">Fourth Section. Combustible Minerals or Bitumens.</span><span class="toc-o" lang="de">Vierter Abschnitt. Brennbare Mineralien oder Erdharze.</span> <span class="toc-p">S. 144</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
+<h2 class="lit-sec" id="part-1">Heft 1</h2>
 
-<section class="lit-passage" id="p-1-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-front">Heft 1, vor der ersten Seite</a></h2>
+<section class="lit-passage" id="p-1-front" data-part="1">
+<div class="pg"><a href="#p-1-front">Titel</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-### Neue Feuerbrände.
+## Neue Feuerbrände.
 
 Marginalien zu der Schrift: Vertraute Briefe über die innern Verhältnisse am Preußischen Hofe seit dem Tode Friedrichs II.
 
@@ -30,7 +126,7 @@ Amsterdam und Cölln, 1807.
 bey Peter Hammer.
 
 
-### Neue Feuerbrände.
+## Neue Feuerbrände.
 
 Herausgegeben von dem Verfasser der vertrauten Briefe über die innern Verhältnisse am Preußischen Hofe seit dem Tode Friedrichs II.
 
@@ -42,7 +138,7 @@ Amsterdam und Cölln, 1807.
 bey Peter Hammer.
 
 
-#### Inhalt.
+### Inhalt.
 
 | Abschnitt | Seite |
 |---|---|
@@ -55,7 +151,7 @@ bey Peter Hammer.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### New Firebrands.
+## New Firebrands.
 
 Marginalia on the Tract: Confidential Letters on the Internal Affairs of the Prussian Court since the Death of Frederick II.
 
@@ -69,7 +165,7 @@ Amsterdam and Cölln, 1807.
 bey Peter Hammer.
 
 
-### New Firebrands.
+## New Firebrands.
 
 Published by the Author of the Confidential Letters on the Internal Affairs of the Prussian Court since the Death of Frederick II.
 
@@ -81,7 +177,7 @@ Amsterdam und Cölln, 1807.
 bey Peter Hammer.
 
 
-#### Contents.
+### Contents.
 
 | Section | Page |
 |---|---|
@@ -92,12 +188,10 @@ bey Peter Hammer.
 | Is it true that in the country where agricultural industry is pursued above all, every kind of tax falls upon the landowners? | 25 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-IV">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-IV">Heft 1, S. IV</a></h2>
+<section class="lit-passage" id="p-1-IV" data-page="IV" data-part="1">
+<div class="pg" id="p1-IV"><a href="#p1-IV">S. IV</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 | Abschnitt | Seite |
@@ -114,17 +208,15 @@ bey Peter Hammer.
 | History of the Attack, Blockade, and Surrender of Glogau, by Carl Friedrich Benkowitz | 89 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-1">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-1">Heft 1, S. 1</a></h2>
+<section class="lit-passage" id="p-1-1" data-page="1" data-part="1">
+<div class="pg" id="p1-1"><a href="#p1-1">S. 1</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Correspondenz
+### Correspondenz
 
-##### Schreiben aus Jena.
+#### Schreiben aus Jena.
 
 Schon längst wollte ich Deinen Brief, der mich überraschte, indem er mich an unsere fröhlichen Jugendjahre erinnerte, beantworten und Dir meine Ansicht von der großen Weltbegebenheit mittheilen, die hier unter unsern Augen am 14ten October vorging, wenn ich nicht so sehr beschäftigt gewesen wäre, meine häuslichen Angelegenheiten wieder in Ordnung zu bringen, die nicht wenig gelitten haben.
 
@@ -135,9 +227,9 @@ Alle Dir wohl bekannten Oerter: Ziegenhayn, Lichtenhayn, Zwetzen, Dorndorf, Appo
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Correspondence
+### Correspondence
 
-##### Letter from Jena.
+#### Letter from Jena.
 
 For a long time now I have wished to answer your letter, which took me by surprise, reminding me as it did of our merry years of youth, and to share with you my view of the great world-event that took place here before our very eyes on 14 October — had I not been so very occupied with putting my domestic affairs back in order, which have suffered not a little.
 
@@ -146,12 +238,10 @@ Yes, dear friend, our peaceful valleys, where twenty years ago we strolled so qu
 All the places so well known to you: Ziegenhayn, Lichtenhayn, Zwetzen, Dorndorf, Appolde, Rötschau,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-2">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-2">Heft 1, S. 2</a></h2>
+<section class="lit-passage" id="p-1-2" data-page="2" data-part="1">
+<div class="pg" id="p1-2"><a href="#p1-2">S. 2</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 das Rauch- und Mühlthal, besonders aber Weimar, von wo wir so manche Nacht so fröhlich nach Hause ritten, waren der Sitz des Schreckens. Erinnerst Du Dich noch wohl Deines Unfalls:
@@ -178,12 +268,10 @@ Never was an army more splendid. It seemed as though the Prussian state had gath
 I am convinced that, had but one of the younger Prussian officers held command — one who had grasped the new form and the spirit of the age, and who had understood Napoleon in some measure — that man with this
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-3">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-3">Heft 1, S. 3</a></h2>
+<section class="lit-passage" id="p-1-3" data-page="3" data-part="1">
+<div class="pg" id="p1-3"><a href="#p1-3">S. 3</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Armee Wunder gethan, vielleicht geschlagen, aber nie von der Elbe abgeschnitten worden wäre. Der Herzog von Braunschweig war der Anführer, der König von Preußen, sich selbst nicht vertrauend, hatte ihm das Commando übergeben; von ihm sollte alles ausgehen, es ging aber nichts von ihm aus, als Verwirrung, weder Plan, noch Disposition; Irrthum war an allen Ecken, Mißverständnisse und widersprechende Befehle. Ja die Armee hatte eigentlich gar keine Stellung, es fehlte ihr ein Centrum: denn zwischen der Hohenlohschen und Königlichen Armee war eine Lücke von einigen Stunden. Bey Austerlitz mußte Napoleon das Centrum des Feindes durchbrechen, um zu siegen; das hatte er hier gar nicht nöthig, denn es war keines vorhanden.
@@ -198,12 +286,10 @@ army would have worked wonders, would perhaps have been beaten, but would never 
 The most ignorant layman in strategy, who knew that the French army from 5 October onward hurled itself unceasingly in long columns out of Franconia along the right bank of the Saale toward Saxony, its eye always fixed upon the Elbe, could not but smile with pity at the Prussian army, which remained quietly in cantonment, paralyzed in a confused heap on the left bank of the Saale, and which seemed to have laid down its basis of subsistence, its magazines, on the right bank of the Saale at Naumburg, Merseburg, and Halle, precisely so that the enemy might find provisions on his march to the Elbe. Already Tauentzien's corps had been beaten, the second, that of Prince Louis, annihilated, without the formidable Prussian army either
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-4">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-4">Heft 1, S. 4</a></h2>
+<section class="lit-passage" id="p-1-4" data-page="4" data-part="1">
+<div class="pg" id="p1-4"><a href="#p1-4">S. 4</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 die französischen im Marsch begriffenen Colonnen angegriffen und durchschnitten hätte, um sie zu vernichten, oder doch die Elbe zu erreichen und das Mutterland zu decken. Ja man dachte nicht einmal daran, das Wirtembergsche, 20000 Mann starke, Corps in Eilmärschen nach Naumburg anrücken zu lassen, um diesen Paß und die Defileen von Kösen zu besetzen. Das Corps marschirte ohne Zweck hin und her, von Küstrin nach Berlin, wo man acht Tage lang weilte und im Theater Kriegslieder sang, dem politischen Zinngießer zusah, und den Capuziner in Wallensteins Lager anstaunte, der jedes Militair persiflirt. Von Berlin ging es nach Magdeburg, von hier nach Halle, um gerade zur rechten Zeit dem Feinde in die Hände zu fallen, statt daß von Berlin der nächste Weg nach Naumburg über Wittenberg geht.
@@ -222,12 +308,10 @@ The Duke of Brunswick let nothing free him from the delusion: that Napoleon woul
 This idea had been instilled in him by the ministers Count Haugwitz and Lucchesini, who attended the permanent grand council of war, which from the beginning of October until the day when the army was beaten and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-5">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-5">Heft 1, S. 5</a></h2>
+<section class="lit-passage" id="p-1-5" data-page="5" data-part="1">
+<div class="pg" id="p1-5"><a href="#p1-5">S. 5</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 aufgelöset wurde, unaufhörlich delibrirte, conferirte, protokollirte, aber nichts decidirte<sup class="lit-fn"><a href="#n-de-1">1</a></sup>.
@@ -262,12 +346,10 @@ On the night of the 13th we noticed at Jena the diligence of the French in climb
 —assuming that everything here was occupied by the Prussians and bristling with cannon.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-6">Heft 1, S. 6</a></h2>
+<section class="lit-passage" id="p-1-6" data-page="6" data-part="1">
+<div class="pg" id="p1-6"><a href="#p1-6">S. 6</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wie erstaunten wir aber am 14ten zu hören:
@@ -302,12 +384,10 @@ Rüchel's Corps came to his aid from Weimar at the double. Hohenlohe demanded th
 After some fortunate success the general fell, and now everyone who could run, ran; the cavalry above all was the swiftest in flight, and it seemed exactly as though the King had had them mounted for the sole purpose of getting away all the more quickly and throwing everything into disorder; for this was entirely the case.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-7">Heft 1, S. 7</a></h2>
+<section class="lit-passage" id="p-1-7" data-page="7" data-part="1">
+<div class="pg" id="p1-7"><a href="#p1-7">S. 7</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Gesetzt, es wäre noch ein Mann von Kopf und Herz aufgestanden, und hätte in dieß Chaos wieder Ordnung und Einheit bringen wollen, es wäre ihm nicht geglückt: denn er wurde von der in Masse fliehenden Kavallerie überritten.
@@ -326,15 +406,13 @@ It would have been possible (though improbable) that Rüchel might have hurled t
 v. \*\*n.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-8">Heft 1, S. 8</a></h2>
+<section class="lit-passage" id="p-1-8" data-page="8" data-part="1">
+<div class="pg" id="p1-8"><a href="#p1-8">S. 8</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Schreiben aus Jena. Fortsetzung.
+#### Schreiben aus Jena. Fortsetzung.
 
 Der Kanonendonner hatte sich gelegt, die Schlacht war für die Franzosen entschieden. Für Preußen war sie nachtheiliger in ihren Folgen, als in dem Verlust selbst, den die Armee bey Auerstädt und Jena erlitten hatte. Man kann dreist behaupten:
 
@@ -343,19 +421,17 @@ Daß in jedem Menschen die Todesfurcht, zwar bey einem mehr wie bey dem andern, 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Letter from Jena. Continuation.
+#### Letter from Jena. Continuation.
 
 The thunder of the cannon had died away; the battle was decided in favour of the French. For Prussia it was more disastrous in its consequences than in the loss itself which the army had suffered at Auerstädt and Jena. One may boldly assert:
 
 That in every man the fear of death is present — in one more than in another, to be sure, but always in a certain degree. If one asks what it is that drives a man to go forth to meet death and to hold firm in danger, one may answer with certainty: that this is no impulse of the heart, but a sense of duty and honour compelled by the understanding. But a man wins within himself the victory of reason over feeling more easily when a greater measure of hope is in him: that the danger of death is not so great for him, that he is more likely to remain alive than to fall. Hence we see those troops who have conquered repeatedly, one victory after another, go more boldly into battle than those who have always been beaten. We see men grow accustomed to the danger of death,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-9">Heft 1, S. 9</a></h2>
+<section class="lit-passage" id="p-1-9" data-page="9" data-part="1">
+<div class="pg" id="p1-9"><a href="#p1-9">S. 9</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und den Veteran gleichgültiger das Schlachtfeld betreten wie den Neuling. Hat endlich jemand Jahre lang im Kriege mitgekämpft, so geht er zuletzt zur Schlacht wie zum Tanz, indem er denkt: du bist immer gut davon gekommen, warum nicht auch heute? Kommt nun noch irgend ein Interesse dazu, welches den Soldaten antreibt, brav zu seyn: als das der Ehre, der Selbstvertheidigung und des Eigenthums, der Beute und der Gefahr des Rückzugs, so ist der Soldat gebildet, um als Maschine seine Schuldigkeit zu thun.
@@ -374,12 +450,10 @@ When, amid these reflections, I surveyed the French and Prussian armies against 
 There stood on the one side a single commander who alone directed and moved the hundreds of thousands, in the full ripeness of manhood. For ten years he had fought almost without interruption with the troops of all civilized nations; all their peculiarities, their various ways of waging war, had become known to him. As a skilled theorist he took up the baton of command; a ten-years' practice completed the commander. He was able to impart to the army what he had learned to value in the art through experience of his enemies and what his own troops lacked. He knew exactly the character of his soldiers, and what made them serviceable for his purposes. Victory was ever his faithful companion. Thirty battles won make one indifferent
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-10">Heft 1, S. 10</a></h2>
+<section class="lit-passage" id="p-1-10" data-page="10" data-part="1">
+<div class="pg" id="p1-10"><a href="#p1-10">S. 10</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gegen jede Gefahr. Die unter seinem Commando fechtende Armee hatte unter ihm nie eine Schlacht verloren, das größte Vertrauen knüpfte sie an ihren Führer. Das Ehrgefühl, welches in jedem Franzosen, als Soldat aber doppelt, vorhanden ist, kam hinzu, einen neuen Feind zu besiegen, dessen Heer man vor noch nicht langer Zeit unüberwindlich nannte, und welches vor 14 Jahren Frankreich in seiner Hauptstadt zu besiegen glaubte. Den gemeinsten französischen Soldaten exaltirte der Gedanke, in der preußischen Residenz seine Fahnen aufzupflanzen.
@@ -402,12 +476,10 @@ On the other side stood the Prussians, in whom only the afterglow of an old form
 The troops themselves, for the most part never having taken part in a battle, therefore had neither self-confidence nor faith in their leader, whom they little knew and whose mediocrity they quite properly noticed,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-11">Heft 1, S. 11</a></h2>
+<section class="lit-passage" id="p-1-11" data-page="11" data-part="1">
+<div class="pg" id="p1-11"><a href="#p1-11">S. 11</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 da so oft widersprechende Befehle ertheilt wurden, und sie, ohne geschlagen zu seyn, in der fruchtbarsten Gegenden Mangel, Hunger und Durst litten, da der Krieg noch nicht angegangen war.
@@ -426,12 +498,10 @@ That which had hitherto held the Prussian army together in particular — the mi
 In the train of these reflections the victory over the Prussians was, as already said, no longer in doubt to me. But once they had lost this first great battle, I could just as easily explain to myself the complete slackening of all Prussian valour, in general and common soldier alike, and it was nothing at all surprising that they now renewed the flight-scenes of Rossbach which they had so often cast in the teeth of the French. But it was remarkable to me: that in the Prussians here
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-12">Heft 1, S. 12</a></h2>
+<section class="lit-passage" id="p-1-12" data-page="12" data-part="1">
+<div class="pg" id="p1-12"><a href="#p1-12">S. 12</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und da im Einzelnen der alte Geist wieder erschien, wie im siebenjährigen Kriege in den Franzosen.
@@ -470,12 +540,10 @@ The Duchess answers:
 "Your Majesty knows: my husband was a Prussian general during peacetime; was he to abandon his
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-13">Heft 1, S. 13</a></h2>
+<section class="lit-passage" id="p-1-13" data-page="13" data-part="1">
+<div class="pg" id="p1-13"><a href="#p1-13">S. 13</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Posten verlassen? Ich und seine Unterthanen hegten zwar diesen Wunsch: Soll ich, sprach der Herzog, alle militairischen auf die Ehre begründeten Gesetze mit Füßen treten, und mich und mein Geschlecht dadurch schänden?
@@ -502,15 +570,13 @@ v. \*\*n.
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-14">Heft 1, S. 14</a></h2>
+<section class="lit-passage" id="p-1-14" data-page="14" data-part="1">
+<div class="pg" id="p1-14"><a href="#p1-14">S. 14</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Ueber die jetzt allgemeine Herabwürdigung des preußischen Militairs.
+#### Ueber die jetzt allgemeine Herabwürdigung des preußischen Militairs.
 
 Sollte wohl der Verlust der Schlachten an der Saale, und die schnelle Uebergabe der Hauptvesten des Landes allein die Verachtung hervorgebracht haben, welche jetzt das Publikum ungescheut laut und öffentlich dem Militair bezeigt? Ich glaube nicht.
 
@@ -521,7 +587,7 @@ Unter Georg Wilhelm im dreyßigjährigen Kriege unterhielt der Staat etwa 4000 M
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### On the Now-General Debasement of the Prussian Military.
+#### On the Now-General Debasement of the Prussian Military.
 
 Could the loss of the battles on the Saale, and the swift surrender of the country's principal fortresses, alone have produced the contempt that the public now, without hesitation, expresses loudly and openly toward the military? I think not.
 
@@ -530,12 +596,10 @@ Whether or not this disparagement of an entire estate rests on solid grounds, it
 Under George William, during the Thirty Years' War, the state maintained some 4,000 soldiers. Their deeds are well known; men esteemed them then exactly as they esteemed the Imperial troops in the Seven Years' War. The Great Elector infused his fiery, great spirit into this body, and the military, animated by it, now fought (the very same Brandenburg army of which men
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-15">Heft 1, S. 15</a></h2>
+<section class="lit-passage" id="p-1-15" data-page="15" data-part="1">
+<div class="pg" id="p1-15"><a href="#p1-15">S. 15</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 kurz vorher nicht gewußt hatte, ob sie existirte oder nicht) gegen die ersten europäischen Truppen damaliger Zeit und zwar mit Erfolg — gegen die Schweden. Ja, der Churfürst wagte es, sich einem Türenne und seiner Armee gegenüber zu stellen.
@@ -562,12 +626,10 @@ How little the military counted in those days is proved by the frequent tables o
 As is well known, Frederick William I.'s character was wholly the opposite of his father's; it was therefore not surprising that he adopted a different system. Frugality took the place of extravagance, brilliant court festivities had to give way to the Tobacco College,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-16">Heft 1, S. 16</a></h2>
+<section class="lit-passage" id="p-1-16" data-page="16" data-part="1">
+<div class="pg" id="p1-16"><a href="#p1-16">S. 16</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 das Civil dem Militair. Der Fähndrich sah den Kammerherrn, den man zu entbehren gelernt hatte, nicht mehr über die Schulter an, und ein Potsdamscher Grenadier von 12 Zoll stand im ersten Gliede der Höflinge. Um diese Zeit erlaubte sich der Soldatenstand alles, im Inn- und Auslande; er war völlig gesetzlos, und wer einen großen Soldaten beleidigte, der griff den König selbst an. Was Friedrich Wilhelm nur in der Form schätzte, das wußte Leopold von Dessau für den Zweck auszubilden; denn der Krieg blieb diesem Heere unter seiner Führung nicht fremd, und der Held des angehenden Jahrhunderts, Carl XII., mußte in Stralsund selbst der preußischen Tapferkeit weichen.
@@ -586,12 +648,10 @@ With the greatest pretensions did this machine, formed in that period to the hig
 For him it existed not merely in its form; he knew, better than any of his predecessors, how to employ it to its purpose. What new creation appeared in the army through his spirit, what was accomplished by it, in what perfection he handed it over to his successor — this I need not repeat, we have all seen it: that since the Seven Years' War the sense of its worth animated the army, that the officer estate thought itself far exalted above all estates; that Frederick did not weaken this idea, in order to preserve the attraction of the military, so that the wealthiest nobleman,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-17">Heft 1, S. 17</a></h2>
+<section class="lit-passage" id="p-1-17" data-page="17" data-part="1">
+<div class="pg" id="p1-17"><a href="#p1-17">S. 17</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der deutsche Fürst selbst es für eine Ehre hielt, in dieser Armee zu dienen; daß im Auslande selbst, wo ein preußischer Officier erschien, dies Prädicat Respect einflößte; daß man in einer preußischen Uniform in der ganzen Welt unangefochten blieb; daß besonders das zweyte Geschlecht diesen Götzen anbetete, und die Tochter eines Millionairs sich selig pries, wenn sie mit einem preußischen Fähndrich das Ehebette besteigen konnte; daß der Officier kühn in jeder Gesellschaft der Ersten des Landes eintrat, wo der Civilist, ängstlich und verlegen, in tiefster Devotion erschien; daß endlich der Officier jede Beleidigung eines Bürgers sogleich mit dem Tode bestrafte, und Versuche dieser Art wenig geahndet wurden, das alles ist bekannt genug.
@@ -614,12 +674,10 @@ For the military was, quite properly, the mainstay of the state for Prussia. Onl
 That these advantages granted to the military weighed upon the middle estate, that the latter felt itself aggrieved thereby, that the civil sphere in particular took it ill to have
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-18">Heft 1, S. 18</a></h2>
+<section class="lit-passage" id="p-1-18" data-page="18" data-part="1">
+<div class="pg" id="p1-18"><a href="#p1-18">S. 18</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Militair stets nachstehen zu müssen, da es doch auch Verdienste um den Staat zu haben glaubte, war sehr natürlich; daher suchte sich der Bürgerstand so gern vom Soldatenstande zu eximiren, in welchem er für sich keine Beförderung, keine ehrenvolle Auszeichnung sah, und wo für ihn nur die durch den Corporalstock erzwungene Last des Dienstes vorhanden war. Daher waren stets Streitigkeiten zwischen den Militair- und Civilbehörden; und wo diese den erstern zum Verdruß nur etwas einleiten konnten, thaten sie es nicht gern?
@@ -642,12 +700,10 @@ There, you see, braggarts! went the general cry, that the burgher whom you honou
 The war on the Rhine still upheld the reputation of the military to some degree; but when isolated engagements in Poland spoke so little to the honour of the Prussian army, and when the siege of Warsaw had to be raised so painfully, the hitherto prevailing respect for this estate sank. The more the standing now fell in public opinion—the standing that the officer estate had maintained for 50 years; as the making of debts spread among them; as they frequently began to grow familiar through intermarriage with the burgher estate;
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-19">Heft 1, S. 19</a></h2>
+<section class="lit-passage" id="p-1-19" data-page="19" data-part="1">
+<div class="pg" id="p1-19"><a href="#p1-19">S. 19</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 anfing; wie er hin und wieder aufhörte, eine glänzende Rolle zu spielen, und in seiner Blöße da stand; desto mehr wollte er mit Gewalt den alten Anspruch geltend machen; er brüsquirte, bramarbasirte und radotirte, wo es nur möglich war; man verlachte ihn im Stillen, ging ihm aus dem Wege, schloß ihn von der Gesellschaft aus, wo es füglich geschehen konnte, und suchte sich ganz von ihm los zu machen.
@@ -674,12 +730,10 @@ Now that the so long dreaded military lies annihilated, should one be surprised 
 This is not noble, but it is entirely commonplace!
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-20">Heft 1, S. 20</a></h2>
+<section class="lit-passage" id="p-1-20" data-page="20" data-part="1">
+<div class="pg" id="p1-20"><a href="#p1-20">S. 20</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Mag nun das Militair beschaffen gewesen seyn, wie es will, mögen die Officiere zum größten Theil vorlaut, anmaßend, großsprecherisch und unwissend in ihrem Fach gewesen seyn, so ist es für mich doch eine Wahrheit, daß diese Armee, wie sie war, ganz anders operirt haben würde, wenn ein anderer Feldherr, als der Herzog von Braunschweig, an ihrer Spitze stand.
@@ -706,15 +760,13 @@ But what will fill the gap in future? What tendency will the Prussian state have
 v. \*\*n.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-21">Heft 1, S. 21</a></h2>
+<section class="lit-passage" id="p-1-21" data-page="21" data-part="1">
+<div class="pg" id="p1-21"><a href="#p1-21">S. 21</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Groß-Pohlens Besitznahme war der Untergang Preußens.
+#### Groß-Pohlens Besitznahme war der Untergang Preußens.
 
 Diese Behauptung muß bewiesen werden.
 
@@ -725,7 +777,7 @@ Friedrich kannte zu gut das Princip des russischen Cabinets, sich nach dem Süde
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### The Annexation of Great Poland Was Prussia's Ruin.
+#### The Annexation of Great Poland Was Prussia's Ruin.
 
 This assertion must be proved.
 
@@ -734,12 +786,10 @@ Frederick II., who not only completed the Prussian state-machine founded by the 
 Frederick knew all too well the principle of the Russian cabinet — to expand toward the south — which was laid down by Peter I., adopted by all his successors, and in part carried out by the Empress Catherine.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-22">Heft 1, S. 22</a></h2>
+<section class="lit-passage" id="p-1-22" data-page="22" data-part="1">
+<div class="pg" id="p1-22"><a href="#p1-22">S. 22</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Lange schon wären die Türken aus Europa vertrieben, die Dardanellen frey, wenn England nicht den Arm des russischen Riesen aufgehalten hätte, der die Thore zur Vereinigung des schwarzen und mittelländischen Meeres geöffnet, und einen lebendigen Tauschhandel zwischen den Handelsplätzen beyder Meere bewirkt haben würde.
@@ -762,12 +812,10 @@ Poland was thereby transformed into a colony for the adjacent Prussian states, a
 Frederick, who founded his political economy not on physiocratic but on Colbertist principles, and established both military and country grain-magazines, by which he directed prices and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-23">Heft 1, S. 23</a></h2>
+<section class="lit-passage" id="p-1-23" data-page="23" data-part="1">
+<div class="pg" id="p1-23"><a href="#p1-23">S. 23</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Armeen wohlfeil verpflegte, erhielt aus Pohlen hinreichendes Getraide und rohen Stoff zur Verarbeitung für seine Fabriken. Hätten ihn diese Vortheile nicht abgehalten, so hätte er gewiß 1772 schon für die gänzliche Auflösung des pohlnischen Reichs gestimmt; und wer würde die drey Mächte abgehalten haben, 1772 auszuführen, was sie 20 Jahr später vollendeten?
@@ -794,12 +842,10 @@ For this reason Frederick would never have consented to the complete partition o
 What has he gained by it? A land parceled by noblemen into little fragments, in which the people vegetate as a living instrument of tillage, fed like the ox at the manger, and driven to labour with the knout! A land in which every industrious art and every impulse toward development has been scared off.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-24">Heft 1, S. 24</a></h2>
+<section class="lit-passage" id="p-1-24" data-page="24" data-part="1">
+<div class="pg" id="p1-24"><a href="#p1-24">S. 24</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Er hat Soldaten gewonnen, die in jedem Kriege mit Rußland oder Frankreich ihre Fahnen verlassen, und Unterthanen, die alsdann den von ihnen erzwungenen Huldigungseid brechen, und in Masse aufstehen werden.
@@ -840,15 +886,13 @@ Poland is therefore the grave of Prussia, and to render this still more palpable
 Since this period the revenues may have risen by enough that the deficit is covered.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-25">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-25">Heft 1, S. 25</a></h2>
+<section class="lit-passage" id="p-1-25" data-page="25" data-part="1">
+<div class="pg" id="p1-25"><a href="#p1-25">S. 25</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Ist es wahr, daß in dem Lande, in welchem vorzüglich das landwirthschaftliche Gewerbe getrieben wird, jede Art von Abgaben die Grundeigenthümer treffe?
+#### Ist es wahr, daß in dem Lande, in welchem vorzüglich das landwirthschaftliche Gewerbe getrieben wird, jede Art von Abgaben die Grundeigenthümer treffe?
 
 Die Vertheidiger des ökonomischen Systems gründen ihre Meynung auf den Grundsatz, daß die Erde alles producire. Wenn man damit sagen will, daß der Mensch alles dasjenige, worauf er seine Arbeit verwandt, von der Erde ziehe, so ist dieß eine reine Wahrheit; behauptet man aber, daß die Erde alles, was einen Werth hat, producire, so ist dieß — falsch.
 
@@ -859,7 +903,7 @@ Die Arbeit producirt alles das, was unter den Menschen einen Werth hat, und folg
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Is it true that in a country in which the agricultural trade is predominantly carried on, every kind of tax falls upon the landed proprietors?
+#### Is it true that in a country in which the agricultural trade is predominantly carried on, every kind of tax falls upon the landed proprietors?
 
 The defenders of the economic system found their opinion upon the principle that the earth produces everything. If by this one means that man draws from the earth all that upon which he has expended his labour, then this is a pure truth; but if one asserts that the earth produces everything that has a value, then this is — false.
 
@@ -868,12 +912,10 @@ Everything that the earth brings forth, and upon which man has not yet expended 
 Labour produces all that which has a value among men, and is consequently capable of bearing a tax. Among cultivated nations the earth no longer yields any spontaneous products; labour covers the entire surface of the earth with products, as does the snow in a rugged region.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-26">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-26">Heft 1, S. 26</a></h2>
+<section class="lit-passage" id="p-1-26" data-page="26" data-part="1">
+<div class="pg" id="p1-26"><a href="#p1-26">S. 26</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Erde ist ein Werkzeug, dessen sich die Arbeit bedient; sie muß hier, wie alle übrigen Werkzeuge, die die Industrie der Menschen erfindet, betrachtet werden.
@@ -892,12 +934,10 @@ The labourer makes use of the earth in order to transform the first nutritive co
 As a further example I imagine to myself a coach drawn by horses, a vessel carried along by the current of a river, and a ship running under full sail. These too are sources of income, which owe the effect they produce solely to the labour of men, although the physical effect of the transport was occasioned merely by the horses, the course merely by the river, and the motion by the wind; for if one imagines away, for example, the labour which was gradually expended upon the ship in order to make of it a great transport vessel, and all the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-27">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-27">Heft 1, S. 27</a></h2>
+<section class="lit-passage" id="p-1-27" data-page="27" data-part="1">
+<div class="pg" id="p1-27"><a href="#p1-27">S. 27</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Kenntnisse hinwegdenkt; so wird, statt eines Schiffes, nichts anderes übrig bleiben, als in Waldungen gepflanzte Bäume, und der Wind wird ohne alle Bestimmung und Wirkung auf dem Meere wehen und stürmen; dieß ist nun das Resultat einer jeden Arbeit, welche sich mit der Arbeit der Matrosen, durch welche die Bewegung des Schiffes geschieht, vereinigt und anhäuft.
@@ -924,12 +964,10 @@ The earth, in the state of cultivation, brings forth all products; yet these, ev
 For the rest, one may regard the origin of the earthly products as one will: the earth is, according to the present
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-28">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-28">Heft 1, S. 28</a></h2>
+<section class="lit-passage" id="p-1-28" data-page="28" data-part="1">
+<div class="pg" id="p1-28"><a href="#p1-28">S. 28</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Lage der Dinge, eine Quelle des Einkommens, welche, wie alle übrigen, lediglich durch Capitalien oder durch überflüssige Arbeit gewonnen wird; folglich sind alle ihre Produkte das Resultat einer Anhäufung von Arbeit, wie die Produkte aller andern Quellen des Einkommens, und unterliegt, wie diese, den nämlichen Gesetzen des Gleichgewichts; es liegt also kein Grund vorhanden, zu behaupten, daß die Auflagen lediglich und ganz allein die Produkte der Erde treffen.
@@ -956,12 +994,10 @@ The head of state demanded; the Estates granted at the cost of a third party; he
 The greatest expenditure which the state had to make after the introduction of standing armies was necessary for war. The vassals, who formerly performed the military services personally with their subject-tenants, provided
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-29">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-29">Heft 1, S. 29</a></h2>
+<section class="lit-passage" id="p-1-29" data-page="29" data-part="1">
+<div class="pg" id="p1-29"><a href="#p1-29">S. 29</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 in neuen Zeiten nur diese, und ließen sie auch durch die Steuern den Sold aufbringen. Sich selbst eximirten sie sowohl für ihre Person, als wegen ihrer Vorwerke, vom Dienst und von der Steuerzahlung. Deshalb ging aber auch der Adel seit diesem Augenblick, da er nur auf öffentliche Kosten existirte, in seinem Luxus unter, und wurde im Preußischen, seitdem Friedrich ihm die Officierstellen im Militair ausschließend einräumte, dadurch noch in etwas gehalten.
@@ -980,12 +1016,10 @@ Where recently provinces were acquired by conquest, taxes were laid upon the nob
 Wherever land taxes were introduced, the attempt was made everywhere to determine the net yield, of which the state demanded shares. Now, since it is in general very difficult to determine the net yield of a piece of land, this was likewise always the case in this assessment, inasmuch as one took the quality of the soil and ground as the measure. But it is not the soil and ground that gives the yield in greater or lesser degree; rather, even though its quantity has an effect thereon, there are nonetheless two things in particular upon which it depends (be the soil rich or poor): upon the cultivation and upon local circumstances. If the soil has a lazy, unintelligent
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-30">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-30">Heft 1, S. 30</a></h2>
+<section class="lit-passage" id="p-1-30" data-page="30" data-part="1">
+<div class="pg" id="p1-30"><a href="#p1-30">S. 30</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Arbeiter; erhöhen Localverhältnisse den Werth seiner Erzeugnisse, oder nicht, durch die häufigere Nachfrage, (als in der Nähe eines Flusses oder einer Stadt), so steigt oder fällt der Ertrag. Ist der Boden freyes Eigenthum dessen, der ihn bearbeitet, oder ein Besitz eines pohlnischen Leibeigenen, so hat dies einen wesentlichen Einfluß auf seine Erzeugnisse.
@@ -1012,12 +1046,10 @@ But since the mode of taxation hitherto has governed itself solely by the produc
 One ought to have observed precisely the reverse relation, and to have taxed the free great landholder more heavily than the small, constrained one, since the former enjoyed a thousand advantages that the latter has not. The former can await an advantageous demand, whereas the latter is compelled to thresh today and cart his grain to market
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-31">Heft 1, S. 31</a></h2>
+<section class="lit-passage" id="p-1-31" data-page="31" data-part="1">
+<div class="pg" id="p1-31"><a href="#p1-31">S. 31</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 auf den Markt zu fahren, um dafür sonst nöthige Bedürfnisse einzutauschen.
@@ -1040,12 +1072,10 @@ At the origin of the feudal system it was equitable that the noble knight, who c
 Hence it has come about that, since the state has an endless quantity of requirements in kind for the army, these have been levied from the landowners according to the false measure
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-32">Heft 1, S. 32</a></h2>
+<section class="lit-passage" id="p-1-32" data-page="32" data-part="1">
+<div class="pg" id="p1-32"><a href="#p1-32">S. 32</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 den das Cataster angiebt, von den Grundbesitzern gegen eine Geldvergütigung eingezogen worden, deren Besteurung aus den Getraidepreisen älterer Zeiten hergenommen wird.
@@ -1072,12 +1102,10 @@ One could therefore fix anew the determined, cadastred yield of each province, a
 If Silesia, for example, pays 1,704,932 thalers in land tax, and if in 1743 the rye-price had been assumed at 1 thaler per Breslau bushel, then the King could now demand 1,704,932 bushels of rye, and by this measure have delivered to him a quantum of rye, oats, hay, and straw. He would thereby be in a position to provision the army, to fill the land and war magazines, and to abolish the now so unequally oppressive
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-33">Heft 1, S. 33</a></h2>
+<section class="lit-passage" id="p-1-33" data-page="33" data-part="1">
+<div class="pg" id="p1-33"><a href="#p1-33">S. 33</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Last der Naturallieferung, des Vorspanns u. a. aufzuheben. Er würde keinen Ausfall gegen das jetzige Contributionsgeld-Quantum, sondern noch ein Plus haben, und die lächerliche Bezahlung dieser Natural-Bedürfnisse wegfallen, die nur überflüßige Schreiberey und Geldversendung hervorbringt. Freylich würde der Divisor für alle Stände, Domainen, Kämmereyen, Probsteyen und Bauergüter egalisirt werden müssen. Das Land würde im Allgemeinen gar nichts verlieren, denn jeder wüßte bestimmt, was er jährlich zu liefern hätte, statt daß jetzt diese Lieferung willkührlich ist, und dabey noch eine Menge Unterschleife und Chikanen vorkommen.
@@ -1092,12 +1120,10 @@ burden of deliveries in kind, of the provision of relay-teams, and the like. He 
 Were it to be said that the noble estates would be drawn upon too heavily, and that only the present owner would thereby lose, and the credit systems be thrown into confusion, there is something true in this; but let it be considered: that the noble estates are nonetheless drawn upon annually for new burdens, as recently for the bread-provisioning of the military, and that it is no injustice to make good in the hundred-and-first year what was unjust for a hundred years. Long enough have the small estates had to pay for the great; long enough has the nobility enjoyed the advantages of its rank without fulfilling its noble obligations, as its worthy forefathers did. The world is now enlightened, and the third estate cultivated enough to work by force toward an equal distribution of the levies.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-34">Heft 1, S. 34</a></h2>
+<section class="lit-passage" id="p-1-34" data-page="34" data-part="1">
+<div class="pg" id="p1-34"><a href="#p1-34">S. 34</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es kann nicht länger so dauern, oder das ganze Eigenthum wird verletzt.
@@ -1116,12 +1142,10 @@ Krug says in his book on National Wealth, Part Two, p. 538: "Between the land ta
 The aversion to this exchange rests upon a prejudice which is easier to expose than to eradicate, and the name 'head-money' or 'head tax' carries with it the so repellent secondary notion: that a man must pay a levy to the State because he has a head; yet although the consumption tax might with greater right (than the former can be called a head tax) be called a stomach tax, which one must pay because one has a stomach, still to my knowledge it has not yet
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-35">Heft 1, S. 35</a></h2>
+<section class="lit-passage" id="p-1-35" data-page="35" data-part="1">
+<div class="pg" id="p1-35"><a href="#p1-35">S. 35</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 keiner Regierung eingefallen, eine Abgabe unter diesem Namen einzuführen; und daß Namen und Worte in sehr vielen Dingen, und so auch in der Steuerverfassung, einen großen Eindruck auf die nicht denkende Menge machen, lehrt die tägliche Erfahrung."
@@ -1140,12 +1164,10 @@ I believe, however, that one pays taxes to the State for this: that one may enjo
 A head tax which strikes every head in the same manner, whether it belong to a Krug or a Canard, is as unjust as a land tax whose measure is not the produce but the ground and soil itself, in which one Morgen of garden earth were set equal to one Morgen of drifting sand. But if this head tax is to be apportioned according to the quality of the estates, of the great landowners (nobility) and the small (peasants), as well as of the burgher class, then it ceases to be a head tax and becomes a property tax, wherein, however, one harbours a false presupposition; for there is also poor nobility and rich burghers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-36">Heft 1, S. 36</a></h2>
+<section class="lit-passage" id="p-1-36" data-page="36" data-part="1">
+<div class="pg" id="p1-36"><a href="#p1-36">S. 36</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Sollte diese Abgabe einigermaßen auf Gleichheit begründet seyn, so müssen die Köpfe, so wie der Grund und Boden classificirt, und nach der Productionsfähigkeit besteuert werden. Sie würden dann den Anspruch an der Production bezahlen.
@@ -1176,12 +1198,10 @@ The oaken block, then, worked up into an armchair for Herr Schmalz, in which he 
 One may just as well apply these propositions to agriculture, and if human understanding and the hands of the labourer are not added to the ground and soil, then it is, for the national income, a dead capital.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-37">Heft 1, S. 37</a></h2>
+<section class="lit-passage" id="p-1-37" data-page="37" data-part="1">
+<div class="pg" id="p1-37"><a href="#p1-37">S. 37</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Indem der eigentliche Bearbeiter dieses Grund und Bodens (Tagelöhner, Knechte ic.) ihm seine Früchte entlockt, hat er schon seinen Antheil eben so consumirt, wie der Tuchmacher, wenn sein Gewebe fertig ist. Jener fährt den Ueberschuß in die Scheunen des Guthsbesitzers, dieser trägt ihn auf die Packkammer des Unternehmers.
@@ -1196,15 +1216,13 @@ In the very act by which the actual cultivator of this ground and soil (day-labo
 v. \*\*n.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-38">Heft 1, S. 38</a></h2>
+<section class="lit-passage" id="p-1-38" data-page="38" data-part="1">
+<div class="pg" id="p1-38"><a href="#p1-38">S. 38</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Preußens naher Verfall nach der Schlacht bey Auerstädt.
+#### Preußens naher Verfall nach der Schlacht bey Auerstädt.
 
 *Geschrieben am 24sten October 1806.*<sup class="lit-fn"><a href="#n-de-2">2</a></sup>
 
@@ -1215,7 +1233,7 @@ Ich bin kein Preuße, mich treibt weder Persönlichkeit, noch Animosität. Ich w
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Prussia's Impending Ruin after the Battle of Auerstädt.
+#### Prussia's Impending Ruin after the Battle of Auerstädt.
 
 *Written on 24 October 1806.*<sup class="lit-fn"><a href="#n-en-2">2</a></sup>
 
@@ -1224,12 +1242,10 @@ Without being a prophet, one may easily foretell what consequences the Battle of
 I am no Prussian; I am driven neither by personal interest nor by animosity. I wish merely to lay my view of the present political events before the public for its examination. I wish to offend no one, least of all the truly and morally good, but unfortunate Frederick William III. and his excellent consort, the crown of all wives.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-39">Heft 1, S. 39</a></h2>
+<section class="lit-passage" id="p-1-39" data-page="39" data-part="1">
+<div class="pg" id="p1-39"><a href="#p1-39">S. 39</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Ich habe nicht die Absicht, in diesen Blättern die Personen, welche Preußens Angelegenheiten seit 1792 leiteten, zu tadeln, — zu beschimpfen; es fällt mir nicht ein, Frankreichs bisher befolgtes System herabzuwürdigen, sondern blos zu zeigen: wie auf der einen Seite Preußen seine jetzige Crisis herbeyführte; was der Kaiser der Franzosen in Europa beabsichtigt, und wie Preußen vielleicht noch mit Erfolg seiner nahen Auflösung entgegen arbeiten könnte.
@@ -1248,12 +1264,10 @@ Far be from me any poetic view of this great subject; far may there remain from 
 In those days, when Persia spread a million slaves over Greece, their assaults were withstood by the mighty feeling — animating all the Greeks — of a freedom founded upon
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-40">Heft 1, S. 40</a></h2>
+<section class="lit-passage" id="p-1-40" data-page="40" data-part="1">
+<div class="pg" id="p1-40"><a href="#p1-40">S. 40</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Gesetzen begründeten Freyheit. Es waren dadurch seit vielen Jahren sowohl helle Köpfe als kräftige Gemüther entstanden, deren sehr wenige Tausenden roher ungebildeter Perser leicht widerstehen konnten. Wie die Römer die Welt unterjochten, scheiterten ihre Pläne im nördlichen Deutschland, weil hier rohe kräftige Menschennaturen ganz im Naturstande ein hohes Gefühl von natürlicher Freyheit sich angeeignet hatten, welches sie alle belebte.
@@ -1280,12 +1294,10 @@ Now, when neither the feeling of freedom, nor religion, nor love of country anim
 Frederick laid a principle of politics as his foundation. It was that of the balance of power among the European states. Thereby religious fanaticism was displaced, and it was Frederick II. who cherished and fostered this idea, and through a long series of
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-41">Heft 1, S. 41</a></h2>
+<section class="lit-passage" id="p-1-41" data-page="41" data-part="1">
+<div class="pg" id="p1-41"><a href="#p1-41">S. 41</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Jahren hindurch die europäischen Staaten in ihren Schranken hielt.
@@ -1308,12 +1320,10 @@ Among all the European states, Prussia stood about the year 1792 at the highest 
 France suffered from the consequences of a bad constitution, which for several centuries had almost wholly ruined this state. It had no money, and therefore no army. At the head of the government stood a weak man, without genius, without talents.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-42">Heft 1, S. 42</a></h2>
+<section class="lit-passage" id="p-1-42" data-page="42" data-part="1">
+<div class="pg" id="p1-42"><a href="#p1-42">S. 42</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Holland, dieser für Preußen so wichtige Staat, war 1787 in seinen Händen; es durfte den Willen nur äußern, mit einer Armee von 30000 Mann die Rechte des Statthalters aufrecht erhalten zu wollen, so war keine Macht in Europa, die es hindern durfte. Oestreich und Rußland mit den Türken im Streite, im Innern theils durch Geldmangel und Factionen zerrissen, theils schlecht regiert, waren geschwächt, und man mußte sogar den König von Schweden vor den Thoren von Petersburg erwarten.
@@ -1332,12 +1342,10 @@ England could dictate no commands upon the Continent by means of any army; this 
 By this acquisition Prussia not only drew upon itself the hatred of all Europe, but instead of with the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-43">Heft 1, S. 43</a></h2>
+<section class="lit-passage" id="p-1-43" data-page="43" data-part="1">
+<div class="pg" id="p1-43"><a href="#p1-43">S. 43</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 pohlnischen Nation sich zu verbinden und zu identificiren, legte man sich ein Volk unter dem Titel von Unterthanen an die Seiten, welches in jedem Kriege, den Preußen unglücklich führt, in seinem Rücken wiederholte Insurrectionen erregen und sich endlich wieder losreißen wird. Preußen erklärte durch diesen Schritt öffentlich: daß es die ihm von Friedrich vorgezeichnete Bahn verlassen wolle; daß es fernerhin nicht für die Aufrechthaltung des Gleichgewichts fechten, sondern an der Zerstörung dieses Prinzips arbeiten wolle; daß es kein Völkerrecht achte, und gegebene Garantieen nach Gefallen aufhebe.
@@ -1364,12 +1372,10 @@ Whereas Prussia had previously needed to draw only a small line of defence again
 Poland had no outlets on the Baltic; it could not export its products as soon as Prussia closed the Vistula. Frederick used this geographical situation to supply his barren provinces
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-44">Heft 1, S. 44</a></h2>
+<section class="lit-passage" id="p-1-44" data-page="44" data-part="1">
+<div class="pg" id="p1-44"><a href="#p1-44">S. 44</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 mit wohlfeilen Lebensmitteln, füllte dadurch seine militairischen und Landmagazine, und verschaffte den Fabrikanten in Schlesien und in den Marken einen Ueberfluß roher Producte, durch deren Veredlung sie ansehnlich gewannen.
@@ -1392,12 +1398,10 @@ Through the possession of Poland one only increased the establishment expenditur
 In a war with France Poland would have constituted the basis of subsistence for the Prussian troops through grain and cattle, would have reinforced the armies with brave auxiliary troops, and would have recruited them with young volunteer manpower. United with Prussia, it is a false friend, who is always more dangerous than a declared enemy.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-45">Heft 1, S. 45</a></h2>
+<section class="lit-passage" id="p-1-45" data-page="45" data-part="1">
+<div class="pg" id="p1-45"><a href="#p1-45">S. 45</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Noch schädlicher, wie die Theilung Pohlens, war aber der Pillnitzer Vertrag, nach welchem man den französischen Staat auflösen wollte. Was konnte man im glücklichsten Fall wohl dabey gewinnen? Oestreich würde dann Italien sich unterworfen, Elsaß und Lothringen mit seinen Vorländern vereinigt haben. Wo lagen aber die Provinzen, welche Preußen zweckmäßig in sich aufnehmen konnte?
@@ -1420,12 +1424,10 @@ The French nation was not, merely because its government had fallen through its 
 Poland was hemmed in by the three great powers; it had neither fortresses nor a proportionate army; here only the nobility was taken with the new order of things (in no way the raw
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-46">Heft 1, S. 46</a></h2>
+<section class="lit-passage" id="p-1-46" data-page="46" data-part="1">
+<div class="pg" id="p1-46"><a href="#p1-46">S. 46</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Masse), oder vielmehr, dieser war es ganz gleich, wer regierte.
@@ -1452,12 +1454,10 @@ The greatest misfortune which was brought about for Prussia by the war with Fran
 France, occupied and shaken by the war on the mainland, could not also resist at sea with any exertion, the less so as its naval power had already before been subordinate to the English.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-47">Heft 1, S. 47</a></h2>
+<section class="lit-passage" id="p-1-47" data-page="47" data-part="1">
+<div class="pg" id="p1-47"><a href="#p1-47">S. 47</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es verlor also seine Handlung und seine Colonien durch die Vernichtung seiner Flotten; es verlor jeden Antheil an der Herrschaft auf dem Meere, trat aus der Handelsconcurrenz heraus, und erleichterte England die Erreichung seines Ziels, der Weltherrschaft, durch die alleinige Besitznehmung des Oceans. Holland war damals noch im Stande, einigermaßen das Gleichgewicht auf dem Meere zu erhalten; indem es aber auch ohne Noth, ganz wider sein natürliches Interesse, Frankreich den Krieg erklärte, wurde sein Antheil an dem Continent die Beute der Franzosen, seine Seemacht die der Engländer. Mit ihr fiel sein Handel, und seine Marine wurde England zu Theil.
@@ -1476,12 +1476,10 @@ Once Prussia had taken sides against France, it also had to hold out in league w
 Could there ever have been a moment to enlarge Prussia's power to good purpose, it was this one, when she ought to have marched her army swiftly into Holland and united that state with herself under conditions. Those conditions would have been none other than that this republic should by all means retain its old constitution, with the hereditary Stadtholder at its head; but that in return Prussia should be granted the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-48">Heft 1, S. 48</a></h2>
+<section class="lit-passage" id="p-1-48" data-page="48" data-part="1">
+<div class="pg" id="p1-48"><a href="#p1-48">S. 48</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Schutz- und Besatzungsrecht zugestehen und seiner Armee von 30 — 40000 Mann Unterhalt und Sold geben mußte.
@@ -1504,12 +1502,10 @@ Instead, however, Prussia calmly allowed France to seize Holland; its Westphalia
 The mistakes which Prussia has made since the Peace of Basel are so enormously great that the tragedy at Auerstädt had to be a necessary consequence of them. Having begun an ill-considered war and ended it so disadvantageously, she adopted the system of neutrality, just as if she constituted an isolated state of Europe, and possessed such national strength that she could, under all circumstances, defy any neighbouring state,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-49">Heft 1, S. 49</a></h2>
+<section class="lit-passage" id="p-1-49" data-page="49" data-part="1">
+<div class="pg" id="p1-49"><a href="#p1-49">S. 49</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 er möge sich vergrößern oder nicht, unter allen Umständen die Spitze biethen könne.
@@ -1528,12 +1524,10 @@ France now soon extended her power over Belgium and Italy; her armies swept acro
 But once it was concluded, and Austria wished anew to draw the sword more for England's interest than for its own, then Prussia had to prevent this, and thereby seek to compel England to peace. Taking no side, however, Prussia once again let the favourable period pass for establishing itself in possession of Holland; for if either the French side had been taken — when France in 1799 stood at the edge of the abyss, in so far as Masséna at
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-50">Heft 1, S. 50</a></h2>
+<section class="lit-passage" id="p-1-50" data-page="50" data-part="1">
+<div class="pg" id="p1-50"><a href="#p1-50">S. 50</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Zürch nicht noch einmal es rettete, so würde man wahrscheinlich Preußen französischer Seits Holland eingeräumt haben. Ergriff man die Partey der Alliirten, so war nichts leichter, als durch eine Diversion in Holland sich in den Besitz dieses Landes zu setzen, und alsdann den Frieden zu dictiren. Man benutzte aber weder das Unglück, noch das Glück der Franzosen zu seinem Vortheil.
@@ -1552,12 +1546,10 @@ One calmly allowed Austria to lose one province after another, until at last a h
 At last the Peace of Lunéville and Amiens came about, and one might have believed that now Europe might remain freed for some time from the plague of war. England, the tyrant of the ocean, not yet content with the advantages which its commercial despotism afforded it, took up arms anew under empty pretexts, so that France should not conquer St. Domingo, and now Prussia calmly allowed Hanover to be occupied by the French and treated as enemy country. Into the very heart of the old Prussian provinces one let the enemy penetrate, without setting a mobile army
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-51">Heft 1, S. 51</a></h2>
+<section class="lit-passage" id="p-1-51" data-page="51" data-part="1">
+<div class="pg" id="p1-51"><a href="#p1-51">S. 51</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 entgegenzustellen, ohne Magdeburg in Befestigungsstand zu setzen. Sorglos gab man sich Frankreich hin. Gott weiß, worauf man ohne Garantie baute! Die Streitkräfte, welche Hannover gewährte, und die stets zum Gebrauch für Preußen bereit lagen, wurden für dasselbe mit einem Schlage vernichtet, und man ließ sie ruhig über den Rhein gehen.
@@ -1576,12 +1568,10 @@ The new war that had broken out between France and England seemed likely to beco
 Napoleon, however, kept his army standing in the German Empire, and bound the interest of Bavaria, Württemberg, and other princes to his own. Why did one not let England alone bring the struggle to an end — a struggle which it wages not for the just cause, but for a commercial system that must in the end collapse anyway? Suppose that, through a landing, the national bankruptcy
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-52">Heft 1, S. 52</a></h2>
+<section class="lit-passage" id="p-1-52" data-page="52" data-part="1">
+<div class="pg" id="p1-52"><a href="#p1-52">S. 52</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 in England, und dadurch das Fundament der englischen (auf der Nationalschuld beruhenden) Größe vernichtet werden, was wäre es denn für ein Unglück weiter für uns gewesen? Man sagt: dann hätte Frankreich freyes Spiel gehabt, alles zu unterjochen! Ich antworte: darin wird ihm jetzt bis an die Weichsel schwerlich Jemand mehr hinderlich seyn; denn über die Weichsel dehnt sich Rußlandsoperationslinie nicht aus. Dadurch, daß Oestreich Englands Insinuationen Gehör gab, zog es Napoleons Heere stets in seine Provinzen hinab; ja es war stets so, als wenn man ihn, der immer nach Indien — und aus Europa hinausstrebt, am Mantel festgehalten hätte. Wollte man dann aber mit Gewalt Napoleon den Lorbeer entreißen, so konnte man ihn, unterdeß er die Landung versuchte, Diversionen machen. Englands Fall bringt Concurrenz in den Handel und stellt das Gleichgewicht der Seemächte wieder her. Es falle! Wir werden dann nicht mehr und nicht weniger von Frankreich zu leiden haben, wie jetzt.
@@ -1596,12 +1586,10 @@ in England, and with it the foundation of English greatness (resting upon the na
 In the last campaign of 1805 Prussia once again played the most unpolitical role in the world. If it did not wish (why, I do not know?) to tie its interest to that of France, it ought at least, with arms in hand, either to have kept Russia and Austria out of the war, or, after the march through Ansbach, to have taken their side with energy. But it would have been more purposeful, and of the happiest outcome for Prussia,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-53">Heft 1, S. 53</a></h2>
+<section class="lit-passage" id="p-1-53" data-page="53" data-part="1">
+<div class="pg" id="p1-53"><a href="#p1-53">S. 53</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wenn es Düroc's Vorschläge annahm, und sich unter der Bedingung der Besitznahme Hollands zum Alliirten Frankreichs erklärte.
@@ -1620,12 +1608,10 @@ But what did this power do? The troops were let march to the northern provinces;
 If one wished to remove French influence from German soil, if one wished to avenge the violated neutrality, then in October one had at once to send the Westphalian inspection, united with the Hessians, by forced marches into Holland, which was stripped of troops; here, on the seaward side, Russians, English, and Swedes were to land, and thus the flanks and rear of the French army in Bavaria were to be threatened. As soon as the whole army arrived afterward, one could have marched straight upon Würzburg, and thus weakened Napoleon's forces, he being occupied at Brünn.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-54">Heft 1, S. 54</a></h2>
+<section class="lit-passage" id="p-1-54" data-page="54" data-part="1">
+<div class="pg" id="p1-54"><a href="#p1-54">S. 54</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Man ließ sich aber mit dem Besitz Hannovers genügen, nachdem die Franzosen die Blüthen des Nationalreichthums dieses Landes abgepflückt hatten. Dadurch zog man sich die Wegnahme der Schiffe durch die Engländer, und einen Theaterkrieg mit Schweden zu, der weiter nichts der Welt documentirte, als daß Preußen keinen Willen habe. Man trat alle Provinzen, und sogar den letzten festen Punkt am Rhein (Wesel) dagegen ab, auf welches gelehnt, die Preußen in Holland mit Erfolg zu siegen hoffen durften. Wie mußte aber Europa erstaunen, wenn Preußen jetzt (1806) auf einmal die Waffen ergreift, sich allein Frankreich widersetzt und seine Armee schlachtfertig aufstellt.
@@ -1640,12 +1626,10 @@ But one contented oneself with the possession of Hanover, after the French had p
 Was there so much as a single ground for this war that was not already present in 1805? But if it was politically correct that Prussia had to declare war on France in 1806, then it was far more advantageous still in 1805, when the armies of the other powers stood under arms. In the previous year the Russians were in Hanover and in Silesia; now they are only awaited. Last year Napoleon could not have set 50,000 men against the Prussians; now he can set the greatest part of his might: last year Prussia would have been trumpeted as the protector of the German imperial constitution; now everyone laughs up his sleeve that a power which always seemed to fish in troubled waters has been rapped over the knuckles.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-55">Heft 1, S. 55</a></h2>
+<section class="lit-passage" id="p-1-55" data-page="55" data-part="1">
+<div class="pg" id="p1-55"><a href="#p1-55">S. 55</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Doch ich habe ja das preußische Manifest vor mir liegen, welches den Krieg rechtfertigen soll. Es scheint nur ein Bekenntniß aller Fehler, die man 10 Jahr lang begangen hat, zu seyn. Es heißt darin:
@@ -1672,12 +1656,10 @@ Peace, maintained at the wrong time, is more dangerous than an unlucky war.
 It is true that France applied every means to indemnify itself, by the war on the continent, for the naval power lost through England. The repercussion, to be sure, always struck the continent; if Prussia wished to free itself from this, it had to strangle the giant in his infancy, and not let him ripen into a man.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-56">Heft 1, S. 56</a></h2>
+<section class="lit-passage" id="p-1-56" data-page="56" data-part="1">
+<div class="pg" id="p1-56"><a href="#p1-56">S. 56</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Von der Gerechtigkeit kann hier so wenig, wie von der Schulmoral die Rede seyn, besonders seitdem einmal das Gleichgewicht gestört war. Napoleon wird gewiß, so wie wir alle, fühlen, daß mehr Ruhm dabey zu gewinnen ist, das Innere zur Entwickelung zu bringen, als ohne Zweck den Welteroberer zu spielen. Er wurde aber durch die Nothwendigkeit gedrängt, auf Siege auszugehen, um die Continentalmächte zu hindern, ihn nicht weiter in seinen Plänen auf die andern Welttheile aufzuhalten. Friedrich II. hörte nur dann zu schlagen auf, wie Schlesiens Besitz ihm gesichert war, welchen er zur Entwicklung des preußischen Staats für nöthig hielt. Napoleon wird so lange Krieg führen, bis er Englands Einfluß auf den Continent vernichtet hat<sup class="lit-fn"><a href="#n-de-4">4</a></sup>. Es heißt weiter:
@@ -1692,12 +1674,10 @@ Of justice there can be as little talk here as of schoolroom morality, especiall
 "Not one of these oppressions could be foreign to Prussia; several among them were closely bound up with her most essential interest; and moreover the wisdom of the system which regards all the states of Europe as members of one and the same family, which calls upon them all to defend each one, and which perceives in the immoderate aggrandizement of one the danger to all the rest, has been sufficiently confirmed by experience."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-57">Heft 1, S. 57</a></h2>
+<section class="lit-passage" id="p-1-57" data-page="57" data-part="1">
+<div class="pg" id="p1-57"><a href="#p1-57">S. 57</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wie kann Preußen hier das alte System des Gleichgewichts als Veranlassung zum Kriege mit Frankreich 1806 anführen?
@@ -1724,12 +1704,10 @@ It would have been better had this not been brought up in the first place.
 Gratitude is a matter of the heart, not of the understanding. States and their chiefs, as such, must let themselves be led astray by no feeling, least of all in politics. How could the Prussian cabinet ever have imagined that Napoleon would do anything for Prussia out of personal gratitude? The Prussian rulers ought at least to have read Frederick's works and to have gathered from them the reasons he gives for abandoning the French alliance in 1742, and how he shows that in politics morality is out of place. One is grateful as long as the interest of the state permits it; one keeps treaties precisely as long as they afford advantages.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-58">Heft 1, S. 58</a></h2>
+<section class="lit-passage" id="p-1-58" data-page="58" data-part="1">
+<div class="pg" id="p1-58"><a href="#p1-58">S. 58</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > „So hatte mehrere Jahre lang der merkwürdigste Streit zwischen der Mäßigung, die alles verzieh, und der Redlichkeit, die dem gegebenen Worte bis ans Ende treu bleibt, von einer Seite; dem Mißbrauche der Gewalt, dem Trotze auf verführerisches Glück, und der Gewohnheit, nur mit diesen zu rechnen, von der andern Seite fortgedauert.“
@@ -1752,12 +1730,10 @@ It is certain, however, that Prussia owes her new acquisitions in Germany to Fre
 > "Prussia stood alone upon the field of battle (after the battle of Austerlitz). She was obliged to confine her policy to the limits of her strength, and, instead of embracing the interest of all Europe as had been her will, to take her own security and that of her neighbours as her first guiding line."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-59">Heft 1, S. 59</a></h2>
+<section class="lit-passage" id="p-1-59" data-page="59" data-part="1">
+<div class="pg" id="p1-59"><a href="#p1-59">S. 59</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Preußen trat dennoch ab. Steht es aber jetzt, 1806, nicht auch allein auf dem Kampfplatz? Mußte es mit Frankreich brechen? War denn die Lage der Dinge selbst nach der Schlacht bey Austerlitz nicht mehr zu seinem Vortheil, wie jetzt? Warum ließ es denn 1805 zuerst seine Truppen gegen Rußland marschieren? Der unbedeutende Durchmarsch französischer Truppen durch das Anspachsche konnte, von einer freundschaftlichen Macht unternommen, unmöglich Veranlassung seyn, einen Krieg anzufangen.
@@ -1776,12 +1752,10 @@ The complaint raised in the manifesto concerning the non-observance of the Peace
 It is certain that Napoleon's earnest will to remove England's mercantile universal influence from Europe aims at the happiness of this part of the world. He employs everything to carry out this will—war and peace treaties, alliances, force and cunning, assurances of friendship and threats, all alike! The How must here be a matter of indifference, and morality comes into no consideration in it. That state which gives itself over to this
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-60">Heft 1, S. 60</a></h2>
+<section class="lit-passage" id="p-1-60" data-page="60" data-part="1">
+<div class="pg" id="p1-60"><a href="#p1-60">S. 60</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Idee hingiebt, kann für Frankreichs Angriff sicher seyn; und dieß wäre bey Preußen der Fall gewesen. Seit 10 Jahren schwankt aber das preußische Cabinet zwischen Wollen und Nichtwollen, ergreift nie mit Festigkeit eine Partey, und ist nur darin consequent gewesen, nie einen festen Willen zu zeigen.
@@ -1800,12 +1774,10 @@ As for what is further alleged and set forth in the manifesto—concerning a res
 This much seems certain to me: that Napoleon, without regard to persons and to what morality might teach, fights solely for the cause, and purely against England's universal despotism; Frederick William III., however, without having grasped the true interest of his state with respect to England, fights against that firm will less as a chief of state, wholly as a private man clinging to personality and to morality, and, were he to conquer, would deliver Prussia over to the slowly killing influence of England<sup class="lit-fn"><a href="#n-en-5">5</a></sup>.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-61">Heft 1, S. 61</a></h2>
+<section class="lit-passage" id="p-1-61" data-page="61" data-part="1">
+<div class="pg" id="p1-61"><a href="#p1-61">S. 61</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wollte aber Preußen gegen den so oft erklärten Willen Napoleons mit Erfolg kämpfen und sich Englands Einfluß hingeben, warum hat denn dieser Staat, ohne Beziehung auf politische Gründe, sich nicht besser bey einer zehnjährigen Ruhe zu diesem Kampfe vorbereitet?<sup class="lit-fn"><a href="#n-de-6">6</a></sup>
@@ -1824,12 +1796,10 @@ This requires an explanation, and the loss of the battle of Auerstädt likewise 
 Already at the outset I said that no general idea any longer drives nations against one another, that battles are won neither for the sake of religion, nor out of a feeling of liberty, nor through the spirit of chivalry. The idea, generally accepted for many years, of maintaining the balance of power among the states has been annihilated by the recent wars; the delirium of liberty, which once operated in France, cannot take hold in Prussia. By what means does one gain victory? By art, by the organization and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-62">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-62">Heft 1, S. 62</a></h2>
+<section class="lit-passage" id="p-1-62" data-page="62" data-part="1">
+<div class="pg" id="p1-62"><a href="#p1-62">S. 62</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Führung der Truppen, durch die Nationalkraft, den Krieg lange auszuhalten, durch die geographische Lage der kämpfenden Staaten, durch ihre natürlichen oder künstlichen Befestigungen, durch Concentricität in der Anführung. Der persönliche Muth der Truppen, ihre Kampflust, ihre Ausdauer, ist freylich ein Accidentale, aber jenes sind die Hauptursachen vom Gewinn oder Verlust der Schlachten. Mehr ist der rationelle Muth in den Anführern, als der physische in den Individuen. Ich glaube, daß der Pommer, Märker und Preuße den Franzosen im Faustkampf überwinden würde; aber was nutzt eine solche körperliche Kraft gegen ein wohl angebrachtes Artilleriefeuer?
@@ -1852,12 +1822,10 @@ The waging of war is an art. Let us seek to determine whether the Prussians have
 The Prussian army, 66 years ago at Mollwitz, won a battle against old, brave Austrian troops accustomed to war, because it made use of iron ramrods and had adopted the cadenced step; so history teaches. It would probably have lost the battle had the Austrian army hurled a concentrated artillery fire, served by cavalry, upon these closely serried thin Prussian lines and thus broken through them. But this could not be done at that time. Frederick II. now brought to its highest perfection the art
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-63">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-63">Heft 1, S. 63</a></h2>
+<section class="lit-passage" id="p-1-63" data-page="63" data-part="1">
+<div class="pg" id="p1-63"><a href="#p1-63">S. 63</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 eine Armee als Maschine, aus unzähligen Einzelheiten bestehend, als ein einziges Ganze zu drehen, zu wenden, entwickeln, quadriren, vorwärts und rückwärts sich bewegen zu lassen, zur höchsten Vollendung, und so lange seine Gegner auf diese Idee eingingen, und diese Maschine als das höchste Kunstwerk für den Krieg betrachteten, da blieb der Sieg dem preußischen Heere getreu. Wie aber im Sturm der französischen Revolution die Nation in Masse aufstand, die Masse in unregelmäßige Haufen jene nach alter Art rangirten Armeen bekämpfte, zuerst aufgerollt und vernichtet, endlich aber gleich einem Bienenschwarme, der sich immer verneuert, nicht mehr aufgehalten werden konnte, da ergab sich aus dieser neuen Manier, den Krieg zu führen, bald eine andere Ansicht, die den Geist des neuen Kriegssystems zur Welt brachte, den Bülow und Bärenhorst theoretisch dargestellt haben. Durch diesen Geist, den die französischen Heere sich allein aneigneten, schlugen sie alle ihre Feinde, und wurden unüberwindlich.
@@ -1876,12 +1844,10 @@ Since the Peace of 1795 Prussia neglected this matter, in that it retained its o
 Many a young officer (and this only rarely) studied the new system of warfare; but since seniority determined promotion,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-64">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-64">Heft 1, S. 64</a></h2>
+<section class="lit-passage" id="p-1-64" data-page="64" data-part="1">
+<div class="pg" id="p1-64"><a href="#p1-64">S. 64</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 bestimmte, so kam er nicht an den Platz, wohin er gehörte, und seine Worte verhallten im Winde. Er wurde nicht gehört, ja wohl gar als ein Neuerer verfolgt, verschrieen und entfernt.
@@ -1900,12 +1866,10 @@ The new system of warfare absolutely requires instructed soldiers and men who pu
 In the Prussian armies hereditary privileges hold sway; the common soldier is to be regarded merely as part of a machine, upon whose moral formation and knowledge nothing depends. Physically he stands there, physically he is treated; he is to be an instrument and nothing more, to have no prospect of improving his condition through promotion; to receive his subsistence meagrely, and even to serve as a plaything and a puppet, dressed in clothes cut now this way, now that, and only to be driven by the stick to perform his tactical movements, prescribed by tempo, when he does not perform them regularly. Few of these heroes care whether they win or run away; but often greed for plunder drives them into the fight, along with the prospect of an early peace should the battle be won; still more often, however, a coercive force
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-65">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-65">Heft 1, S. 65</a></h2>
+<section class="lit-passage" id="p-1-65" data-page="65" data-part="1">
+<div class="pg" id="p1-65"><a href="#p1-65">S. 65</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 in ihrem Rücken ab, den Kampfplatz zu verlassen. Phlegmatisch, faul und verdrossen macht noch überdieß einen Theil des preußischen Heers das Klima, die gewohnte Erziehung, Nahrung, Lebensart, Unterthanen-Nexus und dergleichen.
@@ -1928,12 +1892,10 @@ If he is invalided, the state provides for him; if he has fallen, his survivors 
 The officer class in the Prussian army, according to the old system of warfare, was merely an intermediate point in the machine; and since it was therefore more an instrument than a spiritual part of it, it mattered little for the purpose whether it had intelligence and moral formation; if he knew how to handle the regulations exactly, if he had mastered the mechanical service, then he was what he was meant to be. In order to hold him firmly at his post, Frederick further attached to this class the general idea of the so-called military
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-66">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-66">Heft 1, S. 66</a></h2>
+<section class="lit-passage" id="p-1-66" data-page="66" data-part="1">
+<div class="pg" id="p1-66"><a href="#p1-66">S. 66</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Point d'honneur an diesen Stand, und ein vollkommener Officier war derjenige, der den Dienst kannte und auf Ehre hielt.
@@ -1952,12 +1914,10 @@ In more recent times the young officers doubtless felt the inadequacy of this mi
 Spoiled for the old service and unfit for the new, they were far more useless than they could have been in the French army. And withal they were vain, arrogant, and boastful; their plumes seemed to wish to defy the heavens; their martial clattering of sabres and jingling of spurs announced from afar a son of Mars, who, however, had thus far beaten the enemy only in his own imagination. The staff officers, who had passed their years of youth just as the subalterns had,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-67">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-67">Heft 1, S. 67</a></h2>
+<section class="lit-passage" id="p-1-67" data-page="67" data-part="1">
+<div class="pg" id="p1-67"><a href="#p1-67">S. 67</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zugebracht, ihre Zeit mit Müßiggehen und im physischen Genuß verlebt hatten, zeigten noch weniger Lust, etwas zu lernen; sie waren mehr Staatsbürger, als Soldaten; nahmen sich ein Weibchen, baueten sich ein Haus, kauften sich an, und außer dem Rapport und der Wachtparade lebten sie nur ihrer Familie; die Revüen, die oft nur nach Jahren erfolgten, waren mehr einer Plaisirreise, als einer Kriegsübung ähnlich.
@@ -1980,12 +1940,10 @@ There is no doubt that the officer corps, with much good will (still wholly imbu
 Such was the condition of the individual elements of the army that fought at Auerstädt; how was this army itself constituted?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-68">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-68">Heft 1, S. 68</a></h2>
+<section class="lit-passage" id="p-1-68" data-page="68" data-part="1">
+<div class="pg" id="p1-68"><a href="#p1-68">S. 68</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die preußische Armee, aus Infanterie, Kavallerie und Artillerie bestehend, verließ sich bisher, und auch bey Auerstädt, auf ihre geschlossenen Reihen, einer langen dünnen Linie von Infanterie, gedeckt durch Kavallerie an den Seiten, mit Artillerie untermischt, en Ordre de bataille aufmarschiert. Napoleon geht mit einem folardschen Keil von leichter Artillerie, durch Kavallerie maskirt, ins Centrum, bricht die Linie, und die Preußen sind à la Austerlitz geschlagen. Die Infanterie, an taktische Uebungen gewöhnt, ist es nicht so an Eilmärsche und Strapazen; ich schweige vom Dienst der Ausländer, vom Alter der Soldaten, von unzweckmäßiger Bekleidung, von schlechter Verpflegung durch Commissariate, von überflüssiger Bagage und tausend andern, so oft schon hin und wieder gerügten, Dingen, und sage nur noch von der Anführung, daß sie in diesem Feldzuge nicht weniger unzweckmäßig war. Napoleon ist noch in Paris und feyert Feste im Lager bey Mendon; hier paradirten noch die Garden, als die preußischen Truppen schon in Sachsen standen.
@@ -2000,12 +1958,10 @@ The Prussian army, consisting of infantry, cavalry, and artillery, had hitherto 
 The forces are drawn together slowly, time is frittered away in negotiations, and yet conditions are made which one may not flatter oneself will be fulfilled, given Napoleon's character and his conduct hitherto. This lasts until the French army, concentrated, advances. Instead of a single commander, an Areopagus commands the army; the King, Brunswick,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-69">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-69">Heft 1, S. 69</a></h2>
+<section class="lit-passage" id="p-1-69" data-page="69" data-part="1">
+<div class="pg" id="p1-69"><a href="#p1-69">S. 69</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Möllendorf, Rüchel und andere, statt daß die französischen Heere mit Blitzesschnelle ausführen, was die große Einheit an ihrer Spitze befiehlt.
@@ -2024,12 +1980,10 @@ They encamp in the broken terrain near Jena, Buttstädt, and Auerstädt; they ha
 Thus far go the reports. It is probable at this moment that the beaten army takes up a firm position between Magdeburg and Halberstadt and here cuts off the Elbe; that the King, on the other side of the Oder near Küstrin, gathers the East Prussian troops and awaits the Russians; that the French detach Saxony from the alliance and honour Berlin with a raiding excursion; that peace is either negotiated and Prussia surrendered to France's influence, or that the King gives himself over to Alexander and seeks through perseverance to preserve the State. As for Berlin and the intervening space between the Elbe and the Oder, the French cannot properly hold Berlin unless they command Magdeburg and the Elbe, Küstrin, Glogau, and the Oder.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-70">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-70">Heft 1, S. 70</a></h2>
+<section class="lit-passage" id="p-1-70" data-page="70" data-part="1">
+<div class="pg" id="p1-70"><a href="#p1-70">S. 70</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Der märkische Sand kann nicht einmal die Residenz, geschweige denn noch eine Armee unterhalten; die Franzosen bringen nicht mit, was sie brauchen; sie müssen es finden, wohin sie kommen.
@@ -2060,12 +2014,10 @@ That the French would conquer Silesia beyond where the direct line of operations
 I have already declared above that Prussia has an interest against England identical with that of France. But it is one thing to be able to advance one's true state interest freely, without compulsion,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-71">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-71">Heft 1, S. 71</a></h2>
+<section class="lit-passage" id="p-1-71" data-page="71" data-part="1">
+<div class="pg" id="p1-71"><a href="#p1-71">S. 71</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zu können, als vom Nachbar dazu gezwungen werden müssen, wie der Fall jetzt eintreten möchte. Wahrlich, man erschwert Napoleon den Weg zum Ziele, England vom Continent von Stuffe zu Stuffe abzuschneiden; nur durch Kanonen, nicht durch Rath, kann er den verkehrten Willen der Continentalmächte bezwingen, die der Insel anhängen, die jetzt schon einen merkantilischen Universaleinfluß ausübt, indem man der Idee sich entgegensträubt, Napoleon wolle Europa erobern.
@@ -2084,12 +2036,10 @@ From the moment Prussia allowed the English to compete in the Baltic grain marke
 This is not the place to contest the nonsensical doctrines of the Physiocrats, or to combat the agricultural system preached in our own days; but if one were once to draw up a proper account and strike the balance of what the Baltic ports have received from England for the grain they sold, one would soon find that every year, after deducting the value of the colonial goods received, they stand at a loss. Through this commercial intercourse with England, Prussia has grown poorer year by year; raw products have been driven up without measure or limit, Silesia's active trade has been ruined along with its manufactures, the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-72">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-72">Heft 1, S. 72</a></h2>
+<section class="lit-passage" id="p-1-72" data-page="72" data-part="1">
+<div class="pg" id="p1-72"><a href="#p1-72">S. 72</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Armee zu unterhalten ist mit jedem Jahre kostbarer geworden, und das Land ist durch Naturallieferungen erbarmungslos belastet.
@@ -2116,12 +2066,10 @@ Prussia could not have entered better into Napoleon's plans; and it would have d
 Napoleon would then have had a free hand to carry through his earlier plan of a landing in England, so as to throw this rope-dancer off its balance — this rope-dancer that, with its balancing pole, hovering upon a single point of rest, sways now to India, now to Europe, back and forth
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-73">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-73">Heft 1, S. 73</a></h2>
+<section class="lit-passage" id="p-1-73" data-page="73" data-part="1">
+<div class="pg" id="p1-73"><a href="#p1-73">S. 73</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 schwankt, aus dem Gleichgewicht zu werfen. Konnte Preußen dann die Besitzergreifung Hollands durch Convention mit Frankreich durchsetzen, so stand es so fest, wie ein Staat in Europa.
@@ -2140,12 +2088,10 @@ Should France then not agree to this, Prussia would have had to make of Wesel a 
 Against Russia the line of defence is too long: in any case, however, Warsaw would have had to become a fortress.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-74">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-74">Heft 1, S. 74</a></h2>
+<section class="lit-passage" id="p-1-74" data-page="74" data-part="1">
+<div class="pg" id="p1-74"><a href="#p1-74">S. 74</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Da Südpreußen und Neuostpreußen in jedem Kriege (er werde gegen Frankreich oder Rußland geführt) wegen einer neuen Insurrection zu fürchten ist, so mußte man die Pohlen auf folgende Art zu gewinnen suchen.
@@ -2172,12 +2118,10 @@ The King would have had to open a Diet in Warsaw, and there to lay the following
 > But in order to bring you, so far as lies within my power, nearer to the condition which you yourselves wished to bring about through the constitution of 1792, I will, under your counsel and with your co-operation, grant you the following new
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-75">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-75">Heft 1, S. 75</a></h2>
+<section class="lit-passage" id="p-1-75" data-page="75" data-part="1">
+<div class="pg" id="p1-75"><a href="#p1-75">S. 75</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > Verfassung geben: Einer der ersten unter Euch ist mein Blutsverwandter und getreuer Bruder, der Fürst Radzynwill; er soll künftig Euer Vicekönig seyn, und in Warschau residiren. Er soll hier einen Hof halten, so glänzend als es die dazu auszuwerfenden Revenüen des Landes verstatten. Es umgebe ihn ein Senat, der durch die ersten und weisesten unter Euch besetzt sey. Ihr möcht mir die edelsten Männer unter Euch dazu vorschlagen, und wenn künftig ein Mitglied ausscheidet, so verstatte ich Euch das Wahl- und Präsentationsrecht dreyer Candidaten, aus welchen ich einen, nach dem Vorschlage des Vicekönigs, approbiren werde.  
@@ -2200,12 +2144,10 @@ The King would have had to open a Diet in Warsaw, and there to lay the following
 > The provincial territorial authorities — the courts of justice and finance, the Landrats and Tax Councillors, the magistracies
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-76">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-76">Heft 1, S. 76</a></h2>
+<section class="lit-passage" id="p-1-76" data-page="76" data-part="1">
+<div class="pg" id="p1-76"><a href="#p1-76">S. 76</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > und Dorfgerichte bleiben in dem Wirkungskreise, worin sie sich jetzt befinden. Jedoch steht dem Senat ihre Besetzung allein zu; nur behalte ich mir die der Präsidentenstellen vor.  
@@ -2224,12 +2166,10 @@ The King would have had to open a Diet in Warsaw, and there to lay the following
 > The Archbishop of Gnesen shall be Primate of the Realm, reside at Warsaw, and constitute here the supreme court of justice *quo ad eclesiastica* (as to ecclesiastical matters); but as regards the Protestant clergy, they shall retain their forum where it now stands; a member of the Senate, however, shall be their superior in the last instance.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-77">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-77">Heft 1, S. 77</a></h2>
+<section class="lit-passage" id="p-1-77" data-page="77" data-part="1">
+<div class="pg" id="p1-77"><a href="#p1-77">S. 77</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > Es versteht sich übrigens von selbst, daß der Kronfeldherr und der Primas regni stets Mitglieder des Senats sind.  
@@ -2256,12 +2196,10 @@ Obwohl unter diesen Bedingungen die Pohlen je an Insurrection denken möchten? I
 Whether, under these conditions, the Poles would ever think of insurrection? I believe not! Whether the King and the mother country would, under these conditions,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-78">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-78">Heft 1, S. 78</a></h2>
+<section class="lit-passage" id="p-1-78" data-page="78" data-part="1">
+<div class="pg" id="p1-78"><a href="#p1-78">S. 78</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 verlieren oder gewinnen möchten? Ich glaube das Letztere! Jetzt ist für Preußen die Souverainität über Pohlen eine Last, dann wäre sie mit großen Vortheilen verknüpft; dies wird mir jeder zugestehen, der einmal die Etats dieser pohlnischen acquirirten Provinz angesehen hat.
@@ -2284,12 +2222,10 @@ A principal measure that Prussia had to adopt for the upholding of its independe
 Had one merely levied for it that young manpower already entered in the cantonal rolls, without regard to inches and marks; given it the muskets heaped up in the country, especially in the Arsenal at Berlin (now for the French); had it drilled a little by
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-79">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-79">Heft 1, S. 79</a></h2>
+<section class="lit-passage" id="p-1-79" data-page="79" data-part="1">
+<div class="pg" id="p1-79"><a href="#p1-79">S. 79</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 alte pensionirte Officiere exerciren, hob alle Enrollements-Exemtionen auf, zog auch den jungen Adel dazu mit heran; und beförderte zu den Officiren die Verdientesten, ohne Unterschied des Standes, benutzte zu dieser Miliz die Schützencompagnien in den Städten, und recrutirte aus dieser Truppenmasse die Armee, so konnte man Reservearmeen aus dieser Miliz aufstellen, die Vestungen besetzen, und durch die 3ten Bataillons die Armeen verstärken.
@@ -2316,12 +2252,10 @@ Napoleon has beaten the main army at Auerstädt; it was cut off from the Elbe on
 Under these circumstances Napoleon, from the heart of Saxony and supported by that rich country, will form three lines of operation.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-80">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-80">Heft 1, S. 80</a></h2>
+<section class="lit-passage" id="p-1-80" data-page="80" data-part="1">
+<div class="pg" id="p1-80"><a href="#p1-80">S. 80</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Eine geht links auf Magdeburg, die zweite über Torgau im Centro auf Küstrin, die dritte durch die Lausitz nach Glogau.
@@ -2356,12 +2290,10 @@ The third part could have been stationed in Lower Saxony and Westphalia, and the
 The plan of operations which Prussia drew up for this campaign was (as the consequences show) far too bold,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-81">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-81">Heft 1, S. 81</a></h2>
+<section class="lit-passage" id="p-1-81" data-page="81" data-part="1">
+<div class="pg" id="p1-81"><a href="#p1-81">S. 81</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 mit zu viel Selbstvertrauen entworfen; man wollte mit drey Corps auf Anspach, Würzburg und Mayntz hinwirken, vergaß aber, sich den Rücken zu decken, entfernte sich zu weit von der Elbe, deckte Schlesien und Südpreußen durch — Nichts.
@@ -2396,12 +2328,10 @@ At present we are given over to the influence of England, of France, of Russia; 
 Upon England depend all the great landed proprietors and trading cities in the countries beyond the Oder, since they sell their wheat there at a high price. Upon England depends the hereditary nobility with its privileges, and in so far as the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-82">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-82">Heft 1, S. 82</a></h2>
+<section class="lit-passage" id="p-1-82" data-page="82" data-part="1">
+<div class="pg" id="p1-82"><a href="#p1-82">S. 82</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Militair aus diesem Adel besteht, ist es dem englischen System gleichfalls zugethan, da man von Napoleon den Umsturz des Feudalism erwartet, und daß das Militair nach französischer Art metamorphosirt werden könne.
@@ -2428,12 +2358,10 @@ To Russia the royal couple are bound by a personal friendship for the Emperor Al
 As firmly as he clung to the system of neutrality, to this ruin of Prussia, just so will he now cling with perseverance to the war, until even the last hope is annihilated.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-83">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-83">Heft 1, S. 83</a></h2>
+<section class="lit-passage" id="p-1-83" data-page="83" data-part="1">
+<div class="pg" id="p1-83"><a href="#p1-83">S. 83</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Gewiß! wenn Preußen sich vom englischen Einfluß jetzt losmachen könnte, wenn es Frankreich mit seiner ganzen Macht sich gegen diesen verderblichen Einfluß hingeben, Rußland mit dazu bewegen wollte, so würde Napoleon sogleich auf jede Abtretung und Vernichtung des preußischen Staats Verzicht leisten. Wer kann, wer darf dieß jetzt dem Könige vorschlagen? Also Krieg ist die Loosung, und selbst im glücklichsten Fall, wenn wir siegreich bis an den Rhein die Franzosen zurücktrieben, würde uns dadurch nicht geholfen seyn; denn mit doppelter Kraft dringt dann Napoleon von neuem seinem Ziele entgegen.
@@ -2456,12 +2384,10 @@ The countries which now stand under Napoleon's influence, even if they are harsh
 But Napoleon the Great (who could deny him this epithet) will certainly, of this I trust to his wisdom, not dissolve the internal organization of the countries and provinces which he conquers
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-84">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-84">Heft 1, S. 84</a></h2>
+<section class="lit-passage" id="p-1-84" data-page="84" data-part="1">
+<div class="pg" id="p1-84"><a href="#p1-84">S. 84</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und metamorphosirt, in ihrer innern Organisation nicht auflösen; dieß könnte nur Aufruhr und Unzufriedenheit veranlassen.
@@ -2492,12 +2418,10 @@ Hitherto a politics founded upon right (the so-called law of nations) was to be 
 This plan seems worthy of a Napoleon, and let one say what one will, he can do nothing else, least of all
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-85">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-85">Heft 1, S. 85</a></h2>
+<section class="lit-passage" id="p-1-85" data-page="85" data-part="1">
+<div class="pg" id="p1-85"><a href="#p1-85">S. 85</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wenigsten vorübergehende Eroberungen, machen und zwecklose Siege erfechten wollen.
@@ -2528,12 +2452,10 @@ His lines of operation, extending to the Vistula, become after all too long to d
 On the present theatre of war the French army does not follow the course of the rivers, as on the Danube; rather the Elbe, the Havel, the Spree, the Oder, the Warte, the Netze are to be crossed in order to fight at the Vistula. In Silesia strong fortresses are to be taken, Magdeburg, Küstrin, and Stettin are to be conquered, and what is most dangerous: the provinces through which the army here passes do not afford so many of the army's necessities for subsistence and advance as Bavaria and Swabia do.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-86">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-86">Heft 1, S. 86</a></h2>
+<section class="lit-passage" id="p-1-86" data-page="86" data-part="1">
+<div class="pg" id="p1-86"><a href="#p1-86">S. 86</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Das Volk ist zur Insurrection geneigt; es darf nur durch einen Feuerkopf geweckt und gereizt werden, so steht es, im Rücken der Franzosen auf, und, hemmt jeden Rückzug.
@@ -2544,7 +2466,7 @@ Rußland würde über den Bug zurückgedrängt, und das Kriegstheater, wenn es k
 
 ---
 
-##### Nachschrift.
+#### Nachschrift.
 
 Zu retten wäre Preußen vielleicht noch, wenn Napoleon, der Kaiser der Franzosen, sich in Pohlen überzeugte, daß die Wiederherstellung des ehemaligen pohlnischen Reichs dem Zweck nicht entsprechen wird, den er hierbey beabsichtigen möchte. Napoleon sagte zu den Pohlen: Ich werde sehen, ob ihr es werth seyd, eine Nation genannt werden zu können.
 
@@ -2561,19 +2483,17 @@ Russia would be pushed back across the Bug, and the theatre of war, should it no
 
 ---
 
-##### Postscript.
+#### Postscript.
 
 Prussia might perhaps still be saved, if Napoleon, the Emperor of the French, were to convince himself in Poland that the restoration of the former Polish realm will not serve the purpose he might intend by it. Napoleon said to the Poles: I shall see whether you are worthy of being called a nation.
 
 That they are worthy of it, I will not deny; but that the relations of the subject to the lord of the manor,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-87">Heft 1, S. 87</a></h2>
+<section class="lit-passage" id="p-1-87" data-page="87" data-part="1">
+<div class="pg" id="p1-87"><a href="#p1-87">S. 87</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der geringe Grad der Cultur, des Bodens, der Mangel an Industrie, an wohlhabenden Städten, kurz, an allem kräftigen Mittelstande in diesem Lande, hier nie eine Opposition gegen Rußland bilden wird, die es abhalten könnte, Frankreichs Plane entgegenzuwirken, wie bisher; das, glaub ich, wird einem jeden einleuchten, wer Pohlen kennt, und sich genau von seiner innern Verfassung unterrichtet hat.
@@ -2588,12 +2508,10 @@ the low degree of cultivation, of the soil, the want of industry, of prosperous 
 Only through Prussia can this vigorous opposition be formed for the future, if this state retains its present civil constitution, if a better rounding-out of territory is procured for it, and if new organic laws found the constitution of government upon the principle of unity, if no further antagonism exists between the adjutants, the cabinet authority, and the ministry, if all the diffuse collegial conferences are avoided in all such matters where only one head ought to decide. If the levies of land tax and consumption tax are founded more upon equality, if the nobility is granted no privileges, if no further distinction is made among soldiers as to whether a bourgeois or a noble womb bore them—in short, if all those abuses are removed which disfigure our constitution, created by Frederick II., dissolved by Frederick William II., and by Frederick William III. not entirely brought back to its organic fundamental principles.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-88">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-88">Heft 1, S. 88</a></h2>
+<section class="lit-passage" id="p-1-88" data-page="88" data-part="1">
+<div class="pg" id="p1-88"><a href="#p1-88">S. 88</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Sollte nicht Frankreich mit Rußland ein verwandtes Interesse dadurch haben, daß es die Dardanellen öffnete, sie vom Peststoff befreyete, und einen Tauschhandel zwischen Marseille und Odessa bewirkte? Sollte England dadurch nicht eher zum Frieden vermocht werden, als durch eine Wiederherstellung des pohlnischen Reichs?
@@ -2604,15 +2522,13 @@ Sollte nicht Frankreich mit Rußland ein verwandtes Interesse dadurch haben, da�
 Should not France have a kindred interest with Russia in this: that it open the Dardanelles, free them from the matter of plague, and bring about a barter trade between Marseilles and Odessa? Should not England thereby be induced to peace sooner than by a restoration of the Polish realm?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-89">Heft 1, S. 89</a></h2>
+<section class="lit-passage" id="p-1-89" data-page="89" data-part="1">
+<div class="pg" id="p1-89"><a href="#p1-89">S. 89</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Geschichte des Angriffs, der Blockirung und Uebergabe von Glogau, von Carl Friedrich Benkowitz.
+#### Geschichte des Angriffs, der Blockirung und Uebergabe von Glogau, von Carl Friedrich Benkowitz.
 
 Der Krieg war im Beginnen. Schon wälzten sich dunkle Gerüchte von den Schauplätzen desselben daher, gleich Schneebällen, die von einem Gebirge langsam herabrollen, und entweder zerstieben, oder ein emporgethürmtes Denkmal zurücklassen. Unter diesen Gerüchten war eins außerordentlich. Lange vor dem 10ten October, schon den 3ten d. M., erscholl die allgemeine Sage, der Prinz Louis sey geblieben, und diese Sage pflanzte sich ununterbrochen fort, bis endlich den 14ten jenes unglücklichen Monats die traurige Bestätigung eintraf.
 
@@ -2621,19 +2537,17 @@ Hatte die Fama eine prophetische Kraft, oder ließ die Gegenwart schon auf die Z
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### History of the Attack, the Blockade, and the Surrender of Glogau, by Carl Friedrich Benkowitz.
+#### History of the Attack, the Blockade, and the Surrender of Glogau, by Carl Friedrich Benkowitz.
 
 The war was beginning. Already dark rumours were rolling in from its theatres, like snowballs that slowly tumble down from a mountain and either scatter into dust or leave behind a towering monument. Among these rumours there was one that was extraordinary. Long before the 10th of October, indeed already on the 3rd of that month, the general report resounded that Prince Louis had fallen, and this report propagated itself without interruption until at last, on the 14th of that ill-fated month, the sorrowful confirmation arrived.
 
 Did Fama possess a prophetic power, or did the present already permit an inference about the future? Had the enemy already fixed upon the most advantageous point of attack, and was it foreseen that the heroic prince would sacrifice himself, or did chance foretell this blow? Who can decide this? Enough — we knew the death of the lamented prince before it came to pass, and perhaps this occurred in several places.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-90">Heft 1, S. 90</a></h2>
+<section class="lit-passage" id="p-1-90" data-page="90" data-part="1">
+<div class="pg" id="p1-90"><a href="#p1-90">S. 90</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Scene seines Todes ward so rührend erzählt, daß jeder Fühlende bewegt ward. Ach, es war das erste große Opfer, das der beginnende Krieg verschlang, ein Opfer aus dem Heldenstamm Friedrichs II. Vermöchte ich doch seiner Asche ein würdiges Denkmal zu setzen!
@@ -2700,12 +2614,10 @@ The scene of his death was recounted so movingly that every feeling heart was st
 Long would our tears have flowed for him, but the whirlwinds of misfortune, which struck us so hastily, tore the fatherland on from sorrow to sorrow, and scarcely was one tear dried before the next was wrung forth.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-91">Heft 1, S. 91</a></h2>
+<section class="lit-passage" id="p-1-91" data-page="91" data-part="1">
+<div class="pg" id="p1-91"><a href="#p1-91">S. 91</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Das Gerücht erzählte: die ganze Schaar, die mit dem Prinzen war, sey aufgerieben worden, der Feind habe die Kette unsrer Armee gesprengt, und nahe sich Leipzig. Um uns über die traurige Nachricht zu trösten, verbreitete sich zugleich das Gerücht: die durchgebrochenen feindlichen Corps wären abgeschnitten, und würden zu Gefangenen gemacht werden.
@@ -2728,12 +2640,10 @@ Since at first the victory in the battle of Auerstädt seemed to be inclining to
 To confuse us utterly, there soon followed the presentiment of an armistice, or a peace between France and Saxony. The Green Vault, which was to be conveyed to Breslau on many wagons, suddenly received order near Bunzlau to halt, and turned back to Dresden.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-92">Heft 1, S. 92</a></h2>
+<section class="lit-passage" id="p-1-92" data-page="92" data-part="1">
+<div class="pg" id="p1-92"><a href="#p1-92">S. 92</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wohin deutete dies? Es ließ zwei Erklärungen zu: einen Sieg der Preußen und Sachsen, der das Flüchten der Kostbarkeiten unnöthig machte, oder eine Uebereinkunft der Franzosen und Sachsen, wodurch sie auch in Dresden sicher waren.
@@ -2742,7 +2652,7 @@ Wir müheten uns, das erste zu glauben, aber die zersprengte Kette der preußisc
 
 Mit bangen, wechselnden Erwartungen sahen wir der Zukunft entgegen, und widersprechende Gerüchte durchkreutzten sich unaufhörlich. So kam der 20ste October heran, und mit ihm begann uns ein entscheidendes Licht zu leuchten. Wir fanden in der Berliner Zeitung gleich im Anfang die Worte:
 
-###### Berlin, den 21ten October.
+##### Berlin, den 21ten October.
 
 > „Laut vorläufig eingegangenen Nachrichten hat die Armee des Königs am 14ten dieses bei Auerstädt eine Schlacht verloren; die nähern Umstände sind noch nicht bekannt, doch weiß man, daß Seine Majestät der König und dessen Brüder, Königliche Hoheiten, am Leben und nicht verwundet sind.“
 
@@ -2757,19 +2667,17 @@ We strove to believe the first, but the shattered chain of the Prussian army, th
 
 With anxious, shifting expectations we looked toward the future, and contradictory rumours crossed one another incessantly. Thus came the 20th of October, and with it a decisive light began to dawn upon us. In the Berlin newspaper we found, right at the beginning, the words:
 
-###### Berlin, 21 October.
+##### Berlin, 21 October.
 
 > "According to preliminary reports received, the King's army lost a battle at Auerstädt on the 14th of this month; the closer circumstances are not yet known, but it is known that His Majesty the King and his brothers, their Royal Highnesses, are alive and not wounded."
 
 It is incredible what an impression these few words made. Everyone was dismayed; in every face one read consternation. People wished to doubt, they would have doubted, but they laboured in vain to invent grounds for doubt. From no other newspaper
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-93">Heft 1, S. 93</a></h2>
+<section class="lit-passage" id="p-1-93" data-page="93" data-part="1">
+<div class="pg" id="p1-93"><a href="#p1-93">S. 93</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wäre diese Nachricht geglaubt worden; aber es war die Berliner Zeitung, welche sprach.
@@ -2800,17 +2708,15 @@ Whoever had friends or relatives in the army had his imagination present to him,
 How tormenting this was! how these thoughts tore the heart of the feeling man! How many countless tears were wept in this time by the fathers, the mothers, the brides, the brothers, the sisters of those who had fought in the battle!
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-94">Heft 1, S. 94</a></h2>
+<section class="lit-passage" id="p-1-94" data-page="94" data-part="1">
+<div class="pg" id="p1-94"><a href="#p1-94">S. 94</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Immer trauriger und trauriger lauteten die mündlichen Nachrichten, und die Tage wurden nun in unserer Vestung so wichtig, daß jeder einen eigenen Abschnitt verdient.
 
-###### Dienstag, den 21ten October.
+##### Dienstag, den 21ten October.
 
 An diesem Tage traf ein Befehl bei dem hiesigen Commandanten, dem General von der Marwitz, ein, die Vestung mobil zu machen, sie verpallisadiren zu lassen, und überhaupt in Vertheidigungsstand zu setzen. Um sie mit den nothwendigsten Lebensmitteln zu versorgen, erhielt er eine Anweisung auf 10000 Thlr.
 
@@ -2818,7 +2724,7 @@ Glogau ist eine Stadt, die bei einem nur geringen Umfange eine Anzahl von 10- bi
 
 Das Leben auf den Straßen vermehrte sich von jetzt an mit jedem Tage, und schon heute wurden Bauern aus den umliegenden Dörfern aufgeboten, um in den Vestungswerken zu arbeiten, und die Artilleristen setzten ihre Geschäfte mit verdoppeltem Eifer fort.
 
-###### Mittwoch, den 22ten October.
+##### Mittwoch, den 22ten October.
 
 Wir hatten heute das seltsame Schauspiel, daß nicht allein die Aufgebotenen in den Werken arbeiteten, sondern auch Freiwillige. Unter diesen sah man Bürger, Juden, die Schüler aus dem Jesuiter-Collegio, und selber Officianten. Wie leicht war dies Opfer! Wie gern würde
 
@@ -2827,7 +2733,7 @@ Wir hatten heute das seltsame Schauspiel, daß nicht allein die Aufgebotenen in 
 
 Ever more sorrowful and more sorrowful sounded the reports by word of mouth, and the days now became so important in our fortress that each one deserves a section of its own.
 
-###### Tuesday, 21 October.
+##### Tuesday, 21 October.
 
 On this day an order reached the local commandant, General von der Marwitz, to place the fortress on a war footing, to have it palisaded, and generally to put it into a state of defence. To supply it with the most necessary provisions, he received a draft for 10000 thalers.
 
@@ -2835,17 +2741,15 @@ Glogau is a town which, though of only modest extent, has a population of 10- to
 
 From this point on the activity in the streets increased with every day, and already today peasants from the surrounding villages were called up to work on the fortifications, while the artillerymen pursued their tasks with redoubled zeal.
 
-###### Wednesday, 22 October.
+##### Wednesday, 22 October.
 
 Today we had the strange spectacle that not only the levied men were at work on the fortifications, but volunteers as well. Among them one saw townsmen, Jews, the pupils of the Jesuit College, and even officials. How easy was this sacrifice! How gladly would
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-95">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-95">Heft 1, S. 95</a></h2>
+<section class="lit-passage" id="p-1-95" data-page="95" data-part="1">
+<div class="pg" id="p1-95"><a href="#p1-95">S. 95</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 man sich die Hände blutig arbeiten, wenn dadurch das Wohl des Vaterlands gewinnen könnte!
@@ -2854,7 +2758,7 @@ Die Arbeit der Freiwilligen und Aufgebotenen bestand jetzt in nichts anderm, als
 
 Außer diesen Arbeiten ward eine Menge Mehl in Tonnen ins Jesuiter-Collegium gebracht, und die Soldaten erhielten scharfe Patronen. Nur acht Tage waren erst seit der Schlacht bei Auerstädt, zwölf Tage erst seit dem Beginnen des Krieges verflossen, und schon mußten wir in dem entfernten Glogau die Vorboten davon empfinden?
 
-###### Donnerstag den 23ten October.
+##### Donnerstag den 23ten October.
 
 Ehe ich in meiner Erzählung fortfahre, muß ich eine kurze Beschreibung von Glogau voranschicken, um mich verständlicher zu machen.
 
@@ -2871,7 +2775,7 @@ The work of the volunteers and the levied men now consisted of nothing other tha
 
 Besides these labours, a quantity of flour was brought in barrels into the Jesuit College, and the soldiers received live cartridges. Only eight days had passed since the battle of Auerstädt, only twelve days since the outbreak of the war, and already we, in far-off Glogau, had to feel its harbingers?
 
-###### Thursday 23 October.
+##### Thursday 23 October.
 
 Before I proceed with my account, I must preface it with a brief description of Glogau, in order to make myself more intelligible.
 
@@ -2880,12 +2784,10 @@ This town is one of those of middling size, and has, as already mentioned, 10,00
 It actually consists of two towns: the town proper, and the Cathedral quarter. Between the town and the Cathedral quarter, not far from the town wall, flows the Oder,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-96">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-96">Heft 1, S. 96</a></h2>
+<section class="lit-passage" id="p-1-96" data-page="96" data-part="1">
+<div class="pg" id="p1-96"><a href="#p1-96">S. 96</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 über welche eine lange Brücke führt, und beide Städte mit einander verbindet. Es sind hier drey Thore: gegen Osten das breslausche, gegen Westen das preußische, und gegen Norden das Oderthor. Aus dem breslauschen Thor führen die Straßen über Lüben, Parchwitz, Neumarkt nach Breslau. Ferner nach Liegnitz, Jauer, Schweidnitz, so wie nach Bunzlau, Haynau, Löwenberg, Goldberg. Aus dem preußischen Thor fährt man über Beuthen, Grünberg, Crossen und Frankfurt nach Berlin. Außerdem nach Neustädtel, Sprottau, Sagan an die sächsische Gränze. Das Oderthor führt nach Südpreußen, und zwar über Fraustadt und Lissa nach Posen, so wie über Rawitz und Zduny nach Kalisch.
@@ -2904,12 +2806,10 @@ The two largest buildings in the town are the Royal Palace and the Jesuit Colleg
 As for the churches, there is an Evangelical town church and a garrison church in Glogau, but several Catholic ones: the parish church, the Jesuit-Franciscan-
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-97">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-97">Heft 1, S. 97</a></h2>
+<section class="lit-passage" id="p-1-97" data-page="97" data-part="1">
+<div class="pg" id="p1-97"><a href="#p1-97">S. 97</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Dominikaner-Kirche, so wie den Dom und die Kirche des Jungfernstifts. Endlich ist auch eine reformirte Kirche vorhanden.
@@ -2936,12 +2836,10 @@ Besides the works forming the line of circumvallation of the fortification, it h
 After this little description, one will be better able to understand whatever may come up regarding the situation of the town in the course of the history of the siege.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-98">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-98">Heft 1, S. 98</a></h2>
+<section class="lit-passage" id="p-1-98" data-page="98" data-part="1">
+<div class="pg" id="p1-98"><a href="#p1-98">S. 98</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Der 23ste October war sehr thätig in Glogau. Das preußische Thor, von welcher Seite man den Feind erwartete, wurde gesperrt, und gänzlich verpallisadirt, daß weder Wagen noch Fußgänger mehr herein konnten.
@@ -2964,44 +2862,40 @@ In the town the workers were just as busy; all day long cannon were brought up o
 The haste with which the effort was made to put the fortress into a state of defence was so great that the work in the redoubts was continued even during the night of the 23rd to the 24th of October.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-99">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-99">Heft 1, S. 99</a></h2>
+<section class="lit-passage" id="p-1-99" data-page="99" data-part="1">
+<div class="pg" id="p1-99"><a href="#p1-99">S. 99</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### Freitag, den 24sten October.
+##### Freitag, den 24sten October.
 
 Heute begannen sich Spuren zu zeigen, daß die Landleute sich nicht mehr sicher in ihren Dörfern hielten. Eine große Menge Betten, Kasten mit Kleidungsstücken, und anderes Geräthe wurden auf Wagen in die Stadt gebracht. Wer keine Wagen hatte, trug seine Habseligkeiten herein, und suchte sie unterzubringen. Bei der Verschließung des preußischen Thores wurde das Gedränge am breslauer Thor äußerst stark, und der Weg war oft gesperrt. Durch zu große Eile wurde Verzögerung bewirkt.
 
 Uebrigens kreutzten sich jetzt die Estaffetten von allen Seiten, und unaufhörlich bei Tag und Nacht kamen welche an. Ihr Blasen nahm einen traurigen Ton an, weil sie gewöhnlich nur traurige Nachrichten brachten.
 
-###### Sonnabend, den 25sten October.
+##### Sonnabend, den 25sten October.
 
 Wir hatten heute einen sehr traurigen Anblick. Die Gräben unserer Vestung sind trocken, und in dem Hauptgraben sind unter den Brücken vor dem breslauer und preußischen Thore einige bedeutend große Gärten angelegt, so daß man, wenn man über die Brücken kömmt, an beiden Seiten 20 bis 25 Fuß tief in einen Garten hinunterschaut. Die Bäume und Hecken derselben erhoben sich mit ihren Zweigen bis an die Brücke, und das Ganze gewährte einen freundlichen Anblick. Die schönen Fruchtbäume und Hecken wurden heute abgehauen, und sanken vor den Augen einer großen Menge
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### Friday, 24 October.
+##### Friday, 24 October.
 
 Today the first signs began to appear that the country folk no longer felt safe in their villages. A great quantity of beds, chests of clothing, and other household goods were brought into the town on wagons. Those who had no wagons carried their belongings in and sought to find room for them. When the Prussian Gate was closed, the crush at the Breslau Gate became extremely heavy, and the way was often blocked. Excessive haste produced delay.
 
 For the rest, the couriers now crisscrossed from every direction, and without cease, by day and by night, more of them kept arriving. Their blowing took on a mournful tone, since they usually brought only mournful news.
 
-###### Saturday, 25 October.
+##### Saturday, 25 October.
 
 We had a very sad sight today. The moats of our fortress are dry, and in the main moat, under the bridges before the Breslau and Prussian Gates, several considerably large gardens have been laid out, so that, when one crosses the bridges, one looks down 20 to 25 feet into a garden on both sides. Their trees and hedges rose with their branches up to the bridge, and the whole afforded a pleasant sight. The fine fruit trees and hedges were cut down today, and sank before the eyes of a great crowd of
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-100">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-100">Heft 1, S. 100</a></h2>
+<section class="lit-passage" id="p-1-100" data-page="100" data-part="1">
+<div class="pg" id="p1-100"><a href="#p1-100">S. 100</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Zuschauer nieder. Es war ein sehr trauriges Schauspiel. Was mindestens ein Vierteljahrhundert zum Entstehen brauchte, ward jetzt in wenigen Stunden vernichtet. Zugleich drängte sich das Vorgefühl der immer näher kommenden Gefahr auf, weil solche Aufopferungen gemacht wurden, und man erblickte kein einziges fröhliches Gesicht.
@@ -3020,19 +2914,17 @@ The fine fruit trees were lamented, and the general voice was that the felling o
 On 23 October the order for the palisading of the fortress was issued, and today the first palisades were brought in. A quantity of 38,000 ordinary palisades, 10 Rhenish feet long and 10 inches thick, as well as 7,400 tambour palisades, 15 Rhenish feet long and 12 inches thick, was required for this; but for hauling them in, 5,000 four-horse wagon-loads were needed, which were furnished by the nearest districts. The forest of the Prince of Carolath and the town forest were designated to supply the trunks for this.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-101">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-101">Heft 1, S. 101</a></h2>
+<section class="lit-passage" id="p-1-101" data-page="101" data-part="1">
+<div class="pg" id="p1-101"><a href="#p1-101">S. 101</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Abends um halb 8 Uhr traf eine Estaffette vom König aus Küstrin ein, welche die Nachricht an die Kammer brachte, daß der General-Lieutenant von Reinhart zum Vice-Gouverneur der Vestung ernannt worden sey, daß das dritte Bataillon des Regiments von Zastrow in Glogau einrücken würde, und daß alle Vorkehrungen getroffen werden sollten, die Vestung gegen einen feindlichen Angriff zu sichern.
 
 Das Einrücken von Truppen in Glogau war vorzüglich nothwendig, denn es befand sich in dieser Vestung nichts, als das dritte Bataillon des Regiments vacant von Grevenitz, und das dritte Bataillon des Regiments von Tschepe aus Fraustadt, nebst einer Invaliden-Compagnie aus Neustädtel.
 
-###### Sonntag, den 26sten October.
+##### Sonntag, den 26sten October.
 
 Ohngeachtet des Feyertages wurden die Arbeiten in den Werken fortgesetzt, und eine Menge Pallisaden aufgerichtet. Auch sah man eine Menge derselben aus den Forsten anfahren, die zwischen den Werken abgeladen wurden. Die Artilleristen setzten ebenfalls ihre Geschäfte fort, und der Sonntag ließ sich nicht mehr von dem Wochentage unterscheiden.
 
@@ -3045,26 +2937,24 @@ In the evening at half past 7 o'clock a courier arrived from the King out of Kü
 
 The moving of troops into Glogau was particularly necessary, for there was nothing in this fortress but the third battalion of the vacant Regiment von Grevenitz, and the third battalion of the Regiment von Tschepe from Fraustadt, together with a company of invalids from Neustädtel.
 
-###### Sunday, 26 October.
+##### Sunday, 26 October.
 
 Notwithstanding the holiday, the work on the fortifications was continued, and a great many palisades were set up. One also saw a great quantity of them being hauled in from the forests, which were unloaded between the works. The artillerymen likewise continued their business, and the Sunday could no longer be distinguished from a weekday.
 
 Since the number of carpenters in Glogau was not sufficient to carry out the necessary work on the fortress, carpenters from the nearest towns and districts had been requisitioned by the Chamber at the instigation of the Commandant. These
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-102">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-102">Heft 1, S. 102</a></h2>
+<section class="lit-passage" id="p-1-102" data-page="102" data-part="1">
+<div class="pg" id="p1-102"><a href="#p1-102">S. 102</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 erschienen nun, und der Ingenieur de Place, der Hauptmann Moritz, wies sie zu ihren Geschäften an. Sie hatten besonders die in den Wäldern noch nicht zugespitzten Pallisaden zu bearbeiten, die Flügel zu den neu angebrachten Thoren zwischen den Wällen zu verfertigen, und zuletzt auch die Brücken abzureißen.
 
 Zu Verpallisadirung und Armirung der Vestung war eine Summe von 6000 Thlr. angewiesen worden, über welche das Gouvernement disponirte.
 
-###### Montag, Dienstag, Mittwoch und Donnerstag, den 27sten, 28sten, 29sten und 30sten October.
+##### Montag, Dienstag, Mittwoch und Donnerstag, den 27sten, 28sten, 29sten und 30sten October.
 
 So nothwendig es war, die Vestung eilend in Vertheidigungsstand zu setzen, eben so sehr bedurfte es der eilenden Verproviantirung derselben, und bereits unterm 21sten October waren von dem in Schlesien dirigirenden Staatsminister, Grafen v. Hoym, die nöthigen Verfügungen zu diesem Behuf an das Gouvernement und an die Kammer erlassen, auch eine Summe von 10000 Thl. dazu angewiesen worden.
 
@@ -3077,19 +2967,17 @@ now appeared, and the engineer de Place, Captain Moritz, assigned them to their 
 
 For the palisading and arming of the fortress a sum of 6000 thalers had been allotted, over which the Government had disposal.
 
-###### Monday, Tuesday, Wednesday and Thursday, the 27th, 28th, 29th and 30th of October.
+##### Monday, Tuesday, Wednesday and Thursday, the 27th, 28th, 29th and 30th of October.
 
 As necessary as it was to put the fortress with all haste into a state of defence, just as much did it require its speedy provisioning; and already under the date of the 21st of October the Minister of State directing affairs in Silesia, Count v. Hoym, had issued the necessary orders to this end to the Government and to the Chamber, and had also assigned a sum of 10,000 thalers for the purpose.
 
 The Landräte had thus received the necessary commands for procuring the requisite supplies, and the deliveries now began to arrive from all sides. Since a considerable quantity of victuals and forage is needed to provision a fortress such as Glogau, the crush at the gates of people, wagons and horses was indescribable. I had occasion, in my dwelling, which lies close by the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-103">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-103">Heft 1, S. 103</a></h2>
+<section class="lit-passage" id="p-1-103" data-page="103" data-part="1">
+<div class="pg" id="p1-103"><a href="#p1-103">S. 103</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 breslauschen Thore liegt, alles genau zu beobachten, und der Anblick hatte nichts Erfreuliches; im Gegentheil war er oft empörend. Die Bauern und Knechte, welche die Lieferungen brachten, wurden von der Wache und andern Aufsehern auf das ärgste gemißhandelt, und das traf den Schuldigen und Unschuldigen. Wenn eine Stockung entstand, so wurde auf Menschen und Pferde so unbarmherzig zugeschlagen, daß ich oft vom Fenster zurücktreten mußte, um nicht Zeuge von den Grausamkeiten zu seyn.
@@ -3112,12 +3000,10 @@ The mood of the people in Glogau, moreover, was one of dejection. The earlier re
 It is so easy to wish for war, when one ventures nothing oneself thereby, when one wishes to enjoy the distant spectacle of battles and of momentous affairs of state, or to gratify a private hatred against a foreign power.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-104">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-104">Heft 1, S. 104</a></h2>
+<section class="lit-passage" id="p-1-104" data-page="104" data-part="1">
+<div class="pg" id="p1-104"><a href="#p1-104">S. 104</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 befriedigen will. Aber wie ändern sich die Wünsche, wie ändert sich die Sprache, wenn die Gefahr näher kömmt, wenn wir selbst an dem Theil nehmen sollen, was wir so laut begehrten! Diejenigen, die den Anfang der Feindseligkeiten gar nicht abwarten konnten, die, welche zitterten, daß der Friede noch vor dem Beginn der Schlachten zu Stande kommen möchte, die recht nach Blutvergießen dursteten, diese wollten von dem eignen Blut auch nicht einen Tropfen hergeben, geriethen bei weitem in die größte Angst, als sie nur einen Theil von dem erfahren sollten, was sie Millionen andern gewünscht hatten, und lernten nun plötzlich ein Wort aussprechen, das ihnen vorher ein Greuel gewesen war, das Wort: Friede.
@@ -3136,12 +3022,10 @@ That is very petty! But there is much that is petty in the world, and it manifes
 This blush of shame cannot cover my cheek, and over the inconsistency of others I am not set as judge. Only the truth can never be repeated often enough: that by reviling, defaming, and degrading the enemy, by defiantly boasting of future victories and suchlike outbursts of passion, no love of the fatherland is displayed, but rather that
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-105">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-105">Heft 1, S. 105</a></h2>
+<section class="lit-passage" id="p-1-105" data-page="105" data-part="1">
+<div class="pg" id="p1-105"><a href="#p1-105">S. 105</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 blinde Wuth in seinen Folgen dem Vaterlandshaß ähnlich ist, wovon wir leider die schrecklichen Beweise vor Augen haben.
@@ -3164,12 +3048,10 @@ There seem to have been generals in the Prussian army who laboured under the del
 If these are no empty assertions, if there were such commanders in the army, should this
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-106">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-106">Heft 1, S. 106</a></h2>
+<section class="lit-passage" id="p-1-106" data-page="106" data-part="1">
+<div class="pg" id="p1-106"><a href="#p1-106">S. 106</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sich dadurch nicht etwas von dem schrecklichen Räthsel lösen, das uns aufgegeben worden ist?
@@ -3178,7 +3060,7 @@ In diesen Tagen liefen die Nachrichten ein, daß die Baiern durch Sachsen gegen 
 
 Ich schrieb nach Berlin, um Nachrichten zu erhalten, aber die Briefe kamen zurück; die Communication zwischen Schlesien und der Hauptstadt war aufgehoben. Eben so blieben die Zeitungen aus, und wir waren nun von der übrigen Welt beinahe schon abgeschnitten. Man wünschte, es ganz zu seyn, man wünschte, sich in einem Winkel der Erde verbergen zu können, wo man nichts mehr sähe, nichts mehr hörte, nicht mehr von den traurigen Gerüchten gepeiniget würde.
 
-###### Freitag, den 31sten October.
+##### Freitag, den 31sten October.
 
 Es begannen sich Nachrichten zu verbreiten, daß die Franzosen in den Oertern zwey Meilen von Glogau
 
@@ -3191,17 +3073,15 @@ In these days there came in the reports that the Bavarians were advancing throug
 
 I wrote to Berlin to obtain news, but the letters came back; communication between Silesia and the capital had been suspended. Likewise the newspapers failed to arrive, and we were now already almost cut off from the rest of the world. One wished to be so entirely, one wished one could hide oneself away in some corner of the earth where one would see nothing more, hear nothing more, be tormented no longer by the mournful rumours.
 
-###### Friday, 31 October.
+##### Friday, 31 October.
 
 Reports began to spread that the French were already being announced in the villages two (German) miles from Glogau;
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-107">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-107">Heft 1, S. 107</a></h2>
+<section class="lit-passage" id="p-1-107" data-page="107" data-part="1">
+<div class="pg" id="p1-107"><a href="#p1-107">S. 107</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 schon angekündigt würden; die Baiern aber, sagte man, hätten in Dresden Ordre bekommen, Halt zu machen. Ueberhaupt wurde viel von einem Waffenstillstande gesprochen, und dieser war den Wünschen Aller, mit sehr wenigen Ausnahmen, gemäß; denn dadurch allein, schien es, könnten die reißenden Fortschritte des Feindes aufgehalten werden.
@@ -3212,7 +3092,7 @@ Statt der 600 Bauern, die bis jetzt in den Werken gearbeitet hatten, wurden von 
 
 Wir erfuhren, daß die Brücke über der Oder in Frankfurt abgebrochen wäre, und in unserer Gegend würden die Oderkähne auf die rechte Seite des Flusses geführt, die Prahme versenkt, und die Brücken über die kleinern Flüsse abgebrochen, um das Vordringen des Feindes aufzuhalten.
 
-###### Sonnabend, d. 1. November 1806.
+##### Sonnabend, d. 1. November 1806.
 
 Es kam jetzt ein ungeheurer Vorrath von Heu, Stroh und Getraide an, womit die Kirchen und Klöster angefüllt wurden. Das Getümmel in der Stadt, das Gedränge in den Straßen, besonders an den Thoren und
 
@@ -3227,17 +3107,15 @@ In place of the 600 peasants who had until now been working on the fortification
 
 We learned that the bridge over the Oder at Frankfurt had been broken up, and in our own district the Oder barges were being brought to the right bank of the river, the pontoons sunk, and the bridges over the smaller rivers broken up, in order to check the advance of the enemy.
 
-###### Saturday, 1 November 1806.
+##### Saturday, 1 November 1806.
 
 There now arrived an enormous store of hay, straw, and grain, with which the churches and monasteries were filled. The tumult in the town, the crush in the streets, especially at the gates and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-108">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-108">Heft 1, S. 108</a></h2>
+<section class="lit-passage" id="p-1-108" data-page="108" data-part="1">
+<div class="pg" id="p1-108"><a href="#p1-108">S. 108</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 in der Gegend der Magazine, war unbeschreiblich. Die Stimme und das Geräusch des Krieges erscholl, ehe er noch auf unsern Fluren erschienen war.
@@ -3260,12 +3138,10 @@ As when a fearful hurricane falls upon a flock, robs it of the shepherd and the 
 I spoke with all whom I caught sight of, for the returning men were recognized at once. I thirsted for news of the battle, of the fallen, of the state of the army. But this thirst was not slaked. What I learned was little, and shrouded in darkness. What enlightenment could men give who had no overview of the whole? They could recount only their own fate: when they came under fire, how long they remained in it, what they had endured before the battle and what afterward.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-109">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-109">Heft 1, S. 109</a></h2>
+<section class="lit-passage" id="p-1-109" data-page="109" data-part="1">
+<div class="pg" id="p1-109"><a href="#p1-109">S. 109</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Viele von ihnen waren gefangen gewesen, und hatten sich selber ranzionirt. Diese erzählten schreckliche Dinge von dem Hunger, den sie, eingesperrt in Kirchen, in Klöstern, in Ställen, hatten erdulden müssen.
@@ -3284,12 +3160,10 @@ Is this the humanity of the French? Or could they exercise no humanity even had 
 Oh, the brave Prussians did not deserve the misery that befell them. They lost the battle, they were made prisoners, they fled. But who dares to lay a hand on me if I nonetheless call them brave and valiant? Did not the blood of the Prussians flow in streams? Did not the battle last a whole terrible day? Did not the King's army fight after it had already been outflanked, and after the loss of the magazines was attacked from the flank? Had not want already raged in their bowels when they stepped onto the field of battle? And did they not nonetheless fight with the courage of lions? Did not 20,000 Prussians lie upon the field of battle bleeding,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-110">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-110">Heft 1, S. 110</a></h2>
+<section class="lit-passage" id="p-1-110" data-page="110" data-part="1">
+<div class="pg" id="p1-110"><a href="#p1-110">S. 110</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sterbend, verstümmelt? Nicht eben so viel Feinde, nicht mehr noch? Entschied nicht Uebermacht der Zahl, nicht der unendliche Siegesblick, nicht das übermenschliche kriegerische Talent Napoleons?
@@ -3312,12 +3186,10 @@ The love of justice will awaken; it will awaken even in the enemy, and must awak
 To holy truth alone be consecrated every offering that the writers of the nation now set forth: for they lay it down at the altar of the fatherland; and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-111">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-111">Heft 1, S. 111</a></h2>
+<section class="lit-passage" id="p-1-111" data-page="111" data-part="1">
+<div class="pg" id="p1-111"><a href="#p1-111">S. 111</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wehe dem Elenden, der sie zum Nachtheil seiner Nation verunstalten könnte!
@@ -3340,12 +3212,10 @@ Whoever has a drop of Prussian blood in his veins, whoever — even among the en
 The warship of the first rate can, like the smaller frigate, be driven about upon the sea by the raging storm,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-112">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-112">Heft 1, S. 112</a></h2>
+<section class="lit-passage" id="p-1-112" data-page="112" data-part="1">
+<div class="pg" id="p1-112"><a href="#p1-112">S. 112</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 umhergetrieben werden, kann Schiffbruch leiden, und nur wenig an das sichere Gestade gerettet werden; und dennoch kann der Steuermann seine Pflicht gethan haben; die Schiffer können dennoch erfahrne und muthige Seefahrer seyn.
@@ -3368,19 +3238,17 @@ I turn my gaze away from those who, at this critical moment, abandoned by their 
 I return to my narrative.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-113">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-113">Heft 1, S. 113</a></h2>
+<section class="lit-passage" id="p-1-113" data-page="113" data-part="1">
+<div class="pg" id="p1-113"><a href="#p1-113">S. 113</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Andere von den zurückkehrenden Preußen waren nicht gefangen gewesen, sondern hatten sich in der allgemeinen Verwirrung mit geflüchtet, waren herumgeirrt, um die Armee zu erreichen, und kamen endlich nach den Städten ihrer Garnison zurück. Alle stimmten darin überein, daß die Schlacht und das Blutvergießen bei Jena gräßlich gewesen, daß die Kartätschen und Kugeln dicht wie Schneeflocken herumgeflogen wären, und daß mehr Franzosen noch, wie Preußen, auf dem Schlachtfelde gelegen hätten<sup class="lit-fn"><a href="#n-de-8">8</a></sup>.
 
 Die Rückkehrenden wurden, obwohl sie von verschiedenen Regimentern waren, unter die Besatzung von Glogau aufgenommen, und dies war höchst nothwendig; denn noch lange hatte diese Vestung nicht die hinlängliche Mannschaft zu einer festen und kräftigen Vertheidigung.
 
-###### Sonntag, den 2ten November.
+##### Sonntag, den 2ten November.
 
 Es kamen heute einige hundert Recruten hier an, die dem Könige nach Graudenz zugeführt werden sollten; aber leider erhielten wir zugleich die traurige Nachricht, daß dies nicht mehr möglich sey, weil die
 
@@ -3391,22 +3259,20 @@ Others among the returning Prussians had not been taken prisoner, but had fled a
 
 The returning men, although they belonged to various regiments, were taken into the garrison of Glogau, and this was most necessary; for this fortress had not yet, by a long way, sufficient manpower for a firm and vigorous defence.
 
-###### Sunday, 2 November.
+##### Sunday, 2 November.
 
 Several hundred recruits arrived here today, who were to be conducted to the King at Graudenz; but unfortunately we received at the same time the sad news that this was no longer possible, because the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-114">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-114">Heft 1, S. 114</a></h2>
+<section class="lit-passage" id="p-1-114" data-page="114" data-part="1">
+<div class="pg" id="p1-114"><a href="#p1-114">S. 114</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Passage schon von dem Feinde abgeschnitten wäre. Die Ausgehobenen wurden auf die nahen Dörfer vertheilt, und ich habe weiter nichts von ihnen erfahren. Sie sind wahrscheinlich, als der Feind anrückte, zu ihrem Heerde zurückgekehrt.
 
-###### Montag, den 3ten November.
+##### Montag, den 3ten November.
 
 Heute kam die traurige Nachricht von der Capitulation des Fürsten von Hohenlohe bei Prenzlow an. Die Gemüther waren schon von den frühern Nachrichten zerrissen, und diese neue Wunde drang sehr tief ein. Der Fürst von Hohenlohe und der General von Rüchel, hieß es, wären gefangen. Wie sollte man es fassen, wie es glauben?
 
@@ -3419,7 +3285,7 @@ Wir trösteten uns mit der Hoffnung, daß die Uebergabe des Corps eins von den v
 
 passage had already been cut off by the enemy. The conscripts were distributed among the nearby villages, and I learned nothing further of them. They probably returned to their hearths when the enemy advanced.
 
-###### Monday, 3 November.
+##### Monday, 3 November.
 
 Today the sad news arrived of the capitulation of the Prince of Hohenlohe at Prenzlow. Men's spirits had already been torn by the earlier tidings, and this fresh wound cut very deep. The Prince of Hohenlohe and General von Rüchel, it was said, had been taken prisoner. How was one to grasp it, how to believe it?
 
@@ -3428,12 +3294,10 @@ The accounts of the event were still obscure, but this much was said: that the P
 We consoled ourselves with the hope that the surrender of the corps was one of the many rumours rolling about; but soon even the last comforting doubt vanished, for eyewitnesses of the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-115">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-115">Heft 1, S. 115</a></h2>
+<section class="lit-passage" id="p-1-115" data-page="115" data-part="1">
+<div class="pg" id="p1-115"><a href="#p1-115">S. 115</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Treffen an, die weit mehr erzählten, als man vernehmen wollte.
@@ -3444,7 +3308,7 @@ Die Bürger in Glogau erhielten heute Befehl, Wasser auf die Böden zu bringen, 
 
 Um die äußerst schwache Besatzung zu vermehren, rückte heute das Bataillon von Zastrow aus Posen hier ein.
 
-###### Dienstag, den 4ten November.
+##### Dienstag, den 4ten November.
 
 Einige Bauern von denen, die zu den Arbeiten in den Werken bestimmt waren, hatten heute ihre Beschäftigung
 
@@ -3459,28 +3323,26 @@ The townspeople of Glogau received orders today to carry water up to the lofts, 
 
 To reinforce the extremely weak garrison, the Battalion of Zastrow marched in here today from Posen.
 
-###### Tuesday, 4 November.
+##### Tuesday, 4 November.
 
 Some of the peasants who had been assigned to the works were employed today
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-116">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-116">Heft 1, S. 116</a></h2>
+<section class="lit-passage" id="p-1-116" data-page="116" data-part="1">
+<div class="pg" id="p1-116"><a href="#p1-116">S. 116</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 auf dem Hauptwall, wo sie das Abschüssige der Brustwehr abstachen, damit die Soldaten näher herantreten, und bequemer darüber hinweg feuern könnten.
 
 Es liefen unaufhörlich Nachrichten ein, daß kleine Streifcorps in den Städten umher brandschatzten: in Neusalz, Neustädtel, Grünberg, Wartenberg u. s. w. Sie näherten sich also schon der Vestung bis auf einige Meilen. Auch konnte nun keine Nachricht mehr eingezogen werden, ob eine Armee vorrücke, und wie stark sie sey.
 
-###### Mittwoch, den 5. November.
+##### Mittwoch, den 5. November.
 
 Um etwas zu erfahren, und um die Streifcorps zu recognosciren und anzugreifen, wurden heute Patrouillen von der wenigen Mannschaft, die wir an Reutern und Husaren hatten, ausgeschickt; sie trafen keinen Feind, wohl aber ein liederliches Gesindel, das die kriegerischen Umstände benutzte, um auf dem Lande zu rauben und zu plündern. Von diesem zigeunerartigen Volk wurden Gefangene eingebracht.
 
-###### Donnerstag, d. 6ten November.
+##### Donnerstag, d. 6ten November.
 
 Wir erhielten von dem gefangenen zurückkehrenden General Pelet die Nachricht, daß der Frieden unterhandelt würde, und daß ein Parlementair mit annehmlichen Friedensbedingungen vom Kaiser zum König nach Graudenz gegangen sey. Es waren jetzt nur noch
 
@@ -3491,21 +3353,19 @@ on the main rampart, where they were cutting away the slope of the breastwork, s
 
 Reports came in ceaselessly that small raiding parties were levying contributions throughout the towns round about: at Neusalz, Neustädtel, Grünberg, Wartenberg, and so on. They were thus already approaching to within a few miles of the fortress. Nor could any further intelligence now be gathered as to whether an army was advancing, and how strong it might be.
 
-###### Wednesday, 5 November.
+##### Wednesday, 5 November.
 
 In order to learn something, and to reconnoitre and attack the raiding parties, patrols were sent out today from the few men we had among the cavalrymen and hussars; they encountered no enemy, but rather a disreputable rabble that exploited the wartime circumstances to rob and plunder in the countryside. Prisoners were brought in from this gypsy-like mob.
 
-###### Thursday, 6 November.
+##### Thursday, 6 November.
 
 We received from the returning captured General Pelet the news that peace was being negotiated, and that an envoy had gone with acceptable peace terms from the Emperor to the King at Graudenz. There were now only
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-117">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-117">Heft 1, S. 117</a></h2>
+<section class="lit-passage" id="p-1-117" data-page="117" data-part="1">
+<div class="pg" id="p1-117"><a href="#p1-117">S. 117</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 höchst wenige übrig, die den Frieden nicht wollten, und die fast allgemeine Stimmung, die jene Nachricht hervorbrachte, war Freude. Der Wunsch nach Krieg hatte sich nie so allgemein geäußert, als jetzt der Wunsch nach Frieden. In wenigen Wochen war eine Veränderung in den Meinungen vorgegangen, die Demosthenes und Cicero, und Fox mit allen Gründen gegen das Traurige, das Ungewisse und Gefährliche des Kriegs, nicht hätten hervorbringen können. Der Glaube daran mußte ihnen in die Hand gegeben werden.
@@ -3524,12 +3384,10 @@ But let no one imagine that the appetite for war in general was now extinguished
 There are men who lay down their lives, not for the fatherland, not for the honour of the King, not for the honour of the nation, no, but to be proved right. Had the war been postponed once more, had it broken out toward the end of the year 1807, and had there then followed what now took place, they would have cried out loudly: October 1806 would have been the favourable moment for war. And indeed even now, only a few weeks ago, they declared it to be such by their loud sighing for the commencement of hostilities. That
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-118">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-118">Heft 1, S. 118</a></h2>
+<section class="lit-passage" id="p-1-118" data-page="118" data-part="1">
+<div class="pg" id="p1-118"><a href="#p1-118">S. 118</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sie sich also in dem günstigsten Zeitpunkt zum Kriege irren können, muß ihnen ihre veränderte Meinung vor und nach dem October 1806 laut predigen.
@@ -3548,12 +3406,10 @@ Had the war blazed up at the end of the year 1805, and had a misfortune then com
 But those who romp about on this field might at least weigh a few points with some coolness: that the King stood higher than all of them for surveying the political horizon; that he was surrounded by wise councillors who could weigh deeply the causes for war and peace; that before the French march through Ansbach the neutrality of Prussia was almost universally approved; that after it, when the French army was in the full course of victory, the favourable time for attack was most difficult to find; that during the events at Ulm the Prussian army was too distant to be able to act; that after the battle of Austerlitz the peace with Austria and the withdrawal of the Russians came about in a single instant, and Prussia
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-119">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-119">Heft 1, S. 119</a></h2>
+<section class="lit-passage" id="p-1-119" data-page="119" data-part="1">
+<div class="pg" id="p1-119"><a href="#p1-119">S. 119</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 allein auf dem Kampfplatz geblieben wäre; daß Napoleon nicht in einem Jahr seine Kriegskunst gelernt hat, sondern schon 1805 der größte Feldherr war; daß die Preußen dagegen in einem Jahr nicht alles verlernen konnten, und daß, wenn ihre Armee im Jahr 1806 in einem so kurzen Zeitraum beinahe gänzlich vernichtet ist, man unmöglich annehmen kann, sie würde 1805 Wunder gethan haben; daß Frankreich schon damals mit allen Kräften Europa's ausgerüstet war, und endlich eine Armee von sechszehnjähriger Kriegserfahrung hatte.
@@ -3572,12 +3428,10 @@ If they weigh these points without passion, one would think it would be hard eve
 The question has been raised: what would Frederick II. have done under the critical circumstances in Europe? This monarch could have had only great political views, he could have worked only toward an invincibility of the Prussian state, and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-120">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-120">Heft 1, S. 120</a></h2>
+<section class="lit-passage" id="p-1-120" data-page="120" data-part="1">
+<div class="pg" id="p1-120"><a href="#p1-120">S. 120</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sein höchstes Augenmerk, mit Beyseitsetzung aller Nebenrücksichten, mußte darauf gerichtet seyn.
@@ -3612,15 +3466,13 @@ Frederick II. once said very finely to Daun: Sit down beside me. I much prefer t
 I return from these great views to the little plot that was allotted to me during the remarkable events of this war.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-121">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-121">Heft 1, S. 121</a></h2>
+<section class="lit-passage" id="p-1-121" data-page="121" data-part="1">
+<div class="pg" id="p1-121"><a href="#p1-121">S. 121</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### Freitag, den 7ten November.
+##### Freitag, den 7ten November.
 
 Es wurde am Morgen der Befehl ertheilt, daß alle Gewehre der Bürger aufs Rathhaus geliefert werden sollten. Wahrscheinlich fürchtete man sich, zwei bewaffnete Gewalten in der Stadt zu lassen. Die Ablieferung geschah, und sehr schöne Gewehre von der Schützengilde wurden in ein Magazin vereinigt. Uebrigens war alles sicher, und wir hatten uns schon an die häufigen Nachrichten von streifenden Partheien gewöhnt. Aber weit plötzlicher, als wir erwarteten, begann das einzutreten, was wir seit dem 30sten October von weitem daherkommen sahen.
 
@@ -3631,7 +3483,7 @@ Bald darauf saß ein Commando Husaren von 50 bis 60 Mann auf, und rückte eilend
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### Friday, 7 November.
+##### Friday, 7 November.
 
 In the morning the order was issued that all the citizens' firearms were to be delivered up to the town hall. Presumably it was feared to leave two armed powers within the town. The delivery was carried out, and very fine firearms belonging to the marksmen's guild were gathered together in a depot. For the rest, all was safe, and we had already grown accustomed to the frequent reports of roving parties. But far more suddenly than we had expected, that began to come to pass which, since 30 October, we had seen approaching from afar.
 
@@ -3640,12 +3492,10 @@ It was three o'clock in the afternoon when I noticed a commotion in the street f
 Soon afterwards a detachment of hussars, fifty to sixty men, mounted up and moved out at speed through the Breslau Gate to reconnoitre the country. To them was joined a small detachment of border-rangers, who a short while before had marched into the town for its better defence.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-122">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-122">Heft 1, S. 122</a></h2>
+<section class="lit-passage" id="p-1-122" data-page="122" data-part="1">
+<div class="pg" id="p1-122"><a href="#p1-122">S. 122</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Unterdeß wurde der Auflauf immer stärker, und besonders eilten die Menschen, die nicht in die Stadt gehörten, das Thor zu erreichen, um nicht versperrt zu werden. Nicht lange, so erschien der Gouverneur von Reinhart und der Commandant von der Marwitz am breslauer Thor, und es wurden Befehle gegeben. Die Lermtrommel ward geschlagen, und nun begannen Soldaten und Artilleristen auf die Wälle zu eilen, und sich zu stellen. Alles dies geschah im Lauf.
@@ -3668,12 +3518,10 @@ From the beginning of the commotion and the galloping-in of the peasants, until 
 The enemy had come from the western side, and made his attack at the Prussian Gate. Here he had planted cannon behind the Protestant churchyard, where he was screened by several garden-houses, tombs, and great
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-123">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-123">Heft 1, S. 123</a></h2>
+<section class="lit-passage" id="p-1-123" data-page="123" data-part="1">
+<div class="pg" id="p1-123"><a href="#p1-123">S. 123</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Bäumen geschützt war, unweit dem Glacis aufgepflanzt, und beschoß die Stadt heftig. Eben so war in der Gegend des Galgens mehr nach der Nordseite zu eine Anzahl Kanonen aufgeführt, die auf die Stadt zu spielen begannen.
@@ -3700,12 +3548,10 @@ Towards 5 o'clock the order came that the artillerymen were to cease firing unti
 While these were with the Governor, the news spread that terms would be capitulated, and that the enemy would march in the next morning. This
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1-124">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1-124">Heft 1, S. 124</a></h2>
+<section class="lit-passage" id="p-1-124" data-page="124" data-part="1">
+<div class="pg" id="p1-124"><a href="#p1-124">S. 124</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Nachricht hatte auf keine Weise etwas Angenehmes, es erschraken vielmehr viele Menschen davor, und mir selbst war der Gedanke ein Stich, daß wir ohne Vertheidigung in die Hand des Feindes übergehen sollten.
@@ -3728,21 +3574,20 @@ Meanwhile the darkness of evening came on, and lights had to be set in the windo
 The continuation follows.
 
 </div>
-</div>
 </section>
+<h2 class="lit-sec" id="part-2">Heft 2</h2>
 
-<section class="lit-passage" id="p-2-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-front">Heft 2, vor der ersten Seite</a></h2>
+<section class="lit-passage" id="p-2-front" data-part="2">
+<div class="pg"><a href="#p-2-front">Titel</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-### Neue Feuerbrände.
+## Neue Feuerbrände.
 
 *Herausgegeben von dem Verfasser der vertrauten Briefe über die innern Verhältnisse am Preußischen Hofe seit dem Tode Friedrichs II.*
 
 *Ein Journal in zwanglosen Heften.*
 
-#### Zweytes Heft.
+### Zweytes Heft.
 
 Amsterdam und Cölln, 1807.  
 bei Peter Hammer.
@@ -3750,27 +3595,25 @@ bei Peter Hammer.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### New Firebrands.
+## New Firebrands.
 
 *Published by the author of the Confidential Letters on the Internal Affairs of the Prussian Court since the Death of Frederick II.*
 
 *A Journal in Occasional Issues.*
 
-#### Second Part.
+### Second Part.
 
 Amsterdam and Cölln, 1807.  
 bey Peter Hammer.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-V">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-V">Heft 2, S. V</a></h2>
+<section class="lit-passage" id="p-2-V" data-page="V" data-part="2">
+<div class="pg" id="p2-V"><a href="#p2-V">S. V</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Inhalt.
+### Inhalt.
 
 Correspondenz-Nachrichten. Schreiben aus Weimar. Seite 1
 
@@ -3789,7 +3632,7 @@ Erfahrungen, gesammelt bei einem Spaziergange in und um Berlin, im April 1807. 9
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Contents.
+### Contents.
 
 Correspondence Notices. Letter from Weimar. Page 1
 
@@ -3806,12 +3649,10 @@ The Black Register, or General Tableau of the Former Polish Crown and Ecclesiast
 Experiences Gathered on a Walk in and around Berlin, in April 1807. 91
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-VI">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-VI">Heft 2, S. VI</a></h2>
+<section class="lit-passage" id="p-2-VI" data-page="VI" data-part="2">
+<div class="pg" id="p2-VI"><a href="#p2-VI">S. VI</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Bemerkungen über den Preußischen Soldatenruhm. Seite 112
@@ -3834,17 +3675,15 @@ Baron Hammer. 124
 Are There Not Also War Damages in Peacetime? 125
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-1">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-1">Heft 2, S. 1</a></h2>
+<section class="lit-passage" id="p-2-1" data-page="1" data-part="2">
+<div class="pg" id="p2-1"><a href="#p2-1">S. 1</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Correspondenz-Nachrichten.
+### Correspondenz-Nachrichten.
 
-##### Weimar.
+#### Weimar.
 
 Wir waren hier wirklich im Anfange des unglücklichen Oktobers 1806 in einer gewissen Art von Sicherheit, die uns nichts weniger, als unser nachheriges trauriges Schicksal ahnen ließ; denn wir glaubten die äußersten Grenzen des Thüringer Waldes gut besetzt, und einige Corps gegen Kranach und Bamberg zu aufgestellt, noch obendrein. Wie hätten wir glauben können, ein kluger General stelle sein Magazin (in Hof) an die Fronte, und erwarte den Feind hinter'm Walde, hinter den Bergen, Schluchten, die ihn alle vertheidigen konnten? — Und welche Hand voll Leute hat man dort, und an welchen Plätzen gehabt? Das träumte sich gar kein Mensch!
 
@@ -3853,21 +3692,19 @@ Als die Garde endlich hier einrückte, und der König von Preußen, ohne vorzur�
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Correspondence Notices.
+### Correspondence Notices.
 
-##### Weimar.
+#### Weimar.
 
 We were here, at the beginning of the ill-fated October of 1806, truly in a certain kind of security that gave us no inkling whatever of our subsequent sad fate; for we believed the outermost borders of the Thuringian Forest to be well garrisoned, and, on top of that, several corps posted toward Kronach and Bamberg. How could we have believed that a shrewd general would place his magazine (in Hof) at the front, and await the enemy behind the forest, behind the mountains, the ravines, all of which could have defended it for him? — And what a handful of men were kept there, and at what posts? No man dreamed of such a thing!
 
 When the Guard at last moved in here, and the King of Prussia, without advancing, took quarters here and remained lying still, we grew more anxious. — Meanwhile the Prussian officers still went dashing about: "If only we can once get them onto the plains!" — Ha! we thought, so it is to be decided at Lützen. They
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-2">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-2">Heft 2, S. 2</a></h2>
+<section class="lit-passage" id="p-2-2" data-page="2" data-part="2">
+<div class="pg" id="p2-2"><a href="#p2-2">S. 2</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wollen den Feind auf Bataillen-Felder haben. — Zwar meinten wir, es sey doch wohl besser ihm bis Würzburg entgegen zu gehen, als sein Rendezvous in Sachsen abzuwarten; aber was konnte das helfen?
@@ -3906,12 +3743,10 @@ In the wine-houses — the brandy-booths were all closed, and empty — the crow
 "If the Russians do not come," said one who afterward called himself a Cisalpine, "we shall get a drubbing!"
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-3">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-3">Heft 2, S. 3</a></h2>
+<section class="lit-passage" id="p-2-3" data-page="3" data-part="2">
+<div class="pg" id="p2-3"><a href="#p2-3">S. 3</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Das nahm ein dicker Regimentsfeldscherer übel:
@@ -3958,12 +3793,10 @@ A townsman wanted to raise an objection, but he was at once set right, and indee
 "My good man! we understand that better. In the open field a Prussian army is not to be beaten at all, for our manoeuvres, they have the very devil in them;
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-4">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-4">Heft 2, S. 4</a></h2>
+<section class="lit-passage" id="p-2-4" data-page="4" data-part="2">
+<div class="pg" id="p2-4"><a href="#p2-4">S. 4</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und Braunschweig und Hohenlohe sind große Generals, Möllendorf ist auch dabei, der hat die alten Preußischen Pfiffe noch. — Ach! und unsere Kavallerie, gegen die Französische, die nicht reiten kann — ic. ic."
@@ -4010,12 +3843,10 @@ Before Weimar a camp was pitched. — This, it was said, was the third line of e
 We thought, the mountains near Jena will now be occupied; who will attack them? With stones the attackers can be
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-5">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-5">Heft 2, S. 5</a></h2>
+<section class="lit-passage" id="p-2-5" data-page="5" data-part="2">
+<div class="pg" id="p2-5"><a href="#p2-5">S. 5</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 tod zu werfen, und die Franzosen werden genöthiget seyn, mit schrecklichem Verlust entweder zurückzugehen, oder den Paß bei Dornburg zu forciren, um in die Naumburger Ebene zu kommen, und dort werden sie die Preußen auf dem Bataillen-Felde finden.
@@ -4046,12 +3877,10 @@ Let one go there, look at the country, and — be horrified.
 Those were the Prussian tricks!
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-6">Heft 2, S. 6</a></h2>
+<section class="lit-passage" id="p-2-6" data-page="6" data-part="2">
+<div class="pg" id="p2-6"><a href="#p2-6">S. 6</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Armer König! — Wie weggeworfen war Dein Geld, für ein solches Heer. Deine Bauern hätten Dich besser vertheidiget, und die Thüringer Bauern dazu, hättet ihr sie nur bewaffnet, und mobil gemacht. Jeder Schulze kannte seinen Berg, und wußte ihn zu vertheidigen. — Keiner entkam dem Tode, der durch dieses Thal wollte, waren die Anhöhen, die fürchterlichen Gebürge besetzt.
@@ -4070,15 +3899,13 @@ In a word, one was prepared for nothing; and the Prussian commander came into th
 We in Weimar, however, now hovered in mortal dread. — Amid the thunder of cannon the ill-fated 14th of October broke, and, alas! how dreadful it became for us wretched souls! etc.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-7">Heft 2, S. 7</a></h2>
+<section class="lit-passage" id="p-2-7" data-page="7" data-part="2">
+<div class="pg" id="p2-7"><a href="#p2-7">S. 7</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Bemerkungen über den Feldzug in Pohlen, und den nicht ratifizirten Waffenstillstand des Königs von Preußen.
+### Bemerkungen über den Feldzug in Pohlen, und den nicht ratifizirten Waffenstillstand des Königs von Preußen.
 
 Für Frankreich ist der Friede, trotz seiner erhaltenen Kontinentalmacht, ein eben so großes Bedürfniß, als für das übrige Europa. Deshalb zeigte der Kaiser Napoleon, in den angeknüpften Friedensunterhandlungen, im vorigen Jahre, gegen England eine Mäßigung, die wahrscheinlich zu einem dauerhaften Frieden geführt haben würde, wenn der Krieg mit Preußen nicht ausgebrochen wäre.
 
@@ -4087,19 +3914,17 @@ Einen Vierten Coalitionskrieg gegen Frankreich, kann man diesen Krieg nicht nenn
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Observations on the Campaign in Poland, and on the King of Prussia's Unratified Armistice.
+### Observations on the Campaign in Poland, and on the King of Prussia's Unratified Armistice.
 
 For France, peace — despite the Continental power she has secured — is a need just as great as for the rest of Europe. This is why the Emperor Napoleon, in the peace negotiations begun last year, showed toward England a moderation that would probably have led to a durable peace, had the war with Prussia not broken out.
 
 This war cannot be called a Fourth Coalition War against France, for the prevailing misunderstandings between England and Prussia were by no means yet resolved. And, as is known from the foregoing, it was only delusion and despair that drove Prussia to declare war on France. But when England saw that another opportunity for a Continental war might yet present itself, Lord Lauderdale broke off the negotiations as though picking a quarrel out of thin air. If the Emperor was in earnest, in sending the letter to the King of Prussia before the Battle of Jena, that he did not wish to have war
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-8">Heft 2, S. 8</a></h2>
+<section class="lit-passage" id="p-2-8" data-page="8" data-part="2">
+<div class="pg" id="p2-8"><a href="#p2-8">S. 8</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 mit Preußen haben zu wollen: so war wenigstens nach der Schlacht bei Jena, weder an einen Waffenstillstand, noch an einen Frieden zu denken. Der Kaiser Napoleon hat ja den Frieden gewollt, und demselben so viele Opfer bringen wollen. Der Kaiser Alexander weigerte aber, zum wahren Unglücke für Preußen, die Ratifikation eines schon geschlossenen Friedens, und England verlor auch den Willen dazu, seitdem der große Staatsmann Fox die Augen geschlossen hatte.
@@ -4114,12 +3939,10 @@ with Prussia — then at least after the Battle of Jena there could be no though
 The consequences of the Battle of Jena could not but be too advantageous to the Emperor Napoleon for him to let them pass unused. The Emperor Napoleon esteems the King of Prussia, because he not only knew of his aversion to this war, but surely also remembered that Prussia, since the Peace of Basel, had always been the first power to recognize the changes in France. What motives, then, could the Emperor of the French have had to lay waste the states of an already so utterly unfortunate King and reduce them to misery? Why should he not have made peace with Prussia? His heroic renown needed no enlargement. The Emperor had, only the year before, granted peace even to Austria upon far smaller sacrifices. If, therefore, he did not halt in his victorious course, and prescribed to the King conditions too harsh in the armistice concluded at Berlin, the ratification of which the latter believed he had to refuse, then he had no other tendency than to weaken Russia,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-9">Heft 2, S. 9</a></h2>
+<section class="lit-passage" id="p-2-9" data-page="9" data-part="2">
+<div class="pg" id="p2-9"><a href="#p2-9">S. 9</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zu schwächen, seinen despotischen Einfluß auf die Nordischen Staaten zu vernichten, und darauf einen festen Frieden zu begründen. Verhinderten seit dem Preßburger Frieden, Leidenschaften, Eifersucht, Besorgnisse über Frankreichs Machterweiterung, bei den Europäischen Mächten, jede reelle Annäherung zum Frieden: so mußte, nach dem Falle Preußens, alles dieses um so mehr der Fall seyn. Der Kaiser Napoleon mußte daher den glücklichen Einfluß der Umstände benutzen; zwischen der Universalmonarchie und dem Frieden war nun kein Mittelweg mehr.
@@ -4138,12 +3961,10 @@ How ingeniously the Emperor Napoleon has pursued his great tendency since the Ba
 Russia is a great empire; she wages the war in her own country; she has great armies; she can count on England's money. But all this will not save her. France wages the war with the marrow of Italy, of Holland, and of all Germany
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-10">Heft 2, S. 10</a></h2>
+<section class="lit-passage" id="p-2-10" data-page="10" data-part="2">
+<div class="pg" id="p2-10"><a href="#p2-10">S. 10</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gegen Rußland. Die Massen entscheiden im Kriege nur dann, wenn geschickte Generale an ihrer Spitze stehen.
@@ -4162,12 +3983,10 @@ What a great difference exists between the Russian and the French generals need 
 The forces of the French are dispersed, because for the present they must in part occupy themselves with the conquest of subsidiary provinces and fortresses. But if the Russians do not extricate themselves from the check placed upon them, then it is to be foreseen that in a few months not only Silesia, but also Swedish Pomerania, Colberg, and Danzig will be conquered. Let one consider what new resources will fall to the French, partly through the uniting of these forces, partly through the 60,000 conscripts from the interior of France.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-11">Heft 2, S. 11</a></h2>
+<section class="lit-passage" id="p-2-11" data-page="11" data-part="2">
+<div class="pg" id="p2-11"><a href="#p2-11">S. 11</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Ein schleuniges Einrücken der Russen in Servien und Bosnien, die Eroberung von Widdin und Belgrad, vorzüglich aber, wenn Oestreich gegen Frankreich sich erklären wollte, würde den Ausbruch des Krieges von der Pforte ersticken, und den Franzosen eine gewaltige Diversion machen. Allein dieß ist von Oestreich nicht zu erwarten, theils aus Furcht, wenn die Sache schief abläuft, seine Existenz nicht zu verlieren, theils die Russen nicht mächtiger werden zu lassen, deren Politik, wenn sie die Europäische Türkei zerstören, Oestreich gefährlicher seyn möchte, als wenn sie in der Folge Frankreich Anlaß zu einem abermaligen Kriege geben sollten. Die Russen verstärken sich in Dalmatien, es eilen aber auch aus dem Innern von Frankreich, in Vereinigung mit den Neapolitanern und Spaniern, 150,000 Mann nach Venedig, um jede Diversion nach Italien und Süd-Deutschland zu vereiteln. Man sieht daraus, welche Hülfsquellen Frankreich hat. Die Türken haben gegen die Russen seit Vierzig Jahren ins Feld nie Stand halten können. Würden aber 200,000 Türken unter Anführung geschickter Französischer Generale jetzt noch dieß Schicksal haben? Ich zweifle! Muß diese starke Macht den Russen, in einer so bedenklichen Lage, nicht äußerst beschwerlich fallen? Werden die Türken nicht bald Mittel finden die Insurrektion in Servien zu dämpfen? eben sowohl die festen Plätze am Dniester wieder erobern, und so auch einen Weg nach Oczakow und der Crimm sich bahnen können?
@@ -4178,12 +3997,10 @@ Ein schleuniges Einrücken der Russen in Servien und Bosnien, die Eroberung von 
 A swift advance by the Russians into Serbia and Bosnia, the capture of Widin and Belgrade, but above all, should Austria be willing to declare against France, would smother the outbreak of war on the part of the Porte and create a formidable diversion for the French. Yet this is not to be expected from Austria, partly out of fear of losing its very existence should the matter turn out badly, partly so as not to let the Russians grow more powerful — Russian policy, if they destroy European Turkey, might prove more dangerous to Austria than if, in due course, they were to give France cause for yet another war. The Russians are reinforcing themselves in Dalmatia, but there are also 150,000 men hurrying from the interior of France, in union with the Neapolitans and Spaniards, toward Venice, in order to thwart any diversion into Italy and southern Germany. From this one sees what resources France possesses. For forty years the Turks have never been able to hold their ground in the field against the Russians. But would 200,000 Turks, under the command of skilful French generals, still meet with this fate today? I doubt it! Must not such a strong force fall exceedingly burdensome upon the Russians in so precarious a situation? Will the Turks not soon find means to quell the insurrection in Serbia? and likewise reconquer the fortified places on the Dniester, and thus also open a way for themselves to Ochakov and the Crimea?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-12">Heft 2, S. 12</a></h2>
+<section class="lit-passage" id="p-2-12" data-page="12" data-part="2">
+<div class="pg" id="p2-12"><a href="#p2-12">S. 12</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Gesetzt aber auch, die Russen treiben ihre erhaltenen Vortheile in der Moldau und Wallachei immer weiter. Es gelingt ihnen die ganze Europäische Türkei zu erobern, werden sie, bei einer Annäherung zum Frieden, alle das eroberte Land, aus Großmuth gegen Preußen, wohl wieder an den Türken zurück geben? wie einige glauben, damit Frankreich Preußen und die dethronisirten Reichsfürsten in ihre alte Rechte und Besitzungen wieder einsetze? Es wäre eine Großmuth ohne Gleichen, die seit der Schlacht von Pultawa die Russen wenigstens nicht gezeigt haben. Tritt dieser Fall ein, so wird der Noth und des Elendes nur um so mehr in der Welt. Der Krieg zieht sich in die Länge. Von beiden Rivalen muß dann einer fallen, worüber aber, zu gleicher Zeit, noch größere Reiche und Provinzen von Deutschland zusammen stürzen werden.
@@ -4198,12 +4015,10 @@ But granting even that the Russians push their gained advantages in Moldavia and
 It is claimed, on reliable authority, that France offered Prussia an advantageous peace if it would ally itself with Austria and make common cause with France against Russia. The Emperor Napoleon, it is said, demands nothing but the re-establishment of the Kingdom of Poland and the integrity of the Porte. If this is true, then I believe it would have been good, not only for Prussia but also for the whole welfare of mankind, had the King accepted these conditions, for it led by the shortest way to a general peace.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-13">Heft 2, S. 13</a></h2>
+<section class="lit-passage" id="p-2-13" data-page="13" data-part="2">
+<div class="pg" id="p2-13"><a href="#p2-13">S. 13</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Ich gebe zu; die Russen sind im Sommer glücklicher, als sie es in diesem Winter waren, auch daß die Franzosen ihre Siege mit vielem Blute erkauft haben. Es kann sich vielleicht auch der ganze Kriegsschauplatz verändern, welches für die Russen den Vortheil hat, daß kein Franzose Petersburg zu Gesichte bekommt. Da es inzwischen einmal so weit gekommen ist, daß, außer England, alle Europäische Staaten nur Vehickel von Frankreich oder Rußland sind: so ist das Unglück für Deutschland sehr groß, weil in seinen Eingeweiden der Krieg fort leben wird, bis die eine oder die andere Macht die Segel gestrichen hat.
@@ -4222,12 +4037,10 @@ The question now is whether men will be happier under the sceptre of a single ru
 But when one considers how greatly the happiness and welfare of men depend upon the government of the head of state; that this supreme power is easily abused, easily degenerates into despotism, if the sovereigns of a universal monarchy are Tiberiuses, Neros, Caligulas
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-14">Heft 2, S. 14</a></h2>
+<section class="lit-passage" id="p-2-14" data-page="14" data-part="2">
+<div class="pg" id="p2-14"><a href="#p2-14">S. 14</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sind: so möchte wieder das menschliche Herz jammern, daß der Strom der Zeit die Staaten in ein anderes Verhältniß hineinwarf, in welchem sie das letzte Jahrhundert so glücklich waren. Bedenkt man, daß die Resultate aller Welteroberungen höchst traurig waren; daß Alexander kaum die Augen geschlossen hatte, als unter den getheilten Statthaltern des getheilten Reichs alles Kopf unten und drüberging; daß die Nachkommen der kraftvollen Römer in ein so weichliches verächtliches Nichts herabsunken; und unter den Griechen, seit zwey tausend Jahren, sich weder ein Plato, ein Sokrates, noch ein Phidias und Apelles hervorarbeiten konnten, weil ein schrecklicher Barbarismus kein Weisheits- und Kunst-Produkt aufkeimen ließ: so möchten unsere Nachkommen für die Zukunft zittern —
@@ -4242,12 +4055,10 @@ Aber auch hier zeigt der Geschichts- und Menschenkenner, der Kaiser Napoleon, ei
 But here too the Emperor Napoleon, that connoisseur of history and of men, shows a way to be taken that will protect humanity from the entrance of similar horrors. Let one recall the family compact, and his moderation in the many peace settlements. What indeed would have prevented him, since the Peace of Lunéville, from uniting with France not only Holland and Italy, but also Switzerland and the Confederation of the Rhine, had he not taken heed that, after his passing, under a weak successor, the great and boundless work might easily collapse again? What he will do is this: he will bring Switzerland and the Kingdom of Italy under the sceptre of the vigorous ruler of the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-15">Heft 2, S. 15</a></h2>
+<section class="lit-passage" id="p-2-15" data-page="15" data-part="2">
+<div class="pg" id="p2-15"><a href="#p2-15">S. 15</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Franzosen bringen, um denselben vermöge dieses Uebergewichts diejenige Gewalt zu verleihen, die Mißhelligkeiten und die Zwiespalte der übrigen Fürsten von Europa auf der Stelle schlichten zu können. Auch wird er einen Ausweg finden, daß einmahl ein ehrgeitziger Nachfolger diese Schranken nicht übertreten kann, aber auch noch weniger wird er Frankreich aussetzen die Vereinigung der Fürsten fürchten zu dürfen.
@@ -4262,15 +4073,13 @@ French, so as to confer upon him, by virtue of this preponderance, that power wh
 The boundaries are fine, and yet, were they to be overstepped by the one party or the other, the whole would be lost. Common human understanding is incapable of grasping the development. But since the eternal blessing or the eternal curse of our descendants depends upon the constitution which the great man of the age is still to establish, one may at least hope for the best. If, then, there shows itself to contemporaries and to posterity, under the sovereign arm of the Emperor Napoleon, a possible prospect of lasting peace and of better times — even once England has been wrested of its sole trade upon the seas — then all this might well take on a wholly different shape, were the sole dominion of the world to fall into the hand of the Northern Colossus.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-16">Heft 2, S. 16</a></h2>
+<section class="lit-passage" id="p-2-16" data-page="16" data-part="2">
+<div class="pg" id="p2-16"><a href="#p2-16">S. 16</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Was bestimmt die Unüberwindlichkeit einer Armee?
+### Was bestimmt die Unüberwindlichkeit einer Armee?
 
 Untersucht man Partheilos und entfernt vom Vorurtheile die Kriege von Nationen, welche Waffenglück in allen ihren Unternehmungen bezeichnete: so waren die Motive 1) Genialität des Oberhauptes 2) Gewandte Generale 3) Gemeingeist und kriegerischer Sinn des gemeinen Haufens.
 
@@ -4281,7 +4090,7 @@ Bald wies es sich aus, wie klug und scharfsichtig Pelopidas die Ereignisse der Z
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### What Determines the Invincibility of an Army?
+### What Determines the Invincibility of an Army?
 
 If one examines, without partisanship and free of prejudice, the wars of nations whose every undertaking was marked by success in arms, the motives were: 1) the genius of the supreme commander; 2) skilful generals; 3) the public spirit and martial temper of the common mass.
 
@@ -4290,12 +4099,10 @@ The Theban Pelopidas worked wonders against the so overweening Spartans; yet he 
 It soon became evident how wisely and keenly Pelopidas had foreseen the events of the future. In the battle of Leuctra, Epaminondas, Pelopidas's worthy comrade in arms, with 6,000 Thebans defeated 11,000
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-17">Heft 2, S. 17</a></h2>
+<section class="lit-passage" id="p-2-17" data-page="17" data-part="2">
+<div class="pg" id="p2-17"><a href="#p2-17">S. 17</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Spartaner. Nicht bloßes Waffenglück, nicht überlegene Bravour, sondern ein neuer taktischer Einfall; der in obliker Richtung angeführte Phalanx, gegen die Stellung der Spartaner, auf welchen Kleombrutus nicht gefaßt war, krönte das Werk, welches darauf den ganzen Peleponnes in Schrecken setzte.
@@ -4310,12 +4117,10 @@ Spartans. Not mere fortune of arms, not superior bravery, but a new tactical str
 Domineering Rome had, until the landing of Pyrhus, fought only against wild hordes. Now it was to face a commander who was a second Alexander, who possessed Greek tactics and a disciplined army; and yet this strong people proudly rejected Pyrhus's mediation of peace, in order to avenge the national honour of the Romans, which had been assailed by the Tarentines; in order to show to strangers defiantly that Roman blood would bear no stain of cowardice; that no peace was to be thought of, despite the defeats the Romans had suffered at Siris and Asculum, until the Greeks had left Roman territory and the Tarentines had been drawn to their deserved punishment for their insolence. Pyrhus employed bribery and fear to unsettle the hero Fabricius; but in both he was deceived. The noble Roman remained as cold at the roar of the fearsome elephant as he was honest at the gleam of the gold offered to him.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-18">Heft 2, S. 18</a></h2>
+<section class="lit-passage" id="p-2-18" data-page="18" data-part="2">
+<div class="pg" id="p2-18"><a href="#p2-18">S. 18</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 So handelt eine Nation, in welcher der Sinn zur Unüberwindlichkeit liegt, welche sich zur Weltbeherrscherinn empor schwingen will.
@@ -4338,12 +4143,10 @@ When Alexander's martial genius no longer animated the agile phalanx, he was in 
 In the Thirty Years' War it was merely the new tactical dispositions, which the creative genius of Gustavus Adolphus invented, that were the cause that the hitherto invincible Imperial generals, Tilly and Wallenstein, were overcome. And the power and territorial expansions of Louis XIV rested merely upon the many excellent generals who, formed in the school of Turenne and Kande,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-19">Heft 2, S. 19</a></h2>
+<section class="lit-passage" id="p-2-19" data-page="19" data-part="2">
+<div class="pg" id="p2-19"><a href="#p2-19">S. 19</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gebildet, Jahrhunderte hindurch, auf dem Schauplatze des Kriegs, als die ersten Helden ihres Zeitalters sich erhielten. Der Französische Kriegsruhm trat aber unter den Nachfolgern Ludwigs des 14ten wieder in die Gemeinheit zurück, als sie nicht mehr auf das Impulsiren achteten, als versäumt wurde, Verdienste und Talente in Enthusiasmus zu setzen.
@@ -4366,12 +4169,10 @@ Had Frederick the Great not studied the campaigns of the Greeks and Romans, and 
 At the outbreak of the Revolutionary War, the military spirit in the French army was enfeebled and undisciplined. The rulers of France could not even expect protection from it, far less successes. The results of this showed themselves at once at the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-20">Heft 2, S. 20</a></h2>
+<section class="lit-passage" id="p-2-20" data-page="20" data-part="2">
+<div class="pg" id="p2-20"><a href="#p2-20">S. 20</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ersten Feindseligkeiten. Die Neufranken zogen gegen die Oestreicher den Kürzern. Die Anrages, welche die Schuld des Ausschlagens mehr der Verrätherei, als der Ungeschicklichkeit ihrer Heerführer beimaßen, hieben, mit wilder Wuth, ihre Generale und Offiziere in Stücken.
@@ -4394,12 +4195,10 @@ The fruitless cannonade at Valmy — although, on the part of the Prussians and 
 The prudent, careful avoidance of a major battle after the engagement at Neerwinden, unfortunate for the French, and the mounting of a host of outpost skirmishes in which the French almost always retained the upper hand; the new tirailleur tactics which the great military genius Carnot invented to steel the courage of the raw National Guardsman; the purposeful combination of arms which this same artist embodied in the new brigade and division organization; the more mobile organization which he gave it by having all superfluous baggage-train
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-21">Heft 2, S. 21</a></h2>
+<section class="lit-passage" id="p-2-21" data-page="21" data-part="2">
+<div class="pg" id="p2-21"><a href="#p2-21">S. 21</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 abgeschafft wurde, daß die Offiziere wie der Gemeine vom Kapitain abwärts ihre Dienste zu Fuße verrichteten.
@@ -4426,12 +4225,10 @@ And indeed the army of General von Wurmbser, after being driven back as far as W
 All of them effects that no one could suddenly make sense of. The French soldier regarded them as an effect of his new modes of fighting, whereby his courage, self-confidence, and boldness rose to the point of invincibility. A like delusion and conceit surely also animated the French soldier when, bold and full of confidence, he attacked in loose order the enemy's cavalry and artillery,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-22">Heft 2, S. 22</a></h2>
+<section class="lit-passage" id="p-2-22" data-page="22" data-part="2">
+<div class="pg" id="p2-22"><a href="#p2-22">S. 22</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 angriff, und nichts mehr bestärkte ihn darinn, als er sah, daß er beiden wirklich empfindliche Verluste versetzen konnte, ohne von ihrer Gegenwehr vieles wieder zu erleiden. Daher ist es denn auch erklärbar, warum der Französische Soldat im Jahr 1794, unter den Generalen Pichegrü und Jourdan an der Samber, nicht eher ruhen wollte, bis das belagerte Maubeuge entsetzt, und der nur Furcht drohende Keil von Landrecz, le Quenoy und Valenciennes über den Haufen geworfen war.
@@ -4450,12 +4247,10 @@ From that time fortune and chance raised up generals from obscurity in the Frenc
 Stripped of all comforts: the infantry officer marching on foot with the knapsack on his back, the cavalry officer with a portmanteau on his single horse — which by regulation may weigh only 30 pounds — from now on one saw behind their columns neither baggage-wagons nor pack-horses, neither bread- nor
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-23">Heft 2, S. 23</a></h2>
+<section class="lit-passage" id="p-2-23" data-page="23" data-part="2">
+<div class="pg" id="p2-23"><a href="#p2-23">S. 23</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Mehlwagen herfahren. Wenn ihnen diese Einrichtung eine Schnelligkeit verschaffte, zehn bis zwölf Meilen in einem Tage zu marschiren: so waren bei einer deutschen Armee die Kräfte schon bei sechs Meilen erschöpft, da Meilenlange Bagagezüge alle fernere Bewegbarkeit hemmten. Wenn eine Neufränkische Armee, in dem Vertrauen ihrer bessern Kriegsverfassung und Unüberwindlichkeit, an keine Magazine sich band, und den Krieg immer in das feindliche Land spielte, wo für ihre Bedürfnisse gesorgt war: so mußten bei deutschen Armeen, mit so vielen Kosten und Lasten für den armen Landmann, erst Magazine angehäuft werden, welche dem Feinde die Absichten verriethen, und noch ehe sie zur Ausführung kamen, entweder schon von dem schnellern Feinde zerstöhrt, oder zu seiner Subsistenz genommen waren. Wenn bei einer deutschen Armee die Zurüstungen zum Kriege, ja ein einziger Feldzug die in vielen Jahren in Frieden ersparten Millionen des Fürsten verschlingt: so giebt der Kaiser der Franzosen wenig oder gar nichts dafür aus. Bagage- und Packpferde gebraucht die Französische Armee nicht; die Kanonen werden mit Vorspann bis ins feindliche Land fortgeschafft, und dann so viele Pferde dem Landmanne abgenommen, als zur Bespannung dieses Geschützes nöthig ist.
@@ -4470,12 +4265,10 @@ flour-wagons driving along. If this arrangement gave them the speed to march ten
 The unmounted cavalry seeks either to remount itself with carriage- and country-nags wherever it finds them, or it follows the army on foot until a favourable opportunity yields captured horses.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-24">Heft 2, S. 24</a></h2>
+<section class="lit-passage" id="p-2-24" data-page="24" data-part="2">
+<div class="pg" id="p2-24"><a href="#p2-24">S. 24</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Diese freiern Bewegungen der Franzosen, welche sich wenig oder gar nicht an Magazine binden, machen nun auch, daß die Franzosen keine Freunde von dem goldenen Brückenbauen sind; daß es ihnen gar keine Schwierigkeit macht, sich in die Flanken und in den Rücken der feindlichen Armee zu werfen; daß sie weit besser als die Deutschen genährt sind. Während der Franzose auf Kosten des Feindes seine kräftige Fleischsuppe zu sich nimmt, Wein und Brandewein vollauf hat, ist öfters der deutsche Soldat gezwungen, sich an sein Comißbrod und an einen Trunk Wasser zu halten. Es tritt zwar der Fall ein, daß der Französische Soldat Jahrelang keinen Sold erhält, welches aber sein größter Vortheil ist, weil er ihm oder den Seinigen von der Regierung erspart wird, und er auch kein Geld gebraucht, da der Bürger oder Bauer auch für das kleinste seiner Bedürfnisse zu sorgen verpflichtet ist. Der deutsche Soldat bekommt seinen Sold richtiger ausgezahlt, er ist aber bei der heutigen Theurung aller Produkte so geringe, daß er, selbst bei aller Einschränkung, von einem Löhnungstage zum andern (Fünf Tage) wenigstens drei Tage hungern muß. So bringen denn die Franzosen zum Kampfe, außer ihrer geistigen, eine physische Kraft mit, welche mit dem Produkte des Comißbrodes und der Erdtoffeln in keinem Verhältnisse steht. Zu dem allen rechne man noch den, dieser Nation angebornen, Enthusiasmus für einen großen Mann hinzu, daß der Kaiser, seit seiner wirkenden Existenz, sie immer zu glücklichen Unternehmungen
@@ -4486,12 +4279,10 @@ Diese freiern Bewegungen der Franzosen, welche sich wenig oder gar nicht an Maga
 These freer movements of the French, who bind themselves little or not at all to magazines, now also make the French no friends of building golden bridges; make it no difficulty at all for them to throw themselves into the flanks and rear of the enemy army; make them far better nourished than the Germans. While the Frenchman takes his hearty meat-soup at the enemy's expense, and has wine and brandy in abundance, the German soldier is often forced to keep to his ration-bread and a draught of water. It does indeed happen that the French soldier receives no pay for years on end, which, however, is his greatest advantage, since it is saved for him or his kin by the government, and he needs no money either, because the townsman or peasant is obliged to provide for even the least of his needs. The German soldier has his pay disbursed to him more reliably, but with today's dearness of all produce it is so small that, even with all frugality, he must go hungry at least three days out of every five (from one pay-day to the next). Thus the French bring to the fight, besides their spiritual force, a physical force that bears no proportion to the product of ration-bread and potatoes. To all this must be added the enthusiasm for a great man that is inborn in this nation — that the Emperor, since his effective existence, has always led them to fortunate
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-25">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-25">Heft 2, S. 25</a></h2>
+<section class="lit-passage" id="p-2-25" data-page="25" data-part="2">
+<div class="pg" id="p2-25"><a href="#p2-25">S. 25</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 anführte; die Empfänglichkeit der Franzosen für das Große, Glänzende, Außerordentliche; die Kenntniß und meisterhafte Benutzung dieses Charakters von ihrem Kaiser; den Wetteifer, in ausgezeichneten Thaten, der Generale, die jedesmal die kühnste Phantasie übersteigen. Und dann wundere man sich nicht über die Niederlagen der sonst so tapfern Deutschen.
@@ -4516,12 +4307,10 @@ When rapid victories had made General Bonaparte in the year 1797 master of Piedm
 But when the Venetians and Tyroleans took measures to occupy the neglected Tyrolean passes in his rear; when Archduke Charles advanced with the Austrian army against his front; when he could scarcely any longer escape the fate of being surrounded: then the politically shrewd
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-26">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-26">Heft 2, S. 26</a></h2>
+<section class="lit-passage" id="p-2-26" data-page="26" data-part="2">
+<div class="pg" id="p2-26"><a href="#p2-26">S. 26</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Feldherr auf den Strauch, ob nicht ein vorläufiger Friede zu schließen wäre, in welchem Oestreich auf den Sturz der wortbrüchichen Venetianer zufrieden gestellt, und wo Frankreich ebenfalls nicht zu kurz dabei käme. Es geschieht was er wünscht. Der Friede von Loeben wird unterzeichnet. Frankreich behält die Niederlande, und das linke Rheinufer. Eine Akquisition, nach welcher Ludwig der 14te vergebens gestrebt hatte. Die Republik Venedig, Dalmatien und die Sieben Insel Republik, werden Oestreich einverleibt. In einer kritischen Lage, den Faden eines so vielfach verworrenen Interesses, ohne Anstoß, (als daß die Republik Venedig zu Grabe ging) so schnell zu entwickeln, ist mehr als den Gordischen Knoten mit dem Schwerdte aufzulösen.
@@ -4536,12 +4325,10 @@ commander beat about the bush as to whether a preliminary peace might not be con
 Critics who did not comprehend the great general censured his audacity, and were already beginning to deny him the talents of a commander. The days of Lodi, of Arcole, of Mantua, and so forth were, in their opinion, more the results of chance than of art. But now, like Hannibal, he crosses the Great St. Bernard, the Simplon, the St. Gotthard, with an army of 70,000 men. A recklessness, in the judgement of the critic, still far greater. If, says the over-hasty critic, the French army does even happily cross the monstrous Alpine chain, how will it fare in Lombardy? All the fortified places in enemy hands, no magazines — how must it deteriorate during its march?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-27">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-27">Heft 2, S. 27</a></h2>
+<section class="lit-passage" id="p-2-27" data-page="27" data-part="2">
+<div class="pg" id="p2-27"><a href="#p2-27">S. 27</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wie will sie nach einer verlornen Schlacht sich retten? Nun entwickeln sich seinem Auge aber die schönen Märsche, die künstlichen Demonstrationen, den Feind irre zu führen; die haarscharfen Berechnungen des wieder zusammen Klappens der einzelnen Theile zu einem großen Ganzen, um die gewünschte vorausgesehene Schlacht über Italiens Schicksal entscheiden zu lassen. Sie kömmt bei Marengo. Der Ausgang ist zweifelhaft. Der Zufall entscheidet sie zum Vortheil des neuern Hannibals. Der Kritiker nimmt sein Wort nicht wieder zurück, weil wirklich den Ausgang nur das Glück krönte, und es einmal stets das Loos eines großen Menschen ist, daß von den Zeitgenossen hervorstechende Verdienste verkannt werden. Bei alledem mußte jener Kritiker sich aber doch selbst gestehen, daß in der Anlage des Planes viel Großes, viel Außerordentliches läge. Daß General Bonaparte der einzige Mann in ganz Frankreich war, der die höchst verworrenen Angelegenheiten Frankreichs so günstig wenden konnte. Bonaparte war kühn, er überließ, wie Cäsar und Friedrich der Große, den glücklichen Zufällen auch ihren Theil; wenn aber auch der Erfolg völlig unglücklich ausfiel: so würde die Größe des Planes denn doch eine ewige Würdigung bei der Nachwelt gefunden haben.
@@ -4556,12 +4343,10 @@ how will it save itself after a lost battle? But now there unfold before his eye
 A great man is strongest, most terrible, precisely in misfortune. Even had he lost the battle at Marengo, he would certainly not, with his army, have succumbed to the blows of a mighty fate. Such a
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-28">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-28">Heft 2, S. 28</a></h2>
+<section class="lit-passage" id="p-2-28" data-page="28" data-part="2">
+<div class="pg" id="p2-28"><a href="#p2-28">S. 28</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 solcher Mann findet Hülfsmittel in seinem Genie, ein unbegränzter Ehrgeitz verhindert die Muthlosigkeit. Konnte er auch weder über den Bernhard noch St. Gothardt wieder zurück, wozu der Reitz von selbst vergangen war: so mußte durch Tyrol dazu Rath werden.
@@ -4580,12 +4365,10 @@ Would that the powers of the Continent, after the Peace of Lunéville, had let t
 The Imperial generals ought to have known the operations of the Emperor Napoleon from the campaigns in Italy, and ought at last to have oriented themselves in his mind.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-29">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-29">Heft 2, S. 29</a></h2>
+<section class="lit-passage" id="p-2-29" data-page="29" data-part="2">
+<div class="pg" id="p2-29"><a href="#p2-29">S. 29</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Dann wären sie, bis zur Vereinigung mit den Russen, hinter dem Inn geblieben. Die Stellung an der Iller war auf alte aus der Mode gekommene Kriegsgrundsätze gestützt. Darum sahen sie sich in ihren Erwartungen und Hoffnungen so schnell getäuscht. Das allgewaltige Genie ihres Gegners war ihnen in dem Rücken, ehe sie sich es versahen.
@@ -4604,12 +4387,10 @@ Could the bold hurling of the French generals into the rear of General Mack at U
 But the Emperor Napoleon goes still further. While with the one hand, right at the raising of the curtain on this tragedy, he annihilates half the Austrian army, with the other he throws open the barred Tyrolean passes, the sole bulwark upon which the power of the French might yet have been broken. He now hastens swiftly across the Inn and the Danube, unconcerned about the 150,000 men of Prussians, Saxons, and Hessians who threaten his rear.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-30">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-30">Heft 2, S. 30</a></h2>
+<section class="lit-passage" id="p-2-30" data-page="30" data-part="2">
+<div class="pg" id="p2-30"><a href="#p2-30">S. 30</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Der Macht der Russen einen Hauptstoß zu geben, war hier die Hauptsache. Alles übrige Nebensache. Die Schlacht bei Austerlitz bewährte die Schlußfolgen des Kaisers der Franzosen, und vernichtete die Entwürfe einer Coalition, so fürchterlich an Zahl und verderblich in Anschlägen noch nie eine Coalition gegen Frankreich sich bewaffnet hatte. Der Friede von Preßburg endigte in drei Monaten einen Krieg, der seiner Anlage nach viele Jahre dauern konnte. Der Kaiser von Oestreich ist gezwungen es als eine Großmuth anzusehen, daß er nur Tyrol (den Schlüssel zum Herzen seiner Staaten), das ehemalige Venetianische Gebiet und Dalmatien verliert. Der König von Neapel stürzt vom Throne, und die Republik Holland verwandelt sich in ein Königreich.
@@ -4632,12 +4413,10 @@ These upheavals, and the consequences that may yet all spring from them, England
 In this intellectual power, in this natural force, familiar with all that the art of military science in ancient and more recent times has to show, the Emperor Napoleon presents himself to the Germans in his military and diplomatic career. One ought not to have mistaken the greatness,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-31">Heft 2, S. 31</a></h2>
+<section class="lit-passage" id="p-2-31" data-page="31" data-part="2">
+<div class="pg" id="p2-31"><a href="#p2-31">S. 31</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 das Außerordentliche dieses Charakters nicht verkennen sollen. Um diesem Furchtbaren zu widerstehen, mußte Mißtrauen und Furcht die Schritte seiner Gegner leiten, aus welchem sich dann Maaßnehmungen auffinden ließen, an denen seine Allgewalt vielleicht scheiterte.
@@ -4660,12 +4439,10 @@ But the German powers were possessed by envy and ill-will toward him and his arm
 While the Prussian army, during a twelve years' peace, brought elementary tactics to the highest perfection, while in the evolutions
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-32">Heft 2, S. 32</a></h2>
+<section class="lit-passage" id="p-2-32" data-page="32" data-part="2">
+<div class="pg" id="p2-32"><a href="#p2-32">S. 32</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 nicht ein Schritt gethan werden konnte, welcher nicht berechnet war, lernten die Franzosen den praktischen Krieg, in welchem das Handeln, nach Winkeln und Schritten, das Auffinden der Alignements nach Stütz- und Gesichtspunkten ohnehin wegfällt. Während die theoretischen Manövrissen bei den Herbstmanövern, nach altem Schlendrian, mit Attaken en Echelons, und Rückzügen en Echiquiers, den supponirten Feind von Höhen verjagten und aus Wäldern trieben; die Flanken nahmen, und dieselben sich nehmen ließen; mit allen Formalitäten Brückenübergänge und Brückenabzüge machten; (wobey, wenn es zur Sache kömmt, alles ganz anders ist) hatten unterdeß die Kriegspraktikanten gelernt, die feindlichen Armeen aus einander zu reißen, Glieder von dem ganzen Körper zu trennen, Corps einzuschließen, und sie zu entwaffnen. Wenn bei einem Soldaten, wo die Parade geliebt wird, es das größte aller Verbrechen ist, wenn der Soldat beim Parademarsch einen Strich den Kopf von der eigentlichen Stellung zu weit rechts oder links hat, und das Gewehr nicht so trägt, daß es mit dem ganzen Gliede eine schnurgleiche gerade Linie macht, so wird bei den Franzosen gar nicht darauf geachtet; ihr ganzes Bestreben ist beim Exerciren darauf gerichtet, gut und richtig zu schießen, und sich mit den Terrain-Vortheilen bekannt zu machen. Wenn auf Märschen bei Parade Soldaten alles auf Tackt und Kunst berechnet ist, der Chef oder Commandeur eines dergleichen Regiments, in seinem Hochgefühle, alle Helden der alten
@@ -4676,12 +4453,10 @@ nicht ein Schritt gethan werden konnte, welcher nicht berechnet war, lernten die
 not a step could be taken that was not calculated, the French were learning practical war, in which acting by angles and paces, the finding of alignments by points of support and points of sight, falls away altogether. While the theoretical manoeuvrers at the autumn manoeuvres, after the old humdrum routine, with attacks in echelon and retreats in checkerboard, drove the supposed enemy from heights and out of woods; took the flanks, and let those same be taken; made bridge-crossings and bridge-withdrawals with all formalities (in which, when it comes to the real thing, everything is quite otherwise) — the war-practitioners had meanwhile learned to tear the enemy armies apart, to sever limbs from the whole body, to encircle corps and to disarm them. If with a soldier, where the parade is loved, it is the greatest of all crimes when the soldier on the parade march holds his head a hair's-breadth too far to the right or left of the proper position, and does not carry his musket so that it makes a dead-straight line with the whole rank, then among the French no attention whatever is paid to this; their whole endeavour at drill is directed toward shooting well and accurately, and toward making themselves familiar with the advantages of the terrain. If on the marches of a parade-soldier everything is calculated by beat and art, and the chief or commander of such a regiment, in his elation, surpasses all the heroes of ancient
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-33">Heft 2, S. 33</a></h2>
+<section class="lit-passage" id="p-2-33" data-page="33" data-part="2">
+<div class="pg" id="p2-33"><a href="#p2-33">S. 33</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und neuen Geschichte übertrifft, wenn dasselbe nach einem zurückgelegten Marsch, von fünf bis sechs Meilen, so proper wie auf der Kirchenparade in egalem Tritt bei dem Klange der Janitscharenmusik in einem Orte einmarschiren kann, und dadurch die Neugierde der Zuschauer zu bezaubern glaubt: so sieht man die unüberwindlichen Kriegssoldaten, buntschäckig durch einander, mit Verkehrschulterntem Gewehre ohne Klang und Sang, durch Dörfer und Städte ziehen. Um so verwunderungsvoller ist dann das anschauende Publikum, diese Jünglinge stets über bärtige Grenadiere und deutsche Männerkraft den Sieg davon tragen zu sehen.
@@ -4696,12 +4471,10 @@ and modern history, when the same, after a completed march of five or six miles,
 The engineer corps and the artillery of the French had, ever since Vauban, been granted precedence over those of all other armies, because since the War of the Spanish Succession no other European army had understood the art of attacking and defending fortresses better than the French. In another tactical respect, on the other hand, people imagined that they in turn held an advantage over the French; in particular they laboured under the delusion that if a French army should attempt to meet a German army on the plain, it must inevitably suffer a defeat. But the events at Ulm and Austerlitz brought these opinions down a peg, and yet what wounded the sense of honour above all else was that the Emperor Napoleon presumed to declare publicly that he pronounced the French infantry the first in the world.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-34">Heft 2, S. 34</a></h2>
+<section class="lit-passage" id="p-2-34" data-page="34" data-part="2">
+<div class="pg" id="p2-34"><a href="#p2-34">S. 34</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Unerschreckenheit, welche die Französische Infanterie bei Ulm vor den Säbel des Ungarischen Husaren gezeigt; das muthig drauf gehen, ungeachtet des Kartätschen und Musketenfeuers, mit welchem die Russen bei Austerlitz sie behagelten, als sie das Zentre angriffen, und ihr schon vorher gezeigter Muth bei der Vertheidigung, ihre Posten bis auf den letzten Mann zu vertheidigen, hatten dem Kaiser Napoleon, der mit Lobsprüchen nicht spendide seyn soll, dieß Geständniß abgelockt.
@@ -4716,12 +4489,10 @@ The intrepidity which the French infantry displayed at Ulm before the sabre of t
 The Prussian cavalry, trained in the school of Frederick II. and made brisk and supple by General Seidlitz, had a reputation so well proven that even the Emperor of the French seemed to fear it, in that before the battle he warned his troops to be on their guard against the Prussian cavalry. But this too vanished at Jena. A proof that all things in the world are transitory, and that with the cavalryman it depends neither on the bridling nor the handling of the horse, nor on the dexterity and swiftness of the rider, to spread terror, ruin, and death: rather, all this depends more on the common spirit and on the leadership. Had the battle of Jena been directed by a Frederick the Great, and the cavalry led to the charge by a Seidlitz, a Ziethen, and a Dalwig: it would not have lost its reputation; for cavalry and infantry fought like the old Prussians for eight hours with a lion's courage, notwithstanding that it had not escaped even the commonest
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-35">Heft 2, S. 35</a></h2>
+<section class="lit-passage" id="p-2-35" data-page="35" data-part="2">
+<div class="pg" id="p2-35"><a href="#p2-35">S. 35</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Mann nicht entgangen war, daß die größten Konfusionen zu Anfange der Schlacht obwalteten, daß bei den vielen kontradiktorischen Befehlen die Schlacht einen üblen Ausgang nehmen müsse. Nur da, wie die Schlacht verloren war, mangelte das Zutrauen und der Muth, welcher den Soldaten im Unglücke gewöhnlich nur dann hebt, wenn er die Meinung hat, daß seine Generale alles wieder gut machen können. Die Französische Kavallerie, welche, von der Schlacht bei Jena an, die Tage bei Prenzlau, Pasewalk, Anklam und Lübeck entschied, und folglich die Hauptsache zur Vernichtung der Preußischen Armee beitrug, hat sich seit dieser Zeit nun auch das Recht in dem Urtheile ihres Kaisers errungen, gleich der Infanterie für die erste Kavallerie der Welt gehalten zu werden.
@@ -4736,15 +4507,13 @@ man that the greatest confusions prevailed at the beginning of the battle, and t
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-36">Heft 2, S. 36</a></h2>
+<section class="lit-passage" id="p-2-36" data-page="36" data-part="2">
+<div class="pg" id="p2-36"><a href="#p2-36">S. 36</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Blicke eines Preußischen Patrioten in Vergangenheit, Gegenwart und Zukunft.
+### Blicke eines Preußischen Patrioten in Vergangenheit, Gegenwart und Zukunft.
 
 > Bekenne das Recht frey, wenn man den Leuten helfen soll!  
 > Jes. Sirach Cap. 4. v. 27 und 28.
@@ -4756,7 +4525,7 @@ Gott sey Lob! — so rufe ich — Gott Lob! daß wir so weit vorgerückt sind in
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Reflections of a Prussian Patriot on the Past, the Present, and the Future.
+### Reflections of a Prussian Patriot on the Past, the Present, and the Future.
 
 > Confess the right freely, when people are to be helped!  
 > Jesus Sirach, Ch. 4, vv. 27 and 28.
@@ -4766,12 +4535,10 @@ Although I do not belong to the now-numerous fools who, puffing themselves up mi
 God be praised! — so I cry — God be praised, that we have advanced so far in time that those fearfully black clouds which rained upon us have passed over our heads, and now hang only in grey distance upon the horizon, a point of remembrance of what was accomplished and endured! God be praised, that in appearance we have weathered the worst! Hemmed in by the ill-fated darkness
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-37">Heft 2, S. 37</a></h2>
+<section class="lit-passage" id="p-2-37" data-page="37" data-part="2">
+<div class="pg" id="p2-37"><a href="#p2-37">S. 37</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der Begebenheiten stehen wir da, alles Elend, das beugend auf die Menschheit fällt, drückt uns nieder; der Donner des Schicksals ließ verderbende Spuren zurück. Wer wünscht nicht zu wissen, wie das zertrümmernde Ungewitter entstand? Wird der Schweizer, dessen Hütte vor kurzem der herabgestürzte Berg begrub, nicht erforschen wollen, wie die fallende Masse sich losreißen mochte von der übrigen Erhöhung? So ich, so jeder brave Preuße. Jeder erseufzt tief im Gram über das Unheil der letzten Zeit und frägt, wie war es möglich? Wie konnte das Hohe so schnell zu dieser dunkeln, öden Tiefe herabsinken? Gewinnvoll ist der Rückblick und belehrend, gewinnvoller noch wäre er, wenn ihn so wie ich unsre Großen wagten; sicher führte er zu glücklichen Resultaten für die Folgezeit; aber auch trostvoll ist dies Zurücksehen wie die Erinnerungen des Mannes an die freudenvolle Knabenzeit, an die heitern kraftvollen Jugendtage. Wie stieg unser Vaterland zur Bedeutenheit empor, und wie sank es wieder davon herab? Interessante, höchst interessante Frage. Wer hört sie nicht gern beantworten? Wohlan, zur Sache:
@@ -4786,17 +4553,15 @@ of events we stand, all the misery that falls crushingly upon mankind presses us
 Step back with me, you Prussians who love your homeland, and behold the hut become a house and the house become a palace! Step back with me into the seventeenth century and pause gratefully with me before the person of the Great Elector Frederick William, before the creative genius of the Prussian state. It is he, he who called forth light out of the darkness, and in gratitude for this the patriot today and forever passes by his
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-38">Heft 2, S. 38</a></h2>
+<section class="lit-passage" id="p-2-38" data-page="38" data-part="2">
+<div class="pg" id="p2-38"><a href="#p2-38">S. 38</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Gebilde auf der langen Brücke in Berlin vorüber, versunken in Erinnerungen an:
 
-##### Die Morgenröthe Preußens,
+#### Die Morgenröthe Preußens,
 
 welche er hervorgehen hieß. Ehre und Preiß seinen Manen. Er legte den Grund zur würdevollen Kraft eines vorher kaum beachteten Reiches; er füllte, ein neuer *Deukalion*, die durch die Wuth des dreißigjährigen Krieges verödeten Provinzen wieder mit regsamen Menschen an; er flößte seinem Volke jene Gewalt ein, welche dem vierzehnten Ludwig und den Erben Gustav Adolphs thätig widerstehen mochte; durch seinen Gehalt als Feldherr und Staatsmann schuf er zuerst die getrennten Erdtheile in ein haltbares Ganzes. Die Einsetzung von Kolonisten, die Begünstigungen der Manufakturen und des Handels, die Organisation der Posten, des Accis- und Steuerwesens, der Städtepolicei und der besoldeten stehenden Garnisonen, vollendeten die Wiedergeburt des nur kleinen Gebietes, das er — nicht nur beherrschte, sondern wirklich regierte. Segen über das Andenken des Herrlichen. Die Natur hatte ihm Alles verliehen, um der Welt zu beweisen, daß er ein gebohrner Fürst sey.
 
@@ -4807,19 +4572,17 @@ Weniger für das Heil des Landes im edlern Sinne des Wortes that sein Sohn und N
 
 statue on the Long Bridge in Berlin, sunk in memories of:
 
-##### The Dawn of Prussia,
+#### The Dawn of Prussia,
 
 which he caused to break forth. Honour and praise to his shade. He laid the foundation for the dignified strength of a realm hitherto scarcely regarded; he refilled, a new *Deucalion*, the provinces laid waste by the fury of the Thirty Years' War with active human beings; he instilled in his people that power which was able to resist actively Louis the Fourteenth and the heirs of Gustavus Adolphus; through his stature as commander and statesman he first shaped the scattered territories into a durable whole. The settlement of colonists, the favouring of manufactures and commerce, the organization of the posts, of the excise and tax system, of the municipal police and of the paid standing garrisons, completed the rebirth of the merely small dominion which he — not only ruled, but truly governed. A blessing upon the memory of the glorious man. Nature had granted him everything to prove to the world that he was a born sovereign.
 
 Less for the welfare of the land in the nobler sense of the word did his son and successor Frederick, the first King of Prussia, whom one ought to name the Vain, accomplish. Berlin, as a single city, has to thank him for the laying out
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-39">Heft 2, S. 39</a></h2>
+<section class="lit-passage" id="p-2-39" data-page="39" data-part="2">
+<div class="pg" id="p2-39"><a href="#p2-39">S. 39</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der Friedrichsstadt, den Bau des Schlosses, des Zeughauses, mehrerer Kirchen, der langen Brücke und die Errichtung des Monumentes für Friedrich Wilhelm den großen Churfürsten zu danken; sonst noch hat er die Universität zu Halle und die Akademie der Wissenschaften zu Berlin gestiftet, mehrere berühmte und hellsehende Männer in sein Reich gerufen, die Spiegelfabrike zu Neustadt an der Dosse angelegt, und die Salzsiedereien zu Halle hergestellt, aber welchen Antheil die Glanzsucht an seinen Handlungen hatte, und daß er nicht den tausendsten Theil des Guten gethan, das er vollbringen konnte, darüber ist vorlängst entschieden. Er ahnte wenig oder nichts von der positiven Bestimmung eines *Königs*, dessen Würde er sich aneignete; unwürdige Günstlinge schwelgten unter ihm im Schweiße der Armen unter der Last drückender Abgaben seufzender Unterthanen. Kleinlicher Ehrgeiz hieß ihn mehrere Unvorsichtigkeiten begehen, welche die wahre Königswürde und das Interesse des Reichs gefährdeten, denn: er verpflichtete sich — um sich zum Könige krönen zu können — dem deutschen Kaiser Leopold I. während des ganzen Erbfolgekrieges 10,000 Mann Hülfstruppen, auf eigene Kosten unterhalten, zu leihen. Eine Besatzung in Philippsburg zu unterhalten, in Reichsangelegenheiten immer mit dem Kaiser gemeinschaftliche Sache zu machen, stets seine Stimme zur Kaiserwahl dem Hause Oestreich zu geben und endlich auf alle rückständige sehr nahmhafte Subsidien Verzicht zu leisten. Welche große Opfer für die
@@ -4830,12 +4593,10 @@ der Friedrichsstadt, den Bau des Schlosses, des Zeughauses, mehrerer Kirchen, de
 of the Friedrichstadt, for the building of the palace, of the arsenal, of several churches, of the Long Bridge, and for the erection of the monument to Frederick William the Great Elector; besides this he founded the University of Halle and the Academy of Sciences at Berlin, called several famous and far-seeing men into his realm, established the mirror manufactory at Neustadt an der Dosse, and set up the salt-works at Halle; but what part the craving for splendour played in his actions, and that he did not do the thousandth part of the good he might have accomplished, has long since been decided. He divined little or nothing of the positive vocation of a *King*, whose dignity he appropriated to himself; unworthy favourites reveled beneath him upon the sweat of the poor, while subjects sighed under the burden of oppressive levies. Petty ambition led him to commit several imprudences which endangered the true royal dignity and the interest of the realm; for — in order to be able to crown himself King — he bound himself to lend the German Emperor Leopold I., throughout the entire War of Succession, 10,000 auxiliary troops maintained at his own expense. To maintain a garrison in Philippsburg, in imperial affairs always to make common cause with the Emperor, always to give his vote in the imperial election to the House of Austria, and finally to renounce all arrears of very considerable subsidies. What great sacrifices for the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-40">Heft 2, S. 40</a></h2>
+<section class="lit-passage" id="p-2-40" data-page="40" data-part="2">
+<div class="pg" id="p2-40"><a href="#p2-40">S. 40</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Erlaubniß das Steckenpferd galopiren zu lassen, für die Kronenspielerei!
@@ -4850,12 +4611,10 @@ permission to let the hobby-horse gallop, for the game of playing at crowns!
 But chance enlarged the Prussian territory still further under him, through the purchased County of Tecklenburg and through the inherited Counties of Mörs, Neufchatel, Lingen, and half of Mannsfeld. But the presiding destiny made use of the prince's weakness to apply the outer lever to the realm, so that it might be borne upward, to smooth the first paths for the energy of his heirs. The accession to the royal throne was — as a great writer says — a bait which Frederick I. cast out to all his successors, and by which he seemed to say to them: I have won you a name, make yourselves worthy of it. I have laid the foundation of your greatness, you yourselves must complete the work! And so let his memory too be dear to us Prussians. He was an instrument in the hand of the Director of things. In his successor Frederick William I. there was not the least cultivation, but assuredly that high power which gives a throne dignity and permanence, and full thrift to lend inner firmness and durability once more to an edifice which, through the prodigality of the earlier splendour-loving possessor, had become more brilliant but also more unsound. Scarcely upon the throne, he began with enthusiasm the lofty work of bringing order into the ostentatious chaos. How the paltry luxury at court vanished before the love of order and the thrift
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-41">Heft 2, S. 41</a></h2>
+<section class="lit-passage" id="p-2-41" data-page="41" data-part="2">
+<div class="pg" id="p2-41"><a href="#p2-41">S. 41</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 des Heftigen! wie liefen die 88. überflüssigen Kammerherrn, welche wie die Vögel unter dem Himmel weder säeten noch erndteten, noch in die Scheuren sammelten und doch vom himmlischen Vater durch den König ernährt wurden, theils mit kleinen, theils mit gar keinen Pensionen zu Hause! Alle entbehrliche Gold- und Silbergeräthe im Schlosse wurde sogleich veräußert, und mit den gelöseten Summen die nahmhaften Schulden bezahlt. Der König vermehrte die Nahrung des durch die Hyperliberalität seines Vaters kränkelnden Statskörpers, er stärkte dessen bessere Organe und befestigte das Reich zum möglichen Kampfe mit vielvermögenden Nachbaren. Er sah ein, daß es zu jenen Zwecken keine andre Mittel gab, als: eine furchtbare Heeresmacht und eine gefüllte Schatzkammer. Wie viele Verbesserungen, wie viel trefliche Anlagen verdankt Preußen seiner Vatersorge. Mit welchen großen Opfern erkaufte er die Bevölkerung und den Wohlstand des Reichs. Er rief regsame Arbeiter, fleißige Feldbauer ins Land und unterstützte sie wirklich königlich: Das zweckmäßigste Mittel für einen König, reich zu werden, ist, daß er seine Unterthanen zuvor in Wohlstand versetze! — Das war sein Wahlspruch. Darum brachte er jene Opfer von Millionen und strafte mit rauher Heftigkeit, wenn Schurken ihm Hindernisse in den schönen Weg warfen.
@@ -4870,12 +4629,10 @@ of the vehement one! how the 88 superfluous chamberlains, who like the birds of 
 When he presented the *Nassau*, *Salzburg*, and *Bohemian* colonists with considerable sums to defray the costs of travel and of first establishment,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-42">Heft 2, S. 42</a></h2>
+<section class="lit-passage" id="p-2-42" data-page="42" data-part="2">
+<div class="pg" id="p2-42"><a href="#p2-42">S. 42</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 glaubten einige preußische Räthe, Geyerartige Vielfraße, von dieser Gelegenheit profitiren und von den Unterstützungsgeldern einen Theil schmausen zu können, aber die Majestät war nicht blind und stumm, schickte die Langfinger auf die Vestung und sprach sogar von Aufhängen; ein Herr von *Schlubhuth*, der, im Vertrauen auf das Sprüchwort von großen Dieben, seinen ererbten Adel durch diese Drohung beleidigt glaubte, besaß die Keckheit zu widersprechen, doch der heftige Monarch nahm keine Notiz von der Eselshaut des Herrn von, und ließ ihn Andern zur Warnung auf öffentlicher Straße, dem Generaldirektorio gegenüber, aufknüpfen. (Ein Glück, daß in unsern Tagen so etwas gegen das Decorum ist, wie sollte man wohl auf den Straßen zwischen den Galgen für feile Kommendanten, für Ausreißer und wohlgenährte Kassendiebe durchkommen?!)
@@ -4890,12 +4647,10 @@ certain Prussian councillors, vulture-like gluttons, believed they could profit 
 By this vehemence of his he trained a people naturally sluggish to the swift execution of his commands; to active striving after prosperity, to order and thrift he guided them by his own example. Rough he was, like his age, and violent, but he knew those about him and what had effect upon them; his severity, his iron self-activity, his firm will heightened the self-reliance and infallibility of the ruler. He had to see everything himself; read, do, do not raisonner! he cried hotly whenever another wished to know something better than he did, but as a rule this cry was also in its right place,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-43">Heft 2, S. 43</a></h2>
+<section class="lit-passage" id="p-2-43" data-page="43" data-part="2">
+<div class="pg" id="p2-43"><a href="#p2-43">S. 43</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 denn er wußte und wollte nur das Gute. Oft fand er es sogar nöthig den Stock und die Faust zu gebrauchen, doch würkte das Manöver auch, es erhielt dem Reinen seine Reinheit, Lichtscheue Tagediebe verkrochen sich vor dem Donner seines Zorns. Selbst Alter und Krankheit milderten die Hitze des Fürsten nicht. Noch an seinem Sterbetage, als er durch das Fenster bemerkte, daß die Stallknechte einigen Pferden die unrechten Sättel aufgelegt hatten, rief er den ihn Umgebenden zu: Ach, wenn ich doch gesund wäre um die Schurken auszuprügeln zu können. Gehe doch, mir zum Gefallen, Einer hinunter und haue sie derb zusammen!
@@ -4914,12 +4669,10 @@ Would that he might rise again today out of his tomb, and lay about him! To be s
 His memory is praised by a thousand monuments; the Berlin Cadet Corps, the Potsdam Orphanage, the Charité, and many another benevolent institution stand there as his works, to awaken the gratitude of posterity. He put the fortresses of Wesel, Magdeburg, Stettin, and the fort of Memel into respectable condition, bought landed estates for 7 millions, brought the army from
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-44">Heft 2, S. 44</a></h2>
+<section class="lit-passage" id="p-2-44" data-page="44" data-part="2">
+<div class="pg" id="p2-44"><a href="#p2-44">S. 44</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 40,000 bis auf 76,000 gut mondirte und wohlgeübte Krieger, gründete durch strenge Edikte die verdiente Achtung für das brave Militär, aber dagegen auch die strengste Mannszucht desselben und häufte für seine Nachfolger, außer andern werthvollen Dingen, einen baaren Tresor von 8,700,000 Thalern.
@@ -4928,7 +4681,7 @@ Friede mit seiner Asche! Was sein Vater begann, setzte er rüstig fort, um das s
 
 Als er, der Einzige, mit würdiger Hand die Zügel der Regierung erfaßt hatte, da stand:
 
-##### Preußen auf seiner Mittagshöhe.
+#### Preußen auf seiner Mittagshöhe.
 
 Ha! welch ein freundlicher, schaffender Geist waltete damals über unser Vaterland! Der Mann auf dem Throne erschien als das Prinzip aller regen Kraft und bewegenden Weisheit: Er war Held und Staatsmann, Gesetzgeber und erster Bürger zugleich. Einsicht mit Thätigkeit, Raschheit mit Besonnenheit, Gründlichkeit mit Beharrlichkeit und Pünktlichkeit mit Genialität verschwistert. Seine Individualität war die eines Selbstherrschers wie ihn das gebildete Volk von der Vorsehung erflehet. Sehet da, das Gemählde Friedrichs des Einzigen.
 
@@ -4943,19 +4696,17 @@ Peace to his ashes! What his father began, he vigorously carried on, in order to
 
 When he, the peerless Frederick, had grasped the reins of government with a worthy hand, there stood:
 
-##### Prussia at Its Zenith.
+#### Prussia at Its Zenith.
 
 Ah! what a kindly, creative spirit then presided over our fatherland! The man upon the throne appeared as the principle of all vigorous energy and moving wisdom: he was hero and statesman, lawgiver and first citizen all at once. Insight wedded to activity, swiftness to circumspection, thoroughness to persistence, and punctuality to genius. His individuality was that of an autocrat such as a cultivated people beseeches of Providence. Behold, the portrait of Frederick the peerless.
 
 A sound policy, such as none of his forefathers had ever developed, he demonstrated in the acquisition of Silesia, in the fortunate conclusion of the Seven Years' struggle, and in the first partition of Poland.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-45">Heft 2, S. 45</a></h2>
+<section class="lit-passage" id="p-2-45" data-page="45" data-part="2">
+<div class="pg" id="p2-45"><a href="#p2-45">S. 45</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Eine gesunde Politik sage ich, und bitte den Leser nicht zu vergessen, daß Politik und Moral auf zwei entgegengesetzten Endpunkten liegen, und der musterhafteste Moralist immer und ewig der elendeste Politiker ist. Es besteht für Machthaber in gewissen Fällen nur eine Alternative: verlieren oder gewinnen! Da ist denn die Wahl leicht und das würkendste Mittel das beste. Wer erliegt gern bei hoher Moralität, wenn das entgegengesetzte Prinzip einen ehrenvollen Standpunkt verleiht? Des Monarchen Personalität ist zwiefach, er ist Fürst und Mensch, aber immer erst Fürst. Hier beenge ihm nichts das Gewissen, dort sei er das Muster seiner Unterthanen!
@@ -4970,12 +4721,10 @@ A sound policy, I say, and I beg the reader not to forget that policy and morali
 Frederick won a flourishing province, Silesia, and doubled his army. But he did more, infinitely more. He poured a lofty spirit over the dead military machine, he formed soldiers into warriors and heroes; he made Prussia formidable; he was the creator of his people's prosperity, its judicious lawgiver. He — but why repeat what thousands before me, fired by his great deeds, have told well, and other thousands, from greed of gain, have written badly: what new thing could I add? In any case, necessity will yet lead me back to him in what follows. What the peerless one was to our fatherland, the Prussian feels, and the foreigner feels. He inspired his contemporaries and later generations to
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-46">Heft 2, S. 46</a></h2>
+<section class="lit-passage" id="p-2-46" data-page="46" data-part="2">
+<div class="pg" id="p2-46"><a href="#p2-46">S. 46</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 seinem Lobe, zur ewigen Bewunderung; selbst die Mitglieder der geringsten Stände schauderten, als sie das Ableben des Großen erfuhren. An seinem Sterbetage sah man in der Residenz überall bethränte Augen, die Spannung war allgemein, man trauerte um ihn wie gute Kinder um den geliebten Vater; in der lebhaftesten Unruhe durchirrten Tausende die Straßen und man zweifelte lange an der Wahrheit der erhaltenen Trauerpost — Bruder — fragte an diesem Tage ein gemeiner Soldat auf der Straße den ihm begegnenden Kameraden: Was passirt denn? Die Menschen laufen ja als ob Feuer wäre. Ach — erwiederte Jener weinend — es ist eben ein großes Feuer ausgegangen! So machte das Gefühl eines so großen Verlustes den ungebildeten Kriegsknecht zum Dichter.
@@ -4994,12 +4743,10 @@ We have lost him, and with him lost all! Of this and no other conviction was the
 *Hinc illae lacrymae!* (hence these tears!) It is precisely this that leads to ruin. God forgive the men who must let themselves be governed, when they wish rather to possess a malignant ruler, if only he acts vigorously and consistently, than a wavering crown-bearer, in the grip of every petty passion — rather a complete devil
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-47">Heft 2, S. 47</a></h2>
+<section class="lit-passage" id="p-2-47" data-page="47" data-part="2">
+<div class="pg" id="p2-47"><a href="#p2-47">S. 47</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 als einen halben Engel. Gott verzeihe ihnen den Wunsch, sage ich: der Verstand hat ihn von jeher verziehen. Welch ein Kontrast zwischen Friedrich Wilhelm II. und Friedrich II.
@@ -5018,12 +4765,10 @@ Indeed, both names have become the most significant in the history of Prussia, a
 He inherited provinces and conquered Great Poland, but the former did not round out the realm, and the acquisition of Poland laid a devouring cancer upon the very marrow of the state. Under him the army grew larger, but only, to all appearance, stretched thinner; it grew longer and — thinner. Yes, truly, by his acts and by his example he drove out, as a hostile thing, the spirit that reigned within it, and nothing remained to it but the pretension, that pride which under Frederick had stood in its place. In those days the soldier deserved the respect of the citizen, for he protected him and his property, he suffered and died, in case of need, for him; but henceforth he only tormented him, whether actively or passively, and what before was noble pride now became petty
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-48">Heft 2, S. 48</a></h2>
+<section class="lit-passage" id="p-2-48" data-page="48" data-part="2">
+<div class="pg" id="p2-48"><a href="#p2-48">S. 48</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Hoffarth, die dem Civil wehe that. Friedrich Wilhelm II. öffnete der Weichlichkeit Thor und Thüre und verdarb so das Militair; er lebte unsittlich und es ist der Fluch der Großen, daß ihr tugendloses Beispiel mächtig auf die Menge zur Nacheiferung würkt; er machte sich verächtlich, als er unwürdigen Menschen erlaubte, freien Geistern Fesseln anzulegen, als er sich Nothlos und unverständig in die Angelegenheiten Frankreichs mischte und dann einen schimpflichen und verderblichen Frieden schloß, als er sich mit Mistikern und Geistersehern umgab; er schwächte die Staatskräfte, indem er den unwissenden und liederlichen Creaturen seiner unwürdigen Favoriten bedeutende Aemter ertheilte und diesem und jenem Tagediebe einträgliche Güter schenkte, indem er seine Mätressen, habsüchtige Weiber, in den Finanzen wühlen und sie zerrütten ließ, indem er durch immernehmende Ministerhände die Regierungsangelegenheiten besorgen ließ, indem er den ersten Staatsbeamten gestattete, Wucherer und Kornjuden zu werden.
@@ -5042,12 +4787,10 @@ All this is not newly said, I know it well, but now it is more necessary than ev
 He died, and his son Frederick William III. came to the throne: had he been the direct successor of Frederick II., it is very probable that matters would now stand somewhat better: I say *somewhat*, for he could not make impossibilities
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-49">Heft 2, S. 49</a></h2>
+<section class="lit-passage" id="p-2-49" data-page="49" data-part="2">
+<div class="pg" id="p2-49"><a href="#p2-49">S. 49</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 möglich machen, er konnte die großen Mängel der militairischen Lage des preußischen Reichs nicht zauberartig hinwegschaffen, er konnte seine Individualität, durch Erziehung und Organisation begründet, nicht aufgeben.
@@ -5062,12 +4805,10 @@ possible; he could not conjure away the great defects in the military situation 
 Strict integrity, modesty, good nature, and thrift are the principal traits of his character: thus he would be the most amiable of private men, for all the civic virtues adorn him; to be an excellent ruler he lacks only the clear vision of his great-uncle — with that, he would be great! He bears but a small part of the guilt for the present general misfortune; let one beware of loading it wholly upon him. He found the finances in disorder, an army decayed in spirit, a population of ten million souls, and among them 250,000 warriors to be paid. Where, in that, is the ratio of income to expenditure, of army to populace? He took over a kingdom composed of many provinces, some of them small, scattered here and there, unprotected. He found ministers who said to him: If the state is to subsist, if the treasury is to grow, a great quantity of grain must be exported! He believed this, for he knows how poor in money Prussia is; he supposed the people to be prosperous enough to pay somewhat dearly for their bread; he believed it, for being himself upright in the highest degree, he trusted in the love of honour and the honesty of the state officials.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-50">Heft 2, S. 50</a></h2>
+<section class="lit-passage" id="p-2-50" data-page="50" data-part="2">
+<div class="pg" id="p2-50"><a href="#p2-50">S. 50</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Hätte er gewußt, daß einer und der andere dieser Güter- und Kornmäkler so redete, um seine weiten Taschen zu füllen, während der ärmere Bürger gezwungen war, einen moralischen Schmachtriemen um den Leib zu legen, das heißt: mitunter aus Geldmangel ein wenig zu hungern: bei Gott! er hätte andere Maßregeln genommen. Wie Friedrich II. hätte er zuvor seine Vorrathshäuser gefüllt und dann erst die Ausfuhr des Ueberflusses gestattet. Wie Friedrich Wilhelm I. hätte er die Betrüger mit seinem Zorn bedreht.
@@ -5082,12 +4823,10 @@ Had he known that one and another of these dealers in estates and grain spoke th
 He wished to economize, and therefore he permitted the export of grain; he wished to curb the encroaching luxury, and therefore he supported many manufactories in the land too little or not at all: had he known the misery of the workers, he would have acted otherwise. He still believed in the heroic mettle of the army, which he heard everyone extol; but this had for the most part perished in the frivolous spirit of the age. He still held the officer corps to be the prop of the edifice of state, the guard of the throne and the realm; but only the quantity remained, the quality was gone, the form had endured, the spirit had evaporated; the nobility, as a rule no longer noble, knew only rights and not duties, and the warrior had lagged behind in warlike accomplishment. Under such gloomy prospects he ascended the throne of his forefather. Well knowing that peace is a bringer of good fortune in every state; well acquainted with the circumstance that Prussia had, with
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-51">Heft 2, S. 51</a></h2>
+<section class="lit-passage" id="p-2-51" data-page="51" data-part="2">
+<div class="pg" id="p2-51"><a href="#p2-51">S. 51</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Frankreich nur ein Interesse habe, lehnte er alle Bündnisse gegen dasselbe ab und biß nicht an Britaniens Subsidien-Angel. Er blieb stille bei den Reibungen der Völker, denn er wollte dem Norden Deutschlands jene Ruhe erhalten, welche der Süden lange fruchtlos ersehnte, und er willigte in jedes Mittel das zum Zwecke führte. Frankreich occupirte Hannover, das preußische Kabinet rieth ihm noch zum Frieden, und er blieb ruhig: das war nicht gut, denn das Opfer, dem Frieden dargebracht, war zu groß: Er setzte seine Würde auf das Spiel, sein Ansehn bei den Fürsten, er verlohr das Zutrauen der Machthaber in Europa, er schien, was er nicht war, Frankreichs Alliirter.
@@ -5102,12 +4841,10 @@ France, but one interest, he declined all alliances against her and did not bite
 The war between France on the one side and Austria together with Russia on the other flared up anew; despite the pressing of both parties, the King chose neutrality: that was well! But a Franco-Bavarian army passed, despite the proclaimed neutrality, through Ansbach; our warriors marched down into Franconia, and the public believed that the monarch, in those then favourable circumstances, would demand satisfaction for the affront he had suffered; but all remained still, and our army returned to its garrisons: that could not be called well. When one sacrifices one's dignity to the love of peace, then by such a peace more is lost than won! Count Haugwitz went to Vienna; we gave up various provinces on the Rhine and in Franconia, and received in return — the Electorate of
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-52">Heft 2, S. 52</a></h2>
+<section class="lit-passage" id="p-2-52" data-page="52" data-part="2">
+<div class="pg" id="p2-52"><a href="#p2-52">S. 52</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Hannover: das fand man inconsequent vom preußischen Kabinette.
@@ -5130,12 +4867,10 @@ England and France, and France and Russia, begin peace negotiations; our cabinet
 When our army marched, almost everyone became a prophet of doom; nor was it, under the circumstances, at all difficult to guess the outcome. One could
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-53">Heft 2, S. 53</a></h2>
+<section class="lit-passage" id="p-2-53" data-page="53" data-part="2">
+<div class="pg" id="p2-53"><a href="#p2-53">S. 53</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 eben so gut unsere Niederlage auguriren, als die Propheten des alten Testamentes den Untergang des jüdischen Reichs.
@@ -5158,12 +4893,10 @@ To what results did the parallels lead?
 Some of our blockheads, in ignorance and faint-heartedness, made great blunders in positions and movements, while over there everything was done according to the strictest laws of unity and insight.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-54">Heft 2, S. 54</a></h2>
+<section class="lit-passage" id="p-2-54" data-page="54" data-part="2">
+<div class="pg" id="p2-54"><a href="#p2-54">S. 54</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Bei Saalfeld focht die Uebereilung mit kalter Ueberlegung, bei Halle floh Muthlosigkeit und Einfalt vor der personifizirten Kriegskunst; hier und dort handelte und regte sich Etwas, dessen Nahmen man nicht nennen darf, da man nicht weiß, ob es Bestochenheit, Ueberdruß oder Unwissenheit war. Im Zentro war Anfangs ein übler Befehlshaber, als er verwundet war, gar keiner, und also eine Armee ohne Feldherrn!
@@ -5186,12 +4919,10 @@ The Prussians were beaten, and the enemy pressed across the undefended, still-br
 The fortresses of the land fell without resistance, for the venal or faint-hearted commanders — here the pen falters, and is capable only of setting down a thousand curses upon those wretches: misery and contempt be the traitors' lot, so long as they drag their disgraceful existence about with them; may their funeral dirge be the croaking of ravens, shame their grave; never may the sacred soil of the Fatherland, in which brave Prussians slumber, cover their weathered skulls, and may late grandchildren spit when they name the infamous appellations of the modern Cartouche!
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-55">Heft 2, S. 55</a></h2>
+<section class="lit-passage" id="p-2-55" data-page="55" data-part="2">
+<div class="pg" id="p2-55"><a href="#p2-55">S. 55</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Da stehen wir nun, ärmer fast als Bettler, denn sie hoffen noch, wir beinahe nicht mehr. Zwar ist unser Loos bis jetzt grade nicht unerträglich, denn unter allen Feinden sind die Männer aus Frankreich wohl die unschädlichsten für den ruhigen Bürger: aber warum müssen sie unsre Feinde seyn? warum rief unsrer Väter Thorheit und die Befangenheit unsres Kabinets die Sieger in den Norden? Warum muß das ganze Volk die Sünden einiger Wenigen büßen, warum gestraft werden, wo es nichts verbrach, geben, wo es nichts schuldig geworden? Und wer steht uns bei der Fortdauer des Kampfs dafür, daß wir nicht total untergehen?
@@ -5206,17 +4937,15 @@ There we now stand, almost poorer than beggars, for they still hope, we scarcely
 A happy little folk lives in our midst: the orthodox (so-called) *patriots*! These good people suck from every rumour of the defeats of the French — perhaps invented in idleness — nourishment for their expectation, as bees draw honey from every flower. But even if those tales contained strict truth: can Russia's victories give us back the lost remnant of prosperity in which we vegetated? Can that power trample the high might of the Franks into the dust? And could it really do so: should we gain thereby? If we are to be ruled by foreigners, then — surely every impartial man agrees with me on this — then let the cultivated, harmless inhabitants of France be our rulers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-56">Heft 2, S. 56</a></h2>
+<section class="lit-passage" id="p-2-56" data-page="56" data-part="2">
+<div class="pg" id="p2-56"><a href="#p2-56">S. 56</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 So steht es jetzt mit uns; wohin wir sehen, da fletscht furchtbar die Gegenwart uns an; mag es noch so gut sich enden: was wir waren, werden wir im gegenwärtigen Jahrhunderte nicht mehr: geachtet von den Nachbaren und wohlhabend im Innern.
 
-##### Preußens Abend
+#### Preußens Abend
 
 ist hereingebrochen, daß er nicht vollends und schnell zur Mitternacht werde, dafür bewahre uns das Schicksaal, dafür behüte uns Napoleons des Großen Intelligenz und der gerade Sinn Friedrich Wilhelms III. — wenn wir, wie wir mit Zuversicht hoffen, das Vergnügen haben, ihn wieder als unsern Regenten bei uns zu sehen. —
 
@@ -5229,7 +4958,7 @@ Im letzten Falle geht es in Schwerfälligkeit, Inconsequenz, Unordnung und Finst
 
 So it now stands with us; wherever we look, the present bares its teeth fearfully at us; end it never so well: what we were, we shall be no more in the present century — respected by our neighbours and prosperous within.
 
-##### Prussia's Evening
+#### Prussia's Evening
 
 has fallen; that it may not turn wholly and swiftly to midnight, may destiny preserve us; may Napoleon the Great's intelligence and the upright sense of Frederick William III. protect us from that — if, as we confidently hope, we shall have the pleasure of seeing him once again among us as our sovereign. —
 
@@ -5238,12 +4967,10 @@ Only two cases are possible: total cessation, or gradual renewed flourishing. A 
 In the latter case, matters proceed in ponderousness, inconsistency, disorder, and darkness, and the good old clockwork, without repair, soon runs down in irregular convulsions. The Cabinet acts once more so inconsistently that it becomes possible to be at war at once with both England and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-57">Heft 2, S. 57</a></h2>
+<section class="lit-passage" id="p-2-57" data-page="57" data-part="2">
+<div class="pg" id="p2-57"><a href="#p2-57">S. 57</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Frankreich im Kriegszustande zu seyn, wie im vergangenen Sommer.
@@ -5258,12 +4985,10 @@ France, as in the past summer.
 The military returns to its garrisons. A few young gentlemen in shining uniforms, enervated by dissipations of every kind, invalid in spirit, who perhaps ran away at Jena, attempt once again, as of old, to abuse the burgher through petty arrogance; complaints are made, the matter is presented to the King from a false side useful only to the officer, and the aggrieved burgher is now punished into the bargain for having dared to offend the Herr Von. Now, when one has come to know several of these gentlemen, now the thing rouses indignation, the tension between the two estates grows ever greater, the oppressed gnash their teeth, the favoured sneer, until at length the private quarrel gains publicity; the prejudice that so few did their duty at Auerstädt and Jena keeps blowing upon the smouldering sparks: one gust of wind, and the flame of revolt will blaze up in consuming fires. The common soldier is treated merely as a machine for the direst emergency, and beaten like a donkey at the slightest occasion: thus the already meagre remnant of the sense of honour of the Marker and the Pomeranian is lost, together with the attachment to the King and the fatherland, and the affection for his estate, which on the whole is not durable; he learns only, under constant torment, to march and perform parade
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-58">Heft 2, S. 58</a></h2>
+<section class="lit-passage" id="p-2-58" data-page="58" data-part="2">
+<div class="pg" id="p2-58"><a href="#p2-58">S. 58</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 machen und weiter in der Welt nichts, und kömmt es dann zum Nothfall, so läuft er in der Angst seines Herzens davon; die nämlichen Franzosen, welche bei Rosbach zum Gegenstand des Gespöttes wurden, beherrschen unter Bonaparte Europa.
@@ -5282,12 +5007,10 @@ Everything incompetent, provided only it be of the nobility, remains at its deri
 The wealthy landed proprietors, with the helm of state in their hands, retain for themselves and their colleagues, the country nobility and the Jews, their monopoly of carrying off the marrow of the land, our grain, in enormous quantities, so that the other estates are impoverished. Oh, those gentlemen understand the art of letting the poorer class of the people starve quite methodically, until despair leads to revolt and internal war, and one and all of us perish, in Heaven's name, as prey to the bloodsuckers who crawl about the steps of the throne. (We have now learned to distinguish, we have seen at what moderate prices bread-corn could now, in wartime, be sold, and at what enormous prices it was given to us before.) Alas, in these cases it must so happen, so, and not otherwise. Here is no poetic exaltation, no exaggeration, only naked, bare
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-59">Heft 2, S. 59</a></h2>
+<section class="lit-passage" id="p-2-59" data-page="59" data-part="2">
+<div class="pg" id="p2-59"><a href="#p2-59">S. 59</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wahrheit; die Erfahrung aus vergangenen Tagen und die reine Ansicht der Dinge verbürgt die nicht wohlthuende Supposition.
@@ -5306,12 +5029,10 @@ But there remains to us the better comfort that all the old has passed away and 
 To his other amiable virtues there then joins itself self-activity and confidence in himself; he chooses from his entourage only a few proven wise and honest men as counselling friends. The old dust is gradually swept out; those servants of the state who only let themselves be fed without serving with goodwill may seek other sustenance. The beginning of this has already — so far as we know — been made; let the soldier be made a hero less by the cudgel than by spiritual incentives; let the officer set more store by real honour than by that insipid oath: Upon my honour! which, like a discredited coin, no longer passes anywhere. Let merit be placed in posts of honour and in spheres of activity, no matter whether it be protected by ancestors or not; let him cease to be a nobleman who is not noble. Let the nobleman who disgraces his name through the maltreatment of a burgher or through other outrages lose that name
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-60">Heft 2, S. 60</a></h2>
+<section class="lit-passage" id="p-2-60" data-page="60" data-part="2">
+<div class="pg" id="p2-60"><a href="#p2-60">S. 60</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und trage mit dem nahmenlosen Sünder eine Strafe. Der König steure dem Kornwucher durch angelegte Magazine, welche sich im Nothfalle dem Volke öffnen, damit die Juden mit und ohne Bart erkennen, die Zeit des Schachers sei vorüber: so gönnet er dem armen Unterthan die Freude, sein Brod wohlfeil zu kaufen, satt zu essen und — nach Heinrichs IV. Wahlspruch — auch Sonntags sein Pfund Fleisch in dem Topf zu haben.
@@ -5334,12 +5055,10 @@ What nature gave our fatherland in stepmotherly fashion, let the sovereign's car
 Eternal pity that our earthly gods no longer go about in disguise as of old, in order to see, hear, and judge for themselves on the spot. What experiences might be gained in this way; but they shun the chambers of misery and the huts of the poor in the land, and yet there alone is instruction to be found as to how one might help down below; those who stand up above help themselves — God have mercy! — well enough on their own.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-61">Heft 2, S. 61</a></h2>
+<section class="lit-passage" id="p-2-61" data-page="61" data-part="2">
+<div class="pg" id="p2-61"><a href="#p2-61">S. 61</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Der König muß — doch genug und mehr als genug, denkt und fühlt der Vater des Volks nicht selbst: was nützen dann Millionen Erinnerungen? Mit einem Worte, Friedrich Wilhelm III. muß säen wie Friedrich II. säen, damit er ärndte.
@@ -5362,25 +5081,23 @@ Naturally the half-shattered State, thus tended, will pass little by little back
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-62">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-62">Heft 2, S. 62</a></h2>
+<section class="lit-passage" id="p-2-62" data-page="62" data-part="2">
+<div class="pg" id="p2-62"><a href="#p2-62">S. 62</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Beweis, wie sehr die Umstände auf Meinungen und Aeußerungen einwirken und — weiter nichts.
+### Beweis, wie sehr die Umstände auf Meinungen und Aeußerungen einwirken und — weiter nichts.
 
 (Eine Zusammenstellung einiger Aufsätze aus dem Journal: Der Telegraph.)
 
-##### Der Telegraph. Nro. 1. Freitags den 17ten Oktober 1806.
+#### Der Telegraph. Nro. 1. Freitags den 17ten Oktober 1806.
 
 > "Das Erwachen des Nordens."  
 >  
 > Lange hat der Norden geruht. Lange hat ein weiser, menschenfreundlicher Monarch den Vorstellungen, Einladungen und Verheissungen Frankreichs, mehr aber noch den Wünschen und den Eingebungen seines eigenen Herzens, die Ruhe und den Frieden der Völker zu erhalten, Gehör gegeben. Aber das Maaß der Vergehungen, der List ist voll. Der Norden ist erwacht! Der erste Schlag von Preußens Braven wird dem Feinde die Wohlthat fühlbar machen,
 
-##### Der Telegraph. Nro. 9. Dienstags den 28ten Oktober 1806.
+#### Der Telegraph. Nro. 9. Dienstags den 28ten Oktober 1806.
 
 (Zweiter Aufsatz.) Kurzer Bericht über die Ereignisse seit der Eröffnung des Feldzugs (der bis zum 17ten Oktober geht und worin es am Schlusse heißt):
 
@@ -5389,29 +5106,27 @@ Naturally the half-shattered State, thus tended, will pass little by little back
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Proof of How Greatly Circumstances Influence Opinions and Utterances — and Nothing More.
+### Proof of How Greatly Circumstances Influence Opinions and Utterances — and Nothing More.
 
 (A compilation of several articles from the journal: *Der Telegraph*.)
 
-##### The Telegraph. No. 1. Friday, 17 October 1806.
+#### The Telegraph. No. 1. Friday, 17 October 1806.
 
 > "The Awakening of the North."  
 >  
 > Long has the North lain at rest. Long has a wise, humane monarch given ear to the representations, the invitations, and the promises of France — but still more to the wishes and the promptings of his own heart — to preserve the tranquillity and peace of the peoples. But the measure of transgressions, of cunning, is full. The North has awakened! The first blow struck by Prussia's brave men will make the enemy feel the benefaction
 
-##### The Telegraph. No. 9. Tuesday 28 October 1806.
+#### The Telegraph. No. 9. Tuesday 28 October 1806.
 
 (Second article.) Brief report on the events since the opening of the campaign (which runs to 17 October, and at the close of which it reads):
 
 > "How well things would stand with the King of Prussia, had he not lent his ear to the seductive words of an imprudent princess" — (the Queen, that is, of whom mention was made earlier) — "and how fortunate is the nation whose women, faithful to the voice of nature and devoted solely to the duties of their sex, are enemies
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-63">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-63">Heft 2, S. 63</a></h2>
+<section class="lit-passage" id="p-2-63" data-page="63" data-part="2">
+<div class="pg" id="p2-63"><a href="#p2-63">S. 63</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > die Friedrich Wilhelms Schonung ihm gewährte. — Völker des Nordens!" — — (Hier folgt etwas, das sich nicht gut schreiben läßt) — — "Völker des Nordens! Worauf rechnet ihr? Soll Eure Ergebung ihn erweichen — oder seine Großmuth Euch retten? — — Auf zu den Waffen! Der Sieg ist Euer!"
@@ -5425,7 +5140,7 @@ Naturally the half-shattered State, thus tended, will pass little by little back
 
 ---
 
-##### Der Telegraph. Nro. 2. Den 18ten Okt. 1806.
+#### Der Telegraph. Nro. 2. Den 18ten Okt. 1806.
 
 > "Bürgerpflicht."
 
@@ -5437,7 +5152,7 @@ des Krieges, und von den Berathschlagungen des Kabinets entfernt sind."
 
 ---
 
-##### Der Telegraph. Nro. 13. Sonnabend den 1sten Nov. 1806.
+#### Der Telegraph. Nro. 13. Sonnabend den 1sten Nov. 1806.
 
 (Dritter Aufsatz.) "Betrachtungen eines echten Preußen." (S. 51. nach mancher Betrachtung.)
 
@@ -5445,7 +5160,7 @@ des Krieges, und von den Berathschlagungen des Kabinets entfernt sind."
 
 ---
 
-##### Der Telegraph. Nro. 34. Sonnabend den 22sten Nov. 1806.
+#### Der Telegraph. Nro. 34. Sonnabend den 22sten Nov. 1806.
 
 "Gespräch im Reich der Todten zwischen Friedrich dem Großen, dem Prinzen Luis Ferdinand von Preußen und dem General Schmettau."
 
@@ -5465,7 +5180,7 @@ des Krieges, und von den Berathschlagungen des Kabinets entfernt sind."
 
 ---
 
-##### The Telegraph. No. 2. 18 Oct. 1806.
+#### The Telegraph. No. 2. 18 Oct. 1806.
 
 > "Civic duty."
 
@@ -5475,7 +5190,7 @@ des Krieges, und von den Berathschlagungen des Kabinets entfernt sind."
 
 of the war, and are removed from the deliberations of the cabinet."
 
-##### The Telegraph. No. 13. Saturday, 1 November 1806.
+#### The Telegraph. No. 13. Saturday, 1 November 1806.
 
 (Third essay.) "Reflections of a True Prussian." (p. 51, after various reflections.)
 
@@ -5483,19 +5198,17 @@ of the war, and are removed from the deliberations of the cabinet."
 
 ---
 
-##### The Telegraph. No. 34. Saturday, 22 November 1806.
+#### The Telegraph. No. 34. Saturday, 22 November 1806.
 
 "A Dialogue in the Realm of the Dead between Frederick the Great, Prince Louis Ferdinand of Prussia, and General Schmettau."
 
 > **The Prince.** — — After their present successor had long remained the quiet spectator of the fruitless efforts of his neighbours around this river
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-64">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-64">Heft 2, S. 64</a></h2>
+<section class="lit-passage" id="p-2-64" data-page="64" data-part="2">
+<div class="pg" id="p2-64"><a href="#p2-64">S. 64</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > zur Ehre, zur Wohlfarth, zur Sicherheit und zur Erhaltung des Ganzen erforderlich, dienlich und heilsam ist. Daran zu zweifeln wäre Sünde gegen den Staat, Sünde gegen sich selbst.  
@@ -5534,15 +5247,13 @@ of the war, and are removed from the deliberations of the cabinet."
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-65">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-65">Heft 2, S. 65</a></h2>
+<section class="lit-passage" id="p-2-65" data-page="65" data-part="2">
+<div class="pg" id="p2-65"><a href="#p2-65">S. 65</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Das schwarze Register oder General-Tableau sämtlicher in Süd-Preußen, während der Minister von Hoym diese Provinz verwaltet hat, in den Jahren 1794 bis 1798. als Gratialgüter verschenkten, ehemaligen pohlnischen Kron- und geistlichen Güter.
+### Das schwarze Register oder General-Tableau sämtlicher in Süd-Preußen, während der Minister von Hoym diese Provinz verwaltet hat, in den Jahren 1794 bis 1798. als Gratialgüter verschenkten, ehemaligen pohlnischen Kron- und geistlichen Güter.
 
 Zahl der Donatarien = 52  
 Zahl der verschenkten Güter = 241
@@ -5550,7 +5261,7 @@ Zahl der verschenkten Güter = 241
 Deren vorgespiegelter Werth bei der Schenkung, 3½ Million Thaler.  
 Deren wahrer Werth, 20 Millionen Thaler.
 
-###### I. Im Departement der Kammer zu Posen.
+##### I. Im Departement der Kammer zu Posen.
 
 **1. Geheime Cabinets-Rath von Beyer.** Jetzt pensionirt und lebt in Berlin.
 
@@ -5573,7 +5284,7 @@ Anmerkungen und Berichtigungen. Die jährlichen Einkünfte dieser eilf Güter be
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### The Black Register, or General Table of all the former Polish Crown and ecclesiastical estates in South Prussia which, during the time Minister von Hoym administered this province, in the years 1794 to 1798, were bestowed as grace-and-favour estates.
+### The Black Register, or General Table of all the former Polish Crown and ecclesiastical estates in South Prussia which, during the time Minister von Hoym administered this province, in the years 1794 to 1798, were bestowed as grace-and-favour estates.
 
 Number of donatories = 52  
 Number of estates bestowed = 241
@@ -5581,7 +5292,7 @@ Number of estates bestowed = 241
 Their pretended value at the time of donation, 3½ million thalers.  
 Their true value, 20 million thalers.
 
-###### I. In the Department of the Chamber of Posen.
+##### I. In the Department of the Chamber of Posen.
 
 **1. Privy Cabinet Councillor von Beyer.** Now pensioned and living in Berlin.
 
@@ -5602,12 +5313,10 @@ Their true value, 20 million thalers.
 Notes and Corrections. The annual revenues of these eleven estates now amount, at the very least, to 8000 thalers. Their true value may therefore indisputably be reckoned at 100000 thalers. The deed of donation is dated Berlin, 14 January 1797, and signed by Hoym and Rech. It reads: As a token of Our most gracious satisfaction with the long years of faithful and upright service rendered to Us and Our Royal House, etc. And nearly all of them read thus.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-2-66">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-66">Heft 2, S. 66</a></h2>
+<section class="lit-passage has-related" id="p-2-66" data-page="66" data-part="2">
+<div class="pg" id="p2-66"><a href="#p2-66">S. 66</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **2. General-Lieutenant von Bischofswerder.** Jetzt pensionirt und lebt auf seinem schönen Gute Marquard, eine Meile von Potsdam, welches der vorige König ihm ebenfalls geschenkt hat.
@@ -5660,7 +5369,6 @@ Note. This so very low valuation is notorious; for Bischofswerder sold these fou
 Note. Since the annual revenues certainly amount to 6000 thalers, one may without hesitation reckon the true value of these five estates at 120000 thalers.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Eintrag wiederholt die Bemerkung, die das Register zu Bischofswerder druckt: die vier Güter an Lüttichau für 25.000 Friedrichsd'or verkauft. Der Brief vom 13. März 1799 läßt Triebenfeld selbst sie verkaufen, für 207.000 rt, nach einem Anschlag von höchstens 1.500 rt jährlich.</p>
@@ -5670,9 +5378,8 @@ Note. Since the annual revenues certainly amount to 6000 thalers, one may withou
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-2-67">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-67">Heft 2, S. 67</a></h2>
+<section class="lit-passage" id="p-2-67" data-page="67" data-part="2">
+<div class="pg" id="p2-67"><a href="#p2-67">S. 67</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **4. Obrister von Böhmcken,** jetzt in Ruppin bei dem Regiment Ferdinand; ehemals Flügel-Adjutant in Potsdam beim Könige.
@@ -5753,12 +5460,10 @@ Note. Sold in June 1801 for 25000 Thlr.
 Note. Now leased to a certain von Jaworowitz for 2000 Thlr. annually. True value 40000 Thlr. After the riot at Breslau, in which 72 persons perished, Eisenberg had to travel to Breslau and investigate the affair. On that occasion Hoym fell on his knees before Eisenberg and begged him, for God's sake, not to ruin him. Hence, later, this donation. Deed of donation dated Berlin, 25 January 1797.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-68">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-68">Heft 2, S. 68</a></h2>
+<section class="lit-passage" id="p-2-68" data-page="68" data-part="2">
+<div class="pg" id="p2-68"><a href="#p2-68">S. 68</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **8. Major von Grawert, in der Suite zu Potsdam.** General-Adjutant der Kavallerie beim Könige.
@@ -5817,12 +5522,10 @@ Note. Leased to a domain lessee (Amtmann) Nehring for 1500 Thlr. annually. True 
 Note. The annual yield of all these estates already now approaches 10000 Thlr.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-2-69">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-69">Heft 2, S. 69</a></h2>
+<section class="lit-passage has-related" id="p-2-69" data-page="69" data-part="2">
+<div class="pg" id="p2-69"><a href="#p2-69">S. 69</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **10. General-Lieutenant Fürst von Hohenlohe-Ingelfingen, in Breslau.** Siehe Nro. 8. im Departement von Kalisch.
@@ -5877,7 +5580,6 @@ Note. These estates, together with those designated under No. 8 in the Departmen
 *1–5: Fraustadt; 59000 Thlr.*
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Eintrag ist der, den die Materialien nachdrucken: die Güter mit etwa 800.000 Talern Wert und 50.000 Ertrag, der Tausch gegen Krotoschin von Beyme verhindert, der verstorbene König nur einer Schenkung von 6.000 im Jahr zugestimmt habend. Beide Enden sind erhalten: die Akte vom Juli und August 1796 mit Hoyms Vorschlag (ein Ertrag von 4 bis 6.000 rt) und der Urkunde vom 9. August, und die Ablehnung des Königs vom 4. Dezember 1798 mit ihrem Ertrag von 40.500 gegen 8.650.</p>
@@ -5885,9 +5587,8 @@ Note. These estates, together with those designated under No. 8 in the Departmen
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-2-70">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-70">Heft 2, S. 70</a></h2>
+<section class="lit-passage" id="p-2-70" data-page="70" data-part="2">
+<div class="pg" id="p2-70"><a href="#p2-70">S. 70</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Anmerk. Wahr ist's, daß der Kayserling 40000 Thlr. Einkaufsgeld gegeben hat, dafür zieht er aber jetzt aus diesen Gütern jährlich 6000 Thlr. Einkünfte.
@@ -5930,12 +5631,10 @@ Note. The true value is about 100000 thalers and the annual yield between 4 and 
 *1–2: Brzesc; 9000 Thlr.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-71">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-71">Heft 2, S. 71</a></h2>
+<section class="lit-passage" id="p-2-71" data-page="71" data-part="2">
+<div class="pg" id="p2-71"><a href="#p2-71">S. 71</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **14. Der Dänische dort emigrirte Graf von Lüttichau.** Siehe Nro. 10. im Departement von Kalisch.
@@ -5982,12 +5681,10 @@ Anmerk. Diese Güter zusammen mit denen Nro. 10. im Departement von Kalisch, sin
 Note. These estates, together with those under No. 10 in the Department of Kalisch, are worth 800,000 thalers. The circumstances surrounding this Lüttichau are very confused and puzzling. One therefore contents oneself here with merely noting that he at times lent his name to donations that were in fact received by others who were not to be named. This was the case, for example, with the estate of Tarnowo, No. 7, situated two miles from Posen, which Government Councillor von Grävenitz in Posen received as a reward for deciding, in the divorce suit of the foolish Count Gurowsky against his wife, a daughter of the Bischofswerder family who had been foisted upon him, so much in favour of this person that 72,000 thalers had to be paid out to her by her husband. Grävenitz gave Lüttichau 3,000 thalers for Tarnowo and afterwards sold it for 65,000 thalers. Likewise Lüttichau had to cede the estate of Konojad, No. 8, to Justice Councillor
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-72">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-72">Heft 2, S. 72</a></h2>
+<section class="lit-passage" id="p-2-72" data-page="72" data-part="2">
+<div class="pg" id="p2-72"><a href="#p2-72">S. 72</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Reinhard in Posen, zufolge einer mit Hoym heimlich geschlossenen Convention abtreten, zur Belohnung dafür, daß der Reinhard, der das Südpreußische Hypothequen-Wesen organisiren half, mithin von den vacant werdenden Gütern und ihrem Werthe sehr wohl unterrichtet war, die zu verschenkenden Güter aussuchte. Die Donations-Urkunde ist vom 25sten Januar 1797. und lautet: Um ihm ein Merkmahl Unsrer Königlichen Huld, Gnade und Wohlwollen zu geben, haben wir resolvirt ic. Die Cabinets-Ordre an den Minister von Hoym, fängt an: Eurem Antrage gemäß ic.
@@ -6034,12 +5731,10 @@ Reinhard in Posen, pursuant to a convention secretly concluded with Hoym, as a r
 Note. This donation, on account of its excellent, well-rounded situation and the flowing-through of the Obra, is one of the most considerable, important, and beautiful. It is now judicially assessed at 500,000 thalers, and is fully worth this. The subtle Italian, with priestly keenness of eye, correctly spied out the best spot and knew how to appropriate it to himself. His former diplomatic exertions in Warsaw are hereby richly rewarded. It was fair that from the partition of Poland, which he brought about, he should get a piece. This starosta domain of Meseritz formerly belonged to Prince Jablonowsky. The deed of donation, dated Berlin, 14 January 1797, reads: In proof of Our most gracious satisfaction with the faithful, distinguished, and beneficial services rendered to Us and Our Royal House etc.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-73">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-73">Heft 2, S. 73</a></h2>
+<section class="lit-passage" id="p-2-73" data-page="73" data-part="2">
+<div class="pg" id="p2-73"><a href="#p2-73">S. 73</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **16. Baron von Schilden.** Ehemals Kammerherr der Prinzessin Ferdinand, jetzt in derselben Würde bei der Königin angestellt. Weitere Verdienste sind von ihm nicht bekannt.
@@ -6086,12 +5781,10 @@ Note. Recently sold for 30,000 thalers.
 Note. Frederick the Great is said to have formerly done him a wrong regarding various claims to a fief in Pomerania, whence this compensation. The reason may, at any rate, be listened to. Among the present examples it is at least one of the best. Schwichow has now sold these three estates to Government Councillor Fromm in Posen for 40,000 thalers. Deed of donation dated Berlin, 25 January 1797.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-74">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-74">Heft 2, S. 74</a></h2>
+<section class="lit-passage" id="p-2-74" data-page="74" data-part="2">
+<div class="pg" id="p2-74"><a href="#p2-74">S. 74</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **18. Der Galanterie-Händler von Treskow in Berlin.** Er ist unter der vorigen Regierung geadelt und ein Schwiegersohn des reichen Branntweinbrenner George in Berlin. Da keine sonderlichen Verdienste um den Staat von dem Treskow bekannt sind, so muß man mit Recht über diese ungeheure Donation erschrecken. Siehe ferner Nro. 10. im Warschauer Departement.
@@ -6138,12 +5831,10 @@ Anmerk. Owinsk hat treffliche Waldungen und die nahe daran gränzende, eine kön
 Note. Owinsk has excellent forests, while the neighbouring former starosta domain of Szrim, which has become a royal domain, has not a single tree, so that the official in Szrim must buy not only his building timber but even his firewood from Treskow, and this purchase has to be credited to him on the domain establishment of Szrim. Near Owinsk and Szrim lies the lordship of Murawanna Goslina. This the daughter of the Bischofswerder family (see the note to No. 14) obtained from her husband in place of the 72,000 thalers in cash that Grävenitz awarded her. Hoym thereupon bought her Murawanna Goslina from this lady for 72,000 thalers, and sold it again to Treskow for 120,000 thalers. What a traffic! Treskow, however, is the most useful of all the donees on account of the tireless, sensible, indeed lavish zeal with which he sets his estates in order and makes his peasants industrious. These estates, together with those recorded under No. 10 in the Warsaw Department, have a value of approximately 350,000 thalers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-75">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-75">Heft 2, S. 75</a></h2>
+<section class="lit-passage" id="p-2-75" data-page="75" data-part="2">
+<div class="pg" id="p2-75"><a href="#p2-75">S. 75</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 In der Schenkungs-Urkunde d. d. Berlin d. 24sten Januar 1797. ist als Grund der Schenkung nichts weiter angegeben, als: Aus Königlicher ihm zutragenden Huld und gnädigsten Wohlwollen ic.
@@ -6176,12 +5867,10 @@ In the deed of donation dated Berlin, 24 January 1797, nothing further is given 
 Note. He formerly belonged to the Prussian party in Warsaw and is an insufferable man, without any understanding, yet withal an exceedingly arrogant babbler. These estates were given to him only to stop his mouth. Their leasehold yield is 4,000 thalers annually.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-76">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-76">Heft 2, S. 76</a></h2>
+<section class="lit-passage" id="p-2-76" data-page="76" data-part="2">
+<div class="pg" id="p2-76"><a href="#p2-76">S. 76</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **20. Ritterschafts-Rath von Unruh,** Besitzer von Heinersdorf bei Züllichow in der Neumark. Ein Schwager des Obristen von Köckeritz.
@@ -6206,12 +5895,10 @@ Anmerk. Diese Güter sind eigentlich dem Obristen von Köckeritz, General-Adjuta
 *Note.* These estates were in fact given to Colonel von Köckeritz, Adjutant-General to the King, and were donated and recorded in the name of this brother-in-law only because he and his brother-in-law, on the basis of a covenant of hereditary succession existing between the two of them, regard and treat their joint property as one. To the honour of Köckeritz it is here noted that Hoym had to offer him this donation four times, and in the end to press it upon him, before he could bring himself to accept it. And even then he accepted it only after he had given notice of the matter to the Crown Prince (the present King). One may observe, moreover, from this manoeuvre of Hoym's how urgently he strove to ingratiate himself in good time with the closest friends of the heir to the throne and to win them over to himself as far as possible. Deed of donation dated Berlin, 25 January 1797. It reads: In order to give Unruh a token of Our Royal favour and grace, We have resolved etc.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-2-77">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-77">Heft 2, S. 77</a></h2>
+<section class="lit-passage has-related" id="p-2-77" data-page="77" data-part="2">
+<div class="pg" id="p2-77"><a href="#p2-77">S. 77</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **21. General-Lieutenant von Wendessen in Warschau.** Siehe Nro. 11. im Warschauer Departement.
@@ -6268,7 +5955,6 @@ Czermno
 ---
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Eintrag über Zastrow (87650 Thlr., noch nicht taxiert, wert zum Mindesten 200.000): die Rechnung des Briefes — sollte etwa 2.000 rt tragen, bringt ohnstreitig etliche zwanzig tausend.</p>
@@ -6276,12 +5962,11 @@ Czermno
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-2-78">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-78">Heft 2, S. 78</a></h2>
+<section class="lit-passage" id="p-2-78" data-page="78" data-part="2">
+<div class="pg" id="p2-78"><a href="#p2-78">S. 78</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### II. Im Departement der Kammer zu Kalisch.
+##### II. Im Departement der Kammer zu Kalisch.
 
 **1/23. Fürst Czettwertinsky.**
 
@@ -6312,7 +5997,7 @@ In der Schenkungs-Urkunde hat der vorige König auf ewige Zeiten einen beträcht
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### II. In the Department of the Chamber of Kalisch.
+##### II. In the Department of the Chamber of Kalisch.
 
 **1/23. Prince Czettwertinsky.**
 
@@ -6341,12 +6026,10 @@ Note. The Cabinet Order of 20 April 1797 begins, like most similar ones to Hoym:
 In the deed of donation the late King established, in perpetuity, a considerable and peculiar remission of the dues on these estates, below even the fixed taxes of the nobility. Improved with this privilege, Goldbeck jun. sold them to a Baron von Seld for 62,000 thalers. Very much to his own loss, however. For according to the judicial assessment, which Seld had drawn up, is
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-79">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-79">Heft 2, S. 79</a></h2>
+<section class="lit-passage" id="p-2-79" data-page="79" data-part="2">
+<div class="pg" id="p2-79"><a href="#p2-79">S. 79</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Russow 64374 Thlr. 8 Gr. — Pf.  
@@ -6399,12 +6082,10 @@ Note. He is the only one who was cheated in this donation business; for he sold 
 Note. It is said that this man, out of patriotism, takes no salary as Minister but serves for nothing. Nevertheless it is quite certain that he did after all take these estates and has already sold them for 200,000 thalers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-2-80">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-80">Heft 2, S. 80</a></h2>
+<section class="lit-passage has-related" id="p-2-80" data-page="80" data-part="2">
+<div class="pg" id="p2-80"><a href="#p2-80">S. 80</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **6/28. Prinzessin von Hessen-Philipps-Thal.**
@@ -6501,7 +6182,6 @@ Note. Not granted hereditarily; but only a confirmation of the grant made in Pol
 *1–6: Kalisch; 7–8: Adelnau; 1–8: 26,000 Thlr.*
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Eintrag gibt des Fürsten Koniner Dörfer — Trobozyn, Nowa-Wies, Oszyni, Lazy, Szellewen — mit 12.000 Talern, den Anteil des Registers an einer amtlichen Taxe, deren Posener Eintrag 77250 Thlr. trägt (zusammen 89.250), wo Hoyms Vorschlag vom 14. Juli 1796 alle Posten des Fürsten auf 120.000 rt gerechnet hatte; und wo das Register eine Taxe druckt, geben die Briefe einen Ertrag: Triebenfeld meldet, die Trąbczyner Güter allein brächten im März 1799 schon 8.400 rt.</p>
@@ -6509,9 +6189,8 @@ Note. Not granted hereditarily; but only a confirmation of the grant made in Pol
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-2-81">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-81">Heft 2, S. 81</a></h2>
+<section class="lit-passage" id="p-2-81" data-page="81" data-part="2">
+<div class="pg" id="p2-81"><a href="#p2-81">S. 81</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Anmerk. Die unverschämte Betrügerey bei nebenstehender Werths-Angabe ist erwiesen; denn das Gut Kucharp Nro. 7. ist allein auf 90000 Thaler gerichtlich tarirt.
@@ -6594,12 +6273,10 @@ Note. Sold for 20,000 thalers. The Cabinet Order is dated 20 April 1797.
 Note. The judicial assessment of the Government in Kalisch amounts to 200,000 thalers. Pontanus could have obtained this price, but nonetheless would not sell.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-2-82">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-82">Heft 2, S. 82</a></h2>
+<section class="lit-passage has-related" id="p-2-82" data-page="82" data-part="2">
+<div class="pg" id="p2-82"><a href="#p2-82">S. 82</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **15/37. General-Lieutenant von Rüchel in Potsdam.**
@@ -6636,7 +6313,6 @@ Anmerk. Rüchel bekam die Herrschaft Osterczeczow oder die 7 ersten Nummern, lau
 Note. Rüchel received the lordship of Osterczeczow, or the first 7 numbers, according to the deed of donation, under the title of a grace-and-favour estate and by an assessment of 20,000 thalers as a gift. Immediately after the donation a whirlwind swept through the great forests of this grace-and-favour estate and actually threw down a few firs. At this Rüchel raised a mighty outcry and pretended that he did not even want to keep this supposedly ruined grace-and-favour estate at all. Hoym thereupon had the windfall assessed at 40,000 thalers and arranged for Rüchel to be given, by way of compensation, Kalischkowice as well, at an assessment of 10,000 thalers. Now it was not long before Rüchel sold all 8 estates, without ever having visited or seen them, to Government Councillor von Reibnitz in Kalisch for 130,000 thalers. After the purchase Reibnitz had them judicially assessed, and it was then found that the lordship of Osterczeczow, or the first 7 estates, is worth 341,000 thalers and the ecclesiastical estate Kalischkowice 39,000 thalers, all together therefore 380,000 thalers. Now Rüchel wanted to sue Reibnitz, claiming that he had been injured by more than half, and to rescind the sale,
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Eintrag gibt Rüchels acht Güter mit 30.000 Talern an und erzählt das Zustandekommen der Schenkung (eine Taxe von 20.000, Kalischkowice für das Windbruchholz mit 10.000 dazugegeben), dann den Verkauf an Reibnitz für 130.000 und die gerichtliche Taxe von 380.000. Der Brief: die Rüchelschen Güter sollten 940 rt jährlich tragen und sind für 140.000 verkauft.</p>
@@ -6644,9 +6320,8 @@ Note. Rüchel received the lordship of Osterczeczow, or the first 7 numbers, acc
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-2-83">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-83">Heft 2, S. 83</a></h2>
+<section class="lit-passage has-related" id="p-2-83" data-page="83" data-part="2">
+<div class="pg" id="p2-83"><a href="#p2-83">S. 83</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 es gelang ihm aber nicht. Reibnitz hat bereits 12000 Thaler Einkünfte aus diesen Gütern, ist jedoch dem Rüchel noch 90000 Thaler à 5 pr. C. schuldig.
@@ -6691,7 +6366,6 @@ Euclid teaches that the part is smaller than the whole, and God Himself cannot a
 Note. In the spring of 1797 these exceedingly excellent estates were assessed by the Government in Kalisch, after deduction of all taxes and dues charged upon them, at a net value of over 700,000 thalers. Among others the following estates, in the following manner:
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Triebenfeld-Eintrag hebt hier an: die ersten vier Nummern bei der Schenkung auf 31.000 Taler taxiert, die Herrschaft Lasky für eine Erbstandsumme von 20.000 genommen, und die Kalischer Taxe des Frühlings 1797 auf über 700.000 Taler. Triebenfelds Brief vom April 1799 gibt dieselbe Taxe aus eigener Hand: die Güter, die er an den Prinzen Georg verkaufte, stehen über 700.000 rt, von ihm selbst auf etwa 500.000 gerechnet.</p>
@@ -6701,9 +6375,8 @@ Note. In the spring of 1797 these exceedingly excellent estates were assessed by
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-2-84">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-84">Heft 2, S. 84</a></h2>
+<section class="lit-passage has-related" id="p-2-84" data-page="84" data-part="2">
+<div class="pg" id="p2-84"><a href="#p2-84">S. 84</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Piotrow und Pawlowka 19044 Thlr. 1 Gr. 8 Pf.  
@@ -6756,7 +6429,6 @@ Kamsko
 Note. True value 50,000 thalers. Stromberg now sells alder-wood year in, year out for several thousand thalers. His brother, formerly a Russian major, then a South Prussian Landrat and now an official in Dolzig, was the one who was to marry Madame Schreiber in Breslau, former mistress of Minister Hoym, once the latter had tired of her. This too would have happened, had Schreiber not suddenly died.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die einzeln aufgeführte Taxe (684.496 Thlr. 17 Gr. 8 Pf. für die fünf genannten, Nowa Wies und Schmardke noch fehlend), der Verkauf an den Prinzen Georg für 400.000 und der Weiterverkauf durch Vertrag vom 9. März 1801 für 750.000. Die Briefe erzählen es, wie ihr Schreiber rechnete: über 700.000 rt an der Taxe gegen seine eigene Grundlage von etwa 500.000 (April 1799); sein Preis an den Prinzen Georg 280.000, die Güter mit 270.000 Schulden beschwert (Juli 1800); und der Prinz Georg verkaufe sie für 750.000 rt (Februar 1801).</p>
@@ -6764,9 +6436,8 @@ Note. True value 50,000 thalers. Stromberg now sells alder-wood year in, year ou
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-2-85">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-85">Heft 2, S. 85</a></h2>
+<section class="lit-passage" id="p-2-85" data-page="85" data-part="2">
+<div class="pg" id="p2-85"><a href="#p2-85">S. 85</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **19/41. Prinz Louis von Würtemberg,** Preußischer General von der Cavallerie. Jetzt in Rußland.
@@ -6831,15 +6502,13 @@ Note. In the Berlin Intelligence Gazettes of June 1801 the first two estates alo
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-86">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-86">Heft 2, S. 86</a></h2>
+<section class="lit-passage" id="p-2-86" data-page="86" data-part="2">
+<div class="pg" id="p2-86"><a href="#p2-86">S. 86</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-###### III. Im Departement der Kammer zu Warschau.
+##### III. Im Departement der Kammer zu Warschau.
 
 **1/42. General-Lieutenant Graf von Brühl.**
 
@@ -6878,7 +6547,7 @@ Anmerk. Die Donations-Urkunde ist d. d. Berlin d. 17ten Juni 1796. Der jährlich
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-###### III. In the Department of the Chamber of Warsaw.
+##### III. In the Department of the Chamber of Warsaw.
 
 **1/42. Lieutenant-General Count von Brühl.**
 
@@ -6915,12 +6584,10 @@ The deed of donation, dated Berlin, 14 January 1797, reads: In proof of Our most
 Note. The deed of donation is dated Berlin, 17 June 1796. The annual lease amounts to 6000 thalers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-2-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-87">Heft 2, S. 87</a></h2>
+<section class="lit-passage has-related" id="p-2-87" data-page="87" data-part="2">
+<div class="pg" id="p2-87"><a href="#p2-87">S. 87</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Bloß Komorow bringt jährlich 1500 Thaler ein. Dies Dorf hat er seiner jetzigen, vorher schon von zwei Männern und zuletzt von dem Kriegsrathe Buchholz in Posen geschiedenen Frau, als sie noch seine Geliebte war, geschenkt, weil er befürchtete, daß sie seine Geheimnisse, um die sie wußte, gegen ihn selbst anwenden möchte. Bei der Huldigung in Warschau, welche Hoym einnahm, soll der Chlebowsky diesen Hoym nicht anders, als: Eure Königl. Majestät, genannt haben.
@@ -6987,7 +6654,6 @@ Xiondczewice
 Note. He received this estate merely through an oversight. The Grand Chancellor von Goldbeck actually intended it for his son. But an error committed in
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Der Eintrag über Dolffs (fünf Güter mit 20000 Thlr., die Urkunde datiert Berlin, den 9. August 1796) und der Goldbeck-Eintrag, in den er übergeht: die Akte hält die Urkunde selbst — Strzelec zwischen Gostinin und Kutno, ein Ertrag von 1.000 rt, ein Wert von 20.000 rt — und zeigt den Großkanzler Goldbeck, der ein Gut eben dieser Runde für seinen Sohn bestimmt hatte, wie er die Urkunden vom 9. August 1796 expediert.</p>
@@ -6995,9 +6661,8 @@ Note. He received this estate merely through an oversight. The Grand Chancellor 
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-2-88">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-88">Heft 2, S. 88</a></h2>
+<section class="lit-passage" id="p-2-88" data-page="88" data-part="2">
+<div class="pg" id="p2-88"><a href="#p2-88">S. 88</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der Cabinets-Expedition vielleicht muthwillig begangen wurde, war daran schuld, daß es das Eigenthum dieses Post-Direktors wurde. Als er es dann einmahl hatte, konnte man nicht füglich es ihm wieder nehmen. Für den Sohn des Groß-Canzlers wurden hierauf andere und zwar bessere Güter aufgesucht, die er mithin später als sein Nahmens-Vetter erhielt. Vid. Nro. 3. im Departement von Kalisch. Die Donations-Urkunde ist d. d. Berlin den 9ten August 1796.
@@ -7068,12 +6733,10 @@ Note. The true value is at least 24000 Thlr. The deed of donation is dated Berli
 He actually presented himself with these estates and afterwards exchanged them to the Lubinsky family. In return, besides a sum of money that never became known, they gave him the lordship of Szyduik, situated two miles from Kalisch, which yielded 10000 thalers a year. This he finally sold to Justice Councillor Rönneberg from Mecklenburg for 198000 thalers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-89">Heft 2, S. 89</a></h2>
+<section class="lit-passage" id="p-2-89" data-page="89" data-part="2">
+<div class="pg" id="p2-89"><a href="#p2-89">S. 89</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Anmerk. Bei der Chargen-Casse gab er den Werth nebenstehender Schenkung nur zu 60000 Thaler an. Er betrog demnach den Monarchen nicht nur in Ansehung des Werths an sich, sondern auch in Ansehung der Chargen-Casse. Eine üble Erscheinung an einem Minister, der auf Wahrheit und Ordnung und über die Intraden der Staats-Cassen selbst wachen soll. In der, in diesem Fall, bloß vom Groß-Canzler Goldbeck contrasignirten Schenkungs-Urkunde, d. d. Berlin d. 14ten Sept. 1796. ist als Grund der Schenkung gesagt: Um Unserm ic. Hoym ein besonderes Merkmahl Unsrer gnädigsten Zufriedenheit und allerhöchsten Wohlwollens, wie auch Unsrer Erkenntlichkeit, für die von demselben, Uns und Unserm Königlichen Hause, seit geraumen Jahren, mit dem ruhmwürdigsten Eifer geleisteten treuen und ersprießlichen Dienste, zu geben ic.!!!
@@ -7100,12 +6763,10 @@ The lordship and town of Osmolin
 Note. The deed of donation is dated Berlin, 3 May 1797.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-90">Heft 2, S. 90</a></h2>
+<section class="lit-passage" id="p-2-90" data-page="90" data-part="2">
+<div class="pg" id="p2-90"><a href="#p2-90">S. 90</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 **9/50. Fürst Radzivill,** Schwiegersohn des Prinzen Ferdinand, Groß-Oncles des Königs.
@@ -7178,15 +6839,13 @@ Osermno
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-91">Heft 2, S. 91</a></h2>
+<section class="lit-passage" id="p-2-91" data-page="91" data-part="2">
+<div class="pg" id="p2-91"><a href="#p2-91">S. 91</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Erfahrungen, gesammelt bei einem Spaziergange in und um Berlin, im April 1807.
+### Erfahrungen, gesammelt bei einem Spaziergange in und um Berlin, im April 1807.
 
 ---
 
@@ -7199,7 +6858,7 @@ Zur Sache: Wenn Jemand auf der Reise war, so kann er was erzählen! sagt Asmus, 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Experiences Gathered on a Walk in and around Berlin, in April 1807.
+### Experiences Gathered on a Walk in and around Berlin, in April 1807.
 
 ---
 
@@ -7210,12 +6869,10 @@ You wish to know something of the news of the day from Berlin; you call upon me 
 To the matter at hand: When someone has been on a journey, he has something to tell! says Asmus, and I add: even when he merely takes a walk, all manner of things cross his path that he may convey to his friends and acquaintances; it is the listener's task to lift the kernel — if any is to be found there — out of the shell! So then, listen: my humble self took a
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-92">Heft 2, S. 92</a></h2>
+<section class="lit-passage" id="p-2-92" data-page="92" data-part="2">
+<div class="pg" id="p2-92"><a href="#p2-92">S. 92</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Spaziergang gemacht, und theilt dir ihre Erfahrungen und Bemerkungen hierdurch mit; sie räuspert sich und beginnt:
@@ -7234,12 +6891,10 @@ walk yesterday, and hereby conveys to you her experiences and observations; she 
 There a troop of French soldiers, who arrived only yesterday, marches ahead of me, all of them very young fellows of the latest conscription; they pass across the Wilhelmsplatz, close by the statue of General Seidlitz. What? The commander's countenance seems to take on life; his features shape themselves differently, between his eyebrows and on his brow the furrows deepen, the gaze takes on expression, the mouth seems to open to the question: Do I really behold a part of the French army? Are these the sons of those warriors I beat at Rossbach? How came they into the residence of my great King, my Frederick? Yes, good Seidlitz, you see rightly; they are
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-93">Heft 2, S. 93</a></h2>
+<section class="lit-passage" id="p-2-93" data-page="93" data-part="2">
+<div class="pg" id="p2-93"><a href="#p2-93">S. 93</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 es, sind hier; aber Fritz ist nicht mehr und wenige deines Gehalts befehlen den Preußen, indessen drüben statt eines Soubise eine Menge von Braven und an ihrer Spitze ein Held, Napoleon, lebt: Versinke, muthiger Mann, in den Umgebungen von Jena und Auerstädt rächte jenes Volk den durch dich ihnen abgerungenen Triumph bei Roßbach, und du stehst jetzt nicht gut da. Versinke! Versinke!
@@ -7254,12 +6909,10 @@ it, they are here; but Fritz is no more, and few of your calibre command the Pru
 Beneath those trees a pair of men walk along solitary, two burghers conversing. Off to them — perhaps I shall overhear something. Right enough, they are absorbed in the subject of their talk, they do not notice me, I catch every one of their words; the friends lament to each other the misfortune of their present condition. When I — says the one — obtained the master's rights in the time of Frederick the Second and established myself, all went well: the King supported my manufactory-owner, and he supported me; as soon as a piece of cloth came off the loom, I carried it to him and received cash and good payment, and even an advance if I needed it. How different afterwards! The monarch does — probably for reasons — little or nothing for the manufactures; poor payment followed, and I even had at times to wait long for it; thus I came down like everyone of our trade. And now, on top of all, the unhappy war. All commerce has ceased, or is at any rate negligible, no one dares have anything made, to buy
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-94">Heft 2, S. 94</a></h2>
+<section class="lit-passage" id="p-2-94" data-page="94" data-part="2">
+<div class="pg" id="p2-94"><a href="#p2-94">S. 94</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 kaufen; ich habe Einquartierung von fremden Truppen gehabt, ich habe in diesen Tagen Kasernengeld geben müssen, weil seit einiger Zeit die Soldaten nicht mehr in Bürgerhäusern, sondern in die Kasernen logirt werden. Jetzt bin ich am Ende; zu betteln schäme ich mich, ich hungre mit meinem armen Weibe und mit meinen drei schreienden Kindern. Er trocknete die nassen Augen, sein Freund begann ihn zu trösten, ich fuhr hastig in die Tasche und — fand sie leer. Was jenen Armen drückt, quält auch mich; unsre öffentlichen Kassen sind entfernt, viele Beamte erhalten keine Besoldung, Niemand verlangt Arbeit, Keiner bezahlt, der Geldbesitzer spaart für den dringendsten Nothfall. Woher nehmen? Armer Handwerker! Unseliger Krieg!
@@ -7282,12 +6935,10 @@ There again a group: several merchants, telling one another that in these days t
 What a herd of ragged beggars, small and grown, falls upon and detains everyone there: Naturally! Who can give much when he himself suffers want? Who can be charitable when he himself is impoverished? Who gives the industrious poor employment? To be sure, charity is the Berliners' foremost virtue — for which one forgives them
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-95">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-95">Heft 2, S. 95</a></h2>
+<section class="lit-passage" id="p-2-95" data-page="95" data-part="2">
+<div class="pg" id="p2-95"><a href="#p2-95">S. 95</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 manche andere Schooßthorheit verzeiht — doch jetzt reicht es nicht aus, was sie zu spenden vermögen und die ersten Wohlthäter der Dürftigen, (unser gütiges Königspaar) sind entfernt. Das Armendirektorium ist fast aufgelößt, und hätten nicht brave Musiker im Laufe dieses Jahres zum Besten der Armen einige Concerte gegeben, so mußte die Verzweiflung furchtbare Scenen gebähren; ist doch die Mortalität wegen großer Hülflosigkeit bei uns seit länger als einem Jahre her schon so groß, durch in jeder Woche im Durchschnitt 30 bis 40 Menschen mehr sterben als gebohren werden. Wohin kann das führen?
@@ -7306,12 +6957,10 @@ I pass along the Wilhelmsstraße and come out under the Linden.
 My, how the crowd there presses and bustles, how the motley sea of uniforms, velvet, satin, taffeta, net-lace, cambric, muslin, calico, and broadcloth surges and billows up and down. There the beggars, and here the splendour. An oppressive contrast! Fops with spectacles on their noses, false calves, feeble nerves, and empty pockets; supple maidens with painted cheeks, whited sepulchres, and beside them their bread-thieves, pretty women with a wanton look, murderesses of their children, the shame of their husbands. The wenched-for gowns gleam and rustle and the borrowed net-lace dazzles: they are the sails and flags of a privateer. And there the matron, likewise decked out to a fright. And though at home the bed be pawned
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-96">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-96">Heft 2, S. 96</a></h2>
+<section class="lit-passage" id="p-2-96" data-page="96" data-part="2">
+<div class="pg" id="p2-96"><a href="#p2-96">S. 96</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 oder verkauft werden: vom äußern Glanze darf kein Millionentheilchen schwinden. Die Frau ist wie ein Treibhaus, man nehme ihr die Wärme des Pfandleihers und die Blätter fallen ab. Am Arm jener Dame hängt ein Bürgergardist, dessen Beinkleidernähte vierfach mit Gold garnirt und die Knopflöcher mit eben der Masse eingefaßt sind: Aber zu Hause? Da ist auch vielleicht Heulen und Zähnklappern; seine Haltung zeigt, daß er ein Handwerker ist, und wahrscheinlich leidet er wie Jedermann von den Umständen, aber das Gold schreit: Element, seht her, wie reich ich bin! O, armes glänzende Elend! warum wählt dich doch der Haufe so gerne aus vor der bescheidnen Schicklichkeit! Zum Glück spaziren neben dem Goldmann drei andre Bürgergardisten, ehrbar angethan mit der Uniform, wie sie seyn sollte. Nun, so mag der blanke Mann passiren; unter einer Heerde von vieren findet sich wohl ein Stück mit der Drehkrankheit behaftet. Finden wir doch auch mitunter thörigte Fürsten, Feldherrn und Pfaffen, reist doch unter dem Monde keine Vollkommenheit. Brüste dich immerhin, beblechter Mann, vielleicht kennst du, Aermster, keine bessere Freude! Werde nur nicht, wie die ehemaligen Gensdarmes-Officiers, die hoffärtige Geißel deiner Brüder ohne Uniform, worauf deine Goldstreifen hindeuten, dann wollen wir mit Lächeln, doch nicht mit Verachtung an dir vorübergehn. Dort wieder ein Bürgergardist mit einem militairischen Schnauzbart! Ach, du mein lieber Himmel! Was soll das seyn: Er scheint alte Frauen
@@ -7322,12 +6971,10 @@ oder verkauft werden: vom äußern Glanze darf kein Millionentheilchen schwinden
 or sold: from the outward glitter not a millionth part may be allowed to fade. The woman is like a hothouse; take from her the warmth of the pawnbroker and the leaves fall off. On the arm of yonder lady hangs a National Guardsman whose trouser-seams are garnished fourfold with gold and whose buttonholes are trimmed with the same mass: but at home? There too, perhaps, is weeping and gnashing of teeth; his bearing shows that he is a tradesman, and he probably suffers like everyone else from the circumstances, but the gold cries out: Confound it, look here, how rich I am! O, poor glittering misery! why does the crowd so gladly choose you over modest propriety! Fortunately, walking beside the gold-man are three other National Guardsmen, respectably clad in the uniform as it ought to be. Well then, let the shiny fellow pass; among a herd of four there is bound to be one beast afflicted with the staggers. Do we not also now and then find foolish princes, generals, and priests; under the moon there travels no perfection at all. Puff yourself up as you please, brass-plated man, perhaps you, poor wretch, know no better joy! Only do not become, like the former gendarme officers, the haughty scourge of your brothers without a uniform — as your gold stripes suggest — for then we shall pass you by with a smile, though not with contempt. There again a National Guardsman with a military moustache! Ah, good heavens! What is this supposed to be: he seems to want to frighten old women
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-97">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-97">Heft 2, S. 97</a></h2>
+<section class="lit-passage" id="p-2-97" data-page="97" data-part="2">
+<div class="pg" id="p2-97"><a href="#p2-97">S. 97</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 graulich machen zu wollen, wie man zu sagen pflegt. Ein Bürger mit einem dito Bart ist ein Kato mit der Peitsche, oder der Sommer in der Pelzmütze. Hu, wie es vom Schlosse bis hierher schimmert und blendet! Und wir sollen eben Contribution entrichten und Einquartirungsgeld bezahlen, und gerade jene glänzenden Leute seufzen und klagen gewöhnlich am bitterlichsten über den Umstand, wollen, daß man sie da für recht arm halten soll. Ihr Narren! Was soll der Barometer des Vermögens seyn, als Eure Außenseite? und sie ist so, daß man Berlin in seiner drückenden Armuth für die reichste Stadt in Deutschland halten muß. Wenn doch Einer den Autoritäten rathen möchte, daß man den Narren, welche über ihren Stand und ihre Kraft hinaus sich kleiden und benehmen, und verschwenden, um zum scheinen, die Elendslappen auszöge und zum Vortheil der Klügern verauctionirte und eine Kleiderordnung für die Tollhäusler einführte, denn es geht viel Elend daraus hervor. Sie möchten sich gern allen öffentlichen Lasten entziehen, um ein prunkendes Wamms zu erkaufen. Sollen Steuern gegeben werden, so hört man Klagen und Weigerungen; wenn Einquartirung kommt; so möchten sie gern im Unmuthe ausrufen, wie vor kurzem eine geitzige Jüdin: Aber, der Kaiser von Frankreich schickt uns doch auch gar zu viel seiner Leute über den Hals; läßt unser König wohl so Viele nach Frankreich marschiren? Die Menschen gehn unter in ihrer Thorheit.
@@ -7338,12 +6985,10 @@ graulich machen zu wollen, wie man zu sagen pflegt. Ein Bürger mit einem dito B
 grey, as the saying goes. A burgher with such a beard is a Cato with the whip, or summer in a fur cap. Ugh, how it glitters and dazzles from the palace all the way to here! And we are expected just now to render contribution and pay quartering-money, and it is precisely those glittering people who commonly sigh and complain most bitterly about the circumstance, wanting to be considered quite poor for it. You fools! What should be the barometer of wealth but your outward show? and it is such that one must take Berlin, in its oppressive poverty, for the richest city in Germany. If only someone would advise the authorities that the fools who dress and comport and squander themselves beyond their station and their means, merely for show, should be stripped of their rags of misery and have them auctioned off for the benefit of the wiser sort, and that a dress-code be introduced for the madhouse-dwellers, for much misery springs from it. They would gladly shirk all public burdens in order to purchase a showy doublet. If taxes are to be paid, one hears complaints and refusals; when quartering comes, they would gladly cry out in vexation, as a stingy Jewess did lately: But the Emperor of France sends all too many of his people down upon our necks; does our King really let so many march off to France? People perish in their folly.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-98">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-98">Heft 2, S. 98</a></h2>
+<section class="lit-passage" id="p-2-98" data-page="98" data-part="2">
+<div class="pg" id="p2-98"><a href="#p2-98">S. 98</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Warum strömt die Menge nach jenem Punkte? Was giebt es da? Ah, es sind ohngefähr 150 Russen, französische Kriegsgefangene angekommen, die zum Platzkommandanten geführt werden: Mitleid und Neugierde zieht die Leute dorthin. Ich werde mit fortgedrängt, und muß die Gefangenen unwillkührlich mit beschauen. Junge Leute, aber ihr Unglück hat sie mürbe gemacht, sie sind bleich und hager. Eine Frau ist beschäftigt, Geld unter sie auszutheilen; man sieht, daß sie con Amore giebt und darum frage ich einen Nahestehenden nach dem Nahmen des wohlthätigen Weibes, dessen Gesicht den Leuten Trost und Hoffnung spricht, während ihre Hand ihnen Geschenke reicht. Sie ist — erwiedert der Nachbar — die Frau des Schneider Kräger aus der Adlerstraße Nro. 7. Wie viel Gutes diese Frau, eine gebohrne Kurländerin, an den gefangenen Russen gethan hat, seit sie hier durchkommen, ist kaum zu beschreiben, denn, daß sie ihnen bloß Geld giebt, ist das wenigste, aber sie unterstützt die Unglücklichen thätiger noch und besser. Sie und die Gräfin Löwenstern haben durch ihre menschenfreundliche, fast mütterliche Fürsorge, durch ihre zweckmäßigen Wohlthaten Hunderten das Leben erhalten oder wiedergegeben; sie haben die im Pontonhause fast von jedem Transport zurückgebliebenen Kranken gepflegt und erquickt mit warmer ungetheilter Menschenliebe, sie haben ihre Gesundheit selbst zum Opfer eingesetzt, indem sie unter Schwerkranken und Halbtodten (deren Krankheit vielleicht epidemisch seyn konnte
@@ -7354,12 +6999,10 @@ Warum strömt die Menge nach jenem Punkte? Was giebt es da? Ah, es sind ohngefä
 Why does the crowd stream toward that point? What is there? Ah, about 150 Russians have arrived, French prisoners of war being led to the garrison commandant: pity and curiosity draw the people thither. I am pushed along with them, and cannot help but look at the prisoners too. Young men, but their misfortune has worn them down, they are pale and gaunt. A woman is busy distributing money among them; one sees that she gives *con Amore*, and so I ask a bystander the name of the charitable woman whose face speaks comfort and hope to the men while her hand hands them gifts. She is — the neighbour replies — the wife of the tailor Kräger from the Adlerstraße No. 7. How much good this woman, a native of Courland, has done for the captured Russians since they began passing through here is scarcely to be described, for that she merely gives them money is the least of it; but she supports the unfortunates still more actively and better. She and Countess Löwenstern, by their humane, almost motherly care, by their well-directed benefactions, have preserved or restored the lives of hundreds; they have nursed and refreshed the sick left behind at the pontoon house from almost every transport, with warm and undivided love of mankind; they have even staked their own health, going about among the gravely ill and half-dead (whose disease might perhaps be epidemic
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-99">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-99">Heft 2, S. 99</a></h2>
+<section class="lit-passage" id="p-2-99" data-page="99" data-part="2">
+<div class="pg" id="p2-99"><a href="#p2-99">S. 99</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 oder deren Ausdünstungen die Atmosphäre vergiftete) herumgingen, um Leiden zu mildern, Trost und Muth zu bringen und Erhaltungsmittel anzuwenden; sie haben extraordinaire Krankenwärter angestellt, die der Russischen Sprache mächtig waren, um die Leidenden zu trösten; sie haben um die Erlaubniß gebeten, eine Anzahl der Kranksten zur Kur in ihre Häuser nehmen zu dürfen; das letztere ist ihnen zwar aus achtbaren Gründen verweigert worden, aber der gute Wille dafür ist doch schon sehr Ehrenwerth!
@@ -7378,12 +7021,10 @@ or whose exhalations poisoned the atmosphere) in order to ease suffering, to bri
 There at his window stands the town commandant, General Hulin, a very worthy man, strict in the enforcement of duty, but also kind and fair. The latter he has again lately proved. It was on the 10th of March, the Queen's birthday, and several families here, accustomed to celebrate this day, had company at home. One of General Hulin's adjutants
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-100">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-100">Heft 2, S. 100</a></h2>
+<section class="lit-passage" id="p-2-100" data-page="100" data-part="2">
+<div class="pg" id="p2-100"><a href="#p2-100">S. 100</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 von der Municipalität war in einer solchen Gesellschaft. Es wäre doch wohl gerathen — denkt er — wenn ich dem General anzeigte, daß ich, und warum ich hier bin. Mit dem Entschlusse verläßt er den Cirkel und begiebt sich zum General. Ich weiß es — entgegnet der Würdige auf die Meldung — und finde es recht gut! auch ich habe heute auf das Wohlseyn der schönen Frau getrunken. Gehn Sie bald wieder zu ihrer Gesellschaft! — Es thut mir wohl, diesen Mann zu sehen. Berlin erkennt, was er für Ruhe und Sicherheit der Stadt thut.
@@ -7398,12 +7039,10 @@ from the Municipality was in one such gathering. It would surely be advisable �
 That group consists of Prussian officers, prisoners of war released on their word of honour. In the mournful look of some, in their bowed bearing, one may read the grief over their misfortune. Truly, there are many brave men among them. But others seem to take more pleasure in their present comfortable, idle condition than in the field, if only there were always plenty of coin! the wish seems legibly written in their bearing; it seems to me that in their whole demeanour, in their smile, lies the triumph: Thank God I have got so far, that I have knocked off for the day! There are several who (as the saying goes) are fat and sleek, who seem so content with their situation that they would not exchange it for any other. Thus, for instance, the G... S......, Lieutenant in the K...... regiment, only lately gave a costly ball at the English House. What must the thinker think when he hears that? First:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-101">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-101">Heft 2, S. 101</a></h2>
+<section class="lit-passage" id="p-2-101" data-page="101" data-part="2">
+<div class="pg" id="p2-101"><a href="#p2-101">S. 101</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Lustigkeit ist wohl jetzt nirgends schlechter placirt, als bei einem kriegsgefangenen Preußischen Offizier: Er könnte im Sack und in der Asche sitzen, ohne für einen Narren gehalten zu werden. Zweitens: War, bei dem wirklich hohen Geldmangel, mit der aufgewandten bedeutende Geldsumme nicht etwas besseres zu thun? Es vegetiren hier so viele Geldarme Offiziere, es weinen so viele sehr dürftige Soldatenweiber mit ihren wimmernden hülflosen Kindern: leidende Männer, Wittwen und Waisen, und der Herr Lieutenant verwendet seinen Ueberfluß auf Bälle. Ehre dem braven Neander, Lieutenant im Pr. Artilleriecorps! Er hat, nach Maaßgabe seines Vermögens, den Armen gegeben und eine Sammlung für die Dürftigen veranstaltet; worin die bessern Berliner ihn thätig unterstützten: ihm danken Gesättigte und Gekleidete, indessen der Ballgeber von seinen Tänzerinnen mit einem affectirten Kopfnicken salutirt und — verlacht wird. Welches ist das Angenehmere?
@@ -7418,12 +7057,10 @@ Merriment is surely nowhere worse placed than in a Prussian officer taken prison
 The recruiters in Dutch service have achieved their purpose; they lead some twenty recruits away with them, and the gaping crowd streams after. Yes, yes, dear curiosity is the original sin of the Berliners. Everywhere people like to see something new, but nowhere does one run and gawk so passionately as here. If a person stands somewhere in a street who seems to be fixing his gaze on something, a crowd instantly gathers around him and the avalanche becomes a colossus. The cry: There, right on the French
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-102">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-102">Heft 2, S. 102</a></h2>
+<section class="lit-passage" id="p-2-102" data-page="102" data-part="2">
+<div class="pg" id="p2-102"><a href="#p2-102">S. 102</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Thurm speiset der Habicht eine Taube! ist ein Bannspruch, wodurch auf der Stelle Hunderte dahin getrieben werden; es ist nicht möglich da vorbei zu gehn, es ist unmöglich sich loszureißen, jede herabfliegende Feder erschafft eine neue Anmerkung, neues Verweilen, neue Verwunderung. So ein Habicht macht den Leuten entsetzlich viel Umstände. Nun denke dir die vollen Straßen, wenn französische Truppen eintreffen oder gar Russen. Wer sie nicht sah, gilt nicht für einen ächten Weltbürger. Was kümmert dem Zuschauer sein Gewerbe daheim, sein Geschäft? Es giebt in diesem Augenblick für ihn auf der Welt nichts anders als Russen.
@@ -7438,12 +7075,10 @@ Tower, the hawk is devouring a dove! is a magic spell by which hundreds are on t
 The throng draws out through the Brandenburg Gate, and I draw along with it. Before the gate the stream divides into several arms. Straight ahead it goes toward Charlottenburg on foot, on horseback, and by carriage, to the right toward the Tents, to the left to the Hofjäger and to Kersten's. An acquaintance runs into me, and to please him I saunter along to the left down to Kersten's. Whew, how full and gaudy. More crowded than ever: how comes that? The officials of various departments have in these days, in accordance with the Emperor Napoleon's promise, received their arrears of pay. The debts contracted out of necessity are paid, and one again indulges oneself. Well and good! But that alone cannot so fill the place. The gaiety of the spring day, the mania of being seen and of seeing, that is the cause. For no
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-103">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-103">Heft 2, S. 103</a></h2>
+<section class="lit-passage" id="p-2-103" data-page="103" data-part="2">
+<div class="pg" id="p2-103"><a href="#p2-103">S. 103</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Residenzier, der Natur wegen, in die Natur, sondern um große Gesellschaften zu schauen.
@@ -7470,12 +7105,10 @@ He. Prove it.
 I. The Duke of Brunswick commanded the army; he was sunk in negligence and in fault. He spoiled everything: why? He had not advanced in the spirit of the newer art of war, he had remained standing at the tactics of the Seven Years' War: the fault of the old men. The King took over the command; he lacks neither personal bravery nor a grasp of the whole, for in his own person he has before
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-104">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-104">Heft 2, S. 104</a></h2>
+<section class="lit-passage" id="p-2-104" data-page="104" data-part="2">
+<div class="pg" id="p2-104"><a href="#p2-104">S. 104</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der Auerstädter Schlacht ein viel besseres Urtheil über die Zukunft gefällt, als die obern Kriegskünstler um ihn her. Er sprach zu Weimar die Besorgniß aus, in der linken Flanke tournirt zu werden, aber alles widersprach ihm. Er sprach nach dem Anblick französischer Soldaten ganz richtig über sie ab, aber seine Umgebung machte ihm glauben, daß er sich irre. Julius von Voß<sup class="lit-fn"><a href="#n-de-10">10</a></sup> hat das sehr gut auseinander gesetzt, wenn er sagt: „Warum aber handelte der König nicht nach eignem Takt der Intelligenz und unterzog sich mit so übergroßer Bescheidenheit dem Rath der sogenannten Erfahrung, die, wie sich's denn doch gezeigt hat, bei ihren dreißig, vierzig Revuen nicht das erfuhr, was es jetzt zu wissen galt, oder ihre dunkeln Erinnerungen der Praktik des siebenjährigen Krieges, nicht dem vorliegenden Fall anzupassen verstand? Mir scheint, die Frage beantwortet sich folgendergestalt: Friedrich der Große befolgte bei der Erziehungsanordnung der Söhne seines Neffen, Grundsätze, die um so mehr befremdend sind, als er doch seine eigne hohe Geisteskraft, nicht auf dem Paradeplatz der langen Grenadiere, sondern im Schooße der Musen, und im Umgange mit den kultivirtesten Männern seiner Zeit ausgebildet hat. Die Prinzen mußten nämlich als Fähnrich, Lieutenant u. s. w. der Garde, sich lange Zeit der Strenge des kleinen Dienstes unterwerfen. Mag das das Gute haben, daß beim Unrangirten
@@ -7486,12 +7119,10 @@ der Auerstädter Schlacht ein viel besseres Urtheil über die Zukunft gefällt, 
 the battle of Auerstädt he formed a far better judgment of the future than the higher masters of the art of war around him. At Weimar he voiced his apprehension of being turned on the left flank, but everyone contradicted him. After setting eyes on the French soldiers he judged them quite correctly, but those about him made him believe that he was mistaken. Julius von Voß<sup class="lit-fn"><a href="#n-en-10">10</a></sup> has set this out very well when he says: "But why did the King not act by his own tact of intelligence, and why did he submit, with such excessive modesty, to the counsel of so-called experience — which, as has indeed now been shown, did not, in its thirty or forty reviews, learn what it now mattered to know, or else did not understand how to adapt its dim recollections of the practice of the Seven Years' War to the case at hand? It seems to me the question answers itself in the following manner: Frederick the Great, in ordering the education of the sons of his nephew, followed principles all the more surprising in that he himself developed his own lofty intellectual powers not on the parade-ground of the tall grenadiers, but in the lap of the Muses, and in the company of the most cultivated men of his age. The princes, namely, were obliged as ensigns, lieutenants, and so forth of the Guard to submit for a long time to the rigours of petty service. This may have the merit that in unranked
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-105">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-105">Heft 2, S. 105</a></h2>
+<section class="lit-passage" id="p-2-105" data-page="105" data-part="2">
+<div class="pg" id="p2-105"><a href="#p2-105">S. 105</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Exerciren, Anzug- und Gewehr-Nachsehen alle hierzu gehörenden Umstände genau erlernt werden, für den künftigen Herrscher ist es keine (wenigstens lange) passende Beschäftigung. Hier hat Friedrich Wilhelm III., dessen Gemüth ohnehin voll Bescheidenheit und Mäßigung ist, wohl die zu hohen Begriffe von der Intelligenz eines preußischen Generals geschöpft, da seine eigene, in den blühenden Jahren der Kraft, worin er lebt, und bei den Ihm gar nicht mangelnden Kenntnissen, viel weiter geführt haben würde." So ist das erklärt. Der Monarch vertraute der Einsicht des Herzogs von Braunschweig, übertrug ihm das Kommando der Armee; indeß Er sich selbst bescheiden zurückzog. Seine Erziehung verursachte diese Handlung, die Erziehung ist die Schuld des Erziehenden, also ein Fehlgriff Friedrichs des Großen, wie wohl auch der Friedensschluß nach dem siebenjährigen Kriege — so mager und dürftig für den Sieger — ein Fehlgriff genannt zu werden verdient.
@@ -7510,12 +7141,10 @@ He. Not badly deduced. But then many things come into consideration that must be
 I. All the sin of the fathers, the fault of Frederick William II., who omitted all that he ought to have done for the further development of the army and for the preservation of the spirit within
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-106">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-106">Heft 2, S. 106</a></h2>
+<section class="lit-passage" id="p-2-106" data-page="106" data-part="2">
+<div class="pg" id="p2-106"><a href="#p2-106">S. 106</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ihr thun sollen. Friedrich der Große und der siebenjährige Streit hatte den Offizieren das Vertrauen der Unfehlbarkeit gegeben; sie waren noch stolz im Rückblick und hielten die Niederlage der Preußen für eine Unmöglichkeit. Daher ließ man die Elbe unbesetzt, darum gab man vor der Auerstädter Schlacht keine Verhaltungsbefehle für den Fall des Mißlingens.
@@ -7538,12 +7167,10 @@ I. (breaking in) Why not rather a chess-player? The spirit of that game is more 
 He. All comparisons limp, and this one too. The disposition of army corps and of chess pieces do indeed have some resemblance, perhaps also the operations; but on the whole the allegory fits only by halves, for here no account whatever is taken of the calculation of physical forces, which yet at times come very much into the reckoning. But let me finish. Like a billiard-player, I say, our commander in the campaign of 1806 strikes me — one who has played for his amusement with his children on a little table;
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-107">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-107">Heft 2, S. 107</a></h2>
+<section class="lit-passage" id="p-2-107" data-page="107" data-part="2">
+<div class="pg" id="p2-107"><a href="#p2-107">S. 107</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Vergnügen gespielt hat; dort kennt er das Billard genau und seinen Gegner, da weiß er aufs Haar, wie er den Ball treffen und wie stark er stoßen muß, wenn des Gegners Ball da- oder dorthin gemacht werden, oder hier zu stehen kommen soll, und er gewinnt jedesmal brillant. (Unter dem kleinen Billard verstehe ich unsre Exercierplätze bei Templow u.s.w., die Mitspieler zum Scherz sind die Kameraden, welche auf Ordre sich zurückdrängen lassen oder angreifen und einen Hügel oder Zaun ganz charmant vertheidigen, weil der andre gleichfalls nur spaaßt.) Nun aber kam man auf einmal auf eine große Billardtafel (Jena und Auerstädt), fand einen andern Gegner (Napoleon) und spielte um einen bedeutenden Preis (hier das Leben, dort die Krone und da Millionen), kein Wunder, daß man verwirrt wurde und die Parthie complett verlohr.
@@ -7566,12 +7193,10 @@ We went through the Tiergarten to the Zelte and found there, as everywhere, ever
 At Weber's by the water there sat at a table some political pundits (Kannengießer — literally "pewterers", a stock name for armchair politicians), who were just then disputing with hair-splitting precision; each defended his party lively enough, though now and then they eyed their neighbours as if they wished to ask: Are you eavesdropping on us too? Your obedient servant, gentlemen! Oh yes, if you please! I should have liked
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-108">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-108">Heft 2, S. 108</a></h2>
+<section class="lit-passage" id="p-2-108" data-page="108" data-part="2">
+<div class="pg" id="p2-108"><a href="#p2-108">S. 108</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 mögen, denn ich war so eben beschäftigt, hier und da ein Fragment ihrer Orakelsprüche zu erhaschen, doch nicht um Mißbrauch davon zu machen.
@@ -7586,12 +7211,10 @@ to answer, for I was just then busy snatching here and there a fragment of their
 You see, my good fellows — said A. — The French army is large, extraordinarily strong, every day reinforcement troops arrive, and how long will it be before the conscripts of the year 1808, eighty thousand fresh young men, are likewise in the field, for one must grant the French this: nimble they are as the wind, and that is why we Germans always get murderous blows dealt to us in all haste, because we take no trouble with speed at all. But, as I was going to say: since they are now so strong, I, if I were in the place of the Emperor of Russia, would likewise call up everything, and to the King of England I would say: Hey there, neighbour! Let him chase his people away from the roast-beef dish for once and let him embark some three or four hundred thousand men and bring them across, Scotchmen among them too, even if they have no breeches on, so long as they can shoot and hack and stab — it is not the trousers that do the business; and the King of Sweden would have to come as well with all his might. Dalecarlians and everything he would have to bring along, some hundred thousand men, and the Prussians who are still left would all have to come up, and I myself, I the Emperor that is, would set marching everything that had legs — a good million people I daresay I would bring together, everything would have to come
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-109">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-109">Heft 2, S. 109</a></h2>
+<section class="lit-passage" id="p-2-109" data-page="109" data-part="2">
+<div class="pg" id="p2-109"><a href="#p2-109">S. 109</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 mit. Kalmucken und Kumücken und Baschkiren und Samojeden, Ostjacken, Tataren und Mogolen, und wie die Teufelskerls alle heißen. Alles miteinander. Nun seht, die kämen zu Fuß an und brächten viele Ochsen mit; daß sie nicht hungern dürfen, meine ich. Sehn sie, die kommen nun hier von Rußland her. Hier, das Schnapsglas stellt Rußland vor. Da das Bierglas ist Schwedisch Pommern; da landen Engländer und Schweden und hier der Fidibus ist Preußen. Da steht die Armee. Nun marschiren wir mit ganzer Macht drauf los. Von hinten und von forne. Die von hinten gehen an die Oder und nehmen Stettin und Cüstrin weg.
@@ -7626,12 +7249,10 @@ B. The French commanders are incorruptible and the soldiers very brave.
 A. Quite right, all respect to them, but in the meantime great reinforcements of Russians have arrived near Stettin. Now it cannot possibly fail, we shall certainly get it, for our allies, the Kalmyks and Bashkirs, are cursed fellows. True devils they are; hard as cattle,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-110">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-110">Heft 2, S. 110</a></h2>
+<section class="lit-passage" id="p-2-110" data-page="110" data-part="2">
+<div class="pg" id="p2-110"><a href="#p2-110">S. 110</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 kleine Kugeln gehn schon gar nicht durch ihre Haut, und dumm sind, daß man sie statt der Mauerbrecher gebrauchen kann. Die stellen wir vorne hin, wenn wir Sturm laufen. Pardon geben die Leute nicht, was sie gefangen nehmen, fressen sie auf der Stelle. Sehn sie, vor Proviant dürfen wir nicht sorgen; vor dem Angriff lassen wir die Kerls recht hungrig werden, dann sind sie kreuzbrav. Haben wir erst die Festungen, dann gehen wir nach der Weichsel, da kriegen wir unsre Feinde in die Mitte und dann wird Friede.
@@ -7654,12 +7275,10 @@ We turned once more toward the town.
 A man walking ahead of us was carrying a local newspaper in his hand and reading the first article of it, an announcement from the Administrative Committee to the inhabitants of Berlin, concerning a war contribution of one million thalers laid upon the capital and its collection. The reader shook his head, probably for the same reasons for which I too had shaken my head on reading it. For one thing: a million thalers is, under the circumstances, surely very hard to raise among us; but then at the close of this announcement it says: the one who defaults pays for the first day of delay one thaler, for the second
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-111">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-111">Heft 2, S. 111</a></h2>
+<section class="lit-passage" id="p-2-111" data-page="111" data-part="2">
+<div class="pg" id="p2-111"><a href="#p2-111">S. 111</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zwei, für den dritten vier, für den vierten acht Thaler u.s.w. Strafe. Angenommen, daß ein Miether der letzten Klasse (welcher von seiner 60 Thaler betragenden Miethe 5 Procent erlegt) drei Thaler im Ganzen zahlen soll und sich nicht einfindet, so entrichtet er an Strafe in 8 Tagen:
@@ -7698,12 +7317,10 @@ two, for the third four, for the fourth eight thalers, and so on, as penalty. As
 After eight days the penalty payment does indeed cease, but thereupon lawful means of compulsion are applied to collect both the contribution levy and the penalty monies. Thus the one who delays pays, after 8 days, instead of the simple 3, now 258 thalers. Good God! To raise three thalers now among us is already extraordinarily hard; of 258 there is no thinking at all. The measure appears expedient against the stubborn man, but striking, when one thinks of the bitter poverty of the Berliners. But of course the sensible Committee will take into consideration cases of real inability to pay.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-112">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-112">Heft 2, S. 112</a></h2>
+<section class="lit-passage" id="p-2-112" data-page="112" data-part="2">
+<div class="pg" id="p2-112"><a href="#p2-112">S. 112</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Meine Wohnung nahm mich wieder auf. Geendet ist meine Wanderung und du erhältst das Gemälde derselben augenblicklich. Doch, noch einmal: Kritisire nicht zu strenge. Prüfe alles und das Gute behalte 2c.
@@ -7712,7 +7329,7 @@ Berlin, im April 1807. X. Y. Z.
 
 ---
 
-##### Bemerkungen über den preußischen Soldatenruhm.
+#### Bemerkungen über den preußischen Soldatenruhm.
 
 In der preußischen Kriegsgeschichte gab es eine Epoche, wo große schöne militärische Handlungen und Thaten auf dem Kriegstheater zur Tagesordnung gehörten. Ueberall wo sich Preußen sehen und blicken ließen, verbreiteten sie unter ihren zahllosen Feinden Furcht und Ausreißen, noch ehe einmal das Bajonet und der Säbel gewirkt hatten. Reichsvölker und Schweden hielt man durch sechsfach schwächere Corps en échec und die Franzosen konnten es trotz aller Anstrengungen nicht durchsetzen, Norddeutschland zu erobern. Was hielt sie ab. Ein zusammengesetztes Heer nordischer Reichsvölker, welchem Friedrich aber ein Haupt gegeben hatte, welches Heldensinn und Intelligenz schmückte.
 
@@ -7727,19 +7344,17 @@ Berlin, in April 1807. X. Y. Z.
 
 ---
 
-##### Remarks on the Military Glory of the Prussians.
+#### Remarks on the Military Glory of the Prussians.
 
 In Prussian military history there was an epoch when great and splendid military actions and deeds upon the theatre of war belonged to the order of the day. Everywhere the Prussians let themselves be seen and glimpsed, they spread fear and flight among their countless enemies, even before bayonet and sabre had once been brought to bear. Imperial forces and Swedes were held *en échec* by corps six times weaker, and the French, for all their exertions, could not manage to conquer North Germany. What held them back? A composite army of northern imperial peoples, but one to which Frederick had given a head adorned with heroic spirit and intelligence.
 
 If Prussian armies and corps had to succumb to the caprices of war, they rose up again in venerable dignity, and rather reaped the advantages of victory.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-113">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-113">Heft 2, S. 113</a></h2>
+<section class="lit-passage" id="p-2-113" data-page="113" data-part="2">
+<div class="pg" id="p2-113"><a href="#p2-113">S. 113</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wie verschieden ist alles dieses aber jetzt. Preußen, an extensiver Größe um ein Viertheil seit dem siebenjährigen Kriege vergrößert, läßt sich, vor Jahresfrist, von Schweden Hohn sprechen, die Häfen blokiren und schimpflicher behandeln, wie ein George Wilhelm kaum von dem energievollsten Manne seines Zeitalters (Gustav Adolph) behandelt wurde. Die Preußen, welchen im siebenjährigen Kriege es stets lächerlich war, wenn sie gegen Würtemberger und Baier fechten sollten, können jetzt selbst gegen diese Truppen nicht Stand halten. Warum ist denn dieses mit einem Male alles so verändert? Darum, weil der ganze Nationalruhm eines Volkes die Sache einiger wenigen Menschen ist, die die Gewalt in Händen haben; weil der Impulsator der Franzosen und des Rheinbundes das kraftvollste Oberhaupt der gegenwärtigen Zeit ist, und Preußens Talent und Energievolle Menschen noch im Dunkeln verborgen liegen; daß Preußen und Franzosen in Betracht der gegenwärtigen zur vergangenen Zeit in einem umgekehrten Verhältnisse stehn.
@@ -7754,12 +7369,10 @@ But how different is all this now. Prussia, enlarged by a quarter in extensive s
 Had Prussia become France's ally when, in the autumn of 1805, Alopäus was improper toward the King, and adopted a tone toward Prussia such as the Russian ministers were formerly accustomed to employ toward Courland and Poland: then it would not only have gained in power, but would also have transmitted its glory to posterity. The like would have made Prussia an ally of France, if the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-114">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-114">Heft 2, S. 114</a></h2>
+<section class="lit-passage" id="p-2-114" data-page="114" data-part="2">
+<div class="pg" id="p2-114"><a href="#p2-114">S. 114</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 König nach erfolgter Kriegserklärung der Engländer und des Blokadezustandes der Häfen an der Ostsee durch die Schweden ohne weiter auf Rußland Rücksicht zu nehmen Schwedischpommern angriff.
@@ -7778,12 +7391,10 @@ But can the tooth of time now efface the scandals which in so short a span of ti
 But how is Prussia now to have the opportunity to wipe out these stains again? Even if the unfolding of Prussia's for now still dark fate should turn out quite favourably, it has nonetheless lost its independence. It steps back out of the rank of great states to the level of mediocrity. Its political influence after the peace will not be great; it will never again raise itself to a great state, even should a subsequent
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-115">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-115">Heft 2, S. 115</a></h2>
+<section class="lit-passage" id="p-2-115" data-page="115" data-part="2">
+<div class="pg" id="p2-115"><a href="#p2-115">S. 115</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 preußischer Regent mit den Regenteneigenschaften eines Friedrichs des Großen begabt seyn sollte.
@@ -7802,12 +7413,10 @@ Archenholz is therefore perfectly right in what he says over the grave of Prussi
 One might well be angry with fate, that it allowed to be destroyed in seven days what great artists had built up over centuries; that in so critical a course of time it did not set against the Emperor of the French an Elector Frederick William or a Frederick the Great upon the Prussian throne. Then, even if the powerful genius of the age had also prevented any further building up, they would at least have been lightning-rods that dispersed the dark thunderclouds even before they could gather over the Prussian throne. Strength, unity, and firm will would then have held the generals and the ministers together. The bullet or the sword would have suppressed all insolence against the person of the King, and perhaps have made heroes out of traitors; Prussia would have drawn better Machiavellians among its ministers, and sought its firmness more in intensive than in extensive size. But once the political relations of the states of Europe as of the year 1800 had set in,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-116">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-116">Heft 2, S. 116</a></h2>
+<section class="lit-passage" id="p-2-116" data-page="116" data-part="2">
+<div class="pg" id="p2-116"><a href="#p2-116">S. 116</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ohne von Preußen verhindert werden zu können: so hätte sich Preußen längst mit Frankreich vereinigt gehabt, um durch Vernichtung jenes Meerdespoten den freien Handel herzustellen und der Welt den allgemeinen Frieden zu geben; es ließ sich nicht hinreißen, Frankreich und den französischen Kaiser aus Vorurtheil zu hassen; die Generale und Kabinetsräthe konnten sich keine Partheien bilden.
@@ -7830,12 +7439,10 @@ To simple-minded writers of travel accounts, the frightful court etiquette which
 The more earnestness a sovereign invests in his dignity, the more he is protected from importunities. The proud gaze of such a ruler nourishes and fans ambition and instills a all the greater vigour among men. Indulgence breeds insolence; severity
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-117">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-117">Heft 2, S. 117</a></h2>
+<section class="lit-passage" id="p-2-117" data-page="117" data-part="2">
+<div class="pg" id="p2-117"><a href="#p2-117">S. 117</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 führt zur Unterwürfigkeit. Mit letzterer ist der Regent eines militärischen Staates nur allein fähig, einem Volke Ansehen und Ruhm von Außen, Flor und Wohlstand von Innen zu geben.
@@ -7858,15 +7465,13 @@ As with Frederick the Great, the love of a people must be reckoned with greater 
 Yet should there ever come an epoch when Prussia raises itself up again, then an excessive severity would first have to descend upon the nation, so that the many weeds which overshadow the noble, good plants in this nation might be destroyed.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-118">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-118">Heft 2, S. 118</a></h2>
+<section class="lit-passage" id="p-2-118" data-page="118" data-part="2">
+<div class="pg" id="p2-118"><a href="#p2-118">S. 118</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Wie sollten sich Magistratspersonen kleiner Städte jetzt im Kriege gegen Freund und Feind benehmen? und wie haben sie sich benommen? besonders in Schlesien.
+#### Wie sollten sich Magistratspersonen kleiner Städte jetzt im Kriege gegen Freund und Feind benehmen? und wie haben sie sich benommen? besonders in Schlesien.
 
 Gleich nach dem Verlust der Schlacht bei Jena, war der größte Theil der Schlesier zu einer Vertheidigung der Provinz geneigt, indem sie aus ihrer Mitte eine Nationalarmee errichten wollten. Alles was dazu nöthig war, befand sich im vollkommensten Zustande im Lande. Schlesien enthält 2 Millionen Menschen, wenn nur der 20ste Theil bewaffnet wurde, so waren 100,000 Mann auf den Beinen; außerdem waren noch 10,000 Mann wirkliche Soldaten in den Vestungen vorhanden, diese besaßen Ueberfluß an Munition, Gewehren und Feldstücken.
 
@@ -7877,7 +7482,7 @@ Bei dem größten Wohlstande des Landvolkes, befanden sich hier eine große Anza
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### How Should the Magistrates of Small Towns Now Conduct Themselves in the War toward Friend and Foe? and How Have They Conducted Themselves? Especially in Silesia.
+#### How Should the Magistrates of Small Towns Now Conduct Themselves in the War toward Friend and Foe? and How Have They Conducted Themselves? Especially in Silesia.
 
 Immediately after the loss of the battle at Jena, the greater part of the Silesians were inclined to a defence of the province, in that they wished to raise a national army from their own midst. Everything necessary for this was present in the most complete condition within the country. Silesia contains 2 million people; if only the 20th part were armed, then 100,000 men would be on foot; besides this, there were also 10,000 men of actual soldiers present in the fortresses, and these possessed an abundance of ammunition, muskets, and field-pieces.
 
@@ -7886,12 +7491,10 @@ One may boldly assume that, the border huntsmen included, there are 5,000 huntsm
 Given the greatest prosperity of the rural population, there were here a great number of fine horses, of which one could have levied 10,000 head for the cavalry without agriculture being ruined thereby.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-119">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-119">Heft 2, S. 119</a></h2>
+<section class="lit-passage" id="p-2-119" data-page="119" data-part="2">
+<div class="pg" id="p2-119"><a href="#p2-119">S. 119</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Das Land (sobald Oestreich neutral blieb) bot dem über den Bober eindringenden Feind große Hindernisse, sowohl in seinem Terrain als in seinen festen Plätzen dar. Gegen die Ober- und Niederlausitz giebt es eine Menge Flüsse (die Neiße, der Queiß der Bober) und die ganze Herrschaft Priebus ist ein Morast, der mit weitläuftigen Forsten bedeckt ist. Diese stehen mit dem Riesengebürge in Verbindung, welches von Flinsberg bis hinter Glaz voll von engen Pässen, Defileen und Buschwerk ist und leicht vertheidigt werden kann, da es von der östreichischen Seite für jeden feindlichen Anfall gedeckt war.
@@ -7918,12 +7521,10 @@ With so many resources, it was very natural that in many good, enterprising mind
 I name among many only one: Count Pückler of Gümmel. This man had been an officer, possessed a clear understanding, much knowledge, and an energetic, vigorous temperament. At the beginning of November he wrote to the King and proposed to him to call up all men fit to bear arms, to join to them the soldiers returning by the thousand from the defeated army, and to place a capable head at their head. Had the King
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-120">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-120">Heft 2, S. 120</a></h2>
+<section class="lit-passage" id="p-2-120" data-page="120" data-part="2">
+<div class="pg" id="p2-120"><a href="#p2-120">S. 120</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 dies gethan, und dem Grafen selbst den Auftrag gegeben, dies Projekt auszuführen, so wäre es auch ausgeführt worden. Er theilte aber dem Minister Hoym diesen Vorschlag mit, der gar nicht dafür stimmte.
@@ -7946,12 +7547,10 @@ I cannot concur with Count Hoym in this. Had Silesia not possessed 8 fortresses,
 But it came to nothing, since the King had not at once resolved upon its speedy execution, and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-121">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-121">Heft 2, S. 121</a></h2>
+<section class="lit-passage" id="p-2-121" data-page="121" data-part="2">
+<div class="pg" id="p2-121"><a href="#p2-121">S. 121</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sogar 7000 Gewehre von Schweidnitz nach Graudenz beschied, 10,000 Rekruten aber die man aushob ebenfalls dahin marschiren lassen wollte. Pükler in Verzweiflung über sein vereiteltes Projekt begieng die Sottise sich zu erschießen, und seine dadurch bis zum Wahnsinn gebrachte liebenswürdige Frau folgte ihm bald durch einen Selbstmord nach).
@@ -7966,12 +7565,10 @@ even ordered 7,000 muskets from Schweidnitz to Graudenz, and moreover wished to 
 Meanwhile a Silesian cavalier, Baron von Lütteritz, had travelled to the King at headquarters, and had there worked toward the very same point that Pückler had striven to attain. The King resolved to effect Silesia's defence by the proposed means through Prince Anhalt-Pless. He appeared, and under the date of 7 November, on the day of the surrender of Glogau, his well-known manifesto appeared, together with Baron von Lütteritz's appeal to the Silesians to place themselves voluntarily under the Royal banners. But now a different point in time had arrived than 4 weeks earlier. Glogau was gone; the enemy found the provincial authorities here; they had to swear him the oath of fealty, and through their authority he forced the Glogau Department into obedience without sufficient troops, and Prince Pless might send counter-orders as much as he pleased, yet the fear of the enemy had already become so much the master of the people that even in regions to which the enemy could not penetrate (so long as Schweidnitz was not conquered) they satisfied the French requisitions imposed by the Glogau Chamber. Prince Pless, moreover, likewise took only half measures: for instead of taking the necessities for his army — huntsmen, muskets, recruits, horses — by force wherever he found them, he left it to the free will of the Silesians. Before the conquest of Glogau this would have succeeded; afterward it was not so.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-122">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-122">Heft 2, S. 122</a></h2>
+<section class="lit-passage" id="p-2-122" data-page="122" data-part="2">
+<div class="pg" id="p2-122"><a href="#p2-122">S. 122</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Indem Pleß nun noch Breslaus Vertheidigung befahl, statt die Besatzung dieses unhaltbaren Orts nach Schweidnitz zu versetzen, die Kammer aber nach Neiße zu senden; indem er einen dummen Esel von Commandanten in Schweidnitz in seinem Posten ließ, statt daß er den tüchtigsten Offizier von der Artillerie einen jungen unternehmenden Mann hier hätte ansetzen sollen; indem er ohne Umsicht sich auf zwecklose Unternehmungen einließ, statt in Glaz und Neiße eine Armee zu organisiren, gieng seine Vertheidigung des Landes den Krebsgang.
@@ -8002,12 +7599,10 @@ Since fear has become more the property of men than courage, and since one saw o
 But when many authorities could make no distinction whatever between regular enemy troops and marauders, stragglers, and deserters, allowing themselves to be plundered
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-123">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-123">Heft 2, S. 123</a></h2>
+<section class="lit-passage" id="p-2-123" data-page="123" data-part="2">
+<div class="pg" id="p2-123"><a href="#p2-123">S. 123</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und mißhandeln ließen, auf der andern Seite aber auch wieder jeden Schuft, der eine preußische Uniform trug und eine Räubercompagnie errichtete, respektirte und sich dadurch den französischen Militaircommissionen übergaben, so war dies wohl die größte Poltronnerie, die sich nur denken läßt.
@@ -8038,12 +7633,10 @@ I believe the following security measures ought to have been taken, presupposing
 Every town, every community had to elect a committee charged with watching over the internal security of the place; the youngest men in the locality were drawn together into a National Guard like that of Berlin, given sabres or pikes, and employed in maintaining internal good order (the gendarmerie established is not sufficient); as soon as individual marauders or detachments (Prussians or
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-124">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-124">Heft 2, S. 124</a></h2>
+<section class="lit-passage" id="p-2-124" data-page="124" data-part="2">
+<div class="pg" id="p2-124"><a href="#p2-124">S. 124</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Alliirte) erschienen, mußten sie ihre Autorisationen zeigen, und dann wurde das Verlangte gereicht.
@@ -8052,7 +7645,7 @@ Dagegen wurden Marodeurs, Deserteurs und Traineurs, unbefugte Requisitionairs vo
 
 Die Alliirten so wie die Preußen könnten hiermit zufrieden seyn, denn jetzt saugen unbefugte Plünderer das Land mehr aus als die feindliche Armee.
 
-##### Der Baron Hammer.
+#### Der Baron Hammer.
 
 Dieser Mann ist Adjutant des General Vandamme baierscher Seits und Kammerherr am Münchner Hofe. In Schlesien erschallt sein Lob überall, wie das des Oberst Lestok; er ist human, zuvorkommend, voll Menschenliebe, wohlthätig bis zur Verschwendung, delikat und uneigennützig bis zur Uebertreibung; in den Städten, wo er sich aufhielt, hat er die Armen ganz im Stillen unterstützt, und so viel Gutes gethan, daß darüber nur eine Stimme ist. Jemanden, der es wagte, ihm ein ansehnliches Präsent zu machen, hat er aus dem Hause werfen lassen. Man schreibt sein und das musterhafte Betragen der würtembergischen Truppen mit ihrem Könige zu, der ehemals in Lüben in Schlesien ein Regiment besaß. Wie werden die Schlesier weinen, wenn diese liebenswürdigen Soldaten einst Schlesien verlassen und mit schlechteren vertauscht werden sollten.
 
@@ -8065,37 +7658,33 @@ Marauders, deserters, and stragglers, on the other hand, and unauthorized requis
 
 The Allies as well as the Prussians could be satisfied with this, for at present unauthorized plunderers suck the land dry more than the enemy army does.
 
-##### Baron Hammer.
+#### Baron Hammer.
 
 This man is adjutant to General Vandamme on the Bavarian side and Chamberlain at the Munich court. In Silesia his praise resounds everywhere, like that of Colonel Lestok; he is humane, obliging, full of love for his fellow men, benevolent to the point of extravagance, delicate and disinterested to the point of exaggeration; in the towns where he stayed he supported the poor quite quietly, and did so much good that there is but one voice about it. Anyone who dared to make him a considerable present he had thrown out of the house. His conduct, and the exemplary conduct of the Württemberg troops, is ascribed to their King, who formerly held a regiment in Lüben in Silesia. How the Silesians will weep if these amiable soldiers should one day leave Silesia and be exchanged for worse ones.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-125">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-125">Heft 2, S. 125</a></h2>
+<section class="lit-passage" id="p-2-125" data-page="125" data-part="2">
+<div class="pg" id="p2-125"><a href="#p2-125">S. 125</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Giebt es nicht auch Kriegsschäden im Frieden?
+#### Giebt es nicht auch Kriegsschäden im Frieden?
 
 Man verlangt von allen Mitgliedern des Staats, erwerbender und nicht erwerbender Klasse, gleiche Mitleidenheit zu den Kriegsleistungen. In diesem oder jenem Kreise Sachsens ist man bemüht gewesen, verschiedene Repartitions-Modos aufzufinden, wovon man den Einen ausposaunt, den Andern getadelt, und dabei den Drang der Umstände, den cathegorischen Imperativ augenblicklicher Nothwendigkeit<sup class="lit-fn"><a href="#n-de-11">11</a></sup>, nicht in Erwägung gezogen hat, welcher bey Ermangelung höherer Autorisationen, die gewöhnlichste Erhebungsart der Landessteuern erheischte, und diejenigen patriotischen Männer, die sich mit eigenen Aufopferungen in den Kreisstädten zu Besorgung des gemeinen Bestens einfanden, zwang, die regelmäßigsten, sichersten und bereitetesten Einkünfte (*paratam pecuniam*) zu Contributionsbeihülfen zu verwenden. Nächst diesem Repartitions-Modus der Contributionserhebung, dem vielleicht selbst ein Engel vom Himmel mit der Wage in diesem Zeitpunkte und bey der einmal bestehenden Verfassung eines *belli omnium*<sup class="lit-fn"><a href="#n-de-12">12</a></sup> *contra omnes*, nicht mehr Richtigkeit zu geben vermocht hätte, beschwert man sich auch neuerdings in verschiedenen Blättern des Reichsanzeigers, Januar, Februar, über
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Are There Not Also War Damages in Peacetime?
+#### Are There Not Also War Damages in Peacetime?
 
 It is demanded of all members of the state, of the acquiring and the non-acquiring classes, that they share equally in bearing the war contributions. In this or that district of Saxony efforts have been made to devise various modes of apportionment, of which one has been trumpeted and another censured, without taking into consideration the pressure of circumstances, the categorical imperative of momentary necessity<sup class="lit-fn"><a href="#n-en-11">11</a></sup>, which, in the absence of higher authorizations, required the most ordinary method of levying the provincial taxes, and compelled those patriotic men who, at their own sacrifice, presented themselves in the district towns to attend to the common good, to apply the most regular, most secure, and most readily available revenues (ready money, *paratam pecuniam*) toward contribution-relief. Besides this mode of apportioning the levy of contributions—to which perhaps not even an angel from heaven, with the scales in hand, could at this juncture and under the once-established condition of a war of all against all (*belli omnium*<sup class="lit-fn"><a href="#n-en-12">12</a></sup> *contra omnes*) have given greater correctness—complaints have also lately been raised in various issues of the Reichsanzeiger, January, February, about
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-126">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-126">Heft 2, S. 126</a></h2>
+<section class="lit-passage" id="p-2-126" data-page="126" data-part="2">
+<div class="pg" id="p2-126"><a href="#p2-126">S. 126</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 die ungleiche Vertheilung der Kriegslasten an Naturalprästationen, Spanndiensten, und Einquartierungen. Was die Naturalprästationen betrifft, so kann man keinesweges läugnen, daß manches Amt, Rittergut, ja sogar ganze Kreise, wie namentlich der Leipziger, vermöge ihrer Lage mehr, denn andere, gelitten haben müssen. Indessen ist auch bereits von der Allerhöchsten Behörde Commission niedergesetzt worden, diese, wie andere liquide Schäden<sup class="lit-fn"><a href="#n-de-13">13</a></sup> oder Disproportionen auszugleichen, von der man übrigens mit patriotischem Muthe gewiß hoffet, daß hierbey auf die sonst gewöhnliche merkantilische Kalkulation und Spedition der Produkte nicht Rücksicht genommen, vielmehr ein richtiges Verhältniß zwischen gegebenem Kaufschilling, durch die Zeitumstände unerhört gestiegene Revenüen, und denen nach jedem vernünftigen Staatsrechte obliegenden Prästationen, von welchem kein Privilegium eximiren kann, zum Grunde gelegt werden wird. Spanndienste und Magazinfuhren, so sehr sie auch durch das Unglück eines Krieges vervielfacht werden mögen, können doch keinem Grundeigenthümer, welcher in seinem Kaufbriefe dieses *onus reale* übernimmt und damit förmlich belehnt wird, unerwartet vorkommen<sup class="lit-fn"><a href="#n-de-14">14</a></sup>, zumal da er auf der andern Seite dafür die Freiheit genießt, seine Erzeugnisse (Produkte), wie wir an den Champagnerflaschen der Landleute gesehen haben, auf jede beliebige Weise kaufmännisch zu versilbern. Eben so sind Einquartierungen, wie Entrichtung der Service-Gelder, nur als ein *onus reale* zu betrachten, das der Grundeigenthümer in Kriegs- und Friedenszeiten allein
@@ -8106,12 +7695,10 @@ die ungleiche Vertheilung der Kriegslasten an Naturalprästationen, Spanndienste
 the unequal distribution of the war burdens as regards deliveries in kind, draught-services, and quartering. As regards the deliveries in kind, it can by no means be denied that many a domain, manor, indeed even whole districts—notably the Leipzig one—must, by virtue of their situation, have suffered more than others. Meanwhile a commission has already been set up by the supreme authority to equalize these, like other liquidated damages<sup class="lit-fn"><a href="#n-en-13">13</a></sup> or disproportions—of which, moreover, one may with patriotic confidence surely hope that in this matter no regard will be paid to the otherwise usual mercantile calculation and forwarding of the products, but rather that a correct proportion will be laid as the foundation: between the purchase-price given, the revenues that have risen unheard-of through the circumstances of the times, and the services incumbent under every rational law of state, from which no privilege can grant exemption. Draught-services and magazine-haulage, however much they may be multiplied by the misfortune of a war, cannot come unexpectedly to any landowner who in his deed of purchase assumes this *onus reale* (a real burden: an obligation running with the land itself, not the person) and is formally enfeoffed with it<sup class="lit-fn"><a href="#n-en-14">14</a></sup>, especially as he on the other hand enjoys in return the liberty of turning his produce (products) into cash commercially in any manner he pleases, as we have seen in the champagne-bottles of the country folk. In the same way, quartering, like the payment of service-monies, is to be regarded only as an *onus reale*, which the landowner alone has to bear
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-127">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-127">Heft 2, S. 127</a></h2>
+<section class="lit-passage" id="p-2-127" data-page="127" data-part="2">
+<div class="pg" id="p2-127"><a href="#p2-127">S. 127</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zu tragen hat, wogegen er sich mit willkührlichen durch kein Civil- oder Polizeigesetz eingeschränkten Erhöhungen des Miethzinses, die mit den Abgaben eben in keinem Verhältniß zu stehen brauchen, im Voraus auf mehrere Jahre hinaus schadlos halten kann. Sollte sich nach Lokalverhältnissen gar finden, daß dem Abmiether durch die Contrakte (nächst Kindergeschrey und Hausthieren) die Sublokation selbst bey den günstigsten Umständen, förmlich untersagt wird<sup class="lit-fn"><a href="#n-de-15">15</a></sup>; so ist eine in Kriegszeiten ihm aufgedrungene lediglich *onerosa sublocatio*, zu der ihn keine Real- oder Personalobligation verbindet, die größte Ungerechtigkeit, welche sich erdenken läßt. — Allen diesen Arten von Grundeigenthümern, welche sich über dergleichen nothwendige und an ihrem Grundeigenthum haftenden nur scheinbar disproportionirten Lasten beklagen, muß man zu erkennen geben, daß eben so wenig, wie andre durch Spekulation erwerbende Klassen, welche von irgend einem Gegenstande ihrer Spekulation (z. B. einer Gattung von Waaren) bisher unverhältnißmäßig gewonnen, und nun eine auf diese Gegenstände gelegte Last tragen müssen, eben so wenig auch sie, von dem Staate nach Recht und Billigkeit volle Gewährleistung und Schadloshaltung erwarten dürfen. Könnten nicht gerade die übrigen durch Spekulation nicht erwerbenden Klassen des Staats, von welchen sie diese Mitleidenheit und Schadloshaltung verlangen, nicht vielmehr ihnen dagegen die durch den Krieg im Frieden (die kaufmännische Verkaufung des Getraides, Branntweins u. s. w.) verursachten Schäden in Rechnung bringen, welche nur diese ausschließlich trafen, während die durch Spekulation erwerbenden dadurch gewannen? Die Klassen,
@@ -8122,12 +7709,10 @@ zu tragen hat, wogegen er sich mit willkührlichen durch kein Civil- oder Polize
 in times of war and peace, whereas against it he can indemnify himself in advance for several years by arbitrary increases of the rent, restricted by no civil or police law, which need bear no proportion whatever to the taxes. Should it even be found, according to local circumstances, that the tenant is formally forbidden by the contracts (along with children's crying and domestic animals) from sub-letting even under the most favorable circumstances<sup class="lit-fn"><a href="#n-en-15">15</a></sup>, then an *onerosa sublocatio* (a burdensome sub-letting) forced upon him in wartime, to which no real or personal obligation binds him, is the greatest injustice that can be conceived. — To all these sorts of landowners who complain of such necessary burdens, only apparently disproportionate, that attach to their landed property, one must make it plain that just as little as other classes acquiring through speculation—who have hitherto gained disproportionately from some object of their speculation (e.g. a kind of goods) and must now bear a burden laid upon these objects—just as little may they too expect from the state, according to right and equity, full guarantee and indemnification. Might not precisely the other, non-speculating classes of the state—from whom they demand this joint liability and indemnification—rather charge against them, on their side, the damages caused by the war in peacetime (the commercial selling-off of the grain, brandy, etc.), which fell exclusively upon these alone, while those acquiring through speculation gained thereby? The classes
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2-128">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2-128">Heft 2, S. 128</a></h2>
+<section class="lit-passage" id="p-2-128" data-page="128" data-part="2">
+<div class="pg" id="p2-128"><a href="#p2-128">S. 128</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 von welchen jene Schadloshaltung insbesondere gefordert werden dürfte, welche eben so, wie die andern im Kriege verlieren, aber nicht wie die andern auf Schadloshaltung dringen, ihrem Schaden selbst im Kriege wieder beizukommen wissen, sind größtentheils Individuen, die von Renten und fixer Besoldung leben, und welche, ungeachtet sie größtentheils arbeitsamer sind, als mancher Pachter, der sich durch Schleifwege einen gemächlichen Pacht erschleichet, doch in den blühenden Zeiten des Friedens kaum im Stande waren, ihr kümmerliches Leben zu fristen<sup class="lit-fn"><a href="#n-de-16">16</a></sup>. Könnten nicht diese Klassen, welche weder vor dem Publikum, noch auf Land-Stifts- und Ausschußtagen repräsentirt werden, und gewöhnlich ihr Ungemach im Stillen tragen, sich über einen geheimen Krieg der speculirenden und distribuirenden Stände in Friedenszeiten beklagen, der sie, nur sie vorzüglich trifft, der zur schädlichsten innersten Krankheit der Gesellschaft wird, der sich als Theuerung, Hungersnoth und Wucher äußert, der manche Stunde mit einer geheimen gegenseitigen Bitterkeit füllt und über lang oder kurz in unruhigen Zeiten öffentlich ausbricht? könnten nicht diese Klassen jetzt anfragen:
@@ -8146,21 +7731,20 @@ from whom that indemnification might in particular be demanded—who lose in war
 ---
 
 </div>
-</div>
 </section>
+<h2 class="lit-sec" id="part-3">Heft 3</h2>
 
-<section class="lit-passage" id="p-3-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-front">Heft 3, vor der ersten Seite</a></h2>
+<section class="lit-passage" id="p-3-front" data-part="3">
+<div class="pg"><a href="#p-3-front">Titel</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-### Neue Feuerbrände.
+## Neue Feuerbrände.
 
 Herausgegeben von dem Verfasser der vertrauten Briefe über die innern Verhältnisse am Preußischen Hofe seit dem Tode Friedrichs II.
 
 Ein Journal in zwanglosen Heften.
 
-#### Drittes Heft.
+### Drittes Heft.
 
 *Mit einem Kupfer.*
 
@@ -8170,13 +7754,13 @@ bei Peter Hammer.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-### New Firebrands.
+## New Firebrands.
 
 Published by the author of the Confidential Letters on the Internal Affairs of the Prussian Court since the Death of Frederick II.
 
 A journal in occasional issues.
 
-#### Third Part.
+### Third Part.
 
 *With an engraving.*
 
@@ -8184,15 +7768,13 @@ Amsterdam and Cölln, 1807.
 bei Peter Hammer.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-v">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-v">Heft 3, S. v</a></h2>
+<section class="lit-passage" id="p-3-v" data-page="v" data-part="3">
+<div class="pg" id="p3-v"><a href="#p3-v">S. v</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Inhalt.
+#### Inhalt.
 
 | | |
 |---|---|
@@ -8208,7 +7790,7 @@ bei Peter Hammer.
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Contents.
+#### Contents.
 
 | | |
 |---|---|
@@ -8222,12 +7804,10 @@ bei Peter Hammer.
 | Interesting Trifles. | 111 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-VI">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-VI">Heft 3, S. VI</a></h2>
+<section class="lit-passage" id="p-3-VI" data-page="VI" data-part="3">
+<div class="pg" id="p3-VI"><a href="#p3-VI">S. VI</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 | | |
@@ -8244,15 +7824,13 @@ bei Peter Hammer.
 | Statement by the Author of the Confidential Letters on the Internal Affairs of the Prussian Court, etc. concerning the Black Register in the Second Part of the New Firebrands | 129 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-VII">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-VII">Heft 3, S. VII</a></h2>
+<section class="lit-passage" id="p-3-VII" data-page="VII" data-part="3">
+<div class="pg" id="p3-VII"><a href="#p3-VII">S. VII</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Erklärung des Titelkupfers.
+#### Erklärung des Titelkupfers.
 
 Der ehemalige Commandant von Schweidnitz, Herr von Haak, der nach der Aktion bey Kant in die Hände der Preußen zu fallen fürchtete, daher nach Dresden eilte, unterwegs unweit Bunzlau aber von den Bauern gemißhandelt wurde, besuchte nach der Capitulation von Schweidnitz das benachbarte Städtchen Jauer; die Bürger thaten ihm hier eine Ehre an, und warfen seine Fenster ein. Er logirte in einem Gasthofe am Markte. Er eilte zu dem Wirth in die Gaststube hinunter, und sprach:
 
@@ -8267,7 +7845,7 @@ Die Ehre war auf ihrer Seite!
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Explanation of the Title Engraving.
+#### Explanation of the Title Engraving.
 
 The former commandant of Schweidnitz, Herr von Haak, who after the action at Kant feared falling into the hands of the Prussians and therefore hastened to Dresden, but on the way, not far from Bunzlau, was manhandled by the peasants, visited the neighbouring little town of Jauer after the capitulation of Schweidnitz; here the townsfolk did him an honour, and smashed in his windows. He lodged at an inn on the market square. He hurried down to the innkeeper in the taproom, and said:
 
@@ -8280,15 +7858,13 @@ The honour was on your side!
 *Confidential Letters, second part, p. 92, large edition.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-VIII">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-VIII">Heft 3, S. VIII</a></h2>
+<section class="lit-passage" id="p-3-VIII" data-page="VIII" data-part="3">
+<div class="pg" id="p3-VIII"><a href="#p3-VIII">S. VIII</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Berichtigung zweyer Stellen im zweyten Theil der vertrauten Briefe ic.
+#### Berichtigung zweyer Stellen im zweyten Theil der vertrauten Briefe ic.
 
 Seite 38. im vierten Briefe heißt es:
 
@@ -8305,7 +7881,7 @@ S. 82, 83 im vierten Briefe werden einige Beispiele angeführt, daß manche Offi
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Correction of Two Passages in the Second Part of the Confidential Letters etc.
+#### Correction of Two Passages in the Second Part of the Confidential Letters etc.
 
 On page 38, in the fourth letter, it reads:
 
@@ -8320,17 +7896,15 @@ On pp. 82, 83 of the fourth letter, several examples are cited to show that cert
 > The delivery of raw produce can only be burdensome for the country if the sale of its manufactures to the army also brings it profit; hence meat can no longer be afforded, and its prices bear no proportion to that of grain. How is the peasant to till his field when his draught oxen are slaughtered? But how do officials come to be making deliveries? Is that seemly? Is it right? Let each man keep to his own trade.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-1">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-1">Heft 3, S. 1</a></h2>
+<section class="lit-passage" id="p-3-1" data-page="1" data-part="3">
+<div class="pg" id="p3-1"><a href="#p3-1">S. 1</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Correspondenz-Nachrichten.
+### Correspondenz-Nachrichten.
 
-##### Ein Paar Briefe über Dies und Jenes in der Preußischen Armee, besonders über das Feldverpflegungswesen.
+#### Ein Paar Briefe über Dies und Jenes in der Preußischen Armee, besonders über das Feldverpflegungswesen.
 
 *Berlin 1806.*
 
@@ -8341,9 +7915,9 @@ Die Organisation der Pr. Armee war bis in ihre kleinsten Theile, nach Friedrichs
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Correspondence Notices.
+### Correspondence Notices.
 
-##### A Few Letters on This and That in the Prussian Army, Particularly on the Field Commissariat.
+#### A Few Letters on This and That in the Prussian Army, Particularly on the Field Commissariat.
 
 *Berlin 1806.*
 
@@ -8352,12 +7926,10 @@ You call upon me, my esteemed friend, to give you some account of the provisioni
 The organization of the Prussian army was, down to its smallest parts, after the principles of Frederick the Great, a model of regularity and order, exactly suited to the age. And even though the manifold conjunctures of the Seven Years' War produced frequent disturbances therein, Frederick's great powers of oversight always dispelled the injurious consequences that might otherwise have been feared,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-2">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-2">Heft 3, S. 2</a></h2>
+<section class="lit-passage" id="p-3-2" data-page="2" data-part="3">
+<div class="pg" id="p3-2"><a href="#p3-2">S. 2</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Details von der damaligen Verpflegungsverfassung kenne ich nicht, aber die Organisation derselben muß gut gewesen seyn: denn die Armee siegte, behielt den Muth, blieb tapfer, hatte Liebe und Anhänglichkeit an ihren König, und ertrug den vorübergehenden Mangel, wo er nicht abzuwehren war, mit Geduld. Auch kannte der Soldat damals noch nichts von der Weichlichkeit, die später hin und bis jetzt in der Armee, besonders durch die vielen Verheirathungen der Soldaten und durch den hierdurch erfolgten Uebergang derselben ins bürgerliche gewerbetreibende Leben, eingerissen und für die Armee vom größten Nachtheil ist.
@@ -8376,12 +7948,10 @@ Above all things Frederick, the peerless Frederick, always saw to it that the ma
 For the rest, the ration in kind then assured to the soldier by establishment consisted merely of a daily bread portion of 2 pounds and, every 5 days, 1 groschen 6 pfennigs meat-money, wherever it was not held possible or was deemed unnecessary to issue meat in kind. Such distributions of meat did indeed take place often, especially when the troops were encamped; but it was not the case without interruption. In the cantonments the householders had to feed the soldiers. The distribution of all other provisions
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-3">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-3">Heft 3, S. 3</a></h2>
+<section class="lit-passage" id="p-3-3" data-page="3" data-part="3">
+<div class="pg" id="p3-3"><a href="#p3-3">S. 3</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 geschahe nur dann, wenn man in Gegenden stand, wo bei den Einwohnern Mangel herrschte. Der Soldat kam übrigens in jenen wohlfeilen Zeiten mit seinem Solde gut aus.
@@ -8404,17 +7974,15 @@ Most of the army's necessaries were procured through contractors, and the least 
 It is true that some among the contractors enriched themselves; yet that was no detriment to the army, so long as care was only taken that they fulfilled their contracts, and this they had to do at their own risk. If, then, they earned much, it was the consequence of their advantageous purchasing, and thus a lawful gain. Such business, moreover, absolutely requires men who possess capital and mercantile knowledge; and one must also make them fair terms if one wishes to prevent embezzlement and poor provisioning
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-4">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-4">Heft 3, S. 4</a></h2>
+<section class="lit-passage" id="p-3-4" data-page="4" data-part="3">
+<div class="pg" id="p3-4"><a href="#p3-4">S. 4</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 der Soldaten verhüten will. Die Hauptsache ist, dahin zu trachten, daß sich niemand auf Kosten der Armee bereichere, und daß vielmehr diese Alles erhalte was sie bedarf und was für sie bezahlt wird. Friedrich der Große hatte eine vorzügliche Gabe, sich dem Soldaten beliebt zu machen, und ihn durch sein Beispiel an Genügsamkeit und selbst an den Mangel zu gewöhnen. Dabei war Entschlossenheit und Kürze in allen Militairangelegenheiten eingeführt, und am wenigsten durfte eine unzeitige Spaarsamkeit den Gang der Operationen aufhalten. Mein nächster Brief soll Ihnen mittheilen, ob man Friedrichs Prinzipe im Verpflegungswesen der Armee bis jetzt beibehielt.
 
-###### 1806.
+##### 1806.
 
 Friedrich der Einzige segnete das Zeitliche in einer Periode der Ruhe, des Friedens und des Wohlstandes seiner Länder. Ob die Hoffnung in der Sterbestunde seinen unsterblichen Geist umschwebte, und seinem so ruhmwürdig geschaffenen Reiche — Fortdauer versprach? ist zweifelhaft. Aber gewiß ist es, daß er vielen Personen zu lange regiert hatte, und diese seinen Tod als ein höchst glückliches Ereigniß ansahen. Viele Menschen prophezeiheten den augenblicklichen Krieg, indem sie glaubten: Oestreich würde Schlesien, welches Friedrich, dem Sieger, nicht wieder zu entreißen war, doch gewiß seinem Vetter nicht lassen; aber sie irreten sich. Es war Friede — und blieb es auch. Friedrich Wilhelm II. der so ganz für den Genuß geschaffen war, und bei Friedrichs Leben nur so verstohlen genießen
 
@@ -8423,17 +7991,15 @@ Friedrich der Einzige segnete das Zeitliche in einer Periode der Ruhe, des Fried
 
 of the soldiers. The main thing is to strive that no one enrich himself at the army's expense, and that the army rather receive everything it needs and everything that is paid for on its behalf. Frederick the Great had an excellent gift for making himself beloved of the soldier, and for accustoming him by his own example to frugality and even to want. Withal, resoluteness and brevity were introduced in all military affairs, and least of all might an untimely thrift hold up the course of operations. My next letter shall inform you whether Frederick's principles in the provisioning of the army have been maintained down to the present.
 
-###### 1806.
+##### 1806.
 
 Frederick the peerless departed this life in a period of tranquillity, of peace, and of prosperity for his lands. Whether hope hovered about his immortal spirit in the hour of death, and promised — continuance — to the empire he had so gloriously created, is doubtful. But certain it is that he had reigned too long for many persons, and that these regarded his death as a most fortunate event. Many people prophesied immediate war, believing that Austria would surely not leave to his cousin the Silesia which could not be wrested back from Frederick the victor; but they were mistaken. There was peace — and peace it remained. Frederick William II., who was so wholly made for enjoyment, and who during Frederick's lifetime had been permitted to enjoy only so furtively,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-5">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-5">Heft 3, S. 5</a></h2>
+<section class="lit-passage" id="p-3-5" data-page="5" data-part="3">
+<div class="pg" id="p3-5"><a href="#p3-5">S. 5</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 durfte, überließ sich jetzt der Unbeschränktheit seines Willens, und der Anfang seiner Regierungsgeschichte bestand aus einer sehr gemischten Menge von edlen Zügen seines Herzens, aus wohlthätigen Absichten, und den traurigen Beweisen seiner Schwächen und Ausschweifungen, durch die er sich nach und nach in die Hände einiger Bösewichter oder unwissender Menschen gab. Inzwischen nahm der Glanz der Hauptstadt durch die Geldströme, die vom Hofe ins Publikum flossen, bedeutend zu, wie das bei jeder verschwenderischen Regierung der Fall ist.
@@ -8448,12 +8014,10 @@ now gave himself over to the unrestraint of his own will, and the beginning of h
 The army had every reason to rejoice in the new sovereign; for his earnest solicitude for its welfare afforded it considerable benefit. It was completely re-equipped and outfitted in exceedingly tasteful fashion; the young officers, who as yet knew nothing of the military estate but the uniform, took great delight in this; they never ceased to assure everyone how much the army had gained through the new sovereign — for the uniform, after all, was handsomer. Yet with better right the common soldier rejoiced, whose kit had become far more complete and comfortable, and who received some assistance in money and bread for his children. The insolence of the Dutch patriots toward their Stadtholderess, the sister of William, was, during his so brilliantly begun reign, the first occasion for a part of the army to take up arms and march into Holland. There was great suspense over the outcome of this campaign,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-6">Heft 3, S. 6</a></h2>
+<section class="lit-passage" id="p-3-6" data-page="6" data-part="3">
+<div class="pg" id="p3-6"><a href="#p3-6">S. 6</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 denn man glaubte an nichts geringeres: als an die Vereinigung Hollands mit Preußen.
@@ -8480,12 +8044,10 @@ The Duke of Brunswick soon chastised the discourteous Dutchmen, and the soldiers
 With respect to the provisioning of this army, nothing remarkable had occurred; the march went through Westphalia and Cleves, the King granted extra allowance on the march, and the peasants too were to be paid for the entertainment of the troops passing through (whether this was done I do not know). In Wesel, etc., filled magazines were found, and in Holland the patriots had to entertain the uninvited guests. Where the men encamped, meat, vegetables, brandy, and beer were distributed with much order. After this small march of execution, which was merely a family matter of the King's, Prussia enjoyed undisturbed peace until, in the year 1790, a political cause called the army into the field.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-7">Heft 3, S. 7</a></h2>
+<section class="lit-passage" id="p-3-7" data-page="7" data-part="3">
+<div class="pg" id="p3-7"><a href="#p3-7">S. 7</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es war nehmlich die Eifersucht über Oestreichs zunehmende Größe durch die Eroberungen im damaligen Türkenkriege, welcher Friedrich Wilhelm, unterstützt durch die Insurrection der Niederländer, und durch die Absicht der Ungarn diesem Beispiele zu folgen, welches sie dem Könige durch insgeheim abgeschickte Magnaten wissen ließen, Gränzen setzen wollte.
@@ -8504,12 +8066,10 @@ The preparations concerned the whole army; they proceeded briskly; the soldiers 
 Throughout the whole country no apprehension was noticeable, but only the liveliest participation. All the workshops were filled with workmen making the splendid field equipages. Fine horses and well-dressed grooms crisscrossed the capital. The finest spectacle for the Berliners was the King's equipage, which very often paraded through the city; it consisted of new, beautifully painted wagons, whose purpose was announced by their inscriptions, e.g. Royal Pr. Silver Wagon, Cellar Wagon, Kitchen Wagon, Treasury Wagon, etc., and furthermore of more than 100 mules which, adorned with fine caparisons and colourful plumes, were intended to carry burdens. It was an oriental magnificence, and people compared it to the military procession of Xerxes. The veterans of Frederick II. were indeed of the opinion that of war
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-8">Heft 3, S. 8</a></h2>
+<section class="lit-passage" id="p-3-8" data-page="8" data-part="3">
+<div class="pg" id="p3-8"><a href="#p3-8">S. 8</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sei keine Rede, und man müsse damit ja keinen Luxus treiben; diese Reden waren aber sehr vergeblich.
@@ -8528,12 +8088,10 @@ The march of the troops was to take place in May, but it had to be postponed for
 In June the magnificent army at last marched out from its garrisons, and blessed Silesia received it; they fronted toward Bohemia. The peaceable Leopold saw the host at his frontier, fulfilled Prussia's demands, gave back to the Turks the advantages won by Joseph, thwarted the hopes of the proud Hungarians, and at Reichenbach the peace was signed.<sup class="lit-fn"><a href="#n-en-17">17</a></sup> The provisioning arrangements for this campaign were, since no preparations at all had been made, very poor. There was indeed no lack of forage, for Silesia had to supply it, and the commissaries lived well. With the food provisions matters stood badly,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-9">Heft 3, S. 9</a></h2>
+<section class="lit-passage" id="p-3-9" data-page="9" data-part="3">
+<div class="pg" id="p3-9"><a href="#p3-9">S. 9</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 denn Schlesien hat auch viel arme Bewohner, die keine Einquartirung ernähren können. Die Türken schenkten der Armee einige Tonnen Reis, alles übrige fiel dem Lande zur Last. Im October kehrten alle Regimenter in ihre Garnisonen zurück. Ein Heer von Officianten wurde wieder brodlos und bereuete die kurze Dauer des Feldzugs, jeder hatte indessen so gut wie möglich für sich gesorgt. Bei dem Hauptmagazin in Frankfurth gab man allein einige hundert Wispel Mäusefraß an. Durch Untersuchungen war nichts mehr zu gewinnen, also — schlug man alles nieder.
@@ -8556,12 +8114,10 @@ In 1791 there was another campaign into Prussia, occasioned by misunderstandings
 In 1792 a part of the army went to the Rhine, where, after two futile marches, a serious war at last broke out. Although only a part of it marched thither, the King nevertheless followed in person, and indeed with the greatest pomp. In his retinue were:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-10">Heft 3, S. 10</a></h2>
+<section class="lit-passage" id="p-3-10" data-page="10" data-part="3">
+<div class="pg" id="p3-10"><a href="#p3-10">S. 10</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Comödianten und Musici, Favoritin und Kammerherrn; Geisterseher und Leibschneider, so daß in Frankfurth am Mayn ein vollständiger Hofstaat mit einem großen Ueberfluß von unnützen Personen zusammen kam, die alle in der größten Fülle lebten, und eine Verschwendung trieben, die den preußischen Staat erschöpfen mußte.
@@ -8580,12 +8136,10 @@ Out of an over-clever mania for improvement, more elaborateness had long since b
 More officials were appointed than were necessary for the whole army; their entire personnel consisted of nothing but men of connexions: favoured lackeys, good-for-nothing idlers, even journeymen artisans — for there was actually among them a tailor's son who had already learned his father's trade, and a button-maker's journeyman; further, bankrupt merchants, corn-Jews, and horse-copers; and so it went up to the superiors, who were likewise creatures of patronage and darlings of fortune. What was to be expected from a campaign begun in such a way — the men of insight in the state foresaw in advance, and the enormous sums this campaign cost proved that they were right. Sadder still was the experience: that amid the most outrageous extravagance the army suffered the greatest want, and only the iron perseverance and the frugality of the troops, together with the laudable subordination peculiar to the Prussian
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-11">Heft 3, S. 11</a></h2>
+<section class="lit-passage" id="p-3-11" data-page="11" data-part="3">
+<div class="pg" id="p3-11"><a href="#p3-11">S. 11</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Armee eigenthümliche Subordination, brachten die Siege hervor, die dort erfochten wurden.
@@ -8608,12 +8162,10 @@ Frederick William was too great a friend of mankind not to provide, or rather to
 Some councillors of high standing had been placed at the head of the army's commissariat; elaborate service instructions had been drawn up for the officials — everything was to be documented, calculated, and controlled — and yet men had been appointed who were utterly unfit for such business.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-12">Heft 3, S. 12</a></h2>
+<section class="lit-passage" id="p-3-12" data-page="12" data-part="3">
+<div class="pg" id="p3-12"><a href="#p3-12">S. 12</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es schien aber auch auf nichts anders anzukommen, als auf Bereicherung der Officianten, und einer folgte immer dem Beispiel des andern. Ein in Longwy bei der Retirade zurückgelassenes Magazin, ungefähr 6000 Thaler an Werth, wurde für mehr als 100,000 Thaler in Rechnung gebracht; man schämte sich nicht, 60,000 Thaler blos für Säcke in Rechnung zu bringen; man verpflegte die Oestreicher heimlich aus unsern Magazinen wo es der Privatvortheil erheischte. Und zu der nähmlichen Zeit, als die Englische Armee unter dem Herzog von York, durch gewissenlose Lieferanten, aus den Niederländern und aus Holland hinaus geliefert und vom Hunger vernichtet dort eingeschifft wurde, war auch die preußische Armee dem Wucher preis gegeben und litt Mangel, während sich die Lieferanten und Verpflegungsbeamten, bis zum Subalternenschreiber hinab, in köstlichem Weine berauschten, und ihre Pharaotische mit Geld beladen waren.
@@ -8628,12 +8180,10 @@ It seemed, however, that nothing else mattered than the enrichment of the offici
 This mischief was overlooked, and had of necessity to be overlooked, for it came down from above. Instead, men clung to the most elaborate and equally useless form. Millions of lines were drawn just as uselessly as millions of thalers were squandered; accounts were written, false vouchers fabricated, and tables made. Every error *in calculo* and every offence against the form were reprimanded in sheet-long admonitions, and often, over ⅔tel pfennigs that did not agree either with the establishment or with the returns, letters were written back and forth ten times
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-13">Heft 3, S. 13</a></h2>
+<section class="lit-passage" id="p-3-13" data-page="13" data-part="3">
+<div class="pg" id="p3-13"><a href="#p3-13">S. 13</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und endlich — niedergeschlagen. Dagegen prüfte man nie, ob die in Rechnung gebrachten Summen auch würklich ausgegeben waren, und nothwendig ausgegeben werden mußten? noch weniger, ob, und wie, der Soldat und der Knecht alles erhielt, was ihm nach dem Etat versichert war, oder ob die Personalbestände auch mit den eingegebenen Listen genau überein stimmten? Eben so wenig sahe man die schlechten Pferde, die der Hunger zu Grunde richtete, während die Trainofficianten für sich fouragirten und mit den Magazinbeamten den verderblichen Rationshandel trieben.
@@ -8648,12 +8198,10 @@ and at last — written off. But it was never examined whether the sums entered 
 A couple of groschen spent over the establishment always occasioned a lengthy inquiry, yet sums uselessly expended or falsely entered into the accounts could never arouse the slightest suspicion, so long as the form was satisfied. The failure to lay in the magazines before the war, and the hasty procurement of them through contractors — to whom, in return for generous offers, the most advantageous terms and prices were conceded, and who, upon delivery, were assured of every indulgence by the magazine officials through their own liberality — made the war incredibly costly. The soldiers received little provision in kind, and, given the strict discipline and the forbearance the King had promised the Rhinelanders, had for the most part to live in their quarters on their pay; how far this could stretch amid the dearness of goods may easily be
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-14">Heft 3, S. 14</a></h2>
+<section class="lit-passage" id="p-3-14" data-page="14" data-part="3">
+<div class="pg" id="p3-14"><a href="#p3-14">S. 14</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 denken, besonders da der Soldat im Felde fast immer nur vom Marquetender kaufen kann. Auch die Montirungsstücke, die lange vorher schon nach einem verderblichen Grundsatz nur von dem mindest fordernden angefertigt, und der Armee durch Kaufleute, Monopolisten und Juden geliefert wurden, waren — wie natürlich — sehr schlecht. Und doch hielt die Armee unter der Last dieser Mißbräuche gegen einen Feind aus, der im Ueberfluß lebte, mit Enthasiasmus focht, und ohne Militairgesetze überall Zügellosigkeit übte.
@@ -8672,19 +8220,17 @@ The officers likewise were left a prey to usury; a couple of Jews had followed t
 Three years this draining-off of the national wealth lasted — increased still further by the war that broke out in Poland at the same time — until at last the peace with France in 1795 and the annexation of South Prussia brought the war to an end. The commissariat officials returned with magnificent equipages and heavy baggage; they had reaped a harvest for their whole lifetime, and were so little ashamed of their gains that they spoke of them very freely and in detail — one even led behind him, on his return to Potsdam,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-15">Heft 3, S. 15</a></h2>
+<section class="lit-passage" id="p-3-15" data-page="15" data-part="3">
+<div class="pg" id="p3-15"><a href="#p3-15">S. 15</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 einige Wagen mit Rheinwein beladen hinter sich her. Die letzte Gelegenheit zum Erwerb nutzten alle durch Einführung einer Menge contrebander Waaren.
 
 Die armen Collegen in Pohlen hatten indessen einen harten Stand, denn hier war viel Beschwerde und wenig oder gar nichts zu verdienen, sie kehrten mit bitterm Neide gegen ihre Amtsbrüder zurück, von denen einige, trotz ihres reichlichen Erwerbs, noch Pensionen oder einträgliche Aemter erhielten. Die Untersuchungen über das Geschehene fiengen an, konnten aber durch nichts als durch Niederschlagung geendigt werden, welches denn auch nach einigen Jahren geschahe. Die Registraturen nahmen die kolossalen Aktenballen auf, die nichts enthielten: als die Beweise großer Fehler und großer Unterschleife. Aus meinem folgenden Briefe werden Sie beurtheilen können: ob man die Rheincampagne nicht wenigstens als eine Erfahrungsschule für die Zukunft genutzt hat. ꝛc.
 
-###### 1806.
+##### 1806.
 
 Friedrich Wilhelm II. suchte die Wunde zu heilen, die dem Staate durch die Rheincampagne geschlagen war; aber dies war vergebens, denn der Eigennutz fand immer mehr Spielraum. Die Armee erholte sich zwar äußerlich wieder, und die Pracht wurde größer als sie vorher war, aber die Offiziere waren einmal dem Wucher in die Hände gegeben und verschuldeten immer tiefer.
 
@@ -8697,19 +8243,17 @@ several wagons loaded with Rhine wine. The last opportunity for gain they all ex
 
 Their poor colleagues in Poland, meanwhile, had a hard time of it, for there was much hardship there and little or nothing to be earned; they returned with bitter envy against their fellow officials, some of whom, despite their ample earnings, still received pensions or lucrative posts. Inquiries into what had happened began, but could be ended by nothing except quashing, which indeed came to pass after some years. The record offices took in the colossal bundles of files, which contained nothing but the proofs of great faults and great embezzlements. From my next letter you will be able to judge whether the Rhine campaign was not at least turned to account as a school of experience for the future. etc.
 
-###### 1806.
+##### 1806.
 
 Frederick William II. sought to heal the wound that had been dealt to the state by the Rhine campaign; but this was in vain, for self-interest found ever greater scope. The army did indeed recover outwardly, and its splendour grew greater than it had been before, but the officers had once and for all been delivered into the hands of the usurers, and fell ever deeper into debt.
 
 The monarch looked on — though not without concern — yet calmly at the further spectacle in Europe; he did not again draw the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-16">Heft 3, S. 16</a></h2>
+<section class="lit-passage" id="p-3-16" data-page="16" data-part="3">
+<div class="pg" id="p3-16"><a href="#p3-16">S. 16</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Schwerdt nicht wieder, that aber auch leider nichts, um den Staat gegen einen künftigen Krieg vorzubereiten oder sicher zu stellen. Seine körperlichen Leiden nahmen zu, und legten ihn endlich, seiner Lebenslust ungeachtet, zu seinen Vätern.
@@ -8724,12 +8268,10 @@ sword, but sadly did nothing either to prepare the state against a future war or
 For the country a morning full of hope dawned; Frederick William III. entitled us to the fairest expectations. Many bad officials were dropped from the ranks of the active, and with them many abuses gave way to better administration. Only of the army could this not be said; there was too much toying with the soldiers, and a spreading spirit of pettiness threw the true military character quite out of its proper course. The good arrangements that still existed in the matter of uniforms, especially for the officers, were wholly abolished through a mistaken view of the matter and through an imagined notion of compulsion, and the officers were granted a freedom in the matter of uniforms that could not but be highly injurious to them. It was a measure such as the Jews themselves might have invented, for through it they got almost the whole uniform business into their hands, which was all the more lucrative for them since the King made some change or other in the uniforms every year, which ruined the greater part of the officers. The common soldier's uniform too was thoroughly altered; the character of the whole was — simplicity, but they were
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-17">Heft 3, S. 17</a></h2>
+<section class="lit-passage" id="p-3-17" data-page="17" data-part="3">
+<div class="pg" id="p3-17"><a href="#p3-17">S. 17</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zu eng, zu schlecht, kleideten den Soldaten zu dürftig, und waren besonders für den Felddienst durchaus nicht brauchbar. So allgemein man diese Einrichtung für fehlerhaft und höchst nachtheilig erkannte, so fand sich doch niemand in der Armee, der den König darauf aufmerksam gemacht hätte. Durch alle diese Einrichtungen verlohr die Armee viel von ihrer Brauchbarkeit.
@@ -8748,12 +8290,10 @@ Peace Frederick William loves above all things; this is attested by the great sa
 Peace remained — so long — — as it could remain peace; the war last year between France and Austria at last compelled the cautious monarch to cover his frontiers with his army. The political grounds and the military measures of this march you know. Only of the provisioning arrangements
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-18">Heft 3, S. 18</a></h2>
+<section class="lit-passage" id="p-3-18" data-page="18" data-part="3">
+<div class="pg" id="p3-18"><a href="#p3-18">S. 18</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 für eine Armee, die unter Anführung eines neuen Königs fürs Vaterland kämpfen, ihren alten Ruhm bewähren, und ihrem großen Anführer die ersten Beweise ihrer Anhänglichkeit, ihrer Treue und ihres Muthes bringen sollte, will ich Ihnen hier ein Bild entwerfen.
@@ -8776,12 +8316,10 @@ Given the frequent abuses which had occurred in the provisioning of the army dur
 In the main, the provisioning of the army was arranged according to the very same constitution that had existed in the Rhine campaign, except that new service instructions were printed for the various provisioning offices, which were still far more prolix than the former ones, and whose observance remained impossible even for the ablest man of business. These new artificial forms, which must have been invented by someone who was utterly unacquainted with the course of the provisioning system
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-19">Heft 3, S. 19</a></h2>
+<section class="lit-passage" id="p-3-19" data-page="19" data-part="3">
+<div class="pg" id="p3-19"><a href="#p3-19">S. 19</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 im Laufe eines Krieges durchaus nicht gekannt hat, sollten alle Mißbräuche, alle Unterschleife unmöglich machen! Aber es blieben dem untreuen Beamten alle Wege offen, diese Form fälschlich zu erfüllen.
@@ -8796,12 +8334,10 @@ in the run of a war, were supposed to make all abuses, all embezzlements impossi
 The Commissariat (Provisions) Department at Berlin had the ordering and direction of the whole. The chief of this department is indeed a very worthy general, but an old man of some 70 years, and burdened with more offices than it would be possible for the greatest genius of business, in the best years of his life, to administer. He is, namely, Quartermaster-General, chief of the Engineer Department, and Inspector-General of all fortresses in the whole country! Under his supreme command a Field War Commissariat was established for each Army Corps, so that five of them came into being. The directorships of these were for the most part distributed among War and Domains Councillors who were quite capable men, some of whom had already taken part in the Rhine campaign. Each of these commissariats consisted, under the director, of several dispatch clerks, registrars, calculators, chancery clerks, and copyists, etc.; these formed a corpus collegium of 10 to 15 persons. Each corps had its own war treasury, and subordinate to it there were also established: a hospital treasury, a chief field-magazine treasury, and a chief field-provisions treasury, among which the manifold expenditures for the army were distributed. Next to these treasuries there were also the special treasuries at the field bakeries and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-20">Heft 3, S. 20</a></h2>
+<section class="lit-passage" id="p-3-20" data-page="20" data-part="3">
+<div class="pg" id="p3-20"><a href="#p3-20">S. 20</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 den Proviantfuhrwesen-Colonnen errichtet. — Alle diese Cassen standen unter dem Feld-Kriegs-Commissariat des Corps, welches alle Ausgaben autorisiren und genehmigen mußte. Die Etats waren von dem Oberkriegscollegio festgesetzt, und den Hauptcassen zur Befolgung zugeschickt. Die kleinen Cassen wurden aus den Hauptcassen mit Vorschüssen nach Maaßgabe ihres Bedarfs versehen, und sie nahmen ihnen unter Genehmigung des Commissariats Rechnung ab, die sie als Belege ihrer Ausgaben ihren Rechnungen beifügten, solche ebenfalls dem Commissariat vorlegten, dann aber an die General-Feld-Kriegs-Casse nach Berlin, von da an das Verpflegungsdepartement, und endlich an die Ober-Rechnungskammer als letzter Instanz geschickt werden mußten, um von dort her die Decharge zu gewärtigen.
@@ -8816,12 +8352,10 @@ the provision-transport columns. — All these treasuries stood under the Field 
 The whole of this War Commissariat business was so artificial a contrivance, so confused in its very design, that both immense cumbersomeness and frequent disorders and abuses were bound to arise from it, especially since the most unfit subjects were taken on as provision commissioners and officials — most of whom were suited to no business whatsoever, had never before served, and could therefore find their way all the less in so artificial a course of business, one that even its inventor could not carry out. The army suffered most from it, for no single provisioning official had authority, in urgent cases, to do what the circumstances required
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-21">Heft 3, S. 21</a></h2>
+<section class="lit-passage" id="p-3-21" data-page="21" data-part="3">
+<div class="pg" id="p3-21"><a href="#p3-21">S. 21</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 war, ohne sich Verantwortung zuzuziehen; über jede Kleinigkeit mußte erst geschrieben und wieder geschrieben werden, und mit welcher Nachlässigkeit geschahe nicht manches? z. B. aus Schlesien berichtete ein Offiziant über mehrere Gegenstände nach Erfurth, und bedurfte der Antwort nothwendig mit umgehender Post, er erhielt aber — gar keine. Täglich kamen Fälle vor, an die man bei Abfassung der Instruction nicht gedacht hatte, und aus Unschlüssigkeit oder aus Mangel an Vollmacht, oder weil man den Fall der Form nicht anpassen konnte, geschahe gewöhnlich gar nichts, oder doch nicht das Beste. Auf diese Art häuften sich Unordnung auf Unordnung, die zum Theil auch von den zahlreichen Befehlshabern herkamen, die sich chikanirten und oft widersprachen.
@@ -8840,12 +8374,10 @@ The army had most to fear from the quality of the provisioning officials who, as
 A councillor from the War College had been charged with the appointment of all the field officials, and whoever was an attentive observer here could not but become most anxious for the fate of the army and for the fortunate progress of its arms. Before this man's house there gathered daily an incredible throng of supplicants, all wishing to contribute to the glory of the Prussian state through
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-22">Heft 3, S. 22</a></h2>
+<section class="lit-passage" id="p-3-22" data-page="22" data-part="3">
+<div class="pg" id="p3-22"><a href="#p3-22">S. 22</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 die Verpflegung der Armee beitragen wollten. Es waren Leute aus allen Ständen: verabschiedete oder cassirte Officiere, Unterofficiere und Soldaten von der Invalidenliste, unwissende Chirurgen, banquerotte Kaufleute, Copisten, Bedienten, brodlose Künstler und Handwerker, Friseur, Schneider, Speisewirthe, Pferdeverleiher, Victualienhändler, Köche, Trödler und endlich die so nirgends fehlen, getaufte und ungetaufte Juden, fehlten auch hier nicht. Fast jeder dieser Supplicanten brachte ein Empfehlungsschreiben von irgend einem bedeutenden Manne, den er disponirt hatte, durch Fürsprache seine Anstellung zu bewirken. Die meisten dieser Supplicanten waren so zudringlich, und viele der eingegangenen Empfehlungsschreiben waren so wichtig, daß der arme Rath in sehr große Verlegenheit gerieth, je öfter er bemerkte, wie die Supplicanten ihren beigebrachten Empfehlungen so ganz und gar nicht entsprachen. Er selbst hatte sein Glück im Wege der Connexion gemacht und seine Verbindlichkeiten gegen viele Personen waren von der Art, daß er deren Empfehlungen, ohne alle Rücksicht auf die empfohlnen Subjecte, Gehör geben mußte. Der gute Rath gerieth daher wegen der Verantwortlichkeit über das angestellte Personal in große Besorgniß, und hatte später hin auch viel Verdruß und Eclat davon.
@@ -8860,12 +8392,10 @@ the provisioning of the army. They were people of every station: discharged or c
 In this way the taking-on of the field officials was done almost without any real selection; it was rather a drawing from a wheel of fortune in which there were 50 blanks against one prize. And even if it subsequently
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-23">Heft 3, S. 23</a></h2>
+<section class="lit-passage" id="p-3-23" data-page="23" data-part="3">
+<div class="pg" id="p3-23"><a href="#p3-23">S. 23</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 erwies, daß nicht alle Individuen dieses Personals untreu und betrügerisch gehandelt hatten, so waren doch keine darunter, die durch Dienstkenntniß oder durch geschickte Amtsführung die sie getroffene Wahl gerechtfertigt hätten.
@@ -8884,12 +8414,10 @@ This mixed personnel was soon sworn in (vain trouble), provided with the meagre 
 A considerable detachment of this personnel was sent to South Prussia, where, however, they had to spend some time idle in Kalisch, since the Chamber and district tax officials there had already established the magazines, saw to the provisioning of the troops themselves, and for reasons easy to guess did not wish to hand over to the provisioning officials, especially as the march-through of the Russians was expected daily, and the magazine-keepers looked forward with certainty to their harvest. This turned out very abundant too, the Polish estate-owners
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-24">Heft 3, S. 24</a></h2>
+<section class="lit-passage" id="p-3-24" data-page="24" data-part="3">
+<div class="pg" id="p3-24"><a href="#p3-24">S. 24</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wurden bei den Ablieferungen gewaltig gedrückt, sie mußten so viel polnische Viertel, reichlich gemessen, abliefern, als sie, nur im Berliner Scheffel, zu geben verpflichtet waren. Der Herr von T.y in klein Kl. ein sehr armer Edelmann klagte mir: daß er nach S.z. 16 Berliner Scheffel Mehl habe liefern sollen; er hätte sich Freunde machen wollen, und hätte daher 21 Polnische Viertel dahin abgeschickt, hätte aber doch nur eine Quittung über 12 Berliner Scheffel erhalten, die er mir auch vorzeigte. In K. verkaufte ein Magazinier an einen Gastwirth 200 Scheffel Hafer. Die Russen nahmen die ihnen bewilligte Fourage aus den Magazinen, aber sie verkauften solche den Beamten sogleich wieder, und fouragirten bei den Bauern mit Gewalt.
@@ -8908,12 +8436,10 @@ For the field officials this whole harvest was lost; they sat idle for 14 days i
 After the political situation had changed, the forsaken men were at last delivered from their exile; an order summoned them to Erfurt. Not a single one among them was in a position to meet the costs of this long journey from his own means, and most left debts behind, on account of which they removed themselves from the town with much
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-25">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-25">Heft 3, S. 25</a></h2>
+<section class="lit-passage" id="p-3-25" data-page="25" data-part="3">
+<div class="pg" id="p3-25"><a href="#p3-25">S. 25</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Gewandtheit aus der Stadt entfernten. Man ladete, so weit es ging, das Personal auf ledige Cassenwagen, und auf dem Wege bis Erfurth fielen manche tragisch komische Abendtheuer und mit unter auch Excesse vor.
@@ -8932,12 +8458,10 @@ The gentlemen finally arrived in Erfurt, where they were distributed among the m
 The idle bakeries turned to marauding, since the bread for the army was baked in the towns; the master bakers and head master bakers, who have only 10 and 15 thalers of field pay respectively per month, indemnified themselves by false returns of their personnel in order to pocket the wages. The train officers exchanged and sold horses, procured knacker's certificates in order to be permitted to enter sold horses as lost, and even later entered the horses that had really been lost (starved to death) on the report, so as to draw the rations still. The tradesmen had to practise, according to the prescribed laborious
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-26">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-26">Heft 3, S. 26</a></h2>
+<section class="lit-passage" id="p-3-26" data-page="26" data-part="3">
+<div class="pg" id="p3-26"><a href="#p3-26">S. 26</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Form, Rechnungen zu schreiben über Arbeiten die nicht gemacht waren, deren Betrag man eincassirte, und unter sich vertheilte, während man Wagen, Geschirre und Backrequisiten in dem nähmlichen schlechten Zustande ließ, wie solche aus den Trainmagazinen verabfolgt waren. Für Wagenschmier, Stränge und Stalllichter wurden die unverschämtesten Forderungen gemacht, die Pferdearzney war ebenfalls eine Gelegenheit zum falschen Rechnungsschreiben, und es gaben sich selbst Apotheker dazu her, während die Pferde häufig an Drüsenkrankheiten litten, und mit wenigem Kropfpulver curirt wurden. Die Trainchirurgi, ebenfalls zum verhungern besoldet, und mit 6 Pf. Medicingeld für jeden Knecht, nicht zufrieden, folgten dem Beispiele und liquidirten bedeutende Summen für Medicin, die weder verschrieben noch eingenommen worden war. Sie durften dies thun, denn man brauchte sie nicht als Aerzte, sondern zum fingirten Rechnungsschreiben.
@@ -8956,12 +8480,10 @@ Thus were the resources of the country squandered by faithless officials, while 
 In the magazines things went no better; for carriage-hire, day-wages, and utensils great accounts were written, and little disbursed. At the acceptance the peasants were squeezed either with the measure, or they were made to wait so long that they offered considerable presents merely to be dispatched.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-27">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-27">Heft 3, S. 27</a></h2>
+<section class="lit-passage" id="p-3-27" data-page="27" data-part="3">
+<div class="pg" id="p3-27"><a href="#p3-27">S. 27</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Bei der Unthätigkeit der Armee mußte von den Etats eine bedeutende Summe erspart werden, aber bei solcher Verfassung ging diese Ersparung durch Unterschleife und Betrug verlohren. Alle Verpflegungsbeamten richteten sich nach dem Etat, und nahmen den größten Theil der Ersparungen in ihre Tasche. Dabei waren die Confusionen und Unordnungen auf das höchste gestiegen.
@@ -8976,12 +8498,10 @@ Given the inactivity of the army, a considerable sum ought to have been saved fr
 In South Prussia a train and a bakery of 5 ovens had been left standing; it remained a whole month exposed to the greed of the inspectors, until it was decided to let it march to Silesia to the v. Gr. Army Corps. Another train and a cavalry regiment arrived in a certain town in the Saale region and demanded forage, which was, however, refused them from the Prussian field magazine, because they were not on the provisioning designation of that magazine.<sup class="lit-fn"><a href="#n-en-18">18</a></sup> A money transport from Berlin, sent to a treasury in G., was not accepted by that same treasury, because they had no order for it. Indeed, even some regiments often did not know to which corps they belonged, since they received now this, now that order. Similar confusions occurred among the chief treasuries, which either had received no provisioning establishments at all, or whose corps increased or diminished, so that they often did not know who was entitled to draw money from their funds
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-28">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-28">Heft 3, S. 28</a></h2>
+<section class="lit-passage" id="p-3-28" data-page="28" data-part="3">
+<div class="pg" id="p3-28"><a href="#p3-28">S. 28</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 oder nicht.<sup class="lit-fn"><a href="#n-de-19">19</a></sup> Alle diese Unordnungen entstanden zuerst aus dem Kriegscollegio und demnächst durch die Collisionen, in welche der Generalstaab mit dem Kriegscollegio und mit der Intendantur so oft gerieth, und die nur eine Folge von der Eifersucht, von der Arroganz, und von dem Privathaß oder den eigentlichen Persönlichkeiten zwischen beiden waren.
@@ -9004,12 +8524,10 @@ The Saxon principalities and some other adjoining territories had borne the burd
 The Prussian army had lost much of its private property and marched back into its garrisons in ill humour, because it had never come to a battle.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-29">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-29">Heft 3, S. 29</a></h2>
+<section class="lit-passage" id="p-3-29" data-page="29" data-part="3">
+<div class="pg" id="p3-29"><a href="#p3-29">S. 29</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Das Heer der Officianten kehrte höchst traurig über den mißrathenen Versuch, sein Glück zu machen, in seine alte Sphäre zurück. Alle klagten über Minus, keiner hatte Plus; die Meisten hatten ihre vorigen Nahrungszweige so ganz aufgegeben in der gewissen Voraussetzung: daß der Krieg sie in den Stand setzen würde, nach dem Frieden unabhängig und Geschäftlos leben zu können, daß sie zu denselben nicht zurückkehren konnten. Sie fluchten daher auf den König, daß er nicht wirklich Krieg angefangen hätte; klagten bitter, daß nichts zu verdienen gewesen sei, zögerten mit der Rechnungsablegung so lange, bis man sie strenge dazu anhielt und ihnen nahe Termine setzte.
@@ -9024,12 +8542,10 @@ The host of officials returned most sorrowfully to their old sphere, dejected ov
 Only the Field War Commissariat established in Silesia for the v. Gravert Army Corps, by the arrangement of the Minister Count von Hoym and under the direction of the Privy Councillor Count v. Schack, distinguished itself advantageously by the soundness of its officials. Its personnel had for the most part been chosen from the Breslau and Glogau Chamber officials, without any foreign interference and without any patronage. All other applicants were turned away. Those appointed were better provided for; they were men in whom, through their very conditions of service, a spirit of honour already dwelt, and once the campaign was over they returned again to their former posts.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-30">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-30">Heft 3, S. 30</a></h2>
+<section class="lit-passage" id="p-3-30" data-page="30" data-part="3">
+<div class="pg" id="p3-30"><a href="#p3-30">S. 30</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Sämtlichen Commissariaten wurde nun aufgegeben ihre Rechnungen zu schließen, solche dem Verpflegungsdepartement einzureichen und sich sofort aufzulösen. Das Departement beschäftigte sich damit, das Chaos von Unordnungen zu ordnen, die Mißbräuche zu untersuchen, das Facit des ganzen Feldzugs dem Könige vorzulegen, die Rechnungsballen der Oberrechnungskammer zur letzten Durchsicht zu überschicken, damit dies Collegium ein paar Jahre vorräthige Arbeit haben möchte, und endlich die einzigen bleibenden Beweise dieses unschlüssig und planlos angefangenen und zwecklos beendigten Feldzugs, der Registratur zu übergeben.
@@ -9048,19 +8564,17 @@ The discerning, true patriots who had observed the daily, disaster-threatening c
 The train officers attached themselves to the slow retreat of the army with the starved horses; they had provided splendidly for themselves, and concluded their harvest with the horse auctions, where they exchanged the best horses for poor ones, and entered others — which they had quietly sold for 40 to 50 thalers — in the record at a price of 3 or 6 thalers. Only in Silesia was this fraud either not possible at all or at least very difficult, for the wise Hoym safeguarded the royal
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-31">Heft 3, S. 31</a></h2>
+<section class="lit-passage" id="p-3-31" data-page="31" data-part="3">
+<div class="pg" id="p3-31"><a href="#p3-31">S. 31</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Interesse zu sehr wahr, und ließ diese Auction durch Kammerdeputationen abhalten. Ich sahe selbst eines Tages 3 Pferde anhalten, die von dem Schweidnitzer Anger durch einen Schirrmeister und einen Knecht in die Stadt geführt werden sollten. Der Trainoffizier, Lieutenant v. Tr., wußte sich mit nichts auszureden, er war zwar tüchtig grob, aber die Pferde durften dennoch nicht weg, es war offenbar, daß der Tr. diese Pferde heimlich verkaufen wollte, aber das Kammerdepartement hielt sie zurück.
 
 Unter dem würdigen Hoym gab Schlesien bei diesen Angelegenheiten überall ein schönes Bild von Planmäßigkeit und Ordnung, und in dieser Provinz allein hatte man die Freude, Batallions-, Artillerie- und Trainpferde für gute Preise verkaufen zu sehen, obgleich die Anzahl derselben sehr beträchtlich war,<sup class="lit-fn"><a href="#n-de-20">20</a></sup> dagegen man in andern Provinzen dergleichen Pferde beinah verschenken mußte.
 
-###### 1806.
+##### 1806.
 
 Die Armee marschierte zwar zurück, aber ein Theil derselben blieb mobil in den Garnisonen, oder zog nach Pommern, wo es ebenfalls gegen einen gewissen Trainoffizier, Rittmeister v. St., zur Untersuchung kam, die sich für ihn mit Cassation und Festung endigte.
 
@@ -9073,19 +8587,17 @@ interest too well, and had these auctions conducted by Chamber deputations. I my
 
 Under the worthy Hoym, Silesia everywhere presented, in these matters, a fine picture of orderliness and system, and in this province alone one had the pleasure of seeing battalion, artillery, and train horses sold for good prices, although their number was very considerable,<sup class="lit-fn"><a href="#n-en-20">20</a></sup> whereas in other provinces such horses had to be given away almost for nothing.
 
-###### 1806.
+##### 1806.
 
 The army did indeed march back, but a part of it remained mobilized in the garrisons, or moved into Pomerania, where likewise an investigation was opened against a certain train officer, Captain of Cavalry v. St., which ended for him in cashiering and fortress imprisonment.
 
 It was indeed peace, yet the joy did not last long; the apprehension of experienced men in the state — that the fire was not extinguished but only ominously covered over,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-32">Heft 3, S. 32</a></h2>
+<section class="lit-passage" id="p-3-32" data-page="32" data-part="3">
+<div class="pg" id="p3-32"><a href="#p3-32">S. 32</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sei, um fürchterlich wieder aufzulodern, ging sehr bald in Erfüllung. Während man noch bemüht war, alle Spuren von diesem Feldzuge zu vertilgen, ertönte schon von neuem der dumpfe Ruf zum Kriege, der sich bald genug, und zum Schrecken der einsichtsvollen Staatsbürger bestätigte.
@@ -9104,12 +8616,10 @@ The first thing one noticed at this new departure was a disaster-threatening wav
 The hundredfold errors of the previous campaign, scarcely ended, and with the investigation of which one was still occupied, lay still so fresh before one's eyes that one might cherish the most well-founded hope of a better organization of the army. Yet daily there were disquieting disappointments: the men on furlough came together in the garrisons (especially in Berlin) so singly and so slowly that after three weeks they were still not all assembled;<sup class="lit-fn"><a href="#n-en-21">21</a></sup> so that one again began to doubt
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-33">Heft 3, S. 33</a></h2>
+<section class="lit-passage" id="p-3-33" data-page="33" data-part="3">
+<div class="pg" id="p3-33"><a href="#p3-33">S. 33</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 anfing. Eben so langsam ging es mit dem Abliefern der Pferde, mit dem Eindringen der Knechte, und mit der ganzen Mobilmachung, in der man nichts als Widersprüche sahe. Ob es Plan war, so langsam, so widersprechend, und so zweideutig zu seyn? ob man von dem Genie des Herrn von Lucchesini so gewiß hoffte, er werde unsere Rüstungen unnöthig machen, oder ob man auch glaubte, schon durch die Miene zur Rüstung den Streit zu endigen? und daß die Franzosen so discret seyn würden, unsere Langsamkeit ungenutzt und geduldig abzuwarten? Alles dies ist unerklärlich, und es bleibt uns davon nichts als die traurige Erinnerung an die Wirklichkeit dieser Fehler, und an ihre unglücklichen Folgen. Man trug sich mit mancher erfreulichen Neuigkeit über Verbesserungen in der Armee, darunter gehörten die befohlene Verminderung der Pferdeanzahl für die Bagage der Offiziere, und der strenge Befehl zur Zurücklassung der Offizier- und Soldatenfrauen. Mehrere der schlechten Verpflegungsoffizianten aus dem vorigen Feldzuge wurden nicht wieder angestellt, und der Patriotismus ließ uns alles Gute hoffen und glauben.
@@ -9124,12 +8634,10 @@ the seriousness of the affair. Just as slowly went the delivery of the horses, t
 The march of the Silesian troops resembled now a funeral procession, now a race, according as the frequent orders contradicted one another. At Löwenberg, Bautzen, and Dresden there were halting-points, and in the latter city the Prussian cavalry officers displayed daily their high spirits and their bravado in riding, in driving,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-34">Heft 3, S. 34</a></h2>
+<section class="lit-passage" id="p-3-34" data-page="34" data-part="3">
+<div class="pg" id="p3-34"><a href="#p3-34">S. 34</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 im Trinken, Spielen — — — ic. Die einfachen, schlichten Sachsen staunten diese Herkulen an, und bekamen gegen sie ein schülermäßiges Ansehen.
@@ -9148,12 +8656,10 @@ In Silesia peasants and noblemen, tenants and estate-owners cursed over the deli
 In Saxony it went better; the peasants there are more polite and more good-natured, and they also thought much of the Prussians, and hence the provisioning too, with slight exception, was quite good. Moreover, staged provisioning (billeted ration system on the march) had been introduced everywhere, and this is, on marches where provisions are to be had, indisputably the best. In every quarter the soldier received 2 pounds of bread, 1/2 pound of meat, and 2 cans of beer, and although most districts in Saxony had not yet been paid for this provisioning from the previous year's march, they nevertheless furnished the prescribed portions very abundantly, and voluntarily added a first course and brandy as well. The actual field provisioning from the magazines and through the Field War Commissariat was to begin only where the army meant to concentrate and take up a position. But unfortunately the army was there sooner than the provisioning arrangements, for after the long irresolute marches it was at length forced into rapid advance, and the provisioning arrangements
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-35">Heft 3, S. 35</a></h2>
+<section class="lit-passage" id="p-3-35" data-page="35" data-part="3">
+<div class="pg" id="p3-35"><a href="#p3-35">S. 35</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 konnten nicht so schnell nachfolgen. Als sie nun aber vollends durch die drohenden Bewegungen des Feindes in möglichster Eile ihre Stellung verändern und große Märsche machen mußte — da war Mangel an Lebensmitteln unvermeidlich. Die Furcht, die Unentschlossenheit, die ernste Ueberzeugung, daß man sich sehr bald schlagen müsse, und die zu späte Einsicht, daß die Umstände nicht die besten waren, hatten mit einemmale eine solche Unordnung im Ganzen hervorgebracht, daß jedes Einzelne unumgänglich darunter leiden mußte. Eine Ordre widersprach der Andern, die commandirenden Generale ließen den Intendanten ihrer Corps nie zeitig und bestimmt wissen wo sie hinmarschirten, so daß von ihnen keine Anstalten getroffen werden konnten. Die Maaßregeln zum Kriege, die man bis dahin so sehr geheim gehalten hatte, und von denen man sich so viel versprach, mochten wohl recht planmäßig und in bester Form verabredet worden seyn, aber auf einen Umstand hatte man nicht gerechnet, nähmlich: auf sogenannte Queerstriche, und nach altem deutschen Sprüchwort hatte man die Rechnung ohne den Wirth gemacht!
@@ -9172,12 +8678,10 @@ The bad, wrong-headed provisioning arrangements are therefore certainly in part 
 I will cite only a few occurrences that substantiate this assertion.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-36">Heft 3, S. 36</a></h2>
+<section class="lit-passage" id="p-3-36" data-page="36" data-part="3">
+<div class="pg" id="p3-36"><a href="#p3-36">S. 36</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Während die Truppen auf den langsamen Märschen so oft halt machten, und durch die Etapenverpflegung die Bauern unnöthiger Weise auszehrten, wurden vor ihrer Front und an ihren vorläufigen Bestimmungsörtern noch gar keine Vorkehrungen zu ihrem Empfange getroffen. Die Proviantoffizianten zogen anstatt vor der Armee, langsam hinter ihr her. Man schrieb und schrieb; man übte sich in der künstlichen Form, und füllte anstatt die Magazine — nur die Registraturen an. In Jena entwarf man erst am 6. Oktober einen Contrakt über Lebensmittel, die leider von einem Juden, den man als Proviantkommissarius mitgenommen hatte, geliefert werden sollten. Die Objecte waren vielfach und die Quantitäten groß. Es waren nämlich: Fleisch, Speck, Butter, Reis, Grütze, Erbsen, Backobst, Taback ic. alles ergiebige Gegenstände für den jüdischen Speculationsgeist; nur Eins war merkwürdig: das Salz sollte der Jude nicht liefern, an diesem wohlfeilen und unbedeutenden Artickel sollte der Ebräer nichts verdienen; dies können wir ja unmittelbar aus den sächsischen Salinen ziehn, sagte man. Der Ablieferungsort aller dieser für eine hungrige Armee sehr erfreulichen Dinge wurde in einem Kreis von 10 Meilen um Erfurth her dem Lieferanten angewiesen, und die Ablieferung sollte so successive und sobald als möglich geschehen. Die Sache war erst so weit gediehen, daß der Jude seine Forderungen angeben sollte. Am 6. Oktober also, wo man schon die ganze Armee in Bewegung setzen mußte, um dem
@@ -9188,12 +8692,10 @@ Während die Truppen auf den langsamen Märschen so oft halt machten, und durch 
 While the troops halted so often on their slow marches, and needlessly drained the peasants through the staged provisioning, no arrangements whatsoever were yet being made for their reception ahead of their front and at their preliminary destinations. Instead of moving ahead of the army, the provisions officials trailed slowly behind it. They wrote and wrote; they practised the artful forms, and instead of filling the magazines — filled only the registries. In Jena it was only on 6 October that a contract for foodstuffs was drawn up, which were unfortunately to be supplied by a Jew whom they had brought along as commissary of provisions. The items were numerous and the quantities large. Namely: meat, bacon, butter, rice, groats, peas, dried fruit, tobacco, etc. — all lucrative objects for the Jewish spirit of speculation; only one thing was remarkable: the salt the Jew was not to supply; on this cheap and trifling article the Hebrew was to earn nothing; this, they said, we can indeed draw directly from the Saxon salt-works. The place of delivery of all these things, so gratifying to a hungry army, was assigned to the contractor within a circuit of 10 miles around Erfurt, and the delivery was to be made as gradually and as soon as possible. The matter had only advanced so far that the Jew was to submit his demands. On 6 October, then — when the whole army already had to be set in motion to face the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-37">Heft 3, S. 37</a></h2>
+<section class="lit-passage" id="p-3-37" data-page="37" data-part="3">
+<div class="pg" id="p3-37"><a href="#p3-37">S. 37</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 drohenden Feinde die Stirn zu bieten, da dachte man erst daran, die Armee zu beköstigen, und! — war seiner Sache so gewiß, daß man den Ablieferungsort in die wahrscheinliche Operationsfronte bestimmte!! Der Contract ist indessen wahrscheinlich nicht zu Stande gekommen, denn ehe man ihn expediren, mundiren und confirmiren konnte, war wahrscheinlich das Schicksal der Armee zwischen der Saale und Elbe schon entschieden.
@@ -9216,12 +8718,10 @@ During the staged provisioning of the troops it was quite useless to haul stocks
 The numerous and cumbersome bakeries, which cost so incredibly much and are of such very little use, could
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-38">Heft 3, S. 38</a></h2>
+<section class="lit-passage" id="p-3-38" data-page="38" data-part="3">
+<div class="pg" id="p3-38"><a href="#p3-38">S. 38</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 oder mußten vielmehr, so lange man ruhig marschieren konnte, durchaus voraus rücken, damit die Armee überall Brod fand, und nur erst, als der Krieg wirklich anfieng, mußten sie weit hinter die Fronte zurück gehen, um dort ruhig fort backen zu können; aber, statt dessen machte man sie zum Theil erst mobil, als die Armee schon auf dem Marsche war, und dann ließ man sie langsam hinterher spazieren fahren oder unthätig stehen bleiben, während Städte und Dörfer den Truppen Brod schaffen mußten.
@@ -9236,12 +8736,10 @@ or rather had to, so long as one could march quietly, advance well ahead, so tha
 On the decisive days, however, which broke so unexpectedly over Prussia's fate, several bakery detachments were still on the march and had done nothing at all. — Others had been taken along to the front; for example, at the gates of Weimar stood 13 ovens, and at Diefurth on the Ilm eleven were to be set in operation. The camp had been pitched here only on 13 October, after the retreat from Jena, after two days and three nights of anxious wandering about without definite orders. On the 14th at midday 7 ovens were full of bread, and several hundred loaves lay steaming in the tents, and the detachments, which had arrived earlier with their wagons to collect bread than a single oven was ready, gazed hungrily at the hot supplies. More and more bread-collectors kept coming, and no one knew who was to be served first. Unfortunately, probably none of them got anything, for the thunder of cannon came ever nearer and rang out so frightfully that
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-39">Heft 3, S. 39</a></h2>
+<section class="lit-passage" id="p-3-39" data-page="39" data-part="3">
+<div class="pg" id="p3-39"><a href="#p3-39">S. 39</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 die Bäcker nicht mehr arbeiten wollten. Das kleine Gewehrfeuer, welches man sehr deutlich hörte, setzte die Nähe der Schlacht außer allem Zweifel; die Bestürzung war unbeschreiblich. Die schöne Gegend war gedrängt voll Bagage, die untermischt mit einzelnen Trupps Kavallerie und Infanterie in dichten Schaaren nach Weimar zogen. Eine Menge Verwundeter kamen durch die Bäckereilager bei Diefurth und Weimar, sie brachten alle üble Nachricht mit, und dennoch hatten die Traindirektoren die bestimmteste Ordre, nicht von der Stelle zu weichen, sich durch nichts irrig machen zu lassen, sondern ruhig fort zu backen. Dies geschahe denn auch, (wenn auch nicht mit der befohlenen Ruhe). Es kamen von Zeit zu Zeit aus der Stadt Weimar Nachrichten vom dortigen Hauptquartiere, und alle versicherten, daß es recht gut mit der Schlacht stünde. Endlich, und zwar als man schon gegen alle Ordre und unwillkührlich um seiner eigener Sicherheit willen Anstalten zur Flucht gemacht hatte, kam ein Kurier und brachte die officielle Nachricht: daß die Franzosen geschlagen und wir überall gesiegt hätten! Bäcker und Knechte bekamen Schnaps und mußten jauchzen. — — Ein paar Mehlcolonnen, die man doch aus Vorsicht über Weimar hinaus nach Erfurth zu voraus geschickt hatte, wurden per Ordonnanz zurückgeholt, kamen aber, der ermüdeten Pferde wegen, nicht. Diese unselige Siegesfreude dauerte aber nicht lange, der Pulverdampf trübte bald am Horizonte den schönen Tag. Musqueten- und Pistolenfeuer konnte man deutlich und
@@ -9252,17 +8750,15 @@ die Bäcker nicht mehr arbeiten wollten. Das kleine Gewehrfeuer, welches man seh
 the bakers no longer wished to work. The small-arms fire, which could be heard very distinctly, placed the nearness of the battle beyond all doubt; the consternation was indescribable. The beautiful countryside was crammed full of baggage, which, mixed with scattered troops of cavalry and infantry, streamed off in dense throngs toward Weimar. A crowd of wounded came through the bakery camps at Diefurth and Weimar; they all brought bad news, and yet the train directors had the most positive orders not to budge from the spot, not to let themselves be thrown into confusion by anything, but calmly to go on baking. And this was indeed done (if not with the ordered calm). From time to time news came from the town of Weimar, from headquarters there, and all of it assured that the battle was going quite well. At last — and indeed after preparations for flight had already been made, against all orders and involuntarily, for the sake of one's own safety — a courier arrived and brought the official news: that the French had been beaten and that we had triumphed everywhere! Bakers and hands were given schnapps and had to cheer. — — A couple of flour columns, which had after all been sent ahead as a precaution beyond Weimar toward Erfurt, were recalled by ordonnance, but did not come, on account of the exhausted horses. This ill-starred joy of victory did not last long, however; the powder-smoke soon clouded the fine day on the horizon. Musket and pistol fire could be heard clearly and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-40">Heft 3, S. 40</a></h2>
+<section class="lit-passage" id="p-3-40" data-page="40" data-part="3">
+<div class="pg" id="p3-40"><a href="#p3-40">S. 40</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 immer deutlicher unterscheiden, die Kanonenkugeln hörte man Grausenerregend zischen, und mit einemmale fuhr es wie ein elektrischer Schlag durch alle, die dort auf den Beinen waren. Wir sind verlohren! laßt uns fliehen! so rief man durcheinander und ließ alles stehen wie es stand; viele Bäcker vergaßen ihre Bündel, und alles ohne Ausnahme — was sich nicht noch auf den Wagen befand — blieb stehen; bei Weimar 13., bei Diefurth 7 Ofen voll Brod, und die vollständigen Läger mit allem Zubehör! Deshalb also hatte man diese schweren Trains, die dem Lande so viel Pferde und Geld kosten, langsam hinter der Armee her ziehen lassen, um sie an den Tagen der Gefahr gleichsam mit ins Treffen zu nehmen? Ist es schon erhört, daß man während einer Schlacht gleichsam in der Fronte Brod bäckt? und die Subsistenz einer Armee gerade in den gefahrvollsten Tagen so wenig sichert, daß sie, nachdem sie vom Feinde geschlagen worden, auch noch vom Hunger völlig zerstört werden muß? Künftig noch etwas über die Retraite.
 
-###### 1806.
+##### 1806.
 
 Die Retraite gehet nach Erfurth! so hieß es in dem Augenblick des Schreckens allgemein, und ich glaube, man wäre auch ohne Ordre dahin gelaufen, oder vielmehr man wußte nicht wo man hinlaufen sollte. Einer folgte dem andern, und die fliehende Masse wurde bald so gedrängt dicht, daß der Anblick, den sie gewährte, keine Beschreibung leidet. Das brennende Auerstädt nebst noch einem andern Dorfe und einer Windmühle bildeten am Himmel
 
@@ -9271,17 +8767,15 @@ Die Retraite gehet nach Erfurth! so hieß es in dem Augenblick des Schreckens al
 
 ever more distinctly; one heard the cannonballs whistle in a manner that raised horror, and all at once it shot like an electric jolt through everyone who was on their feet there. We are lost! let us flee! so they all cried in confusion and left everything standing as it stood; many bakers forgot their bundles, and everything without exception — whatever was not already on the wagons — was left behind; at Weimar 13, at Diefurth 7 ovens full of bread, and the complete camps with all their appurtenances! Was it for this, then, that these heavy trains, which cost the country so many horses and so much money, had been made to trail slowly behind the army — in order, as it were, to take them into the engagement on the days of danger? Was it ever heard of, that during a battle bread should, so to speak, be baked in the front line? and that the subsistence of an army should, precisely on the most perilous days, be so little secured that, after it has been beaten by the enemy, it must also be utterly destroyed by hunger? More about the retreat in a future issue.
 
-###### 1806.
+##### 1806.
 
 The retreat is heading to Erfurt! — so ran the general cry in that moment of terror, and I believe men would have run there even without orders, or rather, no one knew where he ought to run. One followed another, and the fleeing mass soon grew so densely crowded that the spectacle it presented defies description. Burning Auerstädt, together with yet another village and a windmill, formed against the sky
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-41">Heft 3, S. 41</a></h2>
+<section class="lit-passage" id="p-3-41" data-page="41" data-part="3">
+<div class="pg" id="p3-41"><a href="#p3-41">S. 41</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 einige schreckliche Rauchsäulen, hierzu kam der ununterbrochene Donner des Geschützes, und die zahlreichen Verwundeten, die, mit Blut und Pulver bedeckt, laut wimmerten, und, zerstümmelt und entstellt wie sie waren, getragen oder gefahren werden mußten, oder an der Landstraße, hülflos, dem herannahenden furchtbaren Feinde preis gegeben blieben, indem sie hier kraftlos hinsanken und die pfeilschnell mit donnerndem Geschütz, jenseits Weimar auf den Höhen, siegreich heranrückenden Franzosen — alles dies bildete eine gräßliche Szene, und beschleunigte die Flucht.
@@ -9300,12 +8794,10 @@ The fleeing, cowardly hordes looked upon their mutilated comrades lying there wi
 Once it was the ABC of military science: to bring the baggage to safety ahead of the enemy; this time, however, it had been kept close behind us on the battlefield, and so on the retreat one could not move. Yet this error had now been made, and there was really nothing to be done in the matter but to bring as much as possible of the enormous baggage to safety ahead of the enemy. What wealth of the state, and how much private property, was not lodged in this
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-42">Heft 3, S. 42</a></h2>
+<section class="lit-passage" id="p-3-42" data-page="42" data-part="3">
+<div class="pg" id="p3-42"><a href="#p3-42">S. 42</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Masse, die das ganze Feld von Weimar bis Erfurth bedeckte? Wie viel war also nicht hier zu verliehren? und wie empfindlich war also dieser Verlust nicht im Kriege? War es daher nicht auf jede Gefahr Pflicht, die Bagage so wie das Geschütz und die Munitionswagen in Sicherheit zu bringen? Der Eckhartsberg bei Weimar war ein vortheilhafter Punkt sich wenigstens ein paar Stunden zu halten und zu vertheidigen, während welcher Zeit die Wagenburg doch zum größtentheil gerettet werden konnte. Statt dessen aber mußte die Bagage überall Platz machen und still halten, so oft ein Kavallerietrupp erschien, der seine Flucht in Trab fortsetzen wollte. Zurück die Wagen, fort mit den Packpferden! so schrie man überall und war denn gewöhnlich dabei so brav — die armen Knechte zu prügeln. Durch diese Maaßregeln kämen natürlich alle Truppen voraus, und das Fuhrwesen blieb zurück und dem Feinde preis gegeben.
@@ -9320,12 +8812,10 @@ mass that covered the whole field from Weimar to Erfurt? How much, then, was the
 There are unquestionably cases in the course of a war where one must sacrifice a wagon-fort or a baggage train to the enemy in order to gain more important advantages; but could that be the case here, where nothing more was at stake than deliverance? and could one have saved anything in a better way than by seeking to hold back the enemy for a short while longer? Or did one intend, through the senseless swift flight, to attain greater advantages? What, then, has been the result of it? Did the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-43">Heft 3, S. 43</a></h2>
+<section class="lit-passage" id="p-3-43" data-page="43" data-part="3">
+<div class="pg" id="p3-43"><a href="#p3-43">S. 43</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Armee an der Elbe gesammelt und diesen wichtigen Fluß vertheidigt? Wer wird einst dies Verschulden vertreten!?
@@ -9348,12 +8838,10 @@ Night fell and multiplied the terrors of this flight, for now men rode and drove
 At Apolda a Saxon-Prussian hospital was only to be established on 13 October. The shooting-house was to be fitted out for it, but it stood without doors, windows, or stove; all this was first to be procured with small-town
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-44">Heft 3, S. 44</a></h2>
+<section class="lit-passage" id="p-3-44" data-page="44" data-part="3">
+<div class="pg" id="p3-44"><a href="#p3-44">S. 44</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Langsamkeit angeschafft werden, während dessen die Kranken wie die Chirurgi ohne Quartiere waren. Wo und wie mag dies alles am 14ten geblieben seyn?
@@ -9372,12 +8860,10 @@ The whole road from Auerstädt and its environs, by way of Weimar, Erfurt, out b
 The quantity of officers' baggage thrown down upon the highway also proved with what elaborateness and effeminacy the Prussian officers had taken the field; their traveling tea and coffee services, the food and bottle cases — in short, the most ridiculous articles of effeminacy — were here, in chests and little boxes, among the heavy baggage of the poor overburdened pack-horses
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-45">Heft 3, S. 45</a></h2>
+<section class="lit-passage" id="p-3-45" data-page="45" data-part="3">
+<div class="pg" id="p3-45"><a href="#p3-45">S. 45</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zu finden. Ich will zwar nicht aus der Schule plaudern, aber einem gewissen Herrn sei es doch zu wissen: daß ein roth Maroquin-Etui, mit dem Wappen des Hochwohlgebohrnen geziert, und gewisse Sicherheitsapparate gegen Priap's Falschheit enthaltend, so wie eine Auswahl entzückender Bücher mit Kupfern, in einer Feldequipage auf dieser Flucht gefunden worden sind. — Die Feldgepäcke waren alle so vollständig, als ob der Krieg auf einer wüsten Insel hätte geführt werden sollen. Ja man hat Dinge gefunden, die auch auf die entfernteste Weise nicht zum Feldgepäck gehören, z. B. Stammbäume, Familienpakten, Patente vom Fähndrich bis zum Obristen, Privatcorrespondenz und Lotterieloose! Während hier der Ueberfluß die Erde bedeckte, und die preußischen Offiziere durch diesen Verlust arm wurden — marschierte der französische Offizier mit seinem kleinen Gepäck auf dem Rücken über das Siegesfeld, den fliehenden Feind zu verfolgen.
@@ -9396,12 +8882,10 @@ Many military officials and officers to whom the state had entrusted funds and o
 On the retreat, a cavalry detachment found four casks of money in a forest; the gallant officer brought them safely to Magdeburg and reported the find to the authorities, and, given the prevailing ill humour, he was received into the bargain none too gently by way of recompense. Misfortune is said to improve a man; yet no
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-46">Heft 3, S. 46</a></h2>
+<section class="lit-passage" id="p-3-46" data-page="46" data-part="3">
+<div class="pg" id="p3-46"><a href="#p3-46">S. 46</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Regel ohne Ausnahme. Wer die preußischen Offiziere auf ihrem Rückzuge beobachtet hat, muß interessante, charakteristische Bemerkungen gemacht haben. Die Edlen, deren Bravour in der Unordnung und in der Planlosigkeit untergegangen war, kamen mit kummervollem Blick, im ernsten Nachdenken, still und bescheiden von dem Schlachtfelde, wo sie vergebens gekämpft hatten, zurück. Sie fielen keinem Menschen zur Last, sie bezahlten ihre Bedürfnisse mit ihrem letzten Groschen, oder darbten. Sie eilten, da wo es noch möglich war, Ordnung in den Wirrwarr zu bringen und die Zerstreuten zu sammeln; manchen waren ihre Kleider zerschossen und zerfetzt, und sie selbst verwundet, aber sie achteten dies nicht, denn ihr Herz litt bei dem Unglück des Vaterlandes weit mehr. So fand ich mit mehreren andern die würdigen Capitains v. Br. Infanterieregiment v. W—n und v. L—w im Infanterieregiment v. M—f, deren mühsame Carriere endlich Verbesserungen erreicht hatte, die nun der Krieg vielleicht auf immer zerstört.
@@ -9416,12 +8900,10 @@ rule without exception. Whoever observed the Prussian officers on their retreat 
 In many others one noticed unexampled exertion to arrest the misfortune in its consequences; they overtaxed themselves in doing so, showed courage and despair — and could accomplish nothing. A great part, however, displayed an outrageous cowardice, especially the old comfortable gentlemen whom the loss of their company had struck like a thunderbolt, who had still to fear the loss of their estates, their wine cellars, and the stores in their equipment depots; and whose parade-life on the drill-ground, where it is so easy to inspire a high opinion of oneself, had suffered so hideous a metamorphosis!
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-47">Heft 3, S. 47</a></h2>
+<section class="lit-passage" id="p-3-47" data-page="47" data-part="3">
+<div class="pg" id="p3-47"><a href="#p3-47">S. 47</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 fürchten hatten; und deren Paradeleben auf dem Exerzierplatz, wo es so leicht ist, eine hohe Meinung von sich zu erregen, eine so häßliche Metamorphose erlitten hatte! Sie waren ganz vernichtet — und zeigten in der Angst ihrer Herzen oft eine lächerliche Ehrerbietung gegen die französischen Soldaten, die diese Complimente gar nicht einmal verstanden, da die wenigsten dieser Herren mit ihnen reden konnten. Dagegen waren sie, dem Charakter der Feigheit getreu, gegen ihre Untergebenen herzlich grob, und da wo sie ihr Rückzug hinführte, spielten sie vorläufig den Feind, um das Land auf den wirklichen Feind ein wenig vorzubereiten.
@@ -9440,12 +8922,10 @@ The young bravos, the scourges of the land, on the other hand — for whom in th
 The terrible condition of this fleeing mass, hemmed by the night into a small space, was increased still further when, at the exit of a village in a
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-48">Heft 3, S. 48</a></h2>
+<section class="lit-passage" id="p-3-48" data-page="48" data-part="3">
+<div class="pg" id="p3-48"><a href="#p3-48">S. 48</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Hohlwege ein paar schwere Artilleriewagen umwarfen. Hier stockte die ganze Masse, es erhob sich ein wildes Geschrei, untermischt mit Schimpfreden und Flüchen; aber die Masse war nicht einen Schritt vorwärts zu bringen. Rechts und links kletterten ganze Schaaren zersprengter Infanteristen in tiefem Morast neben den Wagen vorbei, Knechte und Pferde wurden zerprügelt, und die schwerfälligen Kutschen der Generalität und der Staabsoffiziere drängten sich, ihren Rang behauptend, überall durch. Wenn ihre Besitzer sich auch auf dem Schlachtfelde nicht Rang und Platz verschaffen konnten; so sollte dies doch auf der Retraite geschehen. Durch dieses Drängen hörte vollends jede Möglichkeit zum Fortrücken auf, und mit jedem Augenblick stieg die Angst der Anwesenden, denn rechts ab sahe man ziemlich nahe und in entsetzlicher Menge die Wachtfeuer der Franzosen und hörte ihr Feldgeschrei und ihren Gesang. Dieser Anblick beflügelte die Schritte der Reiter und Fußgänger, nur die Wagen mit allen dazu gehörigen Personen blieben in dem Zustande der Hülflosigkeit und in eigentlicher Todesangst. Hätten die Franzosen diesen Zustand der Flucht gekannt — sie hätten ihn gewiß genutzt, und ein paar hundert Chasseur waren hinreichend, um auf dem Wege von Weimar bis Erfurth alles zu erbeuten, was sich hier im Gedränge befand. Nach einigen Stunden wurde endlich der Hohlweg wieder offen, und man fuhr wie ein Leichenzug immer vorwärts, über umgefallene Menschen und Pferde, so wie über weggeworfene
@@ -9456,17 +8936,15 @@ Hohlwege ein paar schwere Artilleriewagen umwarfen. Hier stockte die ganze Masse
 sunken road, a couple of heavy artillery wagons overturned. Here the whole mass came to a standstill; a wild uproar arose, mingled with abuse and curses; but the mass could not be brought a single step forward. To right and left, whole throngs of scattered infantrymen clambered past the wagons in deep mire; grooms and horses were beaten black and blue, and the cumbersome carriages of the generalcy and the staff officers, asserting their rank, pressed their way through everywhere. If their owners could secure no rank and place for themselves on the battlefield, at least this was to be done on the retreat. Through this pressing, every possibility of advancing came wholly to an end, and with every moment the anxiety of those present rose, for off to the right one saw, quite near and in a dreadful multitude, the watch-fires of the French, and heard their war-cry and their singing. This sight lent wings to the steps of the riders and those on foot; only the wagons, with all the persons belonging to them, remained in a state of helplessness and in veritable mortal terror. Had the French known this state of the flight — they would surely have exploited it, and a couple of hundred chasseurs would have sufficed to capture, on the road from Weimar to Erfurt, everything that here found itself in the throng. After a few hours the sunken road finally became open again, and, like a funeral procession, one drove ever forward, over fallen men and horses, as well as over discarded
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-49">Heft 3, S. 49</a></h2>
+<section class="lit-passage" id="p-3-49" data-page="49" data-part="3">
+<div class="pg" id="p3-49"><a href="#p3-49">S. 49</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Bagage weg. Doch bald mußten mehrere Wagen wieder halt machen, deren Pferde nicht mehr fort wollten, und obgleich der Feind jeden Augenblick anzugreifen drohte, so mußte doch das Vieh gefüttert werden. Diese zweite Angst ging abermals vorüber, und nun fuhr man, menschlicherseits vom Hunger und Durst erschöpft, dem lang ersehnten Ziele zu, und sahe mit anbrechendem Tage die Thürme von Erfurth.
 
-##### Der Zankapfel unter den Völkern oder Was schuf und unterhält den Englisch-Französischen Krieg? und wie kann er beendigt werden?
+#### Der Zankapfel unter den Völkern oder Was schuf und unterhält den Englisch-Französischen Krieg? und wie kann er beendigt werden?
 
 Furchtbar schwingt der rauhe Mars den furchtbaren Scepter, grausig tönt die Klage, der Fluch der Verzweiflung, denn im Gefolge des Gewaltigen mähet der Tod die schönen Saaten der Menschenfreuden, der Menschenhoffnungen und des Menschenlebens.
 
@@ -9477,19 +8955,17 @@ Fast alle Theile der bekannten Welt sind — direkt oder indirekt — verflochte
 
 baggage. But soon several wagons had to halt again, whose horses would go no further, and although the enemy threatened to attack at any moment, the beasts nevertheless had to be fed. This second terror likewise passed, and now, on the human side exhausted by hunger and thirst, one drove towards the long-desired goal, and at the break of day saw the towers of Erfurt.
 
-##### The Apple of Discord among the Nations, or What Created and Sustains the Anglo-French War? And how can it be ended?
+#### The Apple of Discord among the Nations, or What Created and Sustains the Anglo-French War? And how can it be ended?
 
 Fearsomely does rough Mars brandish the fearsome sceptre, gruesomely resound the lament, the curse of despair; for in the train of the mighty one Death mows down the fair harvests of human joys, of human hopes, and of human life.
 
 Almost every part of the known world is — directly or indirectly — entangled in the general struggle, or will yet be.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-50">Heft 3, S. 50</a></h2>
+<section class="lit-passage" id="p-3-50" data-page="50" data-part="3">
+<div class="pg" id="p3-50"><a href="#p3-50">S. 50</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Europäer und Asiaten betreten die Schlachtgefilde, aber unter sie mischen sich allmählig die Unterthanen oder Söldner der streitenden Gewalten aus den drei übrigen Welttheilen.
@@ -9520,12 +8996,10 @@ Ask why they fight, and the answer is: For peace! Wondrous, most wondrous. For t
 Therefore from every direction move armed multitudes on horse, on foot, and by ship, flooding the earth and the sea.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-51">Heft 3, S. 51</a></h2>
+<section class="lit-passage" id="p-3-51" data-page="51" data-part="3">
+<div class="pg" id="p3-51"><a href="#p3-51">S. 51</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Kämpft um den Frieden! gebieten die Götter der Erde und vom Halse des liebenden Weibes, aus dem umschlingenden Arm der weinenden Braut, vom Busen lieblicher Kinder reißt sich der ernste Krieger, ergreift die mordenden Waffen und eilt dahin aus der glücklichen Stille des Lebens in das wüthige Tosen der Vernichtung.
@@ -9548,12 +9022,10 @@ Here the wave carries dead bodies to the shore, and there fields miles long are 
 Want, devastation, and death walk hand in hand, fraternally, through the trembling world. Here Death cracks forth from a thousand fiery gullets; there brother swings against brother the flashing sword, the sickle of corruption; and there man, filled with fury, thrusts
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-52">Heft 3, S. 52</a></h2>
+<section class="lit-passage" id="p-3-52" data-page="52" data-part="3">
+<div class="pg" id="p3-52"><a href="#p3-52">S. 52</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 das schneidende Bajonet in die Eingeweide des Menschen.
@@ -9584,12 +9056,10 @@ Only a few are perfectly familiar with the grounds of the war. Well, whoever kno
 First the question must be: Why do Prussia, Russia, and Sweden at present wage war against France and its allies?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-53">Heft 3, S. 53</a></h2>
+<section class="lit-passage" id="p-3-53" data-page="53" data-part="3">
+<div class="pg" id="p3-53"><a href="#p3-53">S. 53</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Preußen fürchtete die Vergrößerung, die immer wachsende Macht Frankreichs; Preußen hielt dafür, daß ihm der von Frankreich eingeräumte Besitz des Churfürstenthums Hannover, von England streitig gemacht werde, wenn Brittanien mit Frankreich Frieden schließen und die Zurückgabe von Hannover zur Basis dieses Friedens legen werde. Man bemerke im Hintergrunde den Englisch-Französischen Streit.
@@ -9612,12 +9082,10 @@ Sweden came forward because a personal enmity exists between the King of Sweden 
 The finances of Russia and Sweden permit no long-lasting, costly war, and every war costs
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-54">Heft 3, S. 54</a></h2>
+<section class="lit-passage" id="p-3-54" data-page="54" data-part="3">
+<div class="pg" id="p3-54"><a href="#p3-54">S. 54</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Summen: beide würden diesen gar nicht führen, wäre England mit seinen Sterlingen nicht im Spiele. Mag es seyn, daß ihre anderweitigen Gründe: die Furcht vor der einstigen Uebergewalt Frankreichs, die durch Familienbündnisse und sonstige Föderationen allerdings noch hochbedeutender erscheint, für sie höchst gewichtig sind: beide würden durchaus nicht die Waffen ergriffen haben, hätte das Kabinet von Sct. James sie nicht aufgereizt, nicht zum Theil ihre Truppen besolder [sic]. Mag Rußland glauben, seine im Wachsthum stehende Seemacht könne nur durch enges Anschließen an die Meerbeherrschende Brittania gewinnen: es würde ohne jene Unterstützungen nicht erstanden seyn.
@@ -9636,12 +9104,10 @@ Prussia held to its neutrality, so long as French and English lived in a state o
 Thus it appears incontestably certain that the French and the British are the principal figures in the painting and other powers merely secondary individuals; and for this reason the impartial expert reduces the present Continental war to the Anglo-French one; upon this, and upon nothing else, is it based. The French and the British alone — those giant nations of the modern world — contend against one another; every other struggle hangs upon this one; every nation that takes the field in arms is a moon that receives its light from these suns. Whatever else fights against France is the auxiliary force of the islanders; whatever surges with
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-55">Heft 3, S. 55</a></h2>
+<section class="lit-passage" id="p-3-55" data-page="55" data-part="3">
+<div class="pg" id="p3-55"><a href="#p3-55">S. 55</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ihm wogt, ist sein Verbündeter. Alles geschieht für den Gewinn der Hauptnation, wenig für sich selbst.
@@ -9664,12 +9130,10 @@ Let us go back to the campaign of 1805, and the same phenomena come forth, addre
 The Peace of Amiens was concluded in 1802 between England and France, and the great man who, as a hero on the field of battle, first founded France's real (hitherto only dreamed-of) liberty, also gave,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-56">Heft 3, S. 56</a></h2>
+<section class="lit-passage" id="p-3-56" data-page="56" data-part="3">
+<div class="pg" id="p3-56"><a href="#p3-56">S. 56</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 als Staatsmann im Kabinett dem neuen Reiche Ruhe und die Hoffnung auf innere Kraft und dauernden Wohlstand; aber der Friede bestand nur kurze Zeit; scheinbarer Vortheil im Kampf bestimmte den Sully Englands, W. Pitt, zu neuen feindlichen Schritten. Alle öffentlichen Englischen Blätter schmähten auf Bonaparte, der davon jedoch keine Notiz nahm; aber als die von ihm nach der Insel gesandten Handelsagenten zurückgeschickt wurden, als ob sie Kundschafter wären, dann untersagte er die Einfuhr Englischer Waaren, traf Vorkehrungen gegen den Schleichhandel und beide Mächte nahmen nun ihre auf Fehde berechneten Maaßregeln. Der Krieg begann.
@@ -9684,12 +9148,10 @@ as a statesman in the cabinet, the new empire peace and the hope of internal str
 Bonaparte, resolved to meet the enemy with every exertion of strength, determined upon a landing in England, and seized upon several other measures conducive to this end. After he had set the imperial crown of France and the royal one of Italy upon his head, united Liguria with France, and installed one of his kinsmen as Prince of Lucca and Piombino — (all in order to increase his prestige and his power on the Continent for the subjugation of the enemy) — he went himself to the coast, to accomplish the intended landing; but at the very first step upon this course he saw himself suddenly halted by the armaments of Austria and Russia (which could only be directed against France).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-57">Heft 3, S. 57</a></h2>
+<section class="lit-passage" id="p-3-57" data-page="57" data-part="3">
+<div class="pg" id="p3-57"><a href="#p3-57">S. 57</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Oestreich, das in dem letzten Friedensschluß mit Frankreich bedeutend verlohren, hatte schon längst dem Wachsthum Frankreichs und besonders seiner Ausdehnung in Italien an seinen eignen Gränzen mit Verdruß zugesehen; nun kamen die Krönungen und die Einverleibungen hinzu; die Gefahr schien dringender zu werden; man beschloß den Krieg, aber man beschloß ihn auch nur, denn die Ausführung erheischte pecuniäre Mittel und an diesen litt man Mangel. Aber England begleitete seine dringenden Aufforderungen zum Bündniß gegen die Franzosen mit bedeutenden Subsidienofferten. Das entschied. Rußland, gleichfalls von England durch Unterstützungsversprechungen aufgefordert, verband sich auf der einen Seite mit Oestreich, auf der andern mit dem, England verbündeten, Schweden. Man forderte, Frankreichs Kaiser solle Frieden mit England schließen; so geneigt dazu Napoleon schien, so wollte er ihn nicht auf die von Pitt vorgeschlagenen Bedingungen.
@@ -9708,12 +9170,10 @@ Thus the new war was merely a diversion in England's favour, and hence indirectl
 But the days of Ulm and Austerlitz and the Peace of Pressburg put an end to this subsidiary feud, and the two great peoples again fought solo. And why did they fight one another? What sustains this struggle, now already (with the exception of the brief interval of the Peace of Amiens) lasting 14 years?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-58">Heft 3, S. 58</a></h2>
+<section class="lit-passage" id="p-3-58" data-page="58" data-part="3">
+<div class="pg" id="p3-58"><a href="#p3-58">S. 58</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es ist nicht übel — wenn auch nicht erfreulich — so von Glied zu Glied an der Kette hin zu wandern, bis man am Ende das letzte erreicht.
@@ -9736,12 +9196,10 @@ France's interest is called: navigation, maritime trade, colonies! But England b
 Before the Revolution France possessed considerable colonies; now they are for the most part lost; that it may not win them back again, England wishes to prevent with the exertion of all its strength, that it may not be able to take part in the profitable world trade: that is the tendency of England against France in the present feud. Especially now the island of St. Domingo is England's chief object of attention; this colony must remain lost to France; it absolutely must not be cultivated — so thinks the author of the new Leviathan, and with him every expert — England would rather see a Negro republic on this island than any social
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-59">Heft 3, S. 59</a></h2>
+<section class="lit-passage" id="p-3-59" data-page="59" data-part="3">
+<div class="pg" id="p3-59"><a href="#p3-59">S. 59</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Zustand, wodurch sein Universalhandels- und Creditsystem gefährdet würde; denn wenn auch die Negerrepublik ihm einst gefährlich war, so ist sie es doch nicht immer, nicht jetzt und nicht in einem so hohen Grade, als ob die Insel das Eigenthum hellsehender Völker wäre. Diese wichtige Insel selbst zu erobern, hat es alle Hoffnung aufgeben müssen. Zwar meinen einige Leute: Malta sei das eigentliche Object des jetzigen Krieges; aber was ist denn Malta? Eine Festung im Meere.
@@ -9760,12 +9218,10 @@ But when the whole country, in or upon which a stronghold lies, is lost, can no 
 If, then, the French government were willing to give up its claims to St. Domingo, the present struggle would be at an end; but France cannot suspend this claim without sacrificing all the advantages gained in the Revolution, without sacrificing all hope of that prosperity which is ever the companion of a flourishing world trade. The so-called carrying trade the French have from the very beginning contested with no nation; they have always left it to the English and the Dutch, doubtless because it does not accord with the inclination and the aptitude of the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-60">Heft 3, S. 60</a></h2>
+<section class="lit-passage" id="p-3-60" data-page="60" data-part="3">
+<div class="pg" id="p3-60"><a href="#p3-60">S. 60</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Volkes nicht angemessen ist. Sollen die Franzosen sich für immer auf den innern Handel reducirt sehen, so müssen sie entweder mehrere Bedürfnisse entbehren, oder von Brittanien abhängig seyn und bleiben, das in diesem Falle über Frankreichs Staatskraft nach Gutdünken schaltet und waltet. Die Franzosen müssen wünschen, Theil am Welthandel zu nehmen, der ausschließlich in Englands Händen ist; ihre Nationalfreiheit, ihr innerer Wohlstand hängt davon ab, sie haben ihn ehedem mit andern Völkern getheilt, und so erscheint es als sehr natürlich, daß Frankreich den Verlust von Sct. Domingo weder verschmerzen will noch kann, und daß es mit Anstrengung aller Staatskräfte den Krieg fortsetzt, um jene wichtige Insel im Kampfe mit England wieder zu gewinnen.
@@ -9780,12 +9236,10 @@ people. Should the French see themselves reduced forever to internal trade, they
 One need only cast a searching glance at the development which Europe in general and France in particular has undergone in its needs over three centuries, to find at once the correctness of that assertion, to perceive that on the whole globe there is no compensation for St. Domingo. It is therefore no wonder if everything that has occurred for years in England and France turns most decidedly upon the eternal withholding and the re-conquest of that island. In order not to be struck once and for all from the list of the naval powers, France exerts all its strength; in order to preserve its constitution and its credit, England would rather fear the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-61">Heft 3, S. 61</a></h2>
+<section class="lit-passage" id="p-3-61" data-page="61" data-part="3">
+<div class="pg" id="p3-61"><a href="#p3-61">S. 61</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Aeußerste befürchten, das Höchste wagen, als eine Wiedereroberung dieser Insel gestatten, deren ruhiger Anbau unter französischer Herrschaft seinen unabwendbaren Verfall herbeiführen würde.
@@ -9804,12 +9258,10 @@ Could France tolerate a Negro republic on St. Domingo, then England would gladly
 By the creation of a universal monarchy in the proper sense, France would only lose its concentricity; it would not only grow weaker in the same measure as it gained in extent, but it would also have to sink into an infinite dependence upon England, because this empire, through its continued universal trade, will forever dominate the mainland of Europe; here no cessation can be conceived, because we are accustomed to the luxurious products of their colonies, because we can no longer do without coffee and spices, since we
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-62">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-62">Heft 3, S. 62</a></h2>
+<section class="lit-passage" id="p-3-62" data-page="62" data-part="3">
+<div class="pg" id="p3-62"><a href="#p3-62">S. 62</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 noch immer sogar nach ihren — zum Theil verbotenen — Fabrikaten, lüstern sind.
@@ -9832,12 +9284,10 @@ If one thinks away St. Domingo (as, indeed, for years past), then there is no ob
 Therefore Napoleon conquers one piece of the mainland after another, in order to close the harbours to his enemies, in order to diminish or wholly prevent their sale of goods of every kind. If England suffers here continually, then it must incline to peace, then it must give back to France the colonies in the West Indies,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-63">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-63">Heft 3, S. 63</a></h2>
+<section class="lit-passage" id="p-3-63" data-page="63" data-part="3">
+<div class="pg" id="p3-63"><a href="#p3-63">S. 63</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 so muß es die französische Regierung in der Wiedereroberung von Sct. Domingo (so oder so) unterstützen, so muß es die französische Handelskoncurrenz dulden.
@@ -9860,12 +9310,10 @@ Now, in order to enable everyone to judge whether I do not attribute too high a 
 "This island, of which one part belongs to the Spaniards, is, next to Cuba, the largest of the Antilles. It extends from 17° 37' — 20° north latitude, and from 66° 35' — 74° 15' west longitude, and is 426 English miles long from east to west, and nearly 124 miles broad. It lies midway between Jamaica and Cuba toward the north-west, and the island of Puerto Rico,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-64">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-64">Heft 3, S. 64</a></h2>
+<section class="lit-passage" id="p-3-64" data-page="64" data-part="3">
+<div class="pg" id="p3-64"><a href="#p3-64">S. 64</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 von der sie nur durch einen Canal abgesondert ist, gegen Osten.“
@@ -9896,12 +9344,10 @@ from which it is separated only by a channel, toward the east."
 "In the French portion there are so many horses that all their neighbouring colonies can be supplied with them, and besides these a great number of wild horses and swine, remaining from the breeding stock which the Spaniards had brought over."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-65">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-65">Heft 3, S. 65</a></h2>
+<section class="lit-passage" id="p-3-65" data-page="65" data-part="3">
+<div class="pg" id="p3-65"><a href="#p3-65">S. 65</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Die Jäger schießen die Ochsen wegen ihrer Häute, was auch in Cuba geschieht. Kaum ein Land ist besser bewässert, sowohl durch Bäche als schiffbare Flüsse, die von Fischen wimmeln, so wie die Küsten von Schildkröten.“
@@ -9932,12 +9378,10 @@ from which it is separated only by a channel, toward the east."
 "The Spaniards once made the attempt to destroy the colonies on St. Christopher, when that island was divided between the French and the English; but
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-66">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-66">Heft 3, S. 66</a></h2>
+<section class="lit-passage" id="p-3-66" data-page="66" data-part="3">
+<div class="pg" id="p3-66"><a href="#p3-66">S. 66</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 diese Unternehmung zog ihnen eine sehr strenge Rache zu. Denn verschiedne von den französischen Einwohnern, die aus Sct. Christoph vertrieben, und dadurch in sehr kümmerliche Umstände gerathen waren, fingen an, auf verzweifelte Unternehmungen zu denken. Sie vereinigten sich mit einigen Engländern, Holländern und andern entschlossenen Leuten und fingen einen Seeräuberkrieg gegen Spanien an. Anfangs begnügten sie sich mit der Wegnahme der Spanischen Schiffe und Zerstörung ihres Handels; später aber landeten sie, durch ihre gelungenen Handlungen befeuert und verstärkt, auf dem festen Lande von Neuspanien, und sengten und plünderten das offne Land. Ihre Zahl und Kühnheit wuchs mit ihrem Glücke; vereint nahmen sie einige der stärksten Festungen und reichen Städte der Spanier (Portobello, Maracaibo und Campeachy) ein; selbst die Stadt Panama eroberten sie mit Sturm und verbrannten sie, nachdem sie eine Armee geschlagen hatten, die ihr zu Hülfe kam. In allen diesen und andern von ihnen eroberten Oertern fanden sie unglaubliche Beute und begingen die unerhörtesten Grausamkeiten.“
@@ -9952,12 +9396,10 @@ this undertaking drew upon them a very severe revenge. For several of the French
 "Another band of these pirates went through the Strait of Magellan into the South Sea, and made the whole coast of Peru, Mexico, and Chile a scene of devastation, for fortune accompanied them everywhere, because they always conducted themselves so bravely and so skilfully
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-67">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-67">Heft 3, S. 67</a></h2>
+<section class="lit-passage" id="p-3-67" data-page="67" data-part="3">
+<div class="pg" id="p3-67"><a href="#p3-67">S. 67</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 benahmen, daß sie bei einer gerechten Sache den größten Ruhm verdient haben würden.
@@ -9984,12 +9426,10 @@ that in a just cause they would have earned the greatest renown.
 "The French court at first looked on in silence at the traffic of these men, and when complaints came in,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-68">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-68">Heft 3, S. 68</a></h2>
+<section class="lit-passage" id="p-3-68" data-page="68" data-part="3">
+<div class="pg" id="p3-68"><a href="#p3-68">S. 68</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 so mißbilligte er bloß; als aber später die Franzosen auf Sct. Domingo zahlreich, mächtig und reich wurden, da erkannte er sie für Unterthanen, und sandte ihnen einen Gouverneur und regelmäßige Truppen, um sie bei ihrem Erworbenen zu schützen. Der alten Sitte, Seeräuberei zu treiben, wurde noch eine Zeitlang nachgesehen, bis sich der Häutehandel bedeutend mehrte und die Pflanzungen sich ausbreiteten.
@@ -10020,12 +9460,10 @@ it merely disapproved; but when later the French on St. Domingo became numerous,
 "As early as the beginning of the eighteenth century, 60,000 hogsheads of sugar, each of 500 pounds, were manufactured on St. Domingo; the indigo amounted in value to half as much as the sugar, and a great
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-69">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-69">Heft 3, S. 69</a></h2>
+<section class="lit-passage" id="p-3-69" data-page="69" data-part="3">
+<div class="pg" id="p3-69"><a href="#p3-69">S. 69</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Menge Baumwolle, Ingwer und Kakao wurde nach Frankreich versandt.“
@@ -10068,12 +9506,10 @@ One readily perceives that I am setting up no commonplace hypothesis, no paradox
 But even so we are not yet at the roots of the tree; we must go still further back, back
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-70">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-70">Heft 3, S. 70</a></h2>
+<section class="lit-passage" id="p-3-70" data-page="70" data-part="3">
+<div class="pg" id="p3-70"><a href="#p3-70">S. 70</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zu dem Urquell des Haders, wovon schon in diesem Aufsatz im Vorbeigehen die Rede war.
@@ -10096,12 +9532,10 @@ I said before that the English system is by no means to allow France to rise as 
 Let a man who is of my opinion (the author of the *New Leviathan*) here speak for once on my behalf. He has fixed his subject deeply, squarely, and correctly in his eye; he has convinced thousands who were previously of another opinion; he is the man of sharp sight and of truth.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-71">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-71">Heft 3, S. 71</a></h2>
+<section class="lit-passage" id="p-3-71" data-page="71" data-part="3">
+<div class="pg" id="p3-71"><a href="#p3-71">S. 71</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Wenige Personen“ — sagt er — „haben Kenntniß des Zusammenhanges des politischen Lebens genug, um sich einen deutlichen Begriff von der unwiederstehlichen Nothwendigkeit zu machen, welche die ungeheure Staatsschuld Englands mit sich führt, wie sehr nachtheilig diese für Frankreich ist. Sie schafft in ihren Interessenten Anhänger Englands auf allen Punkten Europens; daher zugleich auch die große Zahl der Feinde Frankreichs.“
@@ -10120,12 +9554,10 @@ Let a man who is of my opinion (the author of the *New Leviathan*) here speak fo
 "In this way has the present war arisen — the war through which the English government seeks to avert a civil
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-72">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-72">Heft 3, S. 72</a></h2>
+<section class="lit-passage" id="p-3-72" data-page="72" data-part="3">
+<div class="pg" id="p3-72"><a href="#p3-72">S. 72</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 abzuwenden sucht, der von dem Augenblick an ausbricht, wo die Regierung ihre Verheißungen nicht erfüllen" — (das heißt immer wieder: die Zinsen der Staatsschuld nicht entrichten) — "kann, und ihre bisherigen Freunde (die Kapitalisten Englands) genöthigt werden, zu ihren Feinden (der arbeitenden Klasse Großbrittaniens) übergehen."
@@ -10144,12 +9576,10 @@ war which will break out from the moment the government cannot fulfil its promis
 Anyone even somewhat acquainted with England's financial constitution readily comprehends that in this sole dominion of the seas lies the means of paying the interest on that national debt. England will never be conquered so long as the English credit system maintains itself through universal trade: for in this system lies concealed the enormous power of the Britons, because each individual, having lent a part of his fortune to the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-73">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-73">Heft 3, S. 73</a></h2>
+<section class="lit-passage" id="p-3-73" data-page="73" data-part="3">
+<div class="pg" id="p3-73"><a href="#p3-73">S. 73</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Staate geliehen, ein hohes Interesse hat, die Aufrechthaltung dieses Staates, seiner Constitution und ganzen Verfassung zu wünschen und im Nothfalle selbst bewirken zu helfen.
@@ -10168,12 +9598,10 @@ There are few families in England that do not either themselves hold a share in 
 From this it naturally follows that not only the government, the two Houses of Parliament, the landed proprietors, the merchants, and the scholars, but the whole people must do everything to keep up the national credit,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-74">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-74">Heft 3, S. 74</a></h2>
+<section class="lit-passage" id="p-3-74" data-page="74" data-part="3">
+<div class="pg" id="p3-74"><a href="#p3-74">S. 74</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 aufrecht zu erhalten und daran hängt, nach der gegenwärtigen Lage der Dinge in England, die Constitution, die Wohlfarth des Reichs.
@@ -10196,12 +9624,10 @@ Hence the Britons' attachment to their constitution, hence their love of country
 It was this system that determined the Britons at the beginning of the French Revolution to provoke the French so long that they themselves declared war on England (in 1793); this system has continually
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-75">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-75">Heft 3, S. 75</a></h2>
+<section class="lit-passage" id="p-3-75" data-page="75" data-part="3">
+<div class="pg" id="p3-75"><a href="#p3-75">S. 75</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 in die Flamme des Kriegsfeuers geblasen, daß es noch in unsern Tagen verzehrend fortlodert. Dieses System entnervt die ganze Welt, indem es nur England, bei seinem Glück im Meerkampfe, mächtig, fast unüberwindlich macht. Dieses System muß angegriffen werden, soll England aus Furcht sich zum Frieden neigen.
@@ -10220,12 +9646,10 @@ But how? That is the question. France for the moment possesses no navy so comple
 If the Emperor of the French can attack the credit system from the mainland, then much is accomplished. A diminution of the sale of those articles which are the basis of all political life in the state of England seems, for the present, to be the most effective means of ending the war — inasmuch, that is, as not the English alone, but all the European nations besides, must pay the interest of the enormous national debt. The same is thought by several sensible writers and by every unprejudiced expert. But this means alone is nevertheless not sufficient, for all England — let one consider what that means —: All England
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-76">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-76">Heft 3, S. 76</a></h2>
+<section class="lit-passage" id="p-3-76" data-page="76" data-part="3">
+<div class="pg" id="p3-76"><a href="#p3-76">S. 76</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wird seine Kraft aufbieten, um die Katastrophe (den Untergang) zu verhindern oder mindestens so lange als möglich aufzuhalten, und dann dürfte es noch weit hin seyn bis zur gänzlichen Auflösung.
@@ -10252,12 +9676,10 @@ There still lie in England and Scotland great fruitful stretches of land unused 
 Then, too, one must not forget that the Continent cannot do without the dye-goods, that our palate
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-77">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-77">Heft 3, S. 77</a></h2>
+<section class="lit-passage" id="p-3-77" data-page="77" data-part="3">
+<div class="pg" id="p3-77"><a href="#p3-77">S. 77</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 an die Gewürze und Colonialprodukte, welche uns allein die Britten zuführen, so gewöhnt ist, daß wir durchaus davon nicht lassen können; selbst die Englischen Fabrikate werden wir nimmer aufgeben wollen, und der Schleichhandel wird uns in den Besitz jener Dinge setzen, wenn der großen Handelsnation der offne Verkehr mit uns inhibirt ist: also dann erst könnte die Epoche eintreten, da das Englische Volk nicht mehr im Stande wäre, seine Abgaben zu bezahlen, wenn die Manufacturen und Künste aller andern Länder eben den Grad der Vollkommenheit erreicht, den die Englischen besitzen, und wenn die Abgaben dieses Volkes jede Handarbeit zu einem solchen Preise hinaufgetrieben haben werden, daß die übrigen Völker sich eben so gute Waaren zu einem mäßigeren Preise anfertigen können: eine Epoche, die bei der gegenwärtigen Ueberlegenheit der englischen Waaren und bei dem fast ausschließlichen Besitz derselben von allen Gattungen der Maschinen, noch weit, weit entfernt ist.
@@ -10276,12 +9698,10 @@ Furthermore, it must be noted that the navy of the English is almost as strong a
 Thus a great span of time still lies between us and the downfall of the English nation; ten generations might easily still be born and die before that
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-78">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-78">Heft 3, S. 78</a></h2>
+<section class="lit-passage" id="p-3-78" data-page="78" data-part="3">
+<div class="pg" id="p3-78"><a href="#p3-78">S. 78</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Zeitpunkt, den fast Jeder wünscht und doch, mit der Kaffeetasse in der Hand, hinausdrängt, eintritt.
@@ -10304,12 +9724,10 @@ If he judged rightly, as is very probable, then my own opinion is confirmed by h
 England's wars since the change of government of 1688, the extraordinarily large land and sea forces which it maintained during them, the many subsidy monies which it paid, demanded extraordinary costs, and recourse was taken to a hitherto still
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-79">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-79">Heft 3, S. 79</a></h2>
+<section class="lit-passage" id="p-3-79" data-page="79" data-part="3">
+<div class="pg" id="p3-79"><a href="#p3-79">S. 79</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 unbekannten Hülfsmittel, zu einer Staatsanleihe. Die Staatsschuld bestand damals nur in einer kurzen Anticipation der Einkünfte; Summen, die nach eingegangenen Geldern aus der Reichsschatzkammer sogleich wieder ersetzt wurden.
@@ -10346,12 +9764,10 @@ From 1714 until the beginning of the Spanish War in 1739 it was reduced by 7,750
 | Now the Seven Years' War began; at its end it was | 146,625,000 | 4,842,000 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-80">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-80">Heft 3, S. 80</a></h2>
+<section class="lit-passage" id="p-3-80" data-page="80" data-part="3">
+<div class="pg" id="p3-80"><a href="#p3-80">S. 80</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 stark; der Friedenszustand von 1763 bis zum Anfange des Amerikanischen Krieges 1775 setzte sie herab zu:
@@ -10390,12 +9806,10 @@ in size; the state of peace from 1763 to the beginning of the American War in 17
 and thus at 3,750,000,000 187,500,000 thalers in gold.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-81">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-81">Heft 3, S. 81</a></h2>
+<section class="lit-passage" id="p-3-81" data-page="81" data-part="3">
+<div class="pg" id="p3-81"><a href="#p3-81">S. 81</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Ob diese Summe auf das Schicksal von Europa impulsirt, ist wohl keine Frage; das Object ist gewichtig genug, einen ewigen Krieg zu unterhalten, wenn so, wie in England, jedes Individuum baaren Theil daran nimmt, und Europa den Nachtheil davon trägt, wenn nur England ausschließlich im Besitz des Vortheils ist.
@@ -10418,12 +9832,10 @@ It is visible what significant damage the Emperor of the French inflicts upon hi
 But how — asks the cosmopolitan in an anxious tone — but how is the world's quarrel to come to an end? If there is no hope of England's near decay; if the Britons continue further on, secretly or openly, to trade us their colonial and manufactured wares; if France strives above all after navigation, trade, and colonies, and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-82">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-82">Heft 3, S. 82</a></h2>
+<section class="lit-passage" id="p-3-82" data-page="82" data-part="3">
+<div class="pg" id="p3-82"><a href="#p3-82">S. 82</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Englands Meerbeherrschende Flotte sie ihm verweigert; wenn England noch nicht so bald in seinem Schuldensystem zu Grunde geht: wie lange wird dann noch der zerstörende, wüthige Kampf währen? Wann und wie soll die Zwietracht erlöschen? Oder soll unser Vaterland ewig bluten an diesen schmerzhaften Todeswunden? Wird nimmer der Friede heimkehren auf unsre Fluren, in unsre sonst glücklich stillen Hütten?
@@ -10446,12 +9858,10 @@ Here I find myself again compelled to return to the author of the new Leviathan.
 "England must retain in its power, at the conclusion of peace, the means of gradually reducing its national debt: therefore let it keep possession of the Viceroyalty of Peru which it has conquered, and let France even guarantee it that possession, though under the condition that it make no claim upon the remaining possessions of Spain in America."
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-83">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-83">Heft 3, S. 83</a></h2>
+<section class="lit-passage" id="p-3-83" data-page="83" data-part="3">
+<div class="pg" id="p3-83"><a href="#p3-83">S. 83</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Das Meer sei frei; jeder Meerdespotismus verschwinde; alle Navigationsakten werden annullirt, dadurch annullirt, daß sie allgemein werden. Von Kommerztraktaten ist nicht mehr die Rede."
@@ -10482,12 +9892,10 @@ Here I find myself again compelled to return to the author of the new Leviathan.
 "Finally, Malta too is given back to the world. Here, upon Malta, let a Congress be established which,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-84">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-84">Heft 3, S. 84</a></h2>
+<section class="lit-passage" id="p-3-84" data-page="84" data-part="3">
+<div class="pg" id="p3-84"><a href="#p3-84">S. 84</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 zusammengesetzt aus Abgeordneten aller Europäischen Nationen, welche Theil am Meerhandel haben, sich der Abfassung eines Seefoder, nach Maaßgabe des gegenwärtigen Traktates, unterziehen und nach Vollendung desselben als oberste Behörde in allen Marinesachen entscheidet. Jede Seemacht ist verbunden, sich diesen Entscheidungen zu unterwerfen und der Maltheser-Orden ist forthin nur zur Beschützung des zu Malta niedergesetzten Kongresses, zur Aufrechthaltung des Völkerrechts vorhanden. So erhält er eine ehrenvolle Bestimmung, die ihm bis dahin fast ganz mangelte."
@@ -10510,12 +9918,10 @@ Under such a conclusion of peace both parties would be satisfied and all antagon
 Would that the rulers of the world took this proposal into consideration! that, upon these conditions, they reached out to one another their blessing hands for the restoration of peace! No other salvation blooms for us than in this or a similar
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-85">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-85">Heft 3, S. 85</a></h2>
+<section class="lit-passage" id="p-3-85" data-page="85" data-part="3">
+<div class="pg" id="p3-85"><a href="#p3-85">S. 85</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Vergleich, der vielleicht auf Jahrhunderte dem Menschengeschlechte Ruhe und Sicherheit verbürgt.
@@ -10531,7 +9937,7 @@ Und dazu helfe uns bald der Genius stiller, häuslicher Freude! der Schutzgott d
 
 ---
 
-##### Rückzug und Gefangennehmung des Bilaischen Corps.
+#### Rückzug und Gefangennehmung des Bilaischen Corps.
 
 ---
 
@@ -10553,19 +9959,17 @@ And to that end may the Genius of quiet, domestic joy soon help us! the guardian
 
 ---
 
-##### Retreat and Capture of Bila's Corps.
+#### Retreat and Capture of Bila's Corps.
 
 ---
 
 When the Prussian army assembled in the Thuringian Forest at the beginning of October 1806, the Regiment von Grävenitz received orders to occupy the town of Nienburg and Hanover. At the end of September the second battalion of this regiment marched to Hameln; the first battalion was assigned as the garrison of Hanover.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-86">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-86">Heft 3, S. 86</a></h2>
+<section class="lit-passage" id="p-3-86" data-page="86" data-part="3">
+<div class="pg" id="p3-86"><a href="#p3-86">S. 86</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Von dem Erfolge der Schlacht bei Jena, ging die erste officielle Nachricht am 16ten Oktober zu Hannover ein.
@@ -10584,12 +9988,10 @@ Colonel von Scharnhorst reported to General von Bila that the enemy had attacked
 This hint would have sufficed for any general whom age had not dulled, and who possessed only quite ordinary common sense, to come to his decision. I, in General von Bila's place, would have reconnoitred the enemy's positions on the Saale; would have pictured the state of affairs to myself quite vividly, and would have considered that the defeated army would inevitably retreat across the Elbe. Accordingly I would have marched on the 18th by way of Hildesheim and Brunswick to Magdeburg. But Colonel von Scharnhorst had, out of modesty, been unwilling to spell out to General von Bila what he ought to do, presuming that he would surely see for himself that, matters standing as they did, his remaining in Hanover could continue no longer. General von Bila, however, remained undisturbed where he was, and I believe he would
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-87">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-87">Heft 3, S. 87</a></h2>
+<section class="lit-passage" id="p-3-87" data-page="87" data-part="3">
+<div class="pg" id="p3-87"><a href="#p3-87">S. 87</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sich selbst bei der Ankunft des Feindes nicht vom Flecke gerührt, wenn am 19ten nicht ein zweites Schreiben vom Obersten von Scharnhorst eingetroffen wäre, worin derselbe sein Verwundern äußerte, daß er noch nicht von Hannover abmarschirt wäre.
@@ -10612,12 +10014,10 @@ This corps therefore marched on the 20th to Zelle, on the 21st to Uelzen, on the
 So on the 24th the corps crossed the Elbe at Dömitz, on the 25th it marched as far as Lenzen, on the 26th as far as Wittstock, on the 27th as far as Mirow. At this night's quarters we were informed by countryfolk that the enemy had attacked General Blücher at Fürstenberg
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-88">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-88">Heft 3, S. 88</a></h2>
+<section class="lit-passage" id="p-3-88" data-page="88" data-part="3">
+<div class="pg" id="p3-88"><a href="#p3-88">S. 88</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 habe, aber durch den General von Blücher zurückgeschlagen wäre.
@@ -10636,12 +10036,10 @@ General von Bila ought to have looked more closely into the grounds of this repo
 As far as Mirow, General von Bila was resolved to march by way of Woldeck and Pasewalk to Stettin. But when Lieutenant von Kyuilenstirna, who during the march was always two days' march ahead, reported that it was no longer possible to get through by way of Pasewalk, our commander hit upon the notion of marching to Demmin instead. But more clear-sighted men, who could not look upon this outrage
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-89">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-89">Heft 3, S. 89</a></h2>
+<section class="lit-passage" id="p-3-89" data-page="89" data-part="3">
+<div class="pg" id="p3-89"><a href="#p3-89">S. 89</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 nicht mit kaltem Blute ansehen konnten, nahmen aber die Karte, zeigten ihm Demmin und Anklam darauf, und machten ihm bemerklich, daß, wenn er nach Demmin marschire, er unter zwei Dingen zu wählen hätte, nämlich sich den Schweden in die Arme zu werfen, oder vor den Franzosen das Gewehr zu strecken.
@@ -10664,12 +10062,10 @@ The idea of going to Demmin was accordingly abandoned, and it was resolved to ma
 They related that Hohenlohe's corps had suffered severely at Boitzenburg (they were for the most part gendarmes), and that the enemy had partly turned toward Friedland and partly was pursuing them. General von Bila at first took no notice of this report; but when afterward an officer likewise appeared in flight, and not only confirmed that report but added further that the enemy could no longer be more than a quarter of an hour distant from the point where the head of the column stood, and that one had even ridden forward to the edge of a wood, and in the grey of dawn
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-90">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-90">Heft 3, S. 90</a></h2>
+<section class="lit-passage" id="p-3-90" data-page="90" data-part="3">
+<div class="pg" id="p3-90"><a href="#p3-90">S. 90</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 bemerkt hatte, daß das ganze Feld schwarz vom Feinde sei: so marschirte das Corps auf. Nachdem es wohl eine halbe Stunde, mit abgeprotzten Kanonen und gezogenen Säbeln, gestanden hatte, und wohl noch mehrere Flüchtlinge, kein Feind aber sich sehen ließ, so gerieth der General von Bila über das was er thun und nicht thun sollte in eine große Verlegenheit. Er durfte nur gegen Sponholz und Rühblank Patrouillen schicken, um in Fassung seines Entschlusses determinirt zu werden. Die Aussage des Officiers hatte seine Phantasie, daß er von Anclam abgeschnitten sei, aber dermaßen beschäftigt, daß er zum Umkehren Befehl gab.
@@ -10684,12 +10080,10 @@ had observed that the whole field was black with the enemy, the corps deployed f
 Thereupon an officer went to General von Bila to represent to him that marching back at random would infallibly result in the captivity or the destruction of the corps, for which he might be held to account. He further observed that this countermarch after all rested only on the statements of men whom terror and fear were tormenting, who were probably cowardly fellows that could not have done their duty, since otherwise they would surely have remained with the main body. No enemy had yet been seen; he ought to send out patrols, and then, if, having seen with his own eyes and judged the enemy's strength, he found a breakthrough impossible, there would still be time to turn back and seek out another Prussian corps
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-91">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-91">Heft 3, S. 91</a></h2>
+<section class="lit-passage" id="p-3-91" data-page="91" data-part="3">
+<div class="pg" id="p3-91"><a href="#p3-91">S. 91</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Corps aufzusuchen, um mit demselben ein endliches gemeinschaftliches Loos zu theilen.
@@ -10712,12 +10106,10 @@ The whole course of this incident could not have occurred if better security mea
 General von Bila was informed of this and directed to the Karel Pass near Friedland, behind which, in case the enemy were not already
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-92">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-92">Heft 3, S. 92</a></h2>
+<section class="lit-passage" id="p-3-92" data-page="92" data-part="3">
+<div class="pg" id="p3-92"><a href="#p3-92">S. 92</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 über Uckermünde gegen Anclam im Anrücken wäre, nichts mehr zu befürchten habe.
@@ -10740,12 +10132,10 @@ Since, fortunately, the director of all these trains, Lieutenant-Colonel von Pri
 By the calculation of these officers, General von Bila ought to have arrived near Anclam on the evening of the 29th.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-93">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-93">Heft 3, S. 93</a></h2>
+<section class="lit-passage" id="p-3-93" data-page="93" data-part="3">
+<div class="pg" id="p3-93"><a href="#p3-93">S. 93</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wie groß ist aber ihr Erstaunen, als derselbe am 30sten des Morgens noch nicht da ist; als eine in der Nacht abgeschickte Estaffette nach Friedland wieder zurück kommt, und versichert, keinen Mann vom Bilaischen Corps angetroffen zu haben; wie auch am 30sten, trotz aller Nachforschungen, nicht ausgemittelt werden kann, welche veränderte Marschdirektion das Bilaische Corps wohl eingeschlagen haben könnte. Daß dieses geschehen, war klar; daß ein abermaliger blinder Lärm dazu die Veranlassung gegeben habe, war wahrscheinlich: wie aber der General von Bila jetzt noch verleitet werden konnte, einen dergleichen Entschluß zu fassen, ohne die Rapporte der vorausgeschickten Officiere abzuwarten und, ohne seine Kavallerie zu gebrauchen, in den nämlichen Fehler des vorhergehenden Tages zu verfallen, war höchst auffallend.
@@ -10768,12 +10158,10 @@ Had they carried out this decision, they would individually have escaped the dis
 But they thought it contrary to duty to take flight without necessity. They wished, therefore, first to await the actual arrival of the enemy, and then to seek out the King's army.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-94">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-94">Heft 3, S. 94</a></h2>
+<section class="lit-passage" id="p-3-94" data-page="94" data-part="3">
+<div class="pg" id="p3-94"><a href="#p3-94">S. 94</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Am 30sten des Nachts um 10 Uhr kam endlich der General von Bila mit seinem Corps zu Anclam an. Der Major von K. vom Preußischen Generalstaabe, hatte durch einen Kurier den General von Bila von den Ereignissen bei Prenzlau benachrichtigt, und ihm den Rath gegeben, sich zu helfen, so gut er könne. Eine sonderbare Idee, einem Corps, welches durchgängig determinirt war, seinen letzten Blutstropfen für den König und die Ehre des Vaterlandes zu verspritzen, gefließentlich Muthlosigkeit einzuflößen. Hatte das Corps des Fürsten von Hohenlohe das Gewehr gestreckt, gut! was brauchten die übrigen Truppen der Preußischen Armee davon Notiz zu nehmen?
@@ -10792,12 +10180,10 @@ Since Major von K. did not know how to give sound advice in a time of need, he w
 He met the column and assured them that he had intended to go to Anclam. But since Anclam was occupied by the enemy, he now wished to try whether a passage could not be made along the coast of the Haff,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-95">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-95">Heft 3, S. 95</a></h2>
+<section class="lit-passage" id="p-3-95" data-page="95" data-part="3">
+<div class="pg" id="p3-95"><a href="#p3-95">S. 95</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 über Uckermünde, Neuwarp und Politz nach Stettin durchzukommen sei. Dieses einfältige Raisonnement war dem General von Bila so plausibel, daß er diese nämliche Idee faßte. Er bedachte aber nicht, daß, wenn bei Anclam nicht mehr durchzukommen sei, es bei Uckermünde um so weniger der Fall seyn könne, und da man in der Gegend bei Friedland noch keine Spur vom Feinde entdeckt hatte, derselbe nothwendig über Uckermünde nach Anclam marschirt seyn müsse, dann aber auch diesen Ort besetzt haben müsse, um in Communication mit dem bei Pasewalk stehenden Feinde zu bleiben. Diese einzige Reflexion konnte den General von Bila retten, eine noch weit zwecklosere Seitenexkursion wie bei Neubrandenburg zu machen; allein nach Kriegeskenntnissen zu kalkuliren, und dabei, unter mehreren mißlichen Fällen, die besten Maaßregeln zu treffen, schien nicht die Sache dieses Generals zu seyn. Genug, der General von Bila verfolgte den vorgeschlagenen Marschplan des davon gelaufenen Husarenunterofficiers. Bei Leopoldshagen begegnete ihm aber das Husarenregiment von Gettkand und das Husarenbataillon von Bila. Diese Kavallerie hatte sich von dem Corps des Fürsten von Hohenlohe getrennt, und war bis auf zwei Meilen gegen Stettin vorgerückt. Der Befehlshaber dieser Kavallerie schickte der Etiquette gemäß einen Offizier an den Commandanten von Stettin ab, um demselben anzuzeigen, daß diese Kavallerie den folgenden Tag Stettin passiren würde. Der Commandant von Stettin, sollte mans glauben, ließ
@@ -10808,12 +10194,10 @@ He met the column and assured them that he had intended to go to Anclam. But sin
 by way of Uckermünde, Neuwarp, and Politz, to Stettin. This foolish reasoning seemed so plausible to General von Bila that he adopted this very idea. But he did not consider that if there was no getting through at Anclam, there could be even less chance of it at Uckermünde, and that since no trace of the enemy had yet been discovered in the neighbourhood of Friedland, the enemy must necessarily have marched by way of Uckermünde to Anclam, and must therefore also have occupied that place in order to remain in communication with the enemy stationed at Pasewalk. This single reflection could have saved General von Bila from making an even more pointless flanking excursion than the one at Neubrandenburg; but to calculate according to the principles of warfare, and thereby, among several unfavourable eventualities, to take the best measures, did not seem to be this general's forte. Enough: General von Bila pursued the march plan proposed by the runaway hussar non-commissioned officer. At Leopoldshagen, however, he was met by the Gettkand Hussar Regiment and the Bila Hussar Battalion. This cavalry had separated from the corps of Prince Hohenlohe and had advanced to within two miles of Stettin. The commander of this cavalry, in accordance with etiquette, dispatched an officer to the Commandant of Stettin to announce to him that this cavalry would pass through Stettin the following day. The Commandant of Stettin, would one believe it, sent back word
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-96">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-96">Heft 3, S. 96</a></h2>
+<section class="lit-passage" id="p-3-96" data-page="96" data-part="3">
+<div class="pg" id="p3-96"><a href="#p3-96">S. 96</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 aber zurück sagen: Er könnte den Durchmarsch nicht statuiren, weil der Feind schon gegen Stettin plänkerte und daher sich zutragen könnte, daß der Feind mit dieser Kavallerie in die Festung sich eindrängte.
@@ -10832,12 +10216,10 @@ Fifteen squadrons of hussars, which could very well have been preserved for the 
 Through this cavalry General von Bila was at last roused from his dream; he accordingly turned back at Leopoldshagen and marched to Anclam. Extremely fatigued, the corps arrived at Anclam on the 30th at 10 o'clock in the evening. The enemy followed at its heels. Notwithstanding this, not the slightest measures of defence were seen to be taken. Since the corps of General von Bila happened to have grown to nearly 4,000 men, in that, besides the 15 squadrons of hussars, the Sacken Grenadier Battalion and several hundred cavalry fugitives who had been scattered in the actions at Boitzenburg, Prenzlow, and Pasewalk had also joined it, a position might well have been taken with this force upon the heights before Anclam. One could have remained standing there until bread and forage had been received in Anclam, and until one had seen the enemy. One would then at least have escaped the reproach that the Bila corps had been disarmed by 600 men — for the Becker division is really said to have been no stronger than that. But how far one was from taking such a heroic
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-97">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-97">Heft 3, S. 97</a></h2>
+<section class="lit-passage" id="p-3-97" data-page="97" data-part="3">
+<div class="pg" id="p3-97"><a href="#p3-97">S. 97</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Entschluß zu fassen, bewies der Befehl, daß die Bataillons-Kanonen vom Bat. Grävenitz auf dem Markte aufgefahren werden sollten. Einer der vorhin gedachten Officiere hatte sich mit dem Terrain, nicht etwa laut Instruction des Generals von Bila, sondern aus eigenem Geheiß bekannt gemacht. Er brachte in Vorschlag, daß das Corps vor der Stadt eine Position nehmen und nicht eher abziehen sollte, bis die Trains die Magazinvorräthe fortgeschafft hätten, und die nöthigen Anstalten zum Ueberfahren auf der Insel Usedom getroffen wären. Allein man wollte von noch großem Widerstandleisten nichts hören, alles, was noch erlangt werden konnte, war, daß man die Kanonen doch nicht in der Stadt verpackte, sondern vor dem Thore ließ.
@@ -10860,12 +10242,10 @@ According to General von Becker's own statement, he was in Anclam on the 30th, d
 But since General Becker found only the Sacken Grenadier Battalion there, it is to be believed that his expedition on the 31st was calculated only upon this catch.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-98">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-98">Heft 3, S. 98</a></h2>
+<section class="lit-passage" id="p-3-98" data-page="98" data-part="3">
+<div class="pg" id="p3-98"><a href="#p3-98">S. 98</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Durch die Ankunft der 15 Eskadrons, des Bataillons Grävenitz und der 150 Pferde vom Regiment Baillotz waren die Preußen den Franzosen wenigstens viermal überlegen.
@@ -10884,12 +10264,10 @@ It was expected that General von Bila would draw up a disposition, or would at l
 But how little he resembled General von Ziethen, whom Frederick the Great called the watchman of the army, since on no march did he lay down his head before he had ridden round the entire chain of outposts and made himself acquainted with the terrain. General von Bila was dulled; I believe he was ill, for he gave himself up to sleep without knowing the terrain, without having ordered when, and in what order, the troops were to withdraw across the Peene; without having taken measures to have the ships and boats brought over to the Swedish side; and without having ordered Captain of Cavalry von Hiller — who, without any consideration whatever, had been left cantoned in the Prussian villages before Anclam — to cross the Peene during the night as well, like the rest of the cavalry. Everything commanded itself. Throughout the whole night the baggage and the cavalry filed through Anclam across the Peene. Of holding one's ground on this side of the Peene there was therefore no longer any thought.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-99">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-99">Heft 3, S. 99</a></h2>
+<section class="lit-passage" id="p-3-99" data-page="99" data-part="3">
+<div class="pg" id="p3-99"><a href="#p3-99">S. 99</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Demungeachtet versammelte sich die Infanterie mit Tages Anbruch, und blieb auf den Straßen liegen. Zu welchem Behuf, war nicht einzusehen; denn da die Thore verschlossen waren, und über eine sechzehn Fuß hohe Stadtmauer ohne Eschafaudagen nicht weggeschossen werden konnte: so war es besser, sie folgte gleich auf die Kavallerie; denn öffnete der Feind die Thore, so entstanden an der Brücke, der eigentliche Vertheidigungspunkt in der Ringmauer der Stadt, unberechbare Unordnungen. Zur Vertheidigung dieser Brücke wurden 200 Mann bestimmt. Die Infanterie marschirte endlich ab. Vor der Ankunft des Bilaischen Corps, meldete ein Kavallerieofficier in dem Dorfe Stredense, habe ein Major von der reitenden Artillerie 40 Stück Kanonen auffahren lassen. Er habe mehrere Officiere angehalten, eine Capitulation zu unterzeichnen, die er durch einen Trompeter irgend einem feindlichen General wollte antragen lassen; er habe einen solchen Antrag aber mit Verachtung verworfen. Eine dergleichen Nichtswürdigkeit war allen ehrliebenden Preußen ein Greuel.
@@ -10904,12 +10282,10 @@ Nevertheless, at daybreak the infantry assembled and remained lying in the stree
 It was therefore denounced to General von Bila as soon as he had arrived in Anclam, and it was urged upon him to give this major immediate orders to withdraw with his ordnance across the Peene. He promised to do so. But nothing further was seen or heard of this fine artillery; probably the artillery major's wish had been realized.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-100">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-100">Heft 3, S. 100</a></h2>
+<section class="lit-passage" id="p-3-100" data-page="100" data-part="3">
+<div class="pg" id="p3-100"><a href="#p3-100">S. 100</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Können sich die Nachtheile, kraftlose Generale an die Spitze von Armeecorps zu stellen, wohl greller auszeichnen, als in diesem einzigen Beispiele? Physische Unvermögenheit und moralische Unwissenheit paaren sich in Armeen bei dem größten Theile der Generale zusammen, wo lediglich die Ancienneté entscheidet. Kommandirte bei Anclam ein junger rüstiger Mann, welcher den Kopf auf dem rechten Flecke hatte; so würde es einen großen Theil unglücklicher Menschen weniger in der Preußischen Armee geben.
@@ -10924,12 +10300,10 @@ Can the disadvantages of placing feeble generals at the head of army corps be ma
 At nine o'clock the enemy advanced against the gates of the town. Although all passages and roads had been occupied by the captain commanding the rearguard, the enemy nonetheless succeeded in throwing back the post at the warehouse, whereby the troops in the town were cut off from the Peene bridge. The captain therefore withdrew with his men across the Peene; here, after the bridge had been raised, he posted himself on the bank of the Peene to receive the enemy. Several enemy officers thereupon reconnoitred our position, on which occasion fire was given, which was not without effect. From this time on a musketry fire was engaged on both sides, which continued uninterrupted, with no inconsiderable loss on both sides, until toward five o'clock in the evening. The Prussians kept the bank clear and cut the anchors from the ships and boats in order to let them drift downstream. In this work
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-101">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-101">Heft 3, S. 101</a></h2>
+<section class="lit-passage" id="p-3-101" data-page="101" data-part="3">
+<div class="pg" id="p3-101"><a href="#p3-101">S. 101</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 wurden mehrere Leute blessirt, weil sie unter dem Kugelregen von beiden Seiten vollführt wurde. Der Feind setzte sich dagegen in den Häusern fest, und feuerte aus den Dächern und Fenstern. Während dieses Gefechts hatte das Corps die Anhöhen zwischen Ziethen und Relzow besetzt. Man erwartete von seinem Abmarsche nach der Pinnoer und Wolgasterfähre benachrichtigt zu werden, allein es machte dazu keine Anstalten, um wahrscheinlich erst die Ueberfahrt der Bagage abzuwarten.
@@ -10952,12 +10326,10 @@ It was therefore a possible case that at least the infantry of this corps could 
 The two Generals von Bila looked at each other in mute despair, but did not act. Had they but taken the map before their eyes, it must have
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-102">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-102">Heft 3, S. 102</a></h2>
+<section class="lit-passage" id="p-3-102" data-page="102" data-part="3">
+<div class="pg" id="p3-102"><a href="#p3-102">S. 102</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gleich einleuchten, daß es nur noch weniger Anstrengung bedurfte, ihre Ehre und so viele brave Menschen gerettet zu sehen.
@@ -10976,12 +10348,10 @@ Toward evening the detachment posted at the Peene bridge was relieved by the fir
 Parleying began. General von Becker announced the capitulation of Prince Hohenlohe and the surrender of Stettin. He brought home to General von Bila that they had put themselves into a cul-de-
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-103">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-103">Heft 3, S. 103</a></h2>
+<section class="lit-passage" id="p-3-103" data-page="103" data-part="3">
+<div class="pg" id="p3-103"><a href="#p3-103">S. 103</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 sac begeben,<sup class="lit-fn"><a href="#n-de-23">23</a></sup> woraus sie dem Schicksal gefangen zu werden nicht würden entgehen können; wenn man unter vortheilhaften Bedingungen kapituliren wollte: so sollte ein einstündiger Waffenstillstand seyn. Man war kurz vor der Erscheinung dieses Schreibens wirklich entschlossen, nach Pinnow abzumarschiren, allein die Uebergabe Stettins war etwas erschreckliches, weil man sich eben fixirt hatte, über die Inseln auf diesem Platz sich zu repliiren. Die Lage war allerdings schlimm, aber nicht zum verzweifeln. War der Rückzug auf Stettin abgeschnitten, so konnte auf Colberg dazu Rath werden.
@@ -11000,12 +10370,10 @@ If, given the proximity of the enemy, there was not time enough to cross over to
 The equipages and knapsacks would, to be sure, be lost, but one would save one's honour. The King could one day replace the lost property, but the King himself could not be replaced, if one withdrew from the fatherland, in so
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-104">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-104">Heft 3, S. 104</a></h2>
+<section class="lit-passage" id="p-3-104" data-page="104" data-part="3">
+<div class="pg" id="p3-104"><a href="#p3-104">S. 104</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 peinlichen Lage auch nur einige tausend Vertheidiger ohne die höchste Noth entzog.
@@ -11024,12 +10392,10 @@ Had the matter been weighed a little more sharply, a negotiation over the capitu
 In the character of General von Bila there lies no obstinacy, for as often as a plain and useful piece of advice was given him during the preceding marches, he lent his hand to it with the greatest readiness. It is to be believed that, had some person of weight come forward to instil in him, by force of these reasons, an aversion to the capitulation, he would readily have been brought round to it; but by ill luck chance had brought along some officers of the *gens d'armes* onto the heights near Ziethen, who declared aloud that nothing better could now be done than to accept the capitulation; their ill conduct at Jena had lowered their boastful tone; the drubbing at Boitzenburg had made them
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-105">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-105">Heft 3, S. 105</a></h2>
+<section class="lit-passage" id="p-3-105" data-page="105" data-part="3">
+<div class="pg" id="p3-105"><a href="#p3-105">S. 105</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 kleinmüthig gemacht, und hier schien die Erhaltung ihrer englischen Wettrenner ihnen mehr, als der Preußische Ruhm am Herzen zu liegen.
@@ -11056,15 +10422,13 @@ By reason of higher command it would probably have been forgotten, had not the o
 Notwithstanding that the approach of the enemy in the night of the 29th was reported to General von Bila, he nevertheless neglected to notify Captain of Cavalry von Hiller of it, which had the consequence that this captain, with his whole troop, fell into the enemy's hands on the 30th.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-106">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-106">Heft 3, S. 106</a></h2>
+<section class="lit-passage" id="p-3-106" data-page="106" data-part="3">
+<div class="pg" id="p3-106"><a href="#p3-106">S. 106</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Diensttreue.
+#### Diensttreue.
 
 *Glatz.*
 
@@ -11073,19 +10437,17 @@ Im Glogauischen Kammerdepartement ist die Ruhe wieder hergestellt, die durch ein
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Devotion to Duty.
+#### Devotion to Duty.
 
 *Glatz.*
 
 In the Glogau Chamber department, order has been restored — the order which some time ago was disturbed by a few young, fiery officers in Sagan and the neighbouring region. This town has had to atone for it, because it was imagined to be full of patriots; Grünberg came off better. The French cannot be blamed for covering their rear. But they are also vigorously supported by the civil authorities. There in Glogau is the old and venerable President of the Oberamt, Baron v. C., who as early as 1802 celebrated his fiftieth jubilee of service, and on that occasion was rewarded for his faithful services by the King with the Order of the Red Eagle, and by the province with a monument and a commemorative medal — this old man, now but two fingers' breadth from the grave, came forward with devotion to meet the victors, executes their commands with great severity, and is the only one among the Government Presidents
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-107">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-107">Heft 3, S. 107</a></h2>
+<section class="lit-passage" id="p-3-107" data-page="107" data-part="3">
+<div class="pg" id="p3-107"><a href="#p3-107">S. 107</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 des Landes, der die Regierungsrescripte unter dem Namen des Kaisers
@@ -11112,17 +10474,15 @@ Were one inclined to regard this conduct as the weakness of old age, then the Ch
 > notre vilain Chambellan.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-108">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-108">Heft 3, S. 108</a></h2>
+<section class="lit-passage" id="p-3-108" data-page="108" data-part="3">
+<div class="pg" id="p3-108"><a href="#p3-108">S. 108</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 An die Städte seines Kreises erließ er folgendes vielsagendes Rescript, was seine Klugheit rein ausspricht; man sagt sich ins Ohr, Napoleon werde ihn zum Kammerdirektor erheben.
 
-##### Copia.
+#### Copia.
 
 Ob man zwar glauben sollte, daß Vernunft, Klugheit und der allen Menschen angebohrne Trieb der Selbsterhaltung ein jedes einzelne Individuum veranlassen würde, in der gegenwärtigen Lage der Dinge vorzüglich auf alles, was zu seiner persönlichen Sicherheit dienen kann, Rücksicht zu nehmen, und sich nicht ohne Noth Unannehmlichkeiten und Gefahren auszusetzen, so haben gleichwohl verschiedene, in mehrern Städten statt gefundene Ereignisse mich nur zu sehr überzeugt, daß diese Klugheitsmaaßregel von vielen gänzlich aus den Augen gesetzt wird, indem sie durch Aeußerungen an öffentlichen Orten und durch Handlungen Gelegenheit geben, für verdächtige Personen gehalten zu werden. Beispiele zu dem hier gesagten gaben Grünberg und Sagan, wo bei verschiedenen Veranlassungen Bürger oder andere Stadtbewohner sich Aeußerungen von Theilnahme an dem Vorgefallenen erlaubet, die höchst unbesonnen waren, und weder dem Interesse des Königs von Preußen nutzen, noch den Franzosen nachtheilig seyn konnten, von denen dabei interessirten Personen
 
@@ -11131,17 +10491,15 @@ Ob man zwar glauben sollte, daß Vernunft, Klugheit und der allen Menschen angeb
 
 To the towns of his district he issued the following highly telling rescript, which expresses his cleverness plainly enough; it is whispered about that Napoleon will elevate him to Chamber Director.
 
-##### Copy.
+#### Copy.
 
 Although one should suppose that reason, prudence, and the instinct of self-preservation innate in all men would move every single individual, in the present state of affairs, to have particular regard for everything that may serve his personal safety, and not to expose himself needlessly to unpleasantness and danger, various events that have occurred in several towns have nonetheless convinced me only too well that this maxim of prudence is entirely lost sight of by many, inasmuch as, by their utterances in public places and by their actions, they give occasion to be held for suspect persons. Examples of what is here stated were furnished by Grünberg and Sagan, where on various occasions burghers or other townsfolk permitted themselves utterances of sympathy with what had occurred which were in the highest degree ill-considered, and which could neither serve the interest of the King of Prussia nor be detrimental to the French, but were very well noted by the persons interested therein,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-109">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-109">Heft 3, S. 109</a></h2>
+<section class="lit-passage" id="p-3-109" data-page="109" data-part="3">
+<div class="pg" id="p3-109"><a href="#p3-109">S. 109</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 aber sehr wohl bemerkt, und wenn auch nicht unter veränderten Umständen geahndet, doch auf keine Weise vergessen sind.
@@ -11160,12 +10518,10 @@ By order of His Excellency the Governor-General v. Verrieres, and moved to it mo
 More or less, all Frenchmen understand German; only the circumstance that they are not entirely masters of the language is the cause of their being mistrustful, for the experience of several countries—for example Tyrol, Calabria, etc.—has given them occasion for it. Being precisely acquainted with the state of things as they really are, I feel moved thereby to avert unavoidable misery, the inevitable ruin of the towns, the most dreadful lot that could befall magistrates, burgherhoods, and inhabitants, and
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-110">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-110">Heft 3, S. 110</a></h2>
+<section class="lit-passage" id="p-3-110" data-page="110" data-part="3">
+<div class="pg" id="p3-110"><a href="#p3-110">S. 110</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 vorstehendes unten benannten Wohllöblichen Magistraten in der besten Absicht an das Herz zu legen, damit von ihnen solche Vorkehrungen getroffen werden, die von unserer Provinz nach Möglichkeit die verderblichen Folgen entfernen, die Länder empfanden, und noch empfinden, die die Gewalt der Waffen und ein beispielloses Krieges-Glück<sup class="lit-fn"><a href="#n-de-24">24</a></sup> diesen unüberwindlichen Siegern unterwarf.
@@ -11184,15 +10540,13 @@ Glogau, the 26th of February 1807.
 v. Tschirschky.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-111">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-111">Heft 3, S. 111</a></h2>
+<section class="lit-passage" id="p-3-111" data-page="111" data-part="3">
+<div class="pg" id="p3-111"><a href="#p3-111">S. 111</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Interessante Kleinigkeiten.
+#### Interessante Kleinigkeiten.
 
 Zu der Zeit, als die Preußischen Vestungen Magdeburg, Cüstrin, Stettin, Spandau und Plassenburg so schnell nach einander übergeben wurden, fragte ein Officier einen ihm bekannten Juden: Nun Schatz, wie geht es mit dem Handel? "Gut" — erwiederte jener — "die Vestungen gehen reißend ab, unsre Leut' verdienen eppes!"
 
@@ -11205,7 +10559,7 @@ Der Schreiber des Generals (ein Gemeiner von der Kaiserlich-Französischen Garde
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Interesting Trifles.
+#### Interesting Trifles.
 
 At the time when the Prussian fortresses of Magdeburg, Küstrin, Stettin, Spandau, and Plassenburg were surrendered one after another in such quick succession, an officer asked a Jew of his acquaintance: Well, my treasure, how goes business? "Good"—the other replied—"the fortresses are selling like hot cakes, our people are earning a bit of something!"
 
@@ -11216,12 +10570,10 @@ Not long ago a prisoner-of-war officer came to Berlin and to the commandant, Gen
 The general's clerk (a private of the Imperial French Guard) receives him in order to take down his request in writing, and addresses him in French, of which the officer, despite the good education he had enjoyed at the local Cadet Corps, is not entirely master.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-112">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-112">Heft 3, S. 112</a></h2>
+<section class="lit-passage" id="p-3-112" data-page="112" data-part="3">
+<div class="pg" id="p3-112"><a href="#p3-112">S. 112</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „Wie heißen Sie?" fragt der Schreiber französisch.
@@ -11284,12 +10636,10 @@ That throws the man off entirely; at the exclamation he has forgotten again what
 Yes—answered the sweating man; laughing, the clerk writes it down, and the officer withdraws,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-113">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-113">Heft 3, S. 113</a></h2>
+<section class="lit-passage" id="p-3-113" data-page="113" data-part="3">
+<div class="pg" id="p3-113"><a href="#p3-113">S. 113</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 seelenfroh, der zwiefachen französischen Klemme entronnen zu seyn.
@@ -11320,12 +10670,10 @@ And beside the recorded name of the man now under arrest the deputy read: "A goo
 Kotzebue, in his comedy *The Epigram*, has the Chamber Councillor Hippeldanz say: I know a little country where titles are absurdly cheap! Which little country might he have meant? In this connection Swedish Pomerania, among others, always comes to my mind. Here, at least until a couple of years ago, the trade in titles and offices was thoroughly at home. There one could still
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-114">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-114">Heft 3, S. 114</a></h2>
+<section class="lit-passage" id="p-3-114" data-page="114" data-part="3">
+<div class="pg" id="p3-114"><a href="#p3-114">S. 114</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 man noch — wenigstens im Kleinen — für Geld Alles werden, wozu man Lust hatte. Zum Beyspiel, ein Hofrath war 100 Ducaten werth, so viel kostete nemlich dieser Titel. Wirkliche Aemter erhielt man für ein Spottgeld von einem Staatsbedienten, der nicht mehr recht fort konnte oder wollte. Eine kleine Stelle, welche 400 bis 500 Thaler einbrachte, erkaufte man mit 4 — 5000 Thaler. Damals wurde der Posten eines Waagedirectors, der circa 450 Thaler brachte, gerade für 1800 Thaler veräußert; wie im Civil, so ging es auch im Militair: Für Geld wurde man ein Officier, so bedeutend als man wollte, das heißt, so viel man bezahlen konnte. Eine Capitainsstelle mit der Compagnie wurde mit 2 — 6000 Thaler bezahlt. Wahrscheinlich hat sich das seit zwey Jahren nicht geändert. Die möglichen übeln Folgen liegen am Tage. Es kommen Leute zu Aemtern, die außer der Kaufsumme nichts besitzen, das sie dazu qualificirt. Man kann Secretair heißen, ohne zu wissen, wie man die Feder hält, Capitain seyn, ohne die mindesten militairischen Kenntnisse zu besitzen. Aber dafür hört man hier — wie in Berlin — allerley erbauliche Titelchen ertönen; man nennt keinen Menschen bey dem Namen seines Vaters. Nein, er muß durchaus etwas im Staate seyn, er mag wollen oder nicht. Diese Krähwinkler-Sitte ist aber nicht allein in Berlin und Schwedisch-Pommern heimathlich: man findet sie in vielen andern Städten und Städtchen, Ländern
@@ -11336,12 +10684,10 @@ man noch — wenigstens im Kleinen — für Geld Alles werden, wozu man Lust hat
 —at least on a small scale—become anything one had a fancy for, for money. For example, a Court Councillor was worth 100 ducats; that is what the title cost. Actual offices one obtained for a pittance from a state servant who could no longer, or would no longer, carry on. A minor post yielding 400 to 500 thalers was purchased with 4,000 to 5,000 thalers. At that time the post of a weigh-house director, which brought in about 450 thalers, was sold off for exactly 1,800 thalers; as in the civil service, so it went in the military too: for money one became an officer, of as much consequence as one pleased, that is, as much as one could pay for. A captaincy with the company was paid for with 2,000 to 6,000 thalers. Probably this has not changed in the past two years. The possible ill consequences are plain to see. Men come into offices who possess nothing besides the purchase sum to qualify them for it. One can be called secretary without knowing how to hold a pen, be a captain without possessing the slightest military knowledge. But in return one hears here—as in Berlin—all manner of edifying little titles ringing out; no man is called by his father's name. No, he simply must be something in the state, whether he wants to or not. This Krähwinkel custom, however, is not native to Berlin and Swedish Pomerania alone: one finds it in many other towns and townlets, countries
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-115">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-115">Heft 3, S. 115</a></h2>
+<section class="lit-passage" id="p-3-115" data-page="115" data-part="3">
+<div class="pg" id="p3-115"><a href="#p3-115">S. 115</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und Ländchen, wo — dem Himmel sey Dank — der Rang nicht käuflich ist.
@@ -11364,12 +10710,10 @@ and little countries, where—thank Heaven—rank is not for sale.
 Just so do our men of business, who know only the old routine and do not think for themselves; to them every good reform in the constitution or administration is a disorder, a harmful innovation; exactly thus did many officers behave in the campaign of 1806; in the art of war they still stood at the close of the Seven Years' War, they had remained there in the conviction that all was well, and had played l'hombre while the French advanced a thousand paces. Naturally the innovation displeased them, whose spirit they did not know. Naturally they could not
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-116">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-116">Heft 3, S. 116</a></h2>
+<section class="lit-passage" id="p-3-116" data-page="116" data-part="3">
+<div class="pg" id="p3-116"><a href="#p3-116">S. 116</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 darin nicht finden, wie jener Briefträger in der verwandelten Stadt.
@@ -11392,12 +10736,10 @@ The now-murdered Emperor of Haiti, Jacob Dessalines, in order to promote the sci
 Let us compare with this grant of freedom the Berlin censorship before the outbreak of the present war. There, too, everything could be printed, only nothing against religion, the King, and the State. That, thought of so simply, was indeed very reasonable; but how far could the meaning of this condition be stretched, if a weak-headed or narrow-minded censor so pleased, for he was by no means responsible for his actions in this regard; he could construe a wholly innocent passage according to his own fancy, and strike out of a piece of writing
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-117">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-117">Heft 3, S. 117</a></h2>
+<section class="lit-passage" id="p-3-117" data-page="117" data-part="3">
+<div class="pg" id="p3-117"><a href="#p3-117">S. 117</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 hinwegstreichen, was ihm beliebte. Klagen darüber wurden nicht angenommen. Ein bedeutender Mann in der Nähe des Königs, den man einmal in einer solchen Sache um Rath fragte, antwortete: Man muß es dem Ermessen des bestallten Censors überlassen, was er zu drucken erlaubt. Macht man ihm einmal seiner Strenge wegen Vorwürfe, so läßt er in Zukunft alles passiren, und das darf durchaus nicht seyn! Traurig, wenn nun ein Schriftsteller der Laune eines solchen befangenen Menschen hingegeben ist, der, wie ein verschnittener Todtengräber, nur versenken, aber nicht selbst etwas machen kann. Ist so ein Censor nun gar boshaft, dann stehe Apollon der Literatur bey.
@@ -11412,12 +10754,10 @@ whatever pleased him. Complaints about this were not entertained. A man of signi
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-118">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-118">Heft 3, S. 118</a></h2>
+<section class="lit-passage" id="p-3-118" data-page="118" data-part="3">
+<div class="pg" id="p3-118"><a href="#p3-118">S. 118</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > Wenn man hebet an zu kriegen,  
@@ -11438,12 +10778,10 @@ says Hans Sachs, and with great justice. What rumours run through the people in 
 For example: Mr. No. 1 meets his friend No. 2 and says to him: A courier has just arrived, but where he comes from, and what he brings, no one knows. No. 2 goes on and tells No. 3 that a courier has come, and that it is supposed an engagement has taken place. At once No. 3 tells No. 4, his acquaintance, that there has been a great affair at N. N. Importantly No. 4 exclaims, on entering the wine-house: Do you know already that at N. N. a murderous battle has been fought,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-119">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-119">Heft 3, S. 119</a></h2>
+<section class="lit-passage" id="p-3-119" data-page="119" data-part="3">
+<div class="pg" id="p3-119"><a href="#p3-119">S. 119</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 ist, worin 3000 Mann geblieben sind? Darauf laufen die Herrn 5. 6. 7. 8. 9. 10. 11. 12 geschwinde auf verschiedenen Wegen fort, dieser zu Hause, jener in die Resource, der in einen Laden, ein anderer zu einem Freunde, und jener in ein andres Weinhaus. Jeder setzt etwas hinzu, und am Ende sind es 10000 Todte, 10000 Verwundete und 20000 Gefangene, ein paar Befehlshaber sind geblieben und viele Kanonen und Fahnen erbeutet. Fragt man: Von wem kommt die Nachricht? so wird geantwortet: „Von einem Manne, der es wohl wissen kann, den ich aber nicht nenne:"
@@ -11466,12 +10804,10 @@ If one wished to be candid, one would have to answer: No. 12 says that No. 11 co
 Whoever has an inclination to know how wonderfully often individual men can attain to rank, weight, and high offices for which they possess not the least abilities,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-120">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-120">Heft 3, S. 120</a></h2>
+<section class="lit-passage" id="p-3-120" data-page="120" data-part="3">
+<div class="pg" id="p3-120"><a href="#p3-120">S. 120</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 gelangen können, der lese folgende kurze einfache und ganz wahre Darstellungen:
@@ -11490,12 +10826,10 @@ There was once a young man of great family who, as was the custom in his fatherl
 Naturally, it was not long before several of the tipplers found themselves dead-drunk under the table, and to this class the ensign belonged. Yet the collapse was by no means the finale of the bacchanalia; the ensign's lungs, not invulnerable to begin with, had been attacked by the drastic flame of the drink, he thought he should faint from the heat in his bowels, and at last fell into a lingering, painful disease of the chest.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-121">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-121">Heft 3, S. 121</a></h2>
+<section class="lit-passage" id="p-3-121" data-page="121" data-part="3">
+<div class="pg" id="p3-121"><a href="#p3-121">S. 121</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Ein verständiger Arzt rieth ihm: er solle Urlaub nehmen, aufs Land ziehen, und viel Eselsmilch trinken. Das that er, das Mittel wirkte, und er wurde so halb und halb wieder hergestellt. Nun meinte der Arzt, er solle, seiner schwachen Lunge wegen, den Militairdienst ganz quittiren, und irgend etwas anders treiben, das auf seine geschwächte Körperconstitution nicht so nachtheilig einwirke, als diese Beschäftigung. Auch dieser Rath wurde befolgt, er nahm seine Dimission, und fing aus langer Weile an, ein wenig in Kameral- und Finanzwissenschaftlichen Büchern zu blättern, so daß er am Ende in diesem Fache eine oberflächliche Idee erhielt. Seine vielgeltenden Verwandten, welche damals, als ihn der fatale Arrak aus seiner Militair-Cariere warf, ihm schiefe Gesichter schnitten, wurden nun wieder freundlich, und beschlossen auf der Stelle, aus ihm etwas Rechtes im Civil zu schaffen. Da er alle hebenden Vorzüge, als Geld, Erbadel und Protection seiner hohen Familie, besaß, so konnte es gar nicht fehlen. Man stellte ihn vortheilhaft an, als er sich kaum gemeldet hatte, und stieg von Amt zu Amt immer höher empor, bis zum angesehensten und bedeutendsten Staatsbeamten, der sogar einen Orden trug.
@@ -11510,12 +10844,10 @@ A sensible physician advised him: he should take leave, go into the country, and
 Another flew swiftly up one rung after another in the military, because a court lady, back when he was still a Second Lieutenant, said of him to the Prince's consort: Yesterday I danced with N. N. "D,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-122">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-122">Heft 3, S. 122</a></h2>
+<section class="lit-passage" id="p-3-122" data-page="122" data-part="3">
+<div class="pg" id="p3-122"><a href="#p3-122">S. 122</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 „mein Gott, er tanzt wie ein Engel, und war gekleidet wie ein Gott!" — und die Durchlaucht schätzte hübsche und gewandte Tänzer.
@@ -11534,15 +10866,13 @@ Can one then really ask for more, than that dancing here, and arrack there, shou
 Are these events not miracles in the spirit of the age?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-123">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-123">Heft 3, S. 123</a></h2>
+<section class="lit-passage" id="p-3-123" data-page="123" data-part="3">
+<div class="pg" id="p3-123"><a href="#p3-123">S. 123</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Ueber die Tendenz der Schrift: *Vertraute Briefe über die innern Verhältnisse des preußischen Hofes ꝛc.* und des Journals: *Neue Feuerbrände.*
+#### Ueber die Tendenz der Schrift: *Vertraute Briefe über die innern Verhältnisse des preußischen Hofes ꝛc.* und des Journals: *Neue Feuerbrände.*
 
 Es ist wohl Zeit, daß der Verfasser der ersten, und der Redakteur der letztern sich darüber laut erklärt, da so manche Recensenten darnach gefragt haben, denen die Fassungsgabe fehlt; denn sonst müßten es ihnen jene Werke wohl eingetrichtert haben.
 
@@ -11553,7 +10883,7 @@ Meinetwegen mögen sie sagen, die Herren, was sie wollen, es ist mir völlig ein
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### On the Tendency of the Tract: *Confidential Letters on the Internal Affairs of the Prussian Court etc.* and of the Journal: *New Firebrands.*
+#### On the Tendency of the Tract: *Confidential Letters on the Internal Affairs of the Prussian Court etc.* and of the Journal: *New Firebrands.*
 
 It is high time that the author of the former and the editor of the latter declare themselves aloud on this matter, since so many reviewers have asked after it — reviewers who lack the faculty of comprehension; for otherwise those works must surely have drummed it into them.
 
@@ -11562,12 +10892,10 @@ These reviewers have also said: one must censure a fault beforehand, not afterwa
 For all I care, these gentlemen may say what they will, it is entirely a matter of indifference to me; for they only ever busy themselves with the form and with titles, misprints, and I know not what else.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-124">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-124">Heft 3, S. 124</a></h2>
+<section class="lit-passage" id="p-3-124" data-page="124" data-part="3">
+<div class="pg" id="p3-124"><a href="#p3-124">S. 124</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Da aber jene Werke stark gelesen werden, und dieser oder jener zweifelhaft seyn möchte, ob es gut gethan sey, mit freyer Stirn die Fehler seiner vaterländischen Verfassung aufzudecken, so sehe ich mich veranlaßt, darüber mich näher zu erklären:
@@ -11606,12 +10934,10 @@ when he beheld their confused position.
 Whoever then steps forth publicly, as Bülow did in his campaign of 1805, makes only a sacrifice to his own vanity; he does indeed earn himself the name of a prophet,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-125">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-125">Heft 3, S. 125</a></h2>
+<section class="lit-passage" id="p-3-125" data-page="125" data-part="3">
+<div class="pg" id="p3-125"><a href="#p3-125">S. 125</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 aber er hat dem Feinde die Schwäche des Staats verrathen.
@@ -11630,12 +10956,10 @@ But when there is nothing more to keep silent, when the state lies shattered in 
 Shameful is the reproach in these times (I mean against the Journal): that the King is portrayed very favourably, in order that his weakness may stand out all the more.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-126">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-126">Heft 3, S. 126</a></h2>
+<section class="lit-passage" id="p-3-126" data-page="126" data-part="3">
+<div class="pg" id="p3-126"><a href="#p3-126">S. 126</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es müßte wohl ein eben so elender Schmeichler und Speichellecker seyn, als jener Kritiker — ein hämischer Recensent ist, der mit elenden Advokatenkniffen sich brüstet, der vom Könige sagen könnte:
@@ -11670,12 +10994,10 @@ I should indeed like once to see how this warming is supposed to come about?
 Thus the gentlemen suppose, there behind the warm stove. But they ought once to step outside among the people, and there they would soon perceive that all warming is at an end: it is all in vain!
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-127">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-127">Heft 3, S. 127</a></h2>
+<section class="lit-passage" id="p-3-127" data-page="127" data-part="3">
+<div class="pg" id="p3-127"><a href="#p3-127">S. 127</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Es muß jetzt niedergerissen und niedergebrannt werden, was an Mißbräuchen jetzt entblößt dasteht; es müssen die Staatsverräther öffentlich gebrandmarkt und bestraft werden; der König muß sich mit den Edelsten (nicht etwa Adel) umgeben, um aus dem alten Wust etwas Gehaltvolles aufzubauen.
@@ -11706,12 +11028,10 @@ To that I give very little heed. I shall name myself to the King; may He, the ju
 If adherents of the true, genuine Prussian system of state can be judged and punished, then this is the greatest proof that it exists no longer.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-128">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-128">Heft 3, S. 128</a></h2>
+<section class="lit-passage" id="p-3-128" data-page="128" data-part="3">
+<div class="pg" id="p3-128"><a href="#p3-128">S. 128</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Soviel über die Tendenz meiner Schriften, und nun laßt mich damit in Ruhe, ihr Recensionen-Fabrikanten, und ihr Schwächlinge, die ihr nicht Muth habt, in die Schranken zu treten, und die ihr lieber den Feinden Weihrauch streut (der ihnen anekelt), damit sie euch eure paar Thaler Gehalt auszahlen.
@@ -11726,15 +11046,13 @@ So much on the tendency of my writings, and now let me be in peace with them, yo
 The Editorship of the New Firebrands.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-129">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-129">Heft 3, S. 129</a></h2>
+<section class="lit-passage" id="p-3-129" data-page="129" data-part="3">
+<div class="pg" id="p3-129"><a href="#p3-129">S. 129</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Erklärung des Verfassers der vertrauten Briefe über die innern Verhältnisse des preußischen Hofes ꝛc. das schwarze Register im zweyten Hefte der neuen Feuerbrände betreffend.
+#### Erklärung des Verfassers der vertrauten Briefe über die innern Verhältnisse des preußischen Hofes ꝛc. das schwarze Register im zweyten Hefte der neuen Feuerbrände betreffend.
 
 Auf dem Titel des ersten Heftes der neuen Feuerbrände stehe ich mit Recht als Herausgeber; denn bis auf den letzten Aufsatz von Benkowitz sind alle von mir selbst.
 
@@ -11743,19 +11061,17 @@ Der zweyte Heft enthält nur die Abhandlung Seite 118 von mir. Dieses Heft ist m
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Declaration by the Author of the *Confidential Letters on the Internal Affairs of the Prussian Court, etc.* concerning the black register in the second Part of the *New Firebrands*.
+#### Declaration by the Author of the *Confidential Letters on the Internal Affairs of the Prussian Court, etc.* concerning the black register in the second Part of the *New Firebrands*.
 
 On the title page of the first Part of the *New Firebrands* I rightly appear as editor; for, save the last essay by Benkowitz, all are by my own hand.
 
 The second Part contains only the treatise on page 118 by me. This Part did not come before my eyes until I had just returned from a two-month journey. The essays were therefore not read by me before printing.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-130">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-130">Heft 3, S. 130</a></h2>
+<section class="lit-passage" id="p-3-130" data-page="130" data-part="3">
+<div class="pg" id="p3-130"><a href="#p3-130">S. 130</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Ich finde nun in diesem Hefte das schwarze Register, und fühle mich berufen, hierdurch zu erklären, daß jenes Register Wahrheit und Lügen durch einander mengt, den Stempel der Animosität und Gemeinheit trägt. Es wird darin geschimpft und gelästert, wodurch niemand der Wahrheit und Gerechtigkeit eine Stütze giebt. Der Verfasser hat sich nicht genannt; das Manuscript ist durch die dritte Hand an den Verleger der neuen Feuerbrände eingesandt, das Publikum wird ihn aber leicht an dem Titel, an der Form und an der Tendenz erkennen. Er mag sein Machwerk verantworten.
@@ -11774,17 +11090,15 @@ Let him go to law with the many who are compromised and slandered in this regist
 I do not defend the censured donations; I have given my opinion on them in the first Part of the *Confidential Letters*. If it is certain that Count Hoym protested against the confiscation of the ecclesiastical estates and starostas, how can he have set the donations in motion?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-131">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-131">Heft 3, S. 131</a></h2>
+<section class="lit-passage" id="p-3-131" data-page="131" data-part="3">
+<div class="pg" id="p3-131"><a href="#p3-131">S. 131</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Doch ich will die Unrichtigkeiten, welche mir nur in dem schwarzen Register bekannt sind, rügen, darnach mag das Publikum das Ganze beurtheilen.
 
-##### S. 67. No. 7. Stadtpräsident Eisenberg in Berlin.
+#### S. 67. No. 7. Stadtpräsident Eisenberg in Berlin.
 
 Nach dem Aufruhr in Breslau mußte Eisenberg nach Breslau reisen und die Sache untersuchen. Hoym fiel vor ihm auf die Knie, und bat ihn um Gotteswillen, ihn nicht unglücklich zu machen, daher diese Schenkung.
 
@@ -11801,7 +11115,7 @@ Unter allen Umständen hatte die Klugheit Hoyms Resourcen genug, sich einer solc
 
 Yet I will censure the inaccuracies which are known to me only in the black register, and thereafter the public may judge the whole.
 
-##### p. 67. No. 7. City President Eisenberg in Berlin.
+#### p. 67. No. 7. City President Eisenberg in Berlin.
 
 After the uprising in Breslau, Eisenberg had to travel to Breslau and investigate the matter. Hoym fell on his knees before him and begged him for God's sake not to bring about his ruin — hence this gift.
 
@@ -11814,21 +11128,19 @@ How could the lame man have managed such a thing?
 Under all circumstances Hoym's shrewdness had resources enough to spare him such a degrading act toward a man like Eisenberg. The blame for having provoked the uprising fell upon Werner,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-3-132">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-132">Heft 3, S. 132</a></h2>
+<section class="lit-passage has-related" id="p-3-132" data-page="132" data-part="3">
+<div class="pg" id="p3-132"><a href="#p3-132">S. 132</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 dem Stadtpräsidenten in Breslau, einen unmittelbaren Günstling Friedrich Wilhelm II., dem er als Kronprinz Gelder negociirt hatte.
 
-###### S. 69. Fürst Hohenloh.
+##### S. 69. Fürst Hohenloh.
 
 Der Tausch, den Hohenloh zwischen dem Amte Crotozcyn und seinen Donationen vorschlug, wäre nicht ungerecht gewesen, wenn er nach den Anschlägen geschah, welche von beyden Tauschobjekten gemacht wurden. Der Staatsminister von Voß vereitelte dies Projekt, vielleicht aus guter Absicht. Dem Könige dienten aber die Hohenlohschen Besitzungen mehr, wie Crotozcyn; denn sie arondirten, so viele der südpreußischen Aemter, von denen sie unklugerweise abgerissen waren.
 
-###### S. 71. Der Graf Lüttichau.
+##### S. 71. Der Graf Lüttichau.
 
 Dem Regierungsrath von Grevenitz geschieht hier zu viel; er wird hier geradezu der Bestechung beschuldigt.
 
@@ -11839,17 +11151,16 @@ Grevenitz war ja gar nicht Richter in der Sache, sondern der officielle Beystand
 
 the City President in Breslau, an immediate favourite of Frederick William II., for whom, while he was Crown Prince, he had negotiated funds.
 
-###### P. 69. Prince Hohenlohe.
+##### P. 69. Prince Hohenlohe.
 
 The exchange that Hohenlohe proposed between the domain of Crotozcyn and his donations would not have been unjust, had it taken place according to the valuations made of both objects of exchange. The Minister of State von Voß thwarted this project, perhaps with good intentions. But Hohenlohe's possessions served the King better than Crotozcyn; for they rounded out so many of the South Prussian domains from which they had been imprudently torn.
 
-###### P. 71. Count Lüttichau.
+##### P. 71. Count Lüttichau.
 
 The Government Councillor von Grevenitz is done too much injustice here; he is quite plainly accused of bribery.
 
 Grevenitz was not in fact a judge in the matter at all, but the official counsel of Countess Gurovska; nor was the legal dispute of the Gurovsky spouses as to the property (*quo ad Bona*) ever adjudicated, but rather settled by agreement. (One sees how poorly the author
 
-</div>
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
@@ -11858,20 +11169,19 @@ Grevenitz was not in fact a judge in the matter at all, but the official counsel
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-3-133">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-133">Heft 3, S. 133</a></h2>
+<section class="lit-passage" id="p-3-133" data-page="133" data-part="3">
+<div class="pg" id="p3-133"><a href="#p3-133">S. 133</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 unterrichtet war.) Alle hier angegebnen Summen sind falsch. Was hier von dem Justizrath Reinhard steht, ist ganz unwahr.
 
-###### S. 75.
+##### S. 75.
 
 Hoym hat Murowanna Goslin für 120000 Rthlr. gekauft, und um eben den Preis verkauft.
 
 Wenn der Kauf von ihm aus Gefälligkeit gegen Bischofswerder geschehen wäre, wie würde er so unklug gewesen seyn, sogleich an 40 Procent daran zu verdienen? Man sieht, wie sehr den Verfasser die Wuth zu schmähen hingerissen, und wie inkonsequent er dabey verfahren hat.
 
-###### S. 76.
+##### S. 76.
 
 Der Ritterschaftsrath von Unruh ist ein so rechtschaffner Mann, wie der General Köckeritz, und es ist nicht wahr, daß die benannten Güter dem letztern geschenkt wären, sondern sie sind dem von Unruh in Erbenzinß gegen ein Erbstandsgeld und Abfindung des vorigen Besitzers, Grafen Lucas v. Bninsky, verliehen worden. Diese Abfindung hat Hr. v. Unruh theuer bezahlen, und überdies das auf den Gütern gefundene Inventarium mit Gelde aufwiegen müssen. Er hat die
 
@@ -11880,28 +11190,26 @@ Der Ritterschaftsrath von Unruh ist ein so rechtschaffner Mann, wie der General 
 
 was informed.) All the sums given here are false. What is stated here about the Justice Councillor Reinhard is entirely untrue.
 
-###### p. 75.
+##### p. 75.
 
 Hoym bought Murowanna Goslin for 120,000 reichsthalers, and sold it for exactly the same price.
 
 If the purchase had been made by him as a favour to Bischofswerder, how could he have been so imprudent as to profit by nearly 40 per cent on it straightaway? One sees how far the rage to vilify has carried the author away, and how inconsistently he has proceeded in it.
 
-###### p. 76.
+##### p. 76.
 
 The Knighthood Councillor von Unruh is as upright a man as General Köckeritz, and it is not true that the aforementioned estates were given to the latter as a gift; rather, they were granted to von Unruh in hereditary tenure (Erbenzins) against a hereditary tenure fee and the buying-out of the previous holder, Count Lucas v. Bninsky. This buying-out Mr. v. Unruh had to pay for dearly, and moreover had to match in money the inventory found on the estates. He put the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-3-134">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-134">Heft 3, S. 134</a></h2>
+<section class="lit-passage has-related" id="p-3-134" data-page="134" data-part="3">
+<div class="pg" id="p3-134"><a href="#p3-134">S. 134</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Gebäude, die verwahrlost waren, in Stand gesetzt, und manche Melioration gemacht, ehe er sie verkaufte.
 
-###### S. 83.
+##### S. 83.
 
 Unter der Taxe der Triebenfeldschen Güther und ihrem Verkaufspreise, stecken seine ihm eigenthümlich gehörigen Güter.
 
@@ -11920,7 +11228,7 @@ Der dritte Hefte war bis auf diesen Nachsatz auch schon gedruckt.
 
 buildings, which had been neglected, into good repair, and made many improvements before he sold them.
 
-###### P. 83.
+##### P. 83.
 
 Beneath the assessment of the Triebenfeld estates and their sale price are concealed the estates that belonged to him in his own right.
 
@@ -11935,7 +11243,6 @@ The third Part, save for this postscript, had likewise already been printed.
 ---
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Cöllns Nachschrift sagt, unter der Taxe der Triebenfeldschen Güter und ihrem Verkaufspreis steckten Güter, die ihm selbst gehörten, und er habe die Gebäude vor dem Verkauf in guten Stand gebracht. Seine Briefe geben das Innere des Verkaufs aus eigener Hand: der Preis an den Prinzen Georg 280.000, mit 270.000 Schulden auf den Gütern (Juli 1800), und der Käufer verkaufe für 750.000 weiter (Februar 1801).</p>
@@ -11943,12 +11250,11 @@ The third Part, save for this postscript, had likewise already been printed.
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-3-135">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-135">Heft 3, S. 135</a></h2>
+<section class="lit-passage" id="p-3-135" data-page="135" data-part="3">
+<div class="pg" id="p3-135"><a href="#p3-135">S. 135</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Note des Verlegers.
+#### Note des Verlegers.
 
 Ich muß es der Wahrheit gemäß anerkennen, daß der Verf. der vertrauten Briefe von dem Druck des schw. Reg. nichts gewußt hat; ich meldete ihm dessen Eingang: allein mein Brief verfehlte ihn, indem er schon abgereist war. Er erhielt ihn endlich, und antwortete sogleich:
 
@@ -11959,7 +11265,7 @@ Diese Antwort kam zu spät, das zweyte Heft der neuen Feuerbrände war bereits i
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Publisher's Note.
+#### Publisher's Note.
 
 I must acknowledge, in accordance with the truth, that the author of the *Confidential Letters* knew nothing of the printing of the black register; I informed him of its arrival: but my letter failed to reach him, as he had already departed. He finally received it, and replied at once:
 
@@ -11968,15 +11274,13 @@ I must acknowledge, in accordance with the truth, that the author of the *Confid
 This reply came too late; the second Part of the New Firebrands had already gone out into all the world.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-136">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-136">Heft 3, S. 136</a></h2>
+<section class="lit-passage" id="p-3-136" data-page="136" data-part="3">
+<div class="pg" id="p3-136"><a href="#p3-136">S. 136</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Druckfehler.
+#### Druckfehler.
 
 ---
 
@@ -11987,7 +11291,7 @@ S. 108. 3te Zeile v. o. lies, statt Napoleon werde ihn zum Kammerdirektor erhebe
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Errata.
+#### Errata.
 
 ---
 
@@ -11996,15 +11300,13 @@ P. 108, line 3 from the top, read, instead of "Napoleon would raise him to the o
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-137">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-137">Heft 3, S. 137</a></h2>
+<section class="lit-passage" id="p-3-137" data-page="137" data-part="3">
+<div class="pg" id="p3-137"><a href="#p3-137">S. 137</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Antwort auf ein anonymes Schreiben des Verfertigers des schwarzen Registers.
+#### Antwort auf ein anonymes Schreiben des Verfertigers des schwarzen Registers.
 
 Es ist an die Redaktion der Neuen Feuerbrände ein Schreiben des schwarzen Registrators eingegangen, worin dem von ihm vermutheten Verfasser der vertrauten Briefe mancherley Schuld gegeben wird, was wir hier öffentlich beantworten wollen. Es heißt darin:
 
@@ -12017,7 +11319,7 @@ Ich gehöre nicht zu den Poltrons; aus Gründen, die ich hier zu entwickeln nich
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### Reply to an Anonymous Letter from the Author of the Black Register.
+#### Reply to an Anonymous Letter from the Author of the Black Register.
 
 A letter from the black registrar has reached the editorial office of the New Firebrands, in which sundry charges are laid against the man he presumes to be the author of the *Confidential Letters*, which we here wish to answer publicly. It reads:
 
@@ -12028,12 +11330,10 @@ Still less to the present editor and author of the *Confidential Letters*; it is
 I am not one of the poltroons; for reasons which I have no inclination to develop here, I shall perhaps keep silent against you publicly, but at your expense I shall justify myself privately with a very coarse portrayal
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-138">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-138">Heft 3, S. 138</a></h2>
+<section class="lit-passage" id="p-3-138" data-page="138" data-part="3">
+<div class="pg" id="p3-138"><a href="#p3-138">S. 138</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Ihres Charakters mich rechtfertigen, wenn das Geschwader der Donatarien mir Verdruß erregen wollte, ob schon Sie den Lobredner jener Leute machen.
@@ -12072,12 +11372,10 @@ It is a manifest lie when you say in the *Confidential Letters*: I suck poison o
 Does not the black register itself bear witness to this?
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-139">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-139">Heft 3, S. 139</a></h2>
+<section class="lit-passage" id="p-3-139" data-page="139" data-part="3">
+<div class="pg" id="p3-139"><a href="#p3-139">S. 139</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Spott und Tadel haben in mir jederzeit eine moralische Tendenz. Ihre eigenen Schriften enthalten ja Materialien in Menge zur Rechtfertigung meiner Prophezeyungen, nur mit dem Unterschiede, daß Sie allemal zurücktreten, wenn es darauf ankommt, personel zu verfahren, ich aber frisch auf die Personen losstürme u. s. w.
@@ -12112,12 +11410,10 @@ For the rest, virtue does not consist in affronts against the persons who direct
 One sees: it is not possible to please all men in all things.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-140">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-140">Heft 3, S. 140</a></h2>
+<section class="lit-passage" id="p-3-140" data-page="140" data-part="3">
+<div class="pg" id="p3-140"><a href="#p3-140">S. 140</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Sie, der Lobredner und Partisan Hoyms, Sie publiciren meine Güthertabelle!
@@ -12152,15 +11448,13 @@ For all I care, the registrar may now have an authentic one printed, or retract 
 ---
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-141">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-141">Heft 3, S. 141</a></h2>
+<section class="lit-passage" id="p-3-141" data-page="141" data-part="3">
+<div class="pg" id="p3-141"><a href="#p3-141">S. 141</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### Anzeige.
+### Anzeige.
 
 So eben ist nun vollendet
 
@@ -12182,7 +11476,7 @@ Wenn es wahr ist, daß von allen Kenntnissen die practischen, oder die, welche i
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### Announcement.
+### Announcement.
 
 Now just completed:
 
@@ -12202,19 +11496,17 @@ Retail price 3 thalers. Bulk price for 6 copies at 2 thalers each.
 If it is true that of all forms of knowledge the practical ones, or those which stand in immediate relation to practical life, are the most important and the most indispensable, then technical knowledge, by the unanimous judgement of all educators, belongs among the most indispensable of all; and thus what the author of that work says in the preface to the first volume is surely correct: "that everyone who lays claim to cultivation must know roughly as much of technology as is contained in his book, if he does not wish often to be placed in the embarrassing position of exposing his sorry ignorance." — One may therefore without hesitation recommend this work as an indispensable item in every library of every cultivated man, however
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-142">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-142">Heft 3, S. 142</a></h2>
+<section class="lit-passage" id="p-3-142" data-page="142" data-part="3">
+<div class="pg" id="p3-142"><a href="#p3-142">S. 142</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 so kleinen Bibliothek jedes gebildeten Mannes, insbesondere aller jungen Leute, empfehlen, da es vor allen übrigen ähnlichen Schriften den Vorzug der größern Reichhaltigkeit und Vollständigkeit hat. Das glaubt man aber noch bemerken zu müssen, daß man hier keine bloß trockne Aufzählung der Arbeiten, wie sie von Handwerkern und in Fabriken geschehen, zu erwarten habe, sondern daß die Beschreibung der Handwerke ꝛc. mit einer Menge nützlicher und interessanter Notizen aus der Kunstgeschichte gleichsam gewürzt ist, das Werk dadurch also am Werth um Vieles gewinnt, und auch öfteres Durchlesen und Studieren jedesmal reichlich belohnen wird. Hier ist der Inhalt des ganzen Werks:
 
-###### Erster Band.
+##### Erster Band.
 
-###### Erster Theil. Von der Verarbeitung der Naturproducte des Thierreichs.
+##### Erster Theil. Von der Verarbeitung der Naturproducte des Thierreichs.
 
 I. Fleisch. — Fleischer (Schlächter), Koch.  
 II. Blut. — Bereitung des Berlinerblau.  
@@ -12231,9 +11523,9 @@ IX. Milch. — Bereitung der Butter und des Käse.
 
 small, and especially in that of all young people, since it has the advantage over all other similar writings of greater richness and completeness. Yet this too one believes must still be remarked: that here one is not to expect a merely dry enumeration of the operations as they are performed by craftsmen and in factories, but rather that the description of the crafts, etc., is, as it were, seasoned with a quantity of useful and interesting notices drawn from the history of the arts, so that the work thereby gains much in value, and will also richly reward repeated reading and study each time. Here is the content of the whole work:
 
-###### Volume One.
+##### Volume One.
 
-###### First Part. On the Working of the Natural Products of the Animal Kingdom.
+##### First Part. On the Working of the Natural Products of the Animal Kingdom.
 
 I. Meat. — Butcher (slaughterer), cook.  
 II. Blood. — Preparation of Prussian blue.  
@@ -12246,12 +11538,10 @@ VIII. Horn, bone, ivory, pearls, tortoiseshell and coral, together with similar 
 IX. Milk. — Preparation of butter and cheese.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-143">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-143">Heft 3, S. 143</a></h2>
+<section class="lit-passage" id="p-3-143" data-page="143" data-part="3">
+<div class="pg" id="p3-143"><a href="#p3-143">S. 143</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 X. Honig und Wachs. — Honigkuchenbäcker. Wachsbleiche, Wachslichtzieherey, Bereitung der Wachsstöcke und Wachsfackeln, der Wachspoussirer.  
@@ -12259,7 +11549,7 @@ XI. Seide. — Zurichtung der Seide. Seidenweber, Wattenmacher, Bereitung der it
 XII. Cochenille. Bereitung des Carmins.  
 XIII. Gummilack und Galläpfel. Bereitung des Siegellacks. Verfertigung der Tinte.
 
-###### Zweyter Theil. Von der Verarbeitung der Naturalien des Pflanzenreichs.
+##### Zweyter Theil. Von der Verarbeitung der Naturalien des Pflanzenreichs.
 
 I. Holz. Dieses verarbeiten 1. die eigentlichen Holzarbeiter, indem sie sein Wesen unverändert lassen, ihm aber eine andere Form geben. Dahin gehören: der Tischer, Stuhlmacher, Zimmermann, Brunnenmacher, Faßbinder, Formschneider, Korbflechter, Stellmacher, Büchsenschäfter, Orgelbauer (Claviermacher), Geigenmacher, Flötenbohrer, Bildschnitzer, Holzknopfmacher, Leistenschneider, Schachtels, Peitschenstiel- und Sanduhrmacher. 2. Zu andern Benutzungen des Holzes wird sein Wesen durch Feuer zerstört; daher Kohlenbrennerey, Potaschesiederey, Kienrußbrennerey — Bereitung der Tusche. — 3. Die harzigen Säfte des Holzes benutzt man zu Theer (Theerschwelerey) und Firnissen (der Lackirer). (Wachstuchmanufactur.) 4. Das Bast und die Rinde des Holzes verarbeitet theils der Mattenflechter, theils der Korkschneider.
 
@@ -12267,9 +11557,9 @@ II. Früchte. — 1. Technologische Benutzung des Getreides. — Bereitung des M
 
 III. Pflanzenstengel. 1. Flachs und Hanf. Bearbeitung beyder, Bereitung der Spitzen, der leinenen Zeuge. (Leinweber, Damastweber.) Zurichtung der rohen Leinwand, die Bleiche; der Seiler. — Lumpen: Papiermacherey, Pappenmacherey, Bereitung der bunten Papiere, der Papiertapeten, Spielkartenmanufactur, Buchbinder. (Papiermaschee-Masken.) 2. Zuckerrohr und Taback. Zuckersiederey. Zuckerbäcker, Bereitung des Rauch- und Schnupftabacks. 3. Stroh und Rohr. Bereitung der Strohwaaren, Blattmacher, Zurichtung der spanischen Röhre. 4. Färbepflanzen. Waidmanufactur, Krappmanufactur, Indigoterie, Bereitung der Orseille und des Lackmus. Der Färber. 5. Arzneypflanzen. Die Apothekerkunst.
 
-###### Zweyter Band.
+##### Zweyter Band.
 
-###### Erster Abschnitt. Erden und Steine.
+##### Erster Abschnitt. Erden und Steine.
 
 I. Thonarten. 1. Der Töpfer, Bereitung der Schmelztiegel. Bereitung des Steinguts. Fayanzefabrik. Porzellanfabrik. Pfeifenbrennerey. Die Ziegelhütte.
 
@@ -12281,7 +11571,7 @@ XI. Silk. — Dressing of silk. Silk-weaver, wadding-maker, preparation of Itali
 XII. Cochineal. Preparation of carmine.  
 XIII. Gum-lac and gall-nuts. Preparation of sealing-wax. Manufacture of ink.
 
-###### Second Part. On the Working of the Natural Products of the Vegetable Kingdom.
+##### Second Part. On the Working of the Natural Products of the Vegetable Kingdom.
 
 I. Wood. This is worked by 1. the wood-workers proper, in that they leave its substance unchanged but give it another form. To these belong: the joiner, chair-maker, carpenter, well-maker, cooper, block-cutter, basket-weaver, wheelwright, gunstock-maker, organ-builder (harpsichord-maker), violin-maker, flute-borer, wood-carver, wooden-button maker, last-cutter, box-maker, whip-handle and hourglass maker. 2. For other uses of wood its substance is destroyed by fire; hence charcoal-burning, potash-boiling, lampblack-burning — the preparation of Indian ink. — 3. The resinous saps of wood are used for tar (tar-distilling) and varnishes (the varnisher). (Oilcloth manufacture.) 4. The bast and bark of wood are worked partly by the mat-weaver, partly by the cork-cutter.
 
@@ -12289,29 +11579,27 @@ II. Fruits. — 1. Technological use of grain. — Preparation of flour (miller)
 
 III. Plant stalks. 1. Flax and hemp. Working of both, preparation of lace, of linen goods. (Linen-weaver, damask-weaver.) Dressing of raw linen, the bleaching; the ropemaker. — Rags: papermaking, pasteboard-making, preparation of coloured papers, of paper hangings, playing-card manufacture, bookbinder. (Papier-mâché masks.) 2. Sugar cane and tobacco. Sugar-boiling. Confectioner, preparation of smoking- and snuff-tobacco. 3. Straw and reed. Preparation of straw wares, plait-maker, dressing of Spanish canes. 4. Dye plants. Woad manufacture, madder manufacture, indigo-works, preparation of orchil and litmus. The dyer. 5. Medicinal plants. The apothecary's art.
 
-###### Second Volume.
+##### Second Volume.
 
-###### First Section. Earths and Stones.
+##### First Section. Earths and Stones.
 
 I. Clays. 1. The Potter, preparation of crucibles. Preparation of stoneware. Faience factory. Porcelain factory. Pipe-baking. The Brickworks.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3-144">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3-144">Heft 3, S. 144</a></h2>
+<section class="lit-passage" id="p-3-144" data-page="144" data-part="3">
+<div class="pg" id="p3-144"><a href="#p3-144">S. 144</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 II. Kieselarten. Glasmacherkunst. Bereitung der Glasflüsse und des Schmelzes. Emaillirkunst. Verfertigung der unächten Perlen. Die Spiegelfabrik. Der Glaser. Der Glasschleifer. Der Glasschneider. Die Edelsteine. Der Steinschleifer. Der Juwelirer. Der Steinschneider. Die Mosaik.  
 III. Kalkarten. Gipsbrennerey. Stuckaturarbeiter. Gipser (Gipsgießer). Kalkbrennerey. Maurer. Steinmetz. Dachdecker (Schieferdecker). Bildhauer. Serpentinsteindreher.
 
-###### Zweyter Abschnitt. Salze.
+##### Zweyter Abschnitt. Salze.
 
 Kochsalzsiederey. Salpetersiederey. Die Pulvermühle. Scheidewasserbrennerey. Alaunsiederey. Salmiakfabrik. Vitriolsiederey. Vitriolölbrennerey. Boraxraffinerie.
 
-###### Dritter Abschnitt. Metalle.
+##### Dritter Abschnitt. Metalle.
 
 Die Förderung der Erze. (Bergbau). Die Aufbereitung der Erze, (Hüttenbau).
 
@@ -12329,7 +11617,7 @@ VI. Das Quecksilber. Die Bereitung des Zinnobers.
 
 VII. Kobalt und Arsenik. a) Kobalt. Bereitung des Saffiors (Zaffers) und der Smalte (Blaufarbenwerke). b) Der Arsenik. Gifthütten.
 
-###### Vierter Abschnitt. Brennbare Mineralien oder Erdharze.
+##### Vierter Abschnitt. Brennbare Mineralien oder Erdharze.
 
 a) Schwefel. Schwefelhütten. b) Reißbley. Bereitung der Bleystifte. c) Bernstein. Bernsteindreher.
 
@@ -12391,11 +11679,11 @@ a) Schwefel. Schwefelhütten. b) Reißbley. Bereitung der Bleystifte. c) Bernste
 II. Siliceous materials. The art of glassmaking. Preparation of glass fluxes and of the melt. The art of enamelling. Manufacture of imitation pearls. The Mirror factory. The Glazier. The Glass-grinder. The Glass-cutter. Precious stones. The Lapidary. The Jeweller. The Gem-engraver. Mosaic.  
 III. Limes. Gypsum-burning. Stucco-worker. Plasterer (plaster-caster). Lime-burning. Mason. Stonecutter. Roofer (slater). Sculptor. Serpentine-stone turner.
 
-###### Second Section. Salts.
+##### Second Section. Salts.
 
 Common-salt boiling. Saltpetre boiling. The powder mill. Aqua-fortis distilling. Alum boiling. Sal-ammoniac works. Vitriol boiling. Oil-of-vitriol distilling. Borax refinery.
 
-###### Third Section. Metals.
+##### Third Section. Metals.
 
 The extraction of ores. (Mining). The processing of ores, (Smelting).
 
@@ -12413,7 +11701,7 @@ VI. Mercury. The preparation of cinnabar.
 
 VII. Cobalt and Arsenic. a) Cobalt. Preparation of saffior (zaffre) and smalt (blue-pigment works). b) Arsenic. Poison-works.
 
-###### Fourth Section. Combustible Minerals or Bitumens.
+##### Fourth Section. Combustible Minerals or Bitumens.
 
 a) Sulphur. Sulphur works. b) Graphite. Manufacture of pencils. c) Amber. Amber-turners.
 
@@ -12470,6 +11758,7 @@ a) Sulphur. Sulphur works. b) Graphite. Manufacture of pencils. c) Amber. Amber-
 <span class="lit-note" id="n-en-24">24</span> Here Herr von Tschirschky seems to step out of his role, but in the main he is right; for what is wiser than the rules of self-preservation, and can one win over the enemy better than by yielding? C....m....r.
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

@@ -7,13 +7,35 @@ alt_url: "/de/literatur/breyer1938/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Pages">
-<a href="#p-front">front</a> <a href="#p-1">1</a> <a href="#p-2">2</a> <a href="#p-3">3</a> <a href="#p-4">4</a> <a href="#p-5">5</a> <a href="#p-6">6</a> <a href="#p-7">7</a> <a href="#p-8">8</a> <a href="#p-9">9</a> <a href="#p-10">10</a> <a href="#p-11">11</a> <a href="#p-12">12</a> <a href="#p-13">13</a> <a href="#p-14">14</a> <a href="#p-15">15</a> <a href="#p-16">16</a> <a href="#p-17">17</a> <a href="#p-18">18</a> <a href="#p-19">19</a> <a href="#p-20">20</a> <a href="#p-21">21</a> <a href="#p-22">22</a> <a href="#p-23">23</a> <a href="#p-24">24</a> <a href="#p-25">25</a> <a href="#p-26">26</a> <a href="#p-27">27</a> <a href="#p-28">28</a> <a href="#p-29">29</a> <a href="#p-30">30</a> <a href="#p-31">31</a> <a href="#p-32">32</a> <a href="#p-33">33</a> <a href="#p-34">34</a> <a href="#p-35">35</a> <a href="#p-36">36</a> <a href="#p-37">37</a> <a href="#p-38">38</a> <a href="#p-39">39</a> <a href="#p-40">40</a> <a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-45">45</a> <a href="#p-46">46</a> <a href="#p-47">47</a> <a href="#p-48">48</a> <a href="#p-49">49</a> <a href="#p-50">50</a> <a href="#p-51">51</a> <a href="#p-52">52</a> <a href="#p-53">53</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-56">56</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Contents</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="No such page"><label for="lit-goto-in">Go to page</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Go</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-front"><span class="toc-e">Contents</span><span class="toc-o" lang="de">Inhalt</span></a></li>
+<li class="l1"><a href="#p-1"><span class="toc-e">I. Landscape</span><span class="toc-o" lang="de">I. Landschaft</span> <span class="toc-p">p. 1</span></a></li>
+<li class="l1"><a href="#p-3"><span class="toc-e">II. The German Settlements</span><span class="toc-o" lang="de">II. Die deutschen Siedlungen</span> <span class="toc-p">p. 3</span></a></li>
+<li class="l1"><a href="#p-7"><span class="toc-e">III. The History of Settlement</span><span class="toc-o" lang="de">III. Die Siedlungsgeschichte</span> <span class="toc-p">p. 7</span></a></li>
+<li class="l2"><a href="#p-7"><span class="toc-e">Early Times and the Middle Ages</span><span class="toc-o" lang="de">Frühzeit und Mittelalter</span> <span class="toc-p">p. 7</span></a></li>
+<li class="l2"><a href="#p-9"><span class="toc-e">The Cistercian Monastery of Lond</span><span class="toc-o" lang="de">Das Zisterzienserkloster Lond</span> <span class="toc-p">p. 9</span></a></li>
+<li class="l2"><a href="#p-15"><span class="toc-e">What did the Warthe marshes look like before the last German immigration?</span><span class="toc-o" lang="de">Wie sah es im Warthebruch vor der letzten deutschen Einwanderung aus?</span> <span class="toc-p">p. 15</span></a></li>
+<li class="l2"><a href="#p-16"><span class="toc-e">The Second German Immigration into the Warthe Marshes</span><span class="toc-o" lang="de">Die zweite deutsche Einwanderung in den Warthebruch</span> <span class="toc-p">p. 16</span></a></li>
+<li class="l2"><a href="#p-20"><span class="toc-e">The South Prussian Period</span><span class="toc-o" lang="de">Die südpreußische Zeit</span> <span class="toc-p">p. 20</span></a></li>
+<li class="l2"><a href="#p-22"><span class="toc-e">The Period from 1806 to 1863</span><span class="toc-o" lang="de">Der Zeitabschnitt von 1806 bis 1863</span> <span class="toc-p">p. 22</span></a></li>
+<li class="l2"><a href="#p-26"><span class="toc-e">The Time from 1863 to the Present</span><span class="toc-o" lang="de">Die Zeit von 1863 bis zur Gegenwart</span> <span class="toc-p">p. 26</span></a></li>
+<li class="l1"><a href="#p-29"><span class="toc-e">IV. The Origin of the German Settlers</span><span class="toc-o" lang="de">IV. Die Herkunft der deutschen Siedler</span> <span class="toc-p">p. 29</span></a></li>
+<li class="l1"><a href="#p-38"><span class="toc-e">V. Migrations</span><span class="toc-o" lang="de">V. Wanderungen</span> <span class="toc-p">p. 38</span></a></li>
+<li class="l1"><a href="#p-45"><span class="toc-e">VI. Statistics of the German Villages in the Warthe Marshes</span><span class="toc-o" lang="de">VI. Statistik der deutschen Dörfer im Warthebruch</span> <span class="toc-p">p. 45</span></a></li>
+<li class="l1"><a href="#p-49"><span class="toc-e">VII. Appendix</span><span class="toc-o" lang="de">VII. Anhang</span> <span class="toc-p">p. 49</span></a></li>
+<li class="l2"><a href="#p-49"><span class="toc-e">Founding Charter of the Village of Leśnik on the Warthe</span><span class="toc-o" lang="de">Gründungsurkunde des Dorfes Leśnik an der Warthe</span> <span class="toc-p">p. 49</span></a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
 <section class="lit-passage" id="p-front">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-front">Before the first page</a></h2>
+<div class="pg"><a href="#p-front">front</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Albert Breyer
@@ -30,7 +52,7 @@ In Absprache und mit Genehmigung der Familie Breyer
 Erstveröffentlichung in:  
 Deutsche Wissenschaftliche Zeitschrift für Polen; Heft 34; 1938
 
-#### Inhalt
+### Inhalt
 
 | I. Landschaft | 1 |
 | II. Die deutschen Siedlungen | 3 |
@@ -64,7 +86,7 @@ By arrangement with and with the permission of the Breyer family
 First published in:  
 Deutsche Wissenschaftliche Zeitschrift für Polen; Heft 34; 1938
 
-#### Contents
+### Contents
 
 | I. Landscape | 1 |
 | II. The German Settlements | 3 |
@@ -83,15 +105,13 @@ Deutsche Wissenschaftliche Zeitschrift für Polen; Heft 34; 1938
 | Founding charter of the village of Leśnik on the Warthe | 49 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-1">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-1">p. 1</a></h2>
+<section class="lit-passage" id="p-1" data-page="1">
+<div class="pg" id="p1"><a href="#p1">p. 1</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### I. Landschaft
+### I. Landschaft
 
 Von der ehemaligen Grenzstadt Peisern bis unterhalb des erzbischöflichen Städtchens Uniejow — einer Strecke von 130 km — ziehen sich im Flusstal der Warthe, zum Teil in Uferrandlage an hundert deutsche Dörfer hin. Das mitunter an 5 km breite Berlin-Warschauer Urstromtal, in dem in gewundenem Lauf der Warthestrom träge seine Wasser wälzt, ist landschaftlich abwechslungsreich. Bei den Städten Zagórow und Konin breiten sich saftgrüne Viehweiden aus, die ab und zu von leuchtenden Sandkuppen unterbrochen werden. Allgemein bilden die Stromauen jedoch eine halboffene Landschaft, in der malerische Baumgruppen von Erlen, Weiden und Pappeln, stellenweise auch zerzauste Kiefern vorherrschen.
 
@@ -102,7 +122,7 @@ Vor 180 Jahren war der Bruch ein unbetretbares Gebiet, ein wirklich "brüchiges"
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### I. Landscape
+### I. Landscape
 
 From the former border town of Peisern to below the archbishop's little town of Uniejow — a stretch of 130 km — some hundred German villages line the valley of the Warthe, some of them on the very edge of its banks. The Berlin-Warsaw glacial valley, at times up to 5 km wide, in which the Warthe rolls its waters sluggishly along its winding course, is varied in its scenery. By the towns of Zagórow and Konin lush green cattle pastures spread out, broken here and there by gleaming sand hills. In general, however, the river meadows form a half-open landscape in which picturesque clumps of alder, willow and poplar prevail, and in places wind-torn pines.
 
@@ -111,12 +131,10 @@ Into the tranquil quiet of the marsh landscape comes no noise of raftsmen, no po
 A hundred and eighty years ago the marsh was an impassable region, truly "broken" ground. Between primeval undergrowth and huge oaks and maples lay, by turns, still backwaters thick with marsh and water plants, which in places were beginning to break up into smaller and larger, eerily overgrown pools. Swamp and mire everywhere fought for mastery, where today profitable peat cuttings and lush meadowland spread out, but where even today there are enough "mouldering meadows" ("Moderwiesen"). Then as now, at the spring thaw, turbid floods poured over the glacial valley and made every unevenness of the ground disappear. An all-embracing, boundless realm of water formed, out of which the bare crowns of the huge marsh trees broke helplessly. Gradually the turbid masses of water fell, leaving behind a rich silt, the fertile "Letten", as the present German inhabitant, the "Brücher" (marsh-dweller), or in mockery the "Wasserpatscher" (water-splasher), calls it. For the meadows the spring flood is a welcome manuring. If the spring water is low, the marsh farmer is dissatisfied: his meadows and fields lack the strength to grow in summer. It is the raging floods, too, that are to blame for the large
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-2">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-2">p. 2</a></h2>
+<section class="lit-passage" id="p-2" data-page="2">
+<div class="pg" id="p2"><a href="#p2">p. 2</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Sandkuppen und die umfangreichen Sandfelder verschuldet haben und die gegenwärtig wertvolles Ackerland auf viele Jahre hin versanden lassen. Auf Monate und Jahre hinaus verschaffen die bösen Fluten dem Bruchbauern Abräumarbeit. Wagen auf Wagen des Flugsandes kommt zur Abfuhr nach den morastigen Wiesenstellen, um neues Brotland entstehen zu lassen. Zäh und unermüdlich geht der deutsche Mensch an diese ehrenvolle Kulturarbeit. Er tritt in stolzem Bewusstsein hier in die Fußtapfen seiner Ahnen, die des öfteren in weit schwierigeren Verhältnissen mutig und kampfentschlossen ihren Fuß in diese Sumpfwildnis gesetzt haben.
@@ -151,32 +169,28 @@ These proud memories the sight of the neat villages of the Warthe marshes calls 
 [Picture: German farmstead in Janow, Koło county]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-3">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-3">p. 3</a></h2>
+<section class="lit-passage" id="p-3" data-page="3">
+<div class="pg" id="p3"><a href="#p3">p. 3</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### II. Die deutschen Siedlungen
+### II. Die deutschen Siedlungen
 
 Wie Glieder einer langen Kette reihen sich die deutschen Dörfer des Warthebruchs aneinander. Nur bei den Städten Konin, Koło und Uniejów stellen sich merkwürdigerweise Siedlungslücken ein, die durch Frühbesiedlung in Stadtnähe zu erklären wären. In vier großen Sprachinseln: der *Wenglewer*, *Paproter*, *Politzer* und *Leśniker* leben an 10 000 Deutsche, die sämtlich Glieder der evangelisch-augsburgischen Kirche sind und zu den Gemeinden Zagórow, Konin, Koło, Władysławow-Rosterschütz und Turek gehören. Die Lebensverhältnisse in den deutschen Bruchdörfern können als zufriedenstellend gekennzeichnet werden, wobei bemerkt sei, dass die Dörfer um Zagórow und Konin sich im Vergleich zu den anderen durch größere Wohlhabenheit auszeichnen. Dies steht in einem ursächlichen Zusammenhang mit der jeweiligen Bodengüte. Die Wenglewer und teilweise die Paproter Sprachinsel besitzt an manchen Stellen fruchtbaren Schlickboden, der hier einfach "Lett" genannt wird und der den Anbau von Weizen und Klee ermöglicht. Auch finden sich hier Wiesen mit gutem Graswuchs. Gewiss weist die Feldgemarkung in ausreichendem Maße Unland und Sandfelder auf, beziehungsweise modrige, saure Wiesen, da wir die Bodengüte mosaikartig im Bruchgelände verteilt finden. Die weiteren, wartheaufwärts gelegenen Bruchdörfer verfügen zumeist über stark sandigen Boden, was besonders bei den am Rande des Stromtals gelegenen Siedlungen auffällt. In der Leśniker Sprachinsel tragen die meisten Wiesen ihrer Flachgründigkeit wegen nur kümmerlichen Wiesenwuchs. In trockenen Jahren tritt dies auffallend in Erscheinung. Im Vordergrund der Landwirtschaft steht überall die *Viehzucht* und *Milchwirtschaft*, im unteren Teil des Warthebruchs die *Gänsezucht*. Das Vieh weidet hier in "Koppeln", durch Weidenzäune eingefriedeten Wiesen. Manche Wirtschaften bestehen zum überwiegenden Teil aus Wiesenflächen, die dem Besitzer eine gute Einnahmequelle ergeben. Deutsche Bauern aus den angrenzenden Dörfern der Hochfläche pachten alljährlich im Bruch ansehnliche Wiesenflächen. Auch bringt der "Brücher" das Heu auf den Städtemarkt. In manchen Bruchdörfern wird auch die *Bienenzucht* betrieben, wobei wir ausnahmslos die aus Stroh geflochtenen "Bienenkörbe" hier antreffen, eine Sonderform, die nur von deutschen Imkern mit Vorliebe benützt wird. Zu den verbreitetsten Nebenbeschäftigungen, die bei ärmeren Wirten sogar zur Hauptbeschäftigung wird, zählt die *Korbflechterei*. Die Korbruten, "Wieten" genannt, wachsen ausgiebig auf den sandigen Flussinseln, am Rande der "Altwasser" und  "Laken". Mit den Erzeugnissen der Korbflechterei, die aus Weissflechtarbeiten und Grünflechtkörben bestehen, werden die Märkte der Bruchstädte
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### II. The German Settlements
+### II. The German Settlements
 
 Like links of a long chain the German villages of the Warthe marshes follow one another. Only by the towns of Konin, Koło and Uniejów are there, strangely, gaps in the settlement, which might be explained by early settlement near the towns. In four large language islands, the *Wenglew*, *Paprot*, *Politz* and *Leśnik* islands, live some 10,000 Germans, all of them members of the Evangelical Church of the Augsburg Confession, belonging to the parishes of Zagórow, Konin, Koło, Władysławow-Rosterschütz and Turek. Living conditions in the German marsh villages may be called satisfactory, it being noted that the villages around Zagórow and Konin are more prosperous than the others. This is caused by the quality of the soil in each place. The Wenglew and in part the Paprot language island have in some places fertile silt soil, here simply called "Lett", on which wheat and clover can be grown. There are also meadows with a good growth of grass. Certainly the fields have their fair share of waste land and sand, or of mouldering, sour meadows, since the quality of the soil is spread like a mosaic over the marsh. The other marsh villages, further up the Warthe, mostly have very sandy soil, which is especially striking in the settlements on the edge of the valley. In the Leśnik language island most meadows bear only a poor growth because their soil is shallow. In dry years this shows strikingly. Everywhere *cattle breeding* and *dairy farming* stand first in farming, and in the lower part of the Warthe marshes *goose breeding*. The cattle graze here in "Koppeln", meadows fenced with willow hurdles. Some holdings consist mostly of meadow, which gives the owner a good income. German farmers from the neighbouring villages of the upland rent sizeable meadows in the marsh every year. The "Brücher" also brings hay to the town market. In some marsh villages *bee-keeping* is practised too, and here we find without exception "bee skeps" woven of straw, a special form that only German bee-keepers prefer. Among the most widespread side occupations, which for poorer farmers even becomes the main one, is *basket-weaving*. The basket rods, called "Wieten", grow abundantly on the sandy river islands and on the edges of the "Altwasser" (backwaters) and "Laken" (pools). With the products of basket-weaving, white wickerwork and green-woven baskets, the markets of the marsh towns are
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-4">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-4">p. 4</a></h2>
+<section class="lit-passage" id="p-4" data-page="4">
+<div class="pg" id="p4"><a href="#p4">p. 4</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 beschickt; ja sogar nach Lodz und Kalisch kommen große Wagenladungen zum Versand. In einzelnen deutschen Dörfern wohnen *Berufsfischer*, die mit allerhand Fischereigeräten dem Fischfang auf der Warthe nachgehen und ihre Beute an die Klein- und Großstädte absetzen. Dass die "Brücher" geschickte Schiffer und Kahnbauer sind, leuchtet von selbst ein. Die meisten von ihnen, besonders die weniger wohlhabenden, sind in jungen Jahren "auf den Kahn gegangen" oder beschäftigen sich mit der "Flötterei", d. h. der Holzflößerei, wobei sie ansehnliche Flussstrecken bereisten und bis nach Küstrin und Stettin, ja auf der Oder nach Breslau gelangten. Noch vor dem Weltkriege blühte in der Warthegegend der Holzhandel und die Holzindustrie. Viele fanden lohnende Beschäftigung beim Brettschneiden und Stabholzschlagen, wie ja seit den Anfängen der Einwanderung zahlreiche deutsche Balkenhauer und "Holzschneider" in den Wartheauenwäldern anzutreffen waren. In den Kirchenbüchern finden wir Hinweise, dass um 1830 im Warthedorf Piersk deutsche Schifferbauer saßen, die Berliner Kähne und dergleichen Wasserfahrzeuge bauten.
@@ -195,12 +209,10 @@ supplied; indeed, large wagonloads are sent even to Łódź and Kalisz. In some 
 The yield of grain and potatoes is mostly enough for the household's own use. The rich stands of alder and pollard willow give the marsh farmer the fuel he needs, the more so as peat is also cut in many places. In building houses, wood used to prevail, and in places bog iron ore, the "ironstone". Today most new buildings are put up of fired or sand bricks. For the woodwork of houses and barns the abundant poplar is used. Characteristic of the marsh dwellers are the wagon baskets woven of willow rods,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-5">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-5">p. 5</a></h2>
+<section class="lit-passage" id="p-5" data-page="5">
+<div class="pg" id="p5"><a href="#p5">p. 5</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 "Wasung" genannt. Die wohlgepflegten Pferde stellen gleichfalls den Stolz des Bruchbauern dar. Das Bestellen des lehmigen Bodens erfordert ein starkes Pferdegespann, wobei für den Landmann selbst das Pflügen eine schwere Arbeit, die viel Schweiß kostet, darstellt. Spottweise wird daher erzählt, dass der "Brücher" beim Ackern auf den sandigen Feldern der Hochfläche durch das laute Fluchen und Schimpfen mit dem er dies Arbeiten der Pferde aneifern will, zu erkennen ist. Obstgärten treffen wir in den seltensten Fällen an. Eine Ausnahme bilden nur die Sauerkirschengärten, die auf dem leichten, flachgründigen Boden gut gedeihen. In den letzten Jahren sind die Lokalbehörden an die Regulierung des Warthestromes gegangen. Stellenweise sind Schutzdämme aufgefahren worden, die die angrenzenden Dörfer vor Überschwemmungen bewahren, so dass gegenwärtig das "Versaufen" der Getreidefelder als behoben gelten kann. Andererseits geben sich manche der "Brücher" mit der neuen Sachlage nicht ganz zufrieden. Die alljährlichen Überschwemmungen bewirkten durch Ablage vom Schlick und Schlamm eine ergiebige Düngung der Felder, insonderheit der Wiesen.
@@ -215,12 +227,10 @@ called "Wasung". The well-kept horses are likewise the marsh farmer's pride. Wor
 The most widespread form of settlement in the Warthe marshes is the *scattered settlement*, in a particularly marked form of its own. Every new settler sought to build his farmstead on the edge of a meadow, from where he could most easily keep watch over the grazing cattle, the "Geziefer". Since on any given area of settlement the pieces of meadow lay jumbled together without order, the holdings had of necessity to stand on the edges of the meadows. In the marsh the edges of the meadows mostly run in a winding line; so a kind of zigzag came about, along which the single holdings were strung. In the marsh villages a village street, mostly straight, serves as the common road, and an access way leads to it from each farmstead. This manner of settlement, which takes account of the natural conditions of the marsh, might be called the *marsh-edge village* (Bruchranddorf), since it is found only in the swampy ground of the Warthe marshes and in part in the Kalisz country. Besides this predominant form of village we also come upon peculiar line villages lying along the boundary between the river valley and the valley slope. Here the farmsteads turn the house side toward the meadows and pastures, while the barns stretch along the village street. Finally it should be pointed out that, except for the villages of the Wenglew language island and in part of the Paprot language island, the settlements lie out of danger of flooding. So there is no need here to build the houses on
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-6">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-6">p. 6</a></h2>
+<section class="lit-passage" id="p-6" data-page="6">
+<div class="pg" id="p6"><a href="#p6">p. 6</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 künstlich aufgeworfenen Wurten hier nicht vor. Davon macht nur das deutsche Dorf Neu-Czarkow eine besondere Ausnahme. Es kommt vor, dass bei recht starkem Wassergang die ganze Feldflur von den Fluten oder wie der Bruchbauer sagt, "vom blanken Wasser", übergossen wird und der Verkehr nur vermittels Kähnen aufrechterhalten werden kann. Zum Gottesdienst kommen die Kantoratsmitglieder dann auf Kähnen, Leichenbegängnisse werden desgleichen auf dem Wasserwege durchgeführt. Diese Erscheinungen erinnern lebhaft an die Wegeverhältnisse im Spreewald. In mancher Hinsicht lassen sich Übereinstimmungen im Wirtschaftsleben des Warthebruchs und der Weichselniederung herausfinden. Im großen und ganzen bildet jedoch der Warthebruch eine an Sondererscheinungen reiche Landschaft, die sich wirksam aus dem mittelpolnischen Siedlungsraum abhebt. Nur ungern heiraten die "Brücher" nach der "Höhe", den auf der Hochfläche gelegenen schlesischen oder pommerschen Dörfern. Sie hängen mit dem ganzen Herzen an ihrer grünen Heimat. Hervorgehoben sei, dass besonders die Bruchbewohner märkischen Stammes sich durch einen nüchternen und geraden Sinn auszeichnen. Wir finden hier seit jeher kein Sektenwesen, was von den Pommern in der Leśniker Sprachinsel nicht gesagt werden kann. Der pommersche Bauer ist für religiöse Schwärmerei mehr zugänglich.
@@ -235,17 +245,15 @@ artificially raised mounds (Wurten). The German village of Neu-Czarkow alone is 
 [Picture: German farmhouse in Genowefa, Konin county - Photo: A. Breyer]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-7">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-7">p. 7</a></h2>
+<section class="lit-passage" id="p-7" data-page="7">
+<div class="pg" id="p7"><a href="#p7">p. 7</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### III. Die Siedlungsgeschichte
+### III. Die Siedlungsgeschichte
 
-##### Frühzeit und Mittelalter
+#### Frühzeit und Mittelalter
 
 Das Warthestromtal stellte von jeher natürlicherweise ein siedlungsfeindliches Gebiet dar. Einen "wasserbauunkundigen" Siedler schreckt der Warthebruch auch gegenwärtig noch von einem Sesshaftwerden ab. Die Überschwemmungen zur Zeit der Frühjahrsschneeschmelze, mitunter zu St. Johanni wirken sich jahraus, jahrein verheerend aus, bringen den Bruchbauer um seine Erträge.
 
@@ -260,9 +268,9 @@ Die Fischerei behauptete sich damals wie auch in der Gegenwart als selbständige
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### III. The History of Settlement
+### III. The History of Settlement
 
-##### Early Times and the Middle Ages
+#### Early Times and the Middle Ages
 
 The valley of the Warthe has always by its nature been hostile to settlement. Even today the Warthe marshes deter a settler "unskilled in water works" from settling there. The floods at the spring thaw, and sometimes at St John's (24 June), do their damage year in, year out, and rob the marsh farmer of his harvest.
 
@@ -275,12 +283,10 @@ Fishing held its place then, as now, as an occupation of its own, as may be seen
 <span class="lit-note" id="n-en-1">1</span> Rawita-Gawroński, Wielkopolskie miasto Koło, Petrikau 1912, p. 5.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-8">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-8">p. 8</a></h2>
+<section class="lit-passage" id="p-8" data-page="8">
+<div class="pg" id="p8"><a href="#p8">p. 8</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Konin an das Zisterzienserkloster zu Lond im Jahre 1145 zu ersehen wäre.<sup class="lit-fn"><a href="#n-de-2">2</a></sup> Von Fischern sprechen des weiteren die Urkunden aus der damaligen Zeit, so in den Dörfern Dobrow und Czarkow, wo gesagt wird "cum piscatoribus"<sup class="lit-fn"><a href="#n-de-3">3</a></sup>. 1232 wurde in einer Urkunde des Dorfes Dobrow vermerkt, dass die Fischerei und der Biberfang in den Flüssen Warthe und Ner den Bewohnern freigegeben wurde ("piscatio et castores in fluviis Wartha et Ner"<sup class="lit-fn"><a href="#n-de-4">4</a></sup> Überdies waren die Uferdörfer dem Kloster zu Lond verpflichtet  "das Netz beim Fischfang auf der Warthe zu ziehen". In der gleichen Urkunde lesen wir auch von dem Grasreichtum des Warthebruchs, es heißt dort an einer Stelle: "die Zinsdörfer sind verpflichtet, zur Zeit der Heuernte je drei Fuhren mit Heu in die klösterlichen Scheunen einzufahren".<sup class="lit-fn"><a href="#n-de-5">5</a></sup>
@@ -315,17 +321,15 @@ The Bishop of Poznań received from the ruling prince the village of Ciążeń i
 <span class="lit-note" id="n-en-5">5</span> Winter, F., Die Zisterzienser des nordöstlichen Deutschlands, Gotha 1868, vol. II, p. 357
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-9">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-9">p. 9</a></h2>
+<section class="lit-passage" id="p-9" data-page="9">
+<div class="pg" id="p9"><a href="#p9">p. 9</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Wenn wir die Verteilung der aufgezählten Dörfer auf der Karte verfolgen, so fällt uns sofort deren Uferrandlage auf. Eine Ausnahme bilden nur die im Zwischenland gelegenen Siedlungen, was mit deren Überschwemmungssicherheit in ursächlicher Verbindung stehen mag. Die Flusstalsohle war im Mittelalter völlig siedlungsleer, mit Ausnahme des um 1300 bewohnten Werders Ochle und dem um einige Jahrzehnte später in Besitz genommenen erhöhten Landstreifen bei Krzymow.<sup class="lit-fn"><a href="#n-de-6">6</a></sup> Der Sumpfwald von damals besaß keine Anziehungskraft für den siedlungsbereiten Menschen, ihn schreckten die Frühjahrsüberschwemmungen ab.
 
-##### Das Zisterzienserkloster Lond
+#### Das Zisterzienserkloster Lond
 
 Der polnische Herzog Mieszko der Alte, dessen Mutter die deutsche Grafentochter Salome von Berg war, besuchte um 1135 die Stadt Köln, die Heimat seiner Mutter. Bei dieser Gelegenheit wurde er mit den Mönchen des Zisterzienserordens zu Altenberg bekannt. Die strengen Ordensregeln, insbesondere die sorgfältige Pflege des Ackerbaus, von dessen Erträgen die Mönche ihren Unterhalt bestritten, verfehlten ihren guten Eindruck auf den Fürsten nicht. Er fasste den Beschluss, die Ordensbrüder zur Niederlassung in sein Fürstentum einzuladen. Als Wirkungsort für den Orden erwählte er die Gegend der Kastellanei Lond, die sich am rechten Wartheufer hinzog.<sup class="lit-fn"><a href="#n-de-7">7</a></sup> Im Jahre 1145 kam die Abfassung der Schenkungsurkunde für das zu gründende Kloster Lond zustande. Darin wurden 13 dem Kloster geschenkte Dörfer aufgezählt, die vorwiegend am Rande des Warthetals oder in einer geringen Entfernung von ihm lagen. Es waren dies: Dolany, Szetlewo, Rzgów, Chorzeń, Głowiew, Rybaki, Grabieniec, Sławsko, Kwiatkowo, die auch gegenwärtig noch bestehen, und einige Dörfer, die von der Bildfläche im Laufe der Zeit verschwunden sind, wie: Mokre, Stara Łąka, Świniarowo und Wyramowo, das unserer Ansicht nach das noch gegenwärtig bestehende Wilamowo sein könnte. Der klösterliche Besitz erweiterte sich im 13. Jahrhundert durch Kauf, Schenkungen und Tausch recht beträchtlich und dies zumeist in der nächsten Umgegend der Klosterdörfer. Es kamen auf diese Weise hinzu: Radolin, Sługocin, Kopojno, Skokom, Oleśnica, Osiecza, Zagórów, Bronniki, Wrąbczyn, Jaroszyn, Kowalewo, Policko, Tury usw. Siedlungsgeschichtlich lehrreich sind auch die teils übernommenen, teils vom Kloster selbst zu bestimmten Zwecken angelegten Dienstdörfer, die einen unmittelbaren Hinweis auf eine bestimmte Diensttätigkeit enthalten. Aus
 
@@ -338,7 +342,7 @@ Der polnische Herzog Mieszko der Alte, dessen Mutter die deutsche Grafentochter 
 
 If we follow on the map how the villages listed are spread, their position on the edge of the banks strikes us at once. The only exception is the settlements in the land between the rivers, which may be owed to their safety from flooding. The floor of the valley was wholly unsettled in the Middle Ages, except for the island of Ochle, inhabited around 1300, and the raised strip of land near Krzymow, taken into possession some decades later.<sup class="lit-fn"><a href="#n-en-6">6</a></sup> The swamp forest of that time had no attraction for people ready to settle; the spring floods deterred them.
 
-##### The Cistercian Monastery of Lond
+#### The Cistercian Monastery of Lond
 
 The Polish duke Mieszko the Old, whose mother was the German count's daughter Salome of Berg, visited the city of Cologne, his mother's home, around 1135. There he came to know the monks of the Cistercian order at Altenberg. The strict rules of the order, above all the careful tending of the fields, from whose yield the monks lived, made a good impression on the prince. He resolved to invite the brothers of the order to settle in his principality. As the place for the order's work he chose the district of the castellany of Lond, which stretched along the right bank of the Warthe.<sup class="lit-fn"><a href="#n-en-7">7</a></sup> In 1145 the deed of gift for the monastery of Lond to be founded was drawn up. It listed 13 villages given to the monastery, which lay mostly on the edge of the Warthe valley or a little way from it. They were Dolany, Szetlewo, Rzgów, Chorzeń, Głowiew, Rybaki, Grabieniec, Sławsko and Kwiatkowo, which still exist today, and some villages that have vanished in the course of time, such as Mokre, Stara Łąka, Świniarowo and Wyramowo, which in our opinion could be the still existing Wilamowo. The monastery's property grew very considerably in the 13th century by purchase, gift and exchange, mostly in the near neighbourhood of its villages. In this way were added Radolin, Sługocin, Kopojno, Skokom, Oleśnica, Osiecza, Zagórów, Bronniki, Wrąbczyn, Jaroszyn, Kowalewo, Policko, Tury and others. Instructive for the history of settlement are also the service villages, partly taken over and partly laid out by the monastery itself for particular purposes, whose names point directly to a particular service. From
 
@@ -347,12 +351,10 @@ The Polish duke Mieszko the Old, whose mother was the German count's daughter Sa
 <span class="lit-note" id="n-en-7">7</span> S. G., vol. 5, p. 108, Codex Dipl. … vol. I, no. 304, and Winter, pp. 81 ff.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-10">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-10">p. 10</a></h2>
+<section class="lit-passage" id="p-10" data-page="10">
+<div class="pg" id="p10"><a href="#p10">p. 10</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 herzoglicher Zeit mögen die Dienstdörfer Bronniki (Schildmacher), Rybaki (Fischer), Łagiewniki (Legelmacher) und Kuchary Borowe (Köche) stammen. Für besondere Obliegenheiten des Klosters galt die Anlage der Dörfer Świątniki (Kirchendiener) und Kuchary Kościelne. Ob das nördlich vom Kloster am Powidzsee gelegene Kochowo gleichfalls nicht als Dienstdorf der Köche anzusprechen wäre? Nachdem die Zahl der Klosterinsassen im Laufe der Zeit zugenommen hatte, stellte sich die Notwendigkeit der Vermehrung der Dienstleute ein. Im Privileg von 1261 finden wir ergänzend noch folgende Dienstsiedlungen: Szetlewo  "cum cocis", Rzgowo "cum sanctuariis et stabularis", Grabieniec "cum camerariis" und Sławsko  "cum piscatoribus".<sup class="lit-fn"><a href="#n-de-8">8</a></sup> Der Dorfname der klösterlichen Besitzung "Dziedzice" weist auf besondere rechtlichen Formen hin. Es kann dies ein Freibauerndorf gewesen sein, das in keinerlei Hörigkeitsverhältnis zum Kloster stand. Das Dorf befand sich dem Kloster gegenüber nur in Zinspflicht. Durch Schenkungen einzelner kirchlicher Würdenträger wuchsen gleichfalls die Besitzungen des Klosters. Zu Ausgang des 12. Jahrhunderts führte der Erzbischof von Gnesen in dem an der Warthe gelegenen Dorfe Dobrow ein Einsiedlerleben. Er war der letzte Nachkomme des mächtigen Adelsgeschlechts der Poraiten. Sein väterliches Erbe, die Dörfer Dobrow, Rzuchów und Leszno, vermachte er auf ewige Zeiten dem Kloster Lond.<sup class="lit-fn"><a href="#n-de-9">9</a></sup>
@@ -383,12 +385,10 @@ To the credit of the brothers of the order may further be counted the towns they
 <span class="lit-note" id="n-en-10">10</span> Winter ..., p. 359
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-11">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-11">p. 11</a></h2>
+<section class="lit-passage" id="p-11" data-page="11">
+<div class="pg" id="p11"><a href="#p11">p. 11</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Kasimir ein Privileg zur Gründung der Stadt Landeck, die bis 1798 im Besitz des Zisterzienserklosters geblieben war. Auf dem gegenüberliegenden Ufer des Warthetals legte der Orden im Jahre 1445 die Stadt Zagórów an, die durch einen vier Kilometer langen Damm mit dem Kloster verbunden wurde. In einem Bericht des Bürgermeisters von Zagórów vom Jahre 1820 an die Warschauer Behörden gibt dieser als Gründungsjahr der Stadt 1307 an.<sup class="lit-fn"><a href="#n-de-11">11</a></sup>
@@ -419,12 +419,10 @@ For barely four hundred years the monastery of Lond was in German hands. Then ca
 <span class="lit-note" id="n-en-12">12</span> Hockenbeck, H., Drei kölnische Klöster in Polen, p. 8
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-12">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-12">p. 12</a></h2>
+<section class="lit-passage" id="p-12" data-page="12">
+<div class="pg" id="p12"><a href="#p12">p. 12</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 flüchteten nach dem Kloster Heinrichau in Schlesien. Damit fand der deutsche Abschnitt der Klostergeschichte seinen wenig ruhmvollen Abschluss.
@@ -443,12 +441,10 @@ By a turn of fate, after a good two centuries, German colonists appeared again w
 The conditions of settlement in the Middle Ages are also partly reflected in the old place names. In the village of Bobrowo the duke's beaver hunters may have lived. In Barcie were the bee-keepers, a calling held in honour in the Middle Ages. For the worship of the Catholic church vineyards were laid out on the high north bank near Podgórz, because it lay in the sun; hence the place name Winnica. Names such as Podbiel
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-13">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-13">p. 13</a></h2>
+<section class="lit-passage" id="p-13" data-page="13">
+<div class="pg" id="p13"><a href="#p13">p. 13</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 und Bielczew, das spätere Bilczew. Desgleichen werden einige Male die Bodenerhebungen im Überschwemmungsgebiet durch den Namen  "Ostrowy" (Werder) oder  "Grądy" gekennzeichnet. Die von Überflutungen heimgesuchten Wiesenflächen nennen die Bruchbewohner hier, wie dies auch an anderen Flussgegenden anzutreffen ist, łęgi, zu deutsch Lengden. Im Warthebruch finden wir daher Groß-Łęg, Lęg Radczyński, Kościelski, Baliński, Dominikowski, Piekarski, Popowski, südlich von Koło. Östlich von Konin liegt die Wola Podłężna. Rein topographische Begriffe geben wieder Ortsnamen wie: Brod (Furte), Białobrzegi, Piaseczno, Podgórz, Wysokie, Chełmno, Barłogi, Czyste, Kozubów und Brzeźno. Als Dienstdörfer galten Skotniki im Zwischenstromland der Warthe und des Ner, das durch guten Wiesenwachs bekannt sein durfte, und Rudniki (Rasenerzschwöler). Das spätere Majdany weist auf Pottaschebrenner hin, die in den umfangreichen erzbischöflichen Wäldern ihr Handwerk betrieben. Auf den von ihnen freigelegten Waldflächen siedelten sich nachträglich deutsche Rodebauern an.
@@ -459,12 +455,10 @@ und Bielczew, das spätere Bilczew. Desgleichen werden einige Male die Bodenerhe
 and Bielczew, the later Bilczew, point to a swampy position. Likewise the raised places in the flood area are marked several times by the name "Ostrowy" (islands, Werder) or "Grądy". The meadows visited by floods the marsh dwellers here call łęgi, in German Lengden, as in other river regions. So in the Warthe marshes south of Koło we find Groß-Łęg, Lęg Radczyński, Kościelski, Baliński, Dominikowski, Piekarski and Popowski. East of Konin lies Wola Podłężna. Purely topographical notions are given by place names such as Brod (ford), Białobrzegi, Piaseczno, Podgórz, Wysokie, Chełmno, Barłogi, Czyste, Kozubów and Brzeźno. Service villages were Skotniki, in the land between the Warthe and the Ner, which may have been known for its good meadows, and Rudniki (bog-ore smelters). The later Majdany points to potash burners, who plied their trade in the archbishop's wide forests. On the forest land they cleared, German clearing farmers settled afterwards.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-14">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-14">p. 14</a></h2>
+<section class="lit-passage" id="p-14" data-page="14">
+<div class="pg" id="p14"><a href="#p14">p. 14</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 [Karte: „A. Breyer. Die deutschen ländlichen Siedlungen des mittelpolnischen Warthebruchs“, gez. A. Breyer. Die Wörter der Karte stehen nicht in der Textschicht der Vorlage.]
@@ -475,15 +469,13 @@ and Bielczew, the later Bilczew, point to a swampy position. Likewise the raised
 [Map: "A. Breyer. Die deutschen ländlichen Siedlungen des mittelpolnischen Warthebruchs" (The German rural settlements of the Warthe marshes in central Poland), drawn by A. Breyer. The words of the map are not in the text layer of the source.]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-15">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-15">p. 15</a></h2>
+<section class="lit-passage" id="p-15" data-page="15">
+<div class="pg" id="p15"><a href="#p15">p. 15</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Wie sah es im Warthebruch vor der letzten deutschen Einwanderung aus?
+#### Wie sah es im Warthebruch vor der letzten deutschen Einwanderung aus?
 
 Darüber geben uns Nachricht alte deutsche Landkarten, und zwar die des Quartiermeisters von Pfau vom Jahre 1773 und die des Baurats von Gilly vom Jahre 1796. Vergleichen wir den Stand der Besiedlung nach diesen Karten mit dem zu Ausgang des 14. Jahrhunderts, so ist ein beträchtlicher Siedlungsfortschritt festzustellen. Nach unserer Berechnung sind im Zeitraum von 250 Jahren, an die 36 Uferdörfer hinzugekommen und dies in den sandigen Randstreifen östlich von Konin, wo eine lebhafte Siedlungstätigkeit nach 1450 begann,<sup class="lit-fn"><a href="#n-de-13">13</a></sup> und beiderseits im Süden von Uniejów. Im Bruch selbst kam es östlich von Zagórów und Konin zur Anlage von Kleindörfern und dies in typischer Streulage. Einige dieser tastend in die Bruchlandschaft vordringenden Neusiedlungen sind in der Folgezeit verschwunden, so Skrzynka, Kocianin, Osowce, Babia Góra usw. Recht ansehnlich hatte sich die Siedlungstätigkeit im Bruchstreifen südlich der Stadt Koło entwickelt. In Uferrandlage entstanden hier 8 Neudörfer und im Bruch die doppelte Zahl. Nicht unerwähnt lassen möchten wir die Anfang des 18. Jahrhunderts im Warthebruch auftretenden Eisenhämmer, die polnisch "Kuźnice" genannt wurden. Diese gewerblichen Anlagen begünstigten mittelbar die Entstehung einzelner Bruchdörfer, da der große Verbrauch an Holzkohle stark zur Abholzung der umliegenden Urwälder beitrug und dadurch den Dorfgründungen Vorschub leistete. Im Warthebruch stoßen wir am Ausgang des 18. Jahrhunderts auf sechs Eisenhämmer in: Mariantów bei Zagórów, Kużnica bei Wysokie, Tury und Wakowy; südlich von Koło befanden sich unweit Koźmin und Januszew zwei Eisenhämmer. Dass das gewonnene Eisen am Orte selbst zu Schwertern verarbeitet wurde, davon spricht der benachbarte Ortsname "Kordownia", da Kord im Polnischen Schwert bedeutet. Die Entstehung der Eisenhammer war durch den Reichtum des Bruchs an Sumpfeisenerz hervorgerufen. Rechnen wir im Bruch alle bis ins 18. Jahrhundert hinaus gegründeten Neudörfer, so ergibt dies die Zahl 34, was insgesamt ohne die deutschen Dorfgründungen 70 Neusiedlungen ausmacht. Zusammenfassend sei festgestellt, dass die echte Bruchlandschaft der Talsohle um die Mitte des 18. Jahrhunderts noch völlig unerschlossen war. Sie bedurfte der überlegenen Entwässerungskunst des deutschen Bruchbauern, der in den nächsten Jahrzehnten es zuwege brachte, dass saftige Wiesengründe und lachende Getreidefluren sich dort auszubreiten begannen, wo früher Sumpf und Urwalddickicht unumschränkt vorherrschten.
 
@@ -492,22 +484,20 @@ Darüber geben uns Nachricht alte deutsche Landkarten, und zwar die des Quartier
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### What did the Warthe marshes look like before the last German immigration?
+#### What did the Warthe marshes look like before the last German immigration?
 
 Old German maps tell us: that of Quartermaster von Pfau of 1773 and that of the architect (Baurat) von Gilly of 1796. If we compare the state of settlement on these maps with that at the end of the 14th century, considerable progress is to be seen. By our count, in a period of 250 years some 36 riverside villages were added, in the sandy edge strips east of Konin, where lively settlement began after 1450,<sup class="lit-fn"><a href="#n-en-13">13</a></sup> and on both sides south of Uniejów. In the marsh itself, east of Zagórów and Konin, small villages were laid out, in the typical scattered pattern. Some of these new settlements, feeling their way into the marsh, later vanished, such as Skrzynka, Kocianin, Osowce, Babia Góra and others. Settlement had grown quite considerably in the strip of marsh south of the town of Koło. On the edge of the banks 8 new villages arose here, and in the marsh twice that number. We should not leave unmentioned the iron hammers that appeared in the Warthe marshes at the beginning of the 18th century, called "Kuźnice" in Polish. These works indirectly favoured the rise of single marsh villages, since the great consumption of charcoal did much to fell the surrounding primeval forests and so made way for new villages. In the Warthe marshes at the end of the 18th century we come upon six iron hammers: at Mariantów near Zagórów, at Kużnica near Wysokie, at Tury and at Wakowy; south of Koło, near Koźmin and Januszew, there were two. That the iron won there was worked into swords on the spot is suggested by the neighbouring place name "Kordownia", since kord means sword in Polish. The iron hammers arose because the marsh was rich in bog iron ore. If we count all the new villages founded in the marsh up to the 18th century, we come to 34, which makes 70 new settlements in all, without the German foundations. In sum: the true marsh landscape of the valley floor was still wholly unopened around the middle of the 18th century. It needed the superior drainage skill of the German marsh farmer, who in the following decades brought it about that lush meadows and smiling grain fields began to spread where swamp and primeval thicket had once ruled without limit.
 
 <span class="lit-note" id="n-en-13">13</span> S. G., vol. 4, p. 609, and Kozierowski St., Badania nasw topograficznych, vol. II, p. 169
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-16">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-16">p. 16</a></h2>
+<section class="lit-passage" id="p-16" data-page="16">
+<div class="pg" id="p16"><a href="#p16">p. 16</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-##### Die zweite deutsche Einwanderung in den Warthebruch
+#### Die zweite deutsche Einwanderung in den Warthebruch
 
 Die ersten urkundlich belegten Nachrichten über die Entstehung von deutschen Bruchholländereien stammen aus dem Jahre 1767. Der Besitzer des Gutes Sławsk, Leszczyc Zielonawski, übergab an den "ehrsamen" Schulzen Johann Keim eine unlängst abgeholzte Waldfläche, die er gemeinsam mit einigen Bauern zu roden und abzuräumen hatte. Für diese Säuberungsarbeit erhielten die angezogenen Siedler zehn Freijahre, nach deren Ablauf sie einen bestimmten Zins zu entrichten verpflichtet waren. Ferner sollten sie, abgesehen von den Zahlungen an den katholischen Probst in Sławsk für die getätigten Amtshandlungen, jährlich von der Hube ein Viertel Roggen und ein [Viertel, Ergänzung J.D.] Hafer liefern. Darüber hinaus trugen die Ansiedler die Verpflichtung, nach Verlauf von dreißig Jahren für die Erneuerung des Ansetzungsvertrags einmalig 100 Tinfe<sup class="lit-fn"><a href="#n-de-14">14</a></sup> zu entrichten. Das abgeschlossene Privileg für das Slausker Holland genannte Dorf wurde in den Koniner Grodbüchern "roboriert". Zu annähernd gleicher Zeit, vielleicht auch einige Jahre später, mag die Gründung der benachbarten deutschen Bruchdörfer der Holländereien: *Wenglew*, *Rumin* und *Kolno* vor sich gegangen sein. Die westlich der Stadt Zagórów gelegene Holländerei *Ciążeń* und die gegenüber von Peisern befindliche *Altpeisernsche Holl.* mögen einige Jahre älter als die bei Konin sein. Auf der 1773 von Pfau aufgenommenen Karte des Warthebruches erscheint dieses Dorf stark ausgebaut.
 
@@ -518,7 +508,7 @@ Nach 1770 drang der deutsche Bruchbauer in das menschenleere Sumpfgebiet östlic
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-##### The Second German Immigration into the Warthe Marshes
+#### The Second German Immigration into the Warthe Marshes
 
 The first news attested in documents of German Holländereien (villages settled on Dutch-law terms) in the marsh dates from 1767. The owner of the estate of Sławsk, Leszczyc Zielonawski, handed over to the "honourable" headman (Schulz) Johann Keim a recently felled piece of forest, which he and some farmers were to clear and grub. For this clearing the settlers so drawn in received ten free years, after which they were bound to pay a set rent. Further, apart from their payments to the Catholic provost in Sławsk for his services, they were to deliver every year from each Hufe a quarter (Viertel) of rye and a [quarter, addition by J.D.] of oats. Beyond this the settlers were bound, after thirty years, to pay 100 Tinfe<sup class="lit-fn"><a href="#n-en-14">14</a></sup> once for the renewal of the contract of settlement. The privilege concluded for the village called Slausker Holland was "roborated" (entered and confirmed) in the court books (Grodbücher) of Konin. At about the same time, or perhaps some years later, the neighbouring German marsh villages of the Holländereien *Wenglew*, *Rumin* and *Kolno* may have been founded. The Holländerei of *Ciążeń*, west of the town of Zagórów, and the *Altpeisernsche Holl.*, opposite Peisern, may be some years older than those near Konin. On the map of the Warthe marshes surveyed by Pfau in 1773 this village appears well built up.
 
@@ -527,12 +517,10 @@ After 1770 the German marsh farmer pushed into the empty swamp east of Konin. Ou
 <span class="lit-note" id="n-en-14">14</span> [A Tinf - properly tynf or tymf - is a coin created around the middle of the 17th century by the mint-master Andrzej Tymff, worth 30 groszy, that is, one Polish złoty. Until then the Polish złoty had been used only as a unit of account (compare 'dozen'), not yet as a coin. (G. Wójtowicz: The Origin and History of the Polish Money. Online: URL: http://www. bankandcredit.nbp.pl/content/2006/2006_11_12/wojtowicz.pdf [as of 27.09.2010] - Addition by J.D.]
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-17">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-17">p. 17</a></h2>
+<section class="lit-passage" id="p-17" data-page="17">
+<div class="pg" id="p17"><a href="#p17">p. 17</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 vermerkt. Das Dorf Borowo besaß um 1780 eine ansehnliche deutsche Bevölkerung, da in dieser Zeit ein Gerichtsschulze und ein Schulhalter dort im Amte waren. Die Gründung von Borowo und die anderer deutscher Siedlungen geht auf den derzeitigen Besitzer der Güter Kramsk, den Richter von Lentschitz, I. Byszewski, zurück. Er ließ seine umfangreichen Krzymower Bruchwälder von deutschen Waldarbeitern abholzen. Das nutzbare Holz verarbeiteten deutsche Stabholzschläger und Plankenschneider zum Abtransport auf dem Wasserwege nach Stettin. In den Kirchenbüchern von Rosterschütz finden wir viele Eintragungen von Stab- und Holzarbeitern aus den Krzymower Buden, wie ja im allgemeinen die deutschen Waldarbeiter bis zum Weltkrieg eine wichtige Rolle im Warthebruch gespielt haben. Die meisten von ihnen sind aus den Wäldern um Boruj und Tomischel in die Krzymower Wälder gekommen. Kennzeichnend hierbei ist, dass viele dieser Holzschneider in den von ihnen abgeholzten Wäldern ansässig geworden sind. So heißt es z.B. in einer Taufnotiz aus den Krzymower Buden: "Grüger Gottlieb, Stab- und Blanken Arbeiter und Eigentümer dortselbst". Siedlungskundlich lehrreich ist auch das allmähliche Verschwinden des Ortsnamens "Krzymower Buden", der durch den jedenfalls besser klingenden *Krzymower Holland* ersetzt wurde. Im Jahre 1778 erscheint in den Kirchenbüchern von Rosterschütz erstmalig das Neudorf "Briesener Buden", das nachmalige *Briesener Holland*. Als bedeutungsloser Weiler liegen an der Landstraße Koło—Konin die "Briesner Buden", die auf unfruchtbarem Boden nach 1830 vom Gute Brzezno aus entstanden sind und von polnischen Bauern besiedelt werden. Beachtenswert ist die Entstehung des Dorfes Tury oder Turow, wie es in erster Zeit in den Seelenbüchern genannt wurde. Im Altdorf Tury befand sich um die Mitte des 18. Jahrhunderts ein Eisenhammer. 1779 legte in der Nähe des Altdorfes dessen Besitzer, der Gutsherr von Wyszyn, die Holländersiedlung *Neu-Tury* an. Die für den Betrieb des Eisenhammers abgeholzten Waldflächen gaben den Raum für die neue Siedlung ab. 1780 taucht in den Amtshandlungnotizen zum ersten Male der Dorfname "Drunżyner Holl." auf. Es ist dies das gegenwärtige *Dronżynek*. Die Kirchenbucheintragung findet dadurch ihre Bestätigung, dass wir im erwähnten Dorf am Stubenbalken eines alten Hauses die darin eingeschnitzte Jahreszahl  "1782" vorgefunden haben. Über die benachbarte deutsche Siedlung, das *Alt-Paprotholland*, stammt die erste Kirchbuchnachricht aus dem Jahre 1782; zehn Jahre darauf entstand das benachbarte Neu-Paprotholland. Hart am linken Wartheufer legten deutsche Bruchbauern um 1790 das *Holland Drensen* an. Alle bisher namhaft gemachten Neudörfer zeichneten sich besonders durch ihren Wiesenreichtum aus, der eine ergiebige Milchviehwirtschaft ermöglichte.
@@ -543,12 +531,10 @@ vermerkt. Das Dorf Borowo besaß um 1780 eine ansehnliche deutsche Bevölkerung,
 Around 1780 the village of Borowo had a sizeable German population, since at that time a court headman (Gerichtsschulze) and a schoolmaster held office there. The founding of Borowo and of other German settlements goes back to the then owner of the Kramsk estates, the judge of Łęczyca, I. Byszewski. He had his extensive marsh forests at Krzymow felled by German forest workers. German stave-cutters and plank-sawyers worked the usable timber for shipment by water to Stettin. In the church books of Rosterschütz we find many entries of stave and timber workers from the Krzymower Buden (the huts of Krzymow), as in general the German forest workers played an important part in the Warthe marshes up to the World War. Most of them came into the Krzymow forests from the forests around Boruj and Tomischel. It is characteristic that many of these wood-cutters settled in the forests they had felled. So a baptism note from the Krzymower Buden says, for instance: "Grüger Gottlieb, stave and plank worker and owner in the same place". Instructive for the history of settlement is also the gradual disappearance of the place name "Krzymower Buden", which was replaced by the doubtless better-sounding *Krzymower Holland*. In 1778 the new village of "Briesener Buden", the later *Briesener Holland*, appears for the first time in the church books of Rosterschütz. The "Briesner Buden", a hamlet of no importance on the highroad from Koło to Konin, arose on infertile soil after 1830 from the estate of Brzezno and is settled by Polish peasants. The rise of the village of Tury, or Turow as it was called at first in the books of souls, deserves notice. Around the middle of the 18th century there was an iron hammer in the old village of Tury. In 1779 its owner, the lord of the manor of Wyszyn, laid out the Holländer settlement of *Neu-Tury* near the old village. The stretches of forest felled to run the iron hammer gave the room for the new settlement. In 1780 the village name "Drunżyner Holl." appears for the first time in the notes of the pastor's acts. This is the present *Dronżynek*. The church-book entry is confirmed by our having found the year "1782" carved into the ceiling beam of an old house in that village. Of the neighbouring German settlement, *Alt-Paprotholland*, the first church-book news dates from 1782; ten years later the neighbouring Neu-Paprotholland arose. Close by the left bank of the Warthe, German marsh farmers laid out *Holland Drensen* around 1790. All the new villages named so far were marked above all by their wealth of meadows, which allowed a rich dairy farming.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-18">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-18">p. 18</a></h2>
+<section class="lit-passage" id="p-18" data-page="18">
+<div class="pg" id="p18"><a href="#p18">p. 18</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Flußabwärts setzen sich deutsche Bauern südlich von Koło in *Leszcze*, zu deutsch Lesche, um 1783 an, wie dies aus den Rosterschützer Büchern zu ersehen ist. Im Bruch, gegenüber von Lesche, finden sich um 1787 deutsche Siedler ein, die hier die typische Bruchholländerei *Groß-Politz* mit Erfolg anlegten. Vor 1800 kam es hier zu einer Schulgründung. Die Landnehmer in diesen zu altpolnischer Zeit entstandenen deutschen Dörfern waren zumeist Vollhüfner. In besitzrechtlicher Hinsicht sind die ersten Bruchsiedlungen als Holländerdörfer anzusprechen, da nirgends von der überragenden Bedeutung eines Dorfschulzen oder einer besonderen Landzuweisung für diesen die Rede ist. Die pommerschen Dörfer der Leśniker Sprachinseln sind hingegen als Schulzendörfer zu betrachten.
@@ -571,12 +557,10 @@ Downstream, German farmers settled south of Koło in *Leszcze*, in German Lesche
 The settling of German farmers by private lords set an example. On 4 September 1781 Ostrowski, Archbishop of Gniezno, had King Stanislaus Augustus confirm the privilege he had granted "to the honourable Hauländer newly establishing themselves and named in the contract, and to their heirs". The taking of the land took place in 1779, and *"the useless pieces of ground of the forests in the Chełmsk key, lying within the bounds of the village of Rzuchow, belonging to the archbishop's estates"* served for it; and as it goes on, *"since we have therefore found within the bounds of the village of Rzuchow such a forest from which one can never hope to have any use, we have*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-19">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-19">p. 19</a></h2>
+<section class="lit-passage" id="p-19" data-page="19">
+<div class="pg" id="p19"><a href="#p19">p. 19</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *denselben denen Holländern ... zum Ausroden überlassen. Sie sind aber verbunden, während der freien Jahre die ihnen überlassenen Wälder gänzlich auszuroden und ordentliche Gebäude aufzubauen."* Unter anderem enthält die Gründungsurkunde dieser Holländerei, die anfänglich Rzuchow, seit 1790 jedoch Maidany genannt wurde, das freie Verkaufsrecht für die angenommenen Ländereien, wie auch, was gerade auffällig für geistlichen Besitz klingt, völlige Befreiung "von allen Gaben und Prästationen an den Probst zu Chełmsk". Dem Dorfschultzen und dem Schulhalter schenkte der Erzbischof je eine halbe Hufe Land "mit Befreiung solcher auf immer von allen Zinsen und Frondiensten". Die Urkunde nennt folgende Erstsiedler: Adam Kramer als Dorfschulzen seiner Schöppen, Gottlob Klingbeil, Andreas Schindel, Michael Schindel, Christoph Ratay, Michael Ratay, Christian Ratay, Jacob Pinno, Jacob Schultz und Mathias Rautke. An Grundgeld verpflichteten sich die Neusiedler von der Hube je 18 Gulden zu entrichten. Der nachträgliche Jahreszins belief sich auf 60 Gulden von der Hube. Zur vollständigen Ausrodung der überlassenen Waldstücke erhielten die Holländer neun Freijahre, in dieser Zeit sollten auch die Wirtschaftsgebäude errichtet werden. Nach einer vom Domkapitel zu Gnesen im Jahre 1784 durchgeführten Besitzaufnahme wohnten in der Holländerei Maidany 11 Ganz- und 2 Halbhüfner, die 6 Pferde, 20 Ochsen und 30 Kühe besaßen.<sup class="lit-fn"><a href="#n-de-15">15</a></sup>
@@ -599,12 +583,10 @@ From the estate of Budzisław the marsh-edge village of *Budki Holland* was laid
 <span class="lit-note" id="n-en-15">15</span> Cathedral archive, Gniezno, Inwentarz podczas Generalnej Wszystkich Kluczów Rewizyi z. r. 1784 (inventory made at the general visitation of all the keys in the year 1784), 6 A. p. K. 492. p. 110
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-20">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-20">p. 20</a></h2>
+<section class="lit-passage" id="p-20" data-page="20">
+<div class="pg" id="p20"><a href="#p20">p. 20</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Kaczka* und *Mechnówka* im Jahre 1792. Das ausgeteilte Land war mit Sumpfwald und Strauchwerk bestanden. Es waren dies die ersten Siedlungen der Leśniker Sprachinsel. 1794 stoßen wir in den Kirchenbüchern von Rosterschütz erstmalig auf den Dorfnamen *Myśliborzer Holland*.
@@ -615,7 +597,7 @@ Fassen wir die in altpolnischer Zeit durch privatherrschaftliche und geistliche 
 
 Nicht unerwähnt möchten wir die verhältnismäßig zahlreichen Wassermüller des damaligen Warthebruchs lassen. Im bereits erwähnten Kirchenbuch finden wir 1778 einen deutschen Müller in Szadow, 1779 in Powiercie, 1781 in Posoka hinter Koło und 1783 auf der Glinkamühle bei Konin. In Powiercie saß 1781 ein Hufschmied und ein Ackerwirt.
 
-##### Die südpreußische Zeit
+#### Die südpreußische Zeit
 
 In den ersten Jahren der preußischen Besitznahme des Warthebruchs kam es zur Niederlassung von deutschen Bauern pommerschen Stammes in den Gütern Borzewiska des Gutsbesitzers Milewski. Die in deutscher Sprache im Jahre 1796 abgefasste Ansetzungsurkunde lässt uns einen Einblick in die Ansiedlungsbedingungen tun. Bei der Landübernahme hatten die Kolonisten an Grundgeld 189 Taler zu entrichten. Das Ausschankrecht behielt sich der Gutshof vor. Die Siedler erhielten sechs Freijahre. Von der Beschaffenheit des "Stück Wald von 10 Huben an vorgedachte Collonisten zur Ausrodung und Abbauung" gibt uns Art. 5 des Vertrages einen guten Begriff, es heißt darin:
 
@@ -630,17 +612,15 @@ If we sum up the German villages founded in old Polish times by private and chur
 
 We would not leave unmentioned the relatively numerous water millers of the Warthe marshes of that time. In the church book already mentioned we find in 1778 a German miller at Szadow, in 1779 at Powiercie, in 1781 at Posoka beyond Koło, and in 1783 at the Glinka mill near Konin. At Powiercie in 1781 there were a farrier and a farmer.
 
-##### The South Prussian Period
+#### The South Prussian Period
 
 In the first years of the Prussian taking of the Warthe marshes, German farmers of Pomeranian stock settled on the Borzewiska estates of the landowner Milewski. The settlement charter, drawn up in German in 1796, gives us an insight into the terms of settlement. On taking up the land the colonists had to pay 189 Taler of entry money. The manor kept the right to sell drink for itself. The settlers received six free years. Of the nature of the "piece of forest of 10 Hufen [given] to the aforesaid colonists for clearing and building" Art. 5 of the contract gives a good idea; it says:
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-21">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-21">p. 21</a></h2>
+<section class="lit-passage has-related" id="p-21" data-page="21">
+<div class="pg" id="p21"><a href="#p21">p. 21</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > *"In Betracht, daß das denen Collonisten zugemessene und näher zu bestimmende Land stark mit Wasser belaufen, so verbinden sich die Erbzinsannehmer durch gehörige Graben Ziehung und Schüttung eines Dammes am Warta Fluß, abzuwässern, wozu der Erbherr hundert Leute nach und nach zur Hilfe zu geben verspricht. Und um die nähere Vermessung des Landes je eher, je lieber bewirken zu können, so verbinden sich die Erbzinsnehmer, die Abwässerung des Landes sobald wie möglich zu bewirken."*
@@ -659,7 +639,6 @@ From this it follows that the piece of forest given over for settlement was so s
 In 1796 the governor "of the city and fortress of Breslau", the Prince of Hohenlohe-Ingelfingen, received from King Frederick William II, as a gift estate (Gratialgut), the church estates of the lordship of Zagórowo and the starosty estates of the lordship of Trombczyn, made up of the manor farms (Vorwerke) of Drzewce, Kopojno, Swiątniki, Swięcia, Bronniki, Nowa Wieś, Przybyłow, Alt-Hütte and Trombczyn and the villages of Oleśnica and Szetlewek. Extensive forest and meadow land in the Warthe valley likewise took up a considerable part of the gift estates. Working these complexes of estates of some 250 Hufen may have brought in little, since as early as 18 May 1805 Prince Hohenlohe's general agent, the notorious war and forest councillor (Kriegs- und Forstrat) P. F. von Triebenfeld, had concluded with eighteen German colonists a contract of hereditary lease (Erbpacht) for the "dismembration" (division) of 100 Hufen of forest and, in small part, of farmland. The Royal South Prussian War and Domains Chamber at Kalisz gave its consent to this afterwards, on 28 January 1806. In this way the following German villages arose in the Warthe marshes near Zagórow: *Sophiental* - Olchowo, *Ludwigslust* - Mały Las, *Friedrichsfelde* - Tarzewo, *Adelshof* - Chróściki; the manor farm of *Adolfsberg*; on the neighbouring upland of the Kalisz country the villages of *Ingelfingen* - Anielewo, *Emilienheim* - Michalinow, *Augustinhof* - Augustynow, *Schwentz* - Święcia, and the colony of *Wrombczyn*. Of the fate of the German inhabitants of the hamlet of *Klein-Öring*, or Groździkowo, we have no sure news at all. An official Polish list of 1827 gives 4 farms with 39 inhabitants. The census of 1921 records only Polish owners. The settlement contract, written in German and well kept in the headman's office (Schulzenamt) at Emilienheim, lets us gain a good insight into the first terms of settlement. It would lead too far to set out all the details of the history of settlement in full. But one fact of importance, new in the practice of settlement until then, may not go unmentioned: *the complete freeing of the colonists from*
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The page tells the lease: concluded, Breyer says, on 18 May 1805 by Triebenfeld for the Prince with eighteen colonists over 100 Hufen, the consent of the Kalisch chamber of 28 January 1806. Both papers survive: the consent of 28 January 1806 itself, and the copy of the lease, whose beginning is lost and which gives no day of conclusion — it was engrossed at Mariantów on 21 March 1806 — and in which the clause on draining the land and the dike on the Warta, quoted here, stands in no paragraph. The summons of 1860 cites a contract of 18 May 1805 between the Prince and fourteen colonists of the gmina of Trąbczyn before his patrimonial court at Zagórów — the same day as Breyer's lease, which names eighteen takers.</p>
@@ -667,9 +646,8 @@ In 1796 the governor "of the city and fortress of Breslau", the Prince of Hohenl
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage has-related" id="p-22">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-22">p. 22</a></h2>
+<section class="lit-passage has-related" id="p-22" data-page="22">
+<div class="pg" id="p22"><a href="#p22">p. 22</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *jeglichen Dienstleistungen an den Hof, bei gleicher Verpflichtung der Zahlung an Geldzins*. Oder wie der betreffende Absatz 13 im Kaufvertrag lautet:
@@ -678,7 +656,7 @@ In 1796 the governor "of the city and fortress of Breslau", the Prince of Hohenl
 
 Für den Schullehrer, den Schulzen und den Friedhof wurden 21 Morgen zugeteilt. Bemerkenswert ist bei dieser Landnahme, dass die 100 Hufen Waldboden unter 18 Annehmer zur Verteilung kamen, die ihrerseits die Waldstücke an andere, kleinere rodungslustige Bewerber abtraten. Allen Neusiedlern stand das Weide- und Holzrecht in der fürstlichen Heide zu. Die Zinsen, "den Erbkanon", verpflichteten sich die Kolonisten nach Ablauf der vier Freijahre je zu Weihnachten und auf St. Johanni zu entrichten, und zwar jährlich dreißig Reichsthaler von der gerodeten magdeburgischen Hufe. Nach Wegzug im Herbst 1806 der südpreußischen Behörden traten gewisse Veränderungen im Besitzstand der neuangelegten Bruchdörfer ein, obwohl die Dominialverwaltung rechtzeitig die Ansiedler mit rechtskräftigen Erbverschreibungen versorgt hatte. Der Abzug der preußischen Regierung brachte den Kolonisten, wie darüber im Abschnitt "Wanderungen" zu berichten sein wird, mancherlei Trübsal. Und trotz allem haben sich diese Dorfgründungen bis auf die Gegenwart hin sowohl in wirtschaftlicher als auch in völkischer Hinsicht gut gehalten. Seit 1828 befanden sich die Zagórower Güter im Besitz des K. G. von Weigel, eines Großgrundherrn aus Hennersdorf in Schlesien. Nach dem polnischen Aufstand 1863 erwarb die Zagórower Besitzungen der polnische Graf A. Taczanowski. Die reichlich an 35 Jahre dauernde deutsche Verwaltung der Bruchdörfer trug zu deren Festigkeit viel bei. Eine rechtliche Verselbstständigung und die Befreiung von Zinszahlungen an den Zagórower Gutshof brachte endgültig die russische Bauernbefreiung des Jahres 1864. Abschließend sei festgestellt, dass in der Zeit der südpreußischen Regierung im Warthebruch 10 Neudörfer entstanden sind.
 
-##### Der Zeitabschnitt von 1806 bis 1863
+#### Der Zeitabschnitt von 1806 bis 1863
 
 Vom Gute Leszczyn aus fand um 1807 die Anlage des Bruchdorfes Daniszew neben dem Altdorf Daniszew statt. Die Wiesenflächen dieses Dorfes waren an Umfang klein, die anfänglichen Ackerstücke desgleichen. Die Neuankömmlinge waren aus diesem Grunde gezwungen, an die Rodung des am sandigen Talabhang gelegenen Waldes zu gehen. Auf diese Weise entstanden in der gegenwärtigen Feldgemarkung, abgesehen von den "Wiesenstücken" mit den darauf befindlichen "Baustellen", noch die "Waldkaweln", die "Blottkaweln" und "Chausseekaweln". Infolge der Wolhynischen Auswanderung um 1875 bekam ein Teil der Wirtschaften
 
@@ -691,11 +669,10 @@ Vom Gute Leszczyn aus fand um 1807 die Anlage des Bruchdorfes Daniszew neben dem
 
 For the schoolteacher, the headman and the cemetery 21 Morgen were allotted. What is remarkable in this taking of land is that the 100 Hufen of forest ground were divided among 18 takers, who in their turn passed the pieces of forest on to other, smaller applicants keen to clear. All the new settlers had the right of pasture and of wood in the Prince's heath. The colonists bound themselves to pay the rent, "the hereditary canon" (Erbkanon), after the four free years ran out, at Christmas and at St John's, namely thirty Reichsthaler a year for each cleared Magdeburg Hufe. After the South Prussian authorities left in the autumn of 1806, certain changes came about in the holdings of the newly laid-out marsh villages, although the estate's administration had in good time provided the settlers with legally valid hereditary deeds. The withdrawal of the Prussian government brought the colonists many troubles, as will be told in the section "Migrations". And for all that, these villages have held up well to the present, both economically and in their national character (in völkischer Hinsicht). From 1828 the Zagórow estates were owned by K. G. von Weigel, a great landowner from Hennersdorf in Silesia. After the Polish rising of 1863 the Polish Count A. Taczanowski acquired the Zagórow properties. The German administration of the marsh villages, lasting a good 35 years, did much for their strength. Legal independence and freedom from rent payments to the Zagórow manor came at last with the Russian emancipation of the peasants of 1864. To conclude, it should be stated that in the time of the South Prussian government 10 new villages arose in the Warthe marshes.
 
-##### The Period from 1806 to 1863
+#### The Period from 1806 to 1863
 
 Around 1807 the marsh village of Daniszew was laid out from the estate of Leszczyn beside the old village of Daniszew. The meadows of this village were small in extent, and so were its first pieces of field. For this reason the newcomers were forced to set about clearing the forest on the sandy valley slope. In this way, besides the "meadow pieces" with the "building plots" on them, there arose in the present field area the "forest strips" (Waldkaweln), the "mud strips" (Blottkaweln) and the "highway strips" (Chausseekaweln). As a result of the emigration to Volhynia around 1875 some of the farms got
 
-</div>
 </div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
@@ -706,9 +683,8 @@ Around 1807 the marsh village of Daniszew was laid out from the estate of Leszcz
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-23">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-23">p. 23</a></h2>
+<section class="lit-passage" id="p-23" data-page="23">
+<div class="pg" id="p23"><a href="#p23">p. 23</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 polnische Besitzer. Das Zusammenleben ist jedoch in diesem Restdorf recht friedlich.
@@ -739,12 +715,10 @@ From what has been set out it follows that most of the German settlements were l
 After the lively activity of settlement in the first decade of the 19th century there came a pause of a good twenty years. The industrialisation of Congress Poland, still carried out in 1820,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-24">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-24">p. 24</a></h2>
+<section class="lit-passage" id="p-24" data-page="24">
+<div class="pg" id="p24"><a href="#p24">p. 24</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Industrialisierung Kongresspolens, die das Anschnellen der Getreidepreise, die Entstehung von landwirtschaftlichen Industrien (Brennereien und Zuckerfabriken) zur Folge hatten, ließen die Bodenpreise merklich ansteigen. Gleichzeitig waren die Gutsbesitzer neben dem besseren Anbau ihrer Ackerflächen auch auf deren Vergrößerung bedacht. Wüstungen, Bruchgelände und Einöden kamen erneut unter den Pflug. In manchen Gegenden Kongresspolens gewann man durch Bauernlegen neue Vorwerksländereien. Nicht zuletzt entwickelten die Grundherren eine erneute Besiedelung ihrer Ödländereien durch deutsche Kolonisten. 1818 erhielt die Holländerei Budki durch Gründung von *Neu-Budki* einen räumlichen Zuwachs. Um 1820 legten 18 deutsche Bruchbauern in den Wäldern des Gutes Podgórz das Dorf *Konstantynow* und *Wysoker Holl.* an. Die Siedler erhielten vom Grundherrn Holz- und Weidegerechtigkeit, jedoch kein Schulland. Hart am Ufer der Warthe entstand in gleicher Zeit *Rostoka-Holl.*, das vom Gute Krzymow aus das Siedlungsrecht erhielt. Der Gutsherr von Wola Laszczowa, K. Potworowski, ließ im März 1836 das von der Regierungsökonomie Stare Miasto, Kreis Konin, erstandene "Große und Kleine Waldgelände" im Umfang von 400 Morgen an deutsche Landnehmer aus, die das Dorf *Neu-Czarkow* gründeten. Einkaufsgeld verpflichteten sich die Neusiedler hundert Złoty vom Morgen zu zahlen. Für die mit Holz bestandenen Landstücke wurde nach Schätzung von Gewährsmännern, die von beiden Seiten gestellt wurden, eine besondere Zahlung für das Nutzholz verlangt. Freijahre gab es zwei oder drei, je nach der Güte des Waldlandes. In der Nähe des Dorfes Alt-Budki kam es um 1835 zur Gründung der Dörfer *Neudorf* und *Rosenberg*. Die letztere Kleinsiedlung verschwand nach einigen Jahrzehnten. Allmählich verschwanden auch die deutschen Bauern aus Neudorf, wie ja allgemein der deutsche Landbesitz in dieser Gegend stark abgenommen hat.
@@ -763,12 +737,10 @@ In 1837 the German farmers of the village of Lesnik enlarged their field area by
 In March 1841 a contract of sale was drawn up at the manor of Jabłkow, Konin county, between the lord, Karl Osterloff, and 27 German and 10 Polish farmers. On the estate's lands, partly swampy and partly overgrown with brush, together with the pieces of field farmed until then by the estate's peasants, arose the villages of *Bilczew* and *Strumyk*. In the latter new village mostly Polish takers settled. The surveyor R. Sydow measured the land. To drain the swampy meadows the landowner bound himself to dig two
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-25">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-25">p. 25</a></h2>
+<section class="lit-passage" id="p-25" data-page="25">
+<div class="pg" id="p25"><a href="#p25">p. 25</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 breiter Wassergräben. Das auf den zugeteilten Hufen stehende Holz wurde den einzelnen Käufern unentgeltlich zugeteilt. Für den Dorfschullehrer, der Deutsch und Polnisch zu unterrichten verpflichtet war, schenkte Osterloff zehn Morgen Land. Das Wohnhaus des Gutsverwalters sollte nach der Übertragung und entsprechendem Umbau als Dorfschulhaus dienen. Die einzelnen Kolonisten erhielten ein bis drei Freijahre. Das der Aufteilung anheim gefallene Gut Jabłkow erstand der Grundherr Osterloff ein Jahr zuvor auf einer öffentlichen Versteigerung vor dem Gerichtstribunal in Kalisch. Vom Gute Głowy aus kam es 1840 zur Gründung der Dörfer *Janow* und *Praksedow*. Der Grundherr vermachte der Dorfschule drei Morgen Land. Die Annehmer Kaus und Schneider führten die Verhandlungen mit dem Gutshof Głowy. Die ersten Siedler, 20 an der Zahl, erhielten zumeist Hufenstücke, die zur Hälfte aus Wiesenflächen bestanden.
@@ -795,17 +767,15 @@ After three years the colonies of *Zagaj* and *Stawki* arose within the estate o
 Striking is the rise of 10 German villages in the Leśnik language island in the fifth decade of the 19th century. The soil here is the poorest imaginable, and there is also a lack of meadows. The founding of these daughter settlements goes back to the strong growth of population in the old villages around Leśnik. No influx of settlers from the area of other German
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-26">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-26">p. 26</a></h2>
+<section class="lit-passage" id="p-26" data-page="26">
+<div class="pg" id="p26"><a href="#p26">p. 26</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Dörfer war nicht festzustellen. Über die Annehmer der Bruchdörfer Neu-Czarkow und Bilczew besitzen wir hinreichende Kenntnisse. Die Bauern des ersten Dorfes kamen sämtlich aus dem Warthebruch, so aus dem Briesener Holl., aus Ranna, Piersk, Młynek, Konstantynow, Slauske, Dembina und Schwentz, die des Dorfes Bilczew desgleichen aus Lesche, Sobótka, Rostoka, Kramsk, Drensen, Daniszew, Politz, Kuny, Helenowo, einer erschien ausnahmsweise aus Lipiny bei Babiak. Als Hauptannehmer des Dorfes Bilczew erschien Gottlieb Wapner, der die Ansetzungsverträge mit dem Grundherrn in deutscher Sprache abgefasst hatte.
 
-##### Die Zeit von 1863 bis zur Gegenwart
+#### Die Zeit von 1863 bis zur Gegenwart
 
 Der im Bruch zur Verfügung stehende Siedlungsraum war um 1860 von deutschen und polnischen Bauern fast restlos besetzt. Von Jahr zu Jahr machte sich der Überbevölkerungsdruck stärker bemerkbar. Nach 1875 teilten deutsche Bruchbauern das Vorwerk Dombrowica bei Konin auf. Sonst ruhte die Siedlungstätigkeit, abgesehen von einzelnen Einsiedelungen hier und da in polnische Dörfer. Die zunehmende Trockenlegung von Sumpfland brachte manchem Bruchdorf gewünschtes Neuland, was jedoch bei weitem den vorhandenen Landhunger nicht zu stillen vermochte. Als nach 1875 in die deutschen Bruchdörfer die Kunde von den guten Siedlungsmöglichkeiten der wolhynischen Wälder drang, fand diese bei dem jungen Nachwuchs ein williges Gehör. Besonders stark gestaltete sich die Auswanderungsbeteiligung in der Paproter und Leśniker Sprachinsel, da dort die Übervölkerung groß und die Bodengüte gering waren. Viele Dörfer erlitten eine große Einbuße an Bewohnern, ja einzelne Ortschaften lösten sich völlig auf, der Dorfbesitz ging in fremde Hände über. Das war der Fall mit den Dörfern Piersk, Budki, Strumyk. Einzelne Siedlungen, wie Borowo, Drensen Holl., Konstantynow, Młynek, Józefina, Alexandrow, Mechniówka, Zagaj, Dombrowa Holl., Zbylczyce Holl., Genowefa usw. verloren fast die Hälfte ihrer deutschen Bewohner. Einzelnen Dörfern gelang es im Laufe der Zeit, die wolhynischen Verluste an Boden wettzumachen. Die meisten der Restdörfer haben leider ihren gemischtsprachigen Charakter bis auf die Gegenwart hin beibehalte. Nach 1890 fand der deutsche Bevölkerungsüberschuss einen Abstrom in der Sachsengängerei nach Deutschland. Die Entstehung des Dorfes Neu-Krzymow auf den Ländereien des aufgelassenen Gutes Krzymow geht auf deutsche Sachsengänger zurück, die um 1906 dieses Streudorf anlegten.
 
@@ -816,19 +786,17 @@ Zu verschiedenen Zeiten fanden *Einsiedlungen* aus den deutschen Ortschaften in 
 
 villages could be found. Of the takers of the marsh villages of Neu-Czarkow and Bilczew we have sufficient knowledge. The farmers of the first village all came from the Warthe marshes, namely from Briesener Holl., from Ranna, Piersk, Młynek, Konstantynow, Slauske, Dembina and Schwentz; those of the village of Bilczew likewise from Lesche, Sobótka, Rostoka, Kramsk, Drensen, Daniszew, Politz, Kuny and Helenowo; one came, by exception, from Lipiny near Babiak. The chief taker of the village of Bilczew was Gottlieb Wapner, who had drawn up the settlement contracts with the lord in German.
 
-##### The Time from 1863 to the Present
+#### The Time from 1863 to the Present
 
 By about 1860 the room for settlement in the marsh was almost wholly taken up by German and Polish farmers. From year to year the pressure of overpopulation made itself felt more strongly. After 1875 German marsh farmers divided up the manor farm of Dombrowica near Konin. Otherwise settlement rested, apart from single settlers moving here and there into Polish villages. The growing drainage of swampland brought some marsh villages the new land they wanted, but this could by no means still the land hunger there was. When, after 1875, word reached the German marsh villages of the good chances of settlement in the forests of Volhynia, the young people lent it a willing ear. The share in emigration was especially great in the Paprot and Leśnik language islands, since overpopulation there was great and the soil poor. Many villages suffered a great loss of inhabitants; indeed single places broke up altogether and the village land passed into strange hands. That was so with the villages of Piersk, Budki and Strumyk. Single settlements, such as Borowo, Drensen Holl., Konstantynow, Młynek, Józefina, Alexandrow, Mechniówka, Zagaj, Dombrowa Holl., Zbylczyce Holl., Genowefa and so on, lost almost half their German inhabitants. Single villages succeeded in time in making good the losses of land to Volhynia. Most of the remaining villages have unfortunately kept [beibehalte] their mixed-language character to the present. After 1890 the German surplus of population found an outlet in seasonal work in Germany (Sachsengängerei). The rise of the village of Neu-Krzymow on the lands of the abandoned estate of Krzymow goes back to German seasonal workers who laid out this scattered village around 1906.
 
 At various times there were *settlements by single families* from the German places into neighbouring Polish villages, as to Posoka, Ksawerowo, Kendziorki, Ochle, Lichnowo, Rzechta, Isabelin, Wionsowa and Trzyborki. Experience shows that these
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-27">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-27">p. 27</a></h2>
+<section class="lit-passage" id="p-27" data-page="27">
+<div class="pg" id="p27"><a href="#p27">p. 27</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Einsiedlungen nicht von langem Bestande. Die Entvölkerungsgefahren in den gemischtsprachigen Dörfern sind für den deutschen Teil besonders groß.
@@ -851,12 +819,10 @@ After the World War no notable shift in the holdings of the German marsh village
 And to close this section, let this telling observation be made: the German settler of this region took over, without exception, a swamp wilderness of backwaters and sandbanks. The marsh soil was mostly sandy or leached, shot through with sour humus. Wide stretches of the river valley were exposed to the danger of the yearly floods of the Warthe. The bad harvests and the losses of livestock they caused are among the ever-recurring events in the life of the marsh farmer. Dry years likewise rob the farmer of the hoped-for fruits of his work. The church books of the Evangelical parishes, and on the other hand the oral tradition from
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-28">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-28">p. 28</a></h2>
+<section class="lit-passage" id="p-28" data-page="28">
+<div class="pg" id="p28"><a href="#p28">p. 28</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 dem Bruch bringen uns ausgiebig Kunde von dem schweren Ringen ums tägliche Brot dieser deutschen Menschen. Und trotz der mancherorts ungünstigen Verhältnisse hat sich der zähe Menschenschlag der Brücher sieghaft bis in die Gegenwart hin behauptet. Seine deutsche Gesinnung trat besonders deutlich zur Zeit der ersten polnischen Volkszählung (1921) zum Vorschein. Zumindest 95 v. H. der Bruchbauern ließen sich von den Zählungsmännern als Menschen deutschen Volkstums eintragen. Eine gleiche aufrechte völkische Haltung ist uns nur noch bei den deutschen Bauern der Niederung begegnet.
@@ -867,15 +833,13 @@ dem Bruch bringen uns ausgiebig Kunde von dem schweren Ringen ums tägliche Brot
 the marsh, tell us abundantly of the hard struggle of these German people for their daily bread. And despite the unfavourable conditions in many places, the tough breed of the Brücher has held its own victoriously to the present. Its German sentiment showed itself especially clearly at the time of the first Polish census (1921). At least 95 per cent of the marsh farmers had themselves entered by the enumerators as people of German nationality (deutschen Volkstums). We have met an equally upright national (völkisch) bearing only among the German farmers of the Vistula lowland (Niederung).
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-29">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-29">p. 29</a></h2>
+<section class="lit-passage" id="p-29" data-page="29">
+<div class="pg" id="p29"><a href="#p29">p. 29</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### IV. Die Herkunft der deutschen Siedler
+### IV. Die Herkunft der deutschen Siedler
 
 Als vorläufig einzige Quelle für die Herkunftsforschung kommen die Kirchenbücher der evangelischen Gemeinden zu Turek, Władysławow, Koło, Sompolno, Konin und Zagórów in Betracht. Auf Grund der in diesen Kirchenarchiven im Laufe der Jahre durchgeführten Erhebungen ließen sich nachfolgende Herkunftsfeststellungen machen, wobei diese noch eine entsprechende Ergänzung durch persönliche Aussprachen in den deutschen Ortschaften selbst erfuhren. Bei den Bewohnern des Bruches in der Umgegend von Zagórów und Konin sind die Herkunftsüberlieferungen noch recht lebendig, wie ja diese Bruchbauern sich allgemein durch gute völkische Haltung vorteilhaft auszeichnen. In der Leśniker Sprachinsel ist die Erinnerung an das Herkunftsland so gut wie erloschen.
 
@@ -886,7 +850,7 @@ Die Märker oder "Braneborger", wie sie landläufig genannt werden, setzen sich 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### IV. The Origin of the German Settlers
+### IV. The Origin of the German Settlers
 
 For the present, the only source for research into origins is the church books of the Evangelical parishes of Turek, Władysławow, Koło, Sompolno, Konin and Zagórów. On the ground of the inquiries made in these church archives over the years, the following findings on origins could be made, and these were further supplemented by personal talks in the German places themselves. Among the inhabitants of the marsh around Zagórów and Konin the traditions of origin are still quite alive, as these marsh farmers are in general well distinguished by a good national (völkisch) bearing. In the Leśnik language island the memory of the land of origin is as good as extinct.
 
@@ -895,12 +859,10 @@ Seen by stock (stammlich), the Germans of the Warthe marshes fall into two parts
 The Märker, or "Braneborger" as they are commonly called, are made up of two groups of immigrants from separate regions: the inhabitants of the *Warthe marshes* (Warthebruch) around the towns of Driesen and Landsberg, and the farmers from the *Priegnitz*, chiefly from the districts on the Oder and its tributary the Stepenitz. One and all they are farmer-burghers (Ackerbürger) well familiar with farming in a marsh. The single immigrants came from the following villages of the Netze marshes around Driesen: Lubatz, Lupsbruch, Alt-Beelitz, Friedrichshorst, Neu-Ansbach, Hammer, Eschbruch, Drewitz, Vordamm, Neu-Erbach, Schöneberg, Netzbruch, Alt-Haberwiese. The following marsh villages around Landsberg gave up emigrants: Landsberger Holländer, Birkbruch, Marienwiese, Liebental, Güscht, Christophswalde, Pollichen, Zantoch, Gratow, Dexel, Wilhelmstal, Liebental, Schönewald, Morrn, Blockwinkel, Raumerswalde, Scheiblersberg, Neu-Dresden, Kriescht, Woxfelde, Woxholland, Neu Lietze-Göricke, Neu-Küstrinchen near Wriezen, Moldau near Sonnenburg. From the areas north of the marsh came single ones, as from Fahlenwerder, Woldenberg,
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-30">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-30">p. 30</a></h2>
+<section class="lit-passage" id="p-30" data-page="30">
+<div class="pg" id="p30"><a href="#p30">p. 30</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Neu-Falkenberg, Kartzig, Merenthin, Stüdnitz, Glashütte; südlich des Bruchs erschienen einzelne aus Radgosch, Alt-Merine Buchholz, Reichenwalde und Langendamm. Ferner gab der Oderbruch gleichfalls einige Auswanderungslustige ab, so aus der Umgegend von Frankfurt und Wriezen, aus den Dörfern Letschin, Zirpe, Oderbruch. Aus der Provinz Priegnitz wanderten ein: aus der Umgegend von Prietzwalk, Wittenberg, Perleberg, Meienberg, Wittstock und Neu-Ruppin. Der Kreis Havelberg gab aus den Dörfern Breddlin, Bendelin, Damelack, Neuberg, Kümmernitz und Saldernhorst Auswanderer ab. Wir stoßen in der Mischungszone auch auf einzelne Einwanderer, die aus Ortschaften in Pommern und Mecklenburg-Schwerin, aus ersterem aus Berlinchen und Neu-Marien, aus letzterem aus Schupin kamen. Einige Kolonisten stammen aus der Provinz Posen aus Lubatz bei Filehne, aus Storchnest, aus Wysokotowo, Kreis Jarotschin; das Dorf Neu-Marya unweit Birnbaum ist als Herkunftsort dreier Kolonisten angeführt. Zahlenmäßig überwiegen selbstredend die unmittelbar aus dem Bruch kommenden Bauern.
@@ -919,12 +881,10 @@ Neu-Falkenberg, Kartzig, Merenthin, Stüdnitz, Glashütte; from south of the mar
 The settlers of Pomeranian stock immigrated from the Netze district into the Warthe country south of the town of Koło. In the settlement charter of Leśnik Holl. we find the direct reference to *"colonists come here from the Netze District"*. The church books contain places from the districts of Samter, Obornik, Kolmar and Filehne. Single places of origin lay in the border districts of Wreschen, Witkowo and Mogilno. For completeness, the arrival of settlers from the Lower Silesian districts of Krotoschin, Ostrowo, Koschmin and Gostyń should also be mentioned. There were, however, only a few Silesians in the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-31">p. 31</a></h2>
+<section class="lit-passage" id="p-31" data-page="31">
+<div class="pg" id="p31"><a href="#p31">p. 31</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 pommerschen Dörfern. In der neuen Umgebung gingen den Schlesiern ihre Stammessonderheiten mit der Zeit verloren.
@@ -977,12 +937,10 @@ In what follows we give, as an example, the places of origin of some larger mars
 | 1860 | Splett | farmer | 41 | Wielopole, Ostrow. district |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-32">p. 32</a></h2>
+<section class="lit-passage" id="p-32" data-page="32">
+<div class="pg" id="p32"><a href="#p32">p. 32</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Budki*
@@ -1077,12 +1035,10 @@ In what follows we give, as an example, the places of origin of some larger mars
 | 1826 | Quade | shepherd | 40 | Lukum near Rogasen |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-33">p. 33</a></h2>
+<section class="lit-passage" id="p-33" data-page="33">
+<div class="pg" id="p33"><a href="#p33">p. 33</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Drążynek*
@@ -1169,12 +1125,10 @@ In what follows we give, as an example, the places of origin of some larger mars
 | 1846 | Hübner | farmer | 28 | Eichberg near Driesen |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-34">p. 34</a></h2>
+<section class="lit-passage" id="p-34" data-page="34">
+<div class="pg" id="p34"><a href="#p34">p. 34</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Politz*
@@ -1273,12 +1227,10 @@ In what follows we give, as an example, the places of origin of some larger mars
 | 1863 | Kühl | farmer | 55 | Breddin, Havelberg |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-35">p. 35</a></h2>
+<section class="lit-passage" id="p-35" data-page="35">
+<div class="pg" id="p35"><a href="#p35">p. 35</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Sophiental - Olchowo*
@@ -1357,12 +1309,10 @@ Die angeführten Herkunftsangaben geben uns keinesfalls ein volles Bild. Die Lü
 The places of origin given here by no means give us a full picture. The gaps come for the most part from the lack of places named over whole decades. So for the period from 1805 to 1825 almost no places of origin at all are available to us. The want of these is the fault of the Evangelical pastors and cantors of the time, who, to save time and from convenience, made only very short entries of civil record. With the founding of the parishes of Konin, Koło, Turek, Sompolno and Zagorów, which took place between 1826 and 1858, a proper drawing up of suitably full records began. It should further be pointed out that in many notes of the deaths of retired farmers the places of origin [Herkunfsangaben] are missing. Moreover, when some of the record notes were drawn up, the place of origin may simply have slipped the
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-36">p. 36</a></h2>
+<section class="lit-passage" id="p-36" data-page="36">
+<div class="pg" id="p36"><a href="#p36">p. 36</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Gedächtnis entschwunden sein, was besonders bei älteren Landleuten des Öfteren auch gegenwärtig der Fall ist. Letztlich liegt die Möglichkeit nahe, dass öfters falsche Angaben der Geburtsorte ohne bösen Willen gemacht wurden, einfach aus Verlegenheit. Dies trifft besonders häufig zu, da der Aktenschreiber in den seltensten Fällen das Vorzeigen eines entsprechenden Schriftstücks verlangt.
@@ -1385,12 +1335,10 @@ The places of origin given here are not to be taken as complete. The intention i
 Finally we would point to one more important circumstance in research into origins: the *old hymn books* to be met here and there in the single German villages. These old witnesses from great-grandfathers' times point in most cases, if not to the single
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-37">p. 37</a></h2>
+<section class="lit-passage" id="p-37" data-page="37">
+<div class="pg" id="p37"><a href="#p37">p. 37</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Dorf, so doch auf eine bestimmte Auswanderungsgegend hin. Im Warthebruch haben wir vielfach, je nach der Stammheimat angetroffen: bei den Märkern ausschließlich das *Züllichausche* Gesangbuch. Vereinzelt bei den Pommern das *Alt-Stettinsche*. In Lesnik und Borowo kam uns auch das *Breslausche* Gesangbuch in die Hand.<sup class="lit-fn"><a href="#n-de-16">16</a></sup>
@@ -1405,15 +1353,13 @@ village, then at least to a particular region of emigration. In the Warthe marsh
 <span class="lit-note" id="n-en-16">16</span> Klatt, R., Die Kirchengesangbücher der deutsch-lutherischen Siedler Mittelpolens (The church hymn books of the German Lutheran settlers of central Poland). DMP, year 4, no. 11/12
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-38">p. 38</a></h2>
+<section class="lit-passage" id="p-38" data-page="38">
+<div class="pg" id="p38"><a href="#p38">p. 38</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### V. Wanderungen
+### V. Wanderungen
 
 Die Dorfbewohner des Bruches, ähnlich wie die anderer Gebiete, unterliegen einem stetigen Ab- und Zuströmen. Kaum sesshaft geworden, tragen sich einzelne unter ihnen mit Gedanken einer Abwanderung in die nähere oder weitere Umgegend. Bisweilen geben äußere Ursachen den Beweggrund zur Weiterwanderung ab. Dies trat z.B. im November 1806 ein, als die südpreußischen Behörden zum Verlassen des Landes gezwungen wurden, und über die kaum sesshaft gewordenen Kolonisten sich eine Flut von Verfolgungen ergoss, wie es beispielsweise in den Bruchdörfern der Hoheloheschen Güter bei Zagórow der Fall war. Darüber berichten in einem Gesuch an die preußische Regierung in Königsberg vom August 1816 zwei Kolonisten aus Ludwigslust. Im Namen von 10 Familien machten die beiden eine Eingabe an die ostpreußischen Behörden, in der sie um die Erlaubnis einer Rückwanderung nach Preußen ersuchten, wobei sie in düsteren Farben gerade den bösen Zeitabschnitt im November 1806 wie folgt darstellen:
 
@@ -1426,7 +1372,7 @@ Das Gesuch der Ludwigsluster Bittsteller fand leider bei den Königsberger Regie
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### V. Migrations
+### V. Migrations
 
 The village people of the marsh, like those of other regions, are subject to a constant flowing out and in. Scarcely settled, some of them turn over thoughts of moving away to the nearer or wider neighbourhood. At times outward causes give the motive for moving on. This happened, for example, in November 1806, when the South Prussian authorities were forced to leave the country and a flood of persecutions poured over the colonists, who had scarcely settled, as was the case, for instance, in the marsh villages of the Hohenlohe estates near Zagórow. Two colonists from Ludwigslust report on this in a petition of August 1816 to the Prussian government in Königsberg. In the name of 10 families the two made a submission to the East Prussian authorities asking leave to move back to Prussia, in which they paint in dark colours that very evil time of November 1806, as follows:
 
@@ -1437,12 +1383,10 @@ The petition of the Ludwigslust petitioners unfortunately found no hearing with 
 <span class="lit-note" id="n-en-17">17</span> Pokrandt, A., Dt. Rückwanderung aus Mittelpolen nach 1815 (German return migration from central Poland after 1815), DMP., year 1936, no. 3/4, p. 126
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">p. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">p. 39</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Nach erfolgter Absage blieb den vielgeprüften Kolonisten wohl nichts anderes übrig, als zu dem "unerwünschten Wanderstab" zu greifen, wie dies tatsächlich unter Anführung des evangelischen Gouverneurs der Stadt Kalisch im Frühjahr 1815 41 Familien aus der Umgegend der Stadt Konin vor ihnen getan haben, die nach Bessarabien ausgewandert sind und auf Steppenboden das Dorf Alt-Arzis haben entstehen lassen.<sup class="lit-fn"><a href="#n-de-18">18</a></sup> Nähere Umstände der Abwanderung dieser zweiten Gruppe sind uns leider nicht bekannt. Dass an der 1816 in Bessarabien entstandenen Kolonie Paris sich ebenfalls deutsche Bruchbauern aus der Umgegend von Konin beteiligt haben, ist recht wahrscheinlich, darauf deuten die Familiennamen hin.<sup class="lit-fn"><a href="#n-de-19">19</a></sup>
@@ -1477,12 +1421,10 @@ Around 1830 the Kowalewken Holländerei near Konin vanishes, two decades later t
 <span class="lit-note" id="n-en-20">20</span> Pokrandt 1936, p. 127
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-40">p. 40</a></h2>
+<section class="lit-passage" id="p-40" data-page="40">
+<div class="pg" id="p40"><a href="#p40">p. 40</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die Volkszählung 1921 stellt nur 208 Deutsche fest, was 6 Prozent ergibt. In dieser Gemeinde verlor das Dorf Piersk sämtliche deutsche Insassen, desgleichen in der Nachbargemeinde das Dorf Górka und Grabczyna. Recht bedeutend ist auch die Zahl der Restdörfer, die das Wolhynische Auswanderungsfieber als Ursache haben. Die meisten der Bruchdörfer in den Paproter, Politzer und Leśniker Inseln mussten eine starke Entvölkerung über sich ergehen lassen, von deren Folgen sie sich kaum jemals werden erholen können. In den meisten Fällen mögen hier die alljährlich wiederkehrenden Überflutungen einen entscheidenden Einfluss auf den Entschluss des Auswanderns gehabt haben. Wandert man des Sommers durch die schönen Warthedörfer und betrachtet Land und Leute, so findet man keinerlei auffällige Zeichen der Not in den einzelnen Ortschaften. Auch ist die Bodenbeschaffenheit keineswegs gering. Die meisten Bruchwirtschaften ziehen gerade von ihren Wiesen ganz ansehnliche Verdienste. Eine Ausnahme hierin bildet die Leśniker Sprachinsel, die recht sandigen, wenig ertragreichen Boden besitzt, was sich besonders auf die Siedlungen in Uferrandlage bezieht. Dass die Böden hier als siedlungsfeindlich zu bezeichnen wären, geht auch aus folgendem Umstand hervor. Im Norden der Leśniker Sprachinsel zieht sich in gleichlaufender Uferrandlage fast 10 km lang ein breiter Streifen Kiefernwald hin, der auf unfruchtbarem Gutsboden, den unter Kultur zu nehmen jedenfalls nicht lohnte, aufgeforstet wurde. Umfangreiche Kiefernwälder finden wir gleichfalls im Westen der Leśniker Sprachinsel, wo sie wiederum durch sandigen Boden bedingt sind. Die ausgelaugten alluvialen Böden um Leśnik und Koło mögen mit die Schuld an dem Wolhynischen Reisefieber tragen. Betrachten wir vom stammlichen Standpunkt die Wolhynische Auswanderung, so fällt uns die große Beteiligung des pommerschen Stammes auf. Denn gerade die stark mit Pommern durchsetzten oder restlos von ihnen bewohnten Dörfer gaben die meisten Überwanderer ab, was, wie bereits gesagt, wiederum im engen Zusammenhang mit der dürftigen Beschaffenheit der Böden steht. In der Paproter Sprachinsel hinterließ das Russlandfieber folgende Restdörfer: Borowo, Kędziorki, Lichnow, Ranna, Zabłocie, Drensen Holl., Alt- und Neu Paprot Holl., Konstantynów, Budki, Młynek. In der Politzer Sprachinsel gingen aus den Dörfern Politz, Groß Lengden, Maidan Holl., Praxedow, Kwiatkow, Sarbice die Bauern nach Wolhynien. Südlich von Uniejow zogen viele aus den Ortsaften Czyste, Zagaj, Stawki, Alt-Dombrowa, Leśnik in die Wolhynischen Wälder. Erfreulicherweise wirkte sich hier die Abwanderung in den meisten Siedlungen nicht dorfzerstörend aus. Der Landbesitz ging zumeist in deutsche Hände über. Der sandige Boden lockte auch den polnischen Landmann nicht zum Ankauf im deutschen Dorf. Leider beginnt in einzelnen Restdörfern südlich von Koło eine Entdeutschungsgefahr heraufzuziehen, die traurige Folgen nach sich ziehen kann. Die Gründe dieser völkischen Gefährdung sehen wir im Nichtvorhandensein von deutschen Schulen und im Ausfall des deutschen Religionsunterrichts. Auch trägt die Abgeschlossenheit dieser Dörfer von anderen deutschen Siedlungen mit die Schuld. In den rein märkischen Dörfern haben sich nur
@@ -1493,12 +1435,10 @@ Die Volkszählung 1921 stellt nur 208 Deutsche fest, was 6 Prozent ergibt. In di
 The census of 1921 records only 208 Germans, which gives 6 per cent. In this commune the village of Piersk lost all its German inhabitants, and in the neighbouring commune likewise the villages of Górka and Grabczyna. Quite considerable too is the number of remaining villages (Restdörfer) that owe their state to the fever of emigration to Volhynia. Most of the marsh villages in the Paprot, Politz and Leśnik islands had to undergo a heavy depopulation, from whose effects they will hardly ever be able to recover. In most cases the floods returning every year may have had a deciding influence here on the resolve to emigrate. If one walks through the fine Warthe villages in summer and looks at the land and the people, one finds no striking signs of want in the single places. Nor is the quality of the soil by any means poor. Most marsh farms draw quite considerable earnings from their meadows in particular. The exception is the Leśnik language island, which has very sandy soil of little yield, especially in the settlements on the edge of the banks. That the soils here could be called hostile to settlement also appears from the following. In the north of the Leśnik language island a broad strip of pine forest runs for almost 10 km parallel to the edge of the banks, planted on infertile estate land that it certainly did not pay to take under cultivation. Extensive pine forests are likewise found in the west of the Leśnik language island, where again they are owed to sandy soil. The leached alluvial soils around Leśnik and Koło may share the blame for the Volhynian travel fever. If we look at the emigration to Volhynia from the point of view of stock, the great share of the Pomeranian stock strikes us. For it was just the villages strongly mixed with Pomeranians, or wholly inhabited by them, that gave up most emigrants, which, as already said, again stands in close connection with the poor quality of the soils. In the Paprot language island the Russia fever left the following remaining villages: Borowo, Kędziorki, Lichnow, Ranna, Zabłocie, Drensen Holl., Alt- and Neu Paprot Holl., Konstantynów, Budki, Młynek. In the Politz language island farmers from the villages of Politz, Groß Lengden, Maidan Holl., Praxedow, Kwiatkow and Sarbice went to Volhynia. South of Uniejow many moved from the places [Ortsaften] of Czyste, Zagaj, Stawki, Alt-Dombrowa and Leśnik into the Volhynian forests. Happily the emigration here did not destroy the village in most settlements. The land mostly passed into German hands. The sandy soil did not tempt the Polish countryman either to buy in the German village. Unfortunately in some remaining villages south of Koło a danger of de-Germanisation (Entdeutschung) is beginning to loom, which may have sad consequences. We see the grounds of this national danger in the absence of German schools and in the want of German religious instruction. The isolation of these villages from other German settlements is also partly to blame. In the purely Märker villages only
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">p. 41</a></h2>
+<section class="lit-passage" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">p. 41</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Vereinzelte an dem Wolhynischen Landsuchen beteiligt. Die guten Böden bei grasreichen Wiesen machten die Ferne wenig verlockend.
@@ -1525,12 +1465,10 @@ Only a vanishingly small number took part in the emigration to Canada. At presen
 For completeness, the *Mennonite* settlers of the Warthe marshes should also be remembered. By oral tradition, Mennonite marsh farmers still sat in the village of Adelhof around 1890, called "Ortsleute" by the Evangelical Germans.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">p. 42</a></h2>
+<section class="lit-passage" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">p. 42</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Durch die Einführung der Militärdienstpflicht fühlten sie sich beeinträchtigt und wanderten sämtlich nach Nordamerika aus. Eine Taufbuchnotiz der evangelischen Gemeinde zu Władysławow vom Jahre 1821 besagt, dass im Bruchdorf Daniszew drei mennonitische Kinder der Familie Goerz von 15, 9 und 6 Jahren lutherisch getauft wurden. Pate stand der Ortslehrer Wegner. Die älteste Tochter wurde auch gleichzeitig eingesegnet.
@@ -1595,12 +1533,10 @@ A telling light on the changes that took place in the single holdings within one
 | 20 | Gottlieb Radeke | 200 |  | 40 | Johann Stridinger | 100 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">p. 43</a></h2>
+<section class="lit-passage" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">p. 43</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Jahr 1928*
@@ -1671,12 +1607,10 @@ Aus dem letzten Besitzerverzeichnis ist zu ersehen, dass im Dorfe eine gewisse Z
 From the last list of owners it can be seen that a certain splitting of the single farms has taken place in the village. On the whole, however, the economic conditions are to be called healthy. A certain prosperity can even be found in this village. Single large farmers may put their wealth at at least 50,000 zł, a Morgen of land at 500 zł being reckoned not too high, since Schwenz has good grain soil. Dr. Reiser has shown these healthy peasant conditions vividly, by marking on a map of landholding the size of each single farmstead with coloured circles to scale. Schwenz looks well
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">p. 44</a></h2>
+<section class="lit-passage" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">p. 44</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 aus<sup class="lit-fn"><a href="#n-de-21">21</a></sup>. Es sei darauf hingewiesen, dass der Dorfgrundbesitz durch Einkauf in die benachbarten polnischen Dörfer einen gewissen Zuwachs erfahren hat.
@@ -1695,15 +1629,13 @@ If over 110 years the size of the holdings underwent no great swings, the same c
 <span class="lit-note" id="n-en-21">21</span> Reiser, D., Dt. Bauernsiedlung im Kalischer Land (German peasant settlement in the Kalisz country), Petermanns Geographische Mitteilungen, year 1938, no. 3.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-45">p. 45</a></h2>
+<section class="lit-passage" id="p-45" data-page="45">
+<div class="pg" id="p45"><a href="#p45">p. 45</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### VI. Statistik der deutschen Dörfer im Warthebruch
+### VI. Statistik der deutschen Dörfer im Warthebruch
 
 | Nr. | Politische Gemeinde | Deutsche Dörfer mit Einwohnerzahl |  |  |  | Restdorf oder Einsiedlung | Zahl der Dörfer | Einwohner |
 |---|---|---|---|---|---|---|---|---|
@@ -1734,7 +1666,7 @@ If over 110 years the size of the holdings underwent no great swings, the same c
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### VI. Statistics of the German Villages in the Warthe Marshes
+### VI. Statistics of the German Villages in the Warthe Marshes
 
 | No. | Commune (politische Gemeinde) | German villages by number of inhabitants |  |  |  | Remaining village or single settlement | Number of villages | Inhabitants |
 |---|---|---|---|---|---|---|---|---|
@@ -1763,12 +1695,10 @@ If over 110 years the size of the holdings underwent no great swings, the same c
 |  |  |  |  |  |  |  | 38 | 2013 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-46">p. 46</a></h2>
+<section class="lit-passage" id="p-46" data-page="46">
+<div class="pg" id="p46"><a href="#p46">p. 46</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 *Kreis Koło*
@@ -1841,12 +1771,10 @@ If over 110 years the size of the holdings underwent no great swings, the same c
 |  |  |  |  |  | Kędziorki |  |  |  |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-47">p. 47</a></h2>
+<section class="lit-passage" id="p-47" data-page="47">
+<div class="pg" id="p47"><a href="#p47">p. 47</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 |  |  |  |  |  | Lichnowo |  |  |  |
@@ -1919,12 +1847,10 @@ If over 110 years the size of the holdings underwent no great swings, the same c
 |  |  | 5 | 22 | 29 | 42 | 36 | 135 | 8459 |
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-48">p. 48</a></h2>
+<section class="lit-passage" id="p-48" data-page="48">
+<div class="pg" id="p48"><a href="#p48">p. 48</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 Die statistischen Angaben über die deutschen Bewohner des Warthebruchs sind den amtlichen Veröffentlichungen des polnischen Amtes für Statistik für das Zählungsjahr 1921 entnommen<sup class="lit-fn"><a href="#n-de-22">22</a></sup>. Bedauerlicherweise wurden über die polnische Volkszählung von 1931 bisher keinerlei Bekanntmachungen, die sich auf die Zählungsergebnisse der Einzeldörfer oder -gemeinden beziehen möchten, gemacht. Nach privaten Erhebungen ist die deutsche Bewohnerzahl keinerlei starken Schwankungen in den letzten anderthalb Jahrzehnten ausgesetzt worden. In manchen deutschen politischen Gemeinden ist im Gegenteil ein erfreulicher Bevölkerungszuwachs zu verzeichnen, so dass wir nicht fehl zu gehen glauben, wenn wir den deutschen Bevölkerungsanteil des mittelpolnischen Warthebruchs mit rund 10 000 Seelen annehmen.
@@ -1943,36 +1869,32 @@ In the figures of 1921 we have everywhere set Evangelical equal to German. We kn
 <span class="lit-note" id="n-en-22">22</span> Skorowidz miejscowości Rzeczypospolitej Polskiej (Gazetteer of the places of the Polish Republic), vol. II, Łódź voivodeship, Warsaw 1925.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-49">p. 49</a></h2>
+<section class="lit-passage" id="p-49" data-page="49">
+<div class="pg" id="p49"><a href="#p49">p. 49</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
-#### VII. Anhang
+### VII. Anhang
 
-##### Gründungsurkunde des Dorfes Leśnik an der Warthe
+#### Gründungsurkunde des Dorfes Leśnik an der Warthe
 
 > *Actum Kreis Justitz-Commision zu Lask den 22-ten July 1796. Vor benannter Kreis Justitz Commission erschienen 1. der Constantin von Milewski eigentümlicher Guts-Besitzer des im Lutomierschen Kreise belegenen Guts Borszewice welcher Judicio von Person wohlbekannt als Erbzinsgeber einerseits, 2. die zu Borschewice sich aufhaltenden und aus dem Netz Distrikt hergekommenen Collonisten 1. Johann Gottfreid Peglow, 2. Caspar Hoffmann, 3. Johann George Fosberg, 4. David Dohm, 5. Gottfried Kant, 6. Friedrich Dickow vor sich und ihre abwesende Mit-Annehmer, 7. Christian Chayn, 8. Gottlieb Hayn, 9. Martin Buffal, 10. Andreas Thomek in deren letzten Nahmen sie mit dem ersten Contrahenten mit contrahiert, und item deren Genehmigung sie dahero auch de Rato et grato casirten, als Erbzinsnehmer andrerseits, welche Judicio von Person zwar nährbekannt, deren Identität aber durch den hiesigen Gefangenwärter Zingel welcher Sie bei seinen Kreis Bereisungen kennen gelernt, bekundet wurde. Vorgängig zeigte Contrahent v. Milewski an, dass er wirklicher Eigentümer des Gutes Borszewice wäre, solches bereits bei der Hypotheken Commission zu Peterkau angegeben und in dieser Qualität bekannt geworden. Hiernächst dass er von seinem Guth Borszewice ein Stück Wald Land von 10. Huben an vorgedachte Collonisten zur Ausrodung und zur Abbauung aus zu thun gesonen, dass sie hierüber bereits einen pollnischen Contract angefertigt und mithin nur noch zur Vollständigkeit der Sache die gerichtliche Anfertigung des Contracts notwendig den sie zu vollziehen bathen. Die vorgedachten Collonisten waren der deutschen Sprache völlig kundig. Der Contrahent v. Milewski war zwar der deutschen Sprache unkundig jedoch hatte derselbe bei sich seinen Pächter Joseph Brzechwa welcher der deutschen Sprache gleichfalls gewachsen. Sie declarirten dahero, dass es der Aufnahme eines pollnischen Verlautbarungs-Protocolls nicht notwendig, vielmehr damit zufrieden sein wollen, wenn solches nur mit der pollnischen Uebersezzung extradirt werde. Der übergebene pollnische Contract wurde ad acta genommen und auf den Grund desselben wurde folgender Contract ad Protocollum verlautbaret.*
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-#### VII. Appendix
+### VII. Appendix
 
-##### Founding Charter of the Village of Leśnik on the Warthe
+#### Founding Charter of the Village of Leśnik on the Warthe
 
 > *Done at the District Justice Commission at Lask, the 22nd of July 1796. Before the said District Justice Commission appeared 1. Constantin von Milewski, owner in his own right of the estate of Borszewice lying in the Lutomiersk district, who is well known in person to the court, as grantor of the hereditary lease (Erbzinsgeber) on the one part; 2. the colonists staying at Borschewice and come here from the Netze District, 1. Johann Gottfreid Peglow, 2. Caspar Hoffmann, 3. Johann George Fosberg, 4. David Dohm, 5. Gottfried Kant, 6. Friedrich Dickow, for themselves and their absent fellow takers, 7. Christian Chayn, 8. Gottlieb Hayn, 9. Martin Buffal, 10. Andreas Thomek, in whose names they also contracted with the first contracting party, and for whose approval they therefore also gave surety de rato et grato [casirten], as takers of the hereditary lease (Erbzinsnehmer) on the other part, who were known to the court in person only slightly [nährbekannt], but whose identity was attested by the gaoler here, Zingel, who had come to know them on his journeys through the district. First the contracting party v. Milewski stated that he was the true owner of the estate of Borszewice, had already declared it to the Mortgage Commission at Peterkau and become known in that quality. Next, that he was minded [gesonen] to let out from his estate of Borszewice a piece of forest land of 10 Hufen to the aforesaid colonists for clearing and building; that they had already drawn up a Polish contract about it, and so for the completeness of the matter only the drawing up of the contract before the court was needed, which they asked to have executed. The aforesaid colonists were wholly versed in the German language. The contracting party v. Milewski was indeed not versed in the German language, but had with him his leaseholder Joseph Brzechwa, who was likewise equal to the German language. They therefore declared that the taking of a Polish protocol of declaration was not needed; rather they would be content if it were issued only with the Polish translation. The Polish contract handed in was put to the file, and on its ground the following contract was declared to the protocol.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-50">p. 50</a></h2>
+<section class="lit-passage" id="p-50" data-page="50">
+<div class="pg" id="p50"><a href="#p50">p. 50</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > *§ 1*
@@ -1995,12 +1917,10 @@ In the figures of 1921 we have everywhere set Evangelical equal to German. We kn
 > *Of these ten agreed Hufen of hereditary lease, by agreement of both contracting parties, a quarter Hufe is reckoned for the headman (Schulz), a quarter Hufe allotted to the schoolmaster, a quarter Hufe must be deeded to the colonists' inn (Krug) to be built, a half Hufe assigned to the first chief taker Gottfried Kanka, his heirs and successors, a half Hufe handed over to the other chief taker, Friedrich Dickow; which together make seven quarter Hufen, and which remain now and for ever not only free of the present purchase money, but also now and in future free of all the lord's rents and dues; as for the dues belonging to the community, however, their holders are bound to bear them like the others. The other eight and a quarter Hufen are divided so that of them Gottfried Peglow receives three Hufen, Caspar Hoffmann one Hufe, George Fasberg one Hufe, Christian Hayn a quarter Hufe, Gottfried Hayn a quarter Hufe, Martin Bufall a half Hufe, David Dohm two Hufen, Andreas Thomek one quarter, as their property and for their building and setting up.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-51">p. 51</a></h2>
+<section class="lit-passage" id="p-51" data-page="51">
+<div class="pg" id="p51"><a href="#p51">p. 51</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > *§3*
@@ -2039,12 +1959,10 @@ In the figures of 1921 we have everywhere set Evangelical equal to German. We kn
 > *Of this number of Hufen taken over, as already laid down, seven quarter Hufen remain free of all purchase money; for the other eight Hufen the takers of the hereditary lease pay to the hereditary lord Constantin von Milewski for each Hufe a purchase money of 1150 fl., say one thousand one hundred and fifty Polish Gulden, and also a glove money (Handschuh Geld) of three Polish Gulden on every hundred Gulden; both purchase and glove money are settled and paid at once on the signing of the contract.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-52">p. 52</a></h2>
+<section class="lit-passage" id="p-52" data-page="52">
+<div class="pg" id="p52"><a href="#p52">p. 52</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > *§ 7*
@@ -2091,12 +2009,10 @@ In the figures of 1921 we have everywhere set Evangelical equal to German. We kn
 > *Besides these days of labour service the takers of the hereditary lease are also bound to give the lord help at harvest, which is set so that each holder of a quarter Hufe gives one day, of a half Hufe two days and of a whole Hufe three days with the sickle.*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-53">p. 53</a></h2>
+<section class="lit-passage" id="p-53" data-page="53">
+<div class="pg" id="p53"><a href="#p53">p. 53</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > *§ 12*
@@ -2135,12 +2051,10 @@ In the figures of 1921 we have everywhere set Evangelical equal to German. We kn
 > *Free pasture is allowed to the hereditary takers and the holders for the time being, both for their cattle and for sheep, in the lord's forest on the church boundary as far as the road from Borzewice to Niemysłów, in length and breadth as the Hufen run; but the hereditary takers are not to presume*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">p. 54</a></h2>
+<section class="lit-passage" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">p. 54</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > *irgend einig Holz aus diesem oder aus irgend einem anderen Grundherrschaftlichen Waldstück zu verkaufen, bei Strafe von Fünf Thalern auf ieder Contraventions Fall. Was iedoch das auf ihrem zugeteilten Huben vorhandene Holz anbelangt, so bleibt ihnen solches als ihr Eigenthum zum freien Verkauf erlaubet.*
@@ -2183,12 +2097,10 @@ In the figures of 1921 we have everywhere set Evangelical equal to German. We kn
 > *As the ten Hufen assigned to the hereditary takers are deeded to them as true property, so they are also entitled to sell them and to dispose of them in any other lawful way. In case of a sale they are bound to notify the lordship of it and to obtain the due*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">p. 55</a></h2>
+<section class="lit-passage" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">p. 55</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > *Consens und Aprobation des Contracts einzuholen und nach erhaltenen Consens den Zehnten Groschen des Verkaufs Geldes an die Grundherrschaft zu bezahlen.*
@@ -2239,12 +2151,10 @@ In the figures of 1921 we have everywhere set Evangelical equal to German. We kn
 > *The Hufen deeded are handed over to the hereditary takers for use at once, and in respect of them the hereditary lord undertakes the warranty (eviction) against all claims and demands of anyone. Herewith*
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-56">p. 56</a></h2>
+<section class="lit-passage" id="p-56" data-page="56">
+<div class="pg" id="p56"><a href="#p56">p. 56</a></div>
 <div class="lit-orig" lang="de" markdown="1">
 
 > *§ 25*
@@ -2285,6 +2195,7 @@ In the figures of 1921 we have everywhere set Evangelical equal to German. We kn
 > *Government Archivist (Regierungs Archivrat).*
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}

@@ -7,13 +7,26 @@ alt_url: "/literature/lukasiewicz1997/"
 excerpt_separator: ""
 ---
 {% raw %}
-<nav class="lit-jump" aria-label="Seiten">
-<a href="#p-31">31</a> <a href="#p-32">32</a> <a href="#p-33">33</a> <a href="#p-34">34</a> <a href="#p-35">35</a> <a href="#p-36">36</a> <a href="#p-37">37</a> <a href="#p-38">38</a> <a href="#p-39">39</a> <a href="#p-40">40</a> <a href="#p-41">41</a> <a href="#p-42">42</a> <a href="#p-43">43</a> <a href="#p-44">44</a> <a href="#p-45">45</a> <a href="#p-46">46</a> <a href="#p-47">47</a> <a href="#p-48">48</a> <a href="#p-49">49</a> <a href="#p-50">50</a> <a href="#p-51">51</a> <a href="#p-52">52</a> <a href="#p-53">53</a> <a href="#p-54">54</a> <a href="#p-55">55</a> <a href="#p-56">56</a> <a href="#p-57">57</a> <a href="#p-58">58</a> <a href="#p-59">59</a> <a href="#p-60">60</a> <a href="#p-61">61</a> <a href="#p-62">62</a>
-</nav>
+<div class="lit-reader">
+<details class="lit-toc" open>
+<summary>Inhalt</summary>
+<div class="lit-toc-body">
+<form class="lit-goto" action="#" data-none="Keine solche Seite"><label for="lit-goto-in">Gehe zu Seite</label><input id="lit-goto-in" type="text" inputmode="text" autocomplete="off" spellcheck="false" size="6"><button type="submit">Los</button><span class="lit-goto-msg" role="status"></span></form>
+<ol>
+<li class="l1"><a href="#p-31">S. 31–35</a></li>
+<li class="l1"><a href="#p-36">S. 36–40</a></li>
+<li class="l1"><a href="#p-41">S. 41–45</a></li>
+<li class="l1"><a href="#p-46">S. 46–50</a></li>
+<li class="l1"><a href="#p-51">S. 51–55</a></li>
+<li class="l1"><a href="#p-56">S. 56–60</a></li>
+<li class="l1"><a href="#p-61">S. 61–62</a></li>
+</ol>
+</div>
+</details>
+<div class="lit-text">
 
-<section class="lit-passage" id="p-31">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-31">S. 31</a></h2>
+<section class="lit-passage" id="p-31" data-page="31">
+<div class="pg" id="p31"><a href="#p31">S. 31</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Kwartalnik Historyczny  
@@ -62,12 +75,10 @@ On the German side several works appeared on the giveaway of domainal estates in
 <span class="lit-note" id="n-en-2">2</span> Dzieje Wielkopolski, ed. J. Topolski, vol. 2, Poznań 1973, s. 25-26; Dzieje Polski, ed. J. Topolski, Poznań 1981, s. 421. Earlier, on the margin of other questions, the giveaway was touched on by: F. hr. Skarbek, Dzieje Księstwa Warszawskiego, vol. 1, Poznań 1860, s. 49-60; K. Jarochowski, Opowiadania historyczne, Poznań 1860, s. 329-332; W. Smoleński, Rządy pruskie na ziemiach polskich (1793-1807), in Pisma Historyczne, Kraków 1901, vol. 3, s. 169-223, on the "Black Register" s. 213-214, 216; A. Kraushar, Towarzystwo Warszawskie Przyjaciół Nauk, 1800-1832, Kraków 1900, Book 1: Czasy pruskie 1800-1807; K. Krotoski, Dzieje miasta Krotoszyna, part 1, Krotoszyn 1930, s. 324-333; idem, Pruski Kulturträger z końca XVIII wieku, Poznań 1907; K. Jeżowa, Die Bevölkerungs- und Wirtschaftsverhältnisse im westlichen Polen, Gdańsk 1936; J. Willaume, Polsko-pruskie stosunki finansowo-gospodarcze (1807-1813), "Roczniki Historyczne" R. 19, 1952, s. 114-115; idem, Stosunki sąsiedzkie Księstwa Warszawskiego z Prusami, "Przegląd Zachodni" 11/12, 1951, s. 409; idem, Fryderyk August jako książę Warszawski (1807-1815), Poznań 1939.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-32">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-32">S. 32</a></h2>
+<section class="lit-passage" id="p-32" data-page="32">
+<div class="pg" id="p32"><a href="#p32">S. 32</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 jeszcze z 1895 r. artykuł śląskiego historyka Colmara Grünhagena<sup class="lit-fn"><a href="#n-pl-3">3</a></sup>, który poświęcił temu problemowi również wiele miejsca na marginesie pracy o Josephie Zerbonim i Hansie von Held. Od początku XX stulecia na interesujący nas temat żadna nowa praca nie powstała<sup class="lit-fn"><a href="#n-pl-4">4</a></sup>. „Czarny Rejestr” znajdował sobie wszakże często z godnym odnotowania skutkiem miejsce w niemieckich monografiach o szerszej tematyce<sup class="lit-fn"><a href="#n-pl-5">5</a></sup>.
@@ -110,12 +121,10 @@ C. Grünhagen, on the other hand, not only came out in defence of the giveaway �
 <span class="lit-note" id="n-en-8">8</span> C. Grünhagen, Die südpreußische Güterverleihungen, s. 254-255.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-33">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-33">S. 33</a></h2>
+<section class="lit-passage" id="p-33" data-page="33">
+<div class="pg" id="p33"><a href="#p33">S. 33</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 kowe były zaniżone, czy też o to, że majątki były straszliwie zrujnowane, a obydwie te tezy są ze sobą sprzeczne. Następnie, z tych wątpliwych prezentów — jak chce Grünhagen — nieszczęśni generałowie pruscy mieli płacić 74 albo 100% podatku, a potem jeszcze w opłaconych takim haraczem majątkach inwestować, wydając pieniądze na polskich chłopów niezdatnych przecież — zdaniem autora — do porządnego gospodarowania. Tymczasem, jakby na przekór tym okolicznościom, donatariusze pruscy nie tylko nie przyjmowali tych majątków z odrazą, ale sprzedawali je następnie z wielkim zyskiem. Ten aspekt niefortunnego finału akcji rozdawnictwa autor całkowicie pominął. Błąd Grünhagena polegał też na przyjęciu powierzchownej oceny, że właściciele byłych starostw płacili 24% kontrybucji oraz 50% kompetencji<sup class="lit-fn"><a href="#n-pl-9">9</a></sup>, a więc 74% podatku z czystego dochodu; a właściciele dóbr poduchownych 50% kontrybucji i 50% kompetencji, a więc 100% czystego dochodu. Miało to być możliwe dzięki temu, że i tak wszyscy wiedzieli o zaniżeniu deklaracji podatkowych. Tymczasem w istocie donatariusze w departamencie poznańskim płacili w każdym wypadku jedynie 24% kontrybucji oraz 50% kompetencji. Nie oznacza to jednak bynajmniej 74% dochodu. Kontrybucja obliczana była wg dochodu czystego (reine Ertrag), współcześnie w Polsce — intraty, a więc dochodu netto, po odciągnięciu kosztów gospodarczych (wysiew). Następnie 50% kompetencji podobnie nie było liczone od dochodu, lecz od dochodu czystego, po odjęciu 5% na koszty administracyjne i 10% na utrzymanie budynków i sprzętu gospodarczego<sup class="lit-fn"><a href="#n-pl-10">10</a></sup>. Teraz dopiero można powiedzieć, że jak na współczesne stosunki pruskie było to opodatkowanie niezmiernie uciążliwe i należy się zastanowić, dlaczego mimo to donatariusze na owym przedsięwzięciu zyskali ogromne sumy.
@@ -134,12 +143,10 @@ were deflated, or rather that the estates had been terribly ruined — and the t
 <span class="lit-note" id="n-en-10">10</span> Immediat-Bericht des Etats-Minister Hoym, 15 XII 1796; M. Lehmann, op. cit., s. 507; Tableau-, the earlier settlements in Protokoll der Königsberger Konferenz..., in Urkunden, s. 178-179, 227; I. Bussenius gave the settlements that were soon changed, eadem, op. cit., s. 181. H. von Held pointed to the characteristic covering of the donataries by the more favourable tax rate of 24%, J. Löwenberg, Das Enthüllte Posen, Berlin 1849, H. III, s. 23.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-34">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-34">S. 34</a></h2>
+<section class="lit-passage" id="p-34" data-page="34">
+<div class="pg" id="p34"><a href="#p34">S. 34</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 „Czarny Rejestr” i nowe uzupełnienia
@@ -190,12 +197,10 @@ The register was first published by Joseph Zerboni di Sposetti in the periodical
 <span class="lit-note" id="n-en-18">18</span> K. Jeżowa, op. cit., s. 37-41.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-35">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-35">S. 35</a></h2>
+<section class="lit-passage" id="p-35" data-page="35">
+<div class="pg" id="p35"><a href="#p35">S. 35</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Podstawowy problem wynikał dotychczas z rozbieżności między informacją deklarowaną na pierwszej stronie, zarówno rękopisu i edycji drukowanych źródła, że wartość realna 241<sup class="lit-fn"><a href="#n-pl-19">19</a></sup> majątków sprzedanych 52 donatariuszom wynosiła 20 mln talarów, nominalna natomiast 3,5 mln talarów<sup class="lit-fn"><a href="#n-pl-20">20</a></sup>, a zawartością samego rejestru, gdzie figurowały liczby znacznie niższe. Pojawiała się więc wątpliwość, czy von Held nie dał jeszcze innych wskazówek na temat pozostałych, nie wymienionych w rejestrze majątków. Tymczasem jak się okazuje, materiał drukowany przez Zerboniego-Helda, potem przez Friedricha von Cölln<sup class="lit-fn"><a href="#n-pl-21">21</a></sup> w 1807 r. i dalej w latach 1849, 1861 i 1878 nie różni się od rękopisu z archiwum berlińskiego. Ponadto udało się nam odnaleźć trzy inne wykazy majątków, nie związane z rejestrem Helda<sup class="lit-fn"><a href="#n-pl-22">22</a></sup>. Dwa pierwsze są urzędowymi wykazami kontrybucji donacji dla departamentu poznańskiego, trzeci to wykaz polski z okresu Księstwa Warszawskiego dla całych Prus Południowych, nieznacznie różniący się od wykazu Helda. Zestawienia te cechują niewielkie acz interesujące różnice w stosunku do „Czarnego Rejestru” — figuruje więc tam Massów (prawdopodobnie nie Julius Anton minister, zwolennik Karla Augusta Struensee, a marszałek nadworny, który miał w 1796 r. otrzymać Kopanicę<sup class="lit-fn"><a href="#n-pl-23">23</a></sup> i odsprzedać ją braciom Bloch). Podobnie nie występują w „Czarnym Rejestrze” pułkownik Massenbach<sup class="lit-fn"><a href="#n-pl-24">24</a></sup> i Tschammer, co świadczy z jednej strony o niekompletności wykazu Helda, z drugiej natomiast, co ważniejsze, o tym, że luki te nie są znaczne. Martin Philippson jeszcze w 1882 r. wspominał o innym wykazie, pochodzącym od Bucholtza-Alvenslebena, który miał być dla Prus znacznie bardziej kompromitujący od „Czarnego Rejestru”. To samo zestawienie uznał następnie Grünhagen za podstawę dla Zerboniego i Helda. Z zestawień Grünhagena i Philippsona korzystaliśmy uzupełniająco, w celu weryfikacji danych<sup class="lit-fn"><a href="#n-pl-25">25</a></sup>.
@@ -238,12 +243,10 @@ The archival tax returns that we confronted with the "Black Register" come from 
 <span class="lit-note" id="n-en-25">25</span> M. Philippson, op. cit., s. 289; C. Grünhagen, Die südpreußische Güterverleihungen, s. 257, 269.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-36">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-36">S. 36</a></h2>
+<section class="lit-passage" id="p-36" data-page="36">
+<div class="pg" id="p36"><a href="#p36">S. 36</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Hansa von Helda w samym „Czarnym Rejestrze”. Przyjmowano bowiem, że majątek ziemski przynosi zwykle 5% czystego dochodu (reine Ertrag). Oznacza to, że dochód czysty majątku po odjęciu kosztów gospodarczych stanowi 5% wartości tegoż majątku. Tak więc Held oceniał wartość majątku radcy Beyera na 160 000 talarów, na podstawie dochodu 8 000 talarów, majątki generała Blüchera dawały rocznie 6 000 talarów i stąd warte być miały 120 000 talarów. W podobny sposób ocenione zostały donacje majora Hünerbein, księcia Hohenlohe-Ingelfingen, marszałka Keyserlingka i koniuszego Krackwitza<sup class="lit-fn"><a href="#n-pl-26">26</a></sup>. To założenie przyjmowane było zarówno w Rzeczypospolitej, jak w Prusach, a także następnie w Księstwie Warszawskim i jeszcze Królestwie Kongresowym. Stanowiło istotną przesłankę dla ustaleń podatkowych, a następnie dla ocen hipotecznej wartości majątków<sup class="lit-fn"><a href="#n-pl-27">27</a></sup>. Źródła podatkowe mają natomiast tę niewątpliwą zaletę, że są rezultatem fiskalnych starań państwa, więc nie może tu być mowy o celowym (ze strony samego państwa) zaniżeniu wartości majątku, jak rzecz się miała z ceną nominalną donacji. Najbardziej zróżnicowany materiał posiadamy dla departamentu poznańskiego, gdzie nominalna wartość majątków wynosiła 1 025 250 talarów, gdy z wykazów podatkowych wynika wartość 1 638 000 talarów, a więc suma nieomal dwukrotnie wyższa. Niemniej jest to wielkość zarazem dwukrotnie niższa od podanej przez Helda na stronie tytułowej „Czarnego Rejestru” — „prawdziwej” wartości tych majątków, tj. 3 mln talarów<sup class="lit-fn"><a href="#n-pl-28">28</a></sup>. Owa prawdziwa wartość majątków była albo ceną ich sprzedaży, sumą dzierżawy albo dochodu, z którego Held w podany przez nas sposób obliczył wartość majątku. W ten sposób, po zliczeniu majątków ze wszystkich departamentów, otrzymujemy sumę 7 036 160 talarów. Jest to wielkość przybliżona, ponieważ w wypadku niektórych majątków autor wykazu wpisał określenie „nieznaczne” czy „wartość nieznana”. Takie pozycje są jednak zaledwie cztery i nie mogą one mieć znaczącego wpływu narząd wielkości sumy wartości majątków rozdarowanych. Nieco większa jest suma wartości majątków wynikająca z wykazu polskiego, bo wynosi 7 243 675 talarów. Dodać jeszcze należy, że w „Czarnym Rejestrze” nie ma 52 donatariuszy, jak głosi jego strona tytułowa i jak się zwykle podaje, a tylko 48, są natomiast 52 donacje, ponieważ Treskow, Hohenlohe, Lüttichau i Wendessen występują dwukrotnie — w różnych departamentach. Liczba majątków rozdarowanych wynosi natomiast, jeżeli liczyć każdą odrębną pozycję, 245, a nie 241.
@@ -266,12 +269,10 @@ of Hans von Held in the "Black Register" itself. For it was assumed that a lande
 <span class="lit-note" id="n-en-28">28</span> Because of the summary setting together of the estates of Treskow, Hohenlohe and Lüttichau, it was necessary to complete these values from the tax registers and by estimation. These are however insignificant completions.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-37">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-37">S. 37</a></h2>
+<section class="lit-passage" id="p-37" data-page="37">
+<div class="pg" id="p37"><a href="#p37">S. 37</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Słabe punkty „Czarnego Rejestru”
@@ -318,12 +319,10 @@ Our doubts however took their beginning from the setting together by Adelheid Si
 <span class="lit-note" id="n-en-35">35</span> Immediat-Bericht des Staats-Ministers von Voß, 31 VIII 1805, P. Granier, op. cit., s. 440-442. There is talk of the inclusion of a 450-morgen church estate.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-38">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-38">S. 38</a></h2>
+<section class="lit-passage" id="p-38" data-page="38">
+<div class="pg" id="p38"><a href="#p38">S. 38</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 wolni i niczym nie ograniczeni. (...) Zwykle rujnują oni dobra, chłopów i bydło wyniszczają, wsie doprowadzają do upadku, do ruiny zamków, niszczenia budowli, do wyniszczenia i dziczenia lasów”<sup class="lit-fn"><a href="#n-pl-36">36</a></sup>. Te obserwacje podróżnika potwierdzały sprawozdania urzędników pruskich, publikowane przez Rudolfa Stadelmanna, Rodgero Prümersa, Maxa Lehmanna, Petera Graniera, Wernera Hubatscha i Ingeborg Bussenius<sup class="lit-fn"><a href="#n-pl-37">37</a></sup>.
@@ -374,12 +373,10 @@ In 1805 Holsche, on the basis of a similar reckoning, indicated that from the mo
 <span class="lit-note" id="n-en-43">43</span> J. Leskiewiczowa, Próba analizy gospodarki dóbr magnackich w Polsce. Dobra wilanowskie na przełomie XVIII/XIX w., Warszawa 1964, s. 60.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-39">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-39">S. 39</a></h2>
+<section class="lit-passage" id="p-39" data-page="39">
+<div class="pg" id="p39"><a href="#p39">S. 39</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Z jednej więc strony wartość hipoteczna majątków szlacheckich daje nam dogodną miarę dla oceny donacji, z drugiej potwierdza opinie pruskie o znacznym zaniżeniu polskich deklaracji podatkowych. W rezultacie wszystko wskazuje na to, że tylko suma wyliczona z zestawienia Helda, a nie wymieniona na okładce wykazu, przyjmowana być może jako podstawa do dalszej analizy. Dlaczego jednak i ta suma — przypomnijmy — dla departamentu poznańskiego 3 mln talarów, prawie dwukrotnie przewyższa wartość majątku, wynikającą z obciążenia podatkowego. Wyjaśnienie tej kwestii ma znaczenie decydujące dla stwierdzenia, czy owe 3 mln odpowiadały „rzeczywistej” wartości majątków, jak chciał Held.
@@ -414,12 +411,10 @@ To answer this question it is necessary to take into account several phenomena o
 <span class="lit-note" id="n-en-47">47</span> On the problem of the state of the Prussian finances see L. Krug, Geschichte der Preußischen Staatsschulden, Vaduz/Liechtenstein 1977 (1st ed. 1861); F. von Schrötter, Das Preußische Münzwesen in 18. Jahrhundert. Münzgeschichtlicher Teil, Bd. 4: Die letzten vierzig Jahre 1765-1806, Berlin 1913; E. Klein, Geschichte der öffentlichen Finanzen in Deutschland (1500-1870), Wiesbaden 1974, s. 60-61; H. Schissler, Preußische Finanzpolitik 1806-1810, Quellen zur Verwaltung der Ministerium Stein und Alienstein, Göttingen 1984, s. 35-64; A. Naude, Der preußische Staatsschatz unter König Friedrich Wilhelm II und seine Erschöpfung, „Forschungen zur Brandenburgischen und Preußischen Geschichte" (cited FBPG), Bd. 5, 1892, s. 203-256; O. Behre, op. cit., s. 103-109; M. Philippson, op. cit., Bd. 2, Leipzig 1882; Schimmelfennig, Preußens Finanzpolitik im Lichte der Tresorscheinen, „Altpreußische Monatsschrift" (cited AM), Bd. 50, 1913, s. 398-452; L. Hellwig, Schulenburg-Kehnert unter Friedrich Wilhelm III (1798-1806), Berlin 1936, s. 12-13; W. M. Bissing, op. cit., s. 163-164 — „Mätressenwirtschaft", s. 164-165; A. Horn, Vom preußischen Gelde, AM, Bd. 5, 1868, s. 48-77.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-40">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-40">S. 40</a></h2>
+<section class="lit-passage" id="p-40" data-page="40">
+<div class="pg" id="p40"><a href="#p40">S. 40</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 W rezultacie w Prusach Południowych nastąpił znaczny wzrost cen majątków ziemskich<sup class="lit-fn"><a href="#n-pl-49">48</a></sup>, co możemy również łatwo obserwować w „Czarnym Rejestrze”. Wzrost ten miał jednak po części spekulacyjny i koniunkturalny charakter, toteż trudno ówczesne olbrzymie sumy płacone za majątki ziemskie uważać za odzwierciedlające ich rzeczywistą wartość, tzn. taką, która wynikała z kapitalizacji majątku wg przyjmowanej stopy 5%. Inaczej mówiąc, więcej można było zarobić handlując majątkami niż produktami rolnymi, pochodzącymi z tychże majątków, mimo dobrej koniunktury na zbyt produkcji zbożowej. Spekulacyjnie traktowane były w szczególności majątki wykupywane przez ludzi z kręgu ministra Karla Georga Hoyma. Mówi o tym zresztą sam „Czarny Rejestr”. Wielu nabywców nie widziało ich nawet, a zaraz po kupnie wystawiało na sprzedaż.
@@ -436,12 +431,10 @@ In consequence in South Prussia there followed a considerable rise in the prices
 <span class="lit-note" id="n-en-48">48</span> The whole complex of questions bound up with the rise in prices and the sale of the grain of landed estates, with speculation, land credit and land indebtedness and with the mortgage, has been analysed repeatedly in its various aspects. See L. Krug, Betrachtungen, Bd. 1, s. 33, 100-101, 240-242, 284-286, 401-402, 404-408; F. W. A. Bratring, Statistisch-topographische Beschreibung der Gesamten Mark Brandenburg, Berlin 1809, Bd. 3, s. 26; A. Holsche, op. cit., Bd. 3, s. 65-66; T. Schön, Studienreise eines jungen Staatsmanns in England, Berlin 1891, s. 259; Pamiętniki Franciszka Gajewskiego, Poznań 1913, s. 11, 66-67; E. Stawiski, Kronika pewnej wioski od 1790 do 1842, „Biblioteka Warszawska”, 1843, t. IV, s. 659-660; Żywot Tomasza Ostrowskiego ministra Rzeczypospolitej, później prezesa Senatu Księstwa Warszawskiego i Królestwa Polskiego, Paryż 1836, t. 1, s. 179; R. Łubieński, Generał Tomasz Pomian W. Łubieński, Poznań 1899; F. Skarbek, Pamiętniki, Poznań 1878, s. 6-8; idem, Pamiętniki Seglasa, Warszawa 1959, s. 190; idem, Dzieje Księstwa, t. 1, s. 181; I. Miączyński, Uwagi nad teraźniejszym stanem rolnika pod względem ceny zbóż i wydatków iego, Warszawa 1811; idem, O powszechnym moratorium kredytowem, Warszawa 1811; A. Bielski, Sposoby do ocalenia majątków obywateli Księstwa Warszawskiego, od wypadków im zagrażających służące, Poznań 1809; Pamiętnik Feliksa hr. Łubieńskiego, Warszawa 1876; W. Fiszerowa, Dzieje moje własne i osób postronnych. Wiązanka spraw poważnych, ciekawych i błahych, ed. E. Raczyński, Londyn 1975, s. 175; Statystyka Departamentu Bydgoskiego ułożona w miesiącu kwietniu 1812 roku, ed. M. Kallas and J. Wójciak, Warszawa-Poznań 1972, s. 28; A. Niebuhr, Geschichte der Königlichen Bank in Berlin, Glashütten 1971 (1st ed. Berlin 1854/5); A. Eisenbach, D. Rzepniewska, Zadłużenie własności ziemskiej w okresie 1795-1806. Dłużnicy i wierzyciele sum bajońskich, in Społeczeństwo polskie w XVIII i XIX wieku. Studia o uwarstwieniu i ruchliwości społecznej, ed. W. Kula, J. Leskiewiczowa, Warszawa 1970, s. 247-311; H. von Poschinger, Bankwesen und Bankpolitik in Preußen, Berlin 1878, Bd. 1; M. Cichecki, Zadłużenie rolnictwa w Księstwie Warszawskim, Warszawa 1937 (typescript of the Higher School of Commerce Library), s. 18-19, 31; M. Philippson, op. cit., Bd. 1, s. 109-110, 427, 466; Bd. 2, s. 112-113, 191; H. Schissler, Preußische Agrargeschichte im Wandel. Wirtschaftliche, gesellschaftliche und politische Transformationsprozesse von 1763 bis 1847, Göttingen 1978, s. 59-60, 216; E. Klein, Geschichte der deutschen Landwirtschaft, Wiesbaden 1973, s. 26-27; B. Grochulska, op. cit., s. 20; W. M. Bissing, op. cit., s. 158-160; A. Simsch, op. cit., s. 128-134, 226; A. Skalweit, Die Getreidenhandelspolitik und Kriegsmagazinen Verwaltung Preußens 1756-1806, Berlin 1931, s. 183-190; Ch. Mayer, op. cit., s. 339; W. Henning, Deutsche Wirtschafts- und Sozialgeschichte im Mittelalter und in der frühen Neuzeit, Bd. 2, Paderborn 1991, s. 787, 812-814; D. Rzepniewska, Gospodarstwo folwarczne na Mazowszu 1795-1806, Warszawa 1968, s. 35-57, 120; E. Carsten, Geschichte der preußischen Junker, Frankfurt a. M. 1988, s. 74; W. Treue, Wirtschafts- und Technik-Geschichte Preußens, Berlin 1984, s. 165-166; W. Stępiński, op. cit., s. 346-388; S. Michalkiewicz, Rozwój sił wytwórczych, in Historia Śląska, ed. W. Długoborski, t. II, part 1: 1763-1806, Wrocław 1966, s. 131; R. Stadelmann, op. cit., Bd. 3, s. 207, 209-212 (Silesia); Bd. 4, Leipzig 1887, s. 243-244, 262; C. Strzeszewski, Kryzys rolniczy na ziemiach Księstwa Warszawskiego i Królestwa Kongresowego (1807-1830), Warszawa 1934, s. 124; K. Jeżowa, Der Grundbesitz in Weichselpommern zur Zeit der Teilungen Polens und vor dem Weltkriege, Gdańsk 1934, s. 69-70, 76-77; T. Mencel, Sumy bajońskie, „Roczniki Historyczne” R. 19, 1952, s. 133-166; M. Handelsman, Konwencja bajońska, in Pod znakiem Napoleona, Warszawa n.d., [c. 1920].
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-41">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-41">S. 41</a></h2>
+<section class="lit-passage" id="p-41" data-page="41">
+<div class="pg" id="p41"><a href="#p41">S. 41</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Niepowodzenie akcji rozdawnictwa majątków
@@ -484,12 +477,10 @@ No less essential was the introduction into Great Poland of the German national 
 <span class="lit-note" id="n-en-54">54</span> Publicandum wegen Südpreußen gegen wucherlichen Getreide-Aufbau, 12 VIII 1795, Novum Corpus Constitutionum, Bd. 9, s. 2609-2611.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-42">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-42">S. 42</a></h2>
+<section class="lit-passage" id="p-42" data-page="42">
+<div class="pg" id="p42"><a href="#p42">S. 42</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 częściej polskiej szlachty, a w drugim dopiero rzędzie pruskich przybyszów. Centralne władze pruskie oceniały zjawisko w taki sposób, że po jednej stronie znajdują się skłonni do spekulacji producenci, po drugiej konsumenci, dotknięci przez sztucznie rosnące z powodu spekulacji ceny. Miał to jednak być mechanizm samonapędzający, spowodowany i innymi czynnikami. Oto producenci z chęci zysku przetrzymują zboże, oczekując na wzrost cen — z tych samych powodów nabywcy starają się je jak najszybciej kupić. Rozkaz królewski mówi o konieczności zwiększenia interwencyjnych zakupów zboża do magazynów, tam gdzie występują największe jego braki<sup class="lit-fn"><a href="#n-pl-56">55</a></sup>. Radca Rejencji Juliusz Schwartz (ur. 1759) — organizator hipoteki południowopruskiej, przy tym satyryk i redaktor „Südpreußische Zeitung” — słusznie przepowiadał już w roku 1802, że szkodliwa spekulacja dobrami i nakręcanie koniunktury cen może doprowadzić do katastrofy, gdy cena zboża spadnie lub gdy rząd będzie zmuszony zablokować jego wywóz<sup class="lit-fn"><a href="#n-pl-57">56</a></sup>.
@@ -536,12 +527,10 @@ Likewise the giveaway of estates itself could in no way answer the intended aims
 <span class="lit-note" id="n-en-60">60</span> F. W. von Zastrow (1752-1830), in 1794 adjutant general to Frederick William II, in 1796 colonel, in 1801 major general, after the accession of Frederick William III pushed out from Berlin to Poznań; the unfavourable remarks about him Queen Luise placed in her letters to Frederick William III of 12 V 1807; 14 V 1807, Königin Luise von Preußen, Briefe und Aufzeichnungen 1786-1810, ed. R. Malve, München 1985, s. 323, 326, 329; ADB, Bd. 44, Leipzig 1898, s. 721-723.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-43">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-43">S. 43</a></h2>
+<section class="lit-passage" id="p-43" data-page="43">
+<div class="pg" id="p43"><a href="#p43">S. 43</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 von Struensee<sup class="lit-fn"><a href="#n-pl-62">61</a></sup> i skupionymi wokół niego ludźmi (Schulenburg-Kehnert, Stein, Schrötter), z którymi sympatyzował młody następca tronu, przyszły Fryderyk Wilhelm III.
@@ -584,12 +573,10 @@ The disclosure of the abuses connected with the giveaway of estates came at the 
 <span class="lit-note" id="n-en-66">66</span> C. Grünhagen, Die südpreußische Güterverleihungen, s. 257, 269.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-44">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-44">S. 44</a></h2>
+<section class="lit-passage has-related" id="p-44" data-page="44">
+<div class="pg" id="p44"><a href="#p44">S. 44</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ków Zerboniego i Helda, którzy już od 1794 r. protestowali przeciw różnym przejawom zwyrodnień w pruskiej administracji.
@@ -632,7 +619,6 @@ The technical side of the giveaway of estates was in the hands of councillor Pet
 <span class="lit-note" id="n-en-71">71</span> In W. Dorow, op. cit., appendix to the second volume; cf. Materialien, H. 1, s. 205-216.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Łukasiewicz erzählt die Verkaufskette: 1797 für 50.000 gekauft, 1801 für 450.000 an den Prinzen von Hessen-Darmstadt verkauft, im selben Jahr für 750.000 an den sächsischen Jägermeister Schürding weiterverkauft. Die Briefe geben die Kette, wie ihr Urheber sie rechnete: über 700.000 rt an der Justiztaxe gegen seine eigene Grundlage von etwa 500.000 (April 1799); der Preis an den Prinzen Georg 280.000 (Juli 1800); und der Prinz Georg verkaufe für 750.000 (Februar 1801).</p>
@@ -640,9 +626,8 @@ The technical side of the giveaway of estates was in the hands of councillor Pet
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-45">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-45">S. 45</a></h2>
+<section class="lit-passage" id="p-45" data-page="45">
+<div class="pg" id="p45"><a href="#p45">S. 45</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 talarów, w rezultacie czego wszakże uzyskał sądową wycenę majątku na 800 000 talarów. Z takim wypisem udał się do banku w Berlinie, by pobrać niskooprocentowany kredyt hipoteczny, którego dopuszczalna wartość wynosiła 100% wartości majątku. Tu jednak okazało się, że całą gotówkę wybrał już prywatny żydowski bankier Heymann Ephraim, który zarabiał na pośrednictwie w dostarczaniu pożyczek w Polsce. Ephraim zlekceważył papiery hipoteczne, wiedząc w jaki sposób się je uzyskuje, ale zgodził się przyjąć 30 000 talarów łapówki, w zamian za udzielenie pod nie kredytu. Triebenfeld w swym tajnym memoriale wspomina zresztą, że i polska szlachta ze względu na kredyt hipoteczny starała się o uzyskanie w księdze hipotecznej zapisu czterokrotnie wyższego od wartości rzeczywistej<sup class="lit-fn"><a href="#n-pl-73">72</a></sup>. Aspekt kredytowy rozdawnictwa pruskiego rzuca nowe światło na zagadnienie słynnych „sum bajońskich”, które miały być zmarnotrawione przez szlachtę polską. Proporcjonalnie pokaźny udział kredytobiorców stanowili donatariusze pruscy<sup class="lit-fn"><a href="#n-pl-74">73</a></sup>:
@@ -709,12 +694,10 @@ Attempts to limit the speculation in estates found reflection in the legislative
 <span class="lit-note" id="n-en-76">76</span> War and Domains Councillor in the years 1797-1801 in the Poznań Chamber, see Handbuch 1797-1802.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-46">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-46">S. 46</a></h2>
+<section class="lit-passage" id="p-46" data-page="46">
+<div class="pg" id="p46"><a href="#p46">S. 46</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 sądową, w której udało mu się wycenić majątki na 380 000 talarów<sup class="lit-fn"><a href="#n-pl-78">77</a></sup>. Dowiedziawszy się o tym Rüchel wszczął proces, że został oszukany i wycofuje się z już zawartego kontraktu, oczywiście bezskutecznie. Ostatecznie Triebenfeld w 1813 r. osobiście poinformował Hardenberga, że majątki sprzedawano powszechnie po cenie przewyższającej 3-, 4-krotnie cenę zakupu. Zebraliśmy 18 transakcji sprzedaży majątków darowanych i są to tylko te wypadki, gdzie udało się wychwycić ceny donacji<sup class="lit-fn"><a href="#n-pl-79">78</a></sup>.
@@ -765,12 +748,10 @@ Ultimately, with reference to the estates given away the most cautious assessmen
 <span class="lit-note" id="n-en-83">83</span> D. Rzepniewska, op. cit., s. 121; A. Eisenbach, D. Rzepniewska, op. cit., s. 218-219, 223, 225-226.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-47">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-47">S. 47</a></h2>
+<section class="lit-passage" id="p-47" data-page="47">
+<div class="pg" id="p47"><a href="#p47">S. 47</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ceny wyższe od podobnych wielkością majątków polskich. Można też powiedzieć o oczywistym braku jednolitego rynku majątków ziemskich. Otwarcie hipoteki, kredyty, etc. wprawdzie przyśpieszyły jego rozwój, jednak, jak wskazywał jeszcze Leopold Krug, mimo wyraźnej tendencji wzrostu cen majątków były one w różnych obszarach państwa pruskiego niezwykle zróżnicowane i na szeregu obszarów cena morgi magdeburskiej nie przekraczała 15-20 talarów. Równocześnie jednak pisał, że dominującą tendencją jest wzrost, który spowodował, że cena morgi przekroczyła już 100 talarów i nadal rośnie. Wg jego oceny realna cena morgi, tzn. wynikająca z dochodu, jaki ona przynosi, kształtować się powinna ok. 50 talarów, a więc o połowę niżej<sup class="lit-fn"><a href="#n-pl-85">84</a></sup>.
@@ -825,12 +806,10 @@ The next question is the effects of the operation of the giveaway of estates. In
 <span class="lit-note" id="n-en-90">90</span> W. A. Klewitz, op. cit., s. 68. Year 1797/8 — 28 thalers, 1798/9 — 100 000, 1799/1800 — 132 545, 1800/1 — 147 797, 1801/2 — 188 048, 1802/3 — 128 320, 1803/4 — 112 989, 1804/5 — 47 151, 1805/6 — 39 123. The revenues from the Kompetenzgeld confirm this, see A. K. von Holsche, op. cit., Bd. 2, s. 482, cf. A. Simsch, op. cit., s. 104-105; in 1800/1801 it made up 36.3% of the net revenue from the domains: the Kalisz department — 86 133 thalers, the Poznań department — 88 625 thalers, the Warsaw department — 77 314 thalers.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-48">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-48">S. 48</a></h2>
+<section class="lit-passage" id="p-48" data-page="48">
+<div class="pg" id="p48"><a href="#p48">S. 48</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 pruska w Wielkopolsce nie tylko nie została wzmocniona, ale państwo to skompromitowało się w opinii szlacheckiej skorumpowaniem aparatu administracyjnego. Dokonał się natomiast zgoła spontaniczny proces przechodzenia majątków rozdarowanych albo w ręce polskie — bez oglądania się na racje polityczne — albo w ręce pruskie, często nie związane z kręgiem donatariuszy<sup class="lit-fn"><a href="#n-pl-92">91</a></sup>. Jak wskazują wykazy kredytobiorców z lat 1795-1806, pojawiła się też grupa urzędników, którzy nabywali majątki w Polsce z wskazanych wcześniej względów ekonomicznych. Joseph Zerboni di Sposetti w okresie rządów Fryderyka Wilhelma III stał się bez donacji znaczącym właścicielem ziemskim w departamencie kaliskim, najpierw biorąc 30 000 talarów kredytu na majątek Pługawice w berlińskiej Kasie Wdowiej, w 1805 r. natomiast nabywając za olbrzymią sumę 460 000 talarów, również pochodzących z kredytu, Opatów i Wieruszów, gdzie rzeczywiście gospodarował i inwestował<sup class="lit-fn"><a href="#n-pl-93">92</a></sup>.
@@ -873,12 +852,10 @@ Among the later ministers of South Prussia the sympathies of the Polish nobility
 <span class="lit-note" id="n-en-96">96</span> Landesdirektor, 1797-1802, Handbuch 1797-1802-; M. Philippson, op. cit., Bd. 2, s. 287; K. Koźmian, op. cit., t. 2, s. 287; T. Mencel, Feliks Łubieński.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-49">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-49">S. 49</a></h2>
+<section class="lit-passage" id="p-49" data-page="49">
+<div class="pg" id="p49"><a href="#p49">S. 49</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Jeżeli kredyt hipoteczny zaciągany przez pruskich donatariuszy był — jak wspomnieliśmy — marnotrawiony, podobnie jak pieniądze wzięte przez polską szlachtę na spekulacje i konsumpcję, to jak słusznie wskazała Danuta Rzepniewska w monografii o gospodarce na Mazowszu w dobie Prus Południowych, Feliks Łubieński był jednym z chlubnych wyjątków. Wzięte na hipotekę pieniądze inwestował i unowocześniał gospodarkę. Należy jednak nadmienić, że podstawową inwestycją Łubieńskiego było sprowadzenie 187 gospodarzy protestanckich, kolonistów z Prus Wschodnich i że Łubieński zasłużył tym sobie u Fryderyka Wilhelma III na Order Orła Czerwonego w 1805 r. i tytuł hrabiego, który otrzymał w 1798 r.<sup class="lit-fn"><a href="#n-pl-98">97</a></sup>
@@ -937,12 +914,10 @@ Mixed up in the giveaway of estates were also many other Poles. In the documenta
 <span class="lit-note" id="n-en-107">107</span> Materialien, s. 143, 147, 159, 169; „Neue Feuerbrände", Bd. 3, s. 133.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-50">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-50">S. 50</a></h2>
+<section class="lit-passage" id="p-50" data-page="50">
+<div class="pg" id="p50"><a href="#p50">S. 50</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Baron von Schilden otrzymał majątki ze starostwa kościańskiego, przed insurekcją należącego do Józefa Chłapowskiego. Odsprzedał te temuż staroście (zob. Aneks, Tabela 4, s. 61), znanemu spekulantowi, który doprowadził majątek rodzinny na krawędź bankructwa, którego widmo odsunąć miał dopiero syn Dezydery<sup class="lit-fn"><a href="#n-pl-109">108</a></sup>. Oczywiście normy prawne mające przeciwdziałać przejmowaniu majątków donacyjnych przez Polaków miały wymiar antypolski — jak pisze Jan Wąsicki<sup class="lit-fn"><a href="#n-pl-110">109</a></sup>. Trzeba jednak zauważyć, że sam fakt wydania takich rozporządzeń oznaczał, iż donatariusze niezbyt troszczyli się o zachowanie pruskiego stanu posiadania w Wielkopolsce. Potwierdza to reskrypt królewski z 19 XII 1796, który ograniczał donacje do osób urodzonych w starych prowincjach pruskich albo cudzoziemców posiadających kwalifikacje rolnicze. Zobowiązywał też właścicieli do informowania władz o zamiarze podejmowania jakichkolwiek transakcji tymi dobrami<sup class="lit-fn"><a href="#n-pl-111">110</a></sup>. Ponieważ jednak majątki były odsprzedawane Polakom, konieczny był kolejny reskrypt w 1800 r., zwracający uwagę, że nie tylko pierwszy, ale i kolejni właściciele nie mogą być Polakami<sup class="lit-fn"><a href="#n-pl-112">111</a></sup>. Znajdywano inną furtkę, więc w 1801 r. ukazał się rozkaz powiadający, że donacje nie mogą być również dawane Polakom w wieczystą dzierżawę<sup class="lit-fn"><a href="#n-pl-113">112</a></sup>. Teraz pozostała jeszcze wyprzedaż przez osoby podstawione. Ze scharakteryzowanymi rozporządzeniami należy też wiązać list Fryderyka Wilhelma III do ministra von der Recke. Król pisze o gwałtownych staraniach mieszczaństwa o możliwość zakupu majątków szlacheckich i o potrzebie wyrażania zgody na takie kontrakty, ale w ograniczonej liczbie przypadków („um den Adel in den Besitz der Landgüter zu sichern”). Te ograniczenia wkrótce miały się znaleźć na pierwszym planie, nas interesuje jednak występujący tu niewątpliwie przejaw wzrostu popytu na ziemię<sup class="lit-fn"><a href="#n-pl-114">113</a></sup>. Fryderyk Wilhelm III uważał handel majątkami ziemskimi za niekorzystne zjawisko, ale za szczególnie szkodliwe uważał potajemne cesje dzierżaw majątków domenalnych<sup class="lit-fn"><a href="#n-pl-115">114</a></sup>. Afera „Czarnego Rejestru” wpłynęła negatywnie na stosunek polskiej szlachty do pruskiej administracji i poderwała znacznie autorytet państwa pruskiego, tym bardziej, że nie była odosobnionym przypadkiem nieprawidłowości w funkcjonowaniu administracji pruskiej w Prusach Południowych.
@@ -989,12 +964,10 @@ It is however impossible to deny that Wilhelm Klewitz was right when in 1812 he 
 <span class="lit-note" id="n-en-115">115</span> On the low salaries, the fatal choice of cadres, whose high quality after the second and third partitions it was impossible
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-51">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-51">S. 51</a></h2>
+<section class="lit-passage" id="p-51" data-page="51">
+<div class="pg" id="p51"><a href="#p51">S. 51</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 zwolnił za malwersacje finansowe radcę Schmalinga (1805 r.)<sup class="lit-fn"><a href="#n-pl-118">116</a></sup>, pisał w przygnębieniu, że Niemcy w niczym się na tle Polaków nie wyróżniają. Część jego urzędników jest całkowicie zdemoralizowana i nadaje się do natychmiastowej wymiany. Prościej było wymienić Klewitza<sup class="lit-fn"><a href="#n-pl-119">117</a></sup>.
@@ -1041,12 +1014,10 @@ To these charges joined the most notorious of the malversators, Triebenfeld, lam
 <span class="lit-note" id="n-en-122">121</span> K. Koźmian is therefore mistaken when it comes to Szaniawski. See W. Klewitz, Über die Preußische Verwaltung, s. 14-18; A. P. Sułkowski, Listy do żony z wojen napoleońskich, ed. R. Bielecki, Warszawa 1987, s. 239-240.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-52">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-52">S. 52</a></h2>
+<section class="lit-passage" id="p-52" data-page="52">
+<div class="pg" id="p52"><a href="#p52">S. 52</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Pruskimi urzędnikami chętnie posługiwał się Feliks Łubieński, przy ostentacyjnej do nich niechęci. Po 1806 r. byli niezbędni do kontynuacji pracy administracji Księstwa Warszawskiego.
@@ -1093,12 +1064,10 @@ After 1797 the estates given away remained however in the hands of the donatarie
 <span class="lit-note" id="n-en-127">126</span> R. Stadelmann, op. cit., Bd. 4, s. 88-89.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-53">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-53">S. 53</a></h2>
+<section class="lit-passage" id="p-53" data-page="53">
+<div class="pg" id="p53"><a href="#p53">S. 53</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Podsumowanie
@@ -1125,12 +1094,10 @@ In the light of our findings the aims of the giveaway action must be considered 
 Onto these premises there overlaid themselves clear political advantages, consisting in the creation in Great Poland of a group of German landowners, making up a support for Prussian rule in the seized Polish lands. The giveaway of estates was an undoubted manifestation of the policy of "subordination". It must however also be clearly marked that Prussian policy towards the Poles had also a clear aspect of "winning over" (at the time one spoke of "adoption"), of which the land credit for the Polish nobility was one manifestation at least. Both these ways of proceeding served, on the one hand, the assuring of the obedience of the nobility and control over it, on the other the formation among it of a group of partisans of Prussia, who were to consolidate Prussian rule in Great Poland. The successive partitions of the Polish lands named West Prussia, South Prussia and New East Prussia set the Prussian state before the necessity of absorbing new considerable areas. The taking of the decision on the staffing of the administration with German officials brought in from the Prussian provinces weighed fatally on the course of this process. In comparison with Poland before the partitions the Prussian corps was expanded, modern and educated. Yet for the realisation of the task set before it too few in number and subjected to negative selection. In consequence in the Prussian administration in South Prussia there came about various degenerations, unfavourable for the Prussian state itself.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-54">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-54">S. 54</a></h2>
+<section class="lit-passage" id="p-54" data-page="54">
+<div class="pg" id="p54"><a href="#p54">S. 54</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 pruskiego. Jednym z istotnych tego przejawów było całkowite zniekształcenie założonych celów w przebiegu akcji rozdawnictwa. Zamieniła się ona w aferę korupcyjną, połączoną z nie służącą nikomu poza samymi donatariuszami spekulacją dobrami, wskutek której dobra wracały często w ręce polskie. Warto zaznaczyć, że — jak wykazały badania Danuty Rzepniewskiej — analogicznym fiaskiem zakończyła się pruska akcja kredytowa w Prusach Południowych, przy czym jej konsekwencje były o wiele bardziej niekorzystne dla ziem polskich od skutków akcji rozdawniczej. Z drugiej strony dzieje Księstwa Warszawskiego wskazują, że z pozytywnych, tj. efektywnych wzorców pruskiej organizacji państwa, Polacy potrafili skorzystać bez uprzedzeń wobec rozbiorcy.
@@ -1141,12 +1108,10 @@ pruskiego. Jednym z istotnych tego przejawów było całkowite zniekształcenie 
 Prussian. One of the essential manifestations of this was the complete distortion of the intended aims in the course of the giveaway action. It changed into a corrupt affair, joined with a speculation in estates serving no one beyond the donataries themselves, in consequence of which the estates often returned into Polish hands. It is worth marking that — as the researches of Danuta Rzepniewska showed — the Prussian credit action in South Prussia ended in an analogous fiasco, its consequences being far more unfavourable for the Polish lands than the effects of the giveaway action. On the other hand the history of the Duchy of Warsaw shows that from the positive, that is effective, patterns of the Prussian organisation of the state the Poles were able to profit without prejudice towards the occupier.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-55">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-55">S. 55</a></h2>
+<section class="lit-passage has-related" id="p-55" data-page="55">
+<div class="pg" id="p55"><a href="#p55">S. 55</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 ANEKS
@@ -1221,7 +1186,6 @@ Tabela 1. PRUSSIAN DONATIONS — THE VALUE OF THE ESTATES<sup class="lit-fn"><a 
 </tbody></table>
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Łukasiewiczs Tabelle 1 gibt die Zeile des Registers für den Fürsten Hohenlohe wieder: amtlich 89.250 Taler, „wahrer Wert“ 800.000, und die eigene Notiz des Registers, dass die Güter jährlich 50.000 Taler Ertrag bringen, wo der verstorbene König nur einer Schenkung von 6.000 zugestimmt hatte. Die Briefe bestätigen dieselben Zahlen und gehen darüber hinaus: die Ablehnung des Königs vom Dezember 1798 auf den Bericht von Voss (die auf 8.650 Taler Jahresertrag veranschlagten Güter bringen jetzt 40.500), die Antwort des Fürsten (seine Güter trügen 41.500, die Pacht von Krotoszyn sei 30.100) und seine spätere Eingabe.</p>
@@ -1229,9 +1193,8 @@ Tabela 1. PRUSSIAN DONATIONS — THE VALUE OF THE ESTATES<sup class="lit-fn"><a 
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-56">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-56">S. 56</a></h2>
+<section class="lit-passage" id="p-56" data-page="56">
+<div class="pg" id="p56"><a href="#p56">S. 56</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><thead><tr><th rowspan="3">Donatariusze</th><th colspan="5">Wartość majątków (w talarach)</th></tr><tr><th>Wykaz I</th><th>Wykaz II</th><th>Wykaz III</th><th colspan="2">Czarny Rejestr</th></tr><tr><th></th><th></th><th></th><th>oficjalnie</th><th>wartość prawdziwa</th></tr><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr></thead><tbody>  
@@ -1310,12 +1273,10 @@ Tabela 1. PRUSSIAN DONATIONS — THE VALUE OF THE ESTATES<sup class="lit-fn"><a 
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-57">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-57">S. 57</a></h2>
+<section class="lit-passage" id="p-57" data-page="57">
+<div class="pg" id="p57"><a href="#p57">S. 57</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Przypisy do Tabeli 1:
@@ -1442,12 +1403,10 @@ Notes to Tabela 1:
 <span class="lit-note" id="n-en-156">t1-29</span> The sale value of the estates exchanged with Łubieński.
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-58">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-58">S. 58</a></h2>
+<section class="lit-passage" id="p-58" data-page="58">
+<div class="pg" id="p58"><a href="#p58">S. 58</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Tabela 2. USTALONE TERMINY DONACJI (DIE DONATIONS-URKUNDE)
@@ -1538,12 +1497,10 @@ Tabela 3. THE REGISTER OF DONATIONS BY DONATARY AND THE NUMBER OF ESTATES
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-59">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-59">S. 59</a></h2>
+<section class="lit-passage" id="p-59" data-page="59">
+<div class="pg" id="p59"><a href="#p59">S. 59</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><thead><tr><th>Lp.</th><th>Donatariusz</th><th>Powiat</th><th>Liczba majątków</th></tr></thead><tbody>  
@@ -1638,12 +1595,10 @@ Tabela 3. THE REGISTER OF DONATIONS BY DONATARY AND THE NUMBER OF ESTATES
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage" id="p-60">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-60">S. 60</a></h2>
+<section class="lit-passage" id="p-60" data-page="60">
+<div class="pg" id="p60"><a href="#p60">S. 60</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 <table><thead><tr><th>Lp.</th><th>Donatariusz</th><th>Powiat</th><th>Liczba majątków</th></tr></thead><tbody>  
@@ -1702,12 +1657,10 @@ Tabela 3. THE REGISTER OF DONATIONS BY DONATARY AND THE NUMBER OF ESTATES
 </tbody></table>
 
 </div>
-</div>
 </section>
 
-<section class="lit-passage has-related" id="p-61">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-61">S. 61</a></h2>
+<section class="lit-passage has-related" id="p-61" data-page="61">
+<div class="pg" id="p61"><a href="#p61">S. 61</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Tabela 4. ZESTAWIENIE CEN URZĘDOWYCH I SPRZEDAŻY DONOWANYCH MAJĄTKÓW
@@ -1792,7 +1745,6 @@ Notes to Tabela 4:
 <span class="lit-note" id="n-en-163">t4-7</span> The affair of Grävenitz is disputed and tangled, nevertheless the transaction itself took place, see the „Neue Feuerbrände" I, 132; V, 66, 109, 110; cf. C. Grünhagen, op. cit., s. 294-295.
 
 </div>
-</div>
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Zeile der Tabelle für Triebenfeld — amtlich 51.000, verkauft 400.000–750.000 (1801) — und ihre Zeile für Rüchel (30.000 und 130.000) stehen gegen die Briefe: die Taxe vom April 1799 über 700.000 rt, der Preis an den Prinzen Georg 280.000 (Juli 1800), der Weiterverkauf 750.000 (Februar 1801); und Rüchels Güter, nach dem Brief vom 13. März 1799, für 140.000 verkauft, wo die Tabelle 130.000 gibt.</p>
@@ -1800,9 +1752,8 @@ Notes to Tabela 4:
 </aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-62">
-<div class="lit-main">
-<h2 class="lit-loc"><a href="#p-62">S. 62</a></h2>
+<section class="lit-passage" id="p-62" data-page="62">
+<div class="pg" id="p62"><a href="#p62">S. 62</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
 Summary
@@ -1825,6 +1776,7 @@ The intention of the campaign (the estâtes were sold but at prices considerably
 (transl. A. Rodzińska-Chojnowska)
 
 </div>
-</div>
 </section>
+</div>
+</div>
 {% endraw %}
