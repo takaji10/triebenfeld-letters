@@ -5054,3 +5054,31 @@ Słownik's gmina and parish tables, is still to do.
   2026-11-21 the Places index shows each as "X - see Y", leaving out an
   alias that is now an entry's own heading. A new "see" name goes into
   `aliases` (the editor, 2026-11-21: Biały and Bawół under Czarna Struga).
+
+## The site overhaul of 2026-11-24 (docs/SITE_OVERHAUL_PLAN.md)
+
+- **Crops of staged page images are recorded, not just made.** A crop goes
+  into `units/<slug>/intake/crops.json` (box as fractions of the uncropped
+  1100-px derivative, with its `from_size`) and is applied by
+  `pipeline/intake/apply_crops.py`, which only touches an image still at
+  `from_size`; `make_scan_derivatives.py` applies the same boxes when it
+  remakes a derivative from `pages/` on the desktop. Cropping
+  `site/assets/scans/` by hand would be undone by the next `--force`.
+- **The crop page is the fold page's box mode** (`crop_sheet.py <slug>...`),
+  self-contained (images embedded), with "Copy JSON" so the editor can paste
+  the boxes into a cloud chat; `apply_crops.py --grouped <file>` takes it.
+- **`site/_data/summaries.yml` is authored**, despite its "Generated"
+  header. Change a summary only through `pipeline/review/set_summaries.py
+  <batch.yml>`, which also updates the holding's drafting record.
+  `docs/PROSE_SOURCES.md` lists where every kind of English prose is kept.
+- **`pipeline/review/prose_lint.py`** lists candidate breaches of the rules
+  of 2026-11-24; its R1 and R4 hits are good, its R2 ("the" at first
+  mention) is noisy and only a pointer.
+- **A rewrite that supplies a missing fact must be read from the holding**,
+  not reasoned out: the first draft of the Weigel summary (agad118501169)
+  gave the courts' grounds and the finance commission's argument from
+  general knowledge and got the latter wrong; the holding's about.md had the
+  real ones.
+- **Sub-agents can stop on the account's usage limit** (2026-11-24, both
+  Sonnet agents at once). Their edits so far stay in the working tree;
+  resume them with SendMessage after the reset rather than starting anew.
