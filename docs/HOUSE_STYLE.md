@@ -45,6 +45,21 @@ do not summarise. A name in a heading says who the person is.
 reader has already met it. They have not. This holds in summaries, descriptions
 and essays alike, and it is the single rule most often broken.
 
+The editor, 2026-11-24, made it a rule again, with the example of
+I. HA GR, Rep. 7 C, Nr. 3705: "after the three townsmen who held it in
+hereditary lease stopped paying" claims the reader knows the three townsmen.
+A person, a group or a thing met for the first time takes "a", a number, or
+no article. "The" is only for what the reader already knows: named earlier
+in the same text, unique (the King, the Kalisz chamber), or defined in the
+same sentence ("the lease they had signed in 1798").
+
+```
+NO   ... after the three townsmen who held it in hereditary lease stopped
+     paying.
+YES  ... after three townsmen who held it in hereditary lease stopped paying
+     their rent to the Prince.
+```
+
 ## No cryptic statements
 
 The editor, 2026-10-03: "don't write cryptic statements". A sentence the
@@ -62,6 +77,12 @@ true it is. Before a sentence ships, ask of it:
   papers", "the Congress is thrown into suspension") says what it meant for
   Hohenlohe-Ingelfingen or the estates.
 - **Proposed or done?** A proposal, a draft or a petition is not a result.
+
+The editor, 2026-11-24, of the same sentence of Nr. 3705: "stopped paying
+whom?" Assume the reader does not know the subject. **Every action is
+complete**: whom a debt was owed to, who refused what, on whose behalf a
+petition was made, what was returned to whom. An office, a court or a term
+is explained in a few words at its first mention (or is a glossary word).
 
 A short entry that leaves the reader asking is worse than a longer one that
 does not. Where an entry cannot be made clear without a paragraph, it belongs
@@ -230,6 +251,66 @@ NO   For more than seven hundred years people wrote down who owned the
 YES  From 1173 to the 1930s, the ownership of the estate of Trąbczyn ...
      were documented in Latin, Polish, German, French and Russian.
 ```
+
+## No physical description the counts already give
+
+The editor, 2026-11-24: a holding's tile and header already count its
+documents and pages, so its prose does not open on them. "Thirteen pages of
+the register of the hearth tax" and "Two of Albert Breyer's field notebooks"
+say what the count says and push the subject back.
+
+```
+NO   Thirteen pages of the register of the hearth tax of 1789 ...
+YES  The register of the hearth tax of 1789 for the Kalisz district ...
+NO   Two of Albert Breyer's field notebooks of July 1936 ...
+YES  Albert Breyer's field notebooks of July 1936 from Łazińsk and Grodziec ...
+```
+
+A physical fact stays where it changes how the document is read: a copy and
+not the original, a lost or burnt leaf, the King's own hand, a text broken
+off at the foot of a page.
+
+## The content, not the paper
+
+The editor, 2026-11-24, of the holding pages of AGAD 1/174/0/1/6 and others:
+"The descriptions you provide are sometimes overly mechanical and
+superficial ... you talk about the text instead of talking about the
+content." A description says what happened, who wanted what, and why it
+matters. It does not narrate the document as an object, nor the act of
+reading it. Out:
+
+- **The text as subject.** "The text states that Dąbska's case had been
+  referred to the commission by the Emperor" becomes "The Emperor had
+  referred Dąbska's case to the commission." Not "the letter says", "the
+  entry records", "the document notes".
+- **Clerical furniture.** Who countersigned every entry of a register, the
+  order in which its resolutions were copied, the formula a clerk closed
+  with. "Under each entry stand the names of the president, Stanisław
+  Małachowski, and the secretary general, Jan Łuszczewski" and "Its orders
+  and resolutions were copied into this register in the order in which they
+  were issued" tell the reader nothing about the matter.
+- **Saying again what a heading or a field already says.** A paragraph
+  headed "The order for Wybicki, 12 July 1807" does not end "The entry is
+  dated at Warsaw, at the session of 12 July 1807."
+
+A signature, a seal or a note in the margin stays when it tells the reader
+something: who decided, that a copy may differ from its original, that the
+King wrote his refusal himself.
+
+The test: cover the document's name. Does the sentence still tell the
+reader something about the people, the land or the money? If it is only
+about the paper, it goes.
+
+## The tiles' standard form
+
+The editor, 2026-11-24: every kind of source (manuscripts, newspapers,
+literature, maps) is shown on its list page as a tile in one order: the
+translated title; the original title in italics; the source (archive and
+reference, newspaper and issue, publisher and place); a short description;
+the counts that apply (a manuscript holding: documents and pages; a book or
+an article: pages); the date, a range where the material spans years. The
+English title heads in the English site. The document-type tag stands at
+the foot, on manuscripts only.
 
 ## The documents first
 
