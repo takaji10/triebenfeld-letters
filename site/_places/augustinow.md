@@ -22,12 +22,11 @@ hits_docs_count: 4
 
 Village south of Zagórów. Originally named *Kolonia Augustinhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Augustinhof was established on March 21, 1806, when the Trąbczyn Patrimonial Court issued an agreement between Hohenlohe-Ingelfingen and eighteen German colonists to settle on 100 *Hüfen* (766 ha, or 7.7 km²) of woodland on the Drzewce estate.[^3] Renamed to Augustynów in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Augustinow* (Reymann 1834). The Słownik geograficzny records it as a colony, in gmina Emilienheim, parish of Zagórów, powiat słupecki, with 358 inhabitants at the time of the Słownik.[^4] Nazwy miejscowe Polski records the name as *Augustynowo* by 1827, later as *Augustynów* (1839).[^5]
 
-[^3]: “[Odpis dokumentów w sprawie parcelacji majątków Zagórowo, Witów i Trąbczyn z lat 1805-1806] - woj. poznańskie,” 7-16
-    [The document.](/documents/app539680801/3/)
+[^3]: [“[Odpis dokumentów w sprawie parcelacji majątków Zagórowo, Witów i Trąbczyn z lat 1805-1806] - woj. poznańskie,” 7-16.]({% endraw %}{{ '/documents/app539680801/3/' | relative_url }}{% raw %})
 
-[^4]: Słownik geograficzny, t. XV, p. 51, sub 2
+[^4]: [Słownik geograficzny, t. XV, p. 51, sub 2.]({% endraw %}{{ '/literature/slownik/#p-c30' | relative_url }}{% raw %})
 
-[^5]: Nazwy miejscowe Polski, t. 1, p. 84
+[^5]: [Nazwy miejscowe Polski, t. 1, p. 84.]({% endraw %}{{ '/literature/nmpol/#p-c05' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

@@ -11,7 +11,7 @@ era: wlodzimierz
 
 Michalina Miączyńska starb 1851, und das Gut ging an ihren Sohn, Graf Włodzimierz
 Miączyński. Was er erbte, war eine Siedlungslandschaft mit einem Makel im Titel: die
-[Olęder](/de/glossar/#haulaender)-Kolonien des Gutes — Staro-Łazińska und Nowo-Łazińska —
+[Olęder]({{ '/de/glossar/#haulaender' | relative_url }})-Kolonien des Gutes — Staro-Łazińska und Nowo-Łazińska —
 hielten ihre Höfe auf Verträgen, die die Jahre Hohenlohe-Ingelfingens geschlossen
 hatten, und seine Familie hatte nie etwas unterschrieben.
 
@@ -32,7 +32,7 @@ bewirtschafteten; jedes Dorf erhielt eine Liquidationstabelle, die seine Höfe, 
 das zu ihnen gehörte, und das Kapital festsetzte, mit dem die Regierung den früheren
 Besitzer für die Abgaben entschädigte, die die Bauern ihm geschuldet hatten. Für die
 Kolonie Łazińsk verzeichnet die Tabelle, bestätigt am 8. Februar 1868, einundundneunzig
-Höfe, die Schule, den Friedhof und das Gemeindeland — 1.691 [Morgen](/de/glossar/#morgen)
+Höfe, die Schule, den Friedhof und das Gemeindeland — 1.691 [Morgen]({{ '/de/glossar/#morgen' | relative_url }})
 219 Ruten zusammen — und ein Liquidationskapital von 10.055 Rubeln 70 Kopeken für den
 früheren Besitzer
 ([die Tabelle]({{ '/documents/apl399806603/1/' | relative_url }})). Ihre Abschrift von

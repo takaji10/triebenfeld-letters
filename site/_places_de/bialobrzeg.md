@@ -22,12 +22,11 @@ hits_docs_count: 3
 
 Village on the Warta River, 10 kilometres west of Zagórów, today in the gmina of Pyzdry, with the settlement of Białobrzeg Ratajski beside it. First mentioned in 1547 for its mill on the Warta (*molendino ... vulgo Biało-Brzeski*); the name means "white bank", and the second parts of *Białobrzeg Pietrzykowski* and *Białobrzeg Ratajski* come from the neighbouring villages of Pietrzyków and Rataje.[^1] In 1798 the miller Samuel Lucke of the mill *Białobrzeg bey Wrąbczynek* contracted to buy 1,000 Morgen of the home farm of Szetlewek from the Prince of Hohenlohe-Ingelfingen's agent.[^2] The Słownik geograficzny records Białobrzeg Pietrzykowski as a village and Białobrzeg Ratajski as a settlement on the Warta, gmina Dłusk, parish of Zagórów, powiat słupecki, the first with 6 houses and 112 inhabitants, the second with 1 house and 5 inhabitants.[^3]
 
-[^1]: Nazwy miejscowe Polski, t. 1, p. 192
+[^1]: [Nazwy miejscowe Polski, t. 1, p. 192.]({% endraw %}{{ '/literature/nmpol/#p-c24' | relative_url }}{% raw %})
 
-[^2]: HZAN Oe 1 Bü 14526, document 25
-    [The document.](/documents/oe1bu14526/24/)
+[^2]: [HZAN Oe 1 Bü 14526, document 25.]({% endraw %}{{ '/documents/oe1bu14526/24/' | relative_url }}{% raw %})
 
-[^3]: Słownik geograficzny, t. XV, p. 125
+[^3]: [Słownik geograficzny, t. XV, p. 125.]({% endraw %}{{ '/literature/slownik/#p-c42' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

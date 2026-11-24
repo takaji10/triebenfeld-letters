@@ -22,24 +22,17 @@ hits_docs_count: 23
 
 Village east of Zagórów, just west of Rzgów. The name means the village of the *sanctuarii*, the people who served a church; the Kodeks editors take the *sanctuarii* granted with Rzgów to the abbey of Ląd in 1261 and again in 1280 to be Świątniki.[^1][^2] A former church village, it was one of the sixteen the King granted to Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, in 1797, with Zagórów, Skokum, Kopojno and Oleśnica.[^3] The table of the villages around Konin of about 1797 counts 21 houses and 133 people, 61 men and 72 women.[^4] The list of the places of the lordships of Zagórów and Trąbczyn enclosed with a letter of 1806 names it a rent-paying village (*Zins Dorf*),[^5] and in 1811 Triebenfeld wrote two of his letters to the Prince from Świątniki, one of them dated 27 January.[^6] *Свентники* (Mapa dróg 1890).
 
-[^1]: Zakrzewski, vol. 1, No. 393
-    [The document.](/documents/kdw/4/)
+[^1]: [Zakrzewski, vol. 1, No. 393.]({% endraw %}{{ '/documents/kdw/4/' | relative_url }}{% raw %})
 
-[^2]: Gąsiorowski and Kowalewicz, vol. 6, No. 27
-    [The document.](/documents/kdw/6/)
+[^2]: [Gąsiorowski and Kowalewicz, vol. 6, No. 27.]({% endraw %}{{ '/documents/kdw/6/' | relative_url }}{% raw %})
 
-[^3]: HZAN Oe 1 Bü 14525, document 5 (the deed of grant of 19 June 1797, in a copy of 1803)
-    [The document.](/documents/oe1bu14525/5/)
+[^3]: [HZAN Oe 1 Bü 14525, document 5 (the deed of grant of 19 June 1797, in a copy of 1803).]({% endraw %}{{ '/documents/oe1bu14525/5/' | relative_url }}{% raw %})
 
-[^4]: "Die neuesten topografischen Nachrichten von Südpreussen," entry 274
-    [The document.](/documents/agad1169011745/1/#p5)
+[^4]: ["Die neuesten topografischen Nachrichten von Südpreussen," entry 274.]({% endraw %}{{ '/documents/agad1169011745/1/#p5' | relative_url }}{% raw %})
 
-[^5]: HZAN Oe 1 Bü 9454, letter 24
-    [The document.](/documents/oe1bu9454/24/)
+[^5]: [HZAN Oe 1 Bü 9454, letter 24.]({% endraw %}{{ '/documents/oe1bu9454/24/' | relative_url }}{% raw %})
 
-[^6]: HZAN Oe 1 Bü 9454, letters 212 and 213
-    [The document.](/documents/oe1bu9454/212/)
-    [The document.](/documents/oe1bu9454/213/)
+[^6]: [HZAN Oe 1 Bü 9454, letters 212 and 213.]({% endraw %}{{ '/documents/oe1bu9454/212/' | relative_url }}{% raw %}) ([also]({% endraw %}{{ '/documents/oe1bu9454/213/' | relative_url }}{% raw %}))
 
 </div>
 {% endraw %}

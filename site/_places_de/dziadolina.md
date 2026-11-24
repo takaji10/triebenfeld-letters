@@ -22,10 +22,9 @@ hits_docs_count: 0
 
 Locale which existed south of Łomów. First mentioned as a forest in a 1775 border commission report which stated that *Trąbczyńskie Stare Olędry* was established on part of the Dziadulina forest on the Trąbczyn estate.[^17] Listed as a settlement (Pl. *osada*) in the Geographical Dictionary of the Kingdom of Poland in 1881[^18] and shown on Trójwiorstówki 1914 as *G[uta?] Diadolina*. *Dziadowy* (Gilly 1802); as a forest called *Dziadulina* (Kozłowski 1861).
 
-[^17]: “Relationes-oblatae [protocollon],” 1776, 692
-    [The document.](/documents/app53170koningr145/1/#p76)
+[^17]: [“Relationes-oblatae [protocollon],” 1776, 692.]({% endraw %}{{ '/documents/app53170koningr145/1/#p76' | relative_url }}{% raw %})
 
-[^18]: “Dziadolina” 260
+[^18]: “Dziadolina” 260.
 
 </div>
 {% endraw %}

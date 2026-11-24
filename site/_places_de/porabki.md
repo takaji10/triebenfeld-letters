@@ -22,9 +22,9 @@ hits_docs_count: 0
 
 Hamlet east of and belonging to Łazy. First mentioned in a 1776 birth record from Trąbczyn Catholic parish metrical records.[^60] The Słownik geograficzny records the settlement.[^61]
 
-[^60]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 241/Image 273
+[^60]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 241/Image 273.
 
-[^61]: Słownik geograficzny, t. VIII, p. 815, sub 1
+[^61]: [Słownik geograficzny, t. VIII, p. 815, sub 1.]({% endraw %}{{ '/literature/slownik/#p-c17' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

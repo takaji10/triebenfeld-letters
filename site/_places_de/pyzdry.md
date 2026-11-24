@@ -22,11 +22,11 @@ hits_docs_count: 23
 
 Town in Września Gmina west of Zagórów. Mentioned as early as 1232 when the army of Duke Henry I the Bearded entered Greater Poland. The Lisewo-Pyzdry branch of the newly-formed Zagórów Evangelical-Augsburg Lutheran parish was established here in 1842. A document of 14 October 1341 records Casimir the Great granting Jakub, a burgher of Pyzdry, a third part of a mill on the Warta below the castle of Pyzdry.[^1] The Słownik geograficzny records it as a town on the Warta, powiat słupecki, gmina and parish of Pyzdry, with 232 houses and 3151 inhabitants at the time of the Słownik.[^2] A Słownik supplement adds that Mieszko of Poland stayed here in 1186 and issued an act for Ląd Abbey from Pyzdry, and that the town received German law early.[^3]
 
-[^1]: Kodeks Dyplomatyczny Wielkopolski, vol. 2, no. None
+[^1]: Kodeks Dyplomatyczny Wielkopolski, vol. 2, no. None.
 
-[^2]: Słownik geograficzny, t. IX, p. 332
+[^2]: [Słownik geograficzny, t. IX, p. 332.]({% endraw %}{{ '/literature/slownik/#p-c09' | relative_url }}{% raw %})
 
-[^3]: Słownik geograficzny, t. XVI, p. 530
+[^3]: [Słownik geograficzny, t. XVI, p. 530.]({% endraw %}{{ '/literature/slownik/#p-c36' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

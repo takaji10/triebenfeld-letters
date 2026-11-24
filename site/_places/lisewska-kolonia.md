@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Colony next to the village of Lisewo, in the Zagórów area. The Słownik geograficzny records it as a colony, in gmina Dłusk, parish of Zagórów, powiat słupecki.[^1]
 
-[^1]: Słownik geograficzny, t. V, p. 301
+[^1]: [Słownik geograficzny, t. V, p. 301.]({% endraw %}{{ '/literature/slownik/#p-c11' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

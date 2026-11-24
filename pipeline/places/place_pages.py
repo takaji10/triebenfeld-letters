@@ -57,6 +57,78 @@ SOURCE_FIELDS = ('slug', 'ref', 'title', 'title_en', 'cite', 'site',
                  'source', 'account_en', 'account_de')
 
 
+
+# The citations of a place entry (the editor, 2026-11-24): the citation itself
+# is the link ("Ibid No. 1363." linked, no "The document."), a second document
+# of the same citation follows as "(also)". The links are written through
+# relative_url, out of the raw block for the moment, so that they carry the
+# live site's prefix (/triebenfeld-letters); a plain /documents/... link inside
+# {% raw %} missed it and was broken on the live site. The entries of the
+# Słownik geograficzny and Nazwy miejscowe Polski, shown in full since
+# 2026-11-24, are linked to their entry on the work's page, found by the
+# volume and page in the entry's heading.
+_LIT_ENTRY_CACHE = {}
+
+
+def lit_entry_link(source, locator, name=''):
+    if source not in ('slownik', 'nmpol') or not locator:
+        return None
+    if source not in _LIT_ENTRY_CACHE:
+        heads = []
+        path = os.path.join(ROOT, 'literature', source, 'original.md')
+        if os.path.isfile(path):
+            with open(path, encoding='utf-8') as fh:
+                heads = [ln for ln in fh if ln.startswith('## ')]
+        _LIT_ENTRY_CACHE[source] = heads
+    norm = lambda t: re.sub(r'\s+', ' ', t).strip().rstrip('.').lower()
+    want = norm(locator)
+    hits = []
+    for i, h in enumerate(_LIT_ENTRY_CACHE[source], 1):
+        m = re.search(r'\[([^\]]*)\]', h)
+        if not m:
+            continue
+        b = norm(m.group(1))
+        j = b.find(want)
+        if j >= 0 and (b[j + len(want):] == '' or b[j + len(want):].startswith(', sub')):
+            hits.append((i, norm(h[3:m.start()])))
+    if len(hits) > 1 and name:
+        n = norm(name)
+        named = [x for x in hits if x[1] and (x[1] in n or n in x[1])]
+        hits = named or hits
+    if not hits and name:
+        # an entry that runs over a page: the same volume and the same name
+        vol = re.match(r'(t\. [^,]+),', want)
+        n = norm(name)
+        for i, h in enumerate(_LIT_ENTRY_CACHE[source], 1):
+            m = re.search(r'\[([^\]]*)\]', h)
+            if m and vol and vol.group(1) in norm(m.group(1)) and norm(h[3:m.start()]) == n:
+                hits.append((i, n))
+                break
+    return f'/literature/{source}/#p-c{hits[0][0]:02d}' if hits else None
+
+
+def _liquid_url(link):
+    return "{% endraw %}{{ '" + link + "' | relative_url }}{% raw %}"
+
+
+def footnote_md(f_, name=''):
+    text = (f_.get('text') or '').strip()
+    links = []
+    for r_ in (f_.get('refs') or []):
+        if r_.get('status') == 'linked' and r_.get('link'):
+            links.append(r_['link'])
+        else:
+            lk = lit_entry_link(r_.get('source'), r_.get('locator'), name)
+            if lk:
+                links.append(lk)
+    label = text if text.endswith('.') else text + '.'
+    if not links:
+        return label
+    out = f'[{label}]({_liquid_url(links[0])})'
+    for lk in links[1:]:
+        out += f' ([also]({_liquid_url(lk)}))'
+    return out
+
 def body_of(path):
     """The file's text: leading comment lines and the blank line after them
     are the file's own header, as in dataset/literature/."""
@@ -381,10 +453,7 @@ def main():
                 if text_en:
                     body += [text_en, '']
                 for f_ in fns:
-                    body.append(f'[^{f_["n"]}]: {f_["text"]}')
-                    for r_ in (f_.get('refs') or []):
-                        if r_.get('status') == 'linked' and r_.get('link'):
-                            body.append(f'    [The document.]({r_["link"]})')
+                    body.append(f'[^{f_["n"]}]: ' + footnote_md(f_, g.get('heading') or ''))
                     body.append('')
                 body += ['</div>', '{% endraw %}', '']
             # the map: the iframe is laid out at twice the size shown and

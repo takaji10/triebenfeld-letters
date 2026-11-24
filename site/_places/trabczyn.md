@@ -22,26 +22,19 @@ hits_docs_count: 253
 
 Village southeast of Zagórów. First mentioned as *Trampczino* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^81] Trąbczyn (*Trupcino*) was given to Count Nicholas, treasurer of Ląd in 1276 by Duke Bolesław V the Chaste after the former owner Count Ianchoni, son of Simon, died without an heir.[^82] Nicholas was granted permission to lease Trąbczyn (*Tropcssino*) by Przemysł II in 1284.[^83] Trąbczyn was owned by the brothers Johannis and Przedpełk, and Andreas in 1346.[^84] The village was also mentioned in 1399 (as *Trambczyno*) when the Archbishop of Gniezno ruled that the tithing of a portion of crops from Trąbczyn were to be given to Ląd Abbey, instead of to the village’s rector Johannes.[^85] The Geographical Dictionary of the Kingdom of Poland in 1892 stated that Trąbczyn had a wooden parish church, an elementary school, a post office, distilleries, an oil mill, a brickyard, and a windmill.[^86] In the early 20th century, Trąbczyn was surrounded by a folwark with the same name as the town (Pełzucki 1901). Renamed to *Drommin* during Nazi Germany occupation (Hohensalza 1942) and was part of *Amtsbezirk (District) Drommin*.[^87] *Trąmbczino* (Blaeu 1665); *Trompzin* (von Pfau 1770); *Trąpczin* (Perthées 1798); with a windmill and chapel/church (Gilly 1802).
 
-[^81]: Zakrzewski, vol. 1, No. 222
-    [The document.](/documents/kdw/2/)
+[^81]: [Zakrzewski, vol. 1, No. 222.]({% endraw %}{{ '/documents/kdw/2/' | relative_url }}{% raw %})
 
-[^82]: Ibid No. 460
-    [The document.](/documents/kdw/5/)
+[^82]: [Ibid No. 460.]({% endraw %}{{ '/documents/kdw/5/' | relative_url }}{% raw %})
 
-[^83]: Ibid No. 535
-    [The document.](/documents/kdw/23/)
+[^83]: [Ibid No. 535.]({% endraw %}{{ '/documents/kdw/23/' | relative_url }}{% raw %})
 
-[^84]: Zakrzewski, vol. 2, Nos. 1252 & 1253
-    [The document.](/documents/kdw/9/)
-    [The document.](/documents/kdw/10/)
+[^84]: [Zakrzewski, vol. 2, Nos. 1252 & 1253.]({% endraw %}{{ '/documents/kdw/9/' | relative_url }}{% raw %}) ([also]({% endraw %}{{ '/documents/kdw/10/' | relative_url }}{% raw %}))
 
-[^85]: Zakrzewski, vol. 3, No. 2014
-    [The document.](/documents/kdw/13/)
+[^85]: [Zakrzewski, vol. 3, No. 2014.]({% endraw %}{{ '/documents/kdw/13/' | relative_url }}{% raw %})
 
-[^86]: “Trąbczyn” 448-449
+[^86]: “Trąbczyn” 448-449.
 
-[^87]: Jehke
-    [The document.](https://www.territorial.de/wart//konin/drommin.htm)
+[^87]: [Jehke.]({% endraw %}{{ 'https://www.territorial.de/wart//konin/drommin.htm' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

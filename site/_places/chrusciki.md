@@ -22,9 +22,9 @@ hits_docs_count: 0
 
 Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Chruściki in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, in gmina Oleśnica, powiat słupecki, with 242 inhabitants at the time of the Słownik.[^1] Nazwy miejscowe Polski records it as *Adelhof* in 1802 and *Chruściki* from 1900; the German name was from Adela, a daughter of the Prince of Hohenlohe-Ingelfingen, and the Polish name was introduced officially in 1891.[^2]
 
-[^1]: Słownik geograficzny, t. XV, p. 328
+[^1]: [Słownik geograficzny, t. XV, p. 328.]({% endraw %}{{ '/literature/slownik/#p-c28' | relative_url }}{% raw %})
 
-[^2]: Nazwy miejscowe Polski, t. 2, p. 92
+[^2]: [Nazwy miejscowe Polski, t. 2, p. 92.]({% endraw %}{{ '/literature/nmpol/#p-c12' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

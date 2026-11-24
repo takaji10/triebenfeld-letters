@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Isolated dwellings north of and belonging to Łazińsk Pierwszy. The Geographical Dictionary of the Kingdom of Poland in 1892 listed Grabina and Czerwonka as the same place (pl. “*Grabina al[bo] Czerwonka*”),[^20] though the two places are in separate locations on modern-day maps. *Osada Grabina* (Richter 1843).
 
-[^20]: “Trąbczyn” 448-449
+[^20]: “Trąbczyn” 448-449.
 
 </div>
 {% endraw %}

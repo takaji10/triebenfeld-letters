@@ -20,6 +20,7 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, 'site', '_site')
+SITE_SRC = os.path.join(ROOT, 'site')
 
 
 def _baseurl():
@@ -862,6 +863,30 @@ def main():
                  '#estate- anchors')
         print(f'  {_n} place pages checked in both languages, '
               'no estate anchors left')
+
+    # ---- links that would miss the live site's prefix ----------------------
+    # The live site is served under /triebenfeld-letters (pages.yml builds with
+    # --baseurl); this check runs on a local build with an empty baseurl, so a
+    # root-relative link written plainly in a page source (or inside a raw
+    # block) looks fine here and 404s live (2026-11-24: the place entries'
+    # citations and fourteen glossary links of the era pages). Every internal
+    # link in a source page must go through relative_url.
+    print('checking for links that bypass relative_url...')
+    import glob as _glob
+    _bad = []
+    for _f in (_glob.glob(os.path.join(SITE_SRC, '**', '*.md'), recursive=True)
+               + _glob.glob(os.path.join(SITE_SRC, '**', '*.html'), recursive=True)):
+        if os.sep + '_site' + os.sep in _f or os.sep + 'vendor' + os.sep in _f:
+            continue
+        with open(_f, encoding='utf-8', errors='replace') as _fh:
+            _txt = _fh.read()
+        for _m in re.finditer(r'\]\((/[a-z][^)\s]*)\)|href="(/[a-z][^"]*)"', _txt):
+            _bad.append(f'{os.path.relpath(_f, SITE_SRC)}: {_m.group(0)[:70]}')
+    if _bad:
+        fail(f'{len(_bad)} link(s) bypass relative_url and would 404 on the live site, '
+             f'e.g. {_bad[:3]}')
+    else:
+        print('  every internal link in the page sources goes through relative_url')
 
     # ---- the year range of the search bar ---------------------------------
     # The range selector's limits are the earliest and latest year of anything

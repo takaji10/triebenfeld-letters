@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Hamlet south of and belonging to Łazy. The Geographical Dictionary of the Kingdom of Poland in 1892 listed Grabina and Czerwonka as the same place (pl. “*Grabina al[bo] Czerwonka*”),[^11] though the two places are in separate locations on modern-day maps. Appeared as a folwark (Kozłowski 1861).
 
-[^11]: “Trąbczyn” 448-449
+[^11]: “Trąbczyn” 448-449.
 
 </div>
 {% endraw %}

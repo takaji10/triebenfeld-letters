@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Settlement with an unknown location. Appeared in Zagórów Evangelical-Augsburg Lutheran parish metrical records from 1919.[^89] Likely created after the parcelling of Trąbczyn estate property in the late 19th century.
 
-[^89]: Ibid 1921/#25 Page 220/Image 354
+[^89]: Ibid 1921/#25 Page 220/Image 354.
 
 </div>
 {% endraw %}

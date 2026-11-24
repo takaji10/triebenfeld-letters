@@ -22,12 +22,11 @@ hits_docs_count: 0
 
 Village east of Myszakówek. According to Chodyła, Myszaków and Myszakówek were simultaneously established before 1789 by the owner of the Łukom estate.[^49] *Miszokowo* (von Pfau 1770); with a windmill (Wreschen 1901). The Słownik geograficzny records it (with Myszakówek) as a village, folwark and mill in gmina Trąbczyn, parish of Zagórów, powiat słupecki — the two villages together 29 houses and 380 inhabitants, the folwark 3 houses and 39, the mill 1 and 2, at the time of the Słownik.[^50] Nazwy miejscowe Polski records the name as *Misszakowo* by 1413, later as *Myszaków* (1827).[^51]
 
-[^49]: Chodyła 70
-    [The document.](/literature/chodyla2015/#p-70)
+[^49]: [Chodyła 70.]({% endraw %}{{ '/literature/chodyla2015/#p-70' | relative_url }}{% raw %})
 
-[^50]: Słownik geograficzny, t. VI, p. 838
+[^50]: [Słownik geograficzny, t. VI, p. 838.]({% endraw %}{{ '/literature/slownik/#p-c15' | relative_url }}{% raw %})
 
-[^51]: Nazwy miejscowe Polski, t. 7, p. 309
+[^51]: [Nazwy miejscowe Polski, t. 7, p. 309.]({% endraw %}{{ '/literature/nmpol/#p-c18' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

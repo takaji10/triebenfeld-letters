@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Forestry settlement in the gmina of Trąbczyn at the time of the Słownik, one house. The Słownik geograficzny records it as a forestry settlement, gmina and parish of Trąbczyn, powiat słupecki, 19 versts from Słupca, with 1 house and 6 inhabitants.[^1]
 
-[^1]: Słownik geograficzny, t. XIII, p. 340
+[^1]: [Słownik geograficzny, t. XIII, p. 340.]({% endraw %}{{ '/literature/slownik/#p-c41' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

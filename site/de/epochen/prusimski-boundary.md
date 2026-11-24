@@ -35,7 +35,7 @@ vernehmen soll, wem er gehört
 ([das Dekret]({{ '/documents/app536040/1/' | relative_url }})). 1767 erfährt der neue
 Erbherr, Antoni Prusimski, von seinem Gerichtsboten, dass ein von den Leuten von Łukom
 aufgeworfener Damm das Wasser gestaut und die
-[Olęder](/de/glossar/#haulaender)-Siedler in den Wäldern von Trąbczyn samt ihren Feldern
+[Olęder]({{ '/de/glossar/#haulaender' | relative_url }})-Siedler in den Wäldern von Trąbczyn samt ihren Feldern
 und Wiesen überschwemmt hat
 ([die Berichte]({{ '/documents/app53170koningr114/1/' | relative_url }})).
 
@@ -101,7 +101,7 @@ und die Forderung der Nachfolger Radolińskis von 43.000 Florin polnisch auf Tr�
 auf Verdacht der Fälschung bestritten, ließ das Gericht unentschieden. Am 29. März 1784
 saß die Kondeszension auf dem Grund von Trąbczyn und gab ihr Dekret: die reine
 mütterliche Masse geteilt unter die sechs Teile, die väterliche Substanz dem Neffen der
-Brüder zugesprochen, Antoni in Kolno Prusimski, [Starost](/de/glossar/#starost) von
+Brüder zugesprochen, Antoni in Kolno Prusimski, [Starost]({{ '/de/glossar/#starost' | relative_url }}) von
 Niszczewice ([das Dekret]({{ '/documents/app5320pozgr1181/1/' | relative_url }})).
 
 ### Die Pfarrei

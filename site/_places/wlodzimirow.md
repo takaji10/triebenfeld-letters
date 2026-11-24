@@ -22,12 +22,11 @@ hits_docs_count: 0
 
 Village south of Michalinów Oleśnicki. Named after Count Włodzimierz Miączyński (1811-1879), owner of the Trąbczyn estate. According to Breyer, Włodzimirów was established on German-owned land.[^96] First mentioned in an 1826 Trąbczyn Catholic parish metrical record.[^97] Appeared as a folwark (Richter 1843); *Kolonia Włodzimirów* (Pełzucki 1901). The Słownik geograficzny records it as a folwark, parish of Trąbczyn, powiat słupecki, with 1 house and 17 inhabitants at the time of the Słownik.[^98]
 
-[^96]: Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]"
-    [The document.](/documents/app539680669/2/)
+[^96]: [Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]".]({% endraw %}{{ '/documents/app539680669/2/' | relative_url }}{% raw %})
 
-[^97]: *Parafja Trąbczyn (Słupca): Akta Urodzeń, Małżeństw, Zgonów 1826*, 2005, #49 Page 23/Image 872
+[^97]: *Parafja Trąbczyn (Słupca): Akta Urodzeń, Małżeństw, Zgonów 1826*, 2005, #49 Page 23/Image 872.
 
-[^98]: Słownik geograficzny, t. XIII, p. 718, sub 1
+[^98]: [Słownik geograficzny, t. XIII, p. 718, sub 1.]({% endraw %}{{ '/literature/slownik/#p-c24' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

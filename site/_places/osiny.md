@@ -22,11 +22,11 @@ hits_docs_count: 18
 
 Village west of Łazy. First mentioned in a 1606 marriage record from Trąbczyn Catholic parish metrical records as *Osynÿ*.[^56] Mentioned as a mill in a 1784 court document which challenged the inheritance of the Trąbczyn estate and other assets by Antoni Prusimski (1744-1806).[^57] *Oszin* (von Pfau 1770), *Ossiny* (Perthées 1798). Nazwy miejscowe Polski records the name as *Ossyny* by 1475.[^58]
 
-[^56]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 8/Image 342
+[^56]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 8/Image 342.
 
-[^57]: “Relationes [protocollon],” 1786, 164
+[^57]: “Relationes [protocollon],” 1786, 164.
 
-[^58]: Nazwy miejscowe Polski, t. 8, p. 178
+[^58]: [Nazwy miejscowe Polski, t. 8, p. 178.]({% endraw %}{{ '/literature/nmpol/#p-c20' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

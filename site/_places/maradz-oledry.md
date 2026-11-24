@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Olęder settlement which existed southwest of Stanisławów. First mentioned in a 1808 birth record from Trąbczyn Catholic parish metrical records.[^46]
 
-[^46]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, 1808/#44 Page 16/Image 249
+[^46]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, 1808/#44 Page 16/Image 249.
 
 </div>
 {% endraw %}

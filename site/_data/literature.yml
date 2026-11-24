@@ -803,7 +803,6 @@
   title_en_card: null
   thumb: null
   pages: 0
-  summary_only: true
 - slug: seidel2018
   kind: biography
   title: Friedrich Ludwig Fürst zu Hohenlohe-Ingelfingen. Stadterneuerer, dynamischer preußischer General, verlassener Ehemann, Schuldenmacher
@@ -842,16 +841,15 @@
   scan: ''
   note_en: ''
   note_de: ''
-  account_en: Mirosław Słowiński, the author of Zagórów. Album miasta (2007), edits and discusses a hoard of letters found in 1995 walled up in the former cantor's house at Łazińsk, in a book published at Konin in 2023. They are the letters of Bruno Edwin Mielke, a Wehrmacht private from Łazińsk who served on the Arctic front at Petsamo from 1942 to 1944, and of his family at home, written from February 1940 to May 1944. The letters are given in Polish translation, with the author's commentary, an introduction on the German settlement around Zagórów, and an appendix with a German-era note on Łazińsk and the lists of the hoard and of the cantor's library. The book is under copyright, and a detailed summary stands in its place.
-  account_de: Mirosław Słowiński, der Verfasser von Zagórów. Album miasta (2007), gibt einen 1995 im ehemaligen Kantorhaus von Łazińsk eingemauert gefundenen Briefschatz heraus und bespricht ihn, in einem 2023 in Konin erschienenen Buch. Es sind die Briefe des Bruno Edwin Mielke, eines Wehrmachtsoldaten aus Łazińsk, der von 1942 bis 1944 an der Eismeerfront bei Petsamo diente, und seiner Familie daheim, geschrieben vom Februar 1940 bis zum Mai 1944. Die Briefe stehen in polnischer Übersetzung, mit dem Kommentar des Verfassers, einer Einleitung über die deutsche Besiedlung um Zagórów und einem Anhang mit einer Notiz der deutschen Zeit über Łazińsk und den Verzeichnissen des Fundes und der Bibliothek des Kantors. Das Buch ist urheberrechtlich geschützt; an seiner Stelle steht eine ausführliche Zusammenfassung.
+  account_en: Mirosław Słowiński, the author of Zagórów. Album miasta (2007), edits and discusses a hoard of letters found in 1995 walled up in the former cantor's house at Łazińsk, in a book published at Konin in 2023. They are the letters of Bruno Edwin Mielke, a Wehrmacht private from Łazińsk who served on the Arctic front at Petsamo from 1942 to 1944, and of his family at home, written from February 1940 to May 1944. The letters are given in Polish translation, with the author's commentary, an introduction on the German settlement around Zagórów, and an appendix with a German-era note on Łazińsk and the lists of the hoard and of the cantor's library.
+  account_de: Mirosław Słowiński, der Verfasser von Zagórów. Album miasta (2007), gibt einen 1995 im ehemaligen Kantorhaus von Łazińsk eingemauert gefundenen Briefschatz heraus und bespricht ihn, in einem 2023 in Konin erschienenen Buch. Es sind die Briefe des Bruno Edwin Mielke, eines Wehrmachtsoldaten aus Łazińsk, der von 1942 bis 1944 an der Eismeerfront bei Petsamo diente, und seiner Familie daheim, geschrieben vom Februar 1940 bis zum Mai 1944. Die Briefe stehen in polnischer Übersetzung, mit dem Kommentar des Verfassers, einer Einleitung über die deutsche Besiedlung um Zagórów und einem Anhang mit einer Notiz der deutschen Zeit über Łazińsk und den Verzeichnissen des Fundes und der Bibliothek des Kantors.
   brief_en: Słowiński's edition of the letters found in 1995 in the wall of the cantor's house at Łazińsk, written by a Wehrmacht soldier and his family, 1940 to 1944.
   brief_de: Słowińskis Ausgabe der 1995 in der Wand des Kantorhauses von Łazińsk gefundenen Briefe eines Wehrmachtsoldaten und seiner Familie, 1940 bis 1944.
   published_card: 'Konin: Wydawnictwo Setidava, Miejska Biblioteka Publiczna im. Zofii Urbanowskiej w Koninie, 2023'
   title_card: null
   title_en_card: null
   thumb: null
-  pages: 0
-  summary_only: true
+  pages: 92
 - slug: slowinskipolom2024
   kind: book
   title: Zerwane ogniwo. Ewangelicy na ziemi zagórowskiej
@@ -899,7 +897,6 @@
   title_en_card: null
   thumb: null
   pages: 0
-  summary_only: true
 - slug: szwiec2009
   kind: report
   title: Katalog architektury regionalnej dla obszaru „Puszczy Pyzdrskiej”. Opracowanie badań naukowych przeprowadzonych jesienią 2009 roku
@@ -983,7 +980,7 @@
   scan: ''
   note_en: ''
   note_de: ''
-  account_en: 'Two pages of Teodor Żychliński''s genealogy of the Polish nobility, from his account of the Prusimski family, who wrote themselves Ostroróg. They give the line that held Trąbczyn: Krzysztof, lord of Kolno, Kamionna and Trąbczyn, with his four sons and three daughters. It names his son Stefan; Stefan''s only son Antoni, the Starost of Nieszczewice, and his wife Maryanna Dąmbska. It names their only daughter Michalina, who married first Józef Dąmbski and then Stanisław Miączyński and brought him Trąbczyn, "which her grandson, Count Władysław Miączyński, holds today". Above them stand two earlier generations, back to Paweł Apollo the chamberlain. Żychliński wrote from the court books he cites and from what the families told him.'
+  account_en: 'Teodor Żychliński''s account of the Prusimski family, in his genealogy of the Polish nobility (the Prusimskis also wrote themselves Ostroróg). It gives the line that held Trąbczyn: Krzysztof, lord of Kolno, Kamionna and Trąbczyn, with his four sons and three daughters. It names his son Stefan; Stefan''s only son Antoni, the Starost of Nieszczewice, and his wife Maryanna Dąmbska. It names their only daughter Michalina, who married first Józef Dąmbski and then Stanisław Miączyński and brought him Trąbczyn, "which her grandson, Count Władysław Miączyński, holds today". Above them stand two earlier generations, back to Paweł Apollo the chamberlain. Żychliński wrote from the court books he cites and from what the families told him.'
   account_de: 'Zwei Seiten aus Teodor Żychlińskis Genealogie des polnischen Adels, aus seiner Darstellung der Familie Prusimski, die sich Ostroróg schrieb. Sie geben die Linie, die Trąbczyn besaß: Krzysztof, Herr auf Kolno, Kamionna und Trąbczyn, mit seinen vier Söhnen und drei Töchtern. Sie nennen seinen Sohn Stefan; Stefans einzigen Sohn Antoni, den Starosten von Nieszczewice, und seine Frau Maryanna Dąmbska. Sie nennen ihre einzige Tochter Michalina, die zuerst Józef Dąmbski und dann Stanisław Miączyński heiratete und ihm Trąbczyn zubrachte, „das heute ihr Enkel, Graf Władysław Miączyński, besitzt“. Darüber stehen zwei frühere Generationen, bis zu Paweł Apollo, dem Kämmerer. Żychliński schrieb aus den Gerichtsbüchern, die er anführt, und nach den Auskünften der Familien.'
   related: 2
   brief_en: 'Żychliński''s genealogy of the Prusimski Ostroróg: the line that held Trąbczyn, from Krzysztof to the Starost Antoni and his daughter Michalina.'
@@ -1007,7 +1004,7 @@
   scan: ''
   note_en: ''
   note_de: ''
-  account_en: 'Seven pages of Teodor Żychliński''s genealogy of the Polish nobility, from his account of the Counts Miączyński: Stanisław Miączyński, who married Michalina Prusimska, the heiress of Trąbczyn, in August 1809, and their descendants to 1888. Żychliński gives Stanisław''s service as adjutant to Prince Józef Poniatowski, with the order of the day of 1809 and the Prince''s letter of 1812, and the marriage settlement. Stanisław, dying in Berlin in 1845, divided the estates among his four sons, and Trąbczyn went by sale to Mieczysław, who later sold it to Włodzimierz. The pages close with the newspaper notices of the deaths of Michalina in 1851 and Włodzimierz in 1879, and with Włodzimierz''s nephew Władysław, heir of Trąbczyn. A footnote dates the death of Michalina''s mother, Maryanna Dąmbska, to Padua, 1797.'
+  account_en: 'Teodor Żychliński''s account of the Counts Miączyński, in his genealogy of the Polish nobility: Stanisław Miączyński, who married Michalina Prusimska, the heiress of Trąbczyn, in August 1809, and their descendants to 1888. Żychliński gives Stanisław''s service as adjutant to Prince Józef Poniatowski, with the order of the day of 1809 and the Prince''s letter of 1812, and the marriage settlement. Stanisław, dying in Berlin in 1845, divided the estates among his four sons, and Trąbczyn went by sale to Mieczysław, who later sold it to Włodzimierz. The pages close with the newspaper notices of the deaths of Michalina in 1851 and Włodzimierz in 1879, and with Włodzimierz''s nephew Władysław, heir of Trąbczyn. A footnote dates the death of Michalina''s mother, Maryanna Dąmbska, to Padua, 1797.'
   account_de: 'Sieben Seiten aus Teodor Żychlińskis Genealogie des polnischen Adels, aus seiner Darstellung der Grafen Miączyński: Stanisław Miączyński, der im August 1809 Michalina Prusimska, die Erbin von Trąbczyn, heiratete, und ihre Nachkommen bis 1888. Żychliński gibt Stanisławs Dienst als Adjutant des Fürsten Józef Poniatowski, mit dem Tagesbefehl von 1809 und dem Brief des Fürsten von 1812, und den Ehevertrag. Stanisław teilte, als er 1845 in Berlin starb, die Güter unter seine vier Söhne, und Trąbczyn ging durch Kauf an Mieczysław, der es später an Włodzimierz verkaufte. Die Seiten schließen mit den Zeitungsnachrichten vom Tod Michalinas 1851 und Włodzimierz'' 1879 und mit Włodzimierz'' Neffen Władysław, dem Erben von Trąbczyn. Eine Fußnote setzt den Tod von Michalinas Mutter, Maryanna Dąmbska, nach Padua, 1797.'
   related: 2
   brief_en: Żychliński's genealogy of the Counts Miączyński, from Stanisław's marriage to the heiress of Trąbczyn in 1809 to the heir Władysław.

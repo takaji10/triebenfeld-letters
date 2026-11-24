@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Settlement in the gmina of Emilienheim at the time of the Słownik. The Słownik geograficzny records it as a settlement, gmina Emilienheim, parish of Zagórów, powiat słupecki, 15½ versts from Słupca.[^1]
 
-[^1]: Słownik geograficzny, t. VII, p. 386
+[^1]: [Słownik geograficzny, t. VII, p. 386.]({% endraw %}{{ '/literature/slownik/#p-c39' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

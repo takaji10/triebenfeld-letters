@@ -22,19 +22,15 @@ hits_docs_count: 0
 
 German colony northwest of Wrąbczynek, not to be confused with Wrąbczynkowskie Holendry, the older Olęder settlement west of Wrąbczyn, or with Wrąbczyn Górski on the road from Wrąbczyn to Wrąbczynek. It was one of the colonies founded on the estates of Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen, after his general agent Triebenfeld let 100 Hufen of forest to eighteen German settlers in hereditary lease.[^1] Breyer and Wąsicki name *Kolonie Wrombczyn* (*kolonia Wrąbczyn*) among the German villages that came about in this way, with Ingelfingen, Emilienheim, Augustinhof and Schwentz on the upland beside the Warta valley.[^2][^3] Chodyła counts Wrąbczyn among the colonies whose settlers came chiefly from Silesia and in smaller part from the Neumark.[^4] *Колонія Вромбчинъ* (Mapa dróg 1890). The Słownik geograficzny records it as *Wrąbczyńskie Holendry*, a colony, gmina Emilienheim, parish of Zagórów, powiat słupecki, 17 versts from Słupca, with 8 houses and 61 inhabitants.[^5]
 
-[^1]: APP 53/968/0/-/801, document 3 (the hereditary lease of 21 March 1806)
-    [The document.](/documents/app539680801/3/)
+[^1]: [APP 53/968/0/-/801, document 3 (the hereditary lease of 21 March 1806).]({% endraw %}{{ '/documents/app539680801/3/' | relative_url }}{% raw %})
 
-[^2]: Breyer, Die deutschen ländlichen Siedlungen des mittelpolnischen Warthebruchs (1938), p. 21
-    [The document.](/literature/breyer1938/#p-21)
+[^2]: [Breyer, Die deutschen ländlichen Siedlungen des mittelpolnischen Warthebruchs (1938), p. 21.]({% endraw %}{{ '/literature/breyer1938/#p-21' | relative_url }}{% raw %})
 
-[^3]: Wąsicki, Kolonizacja niemiecka w okresie Prus Południowych 1793-1806 (1953), p. 176
-    [The document.](/literature/wasicki1953/#p-176)
+[^3]: [Wąsicki, Kolonizacja niemiecka w okresie Prus Południowych 1793-1806 (1953), p. 176.]({% endraw %}{{ '/literature/wasicki1953/#p-176' | relative_url }}{% raw %})
 
-[^4]: Chodyła, Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746-1793 (2015), p. 147
-    [The document.](/literature/chodyla2015/#p-147)
+[^4]: [Chodyła, Zarys najstarszych dziejów osad olęderskich w Puszczy Pyzdrskiej 1746-1793 (2015), p. 147.]({% endraw %}{{ '/literature/chodyla2015/#p-147' | relative_url }}{% raw %})
 
-[^5]: Słownik geograficzny, t. XIV, p. 16
+[^5]: [Słownik geograficzny, t. XIV, p. 16.]({% endraw %}{{ '/literature/slownik/#p-c25' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

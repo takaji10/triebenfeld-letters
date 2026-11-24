@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Hamlet west of and belonging to Michalinów Trąbczyński. Appeared in Zagórów Evangelical-Augsburg Lutheran parish metrical records around 1920.[^88] Likely created after the parcelling of Trąbczyn estate property in the late 19th century.
 
-[^88]: *Parafja Zagórów (Słupca): Akta Urodzeń 1915-1921*, 1982, 1920/#12 Page 134/Image 311
+[^88]: *Parafja Zagórów (Słupca): Akta Urodzeń 1915-1921*, 1982, 1920/#12 Page 134/Image 311.
 
 </div>
 {% endraw %}

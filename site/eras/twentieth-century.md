@@ -13,7 +13,7 @@ By the twentieth century the manor of Trąbczyn no longer belonged to the Miącz
 family, who had held it since 1807; it had been sold in 1892. Its remaining land was bought by a man named Jesse and called
 Włodzimierow, and about 1911 it too was parcelled out, almost all of it to German
 settlers ([Albert Breyer's notebook]({{ '/documents/app539680669/2/' | relative_url }})).
-The [Olęder](/glossary/#haulaender) settlements of the estate — Łazińsk and Emilienheim
+The [Olęder]({{ '/glossary/#haulaender' | relative_url }}) settlements of the estate — Łazińsk and Emilienheim
 among them — were now villages of the commune of Trąbczyn in the Polish state.
 
 Albert Breyer, a teacher at the German school in Sompolno and a historian of the German

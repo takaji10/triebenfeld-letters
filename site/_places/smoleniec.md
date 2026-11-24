@@ -22,10 +22,9 @@ hits_docs_count: 0
 
 Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe Polski records it as *Smoliniec* in 1783-84 and *Smoleniec* from 1802; the name was taken over from a meadow called *Smolieniecz* "between Łukom and Myszków" (1578), from *smolany*, tarry, and probably first named a forest of which the meadow remained.[^68]
 
-[^67]: Szwiec 11
-    [The document.](/literature/szwiec2009/#p-11)
+[^67]: [Szwiec 11.]({% endraw %}{{ '/literature/szwiec2009/#p-11' | relative_url }}{% raw %})
 
-[^68]: Nazwy miejscowe Polski, t. 14, p. 176
+[^68]: [Nazwy miejscowe Polski, t. 14, p. 176.]({% endraw %}{{ '/literature/nmpol/#p-c06' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

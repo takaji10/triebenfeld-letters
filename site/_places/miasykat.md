@@ -22,8 +22,7 @@ hits_docs_count: 0
 
 Forest located in the southwest corner of the Trąbczyn estate. Exact location unknown. Mentioned in a 1775 border commission report which detailed a boundary dispute between the estates of Trąbczyn and Łukom. According to the source, Trąbczyńskie Stare Olędry was founded in the forests of *Miąsykąt*, *Dziadulina*, and *Lusnie*.[^47]
 
-[^47]: “Relationes-oblatae [protocollon],” 1776, 692
-    [The document.](/documents/app53170koningr145/1/#p76)
+[^47]: [“Relationes-oblatae [protocollon],” 1776, 692.]({% endraw %}{{ '/documents/app53170koningr145/1/#p76' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

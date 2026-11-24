@@ -22,16 +22,13 @@ hits_docs_count: 5
 
 Village south of Wrąbczynkowskie Holendry. First mentioned as *Nadamirza* in a 1377 document where Palatine Przecław of Kalisz and others protested to Louis I of Hungary that Wrąbczynek with the adjoining village of Adamierz belonged to Ląd Abbey.[^1] Mentioned as *Nadomirz* in a 1440 document where Władysław III bequeathed Stanisław the Black 500 grzywny from Adamierz and other villages.[^2] Known in metrical records as *Yadomierzh’ (Ядомиржъ)* during the Russian period (ca. 1868-1915). Nazwy miejscowe Polski traces the name from the medieval *Nedamirz* through *Nadomyrz*, *Niedamierz* and *Jadamyerz* to the modern form.[^3] The Słownik geograficzny records it as a folwark, in gmina Trąbczyn, powiat słupecki, with 1 house and 7 inhabitants at the time of the Słownik.[^4]
 
-[^1]: Zakrzewski, vol. 3, No. 1739
-    [The document.](/documents/kdw/11/)
+[^1]: [Zakrzewski, vol. 3, No. 1739.]({% endraw %}{{ '/documents/kdw/11/' | relative_url }}{% raw %})
 
-[^2]: Gąsiorowski and Jasiński, vol. 10, Nos. 1520 & 1532
-    [The document.](/documents/kdw/20/)
-    [The document.](/documents/kdw/21/)
+[^2]: [Gąsiorowski and Jasiński, vol. 10, Nos. 1520 & 1532.]({% endraw %}{{ '/documents/kdw/20/' | relative_url }}{% raw %}) ([also]({% endraw %}{{ '/documents/kdw/21/' | relative_url }}{% raw %}))
 
-[^3]: Nazwy miejscowe Polski, t. 1, p. 44
+[^3]: [Nazwy miejscowe Polski, t. 1, p. 44.]({% endraw %}{{ '/literature/nmpol/#p-c02' | relative_url }}{% raw %})
 
-[^4]: Słownik geograficzny, t. XV, p. 8
+[^4]: [Słownik geograficzny, t. XV, p. 8.]({% endraw %}{{ '/literature/slownik/#p-c31' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

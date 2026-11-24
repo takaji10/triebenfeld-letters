@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Forest northwest and southeast of Huta. Listed as a forest settlement (Pl. *osada leśna*) with one house and five inhabitants in the Geographical Dictionary of the Kingdom of Poland in 1881.[^52] Only one map noted this feature (Kozłowski 1861).
 
-[^52]: “Noga” 172
+[^52]: “Noga” 172.
 
 </div>
 {% endraw %}

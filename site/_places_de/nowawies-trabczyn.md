@@ -22,10 +22,9 @@ hits_docs_count: 23
 
 Village west of Trąbczyn. Mentioned as early as 1597 in Catholic metrical records from Trąbczyn parish.[^53] According to a court document from 1775, Nowa Wieś was also known as *Trąbczyn Mały*.[^54]
 
-[^53]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 1/Image 334
+[^53]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 1/Image 334.
 
-[^54]: “Trąbczynkiem małym, czyli nowa Wsią nazwaną” (“Relationes-oblatae [protocollon],” 1776, 656)
-    [The document.](/documents/app53170koningr145/1/#p4)
+[^54]: [“Trąbczynkiem małym, czyli nowa Wsią nazwaną” (“Relationes-oblatae [protocollon],” 1776, 656).]({% endraw %}{{ '/documents/app53170koningr145/1/#p4' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

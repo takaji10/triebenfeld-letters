@@ -22,10 +22,9 @@ hits_docs_count: 0
 
 Hamlet southwest of Łazińsk Pierwszy. Appeared in Zagórów Evangelical-Augsburg Lutheran parish metrical records around 1920.[^90] Likely created after the parcelling of Trąbczyn estate property in the late 19th century. Breyer noted that Trąbczyn D was forest land that was initially part of the Trąbczyn estate, which was bought by a Jewish person and then sold to Germans 5-6 years before World War I. Breyer cited the *Bocheński, Kinast, Winterfeld, Retzlaff, Schwarz, Lipelt*, and *Schmechel* families living here around 1936.[^91]
 
-[^90]: Ibid 1920/#13 Page 135/Image 311
+[^90]: Ibid 1920/#13 Page 135/Image 311.
 
-[^91]: Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]"
-    [The document.](/documents/app539680669/2/)
+[^91]: [Breyer, "Grodziec [Notatki dotyczące Grodźca, Józefowa, Zamentu, Łazińska]".]({% endraw %}{{ '/documents/app539680669/2/' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

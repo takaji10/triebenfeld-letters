@@ -10,7 +10,7 @@ era: insurgency
 *Eine der sieben Epochen der [Zeitleiste]({{ '/de/zeitleiste/' | relative_url }}).*
 
 1794 erhoben sich die Polen gegen die Teilungsmächte, und Antoni Prusimski —
-[Starost](/de/glossar/#starost) von Niszczewice, Besitzer von Trąbczyn, Kamionna und
+[Starost]({{ '/de/glossar/#starost' | relative_url }}) von Niszczewice, Besitzer von Trąbczyn, Kamionna und
 Kolno — schloss sich ihnen an. Der Aufstand scheiterte, und die preußische Krone zog die
 Güter derer ein, die sich an ihm beteiligt hatten: Prusimski wurde von den preußischen
 Behörden als einer ihrer Anführer genannt, und er floh
@@ -19,7 +19,7 @@ Trąbczyn, Kamionna und Kolno, die Güter, die Preußen Prusimski nahm, sind die
 
 Der Staat, der sie nahm, war neu. Preußen hatte im April 1795 in Basel seinen
 Sonderfrieden geschlossen, und im Oktober teilten die drei Mächte den Rest Polens unter
-sich auf; Preußen annektierte die Provinz, die es [Südpreußen](/de/glossar/#south-prussia)
+sich auf; Preußen annektierte die Provinz, die es [Südpreußen]({{ '/de/glossar/#south-prussia' | relative_url }})
 nannte, und Trąbczyn, Zagórów und ihre Nachbarn gingen auf die Karte des preußischen
 Staates über.
 

@@ -22,8 +22,7 @@ hits_docs_count: 0
 
 Village south of Stawisko. Mentioned as the location of the corner mounds between the estates of Trąbczyn, Łukom, and Biskupice in a 1775 border commission report detailing a dispute between the owners of the Trąbczyn and Łukom estates.[^69] *Studzienka* (Łukom 1766).
 
-[^69]: “Relationes-oblatae [protocollon],” 1776, 693
-    [The document.](/documents/app53170koningr145/1/#p78)
+[^69]: [“Relationes-oblatae [protocollon],” 1776, 693.]({% endraw %}{{ '/documents/app53170koningr145/1/#p78' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

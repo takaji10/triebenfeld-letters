@@ -11,9 +11,9 @@ era: insurgency
 
 In 1793 Russia and Prussia took a second share of Poland's lands; Prussia made the country
 around Konin, with Trąbczyn and Zagórów, part of its new province of
-[South Prussia](/glossary/#south-prussia). In 1794 the Poles rose against Russia and
+[South Prussia]({{ '/glossary/#south-prussia' | relative_url }}). In 1794 the Poles rose against Russia and
 Prussia under Tadeusz Kościuszko, and Antoni Prusimski —
-[starost](/glossary/#starost) of Niszczewice, owner of Trąbczyn, Kamionna and Kolno —
+[starost]({{ '/glossary/#starost' | relative_url }}) of Niszczewice, owner of Trąbczyn, Kamionna and Kolno —
 joined them. The rising failed, and in 1795 Russia, Prussia and Austria divided what was
 left of Poland. The Prussian crown confiscated the estates of those who had taken part:
 the Prussian authorities named Prusimski as one of the rising's leaders, and he fled

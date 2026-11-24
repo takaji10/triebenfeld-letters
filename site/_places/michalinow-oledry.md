@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Village southwest of Łazy. Michalinów Trąbczyński was first mentioned as *Cholędry Michalinowo* in a 1809 birth record from Trąbczyn Catholic parish metrical records.[^48] Possibly named after Michalina Prusimska (1778-1851), who was owner of the Trąbczyn estate in the first half of the 19th century. In the 20th century, Michalinów Olędry became known as Michalinów Trąbczyński. *Michalinowo* (Colberg 1827); *Hol. Michalinowo* (with its location erroneously switched with Łazińskie Olędry on Richter 1843 and Slupetsk 1800); *[Kolonia]* *Michalinow* (Kozłowski 1861); *Michalinów* (Messtischblatt 1940).
 
-[^48]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, Page 45/Image 264
+[^48]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, Page 45/Image 264.
 
 </div>
 {% endraw %}

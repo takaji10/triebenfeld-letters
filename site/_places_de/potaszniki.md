@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Location unknown. Mentioned in Trąbczyn Catholic parish metrical records in the latter half of the 18th century. In one case, a record from 1768 referred to this place as “Potaszniki v[el] Huta” in Latin (“Potaszniki or Huta” in English).[^62] Possibly named after a local noble(?) family with the same last name (*Potasznicki*) as seen in metrical records.
 
-[^62]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 214/Image 255
+[^62]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 214/Image 255.
 
 </div>
 {% endraw %}

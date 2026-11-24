@@ -11,7 +11,7 @@ era: wlodzimierz
 
 Michalina Miączyńska died in 1851, and the estate passed to her son, Count Włodzimierz
 Miączyński. What he inherited was a settlement landscape with a flaw in its title: the
-[Olęder](/glossary/#haulaender) colonies on the estate — Staro-Łazińska and
+[Olęder]({{ '/glossary/#haulaender' | relative_url }}) colonies on the estate — Staro-Łazińska and
 Nowo-Łazińska — held their farms on contracts made between 1805 and 1807 by Prince Hohenlohe-Ingelfingen,
 to whom Prussia had given the estate before Michalina recovered it, and his family had
 never signed them.
@@ -30,7 +30,7 @@ of the Kingdom of Poland owners of the land they farmed; each village received a
 liquidation table fixing its farmsteads, the land that went with them, and the capital
 the government paid the former owner for the dues the peasants had owed. For the Łazińsk
 colony the table, confirmed on 8 February 1868, lists ninety-one farmsteads, the school,
-the cemetery and the common land — 1,691 [Morgen](/glossary/#morgen) 219 rods in all —
+the cemetery and the common land — 1,691 [Morgen]({{ '/glossary/#morgen' | relative_url }}) 219 rods in all —
 and a liquidation capital of 10,055 roubles 70 kopecks for the former owner
 ([the table]({{ '/documents/apl399806603/1/' | relative_url }})). Its copy of 1869 leaves
 the settlers what remained of their old rights: to graze their cattle in the forest

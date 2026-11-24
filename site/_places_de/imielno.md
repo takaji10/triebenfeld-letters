@@ -22,21 +22,17 @@ hits_docs_count: 5
 
 Village north of Łukom. First mentioned as *Chemelino* in a 1243 document where Przemysł I, Duke of Greater Poland donated a hospital (almshouse) in Gniezno to “the rule of the Holy Sepulchre of the house of Miechov.”[^27] The hospital owned several villages, including Imielno. Mentioned in a 1461 privilege document for *Pustkowie Grądziem*.[^28] According to Chodyła, Imielno was re-established as *Imielno Olędry* on the initiative of the owner of the Łukom/Łomów estates before 1789,[^29] either through a change in its legal status or by clearing the land which had been long-abandoned.[^30] This appears likely as Łukom 1766 showed this place as *Dezerta Jemielno* (*dezerta* is Polish for an abandoned place). *Iemielna* (Richter 1843). The Słownik geograficzny records it as a village and folwark, gmina Trąbczyn, parish of Zagórów, powiat słupecki, 17 versts from Słupca, the village with 4 houses and the folwark, part of the Łukom estate, with 2 houses and 42 inhabitants.[^31] Nazwy miejscowe Polski records it as *Gemelne* in 1461-82 and *Imielno Łukomskich* in 1559-61, as *Imielna* in 1859 and *Imielno* from 1877.[^32]
 
-[^27]: Zakrzewski, vol. 1, No. 238
-    [The document.](/documents/kdw/3/)
+[^27]: [Zakrzewski, vol. 1, No. 238.]({% endraw %}{{ '/documents/kdw/3/' | relative_url }}{% raw %})
 
-[^28]: Klasztor cystersów w Lądzie 13-14
-    [The document.](/documents/app5314550221/2/#p1)
+[^28]: [Klasztor cystersów w Lądzie 13-14.]({% endraw %}{{ '/documents/app5314550221/2/#p1' | relative_url }}{% raw %})
 
-[^29]: Chodyła 70. Also see Poznań State Archives unit 53/67/0/-/1 containing mortgage documents relating to Imielno Olędry.
-    [The document.](/literature/chodyla2015/#p-70)
+[^29]: [Chodyła 70. Also see Poznań State Archives unit 53/67/0/-/1 containing mortgage documents relating to Imielno Olędry.]({% endraw %}{{ '/literature/chodyla2015/#p-70' | relative_url }}{% raw %})
 
-[^30]: Ibid 78
-    [The document.](/literature/chodyla2015/#p-78)
+[^30]: [Ibid 78.]({% endraw %}{{ '/literature/chodyla2015/#p-78' | relative_url }}{% raw %})
 
-[^31]: Słownik geograficzny, t. III, p. 276, sub 3
+[^31]: [Słownik geograficzny, t. III, p. 276, sub 3.]({% endraw %}{{ '/literature/slownik/#p-c06' | relative_url }}{% raw %})
 
-[^32]: Nazwy miejscowe Polski, t. 3, p. 529
+[^32]: [Nazwy miejscowe Polski, t. 3, p. 529.]({% endraw %}{{ '/literature/nmpol/#p-c14' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

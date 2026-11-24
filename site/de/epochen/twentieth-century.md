@@ -14,7 +14,7 @@ herausgekommen, die seit 1807 um ihn gekämpft hatte. Sein übriges Land war von
 namens Jesse gekauft worden und hieß Włodzimierow, und um 1911 wurde auch es parzelliert,
 fast alles an deutsche Siedler
 ([Breyers zweites Notizbuch]({{ '/documents/app539680669/2/' | relative_url }})). Die
-[Olęder](/de/glossar/#haulaender)-Siedlungen des Gutes — Łazińsk und Emilienheim unter
+[Olęder]({{ '/de/glossar/#haulaender' | relative_url }})-Siedlungen des Gutes — Łazińsk und Emilienheim unter
 ihnen — waren nun Dörfer der Gemeinde Trąbczyn im polnischen Staat.
 
 Was von ihnen in diesem Archiv erhalten ist, ist das Werk eines Besuchers. Albert Breyer,

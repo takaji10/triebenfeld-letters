@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Village northeast of Kopojno. Originally named *Kolonia Friedrichsfeld* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Tarszewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a folwark, powiat słupecki, called *Friedrichsfeld* until 1891.[^1]
 
-[^1]: Słownik geograficzny, t. XVI, p. 653
+[^1]: [Słownik geograficzny, t. XVI, p. 653.]({% endraw %}{{ '/literature/slownik/#p-c37' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

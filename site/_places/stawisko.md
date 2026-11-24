@@ -22,12 +22,11 @@ hits_docs_count: 0
 
 Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service 1962). The Słownik geograficzny records it as a village and forestry settlement, gmina Trąbczyn, parish of Zagórów, powiat słupecki, 21 versts from Słupca, with 6 houses, and 381 inhabitants together with the villages of Bukowa and Imielno; the village, of 7 holdings and 64 morgi, belonged to the Łukom estate.[^69] Nazwy miejscowe Polski records it as *Stawisko* from 1834 ("na Stawisku"), a folwark in 1839.[^70]
 
-[^68]: Arct, “Stawisko,” 774
-    [The document.](/glossary/#stawisko)
+[^68]: [Arct, “Stawisko,” 774.]({% endraw %}{{ '/glossary/#stawisko' | relative_url }}{% raw %})
 
-[^69]: Słownik geograficzny, t. XI, p. 295, sub 2
+[^69]: [Słownik geograficzny, t. XI, p. 295, sub 2.]({% endraw %}{{ '/literature/slownik/#p-c19' | relative_url }}{% raw %})
 
-[^70]: Nazwy miejscowe Polski, t. 15, p. 223
+[^70]: [Nazwy miejscowe Polski, t. 15, p. 223.]({% endraw %}{{ '/literature/nmpol/#p-c08' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

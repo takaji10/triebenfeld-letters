@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Mill settlement on the Łukomka, in the Zagórów area; distinct from the village of Łukom. The Słownik geograficzny records it as a mill in gmina Trąbczyn, parish of Zagórów, powiat słupecki, with 6 inhabitants at the time of the Słownik.[^1]
 
-[^1]: Słownik geograficzny, t. V, p. 818
+[^1]: [Słownik geograficzny, t. V, p. 818.]({% endraw %}{{ '/literature/slownik/#p-c14' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

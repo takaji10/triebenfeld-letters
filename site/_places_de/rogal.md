@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Forester's settlement in the Zagórów area, one house at the time of the Słownik. The Słownik geograficzny records it as a forestry settlement, gmina and parish of Zagórów, powiat słupecki, 15 versts from Słupca, with 1 house.[^1]
 
-[^1]: Słownik geograficzny, t. IX, p. 658
+[^1]: [Słownik geograficzny, t. IX, p. 658.]({% endraw %}{{ '/literature/slownik/#p-c10' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

@@ -22,17 +22,15 @@ hits_docs_count: 40
 
 Village east of Zagórów. First mentioned as *Kopanino* in a 1240 document where Archbishop Fulco of Gniezno conferred the tithes from seven villages to Ląd Abbey.[^32] Mentioned in a 1291 privilege document from Ląd Abbey which stated that Count Sendivogius traded Kopojno (*Copaino*) to the abbey in exchange for Główiew, Sławsk, and Chocz.[^33] *Kopaino* (von Pfau 1770); *Kopanie* (Perthées 1798); with a windmill (Gilly 1802); *Kopiec* (Chrzanowski 1858); with a manor house (Wreschen 1901). The Słownik geograficzny records it as a village on the Czarna Struga and a folwark on the Warta, gmina Emilienheim, parish of Zagórów, powiat słupecki, 20 versts from Słupca, the village with 65 houses and 791 inhabitants and the folwark with 9 houses and 102 inhabitants (52 houses and 480 inhabitants in 1827).[^34] The Słownik geograficzny records it as a village, powiat słupecki.[^35] Nazwy miejscowe Polski records the name as *Kopanino* by 1240, later as *Kopoyno* (1827).[^36]
 
-[^32]: Zakrzewski, vol. 1, No. 222
-    [The document.](/documents/kdw/2/)
+[^32]: [Zakrzewski, vol. 1, No. 222.]({% endraw %}{{ '/documents/kdw/2/' | relative_url }}{% raw %})
 
-[^33]: Zakrzewski, vol. 2, No. 678
-    [The document.](/documents/kdw/7/)
+[^33]: [Zakrzewski, vol. 2, No. 678.]({% endraw %}{{ '/documents/kdw/7/' | relative_url }}{% raw %})
 
-[^34]: Słownik geograficzny, t. IV, p. 382
+[^34]: [Słownik geograficzny, t. IV, p. 382.]({% endraw %}{{ '/literature/slownik/#p-c07' | relative_url }}{% raw %})
 
-[^35]: Słownik geograficzny, t. XVI, p. 120
+[^35]: [Słownik geograficzny, t. XVI, p. 120.]({% endraw %}{{ '/literature/slownik/#p-c32' | relative_url }}{% raw %})
 
-[^36]: Nazwy miejscowe Polski, t. 5, p. 127
+[^36]: [Nazwy miejscowe Polski, t. 5, p. 127.]({% endraw %}{{ '/literature/nmpol/#p-c15' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

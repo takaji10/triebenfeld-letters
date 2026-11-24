@@ -22,7 +22,7 @@ hits_docs_count: 4
 
 Hamlet south of and belonging to Nowa Wieś. First mentioned in an 1813 birth record from Trąbczyn Catholic parish metrical records.[^63] Appeared as a folwark on Richter 1843; similarly on Pełzucki 1901.
 
-[^63]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, 1813/#39 Page 142/Image 324
+[^63]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1808-1825*, 2005, 1813/#39 Page 142/Image 324.
 
 </div>
 {% endraw %}

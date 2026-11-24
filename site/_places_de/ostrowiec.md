@@ -22,8 +22,7 @@ hits_docs_count: 0
 
 Forest near Włodzimirów. Mentioned in a 1775 border commission report which detailed a boundary dispute between the estates of Trąbczyn and Łukom.[^58] Noted as far east as Koszelewska Łąka on Weydner 1804 as “*Gegend der Ostrowiec”* (Area of Ostrowiec), but it is unclear if this was referring to the forest.
 
-[^58]: “Relationes-oblatae [protocollon],” 1776, 692
-    [The document.](/documents/app53170koningr145/1/#p76)
+[^58]: [“Relationes-oblatae [protocollon],” 1776, 692.]({% endraw %}{{ '/documents/app53170koningr145/1/#p76' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

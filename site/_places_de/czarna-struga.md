@@ -22,13 +22,13 @@ hits_docs_count: 0
 
 River flowing into the Warta River and running approximately from north of Zagórów, east to Chruściki, and then south alongside Mariantów, Stanisławów, Szetlewek, and continuing south to Grodziec. A hammer mill (Ger. *Frischfeuer*) existed along the Czarna Struga river south of Mariantów and was depicted on Gilly 1802. The Słownik geograficzny calls the stream at Trąbczyn, Maryantów and Szetlewek the *Biały*;[^1][^2][^3] today it is named *Bawół* on OpenStreetMap.[^4]
 
-[^1]: Słownik geograficzny, t. XII, p. 448
+[^1]: [Słownik geograficzny, t. XII, p. 448.]({% endraw %}{{ '/literature/slownik/#p-c22' | relative_url }}{% raw %})
 
-[^2]: Słownik geograficzny, t. VI, p. 153
+[^2]: [Słownik geograficzny, t. VI, p. 153.]({% endraw %}{{ '/literature/slownik/#p-c46' | relative_url }}{% raw %})
 
-[^3]: Słownik geograficzny, t. XI, p. 911
+[^3]: [Słownik geograficzny, t. XI, p. 911.]({% endraw %}{{ '/literature/slownik/#p-c21' | relative_url }}{% raw %})
 
-[^4]: OpenStreetMap
+[^4]: OpenStreetMap.
 
 </div>
 {% endraw %}

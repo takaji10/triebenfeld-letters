@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Village southwest of Trąbczyn. Originally named *Emilienheim* and founded as a German Olęder colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Michalinów Oleśnicki (as it was part of Oleśnica Gmina) in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. *Hol. Emilienhain* (Reymann 1834). The Słownik geograficzny records it as a village, powiat słupecki.[^1]
 
-[^1]: Słownik geograficzny, t. XV, p. 471
+[^1]: [Słownik geograficzny, t. XV, p. 471.]({% endraw %}{{ '/literature/slownik/#p-c29' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

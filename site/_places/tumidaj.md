@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Tavern in the gmina of Trąbczyn at the time of the Słownik. The Słownik geograficzny records it as an inn settlement (Pl. *osada karczemna*), gmina Trąbczyn, parish of Zagórów, powiat słupecki, 22 versts from Słupca, with 1 house and 1 inhabitant.[^1]
 
-[^1]: Słownik geograficzny, t. XII, p. 623
+[^1]: [Słownik geograficzny, t. XII, p. 623.]({% endraw %}{{ '/literature/slownik/#p-c40' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Zalesie in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, gmina Oleśnica, powiat słupecki, with 5 houses and 59 inhabitants, called *Adolfberg* until 1891.[^1]
 
-[^1]: Słownik geograficzny, t. XVI, p. 711, sub 1
+[^1]: [Słownik geograficzny, t. XVI, p. 711, sub 1.]({% endraw %}{{ '/literature/slownik/#p-c38' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

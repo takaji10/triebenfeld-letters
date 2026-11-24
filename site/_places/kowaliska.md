@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Location unknown. Listed as an area or subdivision of the Trąbczyn estate by The Geographical Dictionary of the Kingdom of Poland in 1892.[^35]
 
-[^35]: “Trąbczyn” 448-449
+[^35]: “Trąbczyn” 448-449.
 
 </div>
 {% endraw %}

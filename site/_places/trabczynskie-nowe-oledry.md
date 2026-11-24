@@ -22,7 +22,7 @@ hits_docs_count: 3
 
 Olęder settlement which existed north of Czarnybród, located at Łazińsk Drugi. Possibly established in 1776 by Antoni Prusimski following the resolution of a dispute with Stanisław Chełmski, the owner of the Łukom estate concerning Trąbczyn’s southern forests. Chełmski lost a court case in 1775 and was forced to return the western portion of the Trąbczyn estate to Prusimski, including twelve Olęders who were living there. First mentioned as *Nowe Olędry* in Trąbczyn Catholic parish metrical records in 1776.[^93] This date coincides with the resolution of the dispute with Chełmski and may indicate that Prusimski proceeded to continue to develop the Trąbczyn estate, having been assured of his continuing ownership. Trąbczyńskie Nowe Olędry was merged with Trąbczyńskie Stare Olędry to create Łazińskie Olędry, which first appeared in Trąbczyn Catholic parish metrical records in 1822. *Neue [Trombczyner Holendry]* (Gilly 1802).
 
-[^93]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 241/Image 273
+[^93]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 241/Image 273.
 
 </div>
 {% endraw %}

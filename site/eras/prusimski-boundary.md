@@ -32,7 +32,7 @@ carting off hay, and the court sends a sworn commissioner to examine old witness
 oath about who owns the disputed ground
 ([the decree]({{ '/documents/app536040/1/' | relative_url }})). In 1767 the new heir,
 Antoni Prusimski, learns from his court messenger that an embankment raised by the people
-of Łukom has backed the water up and flooded the [Olęder](/glossary/#haulaender)
+of Łukom has backed the water up and flooded the [Olęder]({{ '/glossary/#haulaender' | relative_url }})
 settlers in the Trąbczyn woods, with their fields and meadows
 ([the reports]({{ '/documents/app53170koningr114/1/' | relative_url }})).
 
@@ -93,7 +93,7 @@ deposited in its treasury; and a claim of the Radoliński family to 43,000 złot
 Trąbczyn, which the other side said rested on a forged letter, the court left undecided. On
 29 March 1784 the castellany court of Poznań sat at Trąbczyn and gave its decree: their
 mother's fortune was shared equally among all six children, and their father's estates went to the brothers' nephew,
-Antoni in Kolno Prusimski, [starost](/glossary/#starost) of Niszczewice
+Antoni in Kolno Prusimski, [starost]({{ '/glossary/#starost' | relative_url }}) of Niszczewice
 ([the decree]({{ '/documents/app5320pozgr1181/1/' | relative_url }})).
 
 ### The parish

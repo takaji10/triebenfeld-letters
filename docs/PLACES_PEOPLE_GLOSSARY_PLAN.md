@@ -95,14 +95,14 @@ C1 (the relevant list, to the editor) → C2, C3, C8 → C4, C5 → C6, C7 →
 D1–D6 → B5, B6 → E. Each part ends with build, verify_site, screenshots,
 CHANGELOG, and is published at the editor's word.
 
-## Questions for the editor
+## The editor's answers (2026-11-24)
 
-1. **Coordinates for places outside the gazetteer** (Berlin, Wrocław, ...):
-   may they be fetched from Wikidata (a public, free source; the network
-   policy may need the host allowed)? Without them those places stay off the
-   map and out of the distance search.
-2. **Pronunciation**: IPA generated from the Polish spelling and checked by
-   Claude, or only where a published source gives it?
-3. **Glossary categories**: remove them, or keep them as a filter only?
-4. **The "relevant people" list** will come to you for approval before the
+1. **Coordinates** for places outside the gazetteer: fetched from Wikidata,
+   each match checked by Claude (the host may need allowing in the cloud
+   environment).
+2. **Pronunciation**: IPA generated from the Polish spelling by rule, each
+   checked by Claude, a sample shown to the editor first; German names only
+   where a source gives it.
+3. **Glossary categories**: removed.
+4. The "relevant people" list goes to the editor for approval before the
    People page is rebuilt.

@@ -22,9 +22,9 @@ hits_docs_count: 0
 
 Hamlet west of and belonging to Łazińsk Drugi. First mentioned in a 1736 marriage record from Trąbczyn Catholic parish metrical records.[^24] According to a modern-day sign at the Lutheran cemetery, there was a glass factory here in the 18th and 19th centuries. Huta was sometimes referenced as an Olędry in the same metrical records in the early 1820s, and also sometimes as *Stara Huta*. *H.[olendry] Stara Huta* (Richter 1843); *Stara Huta* (Chrzanowski 1858); *Trąbczynska-Huta* (Messtischblatt 1940). Also known as *Huta Łazińska* and *Huta Trąbczyńska*. The Słownik geograficzny records it as a colony, parish of Trąbczyn, powiat słupecki, with 7 houses and 136 inhabitants at the time of the Słownik.[^25]
 
-[^24]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 101/Image 422
+[^24]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 101/Image 422.
 
-[^25]: Słownik geograficzny, t. XII, p. 449
+[^25]: [Słownik geograficzny, t. XII, p. 449.]({% endraw %}{{ '/literature/slownik/#p-c23' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

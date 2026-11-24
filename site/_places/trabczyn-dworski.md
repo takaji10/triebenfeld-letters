@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Village northwest of Trąbczyn. Originally the location of a manor house. First mentioned in a 1795 birth record from Trąbczyn Catholic parish metrical records as *Trąmbczyn Dwor*.[^92] *[Trąbczyn] Dw. [Dwór]* (Richter 1843).
 
-[^92]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1776-1793 -- Akta Urodzeń 1784-1797* Page 97/Image 549
+[^92]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1776-1793 -- Akta Urodzeń 1784-1797* Page 97/Image 549.
 
 </div>
 {% endraw %}

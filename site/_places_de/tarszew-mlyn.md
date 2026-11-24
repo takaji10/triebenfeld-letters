@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Water mill which existed south of Kopojno. First mentioned in a 1742 birth record from Trąbczyn Catholic parish metrical records.[^80] *Kolonia Friedrichsfeld* took the name Tarszewo in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. First appeared on Trąbczyn 1790; *Tarszew M.* (Gilly 1802); *Osada Tarszew Ml. [Młyn]* (Richter 1843).
 
-[^80]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 134/Image 199
+[^80]: *Parafja Trąbczyn (Słupca): Akta Urodzeń 1691-1762; 1764-1784; 1762-1764* Page 134/Image 199.
 
 </div>
 {% endraw %}

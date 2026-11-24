@@ -5175,3 +5175,17 @@ viewbar. Lessons:
   branch fast-forwarded onto `main` (`git merge-base --is-ancestor
   origin/main HEAD` first), `git push origin HEAD:main`, then the "Build and
   deploy" run (pages.yml) watched with the GitHub tools until it succeeded.
+- **Root-relative links 404 on the live site** (2026-11-24). The live site
+  is served under `/triebenfeld-letters`; the local build has an empty
+  baseurl, so a link written `/documents/...` in a page source, or inside a
+  `{% raw %}` block, looks fine locally and breaks live. The place entries'
+  citations (generated into raw blocks) and fourteen glossary links of the
+  era pages were broken this way. Every internal link goes through
+  `relative_url`; inside a raw block, step out of it for the URL
+  (`{% endraw %}{{ '/x/' | relative_url }}{% raw %}`, as
+  `place_pages.footnote_md` does). verify_site now fails on any such link.
+- **Showing a hidden work takes two steps**: setting `visible: true` in its
+  work.yml is not enough; run `build_literature.py` before
+  `literature_site.py`, or the page stays a summary (Nazwy, the Słownik and
+  Słowiński 2023 stayed summaries on the live site after 2026-11-24's
+  publish until this was found).

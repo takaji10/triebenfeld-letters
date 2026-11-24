@@ -22,19 +22,15 @@ hits_docs_count: 5
 
 Village south of Trąbczyn. According to Breyer, *Łazy* referred to a cleared marshy area (Ger. *Brücher*).[^36] Mentioned at least as early as 1597 in metrical records from Trąbczyn Catholic parish.[^37] In 1791, Łazy was inhabited by 48 people of Catholic faith.[^38] Chodyła claimed that the village of Łazy changed its legal status at some point to an Olędry[^39] on account of a Prussian register of houses and population from 1797 which listed the settlement as “*Łazy Haul[endry]*” with 42 inhabitants.[^40] *Lase* (von Pfau 1770); *Lasy* (Trąbczyn 1790).
 
-[^36]: Breyer, "Deutsche Gaue in Mittelpolen," 39
-    [The document.](/literature/breyer1935gaue/#p-39)
+[^36]: [Breyer, "Deutsche Gaue in Mittelpolen," 39.]({% endraw %}{{ '/literature/breyer1935gaue/#p-39' | relative_url }}{% raw %})
 
-[^37]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 1/Image 334
+[^37]: *Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 1/Image 334.
 
-[^38]: Archiwum Arcybiskupów Gnieźnieńskich 24v
-    [The document.](/documents/adwl85/1/#p3)
+[^38]: [Archiwum Arcybiskupów Gnieźnieńskich 24v.]({% endraw %}{{ '/documents/adwl85/1/#p3' | relative_url }}{% raw %})
 
-[^39]: Chodyła 32
-    [The document.](/literature/chodyla2015/#p-32)
+[^39]: [Chodyła 32.]({% endraw %}{{ '/literature/chodyla2015/#p-32' | relative_url }}{% raw %})
 
-[^40]: “Die neuesten topografischen Nachrichten von Südpreussen,” 401
-    [The document.](/documents/agad1169011745/1/#p1)
+[^40]: [“Die neuesten topografischen Nachrichten von Südpreussen,” 401.]({% endraw %}{{ '/documents/agad1169011745/1/#p1' | relative_url }}{% raw %})
 
 </div>
 {% endraw %}

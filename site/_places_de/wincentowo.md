@@ -22,7 +22,7 @@ hits_docs_count: 0
 
 Village northwest of Łazy. Previously known as *Siergiejewo*, and listed as part of Osiny and containing five households in the Geographical Dictionary of the Kingdom of Poland in 1889.[^95] The same source also stated that both Siergiejewo and a folwark with the same name were established recently at the time of writing. The name change may have occurred in the early 20th century after the decline of Russian influence on culture and language in Poland. Only one map noted this feature as *Siergiejewo* (Wojskowy Instytut Geograficzny 1933). First appeared as *Wincentowo* on Messtischblatt 1940.
 
-[^95]: “Siergiejewo” 588
+[^95]: “Siergiejewo” 588.
 
 </div>
 {% endraw %}
