@@ -5157,3 +5157,13 @@ viewbar. Lessons:
 - **The year range** of the search bar is written to `site/_data/stats.yml`
   (`year_min`, `year_max`) by `search_indexes.py`, and `verify_site.py` fails
   when new material falls outside it: run `search_indexes.py` again.
+- **The era pages carried errors the rewrite found** (2026-11-24): the
+  insurgency page dated Prussia's taking of the Konin country to 1795 (it
+  was 1793, the Second Partition); the boundary page made the division of
+  1740 the father's (it was the brothers' own); the Hohenlohe page had a
+  stray half-sentence and called the restitution "the third era ... not yet
+  published". Read an era page against its holdings' pages, not only
+  against the rules.
+- **The editor on the title pages** (2026-11-24): no typeset title tiles for
+  literature without a picture; they will supply title pages. The duotone
+  icons stand, at a lighter stroke (1.15).
