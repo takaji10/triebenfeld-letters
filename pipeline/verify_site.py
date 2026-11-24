@@ -864,6 +864,21 @@ def main():
         print(f'  {_n} place pages checked in both languages, '
               'no estate anchors left')
 
+    # ---- the Places lists in alphabetical order -----------------------------
+    # (the editor, 2026-11-24: kept alphabetical whatever order places are
+    # added in; the order is made by build_site_data with pipeline/placesort.py)
+    print('checking the Places lists are alphabetical...')
+    sys.path.insert(0, ROOT)
+    from pipeline.placesort import place_sort_key as _psk
+    import yaml as _yaml
+    with open(os.path.join(ROOT, 'site', '_data', 'places_index.yml'), encoding='utf-8') as _fh:
+        _pidx = _yaml.safe_load(_fh)
+    for _tier in ('tier1', 'tier2'):
+        _names = [r['name'] for r in _pidx.get(_tier) or []]
+        if _names != sorted(_names, key=_psk):
+            fail(f'places: {_tier} is not in alphabetical order; run build_site_data.py')
+    print('  both lists in order')
+
     # ---- links that would miss the live site's prefix ----------------------
     # The live site is served under /triebenfeld-letters (pages.yml builds with
     # --baseurl); this check runs on a local build with an empty baseurl, so a

@@ -128,6 +128,10 @@ czerwonka:
   docs: 0
   span: ''
   letters: []
+dluga-gorka:
+  docs: 0
+  span: ''
+  letters: []
 trabczyn:
   docs: 253
   span: 1240–1936
@@ -1634,10 +1638,6 @@ dziadolina:
   docs: 0
   span: ''
   letters: []
-dluga-gorka:
-  docs: 0
-  span: ''
-  letters: []
 michalinow-olesnicki:
   docs: 0
   span: ''
@@ -1770,11 +1770,11 @@ hagrowo:
   docs: 0
   span: ''
   letters: []
-huta-trabczynska:
+huta-lukomska:
   docs: 0
   span: ''
   letters: []
-huta-lukomska:
+huta-trabczynska:
   docs: 0
   span: ''
   letters: []
@@ -2862,11 +2862,11 @@ koszelewska-laka:
   docs: 0
   span: ''
   letters: []
-kowaliska:
+kosciolkow:
   docs: 0
   span: ''
   letters: []
-kosciolkow:
+kowaliska:
   docs: 0
   span: ''
   letters: []
@@ -2886,28 +2886,6 @@ lazinsk-pierwszy:
   docs: 0
   span: ''
   letters: []
-lipowa-gorka:
-  docs: 0
-  span: ''
-  letters: []
-lisewska-kolonia:
-  docs: 0
-  span: ''
-  letters: []
-ludwigslust:
-  docs: 2
-  span: 1805–1806
-  letters:
-  - id: '177'
-    uid: oe1bu9454-177
-    url: /documents/oe1bu9454/177/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '24'
-    uid: oe1bu9454-24
-    url: /documents/oe1bu9454/24/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
 lad:
   docs: 28
   span: 1173–1806
@@ -3052,7 +3030,380 @@ lad:
     url: /documents/oe1bu14526/8/
     unit_label: Oe 1 Bü 14526
     n: 1
+lipowa-gorka:
+  docs: 0
+  span: ''
+  letters: []
+lisewska-kolonia:
+  docs: 0
+  span: ''
+  letters: []
+ludwigslust:
+  docs: 2
+  span: 1805–1806
+  letters:
+  - id: '177'
+    uid: oe1bu9454-177
+    url: /documents/oe1bu9454/177/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '24'
+    uid: oe1bu9454-24
+    url: /documents/oe1bu9454/24/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+lazinsk-drugi:
+  docs: 0
+  span: ''
+  letters: []
+lazinskie-oledry:
+  docs: 0
+  span: ''
+  letters: []
+lazy-trabczyn:
+  docs: 5
+  span: 1789–1815
+  letters:
+  - id: '1'
+    uid: app53640kalisztab21-1
+    url: /documents/app53640kalisztab21/1/
+    unit_label: 53/64/0/-/Kalisz Tab.21
+    n: 1
+  - id: '1'
+    uid: adwl85-1
+    url: /documents/adwl85/1/
+    unit_label: ADWł 85
+    n: 2
+  - id: '1'
+    uid: ihagrrep7cnr3570-1
+    url: /documents/ihagrrep7cnr3570/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3570
+    n: 1
+  - id: '2'
+    uid: iiihamdaiiinr12765-2
+    url: /documents/iiihamdaiiinr12765/2/
+    unit_label: III. HA MdA, III Nr. 12765
+    n: 1
+  - id: '1'
+    uid: app5321pyzdrygr115-1
+    url: /documents/app5321pyzdrygr115/1/
+    unit_label: 53/21/0/-/Pyzdry Gr.115
+    n: 1
+lomow:
+  docs: 0
+  span: ''
+  letters: []
+lukom:
+  docs: 58
+  span: 1240–1936
+  letters:
+  - id: '2'
+    uid: kdw-2
+    url: /documents/kdw/2/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '1'
+    uid: app5314550221-1
+    url: /documents/app5314550221/1/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '2'
+    uid: app5314550221-2
+    url: /documents/app5314550221/2/
+    unit_label: APP 53/1455/0/2/21
+    n: 2
+  - id: '1'
+    uid: app536017-1
+    url: /documents/app536017/1/
+    unit_label: APP 53/6/0/-/17
+    n: 3
+  - id: '1'
+    uid: app536036-1
+    url: /documents/app536036/1/
+    unit_label: APP 53/6/0/-/36
+    n: 2
+  - id: '2'
+    uid: app536036-2
+    url: /documents/app536036/2/
+    unit_label: APP 53/6/0/-/36
+    n: 1
+  - id: '1'
+    uid: app536040-1
+    url: /documents/app536040/1/
+    unit_label: APP 53/6/0/-/40
+    n: 3
+  - id: '6'
+    uid: app5314550221-6
+    url: /documents/app5314550221/6/
+    unit_label: APP 53/1455/0/2/21
+    n: 4
+  - id: '1'
+    uid: app536045-1
+    url: /documents/app536045/1/
+    unit_label: APP 53/6/0/-/45
+    n: 1
+  - id: '1'
+    uid: app53170koningr114-1
+    url: /documents/app53170koningr114/1/
+    unit_label: 53/17/0/-/Konin Gr.114
+    n: 1
+  - id: '2'
+    uid: app53170koningr114-2
+    url: /documents/app53170koningr114/2/
+    unit_label: 53/17/0/-/Konin Gr.114
+    n: 1
+  - id: '2'
+    uid: app53170koningr115-2
+    url: /documents/app53170koningr115/2/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '1'
+    uid: app53150kaliszgr414-1
+    url: /documents/app53150kaliszgr414/1/
+    unit_label: 53/15/0/-/Kalisz Gr.414
+    n: 4
+  - id: '5'
+    uid: app53170koningr115-5
+    url: /documents/app53170koningr115/5/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 2
+  - id: '6'
+    uid: app53170koningr115-6
+    url: /documents/app53170koningr115/6/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 3
+  - id: '7'
+    uid: app53170koningr115-7
+    url: /documents/app53170koningr115/7/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '8'
+    uid: app53170koningr115-8
+    url: /documents/app53170koningr115/8/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '9'
+    uid: app53170koningr115-9
+    url: /documents/app53170koningr115/9/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '1'
+    uid: app53170koningr116-1
+    url: /documents/app53170koningr116/1/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '2'
+    uid: app53170koningr116-2
+    url: /documents/app53170koningr116/2/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 3
+  - id: '3'
+    uid: app53170koningr116-3
+    url: /documents/app53170koningr116/3/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 2
+  - id: '5'
+    uid: app53170koningr116-5
+    url: /documents/app53170koningr116/5/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '7'
+    uid: app53170koningr116-7
+    url: /documents/app53170koningr116/7/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '8'
+    uid: app53170koningr116-8
+    url: /documents/app53170koningr116/8/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '9'
+    uid: app53170koningr116-9
+    url: /documents/app53170koningr116/9/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '10'
+    uid: app53170koningr116-10
+    url: /documents/app53170koningr116/10/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '1'
+    uid: app53170koningr145-1
+    url: /documents/app53170koningr145/1/
+    unit_label: 53/17/0/-/Konin Gr.145
+    n: 41
+  - id: '1'
+    uid: app53150kaliszgr425-1
+    url: /documents/app53150kaliszgr425/1/
+    unit_label: 53/15/0/-/Kalisz Gr.425
+    n: 3
+  - id: '1'
+    uid: app53150kaliszgr424-1
+    url: /documents/app53150kaliszgr424/1/
+    unit_label: 53/15/0/-/Kalisz Gr.424
+    n: 1
+  - id: '1'
+    uid: app536046-1
+    url: /documents/app536046/1/
+    unit_label: APP 53/6/0/-/46
+    n: 1
+  - id: '12'
+    uid: app53170koningr116-12
+    url: /documents/app53170koningr116/12/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 2
+  - id: '3'
+    uid: app53170koningr117-3
+    url: /documents/app53170koningr117/3/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '1'
+    uid: app53170koningr117-1
+    url: /documents/app53170koningr117/1/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 2
+  - id: '2'
+    uid: app53170koningr117-2
+    url: /documents/app53170koningr117/2/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '4'
+    uid: app53170koningr117-4
+    url: /documents/app53170koningr117/4/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '5'
+    uid: app53170koningr117-5
+    url: /documents/app53170koningr117/5/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '7'
+    uid: app53170koningr117-7
+    url: /documents/app53170koningr117/7/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '8'
+    uid: app53170koningr117-8
+    url: /documents/app53170koningr117/8/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '9'
+    uid: app53170koningr117-9
+    url: /documents/app53170koningr117/9/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '25'
+    uid: app53170koningr118-25
+    url: /documents/app53170koningr118/25/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '17'
+    uid: app53170koningr118-17
+    url: /documents/app53170koningr118/17/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '1'
+    uid: app53170koningr153-1
+    url: /documents/app53170koningr153/1/
+    unit_label: 53/17/0/-/Konin Gr.153
+    n: 19
+  - id: '28'
+    uid: app53170koningr118-28
+    url: /documents/app53170koningr118/28/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '27'
+    uid: app53170koningr118-27
+    url: /documents/app53170koningr118/27/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '1'
+    uid: app536047-1
+    url: /documents/app536047/1/
+    unit_label: APP 53/6/0/-/47
+    n: 1
+  - id: '1'
+    uid: app53170koningr119-1
+    url: /documents/app53170koningr119/1/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 3
+  - id: '2'
+    uid: app53170koningr119-2
+    url: /documents/app53170koningr119/2/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '4'
+    uid: app53170koningr119-4
+    url: /documents/app53170koningr119/4/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '5'
+    uid: app53170koningr119-5
+    url: /documents/app53170koningr119/5/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '1'
+    uid: app53170koningr121-1
+    url: /documents/app53170koningr121/1/
+    unit_label: 53/17/0/-/Konin Gr.121
+    n: 1
+  - id: '1'
+    uid: app53640kalisztab21-1
+    url: /documents/app53640kalisztab21/1/
+    unit_label: 53/64/0/-/Kalisz Tab.21
+    n: 1
+  - id: '2'
+    uid: adwl85-2
+    url: /documents/adwl85/2/
+    unit_label: ADWł 85
+    n: 1
+  - id: '1'
+    uid: agad1169011745-1
+    url: /documents/agad1169011745/1/
+    unit_label: AGAD 1/169/0/1/1745
+    n: 3
+  - id: '6'
+    uid: ihagrrep7cnr421-6
+    url: /documents/ihagrrep7cnr421/6/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 421
+    n: 1
+  - id: '4'
+    uid: ihagrrep7cnr421-4
+    url: /documents/ihagrrep7cnr421/4/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 421
+    n: 1
+  - id: '7'
+    uid: ihagrrep7cnr421-7
+    url: /documents/ihagrrep7cnr421/7/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 421
+    n: 1
+  - id: '23'
+    uid: oe1bu14525-23
+    url: /documents/oe1bu14525/23/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '1'
+    uid: app539680669-1
+    url: /documents/app539680669/1/
+    unit_label: APP 53/968/0/-/669
+    n: 1
+lukomin:
+  docs: 0
+  span: ''
+  letters: []
+lukomskie-oledry:
+  docs: 0
+  span: ''
+  letters: []
+lutow:
+  docs: 0
+  span: ''
+  letters: []
 maly:
+  docs: 0
+  span: ''
+  letters: []
+malgorzatow:
   docs: 0
   span: ''
   letters: []
@@ -3148,15 +3499,11 @@ mariantow:
     url: /documents/app5321pyzdrygr115/1/
     unit_label: 53/21/0/-/Pyzdry Gr.115
     n: 1
-malgorzatow:
+miasykat:
   docs: 0
   span: ''
   letters: []
 michalinow-oledry:
-  docs: 0
-  span: ''
-  letters: []
-miasykat:
   docs: 0
   span: ''
   letters: []
@@ -4018,6 +4365,65 @@ skokum:
     url: /documents/oe1bu9454/18/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
+slupca:
+  docs: 11
+  span: 1806–1936
+  letters:
+  - id: '179'
+    uid: oe1bu9454-179
+    url: /documents/oe1bu9454/179/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '271'
+    uid: oe1bu9454-271
+    url: /documents/oe1bu9454/271/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '1'
+    uid: apl399806603-1
+    url: /documents/apl399806603/1/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '2'
+    uid: app539680716-2
+    url: /documents/app539680716/2/
+    unit_label: APP 53/968/0/-/716
+    n: 1
+  - id: '4'
+    uid: app539680716-4
+    url: /documents/app539680716/4/
+    unit_label: APP 53/968/0/-/716
+    n: 2
+  - id: '2'
+    uid: apl399806603-2
+    url: /documents/apl399806603/2/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '1'
+    uid: apl399801333-1
+    url: /documents/apl399801333/1/
+    unit_label: APŁ 39/98/0/-/1333
+    n: 11
+  - id: '4'
+    uid: apl399806603-4
+    url: /documents/apl399806603/4/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 2
+  - id: '6'
+    uid: apl399806603-6
+    url: /documents/apl399806603/6/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '5'
+    uid: apl399806603-5
+    url: /documents/apl399806603/5/
+    unit_label: APŁ 39/98/0/-/6603
+    n: 1
+  - id: '1'
+    uid: app539680669-1
+    url: /documents/app539680669/1/
+    unit_label: APP 53/968/0/-/669
+    n: 1
 smoleniec:
   docs: 0
   span: ''
@@ -4286,74 +4692,130 @@ szetlewek:
     url: /documents/iiihamdaiiinr12366/5/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 2
-slupca:
-  docs: 11
-  span: 1806–1936
+swiatniki:
+  docs: 23
+  span: 1261–1812
   letters:
-  - id: '179'
-    uid: oe1bu9454-179
-    url: /documents/oe1bu9454/179/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '271'
-    uid: oe1bu9454-271
-    url: /documents/oe1bu9454/271/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '1'
-    uid: apl399806603-1
-    url: /documents/apl399806603/1/
-    unit_label: APŁ 39/98/0/-/6603
-    n: 1
-  - id: '2'
-    uid: app539680716-2
-    url: /documents/app539680716/2/
-    unit_label: APP 53/968/0/-/716
-    n: 1
   - id: '4'
-    uid: app539680716-4
-    url: /documents/app539680716/4/
-    unit_label: APP 53/968/0/-/716
-    n: 2
-  - id: '2'
-    uid: apl399806603-2
-    url: /documents/apl399806603/2/
-    unit_label: APŁ 39/98/0/-/6603
+    uid: kdw-4
+    url: /documents/kdw/4/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
-  - id: '1'
-    uid: apl399801333-1
-    url: /documents/apl399801333/1/
-    unit_label: APŁ 39/98/0/-/1333
-    n: 11
-  - id: '4'
-    uid: apl399806603-4
-    url: /documents/apl399806603/4/
-    unit_label: APŁ 39/98/0/-/6603
-    n: 2
   - id: '6'
-    uid: apl399806603-6
-    url: /documents/apl399806603/6/
-    unit_label: APŁ 39/98/0/-/6603
+    uid: kdw-6
+    url: /documents/kdw/6/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '1'
+    uid: app5320pozgr1181-1
+    url: /documents/app5320pozgr1181/1/
+    unit_label: 53/20/0/-/Poznań Gr.1181
+    n: 1
+  - id: '1'
+    uid: agad1169011745-1
+    url: /documents/agad1169011745/1/
+    unit_label: AGAD 1/169/0/1/1745
+    n: 1
+  - id: '10'
+    uid: oe1bu14525-10
+    url: /documents/oe1bu14525/10/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '8'
+    uid: oe1bu14525-8
+    url: /documents/oe1bu14525/8/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '9'
+    uid: oe1bu14525-9
+    url: /documents/oe1bu14525/9/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '17'
+    uid: oe1bu14525-17
+    url: /documents/oe1bu14525/17/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '23'
+    uid: oe1bu14525-23
+    url: /documents/oe1bu14525/23/
+    unit_label: Oe 1 Bü 14525
     n: 1
   - id: '5'
-    uid: apl399806603-5
-    url: /documents/apl399806603/5/
-    unit_label: APŁ 39/98/0/-/6603
+    uid: oe1bu14525-5
+    url: /documents/oe1bu14525/5/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '124'
+    uid: oe1bu9454-124
+    url: /documents/oe1bu9454/124/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '136'
+    uid: oe1bu9454-136
+    url: /documents/oe1bu9454/136/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '22'
+    uid: oe1bu14525-22
+    url: /documents/oe1bu14525/22/
+    unit_label: Oe 1 Bü 14525
     n: 1
   - id: '1'
-    uid: app539680669-1
-    url: /documents/app539680669/1/
-    unit_label: APP 53/968/0/-/669
+    uid: iharep162nr295-1
+    url: /documents/iharep162nr295/1/
+    unit_label: I. HA Rep. 162, Nr. 295
+    n: 1
+  - id: '2'
+    uid: app539680801-2
+    url: /documents/app539680801/2/
+    unit_label: APP 53/968/0/-/801
+    n: 1
+  - id: '8'
+    uid: oe1bu14526-8
+    url: /documents/oe1bu14526/8/
+    unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: 179a
+    uid: oe1bu9454-179a
+    url: /documents/oe1bu9454/179a/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '191'
+    uid: oe1bu9454-191
+    url: /documents/oe1bu9454/191/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '24'
+    uid: oe1bu9454-24
+    url: /documents/oe1bu9454/24/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '32'
+    uid: oe1bu9454-32
+    url: /documents/oe1bu9454/32/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '212'
+    uid: oe1bu9454-212
+    url: /documents/oe1bu9454/212/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '213'
+    uid: oe1bu9454-213
+    url: /documents/oe1bu9454/213/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '18'
+    uid: oe1bu9454-18
+    url: /documents/oe1bu9454/18/
+    unit_label: HZAN Oe 1 Bü 9454
     n: 1
 tarczewo:
   docs: 0
   span: ''
   letters: []
 tarszew-mlyn:
-  docs: 0
-  span: ''
-  letters: []
-trzcianne:
   docs: 0
   span: ''
   letters: []
@@ -4479,6 +4941,10 @@ trabczynskie-stare-oledry:
     url: /documents/app5321pyzdrygr115/1/
     unit_label: 53/21/0/-/Pyzdry Gr.115
     n: 1
+trzcianne:
+  docs: 0
+  span: ''
+  letters: []
 tumidaj:
   docs: 0
   span: ''
@@ -4492,6 +4958,14 @@ wielki-las:
   span: ''
   letters: []
 wielki-bor-obreb:
+  docs: 0
+  span: ''
+  letters: []
+wlodzimirow-obreb:
+  docs: 0
+  span: ''
+  letters: []
+wlodzimirow:
   docs: 0
   span: ''
   letters: []
@@ -4804,14 +5278,6 @@ wymyslow:
   docs: 0
   span: ''
   letters: []
-wlodzimirow-obreb:
-  docs: 0
-  span: ''
-  letters: []
-wlodzimirow:
-  docs: 0
-  span: ''
-  letters: []
 zagorowskie-oledry:
   docs: 0
   span: ''
@@ -4838,472 +5304,6 @@ zwierzyniec:
   docs: 0
   span: ''
   letters: []
-lazinsk-drugi:
-  docs: 0
-  span: ''
-  letters: []
-lazinskie-oledry:
-  docs: 0
-  span: ''
-  letters: []
-lazy-trabczyn:
-  docs: 5
-  span: 1789–1815
-  letters:
-  - id: '1'
-    uid: app53640kalisztab21-1
-    url: /documents/app53640kalisztab21/1/
-    unit_label: 53/64/0/-/Kalisz Tab.21
-    n: 1
-  - id: '1'
-    uid: adwl85-1
-    url: /documents/adwl85/1/
-    unit_label: ADWł 85
-    n: 2
-  - id: '1'
-    uid: ihagrrep7cnr3570-1
-    url: /documents/ihagrrep7cnr3570/1/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3570
-    n: 1
-  - id: '2'
-    uid: iiihamdaiiinr12765-2
-    url: /documents/iiihamdaiiinr12765/2/
-    unit_label: III. HA MdA, III Nr. 12765
-    n: 1
-  - id: '1'
-    uid: app5321pyzdrygr115-1
-    url: /documents/app5321pyzdrygr115/1/
-    unit_label: 53/21/0/-/Pyzdry Gr.115
-    n: 1
-lomow:
-  docs: 0
-  span: ''
-  letters: []
-lukom:
-  docs: 58
-  span: 1240–1936
-  letters:
-  - id: '2'
-    uid: kdw-2
-    url: /documents/kdw/2/
-    unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
-  - id: '1'
-    uid: app5314550221-1
-    url: /documents/app5314550221/1/
-    unit_label: APP 53/1455/0/2/21
-    n: 1
-  - id: '2'
-    uid: app5314550221-2
-    url: /documents/app5314550221/2/
-    unit_label: APP 53/1455/0/2/21
-    n: 2
-  - id: '1'
-    uid: app536017-1
-    url: /documents/app536017/1/
-    unit_label: APP 53/6/0/-/17
-    n: 3
-  - id: '1'
-    uid: app536036-1
-    url: /documents/app536036/1/
-    unit_label: APP 53/6/0/-/36
-    n: 2
-  - id: '2'
-    uid: app536036-2
-    url: /documents/app536036/2/
-    unit_label: APP 53/6/0/-/36
-    n: 1
-  - id: '1'
-    uid: app536040-1
-    url: /documents/app536040/1/
-    unit_label: APP 53/6/0/-/40
-    n: 3
-  - id: '6'
-    uid: app5314550221-6
-    url: /documents/app5314550221/6/
-    unit_label: APP 53/1455/0/2/21
-    n: 4
-  - id: '1'
-    uid: app536045-1
-    url: /documents/app536045/1/
-    unit_label: APP 53/6/0/-/45
-    n: 1
-  - id: '1'
-    uid: app53170koningr114-1
-    url: /documents/app53170koningr114/1/
-    unit_label: 53/17/0/-/Konin Gr.114
-    n: 1
-  - id: '2'
-    uid: app53170koningr114-2
-    url: /documents/app53170koningr114/2/
-    unit_label: 53/17/0/-/Konin Gr.114
-    n: 1
-  - id: '2'
-    uid: app53170koningr115-2
-    url: /documents/app53170koningr115/2/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 1
-  - id: '1'
-    uid: app53150kaliszgr414-1
-    url: /documents/app53150kaliszgr414/1/
-    unit_label: 53/15/0/-/Kalisz Gr.414
-    n: 4
-  - id: '5'
-    uid: app53170koningr115-5
-    url: /documents/app53170koningr115/5/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 2
-  - id: '6'
-    uid: app53170koningr115-6
-    url: /documents/app53170koningr115/6/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 3
-  - id: '7'
-    uid: app53170koningr115-7
-    url: /documents/app53170koningr115/7/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 1
-  - id: '8'
-    uid: app53170koningr115-8
-    url: /documents/app53170koningr115/8/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 1
-  - id: '9'
-    uid: app53170koningr115-9
-    url: /documents/app53170koningr115/9/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 1
-  - id: '1'
-    uid: app53170koningr116-1
-    url: /documents/app53170koningr116/1/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '2'
-    uid: app53170koningr116-2
-    url: /documents/app53170koningr116/2/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 3
-  - id: '3'
-    uid: app53170koningr116-3
-    url: /documents/app53170koningr116/3/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 2
-  - id: '5'
-    uid: app53170koningr116-5
-    url: /documents/app53170koningr116/5/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '7'
-    uid: app53170koningr116-7
-    url: /documents/app53170koningr116/7/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '8'
-    uid: app53170koningr116-8
-    url: /documents/app53170koningr116/8/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '9'
-    uid: app53170koningr116-9
-    url: /documents/app53170koningr116/9/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '10'
-    uid: app53170koningr116-10
-    url: /documents/app53170koningr116/10/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '1'
-    uid: app53170koningr145-1
-    url: /documents/app53170koningr145/1/
-    unit_label: 53/17/0/-/Konin Gr.145
-    n: 41
-  - id: '1'
-    uid: app53150kaliszgr425-1
-    url: /documents/app53150kaliszgr425/1/
-    unit_label: 53/15/0/-/Kalisz Gr.425
-    n: 3
-  - id: '1'
-    uid: app53150kaliszgr424-1
-    url: /documents/app53150kaliszgr424/1/
-    unit_label: 53/15/0/-/Kalisz Gr.424
-    n: 1
-  - id: '1'
-    uid: app536046-1
-    url: /documents/app536046/1/
-    unit_label: APP 53/6/0/-/46
-    n: 1
-  - id: '12'
-    uid: app53170koningr116-12
-    url: /documents/app53170koningr116/12/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 2
-  - id: '3'
-    uid: app53170koningr117-3
-    url: /documents/app53170koningr117/3/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '1'
-    uid: app53170koningr117-1
-    url: /documents/app53170koningr117/1/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 2
-  - id: '2'
-    uid: app53170koningr117-2
-    url: /documents/app53170koningr117/2/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '4'
-    uid: app53170koningr117-4
-    url: /documents/app53170koningr117/4/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '5'
-    uid: app53170koningr117-5
-    url: /documents/app53170koningr117/5/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '7'
-    uid: app53170koningr117-7
-    url: /documents/app53170koningr117/7/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '8'
-    uid: app53170koningr117-8
-    url: /documents/app53170koningr117/8/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '9'
-    uid: app53170koningr117-9
-    url: /documents/app53170koningr117/9/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '25'
-    uid: app53170koningr118-25
-    url: /documents/app53170koningr118/25/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 2
-  - id: '17'
-    uid: app53170koningr118-17
-    url: /documents/app53170koningr118/17/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 2
-  - id: '1'
-    uid: app53170koningr153-1
-    url: /documents/app53170koningr153/1/
-    unit_label: 53/17/0/-/Konin Gr.153
-    n: 19
-  - id: '28'
-    uid: app53170koningr118-28
-    url: /documents/app53170koningr118/28/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 2
-  - id: '27'
-    uid: app53170koningr118-27
-    url: /documents/app53170koningr118/27/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '1'
-    uid: app536047-1
-    url: /documents/app536047/1/
-    unit_label: APP 53/6/0/-/47
-    n: 1
-  - id: '1'
-    uid: app53170koningr119-1
-    url: /documents/app53170koningr119/1/
-    unit_label: 53/17/0/-/Konin Gr.119
-    n: 3
-  - id: '2'
-    uid: app53170koningr119-2
-    url: /documents/app53170koningr119/2/
-    unit_label: 53/17/0/-/Konin Gr.119
-    n: 1
-  - id: '4'
-    uid: app53170koningr119-4
-    url: /documents/app53170koningr119/4/
-    unit_label: 53/17/0/-/Konin Gr.119
-    n: 1
-  - id: '5'
-    uid: app53170koningr119-5
-    url: /documents/app53170koningr119/5/
-    unit_label: 53/17/0/-/Konin Gr.119
-    n: 1
-  - id: '1'
-    uid: app53170koningr121-1
-    url: /documents/app53170koningr121/1/
-    unit_label: 53/17/0/-/Konin Gr.121
-    n: 1
-  - id: '1'
-    uid: app53640kalisztab21-1
-    url: /documents/app53640kalisztab21/1/
-    unit_label: 53/64/0/-/Kalisz Tab.21
-    n: 1
-  - id: '2'
-    uid: adwl85-2
-    url: /documents/adwl85/2/
-    unit_label: ADWł 85
-    n: 1
-  - id: '1'
-    uid: agad1169011745-1
-    url: /documents/agad1169011745/1/
-    unit_label: AGAD 1/169/0/1/1745
-    n: 3
-  - id: '6'
-    uid: ihagrrep7cnr421-6
-    url: /documents/ihagrrep7cnr421/6/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 421
-    n: 1
-  - id: '4'
-    uid: ihagrrep7cnr421-4
-    url: /documents/ihagrrep7cnr421/4/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 421
-    n: 1
-  - id: '7'
-    uid: ihagrrep7cnr421-7
-    url: /documents/ihagrrep7cnr421/7/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 421
-    n: 1
-  - id: '23'
-    uid: oe1bu14525-23
-    url: /documents/oe1bu14525/23/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '1'
-    uid: app539680669-1
-    url: /documents/app539680669/1/
-    unit_label: APP 53/968/0/-/669
-    n: 1
-lukomin:
-  docs: 0
-  span: ''
-  letters: []
-lukomskie-oledry:
-  docs: 0
-  span: ''
-  letters: []
-lutow:
-  docs: 0
-  span: ''
-  letters: []
-swiatniki:
-  docs: 23
-  span: 1261–1812
-  letters:
-  - id: '4'
-    uid: kdw-4
-    url: /documents/kdw/4/
-    unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
-  - id: '6'
-    uid: kdw-6
-    url: /documents/kdw/6/
-    unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
-  - id: '1'
-    uid: app5320pozgr1181-1
-    url: /documents/app5320pozgr1181/1/
-    unit_label: 53/20/0/-/Poznań Gr.1181
-    n: 1
-  - id: '1'
-    uid: agad1169011745-1
-    url: /documents/agad1169011745/1/
-    unit_label: AGAD 1/169/0/1/1745
-    n: 1
-  - id: '10'
-    uid: oe1bu14525-10
-    url: /documents/oe1bu14525/10/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '8'
-    uid: oe1bu14525-8
-    url: /documents/oe1bu14525/8/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '9'
-    uid: oe1bu14525-9
-    url: /documents/oe1bu14525/9/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '17'
-    uid: oe1bu14525-17
-    url: /documents/oe1bu14525/17/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '23'
-    uid: oe1bu14525-23
-    url: /documents/oe1bu14525/23/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '5'
-    uid: oe1bu14525-5
-    url: /documents/oe1bu14525/5/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '124'
-    uid: oe1bu9454-124
-    url: /documents/oe1bu9454/124/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '136'
-    uid: oe1bu9454-136
-    url: /documents/oe1bu9454/136/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '22'
-    uid: oe1bu14525-22
-    url: /documents/oe1bu14525/22/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '1'
-    uid: iharep162nr295-1
-    url: /documents/iharep162nr295/1/
-    unit_label: I. HA Rep. 162, Nr. 295
-    n: 1
-  - id: '2'
-    uid: app539680801-2
-    url: /documents/app539680801/2/
-    unit_label: APP 53/968/0/-/801
-    n: 1
-  - id: '8'
-    uid: oe1bu14526-8
-    url: /documents/oe1bu14526/8/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: 179a
-    uid: oe1bu9454-179a
-    url: /documents/oe1bu9454/179a/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '191'
-    uid: oe1bu9454-191
-    url: /documents/oe1bu9454/191/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '24'
-    uid: oe1bu9454-24
-    url: /documents/oe1bu9454/24/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '32'
-    uid: oe1bu9454-32
-    url: /documents/oe1bu9454/32/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '212'
-    uid: oe1bu9454-212
-    url: /documents/oe1bu9454/212/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '213'
-    uid: oe1bu9454-213
-    url: /documents/oe1bu9454/213/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '18'
-    uid: oe1bu9454-18
-    url: /documents/oe1bu9454/18/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
 alexandrien:
   docs: 2
   span: 1784–1806
@@ -5431,6 +5431,40 @@ bayreuth:
     url: /documents/oe1bu9454/287/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
+batkowo:
+  docs: 6
+  span: 1797–1805
+  letters:
+  - id: '11'
+    uid: oe1bu14525-11
+    url: /documents/oe1bu14525/11/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '6'
+    uid: oe1bu14525-6
+    url: /documents/oe1bu14525/6/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '28'
+    uid: oe1bu14525-28
+    url: /documents/oe1bu14525/28/
+    unit_label: Oe 1 Bü 14525
+    n: 3
+  - id: '18'
+    uid: oe1bu14525-18
+    url: /documents/oe1bu14525/18/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '24'
+    uid: oe1bu14525-24
+    url: /documents/oe1bu14525/24/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '1'
+    uid: oe1u199-1
+    url: /documents/oe1u199/1/
+    unit_label: HZAN Oe 1 U 199
+    n: 2
 berlin:
   docs: 226
   span: 1794–1936
@@ -6747,6 +6781,35 @@ blizanow:
     url: /documents/oe1bu9454/301/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
+boehmen:
+  docs: 5
+  span: 1799–1813
+  letters:
+  - id: '96'
+    uid: oe1bu9454-96
+    url: /documents/oe1bu9454/96/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '119'
+    uid: oe1bu9454-119
+    url: /documents/oe1bu9454/119/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '120'
+    uid: oe1bu9454-120
+    url: /documents/oe1bu9454/120/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '58'
+    uid: oe1bu9454-58
+    url: /documents/oe1bu9454/58/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '241'
+    uid: oe1bu9454-241
+    url: /documents/oe1bu9454/241/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
 boyadel:
   docs: 5
   span: '1809'
@@ -6813,6 +6876,15 @@ boronow:
     url: /documents/oe1bu9454/264/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
+bruenn:
+  docs: 1
+  span: '1815'
+  letters:
+  - id: '274'
+    uid: oe1bu9454-274
+    url: /documents/oe1bu9454/274/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
 brieg:
   docs: 18
   span: 1805–1815
@@ -6907,15 +6979,6 @@ brieg:
     url: /documents/oe1bu9454/303/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-brzezno:
-  docs: 1
-  span: '1784'
-  letters:
-  - id: '1'
-    uid: app5320pozgr1181-1
-    url: /documents/app5320pozgr1181/1/
-    unit_label: 53/20/0/-/Poznań Gr.1181
-    n: 4
 brzesc:
   docs: 3
   span: 1280–1809
@@ -6949,6 +7012,15 @@ brzesc-kujawski:
     url: /documents/app53170koningr153/1/
     unit_label: 53/17/0/-/Konin Gr.153
     n: 1
+brzezno:
+  docs: 1
+  span: '1784'
+  letters:
+  - id: '1'
+    uid: app5320pozgr1181-1
+    url: /documents/app5320pozgr1181/1/
+    unit_label: 53/20/0/-/Poznań Gr.1181
+    n: 4
 brzyce:
   docs: 17
   span: 1796–1815
@@ -7038,15 +7110,6 @@ brzyce:
     url: /documents/iiihamdaiiinr12765/2/
     unit_label: III. HA MdA, III Nr. 12765
     n: 2
-bruenn:
-  docs: 1
-  span: '1815'
-  letters:
-  - id: '274'
-    uid: oe1bu9454-274
-    url: /documents/oe1bu9454/274/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
 bytkow:
   docs: 1
   span: '1805'
@@ -7056,69 +7119,6 @@ bytkow:
     url: /documents/oe1u199/1/
     unit_label: HZAN Oe 1 U 199
     n: 3
-boehmen:
-  docs: 5
-  span: 1799–1813
-  letters:
-  - id: '96'
-    uid: oe1bu9454-96
-    url: /documents/oe1bu9454/96/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '119'
-    uid: oe1bu9454-119
-    url: /documents/oe1bu9454/119/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '120'
-    uid: oe1bu9454-120
-    url: /documents/oe1bu9454/120/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '58'
-    uid: oe1bu9454-58
-    url: /documents/oe1bu9454/58/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '241'
-    uid: oe1bu9454-241
-    url: /documents/oe1bu9454/241/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-batkowo:
-  docs: 6
-  span: 1797–1805
-  letters:
-  - id: '11'
-    uid: oe1bu14525-11
-    url: /documents/oe1bu14525/11/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '6'
-    uid: oe1bu14525-6
-    url: /documents/oe1bu14525/6/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '28'
-    uid: oe1bu14525-28
-    url: /documents/oe1bu14525/28/
-    unit_label: Oe 1 Bü 14525
-    n: 3
-  - id: '18'
-    uid: oe1bu14525-18
-    url: /documents/oe1bu14525/18/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '24'
-    uid: oe1bu14525-24
-    url: /documents/oe1bu14525/24/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '1'
-    uid: oe1u199-1
-    url: /documents/oe1u199/1/
-    unit_label: HZAN Oe 1 U 199
-    n: 2
 charlottenburg:
   docs: 3
   span: 1800–1810
@@ -7600,105 +7600,6 @@ fuerth:
     url: /documents/oe1bu9454/188/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-gostyszyn:
-  docs: 2
-  span: 1815–1816
-  letters:
-  - id: '298'
-    uid: oe1bu9454-298
-    url: /documents/oe1bu9454/298/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '300'
-    uid: oe1bu9454-300
-    url: /documents/oe1bu9454/300/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-gola:
-  docs: 2
-  span: '1811'
-  letters:
-  - id: '224'
-    uid: oe1bu9454-224
-    url: /documents/oe1bu9454/224/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '223'
-    uid: oe1bu9454-223
-    url: /documents/oe1bu9454/223/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-graz:
-  docs: 1
-  span: '1814'
-  letters:
-  - id: '249'
-    uid: oe1bu9454-249
-    url: /documents/oe1bu9454/249/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-grenoble:
-  docs: 3
-  span: '1815'
-  letters:
-  - id: '279'
-    uid: oe1bu9454-279
-    url: /documents/oe1bu9454/279/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '4'
-    uid: oe1bu9454-4
-    url: /documents/oe1bu9454/4/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '282'
-    uid: oe1bu9454-282
-    url: /documents/oe1bu9454/282/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-grodziec:
-  docs: 3
-  span: 1935–1936
-  letters:
-  - id: '8'
-    uid: app539680716-8
-    url: /documents/app539680716/8/
-    unit_label: APP 53/968/0/-/716
-    n: 2
-  - id: '1'
-    uid: app539680669-1
-    url: /documents/app539680669/1/
-    unit_label: APP 53/968/0/-/669
-    n: 2
-  - id: '2'
-    uid: app539680669-2
-    url: /documents/app539680669/2/
-    unit_label: APP 53/968/0/-/669
-    n: 1
-guhrwitz:
-  docs: 4
-  span: 1805–1806
-  letters:
-  - id: '1'
-    uid: app539680801-1
-    url: /documents/app539680801/1/
-    unit_label: APP 53/968/0/-/801
-    n: 3
-  - id: '8'
-    uid: oe1bu14526-8
-    url: /documents/oe1bu14526/8/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '1'
-    uid: app5371057-1
-    url: /documents/app5371057/1/
-    unit_label: APP 53/71/0/-/57
-    n: 2
-  - id: '6'
-    uid: oe1bu14526-6
-    url: /documents/oe1bu14526/6/
-    unit_label: Oe 1 Bü 14526
-    n: 2
 glazewo:
   docs: 13
   span: 1797–1805
@@ -7830,6 +7731,105 @@ leobschuetz:
     uid: oe1bu9454-195
     url: /documents/oe1bu9454/195/
     unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+gola:
+  docs: 2
+  span: '1811'
+  letters:
+  - id: '224'
+    uid: oe1bu9454-224
+    url: /documents/oe1bu9454/224/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '223'
+    uid: oe1bu9454-223
+    url: /documents/oe1bu9454/223/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+gostyszyn:
+  docs: 2
+  span: 1815–1816
+  letters:
+  - id: '298'
+    uid: oe1bu9454-298
+    url: /documents/oe1bu9454/298/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '300'
+    uid: oe1bu9454-300
+    url: /documents/oe1bu9454/300/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+guhrwitz:
+  docs: 4
+  span: 1805–1806
+  letters:
+  - id: '1'
+    uid: app539680801-1
+    url: /documents/app539680801/1/
+    unit_label: APP 53/968/0/-/801
+    n: 3
+  - id: '8'
+    uid: oe1bu14526-8
+    url: /documents/oe1bu14526/8/
+    unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: '1'
+    uid: app5371057-1
+    url: /documents/app5371057/1/
+    unit_label: APP 53/71/0/-/57
+    n: 2
+  - id: '6'
+    uid: oe1bu14526-6
+    url: /documents/oe1bu14526/6/
+    unit_label: Oe 1 Bü 14526
+    n: 2
+graz:
+  docs: 1
+  span: '1814'
+  letters:
+  - id: '249'
+    uid: oe1bu9454-249
+    url: /documents/oe1bu9454/249/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+grenoble:
+  docs: 3
+  span: '1815'
+  letters:
+  - id: '279'
+    uid: oe1bu9454-279
+    url: /documents/oe1bu9454/279/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '4'
+    uid: oe1bu9454-4
+    url: /documents/oe1bu9454/4/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '282'
+    uid: oe1bu9454-282
+    url: /documents/oe1bu9454/282/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+grodziec:
+  docs: 3
+  span: 1935–1936
+  letters:
+  - id: '8'
+    uid: app539680716-8
+    url: /documents/app539680716/8/
+    unit_label: APP 53/968/0/-/716
+    n: 2
+  - id: '1'
+    uid: app539680669-1
+    url: /documents/app539680669/1/
+    unit_label: APP 53/968/0/-/669
+    n: 2
+  - id: '2'
+    uid: app539680669-2
+    url: /documents/app539680669/2/
+    unit_label: APP 53/968/0/-/669
     n: 1
 havelberg:
   docs: 2
@@ -8382,6 +8382,25 @@ kassel:
     url: /documents/oe1bu9454/295/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
+kempen:
+  docs: 3
+  span: 1799–1815
+  letters:
+  - id: '103'
+    uid: oe1bu9454-103
+    url: /documents/oe1bu9454/103/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '246'
+    uid: oe1bu9454-246
+    url: /documents/oe1bu9454/246/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '298'
+    uid: oe1bu9454-298
+    url: /documents/oe1bu9454/298/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
 kiew:
   docs: 1
   span: '1805'
@@ -8422,6 +8441,30 @@ klunowo:
   - id: '288'
     uid: oe1bu9454-288
     url: /documents/oe1bu9454/288/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+glatz:
+  docs: 4
+  span: 1802–1809
+  letters:
+  - id: '7'
+    uid: oe1bu14525-7
+    url: /documents/oe1bu14525/7/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '1'
+    uid: oe1u199-1
+    url: /documents/oe1u199/1/
+    unit_label: HZAN Oe 1 U 199
+    n: 1
+  - id: '55'
+    uid: oe1bu9454-55
+    url: /documents/oe1bu9454/55/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '65'
+    uid: oe1bu9454-65
+    url: /documents/oe1bu9454/65/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 coblenz:
@@ -8767,6 +8810,90 @@ kolno:
     url: /documents/iiihamdaiiinr12366/1/
     unit_label: III. HA MdA, III. Nr. 12366
     n: 4
+koenigsberg:
+  docs: 16
+  span: 1804–1809
+  letters:
+  - id: '21'
+    uid: oe1bu14525-21
+    url: /documents/oe1bu14525/21/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '35'
+    uid: oe1bu9454-35
+    url: /documents/oe1bu9454/35/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '40'
+    uid: oe1bu9454-40
+    url: /documents/oe1bu9454/40/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '41'
+    uid: oe1bu9454-41
+    url: /documents/oe1bu9454/41/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '42'
+    uid: oe1bu9454-42
+    url: /documents/oe1bu9454/42/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '54'
+    uid: oe1bu9454-54
+    url: /documents/oe1bu9454/54/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '55'
+    uid: oe1bu9454-55
+    url: /documents/oe1bu9454/55/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '56'
+    uid: oe1bu9454-56
+    url: /documents/oe1bu9454/56/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '51'
+    uid: oe1bu9454-51
+    url: /documents/oe1bu9454/51/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '52'
+    uid: oe1bu9454-52
+    url: /documents/oe1bu9454/52/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '57'
+    uid: oe1bu9454-57
+    url: /documents/oe1bu9454/57/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 3
+  - id: '53'
+    uid: oe1bu9454-53
+    url: /documents/oe1bu9454/53/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '58'
+    uid: oe1bu9454-58
+    url: /documents/oe1bu9454/58/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '59'
+    uid: oe1bu9454-59
+    url: /documents/oe1bu9454/59/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 5
+  - id: '61'
+    uid: oe1bu9454-61
+    url: /documents/oe1bu9454/61/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '63'
+    uid: oe1bu9454-63
+    url: /documents/oe1bu9454/63/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
 kontop:
   docs: 50
   span: 1804–1812
@@ -9359,133 +9486,6 @@ kuligowo:
     url: /documents/oe1bu14526/19/
     unit_label: Oe 1 Bü 14526
     n: 5
-koenigsberg:
-  docs: 16
-  span: 1804–1809
-  letters:
-  - id: '21'
-    uid: oe1bu14525-21
-    url: /documents/oe1bu14525/21/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '35'
-    uid: oe1bu9454-35
-    url: /documents/oe1bu9454/35/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '40'
-    uid: oe1bu9454-40
-    url: /documents/oe1bu9454/40/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '41'
-    uid: oe1bu9454-41
-    url: /documents/oe1bu9454/41/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '42'
-    uid: oe1bu9454-42
-    url: /documents/oe1bu9454/42/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '54'
-    uid: oe1bu9454-54
-    url: /documents/oe1bu9454/54/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '55'
-    uid: oe1bu9454-55
-    url: /documents/oe1bu9454/55/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '56'
-    uid: oe1bu9454-56
-    url: /documents/oe1bu9454/56/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '51'
-    uid: oe1bu9454-51
-    url: /documents/oe1bu9454/51/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '52'
-    uid: oe1bu9454-52
-    url: /documents/oe1bu9454/52/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '57'
-    uid: oe1bu9454-57
-    url: /documents/oe1bu9454/57/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 3
-  - id: '53'
-    uid: oe1bu9454-53
-    url: /documents/oe1bu9454/53/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '58'
-    uid: oe1bu9454-58
-    url: /documents/oe1bu9454/58/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '59'
-    uid: oe1bu9454-59
-    url: /documents/oe1bu9454/59/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 5
-  - id: '61'
-    uid: oe1bu9454-61
-    url: /documents/oe1bu9454/61/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '63'
-    uid: oe1bu9454-63
-    url: /documents/oe1bu9454/63/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-kempen:
-  docs: 3
-  span: 1799–1815
-  letters:
-  - id: '103'
-    uid: oe1bu9454-103
-    url: /documents/oe1bu9454/103/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '246'
-    uid: oe1bu9454-246
-    url: /documents/oe1bu9454/246/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '298'
-    uid: oe1bu9454-298
-    url: /documents/oe1bu9454/298/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-glatz:
-  docs: 4
-  span: 1802–1809
-  letters:
-  - id: '7'
-    uid: oe1bu14525-7
-    url: /documents/oe1bu14525/7/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '1'
-    uid: oe1u199-1
-    url: /documents/oe1u199/1/
-    unit_label: HZAN Oe 1 U 199
-    n: 1
-  - id: '55'
-    uid: oe1bu9454-55
-    url: /documents/oe1bu9454/55/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '65'
-    uid: oe1bu9454-65
-    url: /documents/oe1bu9454/65/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
 langenburg:
   docs: 5
   span: 1805–1815
@@ -9563,6 +9563,25 @@ lassowitz:
     url: /documents/oe1bu9454/245/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
+ladek:
+  docs: 3
+  span: 1261–1802
+  letters:
+  - id: '4'
+    uid: kdw-4
+    url: /documents/kdw/4/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '1'
+    uid: agad1169011745-1
+    url: /documents/agad1169011745/1/
+    unit_label: AGAD 1/169/0/1/1745
+    n: 1
+  - id: '115'
+    uid: oe1bu9454-115
+    url: /documents/oe1bu9454/115/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
 liegnitz:
   docs: 1
   span: '1809'
@@ -9604,24 +9623,236 @@ lyon:
     url: /documents/oe1bu9454/282/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-ladek:
-  docs: 3
-  span: 1261–1802
+lenschitz:
+  docs: 2
+  span: 1797–1805
   letters:
-  - id: '4'
-    uid: kdw-4
-    url: /documents/kdw/4/
-    unit_label: Kodeks Dyplomatyczny Wielkopolski
+  - id: '1'
+    uid: ihagrrep7cnr3067-1
+    url: /documents/ihagrrep7cnr3067/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
+    n: 1
+  - id: '177'
+    uid: oe1bu9454-177
+    url: /documents/oe1bu9454/177/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+lohsen:
+  docs: 1
+  span: '1808'
+  letters:
+  - id: '29'
+    uid: oe1bu9454-29
+    url: /documents/oe1bu9454/29/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+lowyn:
+  docs: 11
+  span: 1797–1804
+  letters:
+  - id: '10'
+    uid: oe1bu14525-10
+    url: /documents/oe1bu14525/10/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '8'
+    uid: oe1bu14525-8
+    url: /documents/oe1bu14525/8/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '9'
+    uid: oe1bu14525-9
+    url: /documents/oe1bu14525/9/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '15'
+    uid: oe1bu14525-15
+    url: /documents/oe1bu14525/15/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '16'
+    uid: oe1bu14525-16
+    url: /documents/oe1bu14525/16/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '17'
+    uid: oe1bu14525-17
+    url: /documents/oe1bu14525/17/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '5'
+    uid: oe1bu14525-5
+    url: /documents/oe1bu14525/5/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '25'
+    uid: oe1bu14525-25
+    url: /documents/oe1bu14525/25/
+    unit_label: Oe 1 Bü 14525
+    n: 3
+  - id: '18'
+    uid: oe1bu14526-18
+    url: /documents/oe1bu14526/18/
+    unit_label: Oe 1 Bü 14526
+    n: 6
+  - id: '19'
+    uid: oe1bu14526-19
+    url: /documents/oe1bu14526/19/
+    unit_label: Oe 1 Bü 14526
+    n: 6
+  - id: '22'
+    uid: oe1bu14525-22
+    url: /documents/oe1bu14525/22/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+lukomia:
+  docs: 29
+  span: 1447–1799
+  letters:
+  - id: '3'
+    uid: app5314550221-3
+    url: /documents/app5314550221/3/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '6'
+    uid: app5314550221-6
+    url: /documents/app5314550221/6/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '2'
+    uid: app53170koningr114-2
+    url: /documents/app53170koningr114/2/
+    unit_label: 53/17/0/-/Konin Gr.114
     n: 1
   - id: '1'
-    uid: agad1169011745-1
-    url: /documents/agad1169011745/1/
-    unit_label: AGAD 1/169/0/1/1745
+    uid: app53150kaliszgr414-1
+    url: /documents/app53150kaliszgr414/1/
+    unit_label: 53/15/0/-/Kalisz Gr.414
+    n: 4
+  - id: '4'
+    uid: app53170koningr115-4
+    url: /documents/app53170koningr115/4/
+    unit_label: 53/17/0/-/Konin Gr.115
     n: 1
-  - id: '115'
-    uid: oe1bu9454-115
-    url: /documents/oe1bu9454/115/
-    unit_label: HZAN Oe 1 Bü 9454
+  - id: '6'
+    uid: app53170koningr115-6
+    url: /documents/app53170koningr115/6/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '4'
+    uid: app53170koningr116-4
+    url: /documents/app53170koningr116/4/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '7'
+    uid: app53170koningr116-7
+    url: /documents/app53170koningr116/7/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '1'
+    uid: app53170koningr145-1
+    url: /documents/app53170koningr145/1/
+    unit_label: 53/17/0/-/Konin Gr.145
+    n: 179
+  - id: '1'
+    uid: app53150kaliszgr425-1
+    url: /documents/app53150kaliszgr425/1/
+    unit_label: 53/15/0/-/Kalisz Gr.425
+    n: 2
+  - id: '1'
+    uid: app536046-1
+    url: /documents/app536046/1/
+    unit_label: APP 53/6/0/-/46
+    n: 1
+  - id: '2'
+    uid: app53170koningr117-2
+    url: /documents/app53170koningr117/2/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '4'
+    uid: app53170koningr117-4
+    url: /documents/app53170koningr117/4/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '8'
+    uid: app53170koningr117-8
+    url: /documents/app53170koningr117/8/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '9'
+    uid: app53170koningr117-9
+    url: /documents/app53170koningr117/9/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '3'
+    uid: app53170koningr118-3
+    url: /documents/app53170koningr118/3/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '8'
+    uid: app53170koningr118-8
+    url: /documents/app53170koningr118/8/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '10'
+    uid: app53170koningr118-10
+    url: /documents/app53170koningr118/10/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '17'
+    uid: app53170koningr118-17
+    url: /documents/app53170koningr118/17/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '19'
+    uid: app53170koningr118-19
+    url: /documents/app53170koningr118/19/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '20'
+    uid: app53170koningr118-20
+    url: /documents/app53170koningr118/20/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '1'
+    uid: app53170koningr153-1
+    url: /documents/app53170koningr153/1/
+    unit_label: 53/17/0/-/Konin Gr.153
+    n: 1
+  - id: '26'
+    uid: app53170koningr118-26
+    url: /documents/app53170koningr118/26/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '27'
+    uid: app53170koningr118-27
+    url: /documents/app53170koningr118/27/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 5
+  - id: '1'
+    uid: app53170koningr119-1
+    url: /documents/app53170koningr119/1/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '2'
+    uid: app53170koningr119-2
+    url: /documents/app53170koningr119/2/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '3'
+    uid: app53170koningr119-3
+    url: /documents/app53170koningr119/3/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 4
+  - id: '6'
+    uid: app53170koningr119-6
+    url: /documents/app53170koningr119/6/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '6'
+    uid: ihagrrep7cnr421-6
+    url: /documents/ihagrrep7cnr421/6/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 421
     n: 1
 magdeburg:
   docs: 5
@@ -9971,6 +10202,115 @@ ofen:
     uid: oe1bu9454-242
     url: /documents/oe1bu9454/242/
     unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+oehringen:
+  docs: 21
+  span: 1799–1820
+  letters:
+  - id: '96'
+    uid: oe1bu9454-96
+    url: /documents/oe1bu9454/96/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '99'
+    uid: oe1bu9454-99
+    url: /documents/oe1bu9454/99/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '103'
+    uid: oe1bu9454-103
+    url: /documents/oe1bu9454/103/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '167'
+    uid: oe1bu9454-167
+    url: /documents/oe1bu9454/167/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '1'
+    uid: ihagrrep7cnr3705-1
+    url: /documents/ihagrrep7cnr3705/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3705
+    n: 1
+  - id: '190'
+    uid: oe1bu9454-190
+    url: /documents/oe1bu9454/190/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '185'
+    uid: oe1bu9454-185
+    url: /documents/oe1bu9454/185/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '187'
+    uid: oe1bu9454-187
+    url: /documents/oe1bu9454/187/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '24'
+    uid: oe1bu9454-24
+    url: /documents/oe1bu9454/24/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '36'
+    uid: oe1bu9454-36
+    url: /documents/oe1bu9454/36/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '38'
+    uid: oe1bu9454-38
+    url: /documents/oe1bu9454/38/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '40'
+    uid: oe1bu9454-40
+    url: /documents/oe1bu9454/40/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 3
+  - id: '211'
+    uid: oe1bu9454-211
+    url: /documents/oe1bu9454/211/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '224'
+    uid: oe1bu9454-224
+    url: /documents/oe1bu9454/224/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '245'
+    uid: oe1bu9454-245
+    url: /documents/oe1bu9454/245/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '259'
+    uid: oe1bu9454-259
+    url: /documents/oe1bu9454/259/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '272'
+    uid: oe1bu9454-272
+    url: /documents/oe1bu9454/272/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '15'
+    uid: oe1bu9454-15
+    url: /documents/oe1bu9454/15/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '6'
+    uid: oe1bu9454-6
+    url: /documents/oe1bu9454/6/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '292'
+    uid: oe1bu9454-292
+    url: /documents/oe1bu9454/292/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '22'
+    uid: iiihamdaiiinr12765-22
+    url: /documents/iiihamdaiiinr12765/22/
+    unit_label: III. HA MdA, III Nr. 12765
     n: 1
 olszyna:
   docs: 1
@@ -11675,6 +12015,310 @@ schurgast:
     url: /documents/oe1bu9454/221/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
+schlawenschitz:
+  docs: 60
+  span: 1801–1820
+  letters:
+  - id: '109'
+    uid: oe1bu9454-109
+    url: /documents/oe1bu9454/109/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '1'
+    uid: oe1u199-1
+    url: /documents/oe1u199/1/
+    unit_label: HZAN Oe 1 U 199
+    n: 3
+  - id: '29'
+    uid: oe1bu9454-29
+    url: /documents/oe1bu9454/29/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '47'
+    uid: oe1bu9454-47
+    url: /documents/oe1bu9454/47/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '20'
+    uid: oe1bu9454-20
+    url: /documents/oe1bu9454/20/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '50'
+    uid: oe1bu9454-50
+    url: /documents/oe1bu9454/50/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '51'
+    uid: oe1bu9454-51
+    url: /documents/oe1bu9454/51/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '57'
+    uid: oe1bu9454-57
+    url: /documents/oe1bu9454/57/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '58'
+    uid: oe1bu9454-58
+    url: /documents/oe1bu9454/58/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '61'
+    uid: oe1bu9454-61
+    url: /documents/oe1bu9454/61/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '65'
+    uid: oe1bu9454-65
+    url: /documents/oe1bu9454/65/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '63'
+    uid: oe1bu9454-63
+    url: /documents/oe1bu9454/63/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '66'
+    uid: oe1bu9454-66
+    url: /documents/oe1bu9454/66/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '70'
+    uid: oe1bu9454-70
+    url: /documents/oe1bu9454/70/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '71'
+    uid: oe1bu9454-71
+    url: /documents/oe1bu9454/71/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '193'
+    uid: oe1bu9454-193
+    url: /documents/oe1bu9454/193/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '203'
+    uid: oe1bu9454-203
+    url: /documents/oe1bu9454/203/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '215'
+    uid: oe1bu9454-215
+    url: /documents/oe1bu9454/215/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '218'
+    uid: oe1bu9454-218
+    url: /documents/oe1bu9454/218/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '220'
+    uid: oe1bu9454-220
+    url: /documents/oe1bu9454/220/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '221'
+    uid: oe1bu9454-221
+    url: /documents/oe1bu9454/221/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '223'
+    uid: oe1bu9454-223
+    url: /documents/oe1bu9454/223/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '227'
+    uid: oe1bu9454-227
+    url: /documents/oe1bu9454/227/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '228'
+    uid: oe1bu9454-228
+    url: /documents/oe1bu9454/228/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '73'
+    uid: oe1bu9454-73
+    url: /documents/oe1bu9454/73/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: 72a
+    uid: oe1bu9454-72a
+    url: /documents/oe1bu9454/72a/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 3
+  - id: 72b
+    uid: oe1bu9454-72b
+    url: /documents/oe1bu9454/72b/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: 72f
+    uid: oe1bu9454-72f
+    url: /documents/oe1bu9454/72f/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '232'
+    uid: oe1bu9454-232
+    url: /documents/oe1bu9454/232/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '17'
+    uid: oe1bu9454-17
+    url: /documents/oe1bu9454/17/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '233'
+    uid: oe1bu9454-233
+    url: /documents/oe1bu9454/233/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '237'
+    uid: oe1bu9454-237
+    url: /documents/oe1bu9454/237/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '238'
+    uid: oe1bu9454-238
+    url: /documents/oe1bu9454/238/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '244'
+    uid: oe1bu9454-244
+    url: /documents/oe1bu9454/244/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '245'
+    uid: oe1bu9454-245
+    url: /documents/oe1bu9454/245/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '247'
+    uid: oe1bu9454-247
+    url: /documents/oe1bu9454/247/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '254'
+    uid: oe1bu9454-254
+    url: /documents/oe1bu9454/254/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '248'
+    uid: oe1bu9454-248
+    url: /documents/oe1bu9454/248/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '259'
+    uid: oe1bu9454-259
+    url: /documents/oe1bu9454/259/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '263'
+    uid: oe1bu9454-263
+    url: /documents/oe1bu9454/263/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '281'
+    uid: oe1bu9454-281
+    url: /documents/oe1bu9454/281/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '264'
+    uid: oe1bu9454-264
+    url: /documents/oe1bu9454/264/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: 265a
+    uid: oe1bu9454-265a
+    url: /documents/oe1bu9454/265a/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: 265b
+    uid: oe1bu9454-265b
+    url: /documents/oe1bu9454/265b/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '1'
+    uid: oe1bu9454-1
+    url: /documents/oe1bu9454/1/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '3'
+    uid: oe1bu9454-3
+    url: /documents/oe1bu9454/3/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '2'
+    uid: oe1bu9454-2
+    url: /documents/oe1bu9454/2/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '273'
+    uid: oe1bu9454-273
+    url: /documents/oe1bu9454/273/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '13'
+    uid: oe1bu9454-13
+    url: /documents/oe1bu9454/13/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '4'
+    uid: oe1bu9454-4
+    url: /documents/oe1bu9454/4/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '7'
+    uid: iiihamdaiiinr12765-7
+    url: /documents/iiihamdaiiinr12765/7/
+    unit_label: III. HA MdA, III Nr. 12765
+    n: 1
+  - id: '6'
+    uid: iiihamdaiiinr12765-6
+    url: /documents/iiihamdaiiinr12765/6/
+    unit_label: III. HA MdA, III Nr. 12765
+    n: 2
+  - id: '292'
+    uid: oe1bu9454-292
+    url: /documents/oe1bu9454/292/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '297'
+    uid: oe1bu9454-297
+    url: /documents/oe1bu9454/297/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '298'
+    uid: oe1bu9454-298
+    url: /documents/oe1bu9454/298/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '300'
+    uid: oe1bu9454-300
+    url: /documents/oe1bu9454/300/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '12'
+    uid: iiihamdaiiinr12765-12
+    url: /documents/iiihamdaiiinr12765/12/
+    unit_label: III. HA MdA, III Nr. 12765
+    n: 1
+  - id: '21'
+    uid: iiihamdaiiinr12765-21
+    url: /documents/iiihamdaiiinr12765/21/
+    unit_label: III. HA MdA, III Nr. 12765
+    n: 1
+  - id: '23'
+    uid: iiihamdaiiinr12765-23
+    url: /documents/iiihamdaiiinr12765/23/
+    unit_label: III. HA MdA, III Nr. 12765
+    n: 1
+  - id: '303'
+    uid: oe1bu9454-303
+    url: /documents/oe1bu9454/303/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
 sommerfeld:
   docs: 6
   span: 1805–1816
@@ -11943,6 +12587,210 @@ strelitz:
     uid: oe1bu9454-298
     url: /documents/oe1bu9454/298/
     unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+suedpreussen:
+  docs: 40
+  span: 1794–1819
+  letters:
+  - id: '13'
+    uid: oe1bu14525-13
+    url: /documents/oe1bu14525/13/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '1'
+    uid: ihagrrep7cnr3570-1
+    url: /documents/ihagrrep7cnr3570/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3570
+    n: 5
+  - id: '3'
+    uid: ihagrrep7cnr1414-3
+    url: /documents/ihagrrep7cnr1414/3/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 1414
+    n: 1
+  - id: '102'
+    uid: oe1bu9454-102
+    url: /documents/oe1bu9454/102/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '2'
+    uid: oe1bu14525-2
+    url: /documents/oe1bu14525/2/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '101'
+    uid: oe1bu9454-101
+    url: /documents/oe1bu9454/101/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 4
+  - id: '41'
+    uid: oe1bu14525-41
+    url: /documents/oe1bu14525/41/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '15'
+    uid: oe1bu14525-15
+    url: /documents/oe1bu14525/15/
+    unit_label: Oe 1 Bü 14525
+    n: 2
+  - id: '7'
+    uid: oe1bu14525-7
+    url: /documents/oe1bu14525/7/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '28'
+    uid: oe1bu14525-28
+    url: /documents/oe1bu14525/28/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '23'
+    uid: oe1bu14525-23
+    url: /documents/oe1bu14525/23/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '12'
+    uid: oe1bu14525-12
+    url: /documents/oe1bu14525/12/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '25'
+    uid: oe1bu14525-25
+    url: /documents/oe1bu14525/25/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '21'
+    uid: oe1bu14525-21
+    url: /documents/oe1bu14525/21/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '119'
+    uid: oe1bu9454-119
+    url: /documents/oe1bu9454/119/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '129'
+    uid: oe1bu9454-129
+    url: /documents/oe1bu9454/129/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '135'
+    uid: oe1bu9454-135
+    url: /documents/oe1bu9454/135/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '134'
+    uid: oe1bu9454-134
+    url: /documents/oe1bu9454/134/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '140'
+    uid: oe1bu9454-140
+    url: /documents/oe1bu9454/140/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '22'
+    uid: oe1bu14525-22
+    url: /documents/oe1bu14525/22/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '153'
+    uid: oe1bu9454-153
+    url: /documents/oe1bu9454/153/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '4'
+    uid: oe1bu14526-4
+    url: /documents/oe1bu14526/4/
+    unit_label: Oe 1 Bü 14526
+    n: 2
+  - id: '158'
+    uid: oe1bu9454-158
+    url: /documents/oe1bu9454/158/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '1'
+    uid: app539680801-1
+    url: /documents/app539680801/1/
+    unit_label: APP 53/968/0/-/801
+    n: 1
+  - id: '3'
+    uid: iharep162nr295-3
+    url: /documents/iharep162nr295/3/
+    unit_label: I. HA Rep. 162, Nr. 295
+    n: 2
+  - id: '22'
+    uid: oe1bu14526-22
+    url: /documents/oe1bu14526/22/
+    unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: '177'
+    uid: oe1bu9454-177
+    url: /documents/oe1bu9454/177/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '1'
+    uid: oe1u199-1
+    url: /documents/oe1u199/1/
+    unit_label: HZAN Oe 1 U 199
+    n: 2
+  - id: '2'
+    uid: app539680801-2
+    url: /documents/app539680801/2/
+    unit_label: APP 53/968/0/-/801
+    n: 1
+  - id: '8'
+    uid: oe1bu14526-8
+    url: /documents/oe1bu14526/8/
+    unit_label: Oe 1 Bü 14526
+    n: 2
+  - id: '1'
+    uid: app5371057-1
+    url: /documents/app5371057/1/
+    unit_label: APP 53/71/0/-/57
+    n: 1
+  - id: 179a
+    uid: oe1bu9454-179a
+    url: /documents/oe1bu9454/179a/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '6'
+    uid: oe1bu14526-6
+    url: /documents/oe1bu14526/6/
+    unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: '24'
+    uid: oe1bu9454-24
+    url: /documents/oe1bu9454/24/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '26'
+    uid: oe1bu9454-26
+    url: /documents/oe1bu9454/26/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 3
+  - id: '33'
+    uid: oe1bu9454-33
+    url: /documents/oe1bu9454/33/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '44'
+    uid: oe1bu9454-44
+    url: /documents/oe1bu9454/44/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '57'
+    uid: oe1bu9454-57
+    url: /documents/oe1bu9454/57/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: 265b
+    uid: oe1bu9454-265b
+    url: /documents/oe1bu9454/265b/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '1'
+    uid: iiihamdaiiinr12366-1
+    url: /documents/iiihamdaiiinr12366/1/
+    unit_label: III. HA MdA, III. Nr. 12366
     n: 1
 swiecia:
   docs: 35
@@ -12248,193 +13096,122 @@ szedlemin:
     url: /documents/oe1bu14525/6/
     unit_label: Oe 1 Bü 14525
     n: 1
-suedpreussen:
-  docs: 40
-  span: 1794–1819
+swiechocin:
+  docs: 11
+  span: 1797–1804
   letters:
-  - id: '13'
-    uid: oe1bu14525-13
-    url: /documents/oe1bu14525/13/
+  - id: '10'
+    uid: oe1bu14525-10
+    url: /documents/oe1bu14525/10/
     unit_label: Oe 1 Bü 14525
     n: 2
-  - id: '1'
-    uid: ihagrrep7cnr3570-1
-    url: /documents/ihagrrep7cnr3570/1/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3570
-    n: 5
-  - id: '3'
-    uid: ihagrrep7cnr1414-3
-    url: /documents/ihagrrep7cnr1414/3/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 1414
-    n: 1
-  - id: '102'
-    uid: oe1bu9454-102
-    url: /documents/oe1bu9454/102/
-    unit_label: HZAN Oe 1 Bü 9454
+  - id: '8'
+    uid: oe1bu14525-8
+    url: /documents/oe1bu14525/8/
+    unit_label: Oe 1 Bü 14525
     n: 2
-  - id: '2'
-    uid: oe1bu14525-2
-    url: /documents/oe1bu14525/2/
+  - id: '9'
+    uid: oe1bu14525-9
+    url: /documents/oe1bu14525/9/
     unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '101'
-    uid: oe1bu9454-101
-    url: /documents/oe1bu9454/101/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 4
-  - id: '41'
-    uid: oe1bu14525-41
-    url: /documents/oe1bu14525/41/
-    unit_label: Oe 1 Bü 14525
-    n: 1
+    n: 2
   - id: '15'
     uid: oe1bu14525-15
     url: /documents/oe1bu14525/15/
     unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '16'
+    uid: oe1bu14525-16
+    url: /documents/oe1bu14525/16/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '17'
+    uid: oe1bu14525-17
+    url: /documents/oe1bu14525/17/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '5'
+    uid: oe1bu14525-5
+    url: /documents/oe1bu14525/5/
+    unit_label: Oe 1 Bü 14525
     n: 2
-  - id: '7'
-    uid: oe1bu14525-7
-    url: /documents/oe1bu14525/7/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '28'
-    uid: oe1bu14525-28
-    url: /documents/oe1bu14525/28/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '23'
-    uid: oe1bu14525-23
-    url: /documents/oe1bu14525/23/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '12'
-    uid: oe1bu14525-12
-    url: /documents/oe1bu14525/12/
-    unit_label: Oe 1 Bü 14525
-    n: 1
   - id: '25'
     uid: oe1bu14525-25
     url: /documents/oe1bu14525/25/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '21'
-    uid: oe1bu14525-21
-    url: /documents/oe1bu14525/21/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '119'
-    uid: oe1bu9454-119
-    url: /documents/oe1bu9454/119/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '129'
-    uid: oe1bu9454-129
-    url: /documents/oe1bu9454/129/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '135'
-    uid: oe1bu9454-135
-    url: /documents/oe1bu9454/135/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '134'
-    uid: oe1bu9454-134
-    url: /documents/oe1bu9454/134/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '140'
-    uid: oe1bu9454-140
-    url: /documents/oe1bu9454/140/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
+  - id: '18'
+    uid: oe1bu14526-18
+    url: /documents/oe1bu14526/18/
+    unit_label: Oe 1 Bü 14526
+    n: 3
+  - id: '19'
+    uid: oe1bu14526-19
+    url: /documents/oe1bu14526/19/
+    unit_label: Oe 1 Bü 14526
+    n: 5
   - id: '22'
     uid: oe1bu14525-22
     url: /documents/oe1bu14525/22/
     unit_label: Oe 1 Bü 14525
     n: 1
-  - id: '153'
-    uid: oe1bu9454-153
-    url: /documents/oe1bu9454/153/
+schweinern:
+  docs: 28
+  span: 1802–1816
+  letters:
+  - id: '115'
+    uid: oe1bu9454-115
+    url: /documents/oe1bu9454/115/
     unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '4'
-    uid: oe1bu14526-4
-    url: /documents/oe1bu14526/4/
+    n: 1
+  - id: '18'
+    uid: oe1bu14526-18
+    url: /documents/oe1bu14526/18/
     unit_label: Oe 1 Bü 14526
-    n: 2
-  - id: '158'
-    uid: oe1bu9454-158
-    url: /documents/oe1bu9454/158/
-    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '19'
+    uid: oe1bu14526-19
+    url: /documents/oe1bu14526/19/
+    unit_label: Oe 1 Bü 14526
     n: 1
   - id: '1'
     uid: app539680801-1
     url: /documents/app539680801/1/
     unit_label: APP 53/968/0/-/801
     n: 1
-  - id: '3'
-    uid: iharep162nr295-3
-    url: /documents/iharep162nr295/3/
-    unit_label: I. HA Rep. 162, Nr. 295
-    n: 2
-  - id: '22'
-    uid: oe1bu14526-22
-    url: /documents/oe1bu14526/22/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '177'
-    uid: oe1bu9454-177
-    url: /documents/oe1bu9454/177/
+  - id: '174'
+    uid: oe1bu9454-174
+    url: /documents/oe1bu9454/174/
     unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '1'
-    uid: oe1u199-1
-    url: /documents/oe1u199/1/
-    unit_label: HZAN Oe 1 U 199
-    n: 2
-  - id: '2'
-    uid: app539680801-2
-    url: /documents/app539680801/2/
-    unit_label: APP 53/968/0/-/801
+    n: 1
+  - id: '170'
+    uid: oe1bu9454-170
+    url: /documents/oe1bu9454/170/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '166'
+    uid: oe1bu9454-166
+    url: /documents/oe1bu9454/166/
+    unit_label: HZAN Oe 1 Bü 9454
     n: 1
   - id: '8'
     uid: oe1bu14526-8
     url: /documents/oe1bu14526/8/
     unit_label: Oe 1 Bü 14526
-    n: 2
-  - id: '1'
-    uid: app5371057-1
-    url: /documents/app5371057/1/
-    unit_label: APP 53/71/0/-/57
     n: 1
-  - id: 179a
-    uid: oe1bu9454-179a
-    url: /documents/oe1bu9454/179a/
+  - id: '179'
+    uid: oe1bu9454-179
+    url: /documents/oe1bu9454/179/
     unit_label: HZAN Oe 1 Bü 9454
-    n: 2
+    n: 1
   - id: '6'
     uid: oe1bu14526-6
     url: /documents/oe1bu14526/6/
     unit_label: Oe 1 Bü 14526
     n: 1
-  - id: '24'
-    uid: oe1bu9454-24
-    url: /documents/oe1bu9454/24/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '26'
-    uid: oe1bu9454-26
-    url: /documents/oe1bu9454/26/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 3
-  - id: '33'
-    uid: oe1bu9454-33
-    url: /documents/oe1bu9454/33/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '44'
-    uid: oe1bu9454-44
-    url: /documents/oe1bu9454/44/
+  - id: '25'
+    uid: oe1bu9454-25
+    url: /documents/oe1bu9454/25/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
   - id: '57'
@@ -12442,110 +13219,66 @@ suedpreussen:
     url: /documents/oe1bu9454/57/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: 265b
-    uid: oe1bu9454-265b
-    url: /documents/oe1bu9454/265b/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '1'
-    uid: iiihamdaiiinr12366-1
-    url: /documents/iiihamdaiiinr12366/1/
-    unit_label: III. HA MdA, III. Nr. 12366
-    n: 1
-schlawenschitz:
-  docs: 60
-  span: 1801–1820
-  letters:
-  - id: '109'
-    uid: oe1bu9454-109
-    url: /documents/oe1bu9454/109/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '1'
-    uid: oe1u199-1
-    url: /documents/oe1u199/1/
-    unit_label: HZAN Oe 1 U 199
-    n: 3
-  - id: '29'
-    uid: oe1bu9454-29
-    url: /documents/oe1bu9454/29/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '47'
-    uid: oe1bu9454-47
-    url: /documents/oe1bu9454/47/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '20'
-    uid: oe1bu9454-20
-    url: /documents/oe1bu9454/20/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '50'
-    uid: oe1bu9454-50
-    url: /documents/oe1bu9454/50/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '51'
-    uid: oe1bu9454-51
-    url: /documents/oe1bu9454/51/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '57'
-    uid: oe1bu9454-57
-    url: /documents/oe1bu9454/57/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '58'
-    uid: oe1bu9454-58
-    url: /documents/oe1bu9454/58/
+  - id: '60'
+    uid: oe1bu9454-60
+    url: /documents/oe1bu9454/60/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
   - id: '61'
     uid: oe1bu9454-61
     url: /documents/oe1bu9454/61/
     unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '65'
-    uid: oe1bu9454-65
-    url: /documents/oe1bu9454/65/
-    unit_label: HZAN Oe 1 Bü 9454
     n: 2
-  - id: '63'
-    uid: oe1bu9454-63
-    url: /documents/oe1bu9454/63/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '66'
-    uid: oe1bu9454-66
-    url: /documents/oe1bu9454/66/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '70'
-    uid: oe1bu9454-70
-    url: /documents/oe1bu9454/70/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '71'
-    uid: oe1bu9454-71
-    url: /documents/oe1bu9454/71/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '193'
-    uid: oe1bu9454-193
-    url: /documents/oe1bu9454/193/
+  - id: '21'
+    uid: oe1bu9454-21
+    url: /documents/oe1bu9454/21/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
   - id: '203'
     uid: oe1bu9454-203
     url: /documents/oe1bu9454/203/
     unit_label: HZAN Oe 1 Bü 9454
+    n: 2
+  - id: '199'
+    uid: oe1bu9454-199
+    url: /documents/oe1bu9454/199/
+    unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '215'
-    uid: oe1bu9454-215
-    url: /documents/oe1bu9454/215/
+  - id: '186'
+    uid: oe1bu9454-186
+    url: /documents/oe1bu9454/186/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '201'
+    uid: oe1bu9454-201
+    url: /documents/oe1bu9454/201/
     unit_label: HZAN Oe 1 Bü 9454
     n: 2
+  - id: '202'
+    uid: oe1bu9454-202
+    url: /documents/oe1bu9454/202/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '205'
+    uid: oe1bu9454-205
+    url: /documents/oe1bu9454/205/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '208'
+    uid: oe1bu9454-208
+    url: /documents/oe1bu9454/208/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: '212'
+    uid: oe1bu9454-212
+    url: /documents/oe1bu9454/212/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
+  - id: 74a
+    uid: oe1bu9454-74a
+    url: /documents/oe1bu9454/74a/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
   - id: '218'
     uid: oe1bu9454-218
     url: /documents/oe1bu9454/218/
@@ -12555,207 +13288,17 @@ schlawenschitz:
     uid: oe1bu9454-220
     url: /documents/oe1bu9454/220/
     unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '221'
-    uid: oe1bu9454-221
-    url: /documents/oe1bu9454/221/
+    n: 1
+  - id: '240'
+    uid: oe1bu9454-240
+    url: /documents/oe1bu9454/240/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '223'
-    uid: oe1bu9454-223
-    url: /documents/oe1bu9454/223/
+  - id: '301'
+    uid: oe1bu9454-301
+    url: /documents/oe1bu9454/301/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
-  - id: '227'
-    uid: oe1bu9454-227
-    url: /documents/oe1bu9454/227/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '228'
-    uid: oe1bu9454-228
-    url: /documents/oe1bu9454/228/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '73'
-    uid: oe1bu9454-73
-    url: /documents/oe1bu9454/73/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: 72a
-    uid: oe1bu9454-72a
-    url: /documents/oe1bu9454/72a/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 3
-  - id: 72b
-    uid: oe1bu9454-72b
-    url: /documents/oe1bu9454/72b/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: 72f
-    uid: oe1bu9454-72f
-    url: /documents/oe1bu9454/72f/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '232'
-    uid: oe1bu9454-232
-    url: /documents/oe1bu9454/232/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '17'
-    uid: oe1bu9454-17
-    url: /documents/oe1bu9454/17/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '233'
-    uid: oe1bu9454-233
-    url: /documents/oe1bu9454/233/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '237'
-    uid: oe1bu9454-237
-    url: /documents/oe1bu9454/237/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '238'
-    uid: oe1bu9454-238
-    url: /documents/oe1bu9454/238/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '244'
-    uid: oe1bu9454-244
-    url: /documents/oe1bu9454/244/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '245'
-    uid: oe1bu9454-245
-    url: /documents/oe1bu9454/245/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '247'
-    uid: oe1bu9454-247
-    url: /documents/oe1bu9454/247/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '254'
-    uid: oe1bu9454-254
-    url: /documents/oe1bu9454/254/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '248'
-    uid: oe1bu9454-248
-    url: /documents/oe1bu9454/248/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '259'
-    uid: oe1bu9454-259
-    url: /documents/oe1bu9454/259/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '263'
-    uid: oe1bu9454-263
-    url: /documents/oe1bu9454/263/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '281'
-    uid: oe1bu9454-281
-    url: /documents/oe1bu9454/281/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '264'
-    uid: oe1bu9454-264
-    url: /documents/oe1bu9454/264/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: 265a
-    uid: oe1bu9454-265a
-    url: /documents/oe1bu9454/265a/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: 265b
-    uid: oe1bu9454-265b
-    url: /documents/oe1bu9454/265b/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '1'
-    uid: oe1bu9454-1
-    url: /documents/oe1bu9454/1/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '3'
-    uid: oe1bu9454-3
-    url: /documents/oe1bu9454/3/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '2'
-    uid: oe1bu9454-2
-    url: /documents/oe1bu9454/2/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '273'
-    uid: oe1bu9454-273
-    url: /documents/oe1bu9454/273/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '13'
-    uid: oe1bu9454-13
-    url: /documents/oe1bu9454/13/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '4'
-    uid: oe1bu9454-4
-    url: /documents/oe1bu9454/4/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '7'
-    uid: iiihamdaiiinr12765-7
-    url: /documents/iiihamdaiiinr12765/7/
-    unit_label: III. HA MdA, III Nr. 12765
-    n: 1
-  - id: '6'
-    uid: iiihamdaiiinr12765-6
-    url: /documents/iiihamdaiiinr12765/6/
-    unit_label: III. HA MdA, III Nr. 12765
-    n: 2
-  - id: '292'
-    uid: oe1bu9454-292
-    url: /documents/oe1bu9454/292/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '297'
-    uid: oe1bu9454-297
-    url: /documents/oe1bu9454/297/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '298'
-    uid: oe1bu9454-298
-    url: /documents/oe1bu9454/298/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '300'
-    uid: oe1bu9454-300
-    url: /documents/oe1bu9454/300/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '12'
-    uid: iiihamdaiiinr12765-12
-    url: /documents/iiihamdaiiinr12765/12/
-    unit_label: III. HA MdA, III Nr. 12765
-    n: 1
-  - id: '21'
-    uid: iiihamdaiiinr12765-21
-    url: /documents/iiihamdaiiinr12765/21/
-    unit_label: III. HA MdA, III Nr. 12765
-    n: 1
-  - id: '23'
-    uid: iiihamdaiiinr12765-23
-    url: /documents/iiihamdaiiinr12765/23/
-    unit_label: III. HA MdA, III Nr. 12765
-    n: 1
-  - id: '303'
-    uid: oe1bu9454-303
-    url: /documents/oe1bu9454/303/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
 tarmowo:
   docs: 6
   span: 1797–1804
@@ -13297,6 +13840,15 @@ warschau:
     url: /documents/app539680545/7/
     unit_label: APP 53/968/0/-/545
     n: 1
+weissenfels:
+  docs: 1
+  span: '1815'
+  letters:
+  - id: '2'
+    uid: oe1bu9454-2
+    url: /documents/oe1bu9454/2/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 1
 weimar:
   docs: 3
   span: 1805–1815
@@ -13314,15 +13866,6 @@ weimar:
   - id: '287'
     uid: oe1bu9454-287
     url: /documents/oe1bu9454/287/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-weissenfels:
-  docs: 1
-  span: '1815'
-  letters:
-  - id: '2'
-    uid: oe1bu9454-2
-    url: /documents/oe1bu9454/2/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 welna:
@@ -13946,6 +14489,25 @@ witow:
     uid: oe1bu14526-1
     url: /documents/oe1bu14526/1/
     unit_label: Oe 1 Bü 14526
+    n: 1
+wloclawek:
+  docs: 3
+  span: 1797–1803
+  letters:
+  - id: '1'
+    uid: ihagrrep7cnr3067-1
+    url: /documents/ihagrrep7cnr3067/1/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
+    n: 3
+  - id: '28'
+    uid: oe1bu14525-28
+    url: /documents/oe1bu14525/28/
+    unit_label: Oe 1 Bü 14525
+    n: 1
+  - id: '5'
+    uid: ihagrrep7cnr3132-5
+    url: /documents/ihagrrep7cnr3132/5/
+    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
     n: 1
 wolica:
   docs: 7
@@ -14913,25 +15475,15 @@ wuerttemberg:
     url: /documents/iiihamdaiiinr12765/24/
     unit_label: III. HA MdA, III Nr. 12765
     n: 1
-wloclawek:
-  docs: 3
-  span: 1797–1803
+frankenstein:
+  docs: 1
+  span: '1813'
   letters:
-  - id: '1'
-    uid: ihagrrep7cnr3067-1
-    url: /documents/ihagrrep7cnr3067/1/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
-    n: 3
-  - id: '28'
-    uid: oe1bu14525-28
-    url: /documents/oe1bu14525/28/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '5'
-    uid: ihagrrep7cnr3132-5
-    url: /documents/ihagrrep7cnr3132/5/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3132
-    n: 1
+  - id: '239'
+    uid: oe1bu9454-239
+    url: /documents/oe1bu9454/239/
+    unit_label: HZAN Oe 1 Bü 9454
+    n: 2
 zielomysl:
   docs: 7
   span: 1797–1806
@@ -14993,558 +15545,6 @@ grueneberg:
   - id: 74d
     uid: oe1bu9454-74d
     url: /documents/oe1bu9454/74d/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-frankenstein:
-  docs: 1
-  span: '1813'
-  letters:
-  - id: '239'
-    uid: oe1bu9454-239
-    url: /documents/oe1bu9454/239/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-oehringen:
-  docs: 21
-  span: 1799–1820
-  letters:
-  - id: '96'
-    uid: oe1bu9454-96
-    url: /documents/oe1bu9454/96/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '99'
-    uid: oe1bu9454-99
-    url: /documents/oe1bu9454/99/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '103'
-    uid: oe1bu9454-103
-    url: /documents/oe1bu9454/103/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '167'
-    uid: oe1bu9454-167
-    url: /documents/oe1bu9454/167/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '1'
-    uid: ihagrrep7cnr3705-1
-    url: /documents/ihagrrep7cnr3705/1/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3705
-    n: 1
-  - id: '190'
-    uid: oe1bu9454-190
-    url: /documents/oe1bu9454/190/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '185'
-    uid: oe1bu9454-185
-    url: /documents/oe1bu9454/185/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '187'
-    uid: oe1bu9454-187
-    url: /documents/oe1bu9454/187/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '24'
-    uid: oe1bu9454-24
-    url: /documents/oe1bu9454/24/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '36'
-    uid: oe1bu9454-36
-    url: /documents/oe1bu9454/36/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '38'
-    uid: oe1bu9454-38
-    url: /documents/oe1bu9454/38/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '40'
-    uid: oe1bu9454-40
-    url: /documents/oe1bu9454/40/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 3
-  - id: '211'
-    uid: oe1bu9454-211
-    url: /documents/oe1bu9454/211/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '224'
-    uid: oe1bu9454-224
-    url: /documents/oe1bu9454/224/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '245'
-    uid: oe1bu9454-245
-    url: /documents/oe1bu9454/245/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '259'
-    uid: oe1bu9454-259
-    url: /documents/oe1bu9454/259/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '272'
-    uid: oe1bu9454-272
-    url: /documents/oe1bu9454/272/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '15'
-    uid: oe1bu9454-15
-    url: /documents/oe1bu9454/15/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '6'
-    uid: oe1bu9454-6
-    url: /documents/oe1bu9454/6/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '292'
-    uid: oe1bu9454-292
-    url: /documents/oe1bu9454/292/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '22'
-    uid: iiihamdaiiinr12765-22
-    url: /documents/iiihamdaiiinr12765/22/
-    unit_label: III. HA MdA, III Nr. 12765
-    n: 1
-lohsen:
-  docs: 1
-  span: '1808'
-  letters:
-  - id: '29'
-    uid: oe1bu9454-29
-    url: /documents/oe1bu9454/29/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-lowyn:
-  docs: 11
-  span: 1797–1804
-  letters:
-  - id: '10'
-    uid: oe1bu14525-10
-    url: /documents/oe1bu14525/10/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '8'
-    uid: oe1bu14525-8
-    url: /documents/oe1bu14525/8/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '9'
-    uid: oe1bu14525-9
-    url: /documents/oe1bu14525/9/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '15'
-    uid: oe1bu14525-15
-    url: /documents/oe1bu14525/15/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '16'
-    uid: oe1bu14525-16
-    url: /documents/oe1bu14525/16/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '17'
-    uid: oe1bu14525-17
-    url: /documents/oe1bu14525/17/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '5'
-    uid: oe1bu14525-5
-    url: /documents/oe1bu14525/5/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '25'
-    uid: oe1bu14525-25
-    url: /documents/oe1bu14525/25/
-    unit_label: Oe 1 Bü 14525
-    n: 3
-  - id: '18'
-    uid: oe1bu14526-18
-    url: /documents/oe1bu14526/18/
-    unit_label: Oe 1 Bü 14526
-    n: 6
-  - id: '19'
-    uid: oe1bu14526-19
-    url: /documents/oe1bu14526/19/
-    unit_label: Oe 1 Bü 14526
-    n: 6
-  - id: '22'
-    uid: oe1bu14525-22
-    url: /documents/oe1bu14525/22/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-lukomia:
-  docs: 29
-  span: 1447–1799
-  letters:
-  - id: '3'
-    uid: app5314550221-3
-    url: /documents/app5314550221/3/
-    unit_label: APP 53/1455/0/2/21
-    n: 1
-  - id: '6'
-    uid: app5314550221-6
-    url: /documents/app5314550221/6/
-    unit_label: APP 53/1455/0/2/21
-    n: 1
-  - id: '2'
-    uid: app53170koningr114-2
-    url: /documents/app53170koningr114/2/
-    unit_label: 53/17/0/-/Konin Gr.114
-    n: 1
-  - id: '1'
-    uid: app53150kaliszgr414-1
-    url: /documents/app53150kaliszgr414/1/
-    unit_label: 53/15/0/-/Kalisz Gr.414
-    n: 4
-  - id: '4'
-    uid: app53170koningr115-4
-    url: /documents/app53170koningr115/4/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 1
-  - id: '6'
-    uid: app53170koningr115-6
-    url: /documents/app53170koningr115/6/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 1
-  - id: '4'
-    uid: app53170koningr116-4
-    url: /documents/app53170koningr116/4/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '7'
-    uid: app53170koningr116-7
-    url: /documents/app53170koningr116/7/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '1'
-    uid: app53170koningr145-1
-    url: /documents/app53170koningr145/1/
-    unit_label: 53/17/0/-/Konin Gr.145
-    n: 179
-  - id: '1'
-    uid: app53150kaliszgr425-1
-    url: /documents/app53150kaliszgr425/1/
-    unit_label: 53/15/0/-/Kalisz Gr.425
-    n: 2
-  - id: '1'
-    uid: app536046-1
-    url: /documents/app536046/1/
-    unit_label: APP 53/6/0/-/46
-    n: 1
-  - id: '2'
-    uid: app53170koningr117-2
-    url: /documents/app53170koningr117/2/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '4'
-    uid: app53170koningr117-4
-    url: /documents/app53170koningr117/4/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '8'
-    uid: app53170koningr117-8
-    url: /documents/app53170koningr117/8/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '9'
-    uid: app53170koningr117-9
-    url: /documents/app53170koningr117/9/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '3'
-    uid: app53170koningr118-3
-    url: /documents/app53170koningr118/3/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '8'
-    uid: app53170koningr118-8
-    url: /documents/app53170koningr118/8/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 2
-  - id: '10'
-    uid: app53170koningr118-10
-    url: /documents/app53170koningr118/10/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 2
-  - id: '17'
-    uid: app53170koningr118-17
-    url: /documents/app53170koningr118/17/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '19'
-    uid: app53170koningr118-19
-    url: /documents/app53170koningr118/19/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '20'
-    uid: app53170koningr118-20
-    url: /documents/app53170koningr118/20/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '1'
-    uid: app53170koningr153-1
-    url: /documents/app53170koningr153/1/
-    unit_label: 53/17/0/-/Konin Gr.153
-    n: 1
-  - id: '26'
-    uid: app53170koningr118-26
-    url: /documents/app53170koningr118/26/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '27'
-    uid: app53170koningr118-27
-    url: /documents/app53170koningr118/27/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 5
-  - id: '1'
-    uid: app53170koningr119-1
-    url: /documents/app53170koningr119/1/
-    unit_label: 53/17/0/-/Konin Gr.119
-    n: 1
-  - id: '2'
-    uid: app53170koningr119-2
-    url: /documents/app53170koningr119/2/
-    unit_label: 53/17/0/-/Konin Gr.119
-    n: 1
-  - id: '3'
-    uid: app53170koningr119-3
-    url: /documents/app53170koningr119/3/
-    unit_label: 53/17/0/-/Konin Gr.119
-    n: 4
-  - id: '6'
-    uid: app53170koningr119-6
-    url: /documents/app53170koningr119/6/
-    unit_label: 53/17/0/-/Konin Gr.119
-    n: 1
-  - id: '6'
-    uid: ihagrrep7cnr421-6
-    url: /documents/ihagrrep7cnr421/6/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 421
-    n: 1
-lenschitz:
-  docs: 2
-  span: 1797–1805
-  letters:
-  - id: '1'
-    uid: ihagrrep7cnr3067-1
-    url: /documents/ihagrrep7cnr3067/1/
-    unit_label: I. HA GR, Rep. 7 C, Nr. 3067
-    n: 1
-  - id: '177'
-    uid: oe1bu9454-177
-    url: /documents/oe1bu9454/177/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-swiechocin:
-  docs: 11
-  span: 1797–1804
-  letters:
-  - id: '10'
-    uid: oe1bu14525-10
-    url: /documents/oe1bu14525/10/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '8'
-    uid: oe1bu14525-8
-    url: /documents/oe1bu14525/8/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '9'
-    uid: oe1bu14525-9
-    url: /documents/oe1bu14525/9/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '15'
-    uid: oe1bu14525-15
-    url: /documents/oe1bu14525/15/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '16'
-    uid: oe1bu14525-16
-    url: /documents/oe1bu14525/16/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '17'
-    uid: oe1bu14525-17
-    url: /documents/oe1bu14525/17/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '5'
-    uid: oe1bu14525-5
-    url: /documents/oe1bu14525/5/
-    unit_label: Oe 1 Bü 14525
-    n: 2
-  - id: '25'
-    uid: oe1bu14525-25
-    url: /documents/oe1bu14525/25/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-  - id: '18'
-    uid: oe1bu14526-18
-    url: /documents/oe1bu14526/18/
-    unit_label: Oe 1 Bü 14526
-    n: 3
-  - id: '19'
-    uid: oe1bu14526-19
-    url: /documents/oe1bu14526/19/
-    unit_label: Oe 1 Bü 14526
-    n: 5
-  - id: '22'
-    uid: oe1bu14525-22
-    url: /documents/oe1bu14525/22/
-    unit_label: Oe 1 Bü 14525
-    n: 1
-schweinern:
-  docs: 28
-  span: 1802–1816
-  letters:
-  - id: '115'
-    uid: oe1bu9454-115
-    url: /documents/oe1bu9454/115/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '18'
-    uid: oe1bu14526-18
-    url: /documents/oe1bu14526/18/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '19'
-    uid: oe1bu14526-19
-    url: /documents/oe1bu14526/19/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '1'
-    uid: app539680801-1
-    url: /documents/app539680801/1/
-    unit_label: APP 53/968/0/-/801
-    n: 1
-  - id: '174'
-    uid: oe1bu9454-174
-    url: /documents/oe1bu9454/174/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '170'
-    uid: oe1bu9454-170
-    url: /documents/oe1bu9454/170/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '166'
-    uid: oe1bu9454-166
-    url: /documents/oe1bu9454/166/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '8'
-    uid: oe1bu14526-8
-    url: /documents/oe1bu14526/8/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '179'
-    uid: oe1bu9454-179
-    url: /documents/oe1bu9454/179/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '6'
-    uid: oe1bu14526-6
-    url: /documents/oe1bu14526/6/
-    unit_label: Oe 1 Bü 14526
-    n: 1
-  - id: '25'
-    uid: oe1bu9454-25
-    url: /documents/oe1bu9454/25/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '57'
-    uid: oe1bu9454-57
-    url: /documents/oe1bu9454/57/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '60'
-    uid: oe1bu9454-60
-    url: /documents/oe1bu9454/60/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '61'
-    uid: oe1bu9454-61
-    url: /documents/oe1bu9454/61/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '21'
-    uid: oe1bu9454-21
-    url: /documents/oe1bu9454/21/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '203'
-    uid: oe1bu9454-203
-    url: /documents/oe1bu9454/203/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '199'
-    uid: oe1bu9454-199
-    url: /documents/oe1bu9454/199/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '186'
-    uid: oe1bu9454-186
-    url: /documents/oe1bu9454/186/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '201'
-    uid: oe1bu9454-201
-    url: /documents/oe1bu9454/201/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 2
-  - id: '202'
-    uid: oe1bu9454-202
-    url: /documents/oe1bu9454/202/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '205'
-    uid: oe1bu9454-205
-    url: /documents/oe1bu9454/205/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '208'
-    uid: oe1bu9454-208
-    url: /documents/oe1bu9454/208/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '212'
-    uid: oe1bu9454-212
-    url: /documents/oe1bu9454/212/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: 74a
-    uid: oe1bu9454-74a
-    url: /documents/oe1bu9454/74a/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '218'
-    uid: oe1bu9454-218
-    url: /documents/oe1bu9454/218/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '220'
-    uid: oe1bu9454-220
-    url: /documents/oe1bu9454/220/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '240'
-    uid: oe1bu9454-240
-    url: /documents/oe1bu9454/240/
-    unit_label: HZAN Oe 1 Bü 9454
-    n: 1
-  - id: '301'
-    uid: oe1bu9454-301
-    url: /documents/oe1bu9454/301/
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 sagan:

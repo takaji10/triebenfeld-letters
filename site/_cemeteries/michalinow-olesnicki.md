@@ -1,7 +1,7 @@
 ---
 layout: cemetery
 cemetery: "michalinow-olesnicki"
-title: "Michalinów gm. Oleśnica"
+title: "Michalinów Oleśnicki"
 lang: en
 permalink: "/places/cemeteries/michalinow-olesnicki/"
 alt_url: "/de/orte/friedhoefe/michalinow-olesnicki/"

@@ -19,6 +19,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: chrusciki
+    name: Chruściki
 - slug: zalesie
   name: Adolfsberg, Kolonia
   name_de: Adolfsberg, Kolonia
@@ -26,6 +29,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: zalesie
+    name: Zalesie
 - slug: anielewo
   name: Anielewo
   name_de: Anielewo
@@ -39,6 +45,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: augustinow
+    name: Augustynów
 - slug: augustinow
   name: Augustynów
   name_de: Augustynów
@@ -58,6 +67,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: czarna-struga
+    name: Czarna Struga
 - slug: bezslug
   name: Beźsług
   name_de: Beźsług
@@ -77,6 +89,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: czarna-struga
+    name: Czarna Struga
 - slug: bieganszczyzna
   name: Bieganszczyzna, Osada
   name_de: Bieganszczyzna, Osada
@@ -108,6 +123,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: lusnie-oledry
+    name: Lusnie Olędry
 - slug: chrusciki
   name: Chruściki
   name_de: Chruściki
@@ -138,6 +156,12 @@ tier1:
   kind_en: Hamlet
   kind_de: Weiler
   german: ''
+- slug: dluga-gorka
+  name: Długa Górka
+  name_de: Długa Górka
+  kind_en: Isolated dwellings
+  kind_de: Einzelsiedlung
+  german: ''
 - slug: trabczyn
   name: Drommin
   name_de: Drommin
@@ -145,6 +169,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: trabczyn
+    name: Trąbczyn
 - slug: drzewce
   name: Drzewce
   name_de: Drzewce
@@ -163,12 +190,6 @@ tier1:
   kind_en: Locale
   kind_de: Örtlichkeit
   german: ''
-- slug: dluga-gorka
-  name: Długa Górka
-  name_de: Długa Górka
-  kind_en: Isolated dwellings
-  kind_de: Einzelsiedlung
-  german: ''
 - slug: michalinow-olesnicki
   name: Emilienheim/Emilienhain, Kolonia
   name_de: Emilienheim/Emilienhain, Kolonia
@@ -176,6 +197,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: michalinow-olesnicki
+    name: Michalinów Oleśnicki
 - slug: tarszewo
   name: Friedrichsfeld, Kolonia
   name_de: Friedrichsfeld, Kolonia
@@ -183,6 +207,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: tarszewo
+    name: Tarszewo
 - slug: garbin
   name: Garbin
   name_de: Garbin
@@ -226,17 +253,20 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
-- slug: huta-trabczynska
-  name: Huta Trąbczyńska
-  name_de: Huta Trąbczyńska
-  kind_en: Hamlet
-  kind_de: Weiler
-  german: ''
+  sees:
+  - slug: zagorowo
+    name: Zagórów
 - slug: huta-lukomska
   name: Huta Łukomska
   name_de: Huta Łukomska
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: huta-trabczynska
+  name: Huta Trąbczyńska
+  name_de: Huta Trąbczyńska
+  kind_en: Hamlet
+  kind_de: Weiler
   german: ''
 - slug: imielanka
   name: Imielanka
@@ -257,6 +287,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: imielno
+    name: Imielno
 - slug: anielewo
   name: Ingelfingen, Kolonia
   name_de: Ingelfingen, Kolonia
@@ -264,6 +297,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: anielewo
+    name: Anielewo
 - slug: jeziorko
   name: Jeziorko
   name_de: Jeziorko
@@ -301,6 +337,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: kolonia-wrabczyn
+    name: Kolonia Wrąbczyn
 - slug: konin
   name: Konin
   name_de: Konin
@@ -325,17 +364,17 @@ tier1:
   kind_en: Village
   kind_de: Dorf
   german: ''
-- slug: kowaliska
-  name: Kowaliska
-  name_de: Kowaliska
-  kind_en: Place
-  kind_de: Ort
-  german: ''
 - slug: kosciolkow
   name: Kościołków
   name_de: Kościołków
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: kowaliska
+  name: Kowaliska
+  name_de: Kowaliska
+  kind_en: Place
+  kind_de: Ort
   german: ''
 - slug: krolestwo
   name: Królestwo
@@ -362,6 +401,15 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: lazinsk-pierwszy
+    name: Łazińsk Pierwszy
+- slug: lad
+  name: Ląd
+  name_de: Ląd
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
 - slug: lipowa-gorka
   name: Lipowa Górka
   name_de: Lipowa Górka
@@ -381,17 +429,78 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: ludwigslust
+    name: Mały Las
 - slug: lusnie-oledry
   name: Lusnie Olędry
   name_de: Lusnie Olędry
   kind_en: Olęder settlement
   kind_de: Haulandsiedlung
   german: ''
-- slug: lad
-  name: Ląd
-  name_de: Ląd
+- slug: lazinsk-drugi
+  name: Łazińsk Drugi
+  name_de: Łazińsk Drugi
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: lazinsk-pierwszy
+  name: Łazińsk Pierwszy
+  name_de: Łazińsk Pierwszy
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: lazinskie-oledry
+  name: Łazińskie Olędry
+  name_de: Łazińskie Olędry
+  kind_en: Olęder settlement
+  kind_de: Haulandsiedlung
+  german: ''
+- slug: lazy-trabczyn
+  name: Łazy
+  name_de: Łazy
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: lomow
+  name: Łomów
+  name_de: Łomów
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: bukowe
+  name: Łomówskie Olędry
+  name_de: Łomówskie Olędry
+  see: Bukowe
+  kind_en: ''
+  kind_de: ''
+  german: ''
+  sees:
+  - slug: bukowe
+    name: Bukowe
+- slug: lukom
+  name: Łukom
+  name_de: Łukom
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: lukomin
+  name: Łukomin
+  name_de: Łukomin
+  kind_en: Settlement
+  kind_de: Siedlung
+  german: ''
+- slug: lukomskie-oledry
+  name: Łukomskie Olędry
+  name_de: Łukomskie Olędry
+  kind_en: Olęder settlement
+  kind_de: Haulandsiedlung
+  german: ''
+- slug: lutow
+  name: Łutow
+  name_de: Łutow
+  kind_en: Windmills
+  kind_de: Windmühlen
   german: ''
 - slug: maly
   name: Maly
@@ -399,6 +508,18 @@ tier1:
   kind_en: Settlement
   kind_de: Siedlung
   german: ''
+- slug: malgorzatow
+  name: Małgorzatów
+  name_de: Małgorzatów
+  kind_en: Hamlet
+  kind_de: Weiler
+  german: ''
+- slug: ludwigslust
+  name: Mały Las
+  name_de: Mały Las
+  kind_en: Olęder settlement
+  kind_de: Haulandsiedlung
+  german: Ludwigslust
 - slug: maradz
   name: Maradz
   name_de: Maradz
@@ -417,18 +538,12 @@ tier1:
   kind_en: Village
   kind_de: Dorf
   german: ''
-- slug: malgorzatow
-  name: Małgorzatów
-  name_de: Małgorzatów
-  kind_en: Hamlet
-  kind_de: Weiler
+- slug: miasykat
+  name: Miąsykąt
+  name_de: Miąsykąt
+  kind_en: Forest
+  kind_de: Wald
   german: ''
-- slug: ludwigslust
-  name: Mały Las
-  name_de: Mały Las
-  kind_en: Olęder settlement
-  kind_de: Haulandsiedlung
-  german: Ludwigslust
 - slug: michalinow-olesnicki
   name: Michalinów Oleśnicki
   name_de: Michalinów Oleśnicki
@@ -442,17 +557,14 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: michalinow-oledry
+    name: Michalinów Trąbczyński
 - slug: michalinow-oledry
   name: Michalinów Trąbczyński
   name_de: Michalinów Trąbczyński
   kind_en: Village
   kind_de: Dorf
-  german: ''
-- slug: miasykat
-  name: Miąsykąt
-  name_de: Miąsykąt
-  kind_en: Forest
-  kind_de: Wald
   german: ''
 - slug: myszakow
   name: Myszaków
@@ -599,6 +711,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: wincentowo
+    name: Wincentowo
 - slug: dluga-gorka
   name: Siodmagorka
   name_de: Siodmagorka
@@ -606,6 +721,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: dluga-gorka
+    name: Długa Górka
 - slug: sklanna-huta
   name: Sklanna Huta
   name_de: Sklanna Huta
@@ -624,6 +742,12 @@ tier1:
   kind_en: Village
   kind_de: Dorf
   german: ''
+- slug: slupca
+  name: Słupca
+  name_de: Słupca
+  kind_en: Town
+  kind_de: Stadt
+  german: ''
 - slug: smoleniec
   name: Smoleniec
   name_de: Smoleniec
@@ -637,6 +761,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: olchowo
+    name: Olchowo
 - slug: stanislawow
   name: Stanisławów
   name_de: Stanisławów
@@ -650,6 +777,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: huta-lukomska
+    name: Huta Łukomska
 - slug: huta-lukomska
   name: Stara Huta Olędry
   name_de: Stara Huta Olędry
@@ -657,13 +787,11 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
-- slug: huta-trabczynska
-  name: Stara Huta Olędry
-  name_de: Stara Huta Olędry
-  see: Huta Trąbczyńska
-  kind_en: ''
-  kind_de: ''
-  german: ''
+  sees:
+  - slug: huta-lukomska
+    name: Huta Łukomska
+  - slug: huta-trabczynska
+    name: Huta Trąbczyńska
 - slug: stawisko
   name: Stawisko
   name_de: Stawisko
@@ -694,11 +822,11 @@ tier1:
   kind_en: Village
   kind_de: Dorf
   german: ''
-- slug: slupca
-  name: Słupca
-  name_de: Słupca
-  kind_en: Town
-  kind_de: Stadt
+- slug: swiatniki
+  name: Świątniki
+  name_de: Świątniki
+  kind_en: Village
+  kind_de: Dorf
   german: ''
 - slug: tarczewo
   name: Tarczewo
@@ -718,12 +846,6 @@ tier1:
   kind_en: Village
   kind_de: Dorf
   german: Friedrichsfeld
-- slug: trzcianne
-  name: Trzcianne
-  name_de: Trzcianne
-  kind_en: Field
-  kind_de: Flur
-  german: ''
 - slug: trabczyn
   name: Trąbczyn
   name_de: Trąbczyn
@@ -773,6 +895,9 @@ tier1:
   kind_en: ''
   kind_de: ''
   german: ''
+  sees:
+  - slug: nowawies-trabczyn
+    name: Nowa Wieś
 - slug: trabczynskie-nowe-oledry
   name: Trąbczyńskie Nowe Olędry
   name_de: Trąbczyńskie Nowe Olędry
@@ -784,6 +909,12 @@ tier1:
   name_de: Trąbczyńskie Stare Olędry
   kind_en: Olęder settlement
   kind_de: Haulandsiedlung
+  german: ''
+- slug: trzcianne
+  name: Trzcianne
+  name_de: Trzcianne
+  kind_en: Field
+  kind_de: Flur
   german: ''
 - slug: tumidaj
   name: Tumidaj
@@ -812,6 +943,18 @@ tier1:
 - slug: wincentowo
   name: Wincentowo
   name_de: Wincentowo
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: wlodzimirow-obreb
+  name: Włodzimirow Obręb
+  name_de: Włodzimirow Obręb
+  kind_en: Forest precinct
+  kind_de: Forstrevier
+  german: ''
+- slug: wlodzimirow
+  name: Włodzimirów
+  name_de: Włodzimirów
   kind_en: Village
   kind_de: Dorf
   german: ''
@@ -851,18 +994,6 @@ tier1:
   kind_en: Isolated dwellings
   kind_de: Einzelsiedlung
   german: ''
-- slug: wlodzimirow-obreb
-  name: Włodzimirow Obręb
-  name_de: Włodzimirow Obręb
-  kind_en: Forest precinct
-  kind_de: Forstrevier
-  german: ''
-- slug: wlodzimirow
-  name: Włodzimirów
-  name_de: Włodzimirów
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
 - slug: zagorowskie-oledry
   name: Zagórowskie Olędry
   name_de: Zagórowskie Olędry
@@ -898,73 +1029,6 @@ tier1:
   name_de: Zwierzyniec
   kind_en: Folwark
   kind_de: Vorwerk
-  german: ''
-- slug: lazinsk-drugi
-  name: Łazińsk Drugi
-  name_de: Łazińsk Drugi
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: lazinsk-pierwszy
-  name: Łazińsk Pierwszy
-  name_de: Łazińsk Pierwszy
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: lazinskie-oledry
-  name: Łazińskie Olędry
-  name_de: Łazińskie Olędry
-  kind_en: Olęder settlement
-  kind_de: Haulandsiedlung
-  german: ''
-- slug: lazy-trabczyn
-  name: Łazy
-  name_de: Łazy
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: lomow
-  name: Łomów
-  name_de: Łomów
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: bukowe
-  name: Łomówskie Olędry
-  name_de: Łomówskie Olędry
-  see: Bukowe
-  kind_en: ''
-  kind_de: ''
-  german: ''
-- slug: lukom
-  name: Łukom
-  name_de: Łukom
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: lukomin
-  name: Łukomin
-  name_de: Łukomin
-  kind_en: Settlement
-  kind_de: Siedlung
-  german: ''
-- slug: lukomskie-oledry
-  name: Łukomskie Olędry
-  name_de: Łukomskie Olędry
-  kind_en: Olęder settlement
-  kind_de: Haulandsiedlung
-  german: ''
-- slug: lutow
-  name: Łutow
-  name_de: Łutow
-  kind_en: Windmills
-  kind_de: Windmühlen
-  german: ''
-- slug: swiatniki
-  name: Świątniki
-  name_de: Świątniki
-  kind_en: Village
-  kind_de: Dorf
   german: ''
 tier2:
 - slug: alexandrien
@@ -1015,6 +1079,12 @@ tier2:
   kind_en: City
   kind_de: Stadt
   german: ''
+- slug: batkowo
+  name: Bątkowo
+  name_de: Batkowo
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
 - slug: berlin
   name: Berlin
   name_de: Berlin
@@ -1038,6 +1108,12 @@ tier2:
   name_de: Blizanów
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: boehmen
+  name: Böhmen
+  name_de: Böhmen
+  kind_en: Region
+  kind_de: Region
   german: ''
 - slug: boyadel
   name: Bojadła
@@ -1063,17 +1139,17 @@ tier2:
   kind_en: Estate
   kind_de: Gut
   german: ''
+- slug: bruenn
+  name: Brünn (Brno)
+  name_de: Brünn (Brno)
+  kind_en: City
+  kind_de: Stadt
+  german: ''
 - slug: brieg
   name: Brzeg
   name_de: Brieg
   kind_en: Town
   kind_de: Stadt
-  german: ''
-- slug: brzezno
-  name: Brzezno
-  name_de: Brzezno
-  kind_en: Estate
-  kind_de: Gut
   german: ''
 - slug: brzesc
   name: Brześć
@@ -1087,35 +1163,23 @@ tier2:
   kind_en: Town
   kind_de: Stadt
   german: ''
+- slug: brzezno
+  name: Brzezno
+  name_de: Brzezno
+  kind_en: Estate
+  kind_de: Gut
+  german: ''
 - slug: brzyce
   name: Brzyce
   name_de: Brzyce
   kind_en: Village
   kind_de: Dorf
   german: ''
-- slug: bruenn
-  name: Brünn (Brno)
-  name_de: Brünn (Brno)
-  kind_en: City
-  kind_de: Stadt
-  german: ''
 - slug: bytkow
   name: Bytków
   name_de: Byttkow
   kind_en: Estate
   kind_de: Gut
-  german: ''
-- slug: boehmen
-  name: Böhmen
-  name_de: Böhmen
-  kind_en: Region
-  kind_de: Region
-  german: ''
-- slug: batkowo
-  name: Bątkowo
-  name_de: Batkowo
-  kind_en: Village
-  kind_de: Dorf
   german: ''
 - slug: charlottenburg
   name: Charlottenburg
@@ -1201,17 +1265,41 @@ tier2:
   kind_en: City
   kind_de: Stadt
   german: ''
-- slug: gostyszyn
-  name: Gostyszyn
-  name_de: Gostyszyn
+- slug: glazewo
+  name: Głażewo
+  name_de: Gloszewo
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: glogau
+  name: Głogów
+  name_de: Glogau
+  kind_en: City
+  kind_de: Stadt
+  german: ''
+- slug: leobschuetz
+  name: Głubczyce
+  name_de: Leobschütz
+  kind_en: Town
+  kind_de: Stadt
   german: ''
 - slug: gola
   name: Goła Wieś
   name_de: Goła Wieś
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: gostyszyn
+  name: Gostyszyn
+  name_de: Gostyszyn
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: guhrwitz
+  name: Górzyce
+  name_de: Guhrwitz
+  kind_en: Estate
+  kind_de: Gut
   german: ''
 - slug: graz
   name: Graz
@@ -1230,30 +1318,6 @@ tier2:
   name_de: Grodziec
   kind_en: Village
   kind_de: Dorf
-  german: ''
-- slug: guhrwitz
-  name: Górzyce
-  name_de: Guhrwitz
-  kind_en: Estate
-  kind_de: Gut
-  german: ''
-- slug: glazewo
-  name: Głażewo
-  name_de: Gloszewo
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: glogau
-  name: Głogów
-  name_de: Glogau
-  kind_en: City
-  kind_de: Stadt
-  german: ''
-- slug: leobschuetz
-  name: Głubczyce
-  name_de: Leobschütz
-  kind_en: Town
-  kind_de: Stadt
   german: ''
 - slug: havelberg
   name: Havelberg
@@ -1339,6 +1403,12 @@ tier2:
   kind_en: City
   kind_de: Stadt
   german: ''
+- slug: kempen
+  name: Kępno
+  name_de: Kempen
+  kind_en: Town
+  kind_de: Stadt
+  german: ''
 - slug: kiew
   name: Kiew
   name_de: Kiew
@@ -1357,6 +1427,12 @@ tier2:
   kind_en: Estate
   kind_de: Gut
   german: ''
+- slug: glatz
+  name: Kłodzko
+  name_de: Glatz
+  kind_en: Town
+  kind_de: Stadt
+  german: ''
 - slug: coblenz
   name: Koblenz
   name_de: Koblenz
@@ -1368,6 +1444,12 @@ tier2:
   name_de: Kulm
   kind_en: Estate
   kind_de: Gut
+  german: ''
+- slug: koenigsberg
+  name: Königsberg
+  name_de: Königsberg
+  kind_en: City
+  kind_de: Stadt
   german: ''
 - slug: kontop
   name: Konotop
@@ -1417,24 +1499,6 @@ tier2:
   kind_en: Village
   kind_de: Dorf
   german: ''
-- slug: koenigsberg
-  name: Königsberg
-  name_de: Königsberg
-  kind_en: City
-  kind_de: Stadt
-  german: ''
-- slug: kempen
-  name: Kępno
-  name_de: Kempen
-  kind_en: Town
-  kind_de: Stadt
-  german: ''
-- slug: glatz
-  name: Kłodzko
-  name_de: Glatz
-  kind_en: Town
-  kind_de: Stadt
-  german: ''
 - slug: langenburg
   name: Langenburg
   name_de: Langenburg
@@ -1452,6 +1516,12 @@ tier2:
   name_de: Lassowitz
   kind_en: Estate
   kind_de: Gut
+  german: ''
+- slug: ladek
+  name: Lądek
+  name_de: Lądek
+  kind_en: Town
+  kind_de: Stadt
   german: ''
 - slug: liegnitz
   name: Legnica
@@ -1477,11 +1547,29 @@ tier2:
   kind_en: City
   kind_de: Stadt
   german: ''
-- slug: ladek
-  name: Lądek
-  name_de: Lądek
+- slug: lenschitz
+  name: Łęczyca
+  name_de: Lenschitz
   kind_en: Town
   kind_de: Stadt
+  german: ''
+- slug: lohsen
+  name: Łosiów
+  name_de: Lohsen
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: lowyn
+  name: Łowyń
+  name_de: Lowin
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
+- slug: lukomia
+  name: Łukomia
+  name_de: Łukomia
+  kind_en: Estate
+  kind_de: Gut
   german: ''
 - slug: magdeburg
   name: Magdeburg
@@ -1577,6 +1665,12 @@ tier2:
   name: Ofen (Buda)
   name_de: Ofen (Buda)
   kind_en: City
+  kind_de: Stadt
+  german: ''
+- slug: oehringen
+  name: Öhringen
+  name_de: Öhringen
+  kind_en: Town
   kind_de: Stadt
   german: ''
 - slug: olszyna
@@ -1741,6 +1835,12 @@ tier2:
   kind_en: Estate
   kind_de: Gut
   german: ''
+- slug: schlawenschitz
+  name: Sławięcice
+  name_de: Schlawenschitz
+  kind_en: Village
+  kind_de: Dorf
+  german: ''
 - slug: sommerfeld
   name: Sommerfeld
   name_de: Sommerfeld
@@ -1776,6 +1876,12 @@ tier2:
   name_de: Strelitz
   kind_en: Town
   kind_de: Stadt
+  german: ''
+- slug: suedpreussen
+  name: Südpreußen
+  name_de: Südpreußen
+  kind_en: Region
+  kind_de: Region
   german: ''
 - slug: swiecia
   name: Swięcia
@@ -1813,17 +1919,17 @@ tier2:
   kind_en: Village
   kind_de: Dorf
   german: ''
-- slug: suedpreussen
-  name: Südpreußen
-  name_de: Südpreußen
-  kind_en: Region
-  kind_de: Region
-  german: ''
-- slug: schlawenschitz
-  name: Sławięcice
-  name_de: Schlawenschitz
+- slug: swiechocin
+  name: Świechocin
+  name_de: Schwiechodezin
   kind_en: Village
   kind_de: Dorf
+  german: ''
+- slug: schweinern
+  name: Świniary
+  name_de: Schweinern
+  kind_en: Estate
+  kind_de: Gut
   german: ''
 - slug: tarmowo
   name: Tarnowo
@@ -1879,16 +1985,16 @@ tier2:
   kind_en: City
   kind_de: Stadt
   german: ''
-- slug: weimar
-  name: Weimar
-  name_de: Weimar
-  kind_en: City
-  kind_de: Stadt
-  german: ''
 - slug: weissenfels
   name: Weißenfels
   name_de: Weißenfels
   kind_en: Town
+  kind_de: Stadt
+  german: ''
+- slug: weimar
+  name: Weimar
+  name_de: Weimar
+  kind_en: City
   kind_de: Stadt
   german: ''
 - slug: welna
@@ -1939,6 +2045,12 @@ tier2:
   kind_en: Village
   kind_de: Dorf
   german: ''
+- slug: wloclawek
+  name: Włocławek
+  name_de: Leslau
+  kind_en: City
+  kind_de: Stadt
+  german: ''
 - slug: wolica
   name: Wolica
   name_de: Wolica
@@ -1963,10 +2075,10 @@ tier2:
   kind_en: Country
   kind_de: Land
   german: ''
-- slug: wloclawek
-  name: Włocławek
-  name_de: Leslau
-  kind_en: City
+- slug: frankenstein
+  name: Ząbkowice Śląskie
+  name_de: Frankenstein
+  kind_en: Town
   kind_de: Stadt
   german: ''
 - slug: zielomysl
@@ -1980,54 +2092,6 @@ tier2:
   name_de: Grüneberg
   kind_en: City
   kind_de: Stadt
-  german: ''
-- slug: frankenstein
-  name: Ząbkowice Śląskie
-  name_de: Frankenstein
-  kind_en: Town
-  kind_de: Stadt
-  german: ''
-- slug: oehringen
-  name: Öhringen
-  name_de: Öhringen
-  kind_en: Town
-  kind_de: Stadt
-  german: ''
-- slug: lohsen
-  name: Łosiów
-  name_de: Lohsen
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: lowyn
-  name: Łowyń
-  name_de: Lowin
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: lukomia
-  name: Łukomia
-  name_de: Łukomia
-  kind_en: Estate
-  kind_de: Gut
-  german: ''
-- slug: lenschitz
-  name: Łęczyca
-  name_de: Lenschitz
-  kind_en: Town
-  kind_de: Stadt
-  german: ''
-- slug: swiechocin
-  name: Świechocin
-  name_de: Schwiechodezin
-  kind_en: Village
-  kind_de: Dorf
-  german: ''
-- slug: schweinern
-  name: Świniary
-  name_de: Schweinern
-  kind_en: Estate
-  kind_de: Gut
   german: ''
 - slug: sagan
   name: Żagań
