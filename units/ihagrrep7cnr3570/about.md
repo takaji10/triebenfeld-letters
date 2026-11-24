@@ -1,4 +1,4 @@
-In August 1796 Friedrich Wilhelm II, King of Prussia, gave estates confiscated after the Polish uprising of 1794 to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, a Prussian general, and to six other officers. The file of the Prussian administration for South Prussia – Prussia's share of partitioned Poland – on these charters records how the King's gift of Trąbczyn and its neighbours was made. Twelve of the file's pages are not transcribed. <!-- context -->
+In August 1796 Friedrich Wilhelm II, King of Prussia, gave estates confiscated after the Polish uprising of 1794 to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, a Prussian general, and to six other officers. The papers of the Prussian administration for South Prussia – Prussia's share of partitioned Poland – show how the King's gift of Trąbczyn and its neighbours was made. <!-- context -->
 
 ### Historical background
 
@@ -6,11 +6,11 @@ South Prussia was the province formed from Prussia's share of the first and seco
 
 ### Contents
 
-The file contains, in order: a letter of Hoym of 30 July 1796 asking that the charters be made out and that each include the clause "cum appertinentia"; a copy of his report to the King of 14 July proposing the grants; a copy of the cabinet order of 23 July approving them. It goes on with a covering letter to Hoym of 9 August; the report presenting the charters to the King; the draft of the charter for Hohenlohe-Ingelfingen; and a letter of Hoym of 20 August returning the charters with his signature [[1]].
+On 14 July 1796 Hoym proposed the grants to the King, who approved them by a cabinet order of 23 July. On 30 July Hoym asked that each deed of gift be drawn "cum appertinentia", with everything belonging to the estate, and on 20 August he returned the deeds, signed, for the King [[1]].
 
-Hoym's report proposes for Hohenlohe-Ingelfingen the estates confiscated from Anton von Prusimski: Kamionna, Kolno, Trąbczyn, Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny, the Trąbczyn Hauland and Brzyce [[1]]. The six officers who received other estates are von Sanitz, Blücher, von Dolffs, von Pontanus, von Holtzendorff and von Larisch [[1]].
+For Hohenlohe-Ingelfingen Hoym proposed the estates confiscated from Anton von Prusimski: Kamionna, Kolno, Trąbczyn, Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny, the Trąbczyn Hauland and Brzyce [[1]]. Six other officers received estates: von Sanitz, Blücher, von Dolffs, von Pontanus, von Holtzendorff and von Larisch [[1]].
 
-The papers are drafts and copies in German. Registry notes at the front of the file record that it was called up in 1826 in connection with a claim by von Sanitz for his lost estates. Twelve pages, apparently the charters for the six officers, have not been transcribed and are shown as scans only. <!-- context -->
+In 1826 the papers were looked out again when von Sanitz claimed compensation for the estates he had lost. The deeds for the six other officers are shown as scans only. <!-- context -->
 
 ### Related holdings
 
