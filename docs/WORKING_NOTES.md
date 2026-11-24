@@ -5126,3 +5126,34 @@ viewbar. Lessons:
   English row and the note's row (`grid-row: 1 / span 2`); otherwise the note's
   row adds blank space under the original.
 
+- **Rewriting a holding page: read its notes.md rulings first.** The rewrite
+  of APP 53/4/0/-/62 put back a claim the editor had struck on 2026-10-26
+  (that the Szetlewicz surname is formed from the village); it was caught
+  and taken out. A ruling recorded in a holding's notes, or in CLAUDE.md's
+  "Where things stand", binds every later rewrite of its prose.
+- **`pipeline/review/check_unit_text.py` checks the rewrites.** It fails a
+  sentence of an about.md whose figures or dates are not in the documents
+  it cites, and a sentence with no citation that is not marked
+  `<!-- context -->`. Run it after every rewrite: on 2026-11-24 it caught two
+  dates supplied from outside the cited document and two citations lost in
+  rewording.
+- **Supplying a missing fact (the editor's "stopped paying whom?")** is
+  done from the holding's own documents, summaries or a holding that
+  explains the term (the hereditary-lease terms from 53/968/0/-/801, the
+  mother-in-law from Kraus 2001), never from general knowledge alone; where
+  the documents do not say, the sentence stays without it.
+- **The 57 holding pages were rewritten to the rules on 2026-11-24**: the
+  archive's description of its fonds dropped from the court books (the
+  account of the court kept), "Dating", "Notes on the entries", "The copy"
+  and "Originals and copies" sections dropped (their content is in each
+  holding's notes and in the documents' own date fields), the Latin legal
+  terms of Poznań Gr.1181 put into plain English. The document summaries,
+  the era, place and person pages are the next steps (SITE_OVERHAUL_PLAN,
+  Phase 6).
+- **Search anchors.** A literature passage has two anchors on its work's
+  page, `id="p-<key>"` (what the search index links to, ANCHOR in
+  `search_indexes.py`) and `id="p<page>"` (the margin page number). Keep
+  both if the work pages are rebuilt.
+- **The year range** of the search bar is written to `site/_data/stats.yml`
+  (`year_min`, `year_max`) by `search_indexes.py`, and `verify_site.py` fails
+  when new material falls outside it: run `search_indexes.py` again.
