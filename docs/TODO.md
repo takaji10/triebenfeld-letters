@@ -1746,8 +1746,7 @@ The plan, with your answers of the day and the assumptions taken:
 - [x] Phase 6.1: the 57 holding pages rewritten to the rules.
 - [ ] Phase 6.2: the era, place and person pages. Done 2026-11-24: all
       seven era pages and their intros, blurbs and ownership lines (the
-      Hohenlohe page's long essay only for its errors and unexplained names;
-      rewritten whole at your word, 2026-11-24). Places and the 320 person
+      Hohenlohe essay rewritten whole at your word). Places and the 320 person
       bios not begun. The German follows later, all at once (your word).
 - [ ] Phase 6.3: the ~640 English document summaries, holding by holding
       (prose_lint + a Sonnet reader flag, Claude rewrites, a Sonnet claim
