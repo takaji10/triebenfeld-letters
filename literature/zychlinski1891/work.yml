@@ -28,8 +28,8 @@ english_by: Claude
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  Seven pages of Teodor Żychliński's genealogy of the Polish nobility, from
-  his account of the Counts Miączyński: Stanisław Miączyński, who married
+  Teodor Żychliński's account of the Counts Miączyński, in his genealogy of
+  the Polish nobility: Stanisław Miączyński, who married
   Michalina Prusimska, the heiress of Trąbczyn, in August 1809, and their
   descendants to 1888. Żychliński gives Stanisław's service as adjutant to
   Prince Józef Poniatowski, with the order of the day of 1809 and the Prince's

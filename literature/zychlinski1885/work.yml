@@ -27,9 +27,9 @@ english_by: Claude
 pages:
   mark: '^\[p\. (?P<page>[^\]]+)\]\s*$'
 account_en: >-
-  Two pages of Teodor Żychliński's genealogy of the Polish nobility, from his
-  account of the Prusimski family, who wrote themselves Ostroróg. They give
-  the line that held Trąbczyn: Krzysztof, lord of Kolno, Kamionna and
+  Teodor Żychliński's account of the Prusimski family, in his genealogy of
+  the Polish nobility (the Prusimskis also wrote themselves Ostroróg). It
+  gives the line that held Trąbczyn: Krzysztof, lord of Kolno, Kamionna and
   Trąbczyn, with his four sons and three daughters. It names his son Stefan; Stefan's
   only son Antoni, the Starost of Nieszczewice, and his wife Maryanna Dąmbska.
   It names their only daughter Michalina, who married first Józef Dąmbski and then
