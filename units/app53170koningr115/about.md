@@ -4,7 +4,7 @@ Between 1768 and 1773 the quarrel between Antoni Prusimski of Trąbczyn and Stan
 
 The Lusnia wood lay on the ground that Trąbczyn and Łukom both claimed, and Prusimski had settled Olęder farmers in it, with an inn. In November 1771 Chełmski, on the strength of judgments by default, had himself put into possession of the wood and its twelve settlers: [[unit:app53150kaliszgr414]]. Prusimski did not accept it. For more than a year each side used force on the ground and then sent a court messenger to see the damage and report it at Konin. The commission of 1775 heard sworn witnesses on these same events, found that Chełmski had raided the inn with armed men, and gave the wood to Prusimski: [[unit:app53170koningr145]]. The reports here are one-sided by their nature: each says what one party asked a messenger to see. <!-- context -->
 
-The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the municipal court and office of Konin. This book is a rough register: each day the office sat has a line beginning "Actum in Conin", and under it short entries, each headed with the name of the party and the kind of entry. Many are one-line notes that a paper has been brought in and lies among the papers produced. <!-- context -->
+The municipal court and office of Konin was the starost's court for the nobility of the district. Its office, open every day, registered the business they brought to it, sales, debts, the reports of the court's messengers and their suits, and what was entered in its books was accepted as proof. <!-- context -->
 
 ### Contents
 

@@ -4,7 +4,7 @@ In July 1754 the widow Katarzyna Prusimska had the Trąbczyn estate inspected, a
 
 Trąbczyn had belonged to Paweł Prusimski, chamberlain of the King, who died shortly before the summer of 1754. His widow Katarzyna, born Rozdrażewska, held the estate for life under her dower. A widow who took over an estate in this way had its condition recorded, so that she could not later be charged with what was already ruined or missing. Nine years later she was at law over potash from the same woods: [[unit:app536045]]. <!-- context -->
 
-The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the municipal court and office of Konin. The municipal court office was open every day for the entry of uncontested matters, and its books had public credit: what stood in them counted as proved. A report (relatio) was the commonest kind of entry: a sworn court messenger came before the office and declared what he had seen or done, and that declaration was written into the book. <!-- context -->
+The municipal court and office of Konin was the starost's court for the nobility of the district. Its office, open every day, registered the business they brought to it, sales, debts, the reports of the court's messengers and their suits, and what was entered in its books was accepted as proof. <!-- context -->
 
 ### Contents
 

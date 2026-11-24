@@ -4,7 +4,7 @@ In 1775 a boundary commission sat on the disputed ground between Trąbczyn and �
 
 The Polish parliament appointed a commission to fix the boundary between Antoni Prusimski's Trąbczyn and Stanisław Ścibor Chełmski's Łukomia. It opened on the ground on 13 September 1775 under Ludwik Dąmbski, voivode of Brześć Kujawski, and ruled for Prusimski: [[unit:app53170koningr145]]. Chełmski did not accept the result. The entries here show that he had brought commissioners of his own, who made an act of their own on the disputed ground, and that both sides then came to the municipal court office at Konin, first to protest and later to ask whether a decree had been entered there. <!-- context -->
 
-The volume belongs to the archive's fonds "Księgi sądu i urzędu grodzkiego w Koninie", the books of the municipal court and office of Konin, and follows the register for 1768 to 1774: [[unit:app53170koningr115]]. Each day the office sat has a line beginning "Actum in Conin", and under it short entries, each headed with the name of the party and the kind of entry. Many are one-line notes that a paper has been brought in and lies among the papers produced. Where a party announced an entry and its text was never written, the clerk closed the space with pen strokes or with the word "Vacuum", empty. <!-- context -->
+The municipal court and office of Konin was the starost's court for the nobility of the district. Its office, open every day, registered the business they brought to it, sales, debts, the reports of the court's messengers and their suits, and what was entered in its books was accepted as proof. <!-- context -->
 
 ### Contents
 
