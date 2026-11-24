@@ -317,16 +317,61 @@ people:
     variants: []
     identity: "Philipp Karl Count von Alvensleben (1745-1802), Prussian cabinet minister from 1791 to his death, one of the three ministers of the department of foreign affairs in 1797 with Finckenstein and Haugwitz. The first of the two signatures under the department's draft of 11 January 1797 (I. HA GR, Rep. 7 C, Nr. 1414, document 1) opens with a large A and is otherwise not read; it is taken to be his because he is the one minister of the department whose name begins with that letter. The editor could not verify the name on the scan (2026-10-05)."
   chemski:
-    display: "Chełmski"
+    display: "Chełmski family"
     # The key is the one the name catalogue had made for this family (its
     # biography and heading hang on it). Curated on 2026-10-06 so that the
     # Polish and Latin forms of the court books are found: Chełmskiego,
     # Chełmscy, Chełmsky. Before that only the bare nominative was.
-    match: 'Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])'
+    # 2026-11-24: the individuals have their own entries; the family entry
+    # keeps the plural ("the Chełmskis") and the one bare mention no one
+    # can be named for (the inspection of 1754).
+    match: 'Che[lł]ms(?:cy|kich|kie|kimi)(?![a-zà-ÿ])'
+    issuer_match: 'Che[lł]ms(?:k(?:iego|iemu|im|i|y))(?![a-zà-ÿ])'
+    issued_in: [app53170koningr136-1]
     tier: "Text-confirmed"
     variants: ["Chełmsky", "Chelmski"]
     identity: "The family that owned Łukomia, the estate next to Trąbczyn: Jerzy Chełmski in 1644 (APP 53/6/0/-/36), Stanisław Ścibor Chełmski in 1763 (APP 53/6/0/-/45), the brothers Heliodor and Stanisław in the boundary decree of 1775 (APP 53/17/0/-/Konin Gr.145), and a Chełmski at law over the South Prussian estates in 1798 and 1799. A family entry: the documents name several men. Stanisław, Treasurer of Wschowa, the Stanisław of 1775 and of 1799, has his own entry since 2026-11-21 (stanislaw-chelmski, the editor's word); this entry still lists every Chełmski the documents name."
     merge: false
+  jerzy-chelmski:
+    display: "Jerzy Chełmski"
+    # Split out of the family entry at the editor's word (2026-11-24: "The
+    # Chełmski entry needs to be rewritten into individuals"). Owner of Łukom
+    # in 1644, plaintiff against the Trąmpczyński brothers (APP 53/6/0/-/36);
+    # the decree of 1775 names him among Stanisław's forebears.
+    match: '(?:(?<=Jerzy )|(?<=Jerzego )|(?<=Jerzemu )|(?<=Jerzym )|(?<=Georgius )|(?<=Georgii )|(?<=Georgio )|(?<=Georgium ))Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])'
+    issuer_match: 'Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])'
+    issued_in: [app536036-1, app536036-2]
+    tier: "Text-confirmed"
+    variants: ["Chełmsky"]
+  franciszek-chelmski:
+    display: "Franciszek Ścibor Chełmski"
+    # Split out of the family entry (2026-11-24). With his brother Józef,
+    # heir of Łukom and Łomowo, plaintiff against Krzysztof and Antoni
+    # Prusimski in 1728 (APP 53/6/0/-/40).
+    match: '(?:(?<=Franciszek )|(?<=Franciszek Ścibor )|(?<=Franciscus )|(?<=Franciscum )|(?<=Francisci ))Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])'
+    issuer_match: 'Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])'
+    issued_in: [app536040-1]
+    tier: "Text-confirmed"
+    variants: []
+  jozef-chelmski:
+    display: "Józef Ścibor Chełmski"
+    # Split out of the family entry (2026-11-24). Franciszek's brother, who
+    # appeared in person for both in 1728 (APP 53/6/0/-/40); the decree of
+    # 1775 names a Józef among Stanisław's forebears.
+    match: '(?:(?<=Józef )|(?<=Józef Ścibor )|(?<=Józefowi )|(?<=Josephus )|(?<=Josephus Ścibor )|(?<=Josephum )|(?<=Josephi ))Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])'
+    issuer_match: 'Che[lł]ms(?:k(?:iego|iemu|imi|ich|im|iej|i|y|a|ą)|cy)(?![a-zà-ÿ])'
+    issued_in: [app536040-1]
+    tier: "Text-confirmed"
+    variants: []
+  heliodor-chelmski:
+    display: "Heliodor Chełmski"
+    # Split out of the family entry (2026-11-24). Stanisław's brother, a
+    # canon, the other side with him in the boundary commission of 1775
+    # (APP 53/17/0/-/Konin Gr.145).
+    match: 'Heliodor(?:owi|a|em|us|i|o|um)?(?![a-zà-ÿ])'
+    only_in: [app53170koningr145-1]
+    tier: "Text-confirmed"
+    variants: []
   stanislaw-chelmski:
     display: "Stanisław Chełmski, Treasurer of Wschowa"
     render: "Stanisław Chełmski"
@@ -347,7 +392,10 @@ people:
     # Not after "Jerzym", "Jerzemu", "Józefowi" (his forebears in the decree
     # of 1775) nor "rodzonym" (the two brothers together).
     issuer_match: '(?<!Jerzym )(?<!Jerzemu )(?<!Józefowi )(?<!rodzonym )Che[lł]ms(?:k(?:iego|iemu|im|i|y))(?![a-zà-ÿ])'
-    issued_in: [app53150kaliszgr414-1, app53150kaliszgr425-1, app53170koningr115-1, app53170koningr115-10, app53170koningr115-2, app53170koningr115-4, app53170koningr115-5, app53170koningr115-6, app53170koningr115-7, app53170koningr115-9, app53170koningr116-10, app53170koningr116-12, app53170koningr116-4, app53170koningr116-7, app53170koningr117-1, app53170koningr117-2, app53170koningr117-3, app53170koningr117-4, app53170koningr117-5, app53170koningr117-7, app53170koningr117-8, app53170koningr117-9, app53170koningr118-1, app53170koningr118-11, app53170koningr118-14, app53170koningr118-15, app53170koningr118-16, app53170koningr118-17, app53170koningr118-19, app53170koningr118-20, app53170koningr118-21, app53170koningr118-22, app53170koningr118-25, app53170koningr118-26, app53170koningr118-27, app53170koningr118-28, app53170koningr118-3, app53170koningr118-5, app53170koningr118-7, app53170koningr118-9, app53170koningr119-1, app53170koningr119-2, app53170koningr119-3, app53170koningr119-4, app53170koningr119-5, app53170koningr119-6, app53170koningr119-7, app53170koningr119-8, app53170koningr120-2, app53170koningr121-1, app53170koningr145-1, app53170koningr153-1, app53170koningr153-2, app536045-1, app536046-1, app536046-2, app536047-1, ihagrrep7cnr421-1, ihagrrep7cnr421-3, ihagrrep7cnr421-6, ihagrrep7cnr421-2, ihagrrep7cnr421-4, ihagrrep7cnr421-5, ihagrrep7cnr421-7, oe1bu9454-75, oe1bu9454-102, oe1bu9454-103, oe1bu9454-286]
+    # 2026-11-24 (Claude's identification, at the editor's word to split the
+    # family into individuals): the ten court entries of 1773-1782 that name
+    # a bare Chełmski of Łukom are his, the heir of those years.
+    issued_in: [app53150kaliszgr424-1, app53170koningr115-8, app53170koningr116-11, app53170koningr116-2, app53170koningr116-3, app53170koningr116-9, app53170koningr117-10, app53170koningr117-12, app53170koningr118-13, app53170koningr118-8, app53150kaliszgr414-1, app53150kaliszgr425-1, app53170koningr115-1, app53170koningr115-10, app53170koningr115-2, app53170koningr115-4, app53170koningr115-5, app53170koningr115-6, app53170koningr115-7, app53170koningr115-9, app53170koningr116-10, app53170koningr116-12, app53170koningr116-4, app53170koningr116-7, app53170koningr117-1, app53170koningr117-2, app53170koningr117-3, app53170koningr117-4, app53170koningr117-5, app53170koningr117-7, app53170koningr117-8, app53170koningr117-9, app53170koningr118-1, app53170koningr118-11, app53170koningr118-14, app53170koningr118-15, app53170koningr118-16, app53170koningr118-17, app53170koningr118-19, app53170koningr118-20, app53170koningr118-21, app53170koningr118-22, app53170koningr118-25, app53170koningr118-26, app53170koningr118-27, app53170koningr118-28, app53170koningr118-3, app53170koningr118-5, app53170koningr118-7, app53170koningr118-9, app53170koningr119-1, app53170koningr119-2, app53170koningr119-3, app53170koningr119-4, app53170koningr119-5, app53170koningr119-6, app53170koningr119-7, app53170koningr119-8, app53170koningr120-2, app53170koningr121-1, app53170koningr145-1, app53170koningr153-1, app53170koningr153-2, app536045-1, app536046-1, app536046-2, app536047-1, ihagrrep7cnr421-1, ihagrrep7cnr421-3, ihagrrep7cnr421-6, ihagrrep7cnr421-2, ihagrrep7cnr421-4, ihagrrep7cnr421-5, ihagrrep7cnr421-7, oe1bu9454-75, oe1bu9454-102, oe1bu9454-103, oe1bu9454-286]
     tier: "Text-confirmed"
     variants: []
     identity: >-
