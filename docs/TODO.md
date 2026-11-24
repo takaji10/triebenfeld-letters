@@ -1724,3 +1724,19 @@ transcription; 108 readings settled in session before the first build
 - [ ] Still wanted: the Kodeks entry of 1341 the Pyzdry footnote cites
       (its number not given; docs/MISSING_SOURCES.md).
 
+
+## 69. The site overhaul (planned 2026-11-24)
+
+The plan, with your answers of the day and the assumptions taken:
+[SITE_OVERHAUL_PLAN.md](SITE_OVERHAUL_PLAN.md).
+
+- [ ] You: say whether the assumptions in the plan hold (the third work to
+      show in full taken to be the Słownik geograficzny; "by reference"
+      order and the "Show" filters dropped).
+- [ ] Phase 0: the writing rules R1-R5 into HOUSE_STYLE; `prose_lint.py`.
+- [ ] Phase 5: the crops of Nr. 3705; the box mode of the fold page.
+- [ ] You: draw the crop boxes of 53/6/0/-/17, -/36, -/45, -/46, -/47.
+- [ ] Phases 1, 3, 2, 4: the Sources page, the tiles, the search bar, the
+      literature.
+- [ ] You: the title pages of the literature that exist.
+- [ ] Phase 6: the English prose rewritten to the rules.
