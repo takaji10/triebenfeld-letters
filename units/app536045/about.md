@@ -2,7 +2,7 @@ In 1761 Stanisław Ścibor Chełmski of Łukom stopped at Pyzdry a load of potas
 
 ### Historical background
 
-A land court heard the civil suits of the nobility of its district. Its clerk entered each decree in a book, under the heading of the sitting at which it was given and numbered in order. This entry is no. 17 of its sitting. <!-- context -->
+A land court heard the civil suits of the nobility of its district. <!-- context -->
 
 Trąbczyn belonged to the Prusimski family and the neighbouring estate of Łukomia to the Chełmski family. The two families were at law for decades over the boundary between the estates. In the 1760s that suit was before the Crown Tribunal, the court of appeal of the Polish nobility; it was ended by the commission of 1775, whose decree is [[unit:app53170koningr145]]. Potash, the ash of burnt wood, was made in the forests and sent to Gdańsk for export; which is why a dispute over potash turned on the boundary between the estates. <!-- context -->
 
@@ -10,15 +10,11 @@ The land court at Konin was a court of the nobility. The starost or his deputy, 
 
 ### Contents
 
-**The parties.** Katarzyna Prusimska, born Rozdrażewska, a widow, appears with Joseph Puchalski through Albert Żurawski; Stanisław Ścibor Chełmski appears with one Czajkowski through Ignatius Byszewski. Each side is at once plaintiff and summoned, each having sued the other [[1]].
+**The parties.** Katarzyna Prusimska, born Rozdrażewska, the widow of Paweł Prusimski, with Joseph Puchalski, and Stanisław Ścibor Chełmski of Łukom, with one Czajkowski, had each sued the other. The land court at Konin heard them on 30 May 1763 and took the testimony of witnesses on oath [[1]].
 
-**The inquiry.** The court finds that the claims cannot be decided without sworn testimony. It orders each side to bring in its witnesses while the sitting lasts, and assigns the court's summoner to speak the words of the oath to them. The witnesses are examined and the testimony is read out in court [[1]].
+**What the testimony showed.** In 1761 Prusimska sent potash-burners off with potash; when it had been made is not established. Chełmski, on his way to Poznań, came upon them near the town of Pyzdry as they were making for Gdańsk. He had the potash seized and stored in an inn at Pyzdry, and had the notary of the customs house forbid its removal. Afterwards the burners, helped by two noblemen, Wawrowski and Gotartowski, took the potash away over the notary's objection and brought it to Gdańsk [[1]].
 
-**What the testimony showed.** In 1761 Prusimska sent potash-burners off with potash; when it had been made is not established. Chełmski, on his way to Poznań, came upon them near the town of Pyzdry as they were making for Gdańsk. He had the potash sequestered and put into an inn at Pyzdry, and laid an arrest on it with the notary of the customs house. Afterwards the burners, helped by two noblemen, Wawrowski and Gotartowski, took the potash away over the notary's objection and brought it to Gdańsk [[1]].
-
-**The decree.** The court does not decide the claim. The suit over the boundary between Trąbczyn and Łukom is pending before the Crown Tribunal between the same parties, and only the fixing of that boundary will show on whose ground the potash was made. The court therefore suspends the matter until the boundary is decided, and orders the testimony to be handed to the parties from its chancery in a closed roll [[1]].
-
-**Dating.** The entry has no date of its own. The heading of the sitting stands on leaf 638, which the editor transcribed but which is not among the scans: "Actum in Judiciis Terrestribus Palatinatus Calissiensis Districtualibus Feria Secunda post Festum Sanctissimae et Individuae Trinitatis proxima Anno Domini Millesimo Septingentesimo Sexagesimo Tertio in Conin in propria Cadentia Celebratis". That is: done in the district land court of the province of Kalisz, held at Konin in its own term, on the Monday after Trinity Sunday 1763, which was 30 May. The year of the document is taken from this heading. <!-- context -->
+**The decree.** The court does not decide the claim. The suit over the boundary between Trąbczyn and Łukom is pending before the Crown Tribunal between the same parties, and only the fixing of that boundary will show on whose ground the potash was made. The court therefore suspends the matter until the boundary is decided [[1]].
 
 ### Related holdings
 
