@@ -1,45 +1,14 @@
-The brothers Antoni and Paweł Prusimski died without children, and their estates had to be divided between their nephew Antoni Prusimski, the owner of Trąbczyn, and the heirs of their three sisters. In March 1784 the castellany court of Poznań held a sitting at the manor of Trąbczyn to settle the division for good, and its decree recites the family's divisions, debts and title deeds back to the early seventeenth century [[1]]. The entry stops in the middle of a sentence at the foot of its last page, and nothing follows it in the volume [[1]].
+The brothers Antoni and Paweł Prusimski died without children, and their estates had to be divided between their nephew Antoni Prusimski, the owner of Trąbczyn, and the heirs of their three sisters. In March 1784 the castellany court of Poznań sat at the manor of Trąbczyn to settle the division for good, going back through the family's divisions, debts and title deeds to the early seventeenth century. The record breaks off in mid-sentence, with nothing after it in the volume [[1]].
 
-The parties were Antoni in Kolno Prusimski, starost of Niszczewice, knight of
-the Order of St Stanisław, the nephew and heir of the sterile brothers,
-against the heirs of the sisters' line: the Zakrzewski, Tomicki,
-Taczanowski, Kołaczkowski and Tworowicz parties, the successors of the
-three daughters of Krzysztof Prusimski and Teresa Golińska. The abbot and
-convent of Ląd were cited besides, over the reproduction of the
-quietation of 3,500 Hungarian ducats and of the jewels and silver of the
-Prusimski house lodged in the convent's treasury [[1]].
+On one side stood Antoni Prusimski of Kolno, starost of Niszczewice, knight of the Order of St Stanisław, the brothers' nephew and heir; on the other the Zakrzewski, Tomicki, Taczanowski, Kołaczkowski and Tworowicz families, descended from the three daughters of Krzysztof Prusimski and Teresa Golińska. The Cistercian abbey of Ląd was summoned too: the family had deposited 3,500 Hungarian ducats and its jewels and silver in the abbey's treasury, and the abbey was to produce the receipt for them [[1]].
 
-The decree does three things. It records the sworn bringing of the
-documents that the tribunal's decree of 1782 had commanded, completed at
-Konin in December 1783, the oath taken by Ignacy Zakrzewski. It recites
-the whole documentary history of the succession: the fraternal division of
-1740 with its three schedas, the estates of Kolno and Kamionna at 250,000
-florins Polish, Trąbczyn with its appurtenances, and the third scheda's
-estates of Wierzbno and Brzezno, with the loads appended to each. The history runs from the wadion of 1700 and the sterile death of Ludwik Prusimski at Kamionna in
-1708, through the dowry provisions and quietations of the three daughters, to the church
-inscriptions of the maternal estates back to 1616. And it decides: the
-clean maternal (Goliński) fortune of 98,379 florins groschen 5 Polish
-divided among six capits, three brothers and three sisters, at 16,396
-florins groschen 15 and 2½ solidi each. The clean paternal fortunes are adjudged to the starost as his uncles' heir, Paweł's scheda at 154,436
-florins groschen 24½ Polish and his own at 154,936 florins groschen 24½,
-each after the maternal portion's deduction. The widow Nierzychowska's
-30,000, though quieted in 1740, and Puchalski's 10,000, presumed pacified, are not judged as borne over, so that nothing out of them can come to the
-female sex. The Radoliński successors' claim of 43,000
-florins Polish on Trąbczyn, its letter of 1736 disputed as not in
-Andrzej Radoliński's hand, the cause remanded to Gniezno and undecided
-since 1777, is left standing at the 18,000 enumerated, with the load removed,
-pending the final decision in the competent forum [[1]].
+First, Ignacy Zakrzewski had sworn at Konin in December 1783 that his side had produced all the documents the Crown Tribunal had ordered in 1782 [[1]].
 
-The last page opens the question the decree answers only in part: what the
-brothers alienated beyond the division. Katarzyna née Rozdrażewska, widow
-of Paweł, and her 40,000 florins Polish inscribed in 1745 on Peczyska and
-Dubno; the condescensio term at Grab of 3 June 1782, taken with Ludwik
-Bogdański, chamberlain territorial of Kalisz, and Teresa née
-Rozdrażewska; and at the naming of Ewa de Maniewska Potocka, widow of
-Joachim Potocki, general lieutenant, the entry stops, mid-sentence [[1]].
+Then the court went through the history of the inheritance. In 1740 the brothers had divided their father's estates into three shares: Kolno and Kamionna, valued at 250,000 Polish złoty; Trąbczyn with its villages; and Wierzbno and Brzezno, each share with the debts charged on it. The court traced the family's property from a bond of 1700 and the death of Ludwik Prusimski, childless, at Kamionna in 1708, through the dowries paid to the three daughters and their receipts, back to the gifts to churches charged on their mother's estates since 1616 [[1]].
 
-The holding belongs with the sibling registers of the same suit,
-[[unit:app53170koningr115]], [[unit:app53170koningr116]],
-[[unit:app53170koningr117]], [[unit:app53170koningr118]] and
-[[unit:app53170koningr153]], and with the copy-book of the abbey of Ląd,
-[[unit:app5314550221]], whose abbey is the cited party here. <!-- context -->
+Then it decided. The mother's estate, the Golińska inheritance, worth 98,379 złoty 5 groszy clear of debts, was to be shared equally by all six children, three sons and three daughters, at 16,396 złoty 15 groszy each. The father's estates went to the starost as his uncles' heir: Paweł's share at 154,436 złoty 24½ groszy and Antoni's at 154,936 złoty 24½ groszy, each less its part of the mother's inheritance. Two old debts, the widow Nierzychowska's 30,000, settled in 1740, and Puchalski's 10,000, presumed paid, were not counted into the estate, so the sisters' heirs could claim no share of them. The Radoliński family's claim to 43,000 złoty on Trąbczyn rested on a letter of 1736 that the other side said Andrzej Radoliński had not written; the case had been sent to the court at Gniezno and had stood undecided since 1777, and the court left the claim at the 18,000 listed until that court decided it [[1]].
+
+Last, the court turned to what the brothers had given away outside the division of 1740: the 40,000 złoty secured in 1745 on Peczyska and Dubno for Paweł's widow, Katarzyna, born Rozdrażewska; the sitting held at her estate of Grab on 3 June 1782 with Ludwik Bogdański, chamberlain of Kalisz, and his wife Teresa, born Rozdrażewska, her heiress; and, where the record breaks off, Ewa Potocka, born Maniewska, widow of the lieutenant-general Joachim Potocki [[1]].
+
+The same inheritance and the same neighbours run through the Konin court books of these years, [[unit:app53170koningr115]], [[unit:app53170koningr116]], [[unit:app53170koningr117]], [[unit:app53170koningr118]] and [[unit:app53170koningr153]], and through the copy-book of the abbey of Ląd, [[unit:app5314550221]]. <!-- context -->
+
