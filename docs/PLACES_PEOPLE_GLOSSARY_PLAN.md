@@ -106,3 +106,34 @@ CHANGELOG, and is published at the editor's word.
 3. **Glossary categories**: removed.
 4. The "relevant people" list goes to the editor for approval before the
    People page is rebuilt.
+
+## C1. The relevant people: proposal (for the editor's approval)
+
+Chosen by their part in the story of the estate, not by mentions alone (the
+Hohenlohe letters name hundreds of creditors and officials once or twice).
+Each gets a full person page (C6) and shows first in their era (C3). Those
+marked * already have a page.
+
+- **Middle Ages**: Count Mikołaj, treasurer of Ląd, to whom Trąbczyn was
+  given in 1276; Jan and Przedpełk of Trąbczyn, the heirs of 1346.
+- **The boundary dispute**: Antoni Prusimski*; Paweł Prusimski;
+  Katarzyna Prusimska, born Rozdrażewska; Krzysztof Prusimski*; Stanisław
+  Ścibor Chełmski*; the Otto-Trąmpczyński family* (Wojciech/Albertus of
+  1589 and his kin); Ludwik Dąmbski, president of the commission of 1775.
+- **The insurgency**: Antoni Prusimski*; Tadeusz Kościuszko; Xaver Jezierski.
+- **The Hohenlohe years**: Prince Friedrich Ludwig of Hohenlohe-Ingelfingen;
+  Peter Friedrich von Triebenfeld; Johann Wilhelm Glenck; Michalina
+  Prusimska; Karl Leopold von Köckritz; Count Hoym; Otto Karl Friedrich von
+  Voss; Karl August von Hardenberg; Hawich; Martin Honrichs; Joseph Zerboni
+  di Sposetti.
+- **The restitution**: Michalina Miączyńska; Stanisław Miączyński*; Carl
+  Ferdinand Weigel; Prince Franciszek Ksawery Drucki-Lubecki.
+- **The colonists' rights**: Count Włodzimierz Miączyński; the Zelmer family;
+  Pastor E. Erdmann.
+- **The twentieth century**: the teacher Mielke of Łazińsk.
+
+Not proposed, though often named: the Prince's many creditors and bankers
+(Cosmar, van der Lahr, Stössel, Oppenheimer, Schlabrendorff ...), clerks and
+messengers (Schenck, Hecker, Szepczyński ...), and kings and ministers who
+appear only in passing (Napoleon, the Prussian kings, Haugwitz, Goldbeck),
+who stay on the People page with their short entries.
