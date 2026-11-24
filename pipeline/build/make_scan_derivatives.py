@@ -34,6 +34,11 @@ WIDTH = 1100
 QUALITY = 78
 
 FORCE = '--force' in sys.argv
+# The holdings' recorded crops (units/<slug>/intake/crops.json, 2026-11-24),
+# applied to the derivative after it is scaled, so a rebuild keeps them.
+sys.path.insert(0, os.path.join(ROOT, 'pipeline', 'intake'))
+from apply_crops import all_crops, crop_image
+CROPS = all_crops()
 PRUNE = '--prune' in sys.argv
 
 
@@ -54,6 +59,8 @@ def main():
             im.draft('RGB', (WIDTH * 2, WIDTH * 2))
             im = im.convert('RGB')
             im.thumbnail((WIDTH, WIDTH * 4), Image.LANCZOS)
+            if f in CROPS:
+                im = crop_image(im, CROPS[f])
             im.save(dp, 'JPEG', quality=QUALITY, optimize=True, progressive=True)
         made += 1
         if made % 100 == 0:
