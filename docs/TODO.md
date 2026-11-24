@@ -1739,12 +1739,18 @@ The plan, with your answers of the day and the assumptions taken:
       page sent 2026-11-24), then paste the JSON; I apply it with
       `apply_crops.py --grouped`.
 - [x] Phases 1, 3, 2, 4: the Sources page, the tiles, the search bar, the
-      literature (search inside a work: in progress).
+      literature, with search inside each work.
 - [ ] You: choose the sources' icons (duotone shown; two others drawn).
 - [ ] You: the title pages of the literature that exist, for thumbnails.
 - [x] Phase 6.1: the 57 holding pages rewritten to the rules.
-- [ ] Phase 6.2: the era, place and person pages.
+- [ ] Phase 6.2: the era, place and person pages. Done: the restitution era
+      (rewritten), the Hohenlohe era's errors and unexplained names (its
+      other flags, and the five other eras, wait: the reader's flags are to
+      be made again, the scratch file does not survive the session). Places
+      and the 320 person bios not begun.
 - [ ] Phase 6.3: the ~640 English document summaries, holding by holding
       (prose_lint + a Sonnet reader flag, Claude rewrites, a Sonnet claim
-      check, `set_summaries.py`). Twelve done.
+      check, `set_summaries.py`). Done: 12 rewritten, and the signature,
+      registry and postal notes taken out of 40 more (Nr. 421, 3132, 3709
+      and others).
 - [ ] Publish, at your word.
