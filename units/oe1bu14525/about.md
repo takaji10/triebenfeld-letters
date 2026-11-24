@@ -1,4 +1,4 @@
-In 1796 and 1797 the Prussian crown gave Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, a Prussian general, estates in South Prussia – Prussia's share of partitioned Poland – that had been confiscated from their Polish owners. The volume of the Prince's own papers on the grant holds the charter and its certified copies, the entries of his title, a valuation, and the official letters that put the grant into effect; most of the documents are certified copies. <!-- context -->
+In 1796 and 1797 the Prussian crown gave Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, a Prussian general, estates in South Prussia – Prussia's share of partitioned Poland – that had been confiscated from their Polish owners. The Prince's own papers show what he was given, how he was put in possession and his title registered, and what the land was worth. <!-- context -->
 
 ### Historical background
 
@@ -8,27 +8,27 @@ South Prussia was the province formed from Prussia's share of the second and thi
 
 #### The grant of 1796
 
-The charter of 9 August 1796 grants Hohenlohe-Ingelfingen the town of Kamionna and the market town of Kolno in the district of Poznań, the villages of Trąbczyn, Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny and the Trąbczyn Hauland in the district of Konin, and Brzyce in Kuyavia [[1, 2, 3, 4]]. It survives here in three copies [[1, 3, 4]]. The estates had been confiscated from Anton von Prusimski for his part in the uprising of 1794 [[12]]. A letter of Count Hoym, the minister for the province, reports the King's decision, puts the yearly income of the estates at at least 4,000 Thaler, and recommends a manager [[39]].
+The charter of 9 August 1796 grants Hohenlohe-Ingelfingen the town of Kamionna and the market town of Kolno in the district of Poznań, the villages of Trąbczyn, Szetlewek, Nowawies, Łazy, Old and New Laski, Osiny and the Trąbczyn Hauland in the district of Konin, and Brzyce in Kuyavia [[1, 2, 3, 4]]. The estates had been confiscated from Anton von Prusimski for his part in the uprising of 1794 [[12]]. A letter of Count Hoym, the minister for the province, reports the King's decision, puts the yearly income of the estates at at least 4,000 Thaler, and recommends a manager [[39]].
 
 #### The grants of 1797
 
-A second charter, of 19 June 1797, grants sixteen villages formerly owned by the church, among them Pszczew, Zagórów, Kopojno, Drzewce and Wrąbczyn. It states as its reason that the estates of Prusimski had proved heavily indebted [[5, 8, 9, 10, 17, 22]]. A declaration of 1 December 1797 adds the outlying parts of the estates of Pszczew, Zagórów and Wieniec [[6, 7, 11, 18]]. Both grants are subject to a fixed annual payment to the crown and to the maintenance of the former ecclesiastical owners [[5, 6]].
+A second charter, of 19 June 1797, grants sixteen villages formerly owned by the church, among them Pszczew, Zagórów, Kopojno, Drzewce and Wrąbczyn. The reason given was that Prusimski's estates had proved heavily indebted [[5, 8, 9, 10, 17, 22]]. A declaration of 1 December 1797 adds the outlying parts of the estates of Pszczew, Zagórów and Wieniec [[6, 7, 11, 18]]. Both grants are subject to a fixed annual payment to the crown and to the maintenance of the former ecclesiastical owners [[5, 6]].
 
 #### Handover of the estates
 
-A royal order to the chambers at Poznań and Petrikau states that the handover had been a formality and that holders of pledge and lease contracts had been left in possession; the chambers are to examine their claims and put the agents of Hohenlohe-Ingelfingen in possession [[40]]. A letter of Hoym explains the delay and the position of the clergy, who administered the estates for the Treasury [[41]].
+The estates were at first handed over only on paper: those who held parts of them on pledge or lease stayed where they were. The King ordered the war and domains chambers at Poznań and Petrikau, which administered the crown's property in the province, to examine their claims and put the Prince's agents in possession [[40]]. Hoym explained the delay, and the position of the clergy, who had been managing the former church estates for the Treasury [[41]].
 
 #### Registration of title
 
-Mortgage certificates and register extracts record the title of Hohenlohe-Ingelfingen and the charges on Szetlewek, Kolno, Pszczew, Zagórów and Bątkowo [[2, 12, 15, 21, 25, 28]]. The extract for Zagórów lists a loan of 250,000 Rthl to von Triebenfeld, parts of it ceded to other creditors [[21]]. The certificate for Pszczew lists debts to Johann Wilhelm Glenck and others [[25, 26]].
+Hohenlohe-Ingelfingen was registered as owner of Szetlewek, Kolno, Pszczew, Zagórów and Bątkowo, and the debts on them with him [[2, 12, 15, 21, 25, 28]]: on Zagórów 250,000 Rthl owed to von Triebenfeld, parts of it passed on to other creditors [[21]], on Pszczew debts to Johann Wilhelm Glenck and others [[25, 26]].
 
-The correspondence on registration is addressed mainly to Glenck, building and economy councillor to Hohenlohe-Ingelfingen at Wrocław. The governments at Kalisz and Poznań set and extend deadlines for proving title, and Glenck presses for the Treasury's resignation of the estates of Pszczew and Kuyavia [[19, 20, 29, 30, 33, 34, 35, 36, 37, 38]]. The government at Kalisz requires a certified copy of the judgment confiscating Prusimski's property; a request for it is refused at Poznań, because the judgment had been given at Toruń [[31, 42, 43, 44]]. One note asks that Hohenlohe-Ingelfingen take the oath of homage for the granted estates [[32]].
+Glenck, the Prince's building and economy councillor at Wrocław, saw to the registration. The governments at Kalisz and Poznań set and extended deadlines for proving the Prince's title, and Glenck pressed for the Treasury's resignation of the estates of Pszczew and Kuyavia [[19, 20, 29, 30, 33, 34, 35, 36, 37, 38]]. The government at Kalisz wanted a certified copy of the judgment confiscating Prusimski's property, which Poznań could not give, the judgment having been given at Toruń [[31, 42, 43, 44]]. Hohenlohe-Ingelfingen was also to swear the oath of homage for the granted estates [[32]].
 
 #### Valuations
 
-The volume contains a valuation of Kamionna and Kolno, the end of the valuation of Kamionna and Kolno, with a reckoning of what the estates would gain if part of their forest were separated and settled, and a judicial valuation of Szetlewek, which gives a gross value of 34,803 Rthl [[13, 14, 23]]. One further document is a damaged note of which little can be read [[24]].
+Kamionna and Kolno were valued, with a reckoning of what they would gain if part of their forest were cleared and settled, and a court valued Szetlewek at 34,803 Rthl gross [[13, 14, 23]].
 
-Because most documents are certified copies, the date and place given for a document are often those of its certification and not of the instrument copied. Several charters appear more than once, as separate copies with their own certifications. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
+Most of these papers are certified copies, and the date and place given for one are often those of its certification, not of the original. <!-- context -->
 
 ### Related holdings
 
