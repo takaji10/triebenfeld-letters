@@ -1,0 +1,521 @@
+# IPA pronunciations of the Polish place names of the Trąbczyn and Zagórów
+# area (the editor, 2026-11-24), made by pipeline/places/pronounce.py from the
+# spelling and read through by Claude (checked: true). Not yet shown on the
+# site: a sample goes to the editor first. Left out: Kuzoi, Maly, Kirchol
+# (spelling or origin not sure).
+adamierz:
+  name: Adamierz
+  ipa: aˈdamjɛʂ
+  checked: true
+anielewo:
+  name: Anielewo
+  ipa: aɲɛˈlɛvɔ
+  checked: true
+augustinow:
+  name: Augustynów
+  ipa: awɡusˈtɨnuf
+  checked: true
+bartosz:
+  name: Bartosz
+  ipa: ˈbartɔʂ
+  checked: true
+bezslug:
+  name: Beźsług
+  ipa: ˈbɛɕswuk
+  checked: true
+bialobrzeg:
+  name: Białobrzeg
+  ipa: bjaˈwɔbʐɛk
+  checked: true
+bieganszczyzna:
+  name: Bieganszczyzna, Osada
+  ipa: bjɛɡanˈʂtʂɨzna ɔˈsada
+  checked: true
+biskupice-karczma:
+  name: Biskupice
+  ipa: biskuˈpitsɛ
+  checked: true
+budy:
+  name: Budy
+  ipa: ˈbudɨ
+  checked: true
+bukowe:
+  name: Bukowe
+  ipa: buˈkɔvɛ
+  checked: true
+chrusciki:
+  name: Chruściki
+  ipa: xruɕˈtɕiki
+  checked: true
+cygany:
+  name: Cygany
+  ipa: tsɨˈɡanɨ
+  checked: true
+czarna-struga:
+  name: Czarna Struga
+  ipa: ˈtʂarna ˈstruɡa
+  checked: true
+czarnybrod:
+  name: Czarnybród
+  ipa: tʂarˈnɨbrut
+  checked: true
+czerwonka:
+  name: Czerwonka
+  ipa: tʂɛrˈvɔnka
+  checked: true
+dluga-gorka:
+  name: Długa Górka
+  ipa: ˈdwuɡa ˈɡurka
+  checked: true
+drzewce:
+  name: Drzewce
+  ipa: ˈdʐɛftsɛ
+  checked: true
+drzezgi:
+  name: Drzęzgi
+  ipa: ˈdʐɛ̃zɡi
+  checked: true
+dziadolina:
+  name: Dziadolina
+  ipa: dʑadɔˈlina
+  checked: true
+garbin:
+  name: Garbin
+  ipa: ˈɡarbin
+  checked: true
+glinianki:
+  name: Glinianki
+  ipa: ɡliˈɲanki
+  checked: true
+grabina:
+  name: Grabina
+  ipa: ɡraˈbina
+  checked: true
+gradzyn:
+  name: Grądzeń
+  ipa: ˈɡrɔndzɛɲ
+  checked: true
+gradzen-las:
+  name: Grądzeń-Las
+  ipa: ˈɡrɔndzɛɲ las
+  checked: true
+hagrowo:
+  name: Hagrowo
+  ipa: xaˈɡrɔvɔ
+  checked: true
+huta-lukomska:
+  name: Huta Łukomska
+  ipa: ˈxuta wuˈkɔmska
+  checked: true
+huta-trabczynska:
+  name: Huta Trąbczyńska
+  ipa: ˈxuta trɔmpˈtʂɨɲska
+  checked: true
+imielanka:
+  name: Imielanka
+  ipa: imjɛˈlanka
+  checked: true
+imielno:
+  name: Imielno
+  ipa: iˈmjɛlnɔ
+  checked: true
+jeziorko:
+  name: Jeziorko
+  ipa: jɛˈʑɔrkɔ
+  checked: true
+kalisz:
+  name: Kalisz
+  ipa: ˈkaliʂ
+  checked: true
+koczogowa:
+  name: Koczogowa
+  ipa: kɔtʂɔˈɡɔva
+  checked: true
+kolonia-wrabczyn:
+  name: Kolonia Wrąbczyn
+  ipa: kɔˈlɔɲa ˈvrɔmptʂɨn
+  checked: true
+konin:
+  name: Konin
+  ipa: ˈkɔɲin
+  checked: true
+kopojno:
+  name: Kopojno
+  ipa: kɔˈpɔjnɔ
+  checked: true
+kopojno-parcele:
+  name: Kopojno-Parcele
+  ipa: kɔˈpɔjnɔ parˈtsɛlɛ
+  checked: true
+koszelewska-laka:
+  name: Koszelewska Łąka
+  ipa: kɔʂɛˈlɛfska ˈwɔŋka
+  checked: true
+kosciolkow:
+  name: Kościołków
+  ipa: kɔɕˈtɕɔwkuf
+  checked: true
+kowaliska:
+  name: Kowaliska
+  ipa: kɔvaˈliska
+  checked: true
+krolestwo:
+  name: Królestwo
+  ipa: kruˈlɛstfɔ
+  checked: true
+laski:
+  name: Laski
+  ipa: ˈlaski
+  checked: true
+lad:
+  name: Ląd
+  ipa: lɔnt
+  checked: true
+lipowa-gorka:
+  name: Lipowa Górka
+  ipa: liˈpɔva ˈɡurka
+  checked: true
+lisewska-kolonia:
+  name: Lisewska Kolonia
+  ipa: liˈsɛfska kɔˈlɔɲa
+  checked: true
+lusnie-oledry:
+  name: Lusnie Olędry
+  ipa: ˈlusɲɛ ɔˈlɛndrɨ
+  checked: true
+lazinsk-drugi:
+  name: Łazińsk Drugi
+  ipa: ˈwaʑiɲsk ˈdruɡi
+  checked: true
+lazinsk-pierwszy:
+  name: Łazińsk Pierwszy
+  ipa: ˈwaʑiɲsk ˈpjɛrfʂɨ
+  checked: true
+lazinskie-oledry:
+  name: Łazińskie Olędry
+  ipa: waˈʑiɲskjɛ ɔˈlɛndrɨ
+  checked: true
+lazy-trabczyn:
+  name: Łazy
+  ipa: ˈwazɨ
+  checked: true
+lomow:
+  name: Łomów
+  ipa: ˈwɔmuf
+  checked: true
+lukom:
+  name: Łukom
+  ipa: ˈwukɔm
+  checked: true
+lukomin:
+  name: Łukomin
+  ipa: wuˈkɔmin
+  checked: true
+lukomskie-oledry:
+  name: Łukomskie Olędry
+  ipa: wuˈkɔmskjɛ ɔˈlɛndrɨ
+  checked: true
+lutow:
+  name: Łutow
+  ipa: ˈwutɔf
+  checked: true
+malgorzatow:
+  name: Małgorzatów
+  ipa: mawɡɔˈʐatuf
+  checked: true
+ludwigslust:
+  name: Mały Las
+  ipa: ˈmawɨ las
+  checked: true
+maradz:
+  name: Maradz
+  ipa: ˈmarats
+  checked: true
+maradz-oledry:
+  name: Maradz Olędry
+  ipa: ˈmarats ɔˈlɛndrɨ
+  checked: true
+mariantow:
+  name: Mariantów
+  ipa: maˈrjantuf
+  checked: true
+miasykat:
+  name: Miąsykąt
+  ipa: mjɔ̃ˈsɨkɔnt
+  checked: true
+michalinow-olesnicki:
+  name: Michalinów Oleśnicki
+  ipa: mixaˈlinuf ɔlɛɕˈɲitski
+  checked: true
+michalinow-oledry:
+  name: Michalinów Trąbczyński
+  ipa: mixaˈlinuf trɔmpˈtʂɨɲski
+  checked: true
+myszakow:
+  name: Myszaków
+  ipa: mɨˈʂakuf
+  checked: true
+myszakowek:
+  name: Myszakówek
+  ipa: mɨʂaˈkuvɛk
+  checked: true
+noga:
+  name: Noga
+  ipa: ˈnɔɡa
+  checked: true
+nowawies-trabczyn:
+  name: Nowa Wieś
+  ipa: ˈnɔva vjɛɕ
+  checked: true
+odpadki:
+  name: Odpadki
+  ipa: ɔtˈpatki
+  checked: true
+olchowo:
+  name: Olchowo
+  ipa: ɔlˈxɔvɔ
+  checked: true
+olesnica:
+  name: Oleśnica
+  ipa: ɔlɛɕˈɲitsa
+  checked: true
+olesnica-folwark:
+  name: Oleśnica-Folwark
+  ipa: ɔlɛɕˈɲitsa ˈfɔlvark
+  checked: true
+orlina-duza:
+  name: Orlina Duża
+  ipa: ɔrˈlina ˈduʐa
+  checked: true
+osiny:
+  name: Osiny
+  ipa: ɔˈɕinɨ
+  checked: true
+ostrowiec:
+  name: Ostrowiec
+  ipa: ɔsˈtrɔvjɛts
+  checked: true
+podbiel:
+  name: Podbiel
+  ipa: ˈpɔdbjɛl
+  checked: true
+porabki:
+  name: Porąbki
+  ipa: pɔˈrɔmpki
+  checked: true
+posada:
+  name: Posada
+  ipa: pɔˈsada
+  checked: true
+potaszniki:
+  name: Potaszniki
+  ipa: pɔtaʂˈɲiki
+  checked: true
+przybyslaw:
+  name: Przybysław
+  ipa: pʂɨˈbɨswaf
+  checked: true
+przycierz:
+  name: Przycierz
+  ipa: ˈpʂɨtɕɛʂ
+  checked: true
+pyzdry:
+  name: Pyzdry
+  ipa: ˈpɨzdrɨ
+  checked: true
+rogal:
+  name: Rogal
+  ipa: ˈrɔɡal
+  checked: true
+rosciszewo:
+  name: Rosciszewo
+  ipa: rɔstɕiˈʂɛvɔ
+  checked: true
+rydlowa-gora:
+  name: Rydlowa Góra
+  ipa: rɨˈdlɔva ˈɡura
+  checked: true
+ryjew:
+  name: Ryjew
+  ipa: ˈrɨjɛf
+  checked: true
+sadornicz:
+  name: Sadornicz
+  ipa: saˈdɔrɲitʂ
+  checked: true
+sklanna-huta:
+  name: Sklanna Huta
+  ipa: ˈsklanna ˈxuta
+  checked: true
+skokamskie-oledry:
+  name: Skokamskie Olędry
+  ipa: skɔˈkamskjɛ ɔˈlɛndrɨ
+  checked: true
+skokum:
+  name: Skokum
+  ipa: ˈskɔkum
+  checked: true
+slupca:
+  name: Słupca
+  ipa: ˈswuptsa
+  checked: true
+smoleniec:
+  name: Smoleniec
+  ipa: smɔˈlɛɲɛts
+  checked: true
+stanislawow:
+  name: Stanisławów
+  ipa: staɲiˈswavuf
+  checked: true
+stawisko:
+  name: Stawisko
+  ipa: staˈviskɔ
+  checked: true
+stawiszyn:
+  name: Stawiszyn
+  ipa: staˈviʂɨn
+  checked: true
+studzianka:
+  name: Studzianka
+  ipa: stuˈdʑanka
+  checked: true
+szetlew:
+  name: Szetlew
+  ipa: ˈʂɛtlɛf
+  checked: true
+szetlewek:
+  name: Szetlewek
+  ipa: ʂɛˈtlɛvɛk
+  checked: true
+swiatniki:
+  name: Świątniki
+  ipa: ɕfjɔntˈɲiki
+  checked: true
+tarczewo:
+  name: Tarczewo
+  ipa: tarˈtʂɛvɔ
+  checked: true
+tarszew-mlyn:
+  name: Tarszew
+  ipa: ˈtarʂɛf
+  checked: true
+tarszewo:
+  name: Tarszewo
+  ipa: tarˈʂɛvɔ
+  checked: true
+trabczyn:
+  name: Trąbczyn
+  ipa: ˈtrɔmptʂɨn
+  checked: true
+trabczyn-b:
+  name: Trąbczyn B
+  ipa: ˈtrɔmptʂɨn
+  checked: true
+trabczyn-c:
+  name: Trąbczyn C
+  ipa: ˈtrɔmptʂɨn
+  checked: true
+trabczyn-d:
+  name: Trąbczyn D
+  ipa: ˈtrɔmptʂɨn
+  checked: true
+trabczyn-dworski:
+  name: Trąbczyn Dworski
+  ipa: ˈtrɔmptʂɨn ˈdvɔrski
+  checked: true
+trabczyn-f:
+  name: Trąbczyn F
+  ipa: ˈtrɔmptʂɨn
+  checked: true
+trabczyn-g:
+  name: Trąbczyn G
+  ipa: ˈtrɔmptʂɨn
+  checked: true
+trabczynskie-nowe-oledry:
+  name: Trąbczyńskie Nowe Olędry
+  ipa: trɔmpˈtʂɨɲskjɛ ˈnɔvɛ ɔˈlɛndrɨ
+  checked: true
+trabczynskie-stare-oledry:
+  name: Trąbczyńskie Stare Olędry
+  ipa: trɔmpˈtʂɨɲskjɛ ˈstarɛ ɔˈlɛndrɨ
+  checked: true
+trzcianne:
+  name: Trzcianne
+  ipa: ˈtʂtɕannɛ
+  checked: true
+tumidaj:
+  name: Tumidaj
+  ipa: tuˈmidaj
+  checked: true
+warta:
+  name: Warta River
+  ipa: ˈvarta
+  checked: true
+wielki-las:
+  name: Wielki Las
+  ipa: ˈvjɛlki las
+  checked: true
+wielki-bor-obreb:
+  name: Wielki-Bór Obręb
+  ipa: ˈvjɛlki bur ˈɔbrɛmp
+  checked: true
+wincentowo:
+  name: Wincentowo
+  ipa: vintsɛnˈtɔvɔ
+  checked: true
+wlodzimirow-obreb:
+  name: Włodzimirow Obręb
+  ipa: vwɔdʑiˈmirɔf ˈɔbrɛmp
+  checked: true
+wlodzimirow:
+  name: Włodzimirów
+  ipa: vwɔdʑiˈmiruf
+  checked: true
+wrabczyn:
+  name: Wrąbczyn
+  ipa: ˈvrɔmptʂɨn
+  checked: true
+wrabczyn-gorski:
+  name: Wrąbczyn Górski
+  ipa: ˈvrɔmptʂɨn ˈɡurski
+  checked: true
+wrabczynek:
+  name: Wrąbczynek
+  ipa: vrɔmpˈtʂɨnɛk
+  checked: true
+wrabczynkowskie-holendry:
+  name: Wrąbczynkowskie Holendry
+  ipa: vrɔmptʂɨnˈkɔfskjɛ xɔˈlɛndrɨ
+  checked: true
+wygoda:
+  name: Wygoda
+  ipa: vɨˈɡɔda
+  checked: true
+wymyslow:
+  name: Wymysłów
+  ipa: vɨˈmɨswuf
+  checked: true
+zagorowskie-oledry:
+  name: Zagórowskie Olędry
+  ipa: zaɡuˈrɔfskjɛ ɔˈlɛndrɨ
+  checked: true
+zagorowo:
+  name: Zagórów
+  ipa: zaˈɡuruf
+  checked: true
+zalesie:
+  name: Zalesie
+  ipa: zaˈlɛɕɛ
+  checked: true
+zarobna:
+  name: Zarobna
+  ipa: zaˈrɔbna
+  checked: true
+zbiersk-kolonia:
+  name: Zbiersk Kolonia
+  ipa: zbjɛrsk kɔˈlɔɲa
+  checked: true
+zwierzyniec:
+  name: Zwierzyniec
+  ipa: zvjɛˈʐɨɲɛts
+  checked: true
