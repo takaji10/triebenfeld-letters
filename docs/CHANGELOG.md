@@ -6510,7 +6510,7 @@ sources-icon.html`).
 - Oe 1 Bü 9454, read on the scans by two readers: 39 "Königs:" (Königsberg[?]), 170 "Kisten" (crates), 303 "Dem p Über"; 21 "Genuenſter" still unread ("the [...] Prince").
 - Nr. 421: the paragraph rules follow the "·/·".
 
-## The site overhaul (2026-11-24, docs/SITE_OVERHAUL_PLAN.md)
+## 2026-11-24 - The site overhaul (docs/SITE_OVERHAUL_PLAN.md)
 
 - Writing rules added to HOUSE_STYLE: no physical description the counts already give; new things introduced as new ("after three townsmen", not "the three townsmen"); every action complete, for a reader new to the subject; the content, not the paper; the tiles' standard form.
 - The Sources page as four tiles, "Size" removed, new duotone icons (two other drawings kept for the editor's choice); "Archival material" renamed "Manuscripts" ("Handschriften").
