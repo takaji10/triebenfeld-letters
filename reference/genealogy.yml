@@ -37,14 +37,15 @@
 people:
   prusimski:
     # Antoni Prusimski, Starost of Niszczewice. His dates are the PSB
-    # entry's (the copy, p. 582), which the database's page
-    # follows; the "ca 1806" stays open to qualification from the documents
-    # (the editor, 2026-10-22).
-    life: "1744–ca 1806"
+    # entry's (the copy, p. 582), which the database's page follows. The
+    # death (2026-11-24, the documents first): 1803, abroad, by the Prussian
+    # foreign ministry's reply of May 1819; he was alive at Dresden in April
+    # and May 1803. The PSB's "about 1806" is flagged in NEEDS_CONFIRMATION.
+    life: "1744–1803"
     born: "4 March 1744, at Bieganowo"
     born_source: "pachonski1982/582; minakowska2026prusimski/front"
-    died: "about 1806"
-    died_source: "pachonski1982/582; minakowska2026prusimski/front"
+    died: "1803, abroad"
+    died_source: "doc:iiihamdaiiinr12366-2; doc:ihagrrep7cnr3132-6"
     parents:
       # Stefan's dates on the database's page are its estimate
       # ("prawdopodobnie w roku 1710") and are not shown.

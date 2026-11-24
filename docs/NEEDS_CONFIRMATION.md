@@ -1167,9 +1167,14 @@ read, translate and summarise.
     "about 1770"; no document dates the marriage. The date is the
     database's estimate and is not used (EDITORIAL_RULES, 2026-10-22); the
     marriage itself is the PSB's and stands.
-  - **"ca 1806".** The life-line "1744–ca 1806" is accepted (editor,
-    2026-10-22); the "ca" stays open - a document that dates the death
-    qualifies it.
+  - **"ca 1806" → 1803 (2026-11-24, the documents first).** The life-line
+    now reads 1744–1803: the Prussian foreign ministry's reply of May 1819
+    (III. HA MdA III Nr. 12366, document 2) says he died abroad in 1803, and
+    he was alive at Dresden in April and May 1803 (Nr. 3132). The PSB
+    (pachonski1982) and the database say about 1806; the Warsaw memoir of
+    1818 implies an earlier death, soon after his wife's. Recorded so the
+    difference is known; no ruling needed unless the editor wants the PSB's
+    date shown beside it.
   - **The regest of 1786.** The page's Uwagi carry a regest of Teki
     Dworzaczka: the Poznań municipal court's record (seria Relacje,
     nr 197, Rel. C. Posn. T. 1113) of the division of the Prusimski

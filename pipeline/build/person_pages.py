@@ -80,6 +80,9 @@ def main():
                 refs[unit] = yaml.safe_load(f)['ref']
         return refs[unit]
 
+    with open(os.path.join(ROOT, 'site', '_data', 'units.yml'), encoding='utf-8') as _uf:
+        units_by_slug = {u['slug']: u for u in yaml.safe_load(_uf)}
+
     def resolve(src, lang, where):
         """A source string into [{text, url}] for the page to show."""
         s = i18n[lang]
@@ -87,6 +90,18 @@ def main():
         for part in [x.strip() for x in str(src).split(';') if x.strip()]:
             if part == 'editor':
                 out.append({'text': 'the editor' if lang == 'en' else 'der Herausgeber'})
+                continue
+            if part.startswith('doc:'):
+                # a document of the edition (2026-11-24: the documents first,
+                # a life date read from a document is cited to it)
+                uid = part[4:]
+                unit, _, num = uid.rpartition('-')
+                u = units_by_slug.get(unit)
+                if u is None or not num.isdigit():
+                    raise ValueError(f'{where}: source {part!r}: no such document')
+                word = 'document' if lang == 'en' else 'Dokument'
+                out.append({'text': f"{u['ref']}, {word} {int(num)}",
+                            'url': f"/documents/{unit}/{int(num)}/"})
                 continue
             if '/' in part:
                 work, _, key = part.partition('/')

@@ -102,3 +102,11 @@ Kept from the work's account, which said it on the page until the voice review o
 
 > Most of it is about his politics in exile, and its few words on the estates
 > are to be held against the documents.
+
+## The death date (2026-11-24)
+
+The entry dates Prusimski's death "ca 1806". The edition now gives 1803, by
+the documents first: the Prussian foreign ministry's reply of May 1819
+(III. HA MdA III Nr. 12366, document 2) says he died abroad in 1803, and he
+was alive at Dresden in April and May 1803 (I. HA GR, Rep. 7 C, Nr. 3132).
+The difference is flagged in NEEDS_CONFIRMATION.
