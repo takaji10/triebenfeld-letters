@@ -1,4 +1,4 @@
-Prince Friedrich Ludwig of Hohenlohe-Ingelfingen needed money, and he raised it by selling his estates in South Prussia – Prussia's share of partitioned Poland – or letting them out in hereditary lease. The volume of the Prince's contracts records those sales and leases, each contract with the powers of attorney, royal confirmations and certificates filed with it. Most of the contracts date from 1798 to 1806; one copies a privilege of 1766. <!-- context -->
+Prince Friedrich Ludwig of Hohenlohe-Ingelfingen needed money, and he raised it by selling his estates in South Prussia – Prussia's share of partitioned Poland – or letting them out in hereditary lease. His contracts, from 1798 to 1806, show what he sold, to whom and on what terms. <!-- context -->
 
 ### Historical background
 
@@ -8,27 +8,25 @@ The estates lay in the province formed from Prussia's share of the partitions of
 
 #### Kamionna and Kolno
 
-Hohenlohe-Ingelfingen sold both estates to George Conrad Leixner, an official of the bank at Frankfurt an der Oder, for 142,000 Rthl [[4, 5]]. The volume holds two versions of the contract, the royal confirmation with the powers of attorney filed with it, and the letter that sent Hohenlohe-Ingelfingen his copy [[4, 5, 22]].
+Hohenlohe-Ingelfingen sold both estates to George Conrad Leixner, an official of the bank at Frankfurt an der Oder, for 142,000 Rthl, and the King confirmed the sale [[4, 5, 22]].
 
 #### Pszczew
 
-By a contract of July 1804 the whole lordship of Pszczew was made over to the townspeople of Pszczew and six villages for 180,000 Rthl and a yearly ground rent of 1,000 Rthl; 137,000 Rthl of the price was met by taking over mortgage debts [[18, 19]]. The contract is present in two copies. A decision of the authorities refusing permission for the lease is also present, as is a royal approval of 1806 [[18, 23]]. Three documents concern single holdings in the lordship, among them a privilege of the Bishop of Poznań of 1766 for a holding at Głażewo, in German translation with its Latin and Polish original [[3, 28, 29]].
+By a contract of July 1804 the whole lordship of Pszczew was made over to the townspeople of Pszczew and six villages for 180,000 Rthl and a yearly ground rent of 1,000 Rthl; 137,000 Rthl of the price was met by taking over mortgage debts [[18, 19]]. The authorities at first refused to allow it; the King approved it in 1806 [[18, 23]]. A holding at Głażewo in the lordship went back to a privilege of the Bishop of Poznań of 1766 [[3, 28, 29]].
 
 #### Witów
 
-Preliminary terms record a sale of Witów to Martin Honrichs and Valentin von Kwasieborski for 16,000 Rthl [[2]]. Later terms record its sale by Triebenfeld to Franz Meierowitz for 20,000 Rthl and a yearly payment of 500 Rthl, conditional on the annulment of the earlier sale [[21]]. A covering note concerns the files on Witów [[1]].
+Preliminary terms record a sale of Witów to Martin Honrichs and Valentin von Kwasieborski for 16,000 Rthl [[2]]. Later terms record its sale by Triebenfeld to Franz Meierowitz for 20,000 Rthl and a yearly payment of 500 Rthl, provided the earlier sale was annulled [[1, 21]].
 
 #### Trąbczyn and Zagórów
 
-Most of the contracts were made before the patrimonial court of the Trąbczyn estates, with Triebenfeld acting for Hohenlohe-Ingelfingen. Six grant single holdings of between one and six Hufen to named lessees [[6, 7, 8, 11, 12, 14]]. Others cover larger areas: 20 Hufen to the bailiff Tschachmann, with the right to resell in parcels; 270 Hufen at Trąbczyn, Łazy, Osiny, Nowawies and Przybysław to named settlers; and the farm of Althütte to six settlers, in two contracts [[13, 15, 16, 17]]. A contract for land at Drzewce is filed with its cancellation three months later [[10]]. The farm of Kopojno was let for six years, from 1805 to 1811 [[9]]. A separate grant conveys the manor house at Swięcia [[20]].
+Most of the contracts were made before the patrimonial court of the Trąbczyn estates, with Triebenfeld acting for Hohenlohe-Ingelfingen. Six grant single holdings of between one and six Hufen to named lessees [[6, 7, 8, 11, 12, 14]]. Others cover larger areas: 20 Hufen to the bailiff Tschachmann, with the right to resell in parcels; 270 Hufen at Trąbczyn, Łazy, Osiny, Nowawies and Przybysław to named settlers; and the farm of Althütte to six settlers, in two contracts [[13, 15, 16, 17]]. A lease of land at Drzewce was cancelled three months after it was made [[10]]. The farm of Kopojno was let for six years, from 1805 to 1811 [[9]]. A separate grant conveys the manor house at Swięcia [[20]].
 
 The hereditary leases share a set of terms: entry money and an annual rent, the lessee's liability for taxes, an obligation to buy drink from the lordship, a fee of one tenth on any later sale, and forfeiture after two years' arrears [[8, 11, 13]].
 
 #### Szetlewek
 
-Glenck sold the farm of Szetlewek to the miller Samuel Lucke for 12,333 Rthl, of which 8,333 Rthl was to go to the holder of a pledge on the estate, von Radzinski [[24]]. Three further documents concern an earlier agreement of 20 November 1798 for settling the estate, its cancellation, and the dispute with the pledge holder [[25, 26, 27]].
-
-Powers of attorney, royal confirmations and notarial certifications are filed with the contracts they belong to and form part of the same document. The documents keep the archive's numbering, which does not follow their dates. <!-- context -->
+Glenck sold the farm of Szetlewek to the miller Samuel Lucke for 12,333 Rthl, of which 8,333 Rthl was to go to the holder of a pledge on the estate, von Radzinski [[24]]. An earlier agreement on the estate, of 20 November 1798, had been cancelled, and there was a dispute with the pledge holder [[25, 26, 27]].
 
 ### Related holdings
 
