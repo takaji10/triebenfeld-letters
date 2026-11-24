@@ -7,7 +7,7 @@
 # notes.md. visible: false - in the corpus, no page on the site
 # (the Słownik is public domain; the entry texts are citation, not reproduction).
 slug: slownik
-visible: false
+visible: true   # the editor, 2026-11-24: the entries used shown in full; the copyright to be cleared by the editor (NEEDS_CONFIRMATION)
 kind: reference
 title: "Słownik geograficzny Królestwa Polskiego — cytowane hasła"
 title_en: "Słownik geograficzny Królestwa Polskiego — the entries the gazetteer cites"

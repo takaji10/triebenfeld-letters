@@ -16,9 +16,10 @@
 # it, no open-access copy found). The editor ruled (2026-10-22) that it is
 # kept like Seidel (2018): in the repository for questions, the site showing
 # only the detailed summary below (summary_en, summary_de), none of the text;
-# pipeline/verify_site.py checks that. Do not change this without the editor's word.
+# pipeline/verify_site.py checked that. The editor changed it on 2026-11-24:
+# the text shown in full; the copyright is theirs to clear.
 slug: slowinski2023
-visible: false
+visible: true   # the editor, 2026-11-24: the entries used shown in full; the copyright to be cleared by the editor (NEEDS_CONFIRMATION)
 kind: book
 title: "Przeżyć tę jedną zimę. Listy żołnierza Wehrmachtu odkryte w ścianie domu kantora"
 title_en: "To Survive This One Winter. The Wehrmacht Soldier's Letters Discovered in the Wall of the Cantor's House"
@@ -43,8 +44,7 @@ account_en: >-
   written from February 1940 to May 1944. The letters are given in Polish
   translation, with the author's commentary, an introduction on the German
   settlement around Zagórów, and an appendix with a German-era note on Łazińsk
-  and the lists of the hoard and of the cantor's library. The book is under
-  copyright, and a detailed summary stands in its place.
+  and the lists of the hoard and of the cantor's library.
 account_de: >-
   Mirosław Słowiński, der Verfasser von Zagórów. Album miasta (2007), gibt
   einen 1995 im ehemaligen Kantorhaus von Łazińsk eingemauert gefundenen
@@ -55,8 +55,7 @@ account_de: >-
   Briefe stehen in polnischer Übersetzung, mit dem Kommentar des Verfassers,
   einer Einleitung über die deutsche Besiedlung um Zagórów und einem Anhang
   mit einer Notiz der deutschen Zeit über Łazińsk und den Verzeichnissen des
-  Fundes und der Bibliothek des Kantors. Das Buch ist urheberrechtlich
-  geschützt; an seiner Stelle steht eine ausführliche Zusammenfassung.
+  Fundes und der Bibliothek des Kantors.
 
 # The card's own short rendering of the account (the list pages, 2026-10-29); the account stays whole on the item's page.
 brief_en: >-

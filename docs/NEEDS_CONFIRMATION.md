@@ -9,6 +9,24 @@ reason to change the text without the editor.
 The `review/<slug>/` files named below are generated and not in the
 repository; they are on the working machine.
 
+## The site overhaul (2026-11-24, docs/SITE_OVERHAUL_PLAN.md)
+
+- **Three works now shown in full, copyright to clear (you).** Nazwy
+  miejscowe Polski (`nmpol`), Słowiński (2023) (`slowinski2023`) and the
+  Słownik geograficzny (`slownik`) are `visible: true` at your word ("I will
+  clear the copyright later"). The third was cut off in your message and is
+  taken to be the Słownik geograficzny, the twin of Nazwy; say if it is
+  another. The English beside the entries of `nmpol` and `slownik`
+  summarises each entry; it is not a translation.
+- **The German summaries lag the English.** The English prose is being
+  rewritten to the rules of 2026-11-24 (HOUSE_STYLE) and the German is
+  skipped at your word; a German summary may now say more, or less, than
+  its English. A German pass is for later.
+- **The sources' icons**: three drawings are made (line in a disc, a new
+  line drawing, duotone); duotone is shown. Your choice.
+- **The crop boxes** of 53/6/0/-/17, -/36, -/45, -/46, -/47 (the page sent
+  to you on 2026-11-24).
+
 ## The date after the signature (2026-11-23, docs/DATE_ORDER_PLAN.md)
 
 Oe 1 Bü 9454: 181 letters moved (the pilot's 4 and 177), then 58 more at the
