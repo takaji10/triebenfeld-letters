@@ -256,6 +256,65 @@ thead th a { color: inherit; }
 .source-types { margin: .35rem 0 0; display: flex; flex-wrap: wrap; gap: .3rem .4rem; }
 .type-tag { font-family: var(--sans); font-size: .75rem; color: var(--ink-soft); border: 1px solid currentColor; border-radius: .8rem; padding: .05rem .6rem; }
 .source-tools + .sources { margin-top: 1rem; }
+/* The standard card (_includes/source-card.html): the short description and
+   the original title under the title, the type tags at the foot. */
+.source-title { margin: .5rem 0 0; color: var(--ink-soft); }
+.source-original { margin: .2rem 0 0; color: var(--ink-soft); }
+.source .source-types { margin-top: .9rem; }
+.source-facts:empty { display: none; }
+/* A literature work with no picture: the author's surname, the short title and
+   the year, typeset on a tinted paper-coloured box of the thumb's size. */
+.source-thumb-typo { display: flex; flex-direction: column; justify-content: space-between;
+                     gap: .3rem; padding: .5rem; overflow: hidden; text-align: left;
+                     border-style: solid; background: var(--paper);
+                     font-family: var(--serif); line-height: 1.2; }
+.source-thumb-typo .typo-author { font-family: var(--sans); font-size: .62rem; letter-spacing: .04em;
+                                  text-transform: uppercase; color: var(--ink-faint); }
+.source-thumb-typo .typo-title { font-size: .8rem; font-style: italic; color: var(--ink-soft);
+                                 overflow: hidden; display: -webkit-box;
+                                 -webkit-line-clamp: 5; -webkit-box-orient: vertical; }
+.source-thumb-typo .typo-year { font-family: var(--sans); font-size: .7rem; color: var(--accent); }
+@media (max-width: 40rem) {
+  .source-thumb-typo { padding: .3rem; }
+  .source-thumb-typo .typo-title { font-size: .62rem; -webkit-line-clamp: 4; }
+  .source-thumb-typo .typo-author { font-size: .5rem; }
+}
+
+/* ---------------------------------------------------- Sources overview */
+
+/* The four kinds as tiles, each one link (the .source-link stretched over
+   it): two columns wide, one on a phone. */
+.src-tiles { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.2rem;
+             max-width: 60rem; margin: 2rem 0 3rem; }
+.src-tile { position: relative; display: flex; gap: 1.1rem; align-items: flex-start; min-width: 0;
+            border: 1px solid var(--rule); border-radius: 6px; background: var(--paper-2);
+            padding: 1.4rem 1.4rem 1.3rem; transition: border-color .15s, box-shadow .15s; }
+.src-tile:hover, .src-tile:focus-within { border-color: var(--accent);
+            box-shadow: 0 2px 10px color-mix(in srgb, var(--accent) 22%, transparent); }
+.src-tile:focus-within { outline: 2px solid var(--accent); outline-offset: 2px; }
+.src-tile:hover h2 a { text-decoration: underline; }
+.src-tile h2 { margin: 0; font-size: 1.3rem; }
+.src-tile h2 a:focus { outline: none; }
+.src-tile-body { min-width: 0; }
+.src-tile .src-desc { margin: .45rem 0 0; color: var(--ink-soft); }
+.src-tile .src-count { margin: .8rem 0 0; font-family: var(--sans); font-size: .85rem; color: var(--accent); font-weight: 600; }
+@media (max-width: 40rem) {
+  .src-tiles { grid-template-columns: 1fr; }
+  .src-tile { padding: 1.1rem 1rem; gap: .9rem; }
+}
+
+/* The kind icons (_includes/sources-icon.html): currentColor lines, the
+   tinted ground and fill drawn from the accent token, so both colour schemes
+   follow. Stroke stays 1.6 at the 24px viewBox. */
+.src-icon-wrap { flex: none; display: inline-grid; place-items: center; width: 3.4rem; height: 3.4rem;
+                 color: var(--accent); background: var(--paper);
+                 background: color-mix(in srgb, var(--accent) 13%, var(--paper-2)); }
+.src-icon-wrap--a { border-radius: 50%; }
+.src-icon-wrap--b, .src-icon-wrap--c { border-radius: .8rem; }
+.src-icon { width: 2rem; height: 2rem; display: block; }
+.src-icon-wrap--a .src-icon { width: 1.9rem; height: 1.9rem; }
+.src-icon--c .duo { fill: color-mix(in srgb, var(--accent) 24%, transparent); }
+
 @media (max-width: 40rem) {
   .source { grid-template-columns: 4.5rem 1fr; gap: .1rem 1rem; padding: 1rem; }
 }

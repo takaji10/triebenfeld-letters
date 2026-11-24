@@ -365,7 +365,6 @@ en:
   eras_held: Who held the estate
   eras_browse: Read the %d documents of this era
   sources_h1: Sources
-  sources_kind_count: Size
   sources_kind_holdings: holdings
   sources_kind_items: items
   sources_kind_works: works
@@ -373,7 +372,7 @@ en:
   sources_nav_all: All sources
   genealogy_nav_zelmer: The Zelmer family
   genealogy_nav_estate: Owners of Trąbczyn
-  sources_arch_h2: Archival material
+  sources_arch_h2: Manuscripts
   sources_arch_go: Browse the holdings
   sources_np_h2: Newspapers
   sources_np_go: Read the items
@@ -381,9 +380,13 @@ en:
   sources_lit_go: Read the works
   sources_maps_h2: Maps
   sources_maps_go: View the maps
+  sources_arch_desc: "Handwritten documents from the archives: letters, court books, government files, registers and notebooks, each transcribed and translated."
+  sources_np_desc: "Articles and notices from newspapers, journals and websites about Zagórów, Trąbczyn and their people."
+  sources_lit_desc: "Books and articles on the estates, their owners and the region, with the passages that concern them."
+  sources_maps_desc: "Old maps and plans of the estates and the surrounding country."
   sources_documents: Documents
-  sources_pages: Manuscript pages
-  sources_span: Span
+  sources_pages: Pages
+  sources_span: Date
   sources_languages: Languages
   alt_holding: First page of the holding %s
   tools_sort: Sort
@@ -836,7 +839,6 @@ de:
   eras_held: Wer das Gut hielt
   eras_browse: Die %d Dokumente dieser Epoche lesen
   sources_h1: Quellen
-  sources_kind_count: Umfang
   sources_kind_holdings: Bestände
   sources_kind_items: Artikel
   sources_kind_works: Werke
@@ -844,7 +846,7 @@ de:
   sources_nav_all: Alle Quellen
   genealogy_nav_zelmer: Die Familie Zelmer
   genealogy_nav_estate: Die Besitzer von Trąbczyn
-  sources_arch_h2: Archivalien
+  sources_arch_h2: Handschriften
   sources_arch_go: Die Bestände ansehen
   sources_np_h2: Zeitungen
   sources_np_go: Die Artikel lesen
@@ -852,9 +854,13 @@ de:
   sources_lit_go: Die Werke lesen
   sources_maps_h2: Karten
   sources_maps_go: Die Karten ansehen
+  sources_arch_desc: "Handschriftliche Dokumente aus den Archiven: Briefe, Gerichtsbücher, Regierungsakten, Register und Notizbücher, jeweils transkribiert und übersetzt."
+  sources_np_desc: "Artikel und Meldungen aus Zeitungen, Zeitschriften und Websites über Zagórów, Trąbczyn und ihre Menschen."
+  sources_lit_desc: "Bücher und Aufsätze über die Güter, ihre Besitzer und die Region, mit den Passagen, die sie betreffen."
+  sources_maps_desc: "Alte Karten und Pläne der Güter und ihrer Umgebung."
   sources_documents: Dokumente
-  sources_pages: Handschriftenseiten
-  sources_span: Zeitraum
+  sources_pages: Seiten
+  sources_span: Datum
   sources_languages: Sprachen
   alt_holding: Erste Seite des Bestands %s
   tools_sort: Sortieren

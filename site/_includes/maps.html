@@ -18,19 +18,12 @@
   {% for m in site.data.maps_list %}
     {%- capture m_page -%}{{ u_maps }}{{ m.slug }}/{%- endcapture -%}
     {%- capture m_alt -%}{{ t.alt_map | replace: '%s', m.cited_as }}{%- endcapture -%}
-    <section class="source" id="{{ m.slug }}" data-az="{{ m.cited_as | escape }}" data-date="{{ m.year }}">
-      {% include source-thumb.html thumb=m.thumb alt=m_alt %}
-      <div class="source-body">
-        <h2 class="lit-author"><a class="source-link" href="{{ m_page | relative_url }}">{{ m.cited_as }}</a></h2>
-        <dl class="source-facts">
-          {%- if m.maker %}<div><dt>{{ t.map_maker }}</dt><dd>{{ m.maker }}</dd></div>{% endif -%}
-          <div><dt>{{ t.map_kind }}</dt><dd>{% if lang == 'de' %}{{ m.kind_de }}{% else %}{{ m.kind_en }}{% endif %}</dd></div>
-          {%- if m.holder %}
-          <div><dt>{{ t.map_holder }}</dt><dd>{{ m.holder }}{% if m.reference %}, {{ m.reference }}{% endif %}</dd></div>
-          {%- endif -%}
-          <div><dt>{{ t.maps_places_marked }}</dt><dd>{{ m.n_places }}</dd></div>
-        </dl>
-      </div>
-    </section>
+    {%- if lang == 'de' -%}
+      {%- assign m_desc = m.title_de | default: m.kind_de -%}
+    {%- else -%}
+      {%- assign m_desc = m.title_en | default: m.kind_en -%}
+    {%- endif -%}
+    {%- capture m_src -%}{% if m.maker %}{{ m.maker }} &middot; {% endif %}{{ m.holder }}{% if m.reference %}, {{ m.reference }}{% endif %}{%- endcapture -%}
+    {% include source-card.html id=m.slug href=m_page az=m.cited_as date_key=m.year thumb=m.thumb alt=m_alt title=m.cited_as original=m.title source=m_src desc=m_desc date=m.year %}
   {% endfor %}
 </div>

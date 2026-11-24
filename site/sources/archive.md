@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /sources/archive/
-title: Archival material
+title: Manuscripts
 lang: en
 alt_url: /de/quellen/archiv/
 ---

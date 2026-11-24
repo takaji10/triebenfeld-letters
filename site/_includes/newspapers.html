@@ -18,19 +18,15 @@
 <div class="sources">
   {% for w in site.data.newspapers %}
     {%- capture w_page -%}{{ u_np }}{{ w.slug }}/{%- endcapture -%}
-    {%- assign w_lang = 'lit_lang_' | append: w.language -%}
     {%- capture w_alt -%}{{ t.alt_clipping | replace: '%s', w.newspaper }}{%- endcapture -%}
-    <section class="source" id="{{ w.slug }}" data-az="{% if lang == 'de' %}{{ w.title_de | escape }}{% else %}{{ w.title_en | escape }}{% endif %}" data-date="{{ w.year }}">
-      {% include source-thumb.html thumb=w.thumb alt=w_alt %}
-      <div class="source-body">
-        <h2><a class="source-link" href="{{ w_page | relative_url }}">{% if lang == 'de' %}{{ w.title_de }}{% else %}{{ w.title_en }}{% endif %}</a></h2>
-        <p class="source-archive">{{ w.newspaper }} &middot; {% if lang == 'de' %}{{ w.issue_de }}{% else %}{{ w.issue_en }}{% endif %}</p>
-        <dl class="source-facts">
-          <div><dt>{{ t.lit_language }}</dt><dd>{{ t[w_lang] }}</dd></div>
-        </dl>
-        <p>{% if lang == 'de' %}{% if w.brief_de %}{{ w.brief_de }}{% else %}{{ w.account_de }}{% endif %}{% else %}{% if w.brief_en %}{{ w.brief_en }}{% else %}{{ w.account_en }}{% endif %}{% endif %}</p>
-        {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>{% endif %}
-      </div>
-    </section>
+    {%- if lang == 'de' -%}
+      {%- assign w_title = w.title_de -%}{%- assign w_issue = w.issue_de -%}{%- assign w_date = w.date_de -%}
+      {%- assign w_desc = w.brief_de | default: w.account_de -%}
+    {%- else -%}
+      {%- assign w_title = w.title_en -%}{%- assign w_issue = w.issue_en -%}{%- assign w_date = w.date_en -%}
+      {%- assign w_desc = w.brief_en | default: w.account_en -%}
+    {%- endif -%}
+    {%- capture w_src -%}{{ w.newspaper }} &middot; {{ w_issue }}{%- endcapture -%}
+    {% include source-card.html id=w.slug href=w_page az=w_title date_key=w.year thumb=w.thumb alt=w_alt title=w_title original=w.title source=w_src desc=w_desc pages=w.pages date=w_date caveat=w.summary_only %}
   {% endfor %}
 </div>

@@ -23,44 +23,42 @@
   {% for w in site.data.literature %}
     {%- unless w.parent -%}
     {%- capture w_page -%}{{ u_lit }}{{ w.slug }}/{%- endcapture -%}
-    {%- assign lang_key = 'lit_lang_' | append: w.language -%}
     {%- capture w_alt -%}{{ t.alt_litpage | replace: '%s', w.cite }}{%- endcapture -%}
-    <section class="source" id="{{ w.slug }}" data-az="{% if w.author_sort != "" %}{{ w.author_sort | escape }}{% else %}{{ w.title | escape }}{% endif %}" data-date="{{ w.year }}">
-      {% include source-thumb.html thumb=w.thumb alt=w_alt %}
-      <div class="source-body">
-        <h2 class="lit-author">{% if w.author_sort != "" %}{{ w.author_sort }}{% else %}{{ t.lit_anonymous }}{% endif %}</h2>
-        <p class="lit-title"><a class="source-link" href="{{ w_page | relative_url }}">{{ w.title_card | default: w.title }}</a></p>
-        {% if lang == 'en' and w.title_en != "" %}<p class="lit-title-en"><em>{{ w.title_en_card | default: w.title_en }}</em></p>{% endif %}
-        <dl class="source-facts">
-          <div><dt>{{ t.lit_published }}</dt><dd>{{ w.published_card | default: w.published }}</dd></div>
-          <div><dt>{{ t.lit_language }}</dt><dd>{{ t[lang_key] }}</dd></div>
-        </dl>
-        <p>{% if lang == 'de' %}{% if w.brief_de %}{{ w.brief_de }}{% else %}{{ w.account_de }}{% endif %}{% else %}{% if w.brief_en %}{{ w.brief_en }}{% else %}{{ w.account_en }}{% endif %}{% endif %}</p>
-        {% if w.summary_only %}<p class="lit-caveat">{{ t.lit_summary_only }}</p>{% endif %}
-        {%- comment -%} The sub-items attached to this work (Janocki 1779 under Paciorkowski 1776): a link of their own, standing above the card's stretched one. {%- endcomment -%}
-        {%- assign lit_subs = site.data.literature | where: "parent", w.slug -%}
-        {%- for sub in lit_subs -%}
-        {%- capture sub_page -%}{{ u_lit }}{{ sub.slug }}/{%- endcapture -%}
-        {%- assign sub_lang_key = 'lit_lang_' | append: sub.language -%}
-        <div class="lit-subitem">
-          <p class="lit-sub-head">{{ t.lit_sub_head }}</p>
-          <p class="lit-sub-author">{{ sub.author_sort }}</p>
-          <p class="lit-title"><a class="source-link" href="{{ sub_page | relative_url }}">{{ sub.title_card | default: sub.title }}</a></p>
-          {% if lang == 'en' and sub.title_en != "" %}<p class="lit-title-en"><em>{{ sub.title_en_card | default: sub.title_en }}</em></p>{% endif %}
-          <dl class="source-facts">
-            <div><dt>{{ t.lit_published }}</dt><dd>{{ sub.published_card | default: sub.published }}</dd></div>
-            <div><dt>{{ t.lit_language }}</dt><dd>{{ t[sub_lang_key] }}</dd></div>
-          </dl>
-          <p>{% if lang == 'de' %}{% if sub.brief_de %}{{ sub.brief_de }}{% else %}{{ sub.account_de }}{% endif %}{% else %}{% if sub.brief_en %}{{ sub.brief_en }}{% else %}{{ sub.account_en }}{% endif %}{% endif %}</p>
-        </div>
-        {%- endfor -%}
+    {%- assign w_orig_t = w.title_card | default: w.title -%}
+    {%- assign w_title = w_orig_t -%}
+    {%- if lang == 'en' and w.title_en != "" -%}{%- assign w_title = w.title_en_card | default: w.title_en -%}{%- endif -%}
+    {%- assign w_author = w.author_sort -%}
+    {%- if w_author == "" -%}{%- assign w_author = t.lit_anonymous -%}{%- endif -%}
+    {%- assign w_published = w.published_card | default: w.published -%}
+    {%- capture w_src -%}{{ w_author }} &middot; {{ w_published }}{%- endcapture -%}
+    {%- if lang == 'de' -%}{%- assign w_desc = w.brief_de | default: w.account_de -%}{%- else -%}{%- assign w_desc = w.brief_en | default: w.account_en -%}{%- endif -%}
+    {%- assign w_surname = w.author_sort | split: ',' | first -%}
+    {%- assign w_az = w.title -%}{%- if w.author_sort != "" -%}{%- assign w_az = w.author_sort -%}{%- endif -%}
+    {%- comment -%} The sub-items attached to this work (Janocki 1779 under Paciorkowski 1776): a link of their own, standing above the card's stretched one. {%- endcomment -%}
+    {%- capture w_extra -%}
+    {%- assign lit_subs = site.data.literature | where: "parent", w.slug -%}
+    {%- for sub in lit_subs -%}
+      {%- capture sub_page -%}{{ u_lit }}{{ sub.slug }}/{%- endcapture -%}
+      {%- assign sub_orig = sub.title_card | default: sub.title -%}
+      {%- assign sub_title = sub_orig -%}
+      {%- if lang == 'en' and sub.title_en != "" -%}{%- assign sub_title = sub.title_en_card | default: sub.title_en -%}{%- endif -%}
+      {%- assign sub_pub = sub.published_card | default: sub.published -%}
+      <div class="lit-subitem">
+        <p class="lit-sub-head">{{ t.lit_sub_head }}</p>
+        <p class="lit-title"><a class="source-link" href="{{ sub_page | relative_url }}">{{ sub_title }}</a></p>
+        {% if sub_orig != sub_title %}<p class="lit-title-en"><em>{{ sub_orig }}</em></p>{% endif %}
+        <p class="lit-sub-author">{{ sub.author_sort }} &middot; {{ sub_pub }}</p>
+        <p>{% if lang == 'de' %}{{ sub.brief_de | default: sub.account_de }}{% else %}{{ sub.brief_en | default: sub.account_en }}{% endif %}</p>
+        {% if sub.pages > 0 %}<dl class="source-facts"><div><dt>{{ t.sources_pages }}</dt><dd>{{ sub.pages }}</dd></div><div><dt>{{ t.sources_span }}</dt><dd>{{ sub.year }}</dd></div></dl>{% endif %}
       </div>
-    </section>
+    {%- endfor -%}
+    {%- endcapture -%}
+    {% include source-card.html id=w.slug href=w_page az=w_az date_key=w.year thumb=w.thumb alt=w_alt ph_author=w_surname ph_title=w_orig_t ph_year=w.year title=w_title original=w_orig_t source=w_src desc=w_desc pages=w.pages date=w.year caveat=w.summary_only extra=w_extra %}
     {%- endunless -%}
   {% endfor %}
   {%- comment -%}
     Holdings listed with the literature (unit.yml listed_in: literature; the
-    Kodeks Dyplomatyczny Wielkopolski, 2026-10-29): a card of the same shape,
+    Kodeks Dyplomatyczny Wielkopolski, 2026-10-29): a card of the same form,
     linking to the holding's own page, which keeps its documents.
   {%- endcomment -%}
   {%- assign lit_units = site.data.units | where: "listed_in", "literature" -%}
@@ -73,18 +71,10 @@
       {%- if u.card_title_de -%}{%- assign u_card = u.card_title_de -%}{%- endif -%}
       {%- if u.title_de != "" -%}{%- assign u_brief = u.title_de -%}{%- endif -%}
     {%- endif -%}
-    <section class="source" id="{{ u.slug }}" data-az="{{ u.ref | escape }}" data-date="{{ u.span | slice: 0, 4 }}">
-      {% include source-thumb.html thumb=u.thumb alt=u_alt %}
-      <div class="source-body">
-        <h2 class="lit-author">{{ u.ref }}</h2>
-        <p class="lit-title"><a class="source-link" href="{{ u_page | relative_url }}">{{ u_card }}</a></p>
-        <dl class="source-facts">
-          <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
-          {% if u.span != "" %}<div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>{% endif %}
-        </dl>
-        <p>{{ u_brief }}</p>
-      </div>
-    </section>
+    {%- assign u_orig = u.original_title_card | default: u.original_title -%}
+    {%- capture u_src -%}{{ u.ref }} &middot; {{ u.archive }}{%- endcapture -%}
+    {%- assign u_year = u.span | slice: 0, 4 -%}
+    {% include source-card.html id=u.slug href=u_page az=u.ref date_key=u_year thumb=u.thumb alt=u_alt ph_title=u_card ph_author=u.ref ph_year=u_year title=u_card original=u_orig source=u_src desc=u_brief docs=u.count pages=u.pages date=u.span %}
   {% endfor %}
 </div>
 

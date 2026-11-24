@@ -342,6 +342,7 @@ def main():
         out_list.append({
             'slug': m['slug'], 'cited_as': m['cited_as'], 'year': m['year'],
             'kind_en': m['kind_en'], 'kind_de': m['kind_de'],
+            'title': m['title'], 'title_en': m['title_en'], 'title_de': m['title_de'],
             'maker': m['maker'], 'holder': m['holder'],
             'reference': m['reference'], 'n_places': m['n_places'],
             'thumb': thumb,

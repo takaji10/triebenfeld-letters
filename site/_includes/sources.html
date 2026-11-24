@@ -6,61 +6,52 @@
 
 {%- comment -%}
   The Sources page as an overview of what the edition is built from (the
-  editor, 2026-10-27: "can sources include literature, maps, newspapers,
-  archival material? ... not just as a big list, but something where you
-  can easily tell when you visit the new page that there are different
-  things here"): four sections, each its own kind of source with its own
-  one-line description, its count, and the link to browse it. The
-  archival holdings' full list lives at /sources/archive/ (the holding
-  pages themselves stay at /sources/<slug>/); the other three kinds keep
-  their own pages (/newspapers/, /literature/, /maps/), reached from here
-  and no longer from the header. Each kind has its vector icon beside the
-  heading (the editor, 2026-11-06: parchment, newspaper, book, map), drawn
-  in the site's line-icon idiom - fill none, stroke currentColor, round
-  caps and joins, as in source-thumb.html.
+  editor, 2026-10-27): four kinds of source, each a tile that is one link
+  (2026-11-24; the stretched .source-link of the holding cards): the kind's
+  icon, its name, a one-line description and its count. The manuscripts'
+  full list lives at /sources/archive/ (the holding pages themselves stay at
+  /sources/<slug>/); the other three kinds keep their own pages
+  (/newspapers/, /literature/, /maps/). The icon's look is a parameter of the
+  include (variant a, b or c, default c; see sources-icon.html).
 {%- endcomment -%}
 {%- assign lit_held = site.data.units | where: "listed_in", "literature" -%}
 {%- assign lit_held_size = lit_held | size -%}
-<div class="sources-overview">
-  <section class="src-kind" id="archival">
-    <h2>{% include sources-icon.html kind="parchment" %}{{ t.sources_arch_h2 }}</h2>
-    <dl class="source-facts">
-      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.units | where_exp: "x", "x.listed_in != 'literature'" | size }} {{ t.sources_kind_holdings }}</dd></div>
-    </dl>
-    <p class="source-go"><a href="{{ u_sources_arch | relative_url }}">{{ t.sources_arch_go }}</a></p>
+{%- assign arch_n = site.data.units | where_exp: "x", "x.listed_in != 'literature'" | size -%}
+{%- assign lit_n = site.data.literature | size | plus: lit_held_size -%}
+<div class="src-tiles">
+  <section class="src-tile" id="archival">
+    {% include sources-icon.html kind="parchment" variant=include.variant %}
+    <div class="src-tile-body">
+      <h2><a class="source-link" href="{{ u_sources_arch | relative_url }}">{{ t.sources_arch_h2 }}</a></h2>
+      <p class="src-desc">{{ t.sources_arch_desc }}</p>
+      <p class="src-count">{{ arch_n }} {{ t.sources_kind_holdings }}</p>
+    </div>
   </section>
 
-  <section class="src-kind" id="newspapers">
-    <h2>{% include sources-icon.html kind="newspaper" %}{{ t.sources_np_h2 }}</h2>
-    <dl class="source-facts">
-      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.newspapers | size }} {{ t.sources_kind_items }}</dd></div>
-    </dl>
-    <p class="source-go"><a href="{{ u_np | relative_url }}">{{ t.sources_np_go }}</a></p>
+  <section class="src-tile" id="newspapers">
+    {% include sources-icon.html kind="newspaper" variant=include.variant %}
+    <div class="src-tile-body">
+      <h2><a class="source-link" href="{{ u_np | relative_url }}">{{ t.sources_np_h2 }}</a></h2>
+      <p class="src-desc">{{ t.sources_np_desc }}</p>
+      <p class="src-count">{{ site.data.newspapers | size }} {{ t.sources_kind_items }}</p>
+    </div>
   </section>
 
-  <section class="src-kind" id="literature">
-    <h2>{% include sources-icon.html kind="book" %}{{ t.sources_lit_h2 }}</h2>
-    <dl class="source-facts">
-      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.literature | size | plus: lit_held_size }} {{ t.sources_kind_works }}</dd></div>
-    </dl>
-    <p class="source-go"><a href="{{ u_lit | relative_url }}">{{ t.sources_lit_go }}</a></p>
+  <section class="src-tile" id="literature">
+    {% include sources-icon.html kind="book" variant=include.variant %}
+    <div class="src-tile-body">
+      <h2><a class="source-link" href="{{ u_lit | relative_url }}">{{ t.sources_lit_h2 }}</a></h2>
+      <p class="src-desc">{{ t.sources_lit_desc }}</p>
+      <p class="src-count">{{ lit_n }} {{ t.sources_kind_works }}</p>
+    </div>
   </section>
 
-  <section class="src-kind" id="maps">
-    <h2>{% include sources-icon.html kind="map" %}{{ t.sources_maps_h2 }}</h2>
-    <dl class="source-facts">
-      <div><dt>{{ t.sources_kind_count }}</dt><dd>{{ site.data.maps_list | size }} {{ t.sources_kind_maps }}</dd></div>
-    </dl>
-    <p class="source-go"><a href="{{ u_maps | relative_url }}">{{ t.sources_maps_go }}</a></p>
+  <section class="src-tile" id="maps">
+    {% include sources-icon.html kind="map" variant=include.variant %}
+    <div class="src-tile-body">
+      <h2><a class="source-link" href="{{ u_maps | relative_url }}">{{ t.sources_maps_h2 }}</a></h2>
+      <p class="src-desc">{{ t.sources_maps_desc }}</p>
+      <p class="src-count">{{ site.data.maps_list | size }} {{ t.sources_kind_maps }}</p>
+    </div>
   </section>
 </div>
-
-<style>
-.sources-overview { max-width: var(--measure); margin: 2rem 0 3rem; }
-.src-kind { border-top: 2px solid var(--rule); padding: 1.6rem 0 1.8rem; }
-.src-kind h2 { margin: 0; font-size: 1.35rem; }
-.src-icon { width: 1.3em; height: 1.3em; margin-right: .5em;
-            vertical-align: -0.22em; }
-.src-kind .source-facts { margin: .8rem 0 0; }
-.src-kind .source-go { font-family: var(--sans); font-size: .9rem; margin: .8rem 0 0; }
-</style>

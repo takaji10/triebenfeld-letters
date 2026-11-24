@@ -21,34 +21,17 @@
 <div class="sources">
   {% for u in u_listed %}
     {%- assign u_card = u.card_title | default: u.ref -%}
-    {%- if lang == "de" and u.card_title_de -%}{%- assign u_card = u.card_title_de -%}{%- endif -%}
-    <section class="source" id="{{ u.slug }}" data-az="{{ u_card | escape }}" data-date="{{ u.span | slice: 0, 4 }}" data-archive="{{ u.archive | escape }}" data-types="{{ u.types | join: ' ' }}">
-      {%- capture u_page -%}{{ u_sources }}{{ u.slug }}/{%- endcapture -%}
-      {%- capture u_alt -%}{{ t.alt_holding | replace: '%s', u.ref }}{%- endcapture -%}
-      {% include source-thumb.html thumb=u.thumb alt=u_alt %}
-      <div class="source-body">
-        <h2><a class="source-link" href="{{ u_page | relative_url }}">{{ u_card }}</a></h2>
-        {%- assign u_orig = u.original_title_card | default: u.original_title -%}
-        {% if u_orig and u_orig != u_card %}<p class="source-original"><em>{{ u_orig }}</em></p>{% endif %}
-        <p class="source-archive">{{ u.ref }} &middot; {{ u.archive }}</p>
-        {% include unit-types.html types=u.types %}
-        {%- assign u_title = u.title -%}
-        {%- if lang == "de" and u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
-        {% if u_title %}<p class="source-title">{{ u_title }}</p>{% endif %}
-
-        <dl class="source-facts">
-          <div><dt>{{ t.sources_documents }}</dt><dd>{{ u.count }}</dd></div>
-          <div><dt>{{ t.sources_pages }}</dt><dd>{{ u.pages }}</dd></div>
-          {% if u.span != "" %}
-            <div><dt>{{ t.sources_span }}</dt><dd>{{ u.span }}</dd></div>
-          {% endif %}
-        </dl>
-      </div>
-    </section>
+    {%- assign u_title = u.title -%}
+    {%- if lang == "de" -%}
+      {%- if u.card_title_de -%}{%- assign u_card = u.card_title_de -%}{%- endif -%}
+      {%- if u.title_de != "" -%}{%- assign u_title = u.title_de -%}{%- endif -%}
+    {%- endif -%}
+    {%- assign u_orig = u.original_title_card | default: u.original_title -%}
+    {%- capture u_page -%}{{ u_sources }}{{ u.slug }}/{%- endcapture -%}
+    {%- capture u_alt -%}{{ t.alt_holding | replace: '%s', u.ref }}{%- endcapture -%}
+    {%- capture u_src -%}{{ u.ref }} &middot; {{ u.archive }}{%- endcapture -%}
+    {%- assign u_types_attr = u.types | join: ' ' -%}
+    {%- assign u_year = u.span | slice: 0, 4 -%}
+    {% include source-card.html id=u.slug href=u_page az=u_card date_key=u_year archive=u.archive types_attr=u_types_attr thumb=u.thumb alt=u_alt title=u_card original=u_orig source=u_src desc=u_title docs=u.count pages=u.pages date=u.span types=u.types %}
   {% endfor %}
 </div>
-
-<style>
-.source-title { margin: .5rem 0 0; color: var(--ink-soft); }
-.source-original { margin: .2rem 0 0; color: var(--ink-soft); }
-</style>

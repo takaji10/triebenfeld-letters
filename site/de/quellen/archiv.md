@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /de/quellen/archiv/
-title: Archivalien
+title: Handschriften
 lang: de
 alt_url: /sources/archive/
 ---

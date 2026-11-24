@@ -1,0 +1,51 @@
+{%- comment -%}
+  THE standard card of every kind of source (the editor, 2026-11-24; HOUSE_STYLE,
+  "The tiles' standard form"), used by the lists of manuscripts, newspapers,
+  literature and maps, so that the form cannot drift. In this order: the
+  title in the site's language (the stretched link), the original title in
+  italics (only where it differs), the source line, a short description, the
+  counts that apply, the date, and at the foot the document-type tags
+  (manuscripts only). Parameters, all read as include.<name>:
+    id, href, az, date_key       the card's anchor, link and sort keys
+    archive, types_attr          the sort bar's data-archive / data-types (manuscripts)
+    thumb, alt                   the thumbnail
+    ph_author, ph_title, ph_year the typographic placeholder (literature, no thumb)
+    title, original, source, desc  the lines
+    docs, pages, date            the facts (a count of 0 or none is not shown)
+    types                        the document-type slugs (manuscripts)
+    caveat                       true: the summary-only line
+    extra                        more markup at the card's end (a literature sub-item)
+{%- endcomment -%}
+<section class="source" id="{{ include.id }}" data-az="{{ include.az | escape }}" data-date="{{ include.date_key }}"{% if include.archive %} data-archive="{{ include.archive | escape }}"{% endif %}{% if include.types_attr %} data-types="{{ include.types_attr }}"{% endif %}>
+  {% include source-thumb.html thumb=include.thumb alt=include.alt ph_author=include.ph_author ph_title=include.ph_title ph_year=include.ph_year %}
+  <div class="source-body">
+    <h2><a class="source-link" href="{{ include.href | relative_url }}">{{ include.title }}</a></h2>
+    {%- if include.original and include.original != "" and include.original != include.title %}
+    <p class="source-original"><em>{{ include.original }}</em></p>
+    {%- endif %}
+    {%- if include.source and include.source != "" %}
+    <p class="source-archive">{{ include.source }}</p>
+    {%- endif %}
+    {%- if include.desc and include.desc != "" %}
+    <p class="source-title">{{ include.desc }}</p>
+    {%- endif %}
+    {%- if include.caveat %}
+    <p class="lit-caveat">{{ t.lit_summary_only }}</p>
+    {%- endif %}
+    <dl class="source-facts">
+      {%- if include.docs > 0 %}
+      <div><dt>{{ t.sources_documents }}</dt><dd>{{ include.docs }}</dd></div>
+      {%- endif %}
+      {%- if include.pages > 0 %}
+      <div><dt>{{ t.sources_pages }}</dt><dd>{{ include.pages }}</dd></div>
+      {%- endif %}
+      {%- if include.date and include.date != "" %}
+      <div><dt>{{ t.sources_span }}</dt><dd>{{ include.date }}</dd></div>
+      {%- endif %}
+    </dl>
+    {%- if include.types %}
+    {% include unit-types.html types=include.types %}
+    {%- endif %}
+    {{ include.extra }}
+  </div>
+</section>

@@ -76,6 +76,27 @@ def yaml_str(v):
     return json.dumps(v, ensure_ascii=False)
 
 
+MONTH_DATE = re.compile(r'\b\d{1,2}\.? [A-Za-zäöüÄÖÜ]+ \d{4}\b')
+PAGES = re.compile(r'\b(?:pp|S\.|p)\.? ?(\d+)(?:\s*[-\u2013]\s*(\d+))?\s*$')
+
+
+def page_count(issue):
+    """The pages the item takes in its issue, from the issue line's "p. 4" or
+    "pp. 720-725" (the card's Pages fact); 0 where the line gives none (a web
+    page, a clipping of no stated page)."""
+    m = PAGES.search(issue.strip())
+    if not m:
+        return 0
+    return int(m.group(2)) - int(m.group(1)) + 1 if m.group(2) else 1
+
+
+def card_date(issue, year):
+    """The card's Date: the issue's full date where its line has one, else
+    the year."""
+    m = MONTH_DATE.search(issue)
+    return m.group(0) if m else str(year)
+
+
 def main():
     items = []
     for slug in sorted(os.listdir(NEWS)):
@@ -107,7 +128,10 @@ def main():
             'cite', 'ref',
             'published', 'year', 'language', 'english_by', 'source',
             'image', 'translation', 'account_en', 'account_de')}
-        row |= {'brief_en': it.get('brief_en') or None,
+        row |= {'pages': page_count(it.get('issue_en', '')),
+                'date_en': card_date(it.get('issue_en', ''), it['year']),
+                'date_de': card_date(it.get('issue_de', ''), it['year']),
+                'brief_en': it.get('brief_en') or None,
                 'brief_de': it.get('brief_de') or None,
                 'thumb': thumb}
         listing.append(row | {'summary_only': not it.get('visible', True)})
