@@ -3,7 +3,7 @@
 The editor's request: turn the to-do list into a page on the site, linked from
 the footer, set up like a spot sheet so that they can give answers there, with
 links to the documents an item concerns, and a rule that the page is updated
-whenever the list changes. **Planned, nothing built.** The decisions marked
+whenever the list changes. **Built 2026-11-25** (the decisions in section 8 were taken at the recommendations; the NEEDS_CONFIRMATION questions, step 6, are not yet on the page; the stop-hook extension of section 6 is not made). The decisions marked
 "Editor" at the end are asked before the work begins.
 
 ## 1. What is there now

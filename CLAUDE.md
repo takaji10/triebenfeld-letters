@@ -8,8 +8,8 @@ files it points to.
 - `README.md`: what the edition is, the layout, how a holding is added.
 - `docs/README.md`: which docs are standing reference. `docs/NEEDS_CONFIRMATION.md`
   is the live list of open questions; keep it current when something is settled.
-  `docs/TODO.md` is the editor's to-do list (next steps, in order): tick or
-  remove an item when it is done.
+  `docs/TODO.md` is the editor's to-do list, **generated** (see "The to-do
+  list" below): never edit it by hand.
 - `docs/HOUSE_STYLE.md` governs everything written about the documents;
   `docs/EDITORIAL_RULES.md` the transcriptions, which are never "tidied".
   No cryptic statements: every sentence says who, what, and why it matters
@@ -61,6 +61,37 @@ memory folder is on their machine and no cloud session can read it. So:
 4. A lesson that is only committed is not yet in the other kind of session:
    it travels when the work is pushed. Say so if a session ends with
    unpushed lessons.
+
+## The to-do list (the editor's rule, 2026-11-25)
+
+**`reference/todo.yml` is the one source. The page `/todo/` (footer link,
+`noindex`, English only) and `docs/TODO.md` are built from it** by
+`pipeline/todo/build_todo.py`; `docs/TODO_PAGE_PLAN.md` has the design. The
+page is where the editor answers: buttons for the options, "Something else", a
+note, kept in their browser and handed over as `todo_answers_<date>.json`.
+
+1. **Adding, changing, completing or removing an item** = edit the YAML, run
+   `python3 pipeline/todo/build_todo.py`, commit the YAML, `site/_data/todo.yml`
+   and `docs/TODO.md` together, in the same sitting as the work. A session that
+   finishes something an item asked for closes the item (moves it to `done:`
+   with the date and how). A new open question or task from the editor's
+   message becomes an item; each item stands alone (who, what, why it matters:
+   HOUSE_STYLE "No cryptic statements"), names the documents it concerns as
+   `links:` (the build checks they resolve), and gives `options:` when it is a
+   question or a decision.
+2. **A check holds it**: `pipeline/verify_site.py` runs `build_todo.py --check`
+   (the Pages workflow stops on it): the page data and TODO.md must equal what
+   the YAML gives, ids unique, every link resolving, every question with options.
+3. **"Apply my to-do answers"**: when the editor hands over an export, run
+   `python3 pipeline/todo/import_answers.py <file>` (check: it lists the final
+   answers, the ones left open, ids that have gone, items that changed since),
+   then `--write`; then write each ruling where it belongs (the holding's
+   `rulings.yml` or `notes.md`, NEEDS_CONFIRMATION, the changelog), rebuild the
+   holding(s) it changes, and commit. The old list, with its closed items, is
+   `docs/archive/TODO_2026-11-25.md`.
+4. The open questions of NEEDS_CONFIRMATION are not yet items of the page (plan,
+   section 7, step 6): until they are, a question that lives only there stays
+   there and the item that points to it names its heading in `nc:`.
 
 ## "Access the dictionary hosts"
 

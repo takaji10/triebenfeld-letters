@@ -50,6 +50,7 @@ noindex: true
     <h3>{{ c.title | escape }} <span class="todo-kind todo-kind-{{ c.kind }}">{% case c.kind %}{% when 'question' %}question{% when 'decision' %}decision{% when 'task' %}your task{% when 'claude' %}Claude's{% else %}waiting{% endcase %}</span></h3>
     <p>{{ c.text | escape }}</p>
     {%- if c.note != "" %}<p class="todo-aside">Audit, 25 November 2026: {{ c.note | escape }}</p>{% endif %}
+    {%- if c.editor_note != "" %}<p class="todo-aside">Your last answer: {{ c.editor_note | escape }}</p>{% endif %}
     {%- if c.links.size > 0 %}
     <p class="todo-links">{% for l in c.links %}<a class="type-tag" href="{{ l.href | relative_url }}">{{ l.label | escape }}</a> {% endfor %}</p>
     {%- endif %}

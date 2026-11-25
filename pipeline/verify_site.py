@@ -967,6 +967,23 @@ def main():
                      '- run python3 pipeline/build/search_indexes.py, then rebuild the site (jekyll build)')
         print(f'  year range {_lo}-{_hi} agrees with the data')
 
+    # ---- the to-do list ---------------------------------------------------
+    # reference/todo.yml is the one source; the page data and docs/TODO.md are built from it
+    # (docs/TODO_PAGE_PLAN.md). A hand edit of either, an item left out of a rebuild, or a
+    # link that no longer resolves fails the build.
+    import subprocess
+    _r = subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                         'todo', 'build_todo.py'), '--check'], capture_output=True, text=True)
+    if _r.returncode != 0:
+        fail('to-do list: ' + ' | '.join(l.strip() for l in (_r.stdout + _r.stderr).splitlines() if l.strip()))
+    else:
+        print('  to-do list: page data and docs/TODO.md agree with reference/todo.yml')
+    _td = os.path.join(SITE, 'todo', 'index.html') if 'SITE' in globals() else ''
+    if _td and os.path.isfile(_td):
+        with io.open(_td, encoding='utf-8') as f:
+            if 'name="robots" content="noindex"' not in f.read():
+                fail('to-do list: the page /todo/ must carry noindex')
+
     # ---- summary ----------------------------------------------------------
     print()
     if failures:

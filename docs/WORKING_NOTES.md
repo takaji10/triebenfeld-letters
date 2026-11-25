@@ -5280,3 +5280,4 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
 - **Liquid trap:** `where_exp` cannot see a loop variable (`x.types contains ty.slug` is a syntax error in Liquid 4); count with a plain `for` loop.
 - **Looking at a built page:** the site's links are root-relative (`baseurl: ""`), so a `file://` screenshot has no CSS; serve `site/_site` with `python3 -m http.server` from that folder and open `http://localhost:<port>/...`.
 - **The search bar** is one component (`_includes/browse.html`, `.filters` in style.css); a new bar (Places, Glossary, the to-do page) uses the same classes (`f-main`, `f-bar`, `f-grid`), never its own look.
+- **Run order trap in the to-do build** (2026-11-25): `build_todo.py` overwrites `docs/TODO.md`. Archive an old `TODO.md` (git mv or `git show HEAD:docs/TODO.md >`) BEFORE the first run, or restore it from git afterwards.

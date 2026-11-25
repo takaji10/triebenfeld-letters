@@ -6541,3 +6541,8 @@ sources-icon.html`).
 - **The bar's layout, the same on every page** (`_includes/browse.html`, `.filters` in style.css): main row (search box, the page's own main filter, Order), one line under it (Advanced toggle left, count and Reset right), the Advanced fields in a grid of equal columns. On a list page the bar is as wide as the cards (90rem), elsewhere as the results (62rem); a phone gets one column.
 - **The year boxes' arrows** replaced by two small triangles of the site's drawing (the browser's spin buttons hidden), repeating when held; the selects' arrow a small chevron in the text colour, so both themes follow.
 - The Places bar and the Glossary's search box now use the same markup and look.
+
+## 2026-11-25 - The to-do page
+
+- The to-do list audited (docs/TODO_AUDIT_2026-11-25.md): 133 open boxes, 45 closed or moved, 88 open; the old list kept as docs/archive/TODO_2026-11-25.md.
+- **/todo/** (footer link, `noindex`, English only): the 88 open items as cards (23 decisions, 22 questions, 23 tasks, 11 for Claude, 9 waiting), grouped by holding or project, with links to the documents, people, places and works concerned, answer buttons, a note, filters, answers kept in the browser and exported as a file. One source, `reference/todo.yml`; `pipeline/todo/build_todo.py` builds the page data and docs/TODO.md; `pipeline/todo/import_answers.py` applies an export; `verify_site.py` checks the three agree. The rule is in CLAUDE.md, "The to-do list".

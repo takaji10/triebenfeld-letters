@@ -93,7 +93,7 @@ def build():
         h = hashlib.sha1((it['text'] + '|'.join(it.get('options') or [])).encode('utf-8')).hexdigest()[:8]
         card = {'id': i, 'title': it['title'], 'kind': it['kind'], 'text': it['text'].strip(),
                 'options': it.get('options') or [], 'links': links, 'nc': it.get('nc') or '',
-                'note': it.get('audit_note') or '', 'h': h}
+                'note': it.get('audit_note') or '', 'editor_note': it.get('editor_note') or '', 'h': h}
         g = it['group']
         if g not in groups:
             groups[g] = []; order.append(g)
