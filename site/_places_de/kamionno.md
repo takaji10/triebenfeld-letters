@@ -17,8 +17,8 @@ hits_docs_count: 58
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.56486" data-lon="15.958567" data-zoom="13" data-title="Kamionna" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.56486&amp;mlon=15.958567#map=15/52.56486/15.958567" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.56444" data-lon="15.96167" data-zoom="13" data-title="Kamionna" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.56444&amp;mlon=15.96167#map=15/52.56444/15.96167" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -16,6 +16,11 @@ hits_docs_count: 29
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.13301" data-lon="17.84485" data-zoom="13" data-title="Łukomia" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13301&amp;mlon=17.84485#map=15/52.13301/17.84485" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

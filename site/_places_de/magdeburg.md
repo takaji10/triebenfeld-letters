@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.1205" data-lon="11.6276" data-zoom="13" data-title="Magdeburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1205&amp;mlon=11.6276#map=15/52.1205/11.6276" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.13159" data-lon="11.63996" data-zoom="13" data-title="Magdeburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.13159&amp;mlon=11.63996#map=15/52.13159/11.63996" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

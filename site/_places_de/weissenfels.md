@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.1983" data-lon="11.9696" data-zoom="13" data-title="Weißenfels" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.1983&amp;mlon=11.9696#map=15/51.1983/11.9696" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.2" data-lon="11.96667" data-zoom="13" data-title="Weißenfels" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.2&amp;mlon=11.96667#map=15/51.2/11.96667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

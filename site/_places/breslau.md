@@ -17,8 +17,8 @@ hits_docs_count: 154
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.1079" data-lon="17.0385" data-zoom="13" data-title="Wrocław" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.1079&amp;mlon=17.0385#map=15/51.1079/17.0385" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.11" data-lon="17.0325" data-zoom="13" data-title="Wrocław" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.11&amp;mlon=17.0325#map=15/51.11/17.0325" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

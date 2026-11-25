@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.6751" data-lon="17.9253" data-zoom="13" data-title="Opole" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.6751&amp;mlon=17.9253#map=15/50.6751/17.9253" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.66667" data-lon="17.92417" data-zoom="13" data-title="Opole" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.66667&amp;mlon=17.92417#map=15/50.66667/17.92417" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

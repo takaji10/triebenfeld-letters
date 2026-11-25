@@ -16,6 +16,11 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="50.28417" data-lon="18.24028" data-zoom="13" data-title="Birawa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.28417&amp;mlon=18.24028#map=15/50.28417/18.24028" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

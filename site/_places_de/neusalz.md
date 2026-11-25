@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.8044" data-lon="15.7112" data-zoom="13" data-title="Nowa Sól" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.8044&amp;mlon=15.7112#map=15/51.8044/15.7112" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.80333" data-lon="15.71694" data-zoom="13" data-title="Nowa Sól" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.80333&amp;mlon=15.71694#map=15/51.80333/15.71694" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.952945" data-lon="15.809514" data-zoom="13" data-title="Bojadła" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.952945&amp;mlon=15.809514#map=15/51.952945/15.809514" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.95" data-lon="15.81667" data-zoom="13" data-title="Bojadła" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.95&amp;mlon=15.81667#map=15/51.95/15.81667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

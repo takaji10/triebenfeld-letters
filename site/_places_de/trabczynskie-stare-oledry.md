@@ -16,6 +16,11 @@ hits_docs_count: 15
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.10333" data-lon="17.91139" data-zoom="13" data-title="Trąbczyńskie Stare Olędry" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.10333&amp;mlon=17.91139#map=15/52.10333/17.91139" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 {% raw %}
 <div class="place-desc" lang="en" markdown="1">
 

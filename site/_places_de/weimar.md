@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.9795" data-lon="11.3285" data-zoom="13" data-title="Weimar" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.9795&amp;mlon=11.3285#map=15/50.9795/11.3285" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.98111" data-lon="11.32944" data-zoom="13" data-title="Weimar" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.98111&amp;mlon=11.32944#map=15/50.98111/11.32944" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

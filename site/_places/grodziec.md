@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.03845" data-lon="18.060046" data-zoom="13" data-title="Grodziec" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.03845&amp;mlon=18.060046#map=15/52.03845/18.060046" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.03833" data-lon="18.05972" data-zoom="13" data-title="Grodziec" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.03833&amp;mlon=18.05972#map=15/52.03833/18.05972" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

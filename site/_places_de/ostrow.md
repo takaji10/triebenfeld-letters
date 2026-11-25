@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.145195" data-lon="18.820967" data-zoom="13" data-title="Ostrów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.145195&amp;mlon=18.820967#map=15/52.145195/18.820967" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.1452" data-lon="18.82097" data-zoom="13" data-title="Ostrów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1452&amp;mlon=18.82097#map=15/52.1452/18.82097" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

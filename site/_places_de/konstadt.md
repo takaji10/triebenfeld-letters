@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.0639" data-lon="18.0533" data-zoom="13" data-title="Wołczyn" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.0639&amp;mlon=18.0533#map=15/51.0639/18.0533" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.01833" data-lon="18.05694" data-zoom="13" data-title="Wołczyn" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.01833&amp;mlon=18.05694#map=15/51.01833/18.05694" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.59" data-lon="16.8115" data-zoom="13" data-title="Ząbkowice Śląskie" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.59&amp;mlon=16.8115#map=15/50.59/16.8115" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.58969" data-lon="16.81239" data-zoom="13" data-title="Ząbkowice Śląskie" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.58969&amp;mlon=16.81239#map=15/50.58969/16.81239" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 12
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.4438" data-lon="15.5792" data-zoom="13" data-title="Międzyrzecz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.4438&amp;mlon=15.5792#map=15/52.4438/15.5792" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.44722" data-lon="15.57833" data-zoom="13" data-title="Międzyrzecz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.44722&amp;mlon=15.57833#map=15/52.44722/15.57833" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

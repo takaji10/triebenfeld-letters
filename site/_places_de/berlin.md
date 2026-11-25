@@ -17,8 +17,8 @@ hits_docs_count: 226
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.52" data-lon="13.405" data-zoom="13" data-title="Berlin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.52&amp;mlon=13.405#map=15/52.52/13.405" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.51667" data-lon="13.38333" data-zoom="13" data-title="Berlin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.51667&amp;mlon=13.38333#map=15/52.51667/13.38333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

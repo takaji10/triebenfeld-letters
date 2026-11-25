@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="45.1885" data-lon="5.7245" data-zoom="13" data-title="Grenoble" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.1885&amp;mlon=5.7245#map=15/45.1885/5.7245" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="45.18694" data-lon="5.72639" data-zoom="13" data-title="Grenoble" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.18694&amp;mlon=5.72639#map=15/45.18694/5.72639" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="53.3672" data-lon="7.205" data-zoom="13" data-title="Emden" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.3672&amp;mlon=7.205#map=15/53.3672/7.205" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="53.36694" data-lon="7.20611" data-zoom="13" data-title="Emden" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.36694&amp;mlon=7.20611#map=15/53.36694/7.20611" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

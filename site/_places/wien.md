@@ -17,8 +17,8 @@ hits_docs_count: 76
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="48.2082" data-lon="16.3738" data-zoom="13" data-title="Wien" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.2082&amp;mlon=16.3738#map=15/48.2082/16.3738" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="48.20833" data-lon="16.3725" data-zoom="13" data-title="Wien" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.20833&amp;mlon=16.3725#map=15/48.20833/16.3725" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

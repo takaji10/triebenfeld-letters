@@ -16,6 +16,11 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.33333" data-lon="17.01667" data-zoom="13" data-title="Jaryszki" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.33333&amp;mlon=17.01667#map=15/52.33333/17.01667" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

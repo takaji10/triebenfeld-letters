@@ -17,8 +17,8 @@ hits_docs_count: 30
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.901356" data-lon="18.013737" data-zoom="13" data-title="Blizanów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.901356&amp;mlon=18.013737#map=15/51.901356/18.013737" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.9" data-lon="18.01667" data-zoom="13" data-title="Blizanów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.9&amp;mlon=18.01667#map=15/51.9/18.01667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

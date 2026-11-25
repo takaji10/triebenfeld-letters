@@ -17,8 +17,8 @@ hits_docs_count: 19
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="59.9311" data-lon="30.3609" data-zoom="13" data-title="St Petersburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=59.9311&amp;mlon=30.3609#map=15/59.9311/30.3609" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="59.95" data-lon="30.31667" data-zoom="13" data-title="St Petersburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=59.95&amp;mlon=30.31667#map=15/59.95/30.31667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

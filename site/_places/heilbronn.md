@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.1403" data-lon="9.22" data-zoom="13" data-title="Heilbronn" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.1403&amp;mlon=9.22#map=15/49.1403/9.22" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.14043" data-lon="9.21795" data-zoom="13" data-title="Heilbronn" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.14043&amp;mlon=9.21795#map=15/49.14043/9.21795" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

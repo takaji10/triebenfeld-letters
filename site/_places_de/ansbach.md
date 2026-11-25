@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.3047" data-lon="10.5719" data-zoom="13" data-title="Ansbach" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.3047&amp;mlon=10.5719#map=15/49.3047/10.5719" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.3" data-lon="10.58333" data-zoom="13" data-title="Ansbach" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.3&amp;mlon=10.58333#map=15/49.3/10.58333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

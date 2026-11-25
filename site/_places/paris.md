@@ -17,8 +17,8 @@ hits_docs_count: 23
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="48.8566" data-lon="2.3522" data-zoom="13" data-title="Paris" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.8566&amp;mlon=2.3522#map=15/48.8566/2.3522" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="48.85667" data-lon="2.35222" data-zoom="13" data-title="Paris" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.85667&amp;mlon=2.35222#map=15/48.85667/2.35222" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

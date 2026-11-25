@@ -17,8 +17,8 @@ hits_docs_count: 9
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.473981" data-lon="15.654761" data-zoom="13" data-title="Kuligowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.473981&amp;mlon=15.654761#map=15/52.473981/15.654761" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.46667" data-lon="15.65" data-zoom="13" data-title="Kuligowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.46667&amp;mlon=15.65#map=15/52.46667/15.65" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

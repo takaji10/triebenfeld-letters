@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.3392" data-lon="17.7078" data-zoom="13" data-title="Syców" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.3392&amp;mlon=17.7078#map=15/51.3392/17.7078" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.31" data-lon="17.72361" data-zoom="13" data-title="Syców" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.31&amp;mlon=17.72361#map=15/51.31/17.72361" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

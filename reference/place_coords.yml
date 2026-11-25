@@ -1,335 +1,441 @@
+# Coordinates of the places that have no gazetteer entry (the gazetteer's
+# own `location:` wins). Keyed by the register's slug. Sources: Wikidata
+# (`wikidata:`, fetched 2026-11-24, every match checked by Claude against
+# the place's German name, kind and the documents' context), else
+# OpenStreetMap's search or a hand placing of 2026-10-27 (`display:`).
+# Places with no sure position are listed with a reason in
+# reference/place_coords_unplaced.yml. Checked by pipeline/places/coords.py.
 altenburg:
-  lat: 50.9909
-  lon: 12.4402
-  display: mapped by hand, 2026-10-27
+  lat: 50.985
+  lon: 12.43333
+  display: 'Wikidata Q15976: Altenburg, town in Thuringia, Germany'
+  wikidata: Q15976
 ansbach:
-  lat: 49.3047
-  lon: 10.5719
-  display: mapped by hand, 2026-10-27
+  lat: 49.3
+  lon: 10.58333
+  display: 'Wikidata Q14859: Ansbach, town in Bavaria, Germany'
+  wikidata: Q14859
 antibes:
-  lat: 43.5805
-  lon: 7.1238
-  display: mapped by hand, 2026-10-27
+  lat: 43.58
+  lon: 7.12306
+  display: 'Wikidata Q126898: Antibes, commune in Alpes-Maritimes, France'
+  wikidata: Q126898
 batkowo:
   lat: 52.768425
   lon: 18.207174
   display: Batkowo, gmina Inowrocław, powiat inowrocławski, województwo kujawsko-pomorskie, 88-110, Polska
 bayreuth:
-  lat: 49.9456
-  lon: 11.571
-  display: mapped by hand, 2026-10-27
+  lat: 49.94806
+  lon: 11.57833
+  display: 'Wikidata Q3923: Bayreuth, medium-sized town in northern Bavaria, Germany'
+  wikidata: Q3923
 berlin:
-  lat: 52.52
-  lon: 13.405
-  display: mapped by hand, 2026-10-27
+  lat: 52.51667
+  lon: 13.38333
+  display: 'Wikidata Q64: Berlin, federated state, capital and largest city of Germany'
+  wikidata: Q64
 betsche:
-  lat: 52.479237
-  lon: 15.778339
-  display: Pszczew, gmina Pszczew, powiat międzyrzecki, województwo lubuskie, 66-330, Polska
+  lat: 52.47806
+  lon: 15.78111
+  display: 'Wikidata Q1003304: Pszczew, village of Poland'
+  wikidata: Q1003304
 bialobrzeg:
-  lat: 52.18025
-  lon: 17.78682
-  display: Białobrzeg, gmina Pyzdry, powiat wrzesiński, województwo wielkopolskie, 62-311, Polska
+  lat: 52.1833
+  lon: 17.7833
+  display: 'Wikidata Q4902827: Białobrzeg, village in Greater Poland, Poland'
+  wikidata: Q4902827
+birawa:
+  lat: 50.28417
+  lon: 18.24028
+  display: 'Wikidata Q864978: Bierawa, village of Poland'
+  wikidata: Q864978
 blizanow:
-  lat: 51.901356
-  lon: 18.013737
-  display: Blizanów, gmina Blizanów, powiat kaliski, województwo wielkopolskie, 62-814, Polska
+  lat: 51.9
+  lon: 18.01667
+  display: 'Wikidata Q884545: Blizanów, village in powiat kaliski, Greater Poland Voivodeship, Poland'
+  wikidata: Q884545
 bologna:
   lat: 44.4942
   lon: 11.3464
   display: mapped by hand, 2026-10-27
 boronow:
-  lat: 50.673863
-  lon: 18.903831
-  display: Boronów, gmina Boronów, powiat lubliniecki, województwo śląskie, 42-283, Polska
+  lat: 50.68333
+  lon: 18.88333
+  display: 'Wikidata Q894061: Boronów, village in Silesian Voivodeship, Poland'
+  wikidata: Q894061
 boyadel:
-  lat: 51.952945
-  lon: 15.809514
-  display: Bojadła, gmina Bojadła, powiat zielonogórski, województwo lubuskie, 66-130, Polska
+  lat: 51.95
+  lon: 15.81667
+  display: 'Wikidata Q2909133: Bojadła, village in Lubusz Voivodeship, Poland'
+  wikidata: Q2909133
 breslau:
-  lat: 51.1079
-  lon: 17.0385
-  display: mapped by hand, 2026-10-27
+  lat: 51.11
+  lon: 17.0325
+  display: 'Wikidata Q1799: Wrocław, city in the Lower Silesian Voivodeship, southwestern Poland, and historical capital of Silesia'
+  wikidata: Q1799
 brieg:
-  lat: 50.8585
-  lon: 17.4695
-  display: mapped by hand, 2026-10-27
+  lat: 50.86667
+  lon: 17.46667
+  display: 'Wikidata Q214640: Brzeg, city in Opole Voivodeship in southwestern Poland'
+  wikidata: Q214640
 bruenn:
-  lat: 49.1951
-  lon: 16.6068
-  display: mapped by hand, 2026-10-27
+  lat: 49.19528
+  lon: 16.60833
+  display: 'Wikidata Q14960: Brno, city in the Czech Republic'
+  wikidata: Q14960
 brzesc:
   lat: 52.5592
   lon: 18.423507
   display: Brześć, gmina Kruszwica, powiat inowrocławski, województwo kujawsko-pomorskie, 88-121, Polska
 brzesc-kujawski:
-  lat: 52.5869
-  lon: 18.8948
-  display: mapped by hand, 2026-10-27
+  lat: 52.605
+  lon: 18.89806
+  display: 'Wikidata Q985649: Brześć Kujawski, city of Poland'
+  wikidata: Q985649
 brzezno:
   lat: 52.49104
   lon: 16.62257
   display: Brzezno, gmina Kaźmierz, powiat szamotulski, województwo wielkopolskie, 64-530, Polska
 charlottenburg:
-  lat: 52.5055
-  lon: 13.2985
-  display: mapped by hand, 2026-10-27
+  lat: 52.51667
+  lon: 13.3
+  display: 'Wikidata Q162049: Charlottenburg, locality of Berlin, Germany'
+  wikidata: Q162049
 cieszowa:
-  lat: 50.671218
-  lon: 18.836228
-  display: Cieszowa, gmina Koszęcin, powiat lubliniecki, województwo śląskie, 42-286, Polska
+  lat: 50.66667
+  lon: 18.83333
+  display: 'Wikidata Q2397785: Cieszowa, village in Silesian, Poland'
+  wikidata: Q2397785
 coblenz:
-  lat: 50.3569
-  lon: 7.5886
-  display: mapped by hand, 2026-10-27
+  lat: 50.35972
+  lon: 7.59778
+  display: 'Wikidata Q3104: Koblenz, German city on the banks of the Rhine and of the Moselle'
+  wikidata: Q3104
 cosel:
-  lat: 52.575157
-  lon: 16.399176
-  display: Koźle, gmina Szamotuły, powiat szamotulski, województwo wielkopolskie, 64-551, Polska
+  lat: 50.33528
+  lon: 18.14583
+  display: 'Wikidata Q364601: Koźle, human settlement'
+  wikidata: Q364601
 crossen:
-  lat: 52.0566
-  lon: 15.2752
-  display: mapped by hand, 2026-10-27
+  lat: 52.05417
+  lon: 15.1
+  display: 'Wikidata Q148947: Krosno Odrzańskie, city of Poland'
+  wikidata: Q148947
 czestochowa:
-  lat: 50.8118
-  lon: 19.1203
-  display: mapped by hand, 2026-10-27
+  lat: 50.80964
+  lon: 19.12217
+  display: 'Wikidata Q103217: Częstochowa, city in the Silesian Voivodeship, Poland'
+  wikidata: Q103217
 dolsk:
-  lat: 51.9964
-  lon: 16.8434
-  display: mapped by hand, 2026-10-27
+  lat: 51.98333
+  lon: 17.06667
+  display: 'Wikidata Q990785: Dolsk, city of Poland'
+  wikidata: Q990785
 dormowo:
-  lat: 52.529181
-  lon: 15.875319
-  display: Dormowo, gmina Międzychód, powiat międzychodzki, województwo wielkopolskie, 64-426, Polska
+  lat: 52.53333
+  lon: 15.88333
+  display: 'Wikidata Q5298092: Dormowo, village in Greater Poland, Poland'
+  wikidata: Q5298092
 dresden:
-  lat: 52.606128
-  lon: 14.956636
-  display: Krępiny, gmina Krzeszyce, powiat sulęciński, województwo lubuskie, 66-435, Polska
+  lat: 51.04933
+  lon: 13.73814
+  display: 'Wikidata Q1731: Dresden, capital city of the Free State of Saxony in Germany'
+  wikidata: Q1731
 embden:
-  lat: 53.3672
-  lon: 7.205
-  display: mapped by hand, 2026-10-27
+  lat: 53.36694
+  lon: 7.20611
+  display: 'Wikidata Q4174: Emden, biggest city in East Friesland, Lower Saxony, Germany'
+  wikidata: Q4174
 erfurt:
-  lat: 50.9848
-  lon: 11.0299
-  display: mapped by hand, 2026-10-27
+  lat: 50.97806
+  lon: 11.02889
+  display: 'Wikidata Q1729: Erfurt, capital city of the German federal state of Thuringia'
+  wikidata: Q1729
 frankenstein:
-  lat: 50.59
-  lon: 16.8115
-  display: mapped by hand, 2026-10-27
+  lat: 50.58969
+  lon: 16.81239
+  display: 'Wikidata Q246693: Ząbkowice Śląskie, city of Poland'
+  wikidata: Q246693
 frankfurt-am-main:
-  lat: 50.1109
-  lon: 8.6821
-  display: mapped by hand, 2026-10-27
+  lat: 50.11056
+  lon: 8.68222
+  display: 'Wikidata Q1794: Frankfurt, most populated city of Hesse, Germany'
+  wikidata: Q1794
 frankfurt-an-der-oder:
-  lat: 52.3412
-  lon: 14.5506
-  display: mapped by hand, 2026-10-27
+  lat: 52.34208
+  lon: 14.55167
+  display: 'Wikidata Q4024: Frankfurt (Oder), city in Brandenburg, Germany'
+  wikidata: Q4024
 fuerth:
-  lat: 49.4783
-  lon: 10.9903
-  display: mapped by hand, 2026-10-27
+  lat: 49.47833
+  lon: 10.99028
+  display: 'Wikidata Q3075: Fürth, town in Bavaria, Germany'
+  wikidata: Q3075
 glatz:
-  lat: 50.4386
-  lon: 16.6569
-  display: mapped by hand, 2026-10-27
+  lat: 50.43861
+  lon: 16.655
+  display: 'Wikidata Q284604: Kłodzko, city and urban gmina of Poland'
+  wikidata: Q284604
 glazewo:
   lat: 52.533122
   lon: 15.918154
   display: Głażewo, gmina Międzychód, powiat międzychodzki, województwo wielkopolskie, 64-426, Polska
 glogau:
-  lat: 51.6691
-  lon: 16.0846
-  display: mapped by hand, 2026-10-27
+  lat: 51.65889
+  lon: 16.08028
+  display: 'Wikidata Q66013: Głogów, city and urban gmina in the Lower Silesian Voivodeship, Poland'
+  wikidata: Q66013
 gola:
   lat: 52.16497
   lon: 16.22067
   display: Gola, gmina Rakoniewice, powiat grodziski, województwo wielkopolskie, 62-067, Polska
 graz:
-  lat: 47.0707
-  lon: 15.4395
-  display: mapped by hand, 2026-10-27
+  lat: 47.07083
+  lon: 15.43861
+  display: 'Wikidata Q13298: Graz, capital of Styria, Austria'
+  wikidata: Q13298
 grenoble:
-  lat: 45.1885
-  lon: 5.7245
-  display: mapped by hand, 2026-10-27
+  lat: 45.18694
+  lon: 5.72639
+  display: 'Wikidata Q1289: Grenoble, commune in Isère, France'
+  wikidata: Q1289
 grodziec:
-  lat: 52.03845
-  lon: 18.060046
-  display: Grodziec, gmina Grodziec, powiat koniński, województwo wielkopolskie, 62-580, Polska
+  lat: 52.03833
+  lon: 18.05972
+  display: 'Wikidata Q1010345: Grodziec, village in powiat koniński, Greater Poland Voivodeship, Poland'
+  wikidata: Q1010345
 grueneberg:
-  lat: 51.9356
-  lon: 15.5062
-  display: mapped by hand, 2026-10-27
+  lat: 51.93972
+  lon: 15.505
+  display: 'Wikidata Q104720: Zielona Góra, City with powiat rights of Poland'
+  wikidata: Q104720
 havelberg:
-  lat: 52.8272
-  lon: 12.2262
-  display: mapped by hand, 2026-10-27
+  lat: 52.825
+  lon: 12.07444
+  display: 'Wikidata Q504040: Havelberg, municipality of Germany'
+  wikidata: Q504040
 heidelberg:
-  lat: 49.4875
-  lon: 8.466
-  display: mapped by hand, 2026-10-27
+  lat: 49.40936
+  lon: 8.69472
+  display: 'Wikidata Q2966: Heidelberg, large city in Karlsruhe Government Region, Baden-Württemberg, Germany'
+  wikidata: Q2966
 heilbronn:
-  lat: 49.1403
-  lon: 9.22
-  display: mapped by hand, 2026-10-27
+  lat: 49.14043
+  lon: 9.21795
+  display: 'Wikidata Q715: Heilbronn, German city in the state of Baden-Württemberg'
+  wikidata: Q715
 ingelfingen:
-  lat: 49.2952
-  lon: 9.556
-  display: mapped by hand, 2026-10-27
+  lat: 49.3
+  lon: 9.65
+  display: 'Wikidata Q509666: Ingelfingen, town in Germany'
+  wikidata: Q509666
+jaryszki:
+  lat: 52.33333
+  lon: 17.01667
+  display: 'Wikidata Q11721097: Jaryszki, village in Greater Poland, Poland'
+  wikidata: Q11721097
 jena:
-  lat: 50.9272
-  lon: 11.5892
-  display: mapped by hand, 2026-10-27
+  lat: 50.92722
+  lon: 11.58639
+  display: 'Wikidata Q3150: Jena, city in Thuringia, Germany'
+  wikidata: Q3150
 kalisz:
   lat: 51.7626
   lon: 18.0886
   display: mapped by hand, 2026-10-27
 kamionno:
-  lat: 52.56486
-  lon: 15.958567
-  display: Kamionna, gmina Międzychód, powiat międzychodzki, województwo wielkopolskie, 64-421, Polska
+  lat: 52.56444
+  lon: 15.96167
+  display: 'Wikidata Q11734626: Kamionna, Greater Poland Voivodeship, village in Greater Poland, Poland'
+  wikidata: Q11734626
 karge:
-  lat: 52.087
-  lon: 15.9893
-  display: mapped by hand, 2026-10-27
+  lat: 52.07139
+  lon: 15.86139
+  display: 'Wikidata Q280407: Kargowa, city of Poland'
+  wikidata: Q280407
 karlsruhe:
-  lat: 49.0069
-  lon: 8.4037
-  display: mapped by hand, 2026-10-27
+  lat: 49.01667
+  lon: 8.4
+  display: 'Wikidata Q1040: Karlsruhe, city in Baden-Württemberg, Germany'
+  wikidata: Q1040
 kassel:
-  lat: 51.3127
-  lon: 9.4797
-  display: mapped by hand, 2026-10-27
+  lat: 51.31578
+  lon: 9.49792
+  display: 'Wikidata Q2865: Kassel, city in Hesse, Germany'
+  wikidata: Q2865
 kempen:
-  lat: 51.275
-  lon: 17.9877
-  display: mapped by hand, 2026-10-27
+  lat: 51.2784
+  lon: 17.98908
+  display: 'Wikidata Q640493: Kępno, city of Poland'
+  wikidata: Q640493
 kiew:
-  lat: 50.4501
-  lon: 30.5234
-  display: mapped by hand, 2026-10-27
+  lat: 50.45
+  lon: 30.52361
+  display: 'Wikidata Q1899: Kyiv, capital and largest city of Ukraine'
+  wikidata: Q1899
 koenigsberg:
-  lat: 54.7104
-  lon: 20.4522
-  display: mapped by hand, 2026-10-27
+  lat: 54.71147
+  lon: 20.50931
+  display: 'Wikidata Q4120832: Königsberg, historic capital of East Prussia, since 1945 Russian territory'
+  wikidata: Q4120832
 kolno:
-  lat: 52.59492
-  lon: 15.95688
-  display: Kolno, gmina Międzychód, powiat międzychodzki, województwo wielkopolskie, 64-400, Polska
+  lat: 52.6
+  lon: 15.9667
+  display: 'Wikidata Q6427443: Kolno, village in Gmina Miedzychod, Poland'
+  wikidata: Q6427443
 konin:
-  lat: 52.1242
-  lon: 18.2546
-  display: mapped by hand, 2026-10-27
+  lat: 52.2275
+  lon: 18.26139
+  display: 'Wikidata Q52845: Konin, city with powiat rights in the Greater Poland Voivodeship in central Poland'
+  wikidata: Q52845
 konstadt:
-  lat: 51.0639
-  lon: 18.0533
-  display: mapped by hand, 2026-10-27
+  lat: 51.01833
+  lon: 18.05694
+  display: 'Wikidata Q1005384: Wołczyn, city of Poland'
+  wikidata: Q1005384
 koschentin:
-  lat: 50.635918
-  lon: 18.841335
-  display: Koszęcin, gmina Koszęcin, powiat lubliniecki, województwo śląskie, 42-286, Polska
+  lat: 50.63411
+  lon: 18.8413
+  display: 'Wikidata Q1025179: Koszęcin, village in Lubliniec County, Silesian Voivodeship, Poland'
+  wikidata: Q1025179
 krotoszyn:
-  lat: 51.7008
-  lon: 17.7186
-  display: mapped by hand, 2026-10-27
+  lat: 51.69702
+  lon: 17.43569
+  display: 'Wikidata Q984538: Krotoszyn, city of Poland'
+  wikidata: Q984538
 kuligowo:
-  lat: 52.473981
-  lon: 15.654761
-  display: Kuligowo, gmina Międzyrzecz, powiat międzyrzecki, województwo lubuskie, 66-300, Polska
+  lat: 52.46667
+  lon: 15.65
+  display: 'Wikidata Q1994393: Kuligowo, village in Lubusz, Poland'
+  wikidata: Q1994393
 lad:
-  lat: 52.207314
-  lon: 17.893383
-  display: Ląd, gmina Lądek, powiat słupecki, województwo wielkopolskie, 62-405, Polska
+  lat: 52.2
+  lon: 17.9
+  display: 'Wikidata Q2645706: Ląd, Greater Poland Voivodeship, village in Greater Poland, Poland'
+  wikidata: Q2645706
 ladek:
-  lat: 52.20958
-  lon: 17.92988
-  display: Lądek, gmina Lądek, powiat słupecki, województwo wielkopolskie, 62-406, Polska
+  lat: 52.20944
+  lon: 17.93
+  display: 'Wikidata Q985209: Lądek, village in Greater Poland Voivodeship, Poland'
+  wikidata: Q985209
 langenburg:
-  lat: 49.2397
-  lon: 9.6384
-  display: mapped by hand, 2026-10-27
+  lat: 49.25333
+  lon: 9.84861
+  display: 'Wikidata Q82382: Langenburg, municipality in Germany'
+  wikidata: Q82382
 lenschitz:
-  lat: 52.0589
-  lon: 18.936
-  display: mapped by hand, 2026-10-27
+  lat: 52.05833
+  lon: 19.2
+  display: 'Wikidata Q325727: Łęczyca, city and urban gmina of Poland'
+  wikidata: Q325727
 leobschuetz:
-  lat: 50.1996
-  lon: 17.8327
-  display: mapped by hand, 2026-10-27
+  lat: 50.2
+  lon: 17.83333
+  display: 'Wikidata Q717947: Głubczyce, city of Poland'
+  wikidata: Q717947
 liegnitz:
-  lat: 51.2104
+  lat: 51.21006
   lon: 16.1619
-  display: mapped by hand, 2026-10-27
+  display: 'Wikidata Q106274: Legnica, city with powiat rights of Poland'
+  wikidata: Q106274
 lille:
   lat: 50.6292
   lon: 3.0573
   display: mapped by hand, 2026-10-27
+lohsen:
+  lat: 50.78333
+  lon: 17.56667
+  display: 'Wikidata Q345442: Łosiów, village of Poland'
+  wikidata: Q345442
 lowyn:
-  lat: 52.500548
-  lon: 15.908713
-  display: Łowyń, gmina Międzychód, powiat międzychodzki, województwo wielkopolskie, 64-426, Polska
+  lat: 52.5
+  lon: 15.91667
+  display: 'Wikidata Q2307591: Łowyń, village in Greater Poland, Poland'
+  wikidata: Q2307591
 luebliniz:
-  lat: 50.6686
-  lon: 18.6692
-  display: mapped by hand, 2026-10-27
+  lat: 50.68333
+  lon: 18.68333
+  display: 'Wikidata Q985238: Lubliniec, city and urban gmina of Poland'
+  wikidata: Q985238
 lyon:
-  lat: 45.764
-  lon: 4.8357
-  display: mapped by hand, 2026-10-27
+  lat: 45.7675
+  lon: 4.835
+  display: 'Wikidata Q456: Lyon, city of France'
+  wikidata: Q456
 magdeburg:
-  lat: 52.1205
-  lon: 11.6276
-  display: mapped by hand, 2026-10-27
+  lat: 52.13159
+  lon: 11.63996
+  display: 'Wikidata Q1733: Magdeburg, capital city of the German state of Saxony-Anhalt'
+  wikidata: Q1733
 melun:
-  lat: 48.5406
-  lon: 2.6383
-  display: mapped by hand, 2026-10-27
+  lat: 48.53972
+  lon: 2.65917
+  display: 'Wikidata Q41139: Melun, commune in Seine-et-Marne, France'
+  wikidata: Q41139
 memel:
-  lat: 55.7033
-  lon: 21.1442
-  display: mapped by hand, 2026-10-27
+  lat: 55.7125
+  lon: 21.135
+  display: 'Wikidata Q776965: Klaipėda, port city in Lithuania'
+  wikidata: Q776965
 miedzibor:
-  lat: 52.033134
-  lon: 17.18413
-  display: Międzybórz, gmina Książ Wielkopolski, powiat śremski, województwo wielkopolskie, 63-130, Polska
+  lat: 51.39917
+  lon: 17.66556
+  display: 'Wikidata Q1003276: Międzybórz, city of Poland'
+  wikidata: Q1003276
 miedzyrzecz:
-  lat: 52.4438
-  lon: 15.5792
-  display: mapped by hand, 2026-10-27
+  lat: 52.44722
+  lon: 15.57833
+  display: 'Wikidata Q639241: Międzyrzecz, city of Poland'
+  wikidata: Q639241
+mollna:
+  lat: 50.77806
+  lon: 18.62
+  display: 'Wikidata Q11784880: Molna, village in Silesian, Poland'
+  wikidata: Q11784880
 myslowice:
-  lat: 50.1575
-  lon: 19.0377
-  display: mapped by hand, 2026-10-27
+  lat: 50.21194
+  lon: 19.14778
+  display: 'Wikidata Q161595: Myslowice, Silesian Voivodeship, city with powiat rights of Poland'
+  wikidata: Q161595
 naumburg:
   lat: 51.1562
   lon: 11.8077
   display: mapped by hand, 2026-10-27
 neisse:
-  lat: 50.4739
-  lon: 17.3348
-  display: mapped by hand, 2026-10-27
+  lat: 50.47139
+  lon: 17.33389
+  display: 'Wikidata Q815721: Nysa, city of Poland'
+  wikidata: Q815721
 neuchatel:
-  lat: 46.9919
-  lon: 6.929
-  display: mapped by hand, 2026-10-27
+  lat: 46.99028
+  lon: 6.93056
+  display: 'Wikidata Q69345: Neuchâtel, capital of the canton of Neuchâtel, Switzerland'
+  wikidata: Q69345
 neuenstein:
-  lat: 49.2078
-  lon: 9.6231
-  display: mapped by hand, 2026-10-27
+  lat: 49.2
+  lon: 9.58333
+  display: 'Wikidata Q550817: Neuenstein, municipality in Germany'
+  wikidata: Q550817
 neusalz:
-  lat: 51.8044
-  lon: 15.7112
-  display: mapped by hand, 2026-10-27
+  lat: 51.80333
+  lon: 15.71694
+  display: 'Wikidata Q157190: Nowa Sól, town on the Oder River in Lubusz Voivodeship, western Poland'
+  wikidata: Q157190
+neusatz:
+  lat: 45.26444
+  lon: 19.83167
+  display: 'Wikidata Q55630: Novi Sad, city in Serbia, capital of Vojvodina'
+  wikidata: Q55630
 oehringen:
-  lat: 49.2017
-  lon: 9.506
-  display: mapped by hand, 2026-10-27
+  lat: 49.2
+  lon: 9.5
+  display: 'Wikidata Q294783: Öhringen, city in Germany'
+  wikidata: Q294783
 ofen:
-  lat: 47.4778
-  lon: 19.0462
-  display: mapped by hand, 2026-10-27
+  lat: 47.46667
+  lon: 19.05
+  display: 'Wikidata Q193478: Buda, western part of Budapest, Hungary, former independent city'
+  wikidata: Q193478
 olszyna:
   lat: 51.409464
   lon: 17.911342
@@ -339,9 +445,15 @@ oporowo:
   lon: 16.849059
   display: Oporowo, gmina Krzemieniewo, powiat leszczyński, województwo wielkopolskie, 64-120, Polska
 oppeln:
-  lat: 50.6751
-  lon: 17.9253
-  display: mapped by hand, 2026-10-27
+  lat: 50.66667
+  lon: 17.92417
+  display: 'Wikidata Q92212: Opole, city with powiat rights of Poland'
+  wikidata: Q92212
+oppurg:
+  lat: 50.71081
+  lon: 11.653
+  display: 'Wikidata Q660085: Oppurg, municipality of Germany'
+  wikidata: Q660085
 orzeszkowo:
   lat: 52.55218
   lon: 16.10023
@@ -351,25 +463,30 @@ ostrow:
   lon: 18.820967
   display: Ostrów, gmina Olszówka, powiat kolski, województwo wielkopolskie, 62-641, Polska
 paris:
-  lat: 48.8566
-  lon: 2.3522
-  display: mapped by hand, 2026-10-27
+  lat: 48.85667
+  lon: 2.35222
+  display: 'Wikidata Q90: Paris, capital and most populous city in France'
+  wikidata: Q90
 posen:
-  lat: 52.4064
-  lon: 16.9252
-  display: mapped by hand, 2026-10-27
+  lat: 52.40833
+  lon: 16.93361
+  display: 'Wikidata Q268: Poznań, capital of the Greater Poland Voivodeship in west-central Poland'
+  wikidata: Q268
 potsdam:
-  lat: 52.3906
-  lon: 13.0645
-  display: mapped by hand, 2026-10-27
+  lat: 52.40093
+  lon: 13.05914
+  display: 'Wikidata Q1711: Potsdam, capital city of the German state of Brandenburg'
+  wikidata: Q1711
 prag:
-  lat: 50.0755
-  lon: 14.4378
-  display: mapped by hand, 2026-10-27
+  lat: 50.0875
+  lon: 14.42139
+  display: 'Wikidata Q1085: Prague, capital city of the Czech Republic'
+  wikidata: Q1085
 pressburg:
-  lat: 48.1486
-  lon: 17.1077
-  display: mapped by hand, 2026-10-27
+  lat: 48.1517
+  lon: 17.10931
+  display: 'Wikidata Q1780: Bratislava, capital city of Slovakia'
+  wikidata: Q1780
 prusinowo:
   lat: 53.699686
   lon: 21.29961
@@ -377,53 +494,71 @@ prusinowo:
 radolin:
   lat: 53.0098
   lon: 16.54464
-  display: Radolin, gmina Trzcianka, powiat czarnkowsko-trzcianecki, województwo wielkopolskie, 64-904,
-    Polska
+  display: Radolin, gmina Trzcianka, powiat czarnkowsko-trzcianecki, województwo wielkopolskie, 64-904, Polska
 ruschinowitz:
-  lat: 50.64594
-  lon: 18.76739
-  display: Rusinowice, gmina Koszęcin, powiat lubliniecki, województwo śląskie, 42-700, Polska
+  lat: 50.65
+  lon: 18.76667
+  display: 'Wikidata Q2124955: Rusinowice, village in Silesian, Poland'
+  wikidata: Q2124955
+rypin:
+  lat: 53.06694
+  lon: 19.40694
+  display: 'Wikidata Q325244: Rypin, city and urban gmina of Poland'
+  wikidata: Q325244
 rzgow:
-  lat: 52.153577
-  lon: 18.051179
-  display: Rzgów, gmina Rzgów, powiat koniński, województwo wielkopolskie, 62-586, Polska
+  lat: 52.15
+  lon: 18.05
+  display: 'Wikidata Q554241: Gmina Rzgów, rural gmina in Greater Poland Voivodeship, Poland'
+  wikidata: Q554241
 sagan:
-  lat: 51.6155
-  lon: 15.3145
-  display: mapped by hand, 2026-10-27
+  lat: 51.61667
+  lon: 15.31667
+  display: 'Wikidata Q158459: Żagań, city in Lower Silesia, Poland'
+  wikidata: Q158459
 schlawenschitz:
-  lat: 50.3719
-  lon: 18.2689
-  display: mapped by hand, 2026-10-27
+  lat: 50.37389
+  lon: 18.32417
+  display: 'Wikidata Q2382637: Sławięcice, quarter of Kędzierzyn-Koźle, Poland'
+  wikidata: Q2382637
+schurgast:
+  lat: 50.75917
+  lon: 17.68194
+  display: 'Wikidata Q2292885: Skorogoszcz, village in Opole, Poland'
+  wikidata: Q2292885
 schweinern:
   lat: 52.6782
   lon: 17.43921
   display: Świniary, gmina Kłecko, powiat gnieźnieński, województwo wielkopolskie, 62-270, Polska
 silna:
-  lat: 52.456153
-  lon: 15.843167
-  display: Silna, gmina Pszczew, powiat międzyrzecki, województwo lubuskie, 66-330, Polska
+  lat: 52.45696
+  lon: 15.84144
+  display: 'Wikidata Q2286342: Silna, village in Lubusz, Poland'
+  wikidata: Q2286342
 slupca:
-  lat: 52.8406
-  lon: 17.9131
-  display: mapped by hand, 2026-10-27
+  lat: 52.3
+  lon: 17.86667
+  display: 'Wikidata Q639224: Słupca, city and urban gmina of Poland'
+  wikidata: Q639224
 st-petersburg:
-  lat: 59.9311
-  lon: 30.3609
-  display: mapped by hand, 2026-10-27
+  lat: 59.95
+  lon: 30.31667
+  display: 'Wikidata Q656: Saint Petersburg, federal city and former capital of Russia'
+  wikidata: Q656
 stara-kuznia:
-  lat: 50.300646
-  lon: 18.343136
-  display: Stara Kuźnia, gmina Bierawa, powiat kędzierzyńsko-kozielski, województwo opolskie, 47-246,
-    Polska
+  lat: 50.3
+  lon: 18.3417
+  display: 'Wikidata Q3885449: Stara Kuźnia, Opole Voivodeship, village in Opole, Poland'
+  wikidata: Q3885449
 stettin:
-  lat: 53.4285
-  lon: 14.5528
-  display: mapped by hand, 2026-10-27
+  lat: 53.42472
+  lon: 14.55528
+  display: 'Wikidata Q393: Szczecin, capital city of the West Pomeranian Voivodeship, Poland'
+  wikidata: Q393
 stolun:
-  lat: 52.508027
-  lon: 15.69991
-  display: Stołuń, gmina Pszczew, powiat międzyrzecki, województwo lubuskie, 66-330, Polska
+  lat: 52.50829
+  lon: 15.69851
+  display: 'Wikidata Q2216336: Stołuń, village in Lubusz, Poland'
+  wikidata: Q2216336
 swiechocin:
   lat: 52.489245
   lon: 15.854048
@@ -433,69 +568,84 @@ swiecia:
   lon: 18.4434
   display: mapped by hand, 2026-10-27
 szarcz:
-  lat: 52.505762
-  lon: 15.755746
-  display: Szarcz, gmina Pszczew, powiat międzyrzecki, województwo lubuskie, 66-330, Polska
+  lat: 52.5
+  lon: 15.75
+  display: 'Wikidata Q7664133: Szarcz, village in Lubusz, Poland'
+  wikidata: Q7664133
 szczytniki:
-  lat: 51.687218
-  lon: 18.332518
-  display: Szczytniki, gmina Szczytniki, powiat kaliski, województwo wielkopolskie, 62-865, Polska
+  lat: 51.11179
+  lon: 17.07452
+  display: 'Wikidata Q9351191: Szczytniki, neighborhood in Wrocław'
+  wikidata: Q9351191
 toplitz:
-  lat: 50.6409
-  lon: 13.8335
-  display: mapped by hand, 2026-10-27
+  lat: 50.63333
+  lon: 13.81667
+  display: 'Wikidata Q146342: Teplice, city in the Czech Republic'
+  wikidata: Q146342
 torun:
-  lat: 53.0138
-  lon: 18.5984
-  display: mapped by hand, 2026-10-27
+  lat: 53.01667
+  lon: 18.61667
+  display: 'Wikidata Q47554: Toruń, city in north-central Poland'
+  wikidata: Q47554
 toulon:
-  lat: 43.1242
-  lon: 5.928
-  display: mapped by hand, 2026-10-27
+  lat: 43.125
+  lon: 5.93056
+  display: 'Wikidata Q44160: Toulon, commune of France'
+  wikidata: Q44160
 ujest:
   lat: 52.200007
   lon: 16.414547
   display: Ujazd, gmina Kamieniec, powiat grodziski, województwo wielkopolskie, 64-061, Polska
 ulm:
-  lat: 48.4011
-  lon: 9.9876
-  display: mapped by hand, 2026-10-27
+  lat: 48.39861
+  lon: 9.99111
+  display: 'Wikidata Q3012: Ulm, large city in Baden-Württemberg, Germany'
+  wikidata: Q3012
 unruhstadt:
-  lat: 52.087
-  lon: 15.9893
-  display: mapped by hand, 2026-10-27
+  lat: 52.07139
+  lon: 15.86139
+  display: 'Wikidata Q280407: Kargowa, city of Poland'
+  wikidata: Q280407
 venedig:
-  lat: 45.4408
-  lon: 12.3155
-  display: mapped by hand, 2026-10-27
+  lat: 45.43972
+  lon: 12.33194
+  display: 'Wikidata Q641: Venice, capital city of Veneto, Italy'
+  wikidata: Q641
 warschau:
-  lat: 52.2297
-  lon: 21.0122
-  display: mapped by hand, 2026-10-27
+  lat: 52.23
+  lon: 21.01111
+  display: 'Wikidata Q270: Warsaw, capital and largest city of Poland'
+  wikidata: Q270
 wartenberg:
-  lat: 51.3392
-  lon: 17.7078
-  display: mapped by hand, 2026-10-27
+  lat: 51.31
+  lon: 17.72361
+  display: 'Wikidata Q1001322: Syców, city of Poland'
+  wikidata: Q1001322
 weimar:
-  lat: 50.9795
-  lon: 11.3285
-  display: mapped by hand, 2026-10-27
+  lat: 50.98111
+  lon: 11.32944
+  display: 'Wikidata Q3955: Weimar, city in the federal state of Thuringia, Germany'
+  wikidata: Q3955
 weissenfels:
-  lat: 51.1983
-  lon: 11.9696
-  display: mapped by hand, 2026-10-27
+  lat: 51.2
+  lon: 11.96667
+  display: 'Wikidata Q14815: Weißenfels, town in Saxony-Anhalt, Germany'
+  wikidata: Q14815
 wielun:
-  lat: 51.219
-  lon: 18.5746
-  display: mapped by hand, 2026-10-27
+  lat: 51.22056
+  lon: 18.57
+  display: 'Wikidata Q101530: Wieluń, city of Poland'
+  wikidata: Q101530
 wien:
-  lat: 48.2082
-  lon: 16.3738
-  display: mapped by hand, 2026-10-27
+  lat: 48.20833
+  lon: 16.3725
+  display: 'Wikidata Q1741: Vienna, capital of and state in Austria'
+  wikidata: Q1741
 wieruszow:
-  lat: 52.278335
-  lon: 18.234781
-  display: Wieruszew, gmina Kazimierz Biskupi, powiat koniński, województwo wielkopolskie, 62-530, Polska
+  lat: 51.3
+  lon: 18.15
+  display: 'Wikidata Q324907: Wieruszów, city of Poland'
+  wikidata: Q324907
 wierzbno:
   lat: 52.270025
   lon: 17.892426
@@ -509,10 +659,20 @@ witow:
   lon: 18.563029
   display: Witów, gmina Warta, powiat sieradzki, województwo łódzkie, 98-290, Polska
 wloclawek:
-  lat: 52.6483
-  lon: 18.8032
-  display: mapped by hand, 2026-10-27
+  lat: 52.65
+  lon: 19.05
+  display: 'Wikidata Q106681: Włocławek, city with powiat rights of Poland'
+  wikidata: Q106681
 zielomysl:
   lat: 52.528674
   lon: 15.774138
   display: Zielomyśl, gmina Pszczew, powiat międzyrzecki, województwo lubuskie, 66-330, Polska
+lukomia:
+  at: lukom
+  display: the estate of Łukom, placed at its village
+trabczynskie-stare-oledry:
+  at: lazinsk-pierwszy
+  display: the gazetteer, "located at Łazińsk Pierwszy"
+trabczynskie-nowe-oledry:
+  at: lazinsk-drugi
+  display: the gazetteer, "located at Łazińsk Drugi"

@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="55.7033" data-lon="21.1442" data-zoom="13" data-title="Memel" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=55.7033&amp;mlon=21.1442#map=15/55.7033/21.1442" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="55.7125" data-lon="21.135" data-zoom="13" data-title="Memel" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=55.7125&amp;mlon=21.135#map=15/55.7125/21.135" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

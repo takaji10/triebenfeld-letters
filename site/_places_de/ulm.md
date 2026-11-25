@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="48.4011" data-lon="9.9876" data-zoom="13" data-title="Ulm" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.4011&amp;mlon=9.9876#map=15/48.4011/9.9876" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="48.39861" data-lon="9.99111" data-zoom="13" data-title="Ulm" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.39861&amp;mlon=9.99111#map=15/48.39861/9.99111" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

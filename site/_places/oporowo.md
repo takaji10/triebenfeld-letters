@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.814595" data-lon="16.849059" data-zoom="13" data-title="Oporowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.814595&amp;mlon=16.849059#map=15/51.814595/16.849059" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.81459" data-lon="16.84906" data-zoom="13" data-title="Oporowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.81459&amp;mlon=16.84906#map=15/51.81459/16.84906" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.1996" data-lon="17.8327" data-zoom="13" data-title="Głubczyce" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.1996&amp;mlon=17.8327#map=15/50.1996/17.8327" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.2" data-lon="17.83333" data-zoom="13" data-title="Głubczyce" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.2&amp;mlon=17.83333#map=15/50.2/17.83333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

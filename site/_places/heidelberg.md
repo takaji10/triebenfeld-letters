@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.4875" data-lon="8.466" data-zoom="13" data-title="Heidelberg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.4875&amp;mlon=8.466#map=15/49.4875/8.466" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.40936" data-lon="8.69472" data-zoom="13" data-title="Heidelberg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.40936&amp;mlon=8.69472#map=15/49.40936/8.69472" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 7
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.456153" data-lon="15.843167" data-zoom="13" data-title="Silna" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.456153&amp;mlon=15.843167#map=15/52.456153/15.843167" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.45696" data-lon="15.84144" data-zoom="13" data-title="Silna" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.45696&amp;mlon=15.84144#map=15/52.45696/15.84144" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

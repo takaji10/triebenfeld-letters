@@ -17,8 +17,8 @@ hits_docs_count: 11
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.500548" data-lon="15.908713" data-zoom="13" data-title="Łowyń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.500548&amp;mlon=15.908713#map=15/52.500548/15.908713" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.5" data-lon="15.91667" data-zoom="13" data-title="Łowyń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5&amp;mlon=15.91667#map=15/52.5/15.91667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

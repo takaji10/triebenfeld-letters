@@ -17,8 +17,8 @@ hits_docs_count: 9
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.3906" data-lon="13.0645" data-zoom="13" data-title="Potsdam" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.3906&amp;mlon=13.0645#map=15/52.3906/13.0645" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.40093" data-lon="13.05914" data-zoom="13" data-title="Potsdam" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.40093&amp;mlon=13.05914#map=15/52.40093/13.05914" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

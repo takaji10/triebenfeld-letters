@@ -17,8 +17,8 @@ hits_docs_count: 7
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.528674" data-lon="15.774138" data-zoom="13" data-title="Zielomyśl" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.528674&amp;mlon=15.774138#map=15/52.528674/15.774138" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.52867" data-lon="15.77414" data-zoom="13" data-title="Zielomyśl" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.52867&amp;mlon=15.77414#map=15/52.52867/15.77414" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

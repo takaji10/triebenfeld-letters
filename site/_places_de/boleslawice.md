@@ -16,6 +16,11 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="51.19839" data-lon="18.1918" data-zoom="13" data-title="Boleslawice" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.19839&amp;mlon=18.1918#map=15/51.19839/18.1918" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

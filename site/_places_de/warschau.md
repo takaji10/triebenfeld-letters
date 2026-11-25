@@ -17,8 +17,8 @@ hits_docs_count: 78
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.2297" data-lon="21.0122" data-zoom="13" data-title="Warszawa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.2297&amp;mlon=21.0122#map=15/52.2297/21.0122" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.23" data-lon="21.01111" data-zoom="13" data-title="Warszawa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.23&amp;mlon=21.01111#map=15/52.23/21.01111" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

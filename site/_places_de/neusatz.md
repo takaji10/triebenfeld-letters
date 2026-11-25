@@ -16,6 +16,11 @@ hits_docs_count: 2
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="45.26444" data-lon="19.83167" data-zoom="13" data-title="Neusatz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.26444&amp;mlon=19.83167#map=15/45.26444/19.83167" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

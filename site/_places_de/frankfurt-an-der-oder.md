@@ -17,8 +17,8 @@ hits_docs_count: 19
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.3412" data-lon="14.5506" data-zoom="13" data-title="Frankfurt an der Oder" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.3412&amp;mlon=14.5506#map=15/52.3412/14.5506" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.34208" data-lon="14.55167" data-zoom="13" data-title="Frankfurt an der Oder" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.34208&amp;mlon=14.55167#map=15/52.34208/14.55167" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

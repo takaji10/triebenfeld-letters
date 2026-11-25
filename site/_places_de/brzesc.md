@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.5592" data-lon="18.423507" data-zoom="13" data-title="Brześć" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5592&amp;mlon=18.423507#map=15/52.5592/18.423507" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.5592" data-lon="18.42351" data-zoom="13" data-title="Brześć" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5592&amp;mlon=18.42351#map=15/52.5592/18.42351" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

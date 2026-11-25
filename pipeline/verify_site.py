@@ -903,6 +903,22 @@ def main():
     else:
         print('  every internal link in the page sources goes through relative_url')
 
+    # ---- the places' coordinates -------------------------------------------
+    # every place of the Places page has a position or a recorded reason, and
+    # site/_data/place_coords.yml is current (pipeline/places/coords.py)
+    print('checking the places\' coordinates...')
+    sys.path.insert(0, os.path.join(ROOT, 'pipeline', 'places'))
+    import coords as _coords
+    _ctext, _cmiss, _cstale = _coords.build()
+    if _cmiss:
+        fail('places: no position and no reason in reference/place_coords_unplaced.yml: '
+             + '; '.join(_cmiss[:10]))
+    if _cstale:
+        fail('places: placed but still listed as unplaced: ' + ', '.join(_cstale))
+    _cout = os.path.join(ROOT, 'site', '_data', 'place_coords.yml')
+    if not os.path.isfile(_cout) or io.open(_cout, encoding='utf-8').read() != _ctext:
+        fail('places: site/_data/place_coords.yml is stale - run python3 pipeline/places/coords.py')
+
     # ---- the year range of the search bar ---------------------------------
     # The range selector's limits are the earliest and latest year of anything
     # the site holds: documents, newspapers, literature, maps. They are written

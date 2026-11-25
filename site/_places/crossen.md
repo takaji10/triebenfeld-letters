@@ -17,8 +17,8 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.0566" data-lon="15.2752" data-zoom="13" data-title="Krosno Odrzańskie" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.0566&amp;mlon=15.2752#map=15/52.0566/15.2752" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.05417" data-lon="15.1" data-zoom="13" data-title="Krosno Odrzańskie" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.05417&amp;mlon=15.1#map=15/52.05417/15.1" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

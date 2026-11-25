@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.8272" data-lon="12.2262" data-zoom="13" data-title="Havelberg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.8272&amp;mlon=12.2262#map=15/52.8272/12.2262" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.825" data-lon="12.07444" data-zoom="13" data-title="Havelberg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.825&amp;mlon=12.07444#map=15/52.825/12.07444" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

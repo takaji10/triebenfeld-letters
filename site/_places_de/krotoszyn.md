@@ -17,8 +17,8 @@ hits_docs_count: 15
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.7008" data-lon="17.7186" data-zoom="13" data-title="Krotoszyn" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.7008&amp;mlon=17.7186#map=15/51.7008/17.7186" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.69702" data-lon="17.43569" data-zoom="13" data-title="Krotoszyn" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.69702&amp;mlon=17.43569#map=15/51.69702/17.43569" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.0755" data-lon="14.4378" data-zoom="13" data-title="Prag" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.0755&amp;mlon=14.4378#map=15/50.0755/14.4378" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.0875" data-lon="14.42139" data-zoom="13" data-title="Prag" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.0875&amp;mlon=14.42139#map=15/50.0875/14.42139" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

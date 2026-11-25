@@ -17,8 +17,8 @@ hits_docs_count: 11
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.489245" data-lon="15.854048" data-zoom="13" data-title="Świechocin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.489245&amp;mlon=15.854048#map=15/52.489245/15.854048" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.48924" data-lon="15.85405" data-zoom="13" data-title="Świechocin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.48924&amp;mlon=15.85405#map=15/52.48924/15.85405" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

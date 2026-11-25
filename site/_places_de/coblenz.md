@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.3569" data-lon="7.5886" data-zoom="13" data-title="Koblenz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.3569&amp;mlon=7.5886#map=15/50.3569/7.5886" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.35972" data-lon="7.59778" data-zoom="13" data-title="Koblenz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.35972&amp;mlon=7.59778#map=15/50.35972/7.59778" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

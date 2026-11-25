@@ -213,13 +213,15 @@ def main():
         with open(np, encoding='utf-8') as f:
             for row in (yaml.safe_load(f) or []):
                 named[row['slug']] = row
-    # the stubs' coordinates (reference/place_coords.yml): the places without
-    # a gazetteer entry, geocoded where the identification is sure
+        # site/_data/place_coords.yml (pipeline/places/coords.py); an
+    # approximate position ("near <slug>") gets no header map of its own
     stub_coords = {}
-    pc = os.path.join(ROOT, 'reference', 'place_coords.yml')
+    pc = os.path.join(ROOT, 'site', '_data', 'place_coords.yml')
     if os.path.isfile(pc):
         with open(pc, encoding='utf-8') as f:
-            stub_coords = yaml.safe_load(f) or {}
+            for _s, _v in (yaml.safe_load(f) or {}).items():
+                if len(_v) == 2:
+                    stub_coords[_s] = {'lat': _v[0], 'lon': _v[1]}
     for slug in sorted(os.listdir(PLACES)):
         d = os.path.join(PLACES, slug)
         if not os.path.isdir(d):

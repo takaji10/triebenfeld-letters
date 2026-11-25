@@ -17,8 +17,8 @@ hits_docs_count: 10
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.6691" data-lon="16.0846" data-zoom="13" data-title="Głogów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.6691&amp;mlon=16.0846#map=15/51.6691/16.0846" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.65889" data-lon="16.08028" data-zoom="13" data-title="Głogów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.65889&amp;mlon=16.08028#map=15/51.65889/16.08028" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

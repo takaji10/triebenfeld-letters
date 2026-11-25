@@ -17,8 +17,8 @@ hits_docs_count: 6
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.768425" data-lon="18.207174" data-zoom="13" data-title="Bątkowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.768425&amp;mlon=18.207174#map=15/52.768425/18.207174" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.76843" data-lon="18.20717" data-zoom="13" data-title="Bątkowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.76843&amp;mlon=18.20717#map=15/52.76843/18.20717" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

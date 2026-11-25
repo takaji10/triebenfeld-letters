@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="45.764" data-lon="4.8357" data-zoom="13" data-title="Lyon" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.764&amp;mlon=4.8357#map=15/45.764/4.8357" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="45.7675" data-lon="4.835" data-zoom="13" data-title="Lyon" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.7675&amp;mlon=4.835#map=15/45.7675/4.835" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

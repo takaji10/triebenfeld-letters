@@ -17,8 +17,8 @@ hits_docs_count: 60
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.3719" data-lon="18.2689" data-zoom="13" data-title="Sławięcice" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.3719&amp;mlon=18.2689#map=15/50.3719/18.2689" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.37389" data-lon="18.32417" data-zoom="13" data-title="Sławięcice" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.37389&amp;mlon=18.32417#map=15/50.37389/18.32417" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

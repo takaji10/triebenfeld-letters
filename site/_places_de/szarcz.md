@@ -17,8 +17,8 @@ hits_docs_count: 9
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.505762" data-lon="15.755746" data-zoom="13" data-title="Szarcz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.505762&amp;mlon=15.755746#map=15/52.505762/15.755746" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.5" data-lon="15.75" data-zoom="13" data-title="Szarcz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5&amp;mlon=15.75#map=15/52.5/15.75" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

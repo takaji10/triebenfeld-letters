@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="47.0707" data-lon="15.4395" data-zoom="13" data-title="Graz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=47.0707&amp;mlon=15.4395#map=15/47.0707/15.4395" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="47.07083" data-lon="15.43861" data-zoom="13" data-title="Graz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=47.07083&amp;mlon=15.43861#map=15/47.07083/15.43861" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

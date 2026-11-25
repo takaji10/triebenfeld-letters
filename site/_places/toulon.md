@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="43.1242" data-lon="5.928" data-zoom="13" data-title="Toulon" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=43.1242&amp;mlon=5.928#map=15/43.1242/5.928" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="43.125" data-lon="5.93056" data-zoom="13" data-title="Toulon" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=43.125&amp;mlon=5.93056#map=15/43.125/5.93056" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

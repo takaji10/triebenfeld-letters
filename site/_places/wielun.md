@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.219" data-lon="18.5746" data-zoom="13" data-title="Wieluń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.219&amp;mlon=18.5746#map=15/51.219/18.5746" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.22056" data-lon="18.57" data-zoom="13" data-title="Wieluń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.22056&amp;mlon=18.57#map=15/51.22056/18.57" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

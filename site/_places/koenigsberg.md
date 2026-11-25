@@ -17,8 +17,8 @@ hits_docs_count: 16
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="54.7104" data-lon="20.4522" data-zoom="13" data-title="Königsberg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=54.7104&amp;mlon=20.4522#map=15/54.7104/20.4522" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="54.71147" data-lon="20.50931" data-zoom="13" data-title="Königsberg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=54.71147&amp;mlon=20.50931#map=15/54.71147/20.50931" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

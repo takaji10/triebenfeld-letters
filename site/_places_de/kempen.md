@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.275" data-lon="17.9877" data-zoom="13" data-title="Kępno" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.275&amp;mlon=17.9877#map=15/51.275/17.9877" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.2784" data-lon="17.98908" data-zoom="13" data-title="Kępno" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.2784&amp;mlon=17.98908#map=15/51.2784/17.98908" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

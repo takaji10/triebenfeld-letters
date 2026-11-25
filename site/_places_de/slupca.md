@@ -17,8 +17,8 @@ hits_docs_count: 11
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.8406" data-lon="17.9131" data-zoom="13" data-title="Słupca" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.8406&amp;mlon=17.9131#map=15/52.8406/17.9131" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.3" data-lon="17.86667" data-zoom="13" data-title="Słupca" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.3&amp;mlon=17.86667#map=15/52.3/17.86667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

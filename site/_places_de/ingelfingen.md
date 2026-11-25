@@ -17,8 +17,8 @@ hits_docs_count: 6
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.2952" data-lon="9.556" data-zoom="13" data-title="Ingelfingen" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2952&amp;mlon=9.556#map=15/49.2952/9.556" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.3" data-lon="9.65" data-zoom="13" data-title="Ingelfingen" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.3&amp;mlon=9.65#map=15/49.3/9.65" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

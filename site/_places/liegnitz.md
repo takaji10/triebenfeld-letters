@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.2104" data-lon="16.1619" data-zoom="13" data-title="Legnica" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.2104&amp;mlon=16.1619#map=15/51.2104/16.1619" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.21006" data-lon="16.1619" data-zoom="13" data-title="Legnica" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.21006&amp;mlon=16.1619#map=15/51.21006/16.1619" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

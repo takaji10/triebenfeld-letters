@@ -17,8 +17,8 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.9356" data-lon="15.5062" data-zoom="13" data-title="Zielona Góra" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.9356&amp;mlon=15.5062#map=15/51.9356/15.5062" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.93972" data-lon="15.505" data-zoom="13" data-title="Zielona Góra" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.93972&amp;mlon=15.505#map=15/51.93972/15.505" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

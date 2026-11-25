@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.673863" data-lon="18.903831" data-zoom="13" data-title="Boronów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.673863&amp;mlon=18.903831#map=15/50.673863/18.903831" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.68333" data-lon="18.88333" data-zoom="13" data-title="Boronów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.68333&amp;mlon=18.88333#map=15/50.68333/18.88333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

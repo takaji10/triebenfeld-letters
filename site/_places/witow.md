@@ -17,8 +17,8 @@ hits_docs_count: 15
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.71929" data-lon="18.563029" data-zoom="13" data-title="Witów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.71929&amp;mlon=18.563029#map=15/51.71929/18.563029" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.71929" data-lon="18.56303" data-zoom="13" data-title="Witów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.71929&amp;mlon=18.56303#map=15/51.71929/18.56303" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

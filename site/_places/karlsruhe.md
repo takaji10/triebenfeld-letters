@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.0069" data-lon="8.4037" data-zoom="13" data-title="Karlsruhe" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.0069&amp;mlon=8.4037#map=15/49.0069/8.4037" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.01667" data-lon="8.4" data-zoom="13" data-title="Karlsruhe" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.01667&amp;mlon=8.4#map=15/49.01667/8.4" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.9848" data-lon="11.0299" data-zoom="13" data-title="Erfurt" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.9848&amp;mlon=11.0299#map=15/50.9848/11.0299" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.97806" data-lon="11.02889" data-zoom="13" data-title="Erfurt" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.97806&amp;mlon=11.02889#map=15/50.97806/11.02889" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

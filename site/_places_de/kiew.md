@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.4501" data-lon="30.5234" data-zoom="13" data-title="Kiew" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.4501&amp;mlon=30.5234#map=15/50.4501/30.5234" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.45" data-lon="30.52361" data-zoom="13" data-title="Kiew" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.45&amp;mlon=30.52361#map=15/50.45/30.52361" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

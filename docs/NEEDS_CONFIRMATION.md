@@ -27,6 +27,37 @@ repository; they are on the working machine.
   editor and applied; no typeset title tiles; the editor supplies the
   literature's title pages later.
 
+## Place coordinates (2026-11-24, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, A1)
+
+- **Positions from Wikidata, checked by Claude.** 114 places outside the
+  gazetteer now take their position from Wikidata (`wikidata:` in
+  `reference/place_coords.yml`), each match chosen by Claude against the
+  place's German name, kind and the documents' context. Several earlier
+  positions were wrong and are replaced: Dresden had been placed at Krępiny
+  in Lubusz, Cosel at a Koźle near Szamotuły, Wieruszów at Wieruszew,
+  Scheitnig (Szczytniki) at the Kalisz village instead of the Wrocław
+  quarter, and the hand placings of 2026-10-27 lay 10 to 60 km out (Słupca
+  60, Krotoszyn 20). Claude's identifications to confirm: **Kolno** and
+  **Kamionna** placed near Międzychód (with the Hohenlohe estates there),
+  **Kuligowo**, **Stołuń**, **Szarcz**, **Silna** and **Łowyń** near Pszczew
+  (Betsche), the Upper Silesian estates (**Koszęcin, Boronów, Cieszowa,
+  Molna, Rusinowice, Stara Kuźnia, Bierawa, Sławięcice, Skorogoszcz**) at the
+  Silesian villages of those names, **Międzybórz** (Medzibor) at the town
+  near Syców, **Oppurg** in Thuringia, **Altenburg** at the Thuringian town.
+- **Not placed: which place is meant?** Several places share the name and
+  the documents read so far do not settle which: Alexandrien, Biskupice
+  (Bischdorf), Brzyce, Bytków, Chyby, Gostyszyn, Górzyce (Guhrwitz), Karczyn,
+  Klunowo, Konotop, Konty, Krolikower Holländ, Laske, Lasowice, Neustadt,
+  Petersdorf, Popowo, Sommerfeld, Stoki, Szedlemin, Tarnowo, Wieniec,
+  Wolica, Zarobna. Each is listed in `reference/place_coords_unplaced.yml`
+  and stays off the map until identified.
+- **Approximate positions.** Thirty-four historical places of the gazetteer
+  are described only as lying near another ("north of Łukom"); they take
+  that place's position for the distance search, marked approximate, and get
+  no map marker of their own. Trąbczyńskie Stare and Nowe Olędry take the
+  positions of Łazińsk Pierwszy and Drugi, where the gazetteer says they
+  stood.
+
 ## The date after the signature (2026-11-23, docs/DATE_ORDER_PLAN.md)
 
 Oe 1 Bü 9454: 181 letters moved (the pilot's 4 and 177), then 58 more at the

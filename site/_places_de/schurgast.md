@@ -16,6 +16,11 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="50.75917" data-lon="17.68194" data-zoom="13" data-title="Skorogoszcz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.75917&amp;mlon=17.68194#map=15/50.75917/17.68194" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

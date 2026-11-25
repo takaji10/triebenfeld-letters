@@ -16,6 +16,11 @@ hits_docs_count: 10
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="52.79965" data-lon="16.73416" data-zoom="13" data-title="Polajewo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.79965&amp;mlon=16.73416#map=15/52.79965/16.73416" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

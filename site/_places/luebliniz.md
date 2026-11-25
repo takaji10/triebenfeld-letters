@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.6686" data-lon="18.6692" data-zoom="13" data-title="Lubliniec" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.6686&amp;mlon=18.6692#map=15/50.6686/18.6692" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.68333" data-lon="18.68333" data-zoom="13" data-title="Lubliniec" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.68333&amp;mlon=18.68333#map=15/50.68333/18.68333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

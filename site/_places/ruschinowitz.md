@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.64594" data-lon="18.76739" data-zoom="13" data-title="Rusinowice" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.64594&amp;mlon=18.76739#map=15/50.64594/18.76739" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.65" data-lon="18.76667" data-zoom="13" data-title="Rusinowice" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.65&amp;mlon=18.76667#map=15/50.65/18.76667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

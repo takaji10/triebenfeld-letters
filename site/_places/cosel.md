@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.575157" data-lon="16.399176" data-zoom="13" data-title="Koźle" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.575157&amp;mlon=16.399176#map=15/52.575157/16.399176" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.33528" data-lon="18.14583" data-zoom="13" data-title="Koźle" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.33528&amp;mlon=18.14583#map=15/50.33528/18.14583" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.9272" data-lon="11.5892" data-zoom="13" data-title="Jena" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.9272&amp;mlon=11.5892#map=15/50.9272/11.5892" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.92722" data-lon="11.58639" data-zoom="13" data-title="Jena" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.92722&amp;mlon=11.58639#map=15/50.92722/11.58639" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

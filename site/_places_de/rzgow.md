@@ -17,8 +17,8 @@ hits_docs_count: 8
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.153577" data-lon="18.051179" data-zoom="13" data-title="Rzgów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.153577&amp;mlon=18.051179#map=15/52.153577/18.051179" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.15" data-lon="18.05" data-zoom="13" data-title="Rzgów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.15&amp;mlon=18.05#map=15/52.15/18.05" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

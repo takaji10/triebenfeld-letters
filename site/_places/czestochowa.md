@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.8118" data-lon="19.1203" data-zoom="13" data-title="Częstochowa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.8118&amp;mlon=19.1203#map=15/50.8118/19.1203" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.80964" data-lon="19.12217" data-zoom="13" data-title="Częstochowa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.80964&amp;mlon=19.12217#map=15/50.80964/19.12217" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

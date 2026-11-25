@@ -16,6 +16,11 @@ hits_docs_count: 6
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="51.30803" data-lon="18.34148" data-zoom="13" data-title="Amt Sokolnik" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.30803&amp;mlon=18.34148#map=15/51.30803/18.34148" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

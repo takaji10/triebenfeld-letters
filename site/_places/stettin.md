@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="53.4285" data-lon="14.5528" data-zoom="13" data-title="Szczecin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.4285&amp;mlon=14.5528#map=15/53.4285/14.5528" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="53.42472" data-lon="14.55528" data-zoom="13" data-title="Szczecin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.42472&amp;mlon=14.55528#map=15/53.42472/14.55528" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

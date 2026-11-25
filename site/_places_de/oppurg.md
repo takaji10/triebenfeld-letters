@@ -16,6 +16,11 @@ hits_docs_count: 3
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="50.71081" data-lon="11.653" data-zoom="13" data-title="Oppurg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.71081&amp;mlon=11.653#map=15/50.71081/11.653" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

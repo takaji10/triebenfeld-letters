@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.3127" data-lon="9.4797" data-zoom="13" data-title="Kassel" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.3127&amp;mlon=9.4797#map=15/51.3127/9.4797" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.31578" data-lon="9.49792" data-zoom="13" data-title="Kassel" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.31578&amp;mlon=9.49792#map=15/51.31578/9.49792" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

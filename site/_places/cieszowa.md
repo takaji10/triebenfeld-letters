@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.671218" data-lon="18.836228" data-zoom="13" data-title="Cieszowa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.671218&amp;mlon=18.836228#map=15/50.671218/18.836228" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.66667" data-lon="18.83333" data-zoom="13" data-title="Cieszowa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.66667&amp;mlon=18.83333#map=15/50.66667/18.83333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.9456" data-lon="11.571" data-zoom="13" data-title="Bayreuth" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.9456&amp;mlon=11.571#map=15/49.9456/11.571" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.94806" data-lon="11.57833" data-zoom="13" data-title="Bayreuth" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.94806&amp;mlon=11.57833#map=15/49.94806/11.57833" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

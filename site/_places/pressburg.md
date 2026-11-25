@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="48.1486" data-lon="17.1077" data-zoom="13" data-title="Pressburg (Bratislava)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.1486&amp;mlon=17.1077#map=15/48.1486/17.1077" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="48.1517" data-lon="17.10931" data-zoom="13" data-title="Pressburg (Bratislava)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.1517&amp;mlon=17.10931#map=15/48.1517/17.10931" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -16,6 +16,11 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="53.33265" data-lon="13.0943" data-zoom="13" data-title="Strelitz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.33265&amp;mlon=13.0943#map=15/53.33265/13.0943" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

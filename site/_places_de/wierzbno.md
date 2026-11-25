@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.270025" data-lon="17.892426" data-zoom="13" data-title="Wierzbno" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.270025&amp;mlon=17.892426#map=15/52.270025/17.892426" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.27002" data-lon="17.89243" data-zoom="13" data-title="Wierzbno" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.27002&amp;mlon=17.89243#map=15/52.27002/17.89243" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -16,6 +16,11 @@ hits_docs_count: 4
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="49.20448" data-lon="9.98173" data-zoom="13" data-title="Kirchberg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.20448&amp;mlon=9.98173#map=15/49.20448/9.98173" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

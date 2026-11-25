@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.4783" data-lon="10.9903" data-zoom="13" data-title="Fürth" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.4783&amp;mlon=10.9903#map=15/49.4783/10.9903" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.47833" data-lon="10.99028" data-zoom="13" data-title="Fürth" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.47833&amp;mlon=10.99028#map=15/49.47833/10.99028" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

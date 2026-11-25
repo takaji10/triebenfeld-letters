@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.1951" data-lon="16.6068" data-zoom="13" data-title="Brünn (Brno)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.1951&amp;mlon=16.6068#map=15/49.1951/16.6068" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.19528" data-lon="16.60833" data-zoom="13" data-title="Brünn (Brno)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.19528&amp;mlon=16.60833#map=15/49.19528/16.60833" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

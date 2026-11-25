@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.300646" data-lon="18.343136" data-zoom="13" data-title="Stara Kuźnia" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.300646&amp;mlon=18.343136#map=15/50.300646/18.343136" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.3" data-lon="18.3417" data-zoom="13" data-title="Stara Kuźnia" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.3&amp;mlon=18.3417#map=15/50.3/18.3417" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

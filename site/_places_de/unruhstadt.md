@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.087" data-lon="15.9893" data-zoom="13" data-title="Kargowa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.087&amp;mlon=15.9893#map=15/52.087/15.9893" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.07139" data-lon="15.86139" data-zoom="13" data-title="Kargowa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.07139&amp;mlon=15.86139#map=15/52.07139/15.86139" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

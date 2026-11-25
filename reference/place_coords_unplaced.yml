@@ -1,0 +1,61 @@
+# Places of the Places page with no position on the map or in the
+# distance search, each with the reason (pipeline/places/coords.py fails on
+# a place that has neither a position nor an entry here).
+
+baden: "a country or region, not a point"
+bayern: "a country or region, not a point"
+boehmen: "a country or region, not a point"
+frankreich: "a country or region, not a point"
+holland: "a country or region, not a point"
+italien: "a country or region, not a point"
+mecklenburg: "a country or region, not a point"
+peyserschen-hauland: "a country or region, not a point"
+pommern: "a country or region, not a point"
+russland: "a country or region, not a point"
+sachsen: "a country or region, not a point"
+schlesien: "a country or region, not a point"
+suedpreussen: "a country or region, not a point"
+teutschland: "a country or region, not a point"
+ungarn: "a country or region, not a point"
+wuerttemberg: "a country or region, not a point"
+bartosz: "a river, stream or forest, not a point"
+czarna-struga: "a river, stream or forest, not a point"
+noga: "a river, stream or forest, not a point"
+warta: "a river, stream or forest, not a point"
+welna: "a river, stream or forest, not a point"
+lisewska-kolonia: "the gazetteer gives only its gmina and parish (Słownik geograficzny), no position"
+lukomin: "the gazetteer gives only its gmina and parish (Słownik geograficzny), no position"
+odpadki: "the gazetteer gives only its gmina and parish (Słownik geograficzny), no position"
+rogal: "the gazetteer gives only its gmina and parish (Słownik geograficzny), no position"
+tumidaj: "the gazetteer gives only its gmina and parish (Słownik geograficzny), no position"
+wielki-las: "the gazetteer gives only its gmina and parish (Słownik geograficzny), no position"
+drzezgi: "no position known: the gazetteer describes it without a place to measure from, or not at all"
+hagrowo: "no position known: the gazetteer describes it without a place to measure from, or not at all"
+kowaliska: "no position known: the gazetteer describes it without a place to measure from, or not at all"
+posada: "no position known: the gazetteer describes it without a place to measure from, or not at all"
+potaszniki: "no position known: the gazetteer describes it without a place to measure from, or not at all"
+sadornicz: "no position known: the gazetteer describes it without a place to measure from, or not at all"
+alexandrien: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+bischdorf: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+brzyce: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+bytkow: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+chyby: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+gostyszyn: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+guhrwitz: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+karczyn: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+klunowo: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+kontop: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+konty: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+krolikower-hollaend: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+laske: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+lassowitz: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+neustadt: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+petersdorff: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+popowo: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+sommerfeld: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+stoki: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+szedlemin: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+tarmowo: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+wieniec: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+wolica: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'
+zarobna: 'identification open: several places bear the name and the documents do not settle which (NEEDS_CONFIRMATION, "Place coordinates")'

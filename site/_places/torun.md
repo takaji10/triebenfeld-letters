@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="53.0138" data-lon="18.5984" data-zoom="13" data-title="Toruń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.0138&amp;mlon=18.5984#map=15/53.0138/18.5984" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="53.01667" data-lon="18.61667" data-zoom="13" data-title="Toruń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.01667&amp;mlon=18.61667#map=15/53.01667/18.61667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

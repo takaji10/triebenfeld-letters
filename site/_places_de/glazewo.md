@@ -17,8 +17,8 @@ hits_docs_count: 13
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.533122" data-lon="15.918154" data-zoom="13" data-title="Głażewo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.533122&amp;mlon=15.918154#map=15/52.533122/15.918154" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.53312" data-lon="15.91815" data-zoom="13" data-title="Głażewo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.53312&amp;mlon=15.91815#map=15/52.53312/15.91815" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

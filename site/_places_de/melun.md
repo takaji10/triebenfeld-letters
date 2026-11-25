@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="48.5406" data-lon="2.6383" data-zoom="13" data-title="Melun" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.5406&amp;mlon=2.6383#map=15/48.5406/2.6383" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="48.53972" data-lon="2.65917" data-zoom="13" data-title="Melun" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=48.53972&amp;mlon=2.65917#map=15/48.53972/2.65917" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

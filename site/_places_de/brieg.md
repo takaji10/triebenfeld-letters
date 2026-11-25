@@ -17,8 +17,8 @@ hits_docs_count: 18
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.8585" data-lon="17.4695" data-zoom="13" data-title="Brzeg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.8585&amp;mlon=17.4695#map=15/50.8585/17.4695" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.86667" data-lon="17.46667" data-zoom="13" data-title="Brzeg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.86667&amp;mlon=17.46667#map=15/50.86667/17.46667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

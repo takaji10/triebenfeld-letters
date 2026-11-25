@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.278335" data-lon="18.234781" data-zoom="13" data-title="Wieruszów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.278335&amp;mlon=18.234781#map=15/52.278335/18.234781" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.3" data-lon="18.15" data-zoom="13" data-title="Wieruszów" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.3&amp;mlon=18.15#map=15/51.3/18.15" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

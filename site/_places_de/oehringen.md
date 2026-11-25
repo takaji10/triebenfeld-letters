@@ -17,8 +17,8 @@ hits_docs_count: 21
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.2017" data-lon="9.506" data-zoom="13" data-title="Öhringen" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2017&amp;mlon=9.506#map=15/49.2017/9.506" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.2" data-lon="9.5" data-zoom="13" data-title="Öhringen" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2&amp;mlon=9.5#map=15/49.2/9.5" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

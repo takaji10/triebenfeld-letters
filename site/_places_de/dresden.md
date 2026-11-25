@@ -17,8 +17,8 @@ hits_docs_count: 24
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.606128" data-lon="14.956636" data-zoom="13" data-title="Dresden" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.606128&amp;mlon=14.956636#map=15/52.606128/14.956636" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.04933" data-lon="13.73814" data-zoom="13" data-title="Dresden" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.04933&amp;mlon=13.73814#map=15/51.04933/13.73814" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

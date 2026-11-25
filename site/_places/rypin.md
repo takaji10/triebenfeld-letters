@@ -16,6 +16,11 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="53.06694" data-lon="19.40694" data-zoom="13" data-title="Rypin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.06694&amp;mlon=19.40694#map=15/53.06694/19.40694" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

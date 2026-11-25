@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.5055" data-lon="13.2985" data-zoom="13" data-title="Charlottenburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5055&amp;mlon=13.2985#map=15/52.5055/13.2985" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.51667" data-lon="13.3" data-zoom="13" data-title="Charlottenburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.51667&amp;mlon=13.3#map=15/52.51667/13.3" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

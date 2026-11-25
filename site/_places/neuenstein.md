@@ -17,8 +17,8 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.2078" data-lon="9.6231" data-zoom="13" data-title="Neuenstein" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2078&amp;mlon=9.6231#map=15/49.2078/9.6231" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.2" data-lon="9.58333" data-zoom="13" data-title="Neuenstein" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2&amp;mlon=9.58333#map=15/49.2/9.58333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

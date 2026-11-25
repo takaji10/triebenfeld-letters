@@ -17,8 +17,8 @@ hits_docs_count: 25
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.635918" data-lon="18.841335" data-zoom="13" data-title="Koszęcin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.635918&amp;mlon=18.841335#map=15/50.635918/18.841335" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.63411" data-lon="18.8413" data-zoom="13" data-title="Koszęcin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.63411&amp;mlon=18.8413#map=15/50.63411/18.8413" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

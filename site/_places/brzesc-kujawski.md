@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.5869" data-lon="18.8948" data-zoom="13" data-title="Brześć Kujawski" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.5869&amp;mlon=18.8948#map=15/52.5869/18.8948" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.605" data-lon="18.89806" data-zoom="13" data-title="Brześć Kujawski" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.605&amp;mlon=18.89806#map=15/52.605/18.89806" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

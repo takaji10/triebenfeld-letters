@@ -17,8 +17,8 @@ hits_docs_count: 4
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="45.4408" data-lon="12.3155" data-zoom="13" data-title="Venice" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.4408&amp;mlon=12.3155#map=15/45.4408/12.3155" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="45.43972" data-lon="12.33194" data-zoom="13" data-title="Venice" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=45.43972&amp;mlon=12.33194#map=15/45.43972/12.33194" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

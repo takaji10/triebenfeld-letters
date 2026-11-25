@@ -17,8 +17,8 @@ hits_docs_count: 8
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.508027" data-lon="15.69991" data-zoom="13" data-title="Stołuń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.508027&amp;mlon=15.69991#map=15/52.508027/15.69991" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.50829" data-lon="15.69851" data-zoom="13" data-title="Stołuń" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.50829&amp;mlon=15.69851#map=15/52.50829/15.69851" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

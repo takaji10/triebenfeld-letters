@@ -17,8 +17,8 @@ hits_docs_count: 66
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.59492" data-lon="15.95688" data-zoom="13" data-title="Kolno" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.59492&amp;mlon=15.95688#map=15/52.59492/15.95688" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.6" data-lon="15.9667" data-zoom="13" data-title="Kolno" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.6&amp;mlon=15.9667#map=15/52.6/15.9667" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

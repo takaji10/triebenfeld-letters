@@ -17,8 +17,8 @@ hits_docs_count: 45
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.1242" data-lon="18.2546" data-zoom="13" data-title="Konin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1242&amp;mlon=18.2546#map=15/52.1242/18.2546" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.2275" data-lon="18.26139" data-zoom="13" data-title="Konin" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.2275&amp;mlon=18.26139#map=15/52.2275/18.26139" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

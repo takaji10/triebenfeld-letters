@@ -17,8 +17,8 @@ hits_docs_count: 13
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.4739" data-lon="17.3348" data-zoom="13" data-title="Nysa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.4739&amp;mlon=17.3348#map=15/50.4739/17.3348" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.47139" data-lon="17.33389" data-zoom="13" data-title="Nysa" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.47139&amp;mlon=17.33389#map=15/50.47139/17.33389" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

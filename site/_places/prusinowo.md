@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="53.699686" data-lon="21.29961" data-zoom="13" data-title="Prusinowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.699686&amp;mlon=21.29961#map=15/53.699686/21.29961" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="53.69969" data-lon="21.29961" data-zoom="13" data-title="Prusinowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=53.69969&amp;mlon=21.29961#map=15/53.69969/21.29961" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

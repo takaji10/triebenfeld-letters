@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.687218" data-lon="18.332518" data-zoom="13" data-title="Szczytniki" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.687218&amp;mlon=18.332518#map=15/51.687218/18.332518" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.11179" data-lon="17.07452" data-zoom="13" data-title="Szczytniki" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.11179&amp;mlon=17.07452#map=15/51.11179/17.07452" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.033134" data-lon="17.18413" data-zoom="13" data-title="Międzybórz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.033134&amp;mlon=17.18413#map=15/52.033134/17.18413" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.39917" data-lon="17.66556" data-zoom="13" data-title="Międzybórz" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.39917&amp;mlon=17.66556#map=15/51.39917/17.66556" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

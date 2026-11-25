@@ -116,6 +116,12 @@ MERGED = [
     # stats.yml. After everything whose output it reads: the website data (the
     # documents, stats.yml), the literature and newspapers pages (their data),
     # the map pages (maps.yml); verify_site.py fails if the limits are stale.
+    # Every place's position for the Places page's map and distance search
+    # (docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, A1). After the website data (it
+    # reads places_index.yml); fails on a place with no position and no
+    # reason in reference/place_coords_unplaced.yml.
+    ('pipeline/places/coords.py', 'place coordinates',
+     'site/_data/place_coords.yml'),
     ('pipeline/build/search_indexes.py', 'search indexes',
      'site/assets/search-*.json and year_min / year_max in site/_data/stats.yml'),
     # The cemeteries (docs/CEMETERIES_PLAN.md): the editor's survey of the

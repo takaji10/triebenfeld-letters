@@ -17,8 +17,8 @@ hits_docs_count: 28
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.207314" data-lon="17.893383" data-zoom="13" data-title="Ląd" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.207314&amp;mlon=17.893383#map=15/52.207314/17.893383" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.2" data-lon="17.9" data-zoom="13" data-title="Ląd" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.2&amp;mlon=17.9#map=15/52.2/17.9" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

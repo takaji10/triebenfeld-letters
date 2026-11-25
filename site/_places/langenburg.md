@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="49.2397" data-lon="9.6384" data-zoom="13" data-title="Langenburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.2397&amp;mlon=9.6384#map=15/49.2397/9.6384" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="49.25333" data-lon="9.84861" data-zoom="13" data-title="Langenburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=49.25333&amp;mlon=9.84861#map=15/49.25333/9.84861" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

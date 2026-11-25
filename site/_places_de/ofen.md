@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="47.4778" data-lon="19.0462" data-zoom="13" data-title="Ofen (Buda)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=47.4778&amp;mlon=19.0462#map=15/47.4778/19.0462" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="47.46667" data-lon="19.05" data-zoom="13" data-title="Ofen (Buda)" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=47.46667&amp;mlon=19.05#map=15/47.46667/19.05" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

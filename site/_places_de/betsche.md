@@ -17,8 +17,8 @@ hits_docs_count: 63
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.479237" data-lon="15.778339" data-zoom="13" data-title="Pszczew" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.479237&amp;mlon=15.778339#map=15/52.479237/15.778339" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.47806" data-lon="15.78111" data-zoom="13" data-title="Pszczew" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.47806&amp;mlon=15.78111#map=15/52.47806/15.78111" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

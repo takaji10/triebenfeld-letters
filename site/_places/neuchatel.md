@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="46.9919" data-lon="6.929" data-zoom="13" data-title="Neuchâtel" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=46.9919&amp;mlon=6.929#map=15/46.9919/6.929" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="46.99028" data-lon="6.93056" data-zoom="13" data-title="Neuchâtel" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=46.99028&amp;mlon=6.93056#map=15/46.99028/6.93056" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

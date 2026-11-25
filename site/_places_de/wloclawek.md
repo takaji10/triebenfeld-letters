@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.6483" data-lon="18.8032" data-zoom="13" data-title="Włocławek" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.6483&amp;mlon=18.8032#map=15/52.6483/18.8032" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.65" data-lon="19.05" data-zoom="13" data-title="Włocławek" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.65&amp;mlon=19.05#map=15/52.65/19.05" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 3
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.18025" data-lon="17.78682" data-zoom="13" data-title="Białobrzeg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.18025&amp;mlon=17.78682#map=15/52.18025/17.78682" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.1833" data-lon="17.7833" data-zoom="13" data-title="Białobrzeg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.1833&amp;mlon=17.7833#map=15/52.1833/17.7833" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 {% raw %}

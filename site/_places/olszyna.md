@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="51.409464" data-lon="17.911342" data-zoom="13" data-title="Olszyna" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.409464&amp;mlon=17.911342#map=15/51.409464/17.911342" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="51.40946" data-lon="17.91134" data-zoom="13" data-title="Olszyna" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=51.40946&amp;mlon=17.91134#map=15/51.40946/17.91134" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

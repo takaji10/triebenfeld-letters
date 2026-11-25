@@ -17,8 +17,8 @@ hits_docs_count: 2
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.0589" data-lon="18.936" data-zoom="13" data-title="Łęczyca" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.0589&amp;mlon=18.936#map=15/52.0589/18.936" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.05833" data-lon="19.2" data-zoom="13" data-title="Łęczyca" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.05833&amp;mlon=19.2#map=15/52.05833/19.2" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

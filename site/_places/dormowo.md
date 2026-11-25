@@ -17,8 +17,8 @@ hits_docs_count: 5
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.529181" data-lon="15.875319" data-zoom="13" data-title="Dormowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.529181&amp;mlon=15.875319#map=15/52.529181/15.875319" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.53333" data-lon="15.88333" data-zoom="13" data-title="Dormowo" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.53333&amp;mlon=15.88333#map=15/52.53333/15.88333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

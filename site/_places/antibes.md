@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="43.5805" data-lon="7.1238" data-zoom="13" data-title="Antibes" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=43.5805&amp;mlon=7.1238#map=15/43.5805/7.1238" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="43.58" data-lon="7.12306" data-zoom="13" data-title="Antibes" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=43.58&amp;mlon=7.12306#map=15/43.58/7.12306" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="52.200007" data-lon="16.414547" data-zoom="13" data-title="Ujazd" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.200007&amp;mlon=16.414547#map=15/52.200007/16.414547" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="52.20001" data-lon="16.41455" data-zoom="13" data-title="Ujazd" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=52.20001&amp;mlon=16.41455#map=15/52.20001/16.41455" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>

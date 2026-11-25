@@ -16,6 +16,11 @@ hits_docs_count: 1
 
 <section class="place-gaz">
 
+<div class="place-map">
+<div class="place-leaflet" data-lat="50.77806" data-lon="18.62" data-zoom="13" data-title="Molna" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.77806&amp;mlon=18.62#map=15/50.77806/18.62" rel="noopener">{{ t.map_link }}</a></p>
+</div>
+
 </section>
 
 {% include place-maps.html %}

@@ -17,8 +17,8 @@ hits_docs_count: 1
 <section class="place-gaz">
 
 <div class="place-map">
-<div class="place-leaflet" data-lat="50.9909" data-lon="12.4402" data-zoom="13" data-title="Altenburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
-<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.9909&amp;mlon=12.4402#map=15/50.9909/12.4402" rel="noopener">{{ t.map_link }}</a></p>
+<div class="place-leaflet" data-lat="50.985" data-lon="12.43333" data-zoom="13" data-title="Altenburg" data-sat="{{ t.map_satellite }}" data-street="{{ t.map_street }}"></div>
+<p class="refs"><a href="https://www.openstreetmap.org/?mlat=50.985&amp;mlon=12.43333#map=15/50.985/12.43333" rel="noopener">{{ t.map_link }}</a></p>
 </div>
 
 </section>
