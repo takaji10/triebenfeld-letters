@@ -1780,3 +1780,21 @@ Built on the session branch, not yet published.
 - [x] D5: twenty entries moved to `excluded:` at your word; locus
       sigilli kept. The grzywna kept as the unit, with a glossary entry.
 - [ ] E: the Zagórów place page, then the ~600 summaries.
+
+### 70a. Differences for you to resolve (found 2026-11-25, NEEDS_CONFIRMATION, "The relevant people's pages")
+
+- [ ] Triebenfeld's death: is the office note's "13 April" 1816? (the page
+      says "between 31 January and 13 April 1816").
+- [ ] The Prince's age: "nearly 66" in November 1814 against the birth date
+      31 January 1746 (68); keep 1746?
+- [ ] Paweł Prusimski's office: chamberlain (press 1754), sub-chamberlain
+      (decree 1784) or podskarbi (one English passage)?
+- [ ] Chełmski's loan to Prusimski: 12,000 ducats (note of 1794) or 36,000
+      (Triebenfeld, 1815)?
+- [ ] The restoration of 1807: 21 July (the resolution), 5 June or 1 July?
+- [ ] The sale of 1698: Władysław Trąmpczyński Anna Bojanowska's brother
+      (the decree) or her son (the family pages)?
+- [ ] Jezierski: the canon of the documents and Pachoński's "General Xavier
+      Jezierski" at Venice: one man or two?
+- [ ] Kościuszko's and Lubecki's dates rest on reference works only: keep?
+- [ ] The places left unplaced (place_coords_unplaced.yml): which namesake?
