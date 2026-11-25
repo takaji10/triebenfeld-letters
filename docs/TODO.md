@@ -1779,7 +1779,12 @@ Built on the session branch, not yet published.
       line, the categories removed, the definitions rewritten.
 - [x] D5: twenty entries moved to `excluded:` at your word; locus
       sigilli kept. The grzywna kept as the unit, with a glossary entry.
-- [ ] E: the Zagórów place page, then the ~600 summaries.
+- [x] E: the Zagórów place page; the 649 summaries (648 rewritten, 2026-11-25).
+- [ ] You: the summaries' open points (NEEDS_CONFIRMATION, "The summaries
+      rewritten"): letter 64's date, letters 232 and 257, the recipients of
+      001a, 036, 047, 224, 072, letter 74c's court, Nr. 421's dates, 14525/14.
+- [ ] Glossary entries for desiatin, sazhen and mansi.
+- [ ] The German summaries, all at once (your word).
 
 ### 70a. Differences for you to resolve (found 2026-11-25, NEEDS_CONFIRMATION, "The relevant people's pages")
 

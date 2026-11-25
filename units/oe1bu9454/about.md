@@ -20,7 +20,7 @@ In 1798 Hohenlohe-Ingelfingen proposed to exchange his South Prussian estates fo
 
 #### Debts and creditors, 1800 to 1804
 
-The Prince lived on credit. Triebenfeld had signed a bill of 11000 Rthl for Hohenlohe-Ingelfingen and was threatened with arrest for it [[112, 113]]. He reports on a settlement with Countess Schlabrendorff, who agreed to wait until 1 January 1805 for 50000 Rthl [[118b, 118c, 120]], and on debts left by estates the Prince had sold to a Prince George [[108, 127]]. In December 1803 he advised on an offer from one Walichnowski to buy the Trąbczyn estates [[116]].
+The Prince lived on credit. Triebenfeld had signed a bill of 11000 Rthl for Hohenlohe-Ingelfingen and was threatened with arrest for it [[112, 113]]. He reports on a settlement with Countess Schlabrendorff, who agreed to wait until 1 January 1805 for 50000 Rthl [[118b, 118c, 120]], and on the debts a Prince George had left unpaid on estates Triebenfeld had sold him, which exposed Triebenfeld to lawsuits [[104, 108, 127]]. In December 1803 he advised on an offer from one Walichnowski to buy the Trąbczyn estates [[116]].
 
 #### Sale and division of the estates, 1804 to 1806
 

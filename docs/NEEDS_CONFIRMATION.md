@@ -27,6 +27,41 @@ repository; they are on the working machine.
   editor and applied; no typeset title tiles; the editor supplies the
   literature's title pages later.
 
+## The summaries rewritten (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, E2)
+
+All 649 English summaries were read against the house style; 648 were
+rewritten (Sonnet readers drafted, a script checked that no figure or name
+was lost, Claude read and corrected). Where the old summary misread its
+document, the translation was followed (the court sequence of 1820-1826 in
+AGAD 1/185/0/1/169; Prince August and Cosmar, letter 11; Michaelis, letter
+56; Weltzer, Ortel, Barbe, Cosmar's arrest, Nysa and Zerboni's report,
+letters 217-295; Prince George, who bought Triebenfeld's own estates,
+letters 104-112, and the Oe 1 Bü 9454 page with them). Open, for you:
+
+- **Letter 64** is dated 6 December 1809 but reports the Queen's death at
+  Strelitz on the 19th; Queen Louise died on 19 July 1810. The date or the
+  reading is wrong.
+- **Letters 232 and 257**: 232 is dated 16 June 1811 but its content
+  (Brzechffa's lease, Sommer's visit) belongs to 1812; 257 is dated
+  7 October 1814 but cites a representation of 23 October.
+- **Letters 001a, 036, 047, 224, 072**: the recipient or sender in the
+  metadata does not fit the text (001a and 047 are not addressed to the
+  Prince; 036 is a draft to Charlotte von Triebenfeld, his daughter; 224's
+  and 072's writers are open). The summaries say "the writer"/"the
+  recipient" until you rule.
+- **Letter 74c**: the summary's "Court of Appeal" is the Royal Prussian
+  Superior Court of Justice at Berlin in the translation, with the Silesian
+  Superior Provincial Court at Głogów forwarding.
+- **I. HA GR, Rep. 7 C, Nr. 421**: document 1 dates the cabinet order
+  14 September 1796 and Chełmski's petition 8 October; documents 4 and 5
+  say "the 16th" and "of 9 October".
+- **Oe 1 Bü 14525, document 14**: the base of the reckoning is 199,463
+  Reichsthaler (186,943 plus 12,520), not 186,943 as the summary has it.
+- **Small things**: "Szeptycki" (the messenger of 1754, elsewhere
+  Szepczyński); "18 dgl" (APP 53/71/0/57) read as 18 Groschen; "1 St." and
+  "7 Böhm" (53/968/0/-/782) left as written; desiatin, sazhen and mansi have
+  no glossary entries yet.
+
 ## The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
 
 The longer biographies are written from the documents (each paragraph cites

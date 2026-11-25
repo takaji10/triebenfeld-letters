@@ -5255,3 +5255,16 @@ viewbar. Lessons:
   short bios and a document wrongly tagged to Michalina: fix those in the
   same sitting. verify_site needs every person page to have a short `bio`
   in people_bios.yml as well.
+- **Rewriting summaries at scale** (2026-11-25, all 649): Sonnet readers
+  draft per batch of about 105 (brief: the house-style sections, keep every
+  fact, add none, read the holding's notes.md); a script compares old and
+  new for lost figures and names and for paper words, and lists names a
+  draft added; Claude reads the flagged ones and the readers' reports of
+  contradictions, and fixes against the translation; then one batch file
+  through `set_summaries.py`. Traps seen: a reader supplying whose
+  plenipotentiary a man was, a summary dated by the enclosure's year
+  instead of the note's, "at the same sitting" (pointing back), and bare
+  "Triebenfeld" at the start (finalize adds "Peter Friedrich von
+  Triebenfeld, agent of Prince Hohenlohe-Ingelfingen,"). The readers found
+  a dozen old summaries that misread their letters: ask them to report
+  those separately.
