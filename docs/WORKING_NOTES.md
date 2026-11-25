@@ -5268,3 +5268,7 @@ viewbar. Lessons:
   Triebenfeld, agent of Prince Hohenlohe-Ingelfingen,"). The readers found
   a dozen old summaries that misread their letters: ask them to report
   those separately.
+
+## Merge markers in a holding page (2026-11-25)
+
+The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>` / `<<<` / `===` blocks, the two versions of a sentence, in the `about.md` of four holdings (agad14320139, app53170koningr153, ihagrrep7cnr3709, iiihamdaiiinr12367); the site showed them as a quote in "Contents", and in agad14320139 the section's opening sentence was gone. Fixed by taking the newer wording; the German pages had been spared. After any bulk edit of `about.md` files, `grep -ln '^>>>$\|^<<<$\|^===$\|>>>$' units/*/about*.md` must be empty.
