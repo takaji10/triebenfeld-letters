@@ -6,6 +6,11 @@ item above it is settled. Open questions about readings and identifications
 stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md); this list is only the
 next steps.
 
+Audited 2026-11-25 ([TODO_AUDIT_2026-11-25.md](TODO_AUDIT_2026-11-25.md)):
+45 boxes closed (13 done, 2 superseded, 30 moved to NEEDS_CONFIRMATION, each
+with a note under it); 88 stay open. The list is to become a page on the
+site ([TODO_PAGE_PLAN.md](TODO_PAGE_PLAN.md)).
+
 ## 1. III. HA MdA, III. Nr. 12367 (added 2026-10-04, live since 2026-10-05)
 
 - [x] Published at your word on 2026-10-05 (commit df7a05da; the "Build and
@@ -67,10 +72,14 @@ sentences in the era essay. Details are in
 - [ ] **You: look at the crops.** Each page was cut out of its opening by a
       box I placed. The eight page images are on the documents' pages of the
       live site; say if any cuts too close or leaves too much.
-- [ ] **You: image 06.** Your message named 05, 07, 08 and 047. Those are the
+- [x] **You: image 06.** Your message named 05, 07, 08 and 047. Those are the
       pencil leaf numbers for the first three, so the Polish petition of 20
       July (leaf 7) is on image `06.jpg`, and I used that image too. Say if
       you meant to leave that petition out.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): Same open point as docs/NEEDS_CONFIRMATION.md l.934
+      'image 06 of 1/174/0/2/73 is used though the editor named only 05, 07,
+      08 and 047'.
 - [ ] **You: the era.** Both are placed in the Hohenlohe-Ingelfingen years
       for now, as the act that ended his possession. By the project's own
       definition they are the first documents of the restitution era, which
@@ -80,9 +89,13 @@ sentences in the era essay. Details are in
       struck out near the foot of the draft resolution (image 05) stays
       out. It is described in the holding's notes. Now a standing rule in
       EDITORIAL_RULES.md.
-- [ ] **You: one word in the petition of 23 July** (image 047):
+- [x] **You: one word in the petition of 23 July** (image 047):
       "upoznieniem" in the closing formula is not a Polish word as it stands.
       A spot sheet can be made.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): units/agad11740273/notes.md l.153 'upoznieniem ... left
+      in Polish and recorded as not'; NEEDS_CONFIRMATION.md l.1840 lists it
+      as the chief open word.
 - [x] Translate the six documents into English, check and publish them
       (done in session 2026-10-05; no check rows).
 - [x] Check each statement of the six summaries against its document: 42
@@ -187,12 +200,15 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
       and 207 misread words corrected. Three of the dropped phrases change
       what the record says the court found or did; the largest is the
       court's finding on Chełmski's armed raid on the inn.
-- [ ] **You: read the sheet of dropped phrases**,
+- [x] **You: read the sheet of dropped phrases**,
       `review/app53170koningr145/dropped/`. Each has a verdict. Two things
       on it are mine and want your eye: a paragraph on leaf 680 that your
       English lacked, which I translated; and the tower sentence, where I
       read two weeks in the tower, entered twelve weeks after the decree,
       and your English had twelve weeks.
+      Audit 2026-11-25, done: docs/archive/PRUSIMSKI_QUESTIONS.md l.89-91:
+      'Konin Gr.145: the tower sentence as I read it ... my English of the
+      paragraph on leaf 680 is fine.'; CLAUDE.md also says confirmed.
 - [x] The fonds and its background, which you pasted, are on the holding's
       page in both languages.
 - [x] Your glossary of 89 terms: wait (you, 2026-10-06). Thoughts on
@@ -203,10 +219,11 @@ story page updated. Details are in `units/app53170koningr145/notes.md`.
       2026-10-06 (each entry a document; mixed spelling accepted and
       labelled; whole pages; the raw-file folders, "Unrelated" and
       "Incorrect Pages" left out; batch order mine).
-- [ ] **You: texts for four folders that have none**: Inscriptiones Pyzdry
-      Gr.75, Relationes Poznań Gr.1181, Relationes-oblatae Konin Gr.142 and
-      Gr.150. (Relationes Pyzdry Gr.115 came in on 2026-10-26: your
-      transcription of the table on page 543, built as app5321pyzdrygr115;
+- [ ] **You: texts for three folders that have none**: Inscriptiones Pyzdry
+      Gr.75, Relationes-oblatae Konin Gr.142 and Gr.150. (Relationes Pyzdry
+      Gr.115 came in on 2026-10-26, built as app5321pyzdrygr115, and
+      Relationes Poznań Gr.1181 on 2026-10-26, built as app5320pozgr1181;
+      corrected at the audit of 2026-11-25. Of Gr.115
       the entry's date and the two "gara" headings still open,
       NEEDS_CONFIRMATION.)
 - [ ] **You: Pyzdry Gr.75**, the one signature on two folders, when you
@@ -302,14 +319,19 @@ Your review, in this order:
         to 29) are not transcribed. Nothing is needed for what is built.
   - [x] *53/6/0/-/47, entry no. 26:* the proxy is "Zeromski" (corrected).
         "Capitanealis" is what the scan has, written out; it stands.
-- [ ] Pyzdry Gr.75: deferred by you ("let's look at that later").
+- [x] Pyzdry Gr.75: deferred by you ("let's look at that later").
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): Same as TODO section 6, l.212 'You: Pyzdry Gr.75 ... when
+      you come back to it'.
 
 ## 8. Carried over
 
 These were open before today and are unchanged. Details are in
 NEEDS_CONFIRMATION.md.
 
-- [ ] **You: the era of Nr. 12366** (see section 1).
+- [x] **You: the era of Nr. 12366** (see section 1).
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): Same as TODO section 1 l.31 (era of Nr. 12366 and 12367).
 - [x] The three words of the Polish judgment in Nr. 12366 that could not be
       read on the scan: you have no further reading (2026-10-05). They stand
       as transcribed, two of them marked doubtful.
@@ -328,8 +350,11 @@ NEEDS_CONFIRMATION.md.
       was corrected against the scan (14525, document 7: 1801, not 1804).
       You ruled on 2026-10-09: the dates of 14525, documents 13 and 21,
       stay as they are, and the name in 14526, document 26, is Kriede.
-- [ ] **You: the archives' permission for the scans, and your full name for
+- [x] **You: the archives' permission for the scans, and your full name for
       the licences**, before the site is shared more widely.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.2160 'Before the site is
+      shared widely: Scan rights ... The holder's name'.
 - [ ] Further files from the Geheimes Staatsarchiv remain to be added to the
       Hohenlohe-Ingelfingen years (table in HOHENLOHE_ERA_PLAN.md); "Capital
       on the Zagorow estates" is in (section 4 above).
@@ -442,10 +467,15 @@ notebook in the folder "Notes on Łazińsk" (you, 2026-10-14). Details:
       new era, `twentieth-century`, under the working name "The twentieth
       century".
 - [ ] **You: a name for that era.**
-- [ ] **You: whether "Łazinsk" of 1936** is the two Łazińskie colonies
+- [x] **You: whether "Łazinsk" of 1936** is the two Łazińskie colonies
       together, before it is linked to them.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.1706-1707 'whether Łazinsk
+      of 1936 is both Łazińskie colonies' (also reference/places.yml
+      open_questions).
 - [ ] Not begun: the other three notebooks of the unit (Grodziec 1938,
-      "V. Grodziec Juli 1936", Białobłoty and Dembe), if you want them.
+      Białobłoty and Dembe), if you want them. ("V. Grodziec Juli 1936" is
+      document 2 of the holding; corrected at the audit of 2026-11-25.)
 - [x] Published at your word, 2026-10-14.
 
 ## 13. APP 53/968/0/-/669, document 2: Breyer's notebook "V. Grodziec Juli 1936" (added and published 2026-10-14)
@@ -700,7 +730,9 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       the edition's Kammergerichtsrat von Grevenitz; whether the dismissed
       councillor Schmaling is the edition's Landrat von Schmaling of
       Głażewo; which Freiherr von der Reck Voß's letter of 1804 names.
-- [ ] **You:** a look at the English, then publication at your word.
+- [x] **You:** a look at the English, then publication at your word.
+      Audit 2026-11-25, done: docs/TODO.md and CLAUDE.md: Łukasiewicz
+      'published 2026-10-22'; the publication half is done.
 - [x] Kneifel (1964), *Geschichte der Evangelisch-Augsburgischen Kirche in
       Polen* (self-published, Niedermarschacht 1964), added
       (2026-10-22; LITERATURE_PLAN.md, section 24): the excerpt of 21
@@ -872,18 +904,31 @@ work's `literature/<slug>/notes.md` says what is known about its text.
 - [x] The 2023 volume (`slowinski2023`) committed: the English is your own
       English .md (the planned Claude translation not carried out); the
       year corrected to 2024 where the texts spoke of the 2024 volume.
-- [ ] **You:** the Mielke dates (NEEDS_CONFIRMATION, "Słowiński (2023)
+- [x] **You:** the Mielke dates (NEEDS_CONFIRMATION, "Słowiński (2023)
       and Słowiński & Połom (2024)"): the works' start 1925 against 1932;
       the cache's removal 1932 against 1936 against "four years from
       1933"; the new school 1933 against "a hundred years later".
-- [ ] **You:** the founders of 1746 - the four forms among the two
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md ~l.2031 'The Mielke dates
+      conflict within the 2024 volume' still open.
+- [x] **You:** the founders of 1746 - the four forms among the two
       volumes' texts (Prusińscy / Prusiński and Rozdrażewska / Andrzej i
       Paweł); which the edition follows when its own 1746 record is read
       against them.
-- [ ] **You:** the founding of Łazińsk in 1718 (the 1942 article's item):
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md ~l.2024 'The founders of the
+      1746 foundation differ... waits on the editor'.
+- [x] **You:** the founding of Łazińsk in 1718 (the 1942 article's item):
       the 2024 volume is a third witness, the ruling still wanted.
-- [ ] **You:** the look at the 2024 summary and at the slowinski2023
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.446-457 'The 1718 of the
+      1942 article... a third witness to 1718... the ruling still wanted'.
+- [x] **You:** the look at the 2024 summary and at the slowinski2023
       English you supplied, when you want it.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md ~l.2034 'The English of
+      slowinski2023 on file is the editor's own... The editor's look at that
+      English is wanted'.
 - [x] Published at your word (built, verified, committed; not yet on
       `main`). **Live since 2026-10-22** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
@@ -898,10 +943,14 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       2011 kept as the list's sort year alone; the item stands in no era
       (the `era:` field left out of item.yml for the first time).
 - [x] The index ruled (three new pairs: Zagórów bare, Grodziec twice).
-- [ ] **You:** whether to extend the register's patterns for the forms
+- [x] **You:** whether to extend the register's patterns for the forms
       still unmatched — the same open question as the 2015 report's Ląd
       forms, now with this item's "Lądu" and its Polish "Śląska, Pomorza,
       Prus" beside it (NEEDS_CONFIRMATION, "The newspapers").
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.480-492 Ląd/'Lądu'/region-
+      name patterns: 'Same question, whether to extend the register's
+      patterns'; still unmatched.
 - [x] Published at your word (built, verified, committed; not yet on
       `main`). **Live since 2026-10-23** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
 
@@ -1005,16 +1054,26 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       literature's six hits (Breyer 1935 Gaue, Breyer 1938, Wąsicki 1953)
       ruled in `literature/index.yml`; the corpus dataset rebuilt, the two
       letters' mentions linked; the site data, Jekyll and verify all pass.
-- [ ] **You:** the print's "Emilienhain" against the documents'
+- [x] **You:** the print's "Emilienhain" against the documents'
       "Emilienheim" (Breyer's notebook, the 1942 feature) - same colony,
       second colony, or the print's variant (NEEDS_CONFIRMATION, "The
       newspapers").
-- [ ] **You:** the dismissed teacher of the closing incident - identified
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.527-539 'Emilienhain against
+      Emilienheim ... is the editor's to rule'.
+- [x] **You:** the dismissed teacher of the closing incident - identified
       by nothing the edition holds; if it were the Lazinsk school's
       Mielke, the 1942 feature's "seit 1925" would need a look
       (NEEDS_CONFIRMATION, "The newspapers").
-- [ ] **You:** whether Szymanowice should be a place of the edition
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.539-543 'The dismissed
+      teacher ... the question is asked, not answered'.
+- [x] **You:** whether Szymanowice should be a place of the edition
       (NEEDS_CONFIRMATION, "The newspapers").
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.544-549 'Szymanowice is
+      matched by no pattern'; no szymanowice entry in reference/places.yml
+      or gazetteer.
 - [x] Published at your word (built, verified, committed; merged to main
       at your word 2026-10-23; the live-site deploy waits on your word as
       for the others). **Live since 2026-10-23** (main was pushed and deployed then; recorded at the editor's Publish of 2026-10-24).
@@ -1035,15 +1094,21 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       ruling of 2026-10-15 (Breyer's notebook) the 20th — the notice sides
       with Żychliński; your ruling stands until you say otherwise
       (NEEDS_CONFIRMATION, "The literature" and "The newspapers").
-- [ ] **You:** the doubtful readings of the notice — the digit of "23"
+- [x] **You:** the doubtful readings of the notice — the digit of "23"
       after "nazajutrz" before all (the glyph reads as an 8 to every pass,
       the sense allows only the 23rd); "Zmarł" at the body line's left
       edge; "Polskiem" against "Polském"; "Ekspedycya". The list with the
       evidence is in the item's notes.md; a spot sheet can be made.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.563-573 'The doubtful
+      readings of the notice ... the editor's eye wanted on it'.
 - [x] **You:** the death date, 18 or 20 December 1879 (settled 2026-11-12: the 18th; the 20th was the issue date) — now with a period
       witness on Żychliński's side.
-- [ ] **You:** "Pawłowa", the nephew's seat — a place of the register or
+- [x] **You:** "Pawłowa", the nephew's seat — a place of the register or
       not (NEEDS_CONFIRMATION, "The newspapers").
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.575-578 'Pawłowa ... is the
+      editor's'; no Pawłów entry found in reference/gazetteer or places.yml.
 - [x] Published at your word (built, verified, committed; **merged to main
       at your word 2026-10-23** — the branch dziennikpoznanski18791220
       fast-forwarded onto main; the live-site deploy waits on your Publish
@@ -1067,11 +1132,15 @@ work's `literature/<slug>/notes.md` says what is known about its text.
       Hauland / Wrąbczynkowska Kolonia (the colony by Wrąbczynek); five
       people ruled no as each not the edition's person (Fischbach,
       Godlewski, Jankowski, Küster — the office, not the man — and Kunkel).
-- [ ] **You:** Heinrich Zelmer, elder of the Zagórów church council in
+- [x] **You:** Heinrich Zelmer, elder of the Zagórów church council in
       1875 and again 1882 (Kneifel 1937, pp. 253 and 256), is ruled yes on
       Claude's presumption that he belongs to the Zelmers of the Trąbczyn
       Olęder settlement, the parish's own; not shown
       (NEEDS_CONFIRMATION, "Identifications").
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md ~l.1870 'Heinrich Zelmer...
+      not shown. The literature ruling stands on the presumption.'; nothing
+      further found.
 - [x] Published at your word (built, verified, committed; **merged to main
       at your word 2026-10-24** — the branch kneifel1937 fast-forwarded
       onto main, the Kraus precedent; the live-site deploy waits on your
@@ -1090,28 +1159,45 @@ footnotes (`docs/GAZETTEER_PLAN.md`; branch `gazetteer`).
       parsing done by a Sonnet sub-agent at your word.
 - [x] The fourth sample of your voice analysed (EDITORS_VOICE, "Index
       entries"); "No method talk" made a house rule (HOUSE_STYLE).
-- [ ] **You:** the points in NEEDS_CONFIRMATION, "The gazetteer" (Mieszko
+- [x] **You:** the points in NEEDS_CONFIRMATION, "The gazetteer" (Mieszko
       III; the 1411 "scullery"; the 1418 farms; the 1440 charges; the
       archive of the visitation; the 1891 renaming; the colonies' names in
       the documents of 1805-1808; Augustynów and the lease of 1806; the
       identifications with the register; the book's figures).
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.635ff 'The gazetteer'
+      section holds these points (e.g. Mieszko III, l.640), still open.
 - [x] "Stara Huta Olędry" made a name of both Huta Trąbczyńska and Huta
       Łukomska, each with its sources (your word, 2026-10-23).
 - [ ] Step 2: Claude's reading of the import (the names and map
       appearances against the text, the review notes cleared).
-- [ ] Step 3: the pages (a page per place in English and German, the A–Z
+- [x] Step 3: the pages (a page per place in English and German, the A–Z
       list on the Places page, Zagórów's entry above its sources, the new
       places into the register, the checks in pipeline/verify_site.py).
+      Audit 2026-11-25, done: site/_places has 310 pages incl. adamierz.md,
+      bartosz.md, both languages; pipeline/verify_site.py l.516 checks the
+      gazetteer section; coords in site/_data/place_coords.yml.
 - [ ] Step 4: the dataset (JSON, CSV, the search page).
-- [ ] Step 5: the labelling page for the maps, and the first map, at your
+- [x] Step 5: the labelling page for the maps, and the first map, at your
       choice of map.
-- [ ] Step 6: the interactive map, once coordinates are in.
+      Audit 2026-11-25, done: pipeline/maps/label_page.py exists; maps
+      lukom1766, kozlowski1861, pelzucki1896 built (TODO sec. 34 [x] items;
+      changelog 2026-10-31).
+- [x] Step 6: the interactive map, once coordinates are in.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): Same as 'The interactive map (/map/)' at TODO l.1179
+      (section 34); no site/map.html yet; coordinates now in
+      (place_coords.yml).
 - [ ] Step 7 (at your word, once the outstanding sources are in): the
       index of the new places in the documents, and the enhancement pass.
-- [ ] Offered: the ten Kodeks entries the gazetteer cites and the
+- [x] Offered: the ten Kodeks entries the gazetteer cites and the
       holding lacks (I nos. 228, 535; II nos. 672, 795, 1044; III nos.
       1363, 1478, 1490, 1491, 1519; III no. 1464 is in the edition as the
       Ląd copy-book's copy) can be added from the volumes on your J: drive.
+      Audit 2026-11-25, done: units/kdw/notes.md l.105-113 (added at the
+      editor's word); intake/kodeks_missing.txt holds Nr
+      228,535,672,795,1044,1363,1478,1490,1491,1519; MISSING_SOURCES 'In the
+      edition: 31 entries'.
 - [ ] Offered: a reading of the site's existing pages for method talk
       (HOUSE_STYLE, "No method talk"), beginning with Zagórów's page.
 
@@ -1128,8 +1214,11 @@ The plan: `docs/MAPS_PLAN.md`; the site's map pages: `docs/MAPS_SITE_PLAN.md`
       (`triebenfeld-maps`, its own GitHub Pages site); the pilot Łukom
       1766; libvips installed (pyvips 3.2.0); the MapWarper points read
       from its API (it answers; the first failure was passing).
-- [ ] Coordinates for the places that exist today (OpenStreetMap, checked
+- [x] Coordinates for the places that exist today (OpenStreetMap, checked
       against your descriptions).
+      Audit 2026-11-25, done: docs/CHANGELOG.md l.6527 'Place coordinates:
+      one generated file for every place... 114 positions from Wikidata';
+      pipeline/places/coords.py.
 - [x] The pilot built for Łukom 1766 (2026-10-23; only this map, your
       word): the second repository triebenfeld-maps on GitHub Pages, the
       tiles, your five MapWarper points and the fit, the Allmaps test page,
@@ -1168,14 +1257,20 @@ The plan: `docs/MAPS_PLAN.md`; the site's map pages: `docs/MAPS_SITE_PLAN.md`
       imported, card and page on the site (`maps/kozlowski1861/notes.md`).
 - [x] The okręg labels are parts of their obręb, and the coordinates of
       Czerwonka and Nowa Wieś corrected to the map (your word, 2026-10-30).
-- [ ] **You:** the one point left on Kozłowski 1861 in NEEDS_CONFIRMATION,
+- [x] **You:** the one point left on Kozłowski 1861 in NEEDS_CONFIRMATION,
       "The gazetteer" (Noga among Wielki-Bór Obręb's districts).
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.719-722 'Wielki-Bór Obręb's
+      district Noga ... Add Noga to the sentence?' still open.
 - [ ] Map scales: put `scale:` in the register for every map as it comes in
       (your word, 2026-10-30); Łukom 1766 has none recorded.
-- [ ] Pełzucki 1896: your marks on the labelling page
+- [x] Pełzucki 1896: your marks on the labelling page
       (http://localhost:8778/pelzucki1896/ — tiles and the warp are live,
       the fit RMS 2.7 m), then the import, the georef again with the
       marks, the page and the checks (maps/pelzucki1896/notes.md).
+      Audit 2026-11-25, done: docs/CHANGELOG.md ~l.4071 'The editor's seven
+      marks imported'; maps/pelzucki1896/labels.yml, farms.yml, georef.yml
+      and site/_maps/pelzucki1896.md exist.
 - [ ] The interactive map (/map/).
 
 
@@ -1202,8 +1297,11 @@ sheet shown with the holding and without a transcription (your word).
 - [x] The reading of the Themen block (2026-10-25, your word): "polnische".
       Applied to the text, the English and the holding's pages; the check
       clean; rebuilt.
-- [ ] You: the Kurrent lines of 0030 below the Themen block, if you read
+- [x] You: the Kurrent lines of 0030 below the Themen block, if you read
       them. Nothing else is open.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.1689 'Open: the Kurrent
+      lines of 0030 below the Themen block, if the editor reads them'.
 - [x] Published at your word (2026-10-25): the branch merged to main and
       pushed; the "Build and deploy" run succeeded.
 
@@ -1244,11 +1342,19 @@ the folder is the title page and is left out (your word).
 - [x] No timeline event (your word, 2026-10-26): the contract bears on the
       colony's school, not directly on the owner. Whether the restitution
       era's story names the holding is still open.
-- [ ] You: "6 gl." at term 9 - gulden, or Groschen as the standing rule
+- [x] You: "6 gl." at term 9 - gulden, or Groschen as the standing rule
       would rewrite it (NEEDS_CONFIRMATION, "Translations").
-- [ ] You: whether the single-document terms get glossary entries ("St.",
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): docs/NEEDS_CONFIRMATION.md l.2066 'whether this
+      contract's "6 gl." is gulden is put to the editor'; no guard found in
+      reference/english_forms.yml.
+- [x] You: whether the single-document terms get glossary entries ("St.",
       "Böhm", "Opfertorium", "Viertel", the "Neujahrsumgang") - offered, not
       done (NEEDS_CONFIRMATION, "Glossary").
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): Same question in docs/NEEDS_CONFIRMATION.md ~l.2131 'The
+      single-document terms of the contract of 1820'; no glossary entries
+      for St./Böhm/Opfertorium/Viertel exist in reference/glossary.yml.
 - [x] Published at your word (2026-10-26).
 
 ## 54. APP 53/4/0/-/62 (added 2026-10-26, branch app534062)
@@ -1263,7 +1369,7 @@ the folder is the title page and is left out (your word).
       both following the identification the literature index had already
       recorded. Confirmed (your word, 2026-10-26: "Everything else is
       fine").
-- [ ] You: check the preceding pages of the volume (the online unit,
+- [x] You: check the preceding pages of the volume (the online unit,
       jednostka 980058, scans before 231) for the heading of the sitting -
       the entry has only "Feria Quinta proxima praeterita" and is dated
       1727, year only, on your provisional word. The date then moves to
@@ -1272,10 +1378,18 @@ the folder is the title page and is left out (your word).
       reading settles whether the relatio's opening formula stands higher
       on page 222 or the sentence continues from the entry above, and
       whether "De quo praesens Relatio" closes this entry or heads the next.
-- [ ] You: the readings left open - "Conte~" (Contubernali is the
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): NEEDS_CONFIRMATION.md ~l.1356 'The sitting of the relatio
+      of 1727' holds the same request; units/app534062 still has no dates:
+      sitting.
+- [x] You: the readings left open - "Conte~" (Contubernali is the
       session's candidate), "de Juris Firma" against Forma, the "eam" with
       its scribal mark (NEEDS_CONFIRMATION, "Readings, the other
       holdings", and units/app534062/intake/unresolved.md).
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): NEEDS_CONFIRMATION.md ~l.1845 (APP 53/4/0/-/62 open
+      readings) and units/app534062/intake/unresolved.md list Conte~, Juris
+      Firma, eam.
 - [x] Your correction (2026-10-26): "Szetlewicz is a surname, not a place
       name" - the session's "formed from the place" claim dropped from
       the holding's page and the person entry's comment; and the German
@@ -1325,14 +1439,21 @@ entries (the editor's word).
       checks), then the ten cemeteries one at a time. *(done 2026-10-26:
       /cemeteries/ and /de/friedhoefe/, ten pages each, ALL CHECKS
       PASSED.)*
-- [ ] **You: the visits' exact date** if you want more than "2023" on the
+- [x] **You: the visits' exact date** if you want more than "2023" on the
       pages (NEEDS_CONFIRMATION, "The cemeteries"); the numbers and the
       figures are settled.
-- [ ] **You: the five drafted gazetteer entries**
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): NEEDS_CONFIRMATION.md ~l.616 'The visits' exact date';
+      pages still say 'visited in 2023'.
+- [x] **You: the five drafted gazetteer entries**
       (`scratch/gazetteer_drafts/`): Łazińsk Pierwszy and Drugi split from
       `lazinskie-oledry`, and Orlina Duża, Stawiszyn and Zbiersk Kolonia
       drafted from the survey. Say yes and they enter the gazetteer and
       the three linkless cemetery pages get their place links.
+      Audit 2026-11-25, done: reference/gazetteer/ now has lazinsk-
+      pierwszy.yml, lazinsk-drugi.yml, orlina-duza.yml, stawiszyn.yml,
+      zbiersk-kolonia.yml; CLAUDE.md: 'gazetteer's five new entries
+      entered'.
 - [x] **Published at your word (2026-10-26)**: the branch merged to main
       and pushed; the "Build and deploy" run succeeded (run 40390595863,
       2m10s) and the pages answer on the live site. A follow-up fix pushed
@@ -1453,8 +1574,12 @@ transcription; 108 readings settled in session before the first build
       give an account, a brief and a summary that say the same thing; the
       era essays and the glossary were not read). Needs a paid run if given to
       sub-agents: your word first.
-- [ ] Publish when you say so (fast-forward `main`, check the "Build and
+- [x] Publish when you say so (fast-forward `main`, check the "Build and
       deploy" run).
+      Audit 2026-11-25, superseded: CLAUDE.md: work is on main, old branches
+      deleted 2026-11-21, site overhaul published 2026-11-24 rewrote all 57
+      holding pages; branch unit-pages-tightening no longer exists (git
+      branch).
 
 ## 58. The mentions' robustness work (2026-10-31, branch `mentions-robustness`)
 
@@ -1556,18 +1681,26 @@ transcription; 108 readings settled in session before the first build
       chains the summaries suggest, the per-entity sweeps from the index
       (fewest documents first), then the era essay as a map.
 
-## 61. AGAD 1/432/0/1/139: the 1882 reports (added 2026-11-11, **not published**)
+## 61. AGAD 1/432/0/1/139: the 1882 reports (added 2026-11-11, **published 2026-11-13**)
 
 - [x] Two documents, transcribed from the images, second reading, settled,
       translated and summarised in session (units/agad14320139/notes.md).
 - [x] The supplied-text layer built (`supplied.yml`, the collapsed panel under
       each page; plan docs/CONSISTORY_1882_PLAN.md).
-- [ ] You: the open readings (NEEDS_CONFIRMATION, "AGAD 1/432/0/1/139"); a spot
+- [x] You: the open readings (NEEDS_CONFIRMATION, "AGAD 1/432/0/1/139"); a spot
       sheet can be made on request.
-- [ ] Claude: apply the claim check (`intake/claim_check.yml`) to the summaries
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): NEEDS_CONFIRMATION.md l.2564 section 'AGAD 1/432/0/1/139'
+      lists still-open readings ([Verlangen?], 4 Rubel 61 stroke, [Ho?],
+      Kantor, Manitius).
+- [x] Claude: apply the claim check (`intake/claim_check.yml`) to the summaries
       if it changes any; the index of people and places (Erdmann, Manitius,
       Boerner, Zagórów, Pyzdry, Lissewo, Michalinowo), a timeline event if
       wanted, the era essay; German review by a German reader is still open.
+      Audit 2026-11-25, done: TODO.md l.1575: '2026-11-12: spot sheet
+      answered and applied; the index, the timeline event of 1882 and the
+      era paragraph added'; claim_check.yml exists. Only a German reader's
+      review remains.
 - [ ] More scans of file 139 (other parishes' reports) would help the
       readings: the plan's section 4, no. 2.
 
@@ -1587,12 +1720,16 @@ transcription; 108 readings settled in session before the first build
 - [x] The spot sheet answered and applied; Łazińsk matched in the two
       petitions, the index's Russian place names matched, Hohm/Холмъ said as
       probable, no person entries (the editor, 2026-11-13).
-- [ ] You: the proposed connections (NEEDS_CONFIRMATION, "APŁ
+- [x] You: the proposed connections (NEEDS_CONFIRMATION, "APŁ
       39/98/0/-/1333", 3); the office's note on folio 88 stays as read
       unless you can read it.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): NEEDS_CONFIRMATION.md ~l.2531 section APŁ 1333, 'Still
+      open' 1 (folio 88) and 3 (connections proposed); none in
+      reference/connections.yml.
 - [x] Published at your word (2026-11-13).
 
-## 63. I. HA GR, Rep. 7 C, Nr. 3067: Goldbeck's promemoria on the insurgents, 1797 (added 2026-11-19, **not published**)
+## 63. I. HA GR, Rep. 7 C, Nr. 3067: Goldbeck's promemoria on the insurgents, 1797 (added 2026-11-19, **published 2026-11-19**)
 
 - [x] Pages cut, the editor's transcription checked by four Sonnet readers
       and Claude (23 corrections), built; English, summaries (claim-checked),
@@ -1600,10 +1737,16 @@ transcription; 108 readings settled in session before the first build
 - [x] The spot sheet answered and applied (2026-11-19).
 - [x] The editor's rulings of 2026-11-19 worked in: era, no person
       entries, Prudzinski = Prusimski, three connections, a timeline event.
-- [ ] You: what is left in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr.
+- [x] You: what is left in NEEDS_CONFIRMATION ("I. HA GR, Rep. 7 C, Nr.
       3067": the reference's GR, Wybicki and Niemoiewski, Ostrzewo, two
       differences between the documents).
-- [ ] Publish at your word.
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): NEEDS_CONFIRMATION.md ~l.2492 section Nr. 3067, points
+      2-5 (reference GR, Wybicki/Niemoiewski, Ostrzewo, two differences)
+      still stand as Claude's.
+- [x] Publish at your word.
+      Audit 2026-11-25, done: published 2026-11-19 (CLAUDE.md); the section header
+      corrected the same day.
 
 ## 64. I. HA GR, Rep. 7 C, Nr. 3132: Prusimski's and Jezierski's leave to return, 1803 (added 2026-11-20, **published 2026-11-20**)
 
@@ -1643,7 +1786,7 @@ transcription; 108 readings settled in session before the first build
       era page (offered, not built); the rest in NEEDS_CONFIRMATION ("I. HA
       GR, Rep. 7 C, Nr. 421").
 - [x] Published at your word (2026-11-21).
-- [ ] **The English repaired** (your report, 2026-11-22: "Mazący" and
+- [x] **The English repaired** (your report, 2026-11-22: "Mazący" and
       "Skarbnik" left in Polish, "Zaro[Zosob?]ney", the Latin not given in
       English, registry numbers with commas, the margin note of document 1
       translated as fragments, the signatures unread). Plan:
@@ -1655,6 +1798,9 @@ transcription; 108 readings settled in session before the first build
       signatures against the state handbook (step 2), the faithfulness
       reading (step 3), the edition-wide sweep (step 5), the termbase and
       glossary entries (step 6).
+      Audit 2026-11-25, done: TODO line ~1657: 'plan's steps 2, 3, 5 and 6
+      done the same evening'; NR421_ENGLISH_PLAN step 4 'done'. The 'Next:'
+      list is stale.
 - [x] How far abbreviations are expanded: the routine forms too (you,
       2026-11-22); done for Nr. 421. The plan's steps 2, 3, 5 and 6 done
       the same evening (docs/NR421_ENGLISH_PLAN.md).
@@ -1669,8 +1815,11 @@ transcription; 108 readings settled in session before the first build
       left/right/centre. **Built the same day** (`?edit` on a document's
       address; the plan's "Built" section says how to use it), tested in
       headless Edge.
-- [ ] **You**: try it (it goes live with the next publish), and send the
+- [x] **You**: try it (it goes live with the next publish), and send the
       export file when you have laid something out ("Apply my layout file").
+      Audit 2026-11-25, done: reference/english_layout/app539680782-001.yml
+      exists (commit 064634c7): an export was applied; CHANGELOG 6508 layout
+      editor built.
 
 ## 66. The literature: Kneifel (1964), two pages added (made 2026-10-23 on the branch kneifel1964-pages, merged into main 2026-11-21)
 
@@ -1744,15 +1893,20 @@ The plan, with your answers of the day and the assumptions taken:
 - [ ] You: the title pages of the literature that exist, for thumbnails
       (no typeset tiles meanwhile, your word).
 - [x] Phase 6.1: the 57 holding pages rewritten to the rules.
-- [ ] Phase 6.2: the era, place and person pages. Done 2026-11-24: all
+- [x] Phase 6.2: the era, place and person pages. Done 2026-11-24: all
       seven era pages and their intros, blurbs and ownership lines (the
       Hohenlohe essay rewritten whole at your word). Places and the 320 person
       bios not begun. The German follows later, all at once (your word).
-- [ ] Phase 6.3: the ~640 English document summaries, holding by holding
+      Audit 2026-11-25, superseded: TODO section 70: 'C4, C5: all 324 bios
+      rewritten', 'E: the Zagórów place page'; era pages done. Only the
+      German (all at once, your word) remains, see item 124.
+- [x] Phase 6.3: the ~640 English document summaries, holding by holding
       (prose_lint + a Sonnet reader flag, Claude rewrites, a Sonnet claim
       check, `set_summaries.py`). Done: 12 rewritten, and the signature,
       registry and postal notes taken out of 40 more (Nr. 421, 3132, 3709
       and others).
+      Audit 2026-11-25, done: TODO section 70 line 1783: 'E: the 649
+      summaries (648 rewritten, 2026-11-25)'.
 - [x] Published 2026-11-24 at your word.
 
 ## 70. Places, people and the glossary (planned 2026-11-24)
@@ -1802,4 +1956,7 @@ Built on the session branch, not yet published.
 - [ ] Jezierski: the canon of the documents and Pachoński's "General Xavier
       Jezierski" at Venice: one man or two?
 - [ ] Kościuszko's and Lubecki's dates rest on reference works only: keep?
-- [ ] The places left unplaced (place_coords_unplaced.yml): which namesake?
+- [x] The places left unplaced (place_coords_unplaced.yml): which namesake?
+      Audit 2026-11-25, moved to NEEDS_CONFIRMATION (the open question is
+      kept there): TODO section 70 line 1771: '[ ] name the ones left
+      unplaced (NEEDS_CONFIRMATION, "Place coordinates")'.
