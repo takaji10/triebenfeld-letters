@@ -8,7 +8,6 @@ noindex: true
 {%- assign d = site.data.todo -%}
 <div class="prose">
   <h1>To do</h1>
-  <p class="standfirst">The editor's working list: what is open, in the order of the holdings and projects it belongs to. Answer here as you go; answers are kept in this browser, and "Export answers" gives a file to hand over. This page is not part of the edition for readers.</p>
 </div>
 
 <form class="filters filters-list todo-bar" id="todo-bar" role="search" autocomplete="off" onsubmit="return false">
