@@ -1773,7 +1773,7 @@ Built on the session branch, not yet published.
       People page is built on the proposal meanwhile.
 - [x] C4, C5: all 324 bios rewritten; the Chełmski family split into its
       members; Antoni Prusimski's death 1803 (flagged).
-- [ ] C2, C3, C8: the People page's views and the References lists.
+- [x] C2, C3, C8: the People page's views and the References lists.
 - [ ] C6, C7: person pages and life dates for the relevant people (after
       your approval).
 - [x] D1-D4, D6: the glossary's language notes, References, one Reference
