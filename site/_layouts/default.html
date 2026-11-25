@@ -16,7 +16,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title %}{{ page.title }} &middot; {% endif %}{{ t.brand }}</title>
 <meta name="description" content="{{ page.description | default: site.description | strip_newlines }}">
-<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+{% if page.noindex %}<meta name="robots" content="noindex">
+{% endif %}<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
 
@@ -117,6 +118,7 @@
     <a data-i18n="foot_rights" data-href-en="{{ '/rights/' | relative_url }}"
        data-href-de="{{ '/de/rechte/' | relative_url }}"
        href="{% if lang == 'de' %}{{ '/de/rechte/' | relative_url }}{% else %}{{ '/rights/' | relative_url }}{% endif %}">{{ t.foot_rights }}</a>
+    &middot; <a data-i18n="foot_todo" href="{{ '/todo/' | relative_url }}">{{ t.foot_todo }}</a>
   </p>
 </footer>
 

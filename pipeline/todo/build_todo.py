@@ -1,0 +1,149 @@
+# -*- coding: utf-8 -*-
+"""The to-do list: reference/todo.yml is the one source (docs/TODO_PAGE_PLAN.md).
+
+    python pipeline/todo/build_todo.py            # write site/_data/todo.yml and docs/TODO.md
+    python pipeline/todo/build_todo.py --check    # fail if either differs from what the YAML gives
+
+reference/todo.yml:  items:  a list; each item
+    id        unique, never reused (t012-chelmski-loan)
+    group     the holding or project the item belongs to (items of a group are shown together,
+              in the order the groups first appear)
+    title     6-12 words
+    kind      question | decision | task | claude | waiting
+    text      2-4 sentences that stand alone
+    options   candidate answers (question / decision), or []
+    links     [{type: unit|doc|person|place|lit|np|map, slug, n (doc), label}]
+    nc        the heading in docs/NEEDS_CONFIRMATION.md that holds the full discussion, or ''
+    audit_note  what the audit of 2026-11-25 found settled, or ''
+  done:  [{id, title, date, how}] the closed items, kept as a record (never shown on the page)
+
+Adding, changing, completing or removing an item = edit the YAML, run this, commit the YAML,
+site/_data/todo.yml and docs/TODO.md together (CLAUDE.md, "The to-do list").
+"""
+import os, sys, hashlib, textwrap
+import yaml
+
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+SRC = os.path.join(ROOT, 'reference', 'todo.yml')
+OUT_DATA = os.path.join(ROOT, 'site', '_data', 'todo.yml')
+OUT_MD = os.path.join(ROOT, 'docs', 'TODO.md')
+KINDS = ['question', 'decision', 'task', 'claude', 'waiting']
+
+
+def _exists(*p):
+    return os.path.exists(os.path.join(ROOT, *p))
+
+
+def _slugs():
+    s = {}
+    g = yaml.safe_load(open(os.path.join(ROOT, 'reference', 'genealogy.yml'), encoding='utf-8')) or {}
+    s['person'] = set((g.get('people') or {}).keys()) if isinstance(g.get('people'), dict) \
+        else {p.get('slug') for p in (g.get('people') or [])}
+    pp = yaml.safe_load(open(os.path.join(ROOT, 'site', '_data', 'places_pages.yml'), encoding='utf-8')) or {}
+    s['place'] = set(pp.keys())
+    return s
+
+
+def resolve(link, slugs):
+    """-> (href or None, problem or None)"""
+    t, slug = link.get('type'), str(link.get('slug', ''))
+    if t == 'unit':
+        return (f'/sources/{slug}/', None) if _exists('units', slug) else (None, f'no unit {slug}')
+    if t == 'doc':
+        if not _exists('units', slug):
+            return None, f'no unit {slug}'
+        return f'/documents/{slug}/{int(link["n"])}/', None
+    if t == 'person':
+        return (f'/people/{slug}/', None) if slug in slugs['person'] else (None, f'no person page {slug}')
+    if t == 'place':
+        return (f'/places/{slug}/', None) if slug in slugs['place'] else (None, f'no place page {slug}')
+    if t == 'lit':
+        return (f'/literature/{slug}/', None) if _exists('literature', slug) else (None, f'no work {slug}')
+    if t == 'np':
+        return (f'/newspapers/{slug}/', None) if _exists('newspapers', slug) else (None, f'no newspaper item {slug}')
+    if t == 'map':
+        return (f'/maps/{slug}/', None) if _exists('maps', slug) else (None, f'no map {slug}')
+    return None, f'unknown link type {t}'
+
+
+def build():
+    src = yaml.safe_load(open(SRC, encoding='utf-8')) or {}
+    items, problems, seen = src.get('items') or [], [], set()
+    slugs = _slugs()
+    groups, order = {}, []
+    for it in items:
+        i = it.get('id', '?')
+        if i in seen:
+            problems.append(f'{i}: duplicate id')
+        seen.add(i)
+        if it.get('kind') not in KINDS:
+            problems.append(f'{i}: kind {it.get("kind")!r}')
+        for k in ('group', 'title', 'text'):
+            if not (it.get(k) or '').strip():
+                problems.append(f'{i}: no {k}')
+        if it.get('kind') in ('question', 'decision') and not it.get('options'):
+            problems.append(f'{i}: a {it["kind"]} with no options (give them, or make it a task)')
+        links = []
+        for l in it.get('links') or []:
+            href, bad = resolve(l, slugs)
+            if bad:
+                problems.append(f'{i}: link {l.get("label")!r}: {bad}')
+            else:
+                links.append({'label': l['label'], 'href': href})
+        h = hashlib.sha1((it['text'] + '|'.join(it.get('options') or [])).encode('utf-8')).hexdigest()[:8]
+        card = {'id': i, 'title': it['title'], 'kind': it['kind'], 'text': it['text'].strip(),
+                'options': it.get('options') or [], 'links': links, 'nc': it.get('nc') or '',
+                'note': it.get('audit_note') or '', 'h': h}
+        g = it['group']
+        if g not in groups:
+            groups[g] = []; order.append(g)
+        groups[g].append(card)
+    data = {'groups': [{'name': g, 'items': groups[g]} for g in order],
+            'counts': {k: sum(1 for it in items if it.get('kind') == k) for k in KINDS},
+            'total': len(items)}
+    data_txt = ('# Generated by pipeline/todo/build_todo.py from reference/todo.yml - do not hand-edit.\n' +
+                yaml.safe_dump(data, allow_unicode=True, sort_keys=False, width=100))
+    md = ['# To do', '',
+          '*Generated by `pipeline/todo/build_todo.py` from `reference/todo.yml` - do not edit by hand.*',
+          'The same list is the page /todo/ on the site, where the questions are answered',
+          '([TODO_PAGE_PLAN.md](TODO_PAGE_PLAN.md)). The older list, with its closed items, is',
+          '[archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and',
+          'identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).', '',
+          f'{len(items)} open: ' + ', '.join(f'{data["counts"][k]} {k}' for k in KINDS if data['counts'][k]) + '.', '']
+    for g in data['groups']:
+        md += [f'## {g["name"]}', '']
+        for c in g['items']:
+            md.append(f'- [ ] **{c["title"]}** (`{c["id"]}`, {c["kind"]}). ' + textwrap.fill(c['text'], 88, subsequent_indent='      ').lstrip())
+            if c['options']:
+                md.append('      Options: ' + ' / '.join(c['options']))
+            if c['links']:
+                md.append('      Concerns: ' + ', '.join(f'[{l["label"]}]({l["href"]})' for l in c['links']))
+            if c['nc']:
+                md.append(f'      Full discussion: NEEDS_CONFIRMATION, "{c["nc"]}".')
+            md.append('')
+    return data_txt, '\n'.join(md).rstrip('\n') + '\n', problems
+
+
+def main():
+    check = '--check' in sys.argv
+    data_txt, md, problems = build()
+    if problems:
+        print('PROBLEMS:'); [print('  ', p) for p in problems]
+    if check:
+        ok = not problems
+        for path, want in ((OUT_DATA, data_txt), (OUT_MD, md)):
+            have = open(path, encoding='utf-8', newline='').read() if os.path.exists(path) else None
+            if have != want:
+                print(f'{os.path.relpath(path, ROOT)} differs from what reference/todo.yml gives: run pipeline/todo/build_todo.py')
+                ok = False
+        print('todo: OK' if ok else 'todo: FAILED')
+        sys.exit(0 if ok else 1)
+    if problems:
+        sys.exit(1)
+    for path, txt in ((OUT_DATA, data_txt), (OUT_MD, md)):
+        open(path, 'w', encoding='utf-8', newline='\n').write(txt)
+    print('written', os.path.relpath(OUT_DATA, ROOT), os.path.relpath(OUT_MD, ROOT))
+
+
+if __name__ == '__main__':
+    main()

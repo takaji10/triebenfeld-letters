@@ -5272,3 +5272,11 @@ viewbar. Lessons:
 ## Merge markers in a holding page (2026-11-25)
 
 The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>` / `<<<` / `===` blocks, the two versions of a sentence, in the `about.md` of four holdings (agad14320139, app53170koningr153, ihagrrep7cnr3709, iiihamdaiiinr12367); the site showed them as a quote in "Contents", and in agad14320139 the section's opening sentence was gone. Fixed by taking the newer wording; the German pages had been spared. After any bulk edit of `about.md` files, `grep -ln '^>>>$\|^<<<$\|^===$\|>>>$' units/*/about*.md` must be empty.
+
+## The to-do audit and page (2026-11-25)
+
+- **Audit method that worked** (docs/TODO_AUDIT_2026-11-25.md): the open boxes pulled out by script (a box and its continuation lines), five Sonnet readers of ~27 each, read-only, each verdict DONE / SUPERSEDED / DUPLICATE / OPEN / UNSURE with a quoted file as evidence; Claude then re-checked every verdict that closes a box (files exist, dates agree) before TODO.md was touched. Of 133 boxes 45 closed, 88 stayed. A reader that finds a question already in NEEDS_CONFIRMATION calls it a duplicate: that is "moved", not "answered".
+- **Background Sonnet readers die on the account's usage limit** (HTTP 429, "resets at ..."): their half-written files may be missing or partial. After a restart list the output files, check each against its batch (same count, same `n` order) and send only the missing batches again; do not trust a file just because it exists.
+- **Liquid trap:** `where_exp` cannot see a loop variable (`x.types contains ty.slug` is a syntax error in Liquid 4); count with a plain `for` loop.
+- **Looking at a built page:** the site's links are root-relative (`baseurl: ""`), so a `file://` screenshot has no CSS; serve `site/_site` with `python3 -m http.server` from that folder and open `http://localhost:<port>/...`.
+- **The search bar** is one component (`_includes/browse.html`, `.filters` in style.css); a new bar (Places, Glossary, the to-do page) uses the same classes (`f-main`, `f-bar`, `f-grid`), never its own look.
