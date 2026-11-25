@@ -1235,3 +1235,33 @@ body.tf-german li.tf-chosen { background: var(--paper-2); }
 body.tf-german li.tf-v-office, body.tf-german li.tf-v-margin, body.tf-german li.tf-v-hand {
   box-shadow: inset 3px 0 0 #b5562a; }
 body.tf-german li.tf-v-none { box-shadow: inset 3px 0 0 var(--ink-soft); }
+
+/* ---- the Places page: search bar, map, legend (2026-11-25) ---- */
+.places-filters { margin-top: 1rem; }
+.places-filters .f-search { flex: 2 1 16rem; }
+.places-filters select { max-width: 100%; }
+.places-mapblock { max-width: 62rem; margin: 0 0 1.5rem; }
+.places-map { position: relative; height: 60vh; min-height: 320px; overflow: hidden;
+  border: 1px solid var(--rule); border-radius: 4px; background: var(--paper-2); z-index: 0; }
+@media (max-width: 40rem) { .places-map { height: 50vh; } }
+.places-map .leaflet-control-layers { font-family: var(--sans); font-size: .8rem; }
+.places-legend { margin: .6rem 0 0; padding: .6rem .9rem; }
+.pl-row { display: flex; flex-wrap: wrap; gap: .35rem 1.1rem; align-items: center; }
+.pl-row + .pl-row { margin-top: .4rem; }
+.pl-h { font-family: var(--sans); font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--ink-faint); }
+.places-legend label.chk { flex-direction: row; }
+.places-legend label.chk span { text-transform: none; letter-spacing: 0; }
+.pl-ico { display: inline-grid; place-items: center; color: var(--accent); }
+.pm { display: grid; place-items: center; width: 26px; height: 26px; border-radius: 50%;
+  background: var(--paper); border: 1.5px solid var(--accent); color: var(--accent);
+  box-shadow: 0 1px 3px rgba(0,0,0,.3); }
+.pm-t2 { border-color: var(--ink-soft); color: var(--ink-soft); }
+.pm svg { display: block; }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--paper); color: var(--ink); }
+.leaflet-popup-content { font-family: var(--sans); font-size: .9rem; }
+.leaflet-popup-content a { color: var(--accent); }
+.pm-kind { color: var(--ink-faint); font-size: .8rem; }
+.place-index .dist { font-family: var(--sans); font-size: .8rem; color: var(--accent); }
+.place-index .dist::before { content: "· "; }
+.place-index li[hidden], .place-none[hidden], .place-sort[hidden] { display: none; }
+.place-none { font-family: var(--sans); font-size: .9rem; color: var(--ink-faint); }
