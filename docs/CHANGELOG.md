@@ -6534,3 +6534,10 @@ sources-icon.html`).
 ## 2026-11-25 - Compacter list cards
 
 - The standard card of every list under Sources (manuscripts, newspapers, literature, maps) made more compact at the editor's word: thumbnail 7rem to 4.5rem (3.5rem on a phone), padding, gaps between cards and between the lines inside a card roughly halved, title, description, counts and tags a little smaller (about a quarter shorter in all). `site/assets/style.css`, the `.source` rules; the holding page's own facts line is unchanged.
+
+## 2026-11-25 - One layout for the search bar
+
+- **Manuscripts: Type as a multi-select drop-down** in the bar's main row (Deeds, contracts and grants; Government and administrative files; Correspondence; ...; each with its number of holdings, "Clear" at the foot). Ticking types, with Archive, narrows the holdings' own cards (count "Showing 31 / 56 holdings"); with a text, year, person or place the documents are listed as before, a document counting if its holding has any of the ticked types. The address takes `?type=a,b`.
+- **The bar's layout, the same on every page** (`_includes/browse.html`, `.filters` in style.css): main row (search box, the page's own main filter, Order), one line under it (Advanced toggle left, count and Reset right), the Advanced fields in a grid of equal columns. On a list page the bar is as wide as the cards (90rem), elsewhere as the results (62rem); a phone gets one column.
+- **The year boxes' arrows** replaced by two small triangles of the site's drawing (the browser's spin buttons hidden), repeating when held; the selects' arrow a small chevron in the text colour, so both themes follow.
+- The Places bar and the Glossary's search box now use the same markup and look.

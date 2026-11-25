@@ -347,12 +347,12 @@ thead th a { color: inherit; }
 .browse-head { max-width: var(--measure); }
 
 .filters {
-  margin: 1.75rem 0 1rem; padding: 1rem 1.1rem;
+  margin: 1.5rem 0 1rem; padding: .8rem 1rem .7rem;
   border: 1px solid var(--rule); border-radius: 3px; background: var(--paper-2);
   max-width: 62rem;
 }
-.f-row { display: flex; flex-wrap: wrap; gap: .9rem; margin-bottom: .75rem; }
-.f-row:last-of-type { margin-bottom: .25rem; }
+/* On a list page the bar is as wide as the cards below it (2026-11-25). */
+.filters-list { max-width: 90rem; }
 .filters label { display: flex; flex-direction: column; gap: .25rem; font-family: var(--sans); font-size: .78rem; color: var(--ink-faint);
                  /* The label may shrink below its select's intrinsic width (the
                     widest option's); the select then stretches to the shrunk
@@ -360,14 +360,25 @@ thead th a { color: inherit; }
                     by 129px. */
                  min-width: 0; }
 .filters label span { text-transform: uppercase; letter-spacing: .05em; }
-.f-search { flex: 1 1 18rem; }
+.f-search { flex: 1 1 16rem; }
 .filters input, .filters select {
   font: inherit; font-size: .95rem; font-family: var(--sans);
   padding: .42rem .55rem; border: 1px solid var(--rule); border-radius: 2px;
-  background: var(--paper); color: var(--ink); min-width: 8rem;
+  background-color: var(--paper); color: var(--ink); min-width: 8rem;
 }
+/* One look for every drop-down of the bar: the browser's arrow replaced by the
+   site's own small chevron, drawn in the text colour so both themes follow. */
+.filters select, .cs-btn {
+  -webkit-appearance: none; appearance: none; padding-right: 1.9rem; cursor: pointer;
+  background-image: linear-gradient(45deg, transparent 50%, var(--ink-soft) 50%),
+                    linear-gradient(135deg, var(--ink-soft) 50%, transparent 50%);
+  background-position: calc(100% - 1rem) 52%, calc(100% - .68rem) 52%;
+  background-size: .34rem .34rem; background-repeat: no-repeat;
+}
+.filters select:hover, .cs-btn:hover { border-color: var(--accent); }
+.f-main input[type=search], .filters label select, .filters .f-grid label select { width: 100%; box-sizing: border-box; }
 .filters input:focus, .filters select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
-.f-status { margin: .4rem 0 0; font-family: var(--sans); font-size: .82rem; color: var(--ink-faint); display: flex; gap: 1rem; }
+.f-status { margin: 0; font-family: var(--sans); font-size: .82rem; color: var(--ink-faint); display: flex; flex-wrap: wrap; gap: .2rem 1rem; }
 .f-term { margin: .4rem 0 0; font-family: var(--sans); font-size: .82rem; color: var(--ink-soft); }
 
 /* The one search bar (2026-11-24): the search box and Order on one row, a small
@@ -375,9 +386,11 @@ thead th a { color: inherit; }
    places, the search options. */
 .filters[hidden], .f-adv[hidden], .f-field[hidden], .results[hidden], .more[hidden],
 .ms-list[hidden], .sources[hidden], .filters label[hidden] { display: none; }
-.f-main .f-order { flex: 0 1 15rem; }
-.f-main .f-order select { max-width: 100%; }
-.f-adv-row { margin: 0 0 .5rem; }
+.f-main { display: flex; flex-wrap: wrap; align-items: flex-end; gap: .7rem .9rem; }
+.f-main .f-order { flex: 0 1 11rem; }
+.f-main .f-type { flex: 0 1 17rem; }
+@media (max-width: 40rem) { .f-main > *, .f-main .f-order, .f-main .f-type { flex: 1 1 100%; } }
+.f-bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .2rem 1rem; margin-top: .45rem; }
 .f-adv-toggle { font-family: var(--sans); font-size: .82rem; color: var(--ink-soft); background: none;
                 border: 0; padding: .15rem 0; cursor: pointer; display: inline-flex; align-items: center; gap: .45rem; }
 .f-adv-toggle:hover { color: var(--accent); }
@@ -385,14 +398,18 @@ thead th a { color: inherit; }
              border-top: .28rem solid transparent; border-bottom: .28rem solid transparent;
              transition: transform .15s; }
 .f-adv-toggle.is-open .adv-arrow { transform: rotate(90deg); }
-.f-adv { margin: 0 0 .5rem; padding-top: .35rem; border-top: 1px solid var(--rule); }
+.f-adv { margin: .5rem 0 0; padding-top: .75rem; border-top: 1px solid var(--rule); }
+/* The Advanced fields in equal columns; the year range takes two, the options a row. */
+.f-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: .75rem .9rem; align-items: start; }
+.f-grid .f-year { grid-column: span 2; }
+.f-grid .f-opts { grid-column: 1 / -1; }
+@media (max-width: 40rem) { .f-grid .f-year { grid-column: span 1; } }
 .f-field { display: flex; flex-direction: column; gap: .25rem; font-family: var(--sans); font-size: .78rem;
            color: var(--ink-faint); min-width: 0; position: relative; }
 .f-label { text-transform: uppercase; letter-spacing: .05em; }
 .f-note { margin: .15rem 0 0; font-size: .72rem; color: var(--ink-faint); }
-.f-year { flex: 1 1 28rem; max-width: 36rem; }
 .yr-row { display: flex; align-items: flex-end; gap: .8rem; }
-.yr-row label.yr-num { flex: 0 0 5.2rem; }
+.yr-row label.yr-num { flex: 0 0 5.6rem; }
 .filters .yr-num input { min-width: 0; width: 100%; box-sizing: border-box; }
 .yr-track { position: relative; flex: 1 1 8rem; height: 2.1rem; min-width: 0; }
 .yr-track::before { content: ""; position: absolute; left: 0; right: 0; top: 50%; height: 4px; margin-top: -2px;
@@ -410,7 +427,6 @@ thead th a { color: inherit; }
   background: var(--paper); border: 2px solid var(--accent); cursor: pointer; }
 .yr-track input[type=range]:focus-visible::-webkit-slider-thumb { outline: 2px solid var(--accent); outline-offset: 2px; }
 .yr-track input[type=range]:focus-visible::-moz-range-thumb { outline: 2px solid var(--accent); outline-offset: 2px; }
-.ms { flex: 1 1 18rem; max-width: 30rem; }
 .ms-box { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; padding: .25rem .4rem;
           border: 1px solid var(--rule); border-radius: 2px; background: var(--paper); cursor: text; }
 .ms-box:focus-within { outline: 2px solid var(--accent); outline-offset: -1px; }
@@ -441,6 +457,38 @@ thead th a { color: inherit; }
 .filters label.chk span { text-transform: none; letter-spacing: 0; }
 .filters label.chk input { min-width: 0; width: auto; margin: 0; accent-color: var(--accent); }
 .chip-hit { margin-right: .3rem; }
+
+/* The year boxes' own arrows (2026-11-25): the browser's spin buttons hidden,
+   two small triangles of the site's drawing (as the Advanced arrow) in their place. */
+.filters .yr-num input[type=number] { -moz-appearance: textfield; appearance: textfield; padding-right: 1.9rem; }
+.filters .yr-num input::-webkit-inner-spin-button, .filters .yr-num input::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+.yr-field { position: relative; display: block; }
+.yr-steps { position: absolute; top: 1px; bottom: 1px; right: 1px; width: 1.45rem; display: flex; flex-direction: column;
+            border-left: 1px solid var(--rule); border-radius: 0 2px 2px 0; overflow: hidden; }
+.yr-steps button { flex: 1 1 50%; position: relative; border: 0; padding: 0; margin: 0; cursor: pointer;
+                   background: transparent; color: var(--ink-faint); }
+.yr-steps button:first-child { border-bottom: 1px solid var(--rule); }
+.yr-steps button:hover { color: var(--accent); background: var(--paper-2); }
+.yr-steps button::after { content: ""; position: absolute; left: 50%; top: 50%; width: 0; height: 0;
+                          margin-left: -.27rem; border-left: .27rem solid transparent; border-right: .27rem solid transparent; }
+.yr-up::after { margin-top: -.17rem; border-bottom: .27rem solid currentColor; }
+.yr-down::after { margin-top: -.1rem; border-top: .27rem solid currentColor; }
+
+/* The tick-box drop-down (Manuscripts: Type): a button that looks like the
+   selects, a panel of boxes, "Clear" at its foot. */
+.cs { position: relative; }
+.cs-btn { display: block; width: 100%; text-align: left; font: inherit; font-family: var(--sans); font-size: .95rem; box-sizing: border-box;
+          padding: .42rem .55rem; padding-right: 1.9rem; border: 1px solid var(--rule); border-radius: 2px;
+          background-color: var(--paper); color: var(--ink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cs.is-set .cs-btn { border-color: var(--accent); }
+.cs-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: -1px; }
+.cs-list { position: absolute; left: 0; min-width: 100%; top: 100%; z-index: 20; margin: 2px 0 0; padding: .25rem 0;
+           background: var(--paper); border: 1px solid var(--rule); border-radius: 2px;
+           box-shadow: 0 6px 18px rgba(0,0,0,.18); }
+.cs-list[hidden] { display: none; }
+.filters .cs-list label.chk { padding: .32rem .8rem; cursor: pointer; white-space: nowrap; font-size: .88rem; color: var(--ink); }
+.filters .cs-list label.chk:hover { background: var(--paper-2); }
+.cs-clear { margin: .2rem .8rem .15rem; font-size: .8rem; }
 .more { margin: 1rem 0; font-family: var(--sans); }
 
 .results { list-style: none; margin: 0; padding: 0; max-width: 62rem; }
@@ -928,11 +976,14 @@ img.scan {
 .credits .credit-line { font-family: var(--sans); font-size: .85rem; color: var(--ink-soft); }
 
 /* ---- the glossary page (_includes/glossary.html) ---- */
-.gl-tools { max-width: var(--measure); margin: 1.4rem 0 .6rem; }
+/* The glossary's search box in the look of the browse bar (2026-11-25). */
+.gl-tools { max-width: 62rem; margin: 1.5rem 0 .8rem; padding: .8rem 1rem;
+            border: 1px solid var(--rule); border-radius: 3px; background: var(--paper-2); }
 .gl-tools input[type="search"] {
-  width: 100%; font: inherit; font-size: 1rem; padding: .55rem .7rem;
-  border: 1px solid var(--rule); border-radius: 4px; background: var(--paper); color: var(--ink);
+  width: 100%; box-sizing: border-box; font: inherit; font-size: .95rem; font-family: var(--sans);
+  padding: .42rem .55rem; border: 1px solid var(--rule); border-radius: 2px; background: var(--paper); color: var(--ink);
 }
+.gl-tools input[type="search"]:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
 .gl-kinds { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .7rem; }
 .gl-chip {
   font-family: var(--sans); font-size: .78rem; cursor: pointer;
@@ -1003,7 +1054,6 @@ img.scan {
    the hits a short scrolling list above the text. */
 .lit-search { margin-top: 1.2rem; max-width: 46rem; }
 .lit-search .filters { margin: 0; padding: .7rem .9rem; max-width: none; }
-.lit-search .f-row { margin-bottom: .5rem; }
 .lit-search .f-status { margin: .3rem 0 0; min-height: 0; }
 .lit-search .f-status:has(#count:empty) #reset { display: none; }
 .lit-search .results { max-width: none; max-height: 22rem; overflow-y: auto; margin-top: .5rem;
@@ -1257,8 +1307,8 @@ body.tf-german li.tf-v-none { box-shadow: inset 3px 0 0 var(--ink-soft); }
 
 /* ---- the Places page: search bar, map, legend (2026-11-25) ---- */
 .places-filters { margin-top: 1rem; }
-.places-filters .f-search { flex: 2 1 16rem; }
-.places-filters select { max-width: 100%; }
+.places-filters .f-search { flex: 1 1 16rem; }
+.places-filters .f-main > label:not(.f-search) { flex: 0 1 12rem; }
 .places-mapblock { max-width: 62rem; margin: 0 0 1.5rem; }
 .places-map { position: relative; height: 60vh; min-height: 320px; overflow: hidden;
   border: 1px solid var(--rule); border-radius: 4px; background: var(--paper-2); z-index: 0; }

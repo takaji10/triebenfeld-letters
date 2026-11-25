@@ -41,12 +41,36 @@
   </header>
   {% endif %}
 
-  <form class="filters" id="filters" autocomplete="off" role="search"{% if b_list %} hidden{% endif %}>
-    <div class="f-row f-main">
+  {%- comment -%}
+    THE bar's layout (the editor, 2026-11-25), the same on every page: one main
+    row (the search box, the page's own main filter, Order), one line under it
+    (the Advanced toggle on the left, the count and Reset on the right), and
+    the Advanced fields in a grid of equal columns. On a list page the bar is as
+    wide as the cards below it. The Manuscripts list's main filter is Type, a
+    drop-down in which several types can be ticked.
+  {%- endcomment -%}
+  <form class="filters{% if b_list %} filters-list{% endif %}" id="filters" autocomplete="off" role="search"{% if b_list %} hidden{% endif %}>
+    <div class="f-main">
       <label class="f-search">
         <span>{{ t.f_search }}</span>
         <input type="search" id="q" placeholder="{{ t.f_search_ph }}">
       </label>
+      {%- if b_manuscripts -%}
+      <div class="f-field cs f-type" id="cs-type" data-cs="type">
+        <span class="f-label" id="cs-type-l">{{ t.f_type }}</span>
+        <button type="button" class="cs-btn" aria-haspopup="listbox" aria-expanded="false" aria-labelledby="cs-type-l cs-type-v"><span class="cs-val" id="cs-type-v" data-all="{{ t.f_all_types | escape }}" data-n="{{ t.f_types_n | escape }}">{{ t.f_all_types }}</span></button>
+        <div class="cs-list" role="group" aria-labelledby="cs-type-l" hidden>
+          {%- for ty in site.data.unit_types -%}
+          {%- assign ty_n = 0 -%}
+          {%- for u in site.data.units -%}{%- if u.listed_in != "literature" and u.types contains ty.slug -%}{%- assign ty_n = ty_n | plus: 1 -%}{%- endif -%}{%- endfor -%}
+          {%- if ty_n > 0 %}
+          <label class="chk"><input type="checkbox" value="{{ ty.slug }}"><span>{% if lang == "de" %}{{ ty.de }}{% else %}{{ ty.en }}{% endif %} <span class="ms-n">({{ ty_n }})</span></span></label>
+          {%- endif -%}
+          {%- endfor %}
+          <button type="button" class="linkish cs-clear">{{ t.f_clear }}</button>
+        </div>
+      </div>
+      {%- endif %}
       <label class="f-order"{% if b_work != "" %} hidden{% endif %}>
         <span>{{ t.f_order }}</span>
         <select id="order">
@@ -58,14 +82,15 @@
       </label>
     </div>
 
-    <p class="f-adv-row">
+    <div class="f-bar">
       <button type="button" class="f-adv-toggle" id="adv-toggle" aria-expanded="false" aria-controls="adv">
         <span class="adv-arrow" aria-hidden="true"></span>{{ t.f_advanced }}
       </button>
-    </p>
+      <p class="f-status"><span id="count" aria-live="polite">…</span> <button type="button" id="reset" class="linkish">{{ t.f_reset }}</button></p>
+    </div>
 
     <div class="f-adv" id="adv" hidden>
-      <div class="f-row">
+      <div class="f-grid">
         {% if site.data.units.size > 1 and b_unit == "" and b_list == false and b_kind == "documents" %}
         <label><span>{{ t.f_unit }}</span>
           <select id="unit"><option value="">{{ t.f_allunits }}</option>
@@ -77,11 +102,6 @@
         <label><span>{{ t.f_archive }}</span>
           <select id="archive"><option value="">{{ t.f_all_archives }}</option>
           {%- for a in include.archives %}<option value="{{ a | escape }}">{{ a | escape }}</option>{% endfor -%}
-          </select>
-        </label>
-        <label><span>{{ t.f_type }}</span>
-          <select id="type"><option value="">{{ t.f_all_types }}</option>
-          {%- for ty in site.data.unit_types %}<option value="{{ ty.slug }}">{% if lang == "de" %}{{ ty.de }}{% else %}{{ ty.en }}{% endif %}</option>{% endfor -%}
           </select>
         </label>
         {%- endif -%}
@@ -110,25 +130,7 @@
         </label>
         {% endif %}
         {%- endif -%}
-      </div>
 
-      <div class="f-row"{% if b_work != "" %} hidden{% endif %}>
-        <div class="f-field f-year" id="yr" data-min="{{ site.data.stats.year_min }}" data-max="{{ site.data.stats.year_max }}" role="group" aria-label="{{ t.f_pick_year }}">
-          <span class="f-label">{{ t.f_year }}</span>
-          <div class="yr-row">
-            <label class="yr-num"><span>{{ t.f_from }}</span><input type="number" id="y-from" inputmode="numeric" min="{{ site.data.stats.year_min }}" max="{{ site.data.stats.year_max }}" value="{{ site.data.stats.year_min }}"></label>
-            <div class="yr-track">
-              <div class="yr-fill" id="yr-fill"></div>
-              <input type="range" id="y-lo" aria-label="{{ t.f_from }}" min="{{ site.data.stats.year_min }}" max="{{ site.data.stats.year_max }}" value="{{ site.data.stats.year_min }}" step="1">
-              <input type="range" id="y-hi" aria-label="{{ t.f_to }}" min="{{ site.data.stats.year_min }}" max="{{ site.data.stats.year_max }}" value="{{ site.data.stats.year_max }}" step="1">
-            </div>
-            <label class="yr-num"><span>{{ t.f_to }}</span><input type="number" id="y-to" inputmode="numeric" min="{{ site.data.stats.year_min }}" max="{{ site.data.stats.year_max }}" value="{{ site.data.stats.year_max }}"></label>
-          </div>
-          <p class="f-note">{{ t.f_year_note }}</p>
-        </div>
-      </div>
-
-      <div class="f-row">
         <div class="f-field ms" id="ms-person" data-ms="person">
           <span class="f-label" id="ms-person-l">{{ t.f_person }}</span>
           <div class="ms-box"><span class="ms-chips"></span><input type="text" class="ms-input" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-labelledby="ms-person-l" placeholder="{{ t.f_people_ph }}"></div>
@@ -139,28 +141,41 @@
           <div class="ms-box"><span class="ms-chips"></span><input type="text" class="ms-input" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-labelledby="ms-place-l" placeholder="{{ t.f_places_ph }}"></div>
           <ul class="ms-list" role="listbox" hidden></ul>
         </div>
-      </div>
 
-      <fieldset class="f-opts">
-        <legend>{{ t.f_options }}</legend>
-        <div class="opt-line">
-          <label class="chk"><input type="checkbox" id="o-phrase"><span>{{ t.f_opt_phrase }}</span></label>
-          <label class="chk"><input type="radio" name="o-mode" value="all" id="o-all" checked><span>{{ t.f_opt_all }}</span></label>
-          <label class="chk"><input type="radio" name="o-mode" value="any" id="o-any"><span>{{ t.f_opt_any }}</span></label>
-          <label class="chk"><input type="checkbox" id="o-whole"><span>{{ t.f_opt_whole }}</span></label>
-          <label class="chk"><input type="checkbox" id="o-accents" checked><span>{{ t.f_opt_accents }}</span></label>
-          <label class="chk"><input type="checkbox" id="o-case"><span>{{ t.f_opt_case }}</span></label>
+        <div class="f-field f-year" id="yr" data-min="{{ site.data.stats.year_min }}" data-max="{{ site.data.stats.year_max }}" role="group" aria-label="{{ t.f_pick_year }}"{% if b_work != "" %} hidden{% endif %}>
+          <span class="f-label">{{ t.f_year }}</span>
+          <div class="yr-row">
+            <label class="yr-num"><span>{{ t.f_from }}</span><span class="yr-field"><input type="number" id="y-from" inputmode="numeric" min="{{ site.data.stats.year_min }}" max="{{ site.data.stats.year_max }}" value="{{ site.data.stats.year_min }}"><span class="yr-steps"><button type="button" class="yr-up" data-for="y-from" data-step="1" tabindex="-1" aria-label="{{ t.f_year_up }}"></button><button type="button" class="yr-down" data-for="y-from" data-step="-1" tabindex="-1" aria-label="{{ t.f_year_down }}"></button></span></span></label>
+            <div class="yr-track">
+              <div class="yr-fill" id="yr-fill"></div>
+              <input type="range" id="y-lo" aria-label="{{ t.f_from }}" min="{{ site.data.stats.year_min }}" max="{{ site.data.stats.year_max }}" value="{{ site.data.stats.year_min }}" step="1">
+              <input type="range" id="y-hi" aria-label="{{ t.f_to }}" min="{{ site.data.stats.year_min }}" max="{{ site.data.stats.year_max }}" value="{{ site.data.stats.year_max }}" step="1">
+            </div>
+            <label class="yr-num"><span>{{ t.f_to }}</span><span class="yr-field"><input type="number" id="y-to" inputmode="numeric" min="{{ site.data.stats.year_min }}" max="{{ site.data.stats.year_max }}" value="{{ site.data.stats.year_max }}"><span class="yr-steps"><button type="button" class="yr-up" data-for="y-to" data-step="1" tabindex="-1" aria-label="{{ t.f_year_up }}"></button><button type="button" class="yr-down" data-for="y-to" data-step="-1" tabindex="-1" aria-label="{{ t.f_year_down }}"></button></span></span></label>
+          </div>
+          <p class="f-note">{{ t.f_year_note }}</p>
         </div>
-        <div class="opt-line">
-          <span class="opt-h">{{ t.f_in }}</span>
-          <label class="chk"><input type="checkbox" id="in-orig" checked><span>{{ t.f_in_orig }}</span></label>
-          <label class="chk"><input type="checkbox" id="in-en" checked><span>{{ t.f_in_en }}</span></label>
-          <label class="chk"><input type="checkbox" id="in-sum" checked><span>{{ t.f_in_sum }}</span></label>
-        </div>
-      </fieldset>
+
+        <fieldset class="f-opts">
+          <legend>{{ t.f_options }}</legend>
+          <div class="opt-line">
+            <label class="chk"><input type="checkbox" id="o-phrase"><span>{{ t.f_opt_phrase }}</span></label>
+            <label class="chk"><input type="radio" name="o-mode" value="all" id="o-all" checked><span>{{ t.f_opt_all }}</span></label>
+            <label class="chk"><input type="radio" name="o-mode" value="any" id="o-any"><span>{{ t.f_opt_any }}</span></label>
+            <label class="chk"><input type="checkbox" id="o-whole"><span>{{ t.f_opt_whole }}</span></label>
+            <label class="chk"><input type="checkbox" id="o-accents" checked><span>{{ t.f_opt_accents }}</span></label>
+            <label class="chk"><input type="checkbox" id="o-case"><span>{{ t.f_opt_case }}</span></label>
+          </div>
+          <div class="opt-line">
+            <span class="opt-h">{{ t.f_in }}</span>
+            <label class="chk"><input type="checkbox" id="in-orig" checked><span>{{ t.f_in_orig }}</span></label>
+            <label class="chk"><input type="checkbox" id="in-en" checked><span>{{ t.f_in_en }}</span></label>
+            <label class="chk"><input type="checkbox" id="in-sum" checked><span>{{ t.f_in_sum }}</span></label>
+          </div>
+        </fieldset>
+      </div>
     </div>
 
-    <p class="f-status"><span id="count" aria-live="polite">…</span> <button type="button" id="reset" class="linkish">{{ t.f_reset }}</button></p>
     <p class="f-term" id="term" hidden></p>
   </form>
 

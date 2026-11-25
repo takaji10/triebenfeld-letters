@@ -22,7 +22,7 @@
   the types and the two tiers on and off.
 {%- endcomment -%}
 <form class="filters places-filters" id="places-filters" role="search" autocomplete="off" onsubmit="return false">
-  <div class="f-row f-main">
+  <div class="f-main">
     <label class="f-search">
       <span>{% if lang == 'de' %}Orte suchen{% else %}Search places{% endif %}</span>
       <input type="search" id="pl-q" placeholder="{% if lang == 'de' %}Name, deutscher Name oder Art{% else %}Name, German name or type{% endif %}">
@@ -38,7 +38,9 @@
       </select>
     </label>
   </div>
-  <p class="f-status"><span id="pl-count" aria-live="polite"></span> <button type="button" id="pl-reset" class="linkish">{{ t.f_reset }}</button></p>
+  <div class="f-bar">
+    <p class="f-status"><span id="pl-count" aria-live="polite"></span> <button type="button" id="pl-reset" class="linkish">{{ t.f_reset }}</button></p>
+  </div>
   <p class="f-term" id="pl-note" hidden>{% if lang == 'de' %}Orte ohne bekannte Lage bleiben außen vor.{% else %}Places with no known position are left out.{% endif %}</p>
 </form>
 

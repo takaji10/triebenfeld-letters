@@ -39,6 +39,7 @@
   var shown = PAGE;
   var yearLo, yearHi, limLo = CFG.yearMin, limHi = CFG.yearMax;
   var ms = {};              // the two multi-selects
+  var cs = {};              // the tick-box drop-down (Manuscripts: Type)
   var cards = [];           // a list page's cards
   var coll = (typeof Intl !== 'undefined' && Intl.Collator) ? new Intl.Collator('en', {numeric: true}) : null;
 
@@ -217,7 +218,7 @@
     return {
       unit: els.unit ? els.unit.value : '',
       archive: els.archive ? els.archive.value : '',
-      type: els.type ? els.type.value : '',
+      type: cs.type ? cs.type.ids() : [],
       era: els.era ? els.era.value : '',
       theme: els.theme ? els.theme.value : '',
       lo: yearLo, hi: yearHi,
@@ -228,17 +229,18 @@
   }
 
   function filtersActive(f) {
-    return !!(f.unit || f.archive || f.type || f.era || f.theme || !f.fullYears ||
+    return !!(f.unit || f.archive || f.type.length || f.era || f.theme || !f.fullYears ||
               f.people.length || f.places.length || TERM);
   }
 
   function passes(it, f) {
     if (f.unit && it.unit !== f.unit) return false;
-    if (f.archive || f.type) {
+    if (f.archive || f.type.length) {
       var u = FACETS.units[it.unit];
       if (!u) return false;
       if (f.archive && u.archive !== f.archive) return false;
-      if (f.type && u.types.indexOf(f.type) < 0) return false;
+      // several types ticked: a holding of any of them
+      if (f.type.length && !f.type.some(function (t) { return u.types.indexOf(t) >= 0; })) return false;
     }
     if (f.era && eraOf(it) !== f.era) return false;
     if (f.theme && (it.themes || []).indexOf(f.theme) < 0) return false;
@@ -360,6 +362,27 @@
       els.count.textContent = '';
       return;
     }
+    // The Manuscripts list with only Archive and Type chosen: the holdings' own
+    // cards are narrowed, not the documents listed (no text asked for).
+    if (LIST && KIND === 'documents' && !mt && !TERM && (f.archive || f.type.length) &&
+        !f.unit && !f.era && !f.theme && f.fullYears && !f.people.length && !f.places.length) {
+      els.results.hidden = true; els.more.parentNode.hidden = true;
+      var shownN = 0;
+      cards.forEach(function (c) {
+        var ok = (!f.archive || c.archive === f.archive) &&
+          (!f.type.length || f.type.some(function (t) { return c.types.indexOf(t) >= 0; }));
+        c.el.hidden = !ok;
+        if (ok) shownN++;
+      });
+      sortCards(order);
+      setSourcesHidden(false);
+      els.empty.hidden = shownN > 0;
+      els.count.textContent = s_('f_showing', 'Showing') + ' ' + shownN + ' / ' + cards.length + ' ' +
+        s_('f_n_holdings', 'holdings');
+      showTerm();
+      return;
+    }
+    els.empty.hidden = true;
     if (LIST && !active) {
       // no search, no filter: the page's own cards, in the order asked
       els.results.hidden = true; els.more.parentNode.hidden = true; els.empty.hidden = true;
@@ -367,7 +390,7 @@
       sortCards(order);
       setSourcesHidden(false);
       els.count.textContent = s_('f_showing_all', 'Showing all') + ' ' + cards.length + ' ' +
-        s_('f_n_' + KIND, '');
+        (KIND === 'documents' ? s_('f_n_holdings', 'holdings') : s_('f_n_' + KIND, ''));
       showTerm();
       return;
     }
@@ -441,7 +464,9 @@
     }).map(function (el) {
       var y = parseInt(el.getAttribute('data-date'), 10);
       return {el: el, az: fold((el.getAttribute('data-az') || '').replace(/[\[\]]/g, '')),
-              date: isNaN(y) ? null : y, id: el.id};
+              date: isNaN(y) ? null : y, id: el.id,
+              archive: el.getAttribute('data-archive') || '',
+              types: (el.getAttribute('data-types') || '').split(' ').filter(Boolean)};
     });
   }
 
@@ -471,6 +496,46 @@
       esc((window.GL_HEADS || {})[TERM] || TERM) + '</b> <button type="button" class="linkish" id="term-clear">' +
       esc(s_('f_term_clear', 'show all')) + '</button>';
     $('term-clear').addEventListener('click', function () { TERM = ''; render(); });
+  }
+
+  /* ------------------------------------------------------- tick-box dropdown */
+
+  // A drop-down in which several of a short, fixed list can be ticked (the
+  // Manuscripts list's Type). The panel's boxes are in the page; the button
+  // says "All types", the one type chosen, or "3 types".
+  function CheckSelect(root) {
+    var btn = root.querySelector('.cs-btn');
+    var val = root.querySelector('.cs-val');
+    var panel = root.querySelector('.cs-list');
+    var boxes = Array.prototype.slice.call(panel.querySelectorAll('input[type=checkbox]'));
+    var self = {root: root};
+    function chosen() { return boxes.filter(function (b) { return b.checked; }); }
+    function draw() {
+      var c = chosen();
+      val.textContent = c.length === 0 ? val.getAttribute('data-all')
+        : c.length === 1 ? c[0].nextElementSibling.firstChild.textContent.trim()
+        : val.getAttribute('data-n').replace('%d', c.length);
+      root.classList.toggle('is-set', c.length > 0);
+    }
+    function open(on) {
+      panel.hidden = !on;
+      btn.setAttribute('aria-expanded', on ? 'true' : 'false');
+    }
+    btn.addEventListener('click', function () { open(panel.hidden); });
+    document.addEventListener('mousedown', function (e) { if (!root.contains(e.target)) open(false); });
+    root.addEventListener('keydown', function (e) { if (e.key === 'Escape') { open(false); btn.focus(); } });
+    panel.addEventListener('change', function () { draw(); if (self.onchange) self.onchange(); });
+    panel.querySelector('.cs-clear').addEventListener('click', function () {
+      self.clear(); if (self.onchange) self.onchange();
+    });
+    self.ids = function () { return chosen().map(function (b) { return b.value; }); };
+    self.has = function (id) { return boxes.some(function (b) { return b.value === id; }); };
+    self.set = function (ids) {
+      boxes.forEach(function (b) { b.checked = ids.indexOf(b.value) >= 0; });
+      draw();
+    };
+    self.clear = function () { boxes.forEach(function (b) { b.checked = false; }); draw(); };
+    return self;
   }
 
   /* ------------------------------------------------------------ multi-select */
@@ -705,12 +770,16 @@
     var open = false;
     if (!second) {
       // the controls the page already has
-      ['unit', 'era', 'theme', 'archive', 'type'].forEach(function (k) {
+      ['unit', 'era', 'theme', 'archive'].forEach(function (k) {
         var v = qs.get(k);
         if (!v || !els[k]) return;
         var ok = Array.prototype.some.call(els[k].options, function (o) { return o.value === v; });
         if (ok) { els[k].value = v; open = true; }
       });
+      if (cs.type) {
+        var ty = params(qs, 'type').filter(cs.type.has);
+        if (ty.length) cs.type.set(ty);
+      }
       var qq = qs.get('q');
       if (qq) els.q.value = qq;
       var tm = qs.get('term');
@@ -750,7 +819,8 @@
   function reset() {
     TERM = '';
     els.q.value = '';
-    ['unit', 'archive', 'type', 'era', 'theme'].forEach(function (k) { if (els[k]) els[k].value = ''; });
+    ['unit', 'archive', 'era', 'theme'].forEach(function (k) { if (els[k]) els[k].value = ''; });
+    if (cs.type) cs.type.clear();
     ms.person.clear(); ms.place.clear();
     setYears(limLo, limHi);
     els.phrase.checked = false; els.all.checked = true; els.whole.checked = false;
@@ -764,7 +834,7 @@
   /* -------------------------------------------------------------------- init */
 
   function init() {
-    ['q', 'order', 'count', 'results', 'empty', 'reset', 'more', 'unit', 'archive', 'type', 'era', 'theme',
+    ['q', 'order', 'count', 'results', 'empty', 'reset', 'more', 'unit', 'archive', 'era', 'theme',
      'adv', 'filters'].forEach(function (k) { els[k] = $(k); });
     els.advToggle = $('adv-toggle');
     els.phrase = $('o-phrase'); els.all = $('o-all'); els.any = $('o-any'); els.whole = $('o-whole');
@@ -774,6 +844,7 @@
     if (!els.q || !els.results) return;
     ms.person = MultiSelect($('ms-person'), 'person');
     ms.place = MultiSelect($('ms-place'), 'place');
+    if ($('cs-type')) cs.type = CheckSelect($('cs-type'));
 
     limLo = +CFG.yearMin; limHi = +CFG.yearMax;
     yearLo = limLo; yearHi = limHi;
@@ -803,8 +874,25 @@
     var rerender = function () { shown = PAGE; render(); };
     els.q.addEventListener('input', debounce(function () { shown = PAGE; render(); }, 160));
     els.order.addEventListener('change', rerender);
-    ['unit', 'archive', 'type', 'era', 'theme'].forEach(function (k) {
+    ['unit', 'archive', 'era', 'theme'].forEach(function (k) {
       if (els[k]) els[k].addEventListener('change', rerender);
+    });
+    if (cs.type) cs.type.onchange = rerender;
+    // the year boxes' own arrows (the browser's are hidden): one year a press,
+    // held down they repeat
+    Array.prototype.forEach.call(document.querySelectorAll('.yr-steps button'), function (b) {
+      var inp = $(b.getAttribute('data-for')), step = +b.getAttribute('data-step'), timer = null, rep = null;
+      function go() {
+        var v = (parseInt(inp.value, 10) || (step > 0 ? limLo : limHi)) + step;
+        inp.value = Math.max(limLo, Math.min(limHi, v));
+        inp.dispatchEvent(new Event('change', {bubbles: true}));
+      }
+      function stop() { clearTimeout(timer); clearInterval(rep); }
+      b.addEventListener('pointerdown', function (e) {
+        e.preventDefault(); go(); timer = setTimeout(function () { rep = setInterval(go, 70); }, 450);
+      });
+      ['pointerup', 'pointerleave', 'pointercancel', 'blur'].forEach(function (ev) { b.addEventListener(ev, stop); });
+      b.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } });
     });
     [els.phrase, els.all, els.any, els.whole, els.accents, els.cs, els.inOrig, els.inEn, els.inSum]
       .forEach(function (e) { e.addEventListener('change', rerender); });
@@ -820,6 +908,7 @@
     els.filters.addEventListener('submit', function (e) { e.preventDefault(); });
 
     els.count.textContent = WORK ? '' : '…';
+    if (LIST && !els.q.value && !filtersActive(readFilters())) render();   // the count of the cards at once
 
     if (WORK) {
       // a result scrolls to its passage on this page and marks it for a moment

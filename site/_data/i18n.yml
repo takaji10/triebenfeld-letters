@@ -102,6 +102,11 @@ en:
   f_all_archives: All archives
   f_type: Type
   f_all_types: All types
+  f_types_n: "%d types"
+  f_clear: Clear
+  f_year_up: One year later
+  f_year_down: One year earlier
+  f_n_holdings: holdings
   f_results_for: Results
   f_more: Show more
   f_pick_year: Year range
@@ -637,6 +642,11 @@ de:
   f_all_archives: Alle Archive
   f_type: Art
   f_all_types: Alle Arten
+  f_types_n: "%d Arten"
+  f_clear: Leeren
+  f_year_up: Ein Jahr später
+  f_year_down: Ein Jahr früher
+  f_n_holdings: Bestände
   f_results_for: Treffer
   f_more: Mehr anzeigen
   f_pick_year: Jahresbereich
