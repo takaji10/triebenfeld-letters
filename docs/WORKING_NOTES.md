@@ -5226,3 +5226,10 @@ viewbar. Lessons:
 - **The Places page's Near search** shows an approximate place's distance
   as "c. 3 km" or "close by", never a precise figure; approximate places
   get no map marker.
+- **Playwright from Python is not installed in the cloud**; Node's resolves
+  (`require('playwright')`, from /opt/node-tools/node_modules). Write
+  screenshot checks in Node.
+- **The People page's era view** gives a person in two eras a card in each;
+  only the first carries the `id` anchor, and the A-Z and mentions views
+  move the first cards into one list and hide the rest (people-index.js).
+  The relevant people come from `reference/people_relevant.yml`.

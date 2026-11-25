@@ -1,0 +1,35 @@
+# The people the People page shows first in each era, and the ones that get a
+# full person page. Claude's proposal of 2026-11-24, awaiting the editor's
+# approval (docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C1). The order here is the
+# order the page shows them in. Read by pipeline/build/build_site_data.py.
+relevant:
+  - mikolaj-podskarbi-ladzki
+  - jan-z-trabczyna-1346
+  - przedpelk-z-trabczyna
+  - prusimski
+  - prusimski-pawel
+  - prusimska-katarzyna
+  - prusimski-krzysztof
+  - stanislaw-chelmski
+  - trampczynski
+  - dambski-ludwik
+  - kosciuszko
+  - jezierski
+  - hohenlohe
+  - triebenfeld
+  - glenck
+  - prusimska
+  - koeckritz
+  - hoym
+  - voss
+  - hardenberg
+  - hawich
+  - honrichs
+  - zerboni
+  - miaczynski
+  - weigel
+  - lubecki
+  - miaczynski-wlodzimierz
+  - zelmer
+  - erdmann
+  - mielke

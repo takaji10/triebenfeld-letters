@@ -130,8 +130,7 @@ heading, the bio and the life-line from the genealogy block itself.
 
   {%- if p.letters %}
   <section class="person-docs">
-    <h2>{{ t.gen_documents }}</h2>
-    {% include doc-list.html letters=p.letters docs=p.docs self=p.slug %}
+    {% include doc-list.html letters=p.letters docs=p.docs self=p.slug heading="h2" %}
   </section>
   {%- endif %}
 
@@ -140,16 +139,17 @@ heading, the bio and the life-line from the genealogy block itself.
   the genealogy block. {%- endcomment -%}
   {%- if p -%}
     {%- assign lit_works = site.data.literature_mentions.person[page.person] %}
-    {% include lit-mentions.html works=lit_works %}
+    {% include lit-mentions.html works=lit_works heading="h2" %}
   {%- endif %}
   {%- assign g_lit = g.literature_en -%}
   {%- if lang == 'de' %}{% assign g_lit = g.literature_de %}{% endif -%}
   {%- if g_lit %}
   <section class="person-lit">
-    <h2>{{ t.lit_in_literature }}</h2>
-    <p class="refs reflist">
+    <h2 class="refs-h">{{ t.refs_in_lit | replace: '%d', g_lit.size }}</h2>
+    <details class="litlist"><summary>{{ t.doclist_show_short }}</summary>
+    <div class="litlist-body"><p class="refs reflist">
       {%- for s in g_lit %}<a class="gen-src" href="{{ s.url | relative_url }}">{{ s.text }}</a>{% endfor %}
-    </p>
+    </p></div></details>
   </section>
   {%- endif %}
 </div>

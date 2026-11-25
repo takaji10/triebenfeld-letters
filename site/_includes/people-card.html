@@ -1,0 +1,32 @@
+{%- comment -%}
+  One person's card (the People page, once per era the person belongs to, and
+  the only card there is for the person's own place in the A-Z and mentions
+  views).
+  include.p        the person (site/_data/people.yml)
+  include.primary  true on the card that carries the anchor id (#slug) and that
+                   assets/people-index.js moves in the A-Z and mentions views;
+                   the person's other cards (a second era) are hidden there.
+  Needs urls.html.
+{%- endcomment -%}
+{%- assign p = include.p -%}
+<div class="person" {% if include.primary %}id="{{ p.slug }}" data-primary="1" {% endif %}data-slug="{{ p.slug }}"
+     data-name="{% if lang == 'de' %}{{ p.heading_de | escape }}{% else %}{{ p.heading | escape }}{% endif %}" data-count="{{ p.count }}">
+  {%- assign p_life = p.life -%}
+  {%- assign p_bio = p.bio -%}
+  {%- if lang == 'de' -%}
+    {%- if p.life_de %}{% assign p_life = p.life_de %}{% endif -%}
+    {%- if p.bio_de %}{% assign p_bio = p.bio_de %}{% endif -%}
+  {%- endif %}
+  <h2>{% if lang == 'de' %}{{ p.heading_de }}{% else %}{{ p.heading }}{% endif %}{% if p_life %} <span class="life">{{ p_life }}</span>{% endif %}</h2>
+  {% if p_bio %}<p class="bio">{{ p_bio }}</p>{% endif %}
+  {%- if site.data.genealogy.people[p.slug] %}
+  <p class="refs"><a class="person-page-link" href="{{ u_people | append: p.slug | append: '/' | relative_url }}">{{ t.gen_person_page }}</a></p>
+  {%- endif %}
+  {%- if p.count == 1 %}{% assign cl = t.counts_mention_one %}{% elsif p.docs == 1 %}{% assign cl = t.counts_mentions_onedoc %}{% else %}{% assign cl = t.counts_mentions %}{% endif %}
+  {% if p.docs > 0 %}<p class="refs counts">{{ cl | replace: '%m', p.count | replace: '%d', p.docs }}{% if p.span %}{% unless p.life contains 'documented' %} · {{ p.span }}{% endunless %}{% endif %}</p>{% endif %}
+  {% if p.docs > 0 %}{% include doc-list.html letters=p.letters docs=p.docs self=p.slug heading="h3" %}{% endif %}
+  {%- assign lit_works = site.data.literature_mentions.person[p.slug] %}
+  {% include lit-mentions.html works=lit_works heading="h3" %}
+  {%- assign np_works = site.data.newspapers_mentions.person[p.slug] %}
+  {% include np-mentions.html works=np_works heading="h3" %}
+</div>

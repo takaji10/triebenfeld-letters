@@ -12,8 +12,9 @@
 {%- if include.works -%}
 {%- assign np_n = 0 -%}
 {%- for w in include.works %}{% assign np_n = np_n | plus: w.pages.size %}{% endfor -%}
+{%- if include.heading -%}<{{ include.heading }} class="refs-h">{{ t.refs_in_np | replace: '%d', np_n }}</{{ include.heading }}>{%- endif -%}
 <details class="litlist">
-  <summary>{% if np_n == 1 %}{{ t.np_mentions_one }}{% else %}{{ t.np_mentions | replace: '%d', np_n }}{% endif %}</summary>
+  <summary>{% if include.heading %}{{ t.doclist_show_short }}{% elsif np_n == 1 %}{{ t.np_mentions_one }}{% else %}{{ t.np_mentions | replace: '%d', np_n }}{% endif %}</summary>
   <div class="litlist-body">
   {%- for w in include.works %}
   <p class="litlist-work"><a href="{{ u_np | append: w.slug | append: '/' | relative_url }}">{{ w.cite }}</a></p>

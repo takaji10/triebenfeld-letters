@@ -5,6 +5,7 @@
   heading_de: "Albrecht, Daniel Ludwig"
   count: 8
   docs: 5
+  eras: ["hohenlohe", "twentieth-century"]
   life: "1765-1835"
   life_de: "1765-1835"
   bio: "Prussian cabinet councillor. In 1809 a matter of inheritance was referred to him at Königsberg, and in 1815 Peter Friedrich von Triebenfeld asked him to obtain the King's decision on the debt of the Duke of Courland's heirs to Prince Hohenlohe-Ingelfingen."
@@ -17,6 +18,7 @@
   heading_de: "Alexander I., Kaiser von Russland"
   count: 8
   docs: 7
+  eras: ["hohenlohe"]
   life: "1777-1825"
   life_de: "1777-1825"
   bio: "Emperor of Russia from 1801 and, from 1815, King of Poland, under whose rule Trąbczyn then lay. Prince Hohenlohe-Ingelfingen's claim to compensation for the estate was addressed to him and refused in 1816 and again, to the Prince's heirs, in 1820."
@@ -29,6 +31,7 @@
   heading_de: "Alopaeus, David"
   count: 7
   docs: 3
+  eras: ["hohenlohe"]
   life: "d. 1831"
   life_de: "gest. 1831"
   bio: "Russian envoy at Berlin, who signed the note of 31 January 1820 refusing the claim of Prince Hohenlohe-Ingelfingen's heirs to compensation for Trąbczyn. A year earlier, on 20 January 1819, he had sent the Prussian ministry a report from Warsaw supporting Michalina Miączyńska's claim against Prussia."
@@ -41,6 +44,7 @@
   heading_de: "Alvensleben, Philipp Karl von"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "1745-1802"
   life_de: "1745-1802"
   bio: "Count, Prussian cabinet minister from 1791. He is taken to be the first of the two ministers who signed the foreign department's letter of January 1797 reporting that Antoni Prusimski, the exiled owner of Trąbczyn, was at Venice; the identification rests on the signature's initial and on his office."
@@ -53,6 +57,7 @@
   heading_de: "Amelang, Karl Ludwig"
   count: 69
   docs: 34
+  eras: ["hohenlohe"]
   life: "1755-1819"
   life_de: "1755-1819"
   bio: "Berlin lawyer and privy councillor, the legal agent of Prince Hohenlohe-Ingelfingen in Berlin. He arranged the Prince's loans of 1804 and 1805 on the Polish estates and conducted the lawsuits that followed them."
@@ -65,6 +70,7 @@
   heading_de: "Amstetten"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1815"
   life_de: "belegt 1815"
   bio: "General who headed a commission at the Congress of Vienna, to which Peter Friedrich von Triebenfeld submitted the papers on Prince Hohenlohe-Ingelfingen's claim to Trąbczyn in 1815. Possibly the Russian diplomat Johann von Anstett."
@@ -77,6 +83,7 @@
   heading_de: "Ancillon, Johann Peter Friedrich"
   count: 2
   docs: 1
+  eras: ["hohenlohe"]
   life: "1767-1837"
   life_de: "1767-1837"
   bio: "Historian and counsellor in the Prussian foreign ministry, later foreign minister, to whom the Russian note of 1820 refusing the claim of Prince Hohenlohe-Ingelfingen's heirs was addressed."
@@ -89,6 +96,7 @@
   heading_de: "Andrzej (heir of Trąbczyn, 1346)"
   count: 2
   docs: 1
+  eras: ["medieval"]
   life: "documented 1346"
   life_de: "belegt 1346"
   bio: "Owner of Trąbczyn, who sued with all his kin for the villages of Stropiszyn and Pępocin and was put to perpetual silence by the land judge at Pyzdry on 13 November 1346."
@@ -101,6 +109,7 @@
   heading_de: "Andrzej of Trąbczyn (1415)"
   count: 2
   docs: 1
+  eras: ["medieval"]
   life: "documented 1415"
   life_de: "belegt 1415"
   bio: "Nobleman of Trąbczyn, a witness at Gniezno on 16 April 1415 beside Mikołaj of Trąbczyn; he is found from 1414 to 1428."
@@ -113,6 +122,7 @@
   heading_de: "Asch"
   count: 7
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1801-1802"
   life_de: "belegt 1801-1802"
   bio: "Jewish creditor in Berlin, holder with Gad of a bill for 11,000 Reichsthaler that Peter Friedrich von Triebenfeld had signed for Prince Hohenlohe-Ingelfingen in 1801."
@@ -125,6 +135,7 @@
   heading_de: "Bagans, Johann"
   count: 4
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1804-1805"
   life_de: "belegt 1804-1805"
   bio: "One of three townsmen who took the estate of Oleśnica from Prince Hohenlohe-Ingelfingen on hereditary lease in February 1804."
@@ -137,6 +148,7 @@
   heading_de: "Baildon, John"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "1772-1846"
   life_de: "1772-1846"
   bio: "Scottish engineer in Prussian service and a pioneer of smelting iron with coke in Upper Silesia. He was Prince Hohenlohe-Ingelfingen's partner in the coke blast furnace at the Sławięcice ironworks, and the Prince's will of 1805 tells his heir to keep him on."
@@ -149,6 +161,7 @@
   heading_de: "Balan"
   count: 13
   docs: 11
+  eras: ["hohenlohe"]
   life: "documented 1815-1820"
   life_de: "belegt 1815-1820"
   bio: "Counsellor of legation in the Prussian foreign ministry, who handled Prince Hohenlohe-Ingelfingen's claim to compensation for Trąbczyn from 1815 to 1820, drew up the ministry's decisions on it and initialled its drafts."
@@ -161,6 +174,7 @@
   heading_de: "Bally"
   count: 10
   docs: 10
+  eras: ["hohenlohe"]
   life: "documented 1808-1816"
   life_de: "belegt 1808-1816"
   bio: "Legal trainee and later master of the horse to Prince Hohenlohe-Ingelfingen at Sławięcice, who carried money and messages to the Prince's agent, Triebenfeld."
@@ -173,6 +187,7 @@
   heading_de: "Barbe"
   count: 79
   docs: 34
+  eras: ["hohenlohe"]
   life: "d. 1815"
   life_de: "gest. 1815"
   bio: "Court councillor in the chancery of the Prussian State Chancellor, Hardenberg, at the Congress of Vienna. He advised Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, presented his petitions for the Prince's lost Polish estates and lent him money. He died in Paris late in 1815."
@@ -185,6 +200,7 @@
   heading_de: "Beguelin, Heinrich von"
   count: 11
   docs: 10
+  eras: ["hohenlohe"]
   life: "1765-1818"
   life_de: "1765-1818"
   bio: "Prussian finance official in the State Chancellor's office at Vienna, who in 1815 promised to lay Prince Hohenlohe-Ingelfingen's letter about his lost Polish estates before Hardenberg."
@@ -197,6 +213,7 @@
   heading_de: "Bernhard, Meyer"
   count: 39
   docs: 21
+  eras: ["hohenlohe"]
   life: "documented 1804-1816"
   life_de: "belegt 1804-1816"
   bio: "Financier who acted with Leixner in the purchase of the estates of Kamionna and Kolno from Prince Hohenlohe-Ingelfingen, and in the sale of the Prince's lordship of Pszczew in 1804. He later went to law over Pszczew."
@@ -209,6 +226,7 @@
   heading_de: "Bernhardi"
   count: 16
   docs: 13
+  eras: ["hohenlohe"]
   life: "d. 1806"
   life_de: "gest. 1806"
   bio: "Mining councillor concerned with Prince Hohenlohe-Ingelfingen's Silesian estate of Koszęcin, to whom payments from the sale of Kamionna were sent in 1804. He died in July 1806. A tenant of the same name at Konotop may be a different man."
@@ -221,6 +239,7 @@
   heading_de: "Bernstorff, Christian Günther, Graf von"
   count: 2
   docs: 1
+  eras: ["hohenlohe"]
   life: "1769-1835"
   life_de: "1769-1835"
   bio: "Count, Prussian minister of foreign affairs from 1818 to 1832. In 1819 the Russian envoy Alopeus sent him a report from Warsaw supporting Michalina Miączyńska's claim against Prussia, and Prussia's refusal was drafted in his name."
@@ -233,6 +252,7 @@
   heading_de: "Bertrand, Henri-Gatien"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "1773-1844"
   life_de: "1773-1844"
   bio: "French general and Grand Marshal of the Palace, who went with Napoleon to Elba and returned with him in 1815, as Peter Friedrich von Triebenfeld reported from Vienna."
@@ -245,6 +265,7 @@
   heading_de: "Bethusy, Ernst"
   count: 15
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1809-1820"
   life_de: "belegt 1809-1820"
   bio: "Count, a landowner in Silesia and in the Kingdom of Poland. In 1820 Russia refused his request for free movement between his properties in the same answer that refused the claim of Prince Hohenlohe-Ingelfingen's heirs. His debts were talked of in 1809."
@@ -257,6 +278,7 @@
   heading_de: "Bever"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1816"
   life_de: "belegt 1816"
   bio: "Registry official in Berlin, who in May 1816 passed Zerboni's report on Prince Hohenlohe-Ingelfingen's claim to the foreign ministry and in 1826 sent up the file on the grants of 1796."
@@ -269,6 +291,7 @@
   heading_de: "Bewert"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Named in a contract of 1805 on Prince Hohenlohe-Ingelfingen's Polish estates; who he was is not known."
@@ -281,6 +304,7 @@
   heading_de: "Beyme, Karl Friedrich von"
   count: 36
   docs: 24
+  eras: ["hohenlohe"]
   life: "1765-1838"
   life_de: "1765-1838"
   bio: "Cabinet councillor to Friedrich Wilhelm III and later Grand Chancellor of Prussia. From 1798 he laid Prince Hohenlohe-Ingelfingen's petitions about his Polish estates before the King."
@@ -293,6 +317,7 @@
   heading_de: "Biron von Kurland, Prinz"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1804-1815"
   life_de: "belegt 1804-1815"
   bio: "Prince of Courland, a landowner in Silesia, who passed on an inquiry about Prince Hohenlohe-Ingelfingen's estate of Kamionna in 1804. Probably Gustav Kalixt von Biron (1780-1821)."
@@ -305,6 +330,7 @@
   heading_de: "Bischoffwerder"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1803-1810"
   life_de: "belegt 1803-1810"
   bio: "Prussian general whom Michalina Dąbska named in July 1807, beside Prince Hohenlohe-Ingelfingen and Sanitz, among those given her father's confiscated estates; no other source counts him among them. Probably Johann Rudolf von Bischoffwerder, the favourite of King Friedrich Wilhelm II."
@@ -317,6 +343,7 @@
   heading_de: "Blomberg"
   count: 16
   docs: 8
+  eras: ["hohenlohe"]
   life: "documented 1804-1815"
   life_de: "belegt 1804-1815"
   bio: "Official whose valuation put the Trąbczyn estates at 316,000 Reichsthaler, the figure Prince Hohenlohe-Ingelfingen's agent, Triebenfeld, used in the claim for compensation. In 1804 he pressed demands of his own over the division of the estates among settlers."
@@ -329,6 +356,7 @@
   heading_de: "Blücher, von"
   count: 5
   docs: 1
+  eras: ["hohenlohe"]
   life: "1742-1819"
   life_de: "1742-1819"
   bio: "Major general, given the confiscated estates of Duninów in 1796 by the same order that gave Prince Hohenlohe-Ingelfingen the Prusimski estates. Presumably Gebhard Leberecht von Blücher, the later field marshal, whose dates are given here."
@@ -341,6 +369,7 @@
   heading_de: "Boerner, Superintendent von"
   count: 2
   docs: 2
+  eras: ["wlodzimierz"]
   life: "documented 1882"
   life_de: "belegt 1882"
   bio: "Superintendent at Płock, who received the collections of the Evangelical parishes of Zagórów and Pyzdry for the widows' and orphans' fund in 1882. Probably Ignatius Karl Wilhelm Boerner, superintendent of the Płock diocese."
@@ -353,6 +382,7 @@
   heading_de: "Bogusławski"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Benefactor of the church of Trąbczyn, who placed 250 złoty for Masses there."
@@ -365,6 +395,7 @@
   heading_de: "Boidelang"
   count: 4
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1815-1816"
   life_de: "belegt 1815-1816"
   bio: "Friend of Peter Friedrich von Triebenfeld and confidant of Wilhelm von Humboldt, expected late in 1815 to succeed Barbe in the Prussian State Chancellor's office."
@@ -377,6 +408,7 @@
   heading_de: "Born, Ernst Gottlob"
   count: 4
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Doctor of law, royal justice official and syndic of the university at Frankfurt an der Oder, who certified the powers of attorney for Prince Hohenlohe-Ingelfingen's sale of the estates of Kamionna and Kolno in 1804 and 1805."
@@ -389,6 +421,7 @@
   heading_de: "Bornstädt"
   count: 22
   docs: 8
+  eras: ["hohenlohe"]
   life: "documented 1804-1811"
   life_de: "belegt 1804-1811"
   bio: "Intermediary in the sale of Prince Hohenlohe-Ingelfingen's lordship of Pszczew in 1804, who claimed a fee for it and stands among the Prince's creditors."
@@ -401,6 +434,7 @@
   heading_de: "Brandenstein"
   count: 6
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "Party to a contract with Leixner concerning Pszczew, which the townspeople and villages buying the lordship from Prince Hohenlohe-Ingelfingen demanded be cancelled in 1804."
@@ -413,6 +447,7 @@
   heading_de: "Brehmer, Witwe des Obersten von"
   count: 6
   docs: 6
+  eras: ["hohenlohe"]
   life: "documented 1816"
   life_de: "belegt 1816"
   bio: "Widow of Colonel von Brehmer, of Sommerfeld, sister and sole heir of Major von Seehausen. In 1816 she asked the Prussian ministry to see that her brother's loan of 5,000 Reichsthaler to Prince Hohenlohe-Ingelfingen was repaid out of any compensation for the Prince's Polish estates."
@@ -425,6 +460,7 @@
   heading_de: "Broniewski, Anton von"
   count: 44
   docs: 22
+  eras: ["hohenlohe"]
   life: "documented 1798-1815"
   life_de: "belegt 1798-1815"
   bio: "Cavalry captain who held the estates of Kamionna and Kolno, near Międzychód, in pledge and contested Prince Hohenlohe-Ingelfingen's title to them. Under a settlement of 1804 he received 53,139 Reichsthaler out of the price that Leixner paid for the two estates."
@@ -437,6 +473,7 @@
   heading_de: "Brzechffa"
   count: 63
   docs: 20
+  eras: ["hohenlohe"]
   life: "documented 1809-1812"
   life_de: "belegt 1809-1812"
   bio: "Sub-prefect of the Konin district in the Duchy of Warsaw and a friend of Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen. In 1812 he offered to lease the Prince's Zagórów estates for six years, and he went to Warsaw about the dispute over Trąbczyn."
@@ -449,6 +486,7 @@
   heading_de: "Bubna und Littitz, Ferdinand von"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "1768-1825"
   life_de: "1768-1825"
   bio: "Count, Austrian general, of whom Peter Friedrich von Triebenfeld wrote in his news from Vienna in 1815."
@@ -461,6 +499,7 @@
   heading_de: "Bülow, Ludwig Friedrich Viktor Hans von"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "1774-1825"
   life_de: "1774-1825"
   bio: "Prussian minister of finance from 1813. In December 1814 he and the minister of justice, Kircheisen, were ordered to inquire into Cosmar's administration of Prince Hohenlohe-Ingelfingen's Silesian estates."
@@ -473,6 +512,7 @@
   heading_de: "Cabanis"
   count: 33
   docs: 23
+  eras: ["hohenlohe"]
   life: "documented 1804-1812"
   life_de: "belegt 1804-1812"
   bio: "Surveyor and chief forester on Prince Hohenlohe-Ingelfingen's Polish estates. He measured the land of Oleśnica, was sent in 1804 to recruit settlers among the Bohemian colonists in Silesia for the Zagórów estates, and later checked the estates' accounts at Zagórów."
@@ -485,6 +525,7 @@
   heading_de: "Cattaneo, Count"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1796-1819"
   life_de: "belegt 1796-1819"
   bio: "Count, the Prussian resident (envoy) at Venice. In December 1796 Antoni Prusimski, the exiled owner of Trąbczyn, came to him ill and grieving, and he gave him a certificate that he was unfit to travel."
@@ -497,6 +538,7 @@
   heading_de: "Chełmski family"
   count: 9
   docs: 4
+  eras: ["prusimski-boundary"]
   life: "documented 1644-1782"
   life_de: "belegt 1644-1782"
   bio: "The family that owned Łukom, the estate next to Trąbczyn, and was at law with the owners of Trąbczyn over the boundary for two centuries: Jerzy in 1644, the brothers Franciszek and Józef Ścibor in 1728, and the brothers Stanisław Ścibor, Treasurer of Wschowa, and Heliodor, a canon, from the 1760s until the Crown Tribunal fixed the boundary in 1782. Each has his own entry; this one gathers the mentions of the family that name no one in particular."
@@ -509,6 +551,7 @@
   heading_de: "Chełmski, Franciszek Ścibor"
   count: 4
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1728"
   life_de: "belegt 1728"
   bio: "Owner of Łukom and Łomowo with his brother Józef. In 1728 the brothers sued Krzysztof Prusimski of Trąbczyn and his son Antoni for burning their shingles and a hut, seizing four oxen and carting off hay from the ground both estates claimed, and the land court at Konin sent a sworn commissioner to decide whose it was."
@@ -521,6 +564,7 @@
   heading_de: "Chełmski, Heliodor"
   count: 2
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1776"
   life_de: "belegt 1776"
   bio: "Canon, brother of Stanisław Ścibor Chełmski of Łukom, and with him the losing party when a commission appointed by the Polish parliament fixed the boundary between Trąbczyn and Łukom in 1775."
@@ -533,6 +577,7 @@
   heading_de: "Chełmski, Jerzy"
   count: 4
   docs: 2
+  eras: ["prusimski-boundary"]
   life: "documented 1644-1776"
   life_de: "belegt 1644-1776"
   bio: "Owner of Łukom, the estate next to Trąbczyn, in 1644 and an ancestor of Stanisław Chełmski. He sued the four Otto-Trąmpczyński brothers of Trąbczyn and their mother for cutting boundary marks into the trees of his wood to claim his ground and for felling his timber, and the land court at Konin gave judgment against them by default."
@@ -545,6 +590,7 @@
   heading_de: "Chełmski, Józef Ścibor"
   count: 5
   docs: 2
+  eras: ["prusimski-boundary"]
   life: "documented 1728-1776"
   life_de: "belegt 1728-1776"
   bio: "Owner of Łukom and Łomowo with his brother Franciszek, for whom he appeared in person in their suit of 1728 against Krzysztof and Antoni Prusimski of Trąbczyn over the ground between Łukom and Trąbczyn that both estates claimed."
@@ -557,6 +603,7 @@
   heading_de: "Chmara, Jan"
   count: 11
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "One of the two representatives of the townspeople and villages of Pszczew who bought the lordship from Prince Hohenlohe-Ingelfingen in 1804."
@@ -569,6 +616,7 @@
   heading_de: "Chomanowski"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1812"
   life_de: "belegt 1812"
   bio: "Court bailiff in the Duchy of Warsaw, who examined the accounts of the Zagórów estates in 1812."
@@ -581,6 +629,7 @@
   heading_de: "Chwalowski"
   count: 4
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1803-1805"
   life_de: "belegt 1803-1805"
   bio: "Sworn surveyor who measured the estate of Oleśnica, near Zagórów, with Cabanis and Winitzki."
@@ -593,6 +642,7 @@
   heading_de: "Cosmar"
   count: 124
   docs: 48
+  eras: ["hohenlohe"]
   life: "documented 1799-1815"
   life_de: "belegt 1799-1815"
   bio: "Medical councillor and executor of the will of Princess Sacken, the mother-in-law of Prince Hohenlohe-Ingelfingen. Under a settlement of 1811 he administered the Prince's entailed Silesian estates on behalf of the creditors. The Prince's agent, Triebenfeld, called the settlement his fabrication and sought his removal at Vienna in 1814 and 1815; a court found against him at first instance late in 1815."
@@ -605,6 +655,7 @@
   heading_de: "Czapski"
   count: 2
   docs: 1
+  eras: ["restitution"]
   life: "documented 1834"
   life_de: "belegt 1834"
   bio: "Prince, a minister of the Kingdom of Poland. In 1818, sharing the view of the commission that settled the Duchy of Warsaw's debts, he laid before the Emperor and King a report on Michalina Miączyńska's petition that the debts charged on Trąbczyn while Prussia held it be laid to Prussia's account. Not further identified, so no dates are given."
@@ -617,6 +668,7 @@
   heading_de: "Czartoryski, Teodor"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Bishop of Poznań, Count of Klewań and Żuków, who in December 1766 gave Józef Zurkowski, later parish priest of Trąbczyn, letters dimissory for his ordination."
@@ -629,6 +681,7 @@
   heading_de: "Dąbrowski"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "Named in 1804 in the handover of the estate of Wieniec; nothing shows that he was the general of the same name."
@@ -641,6 +694,9 @@
   heading_de: "Dąmbski, Ludwik"
   count: 5
   docs: 2
+  eras: ["prusimski-boundary"]
+  relevant: true
+  relevant_rank: 9
   life: "documented 1775-1776"
   life_de: "belegt 1775-1776"
   bio: "Count of Lubraniec and voivode of Brześć Kujawski. He presided over the royal commission that fixed the boundary between Trąbczyn and its neighbour Łukom in 1775, after two centuries of quarrels between their owners, and signed its decree."
@@ -653,6 +709,7 @@
   heading_de: "Danckelmann"
   count: 10
   docs: 10
+  eras: ["hohenlohe"]
   life: "documented 1799-1810"
   life_de: "belegt 1799-1810"
   bio: "Count, vice-president of the South Prussian Government at Poznań, the province's court of justice, who signed its reports of June and July 1800 on Michalina Prusimska's suit against Prince Hohenlohe-Ingelfingen for her mother's estates. By December 1800 he was president of the Government at Kalisz, and by 1810 a senior judge in Silesia. Probably Heinrich Wilhelm August Alexander von Danckelmann (1768-1830), later minister of justice."
@@ -665,6 +722,7 @@
   heading_de: "Dohna"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1809-1810"
   life_de: "belegt 1809-1810"
   bio: "Count, named in 1809 and 1810 in the affairs of Prince Hohenlohe-Ingelfingen; probably Alexander zu Dohna-Schlobitten, Prussian minister of the interior in those years."
@@ -677,6 +735,7 @@
   heading_de: "Dolffs, von"
   count: 6
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1796"
   life_de: "belegt 1796"
   bio: "Lieutenant general, given the estate of Strzelce in 1796 by the same order that gave Prince Hohenlohe-Ingelfingen the Prusimski estates."
@@ -689,6 +748,7 @@
   heading_de: "Dorposki"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Priest who visited the parish of Trąbczyn before 1791 and found books there that were gone by 1791."
@@ -701,6 +761,7 @@
   heading_de: "Drake"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1832"
   life_de: "belegt 1832"
   bio: "Commissioner in the department of state domains at Warsaw. On 29 February 1832 the finance commission charged him with valuing the Trąbczyn estates, so that the banker Weigel's loss could be reckoned."
@@ -713,6 +774,9 @@
   heading_de: "Drucki-Lubecki, Franciszek Ksawery, Fürst"
   count: 5
   docs: 4
+  eras: ["hohenlohe", "restitution"]
+  relevant: true
+  relevant_rank: 25
   life: "1778-1846"
   life_de: "1778-1846"
   bio: "Prince, minister of finance of the Kingdom of Poland from 1821 to 1830. In September and November 1830 he answered the banker Weigel himself: he found Weigel's demand of 63,100 thalers for his lost mortgage on Trąbczyn excessive and had the estate valued afresh, because the court valuation Weigel relied on dated from 1803, when land was dear."
@@ -725,6 +789,7 @@
   heading_de: "Eberhard"
   count: 43
   docs: 21
+  eras: ["hohenlohe"]
   life: "documented 1810-1815"
   life_de: "belegt 1810-1815"
   bio: "Justice commissioner at Brzeg, who acted for Prince Hohenlohe-Ingelfingen in the negotiations with the heirs of the Duke of Courland in 1814 and 1815. The Prince's agent, Triebenfeld, pressed for him to come to Vienna to conclude a settlement."
@@ -737,6 +802,7 @@
   heading_de: "Echaust"
   count: 17
   docs: 8
+  eras: ["hohenlohe"]
   life: "documented 1799-1816"
   life_de: "belegt 1799-1816"
   bio: "Official concerned with Prince Hohenlohe-Ingelfingen's lordship of Pszczew from 1799, whose accounts the Prince's agent, Triebenfeld, was still examining in 1816."
@@ -749,6 +815,7 @@
   heading_de: "Echtler"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Dealer or craftsman named in 1805 as likely to have plaster busts finished to look like bronze."
@@ -761,6 +828,7 @@
   heading_de: "Eisenhardt"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1830"
   life_de: "belegt 1830"
   bio: "Partner of the banker Weigel at Wrocław; the Warsaw authorities called Weigel's claim over Trąbczyn the affair of \"Weigel & Eisenhardt\"."
@@ -773,6 +841,7 @@
   heading_de: "Engel, Fyodor"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1832"
   life_de: "belegt 1832"
   bio: "President of the Provisional Government that Russia set over the Kingdom of Poland after the rising of 1830 and 1831. On 13 March 1832 he told the Prussian consul general Schmidt that Józef Lubowidzki was to settle the banker Weigel's claim over Trąbczyn."
@@ -785,6 +854,7 @@
   heading_de: "Erbet, Christoph"
   count: 14
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1806"
   life_de: "belegt 1806"
   bio: "Settler of the Trąbczyn Hauland, who on 31 March 1806 took one Hufe of the Trąbczyn forest from Prince Hohenlohe-Ingelfingen on hereditary lease. He signed with a cross."
@@ -797,6 +867,9 @@
   heading_de: "Erdmann, E., Pastor"
   count: 2
   docs: 2
+  eras: ["wlodzimierz"]
+  relevant: true
+  relevant_rank: 28
   life: "documented 1882"
   life_de: "belegt 1882"
   bio: "Pastor-administrator of the Evangelical-Augsburg parish of Zagórów, which served the German colonists of the Trąbczyn and Zagórów estates, who wrote its annual report for 1882, and that of its filial parish of Lissewo-Pyzdry, to the consistory at Warsaw. His first name is not known."
@@ -809,6 +882,7 @@
   heading_de: "Eysenhardt"
   count: 24
   docs: 17
+  eras: ["hohenlohe"]
   life: "documented 1798-1811"
   life_de: "belegt 1798-1811"
   bio: "Berlin agent of Prince Hohenlohe-Ingelfingen in 1798 and later his creditor. A bank draft for 6,000 Reichsthaler made over to him in 1807 was the subject of a dispute with the Prince's agent, Triebenfeld, in 1808."
@@ -821,6 +895,7 @@
   heading_de: "Falkenhausen"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1809-1815"
   life_de: "belegt 1809-1815"
   bio: "Named in 1809, as sent by Archduke Ferdinand, and again in 1815, in the affairs of Prince Hohenlohe-Ingelfingen; who he was is not known."
@@ -833,6 +908,7 @@
   heading_de: "Faltz"
   count: 1
   docs: 1
+  eras: ["restitution"]
   life: "documented 1834"
   life_de: "belegt 1834"
   bio: "President of the Commission of Instruction of the Council of State of the Kingdom of Poland, who signed its report of 28 October 1834 on the conflict of jurisdiction over the banker Weigel's mortgage on Trąbczyn. Not to be confused with Falz, the lawyer of Prince Hohenlohe-Ingelfingen at Kalisz in 1810 and 1811."
@@ -845,6 +921,7 @@
   heading_de: "Falz"
   count: 6
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1810-1812"
   life_de: "belegt 1810-1812"
   bio: "Lawyer who conducted Prince Hohenlohe-Ingelfingen's lawsuits before the tribunal at Kalisz in 1810 and 1811. The spelling of his name is uncertain."
@@ -857,6 +934,7 @@
   heading_de: "Feller"
   count: 4
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "Named in the contract of 1804 by which Prince Hohenlohe-Ingelfingen sold the lordship of Pszczew to its inhabitants."
@@ -869,6 +947,7 @@
   heading_de: "Fischbach, Carl Theodor"
   count: 7
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1799-1810"
   life_de: "belegt 1799-1810"
   bio: "Resident of Pszczew, for whom a title was requested in 1799 and who offered in 1810 to broker an exchange of Prince Hohenlohe-Ingelfingen's Zagórów estates with von Knobelsdorff."
@@ -881,6 +960,7 @@
   heading_de: "Flesch"
   count: 6
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1810"
   life_de: "belegt 1810"
   bio: "Broker in an exchange of estates proposed in 1810, whom Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, came to suspect of fraud."
@@ -893,6 +973,7 @@
   heading_de: "Floricke"
   count: 4
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1804-1806"
   life_de: "belegt 1804-1806"
   bio: "Lessee on Prince Hohenlohe-Ingelfingen's Zagórów estates, against whom and his partners the Prince's agent, Triebenfeld, obtained a payment order in 1804."
@@ -905,9 +986,10 @@
   heading_de: "Friedrich Wilhelm II., König von Preußen"
   count: 21
   docs: 19
+  eras: ["hohenlohe"]
   life: "1744-1797"
   life_de: "1744-1797"
-  bio: "King of Prussia from 1786. By charters of August 1796 and June 1797 he gave Prince Hohenlohe-Ingelfingen the Polish estates confiscated from Antoni Prusimski, Trąbczyn among them."
+  bio: "King of Prussia from 1786. By a charter of August 1796 he gave Prince Hohenlohe-Ingelfingen the Polish estates confiscated from Antoni Prusimski, Trąbczyn among them, and by another of June 1797 sixteen former church villages, Zagórów among them."
   bio_de: "König von Preußen seit 1786. Er verlieh Hohenlohe-Ingelfingen die südpreußischen Güter durch Urkunden vom August 1796 und Juni 1797."
   span: "1796–1805"
   letters: [{id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3570", n: 1}, {id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "40", uid: "oe1bu14525-40", url: "/documents/oe1bu14525/40/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "2", uid: "oe1bu14525-2", url: "/documents/oe1bu14525/2/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "15", uid: "oe1bu14525-15", url: "/documents/oe1bu14525/15/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "16", uid: "oe1bu14525-16", url: "/documents/oe1bu14525/16/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "12", uid: "oe1bu14525-12", url: "/documents/oe1bu14525/12/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "25", uid: "oe1bu14525-25", url: "/documents/oe1bu14525/25/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "21", uid: "oe1bu14525-21", url: "/documents/oe1bu14525/21/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "4", uid: "oe1bu14526-4", url: "/documents/oe1bu14526/4/", unit_label: "Oe 1 Bü 14526", n: 1}, {id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", unit_label: "I. HA Rep. 162, Nr. 295", n: 1}, {id: "22", uid: "oe1bu14526-22", url: "/documents/oe1bu14526/22/", unit_label: "Oe 1 Bü 14526", n: 3}]
@@ -917,6 +999,7 @@
   heading_de: "Friedrich Wilhelm III., König von Preußen"
   count: 29
   docs: 26
+  eras: ["hohenlohe"]
   life: "1770-1840"
   life_de: "1770-1840"
   bio: "King of Prussia from November 1797. He added to his father's grant of Polish estates to Prince Hohenlohe-Ingelfingen in December 1797, refused the Prince's proposed exchange of them for the domain of Krotoszyn in 1798, and confirmed the Prince's family entail in 1805."
@@ -929,6 +1012,7 @@
   heading_de: "Garczyński"
   count: 16
   docs: 10
+  eras: ["hohenlohe"]
   life: "documented 1809-1812"
   life_de: "belegt 1809-1812"
   bio: "Count, prefect of the department of Kalisz in the Duchy of Warsaw. He ordered the arrest of Martin Honrichs, administrator of the Zagórów estates, in 1810, and was approached by the agent of Prince Hohenlohe-Ingelfingen, Triebenfeld, about the lease and the taxes of the estates."
@@ -941,6 +1025,7 @@
   heading_de: "Gärtner"
   count: 16
   docs: 12
+  eras: ["hohenlohe"]
   life: "documented 1809-1815"
   life_de: "belegt 1809-1815"
   bio: "Privy councillor who represented the mediatised princely houses, Hohenlohe among them, at the Congress of Vienna. Peter Friedrich von Triebenfeld sent Prince Hohenlohe-Ingelfingen his pamphlet and his submissions to the Congress."
@@ -953,6 +1038,7 @@
   heading_de: "Gelanski, Florian"
   count: 3
   docs: 2
+  eras: ["medieval", "hohenlohe"]
   life: "documented 1362-1799"
   life_de: "belegt 1362-1799"
   bio: "Named in 1799 in the affairs of Szetlewek, a farm of Prince Hohenlohe-Ingelfingen's Zagórów estates; who he was is not known."
@@ -965,6 +1051,7 @@
   heading_de: "Georg, Prinz"
   count: 14
   docs: 11
+  eras: ["hohenlohe"]
   life: "documented 1798-1811"
   life_de: "belegt 1798-1811"
   bio: "Prince, of a house not named, to whom Peter Friedrich von Triebenfeld had sold estates; his unpaid debts under that sale exposed Triebenfeld to lawsuits between 1798 and 1805."
@@ -977,6 +1064,7 @@
   heading_de: "Giese, Johann"
   count: 8
   docs: 6
+  eras: ["hohenlohe"]
   life: "documented 1804-1809"
   life_de: "belegt 1804-1809"
   bio: "One of three townsmen who took the estate of Oleśnica from Prince Hohenlohe-Ingelfingen on hereditary lease in February 1804. They paid half the entry money and then fell into arrears."
@@ -989,6 +1077,7 @@
   heading_de: "Gietzinger, Friedrich"
   count: 4
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1804-1805"
   life_de: "belegt 1804-1805"
   bio: "One of three townsmen who took the estate of Oleśnica from Prince Hohenlohe-Ingelfingen on hereditary lease in February 1804."
@@ -1001,6 +1090,9 @@
   heading_de: "Glenck, Johann Wilhelm"
   count: 187
   docs: 63
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 14
   life: "documented 1798-1815"
   life_de: "belegt 1798-1815"
   bio: "Building and economy councillor to Prince Hohenlohe-Ingelfingen, who managed the Prince's Polish estates of Trąbczyn and Zagórów until about 1804 and made the first leases and sales of their land to settlers and buyers. His successor, Peter Friedrich von Triebenfeld, blamed him for the losses the Prince suffered on those contracts and accused him of obstructing the division of the estates among settlers that followed."
@@ -1013,6 +1105,7 @@
   heading_de: "Głowiecki"
   count: 0
   docs: 0
+  eras: []
   bio: "Cistercian abbot of Ląd on the Warta, invited to sing the High Mass at Paweł Prusimski's funeral at Trąbczyn in December 1754; a sudden frost kept him from crossing the river."
   bio_de: "Zisterzienserabt von Ląd an der Warthe. Er war eingeladen, beim Begräbnis Paweł Prusimskis in Trąbczyn im Dezember 1754 das Hochamt zu singen, doch ein unerwarteter Frost hinderte ihn, den Fluss zu überqueren."
   letters: []
@@ -1022,6 +1115,7 @@
   heading_de: "Gneisenau, August Neidhardt von"
   count: 6
   docs: 3
+  eras: ["hohenlohe"]
   life: "1760-1831"
   life_de: "1760-1831"
   bio: "Prussian general, chief of staff of the Silesian army in 1813. Peter Friedrich von Triebenfeld delivered a letter from Prince Hohenlohe-Ingelfingen to him at Nysa in June 1813."
@@ -1034,9 +1128,10 @@
   heading_de: "Gneust, Andreas Ernst"
   count: 30
   docs: 10
+  eras: ["hohenlohe"]
   life: "documented 1799-1815"
   life_de: "belegt 1799-1815"
-  bio: "Captain and district tax collector, who in 1797 bought the free mayor's holding at Dormowo, a village of Prince Hohenlohe-Ingelfingen's lordship of Pszczew."
+  bio: "Captain and district tax collector, who in 1797 bought the free mayor's holding at Dormowo near Pszczew, a lordship that the Prussian crown gave to Prince Hohenlohe-Ingelfingen the same year."
   bio_de: "Andreas Ernst Gneust, Hauptmann und Kreissteuereinnehmer, der 1797 das Freischulzengut in Dormowo bei Pszczew (Betsche) kaufte."
   span: "1799–1815"
   letters: [{id: "26", uid: "oe1bu14526-26", url: "/documents/oe1bu14526/26/", unit_label: "Oe 1 Bü 14526", n: 4}, {id: "3", uid: "oe1bu14526-3", url: "/documents/oe1bu14526/3/", unit_label: "Oe 1 Bü 14526", n: 12}, {id: "38", uid: "oe1bu14525-38", url: "/documents/oe1bu14525/38/", unit_label: "Oe 1 Bü 14525", n: 2}, {id: "135", uid: "oe1bu9454-135", url: "/documents/oe1bu9454/135/", unit_label: "HZAN Oe 1 Bü 9454", n: 2}, {id: "5", uid: "oe1bu14526-5", url: "/documents/oe1bu14526/5/", unit_label: "Oe 1 Bü 14526", n: 1}, {id: "47", uid: "oe1bu9454-47", url: "/documents/oe1bu9454/47/", unit_label: "HZAN Oe 1 Bü 9454", n: 2}, {id: "61", uid: "oe1bu9454-61", url: "/documents/oe1bu9454/61/", unit_label: "HZAN Oe 1 Bü 9454", n: 4}, {id: "64", uid: "oe1bu9454-64", url: "/documents/oe1bu9454/64/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "72", uid: "oe1bu9454-72", url: "/documents/oe1bu9454/72/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "265a", uid: "oe1bu9454-265a", url: "/documents/oe1bu9454/265a/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}]
@@ -1046,6 +1141,7 @@
   heading_de: "Goerne"
   count: 4
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1798-1800"
   life_de: "belegt 1798-1800"
   bio: "Named in 1798 and 1800 in the affairs of Prince Hohenlohe-Ingelfingen; who he was is not known."
@@ -1058,6 +1154,7 @@
   heading_de: "Goldbeck, Heinrich Julius von"
   count: 30
   docs: 22
+  eras: ["hohenlohe"]
   life: "1733-1818"
   life_de: "1733-1818"
   bio: "Grand Chancellor of Prussia and minister of justice. He countersigned the grants of 1796 that gave Antoni Prusimski's confiscated estates to Prince Hohenlohe-Ingelfingen. In December 1800, at the Prince's request, he took Michalina Prusimska's suit for the Brzyce estates away from the Government at Poznań, whose judges also sat on the guardianship board that had brought it, and gave it to the Government at Warsaw; he withdrew the order when Poznań reported that it had already given judgment."
@@ -1070,6 +1167,7 @@
   heading_de: "Goldbeck, von (Präsident in Kalisz)"
   count: 5
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "President of the War and Domains Chamber at Kalisz from 1805, who supported the division of Prince Hohenlohe-Ingelfingen's Zagórów and Trąbczyn estates among settlers."
@@ -1082,6 +1180,7 @@
   heading_de: "Golińska"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Benefactress of the church of Trąbczyn, who charged 2,000 złoty on the estate of Przespolew for 104 Masses a year. Two other women of the name appear in the Prusimski family's lawsuits; she is not shown to be either."
@@ -1094,6 +1193,7 @@
   heading_de: "Göschel"
   count: 10
   docs: 8
+  eras: ["hohenlohe"]
   life: "documented 1814-1815"
   life_de: "belegt 1814-1815"
   bio: "Agent of the house of Hohenlohe at the Congress of Vienna, who submitted notes to the Congress and for whom Peter Friedrich von Triebenfeld asked a power of attorney."
@@ -1106,6 +1206,7 @@
   heading_de: "Götzen, Friedrich Wilhelm von"
   count: 5
   docs: 1
+  eras: ["hohenlohe"]
   life: "1767-1820"
   life_de: "1767-1820"
   bio: "Count, Prussian general and governor of Silesia in 1807 and 1808, whom Peter Friedrich von Triebenfeld named in 1809 as a witness in a matter of inheritance."
@@ -1118,6 +1219,7 @@
   heading_de: "Grevenitz"
   count: 14
   docs: 10
+  eras: ["hohenlohe"]
   life: "documented 1809-1815"
   life_de: "belegt 1809-1815"
   bio: "Councillor of the Kammergericht in Berlin (also Grävenitz), who stood surety for Peter Friedrich von Triebenfeld in van der Lahr's suit of 1809, sent him news from Berlin and forwarded his post in 1815."
@@ -1130,6 +1232,7 @@
   heading_de: "Grimm"
   count: 16
   docs: 9
+  eras: ["hohenlohe"]
   life: "documented 1799-1808"
   life_de: "belegt 1799-1808"
   bio: "Court and criminal councillor at Kalisz, Prince Hohenlohe-Ingelfingen's legal representative before the government there from 1799."
@@ -1142,6 +1245,7 @@
   heading_de: "Grotowski"
   count: 28
   docs: 14
+  eras: ["hohenlohe", "restitution"]
   life: "documented 1804-1834"
   life_de: "belegt 1804-1834"
   bio: "Creditor who lent Prince Hohenlohe-Ingelfingen 30,000 Reichsthaler on a mortgage of Trąbczyn, which the banker Weigel bought from him in 1804. His widow Maria Anna, born Blacha, had a further 20,000 Reichsthaler registered on the estate; the civil tribunal at Kalisz struck that mortgage out in 1827."
@@ -1154,6 +1258,7 @@
   heading_de: "Guderian"
   count: 10
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1804-1805"
   life_de: "belegt 1804-1805"
   bio: "Attorney who held Leixner's power of attorney in the purchase of the estates of Kamionna and Kolno from Prince Hohenlohe-Ingelfingen. The Prince's agent, Triebenfeld, thought him in league with Broniewski, who contested the Prince's title."
@@ -1166,6 +1271,7 @@
   heading_de: "Gumperts"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1811"
   life_de: "belegt 1811"
   bio: "Medical councillor at Kalisz, who in 1811 was negotiating with Count Wartensleben for the estate that Peter Friedrich von Triebenfeld wanted in exchange for the Zagórów estates."
@@ -1178,6 +1284,7 @@
   heading_de: "Gunter"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1799"
   life_de: "belegt 1799"
   bio: "Named in 1799 in the affairs of Prince Hohenlohe-Ingelfingen's Polish estates; who he was is not known."
@@ -1190,6 +1297,7 @@
   heading_de: "Hache, von"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1809"
   life_de: "belegt 1809"
   bio: "Named in 1809 beside Major von Pirch at the Prussian court in Königsberg; who he was is not known."
@@ -1202,6 +1310,9 @@
   heading_de: "Hardenberg, Karl August von"
   count: 69
   docs: 55
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 19
   life: "1750-1822"
   life_de: "1750-1822"
   bio: "Prussian State Chancellor from 1810 and Prussia's chief negotiator at the Congress of Vienna. In 1814 and 1815 Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, petitioned him for a state advance to pay the Prince's debts and for compensation for Trąbczyn, which the Duchy of Warsaw had taken from the Prince in 1807."
@@ -1214,6 +1325,7 @@
   heading_de: "Haugt"
   count: 8
   docs: 7
+  eras: ["hohenlohe"]
   life: "documented 1805-1811"
   life_de: "belegt 1805-1811"
   bio: "Berlin creditor of Prince Hohenlohe-Ingelfingen, like Oppenheimer and Girard, whose mortgage the Prince's agent, Triebenfeld, tried to have taken over in 1805."
@@ -1226,6 +1338,7 @@
   heading_de: "Haugwitz, Christian von"
   count: 23
   docs: 15
+  eras: ["hohenlohe"]
   life: "1752-1832"
   life_de: "1752-1832"
   bio: "Count, Prussian foreign minister until 1806. He signed the foreign department's letter of January 1797 telling the other ministers that Antoni Prusimski, the exiled owner of Trąbczyn, was at Venice."
@@ -1238,6 +1351,9 @@
   heading_de: "Hawich"
   count: 58
   docs: 26
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 20
   life: "documented 1806-1812"
   life_de: "belegt 1806-1812"
   bio: "Justiciary of the patrimonial court of Prince Hohenlohe-Ingelfingen's Zagórów estates, formerly at Pyzdry. He reported the seizure of Trąbczyn for Michalina Prusimska in October 1807 and in 1809 received the Prince's powers of attorney for the lawsuits in the Duchy of Warsaw. The Prince's agent, Triebenfeld, later accused him of dishonesty and sought his dismissal."
@@ -1250,6 +1366,7 @@
   heading_de: "Hecker"
   count: 53
   docs: 26
+  eras: ["hohenlohe"]
   life: "documented 1808-1812"
   life_de: "belegt 1808-1812"
   bio: "Chief inspector of Prince Hohenlohe-Ingelfingen's Zagórów estates, engaged by the Prince's agent, Triebenfeld, in 1808. He kept the estates' accounts, was accused with the justiciary Hawich of taking land for himself and stirring up the settlers, and was to be dismissed in 1811."
@@ -1262,6 +1379,7 @@
   heading_de: "Heinrichs"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1804-1806"
   life_de: "belegt 1804-1806"
   bio: "Councillor of the royal chamber and its commissioner for estate management. He attests under two of the hereditary leases of 1806, by which Prince Hohenlohe-Ingelfingen let the land of his Zagórów estates to settlers, that the contract was read aloud to the settlers and signed in his presence. He is not Martin Honrichs."
@@ -1274,6 +1392,7 @@
   heading_de: "Hertzog"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1799"
   life_de: "belegt 1799"
   bio: "Named in 1799 in the affairs of Prince Hohenlohe-Ingelfingen's Polish estates; who he was is not known."
@@ -1286,6 +1405,7 @@
   heading_de: "Heuthausen, von"
   count: 5
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1811-1815"
   life_de: "belegt 1811-1815"
   bio: "Agent of Prince Hohenlohe-Ingelfingen, recommended in 1811 to collect the arrears at Pszczew and later sent to Kalisz to examine the mortgage books."
@@ -1298,6 +1418,7 @@
   heading_de: "Hirschel, Abraham Moses"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1803-1804"
   life_de: "belegt 1803-1804"
   bio: "Creditor with 2,000 Reichsthaler registered on Prince Hohenlohe-Ingelfingen's lordship of Pszczew."
@@ -1310,6 +1431,7 @@
   heading_de: "Hoffmann"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "1765-1847"
   life_de: "1765-1847"
   bio: "Official of the Prussian foreign ministry who initialled its drafts of 1816 and 1820 on Prince Hohenlohe-Ingelfingen's claim to compensation for Trąbczyn. Probably Johann Gottfried Hoffmann, economist and councillor of state, whose dates are given here."
@@ -1322,6 +1444,7 @@
   heading_de: "Hohenlohe-Bartenstein, Fürst zu"
   count: 6
   docs: 6
+  eras: ["hohenlohe"]
   life: "documented 1810-1815"
   life_de: "belegt 1810-1815"
   bio: "Prince of the Catholic Bartenstein line of the house of Hohenlohe, present at the Congress of Vienna. In December 1814 the Prussian State Chancellor, Hardenberg, promised him to take up the affairs of Prince Hohenlohe-Ingelfingen."
@@ -1334,6 +1457,7 @@
   heading_de: "Hohenlohe-Ingelfingen, Adelheid, Prinzessin zu"
   count: 2
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Eldest daughter of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen. Under her father's will of 1805 she was to inherit his Silesian ironworks and his houses in Wrocław if the male line died out."
@@ -1346,6 +1470,7 @@
   heading_de: "Hohenlohe-Ingelfingen, Adolf, Prinz zu"
   count: 16
   docs: 12
+  eras: ["hohenlohe"]
   life: "1797-1873"
   life_de: "1797-1873"
   bio: "Younger son of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, later a Prussian general and in 1862 briefly prime minister of Prussia. His father's agent, Triebenfeld, followed his entry into the Prussian army in 1815."
@@ -1358,6 +1483,7 @@
   heading_de: "Hohenlohe-Ingelfingen, Alexander, Prinz zu"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1811-1814"
   life_de: "belegt 1811-1814"
   bio: "Younger son of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, for whom his father's agent, Triebenfeld, suggested in 1811 that the Silesian estate of Koszęcin be kept as an entail."
@@ -1370,6 +1496,7 @@
   heading_de: "Hohenlohe-Ingelfingen, Auguste, Prinzessin zu"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Third daughter of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen. Under her father's will of 1805 she was to inherit his Polish estates if the male line died out."
@@ -1382,6 +1509,7 @@
   heading_de: "Hohenlohe-Ingelfingen, Emilie, Prinzessin zu"
   count: 6
   docs: 6
+  eras: ["hohenlohe"]
   life: "documented 1805-1815"
   life_de: "belegt 1805-1815"
   bio: "Daughter of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen. Under her father's will of 1805 she was to inherit the Silesian estate of Koszęcin if the male line died out."
@@ -1394,6 +1522,7 @@
   heading_de: "Hohenlohe-Ingelfingen, Friedrich August Karl, Fürst zu"
   count: 35
   docs: 30
+  eras: ["hohenlohe"]
   life: "1784-1853"
   life_de: "1784-1853"
   bio: "Eldest son and heir of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, to whom his father ceded the principality in 1806; later Prince of Hohenlohe-Öhringen. In 1815 his father's agent, Triebenfeld, urged him to withdraw the power of attorney he had given Cosmar, the executor who administered the family's Silesian estates for the creditors."
@@ -1406,9 +1535,12 @@
   heading_de: "Hohenlohe-Ingelfingen, Friedrich Ludwig, Fürst zu"
   count: 425
   docs: 150
+  eras: ["hohenlohe", "restitution", "wlodzimierz"]
+  relevant: true
+  relevant_rank: 12
   life: "1746-1818"
   life_de: "1746-1818"
-  bio: "Prussian general and governor of Wrocław, to whom the Prussian crown gave the confiscated Polish estates of Antoni Prusimski, Trąbczyn among them, in 1796 and 1797. He commanded the Prussian army defeated at Jena in 1806, surrendered to the French at Prenzlau and held no further command. The estates were taken from him in 1807, when the Duchy of Warsaw returned them to Prusimski's daughter. He died at Sławięcice in Upper Silesia."
+  bio: "Prussian general and governor of Wrocław, to whom the Prussian crown gave the confiscated Polish estates of Antoni Prusimski, Trąbczyn among them, in 1796, and sixteen former church villages, Zagórów among them, in 1797. He commanded the Prussian army defeated at Jena in 1806, surrendered to the French at Prenzlau and held no further command. The estates were taken from him in 1807, when the Duchy of Warsaw returned them to Prusimski's daughter. He died at Sławięcice in Upper Silesia."
   bio_de: "Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen, preußischer General und Gouverneur von Wrocław (Breslau). Die preußische Krone verlieh ihm 1796 und 1797 Güter in Südpreußen. Er befehligte 1806 bei Jena, kapitulierte bei Prenzlau und erhielt kein Kommando mehr; er starb in Sławięcice (Schlawenschitz) in Oberschlesien."
   span: "1794–1868"
   letters: [{id: "13", uid: "oe1bu14525-13", url: "/documents/oe1bu14525/13/", unit_label: "Oe 1 Bü 14525", n: 2}, {id: "1", uid: "ihagrrep7cnr3570-1", url: "/documents/ihagrrep7cnr3570/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3570", n: 14}, {id: "10", uid: "oe1bu14525-10", url: "/documents/oe1bu14525/10/", unit_label: "Oe 1 Bü 14525", n: 3}, {id: "40", uid: "oe1bu14525-40", url: "/documents/oe1bu14525/40/", unit_label: "Oe 1 Bü 14525", n: 3}, {id: "11", uid: "oe1bu14525-11", url: "/documents/oe1bu14525/11/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "3", uid: "oe1bu14525-3", url: "/documents/oe1bu14525/3/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "8", uid: "oe1bu14525-8", url: "/documents/oe1bu14525/8/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "24", uid: "oe1bu14526-24", url: "/documents/oe1bu14526/24/", unit_label: "Oe 1 Bü 14526", n: 1}, {id: "85", uid: "oe1bu9454-85", url: "/documents/oe1bu9454/85/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "31", uid: "oe1bu14525-31", url: "/documents/oe1bu14525/31/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "44", uid: "oe1bu14525-44", url: "/documents/oe1bu14525/44/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "43", uid: "oe1bu14525-43", url: "/documents/oe1bu14525/43/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "3", uid: "oe1bu14526-3", url: "/documents/oe1bu14526/3/", unit_label: "Oe 1 Bü 14526", n: 2}, {id: "25", uid: "oe1bu14526-25", url: "/documents/oe1bu14526/25/", unit_label: "Oe 1 Bü 14526", n: 2}, {id: "1", uid: "ihagrrep7cnr421-1", url: "/documents/ihagrrep7cnr421/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 2}, {id: "2", uid: "oe1bu14525-2", url: "/documents/oe1bu14525/2/", unit_label: "Oe 1 Bü 14525", n: 3}, {id: "5", uid: "ihagrrep7cnr421-5", url: "/documents/ihagrrep7cnr421/5/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 2}, {id: "4", uid: "ihagrrep7cnr421-4", url: "/documents/ihagrrep7cnr421/4/", unit_label: "I. HA GR, Rep. 7 C, Nr. 421", n: 2}, {id: "32", uid: "oe1bu14525-32", url: "/documents/oe1bu14525/32/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "101", uid: "oe1bu9454-101", url: "/documents/oe1bu9454/101/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "1", uid: "ihagrrep7cnr3709-1", url: "/documents/ihagrrep7cnr3709/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 2}, {id: "1", uid: "oe1bu14525-1", url: "/documents/oe1bu14525/1/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "2", uid: "ihagrrep7cnr3709-2", url: "/documents/ihagrrep7cnr3709/2/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 3}, {id: "19", uid: "oe1bu14525-19", url: "/documents/oe1bu14525/19/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "20", uid: "oe1bu14525-20", url: "/documents/oe1bu14525/20/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "30", uid: "oe1bu14525-30", url: "/documents/oe1bu14525/30/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "3", uid: "ihagrrep7cnr3709-3", url: "/documents/ihagrrep7cnr3709/3/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 2}, {id: "5", uid: "ihagrrep7cnr3709-5", url: "/documents/ihagrrep7cnr3709/5/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 3}, {id: "6", uid: "ihagrrep7cnr3709-6", url: "/documents/ihagrrep7cnr3709/6/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 1}, {id: "7", uid: "ihagrrep7cnr3709-7", url: "/documents/ihagrrep7cnr3709/7/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 1}, {id: "8", uid: "ihagrrep7cnr3709-8", url: "/documents/ihagrrep7cnr3709/8/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 1}, {id: "9", uid: "ihagrrep7cnr3709-9", url: "/documents/ihagrrep7cnr3709/9/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 1}, {id: "37", uid: "oe1bu14525-37", url: "/documents/oe1bu14525/37/", unit_label: "Oe 1 Bü 14525", n: 2}, {id: "10", uid: "ihagrrep7cnr3709-10", url: "/documents/ihagrrep7cnr3709/10/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3709", n: 1}, {id: "27", uid: "oe1bu14525-27", url: "/documents/oe1bu14525/27/", unit_label: "Oe 1 Bü 14525", n: 3}, {id: "33", uid: "oe1bu14525-33", url: "/documents/oe1bu14525/33/", unit_label: "Oe 1 Bü 14525", n: 2}, {id: "4", uid: "oe1bu14525-4", url: "/documents/oe1bu14525/4/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "6", uid: "oe1bu14525-6", url: "/documents/oe1bu14525/6/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "9", uid: "oe1bu14525-9", url: "/documents/oe1bu14525/9/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "34", uid: "oe1bu14525-34", url: "/documents/oe1bu14525/34/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "15", uid: "oe1bu14525-15", url: "/documents/oe1bu14525/15/", unit_label: "Oe 1 Bü 14525", n: 5}, {id: "16", uid: "oe1bu14525-16", url: "/documents/oe1bu14525/16/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "17", uid: "oe1bu14525-17", url: "/documents/oe1bu14525/17/", unit_label: "Oe 1 Bü 14525", n: 5}, {id: "7", uid: "oe1bu14525-7", url: "/documents/oe1bu14525/7/", unit_label: "Oe 1 Bü 14525", n: 8}, {id: "28", uid: "oe1bu14525-28", url: "/documents/oe1bu14525/28/", unit_label: "Oe 1 Bü 14525", n: 5}, {id: "18", uid: "oe1bu14525-18", url: "/documents/oe1bu14525/18/", unit_label: "Oe 1 Bü 14525", n: 4}, {id: "23", uid: "oe1bu14525-23", url: "/documents/oe1bu14525/23/", unit_label: "Oe 1 Bü 14525", n: 5}, {id: "5", uid: "oe1bu14525-5", url: "/documents/oe1bu14525/5/", unit_label: "Oe 1 Bü 14525", n: 3}, {id: "20", uid: "oe1bu14526-20", url: "/documents/oe1bu14526/20/", unit_label: "Oe 1 Bü 14526", n: 1}, {id: "2", uid: "oe1bu14526-2", url: "/documents/oe1bu14526/2/", unit_label: "Oe 1 Bü 14526", n: 3}, {id: "5", uid: "ihagrrep7cnr3132-5", url: "/documents/ihagrrep7cnr3132/5/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3132", n: 1}, {id: "12", uid: "oe1bu14525-12", url: "/documents/oe1bu14525/12/", unit_label: "Oe 1 Bü 14525", n: 3}, {id: "25", uid: "oe1bu14525-25", url: "/documents/oe1bu14525/25/", unit_label: "Oe 1 Bü 14525", n: 1}, {id: "21", uid: "oe1bu14525-21", url: "/documents/oe1bu14525/21/", unit_label: "Oe 1 Bü 14525", n: 2}, {id: "135", uid: "oe1bu9454-135", url: "/documents/oe1bu9454/135/", unit_label: "HZAN Oe 1 Bü 9454", n: 2}, {id: "17", uid: "oe1bu14526-17", url: "/documents/oe1bu14526/17/", unit_label: "Oe 1 Bü 14526", n: 2}, {id: "18", uid: "oe1bu14526-18", url: "/documents/oe1bu14526/18/", unit_label: "Oe 1 Bü 14526", n: 20}, {id: "19", uid: "oe1bu14526-19", url: "/documents/oe1bu14526/19/", unit_label: "Oe 1 Bü 14526", n: 18}, {id: "5", uid: "oe1bu14526-5", url: "/documents/oe1bu14526/5/", unit_label: "Oe 1 Bü 14526", n: 3}, {id: "22", uid: "oe1bu14525-22", url: "/documents/oe1bu14525/22/", unit_label: "Oe 1 Bü 14525", n: 8}, {id: "16", uid: "oe1bu14526-16", url: "/documents/oe1bu14526/16/", unit_label: "Oe 1 Bü 14526", n: 7}, {id: "4", uid: "oe1bu14526-4", url: "/documents/oe1bu14526/4/", unit_label: "Oe 1 Bü 14526", n: 3}, {id: "1", uid: "iharep162nr295-1", url: "/documents/iharep162nr295/1/", unit_label: "I. HA Rep. 162, Nr. 295", n: 2}, {id: "1", uid: "app539680801-1", url: "/documents/app539680801/1/", unit_label: "APP 53/968/0/-/801", n: 3}, {id: "21", uid: "oe1bu14526-21", url: "/documents/oe1bu14526/21/", unit_label: "Oe 1 Bü 14526", n: 2}, {id: "3", uid: "iharep162nr295-3", url: "/documents/iharep162nr295/3/", unit_label: "I. HA Rep. 162, Nr. 295", n: 2}, {id: "22", uid: "oe1bu14526-22", url: "/documents/oe1bu14526/22/", unit_label: "Oe 1 Bü 14526", n: 12}, {id: "172", uid: "oe1bu9454-172", url: "/documents/oe1bu9454/172/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "15", uid: "oe1bu14526-15", url: "/documents/oe1bu14526/15/", unit_label: "Oe 1 Bü 14526", n: 1}, {id: "14", uid: "oe1bu14526-14", url: "/documents/oe1bu14526/14/", unit_label: "Oe 1 Bü 14526", n: 1}, {id: "13", uid: "oe1bu14526-13", url: "/documents/oe1bu14526/13/", unit_label: "Oe 1 Bü 14526", n: 2}, {id: "10", uid: "oe1bu14526-10", url: "/documents/oe1bu14526/10/", unit_label: "Oe 1 Bü 14526", n: 5}, {id: "23", uid: "oe1bu14526-23", url: "/documents/oe1bu14526/23/", unit_label: "Oe 1 Bü 14526", n: 1}, {id: "176", uid: "oe1bu9454-176", url: "/documents/oe1bu9454/176/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "9", uid: "oe1bu14526-9", url: "/documents/oe1bu14526/9/", unit_label: "Oe 1 Bü 14526", n: 4}, {id: "1", uid: "ihagrrep7cnr3705-1", url: "/documents/ihagrrep7cnr3705/1/", unit_label: "I. HA GR, Rep. 7 C, Nr. 3705", n: 1}, {id: "1", uid: "oe1u199-1", url: "/documents/oe1u199/1/", unit_label: "HZAN Oe 1 U 199", n: 8}, {id: "2", uid: "app539680801-2", url: "/documents/app539680801/2/", unit_label: "APP 53/968/0/-/801", n: 2}, {id: "3", uid: "app539680801-3", url: "/documents/app539680801/3/", unit_label: "APP 53/968/0/-/801", n: 4}, {id: "8", uid: "oe1bu14526-8", url: "/documents/oe1bu14526/8/", unit_label: "Oe 1 Bü 14526", n: 8}, {id: "1", uid: "app5371057-1", url: "/documents/app5371057/1/", unit_label: "APP 53/71/0/-/57", n: 12}, {id: "179a", uid: "oe1bu9454-179a", url: "/documents/oe1bu9454/179a/", unit_label: "HZAN Oe 1 Bü 9454", n: 2}, {id: "182", uid: "oe1bu9454-182", url: "/documents/oe1bu9454/182/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "7", uid: "oe1bu14526-7", url: "/documents/oe1bu14526/7/", unit_label: "Oe 1 Bü 14526", n: 1}, {id: "6", uid: "oe1bu14526-6", url: "/documents/oe1bu14526/6/", unit_label: "Oe 1 Bü 14526", n: 7}, {id: "24", uid: "oe1bu9454-24", url: "/documents/oe1bu9454/24/", unit_label: "HZAN Oe 1 Bü 9454", n: 2}, {id: "2", uid: "agad11740273-2", url: "/documents/agad11740273/2/", unit_label: "AGAD 1/174/0/2/73", n: 1}, {id: "3", uid: "agad11740273-3", url: "/documents/agad11740273/3/", unit_label: "AGAD 1/174/0/2/73", n: 1}, {id: "30", uid: "oe1bu9454-30", url: "/documents/oe1bu9454/30/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "46", uid: "oe1bu9454-46", url: "/documents/oe1bu9454/46/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "215", uid: "oe1bu9454-215", url: "/documents/oe1bu9454/215/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "74a", uid: "oe1bu9454-74a", url: "/documents/oe1bu9454/74a/", unit_label: "HZAN Oe 1 Bü 9454", n: 4}, {id: "74c", uid: "oe1bu9454-74c", url: "/documents/oe1bu9454/74c/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "74d", uid: "oe1bu9454-74d", url: "/documents/oe1bu9454/74d/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "223", uid: "oe1bu9454-223", url: "/documents/oe1bu9454/223/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "231", uid: "oe1bu9454-231", url: "/documents/oe1bu9454/231/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "73", uid: "oe1bu9454-73", url: "/documents/oe1bu9454/73/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "232", uid: "oe1bu9454-232", url: "/documents/oe1bu9454/232/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "234", uid: "oe1bu9454-234", url: "/documents/oe1bu9454/234/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "238", uid: "oe1bu9454-238", url: "/documents/oe1bu9454/238/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "240", uid: "oe1bu9454-240", url: "/documents/oe1bu9454/240/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "257", uid: "oe1bu9454-257", url: "/documents/oe1bu9454/257/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "245", uid: "oe1bu9454-245", url: "/documents/oe1bu9454/245/", unit_label: "HZAN Oe 1 Bü 9454", n: 4}, {id: "1", uid: "iiihamdaiiinr12765-1", url: "/documents/iiihamdaiiinr12765/1/", unit_label: "III. HA MdA, III Nr. 12765", n: 3}, {id: "247", uid: "oe1bu9454-247", url: "/documents/oe1bu9454/247/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "251", uid: "oe1bu9454-251", url: "/documents/oe1bu9454/251/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "252", uid: "oe1bu9454-252", url: "/documents/oe1bu9454/252/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "253", uid: "oe1bu9454-253", url: "/documents/oe1bu9454/253/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "258", uid: "oe1bu9454-258", url: "/documents/oe1bu9454/258/", unit_label: "HZAN Oe 1 Bü 9454", n: 3}, {id: "264", uid: "oe1bu9454-264", url: "/documents/oe1bu9454/264/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "269a", uid: "oe1bu9454-269a", url: "/documents/oe1bu9454/269a/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "1a", uid: "oe1bu9454-1a", url: "/documents/oe1bu9454/1a/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "14", uid: "oe1bu9454-14", url: "/documents/oe1bu9454/14/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "275", uid: "oe1bu9454-275", url: "/documents/oe1bu9454/275/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "2", uid: "iiihamdaiiinr12765-2", url: "/documents/iiihamdaiiinr12765/2/", unit_label: "III. HA MdA, III Nr. 12765", n: 4}, {id: "11", uid: "oe1bu9454-11", url: "/documents/oe1bu9454/11/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "277", uid: "oe1bu9454-277", url: "/documents/oe1bu9454/277/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "3", uid: "iiihamdaiiinr12765-3", url: "/documents/iiihamdaiiinr12765/3/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "279", uid: "oe1bu9454-279", url: "/documents/oe1bu9454/279/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "285", uid: "oe1bu9454-285", url: "/documents/oe1bu9454/285/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "286", uid: "oe1bu9454-286", url: "/documents/oe1bu9454/286/", unit_label: "HZAN Oe 1 Bü 9454", n: 2}, {id: "4", uid: "iiihamdaiiinr12765-4", url: "/documents/iiihamdaiiinr12765/4/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "5", uid: "iiihamdaiiinr12765-5", url: "/documents/iiihamdaiiinr12765/5/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "7", uid: "iiihamdaiiinr12765-7", url: "/documents/iiihamdaiiinr12765/7/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "8", uid: "iiihamdaiiinr12765-8", url: "/documents/iiihamdaiiinr12765/8/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "9", uid: "iiihamdaiiinr12765-9", url: "/documents/iiihamdaiiinr12765/9/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "289", uid: "oe1bu9454-289", url: "/documents/oe1bu9454/289/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}, {id: "6", uid: "iiihamdaiiinr12765-6", url: "/documents/iiihamdaiiinr12765/6/", unit_label: "III. HA MdA, III Nr. 12765", n: 3}, {id: "10", uid: "iiihamdaiiinr12765-10", url: "/documents/iiihamdaiiinr12765/10/", unit_label: "III. HA MdA, III Nr. 12765", n: 5}, {id: "11", uid: "iiihamdaiiinr12765-11", url: "/documents/iiihamdaiiinr12765/11/", unit_label: "III. HA MdA, III Nr. 12765", n: 2}, {id: "12", uid: "iiihamdaiiinr12765-12", url: "/documents/iiihamdaiiinr12765/12/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "15", uid: "iiihamdaiiinr12765-15", url: "/documents/iiihamdaiiinr12765/15/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "13", uid: "iiihamdaiiinr12765-13", url: "/documents/iiihamdaiiinr12765/13/", unit_label: "III. HA MdA, III Nr. 12765", n: 4}, {id: "16", uid: "iiihamdaiiinr12765-16", url: "/documents/iiihamdaiiinr12765/16/", unit_label: "III. HA MdA, III Nr. 12765", n: 2}, {id: "17", uid: "iiihamdaiiinr12765-17", url: "/documents/iiihamdaiiinr12765/17/", unit_label: "III. HA MdA, III Nr. 12765", n: 5}, {id: "18", uid: "iiihamdaiiinr12765-18", url: "/documents/iiihamdaiiinr12765/18/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "19", uid: "iiihamdaiiinr12765-19", url: "/documents/iiihamdaiiinr12765/19/", unit_label: "III. HA MdA, III Nr. 12765", n: 2}, {id: "20", uid: "iiihamdaiiinr12765-20", url: "/documents/iiihamdaiiinr12765/20/", unit_label: "III. HA MdA, III Nr. 12765", n: 2}, {id: "21", uid: "iiihamdaiiinr12765-21", url: "/documents/iiihamdaiiinr12765/21/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "1", uid: "iiihamdaiiinr12366-1", url: "/documents/iiihamdaiiinr12366/1/", unit_label: "III. HA MdA, III. Nr. 12366", n: 7}, {id: "22", uid: "iiihamdaiiinr12765-22", url: "/documents/iiihamdaiiinr12765/22/", unit_label: "III. HA MdA, III Nr. 12765", n: 4}, {id: "23", uid: "iiihamdaiiinr12765-23", url: "/documents/iiihamdaiiinr12765/23/", unit_label: "III. HA MdA, III Nr. 12765", n: 2}, {id: "24", uid: "iiihamdaiiinr12765-24", url: "/documents/iiihamdaiiinr12765/24/", unit_label: "III. HA MdA, III Nr. 12765", n: 1}, {id: "4", uid: "iiihamdaiiinr12366-4", url: "/documents/iiihamdaiiinr12366/4/", unit_label: "III. HA MdA, III. Nr. 12366", n: 1}, {id: "5", uid: "iiihamdaiiinr12366-5", url: "/documents/iiihamdaiiinr12366/5/", unit_label: "III. HA MdA, III. Nr. 12366", n: 4}, {id: "5", uid: "iiihamdaiiinr12367-5", url: "/documents/iiihamdaiiinr12367/5/", unit_label: "III. HA MdA, III. Nr. 12367", n: 1}, {id: "1", uid: "agad118501169-1", url: "/documents/agad118501169/1/", unit_label: "AGAD 1/185/0/1/169", n: 13}, {id: "1", uid: "app539680783-1", url: "/documents/app539680783/1/", unit_label: "APP 53/968/0/-/783", n: 12}, {id: "6", uid: "apl399801333-6", url: "/documents/apl399801333/6/", unit_label: "APŁ 39/98/0/-/1333", n: 1}, {id: "303", uid: "oe1bu9454-303", url: "/documents/oe1bu9454/303/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}]
@@ -1418,6 +1550,7 @@
   heading_de: "Holtzendorff, von"
   count: 5
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1796"
   life_de: "belegt 1796"
   bio: "Lieutenant, given three confiscated estates in 1796 by the same order that gave Prince Hohenlohe-Ingelfingen the Prusimski estates."
@@ -1430,6 +1563,9 @@
   heading_de: "Honrichs, Martin"
   count: 130
   docs: 42
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 21
   life: "documented 1803-1812"
   life_de: "belegt 1803-1812"
   bio: "Buyer of the estate of Witów from Prince Hohenlohe-Ingelfingen in 1803, and afterwards lessee, court-appointed administrator and agent on the Prince's Zagórów estates. The Prince's agent, Triebenfeld, accused him of keeping back the estates' money and selling their land on his own authority, and he was arrested more than once between 1809 and 1812."
@@ -1442,6 +1578,9 @@
   heading_de: "Hoym, Karl Georg Heinrich von"
   count: 47
   docs: 27
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 17
   life: "1739-1807"
   life_de: "1739-1807"
   bio: "Count, Prussian minister for Silesia and, from 1793 to 1798, for South Prussia. In July 1796 he proposed that the confiscated estates of Antoni Prusimski be given to Prince Hohenlohe-Ingelfingen."
@@ -1454,6 +1593,7 @@
   heading_de: "Humboldt, Wilhelm von"
   count: 22
   docs: 19
+  eras: ["hohenlohe"]
   life: "1767-1835"
   life_de: "1767-1835"
   bio: "Prussian minister and scholar, Prussia's second plenipotentiary at the Congress of Vienna. In November 1814 he received the memorial of Peter Friedrich von Triebenfeld on Prince Hohenlohe-Ingelfingen's lost Polish estates and promised his support."
@@ -1466,6 +1606,7 @@
   heading_de: "Hussarzewski"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Government councillor at Kalisz, through whom the dispute over the lease of Oleśnica went back to the patrimonial court of the Zagórów estates in 1805."
@@ -1478,6 +1619,7 @@
   heading_de: "Itzig"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Creditor of Prince Hohenlohe-Ingelfingen, from whom the Prince's lawyer Amelang called in 18,000 Reichsthaler in 1805; the name is a doubtful reading. Probably of the Berlin banking family Itzig."
@@ -1490,6 +1632,9 @@
   heading_de: "Jan (heir of Trąbczyn, 1346)"
   count: 2
   docs: 1
+  eras: ["medieval"]
+  relevant: true
+  relevant_rank: 1
   life: "documented 1346"
   life_de: "belegt 1346"
   bio: "Owner of Trąbczyn with his brother Przedpełk. On 13 November 1346 the land judge at Pyzdry rejected their claim to the villages of Stropiszyn and Pępocin and adjudged them to the church of Gniezno."
@@ -1502,6 +1647,7 @@
   heading_de: "Jan (parish priest of Trąbczyn, 1399)"
   count: 3
   docs: 1
+  eras: ["medieval"]
   life: "documented 1399"
   life_de: "belegt 1399"
   bio: "Parish priest of Trąbczyn, against whom the Archbishop of Gniezno adjudged the sheaf tithe of Trąbczyn to the abbey of Ląd on 13 October 1399."
@@ -1514,6 +1660,7 @@
   heading_de: "Jan of Trąbczyn (1434)"
   count: 3
   docs: 1
+  eras: ["medieval"]
   life: "documented 1434"
   life_de: "belegt 1434"
   bio: "Son of Otto of Trąbczyn, made his brother Wojciech's proxy on 15 May 1434; he is hard to tell apart from a namesake at Trąbczyn at the same time."
@@ -1526,6 +1673,7 @@
   heading_de: "Jankowski, Joseph von"
   count: 12
   docs: 2
+  eras: ["prusimski-boundary", "hohenlohe"]
   life: "documented 1761-1799"
   life_de: "belegt 1761-1799"
   bio: "Landowner of Ninino, who sold the free mayor's holding at Dormowo, in the lordship of Pszczew, to Captain Gneust in 1797."
@@ -1538,6 +1686,7 @@
   heading_de: "Jordan, Johann Ludwig von"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "1773-1848"
   life_de: "1773-1848"
   bio: "Counsellor of legation in the Prussian State Chancellor's office at the Congress of Vienna, with whom Peter Friedrich von Triebenfeld dealt over Prince Hohenlohe-Ingelfingen's petitions."
@@ -1550,6 +1699,7 @@
   heading_de: "Kalckreuth, Friedrich Adolf von"
   count: 6
   docs: 5
+  eras: ["hohenlohe"]
   life: "1737-1818"
   life_de: "1737-1818"
   bio: "Prussian field marshal. Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, blamed him and a Prince George for the order of 1805 that stopped the revision of the valuations of the Prince's Polish estates."
@@ -1562,6 +1712,7 @@
   heading_de: "Kaleschke"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1805-1806"
   life_de: "belegt 1805-1806"
   bio: "Clerk of the von Stillfried patrimonial court at Górzyce near Wrocław, which in 1805 certified the general power of attorney that Prince Hohenlohe-Ingelfingen gave to Peter Friedrich von Triebenfeld."
@@ -1574,6 +1725,7 @@
   heading_de: "Kiełczewski"
   count: 3
   docs: 2
+  eras: ["prusimski-boundary", "hohenlohe"]
   life: "documented 1784-1811"
   life_de: "belegt 1784-1811"
   bio: "President of the tribunal at Kalisz in the Duchy of Warsaw in 1811, while it heard the case over Trąbczyn."
@@ -1586,6 +1738,7 @@
   heading_de: "Kircheisen, Friedrich Leopold von"
   count: 12
   docs: 11
+  eras: ["hohenlohe"]
   life: "1749-1825"
   life_de: "1749-1825"
   bio: "Prussian minister of justice from 1810. He was named an executor of the will of Princess Sacken, Prince Hohenlohe-Ingelfingen's mother-in-law, and the inquiry into Cosmar's administration of the Prince's Silesian estates was referred to him."
@@ -1598,6 +1751,7 @@
   heading_de: "Kleist, von (Oberforstmeister)"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1813"
   life_de: "belegt 1813"
   bio: "Chief forester, for whom Peter Friedrich von Triebenfeld brought a letter in June 1813; he was away, and it was left with his wounded son."
@@ -1610,6 +1764,7 @@
   heading_de: "Kleist, von (General)"
   count: 3
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1810-1812"
   life_de: "belegt 1810-1812"
   bio: "Prussian general, said in 1810 to be about to succeed Köckritz at the King's side. At Kalisz in 1812 he repeated a charge that Peter Friedrich von Triebenfeld kept the revenues of Prince Hohenlohe-Ingelfingen's estates for himself."
@@ -1622,6 +1777,7 @@
   heading_de: "Knobelsdorff"
   count: 21
   docs: 9
+  eras: ["hohenlohe"]
   life: "documented 1809-1810"
   life_de: "belegt 1809-1810"
   bio: "Silesian landowner with whom Peter Friedrich von Triebenfeld negotiated in 1809 and 1810 an exchange of his estates for Prince Hohenlohe-Ingelfingen's Zagórów estates. He inspected Zagórów late in 1810; no exchange followed."
@@ -1634,6 +1790,7 @@
   heading_de: "Knoblauch"
   count: 2
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1803"
   life_de: "belegt 1803"
   bio: "Named in 1803 in the affairs of Prince Hohenlohe-Ingelfingen's Polish estates; who he was is not known."
@@ -1646,6 +1803,7 @@
   heading_de: "Knobloch"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1799"
   life_de: "belegt 1799"
   bio: "Official named in 1799, with Prittwitz, as one of those who were to carry out the exchange of Prince Hohenlohe-Ingelfingen's Polish estates for the domain of Krotoszyn."
@@ -1658,6 +1816,9 @@
   heading_de: "Köckritz, Karl Leopold von"
   count: 76
   docs: 44
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 16
   life: "1744-1821"
   life_de: "1744-1821"
   bio: "Prussian general and adjutant general to Friedrich Wilhelm III, one of the King's closest confidants. From 1798 he supported Prince Hohenlohe-Ingelfingen at court, and in 1805 he arranged the Prince's loan of 50,000 Reichsthaler from the fund for military invalids on the estate of Zagórów."
@@ -1670,6 +1831,7 @@
   heading_de: "Koeppen"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1805-1806"
   life_de: "belegt 1805-1806"
   bio: "Justiciary of the von Stillfried patrimonial court at Górzyce near Wrocław, which in 1805 certified the general power of attorney that Prince Hohenlohe-Ingelfingen gave to Peter Friedrich von Triebenfeld."
@@ -1682,6 +1844,7 @@
   heading_de: "Konstantin Pawlowitsch, Großfürst von Russland"
   count: 15
   docs: 13
+  eras: ["hohenlohe"]
   life: "1779-1831"
   life_de: "1779-1831"
   bio: "Brother of Tsar Alexander I and from 1815 commander of the army of the Kingdom of Poland. Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, hoped to reach the Tsar through him with the claim to Trąbczyn."
@@ -1694,6 +1857,7 @@
   heading_de: "Koppe"
   count: 8
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1806-1815"
   life_de: "belegt 1806-1815"
   bio: "Secretary and later assessor in the service of Prince Hohenlohe-Ingelfingen (also Koppen), through whom the Prince's agent, Triebenfeld, learned in October 1806 that the Prince had survived the defeat at Jena. In 1808, back from Paris, he was to receive the papers about the Eysenhardt money; by 1815 he worked in Hanover."
@@ -1706,6 +1870,9 @@
   heading_de: "Kościuszko, Tadeusz"
   count: 2
   docs: 1
+  eras: ["insurgency"]
+  relevant: true
+  relevant_rank: 10
   life: "1746-1817"
   life_de: "1746-1817"
   bio: "General, and as Naczelnik the commander-in-chief of the national forces in the Polish uprising of 1794 against Russia and Prussia. Wounded and taken prisoner at Maciejowice, he lived abroad after the last partition, from 1798 in Paris, as the chief figure of the Polish emigration. A contemporary copy survives of his letter of 3 September 1798 from Paris to an unnamed émigré who had written to him from Dresden that August."
@@ -1718,6 +1885,7 @@
   heading_de: "Kozierowski, Ignacy Augustyn"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Bishop, who ordained Józef Zurkowski, later parish priest of Trąbczyn, in February 1767; his title reads \"Adratyński\", with a word before the surname uncertain."
@@ -1730,6 +1898,7 @@
   heading_de: "Kuh (Gebrüder)"
   count: 4
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1800-1815"
   life_de: "belegt 1800-1815"
   bio: "Brothers, Jewish bankers and creditors of Prince Hohenlohe-Ingelfingen. They sued the Prince's agent, Triebenfeld, in 1800 and in 1815 were among the creditors who complained against Cosmar's administration of the Prince's Silesian estates."
@@ -1742,6 +1911,7 @@
   heading_de: "Kunkel"
   count: 17
   docs: 7
+  eras: ["hohenlohe"]
   life: "documented 1804-1805"
   life_de: "belegt 1804-1805"
   bio: "Agent who in 1804 made over land at Althütte to settlers for Prince Hohenlohe-Ingelfingen and brought in the three lessees of Oleśnica. The Prince's agent, Triebenfeld, distrusted him, and he was taken into custody in 1805."
@@ -1754,6 +1924,7 @@
   heading_de: "Kurnatowski"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1815-1816"
   life_de: "belegt 1815-1816"
   bio: "Named in 1815 and 1816 in the affairs of Prince Hohenlohe-Ingelfingen; who he was is not known."
@@ -1766,6 +1937,7 @@
   heading_de: "Küster"
   count: 2
   docs: 2
+  eras: ["hohenlohe", "wlodzimierz"]
   life: "documented 1814-1882"
   life_de: "belegt 1814-1882"
   bio: "Official of the Prussian State Chancellor's office at Vienna, who noted in November 1814 that Peter Friedrich von Triebenfeld's petition for Prince Hohenlohe-Ingelfingen had been passed to Stägemann."
@@ -1778,6 +1950,7 @@
   heading_de: "Kwilecki"
   count: 19
   docs: 10
+  eras: ["prusimski-boundary", "hohenlohe"]
   life: "documented 1775-1812"
   life_de: "belegt 1775-1812"
   bio: "Justice of the peace at Konin in the Duchy of Warsaw, before whom the suit over Trąbczyn between Michalina Prusimska and Prince Hohenlohe-Ingelfingen opened in 1810. A von Kwilecki also appears in 1805 in a dispute over timber rights at Kamionna."
@@ -1790,6 +1963,7 @@
   heading_de: "Lahr, van der"
   count: 74
   docs: 22
+  eras: ["hohenlohe"]
   life: "documented 1808-1811"
   life_de: "belegt 1808-1811"
   bio: "Berlin creditor from whom Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, borrowed in 1808 to pay the interest owed to the Invalids' Fund. He sued for repayment in cash, had Triebenfeld's own estates sequestered, and was partly paid in iron from the Prince's Silesian ironworks."
@@ -1802,6 +1976,7 @@
   heading_de: "Lanskoy, Vasily Sergeyevich"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "1754-1831"
   life_de: "1754-1831"
   bio: "Head of the Russian provisional government of the Duchy of Warsaw from 1813 to 1815. Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, feared the influence that Stanisław Miączyński, the husband of the Trąbczyn heiress, had with him."
@@ -1814,6 +1989,7 @@
   heading_de: "Larisch, von"
   count: 5
   docs: 1
+  eras: ["hohenlohe"]
   life: "1734-1811"
   life_de: "1734-1811"
   bio: "Major general, given the estate of Lekarzewice in 1796 by the same order that gave Prince Hohenlohe-Ingelfingen the Prusimski estates. Probably Johann Karl Leopold von Larisch, whose dates are given here."
@@ -1826,6 +2002,7 @@
   heading_de: "Leixner, George Conrad"
   count: 64
   docs: 22
+  eras: ["hohenlohe"]
   life: "d. by 1816"
   life_de: "gest. spätestens 1816"
   bio: "Official of the royal bank at Frankfurt an der Oder, who bought the estates of Kamionna and Kolno from Prince Hohenlohe-Ingelfingen for 142,000 Reichsthaler in 1805. He lost them in 1807, when the Duchy of Warsaw returned them to Michalina Prusimska, and came under judicial investigation; he had died by April 1816."
@@ -1838,6 +2015,7 @@
   heading_de: "Lichnowski (Brüder)"
   count: 31
   docs: 22
+  eras: ["hohenlohe"]
   life: "documented 1804-1830"
   life_de: "belegt 1804-1830"
   bio: "Brothers, creditors with 42,000 Reichsthaler registered on Trąbczyn while Prince Hohenlohe-Ingelfingen held it. In 1804 one of them demanded arrears of interest and threatened to have the estate sequestered. In 1827 the civil tribunal at Kalisz struck their mortgage out at the suit of Michalina Miączyńska; they were Karl Franz and Maximilian Jaroslaw, heirs of Karl Heinrich Lichnowski."
@@ -1850,6 +2028,7 @@
   heading_de: "Lichnowski, von (Regierungsrat in Kalisch)"
   count: 2
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Councillor of the South Prussian Government, the provincial court at Kalisz. In February 1805 he vouched for the identity of Peter Friedrich von Triebenfeld when Triebenfeld acknowledged before the court the bond for the Invalids' Fund's loan to Prince Hohenlohe-Ingelfingen. Whether he was one of the Lichnowski brothers who were creditors of the Prince's estates is not known."
@@ -1862,6 +2041,7 @@
   heading_de: "Lidmanowski, Konstanty"
   count: 0
   docs: 0
+  eras: []
   letters: []
 - slug: "lipski"
   name: "Lipski"
@@ -1869,6 +2049,7 @@
   heading_de: "Lipski"
   count: 7
   docs: 6
+  eras: ["hohenlohe", "twentieth-century"]
   life: "documented 1807-1936"
   life_de: "belegt 1807-1936"
   bio: "Appellate judge who in October 1807, on the order of the Governing Commission of the Duchy of Warsaw, took over the Trąbczyn estates from Prince Hohenlohe-Ingelfingen's officials and handed them to the representative of Michalina Dąbska, born Prusimska. A Count Lipski was public prosecutor at Kalisz in 1812."
@@ -1881,6 +2062,7 @@
   heading_de: "Lombardini"
   count: 28
   docs: 18
+  eras: ["hohenlohe"]
   life: "documented 1809-1816"
   life_de: "belegt 1809-1816"
   bio: "Steward of Prince Hohenlohe-Ingelfingen's household at Sławięcice. He carried letters and money between the Prince and his agent, Triebenfeld, and paid allowances to Triebenfeld's daughters."
@@ -1893,6 +2075,7 @@
   heading_de: "Lubowidzki, Józef"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1832"
   life_de: "belegt 1832"
   bio: "Councillor of state and president of the Bank of Poland. In March 1832 he was charged with carrying out the convention between Russia and Prussia of 29 May 1830 and with settling the banker Weigel's claim over Trąbczyn."
@@ -1905,6 +2088,7 @@
   heading_de: "Lucke, Samuel"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1799"
   life_de: "belegt 1799"
   bio: "Miller at Białobrzeg, who agreed in 1798 to buy the farm of Szetlewek from Prince Hohenlohe-Ingelfingen for 12,333 Reichsthaler and gave up the contract the next year."
@@ -1917,6 +2101,7 @@
   heading_de: "Ludolff"
   count: 3
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "Councillor who valued Prince Hohenlohe-Ingelfingen's estates of Kamionna and Kolno for a prospective buyer in 1804."
@@ -1929,6 +2114,7 @@
   heading_de: "Łukomski (Familie)"
   count: 2
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1589"
   life_de: "belegt 1589"
   bio: "The family named from Łukom, the estate next to Trąbczyn, which it held in the sixteenth century. In 1589 Thomas Łukomski was sued by Albertus Trąmpczyński for building a pond at Łukom that flooded the woods and meadows of Trąbczyn."
@@ -1941,6 +2127,7 @@
   heading_de: "Łuszczewski, Jan Paweł"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "1764-1812"
   life_de: "1764-1812"
   bio: "Secretary general of the Governing Commission in 1807 and afterwards minister of the interior of the Duchy of Warsaw. He countersigned the commission's order of 12 July and its resolution of 21 July 1807 returning the Prusimski estates to Michalina Dąbska."
@@ -1953,6 +2140,7 @@
   heading_de: "Magnuski"
   count: 3
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Creditor or claimant on whose account money owed to Prince Hohenlohe-Ingelfingen was attached in 1805."
@@ -1965,6 +2153,7 @@
   heading_de: "Małachowski, Stanisław"
   count: 5
   docs: 4
+  eras: ["hohenlohe"]
   life: "1736-1809"
   life_de: "1736-1809"
   bio: "President of the Governing Commission, the provisional Polish government that Napoleon set up in January 1807. Its resolution of 21 July 1807, which returned the confiscated Prusimski estates to Michalina Dąbska, was issued under his name, and her petition to the Emperor was addressed to him."
@@ -1977,6 +2166,7 @@
   heading_de: "Manitius, Superintendent Pastor"
   count: 2
   docs: 2
+  eras: ["wlodzimierz"]
   life: "documented 1882"
   life_de: "belegt 1882"
   bio: "Superintendent pastor at Warsaw, who received the mission collections of the Evangelical parishes of Zagórów and Pyzdry in 1882. Whether he is the Pastor Manitius of Konstantynów is not known."
@@ -1989,6 +2179,7 @@
   heading_de: "Massenbach, Christian von"
   count: 4
   docs: 3
+  eras: ["hohenlohe"]
   life: "1758-1827"
   life_de: "1758-1827"
   bio: "Prussian colonel, chief of staff to Prince Hohenlohe-Ingelfingen in the campaign of 1806 and later a political writer. The Prince's agent, Triebenfeld, named him as an author of a pamphlet attacking the Prince over the defeat."
@@ -2001,6 +2192,7 @@
   heading_de: "Massow"
   count: 6
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1799-1810"
   life_de: "belegt 1799-1810"
   bio: "Prussian official who signed the ministry's note of 18 October 1799 on Stanisław Chełmski's petition over Trąbczyn; a Massow is also named in 1809 and 1810. Which bearer of the name is meant, and whether it is one man, is not known."
@@ -2013,6 +2205,7 @@
   heading_de: "Meierowitz, Franz"
   count: 25
   docs: 13
+  eras: ["hohenlohe"]
   life: "documented 1805-1813"
   life_de: "belegt 1805-1813"
   bio: "Buyer of the estate of Witów from Prince Hohenlohe-Ingelfingen in 1805, for 20,000 Reichsthaler and a yearly payment. The Prince's agent, Triebenfeld, later sued him for unpaid purchase money and rent."
@@ -2025,6 +2218,7 @@
   heading_de: "Melzer"
   count: 16
   docs: 10
+  eras: ["hohenlohe"]
   life: "documented 1798-1806"
   life_de: "belegt 1798-1806"
   bio: "Councillor of justice at Poznań, who represented Prince Hohenlohe-Ingelfingen before the government there in having his title to Pszczew registered and in Broniewski's suit over Kamionna and Kolno."
@@ -2037,6 +2231,7 @@
   heading_de: "Mencken, Anastasius Ludwig"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "1752-1801"
   life_de: "1752-1801"
   bio: "Cabinet councillor to Friedrich Wilhelm III, to whom Peter Friedrich von Triebenfeld wrote in 1798 about the exchange of Prince Hohenlohe-Ingelfingen's Polish estates for the domain of Krotoszyn."
@@ -2049,6 +2244,7 @@
   heading_de: "Merckel"
   count: 5
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1809-1813"
   life_de: "belegt 1809-1813"
   bio: "Councillor named in 1809 and 1813 in the affairs of Prince Hohenlohe-Ingelfingen. Possibly Friedrich Theodor von Merckel (1775-1846), later chief president of Silesia."
@@ -2061,6 +2257,7 @@
   heading_de: "Metternich, Klemens von"
   count: 9
   docs: 8
+  eras: ["hohenlohe"]
   life: "1773-1859"
   life_de: "1773-1859"
   bio: "Prince, Austrian foreign minister and host of the Congress of Vienna, whose doings Peter Friedrich von Triebenfeld reported to Prince Hohenlohe-Ingelfingen in his news from the Congress."
@@ -2073,6 +2270,7 @@
   heading_de: "Metzig"
   count: 16
   docs: 7
+  eras: ["hohenlohe"]
   life: "documented 1804-1810"
   life_de: "belegt 1804-1810"
   bio: "Judicial burgomaster of Skwierzyna (also Melzig), taken on in 1804 as justiciary of Prince Hohenlohe-Ingelfingen's court for Pszczew, Kolno and Kamionna. He witnessed the sale of Pszczew to its inhabitants, was reproved by the Prince's agent, Triebenfeld, in 1808 for not collecting the townspeople's debts, and was to conduct the Prince's lawsuits in 1810."
@@ -2085,6 +2283,7 @@
   heading_de: "Meyer (Schreiber in Wrąbczyn)"
   count: 11
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1804-1809"
   life_de: "belegt 1804-1809"
   bio: "Clerk living at the bailiff's house at Wrąbczyn, a friend of the lessee Floricke. In 1804 and 1805 he worked against Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, frightening off settlers and hiring out the estate's peasants to the townspeople of Zagórów; he later claimed payment for building work."
@@ -2097,6 +2296,7 @@
   heading_de: "Meyer (Hofrat)"
   count: 5
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1805-1808"
   life_de: "belegt 1805-1808"
   bio: "Court councillor through whom Prince Hohenlohe-Ingelfingen sent instructions to his Berlin lawyer Amelang in 1808, and who in 1805 offered to take over a claim of young Eysenhardt's."
@@ -2109,6 +2309,7 @@
   heading_de: "Meyer, Franz"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   bio: "Creditor of Prince Hohenlohe-Ingelfingen, listed among the Prince's debts about 1816."
   bio_de: "Ein Gläubiger in der um 1816 aufgestellten Liste der Schulden Hohenlohe-Ingelfingens."
   letters: [{id: "303", uid: "oe1bu9454-303", url: "/documents/oe1bu9454/303/", unit_label: "HZAN Oe 1 Bü 9454", n: 1}]
@@ -2118,6 +2319,9 @@
   heading_de: "Miączyński, Stanisław"
   count: 5
   docs: 5
+  eras: ["hohenlohe", "wlodzimierz"]
+  relevant: true
+  relevant_rank: 23
   life: "1780–1845"
   life_de: "1780–1845"
   bio: "Second husband of Michalina Prusimska, the heiress of Trąbczyn, whom he married at Warsaw in August 1810, and father of Count Włodzimierz Miączyński. In 1815 Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, feared his influence with the Governor-General of the Duchy of Warsaw over the estate."
@@ -2130,6 +2334,9 @@
   heading_de: "Miączyński, Włodzimierz"
   count: 11
   docs: 4
+  eras: ["wlodzimierz"]
+  relevant: true
+  relevant_rank: 26
   life: "d. 1879"
   life_de: "gest. 1879"
   bio: "Count, owner of the Trąbczyn estate, where he lived, after his mother Michalina Miączyńska, born Prusimska, died in 1851. When the colonists of his estate sued him in 1859, he counterclaimed before the Civil Tribunal at Kalisz to have their pasture and wood-gathering in his forest cut back, and had 97 of them summoned. He died at Trąbczyn on 18 December 1879, and his nephew Władysław Miączyński became heir of the estate."
@@ -2142,6 +2349,7 @@
   heading_de: "Michaelis (Hoffiskal)"
   count: 8
   docs: 7
+  eras: ["hohenlohe"]
   life: "documented 1798-1799"
   life_de: "belegt 1798-1799"
   bio: "Court fiscal in Berlin who acted for Prince Hohenlohe-Ingelfingen in 1798, during the attempt to exchange the Prince's Polish estates for the domains of Krotoszyn and Połajewo, and wrote to the Prince himself."
@@ -2154,6 +2362,7 @@
   heading_de: "Michaelis (Kaufmann)"
   count: 16
   docs: 8
+  eras: ["hohenlohe"]
   life: "documented 1809"
   life_de: "belegt 1809"
   bio: "Merchant who in 1809 advanced Peter Friedrich von Triebenfeld 2,400 Reichsthaler against a contract to deliver 600 hundredweight of iron from Prince Hohenlohe-Ingelfingen's Silesian ironworks."
@@ -2166,6 +2375,7 @@
   heading_de: "Michaelis, Christiane Dorothea (née Eichborn)"
   count: 7
   docs: 6
+  eras: ["hohenlohe"]
   life: "documented 1803-1806"
   life_de: "belegt 1803-1806"
   bio: "Widow of a senior district official, of Wrocław, born Eichborn, who held a mortgage of 5,000 Reichsthaler on Prince Hohenlohe-Ingelfingen's lordship of Pszczew."
@@ -2178,6 +2388,9 @@
   heading_de: "Mielke, Gustav Adolf"
   count: 3
   docs: 1
+  eras: ["twentieth-century"]
+  relevant: true
+  relevant_rank: 29
   life: "documented 1936"
   life_de: "belegt 1936"
   span: "1936"
@@ -2188,6 +2401,7 @@
   heading_de: "Mikołaj (pleban of Środa)"
   count: 2
   docs: 1
+  eras: ["medieval"]
   life: "documented 1276"
   life_de: "belegt 1276"
   bio: "Former parish priest of Środa, to whom Duke Bolesław gave Trąbczyn after Count Janko, son of Szymon; he too died without heirs, before 1276."
@@ -2200,6 +2414,9 @@
   heading_de: "Mikołaj (treasurer of Ląd)"
   count: 2
   docs: 1
+  eras: ["medieval"]
+  relevant: true
+  relevant_rank: 0
   life: "documented 1276"
   life_de: "belegt 1276"
   bio: "Count, the duke's treasurer at Ląd, to whom Duke Bolesław gave the village of Trąbczyn by hereditary right, free of the ducal dues, at Dłusk on 27 March 1276."
@@ -2212,6 +2429,7 @@
   heading_de: "Mikołaj of Trąbczyn (1415)"
   count: 2
   docs: 1
+  eras: ["medieval"]
   life: "documented 1415"
   life_de: "belegt 1415"
   bio: "Nobleman of Trąbczyn, a witness at Gniezno on 16 April 1415; he is found from 1402, and later as deputy standard-bearer of Gniezno from 1434 to 1440."
@@ -2224,6 +2442,7 @@
   heading_de: "Mitschke"
   count: 5
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1808-1819"
   life_de: "belegt 1808-1819"
   bio: "Justice commissioner and advocate at Kalisz, instructed in 1811 to sue on behalf of the Invalids' Fund for the interest on its loan to Prince Hohenlohe-Ingelfingen."
@@ -2236,6 +2455,7 @@
   heading_de: "Młynkiewicz, Matheus"
   count: 11
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "One of the two representatives of the townspeople and villages of Pszczew who bought the lordship from Prince Hohenlohe-Ingelfingen in 1804."
@@ -2248,6 +2468,7 @@
   heading_de: "Mohrenheim, Paul, Baron von"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "1785-1832"
   life_de: "1785-1832"
   bio: "Baron, general secretary and director of the diplomatic office of Grand Duke Constantine at Warsaw. In 1828 and 1830 he answered the Prussian consul general Schmidt on the claim of the banker Weigel, whose mortgage on Trąbczyn the Polish courts had struck out, and once told Schmidt privately that the council had agreed that Weigel must be paid."
@@ -2260,6 +2481,7 @@
   heading_de: "Mondro"
   count: 7
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1799-1805"
   life_de: "belegt 1799-1805"
   bio: "Criminal councillor at Kalisz. In 1799 he was the lawyer of Stanisław Chełmski, pressing Chełmski's claim on the confiscated Trąbczyn against the Prussian treasury; in 1805 he represented Prince Hohenlohe-Ingelfingen and brought the Prince's three suits against the lessees of Oleśnica."
@@ -2272,6 +2494,7 @@
   heading_de: "Mścichna (wife of Otto of Trąbczyn)"
   count: 2
   docs: 1
+  eras: ["medieval"]
   life: "documented 1434"
   life_de: "belegt 1434"
   bio: "Wife of Otto, owner of Trąbczyn; the act of 15 May 1434 between their sons was made in her house there."
@@ -2284,6 +2507,7 @@
   heading_de: "Napoleon I., Kaiser der Franzosen"
   count: 37
   docs: 22
+  eras: ["hohenlohe"]
   life: "1769-1821"
   life_de: "1769-1821"
   bio: "Emperor of the French. The Duchy of Warsaw that he created in 1807 took in Prince Hohenlohe-Ingelfingen's Polish estates and returned Trąbczyn to the Prusimski heiress, and his return from Elba in March 1815 interrupted the Congress of Vienna, where the Prince's claim to them was pressed."
@@ -2296,6 +2520,7 @@
   heading_de: "Nathan, Salomon"
   count: 4
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1804-1806"
   life_de: "belegt 1804-1806"
   bio: "Creditor of Prince Hohenlohe-Ingelfingen, named in the contracts on the Polish estates between 1804 and 1806."
@@ -2308,6 +2533,7 @@
   heading_de: "Nesselrode, Karl Robert von"
   count: 10
   docs: 7
+  eras: ["hohenlohe"]
   life: "1780-1862"
   life_de: "1780-1862"
   bio: "Count, Russian foreign minister. Peter Friedrich von Triebenfeld approached him at Vienna in 1815 on Prince Hohenlohe-Ingelfingen's claim to Trąbczyn, and the Prussian envoy Schöler delivered Prussia's notes on the claim to him in 1816. In 1827 Schöler asked him to have the Polish judgment against the banker Weigel's mortgage annulled."
@@ -2320,6 +2546,7 @@
   heading_de: "Neumann"
   count: 12
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1804-1809"
   life_de: "belegt 1804-1809"
   bio: "Steward of Bojadła, the estate of Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen; iron from the Prince's Silesian ironworks was to be delivered to him in 1809. A boatman of the same name may be another man."
@@ -2332,6 +2559,7 @@
   heading_de: "Niedźwiecki, Maciej"
   count: 23
   docs: 13
+  eras: ["hohenlohe"]
   life: "documented 1805-1812"
   life_de: "belegt 1805-1812"
   bio: "Lessee of the farm of Kopojno, on Prince Hohenlohe-Ingelfingen's Zagórów estates, for six years from 1805, with the right to sell drink on the estates. He fell into arrears, and the Prince's suit against him was won in 1812."
@@ -2344,6 +2572,7 @@
   heading_de: "Niemojewski"
   count: 7
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1797-1819"
   life_de: "belegt 1797-1819"
   bio: "General, who in 1807 recovered free of debt an estate that Prussia had confiscated and given away. In 1818 the commission at Warsaw cited his case in support of Michalina Miączyńska's claim that Trąbczyn had come back to her free of the debts charged on it."
@@ -2356,6 +2585,7 @@
   heading_de: "Nöldichen"
   count: 7
   docs: 6
+  eras: ["hohenlohe"]
   life: "documented 1798-1804"
   life_de: "belegt 1798-1804"
   bio: "Councillor of war whose valuation of the domain of Krotoszyn, made without seeing it, underlay the report on which the King refused in 1798 to exchange it for Prince Hohenlohe-Ingelfingen's Polish estates."
@@ -2368,6 +2598,7 @@
   heading_de: "Ocic, Tomasz"
   count: 1
   docs: 1
+  eras: ["medieval"]
   life: "documented 1434"
   life_de: "belegt 1434"
   bio: "Younger son of Otto of Trąbczyn, brother of Wojciech and Jan."
@@ -2380,6 +2611,7 @@
   heading_de: "Ogrodowicz"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1806"
   life_de: "belegt 1806"
   bio: "Official who certified the hereditary leases of 1806 by which Prince Hohenlohe-Ingelfingen let the land of his Zagórów estates to settlers."
@@ -2392,6 +2624,7 @@
   heading_de: "Oppenheimer"
   count: 29
   docs: 22
+  eras: ["hohenlohe"]
   life: "documented 1805-1811"
   life_de: "belegt 1805-1811"
   bio: "Banker of the Berlin house of Oppenheim and Wolff, to which part of a mortgage of 250,000 Reichsthaler on Prince Hohenlohe-Ingelfingen's estate of Zagórów was pledged. He undertook to pay the interest due to the Invalids' Fund on the Prince's loan and did not, and the Prince's agent, Triebenfeld, sued him in Berlin and Kalisz."
@@ -2404,6 +2637,7 @@
   heading_de: "Ortel"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1813"
   life_de: "belegt 1813"
   bio: "Lieutenant general at Neustadt in Silesia in June 1813, to whom Peter Friedrich von Triebenfeld took his plan for supplying the army."
@@ -2416,6 +2650,7 @@
   heading_de: "Otocki, Martin von"
   count: 11
   docs: 7
+  eras: ["hohenlohe"]
   life: "documented 1804-1808"
   life_de: "belegt 1804-1808"
   bio: "Landowner near Zagórów, who in 1804 and 1805 offered to lease Szetlewek and the right to sell drink on Prince Hohenlohe-Ingelfingen's estates there. He later claimed compensation under an older lease of Trąbczyn."
@@ -2428,6 +2663,7 @@
   heading_de: "Otto"
   count: 8
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1804-1815"
   life_de: "belegt 1804-1815"
   bio: "Valuer whose estimates of Prince Hohenlohe-Ingelfingen's Polish estates included one that put Trąbczyn at no more than 160,000 Reichsthaler; the Prince's agent, Triebenfeld, rejected it."
@@ -2440,6 +2676,7 @@
   heading_de: "Otto (heir of Trąbczyn)"
   count: 2
   docs: 1
+  eras: ["medieval"]
   life: "documented 1434"
   life_de: "belegt 1434"
   bio: "Owner of Trąbczyn, found until 1426, in whose house there his son Wojciech made his brother Jan his proxy on 15 May 1434. The Trąmpczyński family's by-name Otto goes back to him."
@@ -2452,6 +2689,7 @@
   heading_de: "Paprocki"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Former parish priest of Trąbczyn, who died before 1791 in debt; books of the parish were then handed to his creditors, by a trick and because no one knew to whom they belonged."
@@ -2464,6 +2702,7 @@
   heading_de: "Pirch, von"
   count: 5
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1809"
   life_de: "belegt 1809"
   bio: "Major, whom Peter Friedrich von Triebenfeld in 1809 called the truest friend of Prince Hohenlohe-Ingelfingen at the Prussian court in Königsberg."
@@ -2476,6 +2715,7 @@
   heading_de: "Pochammer"
   count: 13
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1805-1806"
   life_de: "belegt 1805-1806"
   bio: "Court fiscal in Berlin, engaged in 1805 and 1806 to pursue Prince Hohenlohe-Ingelfingen's request for a royal loan in treasury notes."
@@ -2488,6 +2728,7 @@
   heading_de: "Poniatowski, Józef"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "1763-1813"
   life_de: "1763-1813"
   bio: "Prince, minister of war of the Duchy of Warsaw. A letter of his in 1811 led the tribunal at Kalisz to refer Prince Hohenlohe-Ingelfingen's case over Trąbczyn to higher authority."
@@ -2500,6 +2741,7 @@
   heading_de: "Pontanus, von"
   count: 6
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1796"
   life_de: "belegt 1796"
   bio: "Major, given three confiscated estates in 1796 by the same order that gave Prince Hohenlohe-Ingelfingen the Prusimski estates."
@@ -2512,6 +2754,7 @@
   heading_de: "Pourtalès"
   count: 22
   docs: 14
+  eras: ["hohenlohe"]
   life: "1779-1861"
   life_de: "1779-1861"
   bio: "Count, of the Neuchâtel family in Prussian service, whom Peter Friedrich von Triebenfeld proposed in 1815 as a buyer of Prince Hohenlohe-Ingelfingen's Silesian estate of Koszęcin. Probably Count Frédéric de Pourtalès, whose dates are given here."
@@ -2524,6 +2767,7 @@
   heading_de: "Prittwitz"
   count: 8
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1799"
   life_de: "belegt 1799"
   bio: "Official named in 1799 as one of those who were to carry out the exchange of Prince Hohenlohe-Ingelfingen's Polish estates for the domain of Krotoszyn."
@@ -2536,6 +2780,9 @@
   heading_de: "Prusimska, Katarzyna (geb. Rozdrażewska)"
   count: 9
   docs: 8
+  eras: ["prusimski-boundary", "wlodzimierz"]
+  relevant: true
+  relevant_rank: 5
   life: "documented 1754-1860"
   life_de: "belegt 1754-1860"
   bio: "Widow of Paweł Prusimski, the King's chamberlain and owner of Trąbczyn, who held the estate for life after his death in 1754. That year she had it inspected, building by building. In 1763 she was at law with her neighbour Stanisław Ścibor Chełmski of Łukom before the land court at Konin over potash he had stopped at Pyzdry in 1761. She enlarged the parish church of Trąbczyn."
@@ -2548,6 +2795,9 @@
   heading_de: "Prusimska, Michalina (verh. Dąbska, später Miączyńska)"
   count: 133
   docs: 56
+  eras: ["prusimski-boundary", "hohenlohe", "restitution", "wlodzimierz"]
+  relevant: true
+  relevant_rank: 15
   life: "d. 1851"
   life_de: "gest. 1851"
   bio: "Only child of Antoni Prusimski, Starost of Niszczewice, whose estates Prussia confiscated after the uprising of 1794 and gave to Prince Hohenlohe-Ingelfingen in 1796. In 1800, still a minor and through a guardian, she sued the Prince before the Government at Poznań for the Brzyce estates, her late mother's property; judgment was given on 9 December 1800, and in January 1802 she wrote to the King from Dresden, as a forsaken orphan, asking him to hasten her appeal. In 1807 the Governing Commission of the Duchy of Warsaw gave Trąbczyn and Kamionna back to her. She married first Dąbski and in August 1810 Stanisław Miączyński. She died on 19 January 1851, and her son Włodzimierz Miączyński held Trąbczyn after her."
@@ -2560,6 +2810,9 @@
   heading_de: "Prusimski, Antoni"
   count: 483
   docs: 131
+  eras: ["prusimski-boundary", "hohenlohe", "restitution", "wlodzimierz"]
+  relevant: true
+  relevant_rank: 3
   life: "1744–1803"
   life_de: "1744–1803"
   bio: "Starost of Niszczewice and owner of Trąbczyn, Kamionna and Kolno, also called Ostroróg-Prusimski. Prussia counted him one of the leading insurgents of the Polish uprising of 1794; he fled abroad, the crown confiscated his estates, and in 1796 the King gave them to Prince Hohenlohe-Ingelfingen. In 1800 the Prince argued that Prusimski's life interest in his late wife's property had passed to the crown with the rest. He lived in exile at Venice and Dresden and died in 1803. In 1807 the Duchy of Warsaw gave his estates back to his daughter Michalina. Mentions of his heirs and of the estates named after him are counted here."
@@ -2572,6 +2825,9 @@
   heading_de: "Prusimski, Krzysztof"
   count: 14
   docs: 2
+  eras: ["prusimski-boundary"]
+  relevant: true
+  relevant_rank: 6
   life: "documented 1728-1782"
   life_de: "belegt 1728-1782"
   bio: "Owner of Trąbczyn in the 1720s and grandfather of Antoni Prusimski, the Starost. In 1728 the Chełmski brothers of Łukom sued him, his son Antoni and their people for burning, cattle-taking and an armed raid on the disputed boundary ground, and the land court at Konin sent a commissioner onto it."
@@ -2584,6 +2840,9 @@
   heading_de: "Prusimski, Paweł"
   count: 18
   docs: 5
+  eras: ["prusimski-boundary", "wlodzimierz"]
+  relevant: true
+  relevant_rank: 4
   life: "documented 1754-1860"
   life_de: "belegt 1754-1860"
   bio: "Chamberlain of the King and owner of Trąbczyn, who with his wife Katarzyna, born Rozdrażewska, founded the estate's first Olęder settlement in 1746. He died shortly before July 1754; his widow then held the estate for life. His funeral at Trąbczyn on 5 December 1754, at which his nephew Antoni gave the oration, was reported in the Warsaw press."
@@ -2596,6 +2855,9 @@
   heading_de: "Przedpełk (heir of Trąbczyn)"
   count: 2
   docs: 1
+  eras: ["medieval"]
+  relevant: true
+  relevant_rank: 2
   life: "documented 1346"
   life_de: "belegt 1346"
   bio: "Owner of Trąbczyn with his brother Jan. On 13 November 1346 the land judge at Pyzdry rejected their claim to the villages of Stropiszyn and Pępocin."
@@ -2608,6 +2870,7 @@
   heading_de: "Przespolewski, Jacob von"
   count: 9
   docs: 7
+  eras: ["prusimski-boundary", "hohenlohe"]
   life: "documented 1789-1808"
   life_de: "belegt 1789-1808"
   bio: "Creditor of Antoni Prusimski, the former owner of the Zagórów and Trąbczyn estates, with a claim of 30,000 Polish złoty registered on Szetlewek. In 1804 he obtained an order of execution for it against the new owner, Prince Hohenlohe-Ingelfingen."
@@ -2620,6 +2883,7 @@
   heading_de: "Radzinski, Ignatz von"
   count: 21
   docs: 15
+  eras: ["hohenlohe"]
   life: "documented 1798-1810"
   life_de: "belegt 1798-1810"
   bio: "Lessee of Szetlewek, a farm of Prince Hohenlohe-Ingelfingen's Zagórów estates, from 1798, holding a pledge of 8,333 Reichsthaler on it. He later held the farm on hereditary lease and was in arrears by 1808."
@@ -2632,6 +2896,7 @@
   heading_de: "Radziwiłł, Antoni"
   count: 6
   docs: 3
+  eras: ["hohenlohe"]
   life: "1775-1833"
   life_de: "1775-1833"
   bio: "Prince, Polish magnate and from 1815 Prussian governor of the Grand Duchy of Posen. Peter Friedrich von Triebenfeld reported his dispute with the province's chief president, Zerboni, early in 1816."
@@ -2644,6 +2909,7 @@
   heading_de: "Rapacki"
   count: 6
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1799-1806"
   life_de: "belegt 1799-1806"
   bio: "Polish agent or lawyer who supplied documents and evidence for Prince Hohenlohe-Ingelfingen in his disputes with Broniewski and with Michalina Prusimska between 1799 and 1806."
@@ -2656,6 +2922,7 @@
   heading_de: "Raumer, Karl Georg von"
   count: 3
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1796-1797"
   life_de: "belegt 1796-1797"
   bio: "Councillor of the Prussian department of foreign affairs, who in 1797 dealt with the report from Venice on Antoni Prusimski, the exiled owner of Trąbczyn, and wrote the directions on it. Probably Karl Georg von Raumer (1753-1833)."
@@ -2668,6 +2935,7 @@
   heading_de: "Reck, Eberhard von der"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "1744-1816"
   life_de: "1744-1816"
   bio: "Prussian minister of justice, to whom Count Hoym sent the grants of confiscated estates of 1796 to be made out. In January 1802 Michalina Prusimska's petition to the King was passed to him to hasten her appeal against Prince Hohenlohe-Ingelfingen; he had her told that the appeal judgment had been sent back to be published."
@@ -2680,6 +2948,7 @@
   heading_de: "Reinbeck"
   count: 3
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Privy councillor in Berlin who handled the approval of the division of Prince Hohenlohe-Ingelfingen's Zagórów and Trąbczyn estates among settlers in 1805."
@@ -2692,6 +2961,7 @@
   heading_de: "Reinhardt"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1798-1804"
   life_de: "belegt 1798-1804"
   bio: "Named in 1798 as a correspondent on official business and in 1804 at Poznań, in the affairs of Prince Hohenlohe-Ingelfingen; who he was is not known."
@@ -2704,6 +2974,7 @@
   heading_de: "Rembowski, Antoni"
   count: 4
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1812-1827"
   life_de: "belegt 1812-1827"
   bio: "President of the civil tribunal of first instance at Kalisz, who signed the judgment of 30 July 1827 striking out the mortgages of the Lichnowski brothers and of Grotowski's widow on Trąbczyn, at Michalina Miączyńska's suit."
@@ -2716,6 +2987,7 @@
   heading_de: "Repnin, Nikolai Vasilyevich"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "1734-1801"
   life_de: "1734-1801"
   bio: "Prince, Russian field marshal, in Berlin on a diplomatic mission in 1798, when Peter Friedrich von Triebenfeld was there on Prince Hohenlohe-Ingelfingen's business."
@@ -2728,6 +3000,7 @@
   heading_de: "Rhode"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1805-1810"
   life_de: "belegt 1805-1810"
   bio: "Named between 1805 and 1810 in the affairs of Prince Hohenlohe-Ingelfingen's Polish estates; who he was is not known."
@@ -2740,6 +3013,7 @@
   heading_de: "Ribbeck"
   count: 9
   docs: 8
+  eras: ["hohenlohe"]
   life: "documented 1804-1812"
   life_de: "belegt 1804-1812"
   bio: "Lessee on Prince Hohenlohe-Ingelfingen's Zagórów estates, with whom the Prince's agent, Triebenfeld, sought a settlement in 1804 over money he had paid and buildings he had put up."
@@ -2752,6 +3026,7 @@
   heading_de: "Rochlitz"
   count: 21
   docs: 9
+  eras: ["hohenlohe"]
   life: "documented 1803-1810"
   life_de: "belegt 1803-1810"
   bio: "Forest inspector, who valued the forest of Kamionna and Kolno and negotiated the first sale of Witów for Prince Hohenlohe-Ingelfingen in 1803. The Prince's agent, Triebenfeld, dismissed him as agent in 1804, and a lawsuit between them followed in 1810."
@@ -2764,6 +3039,7 @@
   heading_de: "Roeder, von"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1813"
   life_de: "belegt 1813"
   bio: "General, named in 1813; probably Friedrich Erhard von Röder (1768-1834)."
@@ -2776,6 +3052,7 @@
   heading_de: "Rüchel, Ernst von"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "1754-1823"
   life_de: "1754-1823"
   bio: "Prussian general, who commanded a corps beside Prince Hohenlohe-Ingelfingen's army at Jena in 1806."
@@ -2788,6 +3065,7 @@
   heading_de: "Sacken, Fürstin"
   count: 33
   docs: 23
+  eras: ["hohenlohe"]
   life: "d. 1811"
   life_de: "gest. 1811"
   bio: "Mother of Marianne von Hoym, the wife of Prince Hohenlohe-Ingelfingen. She lent the Prince money on his Silesian estate of Koszęcin. After her death in 1811 her will, her legacy to him and to his son August, and her executor Cosmar, who took over the Silesian estates for the creditors, occupied the Prince's affairs for years."
@@ -2800,6 +3078,7 @@
   heading_de: "Sanitz, von"
   count: 22
   docs: 9
+  eras: ["hohenlohe"]
   life: "documented 1796-1827"
   life_de: "belegt 1796-1827"
   bio: "Colonel, later major general, of Prince Hohenlohe-Ingelfingen's regiment. He too was given estates confiscated from Antoni Prusimski in 1796, lost them in 1807, and was still claiming compensation in 1826."
@@ -2812,6 +3091,7 @@
   heading_de: "Sarre, Gottlieb"
   count: 8
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1806"
   life_de: "belegt 1806"
   bio: "Settler from the Pyzdry Hauland (Bogumił in Polish), who in 1806 took a Hufe and a half of forest land near Trąbczyn from Prince Hohenlohe-Ingelfingen on hereditary lease."
@@ -2824,6 +3104,7 @@
   heading_de: "Scharffenberg"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1810"
   life_de: "belegt 1810"
   bio: "Colonel, named in 1810 in the affairs of Prince Hohenlohe-Ingelfingen; who he was is not known."
@@ -2836,6 +3117,7 @@
   heading_de: "Scharnhorst, Gerhard von"
   count: 5
   docs: 4
+  eras: ["hohenlohe"]
   life: "1755-1813"
   life_de: "1755-1813"
   bio: "Prussian general and army reformer. In 1809 a matter concerning Massenbach waited on his decision, and in 1810 he spoke of Prince Hohenlohe-Ingelfingen at Koźle."
@@ -2848,6 +3130,7 @@
   heading_de: "Schenck"
   count: 71
   docs: 39
+  eras: ["hohenlohe"]
   life: "documented 1799-1816"
   life_de: "belegt 1799-1816"
   bio: "Judicial burgomaster of Zagórów and justiciary of the patrimonial court of Prince Hohenlohe-Ingelfingen's estates there, before which the settlers' hereditary leases of 1805 and 1806 were made. He valued land and collected money for the Prince's agent, Triebenfeld, and in 1815 asked for a general power of attorney for the Prince's business at Pszczew."
@@ -2860,6 +3143,7 @@
   heading_de: "Schimmelpfennig von der Oye"
   count: 14
   docs: 8
+  eras: ["hohenlohe"]
   life: "1738-1812"
   life_de: "1738-1812"
   bio: "General, who in 1811 and 1812 offered his own estates in exchange for Prince Hohenlohe-Ingelfingen's Zagórów estates; the negotiation stalled over his illness. Probably the Prussian general Christian Ludwig Schimmelpfennig von der Oye, whose dates are given here."
@@ -2872,6 +3156,7 @@
   heading_de: "Schlabrendorff (Graf und Gräfin)"
   count: 35
   docs: 27
+  eras: ["hohenlohe"]
   life: "documented 1799-1808"
   life_de: "belegt 1799-1808"
   bio: "Count and Countess, creditors of Prince Hohenlohe-Ingelfingen. A settlement with the Countess over money belonging to her children ran from 1804, and she agreed to wait until January 1805 for 50,000 Reichsthaler."
@@ -2884,6 +3169,7 @@
   heading_de: "Schlieben, von (und seine Witwe und Erben)"
   count: 5
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1803-1810"
   life_de: "belegt 1803-1810"
   bio: "Colonel, who held a royal grant of the estate of Witów near Zagórów; Prince Hohenlohe-Ingelfingen bought it from his widow and heirs in 1799, and the family remained the Prince's creditors for the rest of the price."
@@ -2896,6 +3182,7 @@
   heading_de: "Schmaling"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "Named in a contract of 1804 on Prince Hohenlohe-Ingelfingen's Polish estates; who he was is not known."
@@ -2908,6 +3195,7 @@
   heading_de: "Schmidt, Julius (Generalkonsul)"
   count: 7
   docs: 7
+  eras: ["hohenlohe"]
   life: "documented 1828-1832"
   life_de: "belegt 1828-1832"
   bio: "Prussian consul general in the Kingdom of Poland at Warsaw from 1817 to 1832, with the rank of privy councillor of legation. From 1828 to 1832 he pressed the Warsaw authorities to compensate the banker Weigel for the mortgage on Trąbczyn that the Polish courts had struck out, and Mohrenheim, Fuhrmann and Engel answered him."
@@ -2920,6 +3208,7 @@
   heading_de: "Schöler, Friedrich von"
   count: 12
   docs: 10
+  eras: ["hohenlohe"]
   life: "1772-1840"
   life_de: "1772-1840"
   bio: "Prussian general and envoy at St Petersburg. In 1816 he was instructed to put Prince Hohenlohe-Ingelfingen's claim to compensation for Trąbczyn before the Tsar, and reported the Russian refusal. In 1827 he protested to the Russian foreign minister, Nesselrode, against the Polish judgments that struck out the banker Weigel's mortgage on Trąbczyn."
@@ -2932,6 +3221,7 @@
   heading_de: "Schröder"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1815"
   life_de: "belegt 1815"
   bio: "Councillor whom Peter Friedrich von Triebenfeld mentioned from Vienna in 1815; who he was is not known."
@@ -2944,6 +3234,7 @@
   heading_de: "Schroetter, Friedrich Leopold von"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "1743-1815"
   life_de: "1743-1815"
   bio: "Baron, Prussian minister for East Prussia and for New East Prussia, the northern part of Prussia's share of Poland. In 1797 he passed the news that Antoni Prusimski, the exiled owner of Trąbczyn, was at Venice on to Count Hoym, minister for South Prussia, not knowing in which province Prusimski's estates lay."
@@ -2956,6 +3247,7 @@
   heading_de: "Schuckmann, Friedrich von"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "1755-1834"
   life_de: "1755-1834"
   bio: "Prussian official, a president in 1800 and from 1814 minister of the interior. In 1820 the foreign ministry left it to him to tell the heirs of Prince Hohenlohe-Ingelfingen and Count Bethusy that Russia had refused their claims."
@@ -2968,6 +3260,7 @@
   heading_de: "Schulenburg-Kehnert, Friedrich Wilhelm von der"
   count: 11
   docs: 6
+  eras: ["hohenlohe"]
   life: "1742-1815"
   life_de: "1742-1815"
   bio: "Count, Prussian general and minister of state. In 1798 he was reported to favour the exchange of Prince Hohenlohe-Ingelfingen's Polish estates for the domain of Krotoszyn, and in 1804 the Prince's lawyer Amelang delivered a letter from the Prince to him."
@@ -2980,6 +3273,7 @@
   heading_de: "Schulz (postmaster at Strelitz)"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1809"
   life_de: "belegt 1809"
   bio: "Postmaster at Strelitz, named in 1809 in the affairs of Prince Hohenlohe-Ingelfingen."
@@ -2992,6 +3286,7 @@
   heading_de: "Schulz, Wilhelm Daniel"
   count: 5
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "Settler from Krolikowo, one of six who took the farm of Althütte from Prince Hohenlohe-Ingelfingen on hereditary lease in 1804."
@@ -3004,6 +3299,7 @@
   heading_de: "Schulze"
   count: 8
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1798"
   life_de: "belegt 1798"
   bio: "Privy councillor of finance in the South Prussian department in Berlin, who in 1798 handled the proposal to exchange Prince Hohenlohe-Ingelfingen's Polish estates for the domain of Krotoszyn."
@@ -3016,6 +3312,7 @@
   heading_de: "Sebastian Szetlewicz, court messenger"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1727"
   life_de: "belegt 1727"
   bio: "General royal messenger of Szetlewko (Szetlewek), the village next to Szetlew south of Zagórów. In 1727 he reported to the land court at Kalisz that he had carried a citation to the estate of Szetlew and left it on the table in the heated room. He shows a family of the name living at Szetlewek in the 1720s."
@@ -3028,6 +3325,7 @@
   heading_de: "Seegebarth"
   count: 3
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1806-1810"
   life_de: "belegt 1806-1810"
   bio: "Official of the General Post Office in Berlin and a creditor of Prince Hohenlohe-Ingelfingen, whom the Prince's agent, Triebenfeld, wished to put off in 1810."
@@ -3040,6 +3338,7 @@
   heading_de: "Seehausen, Johann Friedrich von"
   count: 5
   docs: 5
+  eras: ["hohenlohe"]
   life: "d. by 1816"
   life_de: "gest. spätestens 1816"
   bio: "Major, who lent Prince Hohenlohe-Ingelfingen 5,000 Reichsthaler in 1803 against a mortgage on Szetlewek. He had died by 1816, leaving his sister, the widow von Brehmer, as his heir."
@@ -3052,6 +3351,7 @@
   heading_de: "Simon"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1804-1815"
   life_de: "belegt 1804-1815"
   bio: "Merchant with a sum registered on the estates of Kamionna and Kolno, against which the bank official Leixner, who had bought them, borrowed."
@@ -3064,6 +3364,7 @@
   heading_de: "Smidkowski"
   count: 3
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1810-1811"
   life_de: "belegt 1810-1811"
   bio: "Lessee on the Trąbczyn estates who offered in 1810 to pay several thousand Reichsthaler at once to keep his lease."
@@ -3076,6 +3377,7 @@
   heading_de: "Smiedecki"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1816"
   life_de: "belegt 1816"
   bio: "Chief prefect at Kalisz in 1816, whom Peter Friedrich von Triebenfeld believed he had won for a favourable report on Prince Hohenlohe-Ingelfingen's claim to compensation."
@@ -3088,6 +3390,7 @@
   heading_de: "Sobolewski, Ignacy"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "1770-1846"
   life_de: "1770-1846"
   bio: "Count, minister secretary of state of the Kingdom of Poland at St Petersburg, whose reply confirmed the refusal of 1820 of the claim of Prince Hohenlohe-Ingelfingen's heirs."
@@ -3100,6 +3403,7 @@
   heading_de: "Sobottendorff"
   count: 13
   docs: 6
+  eras: ["hohenlohe"]
   life: "documented 1812-1815"
   life_de: "belegt 1812-1815"
   bio: "Creditor to whom Prince Hohenlohe-Ingelfingen owed 40,000 Reichsthaler. In 1812 the Prince's agent, Triebenfeld, proposed paying him with a long lease of Drzewce; his heirs later stood among the Prince's creditors."
@@ -3112,6 +3416,7 @@
   heading_de: "Sommer"
   count: 22
   docs: 14
+  eras: ["hohenlohe"]
   life: "documented 1805-1812"
   life_de: "belegt 1805-1812"
   bio: "Lieutenant and legal trainee in the service of Prince Hohenlohe-Ingelfingen, sent in 1811 and 1812 to General Schimmelpfennig to negotiate an exchange of the Zagórów estates."
@@ -3124,6 +3429,7 @@
   heading_de: "Sprengel"
   count: 5
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1799-1805"
   life_de: "belegt 1799-1805"
   bio: "Surveyor who measured the estate of Szetlewek, on Prince Hohenlohe-Ingelfingen's Zagórów estates, in 1798 at 1,724 Morgen."
@@ -3136,6 +3442,7 @@
   heading_de: "Stade"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Named in a contract of 1805 on Prince Hohenlohe-Ingelfingen's Polish estates; who he was is not known."
@@ -3148,6 +3455,7 @@
   heading_de: "Stägemann, Friedrich August von"
   count: 38
   docs: 26
+  eras: ["hohenlohe"]
   life: "1763-1840"
   life_de: "1763-1840"
   bio: "Prussian councillor of state and close colleague of the State Chancellor, Hardenberg, with him at the Congress of Vienna. The petitions for Prince Hohenlohe-Ingelfingen's lost Polish estates were referred to him, and the Prince's agent, Triebenfeld, held him responsible for their delay."
@@ -3160,6 +3468,9 @@
   heading_de: "Stanisław Chełmski, Treasurer of Wschowa"
   count: 391
   docs: 76
+  eras: ["prusimski-boundary", "hohenlohe"]
+  relevant: true
+  relevant_rank: 7
   life: "documented 1763-1815"
   life_de: "belegt 1763-1815"
   bio: "Treasurer of Wschowa, owner of Łukom, Łomowo, Imielno and Bukowo, the estates next to Trąbczyn, and for thirty years Antoni Prusimski's adversary at law. From 1766 to 1788 the two fought over woods, boundary mounds and the line between their lands before the courts of Konin and Kalisz, and with his brother, the canon Heliodor, he was the other party when a royal commission fixed the boundary between Trąbczyn and Łukom in 1775. In June 1794 he lent Prusimski 12,000 ducats and was to hold Trąbczyn until repaid. After Prussia confiscated the estate he had to give it up to Prince Hohenlohe-Ingelfingen; he sued the Prussian treasury, and the King refused his claim in 1799."
@@ -3172,6 +3483,7 @@
   heading_de: "Stein, Heinrich Friedrich Karl vom"
   count: 14
   docs: 11
+  eras: ["hohenlohe"]
   life: "1757-1831"
   life_de: "1757-1831"
   bio: "Prussian reforming minister, and at the Congress of Vienna an adviser to Tsar Alexander I. In 1806, as minister, he lent money to Peter Friedrich von Triebenfeld, and in 1815 Prince Hohenlohe-Ingelfingen asked him to put the claim to Trąbczyn to the Tsar."
@@ -3184,6 +3496,7 @@
   heading_de: "Stenger"
   count: 11
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1810-1811"
   life_de: "belegt 1810-1811"
   bio: "Criminal councillor at Kargowa, whom Peter Friedrich von Triebenfeld engaged in 1810 to put Prince Hohenlohe-Ingelfingen's affairs in the Duchy of Warsaw in order."
@@ -3196,6 +3509,7 @@
   heading_de: "Stillfried (die Freiherren von)"
   count: 2
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1805-1806"
   life_de: "belegt 1805-1806"
   bio: "Barons, lords of Górzyce near Wrocław, whose patrimonial court in 1805 certified the general power of attorney that Prince Hohenlohe-Ingelfingen gave to Peter Friedrich von Triebenfeld."
@@ -3208,6 +3522,7 @@
   heading_de: "Stössel, von (und Familie)"
   count: 59
   docs: 20
+  eras: ["hohenlohe"]
   life: "documented 1804-1815"
   life_de: "belegt 1804-1815"
   bio: "Baron, a cavalry captain, and his family, the largest creditors of Prince Hohenlohe-Ingelfingen on his Silesian estate of Koszęcin, with three claims. From 1810 the Prince's agent, Triebenfeld, tried to settle with them by handing over the Zagórów estates."
@@ -3220,6 +3535,7 @@
   heading_de: "Strenger"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1816"
   life_de: "belegt 1816"
   bio: "Registry clerk of the Prussian foreign ministry, who in May 1816 attached Zerboni's report on Prince Hohenlohe-Ingelfingen's claim to the file."
@@ -3232,6 +3548,7 @@
   heading_de: "Struensee, Carl August von"
   count: 7
   docs: 4
+  eras: ["hohenlohe"]
   life: "1735-1804"
   life_de: "1735-1804"
   bio: "Prussian minister of finance, who in 1798 had to lay the papers on the proposed exchange of Prince Hohenlohe-Ingelfingen's Polish estates for the domain of Krotoszyn before the King."
@@ -3244,6 +3561,7 @@
   heading_de: "Strzałkowski"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Benefactor of the church of Trąbczyn, who in 1670 secured 500 złoty for it on Strzałkowo, the interest to pay for Masses."
@@ -3256,6 +3574,7 @@
   heading_de: "Szczucki"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1804-1806"
   life_de: "belegt 1804-1806"
   bio: "Landowner next to Szetlewek, in dispute with Prince Hohenlohe-Ingelfingen's estate there around 1799, whom the Prince's agent, Triebenfeld, meant to sue in 1805."
@@ -3268,6 +3587,7 @@
   heading_de: "Szepczyński, Bartłomiej"
   count: 19
   docs: 16
+  eras: ["prusimski-boundary"]
   life: "documented 1754-1783"
   life_de: "belegt 1754-1783"
   bio: "Sworn court messenger of Trąbczyn. He inspected the Trąbczyn estate for Katarzyna Prusimska, its life tenant, in 1754, and reported twice in 1767, for Antoni Prusimski, on the embankment that flooded the land of Trąbczyn's Olęder settlers."
@@ -3280,6 +3600,7 @@
   heading_de: "Szymon, Janko syn"
   count: 2
   docs: 1
+  eras: ["medieval"]
   life: "documented 1276"
   life_de: "belegt 1276"
   bio: "Count, to whom Duke Bolesław had given Trąbczyn before 1276. He died without children, and the village returned to the duke."
@@ -3292,6 +3613,7 @@
   heading_de: "Talleyrand-Périgord, Charles-Maurice de"
   count: 11
   docs: 8
+  eras: ["hohenlohe"]
   life: "1754-1838"
   life_de: "1754-1838"
   bio: "French foreign minister and France's representative at the Congress of Vienna, whose part in the negotiations Peter Friedrich von Triebenfeld reported to Prince Hohenlohe-Ingelfingen."
@@ -3304,6 +3626,7 @@
   heading_de: "Tarczewski, M."
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1819"
   life_de: "belegt 1819"
   bio: "Advocate at Warsaw. In November 1819 he reported to a client on a suit against Michalina Miączyńska, the owner of Trąbczyn, that was going to the court of appeal, and asked for the mortgage certificates in the original or in certified copies."
@@ -3316,6 +3639,7 @@
   heading_de: "Tesmar"
   count: 9
   docs: 6
+  eras: ["hohenlohe"]
   life: "documented 1806-1810"
   life_de: "belegt 1806-1810"
   bio: "Privy councillor who negotiated in 1806 for a large loan on Prince Hohenlohe-Ingelfingen's Polish estates and reported to the Prince's agent, Triebenfeld, in 1810."
@@ -3328,6 +3652,7 @@
   heading_de: "Thaer, Albrecht Daniel"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "1752-1828"
   life_de: "1752-1828"
   bio: "Agronomist and founder of the agricultural academy at Möglin, whom Prince Hohenlohe-Ingelfingen mentioned in 1811."
@@ -3340,6 +3665,7 @@
   heading_de: "Titz, Carl"
   count: 17
   docs: 12
+  eras: ["hohenlohe"]
   life: "documented 1798-1808"
   life_de: "belegt 1798-1808"
   bio: "Forest inspector of Prince Hohenlohe-Ingelfingen on the Trąbczyn and Zagórów estates (also Tietz). He leased the demesne farm of Drzewce and in 1805 took five Hufen of the Trąbczyn farm on hereditary lease."
@@ -3352,6 +3678,9 @@
   heading_de: "Trąmpczyński (Familie)"
   count: 8
   docs: 4
+  eras: ["prusimski-boundary"]
+  relevant: true
+  relevant_rank: 8
   life: "documented 1589-1791"
   life_de: "belegt 1589-1791"
   bio: "The family that held Trąbczyn in the sixteenth and seventeenth centuries and took its name from it, with the by-name Otto. In 1589 Albertus Trąmpczyński sued his neighbour Thomas Łukomski over a pond that flooded his woods. In 1644 four brothers of the family and their widowed mother were condemned by default at the suit of their neighbour Jerzy Chełmski of Łukom."
@@ -3364,6 +3693,9 @@
   heading_de: "Triebenfeld, Peter Friedrich August von"
   count: 412
   docs: 287
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 13
   life: "b. c. 1760 (estimated), d. 1816"
   life_de: "geb. ca. 1760 (geschätzt), gest. 1816"
   bio: "Prussian Councillor of War and Forests and, from 1805, general agent of Prince Hohenlohe-Ingelfingen for his Polish estates of Trąbczyn and Zagórów. He divided them among settlers on hereditary leases, negotiated loans on them, and stood surety himself for several of the Prince's debts. From 1814 he pressed the Prince's claim to the lost estates at the Congress of Vienna. He died early in 1816; his year of birth is estimated from his adult children."
@@ -3376,6 +3708,7 @@
   heading_de: "Trzciński, Ignatz von"
   count: 11
   docs: 5
+  eras: ["hohenlohe"]
   life: "d. 1815"
   life_de: "gest. 1815"
   bio: "Debtor of Prince Hohenlohe-Ingelfingen on bills from 1813. He died in December 1815, and the Prince's claim on his estate was then disputed with Zerboni."
@@ -3388,6 +3721,7 @@
   heading_de: "Tschachmann, Johann Gottlieb"
   count: 7
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1805-1812"
   life_de: "belegt 1805-1812"
   bio: "District administrator, who in 1805 took 20 Hufen at Trąbczyn from Prince Hohenlohe-Ingelfingen on hereditary lease, with the right to sell them on in parcels."
@@ -3400,6 +3734,7 @@
   heading_de: "Uminski"
   count: 5
   docs: 2
+  eras: ["prusimski-boundary", "hohenlohe"]
   life: "documented 1775-1804"
   life_de: "belegt 1775-1804"
   bio: "Prospective buyer of Prince Hohenlohe-Ingelfingen's estates of Kamionna in 1804, who thought the price too high."
@@ -3412,6 +3747,7 @@
   heading_de: "Valentini"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1813"
   life_de: "belegt 1813"
   bio: "Prussian staff officer, named in June 1813, when Peter Friedrich von Triebenfeld was with the army in Silesia."
@@ -3424,6 +3760,7 @@
   heading_de: "Veit"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1808"
   life_de: "belegt 1808"
   bio: "Berlin banker who paid Peter Friedrich von Triebenfeld 3,000 Reichsthaler for Prince Hohenlohe-Ingelfingen in 1808."
@@ -3436,6 +3773,9 @@
   heading_de: "Voss, Otto Karl Friedrich von"
   count: 71
   docs: 35
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 18
   life: "1755-1823"
   life_de: "1755-1823"
   bio: "Prussian minister of state responsible for South Prussia, the province formed from Prussia's share of Poland. On his report the King refused in 1798 the exchange of Prince Hohenlohe-Ingelfingen's Polish estates for the domain of Krotoszyn, and in 1805 he suspended the division of the Trąbczyn and Zagórów estates among settlers."
@@ -3448,6 +3788,7 @@
   heading_de: "Wardencki, Stefan"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Benefactor of the church of Trąbczyn, who in 1668 secured 350 złoty for it on part of Kurów, the interest to pay for Masses."
@@ -3460,6 +3801,7 @@
   heading_de: "Wartensleben (Grafen, Vater und Sohn)"
   count: 21
   docs: 7
+  eras: ["hohenlohe"]
   life: "documented 1811"
   life_de: "belegt 1811"
   bio: "Counts, father and son, Silesian landowners. In 1811 Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, proposed exchanging the Zagórów estates for their estates of Skorogoszcz and Wołczyn, and Count Leopold acted as intermediary with the Prince's creditor Stössel."
@@ -3472,6 +3814,7 @@
   heading_de: "Wedel"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1798-1799"
   life_de: "belegt 1798-1799"
   bio: "Official at Wrocław in 1798 and 1799, whose opinion on the exchange of Prince Hohenlohe-Ingelfingen's Polish estates for the domain of Krotoszyn the Prince's agent, Triebenfeld, called false."
@@ -3484,6 +3827,9 @@
   heading_de: "Weigel, Carl Ferdinand"
   count: 146
   docs: 60
+  eras: ["hohenlohe", "restitution", "wlodzimierz"]
+  relevant: true
+  relevant_rank: 24
   life: "documented 1799-1860"
   life_de: "belegt 1799-1860"
   bio: "Banker at Wrocław and one of the two largest creditors of Prince Hohenlohe-Ingelfingen on his Silesian estate of Koszęcin. From 1810 the Prince's agent, Triebenfeld, tried to pay him and the other great creditor, Stössel, by handing over the Zagórów estates. Weigel had bought a mortgage of 30,000 Reichsthaler on Trąbczyn, which the Prince had borrowed from one Grotowski in 1800; when the Polish courts struck it out between 1819 and 1826, holding that the estate's return to Michalina Prusimska in 1807 had freed it of such debts, Prussia protested on his behalf at St Petersburg in 1827. In 1830 he asked the Kingdom of Poland for 63,100 thalers in compensation; the minister of finance had the estates valued instead, and in 1832 the valuation was ordered again."
@@ -3496,6 +3842,7 @@
   heading_de: "Wellington, Arthur Wellesley, Herzog von"
   count: 9
   docs: 5
+  eras: ["hohenlohe"]
   life: "1769-1852"
   life_de: "1769-1852"
   bio: "British commander, from February 1815 Britain's representative at the Congress of Vienna, whose doings Peter Friedrich von Triebenfeld reported to Prince Hohenlohe-Ingelfingen in his news from the Congress."
@@ -3508,6 +3855,7 @@
   heading_de: "Werner"
   count: 6
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1804"
   life_de: "belegt 1804"
   bio: "Cabinet councillor who claimed a commission of two per cent in 1804 for proposing a buyer for Prince Hohenlohe-Ingelfingen's estates of Kamionna and Kolno."
@@ -3520,6 +3868,7 @@
   heading_de: "Wichrowski"
   count: 6
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1807-1819"
   life_de: "belegt 1807-1819"
   bio: "Landowner who in 1807 recovered his estate, written Beskyn, free of debt. In 1818 the commission at Warsaw cited his case in support of Michalina Miączyńska's claim that Trąbczyn had come back to her free of the debts charged on it."
@@ -3532,6 +3881,7 @@
   heading_de: "Wiener"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1810"
   life_de: "belegt 1810"
   bio: "Merchant who offered in 1810 to buy Świniary, the estate of Peter Friedrich von Triebenfeld."
@@ -3544,6 +3894,7 @@
   heading_de: "Wiesolowski"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Colonel and cousin of Peter Friedrich von Triebenfeld, who passed on news of Russian troop movements in 1805."
@@ -3556,6 +3907,7 @@
   heading_de: "Wilhelm, Prinz von Preußen"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "1783-1851"
   life_de: "1783-1851"
   bio: "Youngest brother of King Friedrich Wilhelm III, present at the congresses of Erfurt in 1808 and Vienna in 1814, where Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, came across him."
@@ -3568,6 +3920,7 @@
   heading_de: "Winitzki"
   count: 1
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1805"
   life_de: "belegt 1805"
   bio: "Sworn surveyor who measured the estate of Oleśnica, near Zagórów, with Chwalowski and Cabanis."
@@ -3580,6 +3933,7 @@
   heading_de: "Wintzingerode"
   count: 5
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1814-1815"
   life_de: "belegt 1814-1815"
   bio: "Count, a minister of Württemberg at the Congress of Vienna, who in 1814 claimed for Prince August of Hohenlohe-Ingelfingen a legacy under the will of Princess Sacken, his grandmother. Father and son of the name both served Württemberg, and which is meant is not known."
@@ -3592,6 +3946,7 @@
   heading_de: "Wojciech of Trąbczyn"
   count: 5
   docs: 1
+  eras: ["medieval"]
   life: "documented 1434"
   life_de: "belegt 1434"
   bio: "Son of Otto of Trąbczyn and canon of Kruszwica, who at Trąbczyn on 15 May 1434 made his brother Jan his proxy to collect 70 Hungarian florins from Jarand, scholastic of Kruszwica."
@@ -3604,6 +3959,7 @@
   heading_de: "Wolff, Lipmann Meyer"
   count: 4
   docs: 4
+  eras: ["hohenlohe"]
   life: "documented 1800-1810"
   life_de: "belegt 1800-1810"
   bio: "Berlin banker and creditor of Prince Hohenlohe-Ingelfingen, who pressed for 20,000 Reichsthaler in 1802 and was one of the few with money to lend in 1805."
@@ -3616,6 +3972,7 @@
   heading_de: "Wollenhaupt, Johann Wilhelm"
   count: 20
   docs: 5
+  eras: ["hohenlohe"]
   life: "documented 1804-1805"
   life_de: "belegt 1804-1805"
   bio: "Building inspector on Prince Hohenlohe-Ingelfingen's Zagórów estates. He took land at Drzewce on hereditary lease in 1805; the contract was cancelled three months later and he was paid off."
@@ -3628,6 +3985,7 @@
   heading_de: "Wratislaw"
   count: 4
   docs: 2
+  eras: ["hohenlohe"]
   life: "documented 1809-1814"
   life_de: "belegt 1809-1814"
   bio: "Count, a former guardian, concerned in 1809 with an inheritance that Peter Friedrich von Triebenfeld laid before the Queen of Prussia."
@@ -3640,6 +3998,7 @@
   heading_de: "Württemberg, Eugen, Herzog von"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "1788-1857"
   life_de: "1788-1857"
   bio: "General in Russian service and nephew of the Dowager Empress of Russia. In 1820 he recommended to the Russian government the claims of Prince Hohenlohe-Ingelfingen's heirs and of Count Bethusy."
@@ -3652,6 +4011,7 @@
   heading_de: "Wybicki, Józef"
   count: 18
   docs: 9
+  eras: ["hohenlohe"]
   life: "1747-1822"
   life_de: "1747-1822"
   bio: "Senator and voivode in the Duchy of Warsaw and the Kingdom of Poland. Prussia had confiscated his estate of Manieczki and given it to General von Zastrow; it was returned to him in 1807, and in 1818 the commission at Warsaw cited his case beside Michalina Miączyńska's."
@@ -3664,6 +4024,9 @@
   heading_de: "Xaver Jezierski"
   count: 15
   docs: 10
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 11
   life: "documented 1797-1803"
   life_de: "belegt 1797-1803"
   span: "1797–1803"
@@ -3674,6 +4037,7 @@
   heading_de: "Zajączek, Józef"
   count: 2
   docs: 1
+  eras: ["hohenlohe"]
   life: "1752-1826"
   life_de: "1752-1826"
   bio: "Polish general and from 1815 the Tsar's viceroy in the Kingdom of Poland. His report of 1819 on Count Bethusy's request for free movement between his properties went with the Russian note of 1820 that also refused the claim of Prince Hohenlohe-Ingelfingen's heirs."
@@ -3686,6 +4050,7 @@
   heading_de: "Zastrow, Friedrich Wilhelm Christian von"
   count: 38
   docs: 27
+  eras: ["hohenlohe"]
   life: "1752-1830"
   life_de: "1752-1830"
   bio: "Prussian general, adjutant to the King in 1798 and briefly foreign minister in 1807. He stood surety for Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, in 1808. He too had been given estates in South Prussia, and in 1820 the Prince's heirs cited the compensation he received for their loss as a precedent for their own claim."
@@ -3698,6 +4063,9 @@
   heading_de: "Zelmer (Familie)"
   count: 29
   docs: 8
+  eras: ["prusimski-boundary", "wlodzimierz", "twentieth-century"]
+  relevant: true
+  relevant_rank: 27
   life: "documented 1771-1936"
   life_de: "belegt 1771-1936"
   bio: "A family of Olęder settlers on the Trąbczyn estate, also written Celmer. In 1860 Henryk Celmer, the widow and five children of Daniel Celmer, and August and Michał Celmer were among the colonists of the Staro- and Nowo-Łazińska colonies whom Count Włodzimierz Miączyński, the estate's owner, summoned over their pasture and wood-gathering in his forest. When the colony's land was assigned to the settlers in 1868, five holdings stood under the name: those of Gottfried, Heinrich, Michael and August and of Daniel's heirs."
@@ -3710,6 +4078,9 @@
   heading_de: "Zerboni di Sposetti, Joseph"
   count: 55
   docs: 31
+  eras: ["hohenlohe"]
+  relevant: true
+  relevant_rank: 22
   life: "1766-1831"
   life_de: "1766-1831"
   bio: "Prussian official in South Prussia and from 1815 chief president of the Grand Duchy of Posen. He was himself a creditor on the Trąbczyn estates, and in November 1815 he advised the Prussian government against pressing Prince Hohenlohe-Ingelfingen's claim to compensation for them."
@@ -3722,6 +4093,7 @@
   heading_de: "Zglinski"
   count: 4
   docs: 1
+  eras: ["hohenlohe"]
   life: "documented 1806"
   life_de: "belegt 1806"
   bio: "Lessee on Prince Hohenlohe-Ingelfingen's Polish estates whose lease was cancelled or shortened in 1806."
@@ -3734,6 +4106,7 @@
   heading_de: "Zurkowski, Józef"
   count: 1
   docs: 1
+  eras: ["prusimski-boundary"]
   life: "documented 1791"
   life_de: "belegt 1791"
   bio: "Parish priest of Trąbczyn at the archbishop's visitation of 1790 and 1791. Born in the diocese of Poznań in 1740 and ordained priest in 1767, he was instituted to Trąbczyn in 1785 on the presentation of Antoni Prusimski, the estate's owner and the church's patron."
@@ -3746,6 +4119,7 @@
   heading_de: "Zychlinski"
   count: 3
   docs: 3
+  eras: ["hohenlohe"]
   life: "documented 1809-1810"
   life_de: "belegt 1809-1810"
   bio: "Former district administrator, later sub-prefect at Kalisz in the Duchy of Warsaw."

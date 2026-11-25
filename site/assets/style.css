@@ -792,6 +792,22 @@ img.scan {
 .person .refs { font-family: var(--sans); font-size: .8rem; color: var(--ink-faint); }
 .person .refs a { margin-right: .4rem; }
 
+/* --- People page: views, eras, the folded others ------------------------ */
+.people-views { max-width: 62rem; padding-bottom: .9rem; border-bottom: 1px solid var(--rule); margin-bottom: 1.2rem; }
+.people-views .people-dir { display: inline-flex; gap: .5rem; margin-left: .6rem; padding-left: .9rem; border-left: 1px solid var(--rule); }
+.people-views .people-dir[hidden] { display: none; }
+@media (max-width: 40rem) { .people-views .people-dir { margin-left: 0; padding-left: 0; border-left: 0; } }
+.people-era { max-width: 62rem; margin-bottom: 1.6rem; }
+.people-era-h { font-size: 1.3rem; margin: 1.6rem 0 .6rem; padding-bottom: .3rem; border-bottom: 1px solid var(--rule); }
+.people-flat { max-width: 62rem; }
+#people-list[data-view="az"] .person:not([data-primary]),
+#people-list[data-view="mentions"] .person:not([data-primary]) { display: none; }
+.people-others { margin-top: .8rem; }
+.people-others > summary { cursor: pointer; font-family: var(--sans); font-size: .85rem; color: var(--accent); margin-bottom: .6rem; }
+/* "References in documents (n)" and the like, on a person's card and page */
+.refs-h { font-family: var(--sans); font-size: .82rem; font-weight: 600; margin: .8rem 0 .1rem; }
+.person-page .refs-h { font-size: 1rem; margin-top: 1.6rem; }
+
 /* --- People / Places sort controls -------------------------------------- */
 .sortbar {
   display: flex; flex-wrap: wrap; align-items: center; gap: .4rem;

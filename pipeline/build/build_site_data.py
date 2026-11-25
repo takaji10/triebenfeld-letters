@@ -999,6 +999,18 @@ def main():
     label_by_uid = {r['uid']: r['letter_id'] for r in recs}
     _date_by_uid = {r['uid']: r['date_iso'] for r in recs}
     _pmc_by_uid = {r['uid']: r.get('_pmc') or {} for r in recs}
+    _era_by_uid = {r['uid']: (r.get('era') or '') for r in recs}
+    # Eras in reference/eras.yml's own order, and the people the editor's
+    # list marks relevant (reference/people_relevant.yml; its order is the
+    # order the People page shows them in).
+    _era_order = [k for k, _e in sorted(unitlib.load_eras().items(),
+                                        key=lambda kv: kv[1].get('order', 99))]
+    _rel_path = os.path.join(ROOT, 'reference', 'people_relevant.yml')
+    RELEVANT = []
+    if os.path.isfile(_rel_path):
+        import yaml as _yrel
+        with open(_rel_path, encoding='utf-8') as _fr:
+            RELEVANT = (_yrel.safe_load(_fr) or {}).get('relevant') or []
     _plmc_by_uid = {r['uid']: r.get('_plmc') or {} for r in recs}
 
     # The holding's label for the fallback lists of the doc-list include
@@ -1073,6 +1085,11 @@ def main():
             # (editor, 2026-10-04). docs is the number of documents.
             f.write(f'  count: {sum(_pmc_by_uid[i].get(slug, 0) for i in ids)}\n')
             f.write(f'  docs: {len(ids)}\n')
+            _eras = [e for e in _era_order if any(_era_by_uid.get(i) == e for i in ids)]
+            f.write('  eras: [' + ', '.join(yaml_str(e) for e in _eras) + ']\n')
+            if slug in RELEVANT:
+                f.write('  relevant: true\n')
+                f.write(f'  relevant_rank: {RELEVANT.index(slug)}\n')
             # Who this is, in two or three sentences, and when they lived.
             _b = dict(BIOS.get(slug) or {})
             # No dates known: say in which years the documents name them.

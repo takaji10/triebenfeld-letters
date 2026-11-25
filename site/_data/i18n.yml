@@ -534,7 +534,17 @@ en:
   gen_members: Members of the family with a page
   gen_notes: The sources of the database's page
   gen_documents: Documents that name them
-  gen_person_page: Their page
+  gen_person_page: Read more
+  refs_in_docs: "References in documents (%d)"
+  refs_in_lit: "References in literature (%d)"
+  refs_in_np: "References in newspapers (%d)"
+  people_view_era: By era
+  people_view_az: A–Z
+  people_view_mentions: By mentions
+  people_view_label: View
+  people_others: "Show the others (%d)"
+  people_lit_only: Named only in the literature
+  people_no_era: Not placed in an era
 
 de:
   code: de
@@ -1057,4 +1067,14 @@ de:
   gen_members: Angehörige der Familie mit eigener Seite
   gen_notes: Die Quellen der Seite der Datenbank
   gen_documents: Dokumente, die sie nennen
-  gen_person_page: Ihre Seite
+  gen_person_page: Mehr lesen
+  refs_in_docs: "Belege in Dokumenten (%d)"
+  refs_in_lit: "Belege in der Literatur (%d)"
+  refs_in_np: "Belege in Zeitungen (%d)"
+  people_view_era: Nach Epoche
+  people_view_az: A–Z
+  people_view_mentions: Nach Nennungen
+  people_view_label: Ansicht
+  people_others: "Die übrigen zeigen (%d)"
+  people_lit_only: Nur in der Literatur genannt
+  people_no_era: Keiner Epoche zugeordnet

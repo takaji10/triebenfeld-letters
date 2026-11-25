@@ -1,43 +1,69 @@
+{%- comment -%}
+  The People page, English and German (the editor, 2026-11-24;
+  docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C2, C3).
+
+  Three views of one set of cards. Without script, the era view: a section per
+  era (reference/eras.yml's order), the relevant people first (the order of
+  reference/people_relevant.yml), the others behind "Show the others (n)"; a
+  person in two eras has a card in each, and people the documents never name
+  stand last. assets/people-index.js adds the switch: A-Z (with Z-A) and by
+  mentions take the same cards out of the era sections and lay them in one
+  list, and put them back for the era view.
+{%- endcomment -%}
 {% include urls.html %}
 <div class="prose">
   <h1>{{ t.people_h1 }}</h1>
 </div>
 
-<nav class="sortbar" aria-label="Sort people">
-  <span class="sortbar-label">{{ t.sort }}</span>
-  <button type="button" data-key="name"  data-dir="asc"  aria-pressed="true">A-Z</button>
-  <button type="button" data-key="name"  data-dir="desc" aria-pressed="false">Z-A</button>
-  <button type="button" data-key="count" data-dir="desc" aria-pressed="false">{{ t.sort_most_mentions }}</button>
-  <button type="button" data-key="count" data-dir="asc"  aria-pressed="false">{{ t.sort_fewest_mentions }}</button>
-</nav>
-
-{%- comment -%} In the order build_site_data.py writes: alphabetical by heading. {%- endcomment -%}
-{% assign sorted = site.data.people %}
-<div style="max-width:62rem" data-sortable>
-{% for p in sorted %}
-  <div class="person" id="{{ p.slug }}"
-       data-name="{% if lang == 'de' %}{{ p.heading_de | escape }}{% else %}{{ p.heading | escape }}{% endif %}" data-count="{{ p.count }}">
-    {%- assign p_life = p.life -%}
-    {%- assign p_bio = p.bio -%}
-    {%- if lang == 'de' -%}
-      {%- if p.life_de %}{% assign p_life = p.life_de %}{% endif -%}
-      {%- if p.bio_de %}{% assign p_bio = p.bio_de %}{% endif -%}
-    {%- endif %}
-    <h2>{% if lang == 'de' %}{{ p.heading_de }}{% else %}{{ p.heading }}{% endif %}{% if p_life %} <span class="life">{{ p_life }}</span>{% endif %}</h2>
-    {% if p_bio %}<p class="bio">{{ p_bio }}</p>{% endif %}
-    {%- if site.data.genealogy.people[p.slug] %}
-    <p class="refs"><a class="person-page-link" href="{{ u_people | append: p.slug | append: '/' | relative_url }}">{{ t.gen_person_page }}</a></p>
-    {%- endif %}
-    {%- if p.count == 1 %}{% assign cl = t.counts_mention_one %}{% elsif p.docs == 1 %}{% assign cl = t.counts_mentions_onedoc %}{% else %}{% assign cl = t.counts_mentions %}{% endif %}
-    {% if p.docs > 0 %}<p class="refs counts">{{ cl | replace: '%m', p.count | replace: '%d', p.docs }}{% if p.span %}{% unless p.life contains 'documented' %} · {{ p.span }}{% endunless %}{% endif %}</p>{% endif %}
-    {% if p.docs > 0 %}{% include doc-list.html letters=p.letters docs=p.docs self=p.slug %}{% endif %}
-    {%- assign lit_works = site.data.literature_mentions.person[p.slug] %}
-    {% include lit-mentions.html works=lit_works %}
-    {%- assign np_works = site.data.newspapers_mentions.person[p.slug] %}
-    {% include np-mentions.html works=np_works %}
-  </div>
-{% endfor %}
+<div class="viewbar people-views" role="group" aria-label="{{ t.people_view_label }}" hidden>
+  <button type="button" class="vbtn is-on" data-view="era" aria-pressed="true">{{ t.people_view_era }}</button>
+  <button type="button" class="vbtn" data-view="az" aria-pressed="false">{{ t.people_view_az }}</button>
+  <button type="button" class="vbtn" data-view="mentions" aria-pressed="false">{{ t.people_view_mentions }}</button>
+  <span class="people-dir" role="group" aria-label="{{ t.tools_sort | default: 'Order' }}" hidden>
+    <button type="button" class="vbtn is-on" data-dir="az" aria-pressed="true">A–Z</button>
+    <button type="button" class="vbtn" data-dir="za" aria-pressed="false">Z–A</button>
+  </span>
 </div>
 
-<script src="{{ '/assets/sort-list.js' | relative_url }}"></script>
+{%- assign all_people = site.data.people -%}
+{%- assign relevant = all_people | where: "relevant", true | sort: "relevant_rank" -%}
+<div class="people-list" id="people-list" data-view="era">
+{%- for era in site.data.eras %}{% if era.count > 0 %}
+  {%- assign era_rel = relevant | where_exp: "p", "p.eras contains era.slug" -%}
+  {%- assign era_oth = all_people | where_exp: "p", "p.relevant != true" | where_exp: "p", "p.eras contains era.slug" -%}
+  {%- if era_rel.size > 0 or era_oth.size > 0 %}
+  <section class="people-era" id="era-{{ era.slug }}">
+    <h2 class="people-era-h">{% if lang == 'de' %}{{ era.label_de }}{% else %}{{ era.label_en }}{% endif %}</h2>
+    <div class="people-era-list">
+    {%- for p in era_rel %}
+      {%- assign is_primary = false -%}{%- if p.eras[0] == era.slug %}{% assign is_primary = true %}{% endif -%}
+      {% include people-card.html p=p primary=is_primary %}
+    {%- endfor %}
+    {%- if era_oth.size > 0 %}
+    <details class="people-others"{% if era_rel.size == 0 %} open{% endif %}>
+      <summary>{{ t.people_others | replace: '%d', era_oth.size }}</summary>
+      {%- for p in era_oth %}
+        {%- assign is_primary = false -%}{%- if p.eras[0] == era.slug %}{% assign is_primary = true %}{% endif -%}
+        {% include people-card.html p=p primary=is_primary %}
+      {%- endfor %}
+    </details>
+    {%- endif %}
+    </div>
+  </section>
+  {%- endif %}
+{%- endif %}{% endfor %}
+{%- assign no_era = all_people | where_exp: "p", "p.eras.size == 0" %}
+{%- if no_era.size > 0 %}
+  <section class="people-era" id="era-none">
+    <h2 class="people-era-h">{{ t.people_lit_only }}</h2>
+    <div class="people-era-list">
+    {%- for p in no_era %}
+      {% include people-card.html p=p primary=true %}
+    {%- endfor %}
+    </div>
+  </section>
+{%- endif %}
+</div>
+
+<script src="{{ '/assets/people-index.js' | relative_url }}"></script>
 {% include doc-list-script.html %}
