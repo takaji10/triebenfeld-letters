@@ -43,6 +43,14 @@ heading, the bio and the life-line from the genealogy block itself.
   <p class="eyebrow"><a href="{{ u_people | relative_url }}">{{ t.people_h1 }}</a></p>
   <h1>{{ p_heading }}{% if p_life %} <span class="life">{{ p_life }}</span>{% endif %}</h1>
   {% if p_bio %}<p class="bio">{{ p_bio }}</p>{% endif %}
+  {%- if g.biography and lang != 'de' %}
+  <section class="person-life">
+    <h2>{{ t.person_life_h2 }}</h2>
+    {%- for para in g.biography %}
+    <p>{{ para.text }} <span class="life-src">{% for s in para.sources_en %}<a href="{{ s.url | relative_url }}">{{ s.text }}</a>{% unless forloop.last %}; {% endunless %}{% endfor %}</span></p>
+    {%- endfor %}
+  </section>
+  {%- endif %}
 
   {%- comment -%} A person's link: to their own page where one exists, else
   to their entry on the People page. {%- endcomment -%}

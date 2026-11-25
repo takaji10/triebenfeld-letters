@@ -1284,3 +1284,8 @@ body.tf-german li.tf-v-none { box-shadow: inset 3px 0 0 var(--ink-soft); }
 
 /* the pronunciation after a place's name (the editor, 2026-11-25) */
 h1 .ipa { font-family: var(--sans, system-ui, sans-serif); font-size: .45em; font-weight: 400; color: var(--ink-soft, #666); letter-spacing: 0; white-space: nowrap; }
+
+/* the longer biography on a relevant person's page (2026-11-25) */
+.person-life p { margin: 0 0 1em; }
+.person-life .life-src { font-family: var(--sans); font-size: .78em; color: var(--ink-soft); }
+.person-life .life-src a { color: inherit; }

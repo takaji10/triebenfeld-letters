@@ -181,6 +181,14 @@ def main():
                 raise ValueError(f'{where}: died without a died_source')
             block['died_sources_en'] = resolve(block['died_source'], 'en', where)
             block['died_sources_de'] = resolve(block['died_source'], 'de', where)
+        # the longer biography of a relevant person (2026-11-25, the plan's
+        # C6): paragraphs, each with the documents (or passages) it rests on.
+        # English only for now; the German follows later (the editor).
+        for i, para in enumerate(block.get('biography') or []):
+            if not para.get('text') or not para.get('source'):
+                raise ValueError(f'{where}.biography[{i}]: a paragraph needs '
+                                 f'text and source')
+            para['sources_en'] = resolve(para['source'], 'en', f'{where}.biography[{i}]')
         resolve_list(block.get('parents') or [], f'{where}.parents')
         resolve_list(block.get('marriages') or [], f'{where}.marriages')
         resolve_list(block.get('children') or [], f'{where}.children')

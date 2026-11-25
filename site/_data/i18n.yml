@@ -252,6 +252,7 @@ en:
   gl_source: "source:"
   gl_reference: "Reference:"
   gl_refs_docs: "References in documents (%d)"
+  person_life_h2: "Life"
   f_term: Containing the glossary term
   f_term_clear: show all
   gl_more: In the glossary
@@ -786,6 +787,7 @@ de:
   gl_source: "Quelle:"
   gl_reference: "Beleg:"
   gl_refs_docs: "Verweise in Dokumenten (%d)"
+  person_life_h2: "Leben"
   f_term: Mit dem Glossarbegriff
   f_term_clear: alle zeigen
   gl_more: Im Glossar
