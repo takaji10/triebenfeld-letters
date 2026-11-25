@@ -68,17 +68,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0460_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0460_a2-L11_01.jpg",
-   "line": 54,
-   "doc_line": 3
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -146,7 +135,7 @@
   }
  ],
  "text_english": "Done in Konin, on Monday, next after the Sunday of Judica in Lent, namely the 18th day of the month of March, in the Year of the Lord 1782.\n\nEnrollment of a Condescensorial Decree issued concerning the settlement belonging to the estate of Trąbczyn\n\nLet there be seen at this place the Enrollment of a Condescensorial Decree concerning the Olęder [settlement] belonging to the estate of Trąbczyn, issued between the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and the Illustrious Stanisław Chełmski, Treasurer of Wschowa — as the original in the submitted documents, sewn in.",
- "summary_en": "A register note of 18 March 1782: the decree of the sitting on the ground concerning the Olęder settlement that belongs to Trąbczyn, given between Antoni Prusimski, Starost of Niszczewice, and Stanisław Chełmski, Treasurer of Wschowa, is brought in for entry; the original is sewn in among the documents produced.",
+ "summary_en": "On 18 March 1782 the decree of the sitting on the ground concerning the Olęder settlement that belongs to Trąbczyn, given between Antoni Prusimski, Starost of Niszczewice and owner of Trąbczyn, and Stanisław Chełmski, Treasurer of Wschowa and owner of Łukom, was brought in for entry at Konin.",
  "summary_de": "Registervermerk vom 18. März 1782: Das Dekret des Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung, ergangen zwischen Antoni Prusimski, Starost von Niszczewice, und Stanisław Chełmski, Schatzmeister von Wschowa, wird zur Eintragung vorgelegt; das Original ist bei den vorgelegten Schriftstücken eingeheftet.",
  "reading": {}
 }

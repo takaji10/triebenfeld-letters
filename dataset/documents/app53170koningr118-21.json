@@ -66,17 +66,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0617_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
-   "line": 112,
-   "doc_line": 1
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -97,17 +86,6 @@
    "scan": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
    "line": 112,
    "doc_line": 1
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0617_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
-   "line": 113,
-   "doc_line": 2
   },
   {
    "entity": "prusimski",
@@ -154,7 +132,7 @@
   }
  ],
  "text_english": "On behalf of the Illustrious Chełmski, Treasurer of Wschowa, against the Illustrious Prusimski, Starost of Niszczewice — Report to the Tribunal\n\nLet there be seen at this place, on behalf of the Illustrious Stanisław Chełmski, Treasurer of Wschowa, against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and the Honourable Jakub Górski, Boundary Surveyor of Inowrocław — for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — the issued Citation Report in the submitted documents.",
- "summary_en": "A register note of 1782: the report of the citation that Stanisław Chełmski, Treasurer of Wschowa, obtained against Antoni Prusimski, Starost of Niszczewice, and Jakub Górski, boundary chamberlain of Inowrocław, before the Crown Tribunal at Piotrków.",
+ "summary_en": "In 1782 the report was entered at Konin of the citation that Stanisław Chełmski, Treasurer of Wschowa and owner of Łukom, obtained before the Crown Tribunal at Piotrków against Antoni Prusimski, Starost of Niszczewice and owner of Trąbczyn, and Jakub Górski, boundary chamberlain of Inowrocław.",
  "summary_de": "Registervermerk von 1782: Bericht über die Ladung, die Stanisław Chełmski, Schatzmeister von Wschowa, gegen Antoni Prusimski, Starost von Niszczewice, und Jakub Górski, Grenzkämmerer von Inowrocław, vor das Krontribunal in Petrikau erwirkt hat.",
  "reading": {}
 }

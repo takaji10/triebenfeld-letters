@@ -90,17 +90,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0202_a1",
-   "scan": "APP_53_17_0_Konin_Gr_116_0202_a1-L10_01.jpg",
-   "line": 58,
-   "doc_line": 1
-  },
-  {
    "entity": "stanislaw-chelmski",
    "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
@@ -110,17 +99,6 @@
    "scan": "APP_53_17_0_Konin_Gr_116_0202_a1-L10_01.jpg",
    "line": 58,
    "doc_line": 1
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 2,
-   "page_id": "0202_a2",
-   "scan": "APP_53_17_0_Konin_Gr_116_0202_a2-L10_02.jpg",
-   "line": 62,
-   "doc_line": 4
   },
   {
    "entity": "stanislaw-chelmski",
@@ -183,7 +161,7 @@
   }
  ],
  "text_english": "On behalf of the Right Honourable Chełmski — Requisition of the Mandate and Field Decree issued between the goods of Łukom and Trąbczyn\n\nVacuum [\"empty\": the space left for the entry was not filled]\n\nVacuum\n\nStanisław Ścibor Chełmski",
- "summary_en": "The heading of an entry of 5 September 1776: for Chełmski, a search for the mandate and the field decree given between the estates of Łukom and Trąbczyn. The entry was not written; \"Vacuum\" stands across the empty space, signed on the following page by Stanisław Ścibor Chełmski.",
+ "summary_en": "On 5 September 1776 Stanisław Ścibor Chełmski, owner of Łukom, had a search entered at Konin for the mandate and the field decree given between the estates of Łukom and Trąbczyn. The entry was never written, and Chełmski signed the empty space on the following page.",
  "summary_de": "Überschrift eines Eintrags vom 5. September 1776: für Chełmski, Nachsuche nach dem Mandat und dem Felddekret, die zwischen den Gütern Łukom und Trąbczyn ergangen sind. Der Eintrag wurde nicht geschrieben; über dem leeren Platz steht „Vacuum“, auf der folgenden Seite unterschrieben von Stanisław Ścibor Chełmski.",
  "reading": {}
 }

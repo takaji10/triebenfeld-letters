@@ -92,7 +92,7 @@
  "mentions": [
   {
    "entity": "chemski",
-   "display": "Chełmski",
+   "display": "Chełmski family",
    "kind": "person",
    "surface": "Chełmscy",
    "page": 1,
@@ -133,17 +133,6 @@
    "scan": "APP_53_17_0_Konin_Gr_118_0586_a1-L20_01.jpg",
    "line": 106,
    "doc_line": 2
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 2,
-   "page_id": "0586_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0586_a2-L20_02.jpg",
-   "line": 108,
-   "doc_line": 3
   },
   {
    "entity": "stanislaw-chelmski",
@@ -239,7 +228,7 @@
   }
  ],
  "text_english": "For the part of the Illustrious Prusimski, Starost of Niszczewice — Requisition of the Report issued on the part of the Illustrious Chełmski [for the Crown Tribunal at Piotrków]\n\nHaving come in person to the present Office and Records of the Konin Municipal Court, the Honourable Piotr Gosławski, Plenipotentiary of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, in the name of the same Magnificent Principal of his — sound [of mind] — acknowledged: that he, having with him two Nobles, namely the Honourables Tomasz Reczkowski and Jakub Bogusławski, although present here — at the instance and official requisition of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, Heir of the estates of Trąbczyn, Trąbczynka, and others — had descended here to the present Chancellery with the above-mentioned Nobles, and there requisitioned from the present Office and requested the production [of the document]: whether the Citation Return in the estates of Trąbczyn, on the part of,\n\nthe Illustrious Stanisław Chełmski, Treasurer of Wschowa, Heir of the estates of Łukomia and others, against the Illustrious Magnificent Principal of his [the] Requisitioner, for the Ordinary General Sessions of the Crown Tribunal of the Kingdom at Piotrków — issued — was recognised before the present Records or not. To which Requisition the present Office, consenting, wished to produce the same. Therefore the present [document] attests to the non-existence of that same recognised Report and the impossibility of its production.\n\nPetrus Gosławski",
- "summary_en": "An entry of 16 August 1782. Piotr Gosławski, plenipotentiary of Antoni Prusimski, Starost of Niszczewice, asks in the chancery, with two noblemen, whether the report of a citation served at Trąbczyn, which Stanisław Chełmski is said to have obtained against Prusimski before the Crown Tribunal at Piotrków, has been declared before the office. The office certifies that there is no such report and that none can be given out. Gosławski signed.",
+ "summary_en": "On 16 August 1782 Piotr Gosławski, plenipotentiary of Antoni Prusimski, Starost of Niszczewice and owner of Trąbczyn, asked in the chancery at Konin, with two noblemen, whether the report of a citation served at Trąbczyn, which Stanisław Chełmski, owner of Łukom, is said to have obtained against Prusimski before the Crown Tribunal at Piotrków, had been declared before the office. The office certified that there was no such report and that none could be given out. Gosławski signed.",
  "summary_de": "Eintrag vom 16. August 1782. Piotr Gosławski, Bevollmächtigter von Antoni Prusimski, Starost von Niszczewice, fragt mit zwei Adligen in der Kanzlei, ob der Bericht über die Zustellung einer Ladung in Trąbczyn, die Stanisław Chełmski gegen Prusimski vor das Krontribunal in Petrikau erwirkt haben soll, vor dem Amt erklärt worden ist. Das Amt bescheinigt, dass ein solcher Bericht nicht vorliegt und nicht herausgegeben werden kann. Gosławski hat unterschrieben.",
  "reading": {}
 }

@@ -68,17 +68,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0519_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
-   "line": 81,
-   "doc_line": 2
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -99,17 +88,6 @@
    "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
    "line": 81,
    "doc_line": 2
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0519_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
-   "line": 82,
-   "doc_line": 3
   },
   {
    "entity": "prusimski",
@@ -168,7 +146,7 @@
   }
  ],
  "text_english": "Done in Konin, on Saturday, within the Octave of the Feast of the Most Sacred Body of Christ the Lord, namely the 1st day of the month of June, in the Year of the same 1782.\n\nOn behalf of the Illustrious Prusimski, Starost of Niszczewice, against the Illustrious Chełmski — a Report\n\nLet there be seen at this place a Report on behalf of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, against the Illustrious Stanisław Chełmski, Treasurer of Wschowa — for the Term of the Condescension in the estates of Grab, being conducted, upcoming — as the submitted copy stands in the submitted documents.",
- "summary_en": "A register note of 1 June 1782: the report of the citation that Antoni Prusimski of Kolno, Starost of Niszczewice, obtained against Stanisław Chełmski, Treasurer of Wschowa, for the sitting on the ground at the estate of Grab; a copy is among the documents produced.",
+ "summary_en": "On 1 June 1782 the report was entered at Konin of the citation that Antoni Prusimski of Kolno, Starost of Niszczewice and owner of Trąbczyn, obtained against Stanisław Chełmski, Treasurer of Wschowa and owner of Łukom, for the sitting on the ground at the estate of Grab; a copy was among the documents produced.",
  "summary_de": "Registervermerk vom 1. Juni 1782: Bericht über die Ladung, die Antoni Prusimski von Kolno, Starost von Niszczewice, gegen Stanisław Chełmski, Schatzmeister von Wschowa, zum Ortstermin auf dem Gut Grab erwirkt hat; eine Abschrift liegt bei den vorgelegten Schriftstücken.",
  "reading": {}
 }

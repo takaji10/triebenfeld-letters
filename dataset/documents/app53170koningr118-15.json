@@ -90,17 +90,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 2,
-   "page_id": "0515_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0515_a2-L15_02.jpg",
-   "line": 75,
-   "doc_line": 2
-  },
-  {
    "entity": "stanislaw-chelmski",
    "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
@@ -121,17 +110,6 @@
    "scan": "APP_53_17_0_Konin_Gr_118_0515_a2-L15_02.jpg",
    "line": 75,
    "doc_line": 2
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 2,
-   "page_id": "0515_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0515_a2-L15_02.jpg",
-   "line": 77,
-   "doc_line": 4
   },
   {
    "entity": "stanislaw-chelmski",
@@ -171,7 +149,7 @@
   }
  ],
  "text_english": "Done in Konin, on Saturday, next after the Solemn Feasts of Holy Pentecost, namely the 25th day of the month of May, in the Year of the Lord 1782.\n\nThe Illustrious Chełmski, Treasurer of Wschowa, against a Decree of the Crown Tribunal — a Manifest is lodged\n\nPiotr Gosławski, as Plenipotentiary, upon the requisition of [uncertain: this] space — by his own hand.\n\nStanisław Ścibor Chełmski",
- "summary_en": "The heading of an entry of 25 May 1782: Chełmski, Treasurer of Wschowa, protests against a decree of the Crown Tribunal. The text was not written. Under it Piotr Gosławski, as plenipotentiary, on his inquiry about the space, and Stanisław Ścibor Chełmski signed.",
+ "summary_en": "On 25 May 1782 Stanisław Chełmski, Treasurer of Wschowa and owner of Łukom, entered a protest at Konin against a decree of the Crown Tribunal; the text was never written. Piotr Gosławski, as plenipotentiary, who inquired about the space, and Chełmski signed beneath the heading.",
  "summary_de": "Überschrift eines Eintrags vom 25. Mai 1782: Chełmski, Schatzmeister von Wschowa, protestiert gegen ein Dekret des Krontribunals. Der Text wurde nicht geschrieben. Darunter haben Piotr Gosławski als Bevollmächtigter, auf seine Nachfrage wegen des Platzes, und Stanisław Ścibor Chełmski unterschrieben.",
  "reading": {}
 }

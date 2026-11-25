@@ -93,17 +93,6 @@
    "doc_line": 2
   },
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0017_a2",
-   "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
-   "line": 700,
-   "doc_line": 4
-  },
-  {
    "entity": "stanislaw-chelmski",
    "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
@@ -126,17 +115,6 @@
    "doc_line": 13
   },
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0017_a2",
-   "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
-   "line": 710,
-   "doc_line": 14
-  },
-  {
    "entity": "stanislaw-chelmski",
    "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
@@ -146,17 +124,6 @@
    "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
    "line": 710,
    "doc_line": 14
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0017_a2",
-   "scan": "I_HA_Rep_7_C_Nr_421_0017_a2-L7_01.jpg",
-   "line": 714,
-   "doc_line": 18
   },
   {
    "entity": "stanislaw-chelmski",
@@ -237,7 +204,7 @@
   }
  ],
  "text_english": "Berlin, 23 December 1799. To the criminal-court councillor Mondro at Kalisz.\n\n(concerning v. Chełmski's complaints against the Kalisz Gov[ernment] over the dismissal of his suit\n\nagainst the Fiscus) [...] on the 23rd.\n\nFor revision on the 24th.\n\nEncl. attached\n\nGr.\n\non the 31st O. to the post. South Pr.\n\nTo the representation submitted on the 7th of this month by the criminal-court councillor Mondro, as attorney of von Chełmski of Łukom, he is given to see from the enclosed copy in what manner von Chełmski was answered on 21 October this year on his complaints against the Government there over the dismissal of his suit against the Fiscus.\n\nSigned: Berlin, 23 Dec. 1799. By command.\n\n[Signature]\n\nv. [?] on the 25th. 4168.",
- "summary_en": "Draft to the criminal councillor Mondro at Kalisz, Berlin, 23 December 1799, concerning Chełmski's complaints against the Government at Kalisz over the dismissal of his suit against the Fiscus; signed by command, the signature not read. In answer to the representation Mondro submitted on the 7th as Chełmski's attorney, he is shown from the enclosed copy how Chełmski was answered on 21 October on his complaints. Registry notes: received on the 23rd, revised on the 24th, enclosures attached, sent by post on the 31st.",
+ "summary_en": "The ministry's answer to the criminal councillor Mondro at Kalisz, Berlin, 23 December 1799, concerning Chełmski's complaints against the Government at Kalisz over the dismissal of his suit against the Fiscus. In answer to the representation Mondro submitted on the 7th as Chełmski's attorney, he is shown from the enclosed copy how Chełmski was answered on 21 October on his complaints.",
  "summary_de": "Entwurf an den Kriminalrat Mondro zu Kalisch, Berlin, 23. Dezember 1799, wegen Chełmskis Beschwerden gegen die Regierung zu Kalisch über die Abweisung seiner Klage gegen den Fiskus; auf Befehl gezeichnet, die Unterschrift nicht gelesen. Auf die von Mondro als Bevollmächtigtem Chełmskis am 7. eingereichte Vorstellung wird ihm aus der beigefügten Abschrift zu ersehen gegeben, wie Chełmski am 21. Oktober auf seine Beschwerden beschieden worden ist. Vermerke der Registratur: am 23. eingegangen, am 24. revidiert, Anlagen beiliegend, am 31. zur Post.",
  "reading": {}
 }

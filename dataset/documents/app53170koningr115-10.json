@@ -66,17 +66,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0245_a2",
-   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-   "line": 49,
-   "doc_line": 1
-  },
-  {
    "entity": "stanislaw-chelmski",
    "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
@@ -86,28 +75,6 @@
    "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
    "line": 49,
    "doc_line": 1
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0245_a2",
-   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-   "line": 50,
-   "doc_line": 2
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmskiego",
-   "page": 1,
-   "page_id": "0245_a2",
-   "scan": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
-   "line": 50,
-   "doc_line": 2
   },
   {
    "entity": "stanislaw-chelmski",
@@ -154,7 +121,7 @@
   }
  ],
  "text_english": "On behalf of the Right Honourable Chełmski — Judicial Site Inspection of the Lusnia Olędry\n\nTo the office and present records of the Konin Municipal Court, appearing in person, the Honest Joannes Bikierski of Węgierki, Royal Court Summoner, General, being sound, certified — because he, having with him two noblemen, namely the Honourables Michał Borkowski and Jakub Kraśniewski, although absent here from the court for the present, being nonetheless present at the time at the location of the below-written matter — on the immediately preceding Wednesday, [went] to the estate of the Lusnia olędry at the request and official requisition of the Right Honourable Stanisław Chełmski, having personally descended; and being there in such manner, saw and duly inspected:\n\nAt the tavern among the Lusnia [olędry]: the stove, three windows, four doors — newly repaired and fitted out by the Right Honourable His Worship Lord Chełmski — now chopped and cut out; the chimney demolished and the chimney stacks undercut; drinking vessels for beer and spirits smashed and chopped.\n\nWhich aforementioned things, by the Honourables Lipiński, Marzęcki, and others, late at night, on 29 January of the current year, violently attacking those same olędry, he asserted to have been done and inflicted. Concerning which he made the present report, and attested to the present office that he had duly seen and inspected all of these things.",
- "summary_en": "A report of the court messenger Joannes Bikierski of Węgierki, entered at Konin in March 1773, for Stanisław Chełmski. With two noblemen he inspected the Olęder settlement of Lusnia on the Wednesday before: in the tavern the stove, three windows and four doors, which Chełmski had newly had put in order, were hacked and cut out, the chimney was ruined, and the vessels for beer and spirits were smashed. He states that this was done by the noblemen Lipiński, Marzęcki and others in the night of 29 January of the current year.",
+ "summary_en": "In March 1773 the court messenger Joannes Bikierski of Węgierki reported, for Stanisław Chełmski, owner of Łukom, what he had seen with two noblemen on the Wednesday before in the Olęder settlement of Lusnia: in the tavern the stove, three windows and four doors, which Chełmski had newly had put in order, were hacked and cut out, the chimney was ruined, and the vessels for beer and spirits were smashed. He stated that this was done by the noblemen Lipiński, Marzęcki and others, followers of Antoni Prusimski, Starost of Niszczewice and owner of the neighbouring Trąbczyn, in the night of 29 January of the current year.",
  "summary_de": "Bericht des Gerichtsboten Joannes Bikierski von Węgierki, eingetragen in Konin im März 1773, für Stanisław Chełmski. Mit zwei Adligen hat er am vergangenen Mittwoch die Olęder-Siedlung Lusnia besichtigt: Im Schankhaus waren der Ofen, drei Fenster und vier Türen, die Chełmski neu hatte herrichten lassen, zerhauen und herausgeschlagen, der Schornstein zerstört, das Bier- und Branntweingeschirr zerschlagen. Nach seiner Angabe haben das die Adligen Lipiński, Marzęcki und andere in der Nacht des 29. Januar des laufenden Jahres getan.",
  "reading": {}
 }

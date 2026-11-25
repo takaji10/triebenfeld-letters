@@ -68,17 +68,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0186_a1",
-   "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
-   "line": 19,
-   "doc_line": 2
-  },
-  {
    "entity": "stanislaw-chelmski",
    "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
@@ -88,17 +77,6 @@
    "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
    "line": 19,
    "doc_line": 2
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0186_a1",
-   "scan": "APP_53_17_0_Konin_Gr_115_0186_a1-L4_01.jpg",
-   "line": 20,
-   "doc_line": 3
   },
   {
    "entity": "stanislaw-chelmski",
@@ -146,7 +124,7 @@
   }
  ],
  "text_english": "Done in Konin on the Monday next after the Feast of Saint Andrew the Apostle in the year of the Lord 1771.\n\nOn behalf of the Right Honourable Chełmski — Oblata of the Delivery of Possession of the Lusnia Pine Forest with the Olędry\n\nLet it be seen here: the Oblata of the delivery of possession of the Lusnia pine forest with the olędry, issued on behalf of the Right Honourable Stanisław Ścibor Chełmski, heir of the estates of Łukomia, [placed] among the produced documents.",
- "summary_en": "A register note of 2 December 1771: for Stanisław Ścibor Chełmski, heir of Łukomia, the delivery of possession of the Lusnia wood with the Olęder settlers is brought in; it is among the documents produced.",
+ "summary_en": "On 2 December 1771 Stanisław Ścibor Chełmski, owner of the Łukomia estate, had the delivery of possession of the Lusnia wood with its Olęder settlers, made to him in November, brought in at the municipal court at Konin; it was among the documents produced.",
  "summary_de": "Registervermerk vom 2. Dezember 1771: Für Stanisław Ścibor Chełmski, Erbherrn von Łukomia, wird die Besitzeinweisung in den Wald Lusnia mit den Olędern vorgelegt; sie liegt bei den vorgelegten Schriftstücken.",
  "reading": {}
 }

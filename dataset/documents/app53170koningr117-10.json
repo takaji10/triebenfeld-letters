@@ -66,10 +66,10 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
+   "entity": "prusimski",
+   "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
-   "surface": "Chełmski",
+   "surface": "Prusimski",
    "page": 1,
    "page_id": "0083_a1",
    "scan": "APP_53_17_0_Konin_Gr_117_0083_a1-L10_01.jpg",
@@ -77,10 +77,10 @@
    "doc_line": 1
   },
   {
-   "entity": "prusimski",
-   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
-   "surface": "Prusimski",
+   "surface": "Chełmski",
    "page": 1,
    "page_id": "0083_a1",
    "scan": "APP_53_17_0_Konin_Gr_117_0083_a1-L10_01.jpg",
@@ -111,7 +111,7 @@
   }
  ],
  "text_english": "Oblata of the remission of the Condescension Court decree in the estates of Trąbczyn between the Honourables Chełmski and Prusimski, Starost of Niszczewice.\n\nSee [it] opposite, under the sign #.",
- "summary_en": "A register note of 1778: the decree by which the court of the sitting on the ground of Trąbczyn remitted the cause between Chełmski and Prusimski, Starost of Niszczewice, is brought in for entry. The note points to a text opposite, under the sign #.",
+ "summary_en": "In 1778 the decree by which the court of the sitting on the ground of Trąbczyn remitted the suit between Stanisław Chełmski, owner of Łukom, and Antoni Prusimski, Starost of Niszczewice and owner of Trąbczyn, over the claim Chełmski bought from Jan Tracholz to the full Kalisz land court was brought in for entry at Konin.",
  "summary_de": "Registervermerk von 1778: Das Dekret, mit dem das Gericht des Ortstermins auf dem Grund von Trąbczyn die Sache zwischen Chełmski und Prusimski, Starost von Niszczewice, verwiesen hat, wird zur Eintragung vorgelegt. Der Vermerk verweist auf einen Text gegenüber unter dem Zeichen #.",
  "reading": {}
 }

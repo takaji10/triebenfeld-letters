@@ -76,10 +76,10 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
+   "entity": "kwilecki",
+   "display": "Kwilecki",
    "kind": "person",
-   "surface": "Chełmski",
+   "surface": "Kwileck",
    "page": 1,
    "page_id": "0090_a1",
    "scan": "APP_53_17_0_Konin_Gr_116_0090_a1-L4_01.jpg",
@@ -87,10 +87,10 @@
    "doc_line": 2
   },
   {
-   "entity": "kwilecki",
-   "display": "Kwilecki",
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
-   "surface": "Kwileck",
+   "surface": "Chełmski",
    "page": 1,
    "page_id": "0090_a1",
    "scan": "APP_53_17_0_Konin_Gr_116_0090_a1-L4_01.jpg",
@@ -187,7 +187,7 @@
   }
  ],
  "text_english": "The Most Illustrious Right Honourable Field Commissioners between Trąbczyn and Łukom protest against the Boundary Act\n\nLet there be seen here the Formal Protest made in fact and upon the personal appearance of the Most Illustrious Right Honourables: Dąmbski, Palatine of Brest-Kuyavia; Brzeziński, Starost of [Inowrocław]; Dąmbski, Standard-Bearer of Brest-Kuyavia; Kwilecki, Pantler of Wschowa; and Umiński, Pantler of Kowal — against the Right Honourable Chełmski and also the Most Illustrious Commissioners engaged on his behalf — and that by reason of the Act performed unilaterally by them on the contested estate of the goods of Łukom and Trąbczyn — made, among the Produced Documents.\n\nLudwik Dąmbski, Voivode of Brest-Kuyavia, as commissioner and president, by his own hand\n\nJo. Brzeziński, Starost of [illegible], as commissioner, by his own hand\n\nStanisław Dąmbski, [illegible], commissioner, by his own hand\n\nJan Kwilecki of Kwilcz, Cup-bearer of Wschowa, as commissioner, by his own hand\n\nKajetan Umiński, Cup-bearer of Kowal, deputy voivode [illegible], commissioner",
- "summary_en": "A register note of a protest, entered at Konin in September 1775. Five commissioners of the field commission between Trąbczyn and Łukom appeared in person: Dąmbski, voivode of Brześć Kujawski, Brzeziński, Starost of Inowrocław, Dąmbski, standard-bearer of Brześć Kujawski, Kwilecki and Umiński. They protest against Chełmski and the commissioners brought in on his side, for an act that these made unilaterally on the disputed ground of Łukom and Trąbczyn. All five signed in their own hands, Ludwik Dąmbski as commissioner and president.",
+ "summary_en": "In September 1775 five commissioners of the field commission appointed to settle the boundary between Trąbczyn and Łukom appeared in person at Konin: Ludwik Dąmbski, voivode of Brześć Kujawski, Brzeziński, Starost of Inowrocław, Dąmbski, standard-bearer of Brześć Kujawski, Kwilecki and Umiński. They protested against Stanisław Chełmski, owner of Łukom, and the commissioners brought in on his side, for an act that these made unilaterally on the disputed ground of Łukom and Trąbczyn. All five signed in their own hands, Ludwik Dąmbski as commissioner and president.",
  "summary_de": "Registervermerk über einen Protest, eingetragen in Konin im September 1775. Fünf Kommissare der Feldkommission zwischen Trąbczyn und Łukom sind persönlich erschienen: Dąmbski, Woiwode von Brześć Kujawski, Brzeziński, Starost von Inowrocław, Dąmbski, Fähnrich von Brześć Kujawski, Kwilecki und Umiński. Sie protestieren gegen Chełmski und die von seiner Seite beigezogenen Kommissare wegen einer Handlung, die diese einseitig auf dem strittigen Grund von Łukom und Trąbczyn vorgenommen haben. Alle fünf haben eigenhändig unterschrieben, Ludwik Dąmbski als Kommissar und Präses.",
  "reading": {}
 }

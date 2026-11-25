@@ -66,17 +66,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0004_a1",
-   "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
-   "line": 3,
-   "doc_line": 1
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -97,17 +86,6 @@
    "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
    "line": 3,
    "doc_line": 1
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0004_a1",
-   "scan": "APP_53_17_0_Konin_Gr_115_0004_a1-L1_01.jpg",
-   "line": 4,
-   "doc_line": 2
   },
   {
    "entity": "prusimska-katarzyna",
@@ -165,7 +143,7 @@
   }
  ],
  "text_english": "On the part of the Right Honourable Chełmski against the Right Honourable Prusimski — Report of a Citation\n\nLet there be seen here, among the produced documents, the report of the citation issued on the part of the Right Honourable Stanisław Chełmski against the Right Honourables Antoni Prusimski and the successors of the late Right Honourable Prusimska, born Rozdrażewska, for the Kalisz land courts to be held here.",
- "summary_en": "A register note in the book of the municipal court at Konin, January 1768: the report of the citation that Stanisław Chełmski obtained against Antoni Prusimski and the successors of the late Prusimska, born Rozdrażewska, before the Kalisz land court is among the documents produced.",
+ "summary_en": "In January 1768 Stanisław Chełmski, owner of the Łukomia estate, obtained a summons before the Kalisz land court against Antoni Prusimski, owner of the neighbouring Trąbczyn estate, and the successors of the late Katarzyna Prusimska, born Rozdrażewska; the report of the summons was among the documents produced at the municipal court at Konin.",
  "summary_de": "Registervermerk im Buch des Burggerichts Konin, Januar 1768: Der Bericht über die Ladung, die Stanisław Chełmski gegen Antoni Prusimski und die Rechtsnachfolger der verstorbenen Prusimska, geborene Rozdrażewska, vor das Kalischer Landgericht erwirkt hat, liegt bei den vorgelegten Schriftstücken.",
  "reading": {}
 }

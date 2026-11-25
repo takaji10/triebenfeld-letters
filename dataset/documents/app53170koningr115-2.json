@@ -83,17 +83,6 @@
    "doc_line": 2
   },
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0036_a1",
-   "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-   "line": 9,
-   "doc_line": 3
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -116,17 +105,6 @@
    "doc_line": 3
   },
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0036_a1",
-   "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-   "line": 10,
-   "doc_line": 4
-  },
-  {
    "entity": "stanislaw-chelmski",
    "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
@@ -136,17 +114,6 @@
    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
    "line": 10,
    "doc_line": 4
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0036_a1",
-   "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-   "line": 11,
-   "doc_line": 5
   },
   {
    "entity": "prusimski",
@@ -249,7 +216,7 @@
   }
  ],
  "text_english": "Done in Konin on the Tuesday next after the Sunday Exaudi in the year of the Lord 1768.\n\nOn the part of the Right Honourable Prusimski against the heirs and possessors of Łukom, Drzewce, Biskupice, Tomice — Report of a Citation\n\nLet there be seen here, among the produced documents, the report of the citation issued on the part of the Right Honourable Antoni Prusimski of Kolno, Starost of Niszczewice, against the Right Honourables Chełmski, the Żychliński successors, Ignacy Gałecki, Starost of Bydgoszcz, … the Abbot and the venerable Convent of Ląd, for the courts of the Crown Tribunal at Bydgoszcz, for the fixing of the boundary.\n\nOn the part of the Right Honourable Chełmski against the heirs and possessors of Tomice, Drzewce, Trąbczyn, Nowa Wieś — Report of a Citation\n\nLet there be seen here the report of the citation on the part of the Right Honourable Stanisław Chełmski against the Most Reverend Słowiecki, Abbot, and the Convent of Ląd, the Right Honourables Prusimski, Gałecki …",
- "summary_en": "Two register notes of 17 May 1768 on citations before the Crown Tribunal at Bydgoszcz. Antoni Prusimski of Kolno, Starost of Niszczewice, has had the Chełmskis, the Żychliński heirs, Ignacy Gałecki, Starost of Bydgoszcz, and the abbot and convent of Ląd cited, for the fixing of the boundary; Stanisław Chełmski for his part the abbot Słowiecki and the convent of Ląd, Prusimski and Gałecki. Both notes are transcribed only in part.",
+ "summary_en": "On 17 May 1768 Antoni Prusimski of Kolno, Starost of Niszczewice and owner of Trąbczyn, had the Chełmskis, the Żychliński heirs, Ignacy Gałecki, Starost of Bydgoszcz, and the abbot and convent of Ląd summoned before the Crown Tribunal at Bydgoszcz, the kingdom's highest court, for the fixing of the boundary. Stanisław Chełmski, owner of the neighbouring Łukomia, for his part had the abbot Słowiecki and the convent of Ląd, Prusimski and Gałecki summoned.",
  "summary_de": "Zwei Registervermerke vom 17. Mai 1768 über Ladungen vor das Krontribunal in Bromberg. Antoni Prusimski von Kolno, Starost von Niszczewice, hat die Chełmski, die Żychliński-Erben, Ignacy Gałecki, Starost von Bromberg, sowie Abt und Konvent von Ląd laden lassen, zur Festlegung der Grenze; Stanisław Chełmski seinerseits den Abt Słowiecki und den Konvent von Ląd, Prusimski und Gałecki. Beide Vermerke sind nur teilweise transkribiert.",
  "reading": {}
 }

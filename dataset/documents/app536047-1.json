@@ -115,28 +115,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0240_b1",
-   "scan": "APP_53_6_0_47_0240_b1-L1_01.jpg",
-   "line": 3,
-   "doc_line": 1
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0240_b1",
-   "scan": "APP_53_6_0_47_0240_b1-L1_01.jpg",
-   "line": 3,
-   "doc_line": 1
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -223,17 +201,6 @@
    "scan": "APP_53_6_0_47_0240_b1-L1_01.jpg",
    "line": 3,
    "doc_line": 1
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 2,
-   "page_id": "0240_b2",
-   "scan": "APP_53_6_0_47_0240_b2-L1_02.jpg",
-   "line": 5,
-   "doc_line": 2
   },
   {
    "entity": "prusimski",
@@ -269,39 +236,6 @@
    "doc_line": 2
   },
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 2,
-   "page_id": "0240_b2",
-   "scan": "APP_53_6_0_47_0240_b2-L1_02.jpg",
-   "line": 6,
-   "doc_line": 3
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 2,
-   "page_id": "0240_b2",
-   "scan": "APP_53_6_0_47_0240_b2-L1_02.jpg",
-   "line": 6,
-   "doc_line": 3
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 2,
-   "page_id": "0240_b2",
-   "scan": "APP_53_6_0_47_0240_b2-L1_02.jpg",
-   "line": 6,
-   "doc_line": 3
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -388,17 +322,6 @@
    "scan": "APP_53_6_0_47_0240_b2-L1_02.jpg",
    "line": 6,
    "doc_line": 3
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 3,
-   "page_id": "0240_b3",
-   "scan": "APP_53_6_0_47_0240_b3-L1_03.jpg",
-   "line": 10,
-   "doc_line": 6
   },
   {
    "entity": "stanislaw-chelmski",

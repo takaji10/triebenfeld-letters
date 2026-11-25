@@ -66,17 +66,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0675_a1",
-   "scan": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg",
-   "line": 155,
-   "doc_line": 2
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -166,7 +155,7 @@
   }
  ],
  "text_english": "Enrollment of a Condescensorial Boundary Decree issued between the estates of Trąbczyn and Łukom\n\nLet there be seen at this place the Enrollment of a Condescensorial Boundary Decree between the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and the Illustrious Stanisław Chełmski, Treasurer of Wschowa, and others — [issued] between the estates of Trąbczyn and Łukom — with the description of the boundary mounds — in the submitted documents.",
- "summary_en": "A register note of December 1782: the boundary decree of the sitting on the ground between the estates of Trąbczyn and Łukom, given between Antoni Prusimski, Starost of Niszczewice, Stanisław Chełmski, Treasurer of Wschowa, and others, with the description of the boundary mounds, is brought in for entry and is among the documents produced.",
+ "summary_en": "In December 1782 the boundary decree of the sitting on the ground between the estates of Trąbczyn and Łukom, given between Antoni Prusimski, Starost of Niszczewice, Stanisław Chełmski, Treasurer of Wschowa, and others, with the description of the boundary mounds, was brought in for entry at Konin and was among the documents produced.",
  "summary_de": "Registervermerk vom Dezember 1782: Das Grenzdekret des Ortstermins zwischen den Gütern Trąbczyn und Łukom, ergangen zwischen Antoni Prusimski, Starost von Niszczewice, Stanisław Chełmski, Schatzmeister von Wschowa, und anderen, mit der Beschreibung der Grenzhügel, wird zur Eintragung vorgelegt und liegt bei den vorgelegten Schriftstücken.",
  "reading": {}
 }

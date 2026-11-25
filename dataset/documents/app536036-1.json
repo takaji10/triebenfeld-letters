@@ -100,7 +100,29 @@
   },
   {
    "entity": "chemski",
-   "display": "Chełmski",
+   "display": "Chełmski family",
+   "kind": "person",
+   "surface": "Chełmsky",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "jerzy-chelmski",
+   "display": "Jerzy Chełmski",
+   "kind": "person",
+   "surface": "Chełmsky",
+   "page": 1,
+   "page_id": "0642_a1",
+   "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "jerzy-chelmski",
+   "display": "Jerzy Chełmski",
    "kind": "person",
    "surface": "Chełmsky",
    "page": 1,

@@ -66,17 +66,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0398_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0398_a2-L9_01.jpg",
-   "line": 42,
-   "doc_line": 1
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
@@ -97,17 +86,6 @@
    "scan": "APP_53_17_0_Konin_Gr_118_0398_a2-L9_01.jpg",
    "line": 42,
    "doc_line": 1
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0398_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0398_a2-L9_01.jpg",
-   "line": 43,
-   "doc_line": 2
   },
   {
    "entity": "prusimski",
@@ -154,7 +132,7 @@
   }
  ],
  "text_english": "On behalf of the Illustrious Chełmski and others, against the Illustrious Prusimski — Report for the Term of the Condescension\n\nLet there be seen at this place a Report on behalf of the Illustrious Stefan Zielonacki, Judge of the Kalisz Land Court, and Stanisław Chełmski, Treasurer of Wschowa, against the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — for the Term of the Condescension in the settlement of the estates of Grab, being conducted, upcoming — as the copy in the submitted documents [attests].",
- "summary_en": "A register note of 4 December 1781: the report of the citation that Stefan Zielonacki, judge of the Kalisz land court, and Stanisław Chełmski, Treasurer of Wschowa, obtained against Antoni Prusimski, Starost of Niszczewice, for the sitting on the ground of the estate of Grab.",
+ "summary_en": "On 4 December 1781 the report was entered at Konin that the citation had been served which Stefan Zielonacki, judge of the Kalisz land court, and Stanisław Chełmski, Treasurer of Wschowa and owner of Łukom, obtained against Antoni Prusimski, Starost of Niszczewice and owner of Trąbczyn, for the sitting on the ground of the estate of Grab.",
  "summary_de": "Registervermerk vom 4. Dezember 1781: Bericht über die Ladung, die Stefan Zielonacki, Richter des Kalischer Landgerichts, und Stanisław Chełmski, Schatzmeister von Wschowa, gegen Antoni Prusimski, Starost von Niszczewice, zum Ortstermin auf dem Grund des Gutes Grab erwirkt haben.",
  "reading": {}
 }

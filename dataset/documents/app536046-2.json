@@ -62,28 +62,6 @@
  ],
  "mentions": [
   {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0183_a2",
-   "scan": "APP_53_6_0_46_0183_a2-L2_01.jpg",
-   "line": 9,
-   "doc_line": 1
-  },
-  {
-   "entity": "chemski",
-   "display": "Chełmski",
-   "kind": "person",
-   "surface": "Chełmski",
-   "page": 1,
-   "page_id": "0183_a2",
-   "scan": "APP_53_6_0_46_0183_a2-L2_01.jpg",
-   "line": 9,
-   "doc_line": 1
-  },
-  {
    "entity": "prusimski",
    "display": "Antoni Prusimski, Starost of Niszczewice",
    "kind": "person",
