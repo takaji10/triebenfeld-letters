@@ -62,8 +62,7 @@ entries:
   match_en: '\bRthl\b|\bReichsthaler\w*'
   short_en: >-
     The Prussian unit of account, a silver thaler, written Rthl or rt. It was
-    divided into 24 Groschen of 12 Pfennig each. Nearly every sum in the
-    letters is reckoned in it.
+    divided into 24 Groschen of 12 Pfennig each. Nearly every sum in the Prince of Hohenlohe-Ingelfingen's affairs, 1796 to 1816, is reckoned in it.
   short_de: >-
     Die preußische Rechnungseinheit, ein Silbertaler, abgekürzt Rthl oder rt.
     Er galt 24 Groschen zu je 12 Pfennig. Fast jede Summe in den Briefen ist in
@@ -84,8 +83,7 @@ entries:
   short_en: >-
     The coin current in everyday trade, as against gold: in Prussia the silver
     thaler and its parts, small change apart. A sum "in Courant" was paid in
-    silver; a sum "in Gold" in gold coin, worth more. The letters keep the two
-    strictly apart.
+    silver; a sum "in Gold" in gold coin, worth more. Contracts and accounts kept the two strictly apart.
   short_de: >-
     Die im täglichen Handel umlaufende Münze, im Gegensatz zum Gold: in Preußen
     der Silbertaler und seine Teilstücke, ohne die Scheidemünze. Eine Summe „in
@@ -169,8 +167,7 @@ entries:
   match_en: '\bducats?\b'
   short_en: >-
     A gold coin of standard weight, current across central Europe, and the
-    money of large payments and of travel. In Vienna in 1814–15 the letters
-    count expenses in ducats and gulden.
+    money of large payments and of travel. At the Congress of Vienna in 1814–15 the Prince's agent, Peter Friedrich von Triebenfeld, counted his expenses in ducats and gulden.
   short_de: >-
     Eine Goldmünze von festem Gewicht, in ganz Mitteleuropa gängig, das Geld
     großer Zahlungen und der Reise. In Wien 1814/15 rechnen die Briefe in
@@ -193,9 +190,7 @@ entries:
   match_de: '\bGulden\b|(?:\d\.? ?)?(?P<w>fl)(?:\b|\.(?=\s))'
   match_en: '\bgulden\b'
   short_en: >-
-    The florin, written fl. In the letters from the Congress of Vienna, the
-    Austrian gulden, of 60 kreuzer (x), in which the Prince's agent paid his
-    way. In the deeds, "Polish gulden" is the złoty, a money of account of 30
+    The florin, written fl. In Vienna, the Austrian gulden of 60 kreuzer, in which the Prince's agent, Triebenfeld, paid his way at the Congress of 1814–15. In Polish contracts, "Polish gulden" is the złoty, a money of account of 30
     Polish groschen.
   short_de: >-
     Der Gulden (Florin), abgekürzt fl. In den Briefen vom Wiener Kongress der
@@ -225,8 +220,7 @@ entries:
   match_en: '\bMorgen\b'
   short_en: >-
     A measure of land, roughly what a team could plough in a day or, as the
-    name was explained, in a morning. The Prussian (Magdeburg) Morgen of 180
-    square rods was about a quarter of a hectare; other Morgen were larger, so
+    name was explained, in a morning. The Prussian Morgen, measured by the rod of Magdeburg, of 180 square rods, was about a quarter of a hectare; other Morgen were larger, so
     a document often names the one it means.
   short_de: >-
     Ein Flächenmaß, ungefähr das, was ein Gespann an einem Tag oder, nach der
@@ -248,10 +242,8 @@ entries:
   match_en: '\bHufen?\b'
   short_en: >-
     A farm holding and a measure of land: the arable one household could live
-    on, reckoned at 30 Morgen. Its size varied with the Morgen; the Kulm Hufe
-    usual in this region, the Polish włóka, was about 17 hectares, and in
-    Greater Poland the włóka itself was often called Hufe. Settlers on the
-    estates were let land by the Hufe.
+    on, reckoned at 30 Morgen. Its size varied with the Morgen; the Hufe of Chełmno (Kulm) law usual in Greater Poland, the Polish włóka, was about 17 hectares, and in
+    Greater Poland the włóka itself was often called Hufe. Settlers on the estates of Trąbczyn and Zagórów were let land by the Hufe.
   short_de: >-
     Ein Bauernhof und zugleich ein Flächenmaß: das Ackerland, von dem ein
     Haushalt leben konnte, zu 30 Morgen gerechnet. Die Größe schwankte mit dem
@@ -376,8 +368,7 @@ entries:
   short_en: >-
     A lease that passed to the tenant's heirs and could be sold. The tenant
     paid a sum on entry and then a yearly rent, the canon, for ever; the lord
-    kept the ownership. It was the Prince's main way of turning land into
-    money.
+    kept the ownership. It was the main way in which Prince Friedrich Ludwig of Hohenlohe-Ingelfingen turned his Polish estates into money after 1798.
   short_de: >-
     Eine Pacht, die auf die Erben überging und verkauft werden konnte. Der
     Pächter zahlte beim Antritt eine Summe und danach für immer einen
@@ -397,8 +388,7 @@ entries:
   match_en: '\bcanon\b'
   short_en: >-
     The yearly rent a hereditary tenant paid to the lord, who kept the
-    ownership; in Latin canon emphyteuticus. Nothing to do with the church. In
-    the letters it is a sum of money, set in the contract.
+    ownership; in Latin canon emphyteuticus. Nothing to do with the church. In the hereditary leases of the Trąbczyn and Zagórów estates it is a sum of money, set in each contract.
   short_de: >-
     Der jährliche Zins, den ein Erbpächter dem Herrn zahlte, der das Eigentum
     behielt; lateinisch canon emphyteuticus. Mit der Kirche hat er nichts zu
@@ -463,7 +453,7 @@ entries:
     The lord's sole right to brew beer, distil spirits and make mead on his
     estate, and to sell drink there, a right of the Polish nobility
     (propinacja) that followed from owning the land. It was usually let, often
-    to an innkeeper, and buyers and tenants of the estates bargained for it.
+    to an innkeeper, and buyers and tenants of the Trąbczyn and Zagórów estates bargained for it.
   short_de: >-
     Das alleinige Recht des Grundherrn, auf seinem Gut Bier zu brauen,
     Branntwein zu brennen und Met zu bereiten und Getränke auszuschenken, ein
@@ -484,8 +474,7 @@ entries:
   match_en: '\bentail\w*'
   short_en: >-
     An estate settled so that it passed whole to the eldest heir and could not
-    be sold or divided. In 1805 the Prince bound his Silesian and South
-    Prussian estates in this way.
+    be sold or divided. In 1805 Prince Friedrich Ludwig of Hohenlohe-Ingelfingen bound his Silesian estates and his Polish estates of Trąbczyn and Zagórów in this way, to pass undivided to one heir.
   short_de: >-
     Ein Besitz, der ungeteilt an den ältesten Erben fiel und weder verkauft
     noch geteilt werden durfte. 1805 band der Fürst seine schlesischen und
@@ -541,8 +530,7 @@ entries:
   match_de: '\bUnterthan\w*'
   short_en: >-
     The peasants of a manor: bound to its lord, owing him labour and dues, and
-    under his court. In these documents the word means them, not the subjects
-    of a king.
+    under his court. In the Prussian estate papers the word means them, not the subjects of a king.
   short_de: >-
     Die Bauern eines Guts: an ihren Grundherrn gebunden, ihm zu Diensten und
     Abgaben verpflichtet und seinem Gericht unterstellt. In diesen Dokumenten
@@ -561,8 +549,7 @@ entries:
   match_en: '\bdismember\w*'
   short_en: >-
     The breaking-up of an estate into separate holdings to be sold or let. In
-    Prussia it needed the state's consent, which is why the Prince's plans for
-    his estates waited on ministers.
+    Prussia it needed the state's consent, which is why Prince Friedrich Ludwig of Hohenlohe-Ingelfingen's plans to divide Trąbczyn and Zagórów among settlers waited on ministers in Berlin.
   short_de: >-
     Die Zerschlagung eines Guts in einzelne Stellen, die verkauft oder
     verpachtet werden. In Preußen bedurfte sie der staatlichen Genehmigung;
@@ -582,7 +569,7 @@ entries:
     Settlers holding land under "Dutch law": personally free, with long or
     hereditary leases and their own village self-government, in return for
     clearing and farming land. The first were Dutch Mennonites; in Greater
-    Poland most were Germans. Trąbczyn's colonies were of this kind.
+    Poland most were Germans. The Olęder colonies on the estate of Trąbczyn, near Konin, were of this kind.
   short_de: >-
     Siedler, die Land nach „holländischem Recht“ besaßen: persönlich frei, mit
     langen oder erblichen Pachten und eigener Dorfverwaltung, gegen Rodung und
@@ -626,8 +613,7 @@ entries:
   match_en: '\bdonations?\b'
   short_en: >-
     A gift of land by the King. In 1796–97 Friedrich Wilhelm II gave estates
-    confiscated in South Prussia to generals and officials as donations; the
-    Prince's Polish estates were such donation estates (Donationsgüter).
+    confiscated in South Prussia to generals and officials as donations; the Polish estates of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, Trąbczyn among them, were such donation estates (Donationsgüter).
   short_de: >-
     Eine Schenkung von Land durch den König. 1796/97 schenkte Friedrich
     Wilhelm II. in Südpreußen eingezogene Güter an Generale und Beamte; die
@@ -670,8 +656,7 @@ entries:
   match_en: '\bcompetences?\b'
   short_en: >-
     The fixed income owed from an estate to a church foundation or its clergy.
-    Estates that had been church property passed to the Prince with the duty
-    to keep paying it. It has nothing to do with ability.
+    Villages that had been church property, such as Zagórów, passed to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in 1797 with the duty to keep paying it. It has nothing to do with ability.
   short_de: >-
     Die festen Einkünfte, die ein Gut einer kirchlichen Stiftung oder ihren
     Geistlichen schuldete. Güter aus Kirchenbesitz gingen an den Fürsten mit
@@ -766,8 +751,7 @@ entries:
   short_en: >-
     An owner's title, entered on his estate's folio in the mortgage book.
     Until it was entered, the owner could not sell, mortgage or lease with
-    effect; from 1795 Prussia required the title to rest on legal proof, so
-    entering the Prince's title took years of papers.
+    effect; from 1795 Prussia required the title to rest on legal proof, so having Prince Friedrich Ludwig of Hohenlohe-Ingelfingen entered as owner of the estates the King gave him took years.
   short_de: >-
     Der Besitztitel eines Eigentümers, auf dem Blatt seines Guts im
     Hypothekenbuch eingetragen. Ohne Eintragung konnte er nicht wirksam
@@ -850,8 +834,7 @@ entries:
   orig: Einsaßen
   match_de: '\bEins(?:a|ä)(?:ss|ß)en\w*'
   short_en: >-
-    The inhabitants who belong to a village or estate, as against outsiders.
-    The English gives "residents".
+    The inhabitants who belong to a village or estate, as against outsiders: its residents.
   short_de: >-
     Die Bewohner, die zu einem Dorf oder Gut gehören, im Gegensatz zu den
     Auswärtigen.
@@ -989,9 +972,7 @@ entries:
   match_de: '\bBevollm(ä|ae)chtigte\w*|\bMandatari\w*'
   match_en: '\bplenipotentiar\w*'
   short_en: >-
-    Someone acting for another under a power of attorney. Triebenfeld was the
-    Prince's general plenipotentiary for his estates in the east. Mandatarius
-    is the Latin word for the same.
+    Someone acting for another under a power of attorney. Peter Friedrich von Triebenfeld was the general plenipotentiary of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen for his Polish estates from 1805.
   short_de: >-
     Wer kraft einer Vollmacht für einen anderen handelt. Triebenfeld war der
     Generalbevollmächtigte des Fürsten für seine Güter im Osten. Mandatarius
@@ -1050,8 +1031,7 @@ entries:
   short_en: >-
     The Kriegs- und Domänenkammer, the board that ran a Prussian province: its
     taxes, crown lands, settlement and police. South Prussia's chambers sat at
-    Posen and at Petrikau, later Kalisch. In 1808 they were replaced by
-    "governments".
+    Posen and at Petrikau, later Kalisch. In 1808 their work passed to new administrative boards, also called Governments (Regierungen).
   short_de: >-
     Die Kriegs- und Domänenkammer, die Behörde, die eine preußische Provinz
     verwaltete: Steuern, Domänen, Siedlung und Polizei. Die südpreußischen
@@ -1072,7 +1052,7 @@ entries:
   short_en: >-
     A member of a Chamber (Kriegs- und Domänenrat), or the title alone,
     granted as an honour. It had long ceased to mean anything military.
-    Triebenfeld was Kriegs- und Forstrath, Councillor of War and Forests.
+    Peter Friedrich von Triebenfeld, the Prince of Hohenlohe-Ingelfingen's agent, held the title of Councillor of War and Forests.
   short_de: >-
     Mitglied einer Kammer (Kriegs- und Domänenrat) oder der Titel allein, als
     Auszeichnung verliehen. Mit dem Militär hatte er längst nichts mehr zu tun.
@@ -1133,8 +1113,7 @@ entries:
     interfere with its rulings. Contracts and the mortgage register were much
     of its business, though the mortgages reached only a few of the wealthier
     peasants. In the Duchy of Warsaw the patrimonial courts were abolished in
-    1808 and their business passed to the peace courts. The Prince's court
-    sat at Trąbczyn.
+    1808 and their business passed to the peace courts. The court of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen for his estates sat at Trąbczyn, near Konin.
   long_de: >-
     In Südpreußen gab das 1796 eingeführte Allgemeine Landrecht die oberste
     Gerichtsbarkeit dem König, der sie übertragen konnte. Mit dem Land
@@ -1217,10 +1196,9 @@ entries:
     A Polish court officer. In the old Commonwealth the judges and the
     starosts did their work through komorniks, and the boundary komornik
     (komornik graniczny), who acted for the sub-chamberlain as judge of
-    boundaries, had to be a surveyor: the boundary decrees of 1775 and 1776
-    name several, and the translations call them Boundary Surveyors. In the
+    boundaries, had to be a surveyor: the decree that fixed the boundary between Trąbczyn and Łukom in 1775 names several. In the
     Duchy of Warsaw the komornik served writs and carried out judgments,
-    seizures and sales, as in Triebenfeld's letters. Not the lodger
+    seizures and sales, and appear so in the Prince of Hohenlohe-Ingelfingen's lawsuits there. Not the lodger
     komornik, who has his own entry.
   short_de: >-
     Ein polnischer Gerichtsbeamter. In der alten Adelsrepublik ließen Richter
@@ -1261,9 +1239,7 @@ entries:
     In the Polish countryside, a peasant without land of his own, or a woman
     (komornica), who lived in a room or hut of the manor or of a farmer and
     worked for it, paid with the room, a garden and other small benefits:
-    the lowest rank of a village. The inspection of Trąbczyn of 1754 counts
-    eight; the Prussian valuation of Szetlewek of 1803 calls them
-    Einlieger; at Kopojno in 1805 each was to have four Morgen. Not the
+    the lowest rank of a village. An inspection of the estate of Trąbczyn, near Konin, in 1754 counted eight; a Prussian valuation of the neighbouring Szetlewek in 1803 calls them Einlieger; and when the farm of Kopojno was let in 1805, each was to have four Morgen. Not the
     court officer komornik, who has his own entry.
   short_de: >-
     Auf dem polnischen Land ein Bauer ohne eigenes Land, oder eine Frau
@@ -1315,9 +1291,7 @@ entries:
     summonses on the parties, called out the court's orders in public, and
     went to see wounds, damage or a boundary and reported what he saw to
     the court's books. His report that a summons had been served made it
-    valid. The office went on in the courts of the Kingdom of Poland in the
-    nineteenth century. The translations call him the Court Summoner, the
-    summaries the court messenger.
+    valid. The office went on in the courts of the Kingdom of Poland in the nineteenth century.
   short_de: >-
     Ein vereidigter Bediensteter eines polnischen Gerichts, lateinisch
     ministerialis. Er stellte den Parteien die Ladungen zu, rief die
@@ -1345,8 +1319,7 @@ entries:
     egzamin dojrzałości, the "examination of maturity"; the same word is used
     in Austria and Switzerland, and in Germany it is the Abitur. Passing it
     closed the grammar school (gimnazjum) and gave the right to study at a
-    university. A note in Breyer's notebook of 1936 calls passing it the
-    hardest thing in life, without saying whose it was.
+    university. In 1936 the historian Albert Breyer noted that a settler of Łazińsk called passing it the hardest thing in life.
   short_de: >-
     Die Prüfung am Ende der höheren Schule, polnisch matura oder egzamin
     dojrzałości, die „Reifeprüfung“; so heißt sie auch in Österreich und der
@@ -1370,7 +1343,7 @@ entries:
     lands (a starostwo) as a reward, in practice for life. A castle starost
     also held the district's courts and kept the peace in it; others only ran
     the lands. After the partitions the title stayed with those who held such
-    lands. Prusimski, the estates' former owner, was a starost.
+    lands. Antoni Prusimski, the Polish owner of Trąbczyn until 1796, was Starost of Niszczewice.
   short_de: >-
     In der alten polnischen Adelsrepublik ein Adliger, dem der König Krongüter
     (ein starostwo) zur Belohnung überließ, praktisch auf Lebenszeit. Ein
@@ -1405,8 +1378,7 @@ entries:
     castrense: it judged nobles for the gravest crimes, and later also
     suits over land and money. Beside the court was its office, where
     deeds, bonds and other acts not in dispute were entered in its books,
-    which then counted as proof. The court books of Konin and Kalisz are its books. The English calls it the
-    municipal court: the court of the gród, not of a town.
+    which then counted as proof. The court books of Konin and Kalisz that record the boundary quarrel between Trąbczyn and Łukom are its books. In English it is here called the municipal court, meaning the court of the gród, not of a town.
   short_de: >-
     Eine Burg und das Gericht, das dort gehalten wurde. In der alten
     polnischen Adelsrepublik hielt der Starost das Burggericht auf einer
@@ -1441,11 +1413,9 @@ entries:
   match_en: '(?<!called )\bstawisk\w*\b(?!\s+known)'
   short_en: >-
     A Polish word for a large, boggy pond, or for ground taken up by a pond
-    or left where one had been. Here it is the boggy ground on
-    the boundary between Trąbczyn and Łukom, overgrown with trees, which
+    or left where one had been. Here it is the boggy ground on the boundary between the neighbouring estates of Trąbczyn and Łukom, near Konin, overgrown with trees, which
     the owners of the two estates disputed from 1728: who owned it, and
-    the dams whose water flooded it. Some acts use the word as that
-    ground's name, Stawisko. The translations keep it in Polish.
+    the dams whose water flooded it. Some acts use the word as that ground's name, Stawisko.
   short_de: >-
     Ein polnisches Wort für einen großen, sumpfigen Teich oder für Grund,
     den ein Teich einnimmt oder den er hinterlassen hat. Hier ist es der sumpfige, mit Bäumen bewachsene Grund an der Grenze zwischen
@@ -1480,13 +1450,11 @@ entries:
   short_en: >-
     A mound of earth raised to mark a boundary, in Latin scopulus. To show
     that it was made by hand and not by nature, things that do not rot were
-    laid under it: the boundary decree of 1775 (Konin Gr.145) records a few
+    laid under it: the decree that fixed the boundary between Trąbczyn and Łukom in 1775 records a few
     whole bricks, slag, glass, stones and coals where each mound was to
-    stand, and a glass bottle with the commission's description under one
-    of them. Corner mounds (narożne) stood where boundaries met, wall
+    stand, and a glass bottle with the boundary commission's description under one of them. Corner mounds (narożne) stood where boundaries met, wall
     mounds (ścienne) along one side of the line; in a marsh, stakes were
-    driven in. The line of 1782 between Trąbczyn and Łukom has forty-one
-    wall mounds (Gr.153).
+    driven in. When the boundary between Trąbczyn and Łukom was finally marked in 1782, forty-one wall mounds were raised along it.
   short_de: >-
     Ein Erdhügel, aufgeschüttet, um eine Grenze zu bezeichnen, lateinisch
     scopulus. Damit man sah, dass ihn Menschenhand gemacht hatte und nicht
@@ -1524,15 +1492,11 @@ entries:
   match_en: '\b[Nn]otary\b|\b[Ss]cribes?\b|\b[Cc]lerks?\b'
   only_in: [app53170koningr117-2, app53170koningr117-8, app53170koningr118-23, app53170koningr118-27, app53170koningr145-1, app53170koningr153-1, iiihamdaiiinr12366-5, app536045-1]
   short_en: >-
-    The writer of a court or an office, in Latin notarius. Gloger: the
-    lowest in rank of a court's members and often without a vote, he yet
+    The writer of a court or an office, in Latin notarius. The lowest in rank of a court's members and often without a vote, he yet
     did almost all its work, keeping its books and writing its judgments
     into the book of decrees. The land clerk (pisarz ziemski), elected like
-    the judges, sat in the land court with the judge and the sub-judge: in
-    1778 Ksawery Mikorski, land clerk of Kalisz, sat with them (Konin
-    Gr.117). The castle court (gród) and other offices, a customs post
-    among them, had their own. The translations call him Notary, Clerk or
-    Scribe; he is not the notary public, who has his own entry.
+    the judges, sat in the land court with the judge and the sub-judge: in 1778 the land clerk of Kalisz, Ksawery Mikorski, sat with them when the court heard the suit between the owners of Trąbczyn and Łukom. The castle court (gród) and other offices, a customs post
+    among them, had their own. He is not the notary public, who has his own entry.
   short_de: >-
     Der Schreiber eines Gerichts oder eines Amtes, lateinisch notarius.
     Gloger: im Rang das niedrigste Mitglied eines Gerichts und oft ohne
@@ -1579,8 +1543,7 @@ entries:
   short_en: >-
     A copy that a notary or an authorised official has compared with the
     original and certified as true, from the Latin vidimus, "we have seen".
-    Such a copy could stay in the files in place of the original, and many of
-    the deeds survive only in such copies.
+    Such a copy could stay in the files in place of the original, and many of the deeds of the Hohenlohe-Ingelfingen estates survive only in such copies.
   short_de: >-
     Eine Abschrift, die ein Notar oder eine dazu befugte Amtsperson mit dem
     Original verglichen und als richtig beglaubigt hat, vom lateinischen
@@ -1619,9 +1582,7 @@ entries:
   orig: Transact
   match_de: '\bTransact\w*'
   short_en: >-
-    A formal settlement ending a dispute by concessions on both sides, with
-    the force of a judgment. The English translation renders it
-    "settlement".
+    A formal settlement ending a dispute by concessions on both sides, with the force of a judgment.
   short_de: >-
     Ein förmlicher Vergleich, der einen Streit durch beiderseitiges
     Nachgeben beendet und die Kraft eines Urteils hat.
@@ -1639,8 +1600,7 @@ entries:
   match_en: '\bindults?\b'
   short_en: >-
     A period of grace for meeting an obligation; here one granted by the
-    sovereign, during which creditors could not enforce their claims. By March
-    1809 the King of Saxony, as Duke of Warsaw, had granted landowners a
+    sovereign, during which creditors could not enforce their claims. By March 1809 the King of Saxony, as Duke of Warsaw, the Polish state Napoleon created in 1807, had granted landowners a
     general indult of three years.
   short_de: >-
     Eine Frist zur Erfüllung einer Pflicht; hier eine vom Landesherrn gewährte,
@@ -1702,8 +1662,7 @@ entries:
   match_en: "\\bInvalids'? Fund\\b"
   short_en: >-
     The Prussian fund for disabled soldiers, which invested its capital in
-    loans to landowners. It lent the Prince money in 1805 and later went to
-    law to recover it.
+    loans to landowners. In 1805 it lent 50,000 Reichsthaler on the estate of Zagórów through Prince Friedrich Ludwig of Hohenlohe-Ingelfingen's agent, Triebenfeld, and later sued for the interest before the Kammergericht in Berlin.
   short_de: >-
     Die preußische Kasse für invalide Soldaten, die ihr Kapital in Darlehen an
     Gutsbesitzer anlegte. Sie lieh dem Fürsten 1805 Geld und klagte es später
@@ -1739,7 +1698,7 @@ entries:
   short_en: >-
     A trained technical official of the Prussian building administration, who
     oversaw works for the Crown; sworn Conducteurs also measured and mapped
-    land. In the letters they survey estates for valuation, sale or settlement.
+    land. On the Hohenlohe-Ingelfingen estates they surveyed land for valuation, sale or settlement.
   short_de: >-
     Ein ausgebildeter Baubeamter der preußischen Verwaltung, der Bauten für den
     Staat beaufsichtigte; vereidigte Conducteure vermaßen und kartierten auch
@@ -1851,8 +1810,7 @@ entries:
     Before 1808 a Prussian province's "Government" (Regierung) was its high
     court of law, keeper of the mortgage book; the Chamber did the
     administering. After the reforms of 1808 the name passed to the new
-    administrative boards, and the courts became Oberlandesgerichte. The
-    deeds place estates "under the jurisdiction" of the Government at Posen.
+    administrative boards, and the courts became Oberlandesgerichte. Before 1808 the Prussian deeds place the estates around Konin "under the jurisdiction" of the Government at Posen.
   short_de: >-
     Vor 1808 war die „Regierung“ einer preußischen Provinz ihr oberstes
     Gericht und führte das Hypothekenbuch; verwaltet hat die Kammer. Nach den
@@ -1873,11 +1831,8 @@ entries:
   match_de: '\b[Ff]isc(?:us|um|o|i)\b'
   match_en: '\bFisc(?:us|um)\b'
   short_en: >-
-    The Crown's treasury as a party at law. In the documents of the 1790s the
-    property confiscated from the insurgents of 1794 fell to the Fiscus, and
-    a creditor who wanted to be paid out of it had to sue the Fiscus before
-    the provincial Government. The German texts keep the Latin case forms,
-    "vom Fisco", "gegen den fiscum".
+    The Crown's treasury as a party at law. In the 1790s the property confiscated from the insurgents of 1794 fell to the Fiscus, and
+    a creditor who wanted to be paid out of it had to sue the Fiscus before the provincial Government.
   short_de: >-
     Die Staatskasse als Partei vor Gericht. In den Dokumenten der 1790er Jahre
     fiel das den Insurgenten von 1794 eingezogene Vermögen an den Fiskus, und
@@ -1899,10 +1854,7 @@ entries:
   match_de: '\b[Ss]karbnik\w*|S\[karbnikowi\]'
   match_en: '\bTreasurer of (?:the Land of )?Wschowa\b'
   short_en: >-
-    In the old Polish Commonwealth a land office (urząd ziemski) of a district,
-    the treasurer, by the eighteenth century a title of honour without duties,
-    the lowest in rank of the land offices. Stanisław Chełmski of Łukom was
-    Treasurer of the land of Wschowa, and the documents name him by it.
+    In the old Polish Commonwealth the treasurer of a land, one of its land offices (urząd ziemski); by the eighteenth century a title of honour without duties, the lowest in rank of those offices. Stanisław Chełmski of Łukom, the neighbour and adversary of the owners of Trąbczyn, was Treasurer of the land of Wschowa and is often called by the title.
   short_de: >-
     In der alten polnischen Adelsrepublik ein Landamt (urząd ziemski) eines
     Bezirks, der Schatzmeister, im 18. Jahrhundert ein Ehrentitel ohne
@@ -1956,9 +1908,7 @@ entries:
   match_en: '\bantichresis\b'
   short_en: >-
     A pledge by which the creditor holds the debtor's land and takes its income
-    in place of interest until the debt is repaid. Prusimski's bond of 1794
-    gave Chełmski the Trąbczyn estates on these terms, "without any account",
-    and Chełmski's suit calls the bond an antichretic contract.
+    in place of interest until the debt is repaid. In 1794 Antoni Prusimski, the owner of Trąbczyn, gave his neighbour Stanisław Chełmski, who had lent him 12,000 ducats, the Trąbczyn estates on these terms, "without any account", and Chełmski's later suit calls the bond an antichretic contract.
   short_de: >-
     Eine Verpfändung, bei der der Gläubiger das Land des Schuldners besitzt
     und dessen Einkünfte statt der Zinsen zieht, bis die Schuld bezahlt ist.
@@ -1998,10 +1948,7 @@ entries:
   match_de: '\bDepartement\w*'
   match_en: '\bDepartments?\b'
   short_en: >-
-    Two things. A branch of the Prussian ministry, under a departmental
-    minister (the finance department, the military department). And a
-    district governed from one seat, as the Posen department; in the Duchy of
-    Warsaw, its provinces.
+    In Prussia, a branch of the ministry under a departmental minister (the finance department, the military department). In the Duchy of Warsaw, one of the provinces into which it was divided on the French model, each governed from one seat, such as the department of Poznań or of Kalisz.
   short_de: >-
     Zweierlei. Ein Zweig des preußischen Ministeriums unter einem
     Departementsminister (das Finanzdepartement, das Militärdepartement). Und
@@ -2045,8 +1992,7 @@ entries:
   match_en: '\bTribunals?\b'
   short_en: >-
     A court of the Duchy of Warsaw, set up on the French model with the Code
-    Napoléon; each department had a civil tribunal. The claims against the
-    Prince's estates were fought out before them.
+    Napoléon; each department had a civil tribunal. The claims against the former estates of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, and Michalina Prusimska's to them, were fought out before them.
   short_de: >-
     Ein Gericht des Herzogtums Warschau nach französischem Vorbild, mit dem
     Code Napoléon; jedes Departement hatte ein Ziviltribunal. Die Ansprüche
@@ -2141,7 +2087,7 @@ entries:
   match_en: '\bKammergericht\w*'
   short_en: >-
     The supreme court in Berlin, for the Mark Brandenburg and for cases the
-    Crown sent to it. The Invalids' Fund sued over the Prince's loan there.
+    Crown sent to it. The Invalids' Fund sued there over its loan of 1805 on the Prince of Hohenlohe-Ingelfingen's estate of Zagórów.
     Not a court of the Chamber.
   short_de: >-
     Das oberste Gericht in Berlin, für die Mark Brandenburg und für Sachen,
@@ -2162,8 +2108,7 @@ entries:
     The lowest court of the Duchy of Warsaw, one in each district (sąd
     pokoju), on the French model: it tried small cases, sought settlements and
     kept guardianships and records. In 1808 it took over the business of the
-    abolished patrimonial courts; the court at Konin received the lease file of
-    1811.
+    abolished patrimonial courts; in 1811 the peace court at Konin was asked to collect the costs of a settler's lease on Trąbczyn.
   short_de: >-
     Das unterste Gericht des Herzogtums Warschau, eines in jedem Kreis (sąd
     pokoju), nach französischem Vorbild: es entschied kleine Sachen, suchte
@@ -2186,8 +2131,7 @@ entries:
   short_en: >-
     The legal officer of a military court: the lawyer of a regiment, garrison
     or fortress government, who conducted its proceedings and kept its record.
-    A Gouvernements-Auditeur at Breslau certified several of the copies of the
-    grants.
+    An auditeur of the governor's court at Wrocław certified several copies of the King's grants of estates to Prince Friedrich Ludwig of Hohenlohe-Ingelfingen.
   short_de: >-
     Der Jurist eines Militärgerichts bei einem Regiment, einer Garnison oder
     einem Festungsgouvernement, der dessen Verfahren führte und die Akten
@@ -2246,8 +2190,7 @@ entries:
   match_en: '\bin solidum\b'
   short_en: >-
     Jointly and severally: each of several debtors answers for the whole
-    debt, "einer für beyde", so the creditor may sue any one of them. The
-    communities that took over Betsche were bound so.
+    debt, so the creditor may sue any one of them. The townspeople and villages that bought the lordship of Pszczew (Betsche) from Prince Friedrich Ludwig of Hohenlohe-Ingelfingen in 1804 were bound so.
   short_de: >-
     Gesamtschuldnerisch: jeder von mehreren Schuldnern haftet für die ganze
     Schuld, „einer für beyde“, und der Gläubiger kann sich an jeden halten.
@@ -2287,8 +2230,7 @@ entries:
   match_en: '\bjustice commissar\w*'
   short_en: >-
     A Prussian lawyer admitted to represent parties before the courts and to
-    draw up their instruments, an attorney; many were also notaries. One was
-    engaged to have the Prince's title entered in the mortgage book.
+    draw up their instruments, an attorney; many were also notaries. One was engaged to have Prince Friedrich Ludwig of Hohenlohe-Ingelfingen entered in the mortgage book as owner of the estates the King gave him.
   short_de: >-
     Ein preußischer Jurist, zugelassen, Parteien vor Gericht zu vertreten und
     ihre Urkunden aufzusetzen, ein Anwalt; viele waren zugleich Notare. Einer
@@ -2310,8 +2252,7 @@ entries:
   match_en: '\bSerene Highness\b|\bMost Serene\b'
   short_en: >-
     The style of a prince or an elector. "Your Serene Highness" (Ewr
-    Durchlaucht) is how his agents and officials address the Prince, often
-    several times a page; its many forms are formulas, not flattery.
+    Durchlaucht) is how the agents and officials of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen address him, often several times in one letter; its many forms are formulas, not flattery.
   short_de: >-
     Die Anrede für Fürsten und Kurfürsten. „Ewr Durchlaucht“ reden seine
     Beauftragten und Beamten den Fürsten an, oft mehrmals auf einer Seite; die
@@ -2331,8 +2272,7 @@ entries:
   match_en: '\bYour Lordship\b'
   short_en: >-
     The form in which a sovereign addressed a prince, and princes each other:
-    roughly "Your Grace", as between equals or near-equals. The King writes to
-    the Prince as "Ew. Liebden"; the English renders it "Your Lordship".
+    roughly "Your Grace", as between equals or near-equals. The King of Prussia writes to Prince Hohenlohe-Ingelfingen as "Ew. Liebden", Your Lordship.
   short_de: >-
     Die Anrede eines Landesherrn an einen Fürsten und der Fürsten
     untereinander, unter Gleichen oder fast Gleichen. Der König schreibt dem
@@ -2353,9 +2293,7 @@ entries:
   match_en: '\bRight Honourable\b'
   short_en: >-
     "High well-born": the style of every noble, baron or untitled. Below it
-    came Wohlgeboren, which some chanceries gave the lesser nobility and which
-    went to commoners whose standing came close to noble. The English renders
-    them "Right Honourable" and "Your Honour".
+    came Wohlgeboren, which some chanceries gave the lesser nobility and which went to commoners whose standing came close to noble: in English, "Right Honourable" and "Your Honour".
   short_de: >-
     Die Anrede für jeden Adligen, Freiherrn wie einfachen Edelmann. Darunter
     stand Wohlgeboren, das manche Kanzleien dem niederen Adel gaben und das
@@ -2418,7 +2356,7 @@ entries:
   short_en: >-
     The signature line of a letter to a superior: "most humble servant", "most
     obedient servant". The degree mattered: unterthänigst is a step above
-    unterthänig. A Knecht, as Triebenfeld signs to the Prince, is humbler than
+    unterthänig. A Knecht, as the Prince's agent Triebenfeld signs to him, is humbler than
     a Diener: by then the word was used only to persons far above the writer,
     to mark the distance.
   short_de: >-
@@ -2487,8 +2425,7 @@ entries:
     - '\b(?:der|dem|den|des|die|Der|Dem|Den|Die) (?P<w>p\.?)(?= [A-ZÄÖÜ])'
   short_en: >-
     Short for perge, perge, "and so on": it stands for titles too long to write
-    out. "Dem p Hawich" is Hawich with his titles; after a name or a title list
-    it is a polite "etc.", which the English gives.
+    out. "Dem p Hawich" is the estate official Hawich with his titles; after a name or a title list it is a polite "etc.".
   short_de: >-
     Abkürzung für perge, perge, „und so weiter“: sie steht für Titel, die zu
     lang zum Ausschreiben sind. „Dem p Hawich“ ist Hawich mit seinen Titeln.
@@ -2505,8 +2442,7 @@ entries:
   match_en: '\bdeign\w*'
   short_en: >-
     To be graciously pleased to: the verb for anything a superior does, in
-    letters written up to him. "Ew. Durchlaucht geruhen ..." asks or thanks;
-    the English renders it "deign" or "be pleased".
+    letters written up to him. "Ew. Durchlaucht geruhen ..." asks or thanks: "may Your Serene Highness deign" or "be pleased".
   short_de: >-
     Die Höflichkeitsform für alles, was ein Höherstehender tut, in Briefen an
     ihn. „Ew. Durchlaucht geruhen …“ bittet oder dankt.
@@ -2656,7 +2592,7 @@ entries:
   short_en: >-
     The Prussian province made from the Polish lands taken in the partitions
     of 1793 and 1795, with Posen, Kalisch and Warsaw. It lasted until 1807.
-    Trąbczyn and the Prince's other Polish estates lay in it.
+    The estates of Trąbczyn and Zagórów, near Konin, lay in it.
   short_de: >-
     Die preußische Provinz aus den polnischen Gebieten, die in den Teilungen
     von 1793 und 1795 an Preußen fielen, mit Posen, Kalisch und Warschau. Sie
@@ -2667,8 +2603,7 @@ entries:
     1793, and Warsaw with the lands around it in the Third, of 1795, and made
     of them the province of South Prussia. The estates of Poles who had joined
     the Kościuszko uprising of 1794 were confiscated, and in 1796 the King gave
-    many of them to Prussian generals and officials; that is how Trąbczyn came
-    to the Prince of Hohenlohe-Ingelfingen. The province was run on Prussian
+    many of them to Prussian generals and officials; that is how Trąbczyn, confiscated from Antoni Prusimski, came to the Prussian general Prince Friedrich Ludwig of Hohenlohe-Ingelfingen. The province was run on Prussian
     lines, with Chambers at Posen, Petrikau (later Kalisch) and Warsaw, and the
     Prussian mortgage book. The Polish courts were abolished in 1793 and Poles
     excluded from judicial office in 1795; in 1796 the Prussian General Law
@@ -2712,10 +2647,7 @@ entries:
     By the Peace of Tilsit in 1807 Prussia gave up most of what it had taken
     from Poland, and Napoleon made of it the Duchy of Warsaw, with Friedrich
     August, King of Saxony, as Duke. It had a constitution, French-style
-    departments under prefects, and the Code Napoléon. For the Prince, a
-    Prussian general, it meant estates in a foreign state allied to France:
-    sequestrations, claims by the former owners' family, and courts he could
-    not influence. Russian troops occupied the Duchy in 1813, and the Congress
+    departments under prefects, and the Code Napoléon. For Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, a Prussian general, it meant estates in a foreign state allied to France: sequestration, the claim of Antoni Prusimski's daughter to Trąbczyn, and courts he could not influence. Russian troops occupied the Duchy in 1813, and the Congress
     of Vienna divided it, the west going back to Prussia as the Grand Duchy of
     Posen.
   long_de: >-
@@ -2761,8 +2693,7 @@ entries:
   match_en: '\bCongress\b'
   short_en: >-
     The meeting of the European powers in 1814–15 that redrew the map after
-    Napoleon. Triebenfeld was there for the Prince, petitioning for his lost
-    Polish estates.
+    Napoleon. Peter Friedrich von Triebenfeld was there for Prince Friedrich Ludwig of Hohenlohe-Ingelfingen, petitioning for the Polish estates he had lost in 1807.
   short_de: >-
     Die Versammlung der europäischen Mächte 1814/15, die nach Napoleon die
     Landkarte neu ordnete. Triebenfeld war für den Fürsten dort und bemühte
@@ -2773,9 +2704,7 @@ entries:
     hardest questions: Russia wanted it whole, Prussia wanted its Polish
     provinces back. The compromise gave most of it to Russia as the Kingdom of
     Poland and the west to Prussia as the Grand Duchy of Posen, with the
-    border along the Prosna. Triebenfeld's letters from Vienna follow the
-    Prince's attempt to recover his estates there, and the border question that
-    decided on which side Trąbczyn would lie.
+    border along the Prosna. In Vienna Triebenfeld pressed the Prince's claim to his lost estates and followed the border question that decided on which side Trąbczyn would lie.
   long_de: >-
     Von September 1814 bis Juni 1815 berieten die Sieger über Napoleon in Wien
     über die Neuordnung Europas. Das Schicksal des Herzogtums Warschau gehörte
@@ -2797,7 +2726,7 @@ entries:
   short_en: >-
     The three divisions of the Polish–Lithuanian Commonwealth between Russia,
     Prussia and Austria, in 1772, 1793 and 1795, which ended its existence as
-    a state. The estates in these documents came to Prussia in the second.
+    a state. Trąbczyn, Zagórów and the country around Konin came to Prussia in the second.
   short_de: >-
     Die drei Aufteilungen Polen-Litauens zwischen Russland, Preußen und
     Österreich 1772, 1793 und 1795, mit denen es als Staat zu bestehen
