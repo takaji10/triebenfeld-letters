@@ -202,12 +202,12 @@ thead th a { color: inherit; }
    per item (2026-10-29), in the look of the home page's .card - the card
    clickable as a whole through its title link, the item's first page as
    its thumb where the file is here (a blank-page placeholder where not). */
-.sources { max-width: 90rem; margin: 2rem 0 3rem; display: grid; gap: 1.2rem; }
+.sources { max-width: 90rem; margin: 1.5rem 0 2.5rem; display: grid; gap: .7rem; }
 .source {
   position: relative;
-  display: grid; grid-template-columns: 7rem 1fr; gap: .1rem 1.4rem;
+  display: grid; grid-template-columns: 4.5rem 1fr; gap: .1rem 1.1rem;
   border: 1px solid var(--rule); border-radius: 3px; background: var(--paper-2);
-  padding: 1.4rem 1.6rem;
+  padding: .8rem 1.1rem;
   /* The card may shrink on a phone: without this its automatic minimum is
      the thumb image's own 400px width, and every card overflows the screen. */
   min-width: 0;
@@ -226,9 +226,9 @@ thead th a { color: inherit; }
    URL in a Published line ran 390px unbreakable) may break anywhere: without
    this one card forced every card of the list wider than a phone. */
 .source-body { min-width: 0; overflow-wrap: anywhere; }
-.source h2 { margin: 0; font-size: 1.15rem; }
+.source h2 { margin: 0; font-size: 1.05rem; line-height: 1.3; }
 .source h2 a { color: inherit; }
-.source p { margin: .9rem 0 0; max-width: 56rem; }
+.source p { margin: .4rem 0 0; max-width: 56rem; }
 /* The card's clickable whole: the title link stretched over it. Inner
    links (the literature's sub-item) stand above the overlay. */
 .source-link { color: inherit; }
@@ -258,9 +258,12 @@ thead th a { color: inherit; }
 .source-tools + .sources { margin-top: 1rem; }
 /* The standard card (_includes/source-card.html): the short description and
    the original title under the title, the type tags at the foot. */
-.source-title { margin: .5rem 0 0; color: var(--ink-soft); }
-.source-original { margin: .2rem 0 0; color: var(--ink-soft); }
-.source .source-types { margin-top: .9rem; }
+.source-title { margin: .25rem 0 0; color: var(--ink-soft); font-size: .92rem; line-height: 1.4; }
+.source-original { margin: .1rem 0 0; color: var(--ink-soft); font-size: .92rem; }
+.source .source-types { margin-top: .45rem; }
+.source .source-facts { gap: 1.1rem; margin-top: .45rem; }
+.source .source-facts dd { font-size: .92rem; }
+.source .source-archive { margin-top: .05rem; }
 .source-facts:empty { display: none; }
 /* A literature work with no picture: the author's surname, the short title and
    the year, typeset on a tinted paper-coloured box of the thumb's size. */
@@ -316,7 +319,7 @@ thead th a { color: inherit; }
 .src-icon--c .duo { fill: color-mix(in srgb, var(--accent) 24%, transparent); }
 
 @media (max-width: 40rem) {
-  .source { grid-template-columns: 4.5rem 1fr; gap: .1rem 1rem; padding: 1rem; }
+  .source { grid-template-columns: 3.5rem 1fr; gap: .1rem .8rem; padding: .7rem .8rem; }
 }
 
 .unit { max-width: var(--wide); }
