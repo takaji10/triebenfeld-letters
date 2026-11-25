@@ -5233,3 +5233,13 @@ viewbar. Lessons:
   only the first carries the `id` anchor, and the A-Z and mentions views
   move the first cards into one list and hide the rest (people-index.js).
   The relevant people come from `reference/people_relevant.yml`.
+- **Removing a glossary entry** leaves its words unruled: run
+  `pipeline/review/glossary_candidates.py --check`, and put each word it
+  lists under `excluded:` with the reason (2026-11-25: the twenty letter
+  formulas and courtesy styles, the editor's ruling). Check first whether
+  the English keeps the term as written: "L. S." does, so *locus sigilli*
+  stayed.
+- **A unit the English renders inconsistently keeps its own name**
+  (the editor, 2026-11-25, of grzywna): fix the forms with a rule in
+  `reference/english_forms.yml` (the translations) and by hand in the
+  literature's english.md, and give the unit a glossary entry.

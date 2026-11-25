@@ -28,6 +28,15 @@
 
 rules:
 
+- id: grzywna-plural
+  pattern: "\\bgrzyw(?:ien|nas)\\b"
+  replace: "grzywny"
+  why: >-
+    The editor, 2026-11-25: the Polish grzywna keeps its own name in the
+    English, in the glossary's forms grzywna and grzywny; never the Polish
+    genitive "grzywien" or an English "grzywnas" (HOUSE_STYLE, "Units of
+    measurement and money").
+
 - id: friedrich-dor
   pattern: "\\b(?!Friedrich d'or)(?:Friedrichs?|Fr|fr|F|f)\\.? ?d['’]or\\b"
   replace: "Friedrich d'or"

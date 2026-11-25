@@ -1,6 +1,6 @@
 # The people the People page shows first in each era, and the ones that get a
-# full person page. Claude's proposal of 2026-11-24, awaiting the editor's
-# approval (docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C1). The order here is the
+# full person page. Claude's proposal of 2026-11-24, approved by the
+# editor 2026-11-25 (docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C1). The order here is the
 # order the page shows them in. Read by pipeline/build/build_site_data.py.
 relevant:
   - mikolaj-podskarbi-ladzki

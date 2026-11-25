@@ -397,7 +397,7 @@ The entry records it as a village, gmina Emilienheim, parish of Zagórów, powia
 
 ### Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
 
-Village and forestry settlement; gm. Trąbczyn, par. Zagórów; 21 versts. 6 houses; 381 inhabitants with Bukowa and Imielno; village 7 holdings, 64 morgi, of the Łukom estate
+Village and forestry settlement; gm. Trąbczyn, par. Zagórów; 21 versts. 6 houses; 381 inhabitants with Bukowa and Imielno; village 7 holdings, 64 Morgen, of the Łukom estate
 
 </div>
 </section>
@@ -822,7 +822,7 @@ Jarmuszewek lub Wrąbczyn, folw. , powiat słupecki, gm. Emilienheim, par. Zagó
 
 ### Wrąbczyn (Wójtowstwo Jarmużówka) [Słownik geograficzny, t. XIII, p. 773, sub 11]
 
-Wójtowstwo Jarmużówka (Jarmuszewek), folwark; gm. Emilienheim, par. Zagórów; 1886: 171 morgi, 7 brick and 3 wooden buildings, peat
+Wójtowstwo Jarmużówka (Jarmuszewek), folwark; gm. Emilienheim, par. Zagórów; 1886: 171 Morgen, 7 brick and 3 wooden buildings, peat
 
 </div>
 </section>
@@ -873,7 +873,7 @@ Zbiersk, w dok. z 1103 r. Sebersco, wś, kol, fol. i os. , pow. kaliski, gm. i p
 
 ### Zbiersk Kolonia (Zbiersk) [Słownik geograficzny, t. XIV, p. 516]
 
-Zbiersk: village, colony, folwark and settlement; gm. and par. Zbiersk, powiat kaliski. Colony 30 houses / 336 inhabitants, its own school; 1827 colony Holendry 22 / 117; 1886 23 holdings, 420 morgi
+Zbiersk: village, colony, folwark and settlement; gm. and par. Zbiersk, powiat kaliski. Colony 30 houses / 336 inhabitants, its own school; 1827 colony Holendry 22 / 117; 1886 23 holdings, 420 Morgen
 
 </div>
 </section>

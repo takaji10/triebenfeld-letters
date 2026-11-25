@@ -29,7 +29,8 @@ repository; they are on the working machine.
 
 ## Place coordinates (2026-11-24, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, A1)
 
-- **Positions from Wikidata, checked by Claude.** 114 places outside the
+- **Positions from Wikidata, checked by Claude** (accepted by the editor
+  "on first glance", 2026-11-25). 114 places outside the
   gazetteer now take their position from Wikidata (`wikidata:` in
   `reference/place_coords.yml`), each match chosen by Claude against the
   place's German name, kind and the documents' context. Several earlier

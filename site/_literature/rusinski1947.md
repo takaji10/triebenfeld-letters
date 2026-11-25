@@ -6258,11 +6258,11 @@ Gdy iaka krnąbność przeciwko zwierzchności dworu lub sołeckiey albo ławnic
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-to poverty; it is therefore the most just of things that the communities should have their own secure treasury, in which in genuine misfortune they might find help. Accordingly every one of the rent-payers, of all the communities in general, will be bound to pay without fail into the community chest, on every feast of St Wojciech, into the hands of a ławnik or of the sołtys, one grzywna, that is one złoty and fifteen copper groszes; in case of non-payment of that grzywna he will incur the penalty of paying two grzywnas. This chest is to remain with the sołtys under two different locks, for which the ławniks are to have the two keys, but no one may open it without the other and without the sołtys. If, however, one of them should fall ill at the time and not be at home when the chest needs to be opened, the key is then to be entrusted to the senior farmer; and on every feast of St Wojciech, when the communities are called together, this chest is to be counted over, and it is never to be lent to anyone without the summons of at least ten farmers and without an evident [cause]; and even then for no longer than half a year, except in case of fire, for which money may be borrowed from the chest for up to three years, and after those years repaid without interest.
+to poverty; it is therefore the most just of things that the communities should have their own secure treasury, in which in genuine misfortune they might find help. Accordingly every one of the rent-payers, of all the communities in general, will be bound to pay without fail into the community chest, on every feast of St Wojciech, into the hands of a ławnik or of the sołtys, one grzywna, that is one złoty and fifteen copper groszes; in case of non-payment of that grzywna he will incur the penalty of paying two grzywny. This chest is to remain with the sołtys under two different locks, for which the ławniks are to have the two keys, but no one may open it without the other and without the sołtys. If, however, one of them should fall ill at the time and not be at home when the chest needs to be opened, the key is then to be entrusted to the senior farmer; and on every feast of St Wojciech, when the communities are called together, this chest is to be counted over, and it is never to be lent to anyone without the summons of at least ten farmers and without an evident [cause]; and even then for no longer than half a year, except in case of fire, for which money may be borrowed from the chest for up to three years, and after those years repaid without interest.
 
 Penalties for offenders
 
-If any insubordination against the authority of the manor, or of the sołtys or of the ławniks, should appear in any of the rent-payers, or he transgresses even the smallest point of this ordinance, then, once this is proven to him, he is to pay three grzywnas into the community chest, that is four and a half złotys. If a neighbour does damage to a neighbour in the field or in the barn, or causes an uproar, a quarrel or plain abuse of the house, or in an inn — God forbid — a beating (this is to be understood as applying to outsiders as well), and the matter is brought before the village court, then the wrong done to the injured party is to be made good as soon as it can be assessed; as in cases of quarrels and abuse, that is three grzywnas for the injured party, and the offender is to give one and a half to the chest. If on a Sunday or on a holy day ordered for public observance in the Kingdom of Poland any of the rent-payers presumes to go to town to sell or to buy, and as a Catholic fails through laziness to be found in his parish church at Kicin, he is to be fined two grzywnas to the community chest. If anyone — God preserve him — is careless with fire in his house, as by carrying a burning splinter about the yard or the buildings, or using a candle without a lantern, or not keeping a chimney or ladders, or failing to sweep out the soot on a Saturday or a Friday, or drying splinters at, and yet not properly on, the household oven, he is to be fined two grzywnas to the chest; and if from such an occasion a fire of any kind should break out, the injured party is to pursue the wrongdoer for damages on his estate. Should God permit an unlucky fire at any of the farmers', then anyone who is lazy about helping to save the property and does not come with water incurs a fine of three grzywnas; 10*
+If any insubordination against the authority of the manor, or of the sołtys or of the ławniks, should appear in any of the rent-payers, or he transgresses even the smallest point of this ordinance, then, once this is proven to him, he is to pay three grzywny into the community chest, that is four and a half złotys. If a neighbour does damage to a neighbour in the field or in the barn, or causes an uproar, a quarrel or plain abuse of the house, or in an inn — God forbid — a beating (this is to be understood as applying to outsiders as well), and the matter is brought before the village court, then the wrong done to the injured party is to be made good as soon as it can be assessed; as in cases of quarrels and abuse, that is three grzywny for the injured party, and the offender is to give one and a half to the chest. If on a Sunday or on a holy day ordered for public observance in the Kingdom of Poland any of the rent-payers presumes to go to town to sell or to buy, and as a Catholic fails through laziness to be found in his parish church at Kicin, he is to be fined two grzywny to the community chest. If anyone — God preserve him — is careless with fire in his house, as by carrying a burning splinter about the yard or the buildings, or using a candle without a lantern, or not keeping a chimney or ladders, or failing to sweep out the soot on a Saturday or a Friday, or drying splinters at, and yet not properly on, the household oven, he is to be fined two grzywny to the chest; and if from such an occasion a fire of any kind should break out, the injured party is to pursue the wrongdoer for damages on his estate. Should God permit an unlucky fire at any of the farmers', then anyone who is lazy about helping to save the property and does not come with water incurs a fine of three grzywny; 10*
 
 </div>
 </section>
@@ -6284,7 +6284,7 @@ Każdy okupny (oprócz tych, którzy osobne prawa mieć mogą) Klucza Kicińskie
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-but whoever comes first to the rescue with water, or in any other unhappy accident comes to the aid of life or limb, is to be paid six grzywnas by the community chest without delay as recompense, and the village court is to see to this most solemnly. None of the rent-payers remaining under this present law in the Kicin estate complex is to contract a debt upon his huba and buildings from anyone without first declaring it in the village court and receiving written permission from the manor; this permission he must in turn lay before the village court, and only then, if the court judges that there is genuine need of it, is it to accept it; and if the court sees that there is no just reason for contracting the debt, or that the borrower is already heavily indebted, the manorial permission is to be carried back to the manor and the reasons for non-acceptance laid before it, which the manor is to accept as just; otherwise the lender will have no claim against the debtor. Every one of the rent-payers is to take care that all his children, or at least one of them, especially the sons, can read, write and count; whoever neglects this is to pay three grzywnas to the chest.
+but whoever comes first to the rescue with water, or in any other unhappy accident comes to the aid of life or limb, is to be paid six grzywny by the community chest without delay as recompense, and the village court is to see to this most solemnly. None of the rent-payers remaining under this present law in the Kicin estate complex is to contract a debt upon his huba and buildings from anyone without first declaring it in the village court and receiving written permission from the manor; this permission he must in turn lay before the village court, and only then, if the court judges that there is genuine need of it, is it to accept it; and if the court sees that there is no just reason for contracting the debt, or that the borrower is already heavily indebted, the manorial permission is to be carried back to the manor and the reasons for non-acceptance laid before it, which the manor is to accept as just; otherwise the lender will have no claim against the debtor. Every one of the rent-payers is to take care that all his children, or at least one of them, especially the sons, can read, write and count; whoever neglects this is to pay three grzywny to the chest.
 
 |
 
@@ -6326,7 +6326,7 @@ They are to keep the ditches (so that the water has its fall), the dams by the m
 
 So that everyone may know and understand all this, when the community has assembled twice a year at the village court, that is on St Martin's day and on St Wojciech's day, at the sołtys's at Czerwonak, it is to be read out aloud and freely.
 
-Since it is the honour of our leaseholders of the Kicin estate complex that is at stake, the last point concerns theft, namely that if there should appear the least sign not only of actual theft but of complicity with a thief, such a person, as an enemy of the common good, is to be expelled without delay; his estate having been sold, the injured party is to be compensated as the case shows, ten grzywnas are to be paid into the community chest, and the remainder given to the culprit.
+Since it is the honour of our leaseholders of the Kicin estate complex that is at stake, the last point concerns theft, namely that if there should appear the least sign not only of actual theft but of complicity with a thief, such a person, as an enemy of the common good, is to be expelled without delay; his estate having been sold, the injured party is to be compensated as the case shows, ten grzywny are to be paid into the community chest, and the remainder given to the culprit.
 
 So that these our present provisions may carry the greater weight, we append them with our own hand together with the impression of the seal. Given at Kicin on the second day of February of the year one thousand seven hundred and eighty-one.
 
@@ -6404,11 +6404,11 @@ Gdyby zaś który. [z] sąsiadów sołtysowi ławnikom jego niepolitycz. i nymi,
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-2. If a neighbour addresses the sołtys or his ławniks in discourteous or abusive words, or threatens them with a weapon, and when he comes to court refuses to listen, he is to be fined two good grzywnas without any [exception]. If he then behaves worse still, or threatens blows, he is to be sentenced by their judgement to a heavier penalty.
+2. If a neighbour addresses the sołtys or his ławniks in discourteous or abusive words, or threatens them with a weapon, and when he comes to court refuses to listen, he is to be fined two good grzywny without any [exception]. If he then behaves worse still, or threatens blows, he is to be sentenced by their judgement to a heavier penalty.
 
 3. But if anyone boldly and violently attacks the sołtys or his ławniks, and having given rein to his anger [fol. 6] refuses to obey, or will not submit, then whoever beats or wounds him in that event, by day or by night, goes free and incurs no penalty, nor is any court needed.
 
-4. Whoever is sent by the sołtys on official business, and anyone presumes to abuse or beat him, shall be fined two good grzywnas.
+4. Whoever is sent by the sołtys on official business, and anyone presumes to abuse or beat him, shall be fined two good grzywny.
 
 5. When the sołtys holds court with the ławniks, no woman is to be present, unless she herself has some complaint of her own, or her husband is not at home. Otherwise a woman who offends in this is to pay a fine of five groszes.
 
@@ -6420,9 +6420,9 @@ Gdyby zaś który. [z] sąsiadów sołtysowi ławnikom jego niepolitycz. i nymi,
 
 9. When there is any purchase of grain or of cattle, and a sealing drink (litkup) has already been drunk at the purchase, the party who does not keep the bargain is to give a barrel of beer as a penalty.
 
-10. God forbid that a building should catch fire and burn down through a thunderbolt or through the doing of wicked men; the neighbours are then to help him out of Christian charity — each huba contributing, at 100 grzywnas, the 15th grosz, according to the assessment of the damage — and they are to help him with timber, reed and carting.
+10. God forbid that a building should catch fire and burn down through a thunderbolt or through the doing of wicked men; the neighbours are then to help him out of Christian charity — each huba contributing, at 100 grzywny, the 15th grosz, according to the assessment of the damage — and they are to help him with timber, reed and carting.
 
-11. God forbid that a fire from carelessness should break out in the village, in one of the houses: any neighbour who will not come to the rescue and to the extinguishing is to be [fined] three good grzywnas.
+11. God forbid that a fire from carelessness should break out in the village, in one of the houses: any neighbour who will not come to the rescue and to the extinguishing is to be [fined] three good grzywny.
 
 12. Whoever at a fire takes someone else's axe, hatchet, weborek [?], hoe or any other utensil belonging to another, is to bring those things to the sołtys and deposit them with him, so that they may be returned to their owner, on pain of a fine of one good grzywna.
 
@@ -6438,11 +6438,11 @@ Gdyby zaś który. [z] sąsiadów sołtysowi ławnikom jego niepolitycz. i nymi,
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
-13. No one is to presume to go and challenge another before his porch or his door. Whoever does this incurs a fine of three good grzywnas.
+13. No one is to presume to go and challenge another before his porch or his door. Whoever does this incurs a fine of three good grzywny.
 
 14. If anyone presumes to waylay another on the road, in the field or in the village, and this can be proved by two reputable witnesses, he is to be punished according to the assessment of the seriousness of the matter. [fol. 7]
 
-15. If one neighbour reviles another, or women abuse one another with unseemly words, to the damage of their honour, and there are two steady witnesses, they are to be fined two good grzywnas; the unseemly words [are to] be proved, or honour made good, at the discretion of the court.
+15. If one neighbour reviles another, or women abuse one another with unseemly words, to the damage of their honour, and there are two steady witnesses, they are to be fined two good grzywny; the unseemly words [are to] be proved, or honour made good, at the discretion of the court.
 
 16. One neighbour is to help another with manure and water in the building and fitting out of his farmyard, when this is needed. Whoever will not do this is liable to a fine of one good grzywna.
 
@@ -6450,7 +6450,7 @@ Gdyby zaś który. [z] sąsiadów sołtysowi ławnikom jego niepolitycz. i nymi,
 
 18. If anyone drives across another's sown field, he is to bear a fine of one grzywna and make good the damage.
 
-19. If the sołtys orders the pastures to be cleaned, the boundaries to be finished, the outflow of the waters to be cleaned and sluiced, and whatever ditches may be useful to the village, whoever does not obey this order and does not do his part is liable to a fine of two grzywnas and must complete the said work within a week, on pain of a double penalty.
+19. If the sołtys orders the pastures to be cleaned, the boundaries to be finished, the outflow of the waters to be cleaned and sluiced, and whatever ditches may be useful to the village, whoever does not obey this order and does not do his part is liable to a fine of two grzywny and must complete the said work within a week, on pain of a double penalty.
 
 20. One neighbour is to keep and maintain the boundaries of another, whether ditches or fences, as the place requires. Whoever does not do this, if damage results, is to make good and pay for the damage; and whatever complaint there may be, ten groszes always fall to the sołtys.
 
@@ -6488,9 +6488,9 @@ pieniądze powinien od tegoż nazad 33. Gdyby od sołtysa nakaz był świnie klo
 
 Whoever has no money to redeem the cattle is to find those who will stand surety for him, and leave a twofold pledge, to the sołtys's satisfaction.
 
-29. If anyone, when his cattle is impounded and driven to the sołtys, opposes this and wants to take the cattle back by force, he is to be fined two good grzywnas.
+29. If anyone, when his cattle is impounded and driven to the sołtys, opposes this and wants to take the cattle back by force, he is to be fined two good grzywny.
 
-30. If anyone beats impounded cattle or throws things at it, so that the animal suffers harm by it, he is to make good the damage and is to be fined three good grzywnas.
+30. If anyone beats impounded cattle or throws things at it, so that the animal suffers harm by it, he is to make good the damage and is to be fined three good grzywny.
 
 31. No one is to milk impounded cattle, or make use of impounded horses, or ride on them. Whoever contravenes this is to be fined one grzywna.
 
@@ -6548,7 +6548,7 @@ Rozkazuję tedy soltysowi i ławnikom serio, ażeby nad pomienionym prawem I szt
 
 and not sell it secretly, so that no one leaves debts behind him. Whether it is
 
-under the lord or under the community, the buyer is always to give the neighbours a barrel of beer when he buys. And his own kinsmen, who are always the nearest to the purchase, are also to give the neighbours a barrel of beer. — 44. If anyone wishes to buy another person's huba or anyone's estate, he must first give due notice at the sołtys's, with a barrel of beer; if there is a neighbour who can buy that huba, and such a person is found [in] the village, he is to have precedence in the purchase of this huba and be admitted to the purchase; but the neighbour who borders on the huba being sold has the nearer right of purchase. If there are kinsmen from that huba, they are the nearest to receive the huba being sold, and they are not to be barred from it in any way. Whoever opposes this is to pay to the lord a fine of ten good grzywnas, and to the neighbours, for this presumption, a barrel of beer by way of penalty.
+under the lord or under the community, the buyer is always to give the neighbours a barrel of beer when he buys. And his own kinsmen, who are always the nearest to the purchase, are also to give the neighbours a barrel of beer. — 44. If anyone wishes to buy another person's huba or anyone's estate, he must first give due notice at the sołtys's, with a barrel of beer; if there is a neighbour who can buy that huba, and such a person is found [in] the village, he is to have precedence in the purchase of this huba and be admitted to the purchase; but the neighbour who borders on the huba being sold has the nearer right of purchase. If there are kinsmen from that huba, they are the nearest to receive the huba being sold, and they are not to be barred from it in any way. Whoever opposes this is to pay to the lord a fine of ten good grzywny, and to the neighbours, for this presumption, a barrel of beer by way of penalty.
 
 I therefore earnestly command the sołtys and the ławniks to hold firmly to the said law and its penalties and to keep them, on pain of severe penalty from the manor. This statute and constitution is to be kept and carried out as diligently as possible; I permit no one to act against these laws. For surer assurance and confirmation I seal with my own natural seal knowingly and sign. Given in my hereditary estate of Żerków.
 

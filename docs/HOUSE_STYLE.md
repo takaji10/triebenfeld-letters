@@ -322,8 +322,11 @@ rule:
   the singular and the plural the glossary gives: *Morgen* (also for the
   Polish *morga*, which is the same unit; never "morgi", "morgów",
   "morgen"), *Hufe*, *Hufen*, rod, Reichsthaler, Groschen.
-- **The Polish grzywna is the mark**: "500 marks (grzywny)" at first
-  mention, "marks" after; never "grzywnas".
+- **The unit the source has** (the editor, 2026-11-25: the English did not
+  use "marks" consistently, so the original unit stays, with a glossary
+  entry): a Polish grzywna is *grzywna*, plural *grzywny* ("300 grzywny";
+  never "grzywien" or "grzywnas"), linked to the glossary; a Latin *marca*
+  is the mark.
 - **Polish money stays in the form English reference works use**: złoty
   (plural złoty), grosz, groszy ("12 złoty 15 groszy").
 - A unit the glossary does not yet head is added to it before it is used

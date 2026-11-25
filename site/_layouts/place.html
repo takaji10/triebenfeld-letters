@@ -16,7 +16,8 @@ layout: default
 
 <div class="prose person-page place-page">
   <p class="eyebrow"><a href="{{ u_places | relative_url }}">{{ t.places_eyebrow }}</a></p>
-  <h1>{% if lang == 'de' %}{{ pl.heading_de }}{% else %}{{ pl.heading }}{% endif %}</h1>
+  {%- assign ipa = site.data.pronunciations[page.place] %}
+  <h1>{% if lang == 'de' %}{{ pl.heading_de }}{% else %}{{ pl.heading }}{% endif %}{% if ipa %} <span class="ipa" lang="pl-fonipa" title="{% if lang == 'de' %}Aussprache{% else %}Pronunciation{% endif %}">/{{ ipa }}/</span>{% endif %}</h1>
   <p class="standfirst">{% if lang == 'de' %}{{ pl.standfirst_de }}{% else %}{{ pl.standfirst_en }}{% endif %}</p>
 
   {%- if pl.sources.size > 0 %}

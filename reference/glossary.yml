@@ -201,6 +201,31 @@ entries:
   check_against: Krünitz, Oekonomische Encyklopädie
   checked: true
 
+- id: grzywna
+  kind: money
+  lang: pl
+  head_en: grzywna (plural grzywny)
+  head_de: grzywna (Plural grzywny)
+  orig: grzywna, grzywny, grzywien
+  match_de: '\bgrzyw(?:na|ny|ien|nę|nach|nami|nom)\b'
+  match_en: '\bgrzyw(?:na|ny)\b'
+  short_en: >-
+    The Polish mark (Latin marca, German Mark): first a weight of about half a
+    pound for silver and gold, from which the coins were struck, 48 groszy to
+    the grzywna of Kraków from the fourteenth century; then a unit of account,
+    in which the courts set fines and penalties, as in the boundary decree
+    between Trąbczyn and Łukom of 1775. In the Latin documents it is the mark.
+  short_de: >-
+    Die polnische Mark (lateinisch marca): zuerst ein Gewicht von etwa einem
+    halben Pfund für Silber und Gold, aus dem die Münzen geschlagen wurden, seit
+    dem 14. Jahrhundert 48 Groschen auf die Krakauer grzywna; dann eine
+    Rechnungseinheit, in der die Gerichte Strafen und Bußen festsetzten, so im
+    Grenzdekret zwischen Trąbczyn und Łukom von 1775. In den lateinischen
+    Dokumenten ist es die Mark.
+  source: "Gloger, Encyklopedia staropolska, II, s.v. Grzywna (https://pl.wikisource.org/wiki/Encyklopedia_staropolska/Grzywna)"
+  check_against: Gloger
+  checked: true
+
 - id: morgen
   kind: money
   lang: de
@@ -762,48 +787,6 @@ entries:
   check_against: Allgemeine Hypothekenordnung 1783
   checked: false
 
-- id: rubrik
-  kind: land
-  lang: de
-  head_en: section of the mortgage book (Rubrik)
-  head_de: Rubrik
-  orig: Rubrik, Rubrica, Rubr.
-  match_de: '\b[Rr]ubr\.|\bRubri[ck]\w*'
-  match_en: '\b[Rr]ubr\.'
-  short_en: >-
-    One of the three sections of an estate's page in the Prussian mortgage
-    book: the first for the owner's title, the second for permanent charges
-    and limits on ownership, the third for debts. "Rubr. III No. 2" is the
-    second debt entered on the estate.
-  short_de: >-
-    Eine der drei Abteilungen auf dem Blatt eines Guts im preußischen
-    Hypothekenbuch: die erste für den Besitztitel, die zweite für dauernde
-    Lasten und Einschränkungen des Eigentums, die dritte für Schulden.
-    „Rubr. III No. 2“ ist die zweite auf das Gut eingetragene Schuld.
-  check_against: Allgemeine Hypothekenordnung 1783
-  checked: false
-
-- id: abstand
-  kind: land
-  lang: la
-  head_en: Quantum, Abstands-Quantum
-  head_de: Quantum, Abstandsquantum
-  orig: Quantum, Abstands Quantum
-  match_de: '\b(?:Abstands?[- ]?)?Quant(?:um|o|i)\b'
-  match_en: '\bquantum\b'
-  short_en: >-
-    Quantum is simply "a sum". An Abstands-Quantum is the sum paid to someone
-    to give up a right, above all a tenant to give up his lease before it ran
-    out, so that the land could be sold or let again.
-  short_de: >-
-    Quantum heißt schlicht „Betrag“. Ein Abstandsquantum ist die Summe, die
-    jemand dafür erhält, ein Recht aufzugeben, vor allem ein Pächter dafür,
-    seine Pacht vor Ablauf abzutreten, damit das Land verkauft oder neu
-    verpachtet werden konnte.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Abstand (https://woerterbuchnetz.de/?sigle=Adelung&lemid=A00893)"
-  check_against: Adelung; Krünitz
-  checked: true
-
 - id: inventarium
   kind: land
   lang: la
@@ -825,43 +808,6 @@ entries:
   source: "Krünitz, Oekonomische Encyklopädie, s.v. Inventarium (https://www.kruenitz1.uni-trier.de/xxx/j/kj01092.htm)"
   check_against: Krünitz, Oekonomische Encyklopädie
   checked: true
-
-- id: einsassen
-  kind: land
-  lang: de
-  head_en: Einsassen
-  head_de: Einsassen
-  orig: Einsaßen
-  match_de: '\bEins(?:a|ä)(?:ss|ß)en\w*'
-  short_en: >-
-    The inhabitants who belong to a village or estate, as against outsiders: its residents.
-  short_de: >-
-    Die Bewohner, die zu einem Dorf oder Gut gehören, im Gegensatz zu den
-    Auswärtigen.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. eingesessen (https://woerterbuchnetz.de/?sigle=Adelung&lemid=E00510)"
-  check_against: Adelung
-  checked: true
-
-- id: rata
-  kind: money
-  lang: la
-  head_en: in Ratis
-  head_de: in Ratis
-  orig: Ratis, Rata
-  match_de: '\bRat(?:is|a)\b'
-  short_en: >-
-    In instalments, from the Latin rata, a share: "in halbjährigen Ratis" is in
-    half-yearly instalments. A purchase price or an entry money was often paid
-    so.
-  short_de: >-
-    In Raten, vom lateinischen rata, Anteil: „in halbjährigen Ratis“ heißt in
-    halbjährlichen Raten. Kaufgelder und Einstandsgelder wurden oft so
-    gezahlt.
-  source: "Krünitz, Oekonomische Encyklopädie, s.v. Rata (https://www.kruenitz1.uni-trier.de/xxx/r/kr00835.htm)"
-  check_against: Adelung
-  checked: true
-
-# ------------------------------------------------- law, money, administration
 
 - id: sequestration
   lang_note_en: "German <i>Sequestration</i>, from Latin <i>sequestratio</i>"
@@ -1302,32 +1248,6 @@ entries:
     Jahrhundert fort. Die deutschen Texte nennen ihn
     Gerichtsbote.
   check_against: Gloger, Encyklopedia staropolska (woźny)
-  checked: false
-
-- id: matura
-  kind: law
-  lang: de
-  head_en: Matura
-  head_de: Matura
-  orig: Matura
-  # Asked for by the editor (2026-10-14). In Breyer's notebook of 1936 (APP
-  # 53/968/0/-/669, page 28): "Matura gemacht das schwerste i. Leben".
-  match_de: '\bMatura\b'
-  match_en: '\bMatura\b'
-  short_en: >-
-    The examination at the end of secondary school, in Polish matura or
-    egzamin dojrzałości, the "examination of maturity"; the same word is used
-    in Austria and Switzerland, and in Germany it is the Abitur. Passing it
-    closed the grammar school (gimnazjum) and gave the right to study at a
-    university. In 1936 the historian Albert Breyer noted that a settler of Łazińsk called passing it the hardest thing in life.
-  short_de: >-
-    Die Prüfung am Ende der höheren Schule, polnisch matura oder egzamin
-    dojrzałości, die „Reifeprüfung“; so heißt sie auch in Österreich und der
-    Schweiz, in Deutschland ist es das Abitur. Wer sie bestand, schloss das
-    Gymnasium (gimnazjum) ab und durfte an einer Universität studieren. Eine
-    Notiz in Breyers Notizbuch von 1936 nennt die bestandene Matura das
-    Schwerste im Leben, ohne zu sagen, wessen.
-  check_against: Encyklopedia PWN (matura)
   checked: false
 
 - id: starost
@@ -2241,155 +2161,6 @@ entries:
 
 # ----------------------------------------------------------- titles, address
 
-- id: durchlaucht
-  per: document
-  kind: title
-  lang: de
-  head_en: Serene Highness
-  head_de: Durchlaucht
-  orig: Durchlaucht, Ewr Durchlaucht
-  match_de: '\bDurchlaucht\w*'
-  match_en: '\bSerene Highness\b|\bMost Serene\b'
-  short_en: >-
-    The style of a prince or an elector. "Your Serene Highness" (Ewr
-    Durchlaucht) is how the agents and officials of Prince Friedrich Ludwig of Hohenlohe-Ingelfingen address him, often several times in one letter; its many forms are formulas, not flattery.
-  short_de: >-
-    Die Anrede für Fürsten und Kurfürsten. „Ewr Durchlaucht“ reden seine
-    Beauftragten und Beamten den Fürsten an, oft mehrmals auf einer Seite; die
-    vielen Formen sind feste Formeln, keine Schmeichelei.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Durchlaucht (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D01374)"
-  check_against: Adelung; Zedler, Universal-Lexicon
-  checked: true
-
-- id: liebden
-  per: document
-  kind: title
-  lang: de
-  head_en: Liebden
-  head_de: Liebden
-  orig: Ew. Liebden
-  match_de: '\bLiebden\b'
-  match_en: '\bYour Lordship\b'
-  short_en: >-
-    The form in which a sovereign addressed a prince, and princes each other:
-    roughly "Your Grace", as between equals or near-equals. The King of Prussia writes to Prince Hohenlohe-Ingelfingen as "Ew. Liebden", Your Lordship.
-  short_de: >-
-    Die Anrede eines Landesherrn an einen Fürsten und der Fürsten
-    untereinander, unter Gleichen oder fast Gleichen. Der König schreibt dem
-    Fürsten „Ew. Liebden“.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Liebden (https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01366)"
-  check_against: Adelung; Zedler, Universal-Lexicon
-  checked: true
-
-- id: hochwohlgeboren
-  per: document
-  kind: title
-  lang: de
-  head_en: Hochwohlgeboren
-  head_de: Hochwohlgeboren
-  orig: Hochwohlgebohren
-  # and Wohlgeboren, the style below it
-  match_de: '\b(?:Hoch)?[Ww]ohlgeb\w*|\bHochw\.'
-  match_en: '\bRight Honourable\b'
-  short_en: >-
-    "High well-born": the style of every noble, baron or untitled. Below it
-    came Wohlgeboren, which some chanceries gave the lesser nobility and which went to commoners whose standing came close to noble: in English, "Right Honourable" and "Your Honour".
-  short_de: >-
-    Die Anrede für jeden Adligen, Freiherrn wie einfachen Edelmann. Darunter
-    stand Wohlgeboren, das manche Kanzleien dem niederen Adel gaben und das
-    Bürgerliche erhielten, deren Rang dem Adel nahekam.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Hochwohlgeboren (https://woerterbuchnetz.de/?sigle=Adelung&lemid=H02818); s.v. Wohlgebohren (https://woerterbuchnetz.de/?sigle=Adelung&lemid=W02669)"
-  check_against: Adelung
-  checked: true
-
-- id: ew
-  kind: title
-  lang: de
-  per: document
-  head_en: Ew., Ewr, Sr., Ihro, Dero
-  head_de: Ew., Ewr, Sr., Ihro, Dero
-  orig: Ew., Ewr, Sr., Ihro, Dero
-  match_de: '\bEw(?:r)?\b\.?(?= [A-ZÄÖÜ])|\bE\.(?= (?:Hoch|Durch|Excell|Maj|Königl|Wohl))|(?<!\ble )(?<!\bdu )(?<!\bau )\bSr\b\.?(?= [A-ZÄÖÜ])|\bIhro\b|\bDero\b'
-  short_en: >-
-    The possessives of courtly address, abbreviated. Ew. or Ewr is Euer, "Your"
-    (Ewr Durchlaucht, Your Serene Highness); Sr. is Seiner, "His" (Sr.
-    Majestät, His Majesty). Ihro and Dero are old chancery forms of "your",
-    "his" and "their", kept as marks of respect for persons of rank.
-  short_de: >-
-    Die Possessiva der höfischen Anrede, abgekürzt. Ew. oder Ewr steht für Euer
-    (Ewr Durchlaucht), Sr. für Seiner (Sr. Majestät). Ihro und Dero sind alte
-    Kanzleiformen von „Ihr“ und „Ihre“, als Ehrenwörter für hochgestellte
-    Personen beibehalten.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Liebden (https://woerterbuchnetz.de/?sigle=Adelung&lemid=L01366); s.v. Ihro (https://woerterbuchnetz.de/?sigle=Adelung&lemid=I00045); s.v. Dero (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D00509)"
-  check_against: Adelung
-  checked: true
-
-- id: herr-abbrev
-  kind: title
-  lang: de
-  head_en: H., dH., Hl.
-  head_de: H., dH., Hl.
-  orig: H., Hr., dH., dh., dHl., Hl.
-  # capital H only: a lowercase h. is not Herr. Not "Hr. Miączyńską" in the
-  # Polish summons of 1860 (APP 53/968/0/-/783), where Hr. is Hrabina, Countess.
-  match_de: '\b(?:d[Hh]l?|H(?:rn?|l)?)\.(?= )(?! Miączyńsk)'
-  short_en: >-
-    Herr, "Mr" or "Sir", abbreviated: H. or Hr. is Herr, dH. or dh. is dem
-    Herrn, "to Mr". Before a title or a "p." it is a courtesy: "der H. p.
-    Michaelis" is Mr Michaelis, with his titles.
-  short_de: >-
-    Abkürzungen für Herr: H. oder Hr. ist Herr, dH. oder dh. ist dem Herrn.
-    Vor einem Titel oder einem „p.“ ist es Höflichkeit: „der H. p.
-    Michaelis“ ist Herr Michaelis mit seinen Titeln.
-  check_against: Adelung
-  checked: false
-
-- id: closing-formulas
-  kind: phrase
-  lang: de
-  per: document
-  head_en: humble servant, faithful Knecht
-  head_de: unterthänigster Diener, treuester Knecht
-  orig: unterthänigster Diener, treuester Knecht
-  match_de: '\b(?:treu(?:ester)?|unterth(?:ä|ae)nig(?:st)?(?:er)?|gehorsamst(?:er)?)\s+(?:Diener|Knecht)\b'
-  match_en: '\bmost (?:faithful|humble|obedient)(?: and (?:humble|obedient|faithful))*(?: and obedient)? servant\b'
-  short_en: >-
-    The signature line of a letter to a superior: "most humble servant", "most
-    obedient servant". The degree mattered: unterthänigst is a step above
-    unterthänig. A Knecht, as the Prince's agent Triebenfeld signs to him, is humbler than
-    a Diener: by then the word was used only to persons far above the writer,
-    to mark the distance.
-  short_de: >-
-    Die Unterschriftszeile eines Briefs an einen Höherstehenden:
-    „unterthänigster Diener“, „gehorsamster Diener“. Die Abstufung zählte:
-    unterthänigst steht eine Stufe über unterthänig. Knecht, wie Triebenfeld
-    dem Fürsten unterschreibt, ist demütiger als Diener: man gebrauchte es nur
-    noch gegenüber weit Höherstehenden, um den Abstand zu zeigen.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Knecht (https://woerterbuchnetz.de/?sigle=Adelung&lemid=K01543); s.v. Diener (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D00613); s.v. unterthänig (https://woerterbuchnetz.de/?sigle=Adelung&lemid=U01283)"
-  check_against: Adelung
-  checked: true
-
-- id: ersterbe
-  per: document
-  kind: phrase
-  lang: de
-  head_en: '"I remain until death"'
-  head_de: ersterbe
-  orig: ersterbe
-  match_de: '\bersterbe\w*'
-  match_en: '\buntil death\b|\bunto death\b'
-  short_en: >-
-    The close of a letter to a superior: "in deepest reverence I remain until
-    death your most humble servant". A fixed formula of deference, as
-    "yours faithfully" is now, not a statement about dying.
-  short_de: >-
-    Der Schluss eines Briefs an einen Höherstehenden: „in tiefster Ehrfurcht
-    ersterbe ich Ewr Durchlaucht unterthänigster Diener“. Eine feste
-    Ergebenheitsformel, keine Aussage über das Sterben.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. ersterben (https://woerterbuchnetz.de/?sigle=Adelung&lemid=E02089)"
-  check_against: Adelung
-  checked: true
-
 - id: term-days
   kind: phrase
   lang: de
@@ -2413,43 +2184,6 @@ entries:
   check_against: Krünitz, Oekonomische Encyklopädie
   checked: true
 
-- id: pp
-  kind: phrase
-  lang: la
-  head_en: pp., p.
-  head_de: pp., p.
-  orig: pp., p.
-  match_de:
-    - '\bpp\b\.?'
-    # "dem p Hawich": a single p only between an article and a name
-    - '\b(?:der|dem|den|des|die|Der|Dem|Den|Die) (?P<w>p\.?)(?= [A-ZÄÖÜ])'
-  short_en: >-
-    Short for perge, perge, "and so on": it stands for titles too long to write
-    out. "Dem p Hawich" is the estate official Hawich with his titles; after a name or a title list it is a polite "etc.".
-  short_de: >-
-    Abkürzung für perge, perge, „und so weiter“: sie steht für Titel, die zu
-    lang zum Ausschreiben sind. „Dem p Hawich“ ist Hawich mit seinen Titeln.
-  check_against: Adelung
-  checked: false
-
-- id: geruhen
-  kind: phrase
-  lang: de
-  head_en: deign (geruhen)
-  head_de: geruhen
-  orig: geruhen
-  match_de: '\bgeruh\w*'
-  match_en: '\bdeign\w*'
-  short_en: >-
-    To be graciously pleased to: the verb for anything a superior does, in
-    letters written up to him. "Ew. Durchlaucht geruhen ..." asks or thanks: "may Your Serene Highness deign" or "be pleased".
-  short_de: >-
-    Die Höflichkeitsform für alles, was ein Höherstehender tut, in Briefen an
-    ihn. „Ew. Durchlaucht geruhen …“ bittet oder dankt.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. geruhen (https://woerterbuchnetz.de/?sigle=Adelung&lemid=G01535)"
-  check_against: Adelung
-  checked: true
-
 - id: locus-sigilli
   kind: phrase
   lang: la
@@ -2467,119 +2201,6 @@ entries:
   source: "Krünitz, Oekonomische Encyklopädie, s.v. Locus (https://www.kruenitz1.uni-trier.de/xxx/l/kl07144.htm)"
   check_against: Adelung
   checked: true
-
-- id: actum
-  kind: phrase
-  lang: la
-  head_en: Actum
-  head_de: Actum
-  orig: Actum
-  match_de: '\bActum\b'
-  match_en: '\bActum\b'
-  short_en: >-
-    "Done": the first word of a court record, followed by the place and date,
-    as in "Actum Betsche, 28 July 1804". What follows is the record of what
-    was done and said there.
-  short_de: >-
-    „Verhandelt“: das erste Wort eines Protokolls, mit Ort und Datum, wie in
-    „Actum Betsche, den 28. Juli 1804“. Es folgt die Niederschrift dessen, was
-    dort verhandelt und erklärt wurde.
-  check_against: Adelung
-  checked: false
-
-- id: in-fidem
-  kind: phrase
-  lang: la
-  head_en: in fidem
-  head_de: in fidem
-  orig: in fidem
-  match_de: '\bin [Ff]idem\b'
-  match_en: '\bin [Ff]idem\b'
-  short_en: >-
-    "In good faith": the formula by which an official certifies that a copy
-    agrees with its original, with his signature and seal after it.
-  short_de: >-
-    „Zur Beglaubigung“: die Formel, mit der ein Beamter bestätigt, dass eine
-    Abschrift mit dem Original übereinstimmt, gefolgt von Unterschrift und
-    Siegel.
-  check_against: Adelung
-  checked: false
-
-- id: de-dato
-  kind: phrase
-  lang: la
-  head_en: de dato; vigore
-  head_de: de dato; vigore
-  orig: de dato, vigore
-  match_de: '\b(?:de|sub) dato\b|\bvigore\b'
-  short_en: >-
-    Latin of the deeds. "De dato" means "dated": a charter de dato 19 June
-    1797 is the one of that date. "Vigore" means "by virtue of", as in vigore
-    Decreti, by virtue of the decree.
-  short_de: >-
-    Latein der Urkunden. „De dato“ heißt „vom Datum“: eine Urkunde de dato
-    19. Juni 1797 ist die dieses Tages. „Vigore“ heißt „kraft“, wie in vigore
-    Decreti, kraft der Verfügung.
-  source: "Adelung, Grammatisch-kritisches Wörterbuch, s.v. Datum (https://woerterbuchnetz.de/?sigle=Adelung&lemid=D00236)"
-  check_against: Adelung
-  checked: true
-
-- id: months-by-number
-  kind: phrase
-  lang: la
-  head_en: 7br., 8br., 9br., Xbr.
-  head_de: 7br., 8br., 9br., Xbr.
-  orig: 7br., 8br., 9br., Xbr.
-  match_de: '\b(?:7|8|9|X|10)\.? ?(?:br|ber|bris|bre)\b\.?'
-  match_en: '\b(?:7|8|9|X|10)\.? ?(?:br|ber|bris|bre)\b\.?'
-  short_en: >-
-    September, October, November and December, written with the Latin
-    numeral their names come from: septem, octo, novem, decem (X). So "d. 22
-    ten Xbr 1815" is 22 December 1815.
-  short_de: >-
-    September, Oktober, November und Dezember, geschrieben mit der Zahl, von
-    der ihre lateinischen Namen kommen: septem, octo, novem, decem (X). „d. 22
-    ten Xbr 1815“ ist also der 22. Dezember 1815.
-  check_against: Grotefend, Taschenbuch der Zeitrechnung
-  checked: false
-
-- id: d-j
-  kind: phrase
-  lang: de
-  head_en: d. J., a. c., ej. a.
-  head_de: d. J., a. c., ej. a.
-  orig: d. J., a. c., c. a., ej. a.
-  match_de: '\bd\. ?J\.|\ba\. ?c\.|\bc\. ?a\.|\bej\. ?a\.'
-  short_en: >-
-    "Of this year", in a date: d. J. is dieses Jahres, a. c. and c. a. are
-    the Latin anni currentis, currentis anni. Ej. a., ejusdem anni, is "of the
-    same year". "Den 19ten Junius d. J." is 19 June of the year the letter was
-    written.
-  short_de: >-
-    „Dieses Jahres“ in einer Datumsangabe: d. J. ist dieses Jahres, a. c. und
-    c. a. das lateinische anni currentis, currentis anni. Ej. a., ejusdem
-    anni, heißt „desselben Jahres“.
-  check_against: Grotefend, Taschenbuch der Zeitrechnung
-  checked: false
-
-- id: pct
-  kind: phrase
-  lang: la
-  head_en: pct., pro Cent
-  head_de: pct., pro Cent
-  orig: pct., pCt., pro Cent
-  match_de: '\bp[Cc]t\b\.?|\bp\. ?C\.|(?:\d\.? ?)(?P<w>p[Cc])\b\.?'
-  short_en: >-
-    Per cent, from pro centum: "4 pct." is four per cent. The legal and
-    customary rate of interest in Prussia was five per cent.
-  short_de: >-
-    Prozent, von pro centum: „4 pct.“ sind vier Prozent. Der gesetzliche und
-    landesübliche Zinsfuß in Preußen war fünf Prozent.
-  source: "Krünitz, Oekonomische Encyklopädie, s.v. Procento (https://www.kruenitz1.uni-trier.de/xxx/p/kp07727.htm); s.v. Zinsen (https://www.kruenitz1.uni-trier.de/xxx/z/kz00866.htm)"
-  check_against: Krünitz, Oekonomische Encyklopädie
-  checked: true
-
-# --------------------------------------------------------- events and states
 
 - id: south-prussia
   kind: event
@@ -2764,7 +2385,7 @@ excluded:
   - {word: "König.", reason: "König with a full stop at the end of a sentence (Euer wohlaffectionirter König., Nr. 3132) or cut short in an address (des König. Et. Min.); plain in English as King or Royal"}
   - {word: "Et.", reason: "Etats in the address des König. Et. Min. (Royal State Minister; I. HA GR, Rep. 7 C, Nr. 3132), rendered in the English; an address formula, not a term"}
   - {word: Maja, reason: "the Polish genitive of the month May in datelines and dates (13/25 Maja 1865, APŁ 39/98/0/-/1333; 18 Maja 1805), plain in English as May; not an abbreviation"}
-  - {word: Junii, reason: "the Latin genitive of the month in the date formulas (die 17 Mensis Junii, Poznań Gr.1181), plain in English as of June; the numbered month forms are the months-by-number entry's answer"}
+  - {word: Junii, reason: "the Latin genitive of the month in the date formulas (die 17 Mensis Junii, Poznań Gr.1181), plain in English as of June; the numbered month forms (7br., Xbr.) are rendered in the English"}
   - {word: Jacobi, reason: "in 53/20/0/-/Poznań Gr.1181 the genitive of the man's name (Generosi Jacobi Rzechicki, p. 166), not the feast of St James the termbase offers; the holding has no feast-day Jacobi"}
   - {word: Graf, reason: "plain in English as Count"}
   - {word: Fürst, reason: "plain in English as Prince"}
@@ -2857,7 +2478,40 @@ excluded:
   - {word: "tn", reason: "an ordinal ending: 19tn"}
   - {word: "tens", reason: "an ordinal ending"}
   - {word: "teil", reason: "after a figure by chance"}
-  - {word: "treu", reason: "the closing formula, covered by closing-formulas"}
+  - {word: "treu", reason: "the closing formula (treuer Knecht), rendered in the English"}
+  - {word: "Durchlaucht", reason: "the editor's ruling of 2026-11-25: a courtesy style (Serene Highness), rendered in the English"}
+  - {word: "Ewr Durchlaucht", reason: "the editor's ruling of 2026-11-25: a courtesy style (Your Serene Highness), rendered in the English"}
+  - {word: "Durchlauchtigster Fürst", reason: "the editor's ruling of 2026-11-25: a courtesy style (Most Serene Prince), rendered in the English"}
+  - {word: "Ewr Hochfürstliche Durchlaucht", reason: "the editor's ruling of 2026-11-25: a courtesy style (Your Princely Serene Highness), rendered in the English"}
+  - {word: "ersterbe", reason: "the editor's ruling of 2026-11-25: a letter's closing formula (I remain until death), rendered in the English"}
+  - {word: "gehorsamster Diener", reason: "the editor's ruling of 2026-11-25: a letter's closing formula (most obedient servant), rendered in the English"}
+  - {word: "unterthäniger Diener", reason: "the editor's ruling of 2026-11-25: a letter's closing formula (humble servant), rendered in the English"}
+  - {word: "unterthänigster Diener", reason: "the editor's ruling of 2026-11-25: a letter's closing formula (most humble servant), rendered in the English"}
+  - {word: "treuester Knecht", reason: "the editor's ruling of 2026-11-25: a letter's closing formula (most faithful servant), rendered in the English"}
+  - {word: "H.", reason: "the editor's ruling of 2026-11-25: Herr, Mr, before a name; plain in the English"}
+  - {word: "dH.", reason: "the editor's ruling of 2026-11-25: dem Herrn, to Mr, before a name; plain in the English"}
+  - {word: "dh.", reason: "the editor's ruling of 2026-11-25: dem Herrn, to Mr, before a name; plain in the English"}
+  - {word: "dHl.", reason: "the editor's ruling of 2026-11-25: dem Herrn, to Mr, before a name; plain in the English"}
+  - {word: "Hl.", reason: "the editor's ruling of 2026-11-25: Herr, Mr, before a name; plain in the English"}
+  - {word: "Ew.", reason: "the editor's ruling of 2026-11-25: Euer, Your, in a courtesy style; rendered in the English"}
+  - {word: "Hochwohlgebohren", reason: "the editor's ruling of 2026-11-25: a courtesy style for a noble (Right Honourable), rendered in the English"}
+  - {word: "Hochwohlgebohrner Herr", reason: "the editor's ruling of 2026-11-25: a courtesy style for a noble (Right Honourable Sir), rendered in the English"}
+  - {word: "Wohlgeborn", reason: "the editor's ruling of 2026-11-25: a courtesy style for a commoner (Your Honour), rendered in the English"}
+  - {word: "Hochw.", reason: "the editor's ruling of 2026-11-25: Hochwohlgeboren cut short, a courtesy style; rendered in the English"}
+  - {word: "Liebden", reason: "the editor's ruling of 2026-11-25: the King's courtesy style for a prince (Your Lordship), rendered in the English"}
+  - {word: "in fidem", reason: "the editor's ruling of 2026-11-25: the attestation formula of a copy (in witness), rendered in the English"}
+  - {word: "de dato", reason: "the editor's ruling of 2026-11-25: of the date, before a date; rendered in the English"}
+  - {word: "sub dato", reason: "the editor's ruling of 2026-11-25: under the date, before a date; rendered in the English"}
+  - {word: "Einsassen", reason: "the editor's ruling of 2026-11-25: the inhabitants of a place, rendered residents in the English"}
+  - {word: "pct.", reason: "the editor's ruling of 2026-11-25: per cent; plain in the English"}
+  - {word: "pct", reason: "the editor's ruling of 2026-11-25: per cent after a figure; plain in the English"}
+  - {word: "pc", reason: "the editor's ruling of 2026-11-25: per cent after a figure; plain in the English"}
+  - {word: "pC", reason: "the editor's ruling of 2026-11-25: per cent after a figure; plain in the English"}
+  - {word: "pc.", reason: "the editor's ruling of 2026-11-25: per cent; plain in the English"}
+  - {word: "pC.", reason: "the editor's ruling of 2026-11-25: per cent; plain in the English"}
+  - {word: "Ratis", reason: "the editor's ruling of 2026-11-25: instalments (Latin ablative), rendered in the English"}
+  - {word: "ratis", reason: "the editor's ruling of 2026-11-25: instalments (Latin ablative), rendered in the English"}
+  - {word: "Rubr.", reason: "the editor's ruling of 2026-11-25: Rubrik, a section of the mortgage register, rendered in the English"}
   - {word: "I.", reason: "a section number"}
   - {word: "II.", reason: "a section number"}
   - {word: "III.", reason: "a section number"}

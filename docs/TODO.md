@@ -1766,11 +1766,10 @@ Built on the session branch, not yet published.
       area and type filters, the alphabetical lists, the cemeteries.
 - [x] B1-B5: the place entries' map, citations as links, References with
       Show, footnote jumps; the units rule ("Morgen", never "morgi").
-- [ ] You: confirm Claude's identifications of the places and name the
-      ones left unplaced (NEEDS_CONFIRMATION, "Place coordinates").
-- [ ] You: the pronunciation sample (B6), before IPA shows on the site.
-- [ ] You: approve the list of relevant people (C1, in the plan); the
-      People page is built on the proposal meanwhile.
+- [x] You: confirm Claude's identifications of the places (2026-11-25);
+      [ ] name the ones left unplaced (NEEDS_CONFIRMATION, "Place coordinates").
+- [x] You: the pronunciation sample (B6); IPA now on the place pages.
+- [x] You: approve the list of relevant people (C1): approved 2026-11-25.
 - [x] C4, C5: all 324 bios rewritten; the Chełmski family split into its
       members; Antoni Prusimski's death 1803 (flagged).
 - [x] C2, C3, C8: the People page's views and the References lists.
@@ -1778,6 +1777,6 @@ Built on the session branch, not yet published.
       your approval).
 - [x] D1-D4, D6: the glossary's language notes, References, one Reference
       line, the categories removed, the definitions rewritten.
-- [ ] You: D5, which glossary entries to move to `excluded:` (the list in
-      the report of 2026-11-25).
+- [x] D5: twenty entries moved to `excluded:` at your word; locus
+      sigilli kept. The grzywna kept as the unit, with a glossary entry.
 - [ ] E: the Zagórów place page, then the ~600 summaries.

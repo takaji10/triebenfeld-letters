@@ -105,7 +105,15 @@ CHANGELOG, and is published at the editor's word.
    where a source gives it.
 3. **Glossary categories**: removed.
 4. The "relevant people" list goes to the editor for approval before the
-   People page is rebuilt.
+   People page is rebuilt. **Approved 2026-11-25** ("Looks good").
+5. (2026-11-25) The pronunciation sample accepted; shown on the place pages.
+6. (2026-11-25) The glossary's courtesy styles, closing formulas and
+   document furniture moved to `excluded:`, but *locus sigilli* kept, since
+   "L. S." stands in the English translations.
+7. (2026-11-25) Claude's place identifications accepted "on first glance".
+8. (2026-11-25) The grzywna: "marks" was not used consistently, so the
+   original unit stays, *grzywna*/*grzywny*, with a glossary entry
+   (HOUSE_STYLE, "Units of measurement and money").
 
 ## C1. The relevant people: proposal (for the editor's approval)
 
