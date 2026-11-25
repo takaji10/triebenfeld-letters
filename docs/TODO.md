@@ -1754,3 +1754,30 @@ The plan, with your answers of the day and the assumptions taken:
       registry and postal notes taken out of 40 more (Nr. 421, 3132, 3709
       and others).
 - [x] Published 2026-11-24 at your word.
+
+## 70. Places, people and the glossary (planned 2026-11-24)
+
+The plan, with your answers: [PLACES_PEOPLE_GLOSSARY_PLAN.md](PLACES_PEOPLE_GLOSSARY_PLAN.md).
+Built on the session branch, not yet published.
+
+- [x] A1: a position for every place or a recorded reason (coords.py, a
+      gate); 114 from Wikidata, each match chosen by Claude.
+- [x] A2-A7: the Places page's search bar with Near, the large map with
+      area and type filters, the alphabetical lists, the cemeteries.
+- [x] B1-B5: the place entries' map, citations as links, References with
+      Show, footnote jumps; the units rule ("Morgen", never "morgi").
+- [ ] You: confirm Claude's identifications of the places and name the
+      ones left unplaced (NEEDS_CONFIRMATION, "Place coordinates").
+- [ ] You: the pronunciation sample (B6), before IPA shows on the site.
+- [ ] You: approve the list of relevant people (C1, in the plan); the
+      People page is built on the proposal meanwhile.
+- [x] C4, C5: all 324 bios rewritten; the Chełmski family split into its
+      members; Antoni Prusimski's death 1803 (flagged).
+- [ ] C2, C3, C8: the People page's views and the References lists.
+- [ ] C6, C7: person pages and life dates for the relevant people (after
+      your approval).
+- [x] D1-D4, D6: the glossary's language notes, References, one Reference
+      line, the categories removed, the definitions rewritten.
+- [ ] You: D5, which glossary entries to move to `excluded:` (the list in
+      the report of 2026-11-25).
+- [ ] E: the Zagórów place page, then the ~600 summaries.

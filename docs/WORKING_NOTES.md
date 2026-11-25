@@ -5189,3 +5189,40 @@ viewbar. Lessons:
   `literature_site.py`, or the page stays a summary (Nazwy, the Słownik and
   Słowiński 2023 stayed summaries on the live site after 2026-11-24's
   publish until this was found).
+
+### Places, people and the glossary (2026-11-24/25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md)
+
+- **Place coordinates have one source of truth for the site**:
+  `site/_data/place_coords.yml`, written by `pipeline/places/coords.py`
+  (gazetteer `location:` first, then `reference/place_coords.yml`, then
+  `reference/places_osm.yml` by printed name, then an approximate
+  position for a gazetteer place described only as "north of X"). The
+  script fails, in regenerate.py and verify_site, on a place with no
+  position and no reason in `reference/place_coords_unplaced.yml`: a new
+  place needs one or the other. The place pages read the generated file,
+  not the reference one.
+- **The old positions were not safe**: the hand placings of 2026-10-27 lay
+  10 to 60 km out, and OpenStreetMap's search had matched Dresden to a
+  village in Lubusz, Cosel and Wieruszów to namesakes. Wikidata (its API is
+  reachable from the cloud) gave better matches, but only after each was
+  chosen by hand: the first hit for a German or Polish place name is often a
+  namesake. Prefer the town with the German name the documents use
+  (Medzibor = Międzybórz near Syców; Scheitnig = Szczytniki, Wrocław).
+- **Importing a script that rewraps `sys.stdout`** (`io.TextIOWrapper(
+  sys.stdout.buffer)` at module level) closes the importer's stdout when
+  the old wrapper is collected ("I/O operation on closed file"). A script
+  meant to be imported (coords.py by verify_site) rewraps only under
+  `__main__`.
+- **The bios' conventions** (all 324 rewritten 2026-11-25): open with the
+  role, never the name the heading gives; "Prince Hohenlohe-Ingelfingen"
+  and "Peter Friedrich von Triebenfeld" (or "the Prince's agent,
+  Triebenfeld,") at first mention in every bio, since each bio stands
+  alone; say whose estates, debts or claim, and against whom; no "the
+  letters", "the report", "named once in a document": a person known only
+  by a mention is "Named in 1799 in the affairs of ...; who he was is not
+  known." Reichsthaler written out, not "Rthl". Rewriting adds no fact the
+  old bio or the documents do not give: two of Claude's additions (a motive
+  for a certificate, "on the Łukom side") were struck before applying.
+- **The Places page's Near search** shows an approximate place's distance
+  as "c. 3 km" or "close by", never a precise figure; approximate places
+  get no map marker.
