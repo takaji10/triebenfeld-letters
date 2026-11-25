@@ -5243,3 +5243,15 @@ viewbar. Lessons:
   (the editor, 2026-11-25, of grzywna): fix the forms with a rule in
   `reference/english_forms.yml` (the translations) and by hand in the
   literature's english.md, and give the unit a glossary entry.
+- **Person pages' biographies** (2026-11-25): `biography:` in a person's
+  block of `reference/genealogy.yml`, a list of paragraphs, each with
+  `text` and `source` (document uids, `doc:<uid>`, literature
+  `work/passage`, or `editor`); English only, shown under "Life". Method
+  that worked: a Sonnet reader per group of people writes a facts file
+  (dated chronology with uids, life dates, discrepancies) from the
+  summaries and the turning-point translations; Claude writes from it and
+  checks anything doubtful against the translation (letter 107's "Princess
+  Sacken" said less than the summary). The readers also found errors in the
+  short bios and a document wrongly tagged to Michalina: fix those in the
+  same sitting. verify_site needs every person page to have a short `bio`
+  in people_bios.yml as well.

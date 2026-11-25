@@ -27,6 +27,40 @@ repository; they are on the working machine.
   editor and applied; no typeset title tiles; the editor supplies the
   literature's title pages later.
 
+## The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
+
+The longer biographies are written from the documents (each paragraph cites
+them). Gathering the facts turned up these differences, none of which
+changes a page until you rule:
+
+- **Triebenfeld's death.** His last letter is of 31 January 1816; the only
+  statement that he was dead is an office note on Zerboni's report, headed
+  "Paris 18 Nov 1815" but ending "on 13 April" with no year (I. HA Rep. ...
+  Nr. 12765, document 10). The page says "between 31 January and 13 April
+  1816", taking the note's 13 April for 1816.
+- **The Prince's age.** Triebenfeld wrote in November 1814 that the Prince
+  was "nearly 66"; the reference works' birth date of 31 January 1746 makes
+  him 68. The edition keeps 1746.
+- **Paweł Prusimski's office.** The press of 1754 calls him chamberlain, the
+  decree of 1784 sub-chamberlain (subcamerarius), and one passage of its
+  English podskarbi (treasurer). The page says the King's chamberlain.
+- **Chełmski's loan.** The note of 1794 is for 12,000 ducats; Triebenfeld's
+  memorandum of 1815 says Prusimski pledged Trąbczyn to Chełmski for 36,000
+  ducats. The pages follow the note.
+- **The restoration of 1807.** The Governing Commission's resolution is of
+  21 July 1807; later documents give 5 June (Napoleon's decree for Wybicki,
+  extended to her) and 1 July. The pages follow 21 July.
+- **The sale of 1698.** Konin Gr.145 has Anna Bojanowska act for "her
+  brother Władysław"; the family pages have him as her son.
+- **Jezierski.** The documents' Xaver Jezierski is a canon of Włocławek;
+  Pachoński (1973) names a General Xavier Jezierski at Venice. Not shown to
+  be one man.
+- **Kościuszko's dates** (1746-1817) and **Lubecki's** (1778-1846) rest on
+  the reference works, not on the edition's documents or literature.
+- **Removed from Michalina Prusimska's documents**: the decree of 1784
+  (Poznań Gr.1181), whose "Prusimska" are Katarzyna and Teresa of the
+  earlier generations.
+
 ## Place coordinates (2026-11-24, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, A1)
 
 - **Positions from Wikidata, checked by Claude** (accepted by the editor

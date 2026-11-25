@@ -77,7 +77,13 @@ def main():
     def unit_ref(unit):
         if unit not in refs:
             with open(os.path.join(ROOT, 'units', unit, 'unit.yml'), encoding='utf-8') as f:
-                refs[unit] = yaml.safe_load(f)['ref']
+                _u = yaml.safe_load(f)
+                refs[unit] = str(_u['ref'])
+                # a bare number ("85") says nothing alone: add the archive's
+                # abbreviation ("ADWł 85")
+                _ab = re.search(r'\(([^)]+)\)', _u.get('archive') or '')
+                if refs[unit].isdigit() and _ab:
+                    refs[unit] = f"{_ab.group(1)} {refs[unit]}"
         return refs[unit]
 
     with open(os.path.join(ROOT, 'site', '_data', 'units.yml'), encoding='utf-8') as _uf:

@@ -1773,8 +1773,8 @@ Built on the session branch, not yet published.
 - [x] C4, C5: all 324 bios rewritten; the Chełmski family split into its
       members; Antoni Prusimski's death 1803 (flagged).
 - [x] C2, C3, C8: the People page's views and the References lists.
-- [ ] C6, C7: person pages and life dates for the relevant people (after
-      your approval).
+- [x] C6, C7: a page with a sourced biography for each of the thirty
+      relevant people; documented death dates added (2026-11-25).
 - [x] D1-D4, D6: the glossary's language notes, References, one Reference
       line, the categories removed, the definitions rewritten.
 - [x] D5: twenty entries moved to `excluded:` at your word; locus

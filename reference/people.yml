@@ -774,7 +774,10 @@ people:
     # born Rozdrażewska, two generations before Michalina: prusimska-katarzyna.
     # In the citation of 1782 (Konin Gr.118, document 23) "Prusimska" is Marianna,
     # Wiktoria and Konstancja, of an earlier generation: no entry.
-    not_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8, app53170koningr118-14, app53170koningr118-23]
+    not_in: [app536045-1, app53170koningr136-1, app53170koningr115-1, app53170koningr117-7, app53170koningr117-8, app53170koningr118-14, app53170koningr118-23, app5320pozgr1181-1]
+    # app5320pozgr1181-1 (1784): its "Prusimska" are Katarzyna, born
+    # Rozdrażewska, and Teresa, born Golińska, of the earlier generations
+    # (found 2026-11-25, while gathering the facts for her person page)
     tier: "User-provided (genealogical) + text-confirmed"
     # The Prince's French letter of 1815 writes her "Madame Mięczynsky" (12765, document 6).
     variants:
