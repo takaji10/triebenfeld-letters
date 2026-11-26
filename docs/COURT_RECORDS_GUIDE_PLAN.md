@@ -147,7 +147,7 @@ for the reader to try, the answer behind a plain `<details>`).
     germanus); the place adjective (Nieszczevicensis, Trąmpczynensis).
 11. **The vernacular and the money.** Polish closing formulas and Polish words in Latin entries;
     German trade words in Polish spelling, brought in by *vulgo* (*Auscuk* for Auszug, *Klapek*,
-    *Rynek*); money (imperials, florins, groschen, pfennigs, ducats) and measures (*mansi*, *łany*,
+    *Rynek*); money (imperials, złoty, grosz/groszy, ducats; the Latin *floreni* are złoty, but *floreni Hungaricales* are gold ducats; HOUSE_STYLE, "Units of measurement and money") and measures (*mansi*, *łany*,
     *włóki*), with what the edition's documents show of them.
 12. **The hand.** The letter shapes that mislead, described in words and shown by the readings they
     produced: minims (r/n/u/m: *Fericorum* or *Fenicorum*), c and t, the long s, e with a tail, the

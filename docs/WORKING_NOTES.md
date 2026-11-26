@@ -5368,3 +5368,17 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   look up the termbase's rendering of every institution named** (`reference/translation_glossary.yml`,
   the glossary's `head_en`), and quote the rendering in the brief. "In Castro Calissiensi" in a dating
   line is the seat of the municipal court, not a castle to be named as such.
+- **The rules audit of 2026-11-26** (the editor: "go through what you made and ensure you didn't skip any
+  other rules"). Reading HOUSE_STYLE against Pyzdry Gr.75's pages found, beside "castle court": "the edition"
+  on a reader's page (HOUSE_STYLE, "The pages do not talk about themselves"); the entry narrated as paper
+  ("The entry has no date of its own", "In this volume ... this is no. 39": "The content, not the paper");
+  a storytelling heading; Polish money as "florins" and "groschen" (the rule: złoty, grosz, groszy); the
+  coin "imperial" used in prose before it had a glossary entry; Antoni Prusimski and Chełmski not
+  identified at first mention; ranges with a hyphen (1780-82, en dash required); the Method tab saying
+  "put to the editor" and naming image handling; a timeline note with a method sentence ("The date is the
+  one a decree of 1777 gives"). All corrected, then a second reader audited the prose against every rule.
+  **Before writing reader prose, read HOUSE_STYLE whole once in the sitting**, not only the termbase; and
+  run `pipeline/review/prose_lint.py --unit <slug>` and `check_place_descriptors.py`.
+- **The `IMAGES = {` trap again** (2026-11-26, the second time in one sitting): `s.index("S = {")` matched
+  inside `IMAGES = {` and cut the English out of the holding's script. Anchor on `"\nS = {\n"` (with the
+  newlines), and never write a replacement with `s[:a] + new + s[b:]` without asserting what lies between.

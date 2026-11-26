@@ -1,3 +1,7 @@
+# NOTE (2026-11-26): the English glosses below are a reader's draft. Before any of it reaches the guide,
+# every English rendering is checked against reference/translation_glossary.yml and HOUSE_STYLE: e.g. the
+# Latin castrensis is 'municipal court', never 'castle court'; Polish money is złoty, grosz/groszy, never
+# 'florins'/'groschen'; units as reference/glossary.yml heads them.
 # DRAFT dictionaries for the court-records reading guide. Forms, counts and doc ids are counted
 # mechanically from units/<slug>/corpus.txt (22 holdings); meanings and notes are hand-written and
 # `sure: no` marks a meaning not settled. English: the municipal court (Latin castrensis) vs the land court (terrestris).
