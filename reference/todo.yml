@@ -105,22 +105,6 @@ items:
   links: []
   nc: ''
   audit_note: ''
-- id: t901-no17-close-pass
-  group: APP 53/6/0/-/46 (Konin land court, sitting of October 1777)
-  title: Make your close pass over document 2 (entry no. 17) before it is translated again
-  kind: task
-  text: Entry no. 17 of the sitting (leaf 183 recto, the suit of Chełmski on the transfer from the merchant
-    Tracholz) is already document 2 of this holding, transcribed from the film in 2026-10-07 and published
-    with an English translation of that day. You asked on 2026-11-26 for a fresh attempt at its transcription
-    and said it needs a very close pass by you, and that its translation waits until you have made it. When
-    the transcription attempt is done it comes to you; the English stays as it is until you have ruled.
-  options: []
-  links:
-  - type: unit
-    slug: app536046
-    label: APP 53/6/0/-/46
-  nc: ''
-  audit_note: ''
 - id: t902-trachultz
   group: Jan Tracholz
   title: Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?

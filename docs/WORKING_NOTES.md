@@ -5296,9 +5296,9 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   of the sitting treated entry no. 17 of 53/6/0/-/46 as "never built" because
   the old questions file (`docs/archive/PRUSIMSKI_QUESTIONS.md`) said so. It has
   been document 2 of that holding since 2026-10-07 (`units/app536046/notes.md`).
-  The editor wants a fresh transcription attempt and then their own close pass,
-  with the translation held until they have made it (TODO t901): the existing
-  English stays untouched meanwhile.
+  The editor then agreed (2026-11-26, mid-sitting): no fresh transcription of it
+  is needed, and the to-do item for one (t901) was removed. Document 2 stands as
+  built; any close pass of it is the editor's own, whenever they choose.
 - **The person entry `tracholz`** (`reference/people.yml`, the editor's yes,
   2026-11-26): surname pattern `Trach[ou]lt?z`, no `only_in`; 8 documents, 15
   hits (Konin Gr.117 docs 2, 3, 7, 8, 9; Gr.118 doc 14; 53/6/0/-/46 doc 2; Gr.120

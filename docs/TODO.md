@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-90 open: 22 question, 22 decision, 26 task, 11 claude, 9 waiting.
+89 open: 22 question, 22 decision, 25 task, 11 claude, 9 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -64,17 +64,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       the two scans, your Latin transcription and your English translation have to be in
       the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a
       desktop session. Nothing further on the holding can start until they are.
-
-## APP 53/6/0/-/46 (Konin land court, sitting of October 1777)
-
-- [ ] **Make your close pass over document 2 (entry no. 17) before it is translated again** (`t901-no17-close-pass`, task). Entry no. 17 of the sitting (leaf 183 recto, the suit of Chełmski on the transfer from
-      the merchant Tracholz) is already document 2 of this holding, transcribed from the
-      film in 2026-10-07 and published with an English translation of that day. You
-      asked on 2026-11-26 for a fresh attempt at its transcription and said it needs a
-      very close pass by you, and that its translation waits until you have made it.
-      When the transcription attempt is done it comes to you; the English stays as it is
-      until you have ruled.
-      Concerns: [APP 53/6/0/-/46](/sources/app536046/)
 
 ## Jan Tracholz
 
