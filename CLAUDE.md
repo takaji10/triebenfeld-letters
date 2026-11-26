@@ -195,8 +195,7 @@ German follows the editor's English layout").
   connection, a timeline event (7 September 1768, from the Konin decree of 1777) and
   a paragraph in the era essay. The "Relationes 1768-1771" folder was a duplicate copy
   (the old TODO t009 closed). Entry no. 17 of 53/6/0/-/46 needs no fresh transcription:
-  it has been document 2 of that holding since 2026-10-07. Open: TODO t902 and t904
-  (Gr.120's "Trachultz", the tilde forms).
+  it has been document 2 of that holding since 2026-10-07. Nothing waits on the editor but the publish word.
   Read `units/app5321pyzdrygr75/notes.md` first, and WORKING_NOTES, "Pyzdry Gr.75
   begun".
 

@@ -11,14 +11,10 @@ repository; they are on the working machine.
 
 ## Jan Tracholz (2026-11-26)
 
-- **Is the "Spectabilis Joannes Trachultz" of Konin Gr.120, document 2, the
-  merchant Jan Tracholz?** Claude's reading: the contract for the sale of an oak
-  forest is the 1744 contract for oak timber that Konin Gr.117 names. The
-  spelling and the thirty years' gap make it a reading, not a proof. The entry
-  `tracholz` takes it for now (TODO t902).
-- **"Vitkovien~" as Witkowo** in 53/6/0/-/46, document 2, is Claude's
-  identification (the editor's spot sheet of 2026-10-07 left it); the new entry
-  repeats it as Claude's.
+- **Settled (the editor, 2026-11-26):** the "Spectabilis Joannes Trachultz" of Konin Gr.120, document 2, is
+  the merchant Jan Tracholz.
+- **"Vitkovien~" as Witkowo** in 53/6/0/-/46, document 2, is Claude's identification (the editor's spot
+  sheet of 2026-10-07 left it); the entry repeats it as Claude's.
 
 ## APP 53/21/0/-/Pyzdry Gr.75, entry no. 39 (2026-11-26)
 
@@ -38,7 +34,7 @@ repository; they are on the working machine.
 - **Pine or oak?** The transfer says "Borris et sylvis" (pine forests); the protest of 1778
   (Konin Gr.117, doc. 3) says the 1744 contract was for oak timber ("silvae Quercineae"),
   and Gr.120, doc. 2 "an oak wood". The edition keeps each document's word.
-- **Tilde forms vs the bracket rule** (TODO t904).
+- **Tilde forms:** expanded in brackets where certain (the editor, 2026-11-26); only "recog[ni]tioni" was; "alisculi~" is unresolved and stands.
 - **Rows of `reference/translation_rulings.json` that are Claude's own** (not the editor's): "Dominium"
   rendered "dominion", and the marker counts of "fun[d?]u[m?]" (now moot) and "Stru[i]um".
 

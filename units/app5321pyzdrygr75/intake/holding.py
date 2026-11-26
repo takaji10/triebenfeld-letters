@@ -121,6 +121,9 @@ ROWS = [
      'libere accedente',
      'the same reading: the words "provisionibus ... provenientibus" belong at the cross before "cessit", '
      'not at the end'),
+    ('0019_b', 'recog~tioni', 'recog[ni]tioni',
+     'the editor (2026-11-26, TODO t904): the tilde forms are expanded in square brackets, where certain. This is the '
+     'only one: "alisculi~" is an unresolved word and cannot be expanded; it stands'),
     ('0019_b', 'Super Transfusionem', 'Sup[er] Transfusionem',
      'the docket under the signature has "Sup" abbreviated'),
     ('0019_b', 'actas praesenti', 'Actaq[ue] praesenti',
@@ -146,16 +149,17 @@ def scans(src_dir):
 # ---------------------------------------------------------------- the English
 # Translated in session (no paid run) from the corrected Latin; the editor's
 # English (intake/editor_english.md) was a guide and was checked against the
-# Latin phrase by phrase. Where the reading is doubtful the English says so in
-# the edition's own form, "[uncertain: ...]".
+# Latin phrase by phrase. Doubt in the English follows the editor's ruling of 2026-11-22
+# (EDITORIAL_RULES, "An unread word in the English"): the sense with [?] after it where the
+# passage fixes the sense, [...] where it does not; never the original's letters.
 PAGES = [
     # leaf 19 recto
     'No. 39: The Excellent Jan Tracholz, merchant and inhabitant of Witkowo, sound in mind and body, '
     'openly, withdrawing, etc., acknowledged that he himself, wholly and entirely, his own '
-    'monetary sums, one of them being 1,053 imperials, 13 groschen and (it seems) 6 pfennigs [uncertain: Fenicorum], '
+    'monetary sums, one of them being 1,053 imperials, 13 groschen and 6 pfennigs[?], '
     'owed through the late Right Honourable Paweł Prusimski, for trees bought by the present acknowledger, the '
     'honourable Tracholz, in the pine forests and woods of Trąbczyn by means of a contract written out for '
-    'the said late Right Honourable Prusimski for the purchase of those same trees [uncertain: ordine], worked out from the '
+    'the said late Right Honourable Prusimski for the purchase of those same trees [...], worked out from the '
     'honourable acknowledger Tracholz\'s own funds and care (although the same late Right Honourable '
     'Prusimski had once received from the same acknowledger full satisfaction according to the tenor of '
     'the aforesaid contract), the trees having been seized from the same acknowledger by force in the said '
@@ -169,20 +173,20 @@ PAGES = [
     'Right Honourable Paweł Prusimski, by reason of what followed upon the pine forests and '
     'woods in controversy and inquiry between them, seized in this pine forest; spent by the acknowledger, '
     'the honourable Tracholz, and partly laid out for the benefit and interest of the said late '
-    'Right Honourable Paweł Prusimski, set out in a [uncertain: separate] register written by this acknowledger, and '
-    'received for these sawn goods by this late Right Honourable Antoni Prusimski and disposed of for [uncertain: sisce] and for his own '
+    'Right Honourable Paweł Prusimski, set out in a separate[?] register written by this acknowledger, and '
+    'received for these sawn goods by this late Right Honourable Antoni Prusimski and disposed of for [...] and for his own '
     'benefit; and other sums, [shown] by writings and documents, handwritten ones and registers,',
     # leaf 19 verso
-    'and also explained by various annotations, called *alisculi~*; these sums belonging to the '
+    'and also explained by various annotations, called [...]; these sums belonging to the '
     'acknowledger by right of legacy, reserving and excepting nothing from the aforesaid sums for himself and '
     'his successors thereafter, he has ceded, conferred, transposed, transferred and made over (as he cedes, '
     'confers, transposes, transfers and makes over) into the person of the Right Honourable Stanisław '
-    'Chełmski, as one paying these sums to the acknowledger [uncertain: by his own right] and fully '
+    'Chełmski, as one paying these sums to the acknowledger by his own right[?] and fully '
     'satisfying him for the foregoing, and to his successors, with full, total and entire right, dominion, '
     'ownership and competence, together with any and all rights of claiming that relate to these sums and '
-    'set these sums out, [uncertain: together] with the interest arising from the same principal sums and '
-    '[uncertain: with] the legal process instituted by the acknowledger against the '
-    'successors of the Prusimskis; and by the present act [uncertain: Da...] and conceding [uncertain: ...], '
+    'set these sums out, together[?] with the interest arising from the same principal sums and '
+    'with[?] the legal process instituted by the acknowledger against the '
+    'successors of the Prusimskis; and by the present act [...] and conceding [...], '
     'this his personal acknowledgement freely assenting to the foregoing.\n\n'
     'Jan Tracholz, by his held hand\n\n'
     'On the transfer of his right in the person of M. Chełmski',
@@ -235,6 +239,15 @@ def main():
         tdir = os.path.join(HERE, 'translation')
         os.makedirs(tdir, exist_ok=True)
         courtbook.write_doc_yml(os.path.join(tdir, 'doc1.yml'), english()[1])
+        # write_doc_yml counts only the old "[uncertain:" form; the rule of 2026-11-22 uses [?] and [...]
+        import re
+        import yaml
+        path = os.path.join(tdir, 'doc1.yml')
+        doc = yaml.safe_load(io.open(path, encoding='utf-8'))
+        for pg in doc['pages']:
+            pg['marker_count'] = len(re.findall(r'\[\?\]|\[\.\.\.\]|\[uncertain|\[text lost', pg['en']))
+        io.open(path, 'w', encoding='utf-8', newline='\n').write(
+            yaml.safe_dump(doc, allow_unicode=True, sort_keys=False, width=100))
     if '--cache' in arg:
         courtbook.save_cache(ROOT, SLUG, os.path.join(HERE, 'translation'))
     if '--summaries' in arg:

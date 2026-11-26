@@ -105,42 +105,6 @@ items:
   links: []
   nc: ''
   audit_note: ''
-- id: t902-trachultz
-  group: Jan Tracholz
-  title: Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?
-  kind: question
-  text: 'The new person entry Jan Tracholz takes nine documents in five holdings. One of them, Konin Gr.120,
-    document 2, writes "Spectabili Joanne Trachultz" in a contract for the sale of an oak forest. Claude
-    reads him as the same man, because Konin Gr.117 (documents 3 and 7) says the merchant''s claim rests on a
-    contract of 1744 for oak timber with Paweł Prusimski. The document says the contract with Tracholz is the one Chełmski''s claim comes from, which fits; only the spelling differs, so this is a reading, not a proof. Is he the same man?'
-  options:
-  - Same man, keep the entry
-  - Not shown, take Gr.120 out of the entry
-  - Leave it open
-  links:
-  - type: unit
-    slug: app53170koningr120
-    label: Konin Gr.120
-  nc: ''
-  audit_note: ''
-- id: t904-gr75-abbreviations
-  group: APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
-  title: Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?
-  kind: decision
-  text: 'Your text marks abbreviations with "~" ("alisculi~", "recog~tione", "Dam~"), as in the older court
-    books. Your ruling of 2026-11-22 says abbreviations are expanded in square brackets where the
-    expansion is certain, and that it holds for every holding worked on from now. The ten corrections
-    made in this holding use the brackets ("proq[ue] usuq[ue]", "sc[ilicet]"); your own tilde forms
-    stand as they were. Should Claude carry the bracket rule over to them here?'
-  options:
-  - Expand the tilde forms in brackets where certain
-  - Keep your tilde forms as they are
-  links:
-  - type: unit
-    slug: app5321pyzdrygr75
-    label: Pyzdry Gr.75
-  nc: ''
-  audit_note: ''
 - id: t010-full-account-of-the
   group: Prusimski-era court books, 1589-1788
   title: Full account of the Prusimski era, after the transcriptions
@@ -1647,6 +1611,14 @@ items:
   nc: The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
   audit_note: ''
 done:
+- id: t904-gr75-abbreviations
+  title: "Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?"
+  date: '2026-11-26'
+  how: "The editor said yes (2026-11-26): expand the ~ forms in square brackets where certain. Only \"recog~tioni\" (now recog[ni]tioni) was certain; \"alisculi~\" is unresolved and stands."
+- id: t902-trachultz
+  title: "Is the \"Trachultz\" of Konin Gr.120 the merchant Tracholz?"
+  date: '2026-11-26'
+  how: "The editor ruled (2026-11-26): Trachultz is Tracholz. Taken into the person entry `tracholz` and the connection, without the \"Claude reads\" wording."
 - id: t903-gr75-readings
   title: Look at the nine places on leaves 19 and 19 verso that were left as transcribed
   date: '2026-11-26'

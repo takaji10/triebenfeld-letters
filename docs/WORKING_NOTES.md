@@ -5351,3 +5351,10 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   editor's "sisce[?]": the shape fitted a word that suited the sense. What held: the omission (words the
   editor's line jumped over) and the crosses, whose placing the editor, looking at the page, read as one
   sentence ("una cum ... ac cum processu juris per Recognoscentem ... instituto") that Claude had cut in two.
+- **Read the English-doubt rule before translating a holding** (2026-11-26): Pyzdry Gr.75's first English
+  used "[uncertain: <the original's letters>]", the in-session form of the October holdings, which the
+  editor's ruling of 2026-11-22 withdrew (EDITORIAL_RULES, "An unread word in the English": the English
+  never carries the original's letters; the sense with `[?]` after it, or `[...]`). The editor had to ask.
+  The sibling holding is not a guide to the current rule: check EDITORIAL_RULES for rulings dated after the
+  sibling was built. `courtbook.write_doc_yml` still counts only the old `[uncertain:` form for
+  `marker_count`; holding.py sets it from `[?]`, `[...]` and `[uncertain`.

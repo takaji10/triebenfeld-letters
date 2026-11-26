@@ -22,7 +22,8 @@
   "agad14320139-002|2|marker-check|4 in German": "The editor, 2026-11-13: the burnt edges of the 1882 reports bridged where the sense is certain, in the transcription and the English alike, supplied words in square brackets; what would add a fact (a figure, place, date) stays [...] / [text lost]. The English has fewer marks than the German only where a letter-level [?] does not change the sense of the word it sits in. Rules in units/agad14320139/intake/supply_text.py and intake/translation/build_docs.py.",
   "app5321pyzdrygr75-001|2|marker-check|5 in German": "Claude, 2026-11-26 (for the editor to confirm): the German's \"fun[d?]u[m?]\" is two letter-level marks in one word; the English marks the word once ([uncertain: the capital]).",
   "app5321pyzdrygr75-001|2|glossary-mismatch|Dominium": "Claude, 2026-11-26 (for the editor to confirm): \"jure suo Dominio proprietato et competentia\" is the legal series right, dominion, ownership; Dominium here is the jurist's dominion, not the manorial lordship the termbase rule renders, so the English reads \"dominion\".",
-  "app5321pyzdrygr75-001|1|marker-check|4 in German": "Claude, 2026-11-26 (for the editor to confirm): the fourth German mark is \"Stru[i]um\", a letter-level doubt (the editor: it should be Struium, 'stacks'); the English reads 'stacks' with no doubt."
+  "app5321pyzdrygr75-001|1|marker-check|4 in German": "Claude, 2026-11-26 (for the editor to confirm): the fourth German mark is \"Stru[i]um\", a letter-level doubt (the editor: it should be Struium, 'stacks'); the English reads 'stacks' with no doubt.",
+  "app5321pyzdrygr75-001|2|marker-check|8 in German": "Claude, 2026-11-26 (for the editor to confirm): the German's 8 marks include letter-level doubts inside words whose sense is fixed (\"un[s?][u?][o?]n\", \"ac[u?]um\", \"process[ae?]\"); the English marks each such word once or not at all, by the rule of 2026-11-22 (EDITORIAL_RULES, \"An unread word in the English\")."
  },
  "cleared": [
   "adwl85-002|1|name-check|Olesnica",
@@ -150,6 +151,7 @@
   "app5321pyzdrygr75-001|1|marker-check|4 in German",
   "app5321pyzdrygr75-001|2|glossary-mismatch|Dominium",
   "app5321pyzdrygr75-001|2|marker-check|5 in German",
+  "app5321pyzdrygr75-001|2|marker-check|8 in German",
   "app534062-001|1|ratio|50 words",
   "oe1bu14526-017|6|rare-pair|Anweisung",
   "oe1bu9454-001|1|rare-pair|Anweisung",

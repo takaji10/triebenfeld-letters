@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-90 open: 22 question, 23 decision, 25 task, 11 claude, 9 waiting.
+88 open: 21 question, 22 decision, 25 task, 11 claude, 9 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -64,27 +64,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       the two scans, your Latin transcription and your English translation have to be in
       the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a
       desktop session. Nothing further on the holding can start until they are.
-
-- [ ] **Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?** (`t904-gr75-abbreviations`, decision). Your text marks abbreviations with "~" ("alisculi~", "recog~tione", "Dam~"), as in the
-      older court books. Your ruling of 2026-11-22 says abbreviations are expanded in
-      square brackets where the expansion is certain, and that it holds for every
-      holding worked on from now. The ten corrections made in this holding use the
-      brackets ("proq[ue] usuq[ue]", "sc[ilicet]"); your own tilde forms stand as they
-      were. Should Claude carry the bracket rule over to them here?
-      Options: Expand the tilde forms in brackets where certain / Keep your tilde forms as they are
-      Concerns: [Pyzdry Gr.75](/sources/app5321pyzdrygr75/)
-
-## Jan Tracholz
-
-- [ ] **Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?** (`t902-trachultz`, question). The new person entry Jan Tracholz takes nine documents in five holdings. One of them,
-      Konin Gr.120, document 2, writes "Spectabili Joanne Trachultz" in a contract for
-      the sale of an oak forest. Claude reads him as the same man, because Konin Gr.117
-      (documents 3 and 7) says the merchant's claim rests on a contract of 1744 for oak
-      timber with Paweł Prusimski. The document says the contract with Tracholz is the
-      one Chełmski's claim comes from, which fits; only the spelling differs, so this is
-      a reading, not a proof. Is he the same man?
-      Options: Same man, keep the entry / Not shown, take Gr.120 out of the entry / Leave it open
-      Concerns: [Konin Gr.120](/sources/app53170koningr120/)
 
 ## Prusimski-era court books, 1589-1788
 

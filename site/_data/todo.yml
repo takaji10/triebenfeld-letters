@@ -113,46 +113,6 @@ groups:
     note: ''
     editor_note: ''
     h: 9a198d7f
-  - id: t904-gr75-abbreviations
-    title: Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?
-    kind: decision
-    text: Your text marks abbreviations with "~" ("alisculi~", "recog~tione", "Dam~"), as in the older
-      court books. Your ruling of 2026-11-22 says abbreviations are expanded in square brackets where
-      the expansion is certain, and that it holds for every holding worked on from now. The ten corrections
-      made in this holding use the brackets ("proq[ue] usuq[ue]", "sc[ilicet]"); your own tilde forms
-      stand as they were. Should Claude carry the bracket rule over to them here?
-    options:
-    - Expand the tilde forms in brackets where certain
-    - Keep your tilde forms as they are
-    links:
-    - label: Pyzdry Gr.75
-      href: /sources/app5321pyzdrygr75/
-    nc: ''
-    note: ''
-    editor_note: ''
-    h: d56b2cf2
-- name: Jan Tracholz
-  items:
-  - id: t902-trachultz
-    title: Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?
-    kind: question
-    text: The new person entry Jan Tracholz takes nine documents in five holdings. One of them, Konin
-      Gr.120, document 2, writes "Spectabili Joanne Trachultz" in a contract for the sale of an oak forest.
-      Claude reads him as the same man, because Konin Gr.117 (documents 3 and 7) says the merchant's claim
-      rests on a contract of 1744 for oak timber with Paweł Prusimski. The document says the contract
-      with Tracholz is the one Chełmski's claim comes from, which fits; only the spelling differs, so
-      this is a reading, not a proof. Is he the same man?
-    options:
-    - Same man, keep the entry
-    - Not shown, take Gr.120 out of the entry
-    - Leave it open
-    links:
-    - label: Konin Gr.120
-      href: /sources/app53170koningr120/
-    nc: ''
-    note: ''
-    editor_note: ''
-    h: acf93a40
 - name: Prusimski-era court books, 1589-1788
   items:
   - id: t010-full-account-of-the
@@ -1677,9 +1637,9 @@ groups:
     editor_note: ''
     h: 715308a8
 counts:
-  question: 22
-  decision: 23
+  question: 21
+  decision: 22
   task: 25
   claude: 11
   waiting: 9
-total: 90
+total: 88

@@ -27,7 +27,7 @@ Latin with a Polish closing formula ("ręką trzymaną") and docket. Read
   are kept as received in `intake/editor_latin.md` and `intake/editor_english.md`.
   The English of the edition is Claude's own, in session, no paid run.
 - **Tracholz.** A person entry at the editor's word (`tracholz`,
-  `reference/people.yml`): 9 documents now. The Pyzdry clerk writes **Traholtz**
+  `reference/people.yml`): 9 documents now; the "Trachultz" of Gr.120 is Tracholz (the editor, 2026-11-26). The Pyzdry clerk writes **Traholtz**
   (no c); the pattern is `Trac?h[ou]lt?z`.
 - **Connections.** The editor named it a default step: connection
   `tracholz-transfer-and-chelmski-suit` (six documents: this entry, the Konin
@@ -81,9 +81,16 @@ Struck out, not transcribed (ruling of 2026-10-05, restated by the editor 2026-1
 the struck out words in the transcription"): "per" after "elaboratis"; about three words after
 "Prusimski pro" ("usu seu conversione"); "sibi" before "hasce" on the verso.
 
-**Abbreviations.** The editor's "~" forms stand; the letters supplied in the corrections are
-bracketed by the ruling of 2026-11-22. Whether to carry the bracket rule over to the editor's tilde
-forms is asked (TODO t904).
+**Abbreviations.** The editor ruled (2026-11-26, TODO t904) that the tilde forms are expanded in square
+brackets where certain: "recog~tioni" is now "recog[ni]tioni"; "alisculi~" is an unresolved word and
+stands. The editor's other transcription is unchanged.
+
+**The English and doubt.** The rule of 2026-11-22 (EDITORIAL_RULES, "An unread word in the English"):
+the English never carries the original's letters; where the passage fixes the sense it gives the sense
+with `[?]` after it, where it does not, `[...]`. So "6 pfennigs[?]", "a separate[?] register", "by his own
+right[?]", "together[?] with", "with[?] the legal process", and `[...]` for "[ordine?]", "sisc[e?]",
+"alisculi~", "Da[m/s?]" and the flourish. (The first draft of this English used the older
+"[uncertain: ...]" form; withdrawn.)
 
 ## What the entry says, and does not
 
