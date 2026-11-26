@@ -5332,3 +5332,9 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
 - **Name pattern for a scribe's variant.** Tracholz was `Trach[ou]lt?z`; the Pyzdry
   clerk writes "Traholtz" (no c) and the pattern missed the transfer itself. Check the
   new holding's own hits after building: `site/_data/people.yml` count for the person.
+- **A spot sheet from strips** (2026-11-26, Pyzdry Gr.75): when the editor asks to check
+  highlighted changes against the image, one HTML page does it: a card per change or
+  question, the words in context with the change marked, "you had / now", and the enlarged
+  strip of the page (the images inside the file once, set by a few lines of script;
+  `units/app5321pyzdrygr75/intake/spot_sheet.py` is the pattern). Say on the sheet which
+  strips Claude did not read itself.
