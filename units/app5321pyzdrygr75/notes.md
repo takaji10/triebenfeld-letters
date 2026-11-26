@@ -5,7 +5,7 @@ One document on two pages: entry no. 39 of the register "Inscriptiones
 recto and verso - the declaration of the merchant Jan Tracholz of Witkowo
 (written Traholtz) transferring to Stanisław Chełmski his claims against the
 late Paweł Prusimski. Added 2026-11-26 on the branch
-`claude/vigilant-johnson-jxb4hz`; status `translated`; **not published**.
+`claude/vigilant-johnson-jxb4hz`; status `translated`; **published 2026-11-26** (run 267 of "Build and deploy").
 Latin with a Polish closing formula ("ręką trzymaną") and docket. Read
 `intake/holding.py`'s docstring first.
 
