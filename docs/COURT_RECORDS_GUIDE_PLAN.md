@@ -67,6 +67,30 @@ and the English. The material, counted 2026-11-26:
   that mislead; how to transcribe; a worked example and an exercise in every chapter; the reference
   appendices. Section 3 holds them all.
 
+- **Named for Greater Poland, with the courts it covers** (the editor, 2026-11-26: "Should we be
+  specific and say this guide is for court records from Greater Poland? (And then specifically
+  outline which areas were worked with)"). The title says Greater Poland; the preface and chapter 1
+  name the courts, the years and the archive (below), and say what carries over to other parts of the
+  Commonwealth and what may not (other regions' courts kept other books and formulas; the guide does
+  not claim them).
+
+**The scope, as the edition holds it (2026-11-26).** All in the State Archive in Poznań (Archiwum
+Państwowe w Poznaniu), from the palatinates of **Kalisz** and **Poznań**:
+
+| Court | Books (archive's fonds) | The edition's volumes | Years |
+|---|---|---|---|
+| Castle court (gród) of **Konin** | Księgi sądu i urzędu grodzkiego w Koninie | Relationes Gr.114-121; Relationes-oblatae Gr.136, 145, 153 | 1754-1788 |
+| Castle court of **Kalisz** | Księgi sądu i urzędu grodzkiego w Kaliszu | Relationes Gr.414, 424, 425 | 1771-1776 |
+| Castle court of **Pyzdry** | Księgi sądu i urzędu grodzkiego w Pyzdrach | Inscriptiones Gr.75; Relationes Gr.115 | 1768; 1791-1792 |
+| Castle court of **Poznań** (the volume holds a decree of the castellany court) | fonds 53/20 (its name to be taken from the archive's record) | Relationes Gr.1181 | 1784-1786 |
+| Land court (ziemski) of **Konin** | Księgi sądu ziemskiego w Koninie | Inscriptiones, relationes, decreta 17; Decreta 36, 40, 45, 46, 47 | 1589-1791 |
+| Land court of **Kalisz** | Księgi sądu ziemskiego w Kaliszu | Relationes, citationes 62 | 1726-1727 |
+
+Most of it is the second half of the eighteenth century and the boundary quarrel between Trąbczyn and
+Łukomia; the oldest entry is of 1589. The Ląd copy-book (Cistercian abbey, privileges 1362-1761) is a
+monastery's book, not a court book, and stays out of the guide except as an example of the charter
+formulas, if wanted.
+
 ## 3. The shape of the book
 
 A title page and a short preface (who it is for, what it covers, how to use it with the edition),
