@@ -1,3 +1,7 @@
+# DRAFT dictionaries for the court-records reading guide. Forms, counts and doc ids are counted
+# mechanically from units/<slug>/corpus.txt (22 holdings); meanings and notes are hand-written and
+# `sure: no` marks a meaning not settled. English: the municipal court (Latin castrensis) vs the land court (terrestris).
+# counts include lower-case variants and some non-Latin collisions; check before publishing.
 forenames:
 - latin: Joannes
   polish: Jan
