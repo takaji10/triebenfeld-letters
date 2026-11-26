@@ -5281,3 +5281,31 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
 - **Looking at a built page:** the site's links are root-relative (`baseurl: ""`), so a `file://` screenshot has no CSS; serve `site/_site` with `python3 -m http.server` from that folder and open `http://localhost:<port>/...`.
 - **The search bar** is one component (`_includes/browse.html`, `.filters` in style.css); a new bar (Places, Glossary, the to-do page) uses the same classes (`f-main`, `f-bar`, `f-grid`), never its own look.
 - **Run order trap in the to-do build** (2026-11-25): `build_todo.py` overwrites `docs/TODO.md`. Archive an old `TODO.md` (git mv or `git show HEAD:docs/TODO.md >`) BEFORE the first run, or restore it from git afterwards.
+
+## Pyzdry Gr.75 begun, and the Tracholz entry (2026-11-26)
+
+- **The volume is settled** (the editor, 2026-11-26): Pyzdry Gr.75 is
+  "Inscriptiones [protocollon] 1768-1781"; the "Relationes 1768-1771" folder
+  was a second copy of the same volume and is deleted on their machine. Two
+  scans are the whole extent, no cropping or fold step, and the editor's own
+  transcription is used and checked against the scans. The editor's translation
+  is a guide only. The holding is **not yet built**: the scans, the Latin and
+  the English are on the editor's J drive, which a cloud session cannot read
+  (TODO t900).
+- **Check what is already built before planning from the notes.** The first plan
+  of the sitting treated entry no. 17 of 53/6/0/-/46 as "never built" because
+  the old questions file (`docs/archive/PRUSIMSKI_QUESTIONS.md`) said so. It has
+  been document 2 of that holding since 2026-10-07 (`units/app536046/notes.md`).
+  The editor wants a fresh transcription attempt and then their own close pass,
+  with the translation held until they have made it (TODO t901): the existing
+  English stays untouched meanwhile.
+- **The person entry `tracholz`** (`reference/people.yml`, the editor's yes,
+  2026-11-26): surname pattern `Trach[ou]lt?z`, no `only_in`; 8 documents, 15
+  hits (Konin Gr.117 docs 2, 3, 7, 8, 9; Gr.118 doc 14; 53/6/0/-/46 doc 2; Gr.120
+  doc 2). Gr.120's "Trachultz" is Claude's reading (TODO t902). When Gr.75 is
+  built, count its hits and read each (WORKING_NOTES mistake 7 of NEW_UNIT).
+- **Trap: `build_site_data.py` rewrites unrelated generated files.** On
+  2026-11-26 it regenerated four `site/_holdings/*.md` that were stale in the
+  commit, and dropped `year_min`/`year_max` from `site/_data/stats.yml`. Check
+  `git diff --stat` after it and commit only what the change caused (the
+  holdings were checked out again, the two stats lines restored by hand).

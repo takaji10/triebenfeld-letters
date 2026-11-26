@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-88 open: 21 question, 23 decision, 24 task, 11 claude, 9 waiting.
+90 open: 22 question, 22 decision, 26 task, 11 claude, 9 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -55,12 +55,37 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       Concerns: [Konin Gr.145](/sources/app53170koningr145/)
       Full discussion: NEEDS_CONFIRMATION, "APP 53/21/0/-/Pyzdry Gr.115".
 
-- [ ] **Settle what Pyzdry Gr.75 is, when you return to it** (`t009-settle-what-pyzdry-gr`, decision). The signature Pyzdry Gr.75 stands on two folders of your scans: one titled Relationes
-      [protocollon] 1768-1771 (with texts), one titled Inscriptiones [protocollon]
-      1768-1781 (without). One signature cannot be two volumes, so which title belongs
-      to which folder is open. You said on 2026-10-07 you were not sure and would look
-      at it later; both folders wait until then.
-      Options: Relationes 1768-1771 is right / Inscriptiones 1768-1781 is right / Two separate volumes under one signature
+## APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
+
+- [ ] **Put the Pyzdry Gr.75 scans, transcription and translation where the session can read them** (`t900-pyzdry-gr75-supply-files`, task). You ruled on 2026-11-26 that the correct folder is Inscriptiones [protocollon] 1768-1781
+      (the Relationes 1768-1771 folder was a duplicate and is deleted), that its two
+      scans are the whole extent, that no cropping is needed, and that your
+      transcription is used and checked. The cloud session cannot read the J drive, so
+      the two scans, your Latin transcription and your English translation have to be in
+      the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a
+      desktop session. Nothing further on the holding can start until they are.
+
+## APP 53/6/0/-/46 (Konin land court, sitting of October 1777)
+
+- [ ] **Make your close pass over document 2 (entry no. 17) before it is translated again** (`t901-no17-close-pass`, task). Entry no. 17 of the sitting (leaf 183 recto, the suit of Chełmski on the transfer from
+      the merchant Tracholz) is already document 2 of this holding, transcribed from the
+      film in 2026-10-07 and published with an English translation of that day. You
+      asked on 2026-11-26 for a fresh attempt at its transcription and said it needs a
+      very close pass by you, and that its translation waits until you have made it.
+      When the transcription attempt is done it comes to you; the English stays as it is
+      until you have ruled.
+      Concerns: [APP 53/6/0/-/46](/sources/app536046/)
+
+## Jan Tracholz
+
+- [ ] **Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?** (`t902-trachultz`, question). The new person entry Jan Tracholz takes eight documents in five holdings. One of them,
+      Konin Gr.120, document 2, writes "Spectabili Joanne Trachultz" in a contract for
+      the sale of an oak forest. Claude reads him as the same man, because Konin Gr.117
+      (documents 3 and 7) says the merchant's claim rests on a contract of 1744 for oak
+      timber with Paweł Prusimski. The spelling differs and the date of the sitting is
+      1785-86, so this is a reading, not a proof. Is he the same man?
+      Options: Same man, keep the entry / Not shown, take Gr.120 out of the entry / Leave it open
+      Concerns: [Konin Gr.120](/sources/app53170koningr120/)
 
 ## Prusimski-era court books, 1589-1788
 

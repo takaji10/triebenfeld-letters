@@ -96,22 +96,63 @@ groups:
     note: The old text still listed Poznań Gr.1181 as missing; it is built (units/app5320pozgr1181).
     editor_note: ''
     h: d8a9e057
-  - id: t009-settle-what-pyzdry-gr
-    title: Settle what Pyzdry Gr.75 is, when you return to it
-    kind: decision
-    text: 'The signature Pyzdry Gr.75 stands on two folders of your scans: one titled Relationes [protocollon]
-      1768-1771 (with texts), one titled Inscriptiones [protocollon] 1768-1781 (without). One signature
-      cannot be two volumes, so which title belongs to which folder is open. You said on 2026-10-07 you
-      were not sure and would look at it later; both folders wait until then.'
-    options:
-    - Relationes 1768-1771 is right
-    - Inscriptiones 1768-1781 is right
-    - Two separate volumes under one signature
+- name: APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
+  items:
+  - id: t900-pyzdry-gr75-supply-files
+    title: Put the Pyzdry Gr.75 scans, transcription and translation where the session can read them
+    kind: task
+    text: You ruled on 2026-11-26 that the correct folder is Inscriptiones [protocollon] 1768-1781 (the
+      Relationes 1768-1771 folder was a duplicate and is deleted), that its two scans are the whole extent,
+      that no cropping is needed, and that your transcription is used and checked. The cloud session cannot
+      read the J drive, so the two scans, your Latin transcription and your English translation have to
+      be in the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a desktop
+      session. Nothing further on the holding can start until they are.
+    options: []
     links: []
     nc: ''
     note: ''
     editor_note: ''
-    h: 76040ad1
+    h: 9a198d7f
+- name: APP 53/6/0/-/46 (Konin land court, sitting of October 1777)
+  items:
+  - id: t901-no17-close-pass
+    title: Make your close pass over document 2 (entry no. 17) before it is translated again
+    kind: task
+    text: Entry no. 17 of the sitting (leaf 183 recto, the suit of Chełmski on the transfer from the merchant
+      Tracholz) is already document 2 of this holding, transcribed from the film in 2026-10-07 and published
+      with an English translation of that day. You asked on 2026-11-26 for a fresh attempt at its transcription
+      and said it needs a very close pass by you, and that its translation waits until you have made it.
+      When the transcription attempt is done it comes to you; the English stays as it is until you have
+      ruled.
+    options: []
+    links:
+    - label: APP 53/6/0/-/46
+      href: /sources/app536046/
+    nc: ''
+    note: ''
+    editor_note: ''
+    h: 45e71ad6
+- name: Jan Tracholz
+  items:
+  - id: t902-trachultz
+    title: Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?
+    kind: question
+    text: The new person entry Jan Tracholz takes eight documents in five holdings. One of them, Konin
+      Gr.120, document 2, writes "Spectabili Joanne Trachultz" in a contract for the sale of an oak forest.
+      Claude reads him as the same man, because Konin Gr.117 (documents 3 and 7) says the merchant's claim
+      rests on a contract of 1744 for oak timber with Paweł Prusimski. The spelling differs and the date
+      of the sitting is 1785-86, so this is a reading, not a proof. Is he the same man?
+    options:
+    - Same man, keep the entry
+    - Not shown, take Gr.120 out of the entry
+    - Leave it open
+    links:
+    - label: Konin Gr.120
+      href: /sources/app53170koningr120/
+    nc: ''
+    note: ''
+    editor_note: ''
+    h: 72451c01
 - name: Prusimski-era court books, 1589-1788
   items:
   - id: t010-full-account-of-the
@@ -1636,9 +1677,9 @@ groups:
     editor_note: ''
     h: 715308a8
 counts:
-  question: 21
-  decision: 23
-  task: 24
+  question: 22
+  decision: 22
+  task: 26
   claude: 11
   waiting: 9
-total: 88
+total: 90

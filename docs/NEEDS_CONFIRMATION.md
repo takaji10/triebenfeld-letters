@@ -9,6 +9,17 @@ reason to change the text without the editor.
 The `review/<slug>/` files named below are generated and not in the
 repository; they are on the working machine.
 
+## Jan Tracholz (2026-11-26)
+
+- **Is the "Spectabilis Joannes Trachultz" of Konin Gr.120, document 2, the
+  merchant Jan Tracholz?** Claude's reading: the contract for the sale of an oak
+  forest is the 1744 contract for oak timber that Konin Gr.117 names. The
+  spelling and the thirty years' gap make it a reading, not a proof. The entry
+  `tracholz` takes it for now (TODO t902).
+- **"Vitkovien~" as Witkowo** in 53/6/0/-/46, document 2, is Claude's
+  identification (the editor's spot sheet of 2026-10-07 left it); the new entry
+  repeats it as Claude's.
+
 ## The site overhaul (2026-11-24, docs/SITE_OVERHAUL_PLAN.md)
 
 - **Three works now shown in full, copyright to clear (you).** Nazwy

@@ -1667,6 +1667,17 @@
   bio_de: "Sohn Ottos von Trąbczyn, am 15. Mai 1434 von seinem Bruder Wojciech bevollmächtigt. Die Herausgeber des Kodeks halten ihn für schwer von einem gleichnamigen Zeitgenossen in Trąbczyn zu unterscheiden."
   span: "1434"
   letters: [{id: "19", uid: "kdw-19", url: "/documents/kdw/19/", unit_label: "Kodeks Dyplomatyczny Wielkopolski", n: 3}]
+- slug: "tracholz"
+  name: "Jan Tracholz"
+  heading: "Jan Tracholz"
+  heading_de: "Jan Tracholz"
+  count: 15
+  docs: 8
+  eras: ["prusimski-boundary"]
+  life: "documented 1777-1786"
+  life_de: "belegt 1777-1786"
+  span: "1777–1786"
+  letters: [{id: "2", uid: "app536046-2", url: "/documents/app536046/2/", unit_label: "APP 53/6/0/-/46", n: 3}, {id: "3", uid: "app53170koningr117-3", url: "/documents/app53170koningr117/3/", unit_label: "53/17/0/-/Konin Gr.117", n: 3}, {id: "2", uid: "app53170koningr117-2", url: "/documents/app53170koningr117/2/", unit_label: "53/17/0/-/Konin Gr.117", n: 1}, {id: "7", uid: "app53170koningr117-7", url: "/documents/app53170koningr117/7/", unit_label: "53/17/0/-/Konin Gr.117", n: 2}, {id: "8", uid: "app53170koningr117-8", url: "/documents/app53170koningr117/8/", unit_label: "53/17/0/-/Konin Gr.117", n: 3}, {id: "9", uid: "app53170koningr117-9", url: "/documents/app53170koningr117/9/", unit_label: "53/17/0/-/Konin Gr.117", n: 1}, {id: "14", uid: "app53170koningr118-14", url: "/documents/app53170koningr118/14/", unit_label: "53/17/0/-/Konin Gr.118", n: 1}, {id: "2", uid: "app53170koningr120-2", url: "/documents/app53170koningr120/2/", unit_label: "53/17/0/-/Konin Gr.120", n: 1}]
 - slug: "jankowski"
   name: "Jankowski"
   heading: "Jankowski, Joseph von"

@@ -934,6 +934,22 @@ people:
     identity: "Krzysztof Prusimski, heir of Trąbczyn, principal defendant in the suit of Franciszek and Józef Ścibor Chełmski before the land court at Konin, which in January 1728 sent a commissioner onto the disputed ground (APP 53/6/0/-/40: 'Generosis Christophoro Prusimski parenti principali tum et Antonio Prusimski filio'). The boundary decree of 1775 calls him grandfather of Antoni Prusimski, the Starost of Niszczewice, and names the elder Antoni, his son, cited with him here, as the Starost's uncle, who died before 1775 (APP 53/17/0/-/Konin Gr.145). This entry stands for father and son in the decree of 1728. Added 2026-10-07."
     distinct_from: [prusimski]
     merge: false
+  tracholz:
+    display: "Jan Tracholz"
+    render: "Tracholz"
+    # A person entry at the editor's word (2026-11-26), for the merchant of
+    # the suit over the oak timber that Paweł Prusimski sold in 1744 and whose
+    # claims against Paweł's estate Chełmski bought in 1768. The surname is
+    # his wherever it stands: Tracholz, Tracholtz, and "Trachultz" of
+    # Konin Gr.120, document 2 (Claude's reading: the contract for the sale
+    # of an oak forest is the 1744 contract; NEEDS_CONFIRMATION). No `only_in`
+    # needed: the surname is unusual and the pattern ends at a word boundary.
+    match: 'Trach[ou]lt?z(?![a-zà-ÿ])'
+    tier: "Text-confirmed (name, merchant, the transfer of 1768); the identification of the 1744 contractor and of the Trachultz of 1785-86 with him is Claude's reading from the documents"
+    variants: ["Tracholtz", "Trachultz"]
+    identity: "Jan (Joannes) Tracholz, merchant and inhabitant of Witków (the register's Vitkovien~, read by Claude as Witkowo), the creditor of the late Paweł Prusimski of Trąbczyn. Before the Pyzdry castle court on Wednesday, the eve of the Nativity of the Virgin Mary (7 September) 1768, he made over by transfer (transfusio) to Stanisław Chełmski the sums he claimed from Paweł Prusimski (APP 53/6/0/-/46, document 2). Antoni Prusimski, Paweł's nephew, says in his protest of March 1778 that the claim rests on a contract of 1744 for oak timber between Paweł and Tracholz, and calls the sum claimed illegal (APP 53/17/0/-/Konin Gr.117, documents 2, 3 and 7-9); document 8 calls him \"olim\" (the late), so he was dead by 1778. Chełmski sued Antoni on the transfer, and the Crown Tribunal's citation names the merchant Tracholz as the one who made the sum over to him (Gr.118, document 14). Added 2026-11-26."
+    distinct_from: []
+    merge: false
   przespolewski:
     display: "Przespolewski"
     match: "Przespolewski"
