@@ -135,7 +135,14 @@ for the reader to try, the answer behind a plain `<details>`).
 14. **Where readers go wrong.** The traps of the edition's own transcriptions, from the logged
     changes: minims, the p with a stroke, words skipped, the inserted line and its cross, the
     struck word, and the word completed from the sense (Claude's own *hasce* for *hisce*).
-15. **Appendices**: the list of abbreviations with their expansions by case; the formulas in one
+15. **Dictionaries** (the editor, 2026-11-26: "let's make some quick 'dictionaries' - like a list of
+    Polish place names I encountered that has been written in Latin - Nieszczevicensem would be really
+    hard to figure out from Nieszcz~"). Short lookup lists at the back of the book, each built from the
+    edition's own Latin, every form as written: **places** (the Latin adjective and its abbreviations ->
+    the Polish place; begun, `reference/guide/places_latin.yml`, from `pipeline/guide/dictionaries.py`),
+    and proposed (section 7): forenames, offices, titles, kin, feasts, months and numerals, money and
+    measures, family adjectives, the legal verbs.
+16. **Appendices**: the list of abbreviations with their expansions by case; the formulas in one
     place; the feasts; the ladder of titles and the offices; money and measures; the place
     adjectives (from `reference/places.yml`); the legal terms (links into the glossary); further
     reading (Gloger, Cappelli's *Lexicon abbreviaturarum*, Grotefend, the archives' fonds

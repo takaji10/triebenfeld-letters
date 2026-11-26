@@ -1,0 +1,148 @@
+# The place dictionary of the reading guide: the Latin forms of place names in the edition's Latin
+# court books, with the Polish place. Made 2026-11-26 from reference/guide/places_found.yml
+# (pipeline/guide/dictionaries.py), identified by Claude; `sure: no` marks an identification to check.
+# A place adjective changes its ending with its case (Calissiensis, -i, -em, -ium, -ibus) and is
+# often abbreviated after the stem (Calissien~), so each entry lists every form found.
+# Fields: polish (the place), note (what it is and where), forms (as written, the commonest first),
+# phrase (how it usually stands), sure.
+
+places:
+- polish: Niszczewice
+  note: "the starosty (capitaneatus) Antoni Prusimski held; in the Latin only in his title"
+  forms: [Nieszczevicen~, Nieszczeviensem, Nieszczeviensis, Niszczeviensis, Nieszczevicensem, Nieszczevensis, Nieszczevicensis, Niszczevicen~, Niesczevicensis, Niesczevicen~, Niesczeviensem, Nieszcevicen~, Nieszczeviensi, Niszczevicensis]
+  phrase: "Capitaneus Nieszczevicensis (Starost of Niszczewice)"
+  sure: yes
+- polish: Kalisz
+  note: "the palatinate and its land court; also 'Terrestris Calissiensis', 'Palatinatus Calissiensis'"
+  forms: [Calissien~, Calissiensis, Calissiensi, Calissiense, Callisien~]
+  phrase: "Judicium Terrestre Calissiense (the land court of Kalisz)"
+  sure: yes
+- polish: Wschowa
+  note: "in the title of Stanisław Chełmski, Treasurer of Wschowa"
+  forms: [Vschoven~, Vschoviensis, Vschovensem, Vschovensis]
+  phrase: "Thesaurarius Vschovensis (Treasurer of Wschowa, skarbnik wschowski)"
+  sure: yes
+- polish: Piotrków
+  note: "seat of the Crown Tribunal, to which the royal citations summon"
+  forms: [Petricovien~, Petricoviensis, Petricoviensem, Petricoviensi]
+  phrase: "in Judiciis Tribunalis Regni Petricoviensis (before the Crown Tribunal at Piotrków)"
+  sure: yes
+- polish: Konin
+  note: "the castle court whose books are the edition's Konin registers"
+  forms: [Coninensis, Coninen~, Coninensi, Coninense, Coninensem, Coninensibus]
+  phrase: "Acta Castrensia Coninensia (the castle records of Konin)"
+  sure: yes
+- polish: Poznań
+  forms: [Posnaniensis, Ponaniensis]
+  phrase: "Palatinatus Posnaniensis"
+  sure: yes
+- polish: Gniezno
+  forms: [Gnesniensis, Gnesiensis, Gnesnensis, Gnesnen~]
+  phrase: "Archidioecesis / Palatinatus Gnesnensis"
+  sure: yes
+- polish: Ląd
+  note: "the Cistercian abbey on the Warta"
+  forms: [Landensis, Landensem, Landen~]
+  phrase: "Venerabilis Conventus Landensis (the convent of Ląd)"
+  sure: yes
+- polish: Trąbczyn
+  forms: [Trąmpczynen~, Trąmpczynensium, Trąpczynensi, Trąmpczynenses, Trąmpczyniensem, Trąpczynensis, Trąpczynen~, Trąbczynen~]
+  phrase: "in Borris et sylvis Trąpczynensi (in the pine forests and woods of Trąbczyn)"
+  sure: yes
+- polish: Zagórów
+  forms: ["Zagorowien[sem?]", "Zagorowiens[i?]"]
+  sure: yes
+- polish: Dobrzyń
+  note: "the land of Dobrzyń (terra Dobrinensis)"
+  forms: [Dobrinensis, Dobrinensem, Dobrinen~]
+  phrase: "Camerarius Granicialis Terrae Dobrinensis (boundary chamberlain of the land of Dobrzyń)"
+  sure: yes
+- polish: Brześć Kujawski
+  forms: [Bresten~, Braesten~, Brestensis, Brestensem, Brestensi, Brestensibus]
+  phrase: "Acta Castrensia Brestensia Cujaviae"
+  sure: yes
+- polish: Bydgoszcz
+  forms: [Bidgostien~, Bidgosten~, Bidgostiensi, Bidgostiensibus, Bydgostiensem]
+  sure: yes
+- polish: Inowrocław
+  note: "Latin Junivladislavia"
+  forms: [Junivladislaviensi, Junivladislav~, Iunivladislaviense, Iunivladislaviensis, Iunivladislaviensium]
+  sure: yes
+- polish: Łęczyca
+  forms: [Lanciciensi, Lanciciensis]
+  sure: yes
+- polish: Płock
+  forms: [Plocen~, Plocensis]
+  sure: yes
+- polish: Pyzdry
+  forms: [Pyzdrensis, Pyzdrensem, Pyzdrensibus]
+  phrase: "Acta Castrensia Pyzdrensia"
+  sure: yes
+- polish: Radziejów
+  forms: [Radziejoviensis, Radziejoviensem, Radziejoviensi, Radziejovien~, Radziejviensis]
+  sure: yes
+- polish: Sieradz
+  forms: [Siradensis, Siradiensi]
+  sure: yes
+- polish: Kraków
+  forms: [Cracoviensis]
+  sure: yes
+- polish: Kościan
+  forms: [Costenensibus, Costensem]
+  sure: yes
+- polish: Kowal
+  note: "the castle court of Kowal"
+  forms: [Covaliensis]
+  phrase: "coram actis Castrensibus Covaliensibus"
+  sure: yes
+- polish: Rawa, Gostynin, Łomża, Czersk, Warszawa
+  note: "the Masovian lands named together in one decree (53/6/0/-/40)"
+  forms: [Ravensis, Gostinensis, Gostinense, Łomzensis, Cernensis, Varsaviensis]
+  phrase: "Ravensis sive Gostinensis, modo Łomzensis, aut Cernensis vel Varsaviensis"
+  sure: yes
+- polish: Rogoźno
+  note: "in a castellaness's title"
+  forms: [Rogoznen~]
+  phrase: "Castellanae Rogoznensis (castellaness of Rogoźno)"
+  sure: yes
+- polish: Swarzędz
+  note: "a provost's title"
+  forms: [Svarządzensi]
+  sure: yes
+- polish: Szczecin
+  note: "German Stettin; the merchant Simon of Szczecin in Tracholz's transfer"
+  forms: [Stetinensi, Stetinensis]
+  sure: yes
+- polish: Witkowo
+  note: "the merchant Tracholz's town; Claude's identification (NEEDS_CONFIRMATION)"
+  forms: [Vitkovien~, Witkoviensi]
+  sure: no
+- polish: Lusnia
+  note: "the wood with the Olęder settlement and its tavern (the edition's Lusnia)"
+  forms: [Lusnensem]
+  phrase: "Taberna Cauponatoria Lusnensis (the tavern of Lusnia)"
+  sure: yes
+- polish: Trembowla (Terebovlia)
+  note: "in an office: Venator Trębovliensis, Master of the Hunt of Trembowla"
+  forms: [Trębivolien~]
+  sure: no
+- polish: "Krobielewo?"
+  note: "a forest named beside Kamionna in the decree of 1784; not identified"
+  forms: [Krobielevien~]
+  sure: no
+- polish: "Tomice?"
+  note: "a tavern (Caupona Tomicensis) in a decree of 1781-1791; which Tomice is not known"
+  forms: [Tomicensem]
+  sure: no
+
+# Words that look like place adjectives and are not.
+not_places:
+- {form: "Castrensis, Castren~ (and cases)", meaning: "of the castle court (gród): Acta Castrensia"}
+- {form: "Terrestris", meaning: "of the land court (ziemski)"}
+- {form: "Mensis", meaning: "month (Die 20 Mensis Octobris)"}
+- {form: "Cistersiensis, Cystercien~", meaning: "Cistercian (of the order)"}
+- {form: "Polonensium (marcarum)", meaning: "Polish (marks)"}
+- {form: "Authen~", meaning: "authentic (Litterae Authenticae)"}
+- {form: "Audien~, Viden~, Eden~, Inscriben~, Innotescen~, Intervenien~, Competen~, Inciden~, Attinen~, Condescen~", meaning: "participles and gerunds (audiendum, videndum, edendum ...), not places"}
+- {form: "Plens~", meaning: "plenipotens, the attorney"}
+- {form: "Predecen~, Praedicen~", meaning: "in 'Ensifer Praedicen~' (a sword-bearer's title, 1784): the office's place is not settled; perhaps praedictus"}
