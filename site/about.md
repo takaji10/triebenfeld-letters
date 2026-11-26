@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-standfirst: Where the documents are held, how the text was made and how far it can be relied on.
 permalink: /about/
 lang: en
 alt_url: /de/ueber/

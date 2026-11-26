@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Über
-standfirst: Wo die Dokumente liegen, wie der Text entstanden ist und wie weit man sich auf ihn verlassen kann.
 permalink: /de/ueber/
 lang: de
 alt_url: /about/
