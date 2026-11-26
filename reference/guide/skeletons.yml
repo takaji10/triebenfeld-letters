@@ -1,0 +1,455 @@
+kinds:
+- kind: report
+  what_it_is: A report (relatio) is the court messenger's (Ministerialis Regni Generalis) sworn-style statement,
+    entered in the Konin castle court's record, that he carried a royal citation to the named person's estate and
+    left it there. It recites the whole citation word for word, then says where, when and with whom it was left.
+  parts:
+  - part: 1. Sitting heading (often only on the first entry of the day)
+    latin: Actum in Conin Feria Quarta post Dominicam Ramis Palmarum Quadragesimalem proxima Scilicet Die 15 Mensis
+      Aprilis Anno Domini 1778uo
+    english: Done at Konin on the Wednesday next after Palm Sunday, namely 15 April 1778.
+    varies: weekday and feast, day, month, year (see common.dating)
+    docs: app53170koningr117-1, app53170koningr119-5, app53170koningr118-23
+  - part: '2. Docket: who for, against whom'
+    latin: Ex parte M. Chełmski contra M. Prusimski ... Relatio  /  Ex Parte JM Prusimski contra M Chełmski Relatio
+    english: 'On behalf of Chełmski against Prusimski: report.'
+    varies: the two parties; sometimes the court or term named (pro Judiciis Terrestribus Calissien~; ad Tribunal)
+    docs: app53170koningr117-9, app53170koningr119-2, app53170koningr118-10
+  - part: 3. Appearance of the messenger
+    latin: Ad Officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Jankowski
+      de villa Łukom Ministerialis Regni Generalis Sanus
+    english: Coming in person to the office and present records of the Konin castle court, the Provident (title
+      of a burgher or commoner) Jan Jankowski of the village of Łukom, General Royal Messenger, sound (in health).
+    varies: messenger's name, his village, honorific (Providus / Providens / Laboriosus); sometimes 'Personaliter
+      veniens' alone without the 'Ad Officium' clause
+    docs: app53170koningr117-9, app53170koningr118-14, app53170koningr119-1
+  - part: 4. His acknowledgement (the oath-like recognition)
+    latin: Recognovit se Citt~ Litt~ Authen~ pro Judiciis Terrestribus Calissiens[ibus] Districti in Conin Celebran~
+      editt~ de tenore tali
+    english: He acknowledged that he (had carried) the authentic citation letter issued for the Kalisz land courts
+      to be held at Konin, of the following tenor.
+    varies: 'court or term the citation is for (Judiciis Castrensibus; Ordinariis Generalibus Tribunalis Regni Petricovien~;
+      Termino Condescensionis); the Latin is heavily abbreviated: Citt~ Litt~ Authen~ = Citatoriis Litteris Authenticis'
+    docs: app53170koningr117-9, app53170koningr118-10, app53170koningr120-2
+  - part: 5. The royal citation recited
+    latin: Stanislaus Augustus Dei Gratia Rex Poloniae Magnus Dux Lithuaniae Russiae Prussiae [etc.] Tibi M Antonio
+      a Colno Prusimski Capitaneo Niszczevicen[si] Bonorum Trąmpczyna Haeredi de persona bonisque tuis ... Mandamus
+      ut Coram Nobis Judiciisque Nostris Terrestribus Calissiensi[bus] primis et proximis in Conin Celebrandis personaliter
+      ac peremptorie Compareas ad Instantiam Magnifici Stanislai Chełmski Bonorum Łukomia Haeredis Actoris Qui Te
+      Citat ...
+    english: Stanislaus Augustus, by the grace of God King of Poland, Grand Duke of Lithuania, ... To you, the Honourable
+      Antoni of Kolno Prusimski, Starost of Niszczewice, heir of the estate of Trąbczyn, regarding your person and
+      goods ... we command that you appear in person and peremptorily before Us and Our Kalisz land courts, the
+      first to be held at Konin, at the instance of Chełmski, heir of Łukom, plaintiff, who cites you ...
+    varies: the plaintiff, the defendant and his titles, the grievance (the citation then states the claim 'pro
+      eo quia ...'), the term; the king's titulature is often cut to [etc.]; in the report of 1726 no citation is
+      recited
+    docs: app53170koningr117-1, app53170koningr117-9, app53170koningr120-2
+  - part: '6. End of the citation: the term and its dating'
+    latin: '... proquo Citatus sis pariturus Terminum attentaturus et Judicialiter responsurus Dato Calissii Feria
+      6ta Magna~ Anno Domini 1778uo'
+    english: '... for which let the cited person be ready to obey, to attend the term and answer in court. Given
+      at Kalisz on Good Friday 1778.'
+    varies: place and day of issue of the citation (often Calissii or Petricoviae)
+    docs: app53170koningr117-9, app53170koningr118-10
+  - part: 7. How it was served and left (the closing formula)
+    latin: In Bonis Trąmpczyn officina Ibidem Litto~ super mensa hippi~ praesente Economo die hodierna Act~ Contenta
+      posuisse et reliquisse
+    english: In the estate of Trąbczyn, in the (estate) office there, he put the letter on the table of the heated
+      room, in the presence of the steward, on today's date (the day of the Actum), and left it.
+    varies: the place (Curia Bonorum / officina / Hollandis / Praedium); the table (mensa hippocaustorum, mensa
+      atrii, sella, armariolum, scrinium); who was present (Matre familias, Economo, Scriba Proventuali, Virgine,
+      Ancilla, Ephaebo, Cittato himself); 'posuisse et reliquisse' or 'posuisse et notificatt~ reliquisse' (and
+      left it notified)
+    docs: app53170koningr117-8, app53170koningr118-14, app53170koningr119-1, app53170koningr118-23
+  closings:
+  - posuisse et reliquisse / posuisse et notificato reliquisse (the standard end; the report has no further signature
+    in the Konin registers)
+  - De quo praesens Relatio (1726 court-book entry)
+  - 'Several citations in one report: ''Tertiam in Curia ... posuisse'', each with its own table and person present
+    (app53170koningr117-8, app53170koningr118-23)'
+  notes:
+  - 'The date has two layers: the court''s sitting date (Actum, parts 1) and the date the messenger served the paper
+    (the ''Dato'' of part 6 and the ''Die ... Anno Domini'' before ''in Bonis'', part 7). Do not take one for the
+    other.'
+  - Reports without an 'Actum' line are entered under the heading of the sitting above them (see common.sitting_headings).
+  - 'The text is garbled by abbreviation: ''hippi~'' stands for hippocaustorum; ''Citt~ Litt~ Authen~'' for Citatoriis
+    Litteris Authenticis; ''notificatt~'' for notificato. Quote them as the clerk wrote.'
+  - 'app53170koningr120-1 (labelled report) is not a messenger''s report: it is a farmer''s complaint of a beating
+    (obduxit/commonstravit contusiones), closer to a protest.'
+  - app534062-1 (1726/27) is a very short report, missing the Actum heading and with no citation recited; it closes
+    'De quo praesens Relatio'.
+  - 'Docs read: 19.'
+- kind: protest
+  what_it_is: A protest (manifestatio, remanifestatio, 'in vim diligentiae') is a declaration by a party, entered
+    in the court's record, that something done to him is unlawful and that he reserves his rights. It protects the
+    party against later claims by creating a dated record, and ends with a reservation of rights.
+  parts:
+  - part: 1. Sitting heading (optional)
+    latin: Actum in Conin Feria Quarta post Dominicam Ramis Palmanim Quadragesimalem proxima Scilicet Die 15 Mensis
+      Aprilis Anno Domini 1778uo
+    english: Done at Konin on the Wednesday after Palm Sunday, 15 April 1778.
+    varies: date
+    docs: app53170koningr117-7, app53170koningr118-19
+  - part: '2. Docket: who against whom, and the kind'
+    latin: M Chełmski contra M Prusimski Manifestatur  /  M Prusimski Capitaneus Nieszczevicen~ in vim Diligentae
+      Manifestatur  /  Remanifestatur
+    english: Chełmski protests against Prusimski. / ... as a protest for diligence (to protect himself). / Renewed
+      protest.
+    varies: parties; 'in vim diligentiae' (a protective protest) or contra + a decree or officer
+    docs: app53170koningr117-5, app53170koningr117-12, app53170koningr118-3
+  - part: 3. Appearance
+    latin: Ad Officium et Acta praesentia Castrensia Coninensia personaliter veniens Magnificus Stanislaus Scibor
+      Chełmski Thesaurarius Vschoven~ Bonorum Łukomia ... haeres
+    english: Coming in person to the office and present records of the Konin castle court, the Honourable Stanisław
+      Scibor Chełmski, Treasurer of Wschowa, heir of the estate of Łukom ...
+    varies: name, titles, estates; a plenipotentiary may appear 'Nomine' for his principal (Petrus Gosławski, app53170koningr118-13);
+      'Personaliter veniens' alone in some
+    docs: app53170koningr117-4, app53170koningr118-13, app53170koningr119-7
+  - part: 4. Ground of the protest
+    latin: '... hanc in Acta praesent~ ... defert Manifestationem contra ... Idque ex Eo: Quia ...  /  Manifestatur
+      de Eo Quia ...'
+    english: '... brings this protest into the present records against ..., and this because ...'
+    varies: 'the facts complained of: a violent entry, a boundary decree, an arrest, a decree of the land court'
+    docs: app53170koningr118-19, app53170koningr117-7, app53170koningr115-9
+  - part: '5. Closing: protest and reservation of rights'
+    latin: '... Protestatur  /  ... iterum atque iterum quam Solennissime Manifestatur Salvis de Jure Salvandis  /  Salvaque
+      ... augendi Vel Diminuendi ... pleno in robore sibi reservata'
+    english: '... he protests / ... is protested again and again most solemnly, saving what is to be saved in law
+      / with the right to add to or reduce this protest reserved in full force.'
+    varies: '''offerendo se ... deducturum'' (offering to prove); the reservation clause; occasional offer to seek
+      cassation'
+    docs: app53170koningr117-3, app53170koningr117-7, app53170koningr118-17, app53170koningr118-13
+  - part: 6. Signature
+    latin: Stanisław Scibor Chełmski mp  /  Antoni Prusimski  /  Petrus Gosławski
+    english: Signed by the protester, 'mp' = manu propria (own hand).
+    varies: signer; a plenipotentiary signs for the principal
+    docs: app53170koningr115-9, app53170koningr117-7, app53170koningr118-17
+  closings:
+  - Salvis de Jure Salvandis / Salvis Salvandis (about ten times in the Konin registers)
+  - mp or manupropria after the signature
+  - protests ending 'Protestatur' or 'Manifestatur' with no saving clause also occur (app53170koningr115-9)
+  notes:
+  - Copies of protests made elsewhere appear in the registers only as short notes (docket + 'Videatur hoc loco Manifestatio
+    ... facta in Productis'); those are in the 'note' kind, not here.
+  - The commissioners' own protest (app53170koningr116-3) closes with the commissioners' signatures in Polish ('jako
+    komisarz mp').
+  - 'Docs read: 15.'
+- kind: note
+  what_it_is: 'A note is a short register entry: a docket naming a document that was filed with the court (''Oblata'')
+    or an extract placed in the records, followed by a pointer (''Videatur hoc loco'') to the paper itself, kept
+    in the court''s bundle of filed papers (the ''Producta''). It contains no narrative of its own; the substance
+    lies in the paper it points to.'
+  parts:
+  - part: 1. Sitting heading (sometimes)
+    latin: Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771
+    english: Done at Konin on the Monday after the Feast of St Andrew the Apostle, 1771.
+    varies: date
+    docs: app53170koningr115-4, app53170koningr116-2, app53170koningr118-4
+  - part: '2. Docket: who for / against, and of what'
+    latin: Ex parte M Chełmski contra M Prusimski Citationis Relatio  /  Pro Parte M Prusimski Approbationis ad
+      Cassan~ factae Oblata
+    english: 'From (the side of) Chełmski against Prusimski: report of a citation. / From (the side of) Prusimski:
+      filed (copy) of an approbation of a cassation.'
+    varies: side, document kind (Relatio, Oblata, Manifestatio, Litterae Innotescentiales, Decretum)
+    docs: app53170koningr115-1, app53170koningr115-3, app53170koningr118-1
+  - part: 3. Pointer to the paper
+    latin: 'Videatur hoc loco ... Relatio in Productis  /  Videatur ex Opposito Subsigno #'
+    english: 'Let it be seen at this place ... the report is in the filed papers. / Let it be seen opposite, under
+      the sign #.'
+    varies: description of the paper repeated in full (parties, court, term); sign (#) matching it elsewhere
+    docs: app53170koningr115-2, app53170koningr117-10, app53170koningr118-5
+  - part: 4. Closing
+    latin: prout Copia in productis (extat)  /  facta in Productis  /  Oblata in Productis
+    english: as the copy is in the filed papers.
+    varies: none
+    docs: app53170koningr118-4, app53170koningr118-7, app53170koningr116-1
+  closings:
+  - prout Copia in productis
+  - in Productis / Oblata in Productis
+  - 'Vacuum (entry left blank): app53170koningr116-9, app53170koningr116-10'
+  notes:
+  - Often the heading and the end of the note repeat the same words; the repeated text in the corpus is the clerk's
+    own.
+  - Notes are what the corpus calls its docs where the document itself (the copy) is not in the book; do not treat
+    the note's date as the date of the paper.
+  - 'Docs read: 29 (opening and closing of all, 3 read whole).'
+- kind: decree
+  what_it_is: A decree is the judgement of the court (the Kalisz land court, a Konin land court, or the royal commissioners)
+    on a dispute between named parties. It begins by naming the parties 'Inter A actorem ... et B citatum', recites
+    the pleas, and ends with the order and a penalty clause.
+  parts:
+  - part: 1. Number and parties
+    latin: 'No. 16: Inter Magnificus Stanislaus Chełmski ... Actore per Melchiorem Krzyzanowski Magnificus Antonius
+      Prusimski ... Citatum per ...'
+    english: 'No. 16: Between the Honourable Stanisław Chełmski, plaintiff through (his representative) ..., and
+      the Honourable Antoni Prusimski, the cited, through ...'
+    varies: entry number in the volume; parties and their representatives
+    docs: app536046-1, app536045-1, app536047-1
+  - part: 2. Court acting
+    latin: Judicium ... Decidendo controversiis exauditis ... censet
+    english: The court, deciding after hearing the dispute, holds ...
+    varies: the plea described (term, violence, boundary)
+    docs: app536046-1, app536045-1
+  - part: 3. Sitting heading (the commissions and the Pyzdry/Poznań decrees)
+    latin: Actum in Fundo Bonorum Villae Trąmpczyn Curiaque ibidem sitta Feria secunda post Dominicam Judica Quadragesimalim
+      proxima die scilicet ... Praesentibus Magnificis et Generosis ...
+    english: Done on the ground of the village of Trąbczyn and in the manor there, on the Monday after Judica Sunday,
+      namely ... in the presence of the Honourable ...
+    varies: place of holding (on the disputed ground), date, those present
+    docs: app5320pozgr1181-1, app53170koningr153-1
+  - part: 4. Ruling
+    latin: Decernit Judicium Quatenus ... solvat et enumeret  /  jubet
+    english: The court decrees that ... shall pay and count out / orders.
+    varies: 'the order: payment, inquisition by sworn witnesses, submission of a decree'
+    docs: app536047-1, app536045-1, app536046-2
+  - part: 5. Penalty and publication
+    latin: sub paena banitionis in casu contraventionis circa inferendam manifestationem publicanda ... D P Robore
+    english: under penalty of banishment in case of contravention, to be published in the court's records ... (dated)
+      in full force.
+    varies: time limit (e.g. four weeks), penalty
+    docs: app536046-1, app536047-1
+  closings:
+  - '... sub paena banitionis in casu contraventionis coram Iisdem actis publicanda per oblatam porrigat.'
+  - '... D P Robore (de praesenti robore).'
+  - suspendit ... inquisitiones partibus ex cancellaria terrestri in occluso rothulo extradendas (court adjourns
+    and hands the inquisitions to parties in a sealed roll) - app536045-1
+  - 'decree of the commissioners: ''... ac iisdem insutum est. In Conin Sabatho invigilia festi ...'' (the date
+    of its filing) - app53170koningr153-1'
+  notes:
+  - The 1728 and earlier decrees (app536040-1, app536017-1, app536036-1/2) are older land-court entries with different
+    formulas (action 'vellem'); only their opening and closing words were looked at.
+  - The numbered entries of app536045-47 follow the court-book numbering ('No. 17', 'N. 26to'); each is a single
+    court entry, not a letter.
+  - 'Docs read: 10 (parts: openings, closings, two read whole).'
+- kind: certification
+  what_it_is: A certification is the court office's written answer to a party's request to find out whether a given
+    paper (a decree, a report of a citation) was ever filed in the records. The office looks through its protocols
+    and certifies that it was not found, so the paper cannot be handed over.
+  parts:
+  - part: 1. Sitting heading
+    latin: Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae proxima
+      videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776
+    english: Done at Kalisz castle on the Saturday after the Feast of the Presentation of the Virgin Mary, namely
+      23 November 1776.
+    varies: date and court (Conin or Calissiensis)
+    docs: app53150kaliszgr424-1, app53170koningr119-3, app53170koningr119-8
+  - part: 2. Docket
+    latin: Pro Parte M Chełmski ... Requisitio  /  Pro Parte M Prusimski Decreti Commissorialis Requisitio
+    english: 'On behalf of Chełmski: request (for a decree / report).'
+    varies: party, document requested
+    docs: app53170koningr116-8, app53170koningr119-3
+  - part: 3. Appearance and request
+    latin: Ad Officium et Acta praesentia Castrensia ... personaliter veniens ... requisivit ab Officio praesen~
+      utrum Decretum ... per Oblatam sit porrectum vel ne
+    english: Coming in person to the office ... he asked the present office whether the decree had been filed or
+      not.
+    varies: the person (party or his agent), the paper
+    docs: app53150kaliszgr424-1, app53170koningr116-12
+  - part: 4. Search and answer
+    latin: Cujus Requisitioni Officium praesens annuendo ad Revisionem Prothocollorum Relationum ubi Oblatae suscipi
+      solent se contulit ... nullum Decretum ... extasse respondit
+    english: The office, complying with his request, went to inspect the protocols of reports, where filed papers
+      are received ... and answered that no such decree existed in the present records.
+    varies: protocol searched, the period checked
+    docs: app53150kaliszgr424-1, app53170koningr119-8
+  - part: 5. Certification and signature
+    latin: de quo Officium praesens fecit fidem facitque praesentibus / ... publicam facit fidem  /  attestatur
+    english: Of which the present office made faith (certifies) and makes it by these presents.
+    varies: signature of requester, 'mppa' / 'mp'
+    docs: app53150kaliszgr424-1, app53170koningr116-8, app53170koningr118-20
+  closings:
+  - fecit fidem facitque praesentibus
+  - 'publicam facit fidem (+ signature: Leon Maszewski Imieniem JW Prusimskiego)'
+  - de Inexistentia ... attestatur
+  notes:
+  - 'The party''s own name and the person who signs may differ: the agent signs ''Imieniem'' (in the name of) the
+    principal (Polish).'
+  - 'Docs read: 6.'
+- kind: delivery
+  what_it_is: 'A delivery of possession is the entry that a royal commissioner, acting on a tribunal decree, went
+    to the ground and handed a tenant to the winning party. It carries the formula of the act: assembled on the
+    spot, in the presence of witnesses, the commissioner delivers the man (''tradidit et dimisit'') and leaves him
+    in peaceful possession.'
+  parts:
+  - part: 1. Place, date, witnesses
+    latin: Actum in Fundo Hollandorum Trąmpczynensium domoque ingenui Martini Hunt feria quinta post Festum Sanctae
+      Catharinae Virginis et Martyris proxima die scilicet vigesima octava mensis novembris anno Domini ... Praesentibus
+      Generosis ... ministeriali regni generali actum praesentem acclamante
+    english: Done on the ground of the Trąbczyn Olęder and in the house of the freeman Martin Hunt on the Thursday
+      after St Catherine's, namely 28 November 1782, in the presence of ... with the royal messenger proclaiming
+      the act.
+    varies: place, date, witnesses
+    docs: app53170koningr153-2
+  - part: 2. Recital of the decree
+    latin: Officium commissoriale ... insistendo decreto in judiciis ordinariis generalibus tribunalis regni Petricoviae
+      ...
+    english: The commissary office, following the decree in the ordinary general courts of the tribunal at Piotrków
+      ...
+    varies: court, date of the decree, parties
+    docs: app53170koningr153-2
+  - part: 3. The act
+    latin: '... condescendit ibidemque fundata sua jurisdictione et per ministerialem acclamata ... in actualem
+      possessionem ... tradidit et dimisit atque in pacifica possessione ... reliquit'
+    english: '... went down to the place, established his jurisdiction, proclaimed by the messenger, put (the tenant)
+      into actual possession ... and left him in peaceful possession.'
+    varies: the person delivered
+    docs: app53170koningr153-2
+  closings:
+  - '... eundem reliquit prout relinquit actus praesentis vigore + name + title + mp'
+  notes:
+  - 'Only one document of this kind was read: app53170koningr153-2.'
+  - Compare its sibling, the commissioners' decree app53170koningr153-1 (a decree 'in fundo').
+- kind: transfer
+  what_it_is: A transfer (cession, 'transfusio') is a creditor's acknowledgement before the court that he has assigned
+    his claims to another person. It runs from 'recognovit quia' through the description of the sums to the verbs
+    of transfer.
+  parts:
+  - part: 1. Number and acknowledgement
+    latin: 'No. 39: Excellens Joannes Traholtz Mercator et Incola Witkoviensi Sanus mente et Corpore existens Manifeste
+      Recedendo &c[etera] Recognovit Quia Ipse ...'
+    english: 'No. 39: The Excellent Jan Tracholz, merchant and inhabitant of Witkowo, being of sound mind and body,
+      acknowledged that ...'
+    varies: entry number, name, condition 'sanus mente et corpore'
+    docs: app5321pyzdrygr75-1
+  - part: 2. The sums
+    latin: summas suas proprias pecuniarias Unam quidem Mille Quinquaginta Trium Imperialium ... Deinde alteram
+      Mille Quingentorum Tredecim florenorum ...
+    english: his own money sums, one of 1,053 imperials ... and another of 1,513 florins ...
+    varies: amounts, debtor, cause
+    docs: app5321pyzdrygr75-1
+  - part: 3. The transfer verbs
+    latin: cessit contulit transposuit transtulit et transfudit prout cedit confert transponit transfert et transfundit
+    english: assigned, conferred, passed, transferred and made over, as he now assigns, confers ...
+    varies: the person to whom (in Personam Magnifici Stanislai Chełmski)
+    docs: app5321pyzdrygr75-1
+  - part: 4. Signature and docket
+    latin: ad praemissa libere accedente Jan Traholtz ręką trzymaną  /  Super Transfusionem sui Juris in Per M.
+      Chełmski
+    english: '(the party) freely agreeing, ''Jan Traholtz, hand held'' (= signing with the hand being guided); docket:
+      on the transfer of his right to Chełmski'
+    varies: 'the signature by ''ręką trzymaną'' (Polish: with the hand held) indicates the person was guided to
+      sign'
+    docs: app5321pyzdrygr75-1
+  closings:
+  - Jan Traholtz ręką trzymaną
+  - Super Transfusionem sui Juris in Per M. Chełmski (a docket after the text)
+  notes:
+  - Only one document read.
+  - The note 'Manifeste Recedendo &c' is an abridged formula the clerk did not write out.
+  - '''ręką trzymaną'' also appears in the Konin Gr.117 protest of Tracholz''s case (one occurrence in all corpora).'
+common:
+  openings:
+  - latin: Ad Officium et Acta praesentia Castrensia Coninensia personaliter veniens ...
+    english: Coming in person to the office and present records of the Konin castle court ...
+    docs: app53170koningr117-9, app53170koningr118-10, app53170koningr115-9
+    count: about 65
+  - latin: Actum in Conin Feria ... proxima Die scilicet ... Mensis ... Anno Domini ...
+    english: Done at Konin on the ... (day) next after ... namely ... (date).
+    docs: app53170koningr117-1, app53170koningr115-4, app53170koningr119-5
+    count: about 60
+  - latin: Ex parte M Chełmski contra M Prusimski ... Relatio / Pro Parte M ... Requisitio / ... Manifestatur /
+      ... Oblata Videatur hoc loco
+    english: 'From the side of ... against ...: report / request / protest / filed paper.'
+    docs: app53170koningr117-9, app53170koningr119-8, app53170koningr115-3
+    count: most entries
+  - latin: Personaliter veniens Providus [name] de villa [place] Ministerialis Regni Generalis Sanus Recognovit
+      se ...
+    english: Coming in person, the provident ... of the village of ..., General Royal Messenger, sound, acknowledged
+      that ...
+    docs: app53170koningr118-14, app53170koningr119-4, app53170koningr120-2
+    count: about 20
+  - latin: Inter ... Actore per ... et ... Citatum per ... Judicium decidendo controversiis exauditis
+    english: 'Between ... the plaintiff (through ...) and ... the cited (through ...): the court, hearing the dispute
+      ...'
+    docs: app536045-1, app536046-1, app536047-1
+    count: few (decrees)
+  dating:
+  - latin: Feria + number + post/ante + feast (Feria Quinta post Dominicam Cantate proxima; Feria Sexta post Cineres
+      proxima; Feria Tertia post Dominicam Exaudi proxima)
+    english: Weekday (Feria Secunda = Monday, Tertia = Tuesday, Quarta = Wednesday, Quinta = Thursday, Sexta = Friday;
+      Sabbatho = Saturday) after / before a named feast or Sunday of the church year.
+    docs: app53170koningr119-5, app53170koningr115-2, app53170koningr118-5
+    count: almost every entry
+  - latin: in Vigilia Festi ... / pridie Festi ... / Ipso Die Festi ... / in crastino Festi ...
+    english: on the eve of / the day before / on the feast day itself / the day after the feast.
+    docs: app53170koningr118-14, app53170koningr115-5, app53170koningr118-4, app536040-1
+    count: about 12
+  - latin: Die scilicet Decima Quinta Mensis Septembris Anno Domini 1784  /  Die 14 Mensis Martii  /  Anno Domini
+      Millesimo Septingentesimo Octuagesimo Tertio
+    english: namely the 15th day of September 1784, with numerals as words, digits or ordinal contractions (1778uo,
+      1783tio, 8bris = October).
+    docs: app53170koningr119-8, app53170koningr120-1, app53170koningr119-1
+    count: very common
+  - latin: post Dominicam Reminiscere / Laetare / Judica / Invocavit / Cantate / Exaudi / Sexagesimae / Ramis Palmarum
+      Quadragesimalem proxima
+    english: after the Sunday named from its first word in the Latin Mass (Reminiscere = 2nd Sunday in Lent; Laetare
+      = 4th; Judica = 5th; Cantate and Exaudi = after Easter).
+    docs: app53170koningr119-3, app53170koningr116-8, app53170koningr117-2
+    count: about 20
+  - latin: die hodierna / die hesterna / Actum hodiernum praecedente
+    english: today / yesterday / (the day) preceding the present act.
+    docs: app53170koningr119-4, app53170koningr119-5
+    count: common in reports
+  closings:
+  - latin: posuisse et reliquisse / posuisse et notificato reliquisse
+    english: (he) put it and left it / put it and left it notified.
+    docs: app53170koningr117-1, app53170koningr118-14
+    count: about 29
+  - latin: super mensa hippocaustorum praesente Matre familias / Economo / Scriba Proventuali / Virgine / Ancilla
+    english: on the table of the heated room, in the presence of the mother of the household / steward / revenue
+      clerk / maid / servant girl.
+    docs: app53170koningr117-8, app53170koningr118-14, app53170koningr118-10
+    count: about 27
+  - latin: Salvis de Jure Salvandis / Salvis Salvandis
+    english: saving what is to be saved in law.
+    docs: app53170koningr117-3, app53170koningr118-17, app53170koningr117-12
+    count: about 10
+  - latin: De quo praesens relatio / de quo Officium praesens fecit fidem facitque praesentibus / publicam facit
+      fidem
+    english: of which the present report / the present office made / makes (public) faith.
+    docs: app534062-1, app53150kaliszgr424-1, app53170koningr119-8
+    count: about 10
+  - latin: ręką trzymaną
+    english: (signed) with his hand held (guided).
+    docs: app5321pyzdrygr75-1
+    count: '1'
+  - latin: mp / manupropria / mppa
+    english: by his own hand (manu propria).
+    docs: app53170koningr115-9, app53150kaliszgr424-1, app53170koningr116-11
+    count: very common
+  - latin: prout Copia in productis / in Productis
+    english: as the copy is in the filed papers.
+    docs: app53170koningr118-4, app53170koningr116-1
+    count: about 50
+  dockets:
+  - latin: Super Manifestationem Antonii Prusimski Starosti Niesczevicensis
+    english: 'Docket: on the protest of Antoni Prusimski, Starost of Niszczewice. These are added at the head or
+      foot of a protest entry, to say which protest is meant.'
+    docs: app53170koningr117-3, app53170koningr118-3
+    count: about 6
+  - latin: Super requisitionem ...  Spatii manupropria
+    english: 'Docket: on the request of ... (for a space/interval), own hand.'
+    docs: app53170koningr118-19
+    count: few
+  - latin: Videatur hoc loco ...
+    english: Let it be seen at this place (a pointer to a paper kept in the filed bundle).
+    docs: app53170koningr115-1, app53170koningr115-3, app53170koningr118-1
+    count: about 64
+  - latin: Videatur Continuatio sub No 22do / Continuatio ex No 26to
+    english: See the continuation under No. 22 / continuation from No. 26 (in the numbered entries).
+    docs: app536047-1
+    count: few
+  sitting_headings:
+  - latin: Actum in Conin Feria ... (date)
+    english: The day's sitting heading, written once. The entries that follow without their own Actum line belong
+      to the same sitting and are dated by it (inference from the ordering of the entries and from entries that
+      restate the date); a new Actum begins a new sitting.
+    docs: app53170koningr117-1, app53170koningr117-2 (two sittings), app53170koningr119-5, app53170koningr118-4
+    count: about 60
+  - latin: Actum in Castro Calissiensi ... / Actum in Fundo Bonorum ... Curiaque ibidem sitta
+    english: 'Heading naming another place of the act: Kalisz castle, or on the disputed ground.'
+    docs: app53150kaliszgr424-1, app5320pozgr1181-1, app53170koningr153-1
+    count: few
+  caveat: Counts are rough greps over the Konin, Kalisz, Pyzdry, Poznań and loose court-book corpora in units/;
+    the translations were consulted for app53170koningr117-1 only.
