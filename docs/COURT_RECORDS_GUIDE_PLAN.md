@@ -53,6 +53,14 @@ and the English. The material, counted 2026-11-26:
 - **From the difficult places of the edition's own transcriptions**: the readings the checks
   changed, and why.
 - **Latin court books first.** (Polish entries, copy-books and resignations later, if at all.)
+- **One book in three parts** (the editor, 2026-11-26, "Okay, perfect"): Part One, what both
+  languages share (the courts, the books, the page, dates, people and places); Part Two, reading the
+  Latin entries; Part Three, reading the Polish entries, written after Part Two. A Latin entry with a
+  Polish phrase in it stays in Part Two, with a pointer to Part Three.
+- **Tight crops of the look-alikes** (the editor, 2026-11-26: "with confusing words ... we show tight
+  crops of the differences - like per and pro - both written with a stylised p"): single words cut
+  from the pages, set side by side in the text (per / pro / prae; the minims; c and t). Not the spot
+  sheet's strips.
 - **And the plan's own suggestions as well** (the editor: "But also the things you suggested. I was
   just talking about what came to the top of my mind"): the ladder of titles, offices and kin; the
   place adjectives; dates; money and measures; the vernacular inside the Latin; the letter shapes
@@ -62,7 +70,24 @@ and the English. The material, counted 2026-11-26:
 ## 3. The shape of the book
 
 A title page and a short preface (who it is for, what it covers, how to use it with the edition),
-then chapters, each a few thousand words, meant to be read in order.
+then chapters, each a few thousand words, meant to be read in order, in three parts:
+
+- **Part One, before either language**: chapter 1, and the shared ground of chapters 8 (dates) and
+  10 (people and places), which stand here and are referred to from both parts.
+- **Part Two, the Latin entries**: chapters 2-7, 9, 11-14 below.
+- **Part Three, the Polish entries** (later): the same kinds of entry in Polish, set beside the Latin
+  formulas of Part Two (the clerks often translate one into the other: "Ad officium et acta praesentia
+  castrensia ..." / "Przed urzędem i aktami niniejszymi grodzkimi ..."); the Polish titles (Wielmożny,
+  Urodzony, Sławetny, Pracowity) against the Latin ladder; Polish abbreviations (JW, JMć, Wielm.); the
+  old spelling; the Polish closings.
+
+**The Polish material, counted 2026-11-26**: whole Polish documents in the court books come to about
+31,800 words, and 31,100 of them are the boundary decree of 1775 (Konin Gr.145), which the editor
+transcribed **in modern spelling** (EDITORIAL_RULES, 2026-10-06); the rest are two short tables. The
+other Polish is passages inside Latin entries (Konin Gr.136, Kalisz Gr.425 and others), which keep the
+scribe's spelling. So Part Three can teach the structure and the formulas from what the edition has,
+but the old spelling only from those passages: whole Polish entries **as written** would have to be
+transcribed for it. A question for the editor when Part Three begins.
 
 1. **Before you begin.** The courts (castle and land) and their books; what a volume is, how its
    entries follow one another, the sitting heading and the entries under it; the volume's title on
@@ -132,7 +157,12 @@ set out line by line with the English beside it. No script (WORKING_NOTES). Engl
    each before it is used.
 3. **Claude writes the chapters**, one at a time, the pilot first (chapter 3, the messenger's
    report); the editor reads it and rules on the voice before the rest.
-4. **A build step and a check**: the chapter pages from Markdown in `guide/court-books/`;
+4. **The crops of the look-alikes**: a list (`reference/guide/crops.yml`: document, page image, the
+   word's box, what it shows) and a script that cuts them. The boxes are found by a reader on enlarged
+   strips of the page and checked by Claude against the transcription. The site's page images are web
+   copies 1100 pixels wide; a single word cut from them is small, so where a crop is not sharp enough
+   the editor's original scan is asked for.
+5. **A build step and a check**: the chapter pages from Markdown in `guide/court-books/`;
    `verify_site.py` holds that every document a chapter cites exists and every Latin quotation
    stands in that document's transcription.
 
