@@ -1,0 +1,723 @@
+categories:
+- name: Abbreviations misread or wrongly expanded
+  count: 197
+  lesson: Abbreviation signs (a stroke or tilde, a hook after b meaning -us, the sign for per/pro/prae,
+    a superscript letter) can be expanded in several ways. Write out the full abbreviated word first,
+    then choose the expansion that suits the grammar and the document, and check it against the same heading
+    or phrase elsewhere in the book.
+  examples:
+  - doc: app536036-001
+    was: Trąmpczynscy Conces[sionis]
+    now: Trąmpczynscy Con[tuma]ces
+    why: 'read on the scan: the heading is "Con ces" with marks of abbreviation over it: Contumaces, in
+      default. The two entries below ours on the opening are headed "Con x", Contumax, and each ends "in
+      poena contumaciae ... condemnavit". It is not "concessio"'
+    teaching_point: 'Read the heading as a word with its abbreviation marks, then test it against the
+      neighbouring entries: two entries headed "Con x" end in a condemnation for default, so the heading
+      is Contumaces, not Concessio.'
+  - doc: app536017-001
+    was: Łukomski Visio[ru]m expe[cta]t
+    now: Łukomski Visionem exped[ie]t
+    why: 'read again on the scan: the heading is "VISIOm EXPEDt" with marks of abbreviation: Łukomski
+      is to carry out the inspection, which is what the decree orders ("Quam Visionem pars Citata ...
+      expedire debet"). The same heading stands over the next entry'
+    teaching_point: A heading that stands over several entries must make sense of what the decree below
+      orders; expand the abbreviation to the verb the decree actually uses (expedire).
+  - doc: app53170koningr153-001
+    was: solummodo ductum praesentium signaque quaevis in ductibusque reperibilia
+    now: solummodo ductus partium signaque quaevis in ductibus reperibilia
+    why: 'read on the scan, full check: the scan has "Duct" at the gutter and "ptium" with a mark: the
+      boundary lines of the parties; the scan has the sign for "-us" after the b, which the transcription
+      wrote out as "-busque"'
+    teaching_point: A hooked sign after b means -us, and "ptium" with a mark is partium, not praesentium;
+      the same page can show both traps at once.
+  - doc: app53170koningr153-001
+    was: conditioneque in ordine
+    now: condescensioneque in ordine
+    why: 'read on the scan: "Cond~nis" / "Cond~lis" on the scan: condescensio, the sitting on the ground,
+      not "conditio" (corrected on the ground of the places looked at; this one was not)'
+    teaching_point: '"Cond~nis" and "Cond~lis" are condescensio and its adjective, the sitting on the
+      ground, and never conditio; once you know the court practice the abbreviation resolves itself.'
+  - doc: app53170koningr117-004
+    was: conditum, jurisdictioni[?] in ultimo scopulo cum vicinis Testibus expleti[?] Authorisatum
+    now: conditum, juramento in ultimo scopulo cum vicinis Testibus expleto Authorisatum
+    why: 'read on the scan, full check: the scan has "jurto" with a mark and "expleto": juramento, the
+      oath sworn at the last mound with witnesses from the neighbourhood, by which the decree was confirmed'
+    teaching_point: '"jurto" with a mark is juramento, the oath; test any expansion against what the entry
+      is about (here, the oath at the last mound).'
+  - doc: app53170koningr153-001
+    was: quatenusque praefatus
+    now: quatenus praefatus
+    why: 'read on the scan, full check: the scan has the sign for "-us", not "-que"'
+    teaching_point: The sign for -us and the ending -que look alike; do not add an enclitic -que where
+      the abbreviation sign belongs to -us.
+- name: Letter shapes and look-alike words
+  count: 416
+  lesson: 'Minims (u/n/m/r/i), c/t, the long s and f, and a/o/e blur in a fast clerk''s hand, and a plausible
+    Latin word is easy to put in place of the right one. Do not read letter by letter alone: ask which
+    word the sentence needs, then check that the strokes allow it, and compare the same word written clearly
+    elsewhere in the same hand.'
+  examples:
+  - doc: app536047-001
+    was: praeciis conscribendas et abi[n/r?][?]ie[s?] super incorrupt[o?] testium
+    now: praeciis conscribendis et ab invicem communicandis Interrogatoriis ac praestando super incorrupto
+      testium
+    why: 'read on the scan: the film has "Conscribendis et ab invicem Communicandis Interrogatoriis ac
+      praestando super incorrupto": two words were passed over'
+    teaching_point: Several words in a row can be misread together; read the whole phrase and look for
+      the set legal collocation (ab invicem communicandis) rather than letter by letter.
+  - doc: app53170koningr117-003
+    was: Relictae Patrii suc haerentibus
+    now: Relictae Patrui Sui haerentibus
+    why: 'read on the scan: the word is "Patrui", the uncle''s: written "Patruj" where it was looked at
+      on leaf 55, and the same protest has "Patruum" and "Patruo" of Paweł Prusimski; not "Patrii" or
+      "Patris"; the scan has "Sui"'
+    teaching_point: Minims and the long tail of the j-ending make Patrui look like Patrii or Patris; a
+      word that fits the context (the uncle) beats a word that merely resembles the strokes.
+  - doc: app536047-001
+    was: Albertum [T/F?]eromski
+    now: Albertum Zeromski
+    why: 'read on the scan, full check: the first letter is this clerk''s Z. The witness is entry no.
+      43 of the same book (leaf 295 verso, 306.jpg; intake/entry_43.md), where the same proxy of Prusimski
+      is written "Albertum Zeromski" by the clearer hand; corrected at the editor''s word (2026-10-07)'
+    teaching_point: The clerk's capital Z can look like T or F; compare the same man's name written plainly
+      elsewhere in the same book.
+  - doc: app53170koningr117-012
+    was: Martinus [P?]alski Thesauranda
+    now: Martinus Nosalski Thesaurarida
+    why: 'read on the scan: the scan has "Nosalski", as he signs; "Thesaurarida" is the son of a treasurer
+      (skarbnikowicz), the "ri" written like an "n"'
+    teaching_point: A written "ri" can look like "n"; the signature settles the name (Nosalski) and the
+      title (Thesaurarida, a treasurer's son).
+  - doc: app53170koningr117-003
+    was: Ultranec Se[r?]um Maante[Manifestatione?] Litigiae querens, acesces[?] est et prosumpsit
+    now: Ultronee Secum Manifestante Litigia querens, ausus est et praesumpsit
+    why: 'read on the scan, full check: the scan has "Ultronee Secum Maante Litigia querens, ausus est
+      et psumpsit": of his own accord seeking lawsuits with the protester, he dared and presumed'
+    teaching_point: 'Where a clause has many doubtful letters, compare with the clerk''s other clauses:
+      the whole sentence resolves to ausus est et praesumpsit.'
+  - doc: app53170koningr118-017
+    was: et [F?]ine Impetrandi Militaris ab Inclito Departmento Belli[c?]o Au[?]itii supersessit
+    now: et Fine Impetrandi Militaris ab Inclito Departamento Bellico Auxilii supersessit
+    why: 'read on the scan, full check: the scan has "Fine Impetrandi Militaris ab Inclito Departamento
+      Bellico Auxilii": to obtain military aid from the War Department'
+    teaching_point: Doubt marks inside a word are often cleared by reading the words either side as one
+      familiar phrase (military aid from the War Department).
+- name: Words run together or divided wrongly
+  count: 43
+  lesson: Clerks often wrote phrases without spaces (in se trahere) or broke a word over a line or a page
+    end. Check whether a "word" is really a phrase and whether two words are one, since the wrong split
+    changes the meaning, especially in Polish.
+  examples:
+  - doc: app53170koningr117-012
+    was: paenas insetrahere non
+    now: paenas in se trahere non
+    why: 'read on the scan: written as one word on the scan: in se trahere, to draw upon themselves'
+    teaching_point: Latin written without spaces may hide a phrase; "insetrahere" is in se trahere, to
+      draw upon themselves.
+  - doc: app53170koningr117-003
+    was: tam Supra ex punctis rationibus
+    now: tam Supra expunctis rationibus
+    why: 'read on the scan, full check: one word, "ex|punctis" over the line end on leaf 72: the reasons
+      set out above'
+    teaching_point: A word broken over a line end is one word (ex|punctis); do not read the halves as
+      separate words.
+  - doc: app53170koningr153-001
+    was: appositam ad judicatum
+    now: appositam adjudicatum
+    why: 'read on the scan, full check: one word, divided over the page: "ad-" and, as the first word
+      of the next page, "judicatum"'
+    teaching_point: A word can be broken across a page; join the end of one page to the first word of
+      the next.
+  - doc: app53170koningr145-001
+    was: one zagraniczną między Trąpczynem
+    now: one za graniczną między Trąpczynem
+    why: 'full check against the scan, misread, formula: "za graniczną", as the boundary road, two words;
+      written as one it means "foreign"'
+    teaching_point: 'In the Polish passages the spacing changes the meaning: "za graniczną" is the boundary
+      road, "zagraniczną" would be foreign.'
+  - doc: app53170koningr145-001
+    was: wszedłszy i kilka stajnią na wschód
+    now: wszedłszy i kilka staj nią na wschód
+    why: 'full check against the scan, misread, formula: "several staje along it", two words; as one word
+      it is "stable"'
+    teaching_point: 'Splitting wrongly can turn a measure into a building: "staj nią" (several staje along
+      it) against "stajnią" (a stable).'
+  - doc: app53170koningr145-001
+    was: być sprawiedliwą nad grodę, za to wszystko
+    now: być sprawiedliwą nadgrodę, za to wszystko
+    why: 'full check against the scan, misread, formula: "nadgrodę", compensation, one word'
+    teaching_point: Compound legal nouns are written solid (nadgrodę, compensation), while "nad grodę"
+      would be a phrase.
+- name: Set formulas not recognised
+  count: 25
+  lesson: 'Court Latin repeats set phrases (oath formulas, closing summonses, "ex quo cum fatis extinctae
+    sunt", "nemine impugnante"). Learn them: when a reading gives no sense, look for the formula that
+    the garbled letters resemble, and use the clerk''s other entries as a model.'
+  examples:
+  - doc: app53170koningr145-001
+    was: ex quo cum fatis ex tunctae sunt
+    now: ex quo cum fatis extinctae sunt
+    why: 'full check against the scan, misread, formula: the personal penalties due from his father are
+      left aside "since they were extinguished by his death"'
+    teaching_point: Knowing the formula "extinctae sunt" and the sense (penalties extinguished by death)
+      corrects a garbled string of letters.
+  - doc: app53170koningr145-001
+    was: onych ac terme in condicto
+    now: onych ac ferme in condicto
+    why: 'full check against the scan, misread, formula: Latin "ferme", almost: "and all but by arrangement
+      with the heirs of Łukomia"'
+    teaching_point: '"ferme in condicto", almost by arrangement, is a recurring Latin tag inside the Polish;
+      the same word stands plainly on the next leaf.'
+  - doc: app53170koningr145-001
+    was: Beatissimae Virginis Mariae jest że znana a dato non concessa
+    now: Beatissimae Virginis Mariae jest zeznana a dato non concesso
+    why: 'full check against the scan, misread, formula: "zeznana", recorded; "dato non concesso", granted
+      but not conceded'
+    teaching_point: '"zeznana" (recorded) and "dato non concesso" are formulas; a reading that gives no
+      sense is a prompt to look for the formula.'
+  - doc: app53170koningr145-001
+    was: alias in omni et in toto a próbuje konfirmuje
+    now: alias in omni et in toto aprobuje konfirmuje
+    why: 'full check against the scan, misread, formula: in the ruling: the court "approves, confirms"
+      Prusimski''s line; written as two words it read "and tries". The English already has "approves"'
+    teaching_point: '"aprobuje konfirmuje" is the court approving and confirming; written as two words
+      it read "and tries".'
+  - doc: app53170koningr145-001
+    was: ani Bukowe ab illo od Łukomia
+    now: ani Bukowe ab aevo od Łukomia
+    why: 'full check against the scan, misread, formula: "from of old"; the ligature æ was read as "ill".
+      Fairly sure, not certain'
+    teaching_point: '"ab aevo", from of old: the ae-ligature was read as "ill"; a stock phrase of boundary
+      law shows the right word.'
+  - doc: app53170koningr117-008
+    was: Contra vos Statis Decernum et Sententiari Litis itaque Termino huic Parituri et Judicialiter
+      responsari
+    now: Contra vos Statui Decerni et Sententiari Sitis itaque Termino huic Parituri et Judicialiter responsuri
+    why: 'read on the scan, full check: the scan has the usual close: "Statui Decerni et Sententiari Sitis
+      itaq Termino huic Parituri et Judltr responsuri"'
+    teaching_point: The closing summons has a fixed form ("Statui Decerni et Sententiari Sitis ... Termino
+      huic Parituri et Judicialiter responsuri"); once recognised, the garbled ending can be restored
+      from it.
+- name: Case endings and agreement
+  count: 55
+  lesson: 'Abbreviation often cuts off the ending, so the case must come from the grammar: what the verb
+    or preposition governs and what the noun agrees with. Read the endings of neighbouring titles, names
+    and participles before accepting one.'
+  examples:
+  - doc: app53170koningr117-007
+    was: Viduae Patriis Sui post
+    now: Viduae Patrui Sui post
+    why: 'read on the scan: the word is "Patrui", the uncle''s: written "Patruj" where it was looked at
+      on leaf 55, and the same protest has "Patruum" and "Patruo" of Paweł Prusimski; not "Patrii" or
+      "Patris"'
+    teaching_point: 'The case of the noun is fixed by the construction: the widow of the uncle needs the
+      genitive Patrui.'
+  - doc: app53170koningr153-001
+    was: id totum haereditatis bonorum Łukom
+    now: id totum haereditati bonorum Łukom
+    why: 'read on the scan, full check: the scan has "hereditti": to the estate of Łukom, as "haereditati
+      bonorum Trąmpczyn" beside it'
+    teaching_point: '"hereditti" with abbreviation is the dative haereditati: it will fall to the estate;
+      check which case the verb or preposition governs.'
+  - doc: app53170koningr153-001
+    was: contraventionis eidem decreti vadium
+    now: contraventionis eidem decreto vadium
+    why: 'read on the scan, full check: the scan has "Eid Dcro": for contravening that decree'
+    teaching_point: '"eid Dcro" is dative: contravening that decree; match the ending to "eidem".'
+  - doc: app53170koningr119-001
+    was: Sancti Stanislai Equitis Bonorum
+    now: Sancti Stanislai Equiti Bonorum
+    why: 'read on the scan, full check: the scan has "Equiti": the dative, with "Antonio"'
+    teaching_point: The dative Equiti agrees with the person to whom the estate is given, not with the
+      genitive that follows.
+  - doc: app53170koningr118-023
+    was: Nepomuceno Judicii Castren~
+    now: Nepomuceno Judici Castren~
+    why: 'read on the scan, full check: the scan has "Judici": castle judge of Radziejów'
+    teaching_point: 'Titles agree in case with the name they follow: Nepomuceno Judici, the castle judge.'
+  - doc: app5321pyzdrygr75-001
+    was: Borram et sylvarum
+    now: Borrarum et sylvarum
+    why: 'read on the page image: the editor (2026-11-26): Borrarum, as the page may read; the genitive
+      plural matches "sylvarum"'
+    teaching_point: Parallel nouns share their case and number (Borrarum et sylvarum, genitive plural).
+- name: Words dropped or lines skipped
+  count: 35
+  lesson: 'The commonest loss is an eye-skip between two identical words or names: the copyist jumps from
+    the first to the second and drops everything between. When a name or phrase repeats within a few lines,
+    compare the stretch between against the page; one dropped "nie" can reverse the sense.'
+  examples:
+  - doc: app53170koningr145-001
+    was: gdy w tymże goscińcu ludzi swych osądził tak urodzony Chełmski bić zabić i strzelać wołał, także
+      rzeczy wszystkie sam, w gościńcu będące
+    now: gdy w tymże goscińcu ludzi swych osadził tak urodzony Chełmski w tym razie przeciw prawu sobie
+      postępując żadnego kroku do prawa nie uczyniwszy, ale gwałtem osobiście sam z kilkudziesiąt ludzi
+      strzelbą różną uzbrojonemi gościeniec ten najechawszy zaraz oknem do gościńca strzelać rozkazał
+      i mało jednego szlachcica urodzonego Krzeczkowskiego nie zabito i napiętek mu ustrzelono a przy
+      tym i gościeniec zapalono który ledwie przecie po ucieczce ludzi z strony samego urodzonego Chełmskiego
+      uratowano. Podczas którego ataku sam urodzony Chełmski bić zabić i strzelać wołał, także rzeczy
+      wszystkie tam, w gościńcu będące
+    why: 'full check against the scan, dropped, court: THE LARGEST FIND: about sixty words, some five
+      lines of the page, skipped between two "urodzony Chełmski". They are the court''s finding of what
+      Chełmski did at the inn: when Prusimski put his men into it, Chełmski, "taking no step at law, but
+      by force, in person, with several dozen men armed with firearms of various kinds, rode upon the
+      inn and at once ordered shooting through the window into it; a nobleman, the Honourable Krzeczkowski,
+      was nearly killed and had his heel shot off; and the inn was set on fire, and was barely saved after
+      the men on Chełmski''s own side had fled. During which attack" Chełmski himself shouted to beat,
+      kill and shoot. The penalties on the next leaf ("for the armed raid and the shooting and the burning
+      of the inn", "for the unlawful use of firearms") refer to exactly this. The name Krzeczkowski is
+      written above the line; the second vowel could be y. Also "osadził" (placed his men) for "osądził"
+      (judged), and "tam" for "sam"'
+    teaching_point: 'Look for repeated words: about sixty words were skipped between two occurrences of
+      "urodzony Chełmski" (eye-skip), the largest single loss.'
+  - doc: app53170koningr145-001
+    was: którym dowodzi że Wojciech Trąpczyńskie był całego Trąpczyna dziedzicem a był opiekunem
+    now: którym dowodzi że Wojciech Trąpczyński nie był całego Trąpczyna dziedzicem a był opiekunem
+    why: 'full check against the scan, dropped, fact: one word, "nie", and it reverses the sense: the
+      decree proves that Wojciech Trąpczyński was NOT heir of the whole of Trąbczyn but guardian of his
+      nephews. The same is said correctly twice further down the page. Check the English'
+    teaching_point: 'One dropped word, "nie", reverses the meaning: the decree proves he was not heir
+      of the whole of Trąbczyn.'
+  - doc: app5321pyzdrygr75-001
+    was: Imperialium Paulum Prusimski
+    now: Imperialium Grossorum Tredecim, Fenicorum[?] sex per olim Magnificum Paulum Prusimski
+    why: 'read on the page image: the editor''s line jumps from "Imperialium" to "Paulum": the page has
+      "Grossorum Tredecim, [?]icorum sex per olim Magnificum" between them (13 groschen and, it seems,
+      6 pfennigs after the 1,053 imperials). The editor read "sex" (2026-11-26) and could not settle the
+      word before it (Ferricorum, Fenicorum, Fersicorum); Claude takes "Fenicorum[?]", the pfennig, because
+      the sum runs in the series imperial, grosz, fenig and r/n are minim confusions'
+    teaching_point: 'The sum of money fell out of a line: 13 groschen and, it seems, 6 pfennigs, after
+      the 1,053 imperials.'
+  - doc: app53170koningr145-001
+    was: że ani urodzony Chełmski dziedzic Biskupic konkurencji swojej
+    now: że ani urodzony Chełmski narożnika ani urodzony Gałecki starosta bydgoski dziedzic Biskupic konkurencji
+      swojej
+    why: 'full check against the scan, dropped, fact: six words skipped between two "urodzony": "neither
+      the Honourable Chełmski a corner point, nor the Honourable Gałecki, Starost of Bydgoszcz, heir of
+      Biskupice, his convergence" can have here. As it stood, the text made Chełmski the heir of Biskupice
+      and left Gałecki out'
+    teaching_point: Six words lost between two "urodzony" changed who the sentence names (Gałecki, starost
+      of Bydgoszcz).
+  - doc: app53170koningr153-001
+    was: et ad Magnificum Chełmski eundem Hollandum ad usque possedisse
+    now: et ad Magnificum Chełmski spectare posse. Jam verò Magnificum Chełmski eundem Hollandum adusque
+      possedisse
+    why: 'read on the scan, full check: words were passed over between the two "Chełmski": the scan has
+      "et ad Mgfum Chełmski spectare posse. Jam vero Mgfum Chełmski Eundem Holland adusque possedisse",
+      as the act on leaf 1404 quotes the sentence'
+    teaching_point: 'Words vanish between two identical names: whenever a name repeats within a few lines,
+      check the stretch in between.'
+  - doc: app53170koningr145-001
+    was: i wpada w drogę Zagórowską pod górą przechodzi
+    now: i wpada w drogę Zagórowską o kilka staj stąd a potym i przez drogę Zagórowską pod górą przechodzi
+    why: 'full check against the scan, dropped, fact: nine words skipped between two "drogę Zagórowską":
+      the Osiny road "falls into the Zagórów road a few staje from here, and then also crosses the Zagórów
+      road below the hill"'
+    teaching_point: Nine words were skipped between two "drogę Zagórowską"; a repeated place name is the
+      usual place for a skipped line.
+- name: Insertions above the line and struck words
+  count: 23
+  lesson: Clerks added missing words above the line with a mark showing where they belong, and struck
+    out slips. Read the marginal and interlinear words and place them by their marks; leave struck text
+    out, as the editorial rules require.
+  examples:
+  - doc: app53170koningr117-006
+    was: na Granicy Dobr [T?]urnata Trąmpczyna Widział sosnę od Lat Kilku dziesiąt na Kopcu Granicznym
+      zwanym Trąmpczyn
+    now: na Granicy Dobr Trąmpczyna Widział sosnę od Lat Kilku dziesiąt na Kopcu [T?]urnata zwanym Granicznym
+      Trąmpczyn
+    why: 'read on the scan: the name and "zwanym" are written above the line, with marks that put them
+      after "Kopcu": the mound called so; the name itself is left as the editor read it'
+    teaching_point: A word written above the line with a mark must be placed where the mark points (after
+      "Kopcu"), not where it happens to sit on the page.
+  - doc: app53170koningr118-026
+    was: kloców odsiemnych y Gałęzi[?] na mieysce lezązych[?]
+    now: klocow odziemnych y Gałęzi na mieyscu lezących
+    why: 'read on the scan, full check: the scan has "Klocow odziem|nych y Gałęzi", with "na mieyscu lezących"
+      written above the line: butt logs, and the branches lying on the spot'
+    teaching_point: Words above the line may be a whole phrase ("na mieyscu lezących"), not just one correction.
+  - doc: app53170koningr117-002
+    was: ex Novella Legis decerni
+    now: ex praescripto novellae Legis decerni
+    why: 'read on the scan, full check: the scan has "ex pscro" with a mark, and "novellae" written above
+      the line: by the prescription of the new law'
+    teaching_point: A word added above the line can carry real information (praescripto, novellae); read
+      the lines above as well as the line itself.
+  - doc: app53170koningr145-001
+    was: pod górą pod górą przechodzącą
+    now: pod górą przechodzącą
+    why: 'full check against the scan, misread, formula: the clerk wrote the two words twice and struck
+      the second out; struck text is not transcribed'
+    teaching_point: 'A clerk who wrote two words twice and struck the second out: struck text is not transcribed.'
+  - doc: app53150kaliszgr425-001
+    was: sigillisque eorum [praescriptis?] Tenoris Talis
+    now: sigillisque eorum gentilitiis communitam Tenoris Talis
+    why: 'read on the scan: the scan has, written above the line, "sigillisque eorum gentilitiis communitam":
+      secured with the seals of their arms'
+    teaching_point: An interlinear gloss written above the line may completely replace a guess in brackets
+      (gentilitiis communitam).
+  - doc: app53170koningr117-001
+    was: Sanus [habens?] Recognovit[?] de Citt~
+    now: Sanus existens Recognovit se Citt~
+    why: 'read on the scan: the scan has "Sanus" with "exns" written above the line, then "Recogt se Citt":
+      the set phrase of the other reports'
+    teaching_point: Above-line "exns" completes a set phrase (Sanus existens) found in the other reports.
+- name: Names, titles, offices and places
+  count: 89
+  lesson: Titles and offices are often abbreviated and look like names (Camerarium, Castellani, Mlis).
+    Learn the offices first, and settle a doubtful name from the signature or from the same person in
+    another document of the same case.
+  examples:
+  - doc: app53150kaliszgr425-001
+    was: Stefan Leszczy[ńsk]i Zielonacki
+    now: Stefan Leszczyc Zielonacki
+    why: 'read on the scan: the signature has "Leszczyc", the name of his arms, as "Antonius Leszczyc
+      Mierzewski" is written out in Kalisz Gr.424'
+    teaching_point: '"Leszczyc" is the name of the arms, written before the surname; do not normalise
+      it to Leszczyński.'
+  - doc: app53170koningr117-002
+    was: Francisco Morzyz[?] Wallenow[la?] Judici
+    now: Francisco Wierusz Walknowski Judici
+    why: 'read on the scan: the scan has "Wierusz Walknowski": the judge of the land court named in the
+      heading of the sitting of October 1777 (APP 53/6/0/-/46)'
+    teaching_point: Officers of a court recur in every citation; the same name in the next document settles
+      an uncertain signature.
+  - doc: app53170koningr153-001
+    was: Orławski Commissarium Granicialem
+    now: Orławski Camerarium Granicialem
+    why: 'read on the scan, full check: the scan has "Cmrium" with a mark: Camerarium, the boundary chamberlain,
+      as on leaf 1391 verso'
+    teaching_point: '"Cmrium" is Camerarium (boundary chamberlain), not Commissarium; learn the offices
+      of the court before expanding titles.'
+  - doc: app53170koningr153-001
+    was: Comitis Sierabowski
+    now: Comitis Sierakowski
+    why: 'read on the scan: the scan has "Sie|rakowski"; the editor''s English has the name right'
+    teaching_point: A title abbreviated "Cllni" is Castellani (castellan), not a name; check the office
+      against known holders.
+  - doc: app53170koningr116-003
+    was: Brzetinski
+    now: Brzezinski
+    why: 'read on the scan: the scan has "Brzezinski", as he signs below'
+    teaching_point: 'The Starost of Inowrocław is Brzeziński in the entry and in his signature: compare
+      the signature with the body text.'
+  - doc: app536047
+    was: Citatus per Generosus Albertum [T/F?]eromski
+    now: Citatus per Generosus Albertum Zeromski
+    why: 'Prusimski''s proxy is Wojciech Żeromski. Your "[T/F?]eromski" is "Zeromski": the first letter
+      is this clerk''s Z, and entry no. 43 of the same book writes the same man''s name plainly, twice.
+      Your English had left the surname out.'
+    teaching_point: The proxy's name is Zeromski; the same man is written plainly elsewhere in the book.
+- name: Numbers, dates and sums
+  count: 20
+  lesson: Dates are given by feast days and weekdays (Monday before St Vitus), months as 7bris to 10bris,
+    and sums in imperials, groschen and pfennigs. Resolve a date from the feast, check the year in the
+    sitting heading, and read every figure again against the line.
+  examples:
+  - doc: app536017
+    was: 1589, day not fixed
+    now: 12 June 1589
+    why: 'The date is 12 June 1589: the decree of 1775 gives the Monday before St Vitus. The weekday in
+      your reading of the sitting''s heading, "feria se[x?]ta", is then "secunda".'
+    teaching_point: A date can be found from the feast (Monday before St Vitus) cited in a later decree,
+      giving 12 June 1589 and the weekday secunda.
+  - doc: app53170koningr118-024
+    was: Die scilicet 29 Mensis [????] Anno
+    now: Die scilicet 29 Mensis 7bris Anno
+    why: 'read on the scan: the scan has "29 Mens 7bris"'
+    teaching_point: 'Months are written as 7bris, 8bris, 9bris, 10bris: "7bris" is September, not July.'
+  - doc: app536045
+    was: c. 1762-1765
+    now: 1763 (sitting opened 30 May)
+    why: 'The year is 1763: the sitting opened on 30 May 1763 (Monday after Trinity), from the heading
+      you transcribed from leaf 638. Your register has "c. 1762-1765".'
+    teaching_point: 'The year may be settled by the sitting''s own heading: 1763, opened on the Monday
+      after Trinity (30 May).'
+  - doc: app536040
+    was: '1728'
+    now: 26 January 1728; Konin Gr.145, English pages 15, 18, 31, 109, 115, 121
+    why: 'Dates: the sitting opened on 26 January 1728; the hearing on the ground was set for 12 April
+      1728 (Monday after Misericordia Sunday). The decree of 1775 cites this decree and the testimony
+      taken on it, and calls Krzysztof Prusimski the Starost''s grandfather and the Antoni named here
+      his uncle.'
+    teaching_point: 'The hearing date is given by a church feast: Monday after Misericordia Sunday, 12
+      April 1728.'
+  - doc: app53170koningr136
+    was: 'working cattle: 6 of the lord''s ... Lodgers: in all, 6.'
+    now: 'working cattle: 8 of the lord''s ... Female lodgers: in all, 8.'
+    why: 'Two figures in the count of people: each full farmer of Trąbczyn has 8 of the lord''s working
+      cattle (the 4 oxen and 4 horses that follow), not 6; the women lodgers of Trąbczyn are 8 in all,
+      not 6.'
+    teaching_point: 'Check figures in counts of people and cattle against the clerk''s own line: each
+      full farmer had 8, not 6.'
+  - doc: app53150kaliszgr414
+    was: '1771'
+    now: 4 and 9 November 1771
+    why: 'Dates by the calendar: the delivery was made on 4 November 1771 and brought to the municipal
+      court at Kalisz on 9 November.'
+    teaching_point: Delivery and entry may be on different days (4 and 9 November 1771); read both dates
+      before reporting one year.
+- name: Polish and German words inside the Latin
+  count: 318
+  lesson: 'Polish passages, names and oaths appear in the middle of Latin text, and their diacritics and
+    spacing matter (karze/każe, zmownie, nieważną). Read them as Polish: use a Polish dictionary and the
+    clerk''s own spelling, and keep the diacritics consistent.'
+  examples:
+  - doc: app53170koningr145-001
+    was: przeto sąd każe urodzonego Chełmskiego
+    now: przeto sąd karze urodzonego Chełmskiego
+    why: 'full check against the scan, misread, court: "karze", to the penalty: the court "finds the Honourable
+      Chełmski liable to penalty, both for himself and for his official". The transcription had "każe"
+      (orders). Check the English'
+    teaching_point: 'A single letter in the Polish ruling changes it: "karze" (to the penalty) against
+      "każe" (orders).'
+  - doc: app53170koningr145-001
+    was: żalącego się z mównic z urodzonym Chełmskim czyniąc
+    now: żalącego się zmownie z urodzonym Chełmskim czyniąc
+    why: 'full check against the scan, misread, fact: "zmownie", in collusion: Prusimski charges the abbey
+      with colluding with Chełmski. The transcription had "z mównic" and the English "from the same platform"'
+    teaching_point: '"zmownie" (in collusion) is an adverb; the transcription split it into a wrong noun
+      phrase.'
+  - doc: app53170koningr145-001
+    was: przeciwne tym wszystkiem dowodów być nie okazują, i sądowi swemu dowodzą
+    now: przeciwne tym wszystkiem dowodom być się okazują, i sądowi swemu dowodzą
+    why: 'full check against the scan, misread, court: "się", not "nie": in the court''s reasons, the
+      inspection of 1592, Chełmski''s boundary and his corner point "are shown to be contrary to all these
+      proofs". The transcription said they are not shown to be. Check the English'
+    teaching_point: 'Check negatives in Polish: "się" for "nie" turns the court''s reasoning around.'
+  - doc: app53170koningr145-001
+    was: i owszem one jako nie prawną i nie woźną prawem samem
+    now: i owszem onę jako nieprawną i nieważną prawem samem
+    why: 'full check against the scan, misread, court: in the ruling itself: the court, "not regarding"
+      the inspection of 1592, "as unable to prejudice the old boundaries or set new ones", sets it aside
+      "as unlawful and invalid". The transcription had "nie woźną" (not a bailiff) for "nieważną" (invalid).
+      Check the English'
+    teaching_point: Polish adjectives run together (nieprawną, nieważną); a reading that splits them into
+      "nie prawną" is wrong.
+  - doc: app53170koningr145-001
+    was: tudziez
+    now: tudzież
+    why: 'accent: no Polish word as written; the transcription itself writes "tudzież" elsewhere. Not
+      compared with the scan'
+    teaching_point: Polish diacritics (ż, ś, ź, ó) are restored to the one spelling the transcription
+      uses elsewhere (tudzież).
+  - doc: app53170koningr118-013
+    was: Generosis Petrus Goslewski Nomine
+    now: Generosus Petrus Gosławski Nomine
+    why: 'read on the scan, full check: the scan has "Gnus" and "Gosławski", as he signs'
+    teaching_point: A Polish surname inside the Latin must be read as it is signed (Gosławski), not as
+      a Latin word.
+- name: Sense of the sentence (the English follows the reading)
+  count: 108
+  lesson: A misread word often carries through to the English, so the translation reversed who did what
+    (uncle for father, condemnation for condescension). After correcting a word, reread the whole clause
+    for who acts on whom and whether the English still fits.
+  examples:
+  - doc: app53170koningr117
+    was: Relictae Patrii sui / Relictae viduae Patris sui / substantiam Patrii Sui
+    now: Relictae Patrui sui / Relictae viduae Patrui sui / substantiam Patrui Sui
+    why: Paweł Prusimski is Antoni's UNCLE, not his father, and Katarzyna, born Rozdrażewska, is the uncle's
+      widow. The word is "Patrui" (written "Patruj" on leaf 55, where I looked at it three times); your
+      text had "Patrii" or "Patris" sixteen times beside "Patruum" and "Patruo", and your English "father"
+      fifteen times. I corrected all of them on that ground; I did not look at each.
+    teaching_point: 'The sense error: Prusimski is the uncle, not the father, so the English had the family
+      relations wrong.'
+  - doc: app536045
+    was: it is not established at what time, in the year 1761, the potash-burners made arrangements concerning
+      the Right Honourable Prusimska's potash
+    now: the Right Honourable Prusimska, in the year 1761, dispatched the potash-burners with potash,
+      prepared at what time is not established
+    why: It was Prusimska who sent the potash-burners off with potash in 1761. The earlier sentence had
+      the burners making "arrangements concerning" her potash.
+    teaching_point: 'Misread syntax produced the opposite of the record: it was Prusimska who sent the
+      potash-burners off with potash.'
+  - doc: app53150kaliszgr414
+    was: the delivery having been formally challenged by name through the records
+    now: Which delivery of possession having thus been completed, no one contesting it
+    why: The delivery was not challenged. The record says it was completed "nemine impugnante", no one
+      contesting it; the earlier reading, "per acta nomine impugnante", was taken as a formal challenge
+      entered in the records.
+    teaching_point: '"nemine impugnante", no one contesting, was taken as a challenge; the delivery was
+      complete and uncontested.'
+  - doc: app53170koningr115
+    was: the besieging of the innkeeper's goods ... concerning the removal of goods, [carried out] by
+      licentious subordinate men
+    now: the besieging of the innkeeper's house ... concerning the shooting through of the house, [carried
+      out] by licentious subordinate men
+    why: '"Gaza" is a hut or house, not goods. On 16 December 1771 armed men besieged the innkeeper''s
+      house, and what the messenger lays to Prusimski''s men is the shooting through of the house (the
+      loopholes and shot-out windows he has just described), not a removal of goods.'
+    teaching_point: '"Gaza" is a hut or house, not goods; a rare vernacular word was guessed from the
+      wrong dictionary sense.'
+  - doc: app53170koningr120-002
+    was: Specifici Di[?]menti Scilicet Contractus Intuita Divenditionis Sylvae [?]cineae cum Spectabili
+      Joanne Trachultz Incti et Confe[c?][?]
+    now: Specifici Documenti Scilicet Contractus Intuitu Divenditionis Sylvae quercineae cum Spectabili
+      Joanne Trachultz Initi et Confecti
+    why: 'read on the scan: the scan has "Documenti", "Intuitu", "Sylvae quer|cineae" over the line end
+      (an oak wood, as in the protest of 1778) and "Initi et Confecti"'
+    teaching_point: Over a line end, "quer|cineae" is oak, not pine; the English had "pine woodland".
+  - doc: app53170koningr153-001
+    was: ad objectam latere conditionem die undecima mensis 7bris anno 1780 in conditionis in fundo
+    now: ad objectam latere condemnationem die undecima mensis 7bris anno 1780 in condescensionis in fundo
+    why: 'read on the scan: the scan has "Condonem" with a mark, condemnationem (the same condemnation
+      is "objecta sibi condemnatione" at the foot of the page), and "Condnis", condescensionis'
+    teaching_point: 'A condemnation obtained on 11 September 1780 is not a condescension: one letter group
+      changed who did what to whom.'
+words:
+- word: Patrui
+  misreadings:
+  - Patrii
+  - Patris
+  - Patriis
+  count: 15
+  docs:
+  - app53170koningr117-002
+  - app53170koningr117-003
+  - app53170koningr117-007
+  - app53170koningr117-008
+- word: zeznana / zeznanej / zeznaną
+  misreadings:
+  - ze znan
+  - że znan
+  count: 14
+  docs:
+  - app53170koningr145-001
+- word: per (the sign for per, not pro)
+  misreadings:
+  - pro
+  count: 12
+  docs:
+  - app53170koningr117-002
+  - app53170koningr117-004
+  - app53170koningr117-005
+  - app53170koningr117-007
+  - app53170koningr145-001
+- word: Te (you, in "Qui Te Citat")
+  misreadings:
+  - Se
+  count: 5
+  docs:
+  - app53170koningr118-010
+  - app53170koningr118-014
+  - app53170koningr119-002
+  - app53170koningr119-005
+- word: Termino
+  misreadings:
+  - Terminum
+  count: 5
+  docs:
+  - app53170koningr118-010
+  - app53170koningr118-014
+  - app53170koningr119-002
+  - app53170koningr119-005
+- word: indebite
+  misreadings:
+  - in debite
+  - In debite
+  - in debitae
+  count: 4
+  docs:
+  - app53170koningr117-002
+  - app53170koningr117-003
+  - app53170koningr117-007
+  - app53170koningr117-008
+- word: utrum
+  misreadings:
+  - citrum
+  - ul/al
+  - u?
+  count: 4
+  docs:
+  - app53150kaliszgr424-001
+  - app53170koningr119-003
+  - app53170koningr119-008
+  - app536017-001
+- word: Gorski
+  misreadings:
+  - Gerski
+  count: 4
+  docs:
+  - app53170koningr153-001
+- word: peracta
+  misreadings:
+  - per acta
+  count: 3
+  docs:
+  - app53150kaliszgr414-001
+  - app53170koningr118-026
+  - app53170koningr119-007
+- word: demortuos
+  misreadings:
+  - de mortuos
+  count: 3
+  docs:
+  - app53170koningr118-023
+- word: Biskupicami
+  misreadings:
+  - Biskupcami
+  count: 3
+  docs:
+  - app53170koningr118-027
+  - app53170koningr145-001
+- word: Tuis
+  misreadings:
+  - suis
+  - s? uis
+  - Tusi
+  - Tcies
+  count: 3
+  docs:
+  - app53170koningr117-001
+  - app53170koningr119-005
+  - app53170koningr120-002
+- word: adhuc
+  misreadings:
+  - ad huc
+  count: 2
+  docs:
+  - app53170koningr117-003
+  - app53170koningr117-007
+- word: inveterata
+  misreadings:
+  - in veterata
+  count: 2
+  docs:
+  - app53170koningr117-003
+  - app53170koningr117-008
+- word: olim
+  misreadings:
+  - oto
+  count: 2
+  docs:
+  - app53170koningr118-014
+- word: Camerarium (boundary chamberlain)
+  misreadings:
+  - Commissarium
+  - Comissarium
+  count: 2
+  docs:
+  - app53170koningr153-001
+- word: Leszczyc
+  misreadings:
+  - Leszczy[ńsk]i
+  count: 2
+  docs:
+  - app53150kaliszgr425-001
+- word: praemissorum
+  misreadings:
+  - '[prae/pro]missorum'
+  - '[prae/pro]missorum'
+  count: 2
+  docs:
+  - app53170koningr118-017
+  - app53170koningr118-019
+- word: officio praesenti
+  misreadings:
+  - officium praesentia
+  - officium prosequenti
+  count: 2
+  docs:
+  - app53150kaliszgr414-001
+  - app53170koningr145-001
