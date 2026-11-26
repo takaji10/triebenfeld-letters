@@ -1,0 +1,24 @@
+# The claim check of the German summary of 53/21/0/-/Pyzdry Gr.75, made in session on
+# 2026-11-26 under the rules read_letters.py --verify gives its checker: each statement
+# held to the corrected Latin of corpus.txt, as supported, overstated or unsupported, and the
+# summary then only weakened or cut, never added to. Not the paid run.
+#
+# Result: 12 statements; 3 weakened before the summary was kept: "Kiefernstämme" (the
+# Latin has arbores, trees, in borris et sylvis) became "Bäume aus den Kiefernwäldern";
+# the 1,513 florins were first said to be "for sawn goods" (the Latin: partly for making
+# them, partly for Paweł's benefit); the sentence on open readings was cut (a matter of
+# method, not of the document).
+
+app5321pyzdrygr75-001:
+- {claim: "Eintrag Nr. 39 des Registers, lateinisch, mit polnischer Schlussformel", verdict: supported, where: "p. 1 'No. 39:'; p. 2 'Jan Traholtz ręką trzymaną'"}
+- {claim: "der Kaufmann Jan Tracholz aus Witkowo erklärt vor dem Gericht", verdict: supported, where: "p. 1: Excellens Joannes Traholtz Mercator et Incola Witkoviensi ... Recognovit (the name Tracholz is the edition's form)"}
+- {claim: "dass er an Stanisław Chełmski, der ihn dafür bezahlt, seine Geldforderungen an den verstorbenen Paweł Prusimski abtritt", verdict: supported, where: "p. 2: in Personam Magnifici Stanislai Chełmski ... sibi recognoscenti persolventis ac pro praemissis plenarie satisfacientis ... cessit contulit transposuit transtulit et transfudit"}
+- {claim: "erste Summe 1053 Imperialen und 13 Groschen", verdict: supported, where: "p. 1: Mille Quinquaginta Trium Imperialium Grossorum Tredecim (the word after Tredecim is doubtful and is not used)"}
+- {claim: "Bäume aus den Kiefernwäldern von Trąbczyn, aufgrund eines schriftlichen Vertrags gekauft", verdict: supported_after_weakening, where: "p. 1: pro arboribus ... in Borris et sylvis Trąpczynensi mediante Contractu ... conscripto; 'Kiefernstämme' cut to 'Bäume'"}
+- {claim: "die Prusimski ihm gewaltsam wegnahm und an einen Kaufmann Simon aus Stettin verkaufte", verdict: supported, where: "p. 1: violento modo interceptis ac honorato Simonis Mercatori Stetinensi per eundem Magnificum Prusimski divenditis"}
+- {claim: "zweite Summe 1513 Gulden", verdict: supported, where: "p. 1: Mille Quingentorum Tredecim florenorum"}
+- {claim: "teils für die Herstellung von Schnittware (neun Stapel) aufgewendet, teils zu Pauls Nutzen ausgelegt", verdict: supported_after_weakening, where: "p. 1: partim in confectionem secaminum id est Klapek novem Struum ... partim pro commodo et interesse memorati olim Magnifici Pauli Prusimski expositam; first draft said 'für Schnittware' alone"}
+- {claim: "die Antoni Prusimski, Pauls leiblicher Bruder, ebenfalls wegnahm", verdict: supported, where: "p. 1: itidem per olim Magnificum Antonium Prusimski ejusdem olim Magnifici Pauli Prusimski fratrem germanum ... interceptarum"}
+- {claim: "mit den Summen gehen die Rechte daran und das Verfahren gegen die Prusimski-Nachfolger über", verdict: supported, where: "p. 2: pleno totali integroque jure suo Dominio proprietato et competentia ... successoribus Prusimscianis instituto ac cum processe juris (the placing of the words 'instituto ... processe' is open, the sense is not)"}
+- {claim: "Tracholz unterschreibt mit gehaltener Hand", verdict: supported, where: "p. 2: Jan Traholtz ręką trzymaną"}
+- {claim: "der Eintrag trägt auf seinen Seiten kein eigenes Datum", verdict: supported, where: "leaf 19 and 19 verso: no date in the entry; the heading below it is of the next sitting"}

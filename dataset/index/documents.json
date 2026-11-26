@@ -2104,6 +2104,52 @@
   "permalink": "/documents/app53170koningr115/2/"
  },
  {
+  "uid": "app5321pyzdrygr75-1",
+  "unit": "app5321pyzdrygr75",
+  "letter_id": "1",
+  "doc_type": "transfer",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1768-09-07",
+  "date_precision": "day",
+  "date_source": "inferred",
+  "place": "Unknown",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 2,
+  "n_lines": 5,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0019_a",
+    "image": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg"
+   },
+   {
+    "page": 2,
+    "page_id": "0019_b",
+    "image": "APP_53_21_0_Pyzdry_Gr_75_0019_b-L1_02.jpg"
+   }
+  ],
+  "uncertainty_count": 9,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 4,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "transfer 1",
+  "path": "documents/app5321pyzdrygr75-1.json",
+  "text_path": "text/app5321pyzdrygr75-1.txt",
+  "permalink": "/documents/app5321pyzdrygr75/1/"
+ },
+ {
   "uid": "app53150kaliszgr414-1",
   "unit": "app53150kaliszgr414",
   "letter_id": "1",
@@ -3752,7 +3798,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 3,
   "places_named": 1,
   "estates": [
    "trabczyn"
@@ -3887,7 +3933,7 @@
   "uncertainty_count": 9,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 3,
+  "mentions": 4,
   "places_named": 3,
   "estates": [
    "trabczyn",
@@ -3971,7 +4017,7 @@
   "uncertainty_count": 10,
   "has_damage": true,
   "rough_transcription": false,
-  "mentions": 3,
+  "mentions": 4,
   "places_named": 6,
   "estates": [
    "trabczyn",
@@ -4143,7 +4189,7 @@
   "uncertainty_count": 3,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 4,
+  "mentions": 5,
   "places_named": 3,
   "estates": [
    "trabczyn",
@@ -4190,7 +4236,7 @@
   "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 4,
+  "mentions": 5,
   "places_named": 5,
   "estates": [
    "trabczyn",
@@ -4237,7 +4283,7 @@
   "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 3,
   "places_named": 3,
   "estates": [
    "trabczyn",
@@ -4836,7 +4882,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 3,
+  "mentions": 4,
   "places_named": 2,
   "estates": [
    "trabczyn",
@@ -6427,7 +6473,7 @@
   "uncertainty_count": 0,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 2,
+  "mentions": 3,
   "places_named": 2,
   "estates": [
    "trabczyn",

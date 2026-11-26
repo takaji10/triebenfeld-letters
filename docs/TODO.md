@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-89 open: 22 question, 22 decision, 25 task, 11 claude, 9 waiting.
+91 open: 23 question, 23 decision, 25 task, 11 claude, 9 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -65,14 +65,41 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a
       desktop session. Nothing further on the holding can start until they are.
 
+- [ ] **Look at the nine places on leaves 19 and 19 verso that were left as you transcribed them** (`t903-gr75-readings`, question). Claude compared your transcription of entry no. 39 with the two page images and
+      corrected ten places where the writing is plain (the notes of the holding list
+      them). Nine places were not plain enough to change, and are for your eye: "Borram"
+      (the page may read "Borrarum"); "erogatam [i?]" (a smear); "iure suo proprio" (the
+      page may read "aere", from his own money); "ea praedictis" ("ex"?); "Da[m/s?]"
+      before "et concedens"; the docket's "in Per" (perhaps "inter"); the first word of
+      line 1 of the verso ("Regestris", moved there from the foot of the recto); the
+      first word of the interlinear line above line 10 of the verso; and where two
+      inserted lines belong. The interlinear line "... ab ejusdem summis capitalibus
+      provenientibus &" has a cross that matches a cross in line 10 before "cessit" (you
+      have it at the end), and the foot line "Recognoscentem successoribus Prusimscianis
+      instituto" has a cross that matches the one after "per" at the end of the
+      signature line (you have it before "cessit"). Enlarged strips of the lines are in
+      the holding's intake/spot/. How should the two inserted lines be placed?
+      Options: Keep both as transcribed (the editor's order) / Both at the crosses (the interlinear line before "cessit", the foot line at the end) / Something else (say in the note)
+      Concerns: [Pyzdry Gr.75](/sources/app5321pyzdrygr75/)
+
+- [ ] **Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?** (`t904-gr75-abbreviations`, decision). Your text marks abbreviations with "~" ("alisculi~", "recog~tione", "Dam~"), as in the
+      older court books. Your ruling of 2026-11-22 says abbreviations are expanded in
+      square brackets where the expansion is certain, and that it holds for every
+      holding worked on from now. The ten corrections made in this holding use the
+      brackets ("proq[ue] usuq[ue]", "sc[ilicet]"); your own tilde forms stand as they
+      were. Should Claude carry the bracket rule over to them here?
+      Options: Expand the tilde forms in brackets where certain / Keep your tilde forms as they are
+      Concerns: [Pyzdry Gr.75](/sources/app5321pyzdrygr75/)
+
 ## Jan Tracholz
 
-- [ ] **Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?** (`t902-trachultz`, question). The new person entry Jan Tracholz takes eight documents in five holdings. One of them,
+- [ ] **Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?** (`t902-trachultz`, question). The new person entry Jan Tracholz takes nine documents in five holdings. One of them,
       Konin Gr.120, document 2, writes "Spectabili Joanne Trachultz" in a contract for
       the sale of an oak forest. Claude reads him as the same man, because Konin Gr.117
       (documents 3 and 7) says the merchant's claim rests on a contract of 1744 for oak
-      timber with Paweł Prusimski. The spelling differs and the date of the sitting is
-      1785-86, so this is a reading, not a proof. Is he the same man?
+      timber with Paweł Prusimski. The document says the contract with Tracholz is the
+      one Chełmski's claim comes from, which fits; only the spelling differs, so this is
+      a reading, not a proof. Is he the same man?
       Options: Same man, keep the entry / Not shown, take Gr.120 out of the entry / Leave it open
       Concerns: [Konin Gr.120](/sources/app53170koningr120/)
 

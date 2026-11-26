@@ -5309,3 +5309,26 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   commit, and dropped `year_min`/`year_max` from `site/_data/stats.yml`. Check
   `git diff --stat` after it and commit only what the change caused (the
   holdings were checked out again, the two stats lines restored by hand).
+- **Pyzdry Gr.75 built in the cloud from images the editor sent in chat**
+  (2026-11-26): `units/app5321pyzdrygr75/` (slug of the reference; page ids
+  `0019_a`/`0019_b`). With no raw scans in the cloud, the steps that need them were
+  replaced by hand: `page_scan_map.csv`, `scan_rename_map.json`, the web copies written
+  by `intake/holding.py --scans`; run the rest (`resolve_paragraphs`, `build_db`,
+  `merge_corpus`, `build_dataset`, `check_mentions_join`, `connections_site`,
+  `build_site_data`, `person_pages`, `search_indexes`) as separate scripts, not
+  `regenerate.py`. `translate.py`'s `load_letters()` reads the merged
+  `dataset/letters.json`, so `merge_corpus.py` must run before `holding.py --cache`;
+  `courtbook.save_cache` also needs `pip install anthropic` in a fresh container.
+- **A reader who does not crop is no second reader.** The first blind reader was
+  given the whole page at the delivered size and its report (honestly) said it had guessed
+  most lines; the brief said "crop and zoom" and nothing enforced it. What worked: cut the
+  page into overlapping 2x strips myself (`scratchpad/gr75/strips/`, 340 px high, 240 px
+  step), name every strip in the brief, ask which strips were opened. The led reader
+  (the editor's text as a table of differences) found the one substantive omission, 13
+  groschen after the 1,053 imperials.
+- **A `str.index("S = {")` edit matched `IMAGES = {`** and deleted three blocks of
+  the holding's script; the restore cost a turn. Edit a script with an anchor that holds
+  once and check the file with `grep -n "^[A-Z]* = "` before running.
+- **Name pattern for a scribe's variant.** Tracholz was `Trach[ou]lt?z`; the Pyzdry
+  clerk writes "Traholtz" (no c) and the pattern missed the transfer itself. Check the
+  new holding's own hits after building: `site/_data/people.yml` count for the person.

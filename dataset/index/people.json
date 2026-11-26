@@ -2,7 +2,7 @@
  {
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
-  "count": 514,
+  "count": 523,
   "documents": [
    "adwl85-1",
    "agad118501169-1",
@@ -79,6 +79,7 @@
    "app53170koningr153-1",
    "app53170koningr153-2",
    "app5320pozgr1181-1",
+   "app5321pyzdrygr75-1",
    "app536046-1",
    "app536046-2",
    "app536047-1",
@@ -228,6 +229,87 @@
     "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
     "line": 11,
     "doc_line": 5
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Prusimski",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
    },
    {
     "uid": "app53150kaliszgr414-1",
@@ -4770,7 +4852,7 @@
  {
   "entity": "stanislaw-chelmski",
   "display": "Stanisław Chełmski, Treasurer of Wschowa",
-  "count": 498,
+  "count": 499,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -4834,6 +4916,7 @@
    "app53170koningr145-1",
    "app53170koningr153-1",
    "app53170koningr153-2",
+   "app5321pyzdrygr75-1",
    "app536045-1",
    "app536046-1",
    "app536046-2",
@@ -4939,6 +5022,15 @@
     "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
     "line": 11,
     "doc_line": 5
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Chełmski",
+    "page": 2,
+    "page_id": "0019_b",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_b-L1_02.jpg",
+    "line": 5,
+    "doc_line": 2
    },
    {
     "uid": "app53150kaliszgr414-1",
@@ -59615,6 +59707,213 @@
   ]
  },
  {
+  "entity": "tracholz",
+  "display": "Jan Tracholz",
+  "count": 21,
+  "documents": [
+   "app53170koningr117-2",
+   "app53170koningr117-3",
+   "app53170koningr117-7",
+   "app53170koningr117-8",
+   "app53170koningr117-9",
+   "app53170koningr118-14",
+   "app53170koningr120-2",
+   "app5321pyzdrygr75-1",
+   "app536046-2"
+  ],
+  "mentions": [
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Traholtz",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Traholtz",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Traholtz",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Traholtz",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Traholtz",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Traholtz",
+    "page": 2,
+    "page_id": "0019_b",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_b-L1_02.jpg",
+    "line": 6,
+    "doc_line": 3
+   },
+   {
+    "uid": "app536046-2",
+    "surface": "Tracholz",
+    "page": 1,
+    "page_id": "0183_a2",
+    "scan": "APP_53_6_0_46_0183_a2-L2_01.jpg",
+    "line": 9,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-2",
+    "surface": "Tracholz",
+    "page": 1,
+    "page_id": "0183_a2",
+    "scan": "APP_53_6_0_46_0183_a2-L2_01.jpg",
+    "line": 9,
+    "doc_line": 1
+   },
+   {
+    "uid": "app536046-2",
+    "surface": "Tracholz",
+    "page": 1,
+    "page_id": "0183_a2",
+    "scan": "APP_53_6_0_46_0183_a2-L2_01.jpg",
+    "line": 9,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Tracholz",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Tracholz",
+    "page": 2,
+    "page_id": "0055_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
+    "line": 18,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-3",
+    "surface": "Tracholtz",
+    "page": 3,
+    "page_id": "0056_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0056_a1-L3_03.jpg",
+    "line": 20,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr117-2",
+    "surface": "Tracholz",
+    "page": 1,
+    "page_id": "0055_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Tracholz",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-7",
+    "surface": "Tracholz",
+    "page": 2,
+    "page_id": "0072_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
+    "line": 41,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Tracholz",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Tracholz",
+    "page": 1,
+    "page_id": "0072_a2",
+    "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+    "line": 46,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr117-8",
+    "surface": "Tracholz",
+    "page": 2,
+    "page_id": "0073_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0073_a1-L8_02.jpg",
+    "line": 48,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr117-9",
+    "surface": "Tracholtz",
+    "page": 2,
+    "page_id": "0079_a1",
+    "scan": "APP_53_17_0_Konin_Gr_117_0079_a1-L9_02.jpg",
+    "line": 54,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr118-14",
+    "surface": "Tracholz",
+    "page": 1,
+    "page_id": "0496_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0496_a1-L14_01.jpg",
+    "line": 70,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr120-2",
+    "surface": "Trachultz",
+    "page": 1,
+    "page_id": "0624_a1",
+    "scan": "APP_53_17_0_Konin_Gr_120_0624_a1-L2_01.jpg",
+    "line": 10,
+    "doc_line": 3
+   }
+  ]
+ },
+ {
   "entity": "szepczynski",
   "display": "Bartłomiej Szepczyński, court messenger",
   "count": 20,
@@ -68114,6 +68413,101 @@
   ]
  },
  {
+  "entity": "simon",
+  "display": "Simon",
+  "count": 9,
+  "documents": [
+   "app5321pyzdrygr75-1",
+   "iiihamdaiiinr12765-3",
+   "oe1bu14526-15",
+   "oe1bu14526-5",
+   "oe1bu9454-141"
+  ],
+  "mentions": [
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Simon",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app5321pyzdrygr75-1",
+    "surface": "Simon",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "APP_53_21_0_Pyzdry_Gr_75_0019_a-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "oe1bu9454-141",
+    "surface": "Simon",
+    "page": 1,
+    "page_id": "0278_b",
+    "scan": "Oe_1_Bu_9454_0278_b-L141_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu9454-141",
+    "surface": "Simon",
+    "page": 1,
+    "page_id": "0278_b",
+    "scan": "Oe_1_Bu_9454_0278_b-L141_01.jpg",
+    "line": 10447,
+    "doc_line": 21
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Simon",
+    "page": 2,
+    "page_id": "0020_a1",
+    "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "oe1bu14526-5",
+    "surface": "Simon",
+    "page": 2,
+    "page_id": "0020_a1",
+    "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
+    "line": 935,
+    "doc_line": 58
+   },
+   {
+    "uid": "oe1bu14526-15",
+    "surface": "Simon",
+    "page": 5,
+    "page_id": "0090_a2",
+    "scan": "Oe_1_Bu_14526_0090_a2-L15_05.jpg",
+    "line": 4926,
+    "doc_line": 149
+   },
+   {
+    "uid": "iiihamdaiiinr12765-3",
+    "surface": "Simon",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+    "line": 0,
+    "language": "en"
+   },
+   {
+    "uid": "iiihamdaiiinr12765-3",
+    "surface": "Simon",
+    "page": 1,
+    "page_id": "0006_a2",
+    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
+    "line": 133,
+    "doc_line": 24
+   }
+  ]
+ },
+ {
   "entity": "dolffs",
   "display": "von Dolffs",
   "count": 9,
@@ -70920,82 +71314,6 @@
     "scan": "Oe_1_Bu_14526_0131_a1-L19_16.jpg",
     "line": 6726,
     "doc_line": 406
-   }
-  ]
- },
- {
-  "entity": "simon",
-  "display": "Simon",
-  "count": 7,
-  "documents": [
-   "iiihamdaiiinr12765-3",
-   "oe1bu14526-15",
-   "oe1bu14526-5",
-   "oe1bu9454-141"
-  ],
-  "mentions": [
-   {
-    "uid": "oe1bu9454-141",
-    "surface": "Simon",
-    "page": 1,
-    "page_id": "0278_b",
-    "scan": "Oe_1_Bu_9454_0278_b-L141_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu9454-141",
-    "surface": "Simon",
-    "page": 1,
-    "page_id": "0278_b",
-    "scan": "Oe_1_Bu_9454_0278_b-L141_01.jpg",
-    "line": 10447,
-    "doc_line": 21
-   },
-   {
-    "uid": "oe1bu14526-5",
-    "surface": "Simon",
-    "page": 2,
-    "page_id": "0020_a1",
-    "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "oe1bu14526-5",
-    "surface": "Simon",
-    "page": 2,
-    "page_id": "0020_a1",
-    "scan": "Oe_1_Bu_14526_0020_a1-L5_02.jpg",
-    "line": 935,
-    "doc_line": 58
-   },
-   {
-    "uid": "oe1bu14526-15",
-    "surface": "Simon",
-    "page": 5,
-    "page_id": "0090_a2",
-    "scan": "Oe_1_Bu_14526_0090_a2-L15_05.jpg",
-    "line": 4926,
-    "doc_line": 149
-   },
-   {
-    "uid": "iiihamdaiiinr12765-3",
-    "surface": "Simon",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
-    "line": 0,
-    "language": "en"
-   },
-   {
-    "uid": "iiihamdaiiinr12765-3",
-    "surface": "Simon",
-    "page": 1,
-    "page_id": "0006_a2",
-    "scan": "III_HA_MdA_III_Nr_12765_0006_a2-L3_01.jpg",
-    "line": 133,
-    "doc_line": 24
    }
   ]
  },

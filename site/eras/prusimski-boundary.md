@@ -45,6 +45,13 @@ loopholes cut in the tavern's walls and its windows shot to pieces — the work,
 of more than thirty Trąbczyn subjects in Prusimski's presence
 ([the reports]({{ '/documents/app53170koningr115/5/' | relative_url }})).
 
+Chełmski's claims were not only about land. In September 1768 a merchant of Witkowo, Jan Tracholz,
+made over to him, before the court of Pyzdry, what he claimed from the late Paweł Prusimski for pine
+timber seized in the Trąbczyn forests, 1,053 imperials and 13 groschen, and 1,513 florins
+([the transfer]({{ '/documents/app5321pyzdrygr75/1/' | relative_url }})). On that claim Chełmski sued Antoni
+Prusimski, in the decree of October 1777 and the citations that followed, until 1786
+([the decree]({{ '/documents/app536046/2/' | relative_url }})).
+
 The Polish parliament tried to end the matter. The commission it appointed met in the
 forest between the two estates in September 1775 and split: the commissioners under
 Ludwik Dąmbski, voivode (governor) of Brześć Kujawski, found Antoni Prusimski's boundary line the

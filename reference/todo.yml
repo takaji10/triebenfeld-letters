@@ -109,11 +109,10 @@ items:
   group: Jan Tracholz
   title: Is the "Trachultz" of Konin Gr.120 the merchant Tracholz?
   kind: question
-  text: 'The new person entry Jan Tracholz takes eight documents in five holdings. One of them, Konin Gr.120,
+  text: 'The new person entry Jan Tracholz takes nine documents in five holdings. One of them, Konin Gr.120,
     document 2, writes "Spectabili Joanne Trachultz" in a contract for the sale of an oak forest. Claude
     reads him as the same man, because Konin Gr.117 (documents 3 and 7) says the merchant''s claim rests on a
-    contract of 1744 for oak timber with Paweł Prusimski. The spelling differs and the date of the sitting
-    is 1785-86, so this is a reading, not a proof. Is he the same man?'
+    contract of 1744 for oak timber with Paweł Prusimski. The document says the contract with Tracholz is the one Chełmski''s claim comes from, which fits; only the spelling differs, so this is a reading, not a proof. Is he the same man?'
   options:
   - Same man, keep the entry
   - Not shown, take Gr.120 out of the entry
@@ -122,6 +121,50 @@ items:
   - type: unit
     slug: app53170koningr120
     label: Konin Gr.120
+  nc: ''
+  audit_note: ''
+- id: t903-gr75-readings
+  group: APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
+  title: Look at the nine places on leaves 19 and 19 verso that were left as you transcribed them
+  kind: question
+  text: 'Claude compared your transcription of entry no. 39 with the two page images and corrected ten
+    places where the writing is plain (the notes of the holding list them). Nine places were not plain
+    enough to change, and are for your eye: "Borram" (the page may read "Borrarum"); "erogatam [i?]"
+    (a smear); "iure suo proprio" (the page may read "aere", from his own money); "ea praedictis"
+    ("ex"?); "Da[m/s?]" before "et concedens"; the docket''s "in Per" (perhaps "inter"); the first word
+    of line 1 of the verso ("Regestris", moved there from the foot of the recto); the first word of the
+    interlinear line above line 10 of the verso; and where two inserted lines belong. The interlinear
+    line "... ab ejusdem summis capitalibus provenientibus &" has a cross that matches a cross in
+    line 10 before "cessit" (you have it at the end), and the foot line "Recognoscentem successoribus
+    Prusimscianis instituto" has a cross that matches the one after "per" at the end of the signature
+    line (you have it before "cessit"). Enlarged strips of the lines are in the holding''s
+    intake/spot/. How should the two inserted lines be placed?'
+  options:
+  - Keep both as transcribed (the editor's order)
+  - Both at the crosses (the interlinear line before "cessit", the foot line at the end)
+  - Something else (say in the note)
+  links:
+  - type: unit
+    slug: app5321pyzdrygr75
+    label: Pyzdry Gr.75
+  nc: ''
+  audit_note: ''
+- id: t904-gr75-abbreviations
+  group: APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
+  title: Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?
+  kind: decision
+  text: 'Your text marks abbreviations with "~" ("alisculi~", "recog~tione", "Dam~"), as in the older court
+    books. Your ruling of 2026-11-22 says abbreviations are expanded in square brackets where the
+    expansion is certain, and that it holds for every holding worked on from now. The ten corrections
+    made in this holding use the brackets ("proq[ue] usuq[ue]", "sc[ilicet]"); your own tilde forms
+    stand as they were. Should Claude carry the bracket rule over to them here?'
+  options:
+  - Expand the tilde forms in brackets where certain
+  - Keep your tilde forms as they are
+  links:
+  - type: unit
+    slug: app5321pyzdrygr75
+    label: Pyzdry Gr.75
   nc: ''
   audit_note: ''
 - id: t010-full-account-of-the

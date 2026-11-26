@@ -474,3 +474,71 @@
         Klage von 1799 nennen das Darlehen mit 12.000 Dukaten, im Juni 1794
         gegen Prusimskis Verschreibung gegeben, er dürfe die Güter bis zur
         Rückzahlung besitzen.
+
+# The merchant Tracholz's transfer of 1768 and the suit that rests on it
+# (the editor asked for the new Pyzdry Gr.75 entry to be linked to the other
+# sources, 2026-11-26). Claude's reading: the "Trachultz" of Konin Gr.120 is
+# the same man, since his document names the contract for the sale of an oak
+# wood from which Chełmski's claim comes (NEEDS_CONFIRMATION, "Jan Tracholz").
+- id: tracholz-transfer-and-chelmski-suit
+  documents:
+    - uid: app5321pyzdrygr75-1
+      en: >-
+        The transfer itself: the merchant Jan Tracholz makes over to Chełmski
+        his claims against the late Paweł Prusimski, which Chełmski then pursued
+        against Antoni Prusimski in the suits of 1777 to 1786.
+      de: >-
+        Die Übertragung selbst: Der Kaufmann Jan Tracholz tritt Chełmski seine
+        Forderungen an den verstorbenen Paweł Prusimski ab, die Chełmski dann
+        in den Prozessen von 1777 bis 1786 gegen Antoni Prusimski verfolgte.
+    - uid: app536046-2
+      en: >-
+        The decree of the Konin land court of October 1777 cites the transfer
+        as acknowledged before the Pyzdry court on the Wednesday before the
+        Nativity of the Virgin 1768, the date this entry lacks, and orders a
+        hearing on the ground.
+      de: >-
+        Das Dekret des Landgerichts Konin vom Oktober 1777 nennt die
+        Übertragung als am Mittwoch vor Mariä Geburt 1768 vor dem Gericht in
+        Pyzdry anerkannt, das Datum, das diesem Eintrag fehlt, und ordnet einen
+        Ortstermin an.
+    - uid: app53170koningr117-3
+      en: >-
+        Antoni Prusimski's protest of March 1778 against Chełmski's claim
+        bought from Tracholz, which he says rests on a contract of 1744 for
+        oak timber with his uncle Paweł; the transfer protested against is
+        the one made in this entry.
+      de: >-
+        Antoni Prusimskis Protest vom März 1778 gegen Chełmskis von Tracholz
+        gekaufte Forderung, die nach seinen Worten auf einem Vertrag von 1744
+        über Eichenholz mit seinem Onkel Paweł beruht; die Übertragung, gegen
+        die er protestiert, ist die dieses Eintrags.
+    - uid: app53170koningr117-8
+      en: >-
+        The messenger's report of 15 April 1778 on the royal citation before
+        the Crown Tribunal over the claim Chełmski bought from Tracholz, whom
+        it already calls "olim", the late.
+      de: >-
+        Der Bericht des Boten vom 15. April 1778 über die königliche Ladung
+        vor das Krontribunal wegen der von Tracholz gekauften Forderung
+        Chełmskis; er nennt Tracholz schon „olim“, den Verstorbenen.
+    - uid: app53170koningr118-14
+      en: >-
+        The royal citation of 1781 to the sitting on the ground at Grab:
+        Chełmski claims payment, with interest, of the sum that the merchant
+        Tracholz made over to him.
+      de: >-
+        Die königliche Ladung von 1781 zum Ortstermin in Grab: Chełmski fordert
+        die Zahlung der Summe, die der Kaufmann Tracholz ihm abgetreten hat,
+        mit Zinsen.
+    - uid: app53170koningr120-2
+      en: >-
+        The citation of October 1786 requires Antoni Prusimski to produce the
+        contract with the merchant Jan Tracholz for the sale of an oak wood,
+        from which Chełmski's claim comes; the document writes the name
+        "Trachultz", which Claude reads as the same man.
+      de: >-
+        Die Ladung vom Oktober 1786 verlangt von Antoni Prusimski die Vorlage
+        des Vertrags mit dem Kaufmann Jan Tracholz über den Verkauf eines
+        Eichenwaldes, aus dem Chełmskis Forderung stammt; das Dokument
+        schreibt den Namen „Trachultz“, den Claude als denselben Mann liest.

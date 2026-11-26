@@ -182,6 +182,24 @@ German follows the editor's English layout").
 
 ## Where things stand (2026-11-01)
 
+- **APP 53/21/0/-/Pyzdry Gr.75 - Tracholz's transfer to Chełmski, 1768**
+  (slug `app5321pyzdrygr75`, added and **translated 2026-11-26** on the branch
+  `claude/vigilant-johnson-jxb4hz`, **not published**): entry no. 39 of "Inscriptiones
+  [protocollon] 1768-1781" of the Pyzdry grod court, leaves 19 and 19 verso - the
+  merchant Jan Tracholz of Witkowo makes over to Stanisław Chełmski his claims on the
+  late Paweł Prusimski (1,053 imperials and 13 groschen for timber, 1,513 florins);
+  one document, two pages (the editor's two images, no cropping); the editor's
+  Latin checked by Claude and Sonnet readers (nine corrections, among them 13 groschen
+  the transcription had skipped), the English and summaries in session; era
+  `prusimski-boundary`; a **person entry `tracholz`** (9 documents), a six-document
+  connection, a timeline event (7 September 1768, from the Konin decree of 1777) and
+  a paragraph in the era essay. The "Relationes 1768-1771" folder was a duplicate copy
+  (the old TODO t009 closed). Entry no. 17 of 53/6/0/-/46 needs no fresh transcription:
+  it has been document 2 of that holding since 2026-10-07. Open: TODO t902-t904
+  (Gr.120's "Trachultz", nine readings and two inserted lines, the tilde forms).
+  Read `units/app5321pyzdrygr75/notes.md` first, and WORKING_NOTES, "Pyzdry Gr.75
+  begun".
+
 - **The site overhaul** (2026-11-24, **published 2026-11-24**; plan
   `docs/SITE_OVERHAUL_PLAN.md`, TODO section 69): new writing rules in
   HOUSE_STYLE ("the content, not the paper", first mention, complete actions,

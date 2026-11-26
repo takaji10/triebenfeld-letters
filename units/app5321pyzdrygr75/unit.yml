@@ -1,0 +1,86 @@
+# One archival unit. Everything the pipeline needs to know about where this
+# material came from and how its files are named.
+
+slug: app5321pyzdrygr75
+ref: 53/21/0/-/Pyzdry Gr.75
+archive: Archiwum Państwowe w Poznaniu (APP)
+title: >-
+  The declaration of the merchant Jan Tracholz of Witkowo before the Pyzdry
+  court in 1768, by which he made over to Stanisław Chełmski his claims against
+  the late Paweł Prusimski and the Prusimski heirs: 1,053 imperials and 13
+  groschen for pine timber from the Trąbczyn forests, and 1,513 florins for
+  sawn goods.
+title_de: >-
+  Die Erklärung des Kaufmanns Jan Tracholz aus Witkowo vor dem Gericht in
+  Pyzdry im Jahr 1768, mit der er seine Forderungen an den verstorbenen Paweł
+  Prusimski und die Prusimski-Erben an Stanisław Chełmski abtrat: 1053
+  Imperialen und 13 Groschen für Kiefernholz aus den Wäldern von Trąbczyn und
+  1513 Gulden für Schnittware.
+# The archive's own title of the unit, as the editor's folder gives it.
+archive_title: >-
+  Inscriptiones [protocollon] 1768-1781
+card_title: "Pyzdry Municipal Court: Inscriptiones [protocollon] 1768-1781"
+card_title_de: "Burggericht Pyzdry: Inscriptiones [protocollon] 1768-1781"
+original_title: "Inscriptiones [protocollon] 1768-1781"
+# The fonds (archive's description on the Pyzdry court books, held in
+# reference/sources/app_ksiegi_sadu_i_urzedu_grodzkiego_w_pyzdrach.md).
+fonds: Księgi sądu i urzędu grodzkiego w Pyzdrach
+types: [court-records]
+# The entry is Latin; its closing formula and the docket are Polish.
+languages: [la, pl]
+date_span: 1768
+status: translated        # draft | transcribed | translated | published
+published_tag: ""
+
+era: prusimski-boundary
+repository: app-poznan
+
+# The editor's two scans (leaf 19 recto and verso) are single pages and need
+# no cutting (the editor, 2026-11-26). The cloud session received them as
+# images, 1185 x 2000, and made the web copies directly (intake/holding.py
+# --scans); the editor's originals stay on the J drive.
+scans:
+  raw_dir: J:/Documents/Archive/Genealogy/References/Poznań State Archives/Inscriptiones [protocollon] 1768-1781 (53.21.0.-.Pyzdry Gr.75)
+  raw_glob: "*.jpg"
+  ascii_prefix: APP_53_21_0_Pyzdry_Gr_75
+
+corpus: corpus.txt
+
+description: >-
+  One entry of the register of the grod court and office of Pyzdry, on leaves
+  19 and 19 verso of the volume Inscriptiones [protocollon] 1768-1781: entry
+  no. 39, in Latin with a Polish closing formula, the declaration made
+  before the court by the merchant Jan Tracholz (written Traholtz in the
+  entry), inhabitant of Witkowo. He declares that he makes over to the Right
+  Honourable Stanisław Chełmski, who pays him for them, his own sums claimed
+  from the late Paweł Prusimski: first 1,053 imperials and 13 groschen for
+  pine trees he had bought in the Trąbczyn forests under a written contract
+  and which Prusimski had seized by force and sold to a merchant of Stettin,
+  and then 1,513 florins spent on nine stacks of sawn goods, seized in the
+  same way by Antoni Prusimski, Paweł's full brother, after the pine forest
+  was cut. With the sums he hands over the rights, ownership and legal
+  proceedings brought against the Prusimski successors. The merchant signs
+  "by his held hand", with another's hand guiding his. The entry has no date
+  on its page; the transfer is dated by another entry of the edition
+  (rulings.yml).
+
+translation_note: >-
+  A declaration of 1768 in the abbreviated Latin of a Polish castle (grod)
+  court. "Recognovit" begins the acknowledgement made before the court;
+  "transfusio" is the transfer (cession) of a claim to another, here to
+  Chełmski, who pays for it; "jus legati" a right by legacy. The "Excellens"
+  and "honoratus" are the clerk's courtesies, as in the other court books.
+  "Borra" is a pine forest and "sylva" woodland; "secamina" sawn goods;
+  "Klapek" and "Rynek" are trade names of sawn timber that the transcription
+  leaves unexplained, as written. "Auscuk" in the transcription is the
+  German Auszug, an extract or statement of account. The merchant's name
+  stands here as Traholtz; the edition's form of it is Tracholz. Stettin is
+  Szczecin. The closing "ręką trzymaną" ("by his held hand") is Polish, the
+  formula of a signature made with another's hand guiding the writer's.
+
+prepared:
+  transcription:
+  - t-editor
+  - en: Claude then compared the editor's text with the two page images, line by line, with two further readers working from enlarged strips, and corrected the places where the writing is plain. The places where it is not (the placing of two inserted lines, three doubtful words) stand as the editor has them and were put to the editor.
+    de: Claude verglich anschließend den Text des Herausgebers Zeile für Zeile mit den beiden Seitenbildern, zusammen mit zwei weiteren Lesern an vergrößerten Streifen, und korrigierte die Stellen, an denen die Schrift eindeutig ist. Die unklaren Stellen (die Stellung zweier Einschubzeilen, drei zweifelhafte Wörter) stehen so, wie der Herausgeber sie hat, und wurden dem Herausgeber vorgelegt.
+  translation: []

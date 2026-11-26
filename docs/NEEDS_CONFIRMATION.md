@@ -20,6 +20,23 @@ repository; they are on the working machine.
   identification (the editor's spot sheet of 2026-10-07 left it); the new entry
   repeats it as Claude's.
 
+## APP 53/21/0/-/Pyzdry Gr.75, entry no. 39 (2026-11-26)
+
+- **The nine places left as transcribed and the placing of two inserted lines**
+  (TODO t903): "Borram", "erogatam [i?]", "iure"/"aere", "ea"/"ex praedictis", "Da[m/s?]",
+  the docket's "in Per"/"inter", the first word of the verso and of the interlinear line,
+  and where the lines "... provenientibus &" and "Recognoscentem successoribus
+  Prusimscianis instituto" belong. Strips in `units/app5321pyzdrygr75/intake/spot/`.
+- **"Fericorum[?]"** after "Grossorum Tredecim" (13 groschen), omitted in the editor's text,
+  not read: the English marks it doubtful and the summaries do not use it.
+- **Pine or oak?** The transfer says "Borris et sylvis" (pine forests); the protest of 1778
+  (Konin Gr.117, doc. 3) says the 1744 contract was for oak timber ("silvae Quercineae"),
+  and Gr.120, doc. 2 "an oak wood". The edition keeps each document's word; the contract
+  itself is not in the edition.
+- **Tilde forms vs the bracket rule** (TODO t904).
+- **Two rows of `reference/translation_rulings.json` are Claude's own** (not the editor's):
+  "Dominium" rendered "dominion" (a legal sense), and the marker count of "fun[d?]u[m?]".
+
 ## The site overhaul (2026-11-24, docs/SITE_OVERHAUL_PLAN.md)
 
 - **Three works now shown in full, copyright to clear (you).** Nazwy

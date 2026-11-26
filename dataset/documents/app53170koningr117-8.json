@@ -209,10 +209,43 @@
    "doc_line": 2
   },
   {
+   "entity": "tracholz",
+   "display": "Jan Tracholz",
+   "kind": "person",
+   "surface": "Tracholz",
+   "page": 1,
+   "page_id": "0072_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+   "line": 46,
+   "doc_line": 2
+  },
+  {
+   "entity": "tracholz",
+   "display": "Jan Tracholz",
+   "kind": "person",
+   "surface": "Tracholz",
+   "page": 1,
+   "page_id": "0072_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
+   "line": 46,
+   "doc_line": 2
+  },
+  {
    "entity": "stanislaw-chelmski",
    "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
    "surface": "Chełmski",
+   "page": 2,
+   "page_id": "0073_a1",
+   "scan": "APP_53_17_0_Konin_Gr_117_0073_a1-L8_02.jpg",
+   "line": 48,
+   "doc_line": 3
+  },
+  {
+   "entity": "tracholz",
+   "display": "Jan Tracholz",
+   "kind": "person",
+   "surface": "Tracholz",
    "page": 2,
    "page_id": "0073_a1",
    "scan": "APP_53_17_0_Konin_Gr_117_0073_a1-L8_02.jpg",

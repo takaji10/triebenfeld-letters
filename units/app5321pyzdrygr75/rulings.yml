@@ -1,0 +1,41 @@
+# Editorial rulings for 53/21/0/-/Pyzdry Gr.75 (APP).
+#
+# One document: entry no. 39 of the volume, on leaf 19 recto and verso, the
+# declaration of Jan Tracholz transferring his claims to Chełmski. The sitting
+# heading beneath it on leaf 19 verso (Friday 9 September 1768, held outside
+# the town after the fire of 11 June) belongs to the entries that follow, no.
+# 40 on; it is not transcribed. Established 2026-11-26.
+
+places:
+  overrides: {}
+
+dates:
+  read: {}
+  supplied: {}
+  twin: {}
+  # [year, month, day, precision, basis]; the basis is shown to the reader.
+  inferred:
+    "1": [1768, 9, 7, "day", "The entry has no date of its own on its pages, and the heading of its sitting is on the leaf before. Entry no. 17 of the Konin sitting of October 1777 (APP 53/6/0/-/46, document 2) cites this transfer as acknowledged before the Pyzdry court on Wednesday, the eve of the Feast of the Nativity of the Virgin Mary, 1768: 7 September. The entry stands above the heading of the next sitting, Friday 9 September 1768, so it is of that day or earlier."]
+  sitting: {}
+  no_date: []
+
+documents:
+  doc_type:
+    "1": transfer
+
+  language:
+    "1": la
+
+  duplicate_of: {}
+  split_note: {}
+  relations: {}
+
+  estates:
+    "1": [trabczyn]
+
+pages:
+  # The editor's transcription is by paragraph, not by line.
+  by_paragraph: ["0019_a", "0019_b"]
+
+damage:
+  letters: []

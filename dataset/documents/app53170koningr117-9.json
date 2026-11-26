@@ -141,6 +141,17 @@
    "scan": "APP_53_17_0_Konin_Gr_117_0078_a2-L9_01.jpg",
    "line": 52,
    "doc_line": 2
+  },
+  {
+   "entity": "tracholz",
+   "display": "Jan Tracholz",
+   "kind": "person",
+   "surface": "Tracholtz",
+   "page": 2,
+   "page_id": "0079_a1",
+   "scan": "APP_53_17_0_Konin_Gr_117_0079_a1-L9_02.jpg",
+   "line": 54,
+   "doc_line": 3
   }
  ],
  "mentions_english": [],
