@@ -5338,3 +5338,8 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   strip of the page (the images inside the file once, set by a few lines of script;
   `units/app5321pyzdrygr75/intake/spot_sheet.py` is the pattern). Say on the sheet which
   strips Claude did not read itself.
+- **No script in a sheet or page the editor opens in the app** (2026-11-26): the first spot
+  sheet set its images with a few lines of JavaScript and showed white boxes (the viewer
+  does not run scripts). Put images in the CSS (`.s_name{background-image:url(data:...)}`)
+  and the card's `div` takes its height from the strip's aspect ratio (`padding-top: %`).
+  Check a sheet with scripts switched off (`javaScriptEnabled: false` in Playwright).

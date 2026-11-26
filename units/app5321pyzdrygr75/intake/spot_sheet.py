@@ -9,8 +9,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 STRIPS = sys.argv[1]           # folder with 19r_03.png ... 19v_03.png
 NEED = ['19r_03', '19r_04', '19r_05', '19r_06', '19r_07', '19r_08', '19v_01', '19v_02', '19v_03']
 
+RATIO = {}
 def data(name):
     im = Image.open(os.path.join(STRIPS, name + '.png')).convert('RGB')
+    RATIO[name] = 100.0 * im.height / im.width
     b = io.BytesIO(); im.save(b, 'JPEG', quality=80)
     return 'data:image/jpeg;base64,' + base64.b64encode(b.getvalue()).decode()
 
@@ -69,7 +71,7 @@ KIND = {'add': ('Claude changed this', '#fff3b0'), 'ask': ('For your eye (left a
 
 def card(it):
     id_, kind, strips, ctx, was, now = it
-    imgs = ''.join('<figure><img data-strip="%s" alt="strip %s"><figcaption>%s - click to enlarge</figcaption></figure>' % (s, s, s) for s in strips)
+    imgs = ''.join('<figure><div class="strip s_%s" role=img aria-label="strip %s" style="padding-top:%.2f%%"></div><figcaption>%s</figcaption></figure>' % (s, s, RATIO[s], s) for s in strips)
     return ('<section class="card %s" id="%s"><h3><span class=tag>%s</span> %s</h3>'
             '<p class=ctx>%s</p><p class=was><b>You had / now:</b> %s</p><p class=q>%s</p>%s</section>'
             % (kind, id_, id_, KIND[kind][0], ctx, was, now, imgs))
@@ -83,6 +85,7 @@ def hi(t):
     return t
 text = ''.join('<p>%s</p>' % html.escape(l) for l in full if l and not l.startswith('['))
 
+CSS = ''.join('.s_%s{background-image:url(%s)}' % (n, data(n)) for n in NEED)
 doc = '''<!doctype html><html lang=en><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
 <title>Spot sheet: Pyzdry Gr.75, entry no. 39</title>
 <style>
@@ -97,10 +100,9 @@ h1{font-size:1.4rem}h2{margin-top:2rem;border-bottom:1px solid var(--line)}
 .tag{font-weight:bold;font-family:sans-serif;margin-right:6px}h3{margin:.2rem 0;font-size:1rem;font-family:sans-serif}
 mark.add{background:#fff3b0;color:#111}mark.ask{background:#ffd7b5;color:#111}mark.look{background:#d9ecff;color:#111}s{color:#a00}
 .ctx{font-family:Georgia,serif;font-size:1.05rem}.was,.q{margin:.3rem 0;font-size:.95rem}
-figure{margin:8px 0}figure img{width:100%;max-height:340px;object-fit:contain;object-position:left;background:#eee;cursor:zoom-in;border:1px solid var(--line)}
-figure img.big{max-height:none;cursor:zoom-out}figcaption{font:12px sans-serif;color:var(--mut)}
+figure{margin:8px 0}figure .strip{width:100%;height:0;background-size:100% 100%;background-repeat:no-repeat;background-color:#eee;border:1px solid var(--line)}figcaption{font:12px sans-serif;color:var(--mut)}
 .text p{margin:.5rem 0}
-</style><main>
+/*STRIPCSS*/</style><main>
 <h1>Pyzdry Gr.75, entry no. 39: spot sheet</h1>
 <p>Leaf 19 recto and verso. Each card shows an enlarged strip of the page (click to enlarge), the words in the transcription, what you had, and what I ask. The strips are 2x enlargements of the images you sent; the names (19r_03, 19v_01 ...) say page and strip, from the top down.</p>
 <p class=legend><span style="background:#fff3b0">yellow: Claude changed or added</span><span style="background:#ffd7b5">orange: for your eye, left as you have it</span><span style="background:#e6e6e6">grey: struck out, not transcribed</span><span style="background:#d9ecff">blue: strips I did not read myself</span></p>
@@ -110,9 +112,7 @@ figure img.big{max-height:none;cursor:zoom-out}figcaption{font:12px sans-serif;c
                 for h, ks in [('Changed by Claude (nine corrections)', ('add',)), ('Struck out, not transcribed', ('struck',)),
                               ('Left as you have it, for your eye', ('ask',)), ('Places I did not read myself', ('look',))]) + '''
 <h2>The transcription as it now stands</h2><div class=text>''' + text + '''</div>
-</main><script>
-const S={%s};
-document.querySelectorAll('img[data-strip]').forEach(i=>{i.src=S[i.dataset.strip];i.onclick=()=>i.classList.toggle('big')});
-</script></html>''' % ','.join('"%s":"%s"' % (n, data(n)) for n in NEED)
+</main></html>'''
+doc = doc.replace('/*STRIPCSS*/', CSS)
 open(os.path.join(HERE, 'spot_sheet.html'), 'w', encoding='utf-8', newline='\n').write(doc)
 print('wrote spot_sheet.html', len(doc) // 1024, 'KB')
