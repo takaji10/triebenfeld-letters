@@ -92,8 +92,10 @@
     shared letter page there is no counterpart URL, so it is a button that
     changes the labels in place and remembers the choice.
   {% endcomment %}
+  {%- comment -%}The language switch is off while the German is behind the English (the editor, 2026-11-26): `language_switch: false` in _config.yml; delete that line to bring it back. With no button a shared page stays English whatever the reader chose earlier.{%- endcomment -%}
   {% assign shared = false %}{% if page.shared_lang or page.layout == 'letter' %}{% assign shared = true %}{% endif %}
-  {% if shared %}
+  {% if site.language_switch == false %}
+  {% elsif shared %}
     <button type="button" class="langswitch" id="langswitch" data-lang="{{ lang }}"></button>
   {% elsif page.alt_url %}
     <a class="langswitch" href="{{ page.alt_url | relative_url }}"

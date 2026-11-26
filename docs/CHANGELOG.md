@@ -6546,3 +6546,8 @@ sources-icon.html`).
 
 - The to-do list audited (docs/TODO_AUDIT_2026-11-25.md): 133 open boxes, 45 closed or moved, 88 open; the old list kept as docs/archive/TODO_2026-11-25.md.
 - **/todo/** (footer link, `noindex`, English only): the 88 open items as cards (23 decisions, 22 questions, 23 tasks, 11 for Claude, 9 waiting), grouped by holding or project, with links to the documents, people, places and works concerned, answer buttons, a note, filters, answers kept in the browser and exported as a file. One source, `reference/todo.yml`; `pipeline/todo/build_todo.py` builds the page data and docs/TODO.md; `pipeline/todo/import_answers.py` applies an export; `verify_site.py` checks the three agree. The rule is in CLAUDE.md, "The to-do list".
+
+## 2026-11-26 - The About page shortened, the language switch off
+
+- **About** rewritten from about 2,340 to about 1,060 words (site/about.md): seven one-word headings (Documents, Method, Reading, Translations, Conventions, Citing); the archive-by-archive list, the story of the estates, the counts, the numbering and "What is still open" taken out; "the editor is an amateur palaeographer" taken out; the standfirst taken out. The German page is untouched, to be aligned later at the editor's word. HOUSE_STYLE: "About the edition" rewritten, a rule that headings are one word or very short.
+- **The language switch is off across the site** (the editor, 2026-11-26) until the German is aligned with the English: `language_switch: false` in site/_config.yml, read by `_layouts/default.html`; delete the line to bring it back. With no button a shared letter page stays English whatever a reader chose earlier; the /de/ pages stay at their addresses.

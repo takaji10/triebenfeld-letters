@@ -525,42 +525,57 @@ What goes in, the sections and the sources each rests on are in
 
 ## About the edition
 
-The About page (`site/reading-this-edition.md`, German `site/de/ueber-diese-edition.md`)
-is written for a reader or researcher who wants to know what the edition is and
-how far to trust it. The editor, 2026-10-05, of a version three times as long: "way
-too dense and includes information not relevant to the reader. It feels like
-you're treating it as your own memory for the project."
+The About page (`site/about.md`; the German `site/de/ueber.md` is left as it was
+until the editor aligns the German with the English, 2026-11-26) is written for a
+reader or researcher who wants to know what the papers are and how far to trust
+the text. The editor, 2026-10-05, of a version three times as long: "way too
+dense and includes information not relevant to the reader. It feels like you're
+treating it as your own memory for the project." Rewritten 2026-11-26 from 2,340
+to about 1,060 words, after "it's really long ... do we need this much detail?".
 
-It answers, in this order: what the edition contains; where the documents are
-held; how the text was made and how far it can be relied on; how to read a
-document page and its marks; what the translations and summaries are; dates,
-names and money; how documents are numbered and grouped; what is still open;
-where to find how to cite.
+Seven sections, headed by one word each: **Documents** (what the papers are and
+the years; what comes with each; the languages), **Method** (how the text was
+made, what was left alone, how far to trust it, the warning to check against the
+original), **Reading** (the three views, and one table of the marks with what
+each becomes in the English), **Translations** (the English and the summaries),
+**Conventions** (dates, people, places, money), **Citing**.
 
-It leaves out everything that is the project's own record: counts of line-break
-marks and how each was decided, the reference data and thresholds used, file
-names and paths, image sizes, what fails the build, the per-holding figures, and
-single unresolved readings. Those belong on the holding's "Method"
-tab, in the holding's notes, or in `docs/`.
+**Left out, and not to come back:** a list of the archives and holdings (the
+Sources page and each holding's page are that); the story of the estates (the
+timeline); counts of documents, pages, languages and marks of doubt; how the
+documents are numbered and grouped; what is still open (the project's record,
+`docs/`); which estate a document is listed under; and everything that is the
+project's own record: counts of line-break marks and how each was decided, the
+reference data and thresholds used, file names and paths, image sizes, what fails
+the build, the per-holding figures, and single unresolved readings. Those belong
+on the holding's "Method" tab, in the holding's notes, or in `docs/`.
 
 ```
 NO   A form counts as a real word at a thousand corpus hits or more; below that,
      what comes back is proper-name noise.
 NO   Every decision is recorded with its evidence in linebreak_decisions.csv.
 NO   The images published here are downscaled to 1100 pixels wide.
+NO   *Traces in the Sand* publishes the papers ...        (the site as subject)
+NO   For each document it gives: ...                      (describing the page)
 ```
 
-**How the edition describes who made the text** (the editor, 2026-10-06, correcting "The
-transcription was not made by a trained palaeographer"): the editor is an
-amateur palaeographer, and that is the phrase to use (their word; they asked
-for it in place of "has transcribed this handwriting for some years"). The
-work is supported by AI.
-Do not write, on this page or a holding's, that the text was "not made by a
-trained reader". Say what was done: a machine reading, corrected; a language
+**Headings are one word, or very short, and name the content** (the editor,
+2026-11-26: "the headers are too descriptive"). "Archives", "Method", "Reading";
+never "Where the documents are held" or "How the text was made, and how far to
+trust it", which name the page's job. This holds for every page of the site,
+the holding pages' tabs and the era pages included, wherever a one-word heading
+does not lose the meaning.
+
+**Who made the text** (the editor, 2026-10-06, then 2026-11-26): the page says
+what was done, not who did it. "The editor is an amateur palaeographer" is out
+(the editor, 2026-11-26: "it's not necessary"), as is every "the editor" on the
+page (see "The maker is not named"): the work was made with the support of AI,
+the names and layout were corrected by hand, samples were checked against the
+scans. Do not write, on this page or a holding's, that the text was "not made by
+a trained reader". Say what was done: a machine reading, corrected; a language
 model that weighs context removes many character errors and not all; some
-inaccuracy always remains, which the editor has accepted for this project
-because of the number of documents; and anything taken from the texts for
-academic work should first be checked against the original document.
+inaccuracy always remains; and anything taken from the texts for academic work
+should first be checked against the original document.
 
 **The English translations are not called drafts, and no page says they have not
 been checked** (the editor, 2026-10-06: "I don't think we need to mark the English

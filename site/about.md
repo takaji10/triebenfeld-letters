@@ -3,237 +3,110 @@ layout: page
 title: About
 permalink: /about/
 lang: en
-alt_url: /de/ueber/
 ---
 
-## The documents
+## Documents
 
-*Traces in the Sand* publishes the papers that survive on a group of estates around
-Trąbczyn and Zagórów, in the part of Poland that Prussia annexed in 1793. In 1796 the King
-of Prussia granted the estates to one of his generals, Prince Friedrich Ludwig of
-Hohenlohe-Ingelfingen. Some of them had been confiscated from a Polish nobleman, Antoni
-Prusimski. Hohenlohe-Ingelfingen's agent, Peter Friedrich von Triebenfeld, managed the
-estates and divided them among settlers. Hohenlohe-Ingelfingen lost them in 1807, and the
-disputes over them and over the debts he had secured on them ran on until 1832.
-[The timeline]({{ '/timeline/' | relative_url }}) tells this in order.
+Letters, royal grants, leases, contracts, court papers and ministry files on the estates around
+Trąbczyn and Zagórów, in the part of Poland that Prussia annexed in 1793, written between 1173
+and 1936. The oldest are medieval charters of the abbey of Ląd and of the knights of Trąbczyn.
+Entries from the court books of Konin and Kalisz follow, on the quarrel between Trąbczyn and its
+neighbour Łukom. In 1796 the King of Prussia granted the estates to Prince Friedrich Ludwig of
+Hohenlohe-Ingelfingen, and the disputes over them and over the debts he had secured on them ran
+on until 1832.
 
-There are 630 documents on 2,103 pages, dated from 1173 to 1936. The oldest are  
-medieval charters of the abbey of Ląd and of the knights of Trąbczyn, from the printed edition
-of the charters of Greater Poland. Then come entries from the court books of Konin and Kalisz
-on the quarrel between Trąbczyn and its neighbour Łukom, when Trąbczyn belonged to the Prusimski family: a commission ruled
-on the boundary in 1775, and the Crown Tribunal settled it in 1782. The documents are
-letters, royal grants, leases and contracts, court papers, and the files of Prussian
-ministries. For each document it gives:
+Each document is shown in its original language, with an English translation, a short summary and
+the image of every manuscript page. Most are in German; the rest are in Latin, Polish and French,
+and each is translated from its own language. People, places and estates are indexed across all
+the documents, and words of the period that need explaining are defined in the
+[Glossary]({{ '/glossary/' | relative_url }}).
 
-- the text in its original language, transcribed from the manuscript or the print;
-- an English translation;
-- a short summary, in English and in German;
-- the image of each manuscript page, beside its text.
+## Method
 
-People, places and estates are indexed across all the documents, so that one person can be
-followed from a letter to a contract to a court file. Words of the period that need
-explaining are marked in the text and defined in the
-[Glossary]({{ '/glossary/' | relative_url }}). The [Maps]({{ '/maps/' | relative_url }}) hold
-the old maps of the area, georeferenced and marked with the places of the gazetteer that
-each names, every name photographed as the map spells it.
+The originals are handwritten, most of them in *Kurrent*, the German cursive of the period, which
+is hard to read and easy to misread. Because of the number of pages, the transcription was made
+with the support of AI, in three steps:
 
-## Where the documents are held
+1. An AI system for reading handwriting produced the first transcription. Names and layout were
+   corrected by hand.
+2. An AI model (Claude) then went through the text and corrected it. A word was changed only where
+   something other than the sense of the sentence supports the change: a second copy of the same
+   text, the same word written clearly elsewhere, a fixed formula, or, in the holdings added most
+   recently, the page itself, compared with the text line by line. Each change is recorded with
+   its reason.
+3. Samples of the changes were checked against the scans, and readings that remained in doubt were
+   ruled on.
 
-The documents come from fifty-one holdings in six archives and a library:
+Three things were left alone. The spelling of the period stands as written (*laßen*, *seyn*,
+*nöthig*). Words that could not be read are marked as doubtful and not guessed at. Text that a
+writer struck out is not transcribed. The boundary decree of 1775 is given in modern Polish
+spelling, and in the Latin court entries the clerks' abbreviations are written out. One thing was
+changed throughout: a person or place that the writers spell in several ways is given in one
+spelling, so that it can be found.
 
-- the **Hohenlohe-Zentralarchiv Neuenstein**: Triebenfeld's correspondence with
-  Hohenlohe-Ingelfingen and his officials, 1798 to 1816 (318 documents); two volumes of
-  grants, title deeds and leases; and a royal charter of 1805;
-- the **Geheimes Staatsarchiv Preußischer Kulturbesitz** in Berlin: files of the Prussian
-  administration of its Polish provinces, of the foreign ministry and of the state treasury;
-- the **State Archive in Poznań**: entries from the court books of Konin and Kalisz on the
-  boundary between Trąbczyn and Łukom and the lawsuits around it, from 1589 to 1788 (24
-  holdings, 95 documents), among them the report of 1727 in which the
-  court messenger Sebastian Szetlewicz of Szetlewek records serving a citation at
-  Szetlew, and the decree of the condescensio of 29 March 1784 on the succession of
-  the Prusimski brothers, entered in the register of the castellany court of Poznań; thirteen pages of the hearth-tax register of the Kalisz
-  voivodeship for 1789; the head of the table of the parish of Trąbczyn on page 543
-  of the register of the grod court and office of Pyzdry, of 1791 to 1792; a court
-  record of 1806; copies made about 1930 of papers on the
-  division of the estates; a printed summons of 1860 in a lawsuit between the owner of
-  Trąbczyn and its colonists; ten research sheets in which the historian Albert Breyer
-  collected the Polonised German surnames of the gmina Zagórów, with his excerpt of a
-  Breslau print of 1741 and his notes on how and why the names were changed; and two
-  notebooks of 1936 in which the historian Albert Breyer
-  wrote down what the German settlers of Łazińsk and the places around it told him, and a
-  third, of 1935 and 1936, into which he copied the Russian tables of 1868 that gave the
-  settlers of Łazińsk, Emilienheim and Orliny their land; the contract of 14 March 1820
-  between the village board of Tropiczyner Holland and the school teacher Samuel Adolph,
-  on his taking over the colony's school; and six pages of an
-  eighteenth-century copy-book of the privileges of the abbey of Ląd, with the king's
-  exchange of 1362 that gave the abbey the forest where Drzewce was founded, its purchase
-  of land at Łukom in 1461, and a page of the renewal of the mounds between Łukom, Zagórów
-  and Drzewce in 1761;
-- the **Central Archives of Historical Records** in Warsaw: two files of 1807 on the return
-  of the confiscated estates to Prusimski's daughter; six pages of a Prussian table of
-  the villages around Konin, of about 1797; and the report of 1834 in which the Instruction
-  Commission of the Council of State of the Kingdom of Poland weighed the conflict of
-  jurisdiction over the mortgage claim of Weigel, Hohenlohe-Ingelfingen's assignee, on the
-  Trąbczyn estate;
-- the **State Archive in Łódź**: the liquidation table of 1868 by which the colonists of
-  Łazińsk received their land, its copy of 1869, and the entries to 1901 on their rights in
-  the manor forest, their exchange for land and the survey of 1896;
-- the **Diocesan Archive in Włocławek**: nine pages of the visitation of the Konin deanery
-  of 1790 and 1791, on the parish of Trąbczyn and the souls of the neighbouring parish of
-  Zagórów;
-- the **Kórnik Library of the Polish Academy of Sciences**, in its digital copy: a report in
-  the Warsaw newspaper Kuryer Polski of 1754 on the funeral of Paweł Prusimski at Trąbczyn,
-  and twenty-one entries of the Kodeks Dyplomatyczny Wielkopolski, the printed edition of the
-  medieval charters of Greater Poland, from 1173 to 1440, given from its electronic text, without
-  page images.
+Reading handwriting by machine gets a share of the characters wrong. A second pass with a language
+model, which weighs each word against its context, removes many of these errors but not all of
+them, and it can leave plausible German that is not what the page says. Some inaccuracy therefore
+always remains.
 
-[Sources]({{ '/sources/' | relative_url }}) lists every holding with its archive reference.
-Each holding has a page of its own that describes what it contains and how its text was
-prepared.
+**Anything taken from these texts for academic work should first be checked against the original
+document.** The image of each page is shown beside its text.
 
-Most of the documents are in German. Twenty-two are in French, nineteen in Polish and
-a hundred and eight in Latin, the court entries often with passages in the other of the two, and some
-of the German deeds have passages in Polish and Latin. Each is translated from its own
-language.
-
-## How the text was made, and how far to trust it
-
-The originals are handwritten, most of them in *Kurrent*, the German cursive of the period,
-which is hard to read and easy to misread.
-
-The editor is an amateur palaeographer. Because of the number of pages, the work was done with the support of AI, in three steps:
-
-1. An AI system for reading handwriting produced the first transcription. The editor
-   corrected names and layout by hand.
-2. An AI model (Claude) then went through the text and corrected it. A word was changed
-   only where something other than the sense of the sentence supports the change: a second
-   copy of the same text, the same word written clearly elsewhere, a fixed formula, or, in
-   the holdings added most recently, the page itself, compared with the text line by line.
-   Each change is recorded with its reason.
-3. The editor checked samples of the changes against the scans and ruled on readings that
-   remained in doubt.
-
-Three things were left alone. The spelling of the period stands as written (*laßen*,
-*seyn*, *nöthig*). Words that could not be read are marked as doubtful and not guessed at.
-Text that a writer struck out is not transcribed.
-
-One holding differs: the boundary decree of 1775 is given in modern Polish spelling, as the
-editor transcribed it. Its page says how far it was checked. In the Latin entries from the
-court books the clerks' abbreviations are written out.
-
-One thing was changed throughout: a person or place that the writers spell in several ways
-is given in one spelling, so that it can be found.
-
-Reading handwriting by machine gets a share of the characters wrong. Going through the
-text again with a language model, which weighs each word against its context, removes
-many of these errors but not all of them, and it can leave plausible German that is not
-what the page says. Some inaccuracy therefore always remains. Given the number of
-documents, the editor has accepted that.
-
-**Anything taken from these texts for academic work should first be checked against the
-original document.** The image of each page is shown beside its text.
-
-## Reading a document
+## Reading
 
 The buttons above the text switch between three views:
 
-- **Transcription** follows the manuscript line for line. The lines are numbered, so a
-  passage can be cited by document, page and line. A few documents are transcribed by
-  paragraph, and say so.
-- **Reading** is the same text run together as prose, with words that were broken at a line
-  end joined.
+- **Transcription** follows the manuscript line for line. The lines are numbered, so a passage can
+  be cited by document, page and line. A few documents are transcribed by paragraph, and say so.
+- **Reading** is the same text run together as prose, with words that were broken at a line end
+  joined.
 - **English** is the translation, page by page.
 
-The image of the page stands beside the text; select it to see it at full size.
+The image of the page stands beside the text; select it to see it at full size. Notes that an
+office wrote on a paper it received (the date it arrived, a file number, an instruction) and text
+written sideways in a margin are set apart on the page under a label.
 
-Two kinds of text are set apart on a page under a label: notes that an office wrote on a
-paper it received (the date it arrived, a file number, an instruction), and text written
-sideways in a margin.
-
-| Mark | Meaning |
-|---|---|
-| `[?]` | A word, or part of one, could not be read. Straight after a word, it marks that word as doubtful. |
-| `[word?]` | A reading offered with doubt. Where only the first letters are read: `[Rev…?]`. |
-| `[...]` | A gap: the page is damaged, or the text breaks off. |
-| `G[oldbeck]` | Letters in square brackets inside a word are supplied by the editor: an abbreviation written out, or a signature that consists of an initial. |
-| `ſ` | The long s, as written. |
-| `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. |
-
-There are 910 marks of doubt. Each document's page says how many it has.
-
-## The English translations
-
-Every document that has text has an English translation: 626 of the 630. They were made by
-an AI model under rules set by the editor, except those of the boundary decree of 1775 and
-of the entries from the court books, which are the editor's own, revised where the text
-was corrected against the scans.
-
-The translation shows a doubt wherever the original has one, because smooth English would
-hide it:
-
-| In the original | In the English | Meaning |
+| Mark | Meaning | In the English |
 |---|---|---|
-| `[?]` | `[illegible]` | nothing could be read |
-| `[word?]` | `[uncertain: word]` | a reading offered with doubt |
-| `[...]` | `[text lost]` | a gap, or a damaged page |
+| `[?]` | A word, or part of one, could not be read. Straight after a word, it marks that word as doubtful. | `[illegible]` |
+| `[word?]` | A reading offered with doubt. Where only the first letters are read: `[Rev…?]`. | `[uncertain: word]` |
+| `[...]` | A gap: the page is damaged, or the text breaks off. | `[text lost]` |
+| `G[oldbeck]` | Letters in square brackets inside a word are supplied: an abbreviation written out, or a signature that consists of an initial. | the same |
+| `ſ` | The long s, as written. | |
+| `(missing)`, `(skipped)` | The archive's number exists, but no text survives under it. | |
 
-Figures and names are translated as they stand in the transcription, even where they look
-wrong; the translation does not correct the text in passing. `[uncertain: …]` can also
-appear where the original shows no mark: the transcription reads as ordinary German there
-but makes no sense in its sentence, and was probably misread.
+## Translations
 
-## The summaries
+The English was made by an AI model under fixed rules, except for the boundary decree of 1775 and
+the entries from the court books, which were translated by hand and revised where the text was
+corrected against the scans. A translation shows a doubt wherever the original has one, because
+smooth English would hide it. Figures and names are translated as they stand in the transcription,
+even where they look wrong. `[uncertain: …]` can also appear where the original shows no mark: the
+transcription reads as ordinary German there but makes no sense in its sentence, and was probably
+misread.
 
-Each document has a short summary to help a reader find it. It is a finding aid and not
-part of the text. The summaries were drafted by an AI model. In every holding they were
-written from the original language and each statement was then checked against the
-document; the page of each holding says how its summaries were made.
+The summaries are finding aids, not part of the text. They were drafted by an AI model from the
+original language, and each statement was checked against the document.
 
-## Dates, names and money
+## Conventions
 
-**Dates.** About nine documents in ten carry their own date. The others are dated by the
-editor from the manuscript, from the letters on either side, or from a second copy, and
-each document says which. Nineteen remain undated.
+**Dates.** About nine documents in ten carry their own date. The others are dated from the
+manuscript, from the letters on either side, or from a second copy, and each document says which.
 
-**People.** [People]({{ '/people/' | relative_url }}) lists everyone named often enough to
-follow, with the documents that name them. Some identifications rest on context alone; each
-entry says what it rests on.
+**People.** [People]({{ '/people/' | relative_url }}) lists everyone named often enough to follow,
+with the documents that name them. Some identifications rest on context alone; each entry says
+what it rests on.
 
 **Places.** A place now in Poland is listed under its Polish name, with the German name in
-parentheses, and has its Polish name in the English translations. The original keeps the
-name its writer used.
+parentheses, and has its Polish name in the English translations. The original keeps the name its
+writer used.
 
-**Estates.** A document is listed under an estate when it concerns that estate, not merely
-when it names it or was written there: a grant of Kamionna made out in Berlin is listed
-under Kamionna. Each was assigned by reading the document.
+**Money.** Sums are in the Prussian money of the time: 1 Reichsthaler (`Rthl`) is 24 Groschen
+(`g`), and 1 Groschen is 12 Pfennig (`d`, for *denarius*). The French documents count in *écus*,
+which are the same thalers. The Polish documents also count in Polish florins (*złote*), six to
+the thaler.
 
-**Money.** Sums are in the Prussian money of the time: 1 Reichsthaler (`Rthl`) is 24
-Groschen (`g`), and 1 Groschen is 12 Pfennig (`d`, for *denarius*). The French documents
-count in *écus*, which are the same thalers. The Polish documents also count in Polish
-florins (*złote*), six to the thaler.
+## Citing
 
-## How the documents are numbered and grouped
-
-A document is cited by its archive, its holding and its number within the holding. The
-numbers are the archive's own and are not always in order of date.
-
-Where one archive number covers several documents, they are numbered 72a, 72b and so on. A
-few documents survive in two copies. Both are given, because each copy shows where the
-other was miscopied or misread.
-
-The documents are arranged by the owners of the estates. Nearly all the documents published so
-far belong to the years of Hohenlohe-Ingelfingen and their aftermath. One belongs to the
-earlier boundary dispute between Trąbczyn and its neighbour Łukom, and more are to follow.
-The years after the estates were returned to the Prusimski family in 1807 are still to come.
-
-## What is still open
-
-- The marks of doubt wait to be checked against the originals.
-- Thirteen letters of the correspondence are still largely an uncorrected machine reading.
-  Their pages say so.
-- Further files on the estates in the archives at Berlin are still to be added.
-
-## Citing and reusing
-
-[Licences, credits and privacy]({{ '/rights/' | relative_url }}) says who is responsible
-for the transcriptions and translations, how to cite a document, and what may be reused.
+How to cite a document, who is responsible for the transcriptions and translations, and what may
+be reused: [Licences, credits and privacy]({{ '/rights/' | relative_url }}).

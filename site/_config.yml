@@ -5,6 +5,10 @@ description: >-
   from the originals, with English translations.
 lang: en
 
+# The language switch is off until the German is aligned with the English (the editor,
+# 2026-11-26). Delete this line to bring it back.
+language_switch: false
+
 # For a GitHub Pages *project* site set baseurl to "/<repository-name>".
 # For a user/organisation site or a custom domain, leave it empty.
 baseurl: ""
