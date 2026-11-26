@@ -53,6 +53,11 @@ and the English. The material, counted 2026-11-26:
 - **From the difficult places of the edition's own transcriptions**: the readings the checks
   changed, and why.
 - **Latin court books first.** (Polish entries, copy-books and resignations later, if at all.)
+- **And the plan's own suggestions as well** (the editor: "But also the things you suggested. I was
+  just talking about what came to the top of my mind"): the ladder of titles, offices and kin; the
+  place adjectives; dates; money and measures; the vernacular inside the Latin; the letter shapes
+  that mislead; how to transcribe; a worked example and an exercise in every chapter; the reference
+  appendices. Section 3 holds them all.
 
 ## 3. The shape of the book
 
@@ -79,6 +84,10 @@ then chapters, each a few thousand words, meant to be read in order.
    (Tracholz's "Auscuk", the Polish "ręką trzymaną").
 7. **The decree of the land court**: the parties (Actor, Citatus), the "Judicium ... decernit", the
    condescension (the hearing on the ground) and its vocabulary.
+Every chapter of the kinds (3-7) ends with **a worked example** (one whole entry of the edition,
+quoted, its abbreviations expanded, put into English part by part) and **an exercise** (a second entry
+for the reader to try, the answer behind a plain `<details>`).
+
 8. **Dates.** Feria and feast; in Vigilia, in Crastino, post Dominicam; the movable Sundays; working
    a date out, with the edition's own dated entries as the worked examples.
 9. **Abbreviations.** How the clerks abbreviated (suspension, contraction, the doubled consonant of
@@ -87,11 +96,25 @@ then chapters, each a few thousand words, meant to be read in order.
 10. **People and places in the Latin.** The ladder of titles (Magnificus, Generosus, Nobilis,
     Famatus, Honoratus, Providus, Laboriosus ...); offices; kin (patruus, relicta, frater
     germanus); the place adjective (Nieszczevicensis, Trąmpczynensis).
-11. **Where readers go wrong.** The traps of the edition's own transcriptions, from the logged
+11. **The vernacular and the money.** Polish closing formulas and Polish words in Latin entries;
+    German trade words in Polish spelling, brought in by *vulgo* (*Auscuk* for Auszug, *Klapek*,
+    *Rynek*); money (imperials, florins, groschen, pfennigs, ducats) and measures (*mansi*, *łany*,
+    *włóki*), with what the edition's documents show of them.
+12. **The hand.** The letter shapes that mislead, described in words and shown by the readings they
+    produced: minims (r/n/u/m: *Fericorum* or *Fenicorum*), c and t, the long s, e with a tail, the
+    clerk's p with a stroke (*per*, not *pro*), the figures. A small crop only where a shape cannot be
+    told in words (the book is not a spot sheet).
+13. **How to transcribe.** The edition's own rules, short: keep the scribe's spelling; mark doubt;
+    expand in brackets only where certain; leave struck words out; follow the crosses of an insertion;
+    never complete a word from the sense.
+14. **Where readers go wrong.** The traps of the edition's own transcriptions, from the logged
     changes: minims, the p with a stroke, words skipped, the inserted line and its cross, the
     struck word, and the word completed from the sense (Claude's own *hasce* for *hisce*).
-12. **Appendices**: the list of abbreviations with their expansions by case; the formulas in one
-    place; the feasts; further reading.
+15. **Appendices**: the list of abbreviations with their expansions by case; the formulas in one
+    place; the feasts; the ladder of titles and the offices; money and measures; the place
+    adjectives (from `reference/places.yml`); the legal terms (links into the glossary); further
+    reading (Gloger, Cappelli's *Lexicon abbreviaturarum*, Grotefend, the archives' fonds
+    descriptions).
 
 **Form on the site**: one page per chapter under /guide/court-books/, a contents page, previous and
 next at the foot; Latin quoted in italics with the English after it; a short Latin passage may be
@@ -116,7 +139,7 @@ set out line by line with the English beside it. No script (WORKING_NOTES). Engl
 ## 5. Order of work
 
 The harvest and the readers (now); the pilot chapter (the messenger's report); the editor's
-ruling on its voice; chapters 2, 4-7; then 8-11, which draw on all of them; chapter 1 and the
+ruling on its voice; chapters 2, 4-7; then 8-14, which draw on all of them; chapter 1 and the
 preface last; the appendices from the data.
 
 ## 6. What the guide is not
