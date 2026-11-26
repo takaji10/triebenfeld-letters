@@ -76,6 +76,9 @@
         <select id="order">
           <option value="asc"{% if b_list == false %} selected{% endif %}>{{ t.f_order_chrono_asc }}</option>
           <option value="desc">{{ t.f_order_chrono_desc }}</option>
+          {%- if b_kind == "documents" %}
+          <option value="doc">{{ t.f_order_doc }}</option>
+          {%- endif %}
           <option value="az"{% if b_list %} selected{% endif %}>{{ t.f_order_az }}</option>
           <option value="za">{{ t.f_order_za }}</option>
         </select>

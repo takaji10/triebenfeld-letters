@@ -6555,3 +6555,7 @@ sources-icon.html`).
 ## 2026-11-26 - Searching the Manuscripts list by holding
 
 - A text typed in the Manuscripts list's search box now also matches the holdings' own cards (reference, title, archive, description): "1/174/0/2/73" brings up the AGAD holding. The matching holding tiles stand above the documents found; before, the box searched the documents' text only and a reference found nothing. `assets/browse.js`.
+
+## 2026-11-26 - "Document order" back in the Order dropdown
+
+- The Order dropdown of the Manuscripts list, the Documents page and a holding's page has "Document order" again (the old "Archival number", lost in the search-bar overhaul of 2026-11-24): by holding reference, then by the archive's own number within it (1, 2, ... 10, 72a, 72b). On the Manuscripts list it also puts the holding tiles in order of their reference (`data-ref` on the card). `_includes/browse.html`, `assets/browse.js`, `f_order_doc` in i18n.yml.

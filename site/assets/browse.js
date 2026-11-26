@@ -275,7 +275,28 @@
     return fold(t.replace(/[\[\]]/g, ''));
   }
 
+  // "Document order": by holding (its reference), then by the archive's own number in it
+  // (1, 2, ... 10, 72a, 72b), as the old "Archival number" did.
+  function idKey(id) {
+    var m = /^(\d+)([a-z]*)$/.exec(String(id)) || [0, '0', String(id)];
+    return [parseInt(m[1], 10), m[2] || ''];
+  }
+  function sortDocOrder(list) {
+    list.forEach(function (it) { if (it._az == null) it._az = azKey(it); });
+    list.forEach(function (it) {
+      var u = FACETS && FACETS.units[it.unit];
+      it._ref = fold(u ? u.ref : it.unit);
+    });
+    return list.sort(function (a, b) {
+      var r = cmpStr(a._ref, b._ref);
+      if (r) return r;
+      var ka = idKey(a.id), kb = idKey(b.id);
+      return (ka[0] - kb[0]) || cmpStr(ka[1], kb[1]);
+    });
+  }
+
   function sortRows(list, order) {
+    if (order === 'doc') return sortDocOrder(list);
     var dir = (order === 'desc' || order === 'za') ? -1 : 1;
     var byAz = order === 'az' || order === 'za';
     list.forEach(function (it) { if (it._az == null) it._az = azKey(it); });
@@ -481,6 +502,7 @@
       var y = parseInt(el.getAttribute('data-date'), 10);
       return {el: el, az: fold((el.getAttribute('data-az') || '').replace(/[\[\]]/g, '')),
               date: isNaN(y) ? null : y, id: el.id,
+              ref: fold(el.getAttribute('data-ref') || ''),
               text: (el.textContent || '').replace(/\s+/g, ' '),
               archive: el.getAttribute('data-archive') || '',
               types: (el.getAttribute('data-types') || '').split(' ').filter(Boolean)};
@@ -492,6 +514,11 @@
     if (!list) return;
     var dir = (order === 'desc' || order === 'za') ? -1 : 1;
     var byAz = order === 'az' || order === 'za';
+    if (order === 'doc') {
+      cards.sort(function (a, b) { return cmpStr(a.ref, b.ref) || cmpStr(a.id, b.id); });
+      cards.forEach(function (c) { list.appendChild(c.el); });
+      return;
+    }
     cards.sort(function (a, b) {
       if (byAz) return (cmpStr(a.az, b.az) || cmpStr(a.id, b.id)) * dir;
       if (a.date == null && b.date == null) return cmpStr(a.az, b.az);

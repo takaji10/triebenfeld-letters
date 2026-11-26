@@ -6,7 +6,7 @@
   italics (only where it differs), the source line, a short description, the
   counts that apply, the date, and at the foot the document-type tags
   (manuscripts only). Parameters, all read as include.<name>:
-    id, href, az, date_key       the card's anchor, link and sort keys
+    id, href, az, ref, date_key  the card's anchor, link and sort keys (ref: the holding's reference, for "Document order")
     archive, types_attr          the sort bar's data-archive / data-types (manuscripts)
     thumb, alt                   the thumbnail
     ph_author, ph_title, ph_year the typographic placeholder (literature, no thumb)
@@ -16,7 +16,7 @@
     caveat                       true: the summary-only line
     extra                        more markup at the card's end (a literature sub-item)
 {%- endcomment -%}
-<section class="source" id="{{ include.id }}" data-az="{{ include.az | escape }}" data-date="{{ include.date_key }}"{% if include.archive %} data-archive="{{ include.archive | escape }}"{% endif %}{% if include.types_attr %} data-types="{{ include.types_attr }}"{% endif %}>
+<section class="source" id="{{ include.id }}" data-az="{{ include.az | escape }}"{% if include.ref %} data-ref="{{ include.ref | escape }}"{% endif %} data-date="{{ include.date_key }}"{% if include.archive %} data-archive="{{ include.archive | escape }}"{% endif %}{% if include.types_attr %} data-types="{{ include.types_attr }}"{% endif %}>
   {% include source-thumb.html thumb=include.thumb alt=include.alt ph_author=include.ph_author ph_title=include.ph_title ph_year=include.ph_year %}
   <div class="source-body">
     <h2><a class="source-link" href="{{ include.href | relative_url }}">{{ include.title }}</a></h2>

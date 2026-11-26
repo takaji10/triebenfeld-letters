@@ -32,6 +32,6 @@
     {%- capture u_src -%}{{ u.ref }} &middot; {{ u.archive }}{%- endcapture -%}
     {%- assign u_types_attr = u.types | join: ' ' -%}
     {%- assign u_year = u.span | slice: 0, 4 -%}
-    {% include source-card.html id=u.slug href=u_page az=u_card date_key=u_year archive=u.archive types_attr=u_types_attr thumb=u.thumb alt=u_alt title=u_card original=u_orig source=u_src desc=u_title docs=u.count pages=u.pages date=u.span types=u.types %}
+    {% include source-card.html id=u.slug href=u_page az=u_card ref=u.ref date_key=u_year archive=u.archive types_attr=u_types_attr thumb=u.thumb alt=u_alt title=u_card original=u_orig source=u_src desc=u_title docs=u.count pages=u.pages date=u.span types=u.types %}
   {% endfor %}
 </div>

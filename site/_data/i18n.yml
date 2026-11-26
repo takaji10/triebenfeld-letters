@@ -70,6 +70,7 @@ en:
   # people and places as chips, the search options.
   f_order_chrono_asc: Chronological (oldest first)
   f_order_chrono_desc: Chronological (newest first)
+  f_order_doc: Document order
   f_order_az: A–Z
   f_order_za: Z–A
   f_advanced: Advanced search
@@ -612,6 +613,7 @@ de:
   f_showing: Angezeigt
   f_order_chrono_asc: Chronologisch (älteste zuerst)
   f_order_chrono_desc: Chronologisch (neueste zuerst)
+  f_order_doc: Reihenfolge der Dokumente
   f_order_az: A–Z
   f_order_za: Z–A
   f_advanced: Erweiterte Suche
