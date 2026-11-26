@@ -1,7 +1,7 @@
 # 53/21/0/-/Pyzdry Gr.75 (APP)
 
 One document on two pages: entry no. 39 of the register "Inscriptiones
-[protocollon] 1768-1781" of the grod court and office of Pyzdry, on leaf 19
+[protocollon] 1768-1781" of the municipal court and office of Pyzdry, on leaf 19
 recto and verso - the declaration of the merchant Jan Tracholz of Witkowo
 (written Traholtz) transferring to Stanisław Chełmski his claims against the
 late Paweł Prusimski. Added 2026-11-26 on the branch

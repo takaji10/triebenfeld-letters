@@ -79,10 +79,10 @@ Państwowe w Poznaniu), from the palatinates of **Kalisz** and **Poznań**:
 
 | Court | Books (archive's fonds) | The edition's volumes | Years |
 |---|---|---|---|
-| Castle court (gród) of **Konin** | Księgi sądu i urzędu grodzkiego w Koninie | Relationes Gr.114-121; Relationes-oblatae Gr.136, 145, 153 | 1754-1788 |
-| Castle court of **Kalisz** | Księgi sądu i urzędu grodzkiego w Kaliszu | Relationes Gr.414, 424, 425 | 1771-1776 |
-| Castle court of **Pyzdry** | Księgi sądu i urzędu grodzkiego w Pyzdrach | Inscriptiones Gr.75; Relationes Gr.115 | 1768; 1791-1792 |
-| Castle court of **Poznań** (the volume holds a decree of the castellany court) | fonds 53/20 (its name to be taken from the archive's record) | Relationes Gr.1181 | 1784-1786 |
+| Municipal court (gród) of **Konin** | Księgi sądu i urzędu grodzkiego w Koninie | Relationes Gr.114-121; Relationes-oblatae Gr.136, 145, 153 | 1754-1788 |
+| Municipal court of **Kalisz** | Księgi sądu i urzędu grodzkiego w Kaliszu | Relationes Gr.414, 424, 425 | 1771-1776 |
+| Municipal court of **Pyzdry** | Księgi sądu i urzędu grodzkiego w Pyzdrach | Inscriptiones Gr.75; Relationes Gr.115 | 1768; 1791-1792 |
+| Municipal court of **Poznań** (the volume holds a decree of the castellany court) | fonds 53/20 (its name to be taken from the archive's record) | Relationes Gr.1181 | 1784-1786 |
 | Land court (ziemski) of **Konin** | Księgi sądu ziemskiego w Koninie | Inscriptiones, relationes, decreta 17; Decreta 36, 40, 45, 46, 47 | 1589-1791 |
 | Land court of **Kalisz** | Księgi sądu ziemskiego w Kaliszu | Relationes, citationes 62 | 1726-1727 |
 
@@ -113,7 +113,7 @@ scribe's spelling. So Part Three can teach the structure and the formulas from w
 but the old spelling only from those passages: whole Polish entries **as written** would have to be
 transcribed for it. A question for the editor when Part Three begins.
 
-1. **Before you begin.** The courts (castle and land) and their books; what a volume is, how its
+1. **Before you begin.** The courts (municipal and land) and their books; what a volume is, how its
    entries follow one another, the sitting heading and the entries under it; the volume's title on
    the archive's catalogue (protocollon, inducta) - checked against the fonds descriptions and
    Gloger before anything is said.

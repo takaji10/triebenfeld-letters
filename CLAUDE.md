@@ -185,7 +185,7 @@ German follows the editor's English layout").
 - **APP 53/21/0/-/Pyzdry Gr.75 - Tracholz's transfer to Chełmski, 1768**
   (slug `app5321pyzdrygr75`, added and **translated 2026-11-26** on the branch
   `claude/vigilant-johnson-jxb4hz`, **published 2026-11-26**): entry no. 39 of "Inscriptiones
-  [protocollon] 1768-1781" of the Pyzdry grod court, leaves 19 and 19 verso - the
+  [protocollon] 1768-1781" of the Pyzdry municipal court, leaves 19 and 19 verso - the
   merchant Jan Tracholz of Witkowo makes over to Stanisław Chełmski his claims on the
   late Paweł Prusimski (1,053 imperials, 13 groschen and it seems 6 pfennigs for timber, 1,513 florins);
   one document, two pages (the editor's two images, no cropping); the editor's

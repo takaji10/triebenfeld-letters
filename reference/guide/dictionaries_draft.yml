@@ -1,0 +1,4302 @@
+forenames:
+- latin: Joannes
+  polish: Jan
+  forms:
+    Joannis: 20
+    Joannem: 16
+    Joanne: 9
+    Joannes: 7
+    Jan: 4
+    Joanni: 3
+    Jana: 1
+  count: 60
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  - app53150kaliszgr414-1
+  note: Joanne is the ablative/vocative, not Joanna. Jan/Jana are the Polish forms in Polish passages.
+- latin: Joanna
+  polish: Joanna
+  forms:
+    Joanna: 2
+  count: 2
+  docs:
+  - app5320pozgr1181-1
+  note: female; also the ablative 'Joanna' of a man's name does not occur here
+- latin: Stanislaus
+  polish: Stanisław
+  forms:
+    Stanislai: 55
+    Stanislaus: 21
+    Stanislaum: 19
+    Stanisław: 13
+    Stanislao: 7
+    Stanisława: 4
+    Stanisławem: 1
+    Stanisławowi: 1
+  count: 121
+  docs:
+  - app53170koningr153-1
+  - app53170koningr119-1
+  - app53150kaliszgr425-1
+- latin: Antonius
+  polish: Antoni
+  forms:
+    Antonii: 54
+    Antonium: 45
+    Antonio: 19
+    Antonius: 11
+    Antoni: 9
+    Antoniego: 4
+    Antoniis: 1
+  count: 143
+  docs:
+  - app53150kaliszgr414-1
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  note: Antonii is the genitive (the Starost Antoni Prusimski); not to be read as a second name
+- latin: Albertus
+  polish: Wojciech
+  forms:
+    Albertum: 6
+    Alberti: 3
+    Alberto: 1
+    Woyciecha: 1
+    Wyciecha: 1
+    Albertus: 1
+  count: 13
+  docs:
+  - app53170koningr118-27
+  - app53170koningr117-1
+  - app536036-1
+  trap: Albertus/Adalbertus = Wojciech (St Adalbert), NOT Albert
+  note: Albertus Thrąmpczyński Otha = Wojciech Otto-Trąmpczyński (doc 1, app536017); peasants named Albertus are Wojciech too
+- latin: Andreas
+  polish: Andrzej
+  forms:
+    Andrae: 7
+    Andreae: 3
+    Andream: 3
+    Andraeas: 2
+    Andrea: 1
+    Andrzeja: 1
+  count: 17
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr115-4
+  - app53170koningr118-23
+  note: the clerk writes Andraeas in doc 120-1
+- latin: Alexander
+  polish: Aleksander
+  forms:
+    Alexandri: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Adamus
+  polish: Adam
+  forms:
+    Adamo: 1
+  count: 1
+  docs:
+  - app53170koningr118-26
+- latin: Augustus
+  polish: August
+  forms:
+    Augustus: 8
+  count: 8
+  docs:
+  - app53170koningr117-1
+  - app53170koningr118-10
+  - app53170koningr120-2
+  trap: '''Stanislaus Augustus'' = King Stanisław August; Augusti (genitive) is usually the month August, not a forename'
+- latin: Bartholomaeus
+  polish: Bartłomiej
+  forms:
+    Bartholomaeus: 11
+    Bartholomeo: 3
+    Bartholomeus: 2
+    Bartholomaeo: 2
+    Bartholomaus: 2
+    Bartholomei: 1
+    Bartholomaei: 1
+    Bartłomiejem: 1
+    Bartholomiej: 1
+  count: 24
+  docs:
+  - app53170koningr117-12
+  - app53170koningr118-23
+  - app53170koningr136-1
+  trap: the clerk spells it six ways (Bartholomaeus/Bartholomaus/Bartholomeus/Bartholomei...); Polish Bartłomiej, not Bartosz
+  note: Bartholomaeus Szepczyński is the Konin municipal court's general messenger of Trąmpczyn in many entries
+- latin: Benedictus
+  polish: Benedykt
+  forms:
+    Benedicto: 4
+    Benedictum: 2
+    Benedicti: 1
+  count: 7
+  docs:
+  - app53170koningr153-1
+  - app53170koningr118-10
+  - app5320pozgr1181-1
+- latin: Bogumilus
+  polish: Bogumił
+  forms:
+    Bogumillum: 2
+    Bogumilli: 1
+  count: 3
+  docs:
+  - app53170koningr118-23
+- latin: Casimirus
+  polish: Kazimierz
+  forms:
+    Casimiro: 4
+    Casimirum: 4
+    Casimiri: 4
+    Casimirus: 3
+    Kazmierza: 1
+    Kazimirz: 1
+  count: 17
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app53170koningr136-1
+- latin: Christophorus
+  polish: Krzysztof
+  forms:
+    Christophori: 6
+    Christophorum: 5
+    Christophoro: 2
+    Chiristophoro: 1
+    Chrisophorum: 1
+  count: 15
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app536040-1
+- latin: Constantinus
+  polish: Konstanty
+  forms:
+    Constantini: 1
+    Constantino: 1
+    Constantinum: 1
+  count: 3
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr115-6
+  - app536040-1
+- latin: Constantia
+  polish: Konstancja
+  forms:
+    Constantiam: 3
+    Constantia: 2
+    Constantiae: 2
+  count: 7
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  note: female
+- latin: Catharina
+  polish: Katarzyna
+  forms:
+    Catharinae: 11
+    Catharinam: 2
+  count: 13
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr117-7
+  - app53170koningr118-8
+- latin: Cunegunda
+  polish: Kunegunda
+  forms:
+    Cunegundae: 2
+    Cunegun: 1
+  count: 3
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+- latin: Elisabetha
+  polish: Elżbieta
+  forms:
+    Elisabethi: 1
+    Elisabethis: 1
+    Elisabetha: 1
+  count: 3
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+- latin: Eugenius
+  polish: Eugeniusz
+  forms:
+    Eugenio: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Aegidius
+  polish: Idzi
+  forms:
+    Aegidii: 3
+  count: 3
+  docs:
+  - app53150kaliszgr414-1
+  - app5320pozgr1181-1
+  trap: St Aegidius = Idzi (Giles), feast 1 September; not Egidiusz
+- latin: Eustachius
+  polish: Eustachy
+  forms:
+    Eustachio: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Felicianus
+  polish: Felicjan
+  forms:
+    Feliciani: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Franciscus
+  polish: Franciszek
+  forms:
+    Francisco: 7
+    Francisci: 6
+    Franciscus: 2
+  count: 15
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  - app53170koningr116-6
+- latin: Franciska
+  polish: Franciszka
+  forms:
+    Franciska: 1
+  count: 1
+  docs:
+  - app53170koningr118-27
+- latin: Gaspar
+  polish: Kasper
+  forms:
+    Gaspari: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Georgius
+  polish: Jerzy
+  forms:
+    Georgius: 1
+  count: 1
+  docs:
+  - app536036-1
+- latin: Gregorius
+  polish: Grzegorz
+  forms:
+    Gregorio: 1
+    Gregorium: 1
+  count: 2
+  docs:
+  - app53170koningr119-1
+  - app53170koningr119-7
+- latin: Hedvigis
+  polish: Jadwiga
+  forms:
+    Haedvigis: 7
+    Hedvigis: 5
+  count: 12
+  docs:
+  - app53150kaliszgr424-1
+  - app53170koningr117-7
+  - app53170koningr153-1
+  trap: Hedvigis/Haedvigis = Jadwiga (St Hedwig, the 'Viduae Electae', feast mid-October; see feasts)
+- latin: Ignatius
+  polish: Ignacy
+  forms:
+    Ignatium: 9
+    Ignatio: 5
+    Ignatii: 4
+    Ignacego: 2
+    Ignatius: 2
+  count: 22
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr115-2
+  - app53170koningr118-4
+- latin: Jacobus
+  polish: Jakub
+  forms:
+    Jacobo: 5
+    Jacobum: 4
+    Jacobi: 3
+    Jacobus: 3
+    Jakuba: 1
+  count: 16
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  - app53170koningr114-2
+  trap: Jacobus = Jakub; the Apostle's feast 'S. Jacobi' (25 July) is also Jakub
+- latin: Joachimus
+  polish: Joachim
+  forms:
+    Joachimi: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Josephus
+  polish: Józef
+  forms:
+    Josepho: 8
+    Josephum: 7
+    Josephi: 5
+    Josephus: 4
+    Jose: 1
+  count: 25
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app536040-1
+- latin: Laurentius
+  polish: Wawrzyniec
+  forms:
+    Wawrzyń: 1
+    Laurentius: 1
+    Wawrzyn: 1
+    Laurentiis: 1
+    Laurentii: 1
+  count: 5
+  docs:
+  - app53150kaliszgr414-1
+  - app5320pozgr1181-1
+  - app53170koningr118-27
+  trap: Laurentius = Wawrzyniec (Wawrzyn/Wawrzyń in Polish passages), NOT Wawrzek or Wawrzyn only; feast S. Laurentii 10 Aug
+- latin: Leo
+  polish: Leon
+  forms:
+    Leo: 3
+    Leone: 3
+    Leon: 2
+    Leonem: 1
+    Leonis: 1
+  count: 10
+  docs:
+  - app53170koningr118-27
+  - app53170koningr119-8
+  - app53170koningr153-1
+  trap: Leo (not Lew)
+- latin: Lucas
+  polish: Łukasz
+  forms:
+    Łukasza: 1
+    Lucam: 1
+  count: 2
+  docs:
+  - app53170koningr118-27
+  - app5320pozgr1181-1
+- latin: Ludovicus
+  polish: Ludwik
+  forms:
+    Ludovicum: 4
+    Ludovico: 4
+    Ludovici: 2
+    Ludovicus: 2
+  count: 12
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-4
+  - app53170koningr153-1
+- latin: Margaretha
+  polish: Małgorzata
+  forms:
+    Margarethae: 3
+    Margarithae: 1
+  count: 4
+  docs:
+  - app53170koningr136-1
+  - app5320pozgr1181-1
+- latin: Marianna
+  polish: Marianna
+  forms:
+    Mariannae: 4
+    Marianna: 2
+  count: 6
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+- latin: Maria
+  polish: Maria
+  forms:
+    Mariae: 11
+    Maria: 1
+  count: 12
+  docs:
+  - app53150kaliszgr414-1
+  - app53150kaliszgr424-1
+  - app53170koningr116-2
+  note: Mariae is mostly 'Virginis Mariae' in feasts (Blessed Virgin), not a person
+- latin: Martinus
+  polish: Marcin
+  forms:
+    Martinum: 9
+    Martini: 8
+    Martino: 3
+    Martinus: 3
+    Martianium: 1
+  count: 24
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+- latin: Matthaeus
+  polish: Mateusz
+  forms:
+    Mathaei: 4
+    Mathaus: 1
+    Matthaeo: 1
+    Matthaeus: 1
+    Matthaei: 1
+  count: 8
+  docs:
+  - app53170koningr117-12
+  - app53150kaliszgr414-1
+  - app53170koningr118-19
+  trap: 'Matthaeus = Mateusz, but Matthias/Mathias = Maciej: the clerk mixes the spellings (Mathaei/Mathias/Mathieum Matuszkiewicz are one man, Mateusz in the edition)'
+  note: Festum S. Matthaei = 21 September
+- latin: Matthias
+  polish: Maciej
+  forms:
+    Maci: 2
+    Mathiae: 2
+    Matthiae: 1
+    Mathias: 1
+    Mathieum: 1
+    Mathiam: 1
+  count: 8
+  docs:
+  - app53150kaliszgr414-1
+  - app53150kaliszgr425-1
+  - app53170koningr117-1
+  trap: Matthias = Maciej (not Mateusz); 'Mathieum' is the clerk's accusative; feast S. Matthiae 24 February (25 in leap years)
+  sure: 'no'
+- latin: Melchior
+  polish: Melchior
+  forms:
+    Melchiorem: 1
+  count: 1
+  docs:
+  - app536046-1
+- latin: Michael
+  polish: Michał
+  forms:
+    Michaelis: 6
+    Michaeli: 2
+    Michał: 1
+    Michała: 1
+    Michaele: 1
+    Michaële: 1
+  count: 12
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app53150kaliszgr425-1
+- latin: Nicolaus
+  polish: Mikołaj
+  forms:
+    Nicolaus: 3
+    Nicolaum: 2
+    Nicolao: 1
+    Nicolai: 1
+  count: 7
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr115-5
+  - app53170koningr116-8
+- latin: Paulus
+  polish: Paweł
+  forms:
+    Pauli: 24
+    Paulum: 20
+    Paulo: 6
+    Pawła: 1
+  count: 51
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  - app5321pyzdrygr75-1
+- latin: Petrus
+  polish: Piotr
+  forms:
+    Petrus: 7
+    Petro: 4
+    Petri: 3
+    Piotra: 1
+    Petrum: 1
+  count: 16
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr116-5
+  - app53170koningr118-19
+- latin: Raphael
+  polish: Rafał
+  forms:
+    Raphaele: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Sebastianus
+  polish: Sebastian
+  forms:
+    Sebastianus: 2
+    Sebastianum: 2
+    Sebastiani: 1
+  count: 5
+  docs:
+  - app53170koningr120-2
+  - app534062-1
+  - app53170koningr153-1
+- latin: Sigismundus
+  polish: Zygmunt
+  forms:
+    Sigismundi: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Simon
+  polish: Szymon
+  forms:
+    Simonis: 3
+    Szymona: 2
+    Simon: 1
+    Simone: 1
+  count: 7
+  docs:
+  - app53170koningr118-5
+  - app5321pyzdrygr75-1
+  - app53170koningr119-1
+- latin: Stephanus
+  polish: Stefan
+  forms:
+    Stephanum: 8
+    Stephani: 7
+    Stephano: 5
+    Stephanus: 1
+    Stepham: 1
+  count: 22
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app53170koningr117-2
+- latin: Sventoslaus
+  polish: Świętosław
+  forms:
+    Sventoslao: 1
+    Sventoslai: 1
+  count: 2
+  docs:
+  - app53170koningr115-8
+  - app53170koningr118-19
+- latin: Theophilus
+  polish: Teofil
+  forms:
+    Thophili: 1
+    Theophilus: 1
+    Theophili: 1
+  count: 3
+  docs:
+  - app5320pozgr1181-1
+- latin: Theresia
+  polish: Teresa
+  forms:
+    Theresiae: 5
+    Theresiam: 4
+    Theresia: 3
+    Thaeresiae: 2
+  count: 14
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app53170koningr118-14
+- latin: Thomas
+  polish: Tomasz
+  forms:
+    Thoma: 6
+    Thomae: 3
+    Thomam: 2
+  count: 11
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr115-5
+  - app53170koningr118-19
+- latin: Valentinus
+  polish: Walenty
+  forms:
+    Valentino: 1
+    Valentinus: 1
+    Valentinum: 1
+  count: 3
+  docs:
+  - app536047-1
+  - app5320pozgr1181-1
+- latin: Vincentius
+  polish: Wincenty
+  forms:
+    Vincentio: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+- latin: Vitus
+  polish: Wit
+  forms:
+    Vitti: 1
+    Viti: 1
+  count: 2
+  docs:
+  - app53170koningr118-19
+  - app5320pozgr1181-1
+  trap: Sanctorum Viti et Modesti = Wit and Modest (15 June)
+- latin: Xaverius
+  polish: Ksawery
+  forms:
+    Xaverio: 4
+    Xaviero: 1
+    Xaverii: 1
+    Xaverius: 1
+  count: 7
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-2
+  - app53170koningr118-23
+- latin: Anna
+  polish: Anna
+  forms:
+    Annam: 2
+    Anna: 1
+    Annae: 1
+  count: 4
+  docs:
+  - app5320pozgr1181-1
+  - app536036-1
+  note: Annae/Annam are forenames here, not 'year' (anni)
+- latin: Agnes
+  polish: Agnieszka
+  forms:
+    Agnethis: 2
+    Agnetis: 1
+  count: 3
+  docs:
+  - app53170koningr118-17
+  - app53170koningr153-1
+  note: always in 'Sanctae Agnethis/Agnetis Virginis et Martyris' (21 January) here
+- latin: Caietanus
+  polish: Kajetan
+  forms:
+    Caietani: 1
+  count: 1
+  docs:
+  - app53150kaliszgr414-1
+- latin: Carolus
+  polish: Karol
+  forms:
+    Caroli: 2
+  count: 2
+  docs:
+  - app5320pozgr1181-1
+- latin: Alojsius
+  polish: Alojzy
+  forms:
+    Alojsium: 1
+  count: 1
+  docs:
+  - app53170koningr153-1
+- latin: Dominicus
+  polish: Dominik
+  forms:
+    Dominico: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  note: one instance, read as a forename after 'Dominico Zboinatis'; may be misread
+  sure: 'no'
+- latin: Victoria
+  polish: Wiktoria
+  forms:
+    Victoriae: 3
+    Victoria: 2
+  count: 5
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+- latin: Apollinaris
+  polish: Apolinara/Apolonia
+  forms:
+    Apollinare: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  sure: 'no'
+- latin: Eva
+  polish: Ewa
+  forms:
+    Evam: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+offices:
+- latin: Capitaneus
+  polish: starosta
+  english: starost
+  forms:
+    Capitanei: 77
+    Capitaneum: 33
+    Capitaneo: 20
+    Capitaneus: 9
+    Capit~: 4
+    Starosta: 2
+    Starosty: 2
+    Starostą: 1
+    Starosti: 1
+    capitaneum: 1
+    capitaneale: 1
+    Capitaneu~: 1
+    Capitanealis: 1
+  count: 153
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr119-2
+  usual_adjective: Nieszczevicensis (of Niszczewice; Antoni Prusimski); also Bidgostiensis (Bydgoszcz), Junivladislaviensis (Inowrocław), Petricoviae/Majoris Poloniae Generalis (Starost General of Greater
+    Poland)
+  note: 'not ''captain''; glossary: starost'
+  followed_by_found:
+    Nieszczevicen~: 77
+    Nieszczeviensem: 11
+    Nieszczeviensis: 10
+    Niszczeviensis: 5
+    Nieszczevensis: 4
+    Nieszczevicensis: 4
+- latin: Succamerarius
+  polish: podkomorzy
+  english: sub-chamberlain
+  forms:
+    Succamerarius: 3
+    Succamerarii: 3
+    Succamerarium: 3
+    Succamerariuu: 1
+    Succamerarialium: 1
+    Succamerariorum: 1
+    Succamarariis: 1
+    Succamerano: 1
+    Succameranum: 1
+    Succamerario: 1
+    Succamerali: 1
+  count: 17
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  - app53170koningr118-6
+  usual_adjective: Posnaniensis, Vschovensis, Terrestris
+  note: head of the boundary komornicy; Paweł Prusimski was 'Succamerarius Sae Rae Mttis' (sub-chamberlain of His Royal Majesty)
+  followed_by_found:
+    Vschovensem: 2
+    Sae: 2
+    Posnan~: 1
+    Posnaniensis: 1
+    Vschovensis: 1
+    Se~: 1
+- latin: Thesaurarius
+  polish: skarbnik
+  english: treasurer
+  forms:
+    Thesaurarii: 13
+    Thaesaurarii: 10
+    Thaesaurarium: 8
+    Thesaurarius: 7
+    Thesaurarium: 6
+    Thaesaurarius: 3
+    Thaesaurariam: 2
+    Thesaurario: 2
+    Thesaurarida: 1
+    Thesauararium: 1
+    Thaesaurario: 1
+  count: 54
+  docs:
+  - app53170koningr153-1
+  - app536047-1
+  - app53170koningr118-17
+  usual_adjective: Vschovensis (of Wschowa; Stanisław Chełmski), Czerniechoviensis
+  note: 'glossary: skarbnik; a title of honour in the 18th c.'
+  followed_by_found:
+    Vschoven~: 33
+    Vschoviensis: 9
+    Vschovensem: 4
+    Vschovensis: 4
+    Czerniechovic~: 1
+    Terrae: 1
+- latin: Ensifer
+  polish: miecznik
+  english: swordbearer
+  forms:
+    Ensifer: 2
+    E[n?]sifero: 1
+  count: 3
+  docs:
+  - app5320pozgr1181-1
+  usual_adjective: Predecensis (of Pyzdry? 'Predecen~' unclear)
+  sure: 'no'
+  followed_by_found:
+    Predecen~: 1
+- latin: Venator
+  polish: łowczy
+  english: master of the hunt (huntsman)
+  forms:
+    Venatoris: 2
+  count: 2
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  usual_adjective: Trębivolien~, Vschovensis
+  followed_by_found:
+    Trębivolien~: 1
+- latin: Vexillifer
+  polish: chorąży
+  english: standard-bearer
+  forms:
+    Vexilliferi: 1
+  count: 1
+  docs:
+  - app53170koningr116-3
+  usual_adjective: Brestensis Cujaviae (Brześć Kujawski)
+- latin: Dapifer
+  polish: stolnik (the signatures say czesnik = cup-bearer)
+  english: pantler / table-steward (Czesnik in the signatures)
+  forms:
+    Dapiferi: 2
+    Dapiferidae: 1
+  count: 3
+  docs:
+  - app53170koningr116-3
+  - app53170koningr118-23
+  usual_adjective: Vschovensis, Kovalensis
+  trap: the clerk writes Dapiferi but Kwilecki and Umiński sign 'Czesnik' (cup-bearer); Polish stolnik = Dapifer, podczaszy = Pocillator; the edition translates cup-bearer
+  sure: 'no'
+  followed_by_found:
+    Vschoven~: 1
+    Kovale~: 1
+    Podlachiae: 1
+- latin: Judex (terrestris)
+  polish: sędzia (ziemski)
+  english: land judge
+  forms:
+    Judicis: 7
+    Judici: 6
+    Judices: 3
+    Judicem: 3
+    Judex: 1
+    Judice: 1
+  count: 21
+  docs:
+  - app53170koningr118-23
+  - app53170koningr117-8
+  - app5320pozgr1181-1
+  usual_adjective: Terrestris Calissiensis (of the Kalisz land court)
+  note: Judicem/Judici also appear as 'judicial' in other senses; Judices in 117-3 are the land court's judges
+  followed_by_found:
+    Terrestris: 7
+    Terrestres: 1
+    Terrestri: 1
+    Castren~: 1
+    Castrensis: 1
+- latin: Subjudex
+  polish: podsędek
+  english: sub-judge
+  forms:
+    Subjudici: 4
+    Subjudicem: 2
+  count: 6
+  docs:
+  - app53170koningr117-7
+  - app53170koningr118-23
+  - app53170koningr117-8
+  usual_adjective: Terrestris Calissiensis
+  followed_by_found:
+    Terrestrem: 2
+- latin: Notarius (terrestris)
+  polish: pisarz (ziemski)
+  english: land clerk (notary of the court)
+  forms:
+    notariatus: 5
+    Notario: 4
+    Scriba: 2
+    notarius: 1
+    Notarius: 1
+    notarium: 1
+  count: 14
+  docs:
+  - app53170koningr153-1
+  - app536045-1
+  - app53170koningr117-2
+  usual_adjective: Terrestris Calissiensis
+  note: 'glossary: pisarz; not the notary public (notarius publicus)'
+  followed_by_found:
+    Terrestribus: 2
+    Castrensis: 1
+    Terrestris: 1
+- latin: Camerarius
+  polish: komornik (graniczny) / podkomorzy's deputy
+  english: boundary komornik (sub-chamberlain's surveyor)
+  forms:
+    Camerarius: 9
+    Camerarium: 7
+    Camerario: 6
+    camerarialia: 4
+    camerariale: 3
+    Camerariorum: 1
+    camerarialis: 1
+  count: 31
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-5
+  - app53170koningr118-19
+  usual_adjective: Granicialis (boundary), Terrestris, Calissiensis, Junivladislaviensis
+  trap: Camerarius = komornik, not kamerarz/chamberlain; Succamerarius = podkomorzy (sub-chamberlain, the komornicy's superior)
+  note: 'the translations render Camerarius granicialis as ''Surveyor''; glossary: komornik. Camerarius = komornik, but Succamerarius = podkomorzy'
+  followed_by_found:
+    Granicialis: 5
+    Terrestri: 3
+    Dobrinensis: 2
+    Terrae: 1
+    Iunivladislaviensis: 1
+- latin: Ministerialis (Regni Generalis)
+  polish: woźny generalny (Królestwa)
+  english: general messenger of the Kingdom (court bailiff)
+  forms:
+    Ministerialis: 37
+    Ministerialem: 8
+    Ministeriali: 4
+    ministeriali: 3
+    ministerialem: 3
+    Ministeriales: 2
+    Ministerialibus: 1
+    Wozny: 1
+    Miniterialis: 1
+    ministerialis: 1
+    Ministerialisque: 1
+  count: 62
+  docs:
+  - app53170koningr119-3
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  usual_adjective: Regni Generalis (always 'Ministerialis Regni Generalis'); also terrestris (land court messenger)
+  note: 'glossary: wozny; sworn court officer who serves summonses and views damage'
+  followed_by_found:
+    Regni: 34
+    Regalis: 3
+    Recognitae: 1
+- latin: Castellanus
+  polish: kasztelan
+  english: castellan
+  forms:
+    Castellani: 1
+    Castellanida: 1
+  count: 2
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  usual_adjective: Junivladislaviensis, Gnesniensis
+  followed_by_found:
+    Junivladislaviensi: 1
+- latin: Palatinus
+  polish: wojewoda
+  english: voivode
+  forms:
+    Palatini: 1
+    Wojewoda: 1
+    Palatinatinus: 1
+  count: 3
+  docs:
+  - app53170koningr116-3
+  - app53170koningr117-12
+  usual_adjective: Brestensis Cujaviae (Ludwik Dąmbski, voivode of Brześć Kujawski)
+  followed_by_found:
+    Calissien~: 1
+- latin: Burgrabius
+  polish: burgrabia
+  english: burgrave (officer of the municipal court)
+  forms:
+    Burgra: 1
+    Burgrabiale: 1
+    Burgrabiali: 1
+    Burgralii: 1
+  count: 4
+  docs:
+  - app5320pozgr1181-1
+  usual_adjective: Siradiensis (Sieradz)
+  followed_by_found:
+    Siradiensi: 1
+    Coninen~: 1
+- latin: Regens
+  polish: regent (terrestris)
+  english: regent (of the land court)
+  forms:
+    Regentem: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  usual_adjective: Terrestris Vielunensis
+  followed_by_found:
+    Terrestrem: 1
+- latin: Mareschalcus
+  polish: marszałek
+  english: marshal
+  forms:
+    Mareschalco: 1
+    Mareschalci: 1
+    Mareschalii: 1
+  count: 3
+  docs:
+  - app53170koningr153-1
+  - app53170koningr118-13
+  usual_adjective: Tribunalis Regni (Crown Tribunal)
+- latin: Commissarius
+  polish: komisarz
+  english: commissioner
+  forms:
+    commissarios: 10
+    Commissarios: 9
+    Commissarius: 6
+    Commissarii: 4
+    commissario: 3
+    Commissariorum: 2
+    Commissarum: 1
+    Commissario: 1
+    Commissarium: 1
+  count: 37
+  docs:
+  - app53170koningr153-1
+  - app536040-1
+  - app53170koningr117-5
+  usual_adjective: Palatinatus Majoris Poloniae; Campestris (boundary)
+- latin: Praeses / Praesidens
+  polish: prezes
+  english: president (of a commission)
+  forms:
+    Praesidentis: 2
+  count: 2
+  docs:
+  - app53170koningr153-1
+  sure: 'no'
+- latin: Abbas
+  polish: opat
+  english: abbot
+  forms:
+    Abbatem: 8
+    Abbatis: 4
+    Abbattis: 1
+    abbatem: 1
+    Abbatii: 1
+  count: 15
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  usual_adjective: Landensis (of Ląd), Ordinis Cistersiensis
+- latin: Canonicus
+  polish: kanonik
+  english: canon
+  forms:
+    Canonico: 2
+    Canonicum: 1
+  count: 3
+  docs:
+  - app53170koningr153-1
+  usual_adjective: Lanciciensis (Łęczyca)
+  followed_by_found:
+    Lanciciensi: 2
+    Lanciciensis: 1
+- latin: Praepositus
+  polish: prepozyt
+  english: provost
+  forms:
+    Praeposito: 1
+  count: 1
+  docs:
+  - app53170koningr153-1
+  usual_adjective: Svarządzensis (Swarzędz)
+  followed_by_found:
+    Svarządzensi: 1
+- latin: Parochus
+  polish: proboszcz
+  english: parish priest
+  forms:
+    Parocho: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  usual_adjective: Zagorowiensis
+- latin: Oeconomus
+  polish: ekonom
+  english: steward (estate manager)
+  forms:
+    Economi: 3
+    Economum: 2
+    Economo: 2
+  count: 7
+  docs:
+  - app53170koningr119-1
+  - app53150kaliszgr414-1
+  - app53170koningr115-7
+  note: the Trąmpczyn estate's steward (e.g. Ignacy Jaroszewski)
+  followed_by_found:
+    Trąpczynensis: 1
+    Trąmpczyniensem: 1
+    Actt~: 1
+- latin: Geometra
+  polish: geometra
+  english: surveyor
+  forms:
+    geomethrae: 5
+    geomethram: 4
+    geometrica: 2
+    geomethra: 2
+    Geometricam: 1
+    Geometram: 1
+    Geometrę: 1
+    Geomethra: 1
+    geomethras: 1
+    Geomethram: 1
+  count: 19
+  docs:
+  - app53170koningr153-1
+  - app53170koningr118-17
+  - app53170koningr118-27
+  usual_adjective: Juratus et Privilegiatus (sworn and privileged)
+- latin: Auriga / Subauriga
+  polish: woźnica / pachołek
+  english: coachman / under-driver
+  forms:
+    Subaurigam: 4
+    Auriga: 3
+    Subauriga: 2
+    Aurigam: 2
+    Aurigis: 1
+  count: 12
+  docs:
+  - app536047-1
+  - app53170koningr119-1
+  note: servants of the Starost's coach in doc 536047-1
+- latin: Eques
+  polish: kawaler
+  english: knight (of the Order of St Stanislaus)
+  forms:
+    Equitis: 13
+    Equiti: 3
+    Equitem: 2
+    Equite: 2
+    equite: 1
+    equitis: 1
+  count: 22
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr118-3
+  usual_adjective: Ordinis / Insignis Sancti Stanislai
+  note: '''Equitis'' after ''Sancti Stanislai'' = knight of the Order of St Stanislaus (Antoni Prusimski)'
+- latin: Instigator
+  polish: instygator
+  english: prosecutor (of the Tribunal)
+  forms:
+    Instigatorii: 1
+  count: 1
+  docs:
+  - app53170koningr119-5
+- latin: Mercator
+  polish: kupiec
+  english: merchant
+  forms:
+    Mercatore: 1
+    Mercator: 1
+    Mercatori: 1
+    Mercatoris: 1
+  count: 4
+  docs:
+  - app5321pyzdrygr75-1
+  - app53170koningr118-14
+  followed_by_found:
+    Stetinensi: 1
+    Stetinensis: 1
+- latin: Plenipotens
+  polish: plenipotent / pełnomocnik
+  english: attorney (plenipotentiary)
+  forms:
+    plenipotentiario: 4
+    Plenipotens: 1
+  count: 5
+  docs:
+  - app53170koningr118-15
+  - app53170koningr153-1
+- latin: Rex
+  polish: król
+  english: king
+  forms:
+    Rex: 7
+  count: 7
+  docs:
+  - app53170koningr117-1
+  - app53170koningr118-10
+  - app53170koningr120-2
+  usual_adjective: Poloniae, Magnus Dux Lithaniae
+  note: Stanislaus Augustus Dei Gratia Rex Poloniae in the royal writs
+  followed_by_found:
+    Poloniae: 7
+- latin: Dux
+  polish: książę (wielki)
+  english: duke / grand duke
+  forms:
+    Dux: 3
+  count: 3
+  docs:
+  - app53170koningr117-8
+  - app53170koningr118-10
+  - app53170koningr117-9
+  usual_adjective: Magnus Dux Lithaniae
+  followed_by_found:
+    Lithaniae: 2
+    Lithovaniae: 1
+- latin: Conventus
+  polish: konwent
+  english: convent (of Ląd)
+  forms:
+    Conventus: 11
+    Conventum: 9
+    Conventu: 5
+    conventum: 3
+    conventus: 2
+    conventu: 2
+    Conventem: 1
+  count: 33
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr118-10
+  usual_adjective: Landensis
+  followed_by_found:
+    Landensis: 11
+    Landensem: 10
+    Landen~: 1
+- latin: Tribunal
+  polish: Trybunał
+  english: Crown Tribunal
+  forms:
+    Tribunalis: 35
+    Tribunal: 21
+    tribunalis: 20
+    Tribunalio: 14
+    Tribunalii: 12
+    tribunalium: 11
+    Tribunalium: 8
+    Tribunali: 3
+    tribunalii: 3
+  count: 127
+  docs:
+  - app53170koningr117-2
+  - app53170koningr118-19
+  - app53170koningr153-1
+  usual_adjective: Regni; Petricoviensis (Piotrków)
+  followed_by_found:
+    Regni: 38
+titles:
+- latin: Magnificus
+  polish: Wielmożny
+  english: Magnificent / the Honourable (Lord)
+  forms:
+    Magnifici: 186
+    Magnificum: 127
+    Magnifico: 62
+    Magnificus: 44
+    Magnificos: 37
+    Magnificorum: 20
+    Magnificae: 15
+    Magnificis: 15
+    Magnifica: 8
+    Magnificam: 8
+    magnificus: 4
+    Magnifice: 2
+    Mgco~: 1
+    Mc~onum: 1
+    Mcum~: 1
+    MAgnificum: 1
+    Magnifcus: 1
+    MAgnificorum: 1
+  count: 534
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app53170koningr153-1
+  who: 'nobles and officers: the Starost Prusimski, Chełmski, judges, commissioners, ministerial nobles; used also for abbreviated forms M, MM, Mgco~'
+  note: '''M'' = Magnificus (83x), ''MM'' = Magnifici (plural, 13x), ''Mgco~'' = Magnifico'
+- latin: Illustris
+  polish: Jaśnie Wielmożny
+  english: Illustrious / Right Honourable
+  forms:
+    Illustris: 30
+    Illustrem: 13
+    Illustri: 11
+    Illustres: 5
+    Illustrium: 2
+    Illust~: 2
+    Illustr~: 1
+    Illus~: 1
+    Illustremque: 1
+  count: 66
+  docs:
+  - app536047-1
+  - app53170koningr153-1
+  - app53170koningr116-3
+  who: 'the Starost Antoni Prusimski and the highest-ranking: palatines, the Abbot; always before ''Magnificus'' (Illustris Magnificus)'
+- latin: Illustris Magnificus (abbrev. JM)
+  polish: Jaśnie Wielmożny; JM = Jegomość / Jaśnie Mość
+  english: Illustrious Honourable
+  forms:
+    JM: 37
+    JMcum~: 5
+    JMci~: 2
+    JMgci: 1
+    JMcus~: 1
+    JMcorum~: 1
+    JMagnifici: 1
+  count: 48
+  docs:
+  - app53170koningr117-4
+  - app53170koningr118-2
+  - app53170koningr119-1
+  who: Starost Prusimski (JM Prusimski Capitanei Nieszczevicen~), the Abbot; the expansion by case JMcum~ = Illustrem Magnificum (accusative), JMci~ = Illustris Magnifici (genitive)
+  note: expansions in reference/guide/abbreviations_expanded.yml; JMgci/JMagnifici are the clerk's own expansions
+- latin: Perillustris / Illustrissimus
+  polish: Jaśnie Oświecony / Najjaśniejszy
+  english: Most Illustrious
+  forms:
+    Illustrissimi: 24
+    Illustrissimum: 23
+    Illustrissimus: 13
+    Illustrissimo: 7
+    Perillustrissimo: 2
+    illustrissimo: 2
+    illustrissimum: 2
+    Ilustrissimi: 1
+    Perillustrissimum: 1
+    Illustrissimorum: 1
+    illustrissimi: 1
+    perillustris: 1
+  count: 78
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr116-2
+  who: the Starost Prusimski and the highest nobles/prelates; Perillustris for the geometer-canon Woronowski (153-1); Serenissimus for the King/Tribunal
+- latin: Serenissimus
+  polish: Najjaśniejszy
+  english: Most Serene
+  forms:
+    Serenissimi: 2
+    Serenissimum: 1
+  count: 3
+  docs:
+  - app53170koningr118-19
+  who: the King and the Tribunal of the Kingdom ('Serenissimi Tribunalis')
+- latin: Generosus
+  polish: Urodzony
+  english: Well-born (Honourable noble)
+  forms:
+    Generosum: 32
+    Generosi: 28
+    Generosus: 16
+    Generosis: 16
+    Generoso: 13
+    Generosorum: 7
+    Generosae: 7
+    Generosos: 5
+    Generosa: 4
+    Generosam: 3
+    generosum: 2
+    generoso: 1
+    generosus: 1
+  count: 135
+  docs:
+  - app5320pozgr1181-1
+  - app536040-1
+  - app53170koningr153-1
+  who: 'lesser nobility: Maszewski (steward), Gosławski, Gorski (boundary komornik), landowners; also noble women (Generosa)'
+- latin: Nobilis
+  polish: Szlachetny (szlachcic)
+  english: Noble
+  forms:
+    Nobilibus: 15
+    Nobiles: 4
+    Nobilis: 4
+    nobilibus: 3
+    Nobilium: 2
+    Nobilem: 2
+    nobiles: 1
+  count: 31
+  docs:
+  - app53170koningr118-18
+  - app53170koningr115-7
+  - app53170koningr117-11
+  who: nobles as a class (Nobilibus = the noble witnesses); also 'Nobilis Albertus Thrąmpczyński' (536017)
+- latin: Providus
+  polish: Opatrzny
+  english: Provident / Worthy
+  forms:
+    Providus: 25
+    Provido: 2
+    Providi: 2
+    Providens: 2
+    Providum: 2
+    provido: 2
+    providi: 1
+  count: 36
+  docs:
+  - app53170koningr117-2
+  - app5320pozgr1181-1
+  - app53170koningr119-3
+  who: 'court messengers (Ministerialis Regni Generalis: Szepczyński, Bikierski, Krzepczyński, Stachowski, Matuszkiewicz) -- the standard title of the messenger; also villagers'
+- latin: Famatus
+  polish: Sławetny
+  english: Renowned
+  forms:
+    Famato: 4
+    Famatis: 1
+    Famati: 1
+    Famatae: 1
+    Famata: 1
+  count: 8
+  docs:
+  - app53170koningr117-2
+  - app53170koningr118-23
+  - app53170koningr117-3
+  who: 'townsmen: the merchant Jan Tracholz of Konin/Witkowo, and burghers of Konin'
+- latin: Honoratus
+  polish: Zacny / Uczciwy
+  english: Honourable
+  forms:
+    Honorato: 4
+    honoratum: 4
+    Honesti: 2
+    honorati: 2
+    honorato: 2
+    Honoratus: 1
+    Honorati: 1
+    Honoratum: 1
+    Honestum: 1
+  count: 18
+  docs:
+  - app53170koningr117-8
+  - app5321pyzdrygr75-1
+  - app536046-2
+  who: the merchant Jan Tracholz; townsmen; Honestus for burghers and for the messenger Jaworowski (536036)
+- latin: Laboriosus
+  polish: Pracowity
+  english: Industrious
+  forms:
+    Laboriosis: 2
+    Laboriosus: 2
+    Laboriosos: 1
+    Laboriosi: 1
+    Laboriosorum: 1
+    Laborioso: 1
+    laborioso: 1
+    Laboriosumque: 1
+    laboriosus: 1
+    laboriosi: 1
+    laboriosos: 1
+  count: 13
+  docs:
+  - app536047-1
+  - app53170koningr117-12
+  - app53170koningr121-1
+  who: 'peasants and villagers: tenants, Hollanders (Kłonica), village witnesses (Kinos, Gryndel, Szepczyński as witness)'
+- latin: Ingenuus
+  polish: Wolny / Uczciwy
+  english: Free-born (Honest)
+  forms:
+    ingenuum: 5
+    ingenuus: 1
+    Ingenui: 1
+    ingenui: 1
+    Ingenuum: 1
+    Ingenuo: 1
+  count: 10
+  docs:
+  - app53170koningr153-2
+  - app53170koningr153-1
+  who: 'Dutch/Olęder colonists (Hollandus: Martinus Hunt) -- free settlers, not serfs'
+- latin: Spectabilis
+  polish: Zacny
+  english: Respectable (Esteemed)
+  forms:
+    Spectabili: 1
+  count: 1
+  docs:
+  - app53170koningr120-2
+  who: the merchant Jan Trachultz (Tracholz) in 120-2
+- latin: Excellens
+  polish: Znamienity
+  english: Excellent (Distinguished)
+  forms:
+    Excellens: 1
+    Excellentem: 1
+  count: 2
+  docs:
+  - app5321pyzdrygr75-1
+  - app536046-2
+  who: the merchant and townsman Jan Tracholz of Witkowo (Pyzdry 75; 536046-2)
+- latin: Reverendissimus
+  polish: Przewielebny
+  english: Most Reverend
+  forms:
+    Reverendissimum: 9
+    Reverendissimo: 3
+    Reverendissimi: 1
+    REverendissimum: 1
+    reverendissimi: 1
+    reverendissimus: 1
+    reverendissimo: 1
+  count: 17
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr115-2
+  who: the Abbot of Ląd (Słowiecki, Lubstowski), the canon Woronowski; Illustrissimus Reverendissimus for the Abbot
+- latin: Venerabilis
+  polish: Wielebny / Czcigodny
+  english: Venerable
+  forms:
+    Venerabilis: 5
+    Venerabilem: 4
+    venerabili: 2
+    venerabilem: 2
+    Venerabili: 1
+  count: 14
+  docs:
+  - app53170koningr153-1
+  - app53170koningr115-2
+  - app5320pozgr1181-1
+  who: the Convent of Ląd (Venerabilis Conventus Landensis)
+- latin: Religiosus
+  polish: Zakonny
+  english: Religious (of the order)
+  forms:
+    Religiossorum: 1
+    Religiosum: 1
+    Religiosissimum: 1
+  count: 3
+  docs:
+  - app53170koningr118-8
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  who: the Cistercian monks of Ląd
+- latin: Dominus / Pan
+  polish: Pan / Jegomość
+  english: Lord / Mr
+  forms:
+    Pana: 7
+    Panu: 3
+    Wielmożnego: 3
+    Urodzonym: 2
+    Wielmoznego: 2
+    Pan: 2
+    Jegomości: 1
+    Wielmozny: 1
+    Jegomość: 1
+    Urodzony: 1
+    JWielmożnego: 1
+    Urodzonemu: 1
+    Urodzonych: 1
+    Uczciwych: 1
+    Pracowitych: 1
+    Wielmożny: 1
+  count: 29
+  docs:
+  - app53170koningr118-27
+  - app53170koningr115-10
+  - app53150kaliszgr414-1
+  who: 'the Polish-language passages use the Polish equivalents: Urodzony for Generosus, Uczciwy y Pracowity for Providus/Laboriosus, Wielmożny for Magnificus'
+  sure: 'no'
+kin:
+- latin: patruus
+  polish: stryj (brat ojca)
+  english: paternal uncle
+  forms:
+    Patrui: 16
+    Patruos: 3
+    Patruum: 2
+    Patruo: 2
+    Patruorum: 2
+    Patruus: 1
+  count: 26
+  docs:
+  - app53170koningr117-3
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  note: Paweł Prusimski is 'Patruus' of the Starost Antoni (the late Paweł, his father's brother); Latin patruus = father's brother only; Polish stryj
+- latin: patrinus
+  polish: stryj (older/other form)
+  english: paternal uncle (the clerk's form)
+  forms:
+    patrini: 1
+    Patrini: 1
+  count: 2
+  docs:
+  - app5320pozgr1181-1
+  sure: 'no'
+- latin: relicta
+  polish: wdowa po (pozostała)
+  english: widow, the late man's wife left behind
+  forms:
+    Relictae: 16
+    relictum: 5
+    relictae: 4
+    relicta: 3
+    relictam: 2
+    relicto: 2
+    Relictam: 2
+    relictos: 1
+    relictus: 1
+    relictis: 1
+    relictas: 1
+  count: 38
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  - app53170koningr117-3
+  note: Relicta vidua = widow; Relictae = of the widow (genitive/dative)
+- latin: vidua
+  polish: wdowa
+  english: widow
+  forms:
+    Viduae: 11
+    viduae: 7
+    viduam: 3
+  count: 21
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr117-3
+  - app53150kaliszgr424-1
+  note: in 'Sanctae Hedvigis Viduae Electae' it is the saint's epithet, not a person
+- latin: consors
+  polish: małżonek / małżonka
+  english: spouse (husband or wife)
+  forms:
+    Consorte: 2
+    Consorti: 2
+    consortis: 2
+    Consortem: 1
+    Consortis: 1
+    consorti: 1
+  count: 9
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  - app53170koningr117-8
+  note: also 'Consorti' = husband; consors can be either spouse
+- latin: maritus
+  polish: mąż
+  english: husband
+  forms:
+    Marito: 2
+    Maritatam: 1
+    Mariti: 1
+    mariti: 1
+    marito: 1
+  count: 6
+  docs:
+  - app53170koningr118-14
+  - app5320pozgr1181-1
+  - app53170koningr136-1
+  note: Maritatam = married (woman)
+- latin: coniux
+  polish: małżonek
+  english: 'spouse (pl. conjuges: married couple)'
+  forms:
+    conjuges: 3
+    Conjugum: 2
+    conjugis: 2
+    conjugum: 2
+    Conjugibus: 1
+    Conjuges: 1
+    conjugibus: 1
+    conjugatis: 1
+  count: 13
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app536040-1
+- latin: filiaster
+  polish: pasierb / dziecko żony z innego małżeństwa; used here for a stepchild or son of the wife
+  english: stepson (here also son of another marriage)
+  forms:
+    Filiastri: 1
+    Filastri: 1
+    Filiastro: 1
+  count: 3
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  note: '''Filiastro juxta divisorium'' in 1181: Antoni Prusimski as ''filiaster'' of Antoni Patrinus; Latin filiaster = stepson (privignus)'
+  sure: 'no'
+- latin: filius
+  polish: syn
+  english: son
+  forms:
+    Filiis: 6
+    Filii: 2
+    Filios: 2
+    Filiorum: 2
+    Filium: 2
+    filiis: 2
+    Filio: 1
+    filii: 1
+    filio: 1
+  count: 19
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  - app536040-1
+- latin: filia
+  polish: córka
+  english: daughter
+  forms:
+    Filiae: 3
+    Filiabus: 2
+    Filialem: 1
+    Filia: 1
+    filiae: 1
+    Filiam: 1
+  count: 9
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  note: Filialem = of a filial church? seen once
+- latin: frater
+  polish: brat
+  english: brother
+  forms:
+    Fratres: 10
+    Fratrum: 7
+    Fratribus: 4
+    fratres: 4
+    Fratris: 2
+    Fratrem: 2
+    Fratri: 1
+    Fratram: 1
+    Fratrorum: 1
+    fratrem: 1
+    fratris: 1
+  count: 34
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app53170koningr153-1
+  note: '''Fratrum Fraturnarum'' = of the brothers'' (fraternal) portions'
+- latin: frater germanus
+  polish: rodzony brat
+  english: full brother
+  forms:
+    germanos: 3
+    germanorum: 2
+    Germanos: 2
+    Germanis: 1
+    Germanorum: 1
+    germanis: 1
+    germani: 1
+    germanum: 1
+  count: 12
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  - app536036-1
+  note: germanus = full-blood, same parents; 'Fratribus inter se germanis'
+- latin: soror
+  polish: siostra
+  english: sister
+  forms:
+    Sorori: 1
+    sororum: 1
+  count: 2
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+- latin: successor
+  polish: następca (sukcesor)
+  english: heir in succession
+  forms:
+    Successoribus: 12
+    Successores: 6
+    successoribus: 3
+    Successione: 2
+    Successionis: 2
+    successionis: 2
+    successorum: 2
+    Successoris: 1
+    Successivam: 1
+    Successive: 1
+    successivo: 1
+    successores: 1
+    successione: 1
+  count: 35
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app53170koningr117-7
+  note: Successores = those succeeding to the estate, the heirs after the childless brothers
+- latin: haeres
+  polish: dziedzic
+  english: heir / owner by inheritance
+  forms:
+    Haeredis: 23
+    haeredis: 16
+    haeres: 6
+    Haeredi: 6
+    Haeredem: 5
+    haereditaria: 5
+    haereditatum: 5
+    haereditati: 5
+    haereditates: 4
+    Haerede: 3
+    haereditatem: 3
+    Haeres: 3
+    haeredes: 3
+    haeredi: 3
+    Haeredes: 2
+    haereditatis: 2
+    haerendo: 1
+    Haredem: 1
+    Haereditatis: 1
+    haerentibus: 1
+    haereditariis: 1
+    Haearedum: 1
+    Haeredum: 1
+    Haeredissae: 1
+    haeredem: 1
+    haereditariorum: 1
+    haerentis: 1
+    haerere: 1
+    haereditaris: 1
+    haeredetate: 1
+    haerenti: 1
+    haereditate: 1
+    haereditatibus: 1
+  count: 111
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app53170koningr153-1
+  note: '''Bonorum Trąmpczyn Haeres'' = owner (dziedzic) of Trąmpczyn; Haeres ≠ simple ''heir'': an estate''s owner'
+- latin: nepos
+  polish: wnuk / bratanek
+  english: grandson / nephew
+  forms:
+    Nepotis: 1
+  count: 1
+  docs:
+  - app53170koningr118-23
+  note: Latin nepos means grandson or nephew; Nepotis in 118-23 'Conjugum Nepotis' = grandson of the couple Krzysztof and Teresa Golińska
+  sure: 'no'
+- latin: parens
+  polish: rodzic / ojciec
+  english: parent / father
+  forms:
+    Parentis: 4
+    Parentem: 4
+    Parentum: 4
+    Parenti: 3
+    Parente: 1
+    Parentali: 1
+    Parentibus: 1
+    Parentalium: 1
+    Parentalis: 1
+    parenti: 1
+    parentibus: 1
+  count: 22
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app536040-1
+  note: Parentem = father (the father of the sons Zakrzewski); Parentes = parents
+- latin: tutor
+  polish: opiekun
+  english: guardian
+  forms:
+    Tutoribus: 1
+  count: 1
+  docs:
+  - app536036-1
+- latin: paternus / maternus
+  polish: ojczysty / macierzysty
+  english: of the father / of the mother
+  forms:
+    Paturnae: 6
+    Maturnae: 5
+    Paternae: 4
+    materna: 3
+    Maturnam: 3
+    maturnam: 3
+    Paturnam: 2
+    Paturnorum: 2
+    Paturna: 2
+    Maturnis: 2
+    Paterna: 1
+    Maternae: 1
+    maternae: 1
+    Paternam: 1
+    Fraterno: 1
+    Paternorum: 1
+    Maturnorum: 1
+    maternis: 1
+    Fraturna: 1
+    Fraturnarum: 1
+    maturna: 1
+    Paturnis: 1
+    maturnis: 1
+    maturnae: 1
+    fraturnam: 1
+  count: 47
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  note: '''Paturna Prusimsciana'' = the paternal (Prusimski) estate; ''Maturna Golinsciana'' = the maternal (Golińska) estate; Pat-/Mat- spelling u for e'
+- latin: dos
+  polish: posag
+  english: dowry
+  forms:
+    dotis: 3
+    Dotis: 1
+    dotibus: 1
+    dotes: 1
+  count: 6
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+- latin: matrimonium
+  polish: małżeństwo
+  english: marriage
+  forms:
+    Connubio: 2
+    Matrimonii: 1
+    connubio: 1
+  count: 4
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  note: '''Secundo Matrimonii thoro'' = second marriage; ''Secundo Connubio'' likewise'
+- latin: decessus / fata
+  polish: zgon
+  english: decease
+  forms:
+    fata: 9
+    decessum: 5
+    Fata: 2
+    decessarum: 1
+    decessorum: 1
+    decesso: 1
+  count: 19
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr117-8
+  - app53170koningr118-23
+  sure: 'no'
+family_adjectives:
+- latin: Prusimscianus
+  forms:
+    Prusimscianae: 4
+    Prusimsciana: 2
+    Prusimscianam: 1
+    Prusimscum: 1
+    Prusimcianam: 1
+    Prusimciana: 1
+    Prusimscianorum: 1
+    Prusimscianis: 1
+  count: 12
+  docs:
+  - app5320pozgr1181-1
+  - app5321pyzdrygr75-1
+  family: Prusimski (Prusimska) family
+  note: Prusimscianae massae = the estate of the Prusimski; 'Prusimscianis' = Prusimski successors
+- latin: Golinscianus
+  forms:
+    Golinscianae: 5
+    Golinscianam: 5
+    Golinscianis: 2
+    Golinsciana: 1
+  count: 13
+  docs:
+  - app5320pozgr1181-1
+  family: Golińska family
+- latin: Rozdrazevscianus
+  forms:
+    Rozdrazevianis: 2
+    Rozdrazevscianos: 1
+    Rozdrazevscianis: 1
+  count: 4
+  docs:
+  - app53170koningr117-8
+  family: Rozdrażewski family
+- latin: Kosielscianus
+  forms:
+    Kosielsciano: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  family: Kosielski family
+- latin: Żychlinianus
+  forms:
+    Żychlinianos: 1
+  count: 1
+  docs:
+  - app53170koningr115-2
+  family: Żychliński family
+feasts:
+- latin: Festum Sanctae Hedvigis Viduae Electae (Dei)
+  polish: św. Jadwigi Śląskiej
+  english: St Hedwig the widow, 'chosen of God'
+  forms:
+    Festum Sanctae Haedvigis Viduae Electae Dei: 2
+    Festi Sanctae Haedvigis Viduae Electae: 2
+    Festum Sanctae Hedvigis viduae electae: 2
+    Festum Sanctae Hedvigis Viduae electae: 1
+    Festum Sanctae Haedvigis Viduae Electae: 1
+    Festum Sanctae Haedvigis viduae Electae Dei: 1
+    Festum Sanctae Hedvigis Viduae Electae Dei: 1
+    Festi Sanctae Haedvigis Viduae Electae Dei: 1
+    Festi S. Hedvigis Viduae Electae: 1
+  count: 12
+  docs:
+  - app53150kaliszgr424-1
+  - app53170koningr117-1
+  - app53170koningr118-4
+  date: 15 October (Polish calendar) / 16 or 17 October by the Roman calendar of the time; the weekday counts in the entries (Feria Quinta post = Thursday 17 Oct 1776, Feria 2da post = Monday 20 Oct 1777)
+    fit 15, 16 or 17 Oct
+  sure: 'no'
+  note: the commonest feast in the Konin entries; the court's sessions fall on 'Feria 2da post Festum S. Hedvigis'
+- latin: Festum Assumptionis (Beatissimae Virginis Mariae)
+  polish: Wniebowzięcie NMP
+  english: Assumption of the Blessed Virgin
+  forms:
+    Festum Assumptionis: 2
+  count: 2
+  docs:
+  - app53170koningr116-2
+  - app5320pozgr1181-1
+  date: 15 August
+- latin: Festum Nativitatis (Beatae/Beatissimae) Virginis Mariae
+  polish: Narodzenie NMP
+  english: Nativity of the Blessed Virgin
+  forms:
+    Festum Nativitis Beatissimae Virginis Maria: 1
+    Festum Nativitatis BVM: 1
+    Festum Nativitatis Beatae Virginis Mariae: 1
+  count: 3
+  docs:
+  - app53170koningr119-8
+  - app5320pozgr1181-1
+  - app536047-1
+  date: 8 September
+- latin: Festum Praesentationis (Gloriosissimae) Virginis Mariae
+  polish: Ofiarowanie NMP
+  english: Presentation of the Virgin Mary
+  forms:
+    Festum Praesentationis Gloriossissimae Virginis Mariae: 1
+    Festi Praesentationis Gloriosissimae Virginis Mariae: 1
+    Festi Praesentationis BV Mariae: 1
+    Festum Praesentationis Gloriosissimae Virginis Mariae: 1
+  count: 4
+  docs:
+  - app53150kaliszgr424-1
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  date: 21 November (Sabbatho post = Saturday 23 Nov 1776 in 424-1)
+- latin: Festum Visitationis (Gloriosissimae) Virginis Mariae
+  polish: Nawiedzenie NMP
+  english: Visitation of the Virgin Mary
+  forms:
+    Festum Visitationis Gloriosissimae Virginis Mariae: 1
+  count: 1
+  docs:
+  - app53150kaliszgr414-1
+  date: 2 July
+- latin: Festum Immaculatae Conceptionis Beatissimae Virginis Mariae
+  polish: Niepokalane Poczęcie NMP
+  english: Immaculate Conception
+  forms:
+    In Vigilia Festi Immaculate Conceptionis Beatissime Virginis Mariae: 1
+    Invigilia Festi Immaculatae Conceptionis Beatissimae Mariae Virginis: 1
+    invigilia festi Immaculatae Conceptionis Beatissimae Mariae Virginis: 1
+    Festum Immaculate Conceptionis BVM: 1
+  count: 4
+  docs:
+  - app53170koningr118-14
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  date: 8 December
+- latin: Festum Exaltationis Sanctae Crucis
+  polish: Podwyższenie Krzyża
+  english: Exaltation of the Holy Cross
+  forms:
+    Festum Exaltationis Sanctae Crucis: 1
+    Festum Exaltationis Sanctae Crucia: 1
+    Festum Exaltationis Sanctae Crucis.: 1
+  count: 3
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr119-8
+  - app53170koningr153-1
+  date: 14 September (Feria 4ta post = Wednesday 15 Sept 1784)
+- latin: Festum Omnium Sanctorum
+  polish: Wszystkich Świętych
+  english: All Saints
+  forms:
+    Festum Omnium Sanctorum: 2
+    Festum OO Sanctorum: 1
+  count: 3
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  date: 1 November
+- latin: Festum Sancti Martini Pontificis
+  polish: św. Marcina
+  english: St Martin
+  forms:
+    Festum Sancti Martini Pontificis: 1
+  count: 1
+  docs:
+  - app53150kaliszgr414-1
+  date: 11 November
+  note: 'one of the three term-days (glossary: term-days)'
+- latin: Festum Sancti Michaelis Archangeli
+  polish: św. Michała Archanioła
+  english: Michaelmas (St Michael)
+  forms:
+    Festum Sancti Michaelis Archangeli: 2
+  count: 2
+  docs:
+  - app53150kaliszgr425-1
+  - app53170koningr118-24
+  date: 29 September
+  note: term-day
+- latin: Festum Sancti Matthaei Apostoli et Evangelistae
+  polish: św. Mateusza Ap.
+  english: St Matthew
+  forms:
+    Festum Sancti Mathaei Apostoli et Evangelistae: 1
+    Festi Sancti Mathaei Apostoli et Evangelistae: 1
+    crastino Festi Sancti Mathaei Apostoli et Evangelistae: 1
+  count: 3
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr118-23
+  - app536040-1
+  date: 21 September
+- latin: Festum Sancti Bartholomaei Apostoli
+  polish: św. Bartłomieja Ap.
+  english: St Bartholomew
+  forms:
+    Festum Sancti Bartholomei Apostoli: 1
+    Festum Sancti Bartholomaei Apostoli: 1
+  count: 2
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr118-23
+  date: 24 August
+- latin: Festum Sancti Andreae Apostoli
+  polish: św. Andrzeja Ap.
+  english: St Andrew
+  forms:
+    Festum Sancti Andreae Apostoli: 2
+  count: 2
+  docs:
+  - app53170koningr115-4
+  - app53170koningr115-7
+  date: 30 November
+- latin: Festum Sancti Thomae Apostoli
+  polish: św. Tomasza Ap.
+  english: St Thomas the Apostle
+  forms:
+    Festi Sancti Thomae Apostoli: 1
+    Crastino Festi S. Thomae Apostoli: 1
+  count: 2
+  docs:
+  - app53170koningr115-5
+  - app5320pozgr1181-1
+  date: 21 December
+- latin: Festum Conversionis Sancti Pauli Apostoli
+  polish: Nawrócenie św. Pawła
+  english: Conversion of St Paul
+  forms:
+    Festum Conversionis Sancti Pauli Apostoli: 1
+  count: 1
+  docs:
+  - app53170koningr117-11
+  date: 25 January (Feria 6ta post = Friday 29 Jan 1779 in 117-11)
+- latin: Festum Sanctae Agnethis/Agnetis Virginis et Martyris
+  polish: św. Agnieszki
+  english: St Agnes
+  forms:
+    Festum Sanctae Agnethis Virginis et Martyris: 2
+    Festum Sanctae Agnetis Virginis et Martyris: 1
+  count: 3
+  docs:
+  - app53170koningr153-1
+  - app53170koningr118-17
+  date: 21 January
+- latin: Festum Sanctae Catharinae Virginis et Martyris
+  polish: św. Katarzyny
+  english: St Catherine
+  forms:
+    Festum Sanctae Catharinae Virginis et Martyris: 4
+    Festum Sanctae Catharinae Virginis et Marthyris: 1
+  count: 5
+  docs:
+  - app53170koningr119-3
+  - app53170koningr118-8
+  - app53170koningr153-1
+  date: 25 November (Feria Quinta ante = Thursday 22 Nov 1781 in 118-8)
+- latin: Festum Sanctorum Simonis et Judae Apostolorum
+  polish: śś. Szymona i Judy Tadeusza
+  english: Sts Simon and Jude
+  forms:
+    Festum Sanctorum Simonis et Judae Apostolorum: 1
+  count: 1
+  docs:
+  - app53170koningr118-5
+  date: 28 October
+- latin: Festum Sancti Jacobi Apostoli
+  polish: św. Jakuba Ap.
+  english: St James the Apostle
+  forms:
+    Festum Sancti Jacobi Apostoli: 1
+  count: 1
+  docs:
+  - app53170koningr114-2
+  date: 25 July
+- latin: Festum Sancti Francisci Confessoris
+  polish: św. Franciszka z Asyżu
+  english: St Francis
+  forms:
+    Festum Sancti Francisci Confessoris: 1
+    Festi S. Francisci Confes~: 1
+    Crastino Festi S. Francisci Confess~: 1
+  count: 3
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr116-6
+  date: 4 October
+  note: Confessor = Franciszek of Assisi (Feria Secunda post Ferium S. Francisci Confessoris, 1181)
+- latin: Festum Sanctae Margarithae/Margarethae Virginis et Martyris
+  polish: św. Małgorzaty
+  english: St Margaret
+  forms:
+    Festi Sanctae Margarithae Virginis et Martyris: 1
+  count: 1
+  docs:
+  - app53170koningr136-1
+  date: 13 July (older Roman/Polish) or 20 July (Roman today)
+  sure: 'no'
+- latin: Festum Sanctorum Viti et Modesti Martyrum
+  polish: śś. Wita i Modesta
+  english: Sts Vitus and Modestus
+  forms:
+    Festi Sanctorum Vitti et Modesti Martyrum: 1
+    Festum SS. Viti et Modesti Martyrum: 1
+  count: 2
+  docs:
+  - app53170koningr118-19
+  - app5320pozgr1181-1
+  date: 15 June (Sabbatho Ipso Die = Saturday 15 June 1782 in 118-19)
+- latin: Festum Sancti Laurentii Martyris
+  polish: św. Wawrzyńca
+  english: St Lawrence
+  forms:
+    Festum S. Laurentiis Martyris: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  date: 10 August
+- latin: Festum Sancti Aegidii Abbatis
+  polish: św. Idziego
+  english: St Giles
+  forms:
+    festi Sancti Aegidii Abbatis: 1
+  count: 1
+  docs:
+  - app53150kaliszgr414-1
+  date: 1 September
+- latin: Festum undecem milium Sanctarum Virginum
+  polish: 11 000 Dziewic (św. Urszuli)
+  english: Eleven Thousand Virgins (St Ursula)
+  forms:
+    Festum undecem milium Sanctarum Virginum: 1
+  count: 1
+  docs:
+  - app53150kaliszgr414-1
+  date: 21 October
+- latin: Festum Nativitatis Sancti Joannis Baptistae
+  polish: Narodzenie św. Jana Chrzciciela (Sobótki)
+  english: Nativity of St John the Baptist
+  forms:
+    Festum Nativitatis Sancti Joannis Baptistae: 2
+    Crastino Festi Natalis S. Joannis Baptistae: 1
+  count: 3
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  date: 24 June
+  note: 'term-day (glossary: term-days)'
+- latin: Festum Circumcisionis Domini
+  polish: Obrzezanie Pańskie (Nowy Rok)
+  english: Circumcision of the Lord (New Year)
+  forms:
+    Crastino Festi Circumcisionis Xsti Domini: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  date: 1 January
+- latin: Festum Transfigurationis Domini
+  polish: Przemienienie Pańskie
+  english: Transfiguration
+  forms:
+    Festi Transfigurationis Domini Nostri Jesu Christi: 1
+  count: 1
+  docs:
+  - app53170koningr114-2
+  date: 6 August
+- latin: Festum Sacratissimi Corporis Christi
+  polish: Boże Ciało
+  english: Corpus Christi
+  forms:
+    Festi Sacratissimi Corporis Christi Domini: 1
+    Festi Ss~mi Corporis Christi Dm~: 1
+  count: 2
+  docs:
+  - app53170koningr118-16
+  - app5320pozgr1181-1
+  date: 'movable: Thursday after Trinity Sunday = 60 days after Easter'
+- latin: Festi Ascensionis Domini
+  polish: Wniebowstąpienie Pańskie
+  english: Ascension
+  forms:
+    Crastino Festi Ascensionis Domini N[ostri?] Jesu Christi: 1
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  date: 'movable: Thursday, 40 days after Easter'
+- latin: Festa Solennia Sacri Pentecosteri
+  polish: Zielone Świątki
+  english: Whitsun (Pentecost)
+  forms:
+    Festa Solennia Sacri Pentecosteri: 1
+  count: 1
+  docs:
+  - app53170koningr118-15
+  date: 'movable: Easter + 49 days (seventh Sunday after Easter); Monday and Tuesday follow'
+- latin: Festa Solemnia Sacri Paschałis
+  polish: Wielkanoc
+  english: Easter
+  forms:
+    Festa Solemnia Sacri Paschałis: 1
+  count: 1
+  docs:
+  - app53170koningr114-1
+  date: 'movable: first Sunday after the first full moon after 21 March (Gregorian)'
+- latin: Festum Sanctissimae et Individuae Trinitatis
+  polish: Trójcy Świętej
+  english: Trinity Sunday
+  forms:
+    Festum Sanctissimae et Individuae Trinitatis: 2
+  count: 2
+  docs:
+  - app53170koningr153-1
+  - app536040-1
+  date: 'movable: Sunday after Pentecost (Easter + 56 days)'
+- latin: Dominica Septuagesimae
+  polish: Siedemdziesiątnica (3. niedziela przed Wielkim Postem)
+  english: Septuagesima
+  forms:
+    Dominicam Septuagesimae: 2
+  count: 2
+  docs:
+  - app536040-1
+  - app536046-2
+  date: 'movable: 9th Sunday before Easter'
+- latin: Dominica Sexagesimae
+  polish: Sześćdziesiątnica
+  english: Sexagesima
+  forms:
+    Dominicam Sexagesimae: 2
+  count: 2
+  docs:
+  - app53170koningr116-8
+  - app5320pozgr1181-1
+  date: 'movable: 8th Sunday before Easter'
+- latin: Dominica Invocavit
+  polish: 1. niedziela Wielkiego Postu
+  english: Invocavit (First Sunday of Lent)
+  forms:
+    Dominicam Invocavit: 2
+  count: 2
+  docs:
+  - app53170koningr117-1
+  - app53170koningr153-1
+  date: 'movable: Easter minus 42 days (Lent 1)'
+- latin: Dominica Reminiscere
+  polish: 2. niedziela Wielkiego Postu
+  english: Reminiscere (2nd Sunday of Lent)
+  forms:
+    Dominicam Reminiscere: 2
+  count: 2
+  docs:
+  - app53170koningr117-2
+  - app53170koningr119-3
+  date: 'movable: Easter minus 35 days (Lent 2)'
+- latin: Dominica Oculi
+  polish: 3. niedziela Wielkiego Postu
+  english: Oculi (3rd Sunday of Lent)
+  forms:
+    Dominicam Oculi: 1
+  count: 1
+  docs:
+  - app53170koningr153-1
+  date: 'movable: Easter minus 28 days (Lent 3)'
+- latin: Dominica Laetare
+  polish: 4. niedziela Wielkiego Postu (Laetare)
+  english: Laetare (4th Sunday of Lent)
+  forms:
+    Dominicam Laetare: 4
+  count: 4
+  docs:
+  - app53170koningr117-8
+  - app536046-2
+  - app53170koningr117-2
+  date: 'movable: Easter minus 21 days (Lent 4)'
+- latin: Dominica Judica
+  polish: 5. niedziela Wielkiego Postu (Męki Pańskiej)
+  english: Judica (5th Sunday of Lent)
+  forms:
+    Dominicam Judica: 2
+  count: 2
+  docs:
+  - app53170koningr118-11
+  - app5320pozgr1181-1
+  date: 'movable: Easter minus 14 days (Lent 5; Passion Sunday)'
+- latin: Dominica in Ramis Palmarum
+  polish: Niedziela Palmowa
+  english: Palm Sunday
+  forms:
+    Dominicam Ramis Palmanim: 1
+  count: 1
+  docs:
+  - app53170koningr117-7
+  date: 'movable: Easter minus 7 days'
+- latin: Dominica Misericordiae
+  polish: 2. niedziela po Wielkanocy
+  english: Second Sunday after Easter
+  forms:
+    Dominicam Misericordiae: 2
+  count: 2
+  docs:
+  - app53170koningr118-12
+  - app536040-1
+  date: 'movable: Easter plus 14 days (Second Sunday after Easter; ''Misericordia Domini'')'
+- latin: Dominica Cantate
+  polish: 4. niedziela po Wielkanocy
+  english: Cantate (4th Sunday after Easter)
+  forms:
+    Dominicae cantate: 1
+    Dominicam Cantate: 1
+  count: 2
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr119-5
+  date: 'movable: Easter plus 28 days'
+- latin: Dominica Exaudi
+  polish: 6. niedziela po Wielkanocy
+  english: Exaudi (Sunday before Pentecost)
+  forms:
+    Dominicam Exaudi: 3
+  count: 3
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr115-2
+  date: 'movable: Easter plus 42 days (Sunday before Pentecost)'
+- latin: Cineres / Sabbatum Magnum
+  polish: Popielec / Wielka Sobota
+  english: Ash Wednesday / Holy Saturday
+  forms:
+    Cineres: 2
+    Sabbatho Magno: 1
+  count: 3
+  docs:
+  - app53170koningr114-1
+  - app53170koningr115-8
+  - app53170koningr117-1
+  date: 'movable: Ash Wednesday, Easter minus 46 days; Holy Saturday, the day before Easter'
+dating_words:
+- latin: Feria Secunda / 2da
+  polish: poniedziałek
+  english: Monday
+  forms:
+    Feria 2da: 28
+    Feria Secunda: 14
+  count: 42
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app53170koningr117-1
+  note: Feria 1 would be Sunday (called Dominica)
+- latin: Feria Tertia / 3tia
+  polish: wtorek
+  english: Tuesday
+  forms:
+    Feria Tertia: 7
+    Feria 3tia: 4
+  count: 11
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app53170koningr115-2
+- latin: Feria Quarta / 4ta
+  polish: środa
+  english: Wednesday
+  forms:
+    Feria Quarta: 6
+    Feria 4ta: 4
+  count: 10
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app536046-2
+- latin: Feria Quinta / 5ta
+  polish: czwartek
+  english: Thursday
+  forms:
+    Feria Quinta: 8
+    Feria 5ta: 6
+  count: 14
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+  - app53170koningr119-8
+- latin: Feria Sexta / 6ta
+  polish: piątek
+  english: Friday
+  forms:
+    Feria Sexta: 7
+    Feria 6ta: 4
+  count: 11
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr114-2
+  - app53170koningr115-5
+- latin: Sabbatho (Sabbato, Sabatho, Sabbattho)
+  polish: sobota
+  english: Saturday
+  forms:
+    Sabbatho: 13
+    Sabbattho: 2
+    Sabbato: 1
+    Sabatho: 1
+  count: 17
+  docs:
+  - app53170koningr153-1
+  - app53170koningr115-7
+  - app53150kaliszgr414-1
+- latin: Dominica
+  polish: niedziela
+  english: Sunday
+  forms:
+    Dominicam: 24
+    Dominicae: 1
+  count: 25
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr117-2
+  - app53170koningr153-1
+- latin: post
+  polish: po (the first such day after)
+  english: 'after: ''Feria 2da post Festum X'' = the first Monday after the feast, never the feast day itself'
+  forms:
+    Feria 2da post: 24
+    Feria Secunda post: 10
+    Feria Quarta post: 5
+    Feria Sexta post: 5
+    Feria Tertia post: 5
+    Feria 5ta post: 3
+    Feria 4ta post: 2
+    Feria Quinta post: 2
+    Feria secunda post: 2
+    Feria 3tia post: 2
+    Feria quinta post: 1
+    Feria 6ta post: 1
+  count: 62
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app53170koningr117-1
+  note: proxima after it confirms 'the nearest following'
+- latin: ante / pridie
+  polish: przed / w przeddzień
+  english: before / the day before
+  forms:
+    pridie: 5
+    Feria Quinta ante: 1
+    Pridie: 1
+    Feria 4ta ante: 1
+    Feria 2da ante: 1
+    Feria 5ta ante: 1
+  count: 10
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app53170koningr115-5
+- latin: in Crastino
+  polish: nazajutrz (w dzień po)
+  english: on the day after (the morrow of) the feast
+  forms:
+    in Crastino: 4
+    Crastino: 1
+  count: 5
+  docs:
+  - app5320pozgr1181-1
+- latin: in Vigilia / Invigilia
+  polish: w wigilię
+  english: on the eve of the feast
+  forms:
+    in Vigilia: 5
+    In Vigilia: 1
+    Invigilia: 1
+    invigilia: 1
+  count: 8
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-14
+  - app53170koningr153-1
+- latin: proxima / proximo / proxime
+  polish: najbliższy
+  english: the nearest following; 'proxima' agrees with Feria/Dominica, 'proximo' with Sabbato/festum
+  forms:
+    proxima: 41
+    proxime: 13
+    proximo: 6
+    proximis: 3
+    proximae: 1
+  count: 64
+  docs:
+  - app53170koningr153-1
+  - app536040-1
+  - app53170koningr118-23
+- latin: praeterito / praeterita / praeterlapso
+  polish: miniony
+  english: past, last (e.g. anno praeterito = last year)
+  forms:
+    praeterito: 11
+    praeterita: 6
+    praeteriti: 2
+    praeterlapso: 2
+    Praeterita: 1
+  count: 22
+  docs:
+  - app536040-1
+  - app53170koningr117-7
+  - app53170koningr118-13
+- latin: futuro / futuris
+  polish: przyszły
+  english: future, next
+  forms:
+    futuro: 6
+    futurae: 1
+    Futuro: 1
+    futuris: 1
+  count: 9
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-4
+  - app53170koningr118-25
+- latin: Immediate elapso
+  polish: tuż miniony
+  english: immediately past
+  forms:
+    Immediate praeterita: 2
+    Immediate elapso: 2
+    immediate elapso: 2
+    Immediate per: 1
+    Immediate Praeterita: 1
+    Immediate Elapso: 1
+    immediate Petricoviae: 1
+    Immediate praeteriti: 1
+    Immediate condescenderat: 1
+    immediate in: 1
+  count: 13
+  docs:
+  - app53170koningr115-7
+  - app5320pozgr1181-1
+  - app53170koningr117-1
+- latin: hodierna / hodiernum
+  polish: dzisiejszy
+  english: of today (die hodierna)
+  forms:
+    hodierna: 9
+    hodiernam: 4
+    hodiernae: 2
+    hodiernum: 2
+    hodierno: 1
+  count: 18
+  docs:
+  - app53170koningr118-23
+  - app53170koningr153-1
+  - app53150kaliszgr424-1
+- latin: Die ... Mensis ...
+  polish: dnia ... miesiąca
+  english: on the day ... of the month ...
+  forms:
+    Die Decima Mensis: 2
+    Die Secunda Mensis: 2
+    die 10 Mensis: 2
+    Die 30 Mensis: 1
+    Die 16ta Mensis: 1
+    Die Tertio Mensis: 1
+    Die 15 Mensis: 1
+    Die 20ma mensis: 1
+    Die 29 mensis: 1
+    Die Quarta mensis: 1
+    Die 14 Mensis: 1
+    Die Nona Mensis: 1
+    die 18 mensis: 1
+    die 23tia mensis: 1
+    die 27ma mensis: 1
+    die 25ta mensis: 1
+    die 20 mensis: 1
+    die 6ta Mensis: 1
+    die 23 Mensis: 1
+    die 3tia Mensis: 1
+    die 4ta Mensis: 1
+    die 12 Mensis: 1
+    die 17ma mensis: 1
+    die 20 Mensis: 1
+    die 24 Mensis: 1
+    die 16ta Mensis: 1
+    die 27 Mensis: 1
+    die 22da Mensis: 1
+    Die 2da mensis: 1
+    Die 28 mensis: 1
+    Die 10 mensis: 1
+    die 16 mensis: 1
+  count: 35
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  - app536046-1
+- latin: Anno Domini
+  polish: roku Pańskiego
+  english: in the year of the Lord
+  forms:
+    Anno Domini: 49
+    anno Domini: 7
+  count: 56
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr117-1
+  - app53170koningr118-10
+- latin: Millesimo Septingentesimo ...
+  polish: tysiąc siedemset ...
+  english: one thousand seven hundred ... (year written in words)
+  forms:
+    Millesimo Septingentesimo Octuagesimo Tertio In: 3
+    Millesimi Septingentesimi Trigesimi Octavi: 2
+    Millesimo Septingentesimo Septuagesimo primo in: 1
+    Millesimi Septingentesimi Septuagesimi Quinti emanatae: 1
+    Millesimi Septingentesimi Sexagesimi Itidem Petricovien: 1
+    Millesimi Septingentesimi Trigesimi Octavi una: 1
+    Millesimi Septingentesimi Trigesimi Octavi etiam: 1
+    Millesimi Septingentesimi Sexagesimi Corroborato Eodem: 1
+    Millesimo Septingentesimo Octuagesimo Primo uti: 1
+    Millesimi Septingentesimi Trigesimi Octavi et: 1
+    Millesimo Septingentesimo Octuagesimo Secundo Primam: 1
+    Millesimi Septingentesimi Octuagesimi Secundi usque: 1
+    Millesimo Septingentesimo Octuagesimo Sexto In: 1
+    Millesimo Septingentesimo Octuagesimo Octavo: 1
+    Millesimo Septingentesimo Octuagesimo Quarto Praesentibus: 1
+    Millesimo Septingentesimo inter praedictos Magnificos: 1
+    Millesimo Septingentesimo Quarto altera die: 1
+  count: 20
+  docs:
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+- latin: Septimanae
+  polish: tygodnie
+  english: weeks ('in quatuor Septimanis' = within four weeks)
+  forms:
+    septimanis: 5
+    Septimanis: 3
+    Septimanarum: 1
+    septimanae: 1
+    septimanarum: 1
+  count: 11
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-2
+  - app53170koningr118-10
+- latin: 7bris
+  polish: wrzesień
+  english: September (7th month by Roman count)
+  forms:
+    7bris: 5
+  count: 5
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr118-24
+- latin: 8bris
+  polish: październik
+  english: October
+  forms:
+    8bris: 10
+  count: 10
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app536046-1
+- latin: 9bris
+  polish: listopad
+  english: November
+  forms:
+    9bris: 5
+  count: 5
+  docs:
+  - app53170koningr153-1
+  - app53170koningr118-8
+- latin: Xbris
+  polish: grudzień
+  english: December
+  forms:
+    Xbris: 2
+    10bris: 1
+  count: 3
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+- latin: Januarii
+  polish: stycznia
+  english: January
+  forms:
+    Januarii: 7
+    Januarij: 1
+  count: 8
+  docs:
+  - app53170koningr153-1
+  - app53170koningr115-10
+  - app53170koningr117-11
+  note: genitive after Mensis
+- latin: Februarii
+  polish: lutego
+  english: February
+  forms:
+    Februarii: 4
+  count: 4
+  docs:
+  - app53170koningr115-8
+  - app53170koningr116-8
+  - app53170koningr117-6
+  note: genitive after Mensis
+- latin: Martii
+  polish: marca
+  english: March
+  forms:
+    Martii: 14
+  count: 14
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr117-1
+  note: genitive after Mensis
+- latin: Aprilis
+  polish: kwietnia
+  english: April
+  forms:
+    Aprilis: 2
+  count: 2
+  docs:
+  - app53170koningr117-7
+  - app53170koningr118-12
+  note: genitive after Mensis
+- latin: Maii
+  polish: maja
+  english: May
+  forms:
+    Maii: 5
+  count: 5
+  docs:
+  - app53170koningr119-5
+  - app53170koningr153-1
+  - app53170koningr118-15
+  note: genitive after Mensis
+- latin: Junii
+  polish: czerwca
+  english: June
+  forms:
+    Junii: 13
+  count: 13
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr118-14
+  note: genitive after Mensis
+- latin: Julii
+  polish: lipca
+  english: July
+  forms:
+    Julii: 4
+  count: 4
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr136-1
+  note: genitive after Mensis
+- latin: Augusti
+  polish: sierpnia
+  english: August
+  forms:
+    Augusti: 6
+  count: 6
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr116-2
+  - app53170koningr118-19
+  note: Augusti is also the genitive of the king's name (Stanislai Augusti)
+- latin: Septembris
+  polish: września
+  english: September
+  forms:
+    Septembris: 3
+  count: 3
+  docs:
+  - app53150kaliszgr425-1
+  - app53170koningr118-23
+  - app53170koningr119-8
+  note: genitive after Mensis
+- latin: Octobris
+  polish: października
+  english: October
+  forms:
+    Octobris: 9
+  count: 9
+  docs:
+  - app53170koningr118-13
+  - app53150kaliszgr424-1
+  - app53170koningr116-6
+  note: genitive after Mensis
+- latin: Novembris
+  polish: listopada
+  english: November
+  forms:
+    Novembris: 4
+  count: 4
+  docs:
+  - app53150kaliszgr424-1
+  - app53170koningr118-14
+  - app53170koningr119-3
+  note: genitive after Mensis
+- latin: Decembris
+  polish: grudnia
+  english: December
+  forms:
+    Decembris: 4
+    decembris: 1
+  count: 5
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr118-26
+  note: genitive after Mensis
+- latin: Ordinal days (1ma, 2da, 3tia, 4ta, 5ta, 6ta, 7ma, 8va, 20ma, 27ma ...)
+  polish: numer porządkowy
+  english: '''ma, da, tia, ta, va, na'' = ordinal ending of the numeral (primo/secundo/tertio...) agreeing with ''die'': 18va = decima octava; '' 2da'' = secunda'
+  forms:
+    2da: 32
+    4ta: 12
+    5ta: 8
+    3tia: 6
+    6ta: 5
+    27ma: 3
+    16ta: 2
+    23tia: 2
+    1mum: 2
+    3tium: 2
+    4tum: 2
+    5tum: 2
+    6tum: 2
+    7mum: 2
+    9num: 2
+    10mum: 2
+    12mum: 2
+    14tum: 2
+    15tum: 2
+    16tum: 2
+    17mum: 2
+    19num: 2
+    20mum: 2
+    21mum: 2
+    22dum: 2
+    23tium: 2
+    24tum: 2
+    25tum: 2
+    26tum: 2
+    27mum: 2
+    30mum: 2
+    31mum: 2
+    4to: 2
+    5to: 2
+    26to: 2
+    1ma: 1
+    7ma: 1
+    20ma: 1
+    18va: 1
+    25ta: 1
+    30na: 1
+    8um: 1
+    13tium: 1
+    18mum: 1
+    11mum: 1
+    13tum: 1
+    29num: 1
+    32dum: 1
+    33tium: 1
+    34tum: 1
+    35tum: 1
+    36tum: 1
+    37mum: 1
+    38um: 1
+    39num: 1
+    40mum: 1
+    41mum: 1
+    4tium: 1
+    17ma: 1
+    6to: 1
+    1mo: 1
+    2va: 1
+    22da: 1
+    17mo: 1
+  count: 153
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+money_measures:
+- latin: florenus Polonicalis (fp, fl.)
+  polish: złoty polski (zł, flp)
+  english: Polish florin (złoty = 30 groszy)
+  forms:
+    fp: 90
+    fl.: 7
+    flor~: 4
+    florenorum: 2
+    florinorum: 1
+  count: 104
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  - app5321pyzdrygr75-1
+  shows: In the Poznań decree 1181 the sums are given in fp with 'fl. g~ n Polonicalium' = florins and groschen of Polish money; in 153-1 'florinorum grosorum quatuordecim Polonicalium' = florins and 14
+    groschen
+  note: fp = florenorum Polonicalium (Polish florins); 'fl. g~ 10' = 10 florins ... groschen
+- latin: florenus Hungaricalis (Hungaricalium)
+  polish: dukat węgierski (złoty węgierski)
+  english: Hungarian florin (gold ducat)
+  forms:
+    florenorum Hungaricalium puri auri: 1
+  count: 1
+  docs:
+  - app536017-1
+  shows: '536017-1: damages of ''Decem millia florenorum Hungaricalium puri auri et iusti ponderis'' (ten thousand Hungarian florins of pure gold) -- the old Hungarian gulden = gold ducat; glossary: ducat;
+    also the ''et totidem damni'' (as much again in damages)'
+  note: the 17th-century formula in 1589
+- latin: grossus (g~)
+  polish: grosz
+  english: groschen (1/30 of a Polish florin)
+  forms:
+    g~ 10: 4
+    g~: 2
+    grossorum: 2
+    g~ 20: 2
+    g~ 5: 2
+    g~ 24: 2
+    grosorum: 1
+    grossu: 1
+    G~ 20: 1
+    g~ 6: 1
+    g~ 4: 1
+    grossos: 1
+    G~: 1
+    g~ 15: 1
+    Grossorum: 1
+  count: 23
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  - app5321pyzdrygr75-1
+  shows: '1181: ''grossorum undecem cum medio'' = 11 and a half groschen; Pyzdry Gr.75: ''Grossorum Tredecim'' = 13 groschen; glossary: groschen'
+- latin: marca (marcarum Polonicalium)
+  polish: grzywna
+  english: mark (Polish grzywna; a unit of account)
+  forms:
+    marcarum Polonicalium: 6
+    marcis: 3
+    Marcas: 2
+    Marcarum Polonicalium: 1
+    Marcis: 1
+    marcarum: 1
+  count: 14
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr119-5
+  shows: '119-5 and 153-1: fines set in ''marcarum Polonicalium'' (Polish marks), ''marcarum'' of a fine for the party; glossary: grzywna'
+  note: in 153-1 'marcarum Polonicalium' set as fine/costs
+- latin: imperialis (Imperialium)
+  polish: talar (tymf?) / złoty cesarski
+  english: imperial (thaler)
+  forms:
+    Imperialium: 1
+  count: 1
+  docs:
+  - app5321pyzdrygr75-1
+  shows: 'Pyzdry Gr.75-1: ''Mille Quinquaginta Trium Imperialium Grossorum Tredecim Fenicorum sex'' = 1,053 imperials, 13 groschen and 6 pfennigs (a sum in thalers/imperials for timber; the edition translates
+    it as imperials)'
+  sure: 'no'
+- latin: fenicus (Fenicorum)
+  polish: fenig
+  english: pfennig (penny)
+  forms:
+    Fenicorum: 1
+  count: 1
+  docs:
+  - app5321pyzdrygr75-1
+  shows: Pyzdry Gr.75-1, sum of 6 pfennigs after the groschen
+  sure: 'no'
+- latin: Polonicalis / Polonicales
+  polish: polski
+  english: 'Polish (money): florins/marks ''Polonicalium'' = Polish currency'
+  forms:
+    Polonicalium: 22
+    Pol~: 6
+    Polon~: 6
+    Polonicales: 2
+  count: 36
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr153-1
+  - app53170koningr119-5
+  shows: the standard adjective after florenorum/marcarum/grossorum; e.g. 1181 'fl. g~ 10 Polonicalium'
+- latin: summa (millium, mille)
+  polish: suma (tysiąc)
+  english: sum; 'millium' = of thousands
+  forms:
+    millium: 72
+    Millium: 26
+    mille: 10
+    Mille: 4
+  count: 112
+  docs:
+  - app5320pozgr1181-1
+  - app5321pyzdrygr75-1
+  - app53170koningr153-1
+  shows: '1181: ''Quadraginta millium fp'' = 40,000 florins; large sums owed on the Prusimski/Golińska estates'
+- latin: pertica
+  polish: pręt
+  english: rod (a unit of length for the boundary line)
+  forms:
+    perticarum: 7
+    perticis: 2
+    perticas: 1
+  count: 10
+  docs:
+  - app53170koningr153-1
+  shows: '153-1: the geometer''s line measured ''perticis decem quaevis'' - ten rods, each of eight and a half ells'
+- latin: cubitus
+  polish: łokieć
+  english: ell (cubit)
+  forms:
+    cubitus: 1
+    cubitos: 1
+  count: 2
+  docs:
+  - app53170koningr153-1
+  shows: '153-1: ''cubitus semi octo'' = eight and a half ells per rod; ''cubitos quadratos'' for the base of the kopiec'
+- latin: sexagena (sexagenae)
+  polish: kopa (sześćdziesiąt)
+  english: 'sixty (a ''kopa'': 60 pieces)'
+  forms:
+    sexagenas: 1
+  count: 1
+  docs:
+  - app536040-1
+  shows: '536040-1: ''Szkudeł centum sexagenas'' = shingles/tiles of 100 kopas (6,000 pieces) burnt in a fire'
+  sure: 'no'
+- latin: vadium (capitale)
+  polish: wadium
+  english: bail/penalty (deposit)
+  forms:
+    vadium: 6
+    vadiorum: 3
+    vadio: 3
+    vadialis: 1
+    vadioque: 1
+    vadii: 1
+  count: 15
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr118-19
+  shows: '153-1: ''vadium capitale duplex'' / ''simplex'' = the fine set by the decree, doubled for breach; 1181: ''vadio quadraginta septem'' mill. = a 47,000 pledge'
+  note: vadium is a bail or forfeit (wadium)
+legal_terms:
+- latin: recognovit (Recognoscens)
+  polish: oświadczył / zeznał (uznał)
+  english: acknowledged / declared before the court
+  forms:
+    Recognovit: 24
+    recognita: 5
+    recognoscentem: 4
+    Recognitam: 2
+    recognitae: 2
+    Recognitae: 2
+    recognovit: 2
+    recognitas: 2
+    recognitam: 2
+    Recognoscentem: 2
+    recognoscenti: 2
+    Recognoverunt: 1
+    Recognita: 1
+    recognitione: 1
+    recognitis: 1
+    recognoscentis: 1
+    recognoscente: 1
+  count: 55
+  docs:
+  - app5321pyzdrygr75-1
+  - app5320pozgr1181-1
+  - app53170koningr118-20
+  note: '''Recognovit Quia ...'' opens the messenger''s sworn report in the Konin entries'
+- latin: manifestatur / manifestatio
+  polish: manifestacja; zaprotestowanie (manifestuje)
+  english: formal declaration or protest entered in the court book (a complaint 'manifested' against someone)
+  forms:
+    Manifestatur: 21
+    Manifestans: 10
+    manifestationem: 10
+    Manifestantis: 9
+    Manifestationem: 7
+    Manifestatio: 6
+    Manifestantem: 6
+    manifestationis: 6
+    Manifestatione: 4
+    Manifestationis: 4
+    Manifestur: 3
+    Manifestationibus: 3
+    manifestatione: 3
+    Manifestanti: 2
+    Manifestationi: 2
+    Manifestante: 2
+    manifestationi: 2
+    Manifestantur: 1
+    manifestantem: 1
+    Manifestationes: 1
+    manifestantis: 1
+    Manifestationum: 1
+    Manifestantowi: 1
+    manifestu: 1
+    manifestatio: 1
+    Manifeste: 1
+    manifestationum: 1
+  count: 110
+  docs:
+  - app53170koningr117-3
+  - app53170koningr118-19
+  - app53170koningr153-1
+  note: Manifestans = the person lodging the manifestation (complainant)
+- latin: cessit contulit transposuit transtulit et transfudit
+  polish: scedował, przeniósł, przelał
+  english: assigned, conferred, transferred (the formula of an assignment of a debt)
+  forms:
+    contulit: 4
+    cessorum: 2
+    cessi: 2
+    Cessare: 1
+    cessisse: 1
+    cessam: 1
+    cessasse: 1
+    cessit: 1
+    transposuit: 1
+    transtulit: 1
+    transfudit: 1
+    transponit: 1
+    transfert: 1
+    transfundit: 1
+  count: 19
+  docs:
+  - app5321pyzdrygr75-1
+  - app5320pozgr1181-1
+  - app53150kaliszgr424-1
+  glossary: cession
+  note: used in Pyzdry Gr.75-1 (Tracholz's transfer to Chełmski); transfusio = the assignment itself (Transfusione, Transfusae)
+- latin: citatio / citare
+  polish: pozew; pozwać
+  english: summons; to summon (cite) to court
+  forms:
+    Citationis: 9
+    Citatum: 4
+    citatum: 4
+    Citant: 3
+    Citatione: 3
+    citationem: 2
+    Citatus: 2
+    Citati: 2
+    citatis: 2
+    cittorum: 2
+    Citata: 2
+    citatae: 2
+    Cittationi: 1
+    Citationes: 1
+    Citationum: 1
+    Citato: 1
+    citationes: 1
+    citato: 1
+    Cittati: 1
+    cittavit: 1
+    Citatae: 1
+    Citatam: 1
+    Citatos: 1
+    Citationem: 1
+    Citatorum: 1
+    citatione: 1
+    citationis: 1
+    citatam: 1
+    citatos: 1
+  count: 54
+  docs:
+  - app536017-1
+  - app536036-1
+  - app53170koningr153-1
+  note: Citatus = defendant; Citans = the plaintiff who summons; the clerk doubles the t (Cittatio)
+- latin: comparere (Compareas, comparitio)
+  polish: stawić się (stawiennictwo)
+  english: to appear in person (comparitio = personal appearance)
+  forms:
+    Comparitione: 7
+    Compareas: 6
+    comparitionem: 6
+    Compareatis: 5
+    comparitione: 4
+    Comparitionem: 3
+    Comparens: 2
+    comparente: 2
+    comparata: 2
+    Comparentem: 1
+    comparandam: 1
+    comparuerit: 1
+    comparatam: 1
+    comparentibus: 1
+    Comparendem: 1
+    comparentem: 1
+    Comparentes: 1
+    comparentium: 1
+    compareant: 1
+  count: 47
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr118-13
+  note: '''personaliter ac peremptorie Compareas'' = appear in person and finally, on the day set (on pain of default)'
+- latin: condescensio
+  polish: kondescensja (zjazd sądu na miejsce)
+  english: 'the court''s going out to the spot: the judges'' site inspection'
+  forms:
+    Condescensionis: 17
+    Condescenderat: 7
+    Condescensionem: 6
+    Cond~nis: 6
+    Condescensoriale: 5
+    Condescensorialis: 5
+    condescensionis: 4
+    condescensoriali: 4
+    condescensorialia: 4
+    condescensionem: 4
+    Conds~nis: 3
+    condescendit: 3
+    Condescendit: 2
+    Condescensorialem: 2
+    Condescensoriali: 2
+    Condescencionis: 1
+    Condsnis~: 1
+    Condescensionum: 1
+    Cond~snis: 1
+    Condnis~: 1
+    Condro~: 1
+    Condescenderet: 1
+    Condescensurum: 1
+    condescenderat: 1
+    condescensioneque: 1
+    condescensorialem: 1
+    condescensorialibus: 1
+    condescensionum: 1
+    condescensoriale: 1
+    Condescensorialia: 1
+    Condescenderunt: 1
+    Condescenionis: 1
+    Condescensuri: 1
+  count: 92
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-8
+  - app53170koningr118-14
+  note: Condescensorialis = of the going-out; Terminus Condescensionis = the day of the court's visit to the spot; see abbreviations list for ~-forms
+- latin: oblata / oblatuatum
+  polish: oblata; wniesiony do akt
+  english: presented, entered into the record (oblata = a document delivered and entered in the books)
+  forms:
+    Oblata: 14
+    oblatam: 4
+    Offerendo: 4
+    oblata: 3
+    obtulit: 3
+    Oblatam: 3
+    oblatuato: 3
+    Oblatae: 2
+    oblatuata: 2
+    oblatuatum: 2
+    obtulisse: 2
+    oblatae: 1
+    offerre: 1
+    offerendo: 1
+    Oblatuato: 1
+    Oblatuatis: 1
+    offert: 1
+    oblatuatae: 1
+    obtulerunt: 1
+    oblatuatam: 1
+    offerentia: 1
+  count: 52
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app536046-1
+  note: '''ad Acta oblatum'' = entered in the court''s books; Oblatuatum is the clerk''s variant'
+- latin: relatio
+  polish: relacja (sprawozdanie woźnego)
+  english: report (the messenger's report on a summons or inspection)
+  forms:
+    Relatio: 52
+    Relationem: 6
+    Relationum: 3
+    Relationis: 3
+    Relationes: 2
+    relationis: 1
+    relatio: 1
+  count: 68
+  docs:
+  - app53170koningr119-3
+  - app53170koningr118-26
+  - app53150kaliszgr424-1
+  glossary: wozny
+  note: Relationes protocollon = the court's books of such reports
+- latin: inscriptio (Regestrum et Inscriptio)
+  polish: wpis do ksiąg
+  english: entry in the court register
+  forms:
+    Inscriptione: 4
+    Regestro: 4
+    Regestris: 2
+    Regestrum: 2
+    inscribendam: 2
+    Regro: 1
+    Regro~: 1
+    Regestri: 1
+    Inscriptiones: 1
+    inscribat: 1
+    inscriptionem: 1
+    inscripto: 1
+    inscripta: 1
+    Inscriptam: 1
+    inscripisse: 1
+    regestris: 1
+  count: 25
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-13
+  - app53170koningr153-1
+  note: '''ex Regro et Inscriptione'' = from the register and entry (from the cause list)'
+- latin: decernit / decretum
+  polish: dekretuje; dekret
+  english: decrees; decree
+  forms:
+    Decreti: 44
+    Decretum: 43
+    Decreto: 33
+    decreti: 33
+    decretum: 21
+    decreto: 21
+    Decretis: 15
+    decerni: 9
+    Decreta: 8
+    Decretorum: 6
+    decernit: 4
+    decretis: 3
+    decreta: 3
+    Decernit: 3
+    decernendo: 2
+    Decerni: 1
+    decretorum: 1
+    decretoque: 1
+    decrevit: 1
+    decernet: 1
+    decernendis: 1
+    decernitur: 1
+    decretam: 1
+    Decernendo: 1
+    Decernet: 1
+  count: 258
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-8
+  - app53170koningr118-23
+  glossary: decret
+- latin: reponere (reposuit, reponit)
+  polish: złożyć; odpowiedzieć
+  english: to lodge / put in (a plea), to answer
+  forms:
+    reposita: 3
+    repositionem: 3
+    reposuit: 2
+    reposuerat: 2
+    repositam: 2
+    repositis: 2
+    repositione: 1
+    repositae: 1
+    reponit: 1
+    reponitur: 1
+    reponentibus: 1
+    repositas: 1
+    reposuisse: 1
+    reponendo: 1
+    reposuerunt: 1
+  count: 23
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app53170koningr117-7
+  note: '''in Termino ... reposuit'' = he entered his plea at the day; ''reponit'' can also mean ''puts back / rejects'''
+  sure: 'no'
+- latin: remissio (remittere)
+  polish: odesłanie sprawy
+  english: referral of a case to another court (e.g. from the land court to the Tribunal)
+  forms:
+    Remissionis: 15
+    remissionis: 3
+    Remitti: 3
+    Remissionem: 3
+    remissa: 2
+    remissione: 2
+    Remissione: 1
+    Remissio: 1
+    remissionem: 1
+    remissam: 1
+    remittitur: 1
+  count: 33
+  docs:
+  - app53170koningr117-8
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  note: Remissionis Causae ad Tribunal = remand to the Tribunal; Decretum Remissionis
+- latin: banitio / bannitio
+  polish: banicja (wyrok wygnania)
+  english: 'ban: the penalty of outlawry / banishment (sub paena banitionis)'
+  forms:
+    bannitionis: 7
+    banitionis: 2
+    Banitionum: 1
+  count: 10
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr153-1
+  - app536040-1
+  note: paena bannitionis = under pain of the ban
+- latin: visio
+  polish: wizja (oględziny)
+  english: view; the judicial site inspection of damage or a boundary
+  forms:
+    Visio: 9
+    Visionis: 5
+    Visione: 3
+    Visionem: 3
+    visione: 2
+    visionem: 1
+    Visioni: 1
+    visionis: 1
+  count: 25
+  docs:
+  - app536017-1
+  - app53170koningr153-1
+  - app53170koningr114-1
+  note: e.g. 'Aggeris Visio' = the inspection of the dike; 'Visionem Juridicam' decreed in 536017-1
+- latin: statuitio (Statuitionem hominum)
+  polish: wprowadzenie w posiadanie (stawianie ludzi)
+  english: putting men into possession / setting them (settlers) on the land
+  forms:
+    Statui: 5
+    statuit: 3
+    Statuti: 2
+    Statuitionem: 2
+    statuere: 2
+    status: 2
+    Statuas: 1
+    Statuum: 1
+    Statutionem: 1
+    statutione: 1
+    statuendum: 1
+    statutum: 1
+    statum: 1
+    statuitionem: 1
+    statuitionis: 1
+  count: 25
+  docs:
+  - app53170koningr119-7
+  - app536047-1
+  - app5320pozgr1181-1
+  sure: 'no'
+- latin: extraditio (extradere)
+  polish: wydanie (dokumentu)
+  english: handing over (a document) to the party
+  forms:
+    extradere: 5
+    Extraditionis: 3
+    extradendas: 2
+    extradendorum: 1
+    Extradendorum: 1
+    extradique: 1
+    Extraditionem: 1
+    extraditis: 1
+    extradita: 1
+    extraditione: 1
+    extraditam: 1
+  count: 18
+  docs:
+  - app53170koningr121-1
+  - app53170koningr117-8
+  - app536040-1
+- latin: executio (executivus)
+  polish: egzekucja
+  english: enforcement of a decree
+  forms:
+    Executionem: 4
+    executivo: 3
+    executione: 2
+    Executores: 1
+    Executione: 1
+    Executiva: 1
+    executae: 1
+    executionemque: 1
+    executioni: 1
+    executionis: 1
+    executioneque: 1
+    executio: 1
+    executiis: 1
+    execundo: 1
+    executi: 1
+    executores: 1
+  count: 22
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app536047-1
+  glossary: execution
+- latin: quietatio / quietatus
+  polish: pokwitowanie
+  english: 'discharge, receipt: the office is ''quieted'' (acknowledged as having received)'
+  forms:
+    Quietatus: 2
+    quietationibus: 2
+    quietatione: 2
+    quietavit: 1
+    Quietatio: 1
+    quietationem: 1
+    quietantur: 1
+    Quietatione: 1
+  count: 11
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr117-11
+  - app53170koningr115-5
+  note: '''de receptis Officium quietatus est'' = the office gave a receipt for what was handed over'
+- latin: contumacia
+  polish: zaoczność
+  english: contumacy (failure to appear)
+  forms:
+    contumacialiter: 3
+    contumacia: 2
+    Contumaciam: 1
+    Contumaciae: 1
+    contumaciae: 1
+  count: 8
+  docs:
+  - app53170koningr153-1
+  - app53170koningr116-8
+  - app5320pozgr1181-1
+- latin: paena (paenalitas)
+  polish: kara
+  english: penalty, punishment (paena = poena)
+  forms:
+    paena: 14
+    paenas: 12
+    paenis: 10
+    paenalium: 6
+    paenam: 5
+    paenarum: 2
+    paenisque: 1
+    paenasque: 1
+    Paenis: 1
+    paenalitatemque: 1
+    paenalitate: 1
+    paenalitti: 1
+  count: 55
+  docs:
+  - app53170koningr153-1
+  - app536040-1
+  - app536017-1
+- latin: appellatio
+  polish: apelacja
+  english: appeal
+  forms:
+    appellatione: 2
+  count: 2
+  docs:
+  - app53170koningr153-1
+  - app536040-1
+- latin: protestari
+  polish: protest
+  english: to protest
+  forms:
+    protestationum: 2
+    Protestatur: 1
+    protestaturque: 1
+    protestationi: 1
+  count: 5
+  docs:
+  - app536040-1
+  - app53170koningr115-9
+  - app53170koningr117-12
+- latin: requisitio (requirere)
+  polish: rekwizycja (żądanie)
+  english: a formal request for a document or extract from the court's books
+  forms:
+    Requisitionem: 13
+    requisitionem: 5
+    Requisivit: 5
+    Requisitioni: 4
+    Requisitio: 4
+    requisivit: 2
+    requisitioni: 2
+    requisitio: 2
+    Requisiverunt: 1
+    requisitionis: 1
+    requisito: 1
+    requisitione: 1
+    requisitionibus: 1
+    requisitus: 1
+    Requisitionesque: 1
+  count: 44
+  docs:
+  - app53170koningr116-8
+  - app53170koningr153-1
+  - app53170koningr118-20
+- latin: extractus
+  polish: wyjątek / wypis
+  english: an extract from the court records
+  forms:
+    Extractus: 3
+    extractas: 1
+    extracta: 1
+    extractu: 1
+  count: 6
+  docs:
+  - app53170koningr115-7
+  - app53170koningr116-1
+  - app5320pozgr1181-1
+- latin: acticare
+  polish: wciągnąć do akt
+  english: to enter in the record
+  forms:
+    acticandum: 2
+    Acticandum: 1
+    Acticatae: 1
+  count: 4
+  docs:
+  - app53150kaliszgr425-1
+  - app53150kaliszgr414-1
+  - app53170koningr153-1
+- latin: actor / citatus
+  polish: powód / pozwany
+  english: plaintiff / defendant
+  forms:
+    Actt~: 33
+    Actoris: 18
+    Actorem: 8
+    Acto~: 7
+    Actori: 6
+    actorum: 5
+    actorem: 5
+    actoreae: 5
+    Citatum: 4
+    actoris: 4
+    actoratum: 4
+    citatum: 4
+    actoribus: 4
+    Actoratus: 3
+    actore: 3
+    Actor: 3
+    actores: 3
+    Actoreae: 3
+    Actoratum: 2
+    actori: 2
+    Citatus: 2
+    Actore: 2
+    actt~: 2
+    Actoratu: 1
+    Citato: 1
+    actoratu: 1
+    citato: 1
+    actorea: 1
+    Actoream: 1
+    Citatos: 1
+    Citatorum: 1
+    actoream: 1
+    citatos: 1
+    actoratibus: 1
+  count: 143
+  docs:
+  - app53170koningr117-8
+  - app5320pozgr1181-1
+  - app53170koningr118-23
+- latin: impetratus / impetitio
+  polish: pozwany
+  english: defendant (impetrated); Impetitio = the claim made against him
+  forms:
+    Impetitione: 2
+    impetratos: 1
+    impetrati: 1
+    Impetratus: 1
+    impetitione: 1
+  count: 6
+  docs:
+  - app53170koningr117-4
+  - app53170koningr118-23
+  - app5320pozgr1181-1
+- latin: gravaminosus
+  polish: poszkodowany (gravamen = zażalenie)
+  english: aggrieved; a complaint (gravamen = grievance)
+  forms:
+    gravaminose: 5
+    gravaminosis: 3
+    Gravaminosis: 2
+    gravaminibus: 2
+    Gravaminosi: 1
+    Gravaminosos: 1
+    Gravamine: 1
+    gravamina: 1
+  count: 16
+  docs:
+  - app53170koningr117-2
+  - app53170koningr118-23
+  - app536036-1
+  note: '''Judicibus Gravaminosis'' = the judges against whom the complaint is made'
+- latin: innotescentia
+  polish: innotescencja (zawiadomienie)
+  english: a formal notice entered into the books of a party's rights
+  forms:
+    Innotescentialium: 3
+    Innotescentia: 1
+    Innotescentiis: 1
+  count: 5
+  docs:
+  - app53170koningr116-2
+  - app53170koningr118-19
+- latin: praejudicium
+  polish: przedsąd / uszczerbek
+  english: prejudice, damage to rights
+  forms:
+    praejudiciosum: 1
+    praejudicatis: 1
+    praejudicatorum: 1
+    praejudiciosis: 1
+    praejudiciorum: 1
+  count: 5
+  docs:
+  - app53170koningr118-23
+  - app53170koningr153-1
+  - app53170koningr117-12
+- latin: sententiari
+  polish: być osądzonym
+  english: 'to be adjudged: ''Statui decerni et Sententiari'' = to be set down, decreed and sentenced'
+  forms:
+    Sententiari: 6
+    sententia: 3
+    sententiat: 2
+    sententiam: 2
+    Sententiis: 1
+    sententiatione: 1
+  count: 15
+  docs:
+  - app53170koningr153-1
+  - app53170koningr118-23
+  - app53170koningr117-2
+- latin: jus / juramentum
+  polish: prawo / przysięga
+  english: law / oath
+  forms:
+    Juramentum: 4
+    jurato: 4
+    juramento: 3
+    juramentum: 3
+    jurati: 2
+    Jurato: 2
+    juratum: 2
+    juratos: 2
+    Juratus: 1
+    Juramento: 1
+    Juratum: 1
+    juratoria: 1
+    juramenta: 1
+    Juratoriam: 1
+    juratorias: 1
+    juratis: 1
+    juramenti: 1
+    Juramenta: 1
+    Juramentho: 1
+    Juramenthi: 1
+    Juramenthum: 1
+    juratoreae: 1
+  count: 36
+  docs:
+  - app53170koningr153-1
+  - app5320pozgr1181-1
+  - app536047-1
+- latin: jurisdator (Juris datore)
+  polish: poręczyciel prawa (cedent)
+  english: warrantor / the one who gave the right (assignor)
+  forms:
+    Jurisdatore: 2
+    jurevincentis: 1
+  count: 3
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr117-3
+  - app53170koningr117-8
+- latin: terminus (termino)
+  polish: termin
+  english: term, appointed day for a hearing
+  forms:
+    Termino: 39
+    Terminum: 19
+    termino: 15
+    Termini: 5
+    Terminis: 3
+    terminis: 3
+    terminum: 3
+    termini: 3
+    Terminorum: 2
+    terminorum: 2
+    Terminie: 1
+    Terminalitate: 1
+    Terminos: 1
+    Terminus: 1
+    terminosque: 1
+    terminos: 1
+  count: 100
+  docs:
+  - app536040-1
+  - app53170koningr153-1
+  - app53170koningr117-9
+  glossary: term-days
+  note: Terminus Condescensionis = the hearing on the spot
+- latin: granicialis (graniciale)
+  polish: graniczny
+  english: of the boundary (Camerarius granicialis = boundary komornik)
+  forms:
+    Granitialis: 10
+    Granicialis: 10
+    Granicialem: 6
+    Granitiale: 3
+    Graniciali: 3
+    granicialem: 3
+    Granitialem: 2
+    graniciali: 2
+    graniciale: 2
+    Graniczny: 1
+    Granicę: 1
+    Granitt~: 1
+    Graniciale: 1
+    Granicy: 1
+    Granicznym: 1
+    Granicznemi: 1
+    Granicznych: 1
+    Granicialum: 1
+    granicami: 1
+    granicom: 1
+    granicialium: 1
+  count: 53
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-6
+  - app53150kaliszgr425-1
+- latin: campestris
+  polish: polowy
+  english: '''of the field'': the field commission or decree made on the ground (Decretum Campestre)'
+  forms:
+    Campestre: 5
+    campestrium: 5
+    campestria: 5
+    campestris: 5
+    Campestris: 4
+    campestri: 4
+    Campestrem: 3
+    Campestri: 2
+    campestrem: 2
+    Campum: 1
+    Campestres: 1
+    Campestribus: 1
+    campestre: 1
+  count: 39
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-4
+  - app53170koningr118-19
+- latin: dislimitatio / limitatio
+  polish: rozgraniczenie
+  english: boundary-marking (delimitation) or the fixing of limits
+  forms:
+    Limitationis: 4
+    dislimitatione: 3
+    limitum: 3
+    dislimitationem: 2
+    dislimitationis: 2
+    limites: 2
+    dislimitari: 1
+    Limitationem: 1
+    Dislimitationis: 1
+    limitationis: 1
+    limitatione: 1
+  count: 21
+  docs:
+  - app53170koningr153-1
+  - app53150kaliszgr425-1
+  - app5320pozgr1181-1
+- latin: scopulus
+  polish: kopiec (znak graniczny)
+  english: boundary mound or marker (scopulus = kopiec)
+  forms:
+    scopulorum: 22
+    scopulos: 13
+    scopulis: 3
+    scopulum: 3
+    scopulo: 2
+    Scopulorum: 2
+    scopuli: 2
+    Scopulosque: 1
+    Scopulo: 1
+    scopularum: 1
+  count: 50
+  docs:
+  - app53170koningr153-1
+  - app53170koningr117-5
+  - app53170koningr118-28
+  glossary: kopiec
+- latin: compensatio
+  polish: kompensata
+  english: set-off, compensation
+  forms:
+    compensanda: 3
+    Compensandem: 1
+    Compensanda: 1
+    compensatam: 1
+    compensatum: 1
+  count: 7
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-14
+  - app53170koningr119-2
+- latin: evictio
+  polish: ewikcja
+  english: eviction / loss of a thing from a better title
+  forms:
+    evictorum: 1
+    evictionem: 1
+    evictionis: 1
+    evictione: 1
+  count: 4
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+- latin: praesentatio
+  polish: przedstawienie / złożenie
+  english: the presentation (of a thing or document) before the court
+  forms:
+    Praesentatio: 2
+    praesentavit: 2
+    praesentata: 1
+    Praesentationem: 1
+  count: 6
+  docs:
+  - app53170koningr121-1
+  - app53170koningr115-5
+  - app53170koningr117-11
+- latin: satisfactio
+  polish: zadośćuczynienie
+  english: satisfaction, compensation to the plaintiff
+  forms:
+    satisfactionem: 3
+    Satisfactionem: 2
+    satisfactorio: 1
+    satisfactione: 1
+    satisfactionis: 1
+  count: 8
+  docs:
+  - app53170koningr153-1
+  - app53170koningr118-14
+  - app53170koningr120-2
+- latin: involutio (Involutio Causae)
+  polish: wplątanie / pomieszanie sprawy
+  english: muddling / entangling of the case
+  forms:
+    involutionem: 3
+    Involutionem: 2
+    Involutionis: 1
+  count: 6
+  docs:
+  - app53170koningr116-4
+  - app53170koningr117-2
+  - app53170koningr117-8
+- latin: instantia (ad Instantiam)
+  polish: na żądanie
+  english: at the suit / request of
+  forms:
+    Instantiam: 23
+    instantiam: 2
+    Instantiae: 2
+    instantia: 1
+  count: 28
+  docs:
+  - app53150kaliszgr414-1
+  - app53170koningr120-2
+  - app53170koningr136-1
+- latin: peremptorie (peremptorius)
+  polish: ostatecznie
+  english: finally, conclusively (on the last day set)
+  forms:
+    peremptorie: 5
+    peremptorieque: 3
+    peremptorium: 1
+  count: 9
+  docs:
+  - app53170koningr117-1
+  - app53170koningr118-14
+  - app53170koningr119-1
+- latin: assa / massa substantiarum
+  polish: masa majątkowa
+  english: the mass of the estate (estate left)
+  forms:
+    substantiae: 7
+    substantiarum: 4
+    substantiam: 3
+    Substantiam: 3
+    Substantiae: 3
+    massas: 2
+    substantia: 2
+    Massa: 1
+    substantias: 1
+  count: 26
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr117-3
+  - app53170koningr118-23
+- latin: Tribunal / Regni Tribunal
+  polish: Trybunał Koronny
+  english: Crown Tribunal (Piotrków for Greater Poland); the appeal court
+  forms:
+    Tribunalis: 35
+    Tribunal: 21
+    tribunalis: 20
+    Tribunalio: 14
+    Tribunalii: 12
+    tribunalium: 11
+    Tribunalium: 8
+    Tribunalitii: 4
+    Tribunali: 3
+    Tribunalia: 3
+    tribunalii: 3
+    Tribunalibus: 2
+    Tribunaliis: 2
+    Tribunalitium: 2
+    Tribunalitio: 2
+    Tribunalitiorum: 1
+    Tribunalitiis: 1
+    Tribunalitatis: 1
+    tribunalitii: 1
+  count: 146
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr118-17
+  - app53170koningr153-1
+  note: here Petricoviensis (Piotrków) Tribunal; Trybunał Koronny
+- latin: Acta Castrensia (Castrensis)
+  polish: akta grodzkie
+  english: municipal court records (the edition's translation; Latin castrensis, Polish grodzki)
+  forms:
+    Castrensis: 47
+    Castrensia: 40
+    Castren~: 14
+    Castrensibus: 7
+    Castrensem: 4
+    castrense: 2
+    Castrensen: 2
+    Castrense: 1
+    castrensia: 1
+  count: 118
+  docs:
+  - app5320pozgr1181-1
+  - app53150kaliszgr414-1
+  - app53170koningr116-8
+  glossary: grod
+  note: the edition writes 'municipal court' for iudicium castrense; the land court (Terrestre) stays 'land court'
+- latin: Terrestris (Judicium Terrestre)
+  polish: ziemski (sąd ziemski)
+  english: of the land court
+  forms:
+    Terrestre: 30
+    Terrestris: 17
+    Terrestri: 12
+    Terrestribus: 10
+    Terrestrem: 4
+    Terrestria: 4
+    terrestribus: 3
+    terrestrem: 2
+    terrestre: 2
+    Terrestres: 1
+    Terrestrium: 1
+    Terrestrum: 1
+    Terrestrae: 1
+    terrestrium: 1
+    terrestres: 1
+    terrestri: 1
+  count: 91
+  docs:
+  - app5320pozgr1181-1
+  - app53170koningr117-7
+  - app53170koningr118-23
+  note: Judicium Terrestre Calissiense = the Kalisz land court

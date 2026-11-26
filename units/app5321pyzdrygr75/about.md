@@ -1,4 +1,4 @@
-On 7 September 1768, as another document of the edition dates it, at the castle court of Pyzdry, the merchant Jan Tracholz of Witkowo acknowledged that he made over to Stanisław Chełmski, the neighbour of the Prusimski family, the claims he held against the late Paweł Prusimski of Trąbczyn: 1,053 imperials, 13 groschen and (it seems) 6 pfennigs for pine timber seized from him in the Trąbczyn forests, and 1,513 florins for sawn goods and other outlays. The entry is the deed that Chełmski's later suit against Antoni Prusimski rests on. <!-- context -->
+On 7 September 1768, as another document of the edition dates it, at the municipal court of Pyzdry, the merchant Jan Tracholz of Witkowo acknowledged that he made over to Stanisław Chełmski, the neighbour of the Prusimski family, the claims he held against the late Paweł Prusimski of Trąbczyn: 1,053 imperials, 13 groschen and (it seems) 6 pfennigs for pine timber seized from him in the Trąbczyn forests, and 1,513 florins for sawn goods and other outlays. The entry is the deed that Chełmski's later suit against Antoni Prusimski rests on. <!-- context -->
 
 ### The entry
 
@@ -12,7 +12,7 @@ Antoni Prusimski, in his protest of March 1778, called the sum Chełmski claimed
 
 ### Historical background
 
-The grod court of Pyzdry took shape at the end of the fourteenth century. It judged the nobility in the serious criminal matters of the four grod articles (arson, attack on a nobleman's house, robbery on the public road, rape) and, in time, in other criminal matters and in suits over land and sums of money. Beside it stood the grod office, which kept the court books; the office took entries of uncontested business every day, and the books had public faith. In this volume, Inscriptiones, such entries are numbered one after the other; this is no. 39. <!-- context -->
+The municipal court of Pyzdry took shape at the end of the fourteenth century. It judged the nobility in the serious criminal matters of the four articles of the municipal court (arson, attack on a nobleman's house, robbery on the public road, rape) and, in time, in other criminal matters and in suits over land and sums of money. Beside it stood the court's office, which kept the books; the office took entries of uncontested business every day, and the books had public faith. In this volume, Inscriptiones, such entries are numbered one after the other; this is no. 39. <!-- context -->
 
 In 1768 the court's own town had burned. The heading under this entry says the sitting of Friday 9 September was held outside the town because the enemy had set fire to the whole of the town of Pyzdry and its churches on 11 June of that year. <!-- context -->
 

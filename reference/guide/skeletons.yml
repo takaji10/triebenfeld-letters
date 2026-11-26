@@ -1,7 +1,7 @@
 kinds:
 - kind: report
   what_it_is: A report (relatio) is the court messenger's (Ministerialis Regni Generalis) sworn-style statement,
-    entered in the Konin castle court's record, that he carried a royal citation to the named person's estate and
+    entered in the Konin municipal court's record, that he carried a royal citation to the named person's estate and
     left it there. It recites the whole citation word for word, then says where, when and with whom it was left.
   parts:
   - part: 1. Sitting heading (often only on the first entry of the day)
@@ -18,7 +18,7 @@ kinds:
   - part: 3. Appearance of the messenger
     latin: Ad Officium et Acta praesentia Castrensia Coninensia personaliter veniens Providus Joannes Jankowski
       de villa Łukom Ministerialis Regni Generalis Sanus
-    english: Coming in person to the office and present records of the Konin castle court, the Provident (title
+    english: Coming in person to the office and present records of the Konin municipal court, the Provident (title
       of a burgher or commoner) Jan Jankowski of the village of Łukom, General Royal Messenger, sound (in health).
     varies: messenger's name, his village, honorific (Providus / Providens / Laboriosus); sometimes 'Personaliter
       veniens' alone without the 'Ad Officium' clause
@@ -101,7 +101,7 @@ kinds:
   - part: 3. Appearance
     latin: Ad Officium et Acta praesentia Castrensia Coninensia personaliter veniens Magnificus Stanislaus Scibor
       Chełmski Thesaurarius Vschoven~ Bonorum Łukomia ... haeres
-    english: Coming in person to the office and present records of the Konin castle court, the Honourable Stanisław
+    english: Coming in person to the office and present records of the Konin municipal court, the Honourable Stanisław
       Scibor Chełmski, Treasurer of Wschowa, heir of the estate of Łukom ...
     varies: name, titles, estates; a plenipotentiary may appear 'Nomine' for his principal (Petrus Gosławski, app53170koningr118-13);
       'Personaliter veniens' alone in some
@@ -230,7 +230,7 @@ kinds:
   - part: 1. Sitting heading
     latin: Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gloriossissimae Virginis Mariae proxima
       videlicet Die Vigesima Tertia Mensis Novembris Anno Domini 1776
-    english: Done at Kalisz castle on the Saturday after the Feast of the Presentation of the Virgin Mary, namely
+    english: Done "in Castro Calissiensi" (at the seat of the municipal court of Kalisz) on the Saturday after the Feast of the Presentation of the Virgin Mary, namely
       23 November 1776.
     varies: date and court (Conin or Calissiensis)
     docs: app53150kaliszgr424-1, app53170koningr119-3, app53170koningr119-8
@@ -341,7 +341,7 @@ kinds:
 common:
   openings:
   - latin: Ad Officium et Acta praesentia Castrensia Coninensia personaliter veniens ...
-    english: Coming in person to the office and present records of the Konin castle court ...
+    english: Coming in person to the office and present records of the Konin municipal court ...
     docs: app53170koningr117-9, app53170koningr118-10, app53170koningr115-9
     count: about 65
   - latin: Actum in Conin Feria ... proxima Die scilicet ... Mensis ... Anno Domini ...
@@ -448,7 +448,7 @@ common:
     docs: app53170koningr117-1, app53170koningr117-2 (two sittings), app53170koningr119-5, app53170koningr118-4
     count: about 60
   - latin: Actum in Castro Calissiensi ... / Actum in Fundo Bonorum ... Curiaque ibidem sitta
-    english: 'Heading naming another place of the act: Kalisz castle, or on the disputed ground.'
+    english: 'Heading naming another place of the act: the seat of the municipal court of Kalisz ("in Castro"), or on the disputed ground.'
     docs: app53150kaliszgr424-1, app5320pozgr1181-1, app53170koningr153-1
     count: few
   caveat: Counts are rough greps over the Konin, Kalisz, Pyzdry, Poznań and loose court-book corpora in units/;

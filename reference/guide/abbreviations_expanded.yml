@@ -1938,7 +1938,7 @@ forms:
     sure: 'no'
 - form: Castren~
   count: 14
-  stem: Castrensis, -e (of the castle court)
+  stem: Castrensis, -e (of the municipal court)
   kind: suspension
   occurrences:
   - doc: app53170koningr115-3
@@ -4901,7 +4901,7 @@ forms:
   - doc: app5320pozgr1181-1
     context: anno 1708uo conditae et actu[m?] Cas~ [[Posn~]] Feria 5ta in Vigilia Festi S.
     expansion: Posnaniensi
-    case_reason: abl. sg. with Castrensi ("actu Castrensi Posnaniensi", the Poznań castle court)
+    case_reason: abl. sg. with Castrensi ("actu Castrensi Posnaniensi", the Poznań municipal court)
     sure: 'no'
 - form: Pos~[Poznan]
   count: 1

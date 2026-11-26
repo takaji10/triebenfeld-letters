@@ -5358,3 +5358,13 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   The sibling holding is not a guide to the current rule: check EDITORIAL_RULES for rulings dated after the
   sibling was built. `courtbook.write_doc_yml` still counts only the old `[uncertain:` form for
   `marker_count`; holding.py sets it from `[?]`, `[...]` and `[uncertain`.
+- **"Municipal court", never "castle court" - in Claude's own prose too** (the editor, 2026-11-26,
+  "Castle court is the wrong term. Check the rules!!"). The rule was already written
+  (`reference/translation_glossary.yml`: sąd grodzki / iudicium castrense = "municipal court"; this
+  file, "Sąd grodzki is the municipal court"), and Claude still wrote "castle court" in the guide's
+  plan, in Pyzdry Gr.75's holding page (published) and in the Tracholz person entry, and "grod court"
+  in the holding's description and summaries; the Sonnet readers' briefs did not name the rule, so
+  their files said it too. All corrected the same day. **Before writing prose or briefing a reader,
+  look up the termbase's rendering of every institution named** (`reference/translation_glossary.yml`,
+  the glossary's `head_en`), and quote the rendering in the brief. "In Castro Calissiensi" in a dating
+  line is the seat of the municipal court, not a castle to be named as such.

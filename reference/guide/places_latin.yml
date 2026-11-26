@@ -28,9 +28,9 @@ places:
   phrase: "in Judiciis Tribunalis Regni Petricoviensis (before the Crown Tribunal at Piotrków)"
   sure: yes
 - polish: Konin
-  note: "the castle court whose books are the edition's Konin registers"
+  note: "the municipal court whose books are the edition's Konin registers"
   forms: [Coninensis, Coninen~, Coninensi, Coninense, Coninensem, Coninensibus]
-  phrase: "Acta Castrensia Coninensia (the castle records of Konin)"
+  phrase: "Acta Castrensia Coninensia (the records of the municipal court of Konin)"
   sure: yes
 - polish: Poznań
   forms: [Posnaniensis, Ponaniensis]
@@ -91,7 +91,7 @@ places:
   forms: [Costenensibus, Costensem]
   sure: yes
 - polish: Kowal
-  note: "the castle court of Kowal"
+  note: "the municipal court of Kowal"
   forms: [Covaliensis]
   phrase: "coram actis Castrensibus Covaliensibus"
   sure: yes
@@ -137,7 +137,7 @@ places:
 
 # Words that look like place adjectives and are not.
 not_places:
-- {form: "Castrensis, Castren~ (and cases)", meaning: "of the castle court (gród): Acta Castrensia"}
+- {form: "Castrensis, Castren~ (and cases)", meaning: "of the municipal court (gród): Acta Castrensia"}
 - {form: "Terrestris", meaning: "of the land court (ziemski)"}
 - {form: "Mensis", meaning: "month (Die 20 Mensis Octobris)"}
 - {form: "Cistersiensis, Cystercien~", meaning: "Cistercian (of the order)"}

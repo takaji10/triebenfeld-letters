@@ -209,7 +209,7 @@ S = {
      'ebenfalls wegnahm, teils zu Pauls Nutzen ausgelegt. Mit den Summen gehen die Rechte daran, die Zinsen und das von Tracholz '
      'gegen die Prusimski-Nachfolger eingeleitete Verfahren über. Tracholz unterschreibt mit „gehaltener Hand“. Der Eintrag trägt auf '
      'seinen Seiten kein eigenes Datum.',
-     'Entry no. 39 of the register of the grod court and office of Pyzdry, in Latin with a Polish closing '
+     'Entry no. 39 of the register of the municipal court and office of Pyzdry, in Latin with a Polish closing '
      'formula: the merchant Jan Tracholz of Witkowo declares before the court that he makes over to Stanisław '
      'Chełmski, who pays him for them, his own monetary claims against the late Paweł Prusimski. The first sum, '
      '1,053 imperials, 13 groschen and (it seems) 6 pfennigs, concerns trees from the pine forests of Trąbczyn that he had bought '
