@@ -50,9 +50,9 @@ dessen Fenster zerschossen — das Werk, sagt er, von mehr als dreißig Untertan
 Trąbczyn in Prusimskis Gegenwart
 ([die Berichte]({{ '/documents/app53170koningr115/5/' | relative_url }})).
 
-Chełmskis Ansprüche betrafen nicht nur Land. Im September 1768 trat ihm ein Kaufmann aus Witkowo, Jan Tracholz,
+Stanisław Chełmskis Ansprüche auf Trąbczyn betrafen nicht nur Land. Im September 1768 trat ihm ein Kaufmann aus Witkowo, Jan Tracholz,
 vor dem Gericht in Pyzdry ab, was er vom verstorbenen Paweł Prusimski für in den Wäldern von Trąbczyn
-weggenommenes Kiefernholz forderte, 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Fenigen, sowie 1513 Gulden
+weggenommenes Kiefernholz forderte: 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Pfennig, sowie 1513 Złoty
 ([die Übertragung]({{ '/documents/app5321pyzdrygr75/1/' | relative_url }})). Auf diese Forderung hin verklagte Chełmski
 Antoni Prusimski, im Dekret vom Oktober 1777 und in den folgenden Ladungen, bis 1786
 ([das Dekret]({{ '/documents/app536046/2/' | relative_url }})).

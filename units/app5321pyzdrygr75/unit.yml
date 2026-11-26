@@ -7,13 +7,13 @@ archive: Archiwum Państwowe w Poznaniu (APP)
 title: >-
   The declaration of the merchant Jan Tracholz of Witkowo before the Pyzdry
   court in 1768, by which he made over to Stanisław Chełmski his claims against
-  the late Paweł Prusimski and the Prusimski heirs: 1,053 imperials, 13 groschen and (it seems) 6 pfennigs for pine timber from the Trąbczyn forests, and 1,513 florins for
+  the late Paweł Prusimski and the Prusimski heirs: 1,053 imperials, 13 groszy and (it seems) 6 Pfennig for pine timber from the Trąbczyn forests, and 1,513 złoty for
   sawn goods.
 title_de: >-
   Die Erklärung des Kaufmanns Jan Tracholz aus Witkowo vor dem Gericht in
   Pyzdry im Jahr 1768, mit der er seine Forderungen an den verstorbenen Paweł
-  Prusimski und die Prusimski-Erben an Stanisław Chełmski abtrat: 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Fenigen für Kiefernholz aus den Wäldern von Trąbczyn und
-  1513 Gulden für Schnittware.
+  Prusimski und die Prusimski-Erben an Stanisław Chełmski abtrat: 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Pfennig für Kiefernholz aus den Wäldern von Trąbczyn und
+  1513 Złoty für Schnittware.
 # The archive's own title of the unit, as the editor's folder gives it.
 archive_title: >-
   Inscriptiones [protocollon] 1768-1781
@@ -51,10 +51,10 @@ description: >-
   before the court by the merchant Jan Tracholz (written Traholtz in the
   entry), inhabitant of Witkowo. He declares that he makes over to the Right
   Honourable Stanisław Chełmski, who pays him for them, his own sums claimed
-  from the late Paweł Prusimski: first 1,053 imperials, 13 groschen and (it seems) 6 pfennigs for
+  from the late Paweł Prusimski: first 1,053 imperials, 13 groszy and (it seems) 6 Pfennig for
   pine trees he had bought in the Trąbczyn forests under a written contract
   and which Prusimski had seized by force and sold to a merchant of Stettin,
-  and then 1,513 florins spent on nine stacks of sawn goods, seized in the
+  and then 1,513 złoty spent on nine stacks of sawn goods, seized in the
   same way by Antoni Prusimski, Paweł's full brother, after the pine forest
   was cut. With the sums he hands over the rights, ownership and legal
   proceedings brought against the Prusimski successors. The merchant signs
@@ -79,6 +79,9 @@ translation_note: >-
 prepared:
   transcription:
   - t-editor
-  - en: Claude then compared the editor's text with the two page images, line by line, with two further readers working from enlarged strips, and corrected the places where the writing is plain. The places where it is not (the placing of two inserted lines, three doubtful words) stand as the editor has them and were put to the editor.
-    de: Claude verglich anschließend den Text des Herausgebers Zeile für Zeile mit den beiden Seitenbildern, zusammen mit zwei weiteren Lesern an vergrößerten Streifen, und korrigierte die Stellen, an denen die Schrift eindeutig ist. Die unklaren Stellen (die Stellung zweier Einschubzeilen, drei zweifelhafte Wörter) stehen so, wie der Herausgeber sie hat, und wurden dem Herausgeber vorgelegt.
-  translation: []
+  - en: Claude then compared the editor's text with the two page images, line by line, with two further readers, and corrected it where the page is plain; among the corrections are words the transcription had passed over. The editor then ruled on the places that were not plain, and changed several of Claude's corrections back. A few words remain doubtful and are marked so.
+    de: Claude verglich anschließend den Text des Herausgebers Zeile für Zeile mit den beiden Seitenbildern, zusammen mit zwei weiteren Lesern, und korrigierte ihn, wo die Seite eindeutig ist; unter den Korrekturen sind Wörter, die die Transkription übergangen hatte. Der Herausgeber entschied danach über die unklaren Stellen und nahm mehrere von Claudes Korrekturen zurück. Einige Wörter bleiben zweifelhaft und sind so gekennzeichnet.
+  - t-latin-expanded
+  translation:
+  - l-claude
+  - s-claude

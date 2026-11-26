@@ -201,6 +201,29 @@ entries:
   check_against: Krünitz, Oekonomische Encyklopädie
   checked: true
 
+- id: imperial
+  kind: money
+  lang: la
+  head_en: imperial
+  head_de: Imperial
+  orig: Imperialium (Latin, genitive plural)
+  # Added 2026-11-26 with Pyzdry Gr.75, where Tracholz's first claim is reckoned in imperials
+  # (HOUSE_STYLE, "Units of measurement and money": a unit is in the glossary before it is
+  # used in prose). Marked only there: "imperiali" in the Kodeks is not money.
+  match_de: '\bImperialium\b'
+  match_en: '\bimperials\b'
+  only_in: [app5321pyzdrygr75-1]
+  short_en: >-
+    The thaler of the Holy Roman Empire, in Polish talar imperialny: a large silver coin of German
+    minting that circulated in Poland beside the złoty and the grosz. The merchant Jan Tracholz's
+    claim of 1768 for timber from the Trąbczyn forests is reckoned in it.
+  short_de: >-
+    Der Taler des Heiligen Römischen Reiches, polnisch talar imperialny: eine große Silbermünze
+    deutscher Prägung, die in Polen neben dem Złoty und dem Groschen umlief. Die Forderung des
+    Kaufmanns Jan Tracholz von 1768 für Holz aus den Wäldern von Trąbczyn ist in ihr gerechnet.
+  check_against: Gloger, Encyklopedia staropolska (Talar)
+  checked: false
+
 - id: grzywna
   kind: money
   lang: pl

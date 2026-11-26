@@ -102,8 +102,8 @@
   initial_en: "P"
   sort_de: "pfennig"
   initial_de: "P"
-  docs: 16
-  docs_list: [{"url": "/documents/oe1bu14525/23/", "text": "Oe 1 Bü 14525, 23"}, {"url": "/documents/oe1bu14525/12/", "text": "Oe 1 Bü 14525, 12"}, {"url": "/documents/oe1bu14525/25/", "text": "Oe 1 Bü 14525, 25"}, {"url": "/documents/oe1bu14525/21/", "text": "Oe 1 Bü 14525, 21"}, {"url": "/documents/oe1bu14526/5/", "text": "Oe 1 Bü 14526, 5"}, {"url": "/documents/oe1bu9454/152/", "text": "Oe 1 Bü 9454, 152"}, {"url": "/documents/oe1bu14526/4/", "text": "Oe 1 Bü 14526, 4"}, {"url": "/documents/iharep162nr295/3/", "text": "I. HA Rep. 162, Nr. 295, 3"}, {"url": "/documents/oe1bu14526/22/", "text": "Oe 1 Bü 14526, 22"}, {"url": "/documents/ihagrrep7cnr3705/1/", "text": "I. HA GR, Rep. 7 C, Nr. 3705, 1"}, {"url": "/documents/oe1bu9454/24/", "text": "Oe 1 Bü 9454, 24"}, {"url": "/documents/oe1bu9454/30/", "text": "Oe 1 Bü 9454, 30"}, {"url": "/documents/oe1bu9454/208/", "text": "Oe 1 Bü 9454, 208"}, {"url": "/documents/oe1bu9454/213/", "text": "Oe 1 Bü 9454, 213"}, {"url": "/documents/oe1bu9454/303/", "text": "Oe 1 Bü 9454, 303"}]
+  docs: 17
+  docs_list: [{"url": "/documents/app5321pyzdrygr75/1/", "text": "53/21/0/-/Pyzdry Gr.75, 1"}, {"url": "/documents/oe1bu14525/23/", "text": "Oe 1 Bü 14525, 23"}, {"url": "/documents/oe1bu14525/12/", "text": "Oe 1 Bü 14525, 12"}, {"url": "/documents/oe1bu14525/25/", "text": "Oe 1 Bü 14525, 25"}, {"url": "/documents/oe1bu14525/21/", "text": "Oe 1 Bü 14525, 21"}, {"url": "/documents/oe1bu14526/5/", "text": "Oe 1 Bü 14526, 5"}, {"url": "/documents/oe1bu9454/152/", "text": "Oe 1 Bü 9454, 152"}, {"url": "/documents/oe1bu14526/4/", "text": "Oe 1 Bü 14526, 4"}, {"url": "/documents/iharep162nr295/3/", "text": "I. HA Rep. 162, Nr. 295, 3"}, {"url": "/documents/oe1bu14526/22/", "text": "Oe 1 Bü 14526, 22"}, {"url": "/documents/ihagrrep7cnr3705/1/", "text": "I. HA GR, Rep. 7 C, Nr. 3705, 1"}, {"url": "/documents/oe1bu9454/24/", "text": "Oe 1 Bü 9454, 24"}, {"url": "/documents/oe1bu9454/30/", "text": "Oe 1 Bü 9454, 30"}, {"url": "/documents/oe1bu9454/208/", "text": "Oe 1 Bü 9454, 208"}, {"url": "/documents/oe1bu9454/213/", "text": "Oe 1 Bü 9454, 213"}, {"url": "/documents/oe1bu9454/303/", "text": "Oe 1 Bü 9454, 303"}]
 - id: "ducat"
   kind: "money"
   lang: "de"
@@ -144,8 +144,29 @@
   initial_en: "G"
   sort_de: "gulden"
   initial_de: "G"
-  docs: 28
-  docs_list: [{"url": "/documents/kdw/19/", "text": "Kodeks Dyplomatyczny Wielkopolski, 19"}, {"url": "/documents/app5321pyzdrygr75/1/", "text": "53/21/0/-/Pyzdry Gr.75, 1"}, {"url": "/documents/app53170koningr145/1/", "text": "53/17/0/-/Konin Gr.145, 1"}, {"url": "/documents/app5320pozgr1181/1/", "text": "53/20/0/-/Poznań Gr.1181, 1"}, {"url": "/documents/oe1bu14525/13/", "text": "Oe 1 Bü 14525, 13"}, {"url": "/documents/oe1bu9454/79/", "text": "Oe 1 Bü 9454, 79"}, {"url": "/documents/oe1bu9454/93/", "text": "Oe 1 Bü 9454, 93"}, {"url": "/documents/oe1bu14526/29/", "text": "Oe 1 Bü 14526, 29"}, {"url": "/documents/oe1bu14525/2/", "text": "Oe 1 Bü 14525, 2"}, {"url": "/documents/oe1bu14525/23/", "text": "Oe 1 Bü 14525, 23"}, {"url": "/documents/oe1bu14525/12/", "text": "Oe 1 Bü 14525, 12"}, {"url": "/documents/oe1bu14525/25/", "text": "Oe 1 Bü 14525, 25"}, {"url": "/documents/oe1bu14526/5/", "text": "Oe 1 Bü 14526, 5"}, {"url": "/documents/oe1bu9454/161/", "text": "Oe 1 Bü 9454, 161"}, {"url": "/documents/oe1bu9454/64/", "text": "Oe 1 Bü 9454, 64"}, {"url": "/documents/oe1bu9454/207/", "text": "Oe 1 Bü 9454, 207"}, {"url": "/documents/oe1bu9454/243/", "text": "Oe 1 Bü 9454, 243"}, {"url": "/documents/oe1bu9454/247/", "text": "Oe 1 Bü 9454, 247"}, {"url": "/documents/oe1bu9454/254/", "text": "Oe 1 Bü 9454, 254"}, {"url": "/documents/oe1bu9454/260/", "text": "Oe 1 Bü 9454, 260"}, {"url": "/documents/oe1bu9454/262/", "text": "Oe 1 Bü 9454, 262"}, {"url": "/documents/oe1bu9454/268/", "text": "Oe 1 Bü 9454, 268"}, {"url": "/documents/oe1bu9454/3/", "text": "Oe 1 Bü 9454, 3"}, {"url": "/documents/oe1bu9454/15/", "text": "Oe 1 Bü 9454, 15"}, {"url": "/documents/oe1bu9454/13/", "text": "Oe 1 Bü 9454, 13"}, {"url": "/documents/oe1bu9454/286/", "text": "Oe 1 Bü 9454, 286"}, {"url": "/documents/iiihamdaiiinr12367/7/", "text": "III. HA MdA, III. Nr. 12367, 7"}, {"url": "/documents/app539680783/1/", "text": "53/968/0/-/783, 1"}]
+  docs: 27
+  docs_list: [{"url": "/documents/kdw/19/", "text": "Kodeks Dyplomatyczny Wielkopolski, 19"}, {"url": "/documents/app53170koningr145/1/", "text": "53/17/0/-/Konin Gr.145, 1"}, {"url": "/documents/app5320pozgr1181/1/", "text": "53/20/0/-/Poznań Gr.1181, 1"}, {"url": "/documents/oe1bu14525/13/", "text": "Oe 1 Bü 14525, 13"}, {"url": "/documents/oe1bu9454/79/", "text": "Oe 1 Bü 9454, 79"}, {"url": "/documents/oe1bu9454/93/", "text": "Oe 1 Bü 9454, 93"}, {"url": "/documents/oe1bu14526/29/", "text": "Oe 1 Bü 14526, 29"}, {"url": "/documents/oe1bu14525/2/", "text": "Oe 1 Bü 14525, 2"}, {"url": "/documents/oe1bu14525/23/", "text": "Oe 1 Bü 14525, 23"}, {"url": "/documents/oe1bu14525/12/", "text": "Oe 1 Bü 14525, 12"}, {"url": "/documents/oe1bu14525/25/", "text": "Oe 1 Bü 14525, 25"}, {"url": "/documents/oe1bu14526/5/", "text": "Oe 1 Bü 14526, 5"}, {"url": "/documents/oe1bu9454/161/", "text": "Oe 1 Bü 9454, 161"}, {"url": "/documents/oe1bu9454/64/", "text": "Oe 1 Bü 9454, 64"}, {"url": "/documents/oe1bu9454/207/", "text": "Oe 1 Bü 9454, 207"}, {"url": "/documents/oe1bu9454/243/", "text": "Oe 1 Bü 9454, 243"}, {"url": "/documents/oe1bu9454/247/", "text": "Oe 1 Bü 9454, 247"}, {"url": "/documents/oe1bu9454/254/", "text": "Oe 1 Bü 9454, 254"}, {"url": "/documents/oe1bu9454/260/", "text": "Oe 1 Bü 9454, 260"}, {"url": "/documents/oe1bu9454/262/", "text": "Oe 1 Bü 9454, 262"}, {"url": "/documents/oe1bu9454/268/", "text": "Oe 1 Bü 9454, 268"}, {"url": "/documents/oe1bu9454/3/", "text": "Oe 1 Bü 9454, 3"}, {"url": "/documents/oe1bu9454/15/", "text": "Oe 1 Bü 9454, 15"}, {"url": "/documents/oe1bu9454/13/", "text": "Oe 1 Bü 9454, 13"}, {"url": "/documents/oe1bu9454/286/", "text": "Oe 1 Bü 9454, 286"}, {"url": "/documents/iiihamdaiiinr12367/7/", "text": "III. HA MdA, III. Nr. 12367, 7"}, {"url": "/documents/app539680783/1/", "text": "53/968/0/-/783, 1"}]
+- id: "imperial"
+  kind: "money"
+  lang: "la"
+  head_en: "imperial"
+  head_de: "Imperial"
+  orig: "Imperialium (Latin, genitive plural)"
+  short_en: "The thaler of the Holy Roman Empire, in Polish talar imperialny: a large silver coin of German minting that circulated in Poland beside the złoty and the grosz. The merchant Jan Tracholz's claim of 1768 for timber from the Trąbczyn forests is reckoned in it."
+  short_de: "Der Taler des Heiligen Römischen Reiches, polnisch talar imperialny: eine große Silbermünze deutscher Prägung, die in Polen neben dem Złoty und dem Groschen umlief. Die Forderung des Kaufmanns Jan Tracholz von 1768 für Holz aus den Wäldern von Trąbczyn ist in ihr gerechnet."
+  long_en: ""
+  long_de: ""
+  source: ""
+  check_against: "Gloger, Encyklopedia staropolska (Talar)"
+  lang_note_en: ""
+  source_html: ""
+  checked: false
+  sort_en: "imperial"
+  initial_en: "I"
+  sort_de: "imperial"
+  initial_de: "I"
+  docs: 1
+  docs_list: [{"url": "/documents/app5321pyzdrygr75/1/", "text": "53/21/0/-/Pyzdry Gr.75, 1"}]
 - id: "grzywna"
   kind: "money"
   lang: "pl"
