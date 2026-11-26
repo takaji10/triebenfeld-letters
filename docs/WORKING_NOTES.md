@@ -5343,3 +5343,11 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   does not run scripts). Put images in the CSS (`.s_name{background-image:url(data:...)}`)
   and the card's `div` takes its height from the strip's aspect ratio (`padding-top: %`).
   Check a sheet with scripts switched off (`javaScriptEnabled: false` in Playwright).
+- **Two of Claude's "corrections" were wrong when the editor looked** (Pyzdry Gr.75, 2026-11-26): "hasce"
+  (from the accusative) and "hac ... recognitione" (from an ablative absolute) were argued from grammar the
+  editor's reading did not have: the page shows "hisce" and "recog~tioni". A reading changed on grammar alone,
+  against the editor's transcription, is a question for the sheet, not a correction: the standard (NEW_UNIT 3a)
+  allows "a sentence with exactly one grammatical reading", and these had two. Likewise "usuq[ue]" for the
+  editor's "sisce[?]": the shape fitted a word that suited the sense. What held: the omission (words the
+  editor's line jumped over) and the crosses, whose placing the editor, looking at the page, read as one
+  sentence ("una cum ... ac cum processu juris per Recognoscentem ... instituto") that Claude had cut in two.

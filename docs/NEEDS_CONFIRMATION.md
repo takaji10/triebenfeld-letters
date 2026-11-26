@@ -22,20 +22,25 @@ repository; they are on the working machine.
 
 ## APP 53/21/0/-/Pyzdry Gr.75, entry no. 39 (2026-11-26)
 
-- **The nine places left as transcribed and the placing of two inserted lines**
-  (TODO t903): "Borram", "erogatam [i?]", "iure"/"aere", "ea"/"ex praedictis", "Da[m/s?]",
-  the docket's "in Per"/"inter", the first word of the verso and of the interlinear line,
-  and where the lines "... provenientibus &" and "Recognoscentem successoribus
-  Prusimscianis instituto" belong. Strips in `units/app5321pyzdrygr75/intake/spot/`.
-- **"Fericorum[?]"** after "Grossorum Tredecim" (13 groschen), omitted in the editor's text,
-  not read: the English marks it doubtful and the summaries do not use it.
+- **Settled by the editor on the spot sheet (2026-11-26):** Borrarum; no "[i?]" after erogatam; "ex
+  praedictis"; "sisc[e?] ac"; "hisce"; "recog~tioni"; "sex" after Tredecim; and the placing of the two
+  inserted lines (the editor's new reading: "... enucleatibus un[s?][u?][o?]n provisionibus ab ejsdem summis
+  capitalibus provenientibus ac[u?]um process[ae?] juris per Recognoscentem successoribus Prusimscianis
+  instituto cessit contulit"). Recorded in `units/app5321pyzdrygr75/notes.md`.
+- **Still doubtful, left as written:** "iure[?]" (Claude saw "aere", from his own money: not taken up),
+  "Da[m/s?]" and the flourish after "concedens", the docket's "in Per", "[ordine?]", "Stru[i]um".
+- **"Fenicorum[?]" sex** (13 groschen, 6 pfennigs?): the editor read "sex" and could not settle the word
+  before it (Ferricorum, Fenicorum, Fersicorum); Claude chose Fenicorum from the series imperial, grosz, fenig
+  and the r/n minim confusion. The English says "6 pfennigs" with a doubt mark; summaries say "wie es
+  scheint".
+- **Not answered, left as Claude changed them:** "Manifeste Recedendo &c[etera]", "expositam",
+  "manualibus ac" and "Regestris" at the head of the verso, "Actaq[ue]", "Sup[er]".
 - **Pine or oak?** The transfer says "Borris et sylvis" (pine forests); the protest of 1778
   (Konin Gr.117, doc. 3) says the 1744 contract was for oak timber ("silvae Quercineae"),
-  and Gr.120, doc. 2 "an oak wood". The edition keeps each document's word; the contract
-  itself is not in the edition.
+  and Gr.120, doc. 2 "an oak wood". The edition keeps each document's word.
 - **Tilde forms vs the bracket rule** (TODO t904).
-- **Two rows of `reference/translation_rulings.json` are Claude's own** (not the editor's):
-  "Dominium" rendered "dominion" (a legal sense), and the marker count of "fun[d?]u[m?]".
+- **Rows of `reference/translation_rulings.json` that are Claude's own** (not the editor's): "Dominium"
+  rendered "dominion", and the marker counts of "fun[d?]u[m?]" (now moot) and "Stru[i]um".
 
 ## The site overhaul (2026-11-24, docs/SITE_OVERHAUL_PLAN.md)
 

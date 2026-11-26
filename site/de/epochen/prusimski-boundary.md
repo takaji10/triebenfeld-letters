@@ -52,7 +52,7 @@ Trąbczyn in Prusimskis Gegenwart
 
 Chełmskis Ansprüche betrafen nicht nur Land. Im September 1768 trat ihm ein Kaufmann aus Witkowo, Jan Tracholz,
 vor dem Gericht in Pyzdry ab, was er vom verstorbenen Paweł Prusimski für in den Wäldern von Trąbczyn
-weggenommenes Kiefernholz forderte, 1053 Imperialen und 13 Groschen, sowie 1513 Gulden
+weggenommenes Kiefernholz forderte, 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Fenigen, sowie 1513 Gulden
 ([die Übertragung]({{ '/documents/app5321pyzdrygr75/1/' | relative_url }})). Auf diese Forderung hin verklagte Chełmski
 Antoni Prusimski, im Dekret vom Oktober 1777 und in den folgenden Ladungen, bis 1786
 ([das Dekret]({{ '/documents/app536046/2/' | relative_url }})).

@@ -123,32 +123,6 @@ items:
     label: Konin Gr.120
   nc: ''
   audit_note: ''
-- id: t903-gr75-readings
-  group: APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
-  title: Look at the nine places on leaves 19 and 19 verso that were left as you transcribed them
-  kind: question
-  text: 'Claude compared your transcription of entry no. 39 with the two page images and corrected ten
-    places where the writing is plain (the notes of the holding list them). Nine places were not plain
-    enough to change, and are for your eye: "Borram" (the page may read "Borrarum"); "erogatam [i?]"
-    (a smear); "iure suo proprio" (the page may read "aere", from his own money); "ea praedictis"
-    ("ex"?); "Da[m/s?]" before "et concedens"; the docket''s "in Per" (perhaps "inter"); the first word
-    of line 1 of the verso ("Regestris", moved there from the foot of the recto); the first word of the
-    interlinear line above line 10 of the verso; and where two inserted lines belong. The interlinear
-    line "... ab ejusdem summis capitalibus provenientibus &" has a cross that matches a cross in
-    line 10 before "cessit" (you have it at the end), and the foot line "Recognoscentem successoribus
-    Prusimscianis instituto" has a cross that matches the one after "per" at the end of the signature
-    line (you have it before "cessit"). Enlarged strips of the lines are in the holding''s
-    intake/spot/. How should the two inserted lines be placed?'
-  options:
-  - Keep both as transcribed (the editor's order)
-  - Both at the crosses (the interlinear line before "cessit", the foot line at the end)
-  - Something else (say in the note)
-  links:
-  - type: unit
-    slug: app5321pyzdrygr75
-    label: Pyzdry Gr.75
-  nc: ''
-  audit_note: ''
 - id: t904-gr75-abbreviations
   group: APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
   title: Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?
@@ -1673,6 +1647,10 @@ items:
   nc: The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
   audit_note: ''
 done:
+- id: t903-gr75-readings
+  title: Look at the nine places on leaves 19 and 19 verso that were left as transcribed
+  date: '2026-11-26'
+  how: 'The editor answered the spot sheet in chat: Borrarum, no [i?] after erogatam, ex praedictis, sisc[e?] ac, hisce and recog~tioni stand as the editor had them, "sex" after Tredecim, and a new reading of the two inserted lines (one sentence: una cum provisionibus ... ac cum processu juris per Recognoscentem ... instituto). Applied in units/app5321pyzdrygr75; iure, Da[m/s?], in Per, ordine, Struium left as written.'
 - id: t009-settle-what-pyzdry-gr
   title: Settle what Pyzdry Gr.75 is
   date: '2026-11-26'

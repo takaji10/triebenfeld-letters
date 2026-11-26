@@ -42,43 +42,48 @@ Done 2026-11-26 from enlarged strips (Claude), with a second reader working from
 the editor's text as a table of differences (Sonnet) and two blind readers
 (Sonnet; the verso reader read the signature and the heading well, the recto
 reader gave a weak reading and was not relied on - the first blind pass, from
-whole pages, was discarded for the same reason). Nine corrections (ten rows, the page break being two), in
-`holding.py` ROWS and `transcription_decisions.csv`:
+whole pages, was discarded for the same reason). Claude's findings went to the editor
+on a spot sheet (`intake/spot_sheet.html`, made by `intake/spot_sheet.py`), and the
+editor's answers of the same day were applied. The result, in `holding.py` ROWS and
+`transcription_decisions.csv` (13 rows):
 
-1. "Manifestatione Recedendo e[dem?]ce~" is **"Manifeste Recedendo &c[etera]"**
-   (the page: "Mnfte Recedendo &ce Recognovit").
-2. **Omission**: after "Imperialium" the page has **"Grossorum Tredecim,
-   Fericorum[?] sc[ilicet] per olim Magnificum"** - 13 groschen after the 1,053
-   imperials; "Fericorum" is doubtful and not used in the English or summaries.
-3. "ea positam" is **"expositam"** (the line ends "ex-").
-4. "proque sisce[?]" is **"proq[ue] usuq[ue]"**.
-5. "manuali his ac Regestris" is **"manualibus ac"**, and "Regestris" moves to
-   the head of leaf 19 verso (the page ends at the torn corner).
-6. "hisce summas" is **"hasce summas"** (accusative, and "hasce" two lines below).
-7. "actas praesenti" is **"Actaq[ue] praesenti"**.
-8. "haec sua personali recog~tioni" is **"hac sua personali recog~tione"**
-   (ablative absolute with "accedente").
-9. The docket's "Super" is "Sup[er]".
+**Corrections from the page, standing:**
+1. "Manifestatione Recedendo e[dem?]ce~" is **"Manifeste Recedendo &c[etera]"**.
+2. **Omission**: after "Imperialium" the page has **"Grossorum Tredecim, [?]icorum sex per
+   olim Magnificum"**: 13 groschen and, it seems, 6 pfennigs after the 1,053 imperials. The editor
+   reads "sex"; the word before it they could not settle (Ferricorum? Fenicorum? Fersicorum?);
+   Claude takes **"Fenicorum[?]"** (the pfennig: imperials, groschen, pfennigs; r/n are minim
+   confusions). The English says "6 pfennigs" with a doubt mark.
+3. "ea positam" is **"expositam"**; "manuali his ac Regestris" is **"manualibus ac"**, with
+   "Regestris" moved to the head of leaf 19 verso; "actas" is **"Actaq[ue]"**; the docket's "Super"
+   is "Sup[er]".
 
-Struck out, not transcribed (ruling of 2026-10-05): "per" after "elaboratis";
-about three words after "Prusimski pro" ("usu seu conversione"); "sibi" before
-"hasce" on the verso.
+**The editor's rulings of 2026-11-26 on the spot sheet, applied:**
+- "Borram" is **"Borrarum"** (D1); there is **no "[i?]" after "erogatam"** (D2); "ea praedictis" is
+  **"ex praedictis"** (D4); "se[?]rsivo" is the editor's best reading (L3); **"Auscuk[Auszug]" stays**.
+- **Claude's "hasce" and "hac ... recog~tione" were wrong** and are put back to the editor's "hisce"
+  and "haec sua personali recog~tioni" (A6, A8); and A4: **"proque sisc[e?] ac commodo"** (the editor's
+  reading, the doubt mark moved to the letter; Claude's "usuq[ue]" is withdrawn).
+- **The passage on the two inserted lines (D5, D6)** is the editor's new reading: "...se referentibus et
+  hasce summas enucleatibus un[s?][u?][o?]n provisionibus ab ejsdem summis capitalibus provenientibus
+  ac[u?]um process[ae?] juris per Recognoscentem successoribus Prusimscianis instituto cessit
+  contulit...": one sentence, the words "provisionibus ... provenientibus" and "ac cum processu juris
+  per Recognoscentem ... instituto" at the cross before "cessit", and nothing after "libere accedente".
+  Claude's check: it reads as one sentence ("una cum" for "un[...]n"; "per" is the preposition: the
+  process instituted **by the acknowledger** against the Prusimski successors, which is why the
+  summaries and the English now say so).
+- Not clear or not sure, left as written: D3 "iure[?]" (Claude's "aere" not taken up), D7 "Da[m/s?]" and
+  the flourish, D8 "in Per", L1 "[ordine?]", L2 "Stru[i]um" (the editor sees "struum", knows it is Struium).
+- Not answered, left as Claude changed them: A1 "Manifeste", A3 "expositam", A5 "manualibus ac" and the
+  place of "Regestris", A7 "Actaq[ue]", A9 "Sup[er]".
 
-**Left as the editor has them and put to the editor** (TODO t903): "Borram" (the
-page may read "Borrarum"); "erogatam [i?]" (a smear); "iure suo proprio" (the page
-may read "aere": from his own money); "ea praedictis" ("ex"?); "Da[m/s?]"; the
-docket's "in Per" (perhaps "inter"); the first word of the interlinear line above
-line 10 of the verso; the first word of the verso ("Regestris"); and the **placing
-of the two inserted lines**: the interlinear "... ab ejusdem summis capitalibus
-provenientibus &" carries a cross that matches a cross in line 10 before "cessit"
-(the editor has it at the end of the entry), and the foot line "Recognoscentem
-successoribus Prusimscianis instituto" carries a cross that matches the cross after
-"per[tinente]" at the end of the signature line (the editor has it before "cessit").
-Both placings change the English only in order of clauses.
+Struck out, not transcribed (ruling of 2026-10-05, restated by the editor 2026-11-26: "don't include
+the struck out words in the transcription"): "per" after "elaboratis"; about three words after
+"Prusimski pro" ("usu seu conversione"); "sibi" before "hasce" on the verso.
 
-**Abbreviations.** The editor's "~" forms stand; the letters supplied in the ten
-corrections are bracketed by the ruling of 2026-11-22. Whether to carry the bracket
-rule over to the editor's tilde forms is asked (TODO t904).
+**Abbreviations.** The editor's "~" forms stand; the letters supplied in the corrections are
+bracketed by the ruling of 2026-11-22. Whether to carry the bracket rule over to the editor's tilde
+forms is asked (TODO t904).
 
 ## What the entry says, and does not
 

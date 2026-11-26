@@ -82,30 +82,49 @@ ROWS = [
      'the page has "Mnfte Recedendo &ce Recognovit": the abbreviated adverb and the &c of the formula, '
      'not a noun in the ablative'),
     ('0019_a', 'Imperialium Paulum Prusimski',
-     'Imperialium Grossorum Tredecim, Fericorum[?] sc[ilicet] per olim Magnificum Paulum Prusimski',
-     'the editor\'s line jumps from "Imperialium" to "Paulum": the page has "Grossorum Tredecim, Fericorum '
-     'sc. per olim Magnificum" between them (13 groschen after the 1,053 imperials); "Fericorum" is doubtful'),
+     'Imperialium Grossorum Tredecim, Fenicorum[?] sex per olim Magnificum Paulum Prusimski',
+     'the editor\'s line jumps from "Imperialium" to "Paulum": the page has "Grossorum Tredecim, [?]icorum sex per '
+     'olim Magnificum" between them (13 groschen and, it seems, 6 pfennigs after the 1,053 imperials). The editor read '
+     '"sex" (2026-11-26) and could not settle the word before it (Ferricorum, Fenicorum, Fersicorum); Claude takes '
+     '"Fenicorum[?]", the pfennig, because the sum runs in the series imperial, grosz, fenig and r/n are '
+     'minim confusions'),
     ('0019_a', 'ea positam', 'expositam',
      'the line ends "ex-" with the word divided and continues "positam": "expositam" ... specificatam'),
-    ('0019_a', 'proque sisce[?] ac commodo', 'proq[ue] usuq[ue] ac commodo',
-     'the page has "proq usuq ac commodo suo", "usu" struck in the line above ("usu seu conversione") and '
-     'written again here'),
+    ('0019_a', 'Borram et sylvarum', 'Borrarum et sylvarum',
+     'the editor (2026-11-26): Borrarum, as the page may read; the genitive plural matches "sylvarum"'),
+    ('0019_a', 'erogatam [i?] partim', 'erogatam partim',
+     'the editor (2026-11-26): there is no "i" after erogatam; the mark on the page is a smear'),
+    ('0019_a', 'seorsivo[?]', 'se[?]rsivo',
+     'the editor (2026-11-26): "se[?]rsivo" is their best reading of the word'),
+    ('0019_a', 'proque sisce[?] ac commodo', 'proque sisc[e?] ac commodo',
+     'the editor (2026-11-26): the word looks more like "sisc[e?] ac" than Claude\'s "usuq[ue]", which is withdrawn; '
+     'the doubt mark is moved to the letter'),
     ('0019_a', 'manuali his ac Regestris', 'manualibus ac',
      'the page ends "manuali-bus ac" at the torn corner; "Regestris" stands at the head of leaf 19 verso '
      '(next row), not at the foot of this page'),
     ('0019_b', 'tum variis connotationibus', 'Regestris tum variis connotationibus',
      'the word before "tum variis" stands at the head of line 1 of the verso (read as "Regestris", '
      'abbreviated; the spelling is doubtful)'),
-    ('0019_b', 'uti hisce summas', 'uti hasce summas',
-     'the page has "hasce" (as in "ad hasce summas" two lines below), and the accusative is required: the '
-     'object of "persolventis"'),
-    ('0019_b', 'actas praesenti', 'Actaq[ue] praesenti',
-     'the page has "Actaq" with the stroke of the abbreviation'),
-    ('0019_b', 'haec sua personali recog~tioni', 'hac sua personali recog~tione',
-     'the ablative absolute "hac sua personali recognitione ... accedente"; the final letter of "recog~tione" '
-     'is e'),
+    ('0019_b', 'ea praedictis summis', 'ex praedictis summis',
+     'the editor (2026-11-26): the word is "ex"'),
+    ('0019_b', 'se referentibus et hasce summas enucleantibus Recognoscentem successoribus Prusimscianis instituto ac cum '
+              'processe juris pertinente cessit',
+     'se referentibus et hasce summas enucleatibus un[s?][u?][o?]n provisionibus ab ejsdem summis capitalibus '
+     'provenientibus ac[u?]um process[ae?] juris per Recognoscentem successoribus Prusimscianis instituto cessit',
+     'the editor\'s new reading of the passage (2026-11-26), made from the interlinear line above line 10 and the '
+     'foot line, by the crosses: "una cum provisionibus ab ejusdem summis capitalibus provenientibus, ac cum '
+     'processu juris per Recognoscentem successoribus Prusimscianis instituto": "together with the interest '
+     'arising from the same principal sums and with the legal process instituted by the acknowledger against '
+     'the Prusimski successors", a single sentence; "per" is the preposition, not "pertinente". Claude saw that it '
+     'reads as one sentence and that "un[...]n" fits "unacum", the written-together "una cum"'),
+    ('0019_b', 'libere accedente fun[d?]u[m?] provisionibus ab ejsdem summis capitalibus provenientibus',
+     'libere accedente',
+     'the same reading: the words "provisionibus ... provenientibus" belong at the cross before "cessit", '
+     'not at the end'),
     ('0019_b', 'Super Transfusionem', 'Sup[er] Transfusionem',
      'the docket under the signature has "Sup" abbreviated'),
+    ('0019_b', 'actas praesenti', 'Actaq[ue] praesenti',
+     'the page has "Actaq" with the stroke of the abbreviation'),
 ]
 
 # ---------------------------------------------------------------- web copies of the images
@@ -133,8 +152,8 @@ PAGES = [
     # leaf 19 recto
     'No. 39: The Excellent Jan Tracholz, merchant and inhabitant of Witkowo, sound in mind and body, '
     'openly, withdrawing, etc., acknowledged that he himself, wholly and entirely, his own '
-    'monetary sums, one of them being 1,053 imperials and 13 groschen [uncertain: Fericorum], that is, '
-    'through the late Right Honourable Paweł Prusimski, for trees bought by the present acknowledger, the '
+    'monetary sums, one of them being 1,053 imperials, 13 groschen and (it seems) 6 pfennigs [uncertain: Fenicorum], '
+    'owed through the late Right Honourable Paweł Prusimski, for trees bought by the present acknowledger, the '
     'honourable Tracholz, in the pine forests and woods of Trąbczyn by means of a contract written out for '
     'the said late Right Honourable Prusimski for the purchase of those same trees [uncertain: ordine], worked out from the '
     'honourable acknowledger Tracholz\'s own funds and care (although the same late Right Honourable '
@@ -149,10 +168,10 @@ PAGES = [
     '*Rynek*, likewise seized by the late Right Honourable Antoni Prusimski, full brother of the same late '
     'Right Honourable Paweł Prusimski, by reason of what followed upon the pine forests and '
     'woods in controversy and inquiry between them, seized in this pine forest; spent by the acknowledger, '
-    'the honourable Tracholz, [uncertain: and] partly laid out for the benefit and interest of the said late '
+    'the honourable Tracholz, and partly laid out for the benefit and interest of the said late '
     'Right Honourable Paweł Prusimski, set out in a [uncertain: separate] register written by this acknowledger, and '
-    'received for these sawn goods by this late Right Honourable Antoni Prusimski and disposed of for his own '
-    'use and benefit; and other sums, [shown] by writings and documents, handwritten ones and registers,',
+    'received for these sawn goods by this late Right Honourable Antoni Prusimski and disposed of for [uncertain: sisce] and for his own '
+    'benefit; and other sums, [shown] by writings and documents, handwritten ones and registers,',
     # leaf 19 verso
     'and also explained by various annotations, called *alisculi~*; these sums belonging to the '
     'acknowledger by right of legacy, reserving and excepting nothing from the aforesaid sums for himself and '
@@ -161,10 +180,10 @@ PAGES = [
     'Chełmski, as one paying these sums to the acknowledger [uncertain: by his own right] and fully '
     'satisfying him for the foregoing, and to his successors, with full, total and entire right, dominion, '
     'ownership and competence, together with any and all rights of claiming that relate to these sums and '
-    'explain these sums, and with the legal process pertaining thereto, instituted against the '
+    'set these sums out, [uncertain: together] with the interest arising from the same principal sums and '
+    '[uncertain: with] the legal process instituted by the acknowledger against the '
     'successors of the Prusimskis; and by the present act [uncertain: Da...] and conceding [uncertain: ...], '
-    'this his personal acknowledgement freely assenting to the foregoing, [uncertain: the capital?] together '
-    'with the interest arising from those same principal sums.\n\n'
+    'this his personal acknowledgement freely assenting to the foregoing.\n\n'
     'Jan Tracholz, by his held hand\n\n'
     'On the transfer of his right in the person of M. Chełmski',
 ]
@@ -179,21 +198,21 @@ S = {
  1: ('Eintrag Nr. 39 des Registers des Burggerichts und -amts Pyzdry, lateinisch, mit einer polnischen '
      'Schlussformel: Der Kaufmann Jan Tracholz aus Witkowo erklärt vor dem Gericht, dass er an Stanisław '
      'Chełmski, der ihn dafür bezahlt, seine eigenen Geldforderungen an den verstorbenen Paweł Prusimski '
-     'abtritt. Die erste Summe, 1053 Imperialen und 13 Groschen, betrifft Bäume aus den Kiefernwäldern von '
+     'abtritt. Die erste Summe, 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Fenige, betrifft Bäume aus den Kiefernwäldern von '
      'Trąbczyn, die er aufgrund eines schriftlichen Vertrags gekauft hatte und die Prusimski ihm gewaltsam '
      'wegnahm und an einen Kaufmann Simon aus Stettin verkaufte. Die zweite, 1513 Gulden, hatte er teils für '
      'die Herstellung von Schnittware (neun Stapel) aufgewendet, die Pauls leiblicher Bruder Antoni Prusimski '
-     'ebenfalls wegnahm, teils zu Pauls Nutzen ausgelegt. Mit den Summen gehen die Rechte daran und das Verfahren '
-     'gegen die Prusimski-Nachfolger über. Tracholz unterschreibt mit „gehaltener Hand“. Der Eintrag trägt auf '
+     'ebenfalls wegnahm, teils zu Pauls Nutzen ausgelegt. Mit den Summen gehen die Rechte daran, die Zinsen und das von Tracholz '
+     'gegen die Prusimski-Nachfolger eingeleitete Verfahren über. Tracholz unterschreibt mit „gehaltener Hand“. Der Eintrag trägt auf '
      'seinen Seiten kein eigenes Datum.',
      'Entry no. 39 of the register of the grod court and office of Pyzdry, in Latin with a Polish closing '
      'formula: the merchant Jan Tracholz of Witkowo declares before the court that he makes over to Stanisław '
      'Chełmski, who pays him for them, his own monetary claims against the late Paweł Prusimski. The first sum, '
-     '1,053 imperials and 13 groschen, concerns trees from the pine forests of Trąbczyn that he had bought '
+     '1,053 imperials, 13 groschen and (it seems) 6 pfennigs, concerns trees from the pine forests of Trąbczyn that he had bought '
      'under a written contract and which Prusimski seized from him by force and sold to a merchant Simon of '
      'Szczecin. The second, 1,513 florins, he had spent partly on the making of sawn goods (nine stacks), which '
      'Paweł\'s full brother Antoni Prusimski likewise seized, and partly laid out for Paweł\'s benefit. With the '
-     'sums pass the rights to them and the proceedings against the Prusimski successors. Tracholz signs "by his '
+     'sums pass the rights to them, the interest, and the proceedings Tracholz had begun against the Prusimski successors. Tracholz signs "by his '
      'held hand". The entry carries no date of its own on its pages.'),
 }
 HOW = ('written in the working session from the corrected transcription (2026-11-26).')

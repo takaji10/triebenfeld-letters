@@ -187,16 +187,16 @@ German follows the editor's English layout").
   `claude/vigilant-johnson-jxb4hz`, **not published**): entry no. 39 of "Inscriptiones
   [protocollon] 1768-1781" of the Pyzdry grod court, leaves 19 and 19 verso - the
   merchant Jan Tracholz of Witkowo makes over to Stanisław Chełmski his claims on the
-  late Paweł Prusimski (1,053 imperials and 13 groschen for timber, 1,513 florins);
+  late Paweł Prusimski (1,053 imperials, 13 groschen and it seems 6 pfennigs for timber, 1,513 florins);
   one document, two pages (the editor's two images, no cropping); the editor's
-  Latin checked by Claude and Sonnet readers (nine corrections, among them 13 groschen
-  the transcription had skipped), the English and summaries in session; era
+  Latin checked by Claude and Sonnet readers (the editor ruled on the spot sheet the same day; among the changes 13 groschen and, it seems, 6 pfennigs
+  the transcription had skipped, and the editor's new reading of two inserted lines), the English and summaries in session; era
   `prusimski-boundary`; a **person entry `tracholz`** (9 documents), a six-document
   connection, a timeline event (7 September 1768, from the Konin decree of 1777) and
   a paragraph in the era essay. The "Relationes 1768-1771" folder was a duplicate copy
   (the old TODO t009 closed). Entry no. 17 of 53/6/0/-/46 needs no fresh transcription:
-  it has been document 2 of that holding since 2026-10-07. Open: TODO t902-t904
-  (Gr.120's "Trachultz", nine readings and two inserted lines, the tilde forms).
+  it has been document 2 of that holding since 2026-10-07. Open: TODO t902 and t904
+  (Gr.120's "Trachultz", the tilde forms).
   Read `units/app5321pyzdrygr75/notes.md` first, and WORKING_NOTES, "Pyzdry Gr.75
   begun".
 

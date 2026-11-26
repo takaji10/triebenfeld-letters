@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-91 open: 23 question, 23 decision, 25 task, 11 claude, 9 waiting.
+90 open: 22 question, 23 decision, 25 task, 11 claude, 9 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -64,23 +64,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       the two scans, your Latin transcription and your English translation have to be in
       the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a
       desktop session. Nothing further on the holding can start until they are.
-
-- [ ] **Look at the nine places on leaves 19 and 19 verso that were left as you transcribed them** (`t903-gr75-readings`, question). Claude compared your transcription of entry no. 39 with the two page images and
-      corrected ten places where the writing is plain (the notes of the holding list
-      them). Nine places were not plain enough to change, and are for your eye: "Borram"
-      (the page may read "Borrarum"); "erogatam [i?]" (a smear); "iure suo proprio" (the
-      page may read "aere", from his own money); "ea praedictis" ("ex"?); "Da[m/s?]"
-      before "et concedens"; the docket's "in Per" (perhaps "inter"); the first word of
-      line 1 of the verso ("Regestris", moved there from the foot of the recto); the
-      first word of the interlinear line above line 10 of the verso; and where two
-      inserted lines belong. The interlinear line "... ab ejusdem summis capitalibus
-      provenientibus &" has a cross that matches a cross in line 10 before "cessit" (you
-      have it at the end), and the foot line "Recognoscentem successoribus Prusimscianis
-      instituto" has a cross that matches the one after "per" at the end of the
-      signature line (you have it before "cessit"). Enlarged strips of the lines are in
-      the holding's intake/spot/. How should the two inserted lines be placed?
-      Options: Keep both as transcribed (the editor's order) / Both at the crosses (the interlinear line before "cessit", the foot line at the end) / Something else (say in the note)
-      Concerns: [Pyzdry Gr.75](/sources/app5321pyzdrygr75/)
 
 - [ ] **Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?** (`t904-gr75-abbreviations`, decision). Your text marks abbreviations with "~" ("alisculi~", "recog~tione", "Dam~"), as in the
       older court books. Your ruling of 2026-11-22 says abbreviations are expanded in
