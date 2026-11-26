@@ -105,24 +105,6 @@ items:
   links: []
   nc: ''
   audit_note: ''
-- id: t905-court-records-guide
-  group: A guide to reading the Latin court records
-  title: Rule on the plan for a newcomer's guide to the court books
-  kind: decision
-  text: 'You asked on 2026-11-26 for a plan for a simple guide that helps a newcomer read the Latin court
-    records you have transcribed: abbreviation marks, the commonest abbreviated words, the structure of
-    entries, the German and Polish words inside the Latin, a chapter for each kind of record. The plan is
-    docs/COURT_RECORDS_GUIDE_PLAN.md: built from the edition''s own 24 court-book holdings, every rule shown
-    on a real entry with its page image, a chapter per kind (messengers'' reports, citations, protests,
-    notes, oblata, inscriptions, decrees, deliveries, privileges), and a reference part. Its section 7 asks
-    six questions; the first is where the guide lives.'
-  options:
-  - A section of the site (proposed)
-  - A standalone PDF or booklet
-  - Both
-  links: []
-  nc: ''
-  audit_note: ''
 - id: t010-full-account-of-the
   group: Prusimski-era court books, 1589-1788
   title: Full account of the Prusimski era, after the transcriptions
@@ -1629,6 +1611,10 @@ items:
   nc: The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
   audit_note: ''
 done:
+- id: t905-court-records-guide
+  title: Rule on the plan for a newcomer's guide to the court books
+  date: '2026-11-26'
+  how: "The editor ruled (2026-11-26): a web page on the site that reads like a book; about how the entries are built (openings, formulas, closings); the tilde forms handled by case, the hard contractions pointed out; drawn from the difficult places of the transcriptions; Latin court books first. The plan is rewritten (docs/COURT_RECORDS_GUIDE_PLAN.md) and the harvest begun."
 - id: t904-gr75-abbreviations
   title: "Should the tilde forms of the Pyzdry Gr.75 transcription be expanded in brackets?"
   date: '2026-11-26'

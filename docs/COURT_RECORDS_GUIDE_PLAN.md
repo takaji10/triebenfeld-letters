@@ -39,128 +39,85 @@ and the English. The material, counted 2026-11-26:
   not *Patrii*; the sitting's heading belongs to the entries **after** it; the crosses that
   place an insertion; struck words are left out; a word is never completed from the sense.
 
-## 2. Who it is for, and where it lives
+## 2. The editor's rulings (2026-11-26)
 
-**The reader** is a newcomer who can look up a Latin word but has never read a Polish court
-book: a genealogist, a local historian, a student. It assumes no palaeography.
+- **A web page on the site that reads like a book**: continuous prose in chapters, read from the
+  beginning, not a reference page of crops. The examples are the entries' own words, quoted and
+  explained in the text; a link to the document lets the reader see the page if they want it.
+- **About how the entries are built**: their openings, their set formulas, their closings ("left on
+  the table" and the like), what is fixed and what varies.
+- **The tilde forms with care**: an abbreviation expands by its case ("Calissien~" is Calissiensis,
+  Calissiensi, Calissiensem ... by the word it agrees with), so the guide teaches the stem and how
+  to choose the ending, and points out the hard contractions whose missing letters are in the
+  middle ("Cond~nis" = Condescensionis; "condescensorialis").
+- **From the difficult places of the edition's own transcriptions**: the readings the checks
+  changed, and why.
+- **Latin court books first.** (Polish entries, copy-books and resignations later, if at all.)
 
-**Proposed home: a section of the site** ("Reading the court books", from the footer and from
-each court-book holding's page). The examples then link straight to the page images and
-documents the edition already serves, and a reader can go from the guide's example to the
-whole entry. English first; German later, all at once, as with the other pages (the editor's
-word on the overhaul). No script on the pages (WORKING_NOTES: the viewer does not run it);
-"show the answer" panels are plain `<details>`.
+## 3. The shape of the book
 
-The alternative, a standalone PDF or booklet, is weighed in section 7.
+A title page and a short preface (who it is for, what it covers, how to use it with the edition),
+then chapters, each a few thousand words, meant to be read in order.
 
-## 3. The shape
+1. **Before you begin.** The courts (castle and land) and their books; what a volume is, how its
+   entries follow one another, the sitting heading and the entries under it; the volume's title on
+   the archive's catalogue (protocollon, inducta) - checked against the fonds descriptions and
+   Gloger before anything is said.
+2. **How an entry is built.** The general pattern every entry shares: the number in the margin,
+   the opening that brings the person before the court ("Ad Officium et Acta praesentia
+   Castrensia ... personaliter veniens ..."), the titles that place him, the act (recognovit,
+   manifestatur, decernit), the closing, the signature, the docket underneath.
+3. **The messenger's report** (relatio): who the general messenger was, the citation he served,
+   where and how he left it ("super mensa hippocaustorum ... reliquisse", in the presence of the
+   mother of the household, the steward, the clerk), the royal citation recited inside the report
+   ("Stanislaus Augustus Dei Gratia Rex ... Mandamus ut ... compareas").
+4. **The protest** (manifestatio): the grievance, the formula of protest, "Salvis de Jure
+   Salvandis".
+5. **The register note**, the certification, the delivery of possession: the short entries.
+6. **The acknowledgement and the transfer** (inscriptio): "Recognovit quia ...", the run of verbs of
+   cession ("cessit contulit transposuit transtulit et transfudit"), the vernacular words inside
+   (Tracholz's "Auscuk", the Polish "ręką trzymaną").
+7. **The decree of the land court**: the parties (Actor, Citatus), the "Judicium ... decernit", the
+   condescension (the hearing on the ground) and its vocabulary.
+8. **Dates.** Feria and feast; in Vigilia, in Crastino, post Dominicam; the movable Sundays; working
+   a date out, with the edition's own dated entries as the worked examples.
+9. **Abbreviations.** How the clerks abbreviated (suspension, contraction, the doubled consonant of
+   the plural and participle, the strokes on p and q); how to choose the ending by the case; the
+   hard contractions, one by one.
+10. **People and places in the Latin.** The ladder of titles (Magnificus, Generosus, Nobilis,
+    Famatus, Honoratus, Providus, Laboriosus ...); offices; kin (patruus, relicta, frater
+    germanus); the place adjective (Nieszczevicensis, Trąmpczynensis).
+11. **Where readers go wrong.** The traps of the edition's own transcriptions, from the logged
+    changes: minims, the p with a stroke, words skipped, the inserted line and its cross, the
+    struck word, and the word completed from the sense (Claude's own *hasce* for *hisce*).
+12. **Appendices**: the list of abbreviations with their expansions by case; the formulas in one
+    place; the feasts; further reading.
 
-### Part I - Foundations (common to every book)
+**Form on the site**: one page per chapter under /guide/court-books/, a contents page, previous and
+next at the foot; Latin quoted in italics with the English after it; a short Latin passage may be
+set out line by line with the English beside it. No script (WORKING_NOTES). English only.
 
-1. **The courts and their books.** The castle court (*gród*, *castrensis*) and the land court
-   (*ziemski*, *terrestris*); the grod office that kept the books open every day for
-   uncontested business; what *protocollon* and *inducta* mean on an archive's title (to be
-   checked against Gloger and the archives' fonds descriptions before anything is said; the
-   edition holds the descriptions of the Pyzdry and Kalisz fonds in `reference/sources/`).
-2. **The page.** Entry numbers in the margin ("No 39"); the heading of a sitting ("Actum in
-   Castro ... Feria Sexta in Crastino Festi ..."), which governs the entries **below** it; the
-   docket under an entry ("Super Transfusionem ..."), which names it; signatures, including the
-   *ręką trzymaną* of a man who could not write; insertions marked with crosses, struck words,
-   marginal notes, catchwords. Each shown on a crop from the edition's scans.
-3. **Dates.** The *feria* (Feria 2da = Monday) with the feast it counts from ("in Vigilia",
-   "in Crastino", "post festum"); the movable Sundays (Septuagesima, Invocavit, Laetare); a short
-   table of the feasts the edition's entries use, each with a real example and the date worked
-   out. Months written with numerals (*8bris* = October).
-4. **Abbreviation.** The kinds, each with the commonest examples from the corpus: suspension
-   (*Calissien~*), contraction (*Cond~nis*), doubled consonants for plurals and participles
-   (*Citt~* = Citatus/Citati, *Actt~* = Actorum ...), the strokes on p and q, *&c.*, *Mpcus* /
-   *Mci* for Magnificus, superscript endings. How the edition writes them: the letters on the
-   page, the supplied letters in square brackets (the editor's ruling of 2026-11-22), the tilde
-   in the older holdings.
-5. **People.** The ladder of courtesy titles and who gets which (the magnate, the noble, the
-   townsman, the merchant, the court messenger, the peasant: the edition's examples of each);
-   offices (*Capitaneus* = starost, *Succamerarius*, *Thesaurarius Vschovensis* ...); relations
-   (*patruus*, *relicta*, *frater germanus*, *successores*).
-6. **Places.** The adjective of the place (*Nieszczevicensis*, *Trąmpczynensis*), *de villa*,
-   *in*, *haeres bonorum*; how the edition identifies them (the register and the gazetteer).
-7. **The vernacular in the Latin.** Polish formulas and Polish entries; German words in Polish
-   spelling (*Auscuk*); trade words; *vulgo*; money and measures (imperials, florins, groschen,
-   ducats, *mansi* and *łany*).
-8. **The hand.** The letter shapes that mislead: minims (r/n/u/m - *Fericorum* or *Fenicorum*),
-   c and t, the long s, e with a tail, the clerk's p-stroke, figures. Shown as crops paired
-   with the edition's settled reading.
-9. **How to transcribe.** Short and practical, from the edition's rules: mark doubt, never complete
-   a word from the sense (with the edition's own mistakes as examples: *hasce* for *hisce*),
-   leave struck words out, follow the crosses, keep the scribe's spelling.
+## 4. How it is made (sub-agents first)
 
-### Part II - One chapter per kind of book or entry
-
-Each chapter has the same parts: what the book is and who comes to it; the **skeleton** of the
-entry (the formula, line by line, with the English beside it and the parts that change marked);
-the words and abbreviations of that kind; **one worked example** from the edition (crop, the
-transcription with the abbreviations shown and expanded, the English, a link to the document);
-**a second example to try**, with the answer behind a `<details>`; and what to watch for.
-
-1. **Messengers' reports** (*relationes ministeriales*): "Ad officium et acta praesentia
-   castrensia ... personaliter veniens Providus ... Ministerialis Regni Generalis ... recognovit
-   se ... citationem ... reposuisse". The commonest entry in the edition (28).
-2. **Royal citations**, as the reports recite them: "Stanislaus Augustus Dei Gratia Rex Poloniae
-   ... Tibi ... Mandamus ut ... compareas".
-3. **Protests** (*manifestationes*): "... manifestatur solennissime ...", with Antoni Prusimski's
-   protests of 1778 as the examples (17).
-4. **Register notes** (29): the one-line entries, and how to tell what they are.
-5. **Oblata**: a document brought in to be copied into the book: the boundary decree of 1775
-   (Konin Gr.145, in Polish) and of 1782 (Gr.153).
-6. **Inscriptions** (*inscriptiones*): the voluntary acknowledgement before the court,
-   "Recognovit quia ..."; transfer and cession, *cessit contulit transposuit transtulit et
-   transfudit*; Tracholz's transfer of 1768 (Pyzdry Gr.75) as the example, with its German words.
-7. **Decrees of the land court**: "Inter ... Actorem ... et ... Citatum ... Judicium ...
-   decernit"; condescension (a hearing on the ground); the decrees of 53/6/0/-/40 to -/47 and
-   the condescension decree of 1784 (Poznań Gr.1181).
-8. **Deliveries of possession and certifications** (Kalisz Gr.414 and the certifications).
-9. **Copies of privileges**: the medieval charter's formulas (invocation, witness list, dating),
-   from the Ląd copy-book and the Kodeks Dyplomatyczny Wielkopolski.
-10. **Resignations** (*resignationes*): not in the edition. Either written later from an entry the
-    editor supplies, or left out (section 7).
-
-### Part III - Reference
-
-The abbreviation list (every tilde form of the corpus with its expansion, its count and a link to
-an example); the feast calendar; the titles ladder; offices; money and measures; the place
-adjectives (from `reference/places.yml`); the legal terms (links into the existing glossary,
-466 entries' worth of patterns); further reading (Gloger's *Encyklopedia staropolska*, Cappelli's
-*Lexicon abbreviaturarum*, Grotefend for dates, the archives' fonds descriptions).
-
-## 4. How it would be made (sub-agents first)
-
-1. **Harvest by script** (free): every tilde form with its context and expansion where the
-   edition already settled one; every title, office, feast and *feria* formula; the openings of
-   each kind of entry (the first 25 words of every document by `doc_type`); the vernacular words.
-   Into `reference/guide/*.yml`, each row pointing to its document and page.
-2. **Sonnet sub-agents**, one per chapter: from ten or more entries of the kind, propose the
-   skeleton (what is fixed, what varies) and pick the clearest example and the exercise. Claude
-   checks each skeleton against the entries and settles the readings.
-3. **Crops** of the examples by script from the page images the site already has
-   (`site/assets/scans/`), CSS backgrounds as on the spot sheet.
-4. **Claude writes the prose**, to HOUSE_STYLE; every fact about an institution checked first in
-   the edition's documents and the fonds descriptions, then Gloger (online, Wikisource); what
-   only a handbook says is attributed to it.
-5. **The editor's own voice and lessons**: a short list from the editor of what tripped them up
-   at the start is worth more than any handbook (section 7, question 5).
-6. **A build step and a check**: the guide's pages from the YAML and the chapters' Markdown, and
-   `verify_site.py` holding that every example's document and crop exists and that every
-   abbreviation in the list occurs in the corpus.
+1. **The harvest** (done 2026-11-26, `pipeline/guide/harvest.py`, free): `reference/guide/`
+   `abbreviations.yml` (321 tilde forms, 816 occurrences, each with its context),
+   `formulas.yml` (openings and closings of 81 Latin documents in seven kinds),
+   `difficult.yml` (1,387 logged changes: the checks' corrections and the graded changes).
+2. **Three Sonnet readers** (started 2026-11-26): every tilde occurrence expanded by its own case,
+   with the reason (`abbreviations_expanded.yml`); the changes sorted into lessons
+   (`difficult_lessons.yml`); the skeleton of each kind of entry (`skeletons.yml`). Claude checks
+   each before it is used.
+3. **Claude writes the chapters**, one at a time, the pilot first (chapter 3, the messenger's
+   report); the editor reads it and rules on the voice before the rest.
+4. **A build step and a check**: the chapter pages from Markdown in `guide/court-books/`;
+   `verify_site.py` holds that every document a chapter cites exists and every Latin quotation
+   stands in that document's transcription.
 
 ## 5. Order of work
 
-1. The harvest (step 1) and the abbreviation list: useful at once, and it shows how much each
-   chapter has to work with.
-2. **A pilot chapter: messengers' reports** (the most material, the simplest formula). The editor
-   reads it and rules on the form before the rest are written.
-3. Inscriptions (Tracholz) and protests; then decrees, oblata, citations, notes, deliveries,
-   privileges.
-4. Part I, written last from what the chapters needed, so it explains only what a reader meets.
-5. The German, all at once, at the editor's word.
+The harvest and the readers (now); the pilot chapter (the messenger's report); the editor's
+ruling on its voice; chapters 2, 4-7; then 8-11, which draw on all of them; chapter 1 and the
+preface last; the appendices from the data.
 
 ## 6. What the guide is not
 
@@ -168,15 +125,9 @@ Not a Latin grammar, not a general palaeography, and not a substitute for the ar
 inventories. It covers the books the edition holds, the hands those books were written in, and
 the years 1589-1792.
 
-## 7. Questions for the editor
+## 7. Questions settled, and still open
 
-1. **Home**: a section of the site (proposed), or a standalone PDF or booklet, or both?
-2. **Reader**: the English-speaking genealogist (proposed), or also the Polish reader (Polish
-   pages)?
-3. **Polish entries**: include the Polish-language court entries (the boundary decrees of 1775 and
-   1782, the closing formulas) in the guide, or Latin only?
-4. **Resignations**: leave them out until you supply an example, or write the chapter from the
-   general sources, marked so?
-5. **Your lessons**: would you write down, in a few lines each, what you found hardest at the
-   start, and what finally made it click? They would go into the guide in your words.
-6. **The pilot**: messengers' reports first (proposed), or another kind?
+Settled 2026-11-26: a web page on the site, reading like a book; Latin court books only; built
+on how entries are made, the tilde forms by case, and the edition's own difficult places.
+Open: the pilot chapter's voice (after it is written); whether the editor writes a short preface or
+a paragraph of their own experience.
