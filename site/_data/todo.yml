@@ -113,6 +113,27 @@ groups:
     note: ''
     editor_note: ''
     h: 9a198d7f
+- name: A guide to reading the Latin court records
+  items:
+  - id: t905-court-records-guide
+    title: Rule on the plan for a newcomer's guide to the court books
+    kind: decision
+    text: 'You asked on 2026-11-26 for a plan for a simple guide that helps a newcomer read the Latin
+      court records you have transcribed: abbreviation marks, the commonest abbreviated words, the structure
+      of entries, the German and Polish words inside the Latin, a chapter for each kind of record. The
+      plan is docs/COURT_RECORDS_GUIDE_PLAN.md: built from the edition''s own 24 court-book holdings,
+      every rule shown on a real entry with its page image, a chapter per kind (messengers'' reports,
+      citations, protests, notes, oblata, inscriptions, decrees, deliveries, privileges), and a reference
+      part. Its section 7 asks six questions; the first is where the guide lives.'
+    options:
+    - A section of the site (proposed)
+    - A standalone PDF or booklet
+    - Both
+    links: []
+    nc: ''
+    note: ''
+    editor_note: ''
+    h: 0816ee48
 - name: Prusimski-era court books, 1589-1788
   items:
   - id: t010-full-account-of-the
@@ -1638,8 +1659,8 @@ groups:
     h: 715308a8
 counts:
   question: 21
-  decision: 22
+  decision: 23
   task: 25
   claude: 11
   waiting: 9
-total: 88
+total: 89

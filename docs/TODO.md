@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-88 open: 21 question, 22 decision, 25 task, 11 claude, 9 waiting.
+89 open: 21 question, 23 decision, 25 task, 11 claude, 9 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -64,6 +64,19 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       the two scans, your Latin transcription and your English translation have to be in
       the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a
       desktop session. Nothing further on the holding can start until they are.
+
+## A guide to reading the Latin court records
+
+- [ ] **Rule on the plan for a newcomer's guide to the court books** (`t905-court-records-guide`, decision). You asked on 2026-11-26 for a plan for a simple guide that helps a newcomer read the
+      Latin court records you have transcribed: abbreviation marks, the commonest
+      abbreviated words, the structure of entries, the German and Polish words inside
+      the Latin, a chapter for each kind of record. The plan is
+      docs/COURT_RECORDS_GUIDE_PLAN.md: built from the edition's own 24 court-book
+      holdings, every rule shown on a real entry with its page image, a chapter per kind
+      (messengers' reports, citations, protests, notes, oblata, inscriptions, decrees,
+      deliveries, privileges), and a reference part. Its section 7 asks six questions;
+      the first is where the guide lives.
+      Options: A section of the site (proposed) / A standalone PDF or booklet / Both
 
 ## Prusimski-era court books, 1589-1788
 
