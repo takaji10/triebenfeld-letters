@@ -426,14 +426,30 @@
       .map(function (it) { return it._h; });
     LAST = {rows: rows, mt: mt, o: o};
     shown = PAGE;
-    setSourcesHidden(true);
+    // The Manuscripts list: a text that names a holding (its reference, title, archive)
+    // brings the holding's own card up above the documents.
+    var heldN = 0;
+    if (LIST && KIND === 'documents' && mt && cards.length) {
+      cards.forEach(function (c) {
+        var hits = 0;
+        for (var k = 0; k < mt.tests.length; k++) if (mt.tests[k].test(c.text)) hits++;
+        var ok = mt.any ? hits > 0 : hits === mt.tests.length;
+        ok = ok && (!f.archive || c.archive === f.archive) &&
+          (!f.type.length || f.type.some(function (t) { return c.types.indexOf(t) >= 0; }));
+        c.el.hidden = !ok;
+        if (ok) heldN++;
+      });
+      sortCards(order);
+    }
+    setSourcesHidden(heldN === 0);
     els.results.hidden = false;
 
     var noun = s_('f_n_' + KIND, '');
     els.count.textContent = (rows.length === DATA.length && !active)
       ? s_('f_showing_all', 'Showing all') + ' ' + rows.length + ' ' + noun
       : s_('f_showing', 'Showing') + ' ' + rows.length + ' / ' + DATA.length + ' ' + noun;
-    els.empty.hidden = rows.length > 0;
+    if (heldN) els.count.textContent = heldN + ' ' + (heldN === 1 ? s_('f_n_holding', 'holding') : s_('f_n_holdings', 'holdings')) + ' \u00b7 ' + els.count.textContent;
+    els.empty.hidden = rows.length > 0 || heldN > 0;
     paint();
   }
 
@@ -465,6 +481,7 @@
       var y = parseInt(el.getAttribute('data-date'), 10);
       return {el: el, az: fold((el.getAttribute('data-az') || '').replace(/[\[\]]/g, '')),
               date: isNaN(y) ? null : y, id: el.id,
+              text: (el.textContent || '').replace(/\s+/g, ' '),
               archive: el.getAttribute('data-archive') || '',
               types: (el.getAttribute('data-types') || '').split(' ').filter(Boolean)};
     });

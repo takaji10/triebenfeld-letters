@@ -6551,3 +6551,7 @@ sources-icon.html`).
 
 - **About** rewritten from about 2,340 to about 1,060 words (site/about.md): seven one-word headings (Documents, Method, Reading, Translations, Conventions, Citing); the archive-by-archive list, the story of the estates, the counts, the numbering and "What is still open" taken out; "the editor is an amateur palaeographer" taken out; the standfirst taken out. The German page is untouched, to be aligned later at the editor's word. HOUSE_STYLE: "About the edition" rewritten, a rule that headings are one word or very short.
 - **The language switch is off across the site** (the editor, 2026-11-26) until the German is aligned with the English: `language_switch: false` in site/_config.yml, read by `_layouts/default.html`; delete the line to bring it back. With no button a shared letter page stays English whatever a reader chose earlier; the /de/ pages stay at their addresses.
+
+## 2026-11-26 - Searching the Manuscripts list by holding
+
+- A text typed in the Manuscripts list's search box now also matches the holdings' own cards (reference, title, archive, description): "1/174/0/2/73" brings up the AGAD holding. The matching holding tiles stand above the documents found; before, the box searched the documents' text only and a reference found nothing. `assets/browse.js`.
