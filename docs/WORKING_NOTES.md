@@ -5542,3 +5542,6 @@ things learned while measuring it:
   old sheet's pixel hints, and missed the line. Each card now links to the whole page from the original scan
   (`/page/<slug>/<page id>` in `latin_audit.py serve`, the scan as cut at the folds); the card quotes the
   transcribed words to find. Do the same on every sheet: a link to the whole page, and the words to look for.
+- **Every page or sheet for the editor sets its link colours in both modes** (the editor, 2026-11-27: "The blue
+  link text doesn't work well with the dark background"): `a{color:var(--link)}`, `a:visited{...}`, with a
+  light blue in the dark scheme. The browser's default blue is unreadable on a dark background.
