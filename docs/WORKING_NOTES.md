@@ -5449,3 +5449,8 @@ things learned while measuring it:
   only the last bracketed gap failed every form with a gap inside (`Cit[at]os`).
 - **The doubled-consonant rule must match the same letter in the same case**: `Ssmae~` (Sanctissimae) is
   S with a superscript s, not a doubled consonant; a case-blind test dropped the capital.
+- **The editor's ruling on contractions (2026-11-27): each gap bracketed** (`v[e]n[ien]tis`). The
+  bracketing script matches the clerk's letters into the word left to right; where that gives three or
+  more gaps it takes the match from the end if it has fewer (`Condsnis~`: `Cond[escen]s[io]nis`, not
+  `Cond[e]s[ce]n[s]i[oni]s`). Two gaps are left as matched left to right, so that a gap stands where the
+  tilde is (`v[e]n[ien]tis`, the form the editor approved).

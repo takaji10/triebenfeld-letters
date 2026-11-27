@@ -64,7 +64,7 @@ itself, a witness, or the one possible sense. Where the expansion is not certain
 as written and the possibility goes in the holding's `intake/unresolved.md`.
 
 **Prepared in the cloud (2026-11-27; section 11).** The 837 tilde forms were expanded twice,
-independently, and the 430 that both readings give the same way with certainty are ready to apply
+independently, and the 451 that both readings give the same way with certainty are ready to apply
 (`reference/latin_audit/expansions.json`). The rest keep their tilde unless the page settles them.
 
 **The form of an expansion (the editor, 2026-11-27).** The tilde is dropped and the supplied letters
@@ -174,6 +174,8 @@ two readers and Claude's settling took about an hour for two pages. The pilot wi
 4. **Poznań Gr.1181:** "You can try it" - the audit takes its open spot sheet over.
 5. **The review:** "All at once" - one spot sheet at the end.
 6. **Publishing:** "Yes" - the corrected texts published batch by batch, at the editor's word each time.
+7. **Two or more gaps** (asked after the cloud preparation): "Each gap should be bracketed" -
+   `v[e]n[ien]tis`. Recorded in EDITORIAL_RULES; the 21 such forms moved into the ready list.
 
 ## 9. Running it on the desktop
 
@@ -238,13 +240,13 @@ What a cloud session could do without the scans, so that the desktop sitting onl
 - **The tilde expansions** (`reference/latin_audit/tildes.json`, every occurrence with its context, and
   `expansions.json`, the rows to apply). Each of the 837 forms was expanded twice: the guide's draft and
   a blind Sonnet reader given only the sentence (four readers, about 210 forms each). Then:
-  - **430 ready** (`expansions.json`, `ready`): both readings certain and the same, one gap, in the
-    editor's form (`Cit[ationes]`, `Calissien[sibus]`, `Cond[escensio]nis`); every group of them read by
-    Claude; three disagreements settled by Claude on the grammar (`ad acta Castren[sia] Coninen[sia]`,
-    `Eundem Illust[rem] M. Capit[aneum] Nieszczevicen[sem] habere`, `olim Magnif[icos] Antonium et
-    Paulum`). Each row is anchored on words without a tilde so that it stands exactly once on its page.
-  - **21 with two or more gaps** (`two_gaps`, e.g. `vn~tis` = v[e]n[ien]tis, `Mttis~` =
-    M[ajes]t[a]tis): wait on the editor's ruling on how such a contraction is bracketed.
+  - **451 ready** (`expansions.json`, `ready`): both readings certain and the same, in the editor's
+    form (`Cit[ationes]`, `Calissien[sibus]`, `Cond[escensio]nis`, and since the editor's word on
+    2026-11-27 each gap bracketed where letters are missing in two places: `v[e]n[ien]tis`,
+    `M[ajes]t[a]tis`; 21 such forms); every group of them read by Claude; three disagreements settled
+    by Claude on the grammar (`ad acta Castren[sia] Coninen[sia]`, `Eundem Illust[rem] M. Capit[aneum]
+    Nieszczevicen[sem] habere`, `olim Magnif[icos] Antonium et Paulum`). Each row is anchored on words
+    without a tilde so that it stands exactly once on its page; all 451 apply cleanly in a trial.
   - **5 certain but not anchored** (on Konin Gr.118, 119, 120: the same words twice on the page): the
     desktop session writes them by hand.
   - **381 keep their tilde**: one of the two readings unsure, or no draft (35), or a form whose letters

@@ -177,7 +177,34 @@ def bracket(written, full):
         gaps += 1
     if not gaps:
         return None, 0
-    return lead + ''.join(out) + b + tail, gaps
+    fwd = (lead + ''.join(out) + b + tail, gaps)
+    back = _from_end(head, fh)
+    if back and gaps >= 3 and back[1] < gaps:   # three or more gaps: the alignment with fewer (Condsnis~: Cond[escen]s[io]nis)
+        return lead + back[0] + b + tail, back[1]
+    return fwd
+
+
+def _from_end(head, fh):
+    """The letters of `head` matched in `fh` from the end backwards: (bracketed, gaps) or None."""
+    out, j, i = [], len(fh), len(head) - 1
+    gaps = 0
+    while i >= 0:
+        ch = head[i]
+        if i > 0 and head[i - 1] == ch and ch.lower() not in 'aeiouy' and fh[:j].lower().count(ch.lower()) < 2:
+            i -= 1
+            continue
+        k = j - 1
+        while k >= 0 and fh[k].lower() != ch.lower():
+            k -= 1
+        if k < 0 or (i == 0 and k != 0):
+            return None
+        if k + 1 < j:
+            out.append('[' + fh[k + 1:j] + ']')
+            gaps += 1
+        out.append(ch)
+        j = k
+        i -= 1
+    return ''.join(reversed(out)), gaps
 
 
 def _draft():

@@ -1,5 +1,5 @@
 {
- "note": "Tilde expansions prepared in the cloud (2026-11-27) for the Latin audit (docs/LATIN_AUDIT_PLAN.md, section 11). Each was expanded twice, independently: the guide's draft (reference/guide/abbreviations_expanded.yml) and a blind Sonnet reader given only the sentence; only those both marked certain and agreed on are here, three disagreements settled by Claude, every group read by Claude. Rows are [page id, old, new, why], in the form latin_audit.py apply takes (EXPAND). \"ready\": one gap, the editor's form (Cit[ationes]). \"two_gaps\": wait on the editor's ruling on the bracketing of a contraction with two or more gaps (v[e]n[ien]tis). The desktop session copies a holding's rows into units/<slug>/intake/latin_audit.json, less any the page shows to be otherwise.",
+ "note": "Tilde expansions prepared in the cloud (2026-11-27) for the Latin audit (docs/LATIN_AUDIT_PLAN.md, section 11). Each was expanded twice, independently: the guide's draft (reference/guide/abbreviations_expanded.yml) and a blind Sonnet reader given only the sentence; only those both marked certain and agreed on are here, three disagreements settled by Claude, every group read by Claude. Rows are [page id, old, new, why], in the form latin_audit.py apply takes (EXPAND). \"ready\": one gap, the editor's form (Cit[ationes]). Forms with two or more gaps are in \"ready\" too since the editor's ruling of 2026-11-27 (\"Each gap should be bracketed\": v[e]n[ien]tis). The desktop session copies a holding's rows into units/<slug>/intake/latin_audit.json, less any the page shows to be otherwise.",
  "ready": {
   "app53150kaliszgr424": [
    [
@@ -499,6 +499,78 @@
     "Manifest~ns",
     "Manifest[a]ns",
     "Manifest~ns: Manifestans (draft and blind reader agree)"
+   ],
+   [
+    "0035_a2",
+    "Condsnis~",
+    "Cond[escen]s[io]nis",
+    "Condsnis~: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a1",
+    "vn~tis",
+    "v[e]n[ien]tis",
+    "vn~tis: venientis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "vn~tis conductos",
+    "v[e]n[ien]tis conductos",
+    "vn~tis: venientis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "Vn~tem",
+    "V[e]n[ien]tem",
+    "Vn~tem: Venientem (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "vn~tis scopulos",
+    "v[e]n[ien]tis scopulos",
+    "vn~tis: venientis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "vn~tem ad",
+    "v[e]n[ien]tem ad",
+    "vn~tem: venientem (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "mentionatum) de praestito per vn~tem",
+    "mentionatum) de praestito per v[e]n[ien]tem",
+    "vn~tem: venientem (draft and blind reader agree)"
+   ],
+   [
+    "0072_a1",
+    "Mgco~",
+    "M[a]g[nifi]co",
+    "Mgco~: Magnifico (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Conds~nis Infrascriptae",
+    "Cond[e]s[censio]nis Infrascriptae",
+    "Conds~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "pnltr~",
+    "p[erso]n[a]l[i]t[e]r",
+    "pnltr~: personaliter (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Conds~nis in",
+    "Cond[e]s[censio]nis in",
+    "Conds~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Conds~nis factae",
+    "Cond[e]s[censio]nis factae",
+    "Conds~nis: Condescensionis (draft and blind reader agree)"
    ]
   ],
   "app53170koningr118": [
@@ -1509,6 +1581,30 @@
     "Trąmpczynen~",
     "Trąmpczynen[sis]",
     "Trąmpczynen~: Trąmpczynensis (draft and blind reader agree)"
+   ],
+   [
+    "0398_a2",
+    "Condnis~",
+    "Cond[escensio]nis",
+    "Condnis~: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0531_a1",
+    "Mafnis~",
+    "Ma[ni]f[estatio]nis",
+    "Mafnis~: Manifestationis (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Cong~bus Taczanowskim,",
+    "Con[ju]g[i]bus Taczanowskim,",
+    "Cong~bus: Conjugibus (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Cong~bus Kołaczkowskim,",
+    "Con[ju]g[i]bus Kołaczkowskim,",
+    "Cong~bus: Conjugibus (draft and blind reader agree)"
    ]
   ],
   "app53170koningr119": [
@@ -2379,6 +2475,36 @@
     "sabbo~",
     "sabb[at]o",
     "sabbo~: sabbato (draft and blind reader agree)"
+   ],
+   [
+    "0161_a",
+    "Ssmae~",
+    "S[ancti]s[si]mae",
+    "Ssmae~: Sanctissimae (draft and blind reader agree)"
+   ],
+   [
+    "0162_a",
+    "Mttis~",
+    "M[ajes]t[a]tis",
+    "Mttis~: Majestatis (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "subta~am",
+    "sub[s]ta[nti]am",
+    "subta~am: substantiam (draft and blind reader agree)"
+   ],
+   [
+    "0167_a",
+    "Mttis~",
+    "M[ajes]t[a]tis",
+    "Mttis~: Majestatis (draft and blind reader agree)"
+   ],
+   [
+    "0167_b",
+    "Ss~mi",
+    "S[ancti]s[si]mi",
+    "Ss~mi: Sanctissimi (draft and blind reader agree)"
    ]
   ],
   "app536046": [
@@ -2602,138 +2728,5 @@
    ]
   ]
  },
- "two_gaps": {
-  "app53170koningr117": [
-   [
-    "0035_a2",
-    "Condsnis~",
-    "Cond[e]s[ce]n[s]i[oni]s",
-    "Condsnis~: Condescensionis (draft and blind reader agree)"
-   ],
-   [
-    "0058_a1",
-    "vn~tis",
-    "v[e]n[ien]tis",
-    "vn~tis: venientis (draft and blind reader agree)"
-   ],
-   [
-    "0058_a2",
-    "vn~tis conductos",
-    "v[e]n[ien]tis conductos",
-    "vn~tis: venientis (draft and blind reader agree)"
-   ],
-   [
-    "0058_a2",
-    "Vn~tem",
-    "V[e]n[ien]tem",
-    "Vn~tem: Venientem (draft and blind reader agree)"
-   ],
-   [
-    "0058_a2",
-    "vn~tis scopulos",
-    "v[e]n[ien]tis scopulos",
-    "vn~tis: venientis (draft and blind reader agree)"
-   ],
-   [
-    "0058_a2",
-    "vn~tem ad",
-    "v[e]n[ien]tem ad",
-    "vn~tem: venientem (draft and blind reader agree)"
-   ],
-   [
-    "0058_a2",
-    "mentionatum) de praestito per vn~tem",
-    "mentionatum) de praestito per v[e]n[ien]tem",
-    "vn~tem: venientem (draft and blind reader agree)"
-   ],
-   [
-    "0072_a1",
-    "Mgco~",
-    "M[a]g[nifi]co",
-    "Mgco~: Magnifico (draft and blind reader agree)"
-   ],
-   [
-    "0072_a2",
-    "Conds~nis Infrascriptae",
-    "Cond[e]s[censio]nis Infrascriptae",
-    "Conds~nis: Condescensionis (draft and blind reader agree)"
-   ],
-   [
-    "0072_a2",
-    "pnltr~",
-    "p[erso]n[a]l[i]t[e]r",
-    "pnltr~: personaliter (draft and blind reader agree)"
-   ],
-   [
-    "0072_a2",
-    "Conds~nis in",
-    "Cond[e]s[censio]nis in",
-    "Conds~nis: Condescensionis (draft and blind reader agree)"
-   ],
-   [
-    "0072_a2",
-    "Conds~nis factae",
-    "Cond[e]s[censio]nis factae",
-    "Conds~nis: Condescensionis (draft and blind reader agree)"
-   ]
-  ],
-  "app53170koningr118": [
-   [
-    "0398_a2",
-    "Condnis~",
-    "Cond[esce]n[s]i[oni]s",
-    "Condnis~: Condescensionis (draft and blind reader agree)"
-   ],
-   [
-    "0531_a1",
-    "Mafnis~",
-    "Ma[ni]f[estatio]nis",
-    "Mafnis~: Manifestationis (draft and blind reader agree)"
-   ],
-   [
-    "0623_a1",
-    "Cong~bus Taczanowskim,",
-    "Con[ju]g[i]bus Taczanowskim,",
-    "Cong~bus: Conjugibus (draft and blind reader agree)"
-   ],
-   [
-    "0623_a1",
-    "Cong~bus Kołaczkowskim,",
-    "Con[ju]g[i]bus Kołaczkowskim,",
-    "Cong~bus: Conjugibus (draft and blind reader agree)"
-   ]
-  ],
-  "app5320pozgr1181": [
-   [
-    "0161_a",
-    "Ssmae~",
-    "S[ancti]s[si]mae",
-    "Ssmae~: Sanctissimae (draft and blind reader agree)"
-   ],
-   [
-    "0162_a",
-    "Mttis~",
-    "M[ajes]t[a]tis",
-    "Mttis~: Majestatis (draft and blind reader agree)"
-   ],
-   [
-    "0166_a",
-    "subta~am",
-    "sub[s]ta[nti]am",
-    "subta~am: substantiam (draft and blind reader agree)"
-   ],
-   [
-    "0167_a",
-    "Mttis~",
-    "M[ajes]t[a]tis",
-    "Mttis~: Majestatis (draft and blind reader agree)"
-   ],
-   [
-    "0167_b",
-    "Ss~mi",
-    "S[ancti]s[si]mi",
-    "Ss~mi: Sanctissimi (draft and blind reader agree)"
-   ]
-  ]
- }
+ "two_gaps": {}
 }

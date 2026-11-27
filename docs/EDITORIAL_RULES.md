@@ -199,6 +199,12 @@ than where it sits.
   the plural is written once**: `Citt~` is `Cit[ationes]`. **A form whose
   expansion is not certain keeps its tilde** ("Leave them with a tilde"), and
   no doubtful expansion such as `notificat[am?]` is written.
+  **A contraction with letters missing in more than one place brackets each
+  gap** (the editor, 2026-11-27: "Each gap should be bracketed"):
+  `vn~tis` is `v[e]n[ien]tis`, `Mttis~` is `M[ajes]t[a]tis`, `Cong~bus` is
+  `Con[ju]g[i]bus`. Where the clerk's letters could be placed in the word in
+  more than one way, the placing with fewer brackets is taken
+  (`Condsnis~` is `Cond[escen]s[io]nis`).
 - **An initial that is read, with the name supplied**, is written with the
   supplied letters in square brackets and no mark of doubt (`G[oldbeck]`,
   `A[lvensleben]`), and only where the name follows from something other

@@ -1415,13 +1415,13 @@
   "draft": "Condescensionis",
   "draft_sure": "yes",
   "draft_reason": "gen. sg. after Termino (\"in Termino Eodem Condescensionis praefixo\")",
-  "bracketed": "Cond[e]s[ce]n[s]i[oni]s",
+  "bracketed": "Cond[escen]s[io]nis",
   "gaps": 4,
   "blind": "Condescensionis",
   "blind_sure": "yes",
   "blind_case": "gen. sg.",
   "blind_why": "Termino",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 141
  },
  {
@@ -1835,7 +1835,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg.",
   "blind_why": "sui",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 45
  },
  {
@@ -2087,7 +2087,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg.",
   "blind_why": "pro parte",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 37
  },
  {
@@ -2123,7 +2123,7 @@
   "blind_sure": "yes",
   "blind_case": "acc. sg.",
   "blind_why": "per",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 99
  },
  {
@@ -2177,7 +2177,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg.",
   "blind_why": "pro parte",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 127
  },
  {
@@ -2195,7 +2195,7 @@
   "blind_sure": "yes",
   "blind_case": "acc. sg.",
   "blind_why": "per",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 134
  },
  {
@@ -2267,7 +2267,7 @@
   "blind_sure": "yes",
   "blind_case": "acc. sg.",
   "blind_why": "per",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 248
  },
  {
@@ -2527,7 +2527,7 @@
   "blind_sure": "yes",
   "blind_case": "dat. sg.",
   "blind_why": "Subjudici",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 150
  },
  {
@@ -2689,7 +2689,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg.",
   "blind_why": "Termino",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 76
  },
  {
@@ -2761,7 +2761,7 @@
   "blind_sure": "yes",
   "blind_case": "adv.",
   "blind_why": "",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 126
  },
  {
@@ -2995,7 +2995,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg.",
   "blind_why": "Injunctae",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 312
  },
  {
@@ -3067,7 +3067,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg.",
   "blind_why": "Terminum",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 560
  },
  {
@@ -4188,13 +4188,13 @@
   "draft": "Condescensionis",
   "draft_sure": "yes",
   "draft_reason": "gen. sg. after pro T[ermino]",
-  "bracketed": "Cond[esce]n[s]i[oni]s",
+  "bracketed": "Cond[escensio]nis",
   "gaps": 3,
   "blind": "Condescensionis",
   "blind_sure": "yes",
   "blind_case": "gen. sg. fem.",
   "blind_why": "Termini Condescensionis",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 11
  },
  {
@@ -6822,7 +6822,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg. fem.",
   "blind_why": "Salva praesentis Manifestationis melioratione",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 154
  },
  {
@@ -7560,7 +7560,7 @@
   "blind_sure": "yes",
   "blind_case": "dat. pl. m.",
   "blind_why": "utrisque Conjugibus, dative list of addressees",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 129
  },
  {
@@ -7614,7 +7614,7 @@
   "blind_sure": "yes",
   "blind_case": "dat. pl. m.",
   "blind_why": "Utrisque Conjugibus",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 153
  },
  {
@@ -11780,7 +11780,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg. fem.",
   "blind_why": "Sanctissimae et Individuae Trinitatis",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 3
  },
  {
@@ -12189,7 +12189,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg. fem.",
   "blind_why": "Sacrae Regiae Majestatis",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 80
  },
  {
@@ -13259,7 +13259,7 @@
   "blind_sure": "yes",
   "blind_case": "acc. sg. fem.",
   "blind_why": "",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 17
  },
  {
@@ -14198,7 +14198,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg. fem.",
   "blind_why": "",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 395
  },
  {
@@ -14386,7 +14386,7 @@
   "blind_sure": "yes",
   "blind_case": "gen. sg. neut.",
   "blind_why": "Festi Sanctissimi Corporis Christi",
-  "status": "certain, two gaps",
+  "status": "certain",
   "word": 313
  },
  {
