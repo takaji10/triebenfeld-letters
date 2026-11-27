@@ -25,18 +25,20 @@ repository; they are on the working machine.
   instituto cessit contulit"). Recorded in `units/app5321pyzdrygr75/notes.md`.
 - **Still doubtful, left as written:** "iure[?]" (Claude saw "aere", from his own money: not taken up),
   "Da[m/s?]" and the flourish after "concedens", the docket's "in Per", "[ordine?]", "Stru[i]um".
-- **"Fenicorum[?]" sex** (13 groschen, 6 pfennigs?): the editor read "sex" and could not settle the word
-  before it (Ferricorum, Fenicorum, Fersicorum); Claude chose Fenicorum from the series imperial, grosz, fenig
-  and the r/n minim confusion. The English says "6 pfennigs" with a doubt mark; summaries say "wie es
-  scheint".
+- **"Fenicorum[?]" sex** (13 groszy, 6 Pfennig): the editor read "sex" and could not settle the word
+  before it; Claude chose Fenicorum. **Rendered "Pfennig"** at the editor's word (2026-11-26), the form the
+  glossary heads.
 - **Not answered, left as Claude changed them:** "Manifeste Recedendo &c[etera]", "expositam",
   "manualibus ac" and "Regestris" at the head of the verso, "Actaq[ue]", "Sup[er]".
 - **Pine or oak?** The transfer says "Borris et sylvis" (pine forests); the protest of 1778
   (Konin Gr.117, doc. 3) says the 1744 contract was for oak timber ("silvae Quercineae"),
   and Gr.120, doc. 2 "an oak wood". The edition keeps each document's word.
 - **Tilde forms:** expanded in brackets where certain (the editor, 2026-11-26); only "recog[ni]tioni" was; "alisculi~" is unresolved and stands.
-- **Rows of `reference/translation_rulings.json` that are Claude's own** (not the editor's): "Dominium"
-  rendered "dominion", and the marker counts of "fun[d?]u[m?]" (now moot) and "Stru[i]um".
+- **Three rows of `reference/translation_rulings.json` are Claude's own** (not the editor's), each
+  clearing a row the translation check would raise: "Dominium" rendered "dominion" (a legal sense, not the
+  manorial lordship); page 2's eight marks of doubt in the Latin against six in the English (letter-level
+  marks inside one word); "stacks[?]" in the English for the Latin "Stru[i]um". Two earlier rows (the marks
+  of "fun[d?]u[m?]" and a count on page 1) were removed 2026-11-26: the text they cleared had changed.
 
 ## The site overhaul (2026-11-24, docs/SITE_OVERHAUL_PLAN.md)
 
