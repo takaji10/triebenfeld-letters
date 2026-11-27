@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-88 open: 21 question, 23 decision, 25 task, 11 claude, 8 waiting.
+89 open: 21 question, 24 decision, 25 task, 11 claude, 8 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -64,6 +64,15 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       and 49 rows of the old Poznań Gr.1181 sheet. Ask Claude to serve it
       (latin_audit.py serve, then 127.0.0.1:4102 in the browser): click an answer on
       each card, and the answers save as you go.
+      Concerns: [Poznań Gr.1181](/sources/app5320pozgr1181/)
+
+- [ ] **Should the index find the Latin place adjectives?** (`t911-latin-place-adjectives`, decision). The place index finds Kalisz, Konin and Pyzdry only in their Polish and German forms,
+      never in the court books' Latin adjectives (Calissiensis, Coninensis, Pyzdrensis).
+      Poznań Gr.1181 was on those places' lists only through the modern names in
+      brackets, which came out at your word on 2026-11-27, so it has dropped off them.
+      Teaching the index the Latin forms would bring in every court book's court and
+      district formulas, each read before it is adopted.
+      Options: Leave the index as it is / Index the Latin adjectives too (Claude reads every new match first)
       Concerns: [Poznań Gr.1181](/sources/app5320pozgr1181/)
 
 - [ ] **Where are the scans of Oe 1 Bü 14526 now?** (`t910-oe1bu14526-scans`, task). The Latin deed in Oe 1 Bü 14526 could not be audited. Its scans were recorded in your

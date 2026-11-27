@@ -23,3 +23,8 @@ changes:
   what: "About sixty further words read again where both readers agree, most of them marks of doubt lifted (millium, efficere, non plus, centum, quadringentorum, interregni, praecipue, permisit, evidenter, cessisse, competere ...) and some misreadings (Canitaneum for Capnei, praecisse for praecipue, Patrini for Patrui, Undeum for Undecem, ex lige for ex lege). The full list with the reasons is in the holding's transcription_decisions.csv. 57 tilde forms expanded where the case is certain. Latin audit."
   was: "(see the list)"
   now: "(see the list)"
+- importance: wording
+  new: "2026-11-27"
+  what: "At your word, no modern names beside the words: the place adjectives are expanded in the Latin, the ending from the sentence (in Palatinatu Calis[siensi] et Districtu Coninen[si]; in Palatinatu et Districtu Pos[naniensi]; Tribuni Covalien[sis]; Regente Terrestri Vielun[ensi]), Brm~ is B[ono]r[u]m, and \"Pyzdra\" keeps its letters alone."
+  was: "Calis[ssens?][Kalisz] ... Coninen[sem?][Konin] ... Pos~[Poznan] ... Covalien[sis?][Kowal] ... Vielun[em?][Wieluń?] ... Brm~[Bonorum?] ... Pyzdra[Pyzdry?]"
+  now: "Calis[siensi] ... Coninen[si] ... Pos[naniensi] ... Covalien[sis] ... Vielun[ensi] ... B[ono]r[u]m ... Pyzdra"

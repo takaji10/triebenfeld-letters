@@ -8,7 +8,7 @@
     python pipeline/review/latin_audit.py strips <slug> [--web]
     python pipeline/review/latin_audit.py texts <slug>        # each page's text, numbered, for the readers
     python pipeline/review/latin_audit.py crop <slug> <band file> <x0,y0,x1,y1 fractions> <name>
-    python pipeline/review/latin_audit.py apply <slug> [--write]
+    python pipeline/review/latin_audit.py apply <slug> [--write] [--file <name in intake/>]
     python pipeline/review/latin_audit.py impact <slug>       # what else a holding's applied audit touches
     python pipeline/review/latin_audit.py sheet               # the one spot sheet, from questions.csv
     python pipeline/review/latin_audit.py serve [--read]      # the same with buttons; answers saved at once
@@ -386,8 +386,8 @@ def _corpus(slug):
     return path, io.open(path, encoding='utf-8').read().split('\n')
 
 
-def cmd_apply(slug, write=False):
-    rec = json.load(io.open(os.path.join(ROOT, 'units', slug, 'intake', 'latin_audit.json'), encoding='utf-8'))
+def cmd_apply(slug, write=False, name='latin_audit.json'):
+    rec = json.load(io.open(os.path.join(ROOT, 'units', slug, 'intake', name), encoding='utf-8'))
     path, lines = _corpus(slug)
     pad_of = {}
     for l in in_scope() + [x for x in _letters() if x['unit'] == slug]:
@@ -760,7 +760,7 @@ if __name__ == '__main__':
     elif a[0] == 'texts':
         cmd_texts(a[1])
     elif a[0] == 'apply':
-        cmd_apply(a[1], '--write' in a)
+        cmd_apply(a[1], '--write' in a, a[a.index('--file') + 1] if '--file' in a else 'latin_audit.json')
     elif a[0] == 'impact':
         cmd_impact(a[1])
     elif a[0] == 'sheet':

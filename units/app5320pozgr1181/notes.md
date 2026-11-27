@@ -265,3 +265,10 @@ scan map").
 ## The Latin audit (2026-11-27)
 
 The audit took over the open spot sheet of 2026-10-26 (the editor: "You can try it"). Read on the original scans by four Sonnet led readers (pages split between them), who also answered the old sheet's rows, and four Sonnet blind readers, who were given the words on either side of 234 places and read them without the transcription. A script compared the two readings (agree 82, differ 77, the blind reader unsure 65, the blind reader with the transcription 10). Claude read the 82 agreements and kept 75 as corrections (seven were not true agreements: Subdapiferida/Subcapitaneo, Suadentium/Tradentium, Velles/Pelles, summam/Summa, argenteriam, insistentes/insidentes, asseuratam); the skipped line of 167 verso was confirmed on the band by Claude. The prepared tilde expansions applied (57 of 58; "quo~" was overtaken by "quoq~"). Not applied, and on the audit's spot sheet: the 77 readings where the two readers differ are left as transcribed (no question for each: they are the doubts the edition already marks); three clauses a reader saw skipped on leaves 161, 162 and 167 verso, which the second reader did not confirm; "Mca" at the foot of 163; and the 49 rows of the old sheet that the audit did not settle, each with the led reader's reading as an option. The 108 completions withdrawn in October were not re-applied; the 75 corrections are each from the page.
+
+**No modern names beside the words** (the editor, 2026-11-27; EDITORIAL_RULES). Seven words that carried a
+modern name in brackets are now expanded in the Latin, the ending from the sentence
+(`intake/latin_audit_glosses.json`): Vielun[ensi], B[ono]r[u]m, Calis[siensi], Coninen[si], Pos[naniensi],
+Covalien[sis]; "Pyzdra" keeps its letters alone. The place index had matched the bracketed modern names, so
+the holding is no longer listed under Kalisz, Konin and Pyzdry (to-do t911 asks whether the index should
+learn the Latin adjectives).

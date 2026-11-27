@@ -5557,3 +5557,7 @@ things learned while measuring it:
   colour for each mode). Where the question's words no longer stand as written (a part-word like "-kowski",
   an expansion since applied, a line join), `questions.csv` has a `find` column with the words to look up.
   Building the quotations also caught a wrong question: Gr.153's "missing" insertion was in the text all along.
+- **The place index can live on a transcription's brackets.** Poznań Gr.1181 was listed under Kalisz, Konin and
+  Pyzdry only because "[Kalisz]", "[Konin]", "[Pyzdry?]" stood in brackets after the Latin words; the places'
+  patterns (`reference/places.yml`) match no Latin adjective (Calissiensis, Coninensis, Pyzdrensis) anywhere.
+  When brackets come out of a text, compare `site/_data/places_named.yml` before and after the rebuild.

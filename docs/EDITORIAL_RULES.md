@@ -205,6 +205,16 @@ than where it sits.
   `Con[ju]g[i]bus`. Where the clerk's letters could be placed in the word in
   more than one way, the placing with fewer brackets is taken
   (`Condsnis~` is `Cond[escen]s[io]nis`).
+  **No modern name beside a word** (the editor, 2026-11-27: "I don't want to see
+  expansions handled like this: 'Pos~[Poznan]' and 'Calis[ssens?][Kalisz]' - I
+  don't want the modern spelling beside the word. I just want the word
+  expanded"). A place adjective is expanded in the Latin, the ending as the
+  sentence requires: `Pos~[Poznan]` is `Pos[naniensi]` (in Palatinatu et
+  Districtu), `Calis[ssens?][Kalisz]` is `Calis[siensi]`, `Covalien[sis?][Kowal]`
+  is `Covalien[sis]` (Tribuni). Where the letters are not a stem to expand
+  (`Pyzdra[Pyzdry?]`), the clerk's letters stand alone. The modern name belongs
+  in the English and the index, never in the transcription. Applied to Poznań
+  Gr.1181 the same day (seven words).
 - **An initial that is read, with the name supplied**, is written with the
   supplied letters in square brackets and no mark of doubt (`G[oldbeck]`,
   `A[lvensleben]`), and only where the name follows from something other

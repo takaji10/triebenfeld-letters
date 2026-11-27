@@ -103,6 +103,20 @@ items:
     label: Poznań Gr.1181
   nc: ''
   audit_note: ''
+- id: t911-latin-place-adjectives
+  group: The Latin transcriptions, all court books
+  title: Should the index find the Latin place adjectives?
+  kind: decision
+  text: 'The place index finds Kalisz, Konin and Pyzdry only in their Polish and German forms, never in the court books'' Latin adjectives (Calissiensis, Coninensis, Pyzdrensis). Poznań Gr.1181 was on those places'' lists only through the modern names in brackets, which came out at your word on 2026-11-27, so it has dropped off them. Teaching the index the Latin forms would bring in every court book''s court and district formulas, each read before it is adopted.'
+  options:
+  - Leave the index as it is
+  - Index the Latin adjectives too (Claude reads every new match first)
+  links:
+  - type: unit
+    slug: app5320pozgr1181
+    label: Poznań Gr.1181
+  nc: ''
+  audit_note: ''
 - id: t910-oe1bu14526-scans
   group: The Latin transcriptions, all court books
   title: Where are the scans of Oe 1 Bü 14526 now?

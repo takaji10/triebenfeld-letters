@@ -17158,7 +17158,7 @@
  {
   "entity": "kalisz",
   "display": "Kalisz (Kalisch)",
-  "count": 222,
+  "count": 221,
   "documents": [
    "adwl85-1",
    "agad118501169-1",
@@ -17170,7 +17170,6 @@
    "apl399806603-5",
    "app53170koningr145-1",
    "app53170koningr153-1",
-   "app5320pozgr1181-1",
    "app5371057-1",
    "app539680716-2",
    "app539680716-3",
@@ -17370,15 +17369,6 @@
     "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
     "line": 3,
     "doc_line": 1
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Kalisz",
-    "page": 5,
-    "page_id": "0163_a",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-    "line": 53,
-    "doc_line": 42
    },
    {
     "uid": "adwl85-1",
@@ -34342,7 +34332,7 @@
  {
   "entity": "konin",
   "display": "Konin",
-  "count": 96,
+  "count": 95,
   "documents": [
    "adwl85-1",
    "apl399801333-1",
@@ -34350,7 +34340,6 @@
    "app53170koningr117-8",
    "app53170koningr118-27",
    "app53170koningr145-1",
-   "app5320pozgr1181-1",
    "app5371057-1",
    "app539680669-1",
    "app539680801-2",
@@ -34607,15 +34596,6 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
     "line": 146,
     "doc_line": 2
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Konin",
-    "page": 5,
-    "page_id": "0163_a",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
-    "line": 53,
-    "doc_line": 42
    },
    {
     "uid": "adwl85-1",
@@ -45611,14 +45591,13 @@
  {
   "entity": "pyzdry",
   "display": "Pyzdry (Peisern)",
-  "count": 35,
+  "count": 34,
   "documents": [
    "agad14320139-2",
    "app5314550221-2",
    "app5314550221-4",
    "app5314550221-6",
    "app53170koningr153-1",
-   "app5320pozgr1181-1",
    "app536045-1",
    "app53640kalisztab21-1",
    "app539680669-1",
@@ -45781,15 +45760,6 @@
     "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
     "line": 32,
     "doc_line": 22
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Pyzdry",
-    "page": 8,
-    "page_id": "0164_b",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
-    "line": 62,
-    "doc_line": 45
    },
    {
     "uid": "app53640kalisztab21-1",
@@ -54872,92 +54842,6 @@
   ]
  },
  {
-  "entity": "wielun",
-  "display": "Wieluń",
-  "count": 8,
-  "documents": [
-   "app53170koningr153-1",
-   "app5320pozgr1181-1",
-   "app539680545-7",
-   "ihagrrep7cnr3067-1",
-   "oe1bu9454-177"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Vielun",
-    "page": 12,
-    "page_id": "1397_a1",
-    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
-    "line": 43,
-    "doc_line": 30
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Vielun",
-    "page": 1,
-    "page_id": "0161_a",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-    "line": 34,
-    "doc_line": 32
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Wieluń",
-    "page": 1,
-    "page_id": "0161_a",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-    "line": 34,
-    "doc_line": 32
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Vielun",
-    "page": 1,
-    "page_id": "0161_a",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-    "line": 37,
-    "doc_line": 35
-   },
-   {
-    "uid": "ihagrrep7cnr3067-1",
-    "surface": "Wielun",
-    "page": 5,
-    "page_id": "0008_a1",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a1-L1_05.jpg",
-    "line": 123,
-    "doc_line": 117
-   },
-   {
-    "uid": "ihagrrep7cnr3067-1",
-    "surface": "Wielun",
-    "page": 6,
-    "page_id": "0008_a2",
-    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L1_06.jpg",
-    "line": 152,
-    "doc_line": 145
-   },
-   {
-    "uid": "oe1bu9454-177",
-    "surface": "Wieluń",
-    "page": 7,
-    "page_id": "0334_a2",
-    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
-    "line": 12634,
-    "doc_line": 139
-   },
-   {
-    "uid": "app539680545-7",
-    "surface": "Wieluń",
-    "page": 1,
-    "page_id": "0032_a",
-    "scan": "APP_53_968_0_545_0032_a.jpg",
-    "line": 215,
-    "doc_line": 20
-   }
-  ]
- },
- {
   "entity": "prusinowo",
   "display": "Prusinowo",
   "count": 8,
@@ -55199,6 +55083,83 @@
     "scan": "APP_53_64_0_Kalisz_Tab_21_0019_b-L1_11.jpg",
     "line": 340,
     "doc_line": 321
+   }
+  ]
+ },
+ {
+  "entity": "wielun",
+  "display": "Wieluń",
+  "count": 7,
+  "documents": [
+   "app53170koningr153-1",
+   "app5320pozgr1181-1",
+   "app539680545-7",
+   "ihagrrep7cnr3067-1",
+   "oe1bu9454-177"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Vielun",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 43,
+    "doc_line": 30
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Vielun",
+    "page": 1,
+    "page_id": "0161_a",
+    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+    "line": 34,
+    "doc_line": 32
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Vielun",
+    "page": 1,
+    "page_id": "0161_a",
+    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+    "line": 37,
+    "doc_line": 35
+   },
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Wielun",
+    "page": 5,
+    "page_id": "0008_a1",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a1-L1_05.jpg",
+    "line": 123,
+    "doc_line": 117
+   },
+   {
+    "uid": "ihagrrep7cnr3067-1",
+    "surface": "Wielun",
+    "page": 6,
+    "page_id": "0008_a2",
+    "scan": "I_HA_Rep_7_C_Nr_3067_0008_a2-L1_06.jpg",
+    "line": 152,
+    "doc_line": 145
+   },
+   {
+    "uid": "oe1bu9454-177",
+    "surface": "Wieluń",
+    "page": 7,
+    "page_id": "0334_a2",
+    "scan": "Oe_1_Bu_9454_0334_a2-L177_07.jpg",
+    "line": 12634,
+    "doc_line": 139
+   },
+   {
+    "uid": "app539680545-7",
+    "surface": "Wieluń",
+    "page": 1,
+    "page_id": "0032_a",
+    "scan": "APP_53_968_0_545_0032_a.jpg",
+    "line": 215,
+    "doc_line": 20
    }
   ]
  },
