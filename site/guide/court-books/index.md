@@ -7,7 +7,7 @@ lang: en
 
 The court books of Greater Poland were kept in Latin for most of their history. Every sale of land, every debt acknowledged, every summons served and every decree given before a court was entered in them, often in a clerk's fast hand and in an abbreviated Latin of formulas that changed little in two hundred years. Once the formulas are known, an entry can be read in its parts: who came before the court, what he declared, against whom, where, and when.
 
-This guide teaches those parts from the court books of the estates of Trąbczyn and Łukom, near Konin, and their neighbours. It is written for a reader who can look up a Latin word but has not read a Polish court book before. Each chapter takes one kind of entry, sets out how it is built, explains its words and abbreviations, and ends with a whole entry read part by part and a second entry to try.
+This guide teaches those parts from the entries about the estates of Trąbczyn and Łukom, near Konin, and their neighbours, in the court books of Konin, Kalisz, Pyzdry and Poznań. It is written for a reader who can look up a Latin word but has not read a Polish court book before. Most chapters take one kind of entry, set out how it is built, explain its words and abbreviations, and end with a whole entry read part by part and a second entry to try.
 
 ### The court books it is drawn from
 
@@ -15,14 +15,14 @@ The examples come from the State Archive in Poznań (Archiwum Państwowe w Pozna
 
 | Court | Books | Years |
 |---|---|---|
-| Municipal court (gród) of Konin | [Relationes, 1765–1788]({{ '/sources/app53170koningr117/' | relative_url }}) and Relationes-oblatae | 1754–1788 |
+| Municipal court (gród) of Konin | [Relationes]({{ '/sources/app53170koningr117/' | relative_url }}) (reports and other entries) and Relationes-oblatae (with documents brought in to be copied) | 1754–1788 |
 | Municipal court of Kalisz | [Relationes]({{ '/sources/app53150kaliszgr414/' | relative_url }}) | 1771–1776 |
-| Municipal court of Pyzdry | [Inscriptiones]({{ '/sources/app5321pyzdrygr75/' | relative_url }}) and Relationes | 1768; 1791–1792 |
-| Municipal court of Poznań | [Relationes]({{ '/sources/app5320pozgr1181/' | relative_url }}) | 1784–1786 |
-| Land court of Konin | [Decreta]({{ '/sources/app536046/' | relative_url }}) and Inscriptiones | 1589–1791 |
-| Land court of Kalisz | [Relationes, citationes]({{ '/sources/app534062/' | relative_url }}) | 1726–1727 |
+| Municipal court of Pyzdry | [Inscriptiones]({{ '/sources/app5321pyzdrygr75/' | relative_url }}) (acknowledgements) and Relationes | 1768; 1791–1792 |
+| Municipal court of Poznań | [Relationes]({{ '/sources/app5320pozgr1181/' | relative_url }}), with a decree of the castellany court | 1784 |
+| Land court of Konin | [Decreta]({{ '/sources/app536046/' | relative_url }}) (decrees) and Inscriptiones | 1589–1791 |
+| Land court of Kalisz | [Relationes, citationes]({{ '/sources/app534062/' | relative_url }}) (reports and citations) | 1726–1727 |
 
-What the guide says holds for these courts and these years. Much of it carries over to the court books of the rest of the Polish Crown, whose clerks used the same formulas, but each court had its habits, and the guide does not claim them.
+What the guide says holds for these courts and these years. Much of it may carry over to the court books of other parts of the Polish Crown, but each court had its own habits, and the guide does not claim them.
 
 ### Contents
 

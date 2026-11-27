@@ -5393,3 +5393,16 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   (`reference/site_notes_de.yml`). **When prose names what another document says, open that document's
   text or summary in the same sitting; give every new holding the audit by a second reader against all
   the rule documents before it is published.**
+- **The reading guide, chapter 3, and its audit** (2026-11-26/27). The guide is pages under
+  `site/guide/court-books/` (layout `page`, English only; a contents page and one page per chapter; plan
+  `docs/COURT_RECORDS_GUIDE_PLAN.md`). Every Latin quotation is checked by script against the transcriptions
+  before publishing (the snippet in the sitting of 2026-11-27: blockquoted italics, expansions in brackets
+  dropped, each "..." piece looked up). The second reader's audit caught, again, Claude's general claims made
+  from a few documents: "JM" is not Jegomość but **Illustris Magnificus** (written out "J Magnificum",
+  "JMagnifici"; Latin endings JMcum, JMci) - the existing English of Konin Gr.119 has "His Honour" (TODO
+  t906); "each party used a summoner from its own side" holds only for Trąbczyn and Łukom; "Recognovit is the
+  verb of every declaration" and "nine parts every time" were too strong; a royal-citation formula was quoted
+  as a composite of several documents. **In the guide, a general statement is checked against all the entries
+  of its kind (the harvest has them, `reference/guide/formulas.yml`), not a sample; a formula is quoted from one
+  named document.** The reader was itself wrong once ("praesente Economo" is attested, Konin Gr.117): its
+  findings are checked before acting.

@@ -6,7 +6,7 @@ lang: de
 alt_url: /about/
 ---
 
-<p class="standfirst"><strong>Neu:</strong> <a href="{{ '/guide/court-books/' | relative_url }}">Reading the Latin court books of Greater Poland</a>, ein englischsprachiger Leitfaden zu den Einträgen der Burg- und Landgerichte von Konin, Kalisch, Pyzdry und Posen: wie jede Art von Eintrag aufgebaut ist, ihre Abkürzungen und Formeln, und ganze Einträge Teil für Teil gelesen.</p>
+<p class="standfirst"><strong><a href="{{ '/guide/court-books/' | relative_url }}">Reading the Latin court books of Greater Poland</a></strong>: ein Leitfaden in englischer Sprache, in Kapiteln, zu den Einträgen der Burg- und Landgerichte von Konin, Kalisch, Pyzdry und Posen, zum Aufbau jeder Art von Eintrag und zu ihren Abkürzungen und Formeln.</p>
 
 ## Die Dokumente
 

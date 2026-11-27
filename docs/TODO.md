@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-88 open: 21 question, 22 decision, 25 task, 11 claude, 9 waiting.
+89 open: 21 question, 23 decision, 25 task, 11 claude, 9 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -66,6 +66,17 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       desktop session. Nothing further on the holding can start until they are.
 
 ## Prusimski-era court books, 1589-1788
+
+- [ ] **Correct "His Honour" for JM in the English of Konin Gr.119** (`t906-jm-illustris-magnificus`, decision). In the Konin registers of the 1770s and 1780s the clerks put "JM" before Antoni
+      Prusimski's name. The English translations render it "His Honour", as if it were
+      the Polish Jegomość. The Latin shows it is Illustris Magnificus, "the Illustrious
+      Right Honourable": the clerks write it out as "J Magnificum" and "JMagnifici" and
+      add Latin endings to the letters ("JMcum", "JMci"), and the same documents give
+      Prusimski "Illustris Magnifici" in full. The reading guide's chapter on the
+      summoner's report now says so. Should the English of those documents be corrected
+      (a rule in reference/english_forms.yml, no new translation)?
+      Options: Correct it to "the Illustrious Right Honourable" / Leave the translations as they are
+      Concerns: [Konin Gr.119](/sources/app53170koningr119/)
 
 - [ ] **Full account of the Prusimski era, after the transcriptions** (`t010-full-account-of-the`, waiting). The fuller account of the Prusimski era (1589-1788) on the story page waits until you
       have supplied the missing transcriptions (your word, 2026-10-07). For now the era

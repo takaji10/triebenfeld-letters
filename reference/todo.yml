@@ -105,6 +105,25 @@ items:
   links: []
   nc: ''
   audit_note: ''
+- id: t906-jm-illustris-magnificus
+  group: Prusimski-era court books, 1589-1788
+  title: Correct "His Honour" for JM in the English of Konin Gr.119
+  kind: decision
+  text: 'In the Konin registers of the 1770s and 1780s the clerks put "JM" before Antoni Prusimski''s name. The
+    English translations render it "His Honour", as if it were the Polish Jegomość. The Latin shows it is
+    Illustris Magnificus, "the Illustrious Right Honourable": the clerks write it out as "J Magnificum" and
+    "JMagnifici" and add Latin endings to the letters ("JMcum", "JMci"), and the same documents give Prusimski
+    "Illustris Magnifici" in full. The reading guide''s chapter on the summoner''s report now says so. Should
+    the English of those documents be corrected (a rule in reference/english_forms.yml, no new translation)?'
+  options:
+  - Correct it to "the Illustrious Right Honourable"
+  - Leave the translations as they are
+  links:
+  - type: unit
+    slug: app53170koningr119
+    label: Konin Gr.119
+  nc: ''
+  audit_note: ''
 - id: t010-full-account-of-the
   group: Prusimski-era court books, 1589-1788
   title: Full account of the Prusimski era, after the transcriptions

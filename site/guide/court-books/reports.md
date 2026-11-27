@@ -7,30 +7,30 @@ lang: en
 
 [Contents]({{ '/guide/court-books/' | relative_url }})
 
-No suit in a Polish court could go forward until the other party had been summoned, and no summons counted until the man who carried it had sworn before the court that he had delivered it. That man was the court summoner, in Polish the *woźny*, in the Latin of the court books the *ministerialis*. His sworn report, the *relatio*, is one of the commonest entries in the books of the municipal courts of Konin and Kalisz in the years of the boundary quarrel between Trąbczyn and Łukom, and the simplest to read. It is the best place to begin.
+No suit in a Polish court could go forward until the other party had been summoned, and no summons counted until the man who carried it had sworn before the court that he had delivered it. That man was the court summoner, in Polish the *woźny*, in the Latin of the court books the *ministerialis*. His sworn report, the *relatio*, is one of the commonest entries in the books of the municipal courts of Konin and Kalisz in the years of the boundary quarrel between Trąbczyn and Łukom, and the simplest to read.
 
 ### The court summoner
 
-The court summoner was a sworn officer of the courts. He carried the summonses to the parties, called out the court's orders in public, and went to see wounds, damage or a boundary and reported what he saw ([Glossary]({{ '/glossary/' | relative_url }}), *woźny*). The summoners of the Konin books are commoners from the villages around: Bartłomiej Szepczyński of Trąbczyn, Stanisław Stachowski of Łukomia, Mateusz Matuszkiewicz of Szetlewek. In the Konin books each party used a summoner from its own side, so the village a summoner came from often tells whose side he was working for. In 1783 Szepczyński of Trąbczyn carried Antoni Prusimski's citation to Łukom, and Stachowski of Łukomia carried Stanisław Chełmski's to Nowa Wieś, the farm of Trąbczyn.
+The court summoner was a sworn officer of the courts. He carried the summonses to the parties, called out the court's orders in public, and went to see wounds, damage or a boundary and reported what he saw ([Glossary]({{ '/glossary/' | relative_url }}), *woźny*). The summoners of the Konin books are commoners from the villages around: Bartłomiej Szepczyński of Trąbczyn, Stanisław Stachowski of Łukomia, Mateusz Matuszkiewicz of Szetlewek, and others from Myszaków, Sławsk and further afield. In the quarrel between the two estates, Antoni Prusimski, Starost of Niszczewice and heir of Trąbczyn, and Stanisław Chełmski, Treasurer of Wschowa and owner of Łukom next to it, each often sent a summoner from his own village: in 1783 Szepczyński of Trąbczyn carried Prusimski's citation to Łukom, and Stachowski of Łukomia carried Chełmski's to Nowa Wieś, the farm of Trąbczyn.
 
-The Latin calls him *Ministerialis Regni Generalis*, "General Royal Court Summoner": "general" because he was not attached to a single court. Before his name stands his courtesy title, *Providus*, rendered "the Honest", the title of a commoner of standing; a noble would be *Generosus*, "the Honourable", and a peasant *Laboriosus*.
+The Latin calls him *Ministerialis Regni Generalis*, "General Royal Court Summoner". Before his name stands his courtesy title, *Providus*, rendered "the Honest", the title of a commoner of standing; a noble would be *Generosus*, "the Honourable", and a peasant *Laboriosus*.
 
 ### Two kinds of report
 
-The summoner reported two kinds of thing. Most of his reports say that he **served a citation**: they carry the word *Relatio* in their heading. The others report what he **saw on the ground** when a party called him out to view damage, a broken dam, a felled tree on a boundary mound, a tavern smashed by armed men: these are headed *Visio*, a viewing. Both are built in the same way up to the point where he says what he did.
+The summoner reported two kinds of thing. Most of his reports say that he **served a citation**, and they carry the word *Relatio* in their heading. The others report what he **saw on the ground** when a party called him out to view damage, a broken dam, a felled tree on a boundary mound, a tavern broken into, and their headings name a *Visio*, a viewing. Both are built in the same way up to the point where he says what he did.
 
 ### The report of a citation, part by part
 
-A report of a citation is a single sentence, often more than a hundred words long, but it is made of the same nine parts in the same order every time. Here they are, each with its commonest Latin and the English.
+A report of a citation is a single sentence, often more than a hundred words long, but it is usually made of the same nine parts, in the same order. Here they are, each with its commonest Latin and the English.
 
 **1. The heading.** A line above the report, often in a larger hand, names the parties and the kind of entry:
 
 > *Ex Parte JM Prusimski contra M Chełmski Relatio*
-> On behalf of His Honour Prusimski against the Right Honourable Chełmski: report
+> On behalf of the Illustrious Right Honourable Prusimski against the Right Honourable Chełmski: report
 
-*Ex parte* (or *Pro parte*) names the party who sent the summoner, *contra* the party summoned. *M* is *Magnificus*, "the Right Honourable"; *JM* is the Polish courtesy *Jegomość*, "His Honour", which the clerks of the 1780s put before the Starost Antoni Prusimski's name.
+*Ex parte* (or *Pro parte*) names the party who sent the summoner, *contra* the party summoned. *M* is *Magnificus*, "the Right Honourable"; *JM* is *Illustris Magnificus*, "the Illustrious Right Honourable", the higher title the clerks gave the Starost Antoni Prusimski from 1778: they write it out as *J Magnificum* and *JMagnifici*, and add the Latin endings to the letters (*JMcum*, *JMci*).
 
-**2. The date of the sitting.** The report itself rarely carries a date. Above it, or some entries above it, stands the heading of the sitting of the court at which it was entered: *Actum in Conin Feria Sexta post Festum Conversionis Sancti Pauli Apostoli proxima ... Anno Domini 1779*, "Done at Konin on the Friday next after the Feast of the Conversion of St Paul the Apostle, in the year 1779". That heading dates every entry below it until the next one. A report with no heading in view is dated by the nearest heading above it, not by one further down the page.
+**2. The date of the sitting.** The report itself rarely carries a date. Above it, or some entries above it, stands the heading of the sitting of the court at which it was entered: *Actum in Conin Feria Sexta post Festum Conversionis Sancti Pauli Apostoli proxima ... Anno Domini 1779*, "Done at Konin on the Friday next after the Feast of the Conversion of St Paul the Apostle, in the year 1779". That heading dates every entry below it until the next one. A report with no heading in view belongs to the sitting whose heading stands above it; the next heading below begins another sitting.
 
 **3. The opening.** The summoner comes before the court:
 
@@ -44,7 +44,7 @@ In the registers of the 1780s the clerks shortened it to *Personaliter veniens*,
 > *Providus Bartholomaeus Szepczyński de Villa Trąmpczyn Ministerialis Regni Generalis Sanus*
 > the Honest Bartłomiej Szepczyński of the village of Trąbczyn, General Royal Court Summoner, being sound
 
-**5. The act.** *Recognovit*, "he acknowledged", is the verb of every declaration before a Polish court. What he acknowledged is that he had delivered the letters of citation:
+**5. The act.** *Recognovit*, "he acknowledged", is the usual verb of a declaration before a Polish court. What he acknowledged is that he had delivered the letters of citation:
 
 > *Recognovit se Citt~ Litt~ Authen~*
 > he acknowledged that he had [delivered] the authentic letters of citation
@@ -77,11 +77,11 @@ Here the abbreviated words agree with *Judiciis*, a dative plural, so *Castren~*
 > *In Curia Bonorum Villae Łukom super mensa hippi~ praesente Citt~ Die haesterna Actum hornum praecedente posuisse et notificatt~ reliquisse*
 > at the manor house of the estate of the village of Łukom, on the table of the heated room, in the presence of the cited party, on the day before today's act, he set it down and left it notified
 
-The room is nearly always the *hippocaustum*, the heated room of the house, abbreviated *hippi~* or *hippi*; *super mensa hippocausti* is "on the table of the heated room". The citation could also be left *super Scrinio*, on the chest. The witness to the leaving varies: *praesente Citato*, the cited man himself; *praesente Matre familias*, the mother of the household; *praesente Economo*, the estate manager; *praesente Scriba Proventuali*, the estate's clerk of revenues; *praesente Consorte Ejusdem*, his wife. So does the place: *In Curia*, at the manor house; *In Bonis ... Praedioque Ibidem Sito*, at the estate and the demesne farm there; *in officina*, at the estate office; *In praepositura*, at the parsonage. The day is told from the day of the entry: *Die horna*, today; *Die haesterna*, yesterday; or a date by feast and weekday. The closing verbs are fixed: *posuisse et notificatt~ reliquisse*, "had set down and left notified", where *notificatt~* is most likely *notificatam*, agreeing with the citation.
+The room is nearly always the *hippocaustum*, the heated room of the house, written *hippi~* or *hippi* (once in full, in the plural, *hippocaustorum*); *super mensa hippi* is "on the table of the heated room". The citation could also be left *super Scrinio*, on the chest. The witness to the leaving varies: *praesente Citt~* (*Citato*), the cited man himself; *praesente Matre familias*, the mother of the household; *praesente Economo*, the estate manager; *praesen~ Scriba Proventuali*, the estate's clerk of revenues; *praesen~ Consorte Ejusdem*, his wife. So does the place: *In Curia*, at the manor house; *In Bonis ... Praedioque Ibidem Sito*, at the estate and the demesne farm there; *in officina*, at the estate office; *In praepositura*, at the parsonage. The day is told from the day of the entry: *Die horna*, today; *Die haesterna*, yesterday; or a date by feast and weekday. The closing verbs are fixed: *posuisse et notificatt~ reliquisse*, "had set down and left notified", where *notificatt~* is most likely *notificatam*, agreeing with the citation.
 
 ### The royal citation inside a report
 
-When a summons came from the king's chancery, the summoner's report copies it whole, so that the record holds the citation word for word: *Infrascripti Editt~ de tenore tali*, "issued below, of this tenor", and then the royal style, *Stanislaus Augustus Dei Gratia Rex Poloniae ... Tibi ... Mandamus ut ... compareas*, "Stanisław August, by the grace of God King of Poland ... We command you ... to appear". The report then closes with the usual ninth part. In 1778 Antoni Prusimski's suit against Chełmski and the judges of the land court went this way to the Crown Tribunal at Piotrków, the highest court of the kingdom ([the summoner's report of 15 April 1778]({{ '/documents/app53170koningr117/8/' | relative_url }})). The citation has a chapter of its own.
+When a summons came from the king's chancery, the summoner's report copies it whole, so that the record holds the citation word for word. A report of 1786 in the Konin register runs on from the summoner's acknowledgement into *Infrascripti Editt~ de tenore tali Stanislaus Augustus Dei Gratia Rex Poloniae etc. Tibi Illustri Magnifico Antoni in Kolno Prusimski ... Mandamus ut ... Compareas*, "[the citation] written below, of this tenor: Stanisław August, by the grace of God King of Poland etc. To you, the Illustrious Right Honourable Antoni Prusimski of Kolno ... We command that you ... appear" ([the report]({{ '/documents/app53170koningr120/2/' | relative_url }})). The report then closes with the usual ninth part. In 1778 Antoni Prusimski's suit against Chełmski and the judges of the land court went this way to the Crown Tribunal at Piotrków, the highest court of the kingdom ([the summoner's report of 15 April 1778]({{ '/documents/app53170koningr117/8/' | relative_url }})).
 
 ### The report of a viewing
 
@@ -103,9 +103,9 @@ The headings of these reports say what was viewed: *Aggeris Visio*, the viewing 
 
 The report of 18 March 1783 in the Konin register is short and complete ([the document]({{ '/documents/app53170koningr119/4/' | relative_url }})). Szepczyński of Trąbczyn reports that he carried a citation for Antoni Prusimski against Stanisław Chełmski. The abbreviations are shown with their expansions in square brackets.
 
-> *Ex Parte JM Prusimski contra M[agnificum] Chełmski Relatio*
+> *Ex Parte JM [Illustris Magnifici] Prusimski contra M[agnificum] Chełmski Relatio*
 
-On behalf of His Honour Prusimski against the Right Honourable Chełmski: report.
+On behalf of the Illustrious Right Honourable Prusimski against the Right Honourable Chełmski: report.
 
 > *Personaliter veniens Providus Bartholomaeus Szepczyński de Villa Trąmpczyn Ministerialis Regni Generalis Sanus Recognovit se Citt~ [Citationes] Litt~ [Litteras] Authen~ [Authenticas]*
 
@@ -145,9 +145,9 @@ Two months later a citation of Chełmski's went the other way, and Stanisław St
 <details markdown="1">
 <summary>The answer</summary>
 
-**The abbreviations**, by the word each agrees with: *M[agnifici] Chełmski Thaesaurarium Vschoven~ [Vschovensem]* (the clerk's accusative *Thaesaurarium*, followed); *Capitanei Nieszczevicen~ [Nieszczevicensis]*; *Citt~ Litt~ Authen~ [Citationes Litteras Authenticas]*; *Judiciis Castren~ Calissien~ ... Celebran~ [Castrensibus Calissiensibus ... Celebrandis]*; *in Castro Calissien~ [Calissiensi]*; *Thaesaurarii Vschoven~ [Vschovensis]*; *Actt~ [Actorum]*; *Capitaneum Niesczevicen~ [Niesczevicensem]*; *Cittos~ [Citatos]*; *editt~ [editam]*; *hippi [hippocausti]*; *praesen~ [praesente]*; *notificatt~ [notificatam]*.
+**The abbreviations**, by the word each agrees with: *JM [Illustrem Magnificum] Prusimski*; *M[agnifici] Chełmski Thaesaurarium Vschoven~ [Vschovensem]* (the clerk's accusative *Thaesaurarium*, followed); *Capitanei Nieszczevicen~ [Nieszczevicensis]*; *Citt~ Litt~ Authen~ [Citationes Litteras Authenticas]*; *Judiciis Castren~ Calissien~ ... Celebran~ [Castrensibus Calissiensibus ... Celebrandis]*; *in Castro Calissien~ [Calissiensi]*; *Thaesaurarii Vschoven~ [Vschovensis]*; *Actt~ [Actorum]*; *Capitaneum Niesczevicen~ [Niesczevicensem]*; *Cittos~ [Citatos]*; *editt~ [editam]*; *hippi [hippocausti]*; *praesen~ [praesente]*; *notificatt~ [notificatam]*.
 
-**The English**: On behalf of the Right Honourable Chełmski, Treasurer of Wschowa, against His Honour Prusimski, Starost of Niszczewice: report. Appearing in person, the Honest Stanisław Stachowski of the village of Łukomia, General Royal Court Summoner, being sound, acknowledged that he had delivered the authentic letters of citation for the sessions of the municipal court of Kalisz next to be held at the seat of that court, on behalf and at the instance of the Right Honourable Stanisław Chełmski, Treasurer of Wschowa, and the other plaintiffs, against the Illustrious Right Honourable Antoni Prusimski of Kolno, Starost of Niszczewice, and the other cited parties, a citation alike in copy and substance to the one to be produced at the coming term, issued; at the estate of Nowa Wieś and the demesne farm there, on the chest of the heated room, in the presence of the mother of the household, on this day, he set down the contents of the act and left them notified.
+**The English**: On behalf of the Right Honourable Chełmski, Treasurer of Wschowa, against the Illustrious Right Honourable Prusimski, Starost of Niszczewice: report. Appearing in person, the Honest Stanisław Stachowski of the village of Łukomia, General Royal Court Summoner, being sound, acknowledged that he had delivered the authentic letters of citation for the sessions of the municipal court of Kalisz next to be held at the seat of that court, on behalf and at the instance of the Right Honourable Stanisław Chełmski, Treasurer of Wschowa, and the other plaintiffs, against the Illustrious Right Honourable Antoni Prusimski of Kolno, Starost of Niszczewice, and the other cited parties, a citation alike in copy and substance to the one to be produced at the coming term, issued; at the estate of Nowa Wieś and the demesne farm there, on the chest of the heated room, in the presence of the mother of the household, on this day, he set down the contents of the act and left them notified.
 
 **What changed from Szepczyński's report**: the summoner came from Łukomia, Chełmski's side; the citation was left at a farm, not a manor house, on the chest, not the table; and the witness was the mother of the household, not the man cited. *Die horna* is today: he served it on the day he reported it. *Actu Contenta*, "the contents of the act", stands where the other report has *Actum hornum praecedente*. ([The document]({{ '/documents/app53170koningr119/6/' | relative_url }}).)
 
@@ -155,9 +155,9 @@ Two months later a citation of Chełmski's went the other way, and Stanisław St
 
 ### What to watch for
 
-- **The heading of the sitting dates the report**, and it stands above the report, sometimes several entries above it. A heading below the report belongs to the entries that follow.
+- **The heading of the sitting dates the report**, and it stands above the report, sometimes several entries above it. A heading below the report begins the next sitting.
 - **The same abbreviation, different endings.** *Calissien~* is *Calissiensibus* after *Judiciis* and *Calissiensi* after *Castro* in the same line. Always find the noun first.
 - **The clerk's grammar wins.** Where the clerk wrote the wrong case (*Capitaneo* for *Capitanei*), expand the abbreviation after it to match what he wrote.
 - **The room is the heated room.** *hippi*, *hippi~* and *hippocaustorum* are all the *hippocaustum*, the heated room of the house, where the citation was laid down.
-- **The summoner's village tells his side.** A summoner from Trąbczyn worked for Prusimski, one from Łukomia for Chełmski.
-- **Not every entry in a Relationes book is a summoner's report.** An injured man could come to the office himself and show his wounds: *Obduxit*, "he showed", begins the entry of a peasant of Trąbczyn, Andrzej Kinos, who in March 1785 showed the Konin office his face and shoulder after a beating on the road to Pleszew ([the entry]({{ '/documents/app53170koningr120/1/' | relative_url }})). It is his own declaration, not a summoner's.
+- **The summoner's village may tell his side.** In the quarrel of Trąbczyn and Łukom a summoner from Trąbczyn worked for Prusimski and one from Łukomia for Chełmski; summoners from other villages served both.
+- **Not every entry in a Relationes book is a summoner's report.** An injured man could come to the office himself and show his wounds: the entry headed *Obduxit*, "he showed [his wounds]", records how a peasant of Trąbczyn, Andrzej Kinos, in March 1785 showed (*Commonstravit*) the Konin office his face and shoulder after a beating on the road to Pleszew ([the entry]({{ '/documents/app53170koningr120/1/' | relative_url }})). It is his own declaration, not a summoner's.

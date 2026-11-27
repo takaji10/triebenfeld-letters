@@ -5,7 +5,7 @@ permalink: /about/
 lang: en
 ---
 
-<p class="standfirst"><strong>New:</strong> <a href="{{ '/guide/court-books/' | relative_url }}">Reading the Latin court books of Greater Poland</a>, a guide to the entries of the municipal and land courts of Konin, Kalisz, Pyzdry and Poznań: how each kind of entry is built, its abbreviations and formulas, and whole entries read part by part.</p>
+<p class="standfirst"><strong><a href="{{ '/guide/court-books/' | relative_url }}">Reading the Latin court books of Greater Poland</a></strong>: a guide in chapters to the entries of the municipal and land courts of Konin, Kalisz, Pyzdry and Poznań, the way each kind of entry is built, and its abbreviations and formulas.</p>
 
 ## Documents
 
