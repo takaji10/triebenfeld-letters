@@ -54,3 +54,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summaries
 
 The summaries were written in German from the Latin and translated into English. Each of their 7 statements was then checked against its document. All held.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader on the original scans; Claude settled. Corrected the slip "Miniterialis". Ten of the cloud's eleven prepared expansions applied; "Actt~" was left with its tilde: "Act[oris]" would drop a t the clerk wrote, and the doubled consonant is written once only for a plural (`intake/unresolved.md`). Not changed: "a Judiciis Condescensoriali" on 624 verso (the two readers disagree between -iis and -io), the blotted day of the Piotrków date, "hippercausti".

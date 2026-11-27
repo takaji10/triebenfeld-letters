@@ -21,3 +21,13 @@ changes:
   what: "The flooding was done \"in these times\" (his temporibus), not \"here, at that time\"; the messenger is \"of Trąbczyn\" in the second report too."
   was: "had been done here, at that time"
   now: "had been done in these times"
+- importance: wording
+  new: "2026-11-27"
+  what: "The dating line of 1767: the feast is \"Sacri Paschatis\" (Easter); your text had \"Paschałis\", the ł a look-alike of the clerk's t. Latin audit, read on the original scan."
+  was: "Festa Solemnia Sacri Paschałis proxima"
+  now: "Festa Solemnia Sacri Paschatis proxima"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 298: the word before \"Bonorum Haeredis\" is \"Eorum\" (the clerk's Eoru with the stroke for m); the \"[dem?]\" was a guess and is not on the page. Latin audit."
+  was: "Eorun[dem?] Bonorum Haeredis"
+  now: "Eorum Bonorum Haeredis"

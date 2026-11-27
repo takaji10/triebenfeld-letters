@@ -60,3 +60,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summaries
 
 The summaries were written in German from the Latin and Polish and translated into English. Each of their nine statements was then checked against its document. All held.
+
+## The Latin audit (2026-11-27)
+
+Read on the original scans by a Sonnet led reader and a Sonnet blind reader; Claude settled. Corrected: "Paschatis" (not "Paschałis"), "Eorum" (not "Eorun[dem?]"). Left as transcribed: "Recepit[?]" on leaf 335 (a word written over another, not struck; neither reader read it), "Sippatum"/"reparatum" (the clerk's -at~), the Polish of leaf 334 verso (partly modern spelling).

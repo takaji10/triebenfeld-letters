@@ -80,3 +80,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summary
 
 The summary was written in German from the Polish and Latin and translated into English. Each of its ten statements was then checked against the document. All held.
+
+## The Latin audit (2026-11-27)
+
+Only the Latin record at the end (leaf 123 verso) is in the audit; the Polish survey above it is for the later Polish audit (the led reader's findings on it are kept in review/latin_audit/app53170koningr136/reader_a.json, not committed). Read by a Sonnet led reader and a Sonnet blind reader; Claude settled on band s05. Corrected: "Sanctae Margaretha" (not "Margarithae"), "habens secum" (not "habitis").

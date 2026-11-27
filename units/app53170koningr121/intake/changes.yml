@@ -21,3 +21,13 @@ changes:
   what: "Smaller readings: \"z bosemi przedniemi Kołami\"; \"Vaccam\"; \"suprascripto\"; \"Is Idem\"; \"ad statim\"."
   was: "zbosemi przedmiemi / Vacam / suprascripti / I[d?] Idem / ad statim[?]"
   now: "z bosemi przedniemi / Vaccam / suprascripto / Is Idem / ad statim"
+- importance: fact
+  new: "2026-11-27"
+  what: "Leaf 564: the animals were \"adstantes presenttes\", standing present before the chancery, not \"praesentatos\", presented: the clerk writes the word out. The English sentence follows after the review (\"[he] presented\" there becomes \"present\"). Latin audit."
+  was: "in Ante Cancellariam adstantes praesentatos"
+  now: "in Ante Cancellariam adstantes presenttes"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 564: \"Castrensem Coninensem\" (not \"Coninensium\"), \"Suprascripto laborioso\" (not \"Suprascripti\"), and the clerk's own spelling \"Extradionis\", \"Extradionem\" (without -ti-). Latin audit."
+  was: "Castrensem Coninensium gratia Extraditionis Eorundem Suprascripti laborioso ... Extraditionem horumce"
+  now: "Castrensem Coninensem gratia Extradionis Eorundem Suprascripto laborioso ... Extradionem horumce"

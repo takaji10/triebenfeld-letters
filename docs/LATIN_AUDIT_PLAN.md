@@ -30,6 +30,10 @@ language), except the Kodeks:
 | Land court of Kalisz 53/4/0/-/62 | 1 | 1 | 51 | 3 | 3 | light |
 | Pyzdry Gr.75 | 1 | 2 | 352 | 1 | 12 | full (2026-11-26) |
 | Ląd copy-book 53/1455/0/2/21 | 6 | 9 | 2,198 | 0 | 22 | light |
+| Konin Gr.114 | 2026-11-27 | 2026-11-27: 2 corrections | 2026-11-27 |
+| Konin Gr.120 | 2026-11-27 | 2026-11-27: 1 correction, 10 expansions | 2026-11-27 |
+| Konin Gr.121 | 2026-11-27 | 2026-11-27: 4 corrections (one changes the English, after the review) | 2026-11-27 |
+| Konin Gr.136 (the Latin record only) | 2026-11-27 | 2026-11-27: 2 corrections | 2026-11-27 |
 | Oe 1 Bü 14526, the Latin deed | 1 | 5 | 965 | 0 | 0 | light |
 | **Total** | **101** | **191** | **32,653** | **837** | **510** | |
 

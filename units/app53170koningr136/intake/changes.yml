@@ -29,3 +29,8 @@ changes:
   what: "Not compared with the scans: the description of the manor buildings on leaf 121 and leaf 121 verso (about 540 words)."
   was: "(not noted)"
   now: "units/app53170koningr136/notes.md"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 123 verso, the Latin record: the feast is of \"Sanctae Margaretha\" as the clerk writes it (not \"Margarithae\"), and the messenger came \"habens secum\" two nobles, not \"habitis\". Latin audit."
+  was: "pridie Festi Sanctae Margarithae Virginis ... quia ipse habitis secum"
+  now: "pridie Festi Sanctae Margaretha Virginis ... quia ipse habens secum"

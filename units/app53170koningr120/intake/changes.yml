@@ -29,3 +29,13 @@ changes:
   what: "Smaller readings: \"Oculum ... Sinistrum ... Obducens ... violenter\"; \"de Bonis Tuis Mandamus ut in Judiciis\"; \"recte in Quatuor Septimanis\"; \"Regestro Sibi Competenti\"; \"legitimeque ... Instantiam\"; \"Qui Te ... Connexas et Competentes\"; \"praevio Juramento\"; \"plenum\"; \"Contraque\"; \"expressorum\"."
   was: "see the list"
   now: "see the list"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 624: the messenger is \"Ministerialis Regni Generalis\" (the page has only \"MRG\"); your text had the slip \"Miniterialis\". Latin audit."
+  was: "Miniterialis Regni Generalis"
+  now: "Ministerialis Regni Generalis"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaves 624 and 624 verso: ten tilde forms expanded where the case is certain, among them \"Litt[eras] Authen[ticas]\", \"Judiciis Ordin[ariis]\", \"Capitaneo Nieszczevicen[si]\", \"Thaesaurarii Vschoven[sis]\", \"ad Viden[dum] et Audien[dum]\", \"Calissien[sia]\". \"Actt~\" keeps its tilde. Latin audit, expansion."
+  was: "Litt~ Authen~ ... Vschoven~ Actt~"
+  now: "Litt[eras] Authen[ticas] ... Vschoven[sis] Actt~"
