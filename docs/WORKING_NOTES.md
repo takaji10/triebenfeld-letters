@@ -5382,3 +5382,14 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
 - **The `IMAGES = {` trap again** (2026-11-26, the second time in one sitting): `s.index("S = {")` matched
   inside `IMAGES = {` and cut the English out of the holding's script. Anchor on `"\nS = {\n"` (with the
   newlines), and never write a replacement with `s[:a] + new + s[b:]` without asserting what lies between.
+- **The second reader caught facts, not only style** (Pyzdry Gr.75, 2026-11-26). Claude's prose about
+  the *other* documents of a chain was written from memory of their summaries, and was wrong twice: the
+  citation of 1781 (Konin Gr.118, doc. 14) is to a hearing on the ground at Grab ordered by the Crown
+  Tribunal, not "to the Crown Tribunal"; the "olim" Tracholz is in a messenger's report (Gr.117, doc. 8),
+  not a protest. Also: two men named Antoni Prusimski (Paweł's brother and the Starost) on one page,
+  never told apart; a sum described by the wrong purpose; an end date ("until 1786") no document gives;
+  the person index filing the document under the Starost and under another merchant Simon (fixed with
+  `not_in` / `only_in`); and the German for a new `dates.inferred` note forgotten
+  (`reference/site_notes_de.yml`). **When prose names what another document says, open that document's
+  text or summary in the same sitting; give every new holding the audit by a second reader against all
+  the rule documents before it is published.**
