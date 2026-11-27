@@ -36,16 +36,16 @@ which entry is on which leaf and scan, and the two passes of the check.
   (document 17): a post-commission decree of 23 January 1782, the cause
   decided "ex Mappa", two contradictory commission decrees resolved, mounds
   to be raised along the line on the map. The decree itself, the map, the
-  decrees of the sittings on the ground (documents 11 and 28) and the
-  inspection (18) are "in productis" and not in the book.
-- **Antoni Prusimski's descent** (document 23): son of Stefan Prusimski and
+  decrees of the sittings on the ground (documents 11 and 29) and the
+  inspection (19) are "in productis" and not in the book.
+- **Antoni Prusimski's descent** (document 24): son of Stefan Prusimski and
   Wiktoria Malczewska; grandson of Krzysztof Prusimski and Teresa Golińska;
   uncles Jan, Bogumił, Antoni and Paweł. `reference/people.yml`: the entries
   for Krzysztof, Paweł and Katarzyna take the documents that name them.
 - **"anteacti ... Praesentanei"** (document 6): the former and the present
   heir of Biskupice. The editor's English had "formerly Starost".
-- **Left as the editor has them:** "Loci busto" (document 18; the English
-  has "at the mound"); "pro quo pa[c?]em Cavet" (13); in document 27 the
+- **Left as the editor has them:** "Loci busto" (document 19; the English
+  has "at the mound"); "pro quo pa[c?]em Cavet" (13); in document 28 the
   name before "Szkudlarka", "z Torami", and the words lost at the edge of
   leaf 673 verso; "ac [A?] cum Haerede" (10).
 - Not indexed as people: Zielonacki, Górski, Gosławski, Malechowski,
@@ -103,7 +103,7 @@ The summaries were written in German from the Latin and Polish and translated in
 
 Read again in the audit's lighter pass (2026-11-27): Sonnet readers on the original scans, at most four pages each, looking only for skipped words, marks of doubt and tilde forms (the holding was checked word by word in October); a Sonnet blind reader read the places that would change the text; two readers agreeing was taken as proof for these small changes, which Claude did not each see on the band. No skipped words in the transcribed entries (other entries on the pages were left aside). Corrected: "Ordin~" (not "Orind~"), "facti". 171 of the 172 prepared expansions applied ("T~" on leaf 398 verso is "T" with a superscript o, "Tmo", and keeps its tilde). The king's titles, which the transcription gives as "etc…" where the page writes them out (leaves 496, 623), are one question on the spot sheet for all the court books.
 
-**Nothing dropped: the king's titles** (the editor, 2026-11-27, on the audit's spot sheet: "Write the titles out in every royal citation if they were there to begin with ... You should not be considering dropping anything in the transcribed text, ever!"). Every "etc.", "&c" and "…" of the court books was read on the scan by two Sonnet readers, each place settled by Claude on the band (`intake/latin_audit_titles.json`, logged in transcription_decisions.csv). Leaf 496: the titles written out ("Rex Poloniae Magnus Dux Lithoaniae Russiae Prussiae Masoviae Samogitiae Kijoviae Smolenskiae Severiae Czerniechoviaeq[ue]": this citation names no Volhynia, Podolia, Podlachia or Livonia); leaf 623: the full list, from "Rex Poloniae" (the transcription had "Dei Gratia etc…"). The English of documents 14 and 23 gives the titles; it was changed in its cache and site file only, since this holding's `holding.py --english` stops on an older full-check fix that no longer matches the editor's English ("and when the Appearing [party], on behalf of the Manifesting"), and doc14.yml and doc23.yml were edited by hand.
+**Nothing dropped: the king's titles** (the editor, 2026-11-27, on the audit's spot sheet: "Write the titles out in every royal citation if they were there to begin with ... You should not be considering dropping anything in the transcribed text, ever!"). Every "etc.", "&c" and "…" of the court books was read on the scan by two Sonnet readers, each place settled by Claude on the band (`intake/latin_audit_titles.json`, logged in transcription_decisions.csv). Leaf 496: the titles written out ("Rex Poloniae Magnus Dux Lithoaniae Russiae Prussiae Masoviae Samogitiae Kijoviae Smolenskiae Severiae Czerniechoviaeq[ue]": this citation names no Volhynia, Podolia, Podlachia or Livonia); leaf 623: the full list, from "Rex Poloniae" (the transcription had "Dei Gratia etc…"). The English of documents 14 and 24 gives the titles; it was changed in its cache and site file only, since this holding's `holding.py --english` stops on an older full-check fix that no longer matches the editor's English ("and when the Appearing [party], on behalf of the Manifesting"), and doc14.yml and doc23.yml were edited by hand.
 
 ## The headings of the sittings (2026-11-27)
 
@@ -124,5 +124,18 @@ was a month or a year, it is now the day of its sitting.
   heading of 4 December on the facing page, leaf 397 verso. Seen on the scan
   (2026-11-28). The summaries, the claim check, the change record and the
   guide follow.
-- The new entry of p. 524v (the oblata of the boundary decree, 8 June 1782) is
-  added after these dates, as the editor asked (to-do t916).
+- **Document 18, added 2026-11-28** (to-do t916): the oblata of leaf 524
+  verso (photo 530), which the editor found and transcribed: a field boundary
+  decree of the sitting on the ground between Trąbczyn and Łukom, issued by
+  the boundary chamberlain's office of Inowrocław, registered at the sitting
+  of 8 June 1782 (the heading on p. 523, as document 17). Added after the
+  dates, as the editor asked, and the holding renumbered: the documents from
+  the old 18 moved up by one (`intake/merge_map.json`; the notes above this
+  section are corrected to the new numbers). Two Sonnet readers read the strip
+  blind; Claude settled: "Ejusq[ue]" for the editor's "Ejusdem" (all three
+  readings agree); "Haereditatis", "Illustri", "Capitaneum Niesczevicensem",
+  "Officium[que?]" and "Camerariale" stand as the editor wrote them (the page
+  abbreviates, and the readers disagree or are unsure). The decree is
+  Górski's office's, from the attempt of May and June 1782, not the Gniezno
+  chamberlain's decree of November 1782 (Konin Gr.153): no cross-holding
+  connection. English and summaries in session; claim-checked.

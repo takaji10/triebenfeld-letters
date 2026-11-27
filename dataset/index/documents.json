@@ -4810,9 +4810,9 @@
   "permalink": "/documents/app53170koningr118/9/"
  },
  {
-  "uid": "app53170koningr118-25",
+  "uid": "app53170koningr118-26",
   "unit": "app53170koningr118",
-  "letter_id": "25",
+  "letter_id": "26",
   "doc_type": "report",
   "language": "la",
   "era": "prusimski-boundary",
@@ -4830,7 +4830,7 @@
    {
     "page": 1,
     "page_id": "0672_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg"
    }
   ],
   "uncertainty_count": 1,
@@ -4846,10 +4846,10 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "report 25",
-  "path": "documents/app53170koningr118-25.json",
-  "text_path": "text/app53170koningr118-25.txt",
-  "permalink": "/documents/app53170koningr118/25/"
+  "title": "report 26",
+  "path": "documents/app53170koningr118-26.json",
+  "text_path": "text/app53170koningr118-26.txt",
+  "permalink": "/documents/app53170koningr118/26/"
  },
  {
   "uid": "app53170koningr118-10",
@@ -5209,7 +5209,7 @@
   "era": "prusimski-boundary",
   "themes": [],
   "repository": "app-poznan",
-  "date_iso": "1782-06-10",
+  "date_iso": "1782-06-08",
   "date_precision": "day",
   "date_source": "sitting",
   "place": "Konin",
@@ -5220,17 +5220,18 @@
   "scans": [
    {
     "page": 1,
-    "page_id": "0527_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg"
+    "page_id": "0525_a1",
+    "image": "APP_53_17_0_Konin_Gr_118_0525_a1-L18_01.jpg"
    }
   ],
-  "uncertainty_count": 0,
+  "uncertainty_count": 1,
   "has_damage": false,
   "rough_transcription": false,
-  "mentions": 1,
-  "places_named": 1,
+  "mentions": 2,
+  "places_named": 2,
   "estates": [
-   "trabczyn"
+   "trabczyn",
+   "lukomia"
   ],
   "translation_status": "draft",
   "has_summary": true,
@@ -5245,6 +5246,47 @@
   "uid": "app53170koningr118-19",
   "unit": "app53170koningr118",
   "letter_id": "19",
+  "doc_type": "note",
+  "language": "la",
+  "era": "prusimski-boundary",
+  "themes": [],
+  "repository": "app-poznan",
+  "date_iso": "1782-06-10",
+  "date_precision": "day",
+  "date_source": "sitting",
+  "place": "Konin",
+  "sender": "",
+  "recipient": "",
+  "n_pages": 1,
+  "n_lines": 2,
+  "scans": [
+   {
+    "page": 1,
+    "page_id": "0527_a1",
+    "image": "APP_53_17_0_Konin_Gr_118_0527_a1-L19_01.jpg"
+   }
+  ],
+  "uncertainty_count": 0,
+  "has_damage": false,
+  "rough_transcription": false,
+  "mentions": 1,
+  "places_named": 1,
+  "estates": [
+   "trabczyn"
+  ],
+  "translation_status": "draft",
+  "has_summary": true,
+  "has_summary_de": true,
+  "legibility": "",
+  "title": "note 19",
+  "path": "documents/app53170koningr118-19.json",
+  "text_path": "text/app53170koningr118-19.txt",
+  "permalink": "/documents/app53170koningr118/19/"
+ },
+ {
+  "uid": "app53170koningr118-20",
+  "unit": "app53170koningr118",
+  "letter_id": "20",
   "doc_type": "protest",
   "language": "la",
   "era": "prusimski-boundary",
@@ -5262,12 +5304,12 @@
    {
     "page": 1,
     "page_id": "0530_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0530_a2-L19_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0530_a2-L20_01.jpg"
    },
    {
     "page": 2,
     "page_id": "0531_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0531_a1-L19_02.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0531_a1-L20_02.jpg"
    }
   ],
   "uncertainty_count": 1,
@@ -5283,15 +5325,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "protest 19",
-  "path": "documents/app53170koningr118-19.json",
-  "text_path": "text/app53170koningr118-19.txt",
-  "permalink": "/documents/app53170koningr118/19/"
+  "title": "protest 20",
+  "path": "documents/app53170koningr118-20.json",
+  "text_path": "text/app53170koningr118-20.txt",
+  "permalink": "/documents/app53170koningr118/20/"
  },
  {
-  "uid": "app53170koningr118-20",
+  "uid": "app53170koningr118-21",
   "unit": "app53170koningr118",
-  "letter_id": "20",
+  "letter_id": "21",
   "doc_type": "certification",
   "language": "la",
   "era": "prusimski-boundary",
@@ -5309,12 +5351,12 @@
    {
     "page": 1,
     "page_id": "0586_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0586_a1-L20_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0586_a1-L21_01.jpg"
    },
    {
     "page": 2,
     "page_id": "0586_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0586_a2-L20_02.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0586_a2-L21_02.jpg"
    }
   ],
   "uncertainty_count": 3,
@@ -5330,15 +5372,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "certification 20",
-  "path": "documents/app53170koningr118-20.json",
-  "text_path": "text/app53170koningr118-20.txt",
-  "permalink": "/documents/app53170koningr118/20/"
+  "title": "certification 21",
+  "path": "documents/app53170koningr118-21.json",
+  "text_path": "text/app53170koningr118-21.txt",
+  "permalink": "/documents/app53170koningr118/21/"
  },
  {
-  "uid": "app53170koningr118-22",
+  "uid": "app53170koningr118-23",
   "unit": "app53170koningr118",
-  "letter_id": "22",
+  "letter_id": "23",
   "doc_type": "note",
   "language": "la",
   "era": "prusimski-boundary",
@@ -5356,7 +5398,7 @@
    {
     "page": 1,
     "page_id": "0622_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0622_a2-L24_01.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -5372,15 +5414,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "note 22",
-  "path": "documents/app53170koningr118-22.json",
-  "text_path": "text/app53170koningr118-22.txt",
-  "permalink": "/documents/app53170koningr118/22/"
+  "title": "note 23",
+  "path": "documents/app53170koningr118-23.json",
+  "text_path": "text/app53170koningr118-23.txt",
+  "permalink": "/documents/app53170koningr118/23/"
  },
  {
-  "uid": "app53170koningr118-21",
+  "uid": "app53170koningr118-22",
   "unit": "app53170koningr118",
-  "letter_id": "21",
+  "letter_id": "22",
   "doc_type": "note",
   "language": "la",
   "era": "prusimski-boundary",
@@ -5398,7 +5440,7 @@
    {
     "page": 1,
     "page_id": "0617_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0617_a2-L22_01.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -5414,15 +5456,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "note 21",
-  "path": "documents/app53170koningr118-21.json",
-  "text_path": "text/app53170koningr118-21.txt",
-  "permalink": "/documents/app53170koningr118/21/"
+  "title": "note 22",
+  "path": "documents/app53170koningr118-22.json",
+  "text_path": "text/app53170koningr118-22.txt",
+  "permalink": "/documents/app53170koningr118/22/"
  },
  {
-  "uid": "app53170koningr118-23",
+  "uid": "app53170koningr118-24",
   "unit": "app53170koningr118",
-  "letter_id": "23",
+  "letter_id": "24",
   "doc_type": "report",
   "language": "la",
   "era": "prusimski-boundary",
@@ -5440,22 +5482,22 @@
    {
     "page": 1,
     "page_id": "0622_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0622_a2-L24_01.jpg"
    },
    {
     "page": 2,
     "page_id": "0623_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0623_a1-L24_02.jpg"
    },
    {
     "page": 3,
     "page_id": "0623_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0623_a2-L23_03.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0623_a2-L24_03.jpg"
    },
    {
     "page": 4,
     "page_id": "0624_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0624_a1-L23_04.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0624_a1-L24_04.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -5470,15 +5512,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "report 23",
-  "path": "documents/app53170koningr118-23.json",
-  "text_path": "text/app53170koningr118-23.txt",
-  "permalink": "/documents/app53170koningr118/23/"
+  "title": "report 24",
+  "path": "documents/app53170koningr118-24.json",
+  "text_path": "text/app53170koningr118-24.txt",
+  "permalink": "/documents/app53170koningr118/24/"
  },
  {
-  "uid": "app53170koningr118-24",
+  "uid": "app53170koningr118-25",
   "unit": "app53170koningr118",
-  "letter_id": "24",
+  "letter_id": "25",
   "doc_type": "note",
   "language": "la",
   "era": "prusimski-boundary",
@@ -5496,7 +5538,7 @@
    {
     "page": 1,
     "page_id": "0626_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0626_a2-L25_01.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -5512,10 +5554,10 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "note 24",
-  "path": "documents/app53170koningr118-24.json",
-  "text_path": "text/app53170koningr118-24.txt",
-  "permalink": "/documents/app53170koningr118/24/"
+  "title": "note 25",
+  "path": "documents/app53170koningr118-25.json",
+  "text_path": "text/app53170koningr118-25.txt",
+  "permalink": "/documents/app53170koningr118/25/"
  },
  {
   "uid": "app53170koningr153-1",
@@ -5722,9 +5764,9 @@
   "permalink": "/documents/app53170koningr153/2/"
  },
  {
-  "uid": "app53170koningr118-28",
+  "uid": "app53170koningr118-29",
   "unit": "app53170koningr118",
-  "letter_id": "28",
+  "letter_id": "29",
   "doc_type": "note",
   "language": "la",
   "era": "prusimski-boundary",
@@ -5742,7 +5784,7 @@
    {
     "page": 1,
     "page_id": "0675_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0675_a1-L30_01.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -5758,15 +5800,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "note 28",
-  "path": "documents/app53170koningr118-28.json",
-  "text_path": "text/app53170koningr118-28.txt",
-  "permalink": "/documents/app53170koningr118/28/"
+  "title": "note 29",
+  "path": "documents/app53170koningr118-29.json",
+  "text_path": "text/app53170koningr118-29.txt",
+  "permalink": "/documents/app53170koningr118/29/"
  },
  {
-  "uid": "app53170koningr118-29",
+  "uid": "app53170koningr118-30",
   "unit": "app53170koningr118",
-  "letter_id": "29",
+  "letter_id": "30",
   "doc_type": "note",
   "language": "la",
   "era": "prusimski-boundary",
@@ -5784,7 +5826,7 @@
    {
     "page": 1,
     "page_id": "0675_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0675_a1-L30_01.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -5799,15 +5841,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "note 29",
-  "path": "documents/app53170koningr118-29.json",
-  "text_path": "text/app53170koningr118-29.txt",
-  "permalink": "/documents/app53170koningr118/29/"
+  "title": "note 30",
+  "path": "documents/app53170koningr118-30.json",
+  "text_path": "text/app53170koningr118-30.txt",
+  "permalink": "/documents/app53170koningr118/30/"
  },
  {
-  "uid": "app53170koningr118-26",
+  "uid": "app53170koningr118-27",
   "unit": "app53170koningr118",
-  "letter_id": "26",
+  "letter_id": "27",
   "doc_type": "report",
   "language": "la,pl",
   "era": "prusimski-boundary",
@@ -5825,7 +5867,7 @@
    {
     "page": 1,
     "page_id": "0673_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0673_a2-L28_01.jpg"
    }
   ],
   "uncertainty_count": 0,
@@ -5841,15 +5883,15 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "report 26",
-  "path": "documents/app53170koningr118-26.json",
-  "text_path": "text/app53170koningr118-26.txt",
-  "permalink": "/documents/app53170koningr118/26/"
+  "title": "report 27",
+  "path": "documents/app53170koningr118-27.json",
+  "text_path": "text/app53170koningr118-27.txt",
+  "permalink": "/documents/app53170koningr118/27/"
  },
  {
-  "uid": "app53170koningr118-27",
+  "uid": "app53170koningr118-28",
   "unit": "app53170koningr118",
-  "letter_id": "27",
+  "letter_id": "28",
   "doc_type": "protest",
   "language": "pl,la",
   "era": "prusimski-boundary",
@@ -5867,17 +5909,17 @@
    {
     "page": 1,
     "page_id": "0673_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0673_a2-L28_01.jpg"
    },
    {
     "page": 2,
     "page_id": "0674_a1",
-    "image": "APP_53_17_0_Konin_Gr_118_0674_a1-L27_02.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0674_a1-L28_02.jpg"
    },
    {
     "page": 3,
     "page_id": "0674_a2",
-    "image": "APP_53_17_0_Konin_Gr_118_0674_a2-L27_03.jpg"
+    "image": "APP_53_17_0_Konin_Gr_118_0674_a2-L28_03.jpg"
    }
   ],
   "uncertainty_count": 5,
@@ -5893,10 +5935,10 @@
   "has_summary": true,
   "has_summary_de": true,
   "legibility": "",
-  "title": "protest 27",
-  "path": "documents/app53170koningr118-27.json",
-  "text_path": "text/app53170koningr118-27.txt",
-  "permalink": "/documents/app53170koningr118/27/"
+  "title": "protest 28",
+  "path": "documents/app53170koningr118-28.json",
+  "text_path": "text/app53170koningr118-28.txt",
+  "permalink": "/documents/app53170koningr118/28/"
  },
  {
   "uid": "app53170koningr119-1",

@@ -9,23 +9,23 @@
  "doc_type": "report",
  "era": "prusimski-boundary",
  "themes": [],
- "date_iso": "1782-12-07",
- "date_precision": "day",
- "date_source": "dateline",
- "date_display": "1782-12-07",
- "date_inferred_from": "read from the document's own dateline",
+ "date_iso": "1782",
+ "date_precision": "year",
+ "date_source": "inferred",
+ "date_display": "[1782]",
+ "date_inferred_from": "Entered at the foot of leaf 671 verso; the next heading of a sitting, at the top of leaf 672, is of the Monday after St Andrew 1782, 2 December. The heading of its own sitting is on a page not among the scans.",
  "year": 1782,
- "month": 12,
- "day": 7,
+ "month": "",
+ "day": "",
  "place": "Konin",
  "sender": "",
  "recipient": "",
  "line_start": 138,
- "line_end": 142,
- "uncertainty_count": 0,
+ "line_end": 141,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "rough_transcription": 0,
- "language": "la,pl",
+ "language": "la",
  "duplicate_of": "",
  "relations": [],
  "estates": [
@@ -33,36 +33,34 @@
   "lukomia"
  ],
  "is_missing": 0,
- "n_lines": 3,
+ "n_lines": 2,
  "n_pages": 1,
- "text": "Actum in Conin Sabbatho Invigilia Festi Immaculatae Conceptionis Beatissimae Mariae Virginis Die Scilicet Septima Mensis Decembris Anno Domini 1782\nPro parte JM Prusimski Visionis Borram Excissa~ Relatio\nAd Officium et Acta praesenti Castrensia Coninensia personaliter veniens Providus Bartholomaeus Szepczyński de Trąmpczyno Ministerialis Regni Generalis sanus Recognovit Quia Ipse habitis Secum Duobus Nobilibus videlicet Generosis Adamo Milewski et Joanne Wilgiewicz hic Licet ad praesens absentibus In loco tamen negotii Infrascripti pro tunc praesentibus. Ad Instantiam et officiosam Requisitionem Illustris Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna cum attinen~ haeredis, Die Quarta mensis et Anni Currentium cum Suprascriptis Nobilibus in Borram ad Bona Trąmpczyn Spectantem Condescenderat. Ibidemque taliter existens affatus est se debite vidisse et Connumerasse, ut pote Sosien w Boru własnym do Dóbr Trąmpczyna nalezącym polewey Stronie wyciętey Linij, przez Dekret Trybunalski y ziazdowey widoczney y Kołkami wziemi Utkniętemi oznaczoney będącym Dwiescie dwadziescia i Jednę Budynkowych przez Ludzi z Dóbr Łukomia Łomowa y Innych WJmc Pana Stanisława Chełmskiego Skarbnika Wschowskiego Dziedzicznych Dnia Dwudziestego Osmego Listopada, Roku biezącego, pod Czas Aktu Kondescensyi Dwoch przez Siebie Zeznawaiącego przywoływanych sciętych, które Drzewo czyli Kloce do wspomnionych Dóbr pozabierane procz Siodmiu klocow odziemnych y Gałęzi na mieyscu lezących Quae praemissa Is Idem Ministerialis cum suprascriptis Nobilibus Die ut supra vidisse Connumerasse, et prout Eadem de Jussu et Mandato Magnifici Chełmski Thesaurarii Vschoven~ peracta sint attestatus est de quo hanc suam Officio praesenti Relationem fecit, petens Eandem a se Suscipi quod obtinuit.",
- "text_reading": "Actum in Conin Sabbatho Invigilia Festi Immaculatae Conceptionis Beatissimae Mariae Virginis Die Scilicet Septima Mensis Decembris Anno Domini 1782\n\nPro parte JM Prusimski Visionis Borram Excissa~ Relatio\n\nAd Officium et Acta praesenti Castrensia Coninensia personaliter veniens Providus Bartholomaeus Szepczyński de Trąmpczyno Ministerialis Regni Generalis sanus Recognovit Quia Ipse habitis Secum Duobus Nobilibus videlicet Generosis Adamo Milewski et Joanne Wilgiewicz hic Licet ad praesens absentibus In loco tamen negotii Infrascripti pro tunc praesentibus. Ad Instantiam et officiosam Requisitionem Illustris Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna cum attinen~ haeredis, Die Quarta mensis et Anni Currentium cum Suprascriptis Nobilibus in Borram ad Bona Trąmpczyn Spectantem Condescenderat. Ibidemque taliter existens affatus est se debite vidisse et Connumerasse, ut pote Sosien w Boru własnym do Dóbr Trąmpczyna nalezącym polewey Stronie wyciętey Linij, przez Dekret Trybunalski y ziazdowey widoczney y Kołkami wziemi Utkniętemi oznaczoney będącym Dwiescie dwadziescia i Jednę Budynkowych przez Ludzi z Dóbr Łukomia Łomowa y Innych WJmc Pana Stanisława Chełmskiego Skarbnika Wschowskiego Dziedzicznych Dnia Dwudziestego Osmego Listopada, Roku biezącego, pod Czas Aktu Kondescensyi Dwoch przez Siebie Zeznawaiącego przywoływanych sciętych, które Drzewo czyli Kloce do wspomnionych Dóbr pozabierane procz Siodmiu klocow odziemnych y Gałęzi na mieyscu lezących Quae praemissa Is Idem Ministerialis cum suprascriptis Nobilibus Die ut supra vidisse Connumerasse, et prout Eadem de Jussu et Mandato Magnifici Chełmski Thesaurarii Vschoven~ peracta sint attestatus est de quo hanc suam Officio praesenti Relationem fecit, petens Eandem a se Suscipi quod obtinuit.",
+ "text": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Cit[ationes] Litt[eras] authen[ticas] Judiciis Castrensis Calissien~ proxima in Castro Calissien[si] Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen[sis] Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven[sem] Bonorum Łukom haeredem et alios Citt~ pro paenis r[atio]ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
+ "text_reading": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\n\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Cit[ationes] Litt[eras] authen[ticas] Judiciis Castrensis Calissien~ proxima in Castro Calissien[si] Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen[sis] Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven[sem] Bonorum Łukom haeredem et alios Citt~ pro paenis r[atio]ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
  "pages": [
   {
    "page": 1,
-   "page_id": "0673_a2",
+   "page_id": "0672_a1",
    "line_start": 140,
-   "line_end": 142,
-   "n_lines": 3,
-   "diplomatic": "Actum in Conin Sabbatho Invigilia Festi Immaculatae Conceptionis Beatissimae Mariae Virginis Die Scilicet Septima Mensis Decembris Anno Domini 1782\nPro parte JM Prusimski Visionis Borram Excissa~ Relatio\nAd Officium et Acta praesenti Castrensia Coninensia personaliter veniens Providus Bartholomaeus Szepczyński de Trąmpczyno Ministerialis Regni Generalis sanus Recognovit Quia Ipse habitis Secum Duobus Nobilibus videlicet Generosis Adamo Milewski et Joanne Wilgiewicz hic Licet ad praesens absentibus In loco tamen negotii Infrascripti pro tunc praesentibus. Ad Instantiam et officiosam Requisitionem Illustris Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna cum attinen~ haeredis, Die Quarta mensis et Anni Currentium cum Suprascriptis Nobilibus in Borram ad Bona Trąmpczyn Spectantem Condescenderat. Ibidemque taliter existens affatus est se debite vidisse et Connumerasse, ut pote Sosien w Boru własnym do Dóbr Trąmpczyna nalezącym polewey Stronie wyciętey Linij, przez Dekret Trybunalski y ziazdowey widoczney y Kołkami wziemi Utkniętemi oznaczoney będącym Dwiescie dwadziescia i Jednę Budynkowych przez Ludzi z Dóbr Łukomia Łomowa y Innych WJmc Pana Stanisława Chełmskiego Skarbnika Wschowskiego Dziedzicznych Dnia Dwudziestego Osmego Listopada, Roku biezącego, pod Czas Aktu Kondescensyi Dwoch przez Siebie Zeznawaiącego przywoływanych sciętych, które Drzewo czyli Kloce do wspomnionych Dóbr pozabierane procz Siodmiu klocow odziemnych y Gałęzi na mieyscu lezących Quae praemissa Is Idem Ministerialis cum suprascriptis Nobilibus Die ut supra vidisse Connumerasse, et prout Eadem de Jussu et Mandato Magnifici Chełmski Thesaurarii Vschoven~ peracta sint attestatus est de quo hanc suam Officio praesenti Relationem fecit, petens Eandem a se Suscipi quod obtinuit.",
-   "transcription": "Actum in Conin Sabbatho Invigilia Festi Immaculatae Conceptionis Beatissimae Mariae Virginis Die Scilicet Septima Mensis Decembris Anno Domini 1782\nPro parte JM Prusimski Visionis Borram Excissa~ Relatio\nAd Officium et Acta praesenti Castrensia Coninensia personaliter veniens Providus Bartholomaeus Szepczyński de Trąmpczyno Ministerialis Regni Generalis sanus Recognovit Quia Ipse habitis Secum Duobus Nobilibus videlicet Generosis Adamo Milewski et Joanne Wilgiewicz hic Licet ad praesens absentibus In loco tamen negotii Infrascripti pro tunc praesentibus. Ad Instantiam et officiosam Requisitionem Illustris Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna cum attinen~ haeredis, Die Quarta mensis et Anni Currentium cum Suprascriptis Nobilibus in Borram ad Bona Trąmpczyn Spectantem Condescenderat. Ibidemque taliter existens affatus est se debite vidisse et Connumerasse, ut pote Sosien w Boru własnym do Dóbr Trąmpczyna nalezącym polewey Stronie wyciętey Linij, przez Dekret Trybunalski y ziazdowey widoczney y Kołkami wziemi Utkniętemi oznaczoney będącym Dwiescie dwadziescia i Jednę Budynkowych przez Ludzi z Dóbr Łukomia Łomowa y Innych WJmc Pana Stanisława Chełmskiego Skarbnika Wschowskiego Dziedzicznych Dnia Dwudziestego Osmego Listopada, Roku biezącego, pod Czas Aktu Kondescensyi Dwoch przez Siebie Zeznawaiącego przywoływanych sciętych, które Drzewo czyli Kloce do wspomnionych Dóbr pozabierane procz Siodmiu klocow odziemnych y Gałęzi na mieyscu lezących Quae praemissa Is Idem Ministerialis cum suprascriptis Nobilibus Die ut supra vidisse Connumerasse, et prout Eadem de Jussu et Mandato Magnifici Chełmski Thesaurarii Vschoven~ peracta sint attestatus est de quo hanc suam Officio praesenti Relationem fecit, petens Eandem a se Suscipi quod obtinuit.",
-   "reading": "Actum in Conin Sabbatho Invigilia Festi Immaculatae Conceptionis Beatissimae Mariae Virginis Die Scilicet Septima Mensis Decembris Anno Domini 1782\n\nPro parte JM Prusimski Visionis Borram Excissa~ Relatio\n\nAd Officium et Acta praesenti Castrensia Coninensia personaliter veniens Providus Bartholomaeus Szepczyński de Trąmpczyno Ministerialis Regni Generalis sanus Recognovit Quia Ipse habitis Secum Duobus Nobilibus videlicet Generosis Adamo Milewski et Joanne Wilgiewicz hic Licet ad praesens absentibus In loco tamen negotii Infrascripti pro tunc praesentibus. Ad Instantiam et officiosam Requisitionem Illustris Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna cum attinen~ haeredis, Die Quarta mensis et Anni Currentium cum Suprascriptis Nobilibus in Borram ad Bona Trąmpczyn Spectantem Condescenderat. Ibidemque taliter existens affatus est se debite vidisse et Connumerasse, ut pote Sosien w Boru własnym do Dóbr Trąmpczyna nalezącym polewey Stronie wyciętey Linij, przez Dekret Trybunalski y ziazdowey widoczney y Kołkami wziemi Utkniętemi oznaczoney będącym Dwiescie dwadziescia i Jednę Budynkowych przez Ludzi z Dóbr Łukomia Łomowa y Innych WJmc Pana Stanisława Chełmskiego Skarbnika Wschowskiego Dziedzicznych Dnia Dwudziestego Osmego Listopada, Roku biezącego, pod Czas Aktu Kondescensyi Dwoch przez Siebie Zeznawaiącego przywoływanych sciętych, które Drzewo czyli Kloce do wspomnionych Dóbr pozabierane procz Siodmiu klocow odziemnych y Gałęzi na mieyscu lezących Quae praemissa Is Idem Ministerialis cum suprascriptis Nobilibus Die ut supra vidisse Connumerasse, et prout Eadem de Jussu et Mandato Magnifici Chełmski Thesaurarii Vschoven~ peracta sint attestatus est de quo hanc suam Officio praesenti Relationem fecit, petens Eandem a se Suscipi quod obtinuit.",
+   "line_end": 141,
+   "n_lines": 2,
+   "diplomatic": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Cit[ationes] Litt[eras] authen[ticas] Judiciis Castrensis Calissien~ proxima in Castro Calissien[si] Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen[sis] Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven[sem] Bonorum Łukom haeredem et alios Citt~ pro paenis r[atio]ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
+   "transcription": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Cit[ationes] Litt[eras] authen[ticas] Judiciis Castrensis Calissien~ proxima in Castro Calissien[si] Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen[sis] Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven[sem] Bonorum Łukom haeredem et alios Citt~ pro paenis r[atio]ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
+   "reading": "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio\n\nPersonaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Cit[ationes] Litt[eras] authen[ticas] Judiciis Castrensis Calissien~ proxima in Castro Calissien[si] Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen[sis] Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven[sem] Bonorum Łukom haeredem et alios Citt~ pro paenis r[atio]ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse",
    "paragraphs": [
-    "Actum in Conin Sabbatho Invigilia Festi Immaculatae Conceptionis Beatissimae Mariae Virginis Die Scilicet Septima Mensis Decembris Anno Domini 1782",
-    "Pro parte JM Prusimski Visionis Borram Excissa~ Relatio",
-    "Ad Officium et Acta praesenti Castrensia Coninensia personaliter veniens Providus Bartholomaeus Szepczyński de Trąmpczyno Ministerialis Regni Generalis sanus Recognovit Quia Ipse habitis Secum Duobus Nobilibus videlicet Generosis Adamo Milewski et Joanne Wilgiewicz hic Licet ad praesens absentibus In loco tamen negotii Infrascripti pro tunc praesentibus. Ad Instantiam et officiosam Requisitionem Illustris Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen~ Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna cum attinen~ haeredis, Die Quarta mensis et Anni Currentium cum Suprascriptis Nobilibus in Borram ad Bona Trąmpczyn Spectantem Condescenderat. Ibidemque taliter existens affatus est se debite vidisse et Connumerasse, ut pote Sosien w Boru własnym do Dóbr Trąmpczyna nalezącym polewey Stronie wyciętey Linij, przez Dekret Trybunalski y ziazdowey widoczney y Kołkami wziemi Utkniętemi oznaczoney będącym Dwiescie dwadziescia i Jednę Budynkowych przez Ludzi z Dóbr Łukomia Łomowa y Innych WJmc Pana Stanisława Chełmskiego Skarbnika Wschowskiego Dziedzicznych Dnia Dwudziestego Osmego Listopada, Roku biezącego, pod Czas Aktu Kondescensyi Dwoch przez Siebie Zeznawaiącego przywoływanych sciętych, które Drzewo czyli Kloce do wspomnionych Dóbr pozabierane procz Siodmiu klocow odziemnych y Gałęzi na mieyscu lezących Quae praemissa Is Idem Ministerialis cum suprascriptis Nobilibus Die ut supra vidisse Connumerasse, et prout Eadem de Jussu et Mandato Magnifici Chełmski Thesaurarii Vschoven~ peracta sint attestatus est de quo hanc suam Officio praesenti Relationem fecit, petens Eandem a se Suscipi quod obtinuit."
+    "Ex Parte JM Prusimski contra Magnificum Chełmski Relatio",
+    "Personaliter veniens Providus Mathias Matuszkiewicz de Villa Szetlewko Ministerialis Regni Generalis sanus recognovit se Cit[ationes] Litt[eras] authen[ticas] Judiciis Castrensis Calissien~ proxima in Castro Calissien[si] Celebrandem Qua ex parte et ad Instantiam J Magnifici Antonii in Kolno Prusimski Capitanei Nieszczevicen[sis] Insignis Sancti Stanislai Equitis Bonorum Trąmpczyna et aliorum haeredis et aliorum Actt~ contra Magnificum Stanislaum Chełmski Thaesaurarium Vschoven[sem] Bonorum Łukom haeredem et alios Citt~ pro paenis r[atio]ne attentatarum Violentiarum cum aresto hominum Futuro in Imo~ perigendae Similem Editt~ In Curia Bonorum Villae Łukom super armariolo hippi praesente Citto~ die hodierna Actu Content[o?] posuisse et Notificatt~ reliquisse"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
    "para_lines": [
-    1,
-    2
+    1
    ],
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 3,
+   "doc_line_end": 2,
    "by_paragraph": true
   }
  ],
@@ -73,10 +71,21 @@
    "kind": "person",
    "surface": "Prusimski",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 141,
-   "doc_line": 2
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 140,
+   "doc_line": 1
+  },
+  {
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
+   "kind": "person",
+   "surface": "Chełmski",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 140,
+   "doc_line": 1
   },
   {
    "entity": "prusimski",
@@ -84,21 +93,10 @@
    "kind": "person",
    "surface": "Prusimski",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
-  },
-  {
-   "entity": "stanislaw-chelmski",
-   "display": "Stanisław Chełmski, Treasurer of Wschowa",
-   "kind": "person",
-   "surface": "Chełmskiego",
-   "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   },
   {
    "entity": "stanislaw-chelmski",
@@ -106,21 +104,10 @@
    "kind": "person",
    "surface": "Chełmski",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
-  },
-  {
-   "entity": "stanislaw-chelmski",
-   "display": "Stanisław Chełmski, Treasurer of Wschowa",
-   "kind": "person",
-   "surface": "Chełmskiego",
-   "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   },
   {
    "entity": "stanislaw-chelmski",
@@ -128,36 +115,36 @@
    "kind": "person",
    "surface": "Chełmski",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
-  },
-  {
-   "entity": "szepczynski",
-   "display": "Bartłomiej Szepczyński, court messenger",
-   "kind": "person",
-   "surface": "Szepczyński",
-   "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   }
  ],
  "mentions_english": [],
  "place_canonical": "Konin",
  "place_mentions": [
   {
-   "entity": "konin",
-   "display": "Konin",
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
    "kind": "place",
-   "surface": "Conin",
+   "surface": "Calissien",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 140,
-   "doc_line": 1
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissien[si]",
+   "page": 1,
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   },
   {
    "entity": "kolno",
@@ -165,54 +152,43 @@
    "kind": "place",
    "surface": "Kolno",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   },
   {
-   "entity": "konin",
-   "display": "Konin",
+   "entity": "lukom",
+   "display": "Łukom",
    "kind": "place",
-   "surface": "Coninensia",
+   "surface": "Łukom",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   },
   {
-   "entity": "lukomia",
-   "display": "Łukomia",
+   "entity": "lukom",
+   "display": "Łukom",
    "kind": "place",
-   "surface": "Łukomia",
+   "surface": "Łukom",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   },
   {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
+   "entity": "szetlewek",
+   "display": "Szetlewek",
    "kind": "place",
-   "surface": "Trąmpczyn",
+   "surface": "Szetlewko",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
-  },
-  {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface": "Trąmpczyn",
-   "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   },
   {
    "entity": "trabczyn",
@@ -220,32 +196,21 @@
    "kind": "place",
    "surface": "Trąmpczyn",
    "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
-  },
-  {
-   "entity": "trabczyn",
-   "display": "Trąbczyn",
-   "kind": "place",
-   "surface": "Trąmpczyn",
-   "page": 1,
-   "page_id": "0673_a2",
-   "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
-   "line": 142,
-   "doc_line": 3
+   "page_id": "0672_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0672_a1-L26_01.jpg",
+   "line": 141,
+   "doc_line": 2
   }
  ],
  "translation_status": "draft",
  "translation": [
   {
    "page": 1,
-   "en": "Done in Konin, on Saturday, the Eve of the Feast of the Immaculate Conception of the Most Blessed Virgin Mary, namely the 7th day of the month of December, in the Year of the Lord 1782.\n\nFor the part of the Illustrious Prusimski — a Report of the Judicial Site Inspection of the Felled Pine Forest\n\nHaving come in person to the present Office and Records of the Konin Municipal Court, the Honest Bartłomiej Szepczyński of Trąbczyn, General Royal Process Server, sound [of mind], acknowledged: that he, having with him two Nobles, namely the Honourables Adam Milewski and Jan Wilgiewicz, although absent here from the court at present, but present at the time at the location of the below-written matter — at the instance and official requisition of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, Heir of the estates of Trąbczyn with appurtenances — on the 4th day of the present month and year, had descended with the above-mentioned Nobles into the pine forest belonging to the estate of Trąbczyn; and being there in such manner, stated that he had duly seen and counted:\n\nnamely pines in the pine forest itself belonging to the estates of Trąbczyn, on the left side of the cut line, visible by the Tribunal Decree and the field [session], and marked by stakes driven into the ground — two hundred and twenty-one construction-grade [trees], cut down by the people of the estates of Łukomia, Łomowa, and other hereditary [estates] of the Right Honourable Pan Stanisław Chełmski, Treasurer of [uncertain: Wschowa], on the 28th day of November of the present year, during the Act of the Condescension of the two [sessions] called by the deponent himself — cut down; which timber was taken away from the aforementioned estates, except for seven [odsiemnych] logs and [uncertain: branches] lying in place.\n\nThe same Process Server, with the above-mentioned Nobles, saw and counted the above-mentioned things on the day as above, and attested that the same were done by the order and mandate of the Illustrious Chełmski, Treasurer of Wschowa, through [the court's] acts — of which he made this his report to the present Office, requesting that the same be received from him, which he obtained."
+   "en": "On behalf of the Illustrious Prusimski, against the Illustrious Chełmski — a Report\n\nHaving come in person, the Honest Mateusz Matuszkiewicz of the village of Szetlewek, General Royal Process Server, sound [of mind], acknowledged that he had served authenticated Citation Letters for the sessions of the Kalisz Municipal Court next to be held in the Kalisz Castle — on behalf of and at the instance of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, Heir of the estates of Trąbczyn and others, and other Plaintiffs — against the Illustrious Stanisław Chełmski, Treasurer of Wschowa, Heir of the estates of Łukom, and other Cited parties — for penalties on account of attempted violence with the arrest of people, [in Imo~] to be similarly carried out in the future, issued — in the manor of the estates of the village of Łukom, upon the small cupboard in the heated room, in the presence of the Cited party, on this very day — having placed [the citation] and having left notification."
   }
  ],
- "text_english": "Done in Konin, on Saturday, the Eve of the Feast of the Immaculate Conception of the Most Blessed Virgin Mary, namely the 7th day of the month of December, in the Year of the Lord 1782.\n\nFor the part of the Illustrious Prusimski — a Report of the Judicial Site Inspection of the Felled Pine Forest\n\nHaving come in person to the present Office and Records of the Konin Municipal Court, the Honest Bartłomiej Szepczyński of Trąbczyn, General Royal Process Server, sound [of mind], acknowledged: that he, having with him two Nobles, namely the Honourables Adam Milewski and Jan Wilgiewicz, although absent here from the court at present, but present at the time at the location of the below-written matter — at the instance and official requisition of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, Heir of the estates of Trąbczyn with appurtenances — on the 4th day of the present month and year, had descended with the above-mentioned Nobles into the pine forest belonging to the estate of Trąbczyn; and being there in such manner, stated that he had duly seen and counted:\n\nnamely pines in the pine forest itself belonging to the estates of Trąbczyn, on the left side of the cut line, visible by the Tribunal Decree and the field [session], and marked by stakes driven into the ground — two hundred and twenty-one construction-grade [trees], cut down by the people of the estates of Łukomia, Łomowa, and other hereditary [estates] of the Right Honourable Pan Stanisław Chełmski, Treasurer of [uncertain: Wschowa], on the 28th day of November of the present year, during the Act of the Condescension of the two [sessions] called by the deponent himself — cut down; which timber was taken away from the aforementioned estates, except for seven [odsiemnych] logs and [uncertain: branches] lying in place.\n\nThe same Process Server, with the above-mentioned Nobles, saw and counted the above-mentioned things on the day as above, and attested that the same were done by the order and mandate of the Illustrious Chełmski, Treasurer of Wschowa, through [the court's] acts — of which he made this his report to the present Office, requesting that the same be received from him, which he obtained.",
- "summary_en": "On 7 December 1782 the court messenger Bartłomiej Szepczyński of Trąbczyn reported, for Antoni Prusimski of Kolno, Starost of Niszczewice and owner of Trąbczyn, that with two noblemen, Adam Milewski and Jan Wilgiewicz, he had been in the pine wood of Trąbczyn on the 4th of that month. On the left of the line that was cut and staked under the decree of the Crown Tribunal and of the sitting on the ground he counted 221 felled building pines. By his account they were cut on 28 November 1782 by people from Łukomia, Łomów and other estates of Stanisław Chełmski and carried off to those estates, all but seven logs. He states that it was done at Chełmski's order.",
- "summary_de": "Bericht des Gerichtsboten Bartłomiej Szepczyński von Trąbczyn vom 7. Dezember 1782, für Antoni Prusimski von Kolno, Starost von Niszczewice. Mit zwei Adligen, Adam Milewski und Jan Wilgiewicz, war er am 4. des laufenden Monats im Trąbczyner Kiefernwald. Links der Linie, die nach dem Dekret des Tribunals und des Ortstermins ausgehauen und mit Pflöcken bezeichnet ist, zählte er 221 gefällte Baukiefern, nach seiner Angabe am 28. November des laufenden Jahres von Leuten aus Łukomia, Łomów und anderen Gütern Chełmskis geschlagen und auf dessen Güter fortgeschafft, bis auf sieben Klötze. Nach seiner Angabe geschah es auf Befehl Chełmskis.",
+ "text_english": "On behalf of the Illustrious Prusimski, against the Illustrious Chełmski — a Report\n\nHaving come in person, the Honest Mateusz Matuszkiewicz of the village of Szetlewek, General Royal Process Server, sound [of mind], acknowledged that he had served authenticated Citation Letters for the sessions of the Kalisz Municipal Court next to be held in the Kalisz Castle — on behalf of and at the instance of the Illustrious Magnificent Antoni of Kolno Prusimski, Starost of Niszczewice, Knight of the Order of Saint Stanislaus, Heir of the estates of Trąbczyn and others, and other Plaintiffs — against the Illustrious Stanisław Chełmski, Treasurer of Wschowa, Heir of the estates of Łukom, and other Cited parties — for penalties on account of attempted violence with the arrest of people, [in Imo~] to be similarly carried out in the future, issued — in the manor of the estates of the village of Łukom, upon the small cupboard in the heated room, in the presence of the Cited party, on this very day — having placed [the citation] and having left notification.",
+ "summary_en": "In 1782 the court messenger Mateusz Matuszkiewicz of Szetlewek reported at Konin that he had served on Stanisław Chełmski, Treasurer of Wschowa and owner of Łukom, and on others a citation before the municipal court of Kalisz, at the instance of Antoni Prusimski of Kolno, Starost of Niszczewice and owner of Trąbczyn, for the penalties for acts of violence committed, with the seizing of people. He left it at the manor of Łukom in the presence of the man cited.",
+ "summary_de": "Bericht des Gerichtsboten Mateusz Matuszkiewicz von Szetlewek, eingetragen in Konin 1782. Er hat Stanisław Chełmski, Schatzmeister von Wschowa und Erbherr von Łukom, und anderen eine Ladung vor das Burggericht Kalisz zugestellt, auf Betreiben von Antoni Prusimski von Kolno, Starost von Niszczewice: wegen der Strafen für verübte Gewalttaten samt der Festnahme von Leuten. Er hat sie im Gutshof von Łukom in Gegenwart des Geladenen hinterlegt.",
  "reading": {}
 }

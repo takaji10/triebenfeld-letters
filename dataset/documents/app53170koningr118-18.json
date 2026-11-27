@@ -9,58 +9,55 @@
  "doc_type": "note",
  "era": "prusimski-boundary",
  "themes": [],
- "date_iso": "1782-06-10",
+ "date_iso": "1782-06-08",
  "date_precision": "day",
  "date_source": "sitting",
- "date_display": "1782-06-10",
- "date_inferred_from": "The heading of the sitting, on p. 525 (shown above the text): Monday 10 June 1782.",
+ "date_display": "1782-06-08",
+ "date_inferred_from": "The heading of the sitting, on p. 523 (shown above the text): Saturday 8 June 1782.",
  "year": 1782,
  "month": 6,
- "day": 10,
+ "day": 8,
  "place": "Konin",
  "sender": "",
  "recipient": "",
  "line_start": 88,
  "line_end": 91,
- "uncertainty_count": 0,
+ "uncertainty_count": 1,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "la",
  "duplicate_of": "",
  "relations": [],
  "estates": [
-  "trabczyn"
+  "trabczyn",
+  "lukomia"
  ],
  "is_missing": 0,
  "n_lines": 2,
  "n_pages": 1,
- "text": "Pro Parte JM Prusimski Capitanei Nieszczevicen[sis] Loci Visionis Oblata\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen[sis] haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
- "text_reading": "Pro Parte JM Prusimski Capitanei Nieszczevicen[sis] Loci Visionis Oblata\n\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen[sis] haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
+ "text": "Decreti Condescensorialis Granicialis Inter Haereditatis Bonorum Trąpczyn Łukom et Alia prolati Oblata\nVideatur hoc loco Oblata Decreti Condescensorialis Campestris Granicialis Inter haereditates Bonorum Trąpczyn cum Attinentiis Illustri Magnifici Antonii Prusimski Capitaneum Niesczevicensem et Łukom Itidem cum Attinen~ Magnifici Stanislai Chełmski Thaesaurarii Vschov~ haereditat~ prolati, per Officium[que?] Camerariale Graniciale Junivladislav~ expeditt~ pro ut Originale Ejusq[ue] Decreti in productis extat",
+ "text_reading": "Decreti Condescensorialis Granicialis Inter Haereditatis Bonorum Trąpczyn Łukom et Alia prolati Oblata Videatur hoc loco Oblata Decreti Condescensorialis Campestris Granicialis Inter haereditates Bonorum Trąpczyn cum Attinentiis Illustri Magnifici Antonii Prusimski Capitaneum Niesczevicensem et Łukom Itidem cum Attinen~ Magnifici Stanislai Chełmski Thaesaurarii Vschov~ haereditat~ prolati, per Officium[que?] Camerariale Graniciale Junivladislav~ expeditt~ pro ut Originale Ejusq[ue] Decreti in productis extat",
  "pages": [
   {
    "page": 1,
-   "page_id": "0527_a1",
+   "page_id": "0525_a1",
    "line_start": 90,
    "line_end": 91,
    "n_lines": 2,
-   "diplomatic": "Pro Parte JM Prusimski Capitanei Nieszczevicen[sis] Loci Visionis Oblata\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen[sis] haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
-   "transcription": "Pro Parte JM Prusimski Capitanei Nieszczevicen[sis] Loci Visionis Oblata\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen[sis] haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
-   "reading": "Pro Parte JM Prusimski Capitanei Nieszczevicen[sis] Loci Visionis Oblata\n\nVideatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen[sis] haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis",
+   "diplomatic": "Decreti Condescensorialis Granicialis Inter Haereditatis Bonorum Trąpczyn Łukom et Alia prolati Oblata\nVideatur hoc loco Oblata Decreti Condescensorialis Campestris Granicialis Inter haereditates Bonorum Trąpczyn cum Attinentiis Illustri Magnifici Antonii Prusimski Capitaneum Niesczevicensem et Łukom Itidem cum Attinen~ Magnifici Stanislai Chełmski Thaesaurarii Vschov~ haereditat~ prolati, per Officium[que?] Camerariale Graniciale Junivladislav~ expeditt~ pro ut Originale Ejusq[ue] Decreti in productis extat",
+   "transcription": "Decreti Condescensorialis Granicialis Inter Haereditatis Bonorum Trąpczyn Łukom et Alia prolati Oblata\nVideatur hoc loco Oblata Decreti Condescensorialis Campestris Granicialis Inter haereditates Bonorum Trąpczyn cum Attinentiis Illustri Magnifici Antonii Prusimski Capitaneum Niesczevicensem et Łukom Itidem cum Attinen~ Magnifici Stanislai Chełmski Thaesaurarii Vschov~ haereditat~ prolati, per Officium[que?] Camerariale Graniciale Junivladislav~ expeditt~ pro ut Originale Ejusq[ue] Decreti in productis extat",
+   "reading": "Decreti Condescensorialis Granicialis Inter Haereditatis Bonorum Trąpczyn Łukom et Alia prolati Oblata Videatur hoc loco Oblata Decreti Condescensorialis Campestris Granicialis Inter haereditates Bonorum Trąpczyn cum Attinentiis Illustri Magnifici Antonii Prusimski Capitaneum Niesczevicensem et Łukom Itidem cum Attinen~ Magnifici Stanislai Chełmski Thaesaurarii Vschov~ haereditat~ prolati, per Officium[que?] Camerariale Graniciale Junivladislav~ expeditt~ pro ut Originale Ejusq[ue] Decreti in productis extat",
    "paragraphs": [
-    "Pro Parte JM Prusimski Capitanei Nieszczevicen[sis] Loci Visionis Oblata",
-    "Videatur hoc loco Oblata Visionis Loci busto ad Bona Trąpczyn J Magnifici Antonii Prusimski Capitanei Nieszczevicen[sis] haeareditt~ per Duos Nobiles et Ministerialem in Papyro a Thaesauro Regni Gros~ unius argen~ Conscriptt~ manibusque Eorundem Nobilium propriis Subscriptt~ prout Originale extat in productis"
+    "Decreti Condescensorialis Granicialis Inter Haereditatis Bonorum Trąpczyn Łukom et Alia prolati Oblata Videatur hoc loco Oblata Decreti Condescensorialis Campestris Granicialis Inter haereditates Bonorum Trąpczyn cum Attinentiis Illustri Magnifici Antonii Prusimski Capitaneum Niesczevicensem et Łukom Itidem cum Attinen~ Magnifici Stanislai Chełmski Thaesaurarii Vschov~ haereditat~ prolati, per Officium[que?] Camerariale Graniciale Junivladislav~ expeditt~ pro ut Originale Ejusq[ue] Decreti in productis extat"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
    "continues_previous": false,
    "continues_next": false,
-   "para_lines": [
-    1
-   ],
-   "scan": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
+   "para_lines": [],
+   "scan": "APP_53_17_0_Konin_Gr_118_0525_a1-L18_01.jpg",
    "doc_line_start": 1,
-   "doc_line_end": 2,
-   "by_paragraph": true
+   "doc_line_end": 2
   }
  ],
  "mentions": [
@@ -70,19 +67,19 @@
    "kind": "person",
    "surface": "Prusimski",
    "page": 1,
-   "page_id": "0527_a1",
-   "scan": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
-   "line": 90,
-   "doc_line": 1
+   "page_id": "0525_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0525_a1-L18_01.jpg",
+   "line": 91,
+   "doc_line": 2
   },
   {
-   "entity": "prusimski",
-   "display": "Antoni Prusimski, Starost of Niszczewice",
+   "entity": "stanislaw-chelmski",
+   "display": "Stanisław Chełmski, Treasurer of Wschowa",
    "kind": "person",
-   "surface": "Prusimski",
+   "surface": "Chełmski",
    "page": 1,
-   "page_id": "0527_a1",
-   "scan": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
+   "page_id": "0525_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0525_a1-L18_01.jpg",
    "line": 91,
    "doc_line": 2
   }
@@ -91,13 +88,46 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0525_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0525_a1-L18_01.jpg",
+   "line": 90,
+   "doc_line": 1
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
    "surface": "Trąpczyn",
    "page": 1,
-   "page_id": "0527_a1",
-   "scan": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
+   "page_id": "0525_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0525_a1-L18_01.jpg",
+   "line": 90,
+   "doc_line": 1
+  },
+  {
+   "entity": "lukom",
+   "display": "Łukom",
+   "kind": "place",
+   "surface": "Łukom",
+   "page": 1,
+   "page_id": "0525_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0525_a1-L18_01.jpg",
+   "line": 91,
+   "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trąpczyn",
+   "page": 1,
+   "page_id": "0525_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0525_a1-L18_01.jpg",
    "line": 91,
    "doc_line": 2
   }
@@ -106,11 +136,11 @@
  "translation": [
   {
    "page": 1,
-   "en": "For the part of the Illustrious Prusimski, Starost of Niszczewice — Enrollment of a Judicial Site Inspection of the Location\n\nLet there be seen at this place the Enrollment of a judicial site inspection of the location at the mound belonging to the hereditary estates of Trąbczyn of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — conducted by two Nobles and a Process Server, written on paper from the Treasury of the Kingdom of one silver grosz, and subscribed by the own hands of the same Nobles — as the original stands in the submitted documents."
+   "en": "Enrollment of the Boundary Decree of the Sitting on the Ground pronounced between the Hereditary Estates of Trąbczyn, Łukom and Others\n\nLet there be seen at this place the Enrollment of the Field Boundary Decree of the Sitting on the Ground pronounced between the hereditary estates of Trąbczyn with its appurtenances, of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and of Łukom, likewise with its appurtenances, the hereditary estate of the Magnificent Stanisław Chełmski, Treasurer of Wschowa, and issued by the [uncertain: office] of the boundary chamberlain of Inowrocław — as the original of the same decree stands in the submitted documents."
   }
  ],
- "text_english": "For the part of the Illustrious Prusimski, Starost of Niszczewice — Enrollment of a Judicial Site Inspection of the Location\n\nLet there be seen at this place the Enrollment of a judicial site inspection of the location at the mound belonging to the hereditary estates of Trąbczyn of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice — conducted by two Nobles and a Process Server, written on paper from the Treasury of the Kingdom of one silver grosz, and subscribed by the own hands of the same Nobles — as the original stands in the submitted documents.",
- "summary_en": "In June 1782 an inspection of a place on the hereditary ground of Trąbczyn, made for Antoni Prusimski, Starost of Niszczewice and owner of Trąbczyn, by two noblemen and a court messenger, was brought in for entry at Konin; the noblemen signed it in their own hands.",
- "summary_de": "Registervermerk vom Juni 1782: Für Antoni Prusimski, Starost von Niszczewice, wird die Besichtigung eines Ortes auf Trąbczyner Erbgrund zur Eintragung vorgelegt, von zwei Adligen und einem Gerichtsboten auf Stempelpapier zu einem Silbergroschen aufgesetzt und von den Adligen eigenhändig unterschrieben; das Original liegt bei den vorgelegten Schriftstücken.",
+ "text_english": "Enrollment of the Boundary Decree of the Sitting on the Ground pronounced between the Hereditary Estates of Trąbczyn, Łukom and Others\n\nLet there be seen at this place the Enrollment of the Field Boundary Decree of the Sitting on the Ground pronounced between the hereditary estates of Trąbczyn with its appurtenances, of the Illustrious Magnificent Antoni Prusimski, Starost of Niszczewice, and of Łukom, likewise with its appurtenances, the hereditary estate of the Magnificent Stanisław Chełmski, Treasurer of Wschowa, and issued by the [uncertain: office] of the boundary chamberlain of Inowrocław — as the original of the same decree stands in the submitted documents.",
+ "summary_en": "On 8 June 1782 the field boundary decree of the sitting on the ground between the hereditary estates of Trąbczyn, of Antoni Prusimski, Starost of Niszczewice, and Łukom, of Stanisław Chełmski, Treasurer of Wschowa, issued by the office of the boundary chamberlain of Inowrocław, was brought in for entry at Konin. The original stood among the documents produced; the entry does not copy the decree.",
+ "summary_de": "Registervermerk vom 8. Juni 1782: Eingetragen wird das Feldgrenzdekret des Ortstermins zwischen den Erbgütern Trąbczyn des Antoni Prusimski, Starost von Niszczewice, und Łukom des Stanisław Chełmski, Schatzmeister von Wschowa, ausgefertigt vom Grenzkämmereramt Inowrocław. Das Original liegt bei den vorgelegten Urkunden; der Text des Dekrets ist hier nicht abgeschrieben.",
  "reading": {}
 }

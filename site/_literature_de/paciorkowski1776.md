@@ -4410,7 +4410,7 @@ These matters, therefore, having been declared and explained in the manner afore
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Die Regel für zerstörte oder privat aufgeworfene Grenzen: Wiederherstellung und Niederlegung auf dem Rechtsweg, vor gerichtlicher Besichtigung durch den Offizial des Gerichts. Chełmskis Protest vom April 1778 (Konin Gr. 117) ist der Fall der privaten Aufwerfung: er erklärt eine Feldhandlung für ungültig, die von privat gedungenen Kommissaren "nach aufgeworfenen Steinen und abgelegtem Eid" aufgenommen war, und die Akte vom 28. November 1782 (Konin Gr. 153) ist die Niederlegung selbst, der Kommissar die Linie verifizierend und die Zwischensteine ausziehend.</p>
-<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">53/17/0/-/Konin Gr.153, Dokument 1 (28. November 1782)</a><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, Dokument 4 (April 1778)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">53/17/0/-/Konin Gr.153, Dokument 1 (28. November 1782)</a><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, Dokument 4 (1. April 1778)</a></p>
 </aside>{% raw %}
 </section>
 </div>

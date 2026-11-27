@@ -55,7 +55,7 @@ excerpt_separator: ""
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Boniecki bezweifelt den alten Stammbaum, der Jerzy Chełmski zum Vater von Krzysztof Ścibor und Andrzej Ścibor macht. Das Urteil des Koniner Landgerichts von 1644 zeigt einen Jerzy Chełmski, der in jenem Jahr Łukom besitzt — er verklagt die Brüder Trąmpczyński von Trąbczyn, weil sie in seinem eigenen Wald beim Dorf Łukom Grenzzeichen in die Bäume schlagen ließen —, aber es sagt nicht, wessen Vater er war.</p>
-<p class="lit-related-docs"><a href="{{ '/documents/app536036/1/' | relative_url }}">53/6/0/-/36, Dokument 1 (1644)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, Dokument 1 (26. Januar 1728)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app536036/1/' | relative_url }}">53/6/0/-/36, Dokument 1 (6. Juni 1644)</a><a href="{{ '/documents/app536040/1/' | relative_url }}">53/6/0/-/40, Dokument 1 (26. Januar 1728)</a></p>
 </aside>{% raw %}
 </section>
 
@@ -107,7 +107,7 @@ In 1766 Ignacy sold his share of the family estates of Łukomia, Łomów, Mielno
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Bonieckis eine Zeile zum Verkauf — 1766 verkaufe Ignacy seinen Anteil an den Familiengütern Łukomia, Łomów, Mielno und Bukowe an seinen Vetter Stanisław — beantwortet der Protest vom April 1778 (Konin Gr. 117), in dem Stanisław Ścibor Chełmski als Schatzmeister von Wschowa steht, Erbherr von „Łukomia, Łomów, Imielno und Bukowo": dieselben vier Güter, wobei Mielno das Imielno ist, und der Titel ein Jahr früher als Bonieckis 1779. Das Dekret von 1763 (APP 53/6/0/-/45) zeigt ihn schon im Rechtsstreit mit Katarzyna Prusimska, während die Grenze zwischen Trąbczyn und Łukom vor dem Krontribunal lag.</p>
-<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, Dokument 4 (April 1778)</a><a href="{{ '/documents/app536045/1/' | relative_url }}">53/6/0/-/45, Dokument 1 (1763)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, Dokument 4 (1. April 1778)</a><a href="{{ '/documents/app536045/1/' | relative_url }}">53/6/0/-/45, Dokument 1 (30. Mai 1763)</a></p>
 </aside>{% raw %}
 </section>
 
@@ -173,7 +173,7 @@ Stanisław, Treasurer of Wschowa in 1779, who bought Łukomia from Ignacy Chełm
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Bezüge</p>
 <p>Boniecki nennt Stanisław 1779 Schatzmeister von Wschowa. Die Dokumente nennen ihn so Jahre früher und behalten ihm den Titel: der Protest vom April 1778 (Konin Gr. 117) „Thesaurarius Vschovensius", Erbherr der vier Güter, und die Akte vom 28. November 1782 (Konin Gr. 153) noch Stanisław Scibór Chełmski, Schatzmeister von Wschowa, als Herr von Łukom an den Grenzsteinen.</p>
-<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, Dokument 4 (April 1778)</a><a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">53/17/0/-/Konin Gr.153, Dokument 1 (28. November 1782)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, Dokument 4 (1. April 1778)</a><a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">53/17/0/-/Konin Gr.153, Dokument 1 (28. November 1782)</a></p>
 </aside>{% raw %}
 </section>
 </div>

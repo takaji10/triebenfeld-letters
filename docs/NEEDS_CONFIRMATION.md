@@ -9,6 +9,18 @@ reason to change the text without the editor.
 The `review/<slug>/` files named below are generated and not in the
 repository; they are on the working machine.
 
+## Konin Gr.118, document 18: the oblata of leaf 524 verso (added 2026-11-28)
+
+The editor's transcription, read against the scan by two blind Sonnet readers and Claude. Changed:
+"Ejusdem" to "Ejusq[ue]" (the page has "Ejusq"; all three readings agree). Left as the editor
+wrote them, for the editor's eye if wanted: "Haereditatis" (the page abbreviates "Haeredit~"; the
+grammar wants "Haereditates"), "Illustri" (perhaps "Illustris"), "Capitaneum Niesczevicensem" (the
+page abbreviates "Capit~ Niesz...~"; the other entries have "Capitanei Nieszczevicensis"),
+"Officium[que?]" (the page has "Offm" with a raised o) and "Camerariale" (both readers read the
+minims as "Cameraniale"). The decree it registers was issued by the boundary chamberlain's office
+of Inowrocław (Górski's), at the attempt of June 1782, not the Gniezno chamberlain's decree of
+November 1782 in Konin Gr.153.
+
 ## Jan Tracholz (2026-11-26)
 
 - **Settled (the editor, 2026-11-26):** the "Spectabilis Joannes Trachultz" of Konin Gr.120, document 2, is

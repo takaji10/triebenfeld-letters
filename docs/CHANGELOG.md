@@ -6587,3 +6587,11 @@ sources-icon.html`).
 - Corrected: Konin Gr.118, document 9 is of 7 December 1781 (its own heading on leaf 398, missed in October), not 4 December; Gr.117's dating notes misread a heading at the foot of leaf 58 verso as 2 April 1778 (it is 3 April). The claims that followed from the old dates rewritten: the summaries of Gr.118 doc 9, Gr.116 docs 11 and 12, Gr.120 doc 2, in English and German, with the claim checks; no era, timeline event or connection changed.
 - Gr.116, document 1, which stands above the heading first given it, dated by the heading the editor then supplied (p. 77, 14 August 1775; t924 closed).
 - `build_site_data.py`: `sitting_heading_html`; `assets/letter.js`: only a page's own translation view is filled; style and the label `sitting_head` in both languages.
+
+## 2026-11-28 - Konin Gr.118: the oblata of leaf 524 verso added as document 18
+
+- The entry the editor found on leaf 524 verso (photo 530): a field boundary decree of the sitting on the ground between Trąbczyn and Łukom, issued by the boundary chamberlain's office of Inowrocław, registered at the sitting of 8 June 1782. The editor's transcription read blind by two Sonnet readers and settled ("Ejusq[ue]"); English, summaries and claim check in session; a sentence on the holding's page in both languages.
+- The holding renumbered: the documents from the old 18 are now 19 to 30, in the corpus, rulings, summaries, English, caches, page images, the registers (people, family pages, links, glossary) and the holding's own citations; every moved document compared with its earlier state (none differs). Old addresses forward through `intake/merge_map.json`.
+- Konin Gr.116, document 1 dated by the heading the editor then supplied (p. 77, Monday 14 August 1775; t924 closed).
+- `merge_documents.py` and `merge_check.py`: renumbering without a merge (a document put in), the `sitting:` dates, `sitting_headings.yml`, and pages that already held two entries.
+

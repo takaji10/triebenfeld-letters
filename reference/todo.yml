@@ -1041,26 +1041,6 @@ items:
   links: []
   nc: ''
   audit_note: ''
-- id: t916-add-the-oblata-of
-  group: Konin Gr.118 - Relationes 1780-1782
-  title: Add the oblata of the 1782 boundary decree to Konin Gr.118
-  kind: claude
-  text: 'You found a new entry on p. 524v of Konin Gr.118 (scan 530): the oblata of the boundary decree
-    between Trąbczyn (Antoni Prusimski, Starost of Nieszawa) and Łukom (Stanisław Chełmski, Treasurer
-    of Wschowa), entered at the sitting of 8 June 1782; the decree itself is Konin Gr.153. Claude is to
-    check your transcription against the scan with two readers, add it as document 18 (the present 18
-    to 21 become 19 to 22, and every reference to them follows), translate and summarise it, and tie it
-    to Konin Gr.153. This waits until the sitting dates (t915) are done.'
-  options: []
-  links:
-  - type: unit
-    slug: app53170koningr118
-    label: Konin Gr.118
-  - type: unit
-    slug: app53170koningr153
-    label: Konin Gr.153
-  nc: ''
-  audit_note: ''
 - id: t917-test-whether-the-three
   group: APP 53/6/0/-/17 (1589)
   title: Test whether the three entries of 53/6/0/-/17 can be read reliably
@@ -1536,3 +1516,11 @@ done:
   answer: The heading of its own sitting is elsewhere (give the page)
   note: 'The editor, in chat: p. 77, Monday on the eve of the Assumption, 14 August 1775. Worked in: sitting_headings.yml,
     the date, the German note.'
+- id: t916-add-the-oblata-of
+  title: Add the oblata of the 1782 boundary decree to Konin Gr.118
+  date: '2026-11-28'
+  answer: Done
+  note: 'Document 18 of Konin Gr.118 (leaf 524 verso, photo 530), dated 8 June 1782 by the heading on
+    p. 523; the documents after it renumbered 19-30 everywhere. Read blind by two Sonnet readers; ''Ejusq[ue]''
+    for ''Ejusdem''. The decree is the Inowrocław chamberlain office''s of the attempt of June 1782, not
+    Konin Gr.153''s: no connection to Gr.153.'

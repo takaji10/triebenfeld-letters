@@ -30,18 +30,25 @@ concern Trąbczyn. Each entry is a document (docs/PRUSIMSKI_ERA_PLAN.md).
     15   514v, 515     520        heading only: Chełmski against the Tribunal's decree (25 May 1782)
     16   519           524        note: Prusimski cites Chełmski to Grab (1 June 1782)
     17   523v          529        Górski, the boundary chamberlain, protests against Chełmski (June 1782)
-    18   526v          532        note: an inspection brought in for Prusimski (June 1782)
-    19   530, 530v     535, 536   Chełmski protests against Górski (15 June 1782)
-    20   585v, 586     591        Gosławski's search for a report of citation (16 August 1782)
-    21   617           625        note: Chełmski cites Prusimski and Górski (1782)
-    22   622           633        note: Prusimski cites Chełmski, Orłowski and the convent (September 1782)
-    23   622 to 623v   633 to 635 report: Prusimski's citation of the Zakrzewskis and other heirs (21 September 1782)
-    24   626           637        note: the convent cites Prusimski (28 September 1782)
-    25   671v          685        report: Prusimski's citation of Chełmski to the municipal court of Kalisz (1782)
-    26   673           686        report: 221 pines cut left of the new line (7 December 1782)
-    27   673 to 674    686, 687   Maszewski protests for Prusimski against Chełmski (7 December 1782)
-    28   674v          688        note: the boundary decree of the sitting on the ground brought in (December 1782)
-    29   674v          688        note: the delivery of the settler Martin Hunt (December 1782)
+    18   524v          530        note: the boundary decree of the Inowrocław chamberlain's office brought in (8 June 1782; added 2026-11-28)
+    19   526v          532        note: an inspection brought in for Prusimski (June 1782)
+    20   530, 530v     535, 536   Chełmski protests against Górski (15 June 1782)
+    21   585v, 586     591        Gosławski's search for a report of citation (16 August 1782)
+    22   617           625        note: Chełmski cites Prusimski and Górski (1782)
+    23   622           633        note: Prusimski cites Chełmski, Orłowski and the convent (September 1782)
+    24   622 to 623v   633 to 635 report: Prusimski's citation of the Zakrzewskis and other heirs (21 September 1782)
+    25   626           637        note: the convent cites Prusimski (28 September 1782)
+    26   671v          685        report: Prusimski's citation of Chełmski to the municipal court of Kalisz (1782)
+    27   673           686        report: 221 pines cut left of the new line (7 December 1782)
+    28   673 to 674    686, 687   Maszewski protests for Prusimski against Chełmski (7 December 1782)
+    29   674v          688        note: the boundary decree of the sitting on the ground brought in (December 1782)
+    30   674v          688        note: the delivery of the settler Martin Hunt (December 1782)
+
+Renumbered 2026-11-28: the oblata of leaf 524 verso (photo 530), which the editor found, is
+document 18, and the documents after it moved up by one (intake/merge_map.json; done with
+pipeline/review/merge_documents.py and intake/merges.yml). DOCS, ROWS, english(), S and
+intake/translation/doc<N>.yml below keep the numbers from before: never run --write, --correct,
+--english, --cache or --summaries again. Document 18's English is intake/translation_oblata/.
 
 The scans are photographs named by their number in a series, not by leaf.
 The leaf numbers are the later ones written in the margins (the numbers at
@@ -139,6 +146,7 @@ SCANS = [
     ('520.jpg', 2047, '0515_a1', '0515_a2'),
     ('524.jpg', 1969, '0519_a1', '0519_a2'),
     ('529.jpg', 1974, '0524_a1', '0524_a2'),
+    ('530.jpg', 1979, '0525_a1', '0525_a2'),  # added 2026-11-28 for the oblata of leaf 524 verso (the editor); fold by find_fold
     ('532.jpg', 1982, '0527_a1', '0527_a2'),
     ('535.jpg', 1980, '0530_a1', '0530_a2'),
     ('536.jpg', 1984, '0531_a1', '0531_a2'),
@@ -153,8 +161,8 @@ SCANS = [
     ('687.jpg', 2171, '0674_a1', '0674_a2'),
     ('688.jpg', 2175, '0675_a1', '0675_a2'),
 ]
-SKIP = ('0173_a2', '0267_a2', '0344_a2', '0368_a2', '0381_a1', '0396_a1', '0397_a2', '0398_a1', '0416_a1', '0417_a2', '0460_a1', '0469_a1', '0475_a1', '0476_a2', '0496_a2', '0519_a1', '0524_a2', '0527_a2', '0530_a1', '0531_a2', '0617_a1', '0622_a1', '0624_a2', '0626_a1', '0672_a2', '0673_a1', '0675_a2')
-LEAF = {'0173_a1': '172 verso', '0173_a2': '173 recto', '0267_a1': '266 verso', '0267_a2': '267 recto', '0344_a1': '343 verso', '0344_a2': '344 recto', '0368_a1': '367 verso', '0368_a2': '368 recto', '0381_a1': '380 verso', '0381_a2': '381 recto', '0383_a1': '382 verso', '0383_a2': '383 recto', '0396_a1': '395 verso', '0396_a2': '396 recto', '0397_a1': '396 verso', '0397_a2': '397 recto', '0398_a1': '397 verso', '0398_a2': '398 recto', '0416_a1': '415 verso', '0416_a2': '416 recto', '0417_a1': '416 verso', '0417_a2': '417 recto', '0460_a1': '459 verso', '0460_a2': '460 recto', '0469_a1': '468 verso', '0469_a2': '469 recto', '0475_a1': '474 verso', '0475_a2': '475 recto', '0476_a1': '475 verso', '0476_a2': '476 recto', '0496_a1': '495 verso', '0496_a2': '496 recto', '0515_a1': '514 verso', '0515_a2': '515 recto', '0519_a1': '518 verso', '0519_a2': '519 recto', '0524_a1': '523 verso', '0524_a2': '524 recto', '0527_a1': '526 verso', '0527_a2': '527 recto', '0530_a1': '529 verso', '0530_a2': '530 recto', '0531_a1': '530 verso', '0531_a2': '531 recto', '0586_a1': '585 verso', '0586_a2': '586 recto', '0617_a1': '616 verso', '0617_a2': '617 recto', '0622_a1': '621 verso', '0622_a2': '622 recto', '0623_a1': '622 verso', '0623_a2': '623 recto', '0624_a1': '623 verso', '0624_a2': '624 recto', '0626_a1': '625 verso', '0626_a2': '626 recto', '0672_a1': '671 verso', '0672_a2': '672 recto', '0673_a1': '672 verso', '0673_a2': '673 recto', '0674_a1': '673 verso', '0674_a2': '674 recto', '0675_a1': '674 verso', '0675_a2': '675 recto'}
+SKIP = ('0173_a2', '0267_a2', '0344_a2', '0368_a2', '0381_a1', '0396_a1', '0397_a2', '0398_a1', '0416_a1', '0417_a2', '0460_a1', '0469_a1', '0475_a1', '0476_a2', '0496_a2', '0519_a1', '0524_a2', '0525_a2', '0527_a2', '0530_a1', '0531_a2', '0617_a1', '0622_a1', '0624_a2', '0626_a1', '0672_a2', '0673_a1', '0675_a2')
+LEAF = {'0173_a1': '172 verso', '0173_a2': '173 recto', '0267_a1': '266 verso', '0267_a2': '267 recto', '0344_a1': '343 verso', '0344_a2': '344 recto', '0368_a1': '367 verso', '0368_a2': '368 recto', '0381_a1': '380 verso', '0381_a2': '381 recto', '0383_a1': '382 verso', '0383_a2': '383 recto', '0396_a1': '395 verso', '0396_a2': '396 recto', '0397_a1': '396 verso', '0397_a2': '397 recto', '0398_a1': '397 verso', '0398_a2': '398 recto', '0416_a1': '415 verso', '0416_a2': '416 recto', '0417_a1': '416 verso', '0417_a2': '417 recto', '0460_a1': '459 verso', '0460_a2': '460 recto', '0469_a1': '468 verso', '0469_a2': '469 recto', '0475_a1': '474 verso', '0475_a2': '475 recto', '0476_a1': '475 verso', '0476_a2': '476 recto', '0496_a1': '495 verso', '0496_a2': '496 recto', '0515_a1': '514 verso', '0515_a2': '515 recto', '0519_a1': '518 verso', '0519_a2': '519 recto', '0524_a1': '523 verso', '0524_a2': '524 recto', '0525_a1': '524 verso', '0525_a2': '525 recto', '0527_a1': '526 verso', '0527_a2': '527 recto', '0530_a1': '529 verso', '0530_a2': '530 recto', '0531_a1': '530 verso', '0531_a2': '531 recto', '0586_a1': '585 verso', '0586_a2': '586 recto', '0617_a1': '616 verso', '0617_a2': '617 recto', '0622_a1': '621 verso', '0622_a2': '622 recto', '0623_a1': '622 verso', '0623_a2': '623 recto', '0624_a1': '623 verso', '0624_a2': '624 recto', '0626_a1': '625 verso', '0626_a2': '626 recto', '0672_a1': '671 verso', '0672_a2': '672 recto', '0673_a1': '672 verso', '0673_a2': '673 recto', '0674_a1': '673 verso', '0674_a2': '674 recto', '0675_a1': '674 verso', '0675_a2': '675 recto'}
 DOCS = [(1, ['0173_a1']), (2, ['0267_a1']), (3, ['0344_a1']), (4, ['0368_a1']), (5, ['0381_a2']), (6, ['0383_a1']),
         (7, ['0383_a2']), (8, ['0396_a2', '0397_a1']), (9, ['0398_a2']), (10, ['0416_a2', '0417_a1']), (11, ['0460_a2']),
         (12, ['0469_a2']), (13, ['0475_a2', '0476_a1']), (14, ['0496_a1']), (15, ['0515_a1', '0515_a2']), (16, ['0519_a2']),

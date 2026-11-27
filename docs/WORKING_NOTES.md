@@ -5503,6 +5503,26 @@ things learned while measuring it:
   an entry belongs to the heading ABOVE it (Gr.116 doc 1 stands above the heading it was given),
   and a heading higher on the entry's own page beats one on the facing page (Gr.118 doc 9: the
   October reading took the facing page's 4 December and missed 7 December on the page itself).
+- **Putting a document in between two others** (Konin Gr.118, 2026-11-28): give it a temporary id
+  in `corpus.txt` ("[DOC 17a]") with its page, its row in `page_scan_map.csv`, its rulings and its
+  sitting heading, then run `merge_documents.py` with `merges: []`: it renumbers by corpus order
+  and rewrites every reference (rulings, decision sheets, summaries, English, caches, registers,
+  about.md citations). Its self-checks did not know `sitting:` dates or pages that always held two
+  entries, nor `sitting_headings.yml` and a document with no earlier state (merge_check): all four
+  fixed that day. Rebuild the dataset BEFORE publish_translations: run on the stale dataset it
+  removed the renumbered last document's English as "no longer existing" (republished after the
+  rebuild). The claim check and the holding's intake records are not renumbered by the tool: the
+  claim check was renumbered by hand; DOCS, ROWS, english(), S and intake/translation/ keep the old
+  numbers and are never run again (said in holding.py). The prose numbers in notes.md are reported,
+  not changed: fix them by hand.
+- **Never run `make_scan_derivatives.py --prune` here**: it deletes every site copy whose original
+  is not in `pages/`, and several holdings' originals are not (Poznań Gr.1181, Pyzdry Gr.75,
+  NBO 2289): seventeen committed images went on 2026-11-28 and were restored with `git checkout`.
+  After `relabel_scans.py --apply`, run `make_scan_derivatives.py` without `--prune`; relabel
+  already prunes the renamed holding's stale copies.
+- **Read what a decree is before tying it across holdings**: the to-do item said the new oblata was
+  to be tied to Konin Gr.153; the entry names the boundary chamberlain's office of Inowrocław (the
+  failed attempt of June 1782), not Gniezno's decree of November in Gr.153.
 - **The summaries are kept in four places**: `site/_data/summaries.yml` (English, the source since
   the rewrite of 2026-11-25), `site/_data/summaries_de.yml` and `units/<slug>/summaries_de.yml`
   (German), and the holding's `intake/holding.py` S dict (both languages, written out again by

@@ -4410,7 +4410,7 @@ These matters, therefore, having been declared and explained in the manner afore
 {% endraw %}<aside class="lit-related">
 <p class="lit-related-head">Related</p>
 <p>The rule for boundaries destroyed or privately raised: restoration and demolition at law, before an official inspection by the court's officer. Chełmski's protest of April 1778 (Konin Gr. 117) is the private-raising case: it declares invalid a private field act carried out by commissioners hired privately "after the stones had been erected and the oath sworn", and the act of 28 November 1782 (Konin Gr. 153) is the demolition itself, the commissary verifying the line and pulling up the intermediate stones.</p>
-<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">53/17/0/-/Konin Gr.153, document 1 (28 November 1782)</a><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, document 4 (April 1778)</a></p>
+<p class="lit-related-docs"><a href="{{ '/documents/app53170koningr153/1/' | relative_url }}">53/17/0/-/Konin Gr.153, document 1 (28 November 1782)</a><a href="{{ '/documents/app53170koningr117/4/' | relative_url }}">53/17/0/-/Konin Gr.117, document 4 (1 April 1778)</a></p>
 </aside>{% raw %}
 </section>
 </div>

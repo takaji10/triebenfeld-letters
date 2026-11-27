@@ -78,6 +78,10 @@ def main():
             print('!! new document %s is missing' % new)
             bad += 1
             continue
+        if len(olds) == 1 and olds[0] not in was:
+            # a document put in before the run (Konin Gr.118's "17a", 2026-11-28): nothing to compare
+            print('   %s (was %s): added, no earlier state' % (new, olds[0]))
+            continue
         if len(olds) == 1:
             o = was[olds[0]]
             diffs = [k for k in o if o[k] != n.get(k)]
@@ -107,7 +111,9 @@ def main():
                                             '; '.join(msgs) if msgs else 'every line and word, main metadata kept'))
         bad += bool(msgs)
     seen = collections.Counter(pid for d in now.values() for pid in d['page_ids'] if pid)
-    twice = [k for k, c in seen.items() if c > 1]
+    before = collections.Counter(pid for d in was.values() for pid in d['page_ids'] if pid)
+    # pages that already held two entries before the run are not a problem (Konin Gr.118, 2026-11-28)
+    twice = [k for k, c in seen.items() if c > 1 and before[k] < c]
     print('pages under two documents: %s' % (twice or 'none'))
     print('%s: %d problem(s)' % (slug, bad + bool(twice)))
 

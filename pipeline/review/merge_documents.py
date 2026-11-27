@@ -158,7 +158,10 @@ def check_corpus(old_docs, new_docs):
     if lines(old_docs) != lines(new_docs):
         problems.append('the text lines differ (not a pure merge)')
     seen = collections.Counter(pid for _, pages in new_docs for pid, _ in pages if pid)
-    twice = [p for p, c in seen.items() if c > 1]
+    # a page that already held two entries before the run (two court-book entries on one
+    # page, Konin Gr.118) is not a merge left half done
+    before = collections.Counter(pid for _, pages in old_docs for pid, _ in pages if pid)
+    twice = [p for p, c in seen.items() if c > 1 and before[p] < c]
     if twice:
         problems.append('pages still under two documents: %s' % twice)
     return problems
@@ -181,7 +184,9 @@ def expected_rulings(r, idmap, parts):
     if 'overrides' in pl:
         pl['overrides'] = mapk(pl['overrides'])
     dt = r.get('dates') or {}
-    for sec in ('read', 'supplied', 'twin', 'inferred'):
+    # `sitting` too (the dates from the headings of the sittings; it was missing from the
+    # check until the renumbering of Konin Gr.118, 2026-11-28)
+    for sec in ('read', 'supplied', 'twin', 'inferred', 'sitting'):
         if isinstance(dt.get(sec), dict):
             dt[sec] = mapk(dt[sec])
     if isinstance(dt.get('no_date'), list):
@@ -427,6 +432,16 @@ def main():
                     if v.startswith(slug + '-') and (v.rsplit('-', 1)[1].lstrip('0') or '0') in idmap else v)
     if res:
         writes[os.path.join(unit.dir, 'transcription_decisions.csv')] = res[0]
+
+    # the headings of the sittings (sitting_headings.yml, keyed by document; added 2026-11-28,
+    # after the renumbering of Konin Gr.118 left them under the old numbers)
+    shp = os.path.join(unit.dir, 'sitting_headings.yml')
+    if os.path.isfile(shp):
+        sh_old = io.open(shp, encoding='utf-8').read()
+        sh_new = re.sub(r'^"([^"]+)":$', lambda mm: '"%s":' % idmap.get(mm.group(1), mm.group(1)), sh_old, flags=re.M)
+        if len(yaml.safe_load(sh_new) or {}) != len(yaml.safe_load(sh_old) or {}):
+            problems.append('sitting_headings.yml: two headings would fall on one number')
+        writes[shp] = sh_new
 
     # rulings
     rp = os.path.join(unit.dir, 'rulings.yml')

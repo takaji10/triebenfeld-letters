@@ -7,12 +7,12 @@ people:
         settled their succession on him in 1784 against the heirs of their sisters. Starost of Niszczewice
         from 1768 and a knight of the Order of St Stanisław, he presented the parish priest of Trąbczyn
         in 1785.
-      source: app53170koningr115-2; app53170koningr118-23; app5320pozgr1181-1; adwl85-1
+      source: app53170koningr115-2; app53170koningr118-24; app5320pozgr1181-1; adwl85-1
       sources_en:
       - text: 53/17/0/-/Konin Gr.115, document 2
         url: /documents/app53170koningr115/2/
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       - text: 53/20/0/-/Poznań Gr.1181, document 1
         url: /documents/app5320pozgr1181/1/
       - text: ADWł 85, document 1
@@ -1536,97 +1536,97 @@ people:
       note: daughter of Jan Łoś Goliński, burgrave of Konin, and Konstancja née Krusińska, and so a stepdaughter
         of Anna Bojanowska, widow of Władysław Otto-Trąmpczyński; she brought Oporowo, Prusinowo and Szetlewek
         to the family
-      source: app5320pozgr1181-1; app53170koningr118-23
+      source: app5320pozgr1181-1; app53170koningr118-24
       sources_en:
       - text: 53/20/0/-/Poznań Gr.1181, document 1
         url: /documents/app5320pozgr1181/1/
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       sources_de:
       - text: 53/20/0/-/Poznań Gr.1181, Dokument 1
         url: /documents/app5320pozgr1181/1/
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
     children:
     - name: Jan
       note: died childless before 1738
-      source: app53170koningr118-23
+      source: app53170koningr118-24
       sources_en:
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       sources_de:
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
     - name: Bogumił
       note: died childless before 1738
-      source: app53170koningr118-23
+      source: app53170koningr118-24
       sources_en:
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       sources_de:
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
     - name: Antoni
       note: died childless
-      source: app53170koningr118-23
+      source: app53170koningr118-24
       sources_en:
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       sources_de:
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
     - name: Paweł
       link: prusimski-pawel
       note: chamberlain, heir of Trąbczyn; died childless in 1754
-      source: app53170koningr118-23; app53170koningr136-1
+      source: app53170koningr118-24; app53170koningr136-1
       sources_en:
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       - text: 53/17/0/-/Konin Gr.136, document 1
         url: /documents/app53170koningr136/1/
       sources_de:
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
       - text: 53/17/0/-/Konin Gr.136, Dokument 1
         url: /documents/app53170koningr136/1/
     - name: Stefan
-      source: app53170koningr118-23
+      source: app53170koningr118-24
       children:
       - name: Antoni Prusimski, Starost of Niszczewice
         link: prusimski
       sources_en:
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       sources_de:
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
     - name: Marianna
       note: married first Józef Tomicki, then Kazimierz Zakrzewski
-      source: app53170koningr118-23
+      source: app53170koningr118-24
       sources_en:
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       sources_de:
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
     - name: Wiktoria
       note: married first a Wysocki, then a Tworowicz, and an Odechowski
-      source: app53170koningr118-23
+      source: app53170koningr118-24
       sources_en:
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       sources_de:
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
     - name: Konstancja
       note: married Jan Kowalski
-      source: app53170koningr118-23
+      source: app53170koningr118-24
       sources_en:
-      - text: 53/17/0/-/Konin Gr.118, document 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, document 24
+        url: /documents/app53170koningr118/24/
       sources_de:
-      - text: 53/17/0/-/Konin Gr.118, Dokument 23
-        url: /documents/app53170koningr118/23/
+      - text: 53/17/0/-/Konin Gr.118, Dokument 24
+        url: /documents/app53170koningr118/24/
   prusimska-katarzyna:
     died: between 1763 and January 1768
     died_source: app536045-1; app53170koningr115-1

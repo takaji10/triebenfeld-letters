@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-65 open: 15 question, 9 decision, 14 task, 19 claude, 8 waiting.
+64 open: 15 question, 9 decision, 14 task, 18 claude, 8 waiting.
 
 ## APP 53/17/0/-/Konin Gr.145 and the Prusimski era folders
 
@@ -536,17 +536,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       numbers are not recorded. If you want them too, send the transcription files that
       carry them.
       Options: The court records are enough / Add them for the other holdings too (I will send the files)
-
-## Konin Gr.118 - Relationes 1780-1782
-
-- [ ] **Add the oblata of the 1782 boundary decree to Konin Gr.118** (`t916-add-the-oblata-of`, claude). You found a new entry on p. 524v of Konin Gr.118 (scan 530): the oblata of the boundary
-      decree between Trąbczyn (Antoni Prusimski, Starost of Nieszawa) and Łukom
-      (Stanisław Chełmski, Treasurer of Wschowa), entered at the sitting of 8 June 1782;
-      the decree itself is Konin Gr.153. Claude is to check your transcription against
-      the scan with two readers, add it as document 18 (the present 18 to 21 become 19
-      to 22, and every reference to them follows), translate and summarise it, and tie
-      it to Konin Gr.153. This waits until the sitting dates (t915) are done.
-      Concerns: [Konin Gr.118](/sources/app53170koningr118/), [Konin Gr.153](/sources/app53170koningr153/)
 
 ## APP 53/6/0/-/17 (1589)
 
