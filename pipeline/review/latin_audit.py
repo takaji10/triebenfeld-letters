@@ -531,6 +531,58 @@ def _page_file(slug, page_id):
     return c if os.path.isfile(c) else None
 
 
+_PAGES = {}
+
+
+def _page_text(slug, page_id):
+    """The page's text as the corpus now stands (after the audit's corrections), one string."""
+    if slug not in _PAGES:
+        pages, cur = {}, None
+        for ln in _corpus(slug)[1]:
+            m = re.match(r'^\[PAGE (\S+)\]$', ln)
+            if m:
+                cur = m.group(1)
+                continue
+            if ln.startswith('[DOC ') or not cur:
+                continue
+            pages.setdefault(cur, []).append(ln.strip())
+        _PAGES[slug] = {k: ' '.join(x for x in v if x) for k, v in pages.items()}
+    return _PAGES[slug].get(page_id, '')
+
+
+def _context_html(slug, page_id, transcribed, width=160):
+    """The editor (2026-11-27): the card quotes the text around the place, with the place highlighted.
+    Each piece of `transcribed` (split at "...") is looked up in the page's current text; the quotation runs
+    `width` characters before the first piece and after the last, cut at word boundaries."""
+    import html
+    text = _page_text(slug, page_id) if slug else ''
+    parts = [re.sub(r'^\(.*?\)\s*', '', p).strip(' .,') for p in re.split(r'\s*\.\.\.\s*|\s*…\s*', transcribed)]
+    parts = [p for p in parts if len(p) > 2]
+    spans = []
+    for p in parts:
+        i = text.find(p)
+        if i < 0 and len(p.split()) > 2:                # the first words, if the whole piece has moved
+            p = ' '.join(p.split()[:3])
+            i = text.find(p)
+        if i >= 0:
+            spans.append((i, i + len(p)))
+    if not spans:
+        return '<code>%s</code> <small>(not found in the present text of the page)</small>' % html.escape(transcribed)
+    spans.sort()
+    a, b = max(0, spans[0][0] - width), min(len(text), spans[-1][1] + width)
+    a = text.rfind(' ', 0, a) + 1 if a > 0 else 0
+    sp = text.find(' ', b)
+    b = sp if sp > 0 else len(text)
+    out, pos = [], a
+    for s, e in spans:
+        if s < pos:
+            continue
+        out.append(html.escape(text[pos:s]) + '<mark>' + html.escape(text[s:e]) + '</mark>')
+        pos = e
+    out.append(html.escape(text[pos:b]))
+    return '<code>%s%s%s</code>' % ('… ' if a > 0 else '', ''.join(out), ' …' if b < len(text) else '')
+
+
 def _big_crop(slug, page_id, band):
     """A larger crop for the editor (2026-11-27: "Keep your crops and the links, just make the crops larger"):
     the question's band with the band above and below, about three eighths of the page, from the original
@@ -572,8 +624,8 @@ def cmd_serve(port=4102, read=False):
         return
 
     def page():
-        css = (':root{--bg:#fbfaf7;--fg:#222;--mute:#666;--line:#ddd;--ok:#2a6b2a;--card:#fff;--link:#1f5fa8;--visited:#6a3d9a}'
-               '@media (prefers-color-scheme:dark){:root{--bg:#1b1a18;--fg:#e8e6e1;--mute:#9a968e;--line:#3a3834;--ok:#7fc27f;--card:#242320;--link:#8cc4ff;--visited:#c9a6ff}}'
+        css = (':root{--bg:#fbfaf7;--fg:#222;--mute:#666;--line:#ddd;--ok:#2a6b2a;--card:#fff;--link:#1f5fa8;--visited:#6a3d9a;--mark:#ffe08a;--markfg:#000}'
+               '@media (prefers-color-scheme:dark){:root{--bg:#1b1a18;--fg:#e8e6e1;--mute:#9a968e;--line:#3a3834;--ok:#7fc27f;--card:#242320;--link:#8cc4ff;--visited:#c9a6ff;--mark:#8a6400;--markfg:#fff}}'
                'body{font:16px/1.5 Georgia,serif;max-width:60rem;margin:2em auto;padding:0 16px;background:var(--bg);color:var(--fg)}'
                '.row{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:12px 14px;margin:14px 0}'
                '.row.done{border-left:5px solid var(--ok)}img{max-width:100%;border:1px solid var(--line);margin:.5em 0}'
@@ -581,7 +633,7 @@ def cmd_serve(port=4102, read=False):
                'button{font:inherit;padding:4px 12px;margin:0 6px 6px 0;cursor:pointer;border-radius:4px;border:1px solid var(--line);'
                'background:var(--bg);color:var(--fg);text-align:left}button.on{background:var(--fg);color:var(--bg)}'
                'input{font:inherit;width:100%;box-sizing:border-box;margin-top:4px;padding:4px 6px;background:var(--bg);color:var(--fg);'
-               'border:1px solid var(--line)}#status{position:sticky;top:0;background:var(--bg);padding:6px 0;color:var(--mute)}h2{margin-top:2.2rem}a{color:var(--link)}a:visited{color:var(--visited)}')
+               'border:1px solid var(--line)}#status{position:sticky;top:0;background:var(--bg);padding:6px 0;color:var(--mute)}h2{margin-top:2.2rem}a{color:var(--link)}a:visited{color:var(--visited)}mark{background:var(--mark);color:var(--markfg);padding:0 2px;border-radius:2px}')
         out = ['<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">',
                '<title>Latin audit questions</title><style>%s</style>' % css,
                '<h1>The Latin audit: %d questions</h1>' % len(rows),
@@ -606,11 +658,11 @@ def cmd_serve(port=4102, read=False):
                        '<p><a href="/page/%s/%s" target="_blank">Open the whole page (%s) in a new tab</a></p>'
                        % (cu, cu, slug, html.escape(r['page_id']), html.escape(r['page_id'])))
             out.append('<div class="row" data-key="%s" data-v="%s"><b>%d.</b> <small>%s, page %s</small>%s'
-                       '<p>Transcribed: <code>%s</code></p><p>%s</p><div>%s</div>'
+                       '<p>Transcribed: %s</p><p>%s</p><div>%s</div>'
                        '<input placeholder="Something else: type the reading" value="%s" %s>'
                        '<input placeholder="Note (optional)" value="%s"></div>' % (
                            key, html.escape(a.get('reading', ''), True), k, html.escape(r['uid']), html.escape(r['page_id']),
-                           img, html.escape(r['transcribed']), html.escape(r['question']), btns,
+                           img, _context_html(slug, r['page_id'], r.get('find') or r['transcribed']), html.escape(r['question']), btns,
                            html.escape(a.get('other', ''), True), '' if a.get('reading') == '__other__' else 'hidden',
                            html.escape(a.get('note', ''), True)))
         out.append('''<script>

@@ -5550,3 +5550,10 @@ things learned while measuring it:
   (about three eighths of the page, from the original scan, `/crop/<slug>/<page>/<band>` in
   `latin_audit.py serve`), clickable to open it alone, and under it the link to the whole page. A crop of one
   band missed the line too often; three bands held every line checked.
+- **A card quotes the text around the place, highlighted** (the editor, 2026-11-27: "The 'Transcribed:' line
+  needs to quote a line of text surrounding the area in question, and highlight it for me. Otherwise there's
+  not enough context."). `latin_audit.py serve` looks each question's words up in the page's present text
+  (after the corrections) and quotes about 160 characters either side with the words marked (`<mark>`, a
+  colour for each mode). Where the question's words no longer stand as written (a part-word like "-kowski",
+  an expansion since applied, a line join), `questions.csv` has a `find` column with the words to look up.
+  Building the quotations also caught a wrong question: Gr.153's "missing" insertion was in the text all along.
