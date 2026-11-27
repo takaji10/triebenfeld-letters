@@ -508,6 +508,29 @@ def _qkey(r):
                        .encode('utf-8')).hexdigest()[:10]
 
 
+def _row_slug(r):
+    """The holding a question belongs to: from its uid (slug-n), else from its crop's file name."""
+    for cand in (r.get('uid', '').rsplit('-', 1)[0], r.get('uid', ''),
+                 os.path.basename(r.get('crop', '')).split('_')[0]):
+        if cand and os.path.isdir(os.path.join(ROOT, 'units', cand)):
+            return cand
+    return ''
+
+
+def _page_file(slug, page_id):
+    """The whole page for the editor (the editor, 2026-11-27: whole pages, not Claude's crops): the
+    original scan as cut at the folds (<raw>/processed/<scan>), else the original, else the strips' copy."""
+    man = json.load(io.open(os.path.join(OUT, 'manifest.json'), encoding='utf-8')).get(slug)
+    if not man or not re.match(r'^[\w.-]+$', page_id):
+        return None
+    scan = next((p['scan'] for p in man['pages'] if p['page_id'] == page_id), None)
+    for c in ([os.path.join(man['raw'], 'processed', scan), os.path.join(man['raw'], scan)] if man.get('raw') and scan else []):
+        if os.path.isfile(c):
+            return c
+    c = os.path.join(REVIEW, slug, 'strips', page_id + '_whole.jpg')
+    return c if os.path.isfile(c) else None
+
+
 def cmd_serve(port=4102, read=False):
     """The spot sheet with buttons, as queries.py serves its sheets: every answer is saved at once to
     review/latin_audit/answers.json. `--read` prints the answers. The page needs this program running
@@ -555,7 +578,9 @@ def cmd_serve(port=4102, read=False):
             opts = [o.strip() for o in r['options'].split('|') if o.strip()]
             btns = ''.join('<button data-v="%s">%s</button>' % (html.escape(o, True), html.escape(o)) for o in opts)
             btns += '<button data-v="__unsure__">Can\'t tell</button><button data-v="__other__">Something else</button>'
-            img = '<img src="/img/%s" alt="">' % html.escape(os.path.basename(r['crop'])) if r['crop'] else ''
+            slug = _row_slug(r)
+            img = ('<p><a href="/page/%s/%s" target="_blank">Open the whole page (%s) in a new tab</a></p>'
+                   % (slug, html.escape(r['page_id']), html.escape(r['page_id']))) if slug and r['page_id'] else ''
             out.append('<div class="row" data-key="%s" data-v="%s"><b>%d.</b> <small>%s, page %s</small>%s'
                        '<p>Transcribed: <code>%s</code></p><p>%s</p><div>%s</div>'
                        '<input placeholder="Something else: type the reading" value="%s" %s>'
@@ -590,6 +615,16 @@ count();
             pass
 
         def do_GET(self):
+            if self.path.startswith('/page/'):
+                p = _page_file(*self.path.split('/')[2:4])
+                if not p:
+                    self.send_error(404)
+                    return
+                self.send_response(200)
+                self.send_header('Content-Type', 'image/png' if p.lower().endswith('.png') else 'image/jpeg')
+                self.end_headers()
+                self.wfile.write(open(p, 'rb').read())
+                return
             if self.path.startswith('/img/'):
                 p = os.path.join(REVIEW, 'crops', os.path.basename(self.path))
                 if not os.path.isfile(p):

@@ -5536,3 +5536,9 @@ things learned while measuring it:
 - **`reference/todo.yml`: quote any text with a colon in it** ("C:, D:", an address with "http:"); twice in
   one sitting a plain text broke the YAML. And `build_todo.py | tail -1 && git commit` commits even when the
   build fails (the pipe hides the exit code): run the build, then `--check`, then commit.
+- **Give the editor whole pages, not Claude's crops** (the editor, 2026-11-27: "Once again, your crops don't
+  line up with the text. I think it's better if you give me links that can open the entire sheet since you
+  have a hard time cropping."). The audit sheet's crops were bands chosen from a reader's band number or the
+  old sheet's pixel hints, and missed the line. Each card now links to the whole page from the original scan
+  (`/page/<slug>/<page id>` in `latin_audit.py serve`, the scan as cut at the folds); the card quotes the
+  transcribed words to find. Do the same on every sheet: a link to the whole page, and the words to look for.
