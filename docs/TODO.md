@@ -61,8 +61,9 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       corrected what two readers and Claude could prove; nothing is published. The spot
       sheet holds what the pages did not settle, among them two questions for all the
       court books (bracketing the routine abbreviations; writing out the king's titles)
-      and 49 rows of the old Poznań Gr.1181 sheet. It is review/latin_audit/sheet.html
-      on your PC; answer by number in the chat.
+      and 49 rows of the old Poznań Gr.1181 sheet. Ask Claude to serve it
+      (latin_audit.py serve, then 127.0.0.1:4102 in the browser): click an answer on
+      each card, and the answers save as you go.
       Concerns: [Poznań Gr.1181](/sources/app5320pozgr1181/)
 
 - [ ] **Where are the scans of Oe 1 Bü 14526 now?** (`t910-oe1bu14526-scans`, task). The Latin deed in Oe 1 Bü 14526 could not be audited. Its scans were recorded in your
