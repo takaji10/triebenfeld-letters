@@ -552,8 +552,8 @@ def cmd_serve(port=4102, read=False):
         return
 
     def page():
-        css = (':root{--bg:#fbfaf7;--fg:#222;--mute:#666;--line:#ddd;--ok:#2a6b2a;--card:#fff}'
-               '@media (prefers-color-scheme:dark){:root{--bg:#1b1a18;--fg:#e8e6e1;--mute:#9a968e;--line:#3a3834;--ok:#7fc27f;--card:#242320}}'
+        css = (':root{--bg:#fbfaf7;--fg:#222;--mute:#666;--line:#ddd;--ok:#2a6b2a;--card:#fff;--link:#1f5fa8;--visited:#6a3d9a}'
+               '@media (prefers-color-scheme:dark){:root{--bg:#1b1a18;--fg:#e8e6e1;--mute:#9a968e;--line:#3a3834;--ok:#7fc27f;--card:#242320;--link:#8cc4ff;--visited:#c9a6ff}}'
                'body{font:16px/1.5 Georgia,serif;max-width:60rem;margin:2em auto;padding:0 16px;background:var(--bg);color:var(--fg)}'
                '.row{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:12px 14px;margin:14px 0}'
                '.row.done{border-left:5px solid var(--ok)}img{max-width:100%;border:1px solid var(--line);margin:.5em 0}'
@@ -561,7 +561,7 @@ def cmd_serve(port=4102, read=False):
                'button{font:inherit;padding:4px 12px;margin:0 6px 6px 0;cursor:pointer;border-radius:4px;border:1px solid var(--line);'
                'background:var(--bg);color:var(--fg);text-align:left}button.on{background:var(--fg);color:var(--bg)}'
                'input{font:inherit;width:100%;box-sizing:border-box;margin-top:4px;padding:4px 6px;background:var(--bg);color:var(--fg);'
-               'border:1px solid var(--line)}#status{position:sticky;top:0;background:var(--bg);padding:6px 0;color:var(--mute)}h2{margin-top:2.2rem}')
+               'border:1px solid var(--line)}#status{position:sticky;top:0;background:var(--bg);padding:6px 0;color:var(--mute)}h2{margin-top:2.2rem}a{color:var(--link)}a:visited{color:var(--visited)}')
         out = ['<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">',
                '<title>Latin audit questions</title><style>%s</style>' % css,
                '<h1>The Latin audit: %d questions</h1>' % len(rows),
