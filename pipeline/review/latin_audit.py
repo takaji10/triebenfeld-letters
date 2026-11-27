@@ -531,6 +531,26 @@ def _page_file(slug, page_id):
     return c if os.path.isfile(c) else None
 
 
+def _big_crop(slug, page_id, band):
+    """A larger crop for the editor (2026-11-27: "Keep your crops and the links, just make the crops larger"):
+    the question's band with the band above and below, about three eighths of the page, from the original
+    scan, at 1600 pixels wide. JPEG bytes, or None."""
+    from PIL import Image
+    p = _page_file(slug, page_id)
+    if not p:
+        return None
+    im = Image.open(p).convert('RGB')
+    w, h = im.size
+    k = min(8, max(1, int(band)))
+    top, bot = max(0, int((k - 2) * h / 8 - h / 32)), min(h, int((k + 1) * h / 8 + h / 32))
+    c = im.crop((0, top, w, bot))
+    if c.size[0] > 1600:
+        c = c.resize((1600, int(c.size[1] * 1600 / c.size[0])))
+    buf = io.BytesIO()
+    c.save(buf, 'JPEG', quality=82)
+    return buf.getvalue()
+
+
 def cmd_serve(port=4102, read=False):
     """The spot sheet with buttons, as queries.py serves its sheets: every answer is saved at once to
     review/latin_audit/answers.json. `--read` prints the answers. The page needs this program running
@@ -579,8 +599,12 @@ def cmd_serve(port=4102, read=False):
             btns = ''.join('<button data-v="%s">%s</button>' % (html.escape(o, True), html.escape(o)) for o in opts)
             btns += '<button data-v="__unsure__">Can\'t tell</button><button data-v="__other__">Something else</button>'
             slug = _row_slug(r)
-            img = ('<p><a href="/page/%s/%s" target="_blank">Open the whole page (%s) in a new tab</a></p>'
-                   % (slug, html.escape(r['page_id']), html.escape(r['page_id']))) if slug and r['page_id'] else ''
+            img = ''
+            if slug and r['page_id']:
+                cu = '/crop/%s/%s/%s' % (slug, html.escape(r['page_id']), html.escape(r.get('band') or '4'))
+                img = ('<a href="%s" target="_blank"><img src="%s" alt="part of the page" loading="lazy"></a>'
+                       '<p><a href="/page/%s/%s" target="_blank">Open the whole page (%s) in a new tab</a></p>'
+                       % (cu, cu, slug, html.escape(r['page_id']), html.escape(r['page_id'])))
             out.append('<div class="row" data-key="%s" data-v="%s"><b>%d.</b> <small>%s, page %s</small>%s'
                        '<p>Transcribed: <code>%s</code></p><p>%s</p><div>%s</div>'
                        '<input placeholder="Something else: type the reading" value="%s" %s>'
@@ -615,6 +639,17 @@ count();
             pass
 
         def do_GET(self):
+            if self.path.startswith('/crop/'):
+                parts = self.path.split('/')[2:5]
+                b = _big_crop(*parts) if len(parts) == 3 and parts[2].isdigit() else None
+                if not b:
+                    self.send_error(404)
+                    return
+                self.send_response(200)
+                self.send_header('Content-Type', 'image/jpeg')
+                self.end_headers()
+                self.wfile.write(b)
+                return
             if self.path.startswith('/page/'):
                 p = _page_file(*self.path.split('/')[2:4])
                 if not p:

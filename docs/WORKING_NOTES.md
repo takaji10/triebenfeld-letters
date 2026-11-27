@@ -5545,3 +5545,8 @@ things learned while measuring it:
 - **Every page or sheet for the editor sets its link colours in both modes** (the editor, 2026-11-27: "The blue
   link text doesn't work well with the dark background"): `a{color:var(--link)}`, `a:visited{...}`, with a
   light blue in the dark scheme. The browser's default blue is unreadable on a dark background.
+- **The editor's settled form for a sheet's pictures** (2026-11-27, after the two notes above: "Keep your crops
+  and the links, just make the crops larger"): a large crop, the question's band with the bands above and below
+  (about three eighths of the page, from the original scan, `/crop/<slug>/<page>/<band>` in
+  `latin_audit.py serve`), clickable to open it alone, and under it the link to the whole page. A crop of one
+  band missed the line too often; three bands held every line checked.
