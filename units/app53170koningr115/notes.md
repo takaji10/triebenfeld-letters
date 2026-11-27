@@ -74,3 +74,25 @@ The English of seven documents is the editor's own translation and was not made 
 ### Summaries
 
 The summaries were written in German from the Latin and Polish and translated into English. Each of their 31 statements was then checked against its document. All held.
+
+## The Latin audit (2026-11-27)
+
+The pilot holding of the Latin audit (docs/LATIN_AUDIT_PLAN.md). Read on the editor's original scans
+(J:, cut at their folds, eight bands per page) by two Sonnet led readers (pages split between them)
+and one Sonnet blind reader; Claude settled every change on the bands.
+
+- **Corrected** (`intake/latin_audit.json`, logged in `transcription_decisions.csv`, graded in
+  `intake/changes.yml`): leaf 241 "Prorarum" is **Borarum** (excisarum Visio); leaf 186 verso
+  "Bonis[?]" is the clerk's *Bnd*, **Bonorum** as on the neighbouring pages, and "Productos" is
+  **Productis**; leaf 37 the town is **Bydgost-** with a y, and the abbreviated "Castr~ Bydgost~" is
+  expanded from the same entry's written-out "Actis Castrensibus Bydgostiensibus".
+- **Expanded**: Nieszczevicen[sis], Trąmpczynen[ses] (leaf 242). Of the cloud's five prepared
+  expansions, two were overtaken by the correction above and *praesen~* was left (`intake/unresolved.md`).
+- **Not changed**: the Polish of leaf 186 verso's report (the readers saw *y* for *i*, *-ey* for *-ej*):
+  it is in partly modern spelling by the ruling of 2026-10-06, and is not corrected back. The two
+  unread stretches of leaf 35 verso ("…") stay unread: a further defendant ("Ensiferum Velun…") and the
+  close of Chełmski's note were seen by the readers but not read with certainty.
+- **Put to the editor** on the audit's one spot sheet: "Nieszczevensis" (leaf 245) and the general
+  question of the court books' silently written-out routine abbreviations.
+- No English, summary or page text changed: the English already had "felled trees" and "the estates
+  of Łukomia".

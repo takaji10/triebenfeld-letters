@@ -5,7 +5,7 @@ fix and identify any transcription errors, and to resolve any ~ or similar marks
 you make a plan for this that also determines if any summaries or texts (e.g. Eras) would need to be
 amended based on the corrections?"
 
-**Status (2026-11-27): ruled by the editor, not begun.** The editor's answers are in section 8. The
+**Status (2026-11-27): ruled by the editor; begun on the desktop the same day (section 10).** The editor's answers are in section 8. The
 audit is to be **run in a desktop session on the editor's PC**, where the original scans are; section 9
 is the procedure for that session. A cloud session cannot do the reading: it has only the site's web
 copies.
@@ -221,7 +221,8 @@ worktree (WORKING_NOTES, "Two sessions, one working copy").
 
 | Holding | Read | Settled | Committed |
 |---|---|---|---|
-| (none yet) | | | |
+| Konin Gr.115 (pilot) | 2026-11-27 | 2026-11-27: 5 corrections, 2 expansions, 2 questions | 2026-11-27 |
+| Oe 1 Bü 14526, the Latin deed | not possible: its scans are no longer in Downloads, nor found on C:, D: or J: (2026-11-27) | | |
 
 ## 11. Prepared in the cloud (2026-11-27)
 

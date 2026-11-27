@@ -6,6 +6,8 @@
     python pipeline/review/latin_audit.py tildes              # reference/latin_audit/tildes.json
     python pipeline/review/latin_audit.py refs                # reference/latin_audit/references.json
     python pipeline/review/latin_audit.py strips <slug> [--web]
+    python pipeline/review/latin_audit.py texts <slug>        # each page's text, numbered, for the readers
+    python pipeline/review/latin_audit.py crop <slug> <band file> <x0,y0,x1,y1 fractions> <name>
     python pipeline/review/latin_audit.py apply <slug> [--write]
     python pipeline/review/latin_audit.py impact <slug>       # what else a holding's applied audit touches
     python pipeline/review/latin_audit.py sheet               # the one spot sheet, from questions.csv
@@ -328,6 +330,56 @@ def cmd_strips(slug, web=False):
         print('  !', x)
 
 
+def cmd_texts(slug):
+    """Each page's transcription as numbered lines, for the readers' briefs:
+    review/latin_audit/<slug>/pages/<page id>.txt. The [DOC n] markers are kept, unnumbered, where a page
+    holds more than one entry; the line numbers are the ones the readers report and Claude settles by."""
+    _, lines = _corpus(slug)
+    out = os.path.join(REVIEW, slug, 'pages')
+    os.makedirs(out, exist_ok=True)
+    pages, cur, doc = {}, None, None
+    for ln in lines:
+        if ln.startswith('[DOC '):
+            doc = ln
+            continue
+        m = re.match(r'^\[PAGE (\S+)\]$', ln)
+        if m:
+            cur = m.group(1)
+            pages.setdefault(cur, []).append(doc)
+            continue
+        if cur:
+            pages[cur].append(ln)
+    for pid, body in pages.items():
+        n, txt = 0, []
+        for ln in body:
+            if ln is None:
+                continue
+            if ln.startswith('[DOC '):
+                txt.append(ln)
+            elif ln.strip():
+                n += 1
+                txt.append('%d\t%s' % (n, ln))
+        io.open(os.path.join(out, pid + '.txt'), 'w', encoding='utf-8', newline='\n').write('\n'.join(txt) + '\n')
+    print(len(pages), 'pages written to', out)
+
+
+def cmd_crop(slug, strip, box, name):
+    """A tight cut of a band, for Claude's settling and for the spot sheet: box = x0,y0,x1,y1 as fractions
+    of the band; written to review/latin_audit/crops/<slug>_<name>.jpg (the sheet's folder)."""
+    from PIL import Image
+    im = Image.open(os.path.join(REVIEW, slug, 'strips', strip))
+    w, h = im.size
+    x0, y0, x1, y1 = [float(v) for v in box.split(',')]
+    c = im.crop((int(x0 * w), int(y0 * h), int(x1 * w), int(y1 * h)))
+    if c.size[0] < 1400:
+        c = c.resize((1400, int(c.size[1] * 1400 / c.size[0])))
+    out = os.path.join(REVIEW, 'crops')
+    os.makedirs(out, exist_ok=True)
+    p = os.path.join(out, '%s_%s.jpg' % (slug, name))
+    c.save(p, quality=90)
+    print(p)
+
+
 def _corpus(slug):
     path = os.path.join(ROOT, 'units', slug, 'corpus.txt')
     return path, io.open(path, encoding='utf-8').read().split('\n')
@@ -449,6 +501,10 @@ if __name__ == '__main__':
         cmd_refs()
     elif a[0] == 'strips':
         cmd_strips(a[1], '--web' in a)
+    elif a[0] == 'crop':
+        cmd_crop(a[1], a[2], a[3], a[4])
+    elif a[0] == 'texts':
+        cmd_texts(a[1])
     elif a[0] == 'apply':
         cmd_apply(a[1], '--write' in a)
     elif a[0] == 'impact':

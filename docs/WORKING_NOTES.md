@@ -5454,3 +5454,36 @@ things learned while measuring it:
   more gaps it takes the match from the end if it has fewer (`Condsnis~`: `Cond[escen]s[io]nis`, not
   `Cond[e]s[ce]n[s]i[oni]s`). Two gaps are left as matched left to right, so that a gap stands where the
   tilde is (`v[e]n[ien]tis`, the form the editor approved).
+
+## The Latin audit begun on the desktop (2026-11-27)
+
+- **The pilot, Konin Gr.115** (9 scans, 11 entries): two Sonnet led readers (half the pages each) used
+  about 155-180k tokens and 1.5-2.5 minutes each; the blind reader 110k. Their yield: 43 findings, of
+  which 5 corrections and 2 questions survived Claude's look at the bands. Most led-reader findings were
+  "unsure" readings of abbreviation strokes, the old convention (below) or the Polish's modern spelling.
+- **`regenerate.py --unit` stops at the pipeline self-check** (`check_pipeline.py`, 30 problems already
+  on `main`: records keyed on letter_id in the date_order scripts, holdings named in set_*_titles.py and
+  write_prepared.py). Run the steps by hand, as for Pyzdry Gr.75: resolve_linebreaks, resolve_paragraphs,
+  build_db (each `--unit <slug>`), then merge_corpus, build_dataset, check_mentions_join,
+  connections_site, build_site_data, person_pages --quiet, search_indexes. An in-line correction moves no
+  line, so match_scans is not needed. `build_site_data.py` again rewrote four unrelated
+  `site/_holdings/*.md`: check them out before committing.
+- **`verify_site.py` fails on the desktop** on `site/genealogy/node_modules/fdir/README.md` (a link that
+  bypasses relative_url): the folder is git-ignored and exists only on this PC, so CI does not see it.
+  Read past that one failure.
+- **The led reader reports the old silent expansions** ("Pro Pte" given as "Pro Parte", "M. R. G." as
+  "Ministerialis Regni Generalis"): the court books were transcribed by the rule "Latin is given as
+  written, with abbreviations filled out", before the bracket rule of 2026-11-22. The audit leaves them
+  (the brief now says not to report them; `review/latin_audit/brief_a.md`) and asks the editor once, on
+  the spot sheet, whether they are to be bracketed throughout.
+- **The blind reader needs the right band, and its neighbours.** On Gr.115 it answered 13 of 16 items
+  "unsure", read one item from the next entry down, and could not answer two whose words lay in the
+  band above or below the one named. Name the band and its neighbours, and quote the line's first words
+  so it can find the entry. Its "unsure" adds nothing: Claude settles on the band.
+- **The Polish inside a Latin entry is partly modern** (leaf 186 verso of Gr.115): a reader's *y* for
+  *i* there is not a correction (EDITORIAL_RULES, "Modern spelling beside the scribe's spelling").
+- **A prepared expansion can be wrong in its letters, not its sense**: *praesen~* on leaf 242 is
+  "pn~ti" on the page; *Castren~ Bidgosten~* on leaf 37 is "Castr~ Bydgost~". The cloud's expansions
+  bracket the transcription's letters, so a reader's look at the page comes before applying them.
+- `latin_audit.py` gained `texts` (each page's text, numbered, for the briefs) and `crop` (a tight cut
+  into `review/latin_audit/crops/`, the sheet's folder).

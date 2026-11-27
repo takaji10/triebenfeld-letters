@@ -37,3 +37,23 @@ changes:
   what: "The note on leaf 37 is headed \"Approbationis ad Cassandum factae Oblata\" and speaks of the \"approbation\" of a term for quashing the condemnation."
   was: "Approbatus ad Cassan~ factae ... et probationem Termini ad Cassanam Condemnationem"
   now: "Approbationis ad Cassan~ factae ... et Approbationem Termini ad Cassandam Condemnationem"
+- importance: fact
+  new: "2026-11-27"
+  what: "Leaf 241 (document 8), the heading: the felled trees are in the pine woods, \"Borarum excisarum Visio\", the viewing of the felled woods. Your text had \"Prorarum\", which is no word; the page has a capital B, as in the \"Borras\" of the same entry. Latin audit, read on the original scan."
+  was: "Pro Parte M Prusimski Prorarum excisarum Visio"
+  now: "Pro Parte M Prusimski Borarum excisarum Visio"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 186 verso (document 4): the word left doubtful before \"Łukomia\" is the clerk's abbreviation for Bonorum, as on the neighbouring pages (\"Bonorum Łukom ... Haeredis\"), and the last word is \"Productis\", not \"Productos\". Latin audit."
+  was: "Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos."
+  now: "Stanislai Scibor Chełmski Bonorum Łukomia haeredis expeditae Oblata in Productis."
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 37 (document 3): Bydgoszcz is spelled with a y on the page (\"Bydgost~\", \"Bydgostiensibus\"), not an i, and the abbreviated first mention is \"Castr~ Bydgost~\", expanded from the same entry's written-out \"Actis Castrensibus Bydgostiensibus\". Latin audit."
+  was: "ex Actis Castren~ Bidgosten~ Deprompti ... Coram Actis Castrensibus Bidgostiensibus"
+  now: "ex Actis Castr[ensibus] Bydgost[iensibus] Deprompti ... Coram Actis Castrensibus Bydgostiensibus"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 242 (document 8): two tilde forms expanded where the case is certain: \"Capitanei Nieszczevicen[sis]\" and \"Ad Borras Trąmpczynen[ses]\". Latin audit, expansion."
+  was: "Capitanei Nieszczevicen~ ... Ad Borras Trąmpczynen~"
+  now: "Capitanei Nieszczevicen[sis] ... Ad Borras Trąmpczynen[ses]"

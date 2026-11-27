@@ -1,0 +1,48 @@
+{
+ "ROWS": [
+  [
+   "0241_a2",
+   "Prusimski Prorarum excisarum",
+   "Prusimski Borarum excisarum",
+   "the page has a capital B (Borarum, as Borras/Borra of the same entries); 'Prorarum' is no word; both led readers and Claude on band s07"
+  ],
+  [
+   "0186_a1",
+   "Chełmski Bonis[?] Łukomia",
+   "Chełmski Bonorum Łukomia",
+   "the clerk's 'Bnd' with a loop, the form the transcription gives as Bonorum on 0187 and 0245 (Bonorum Łukom ... Haeredis); Claude on band s08"
+  ],
+  [
+   "0186_a1",
+   "Oblata in Productos.",
+   "Oblata in Productis.",
+   "the page ends -ctis (as 'in Productis' throughout); both readers, Claude on band s08"
+  ],
+  [
+   "0037_a2",
+   "ex Actis Castren~ Bidgosten~ Deprompti",
+   "ex Actis Castr[ensibus] Bydgost[iensibus] Deprompti",
+   "the page's letters are Castr~ Bydgost~ (y, not i); the same entry writes the phrase out, 'Coram Actis Castrensibus Bydgostiensibus', which fixes both; Claude on band s05"
+  ],
+  [
+   "0037_a2",
+   "Castrensibus Bidgostiensibus Recognitam",
+   "Castrensibus Bydgostiensibus Recognitam",
+   "the second letter is y with its descender, as in the abbreviated form above; Claude on band s05, a reader likely"
+  ]
+ ],
+ "EXPAND": [
+  [
+   "0242_a1",
+   "Nieszczevicen~",
+   "Nieszczevicen[sis]",
+   "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+  ],
+  [
+   "0242_a1",
+   "Trąmpczynen~",
+   "Trąmpczynen[ses]",
+   "Trąmpczynen~: Trąmpczynenses (draft and blind reader agree)"
+  ]
+ ]
+}

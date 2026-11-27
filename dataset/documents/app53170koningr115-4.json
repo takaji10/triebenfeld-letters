@@ -22,7 +22,7 @@
  "recipient": "",
  "line_start": 16,
  "line_end": 20,
- "uncertainty_count": 1,
+ "uncertainty_count": 0,
  "has_damage": 0,
  "rough_transcription": 0,
  "language": "la",
@@ -35,8 +35,8 @@
  "is_missing": 0,
  "n_lines": 3,
  "n_pages": 1,
- "text": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
- "text_reading": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\n\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\n\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
+ "text": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonorum Łukomia haeredis expeditae Oblata in Productis.",
+ "text_reading": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\n\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\n\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonorum Łukomia haeredis expeditae Oblata in Productis.",
  "pages": [
   {
    "page": 1,
@@ -44,13 +44,13 @@
    "line_start": 18,
    "line_end": 20,
    "n_lines": 3,
-   "diplomatic": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
-   "transcription": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
-   "reading": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\n\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\n\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos.",
+   "diplomatic": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonorum Łukomia haeredis expeditae Oblata in Productis.",
+   "transcription": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonorum Łukomia haeredis expeditae Oblata in Productis.",
+   "reading": "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771\n\nPro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata\n\nVideatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonorum Łukomia haeredis expeditae Oblata in Productis.",
    "paragraphs": [
     "Actum in Conin Feria Secunda post Festum Sancti Andreae Apostoli proxima Anno Domini 1771",
     "Pro Parte Magnifici Chełmski Traditionis Borrae Lusnie cum Hollandris Oblata",
-    "Videatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonis[?] Łukomia haeredis expeditae Oblata in Productos."
+    "Videatur hoc Loco Traditionis Borrae Lusnie Cum Hollandris pro Parte Magnifici Stanislai Scibor Chełmski Bonorum Łukomia haeredis expeditae Oblata in Productis."
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],
