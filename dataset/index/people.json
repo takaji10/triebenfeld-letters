@@ -4770,7 +4770,7 @@
  {
   "entity": "stanislaw-chelmski",
   "display": "Stanisław Chełmski, Treasurer of Wschowa",
-  "count": 499,
+  "count": 500,
   "documents": [
    "app53150kaliszgr414-1",
    "app53150kaliszgr425-1",
@@ -8378,6 +8378,15 @@
     "scan": "APP_53_17_0_Konin_Gr_153_1400_a1-L1_18.jpg",
     "line": 75,
     "doc_line": 56
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Chełmski",
+    "page": 19,
+    "page_id": "1400_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1400_a2-L1_19.jpg",
+    "line": 78,
+    "doc_line": 58
    },
    {
     "uid": "app53170koningr153-1",

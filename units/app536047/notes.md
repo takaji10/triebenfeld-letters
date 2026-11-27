@@ -82,3 +82,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summary
 
 The summary was written in German from the Latin and translated into English. Each of its eleven statements was then checked against the document. All held.
+
+## The Latin audit (2026-11-27)
+
+Read again in the audit's lighter pass (2026-11-27): Sonnet readers on the original scans, at most four pages each, looking only for skipped words, marks of doubt and tilde forms (the holding was checked word by word in October); a Sonnet blind reader read the places that would change the text; two readers agreeing was taken as proof for these small changes, which Claude did not each see on the band. 23 prepared expansions applied; nothing else changed (the struck words and the margin note on leaf 240 are rightly not transcribed).

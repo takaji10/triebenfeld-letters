@@ -1,0 +1,72 @@
+{
+ "ROWS": [
+  [
+   "0336_a1",
+   "requisitioni Annuendo[?] Idem",
+   "requisitioni Annuendo Idem",
+   "the word is plain: both readers (the lighter pass and, blind, the second reader); the doubt is lifted"
+  ],
+  [
+   "0336_a1",
+   "Alias in Eodem Decretum expressas",
+   "Alias in Eodem Commissis Decretum expressas",
+   "both readers read the same letters (the lighter pass and, blind, the second reader): 'Commissis' is written above the line between 'Eodem' and 'Decretum'"
+  ],
+  [
+   "0132_a1",
+   "Pe[t?][?]erunt",
+   "Petierunt",
+   "both readers read the same letters (the lighter pass and, blind, the second reader)"
+  ],
+  [
+   "0132_a1",
+   "eo[u?]sque",
+   "eousque",
+   "both readers read the same letters (the lighter pass and, blind, the second reader)"
+  ]
+ ],
+ "EXPAND": [
+  [
+   "0090_a1",
+   "Vschoven~",
+   "Vschoven[sis]",
+   "Vschoven~: Vschovensis (draft and blind reader agree)"
+  ],
+  [
+   "0090_a1",
+   "Kovale~",
+   "Kovale[nsis]",
+   "Kovale~: Kovalensis (draft and blind reader agree)"
+  ],
+  [
+   "0090_a1",
+   "Niszczevicen~",
+   "Niszczevicen[sis]",
+   "Niszczevicen~: Niszczevicensis (draft and blind reader agree)"
+  ],
+  [
+   "0096_a1",
+   "Int~",
+   "Int[er]",
+   "Int~: Inter (draft and blind reader agree)"
+  ],
+  [
+   "0132_a1",
+   "sibiq~",
+   "sibiq[ue]",
+   "sibiq~: sibique (draft and blind reader agree)"
+  ],
+  [
+   "0336_a1",
+   "Nieszczevice~",
+   "Nieszczevice[nsis]",
+   "Nieszczevice~: Nieszczevicensis (draft and blind reader agree)"
+  ],
+  [
+   "0336_a1",
+   "praetens~",
+   "praetens[um]",
+   "praetens~: praetensum (draft and blind reader agree)"
+  ]
+ ]
+}

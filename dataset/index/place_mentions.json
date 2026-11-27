@@ -3992,7 +3992,7 @@
    },
    {
     "uid": "app53170koningr117-12",
-    "surface": "Trąpczynen",
+    "surface": "Trąpczynen[si]",
     "page": 2,
     "page_id": "0360_a1",
     "scan": "APP_53_17_0_Konin_Gr_117_0360_a1-L12_02.jpg",
@@ -55585,6 +55585,72 @@
   ]
  },
  {
+  "entity": "brzesc-kujawski",
+  "display": "Brześć Kujawski",
+  "count": 6,
+  "documents": [
+   "app53170koningr118-23",
+   "app53170koningr145-1",
+   "app53170koningr153-1"
+  ],
+  "mentions": [
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Castro Brestensi",
+    "page": 1,
+    "page_id": "0654_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0654_a2-L1_01.jpg",
+    "line": 5,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Castro Brestensi",
+    "page": 2,
+    "page_id": "0655_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+    "line": 7,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Brestensis Cuiaviae",
+    "page": 2,
+    "page_id": "0655_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+    "line": 8,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Brestensis Cuiaviae",
+    "page": 122,
+    "page_id": "0715_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0715_a2-L1_122.jpg",
+    "line": 454,
+    "doc_line": 331
+   },
+   {
+    "uid": "app53170koningr118-23",
+    "surface": "Bresten[sis] Cujaviae",
+    "page": 2,
+    "page_id": "0623_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
+    "line": 124,
+    "doc_line": 4
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Brestensis Cujaviae",
+    "page": 12,
+    "page_id": "1397_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
+    "line": 43,
+    "doc_line": 30
+   }
+  ]
+ },
+ {
   "entity": "wierzbno",
   "display": "Wierzbno",
   "count": 6,
@@ -56184,62 +56250,6 @@
     "scan": "Oe_1_Bu_9454_0545_a1-L303_06.jpg",
     "line": 21622,
     "doc_line": 98
-   }
-  ]
- },
- {
-  "entity": "brzesc-kujawski",
-  "display": "Brześć Kujawski",
-  "count": 5,
-  "documents": [
-   "app53170koningr145-1",
-   "app53170koningr153-1"
-  ],
-  "mentions": [
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Castro Brestensi",
-    "page": 1,
-    "page_id": "0654_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0654_a2-L1_01.jpg",
-    "line": 5,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Castro Brestensi",
-    "page": 2,
-    "page_id": "0655_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
-    "line": 7,
-    "doc_line": 4
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Brestensis Cuiaviae",
-    "page": 2,
-    "page_id": "0655_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
-    "line": 8,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Brestensis Cuiaviae",
-    "page": 122,
-    "page_id": "0715_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0715_a2-L1_122.jpg",
-    "line": 454,
-    "doc_line": 331
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Brestensis Cujaviae",
-    "page": 12,
-    "page_id": "1397_a1",
-    "scan": "APP_53_17_0_Konin_Gr_153_1397_a1-L1_12.jpg",
-    "line": 43,
-    "doc_line": 30
    }
   ]
  },

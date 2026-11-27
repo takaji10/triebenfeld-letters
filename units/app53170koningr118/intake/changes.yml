@@ -132,3 +132,8 @@ changes:
   what: "Smaller readings of the full check: \"Generosus Petrus Gosławski\"; \"defert\"; \"Attestatum\"; \"Mareschalco\"; \"pro majori dandam\"; \"a Comparitione recedere Coactus extitit\"; \"Jure Acturum Cassationemque Decreti procedere mandantis ac Condemnationis Coactive Obtentae\"; \"super quo Intererit\"; \"ultimariae Limitationis ventura\"; \"Te Maritatam\"; \"Inhaerendo\"; \"ad viden~ et Audien~\"; \"Statuitionem Laboriosorum\"; \"attentaturi\"; \"adhaerendo Legi novellae\"; \"vetante\"; \"trahentem\"; \"Iterum atque Iterum\"; \"veniens\"; \"Manifestationem\"; \"ex Actu Ejus Campestri\"; \"praesumens\"; \"praecipue\"; \"agendorum\"; \"partibus\"; \"praeinserti\"; \"laesionem\"; \"diminutione\"; \"oportunitate\"; \"Thomae\"; \"thoro\"; \"Tworowiczom\"; \"utrisque\"; \"procreatae\"; \"Officiis Vestris\"; \"personaliter\"; \"demortuos\" (three times); \"tum Subalterno\"; \"Patruum Suum\"; \"Terrarum Prussiae\"; \"attento\"; \"devolutam\"; \"gravaminose\"; \"quovis\"; \"primitive\"; \"interdici\"; \"Resuscitatione\"; \"extendi, in reliquo\"; \"Sententiari\"; \"responsuri\"; \"Petricoviae\"; \"hippocaustorum\"; \"Regni\"; \"Utkniętemi\"; \"Wschowskiego\"; \"peracta sint\"; \"petens Eandem a se Suscipi\"; \"Jasnie Wielmożnego\"; \"Biskupicami\"; \"wyciągniona\"; \"Pułkolnikow\"; \"Jana Stroza\"; \"końmi\"; \"napastowali\"; \"dowiedzione\"; \"pokrzywdzonym\"; \"manifestu tego\"; \"judicandum\"; \"peremptorieque\"."
   was: "see the list"
   now: "see the list"
+- importance: wording
+  new: "2026-11-27"
+  what: "Latin audit (lighter pass): \"Ordin~\", \"facti\"; 171 tilde forms expanded."
+  was: "Judiciis Orind~ ... fact[i?]"
+  now: "Judiciis Ordin~ ... facti"

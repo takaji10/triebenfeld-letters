@@ -467,16 +467,32 @@ def cmd_sheet():
     rows = list(csv.DictReader(io.open(os.path.join(REVIEW, 'questions.csv'), encoding='utf-8-sig')))
     css = ('body{font:16px/1.45 Georgia,serif;max-width:60rem;margin:2rem auto;padding:0 1rem;color:#222;background:#fff}'
            '.c{border:1px solid #ccc;border-radius:6px;padding:1rem;margin:1rem 0}'
-           '.im{width:100%;height:9rem;background-size:contain;background-repeat:no-repeat;background-position:left center;'
+           '.im{width:100%;height:14rem;background-size:contain;background-repeat:no-repeat;background-position:left center;'
            'border:1px solid #eee;margin:.5rem 0}h2{margin-top:2.5rem}code{background:#f4f4f4;padding:0 .2em}')
     out = ['<!doctype html><meta charset="utf-8"><title>Latin audit spot sheet</title><style>%s</style>' % css,
            '<h1>The Latin audit: questions for the editor</h1>',
            '<p>%d questions. Answer by number in the chat, e.g. "12: as transcribed; 13: pro".</p>' % len(rows)]
+    import base64
+    from PIL import Image
+
+    def data_uri(rel):
+        """The crop inside the file (the app's viewer loads no separate files and runs no script)."""
+        p = os.path.join(REVIEW, rel)
+        if not rel or not os.path.isfile(p):
+            return ''
+        im = Image.open(p).convert('RGB')
+        if im.size[0] > 1400:
+            im = im.resize((1400, int(im.size[1] * 1400 / im.size[0])))
+        buf = io.BytesIO()
+        im.save(buf, 'JPEG', quality=72)
+        return 'data:image/jpeg;base64,' + base64.b64encode(buf.getvalue()).decode('ascii')
+
     cur = None
     for k, r in enumerate(rows, 1):
         if r['holding'] != cur:
             cur = r['holding']
             out.append('<h2>%s</h2>' % html.escape(cur))
+        r = dict(r, crop=data_uri(r['crop']))
         out.append('<div class="c"><b>%d.</b> %s, page %s<div class="im" style="background-image:url(\'%s\')"></div>'
                    '<p>Transcribed: <code>%s</code></p><p>%s</p><p>Options: %s</p></div>' % (
                        k, html.escape(r['uid']), html.escape(r['page_id']), html.escape(r['crop']),

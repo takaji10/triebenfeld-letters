@@ -100,3 +100,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summaries
 
 The summaries were written in German from the Latin and Polish and translated into English. Each of their 54 statements was then checked against its document and rests on words that are not marked as doubtful. All held.
+
+## The Latin audit (2026-11-27)
+
+Read again in the audit's lighter pass (2026-11-27): Sonnet readers on the original scans, at most four pages each, looking only for skipped words, marks of doubt and tilde forms (the holding was checked word by word in October); a Sonnet blind reader read the places that would change the text; two readers agreeing was taken as proof for these small changes, which Claude did not each see on the band. No skipped words in the transcribed entries. Corrected: "permiserunt" (leaf 58 verso), "pro" (leaf 72), "&c" (leaf 78 verso). 76 of the 77 prepared expansions applied ("hucu~" is "hucusq~" on the page and keeps its tilde). On the spot sheet: the witness's surname on leaf 272 verso (Joachimenski or Joachimowski). **Impact, after the editor's review:** the heading below the Chełmski entry on leaf 58 verso reads "Actum in Conin Fria Quinta pt Dnicam Laetare proxima Die Scilicet 2da Mensis Aprilis A. 1778" (Thursday, 2 April 1778; Claude on the page); the dating notes of documents 4, 5 and 6 in `rulings.yml` give the bounding sitting as "3 April 1778 (foot of leaf 58 verso)", to be corrected to 2 April, written under the entry (with the German in site_notes_de.yml).

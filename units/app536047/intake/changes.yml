@@ -57,3 +57,8 @@ changes:
   now: "Citatus per Generosus Albertum Zeromski"
   english_was: "[represented] by the Honourable Wojciech — regarding the objected condemnation"
   english_now: "[represented] by the Honourable Wojciech Żeromski — regarding the objected condemnation"
+- importance: wording
+  new: "2026-11-27"
+  what: "Latin audit: 23 tilde forms expanded where the case is certain."
+  was: "(the tilde forms)"
+  now: "(expanded in brackets)"

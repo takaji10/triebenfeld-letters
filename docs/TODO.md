@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-87 open: 21 question, 23 decision, 24 task, 11 claude, 8 waiting.
+88 open: 21 question, 23 decision, 25 task, 11 claude, 8 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -57,13 +57,19 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
 ## The Latin transcriptions, all court books
 
-- [ ] **Run the Latin audit in a desktop session** (`t908-latin-audit-desktop`, task). The full audit of the Latin transcriptions is planned and ruled
-      (docs/LATIN_AUDIT_PLAN.md). It has to be read from your original scans, which only
-      your PC has. Start Claude Code in the repository on the PC and say "Run the Latin
-      audit"; the session follows section 9 of the plan, holding by holding, starting
-      with Konin Gr.115 and taking over the open Poznań Gr.1181 spot sheet, commits each
-      holding and publishes nothing. You get one spot sheet at the end.
-      Concerns: [Konin Gr.115, the first holding](/sources/app53170koningr115/), [Poznań Gr.1181](/sources/app5320pozgr1181/)
+- [ ] **Answer the Latin audit's spot sheet of 58 questions** (`t909-latin-audit-sheet`, task). The audit has read all the Latin on your original scans (but the Oe 1 Bü 14526 deed) and
+      corrected what two readers and Claude could prove; nothing is published. The spot
+      sheet holds what the pages did not settle, among them two questions for all the
+      court books (bracketing the routine abbreviations; writing out the king's titles)
+      and 49 rows of the old Poznań Gr.1181 sheet. It is review/latin_audit/sheet.html
+      on your PC; answer by number in the chat.
+      Concerns: [Poznań Gr.1181](/sources/app5320pozgr1181/)
+
+- [ ] **Where are the scans of Oe 1 Bü 14526 now?** (`t910-oe1bu14526-scans`, task). The Latin deed in Oe 1 Bü 14526 could not be audited. Its scans were recorded in your
+      Downloads folder ("Oe 1_Bue 14526"), which no longer has them, and a search of the
+      C, D and J drives found no copy. Say where they are, and the audit reads its five
+      pages.
+      Concerns: [Oe 1 Bü 14526](/sources/oe1bu14526/)
 
 ## Prusimski-era court books, 1589-1788
 

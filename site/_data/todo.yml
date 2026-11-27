@@ -98,24 +98,36 @@ groups:
     h: d8a9e057
 - name: The Latin transcriptions, all court books
   items:
-  - id: t908-latin-audit-desktop
-    title: Run the Latin audit in a desktop session
+  - id: t909-latin-audit-sheet
+    title: Answer the Latin audit's spot sheet of 58 questions
     kind: task
-    text: The full audit of the Latin transcriptions is planned and ruled (docs/LATIN_AUDIT_PLAN.md).
-      It has to be read from your original scans, which only your PC has. Start Claude Code in the repository
-      on the PC and say "Run the Latin audit"; the session follows section 9 of the plan, holding by holding,
-      starting with Konin Gr.115 and taking over the open Poznań Gr.1181 spot sheet, commits each holding
-      and publishes nothing. You get one spot sheet at the end.
+    text: The audit has read all the Latin on your original scans (but the Oe 1 Bü 14526 deed) and corrected
+      what two readers and Claude could prove; nothing is published. The spot sheet holds what the pages
+      did not settle, among them two questions for all the court books (bracketing the routine abbreviations;
+      writing out the king's titles) and 49 rows of the old Poznań Gr.1181 sheet. It is review/latin_audit/sheet.html
+      on your PC; answer by number in the chat.
     options: []
     links:
-    - label: Konin Gr.115, the first holding
-      href: /sources/app53170koningr115/
     - label: Poznań Gr.1181
       href: /sources/app5320pozgr1181/
     nc: ''
     note: ''
     editor_note: ''
-    h: 828a71be
+    h: 7f237341
+  - id: t910-oe1bu14526-scans
+    title: Where are the scans of Oe 1 Bü 14526 now?
+    kind: task
+    text: The Latin deed in Oe 1 Bü 14526 could not be audited. Its scans were recorded in your Downloads
+      folder ("Oe 1_Bue 14526"), which no longer has them, and a search of the C, D and J drives found
+      no copy. Say where they are, and the audit reads its five pages.
+    options: []
+    links:
+    - label: Oe 1 Bü 14526
+      href: /sources/oe1bu14526/
+    nc: ''
+    note: ''
+    editor_note: ''
+    h: 2494a041
 - name: Prusimski-era court books, 1589-1788
   items:
   - id: t906-jm-illustris-magnificus
@@ -1628,7 +1640,7 @@ groups:
 counts:
   question: 21
   decision: 23
-  task: 24
+  task: 25
   claude: 11
   waiting: 8
-total: 87
+total: 88

@@ -5,7 +5,7 @@ fix and identify any transcription errors, and to resolve any ~ or similar marks
 you make a plan for this that also determines if any summaries or texts (e.g. Eras) would need to be
 amended based on the corrections?"
 
-**Status (2026-11-27): ruled by the editor; begun on the desktop the same day (section 10).** The editor's answers are in section 8. The
+**Status (2026-11-27): every holding read on the desktop the same day but Oe 1 Bü 14526 (scans missing); the spot sheet waits for the editor (section 10).** The editor's answers are in section 8. The
 audit is to be **run in a desktop session on the editor's PC**, where the original scans are; section 9
 is the procedure for that session. A cloud session cannot do the reading: it has only the site's web
 copies.
@@ -44,6 +44,12 @@ language), except the Kodeks:
 | Land court of Kalisz 53/4/0/-/62 | 2026-11-27 | 2 corrections | 2026-11-27 |
 | The Ląd copy-book | 2026-11-27 | 5 doubts lifted | 2026-11-27 |
 | Poznań Gr.1181 | 2026-11-27 | 75 corrections (a skipped line with 40,000 fp; three figures), 57 expansions, 53 questions (49 of the old sheet's rows) | 2026-11-27 |
+| Konin Gr.116 (lighter pass) | 2026-11-27 | 4 corrections, 7 expansions | 2026-11-27 |
+| Konin Gr.117 (lighter pass) | 2026-11-27 | 3 corrections, 76 expansions, 1 question; a dating note to correct (2 April 1778) | 2026-11-27 |
+| Konin Gr.118 (lighter pass) | 2026-11-27 | 2 corrections, 171 expansions; the king's titles a general question | 2026-11-27 |
+| Konin Gr.119 (lighter pass) | 2026-11-27 | 2 corrections, 80 expansions | 2026-11-27 |
+| Konin Gr.153 (lighter pass) | 2026-11-27 | 2 corrections, 1 question | 2026-11-27 |
+| Land court of Konin 53/6/0/-/47 (lighter pass) | 2026-11-27 | 23 expansions | 2026-11-27 |
 | Oe 1 Bü 14526, the Latin deed | 1 | 5 | 965 | 0 | 0 | light |
 | **Total** | **101** | **191** | **32,653** | **837** | **510** | |
 

@@ -165,3 +165,8 @@ changes:
   what: "Smaller readings of the full check: \"tantisper\"; \"pro obsignatione\"; \"inter bona Łukom et Trąmpczyn\" (twice); \"vimque im[mo]vibilitatis\"; \"haereditatum\"; \"in mappa [ap]positam\"; \"fa[ctam]\"; \"duos nobiles\"; \"E converso\"; \"adjudicatum\"; \"explica[ntis]\"; \"deductum est\"; \"immovibile ... comparitionem\"; \"Mareschalci\"; \"eisdemque\"; \"juxta lineam in mappa positam\" (your \"terram\"); \"Iunivladislaviense\"; \"ad causam praesentem\"; \"angularitatem et acialitatem\"; \"adinvenit\"; \"adsit\"; \"decreti tribunalitii\"; \"deoccupatorio\"; \"per partem compensanda\"; \"anteacti judicii\"; \"eidem decreto\" (twice); \"coram eisdem actis\"; \"altius factam\"; \"officiorum\"; \"vadiorum\"; \"causae praesentis\"; \"super venerabili conventu\"; \"ministeriali\"; \"Judicium officii praesentis campestris\"; \"judicium officii praesens intimat\"; \"Illustris\" for \"Illustrissimus\" where a row touched it."
   was: "see the list"
   now: "see the list"
+- importance: wording
+  new: "2026-11-27"
+  what: "Latin audit (lighter pass): \"item alneaticum\" (leaf 1402), and the clerk wrote \"Chełmski\" twice on leaf 1400 verso, which the text now keeps."
+  was: "iterum alneaticum ... Magnifici Chełmski Thesaurarii"
+  now: "item alneaticum ... Magnifici Chełmski Chełmski Thesaurarii"

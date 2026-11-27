@@ -5518,3 +5518,12 @@ things learned while measuring it:
 - **A led reader's band number can be wrong**: for the skipped clause on Gr.1181 leaf 161 the named band
   holds another passage. An omission the blind reader did not confirm goes to the sheet with the band
   and its neighbours, never into the text.
+- **A reader holds about four pages of bands, no more** (the lighter pass, 2026-11-27). Of nine readers given
+  9 to 13 pages each, seven came back short: two read only the whole-page pictures and called it done,
+  others lost images to "media removed: request limit" part-way, one stopped after two pages. Readers
+  given three or four pages opened every band and reported cleanly. Give a reader at most four pages
+  (about 36 images), say in the brief that a pass from the whole-page picture is not acceptable, and tell
+  it to retry a failed image and list what still failed. Many readers running at once may also share the
+  limit: start the reruns once the first wave is in.
+- **For the short entries of a register a reader may open only the bands that hold the entry** (Konin
+  Gr.118: 26 of 96 bands, the rest blank paper or other entries), provided it says which it skipped and why.

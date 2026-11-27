@@ -35,8 +35,8 @@
  "is_missing": 0,
  "n_lines": 2,
  "n_pages": 1,
- "text": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven~",
- "text_reading": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\n\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven~",
+ "text": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven[sis]",
+ "text_reading": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\n\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven[sis]",
  "pages": [
   {
    "page": 1,
@@ -44,12 +44,12 @@
    "line_start": 3,
    "line_end": 4,
    "n_lines": 2,
-   "diplomatic": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven~",
-   "transcription": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven~",
-   "reading": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\n\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven~",
+   "diplomatic": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven[sis]",
+   "transcription": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven[sis]",
+   "reading": "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio\n\nVideatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven[sis]",
    "paragraphs": [
     "Ex parte MM Zielonacki Judicis Terrestris Calissiensis et Chełmski contra MM Prusimskie Bogdanskie ad Tribunal Relatio",
-    "Videatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven~"
+    "Videatur hoc loco ex parte Magnificorum Stephani Zielonacki Judicis Terrestris Calissiensis et Stanislai Chełmski Thesaurarius Vschoven[sis]"
    ],
    "sideways_lines": [],
    "sideways_paragraphs": [],

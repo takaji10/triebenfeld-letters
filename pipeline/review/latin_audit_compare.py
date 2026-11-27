@@ -1,18 +1,27 @@
-"""Compare the Gr.1181 led reader (A) with the blind reader (B), item by item.
-Writes review/latin_audit/app5320pozgr1181/compare.tsv: ref, page, kind, A certainty, B certainty,
-class (agree / transcription / differ / nob), transcribed, A page_shows, B page_shows."""
+# -*- coding: utf-8 -*-
+"""Compare the led readers (A) with the blind readers (B) of the Latin audit, item by item.
+
+    python pipeline/review/latin_audit_compare.py <slug> <A file> [<A file> ...]
+
+A files are review/latin_audit/<slug>/<name>.json; a finding is "<file stem>.<index>" (as
+latin_audit_items.py names them). B files are every reader_b*.json in the same folder.
+Writes review/latin_audit/<slug>/compare.tsv: ref, page, kind, A certainty, B certainty, class
+(agree / transcription / differ / nob = the blind reader unsure or silent), transcribed, A, B.
+A class "agree" is a candidate, not a settlement: Claude reads each before it becomes a row.
+"""
 import json, io, re, glob, os, sys, difflib
 sys.stdout.reconfigure(encoding='utf-8')
-ROOT = __import__('os').path.dirname(__import__('os').path.dirname(__import__('os').path.dirname(__import__('os').path.abspath(__file__))))
-R = __import__('os').path.join(ROOT, 'review', 'latin_audit', sys.argv[1] if len(sys.argv) > 1 else 'app5320pozgr1181') + '/'
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+R = os.path.join(ROOT, 'review', 'latin_audit', sys.argv[1]) + '/'
 A = {}
-for k in (1, 2, 3, 4):
-    for i, f in enumerate(json.load(io.open(R + 'reader_a_%d.json' % k, encoding='utf-8'))['findings']):
-        A['%d.%d' % (k, i)] = f
+for fn in sys.argv[2:]:
+    stem = os.path.splitext(os.path.basename(fn))[0]
+    for i, f in enumerate(json.load(io.open(R + os.path.basename(fn), encoding='utf-8'))['findings']):
+        A['%s.%d' % (stem, i)] = f
 B = {}
-for p in sorted(glob.glob(R + 'reader_b_*.json')):
+for p in sorted(glob.glob(R + 'reader_b*.json')):
     for x in json.load(io.open(p, encoding='utf-8')):
-        if 'ref' in x:
+        if isinstance(x, dict) and 'ref' in x:
             B[x['ref']] = x
 
 
