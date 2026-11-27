@@ -105,17 +105,21 @@ stand in square brackets, with no mark of doubt:
    as in the Prusimski-era run of October. Until then each holding is built on the reading as transcribed,
    with the proved corrections in; a question's default is the transcription. The sheet is the HTML form
    (images as CSS backgrounds, no script; WORKING_NOTES), a card per question, grouped by holding.
-5. **Applying the rulings** follows each holding's usual procedure. The corrections become rows in its
-   `intake/holding.py` (`ROWS`), applied once and logged in `transcription_decisions.csv`. The graded list
-   goes in `intake/changes.yml` (marked `new:`), so the page of changes shows the editor what moved.
-6. **The tilde expansions** are applied in the same pass, as their own set of rows, so that a later reader
-   can tell a correction from an expansion.
+5. **Applying.** The settled rows go in one file per holding, `units/<slug>/intake/latin_audit.json`, in
+   two lists: `ROWS` (corrections the page proves) and `EXPAND` (certain tilde expansions), so that a later
+   reader can tell a correction from an expansion. `python pipeline/review/latin_audit.py apply <slug>`
+   checks that every row's old text stands exactly once on its page; `--write` puts them into `corpus.txt`
+   and logs each in `transcription_decisions.csv`. The same command works for every holding, court book or
+   not; no holding's own script is changed. The graded list goes in `intake/changes.yml` (marked `new:`),
+   so the page of changes shows the editor what moved.
 
 ## 5. What else must change when the Latin changes (the impact sweep)
 
 Every correction is checked for its effect on everything else written from that document. A script does
-the finding; Claude reads and rewrites. The script, `pipeline/review/latin_impact.py`, is to be written;
-for each changed document it lists:
+the finding; Claude reads and rewrites. `python pipeline/review/latin_audit.py impact <slug>` writes
+`review/latin_audit/<slug>/impact.md`: for each correction, the documents it is in and every authored
+text that cites them (from `reference/latin_audit/references.json`, made in the cloud: 396 citing lines
+for the 101 documents), the lines that contain the old word marked. Beyond that list:
 
 | What may be affected | How it is found | What is done |
 |---|---|---|
@@ -185,22 +189,29 @@ The editor starts a desktop session (Claude Code in the repository on the PC wit
    scans are in Downloads, not on J:). `scan_rename_map.json` and `page_scan_map.csv` tie each page of the
    site to its scan; `intake/folds.json` gives the fold and the turn. If a folder is missing, the session
    says which and goes on with the next holding.
-3. **Cuts the strips** with a script written for the audit, `pipeline/review/latin_strips.py <slug>`
-   (to be written in the first sitting): each page turned and cut at its folds, then strips of about eight
-   lines, overlapping by one, at the scan's full resolution, into `review/latin_audit/<slug>/strips/`
-   (not committed; review/ is generated). Pillow is enough; OpenCV is not needed.
+3. **Cuts the strips**: `python pipeline/review/latin_audit.py strips <slug>`. It takes each page from
+   `<raw>/processed/<scan>` (where the holding's cutting step put the pages, turned and cut at the editor's
+   folds), else `<raw>/<scan>`, and cuts it into eight overlapping bands at full resolution (at most 2,400
+   pixels wide) plus a picture of the whole page, into `review/latin_audit/<slug>/strips/` (not committed).
+   If a court book's `processed/` folder is gone, `python units/<slug>/intake/holding.py --crop` cuts the
+   pages again from the editor's folds. It says which pages it could not find; it falls back to the web
+   copies only with `--web`, and says so for every page.
 4. **Runs the two readers** (section 4) as Sonnet sub-agents, holding by holding, in the order of
-   section 6. Each writes `review/latin_audit/<slug>/reader_a.json` and `reader_b.json`.
-5. **Settles** each finding on a crop and writes, for each holding: the proved corrections and the certain
-   expansions as rows in its `intake/holding.py` (two lists, `ROWS_AUDIT` and `EXPAND_AUDIT`, applied by
-   `--correct`, logged in `transcription_decisions.csv`), the graded list in `intake/changes.yml` with
-   `new:`, the questions for the editor in `review/latin_audit/questions.csv` (one file for all holdings,
-   with a crop for each row), and the impact list (section 5) in `review/latin_audit/<slug>/impact.md`.
-6. **Rebuilds the holding** (its `holding.py` steps, then the later steps of `regenerate.py`, which do run
-   on the desktop), runs `verify_site.py`, and **commits the holding** before starting the next, so a
-   sitting can stop anywhere. It does not publish.
-7. After the last holding, makes **the one spot sheet** from `questions.csv`, and tells the editor it is
-   ready. The impact sweep (section 6, step 6) follows the editor's answers.
+   section 6, with the briefs of `reference/latin_audit/briefs.md`. Each writes
+   `review/latin_audit/<slug>/reader_a.json` and `reader_b.json`. For Poznań Gr.1181 the readers also take
+   the 61 open rows of its old sheet (`reference/latin_audit/gr1181_open_rows.json`).
+5. **Settles** each finding on a crop and writes, for each holding: `units/<slug>/intake/latin_audit.json`
+   (`ROWS` from the readers; `EXPAND` from the prepared expansions of section 11, less any the page
+   changes), the graded list in `intake/changes.yml` with `new:`, the questions in
+   `review/latin_audit/questions.csv` (one file for all holdings; columns holding, page_id, uid, crop,
+   transcribed, question, options; the crop a tight cut saved beside it), then runs
+   `latin_audit.py apply <slug> --write` and `latin_audit.py impact <slug>`.
+6. **Rebuilds the holding** (the later steps of `regenerate.py` for that unit), runs `verify_site.py`,
+   **commits the holding** and ticks it in section 10 before starting the next, so a sitting can stop
+   anywhere. It does not publish.
+7. After the last holding, `latin_audit.py sheet` makes **the one spot sheet**
+   (`review/latin_audit/sheet.html`), and the session tells the editor it is ready. The impact sweep
+   (section 6, step 6) follows the editor's answers.
 
 **Two sessions in one working copy**: if another session is working in the checkout, the audit runs in a
 worktree (WORKING_NOTES, "Two sessions, one working copy").

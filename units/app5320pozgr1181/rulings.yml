@@ -33,6 +33,11 @@ documents:
   # with its recitals.
   doc_type:
     "1": decree
+  # Until 2026-11-27 this stood as a top-level "languages: 1: latin", a key nothing
+  # reads, and the document showed as German (found counting the Latin for
+  # docs/LATIN_AUDIT_PLAN.md).
+  language:
+    "1": la
 
 pages:
   # p. 161 (0161_a) is the editor's own line-by-line layout (2026-10-26).
@@ -44,9 +49,6 @@ pages:
   by_paragraph: ["0161_b", "0162_a", "0162_b", "0163_a", "0163_b", "0164_a",
                  "0164_b", "0165_a", "0165_b", "0166_a", "0166_b", "0167_a",
                  "0167_b"]
-
-languages:
-  "1": latin
 
 notes:
   # The transcription is the editor's own, read and settled in session before

@@ -1,0 +1,2184 @@
+{
+ "app5314550221-1": [
+  {
+   "file": "reference/english_corrections.yml",
+   "line": 103,
+   "text": "- {pad: app5314550221-001, page: 1, find: \"[uncertain: gadibus]\", replace: \"[...]\", why: \"[uncertain: gadibus]: unread word not carried in the original letters; sense not fixed by the passage\"}"
+  },
+  {
+   "file": "units/app5314550221/about.md",
+   "line": 11,
+   "text": "**No. 14, the boundary of Makownica, 1399.** Mikołaj, heir of Venacia and general judge of the land of Kalisz, had resigned his estate of Makownica to the monastery of Ląd before King Władysław, who c"
+  },
+  {
+   "file": "units/app5314550221/about_de.md",
+   "line": 11,
+   "text": "**Nr. 14, die Grenze von Makownica, 1399.** Mikołaj, Erbherr von Venacia und Generalrichter des Landes Kalisch, hatte sein Gut Makownica vor König Władysław dem Kloster Ląd aufgelassen, und der König "
+  }
+ ],
+ "app5314550221-2": [
+  {
+   "file": "units/app5314550221/about.md",
+   "line": 13,
+   "text": "**No. 15, Łukom and the forest of Grądzyń, 1461.** At Pyzdry, on the Monday after the Exaltation of the Holy Cross 1461, Piotr of Szamotuły, castellan of Poznań and general captain of Greater Poland, "
+  },
+  {
+   "file": "units/app5314550221/about_de.md",
+   "line": 13,
+   "text": "**Nr. 15, Łukom und der Wald Grądzyń, 1461.** In Pyzdry, am Montag nach Kreuzerhöhung 1461, bezeugt Piotr von Szamotuły, Kastellan von Posen und Generalstarost von Großpolen, einen Verkauf. Drei Brüde"
+  }
+ ],
+ "app5314550221-3": [
+  {
+   "file": "units/app5314550221/about.md",
+   "line": 15,
+   "text": "**No. 16, the king's confirmation, 1447.** How the abbey had first come by that land: at Gniezno, on the Tuesday before St Lawrence, in a year written over and read as 1447, King Kazimierz confirms th"
+  },
+  {
+   "file": "units/app5314550221/about_de.md",
+   "line": 15,
+   "text": "**Nr. 16, die Bestätigung des Königs, 1447.** Die Abschrift danach, des Abschreibers „Confirmatio Gradziem Regis Casimiri“, zeigt, wie die Abtei zu dem Land gekommen war. In Gnesen, am Dienstag vor de"
+  }
+ ],
+ "app5314550221-4": [
+  {
+   "file": "units/app5314550221/about.md",
+   "line": 17,
+   "text": "**No. 25, the exchange of 1362.** At Pyzdry, on the Tuesday after the octave of the Epiphany 1362, King Kazimierz takes the abbey's village of Little Wronczyn near Pyzdry and its mill below Pyzdry cas"
+  },
+  {
+   "file": "units/app5314550221/about_de.md",
+   "line": 17,
+   "text": "**Nr. 25, der Tausch von 1362.** In Pyzdry, am Dienstag nach der Oktav von Epiphanias 1362, nimmt König Kasimir das Dorf Klein-Wronczyn der Abtei bei Pyzdry und ihre Mühle unter der Burg Pyzdry und gi"
+  }
+ ],
+ "app5314550221-5": [
+  {
+   "file": "units/app5314550221/about.md",
+   "line": 17,
+   "text": "**No. 25, the exchange of 1362.** At Pyzdry, on the Tuesday after the octave of the Epiphany 1362, King Kazimierz takes the abbey's village of Little Wronczyn near Pyzdry and its mill below Pyzdry cas"
+  },
+  {
+   "file": "units/app5314550221/about_de.md",
+   "line": 17,
+   "text": "**Nr. 25, der Tausch von 1362.** In Pyzdry, am Dienstag nach der Oktav von Epiphanias 1362, nimmt König Kasimir das Dorf Klein-Wronczyn der Abtei bei Pyzdry und ihre Mühle unter der Burg Pyzdry und gi"
+  }
+ ],
+ "app5314550221-6": [
+  {
+   "file": "units/app5314550221/about.md",
+   "line": 19,
+   "text": "**No. 46, the mounds between Łukom, Zagórów and Drzewce, 1761.** Arbitrators chosen by the parties gave the convent of Ląd a piece of the estate of Łukom by the boundary of Drzewce, and marked it out "
+  },
+  {
+   "file": "units/app5314550221/about_de.md",
+   "line": 19,
+   "text": "**Nr. 46, Seite 66: die Grenzhügel zwischen Łukom, Zagórów und Drzewce.** Der Eintrag beginnt auf Seite 63: Nach seiner Überschrift wurde ein Stück Grund des Guts Łukom am Rand von Drzewce dem Konvent"
+  }
+ ],
+ "app53150kaliszgr414-1": [
+  {
+   "file": "literature/links.yml",
+   "line": 1355,
+   "text": "- app53150kaliszgr414-1"
+  },
+  {
+   "file": "reference/english_corrections.yml",
+   "line": 87,
+   "text": "- {pad: app53150kaliszgr414-001, page: 1, find: \"the Gr. 114 and Gr. 115 documents in this project were filed\", replace: \"the entries of the Konin registers Gr. 114 and Gr. 115 were filed\", why: \"a tr"
+  },
+  {
+   "file": "reference/estate_tree.yml",
+   "line": 8,
+   "text": "url: /documents/app53150kaliszgr414/1/"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 56,
+   "text": "source: \"app53170koningr114-1; app53150kaliszgr414-1; app53170koningr145-1; app53170koningr153-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 276,
+   "text": "source: \"app536045-1; app53150kaliszgr414-1; app536046-2; app53170koningr117-4\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 287,
+   "text": "source: \"app53150kaliszgr414-1; app53170koningr115-7; app53170koningr145-1; app53170koningr153-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1304,
+   "text": "source: \"app53150kaliszgr414-1\""
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 197,
+   "text": "url: /documents/app53150kaliszgr414/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 46,
+   "text": "([die Besitzeinweisung]({{ '/documents/app53150kaliszgr414/1/' | relative_url }})). Sechs"
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 42,
+   "text": "ordered to obey him ([the delivery]({{ '/documents/app53150kaliszgr414/1/' | relative_url }}))."
+  },
+  {
+   "file": "units/app53150kaliszgr414/about.md",
+   "line": 13,
+   "text": "**The judgments.** On the Monday after All Saints 1771 the court's officer, Wawrzyniec Wstowski, sworn general commissioner of the provinces of Poznań and Kalisz, came to the wood at Chełmski's reques"
+  },
+  {
+   "file": "units/app53150kaliszgr414/about.md",
+   "line": 15,
+   "text": "**The delivery.** He handed over to Chełmski the pine forest and wood called Lusnia, as belonging to Łukomia from of old, with the Olęder settlement founded in it not long before, which the settlers n"
+  },
+  {
+   "file": "units/app53150kaliszgr414/about_de.md",
+   "line": 13,
+   "text": "**Der Anlass.** Der Akt geschah am Montag nach Allerheiligen 1771 im Wald Lusnia und bei dem dort stehenden Haus. Anwesend waren die Adligen Cajetan Grabski sowie Antoni und Konstanty Fulwarski, Vater"
+  },
+  {
+   "file": "units/app53150kaliszgr414/about_de.md",
+   "line": 15,
+   "text": "**Die angeführten Urteile.** Der Beamte handelt auf Verlangen von Stanisław Ścibor Chełmski, Erbherrn von Łukomia, als der Partei, die vor Gericht obsiegt hat. Er führt die Urteile an: eine erste Veru"
+  },
+  {
+   "file": "units/app53150kaliszgr414/about_de.md",
+   "line": 17,
+   "text": "**Die Übergabe.** Der Akt selbst ist polnisch. Chełmski werden der Kiefern- und Laubwald Lusnia übergeben, als von alters zu Łukomia gehörig, samt der vor nicht langer Zeit darin gegründeten Olęder-Si"
+  },
+  {
+   "file": "units/app53150kaliszgr414/about_de.md",
+   "line": 19,
+   "text": "**Die Eintragung.** Am Samstag vor St. Martin 1771 brachte Antoni Serlatkowski den Akt zur Eintragung in das Burgamt Kalisz, und das Original wurde in das Buch eingenäht [[1]]."
+  }
+ ],
+ "app53150kaliszgr424-1": [
+  {
+   "file": "units/app53150kaliszgr424/about.md",
+   "line": 13,
+   "text": "**The question.** On 23 November 1776 Antoni Leszczyc Mierzewski asked the court office at Kalisz whether the decree fixing the boundary between Łukom, Trąbczyn and other villages had been brought to "
+  },
+  {
+   "file": "units/app53150kaliszgr424/about.md",
+   "line": 15,
+   "text": "**The answer.** The office searched what had been brought in since 17 October 1776 and certified that no such decree had been registered with it [[1]]."
+  },
+  {
+   "file": "units/app53150kaliszgr424/about_de.md",
+   "line": 13,
+   "text": "**Die Frage.** Am Samstag, dem 23. November 1776, erschien Antoni Leszczyc Mierzewski vor dem Burgamt Kalisz und fragte, ob das Grenzdekret zwischen den Gütern der Dörfer Łukom, Trąbczyn und anderen z"
+  },
+  {
+   "file": "units/app53150kaliszgr424/about_de.md",
+   "line": 15,
+   "text": "**Die Nachsuche und die Antwort.** Das Amt ging an seine Berichtsbücher, in die Vorlagen aufgenommen werden, und sah sie von der Sitzung am Donnerstag, dem 17. Oktober 1776, bis zu jenem Tag durch. Es"
+  }
+ ],
+ "app53150kaliszgr425-1": [
+  {
+   "file": "reference/genealogy.yml",
+   "line": 512,
+   "text": "source: \"adwl85-1; app536036-1; app53170koningr145-1; app53150kaliszgr425-1\""
+  },
+  {
+   "file": "units/app53150kaliszgr425/about.md",
+   "line": 13,
+   "text": "**The adjournment.** The five were Stefan Leszczyc Zielonacki, deputy judge of the Kalisz land court; Maciej Leszczyc Mierzewski; Tomasz Radoński, boundary surveyor of Kalisz; Stanisław Jabłkowski; an"
+  },
+  {
+   "file": "units/app53150kaliszgr425/about_de.md",
+   "line": 13,
+   "text": "**Die Vertagung.** Die von den Ständen der Republik bestellten Kommissare in der Sache zwischen Prusimski, Starost von Niszczewice, Erbherrn von Trąbczyn, und Stanisław Ścibor Chełmski, Erbherrn von Ł"
+  },
+  {
+   "file": "units/app53150kaliszgr425/about_de.md",
+   "line": 15,
+   "text": "**Die Unterschriften.** Fünf Kommissare unterzeichnen, jeder mit seinem Siegel: Stefan Leszczyc Zielonacki, Unterrichter des Kalischer Landgerichts; Maciej Leszczyc Mierzewski; Tomasz Radoński, Grenzv"
+  },
+  {
+   "file": "units/app53150kaliszgr425/about_de.md",
+   "line": 17,
+   "text": "**Die Eintragung.** Am Montag, dem 30. September 1776, brachte Antoni Czyżewski den Akt zur Eintragung in das Burgamt Kalisz, und das Original wurde in das Buch eingenäht [[1]]."
+  }
+ ],
+ "app53170koningr114-1": [
+  {
+   "file": "reference/genealogy.yml",
+   "line": 56,
+   "text": "source: \"app53170koningr114-1; app53150kaliszgr414-1; app53170koningr145-1; app53170koningr153-1\""
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 168,
+   "text": "url: /documents/app53170koningr114/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 40,
+   "text": "([die Berichte]({{ '/documents/app53170koningr114/1/' | relative_url }}))."
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 37,
+   "text": "([the reports]({{ '/documents/app53170koningr114/1/' | relative_url }}))."
+  },
+  {
+   "file": "units/app53170koningr114/about.md",
+   "line": 11,
+   "text": "**April 1767.** On 22 April the court messenger Bartłomiej Szepczyński of Trąbczyn declared at Konin that on Holy Saturday, at the request of Antoni Prusimski of Kolno, heir of Trąbczyn, he had gone o"
+  },
+  {
+   "file": "units/app53170koningr114/about_de.md",
+   "line": 11,
+   "text": "**April 1767.** Am 22. April erklärte der Gerichtsbote Bartłomiej Szepczyński von Trąbczyn in Konin, er sei am Karsamstag auf Verlangen von Antoni Prusimski von Kolno, Erbherrn von Trąbczyn, mit zwei "
+  }
+ ],
+ "app53170koningr114-2": [
+  {
+   "file": "units/app53170koningr114/about.md",
+   "line": 13,
+   "text": "**August 1767.** On 6 August he reported again. On the Friday after Saint James, with the noblemen Józef Gołembiewski and Rudkowski, he had seen the embankment in the wood on the pond-ground, by the b"
+  },
+  {
+   "file": "units/app53170koningr114/about_de.md",
+   "line": 13,
+   "text": "**August 1767.** Am 6. August berichtete er erneut. Am Freitag nach St. Jakob hatte er mit den Adligen Józef Gołembiewski und Rudkowski den Damm im Wald auf dem Teichgrund gesehen, an der Grenze der Ł"
+  }
+ ],
+ "app53170koningr115-1": [
+  {
+   "file": "reference/estate_tree.yml",
+   "line": 47,
+   "text": "url: /documents/app53170koningr115/1/"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 976,
+   "text": "died_source: \"app536045-1; app53170koningr115-1\""
+  },
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 11,
+   "text": "**Summonses, 1768.** In January 1768 Stanisław Chełmski summoned Antoni Prusimski and the heirs of the late Katarzyna Prusimska before the land court [[1]]. In May each side summoned the other, with t"
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 11,
+   "text": "**Ladungen, 1768.** Ein Vermerk vom Januar 1768 hält die Ladung fest, die Stanisław Chełmski gegen Antoni Prusimski und die Rechtsnachfolger der verstorbenen Katarzyna Prusimska vor das Landgericht er"
+  }
+ ],
+ "app53170koningr115-10": [
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 21,
+   "text": "**The inn wrecked, January 1773.** In March 1773 Chełmski lodged a protest: Prusimski, knowing that the settlers of Lusnia were adjudged to Chełmski, had let his steward Lipiński and his chamber serva"
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 21,
+   "text": "**Das Wirtshaus verwüstet, Januar 1773.** Im März 1773 legte Chełmski mit eigener Unterschrift Protest ein: Prusimski habe, obwohl er wisse, dass die Siedler von Lusnia Chełmski zuerkannt seien, seine"
+  }
+ ],
+ "app53170koningr115-2": [
+  {
+   "file": "reference/genealogy.yml",
+   "line": 47,
+   "text": "source: \"app53170koningr115-2; app53170koningr118-23; app5320pozgr1181-1; adwl85-1\""
+  },
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 11,
+   "text": "**Summonses, 1768.** In January 1768 Stanisław Chełmski summoned Antoni Prusimski and the heirs of the late Katarzyna Prusimska before the land court [[1]]. In May each side summoned the other, with t"
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 11,
+   "text": "**Ladungen, 1768.** Ein Vermerk vom Januar 1768 hält die Ladung fest, die Stanisław Chełmski gegen Antoni Prusimski und die Rechtsnachfolger der verstorbenen Katarzyna Prusimska vor das Landgericht er"
+  }
+ ],
+ "app53170koningr115-3": [
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 11,
+   "text": "**Summonses, 1768.** In January 1768 Stanisław Chełmski summoned Antoni Prusimski and the heirs of the late Katarzyna Prusimska before the land court [[1]]. In May each side summoned the other, with t"
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 11,
+   "text": "**Ladungen, 1768.** Ein Vermerk vom Januar 1768 hält die Ladung fest, die Stanisław Chełmski gegen Antoni Prusimski und die Rechtsnachfolger der verstorbenen Katarzyna Prusimska vor das Landgericht er"
+  }
+ ],
+ "app53170koningr115-4": [
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 13,
+   "text": "**The delivery of Lusnia, December 1771.** On 2 December 1771 Chełmski registered the act by which the Lusnia wood with its Olęder settlers had been handed over to him [[4]]."
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 13,
+   "text": "**Die Einweisung in Lusnia, Dezember 1771.** Am 2. Dezember 1771 wurde für Chełmski die Besitzeinweisung in den Wald Lusnia mit den Olęder-Siedlern vorgelegt [[4]]."
+  }
+ ],
+ "app53170koningr115-5": [
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 200,
+   "text": "url: /documents/app53170koningr115/5/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 51,
+   "text": "([die Berichte]({{ '/documents/app53170koningr115/5/' | relative_url }}))."
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 46,
+   "text": "([the reports]({{ '/documents/app53170koningr115/5/' | relative_url }}))."
+  },
+  {
+   "file": "site/guide/court-books/reports.md",
+   "line": 100,
+   "text": "The headings of these reports say what was viewed: *Aggeris Visio*, the viewing of a dam; *Granitialis Visio*, of a boundary; *Violatae Tabernae Visio*, of a tavern broken into; *Prorarum excisarum Vi"
+  },
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 15,
+   "text": "**The first clash, December 1771.** On 20 December Chełmski's messenger, Nicolaus Krzepczyński of Myszaków, laid weapons before the office: five sabres, four spears, three long guns and a gun mounted "
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 15,
+   "text": "**Der erste Zusammenstoß, Dezember 1771.** Am 20. Dezember legte Chełmskis Bote, Nicolaus Krzepczyński von Myszaków, dem Amt Waffen vor: fünf Säbel, vier Spieße, drei lange Büchsen und eine mit Messin"
+  }
+ ],
+ "app53170koningr115-6": [
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 15,
+   "text": "**The first clash, December 1771.** On 20 December Chełmski's messenger, Nicolaus Krzepczyński of Myszaków, laid weapons before the office: five sabres, four spears, three long guns and a gun mounted "
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 15,
+   "text": "**Der erste Zusammenstoß, Dezember 1771.** Am 20. Dezember legte Chełmskis Bote, Nicolaus Krzepczyński von Myszaków, dem Amt Waffen vor: fünf Säbel, vier Spieße, drei lange Büchsen und eine mit Messin"
+  }
+ ],
+ "app53170koningr115-7": [
+  {
+   "file": "reference/genealogy.yml",
+   "line": 287,
+   "text": "source: \"app53150kaliszgr414-1; app53170koningr115-7; app53170koningr145-1; app53170koningr153-1\""
+  },
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 17,
+   "text": "**The inn stripped, November 1772.** On 1 December 1772 another messenger, Joannes Bikierski of Węgierce, reported for Chełmski that on the Saturday before three windows and four doors had been taken "
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 17,
+   "text": "**Das Wirtshaus ausgeräumt, November 1772.** Am 1. Dezember 1772 berichtete ein anderer Bote, Joannes Bikierski von Węgierce, für Chełmski, am Samstag zuvor seien nachts drei Fenster und vier Türen vo"
+  }
+ ],
+ "app53170koningr115-8": [
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 19,
+   "text": "**Prusimski's count of felled trees, February 1773.** On 26 February 1773 the Trąbczyn messenger Bartłomiej Szepczyński reported for Prusimski: fifty-one stumps of building pine in the wood beyond Lus"
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 19,
+   "text": "**Prusimskis Zählung gefällter Bäume, Februar 1773.** Am 26. Februar 1773 berichtete der Trąbczyner Bote Bartłomiej Szepczyński für Prusimski: einundfünfzig Stümpfe von Baukiefern im Wald hinter Lusni"
+  }
+ ],
+ "app53170koningr115-9": [
+  {
+   "file": "units/app53170koningr115/about.md",
+   "line": 21,
+   "text": "**The inn wrecked, January 1773.** In March 1773 Chełmski lodged a protest: Prusimski, knowing that the settlers of Lusnia were adjudged to Chełmski, had let his steward Lipiński and his chamber serva"
+  },
+  {
+   "file": "units/app53170koningr115/about_de.md",
+   "line": 21,
+   "text": "**Das Wirtshaus verwüstet, Januar 1773.** Im März 1773 legte Chełmski mit eigener Unterschrift Protest ein: Prusimski habe, obwohl er wisse, dass die Siedler von Lusnia Chełmski zuerkannt seien, seine"
+  }
+ ],
+ "app53170koningr116-1": [
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 11,
+   "text": "**The commission announced, August 1775.** Prusimski registered a copy of the act of parliament that ordered the commission [[1]]. On 16 August 1775 the notices of the commission were registered for h"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 11,
+   "text": "**Die Kommission wird angekündigt, August 1775.** Ein Vermerk hält fest, dass ein Auszug der Konstitution vorgelegt wurde, die die Kommission anordnet, entnommen den Akten des königlichen Hofes in War"
+  }
+ ],
+ "app53170koningr116-10": [
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 15,
+   "text": "**Nachsuchen nach einem Dekret, ab 1776.** Am 16. Februar 1776 verlangten Antoni Lipiński und Nicolaus Ostrowski, mit dem Gerichtsboten Bartłomiej Szepczyński von Trąbczyn, in Prusimskis Namen ein Kom"
+  }
+ ],
+ "app53170koningr116-11": [
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 15,
+   "text": "**Searches for a decree, from 1776.** On 16 February 1776 Prusimski's men, Antoni Lipiński and Nicolaus Ostrowski, with the Trąbczyn court messenger Bartłomiej Szepczyński, asked whether a decree give"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 15,
+   "text": "**Nachsuchen nach einem Dekret, ab 1776.** Am 16. Februar 1776 verlangten Antoni Lipiński und Nicolaus Ostrowski, mit dem Gerichtsboten Bartłomiej Szepczyński von Trąbczyn, in Prusimskis Namen ein Kom"
+  }
+ ],
+ "app53170koningr116-12": [
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 15,
+   "text": "**Searches for a decree, from 1776.** On 16 February 1776 Prusimski's men, Antoni Lipiński and Nicolaus Ostrowski, with the Trąbczyn court messenger Bartłomiej Szepczyński, asked whether a decree give"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 15,
+   "text": "**Nachsuchen nach einem Dekret, ab 1776.** Am 16. Februar 1776 verlangten Antoni Lipiński und Nicolaus Ostrowski, mit dem Gerichtsboten Bartłomiej Szepczyński von Trąbczyn, in Prusimskis Namen ein Kom"
+  }
+ ],
+ "app53170koningr116-2": [
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1389,
+   "text": "source: \"app53170koningr145-1; app53170koningr116-2\""
+  },
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 11,
+   "text": "**The commission announced, August 1775.** Prusimski registered a copy of the act of parliament that ordered the commission [[1]]. On 16 August 1775 the notices of the commission were registered for h"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 11,
+   "text": "**Die Kommission wird angekündigt, August 1775.** Ein Vermerk hält fest, dass ein Auszug der Konstitution vorgelegt wurde, die die Kommission anordnet, entnommen den Akten des königlichen Hofes in War"
+  }
+ ],
+ "app53170koningr116-3": [
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1397,
+   "text": "source: \"app53170koningr116-3; app53170koningr145-1\""
+  },
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 13,
+   "text": "**Protests while the commission sat, September and October 1775.** Five of the commissioners sitting on the ground, the voivode Ludwik Dąmbski as president, Brzeziński, Starost of Inowrocław, Dąmbski,"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 13,
+   "text": "**Proteste während der Sitzung der Kommission, September und Oktober 1775.** Kommissare der Feldkommission protestierten persönlich gegen Chełmski und „die von seiner Seite beigezogenen Kommissare“ we"
+  }
+ ],
+ "app53170koningr116-4": [
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 13,
+   "text": "**Protests while the commission sat, September and October 1775.** Five of the commissioners sitting on the ground, the voivode Ludwik Dąmbski as president, Brzeziński, Starost of Inowrocław, Dąmbski,"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 13,
+   "text": "**Proteste während der Sitzung der Kommission, September und Oktober 1775.** Kommissare der Feldkommission protestierten persönlich gegen Chełmski und „die von seiner Seite beigezogenen Kommissare“ we"
+  }
+ ],
+ "app53170koningr116-5": [
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 13,
+   "text": "**Protests while the commission sat, September and October 1775.** Five of the commissioners sitting on the ground, the voivode Ludwik Dąmbski as president, Brzeziński, Starost of Inowrocław, Dąmbski,"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 13,
+   "text": "**Proteste während der Sitzung der Kommission, September und Oktober 1775.** Kommissare der Feldkommission protestierten persönlich gegen Chełmski und „die von seiner Seite beigezogenen Kommissare“ we"
+  }
+ ],
+ "app53170koningr116-6": [
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 13,
+   "text": "**Protests while the commission sat, September and October 1775.** Five of the commissioners sitting on the ground, the voivode Ludwik Dąmbski as president, Brzeziński, Starost of Inowrocław, Dąmbski,"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 13,
+   "text": "**Proteste während der Sitzung der Kommission, September und Oktober 1775.** Kommissare der Feldkommission protestierten persönlich gegen Chełmski und „die von seiner Seite beigezogenen Kommissare“ we"
+  }
+ ],
+ "app53170koningr116-7": [
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 13,
+   "text": "**Protests while the commission sat, September and October 1775.** Five of the commissioners sitting on the ground, the voivode Ludwik Dąmbski as president, Brzeziński, Starost of Inowrocław, Dąmbski,"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 13,
+   "text": "**Proteste während der Sitzung der Kommission, September und Oktober 1775.** Kommissare der Feldkommission protestierten persönlich gegen Chełmski und „die von seiner Seite beigezogenen Kommissare“ we"
+  }
+ ],
+ "app53170koningr116-8": [
+  {
+   "file": "units/app53170koningr116/about.md",
+   "line": 15,
+   "text": "**Searches for a decree, from 1776.** On 16 February 1776 Prusimski's men, Antoni Lipiński and Nicolaus Ostrowski, with the Trąbczyn court messenger Bartłomiej Szepczyński, asked whether a decree give"
+  },
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 15,
+   "text": "**Nachsuchen nach einem Dekret, ab 1776.** Am 16. Februar 1776 verlangten Antoni Lipiński und Nicolaus Ostrowski, mit dem Gerichtsboten Bartłomiej Szepczyński von Trąbczyn, in Prusimskis Namen ein Kom"
+  }
+ ],
+ "app53170koningr116-9": [
+  {
+   "file": "units/app53170koningr116/about_de.md",
+   "line": 15,
+   "text": "**Nachsuchen nach einem Dekret, ab 1776.** Am 16. Februar 1776 verlangten Antoni Lipiński und Nicolaus Ostrowski, mit dem Gerichtsboten Bartłomiej Szepczyński von Trąbczyn, in Prusimskis Namen ein Kom"
+  }
+ ],
+ "app53170koningr117-1": [
+  {
+   "file": "reference/english_corrections.yml",
+   "line": 104,
+   "text": "- {pad: app53170koningr117-001, page: 1, find: \"et cetera\", replace: \"etc.\", why: \"et cetera: \\\"et cetera\\\" given as the ordinary English \\\"etc.\\\"\"}"
+  },
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 11,
+   "text": "**The sitting on the ground, March 1778.** On 7 March 1778 Chełmski's messenger reported that he had served a royal citation on Prusimski for the sitting fixed on the ground of Trąbczyn for the Monday"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 11,
+   "text": "**Der Ortstermin, März 1778.** Am 7. März 1778 meldete Chełmskis Gerichtsbote, er habe Prusimski eine königliche Ladung zu dem Termin zugestellt, der auf dem Grund von Trąbczyn auf den Montag nach Inv"
+  }
+ ],
+ "app53170koningr117-10": [
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 13,
+   "text": "**After the sitting, April 1778.** On 15 April Prusimski protested again, now also against Zielonacki as judge at the sitting on the ground: Zielonacki had, at Chełmski's instance, sent the cause back"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 13,
+   "text": "**Nach dem Ortstermin, April 1778.** Am 15. April protestierte Prusimski erneut, nun auch gegen Zielonacki als Richter des Ortstermins: Zielonacki habe die Sache auf Betreiben Chełmskis an das volle L"
+  }
+ ],
+ "app53170koningr117-11": [
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 17,
+   "text": "**Trees.** A messenger reported for Prusimski that a pine several decades old, marked with three crosses, on a mound dividing Trąbczyn from Biskupie, had been cut down and taken at night by Bogusławsk"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 17,
+   "text": "**Bäume.** Ein Gerichtsbote meldete für Prusimski, eine mehrere Jahrzehnte alte Kiefer, mit drei Kreuzen gezeichnet, auf einem Hügel, der Trąbczyn von Biskupie scheidet, sei bei Nacht von Bogusławski,"
+  }
+ ],
+ "app53170koningr117-12": [
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 17,
+   "text": "**Trees.** A messenger reported for Prusimski that a pine several decades old, marked with three crosses, on a mound dividing Trąbczyn from Biskupie, had been cut down and taken at night by Bogusławsk"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 17,
+   "text": "**Bäume.** Ein Gerichtsbote meldete für Prusimski, eine mehrere Jahrzehnte alte Kiefer, mit drei Kreuzen gezeichnet, auf einem Hügel, der Trąbczyn von Biskupie scheidet, sei bei Nacht von Bogusławski,"
+  }
+ ],
+ "app53170koningr117-13": [
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 17,
+   "text": "**Trees.** A messenger reported for Prusimski that a pine several decades old, marked with three crosses, on a mound dividing Trąbczyn from Biskupie, had been cut down and taken at night by Bogusławsk"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 17,
+   "text": "**Bäume.** Ein Gerichtsbote meldete für Prusimski, eine mehrere Jahrzehnte alte Kiefer, mit drei Kreuzen gezeichnet, auf einem Hügel, der Trąbczyn von Biskupie scheidet, sei bei Nacht von Bogusławski,"
+  }
+ ],
+ "app53170koningr117-2": [
+  {
+   "file": "reference/english_corrections.yml",
+   "line": 105,
+   "text": "- {pad: app53170koningr117-002, page: 1, find: \"et cetera\", replace: \"etc.\", why: \"et cetera: \\\"et cetera\\\" given as the ordinary English \\\"etc.\\\"\"}"
+  },
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 11,
+   "text": "**The sitting on the ground, March 1778.** On 7 March 1778 Chełmski's messenger reported that he had served a royal citation on Prusimski for the sitting fixed on the ground of Trąbczyn for the Monday"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 11,
+   "text": "**Der Ortstermin, März 1778.** Am 7. März 1778 meldete Chełmskis Gerichtsbote, er habe Prusimski eine königliche Ladung zu dem Termin zugestellt, der auf dem Grund von Trąbczyn auf den Montag nach Inv"
+  }
+ ],
+ "app53170koningr117-3": [
+  {
+   "file": "reference/connections.yml",
+   "line": 504,
+   "text": "- uid: app53170koningr117-3"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1023,
+   "text": "source: \"app53170koningr117-3; app53170koningr136-1; app5320pozgr1181-1\""
+  },
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 11,
+   "text": "**The sitting on the ground, March 1778.** On 7 March 1778 Chełmski's messenger reported that he had served a royal citation on Prusimski for the sitting fixed on the ground of Trąbczyn for the Monday"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 11,
+   "text": "**Der Ortstermin, März 1778.** Am 7. März 1778 meldete Chełmskis Gerichtsbote, er habe Prusimski eine königliche Ladung zu dem Termin zugestellt, der auf dem Grund von Trąbczyn auf den Montag nach Inv"
+  }
+ ],
+ "app53170koningr117-4": [
+  {
+   "file": "literature/links.yml",
+   "line": 1682,
+   "text": "- app53170koningr117-4"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1728,
+   "text": "- app53170koningr117-4"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1746,
+   "text": "- app53170koningr117-4"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 2342,
+   "text": "- app53170koningr117-4"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 2408,
+   "text": "- app53170koningr117-4"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 225,
+   "text": "note_source: \"app53170koningr117-4; app536045-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 276,
+   "text": "source: \"app536045-1; app53150kaliszgr414-1; app536046-2; app53170koningr117-4\""
+  },
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 15,
+   "text": "**Chełmski against the boundary decree, April 1778.** In two protests Chełmski set his own boundary decree against the one given for Prusimski. His had been given in 1775 by the commissioners he had b"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 15,
+   "text": "**Chełmski gegen das Grenzdekret, April 1778.** In zwei Protesten stellte Chełmski sein eigenes Grenzdekret, 1775 von den Kommissaren seiner Seite erlassen auf eine Besichtigung von 1592 gestützt und "
+  }
+ ],
+ "app53170koningr117-5": [
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 15,
+   "text": "**Chełmski against the boundary decree, April 1778.** In two protests Chełmski set his own boundary decree against the one given for Prusimski. His had been given in 1775 by the commissioners he had b"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 15,
+   "text": "**Chełmski gegen das Grenzdekret, April 1778.** In zwei Protesten stellte Chełmski sein eigenes Grenzdekret, 1775 von den Kommissaren seiner Seite erlassen auf eine Besichtigung von 1592 gestützt und "
+  }
+ ],
+ "app53170koningr117-6": [
+  {
+   "file": "site/guide/court-books/reports.md",
+   "line": 98,
+   "text": "What he saw may be told in Polish. In February 1778 Szepczyński went with his two noblemen to the boundary mound between Trąbczyn and Biskupice and gave his account in his own words: *affatus in haec "
+  },
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 17,
+   "text": "**Trees.** A messenger reported for Prusimski that a pine several decades old, marked with three crosses, on a mound dividing Trąbczyn from Biskupie, had been cut down and taken at night by Bogusławsk"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 17,
+   "text": "**Bäume.** Ein Gerichtsbote meldete für Prusimski, eine mehrere Jahrzehnte alte Kiefer, mit drei Kreuzen gezeichnet, auf einem Hügel, der Trąbczyn von Biskupie scheidet, sei bei Nacht von Bogusławski,"
+  }
+ ],
+ "app53170koningr117-7": [
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 13,
+   "text": "**After the sitting, April 1778.** On 15 April Prusimski protested again, now also against Zielonacki as judge at the sitting on the ground: Zielonacki had, at Chełmski's instance, sent the cause back"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 13,
+   "text": "**Nach dem Ortstermin, April 1778.** Am 15. April protestierte Prusimski erneut, nun auch gegen Zielonacki als Richter des Ortstermins: Zielonacki habe die Sache auf Betreiben Chełmskis an das volle L"
+  }
+ ],
+ "app53170koningr117-8": [
+  {
+   "file": "reference/connections.yml",
+   "line": 516,
+   "text": "- uid: app53170koningr117-8"
+  },
+  {
+   "file": "site/guide/court-books/reports.md",
+   "line": 84,
+   "text": "When a summons came from the king's chancery, the summoner's report copies it whole, so that the record holds the citation word for word. A report of 1786 in the Konin register runs on from the summon"
+  },
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 13,
+   "text": "**After the sitting, April 1778.** On 15 April Prusimski protested again, now also against Zielonacki as judge at the sitting on the ground: Zielonacki had, at Chełmski's instance, sent the cause back"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 13,
+   "text": "**Nach dem Ortstermin, April 1778.** Am 15. April protestierte Prusimski erneut, nun auch gegen Zielonacki als Richter des Ortstermins: Zielonacki habe die Sache auf Betreiben Chełmskis an das volle L"
+  }
+ ],
+ "app53170koningr117-9": [
+  {
+   "file": "reference/english_corrections.yml",
+   "line": 106,
+   "text": "- {pad: app53170koningr117-009, page: 1, find: \"et cetera\", replace: \"etc.\", why: \"et cetera: \\\"et cetera\\\" given as the ordinary English \\\"etc.\\\"\"}"
+  },
+  {
+   "file": "units/app53170koningr117/about.md",
+   "line": 13,
+   "text": "**After the sitting, April 1778.** On 15 April Prusimski protested again, now also against Zielonacki as judge at the sitting on the ground: Zielonacki had, at Chełmski's instance, sent the cause back"
+  },
+  {
+   "file": "units/app53170koningr117/about_de.md",
+   "line": 13,
+   "text": "**Nach dem Ortstermin, April 1778.** Am 15. April protestierte Prusimski erneut, nun auch gegen Zielonacki als Richter des Ortstermins: Zielonacki habe die Sache auf Betreiben Chełmskis an das volle L"
+  }
+ ],
+ "app53170koningr118-1": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 17,
+   "text": "**Die Forderung Tracholz und Grab.** Die Forderung, die Chełmski vom Kaufmann Tracholz gekauft hatte, sollte nun bei einem Ortstermin in Grab verhandelt werden, dem Gut der verstorbenen Katarzyna Prus"
+  }
+ ],
+ "app53170koningr118-10": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 13,
+   "text": "**The convent of Ląd.** Prusimski had charged the Cistercians of Ląd, owners of Drzewce, with colluding with Chełmski at the boundary commission. On 22 November 1781 their administrator, Father Tessel"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 15,
+   "text": "**Der Konvent von Ląd.** Prusimski hatte den Zisterziensern von Ląd, den Besitzern von Drzewce, vorgeworfen, sich bei der Grenzkommission mit Chełmski abgesprochen zu haben. Am 22. November 1781 prote"
+  }
+ ],
+ "app53170koningr118-11": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 9,
+   "text": "**The boundary: the Tribunal's line on the ground, 1782.** In March 1782 a decree on the Olęder settlement belonging to Trąbczyn, given on the ground, was registered [[11]]. In June the boundary chamb"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-12": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 19,
+   "text": "**Die Erbfolge nach Prusimskis Onkeln.** Prusimski lud Kazimierz Zakrzewski und dessen Söhne sowie das Landgericht im Oktober 1781 [[4]] und erneut im April 1782 [[12]] vor das Tribunal, und sein Bevo"
+  }
+ ],
+ "app53170koningr118-13": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 19,
+   "text": "**Die Erbfolge nach Prusimskis Onkeln.** Prusimski lud Kazimierz Zakrzewski und dessen Söhne sowie das Landgericht im Oktober 1781 [[4]] und erneut im April 1782 [[12]] vor das Tribunal, und sein Bevo"
+  }
+ ],
+ "app53170koningr118-14": [
+  {
+   "file": "reference/connections.yml",
+   "line": 525,
+   "text": "- uid: app53170koningr118-14"
+  },
+  {
+   "file": "reference/english_corrections.yml",
+   "line": 107,
+   "text": "- {pad: app53170koningr118-014, page: 1, find: \"[Austacorum]\", replace: \"[...]\", why: \"[Austacorum]: unread Latin word not carried in its original letters; sense not fixed\"}"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1001,
+   "text": "source: \"app536045-1; adwl85-1; app53170koningr118-14\""
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 17,
+   "text": "**Die Forderung Tracholz und Grab.** Die Forderung, die Chełmski vom Kaufmann Tracholz gekauft hatte, sollte nun bei einem Ortstermin in Grab verhandelt werden, dem Gut der verstorbenen Katarzyna Prus"
+  }
+ ],
+ "app53170koningr118-15": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-16": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 17,
+   "text": "**Die Forderung Tracholz und Grab.** Die Forderung, die Chełmski vom Kaufmann Tracholz gekauft hatte, sollte nun bei einem Ortstermin in Grab verhandelt werden, dem Gut der verstorbenen Katarzyna Prus"
+  }
+ ],
+ "app53170koningr118-17": [
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 252,
+   "text": "url: /documents/app53170koningr118/17/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 84,
+   "text": "([die Proteste]({{ '/documents/app53170koningr118/17/' | relative_url }})). Das Tribunal"
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 77,
+   "text": "([the protests]({{ '/documents/app53170koningr118/17/' | relative_url }})). The Tribunal"
+  },
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 9,
+   "text": "**The boundary: the Tribunal's line on the ground, 1782.** In March 1782 a decree on the Olęder settlement belonging to Trąbczyn, given on the ground, was registered [[11]]. In June the boundary chamb"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-18": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-19": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 9,
+   "text": "**The boundary: the Tribunal's line on the ground, 1782.** In March 1782 a decree on the Olęder settlement belonging to Trąbczyn, given on the ground, was registered [[11]]. In June the boundary chamb"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-2": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 17,
+   "text": "**Die Forderung Tracholz und Grab.** Die Forderung, die Chełmski vom Kaufmann Tracholz gekauft hatte, sollte nun bei einem Ortstermin in Grab verhandelt werden, dem Gut der verstorbenen Katarzyna Prus"
+  }
+ ],
+ "app53170koningr118-20": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 17,
+   "text": "**Die Forderung Tracholz und Grab.** Die Forderung, die Chełmski vom Kaufmann Tracholz gekauft hatte, sollte nun bei einem Ortstermin in Grab verhandelt werden, dem Gut der verstorbenen Katarzyna Prus"
+  }
+ ],
+ "app53170koningr118-21": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 9,
+   "text": "**The boundary: the Tribunal's line on the ground, 1782.** In March 1782 a decree on the Olęder settlement belonging to Trąbczyn, given on the ground, was registered [[11]]. In June the boundary chamb"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-22": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 9,
+   "text": "**The boundary: the Tribunal's line on the ground, 1782.** In March 1782 a decree on the Olęder settlement belonging to Trąbczyn, given on the ground, was registered [[11]]. In June the boundary chamb"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-23": [
+  {
+   "file": "literature/links.yml",
+   "line": 897,
+   "text": "- app53170koningr118-23"
+  },
+  {
+   "file": "reference/estate_tree.yml",
+   "line": 39,
+   "text": "url: /documents/app53170koningr118/23/"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 47,
+   "text": "source: \"app53170koningr115-2; app53170koningr118-23; app5320pozgr1181-1; adwl85-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 944,
+   "text": "source: \"app5320pozgr1181-1; app53170koningr118-23\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 948,
+   "text": "source: \"app53170koningr118-23\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 951,
+   "text": "source: \"app53170koningr118-23\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 954,
+   "text": "source: \"app53170koningr118-23\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 958,
+   "text": "source: \"app53170koningr118-23; app53170koningr136-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 960,
+   "text": "source: \"app53170koningr118-23\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 966,
+   "text": "source: \"app53170koningr118-23\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 969,
+   "text": "source: \"app53170koningr118-23\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 972,
+   "text": "source: \"app53170koningr118-23\""
+  },
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 17,
+   "text": "**The succession to Prusimski's uncles.** Prusimski took Kazimierz Zakrzewski and his sons, and the land court that had heard their claim, before the Tribunal in October 1781 and April 1782, and his a"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 19,
+   "text": "**Die Erbfolge nach Prusimskis Onkeln.** Prusimski lud Kazimierz Zakrzewski und dessen Söhne sowie das Landgericht im Oktober 1781 [[4]] und erneut im April 1782 [[12]] vor das Tribunal, und sein Bevo"
+  }
+ ],
+ "app53170koningr118-24": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 13,
+   "text": "**The convent of Ląd.** Prusimski had charged the Cistercians of Ląd, owners of Drzewce, with colluding with Chełmski at the boundary commission. On 22 November 1781 their administrator, Father Tessel"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 15,
+   "text": "**Der Konvent von Ląd.** Prusimski hatte den Zisterziensern von Ląd, den Besitzern von Drzewce, vorgeworfen, sich bei der Grenzkommission mit Chełmski abgesprochen zu haben. Am 22. November 1781 prote"
+  }
+ ],
+ "app53170koningr118-25": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 11,
+   "text": "**Wood cut across the new line, December 1782.** Prusimski had Chełmski cited before the municipal court of Kalisz for acts of violence [[25]]. On 7 December his messenger reported 221 building pines "
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 13,
+   "text": "**Holzeinschlag über die neue Linie, Dezember 1782.** Prusimski ließ Chełmski wegen Gewalttaten vor das Burggericht Kalisz laden [[25]]. Am 7. Dezember meldete sein Gerichtsbote 221 Baukiefern, die au"
+  }
+ ],
+ "app53170koningr118-26": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 11,
+   "text": "**Wood cut across the new line, December 1782.** Prusimski had Chełmski cited before the municipal court of Kalisz for acts of violence [[25]]. On 7 December his messenger reported 221 building pines "
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 13,
+   "text": "**Holzeinschlag über die neue Linie, Dezember 1782.** Prusimski ließ Chełmski wegen Gewalttaten vor das Burggericht Kalisz laden [[25]]. Am 7. Dezember meldete sein Gerichtsbote 221 Baukiefern, die au"
+  }
+ ],
+ "app53170koningr118-27": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 11,
+   "text": "**Wood cut across the new line, December 1782.** Prusimski had Chełmski cited before the municipal court of Kalisz for acts of violence [[25]]. On 7 December his messenger reported 221 building pines "
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 13,
+   "text": "**Holzeinschlag über die neue Linie, Dezember 1782.** Prusimski ließ Chełmski wegen Gewalttaten vor das Burggericht Kalisz laden [[25]]. Am 7. Dezember meldete sein Gerichtsbote 221 Baukiefern, die au"
+  }
+ ],
+ "app53170koningr118-28": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-29": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 11,
+   "text": "**Die Grenze: die Linie des Tribunals im Gelände, 1782.** Am 18. März 1782 wurde ein Dekret eines Ortstermins über die zu Trąbczyn gehörende Olęder-Siedlung vorgelegt [[11]]. Im Juni protestierte der "
+  }
+ ],
+ "app53170koningr118-3": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 21,
+   "text": "**Weitere Ladungen und ein Protest.** Vermerke halten einen Protest Prusimskis gegen Chełmski fest [[3]], zwei Ladungen Prusimskis durch Chełmski [[5]] [[7]] und eine durch den früheren und den jetzig"
+  }
+ ],
+ "app53170koningr118-4": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 19,
+   "text": "**Die Erbfolge nach Prusimskis Onkeln.** Prusimski lud Kazimierz Zakrzewski und dessen Söhne sowie das Landgericht im Oktober 1781 [[4]] und erneut im April 1782 [[12]] vor das Tribunal, und sein Bevo"
+  }
+ ],
+ "app53170koningr118-5": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 21,
+   "text": "**Weitere Ladungen und ein Protest.** Vermerke halten einen Protest Prusimskis gegen Chełmski fest [[3]], zwei Ladungen Prusimskis durch Chełmski [[5]] [[7]] und eine durch den früheren und den jetzig"
+  }
+ ],
+ "app53170koningr118-6": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 21,
+   "text": "**Weitere Ladungen und ein Protest.** Vermerke halten einen Protest Prusimskis gegen Chełmski fest [[3]], zwei Ladungen Prusimskis durch Chełmski [[5]] [[7]] und eine durch den früheren und den jetzig"
+  }
+ ],
+ "app53170koningr118-7": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 21,
+   "text": "**Weitere Ladungen und ein Protest.** Vermerke halten einen Protest Prusimskis gegen Chełmski fest [[3]], zwei Ladungen Prusimskis durch Chełmski [[5]] [[7]] und eine durch den früheren und den jetzig"
+  }
+ ],
+ "app53170koningr118-8": [
+  {
+   "file": "units/app53170koningr118/about.md",
+   "line": 13,
+   "text": "**The convent of Ląd.** Prusimski had charged the Cistercians of Ląd, owners of Drzewce, with colluding with Chełmski at the boundary commission. On 22 November 1781 their administrator, Father Tessel"
+  },
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 15,
+   "text": "**Der Konvent von Ląd.** Prusimski hatte den Zisterziensern von Ląd, den Besitzern von Drzewce, vorgeworfen, sich bei der Grenzkommission mit Chełmski abgesprochen zu haben. Am 22. November 1781 prote"
+  }
+ ],
+ "app53170koningr118-9": [
+  {
+   "file": "units/app53170koningr118/about_de.md",
+   "line": 17,
+   "text": "**Die Forderung Tracholz und Grab.** Die Forderung, die Chełmski vom Kaufmann Tracholz gekauft hatte, sollte nun bei einem Ortstermin in Grab verhandelt werden, dem Gut der verstorbenen Katarzyna Prus"
+  }
+ ],
+ "app53170koningr119-1": [
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 278,
+   "text": "url: /documents/app53170koningr119/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 93,
+   "text": "([der Protest]({{ '/documents/app53170koningr119/1/' | relative_url }})); Klagen und"
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 86,
+   "text": "([the protest]({{ '/documents/app53170koningr119/1/' | relative_url }})); suits and"
+  },
+  {
+   "file": "units/app53170koningr119/about.md",
+   "line": 10,
+   "text": "**Chełmski's citations, March 1783.** By a citation of 10 March 1783 Chełmski and his steward Ignacy Jaroszewski charged Prusimski's steward Leon Maszewski with breaking into the pine wood that the Tr"
+  },
+  {
+   "file": "units/app53170koningr119/about_de.md",
+   "line": 11,
+   "text": "**Chełmskis Ladungen, März 1783.** Mit einer Ladung vom 10. März 1783 warfen Chełmski und sein Verwalter Ignacy Jaroszewski Prusimskis Verwalter Leon Maszewski vor, in den Kiefernwald eingefallen zu s"
+  }
+ ],
+ "app53170koningr119-2": [
+  {
+   "file": "units/app53170koningr119/about.md",
+   "line": 10,
+   "text": "**Chełmski's citations, March 1783.** By a citation of 10 March 1783 Chełmski and his steward Ignacy Jaroszewski charged Prusimski's steward Leon Maszewski with breaking into the pine wood that the Tr"
+  },
+  {
+   "file": "units/app53170koningr119/about_de.md",
+   "line": 11,
+   "text": "**Chełmskis Ladungen, März 1783.** Mit einer Ladung vom 10. März 1783 warfen Chełmski und sein Verwalter Ignacy Jaroszewski Prusimskis Verwalter Leon Maszewski vor, in den Kiefernwald eingefallen zu s"
+  }
+ ],
+ "app53170koningr119-3": [
+  {
+   "file": "units/app53170koningr119/about.md",
+   "line": 12,
+   "text": "**Counter-summonses.** Chełmski's messenger found that of two summonses of Prusimski's against Chełmski only one, of November 1782, had been declared at Konin [[3]]. On 18 March 1783 Prusimski, Maszew"
+  },
+  {
+   "file": "units/app53170koningr119/about_de.md",
+   "line": 13,
+   "text": "**Nachsuchen und Gegenladungen.** Am 18. März 1783 fragte Chełmskis Gerichtsbote beim Amt, ob über zwei Ladungen Prusimskis gegen seinen Herrn berichtet worden sei; das Amt fand einen Bericht, vom 29."
+  }
+ ],
+ "app53170koningr119-4": [
+  {
+   "file": "site/guide/court-books/reports.md",
+   "line": 104,
+   "text": "The report of 18 March 1783 in the Konin register is short and complete ([the document]({{ '/documents/app53170koningr119/4/' | relative_url }})). Szepczyński of Trąbczyn reports that he carried a cit"
+  },
+  {
+   "file": "units/app53170koningr119/about.md",
+   "line": 12,
+   "text": "**Counter-summonses.** Chełmski's messenger found that of two summonses of Prusimski's against Chełmski only one, of November 1782, had been declared at Konin [[3]]. On 18 March 1783 Prusimski, Maszew"
+  },
+  {
+   "file": "units/app53170koningr119/about_de.md",
+   "line": 13,
+   "text": "**Nachsuchen und Gegenladungen.** Am 18. März 1783 fragte Chełmskis Gerichtsbote beim Amt, ob über zwei Ladungen Prusimskis gegen seinen Herrn berichtet worden sei; das Amt fand einen Bericht, vom 29."
+  }
+ ],
+ "app53170koningr119-5": [
+  {
+   "file": "units/app53170koningr119/about.md",
+   "line": 12,
+   "text": "**Counter-summonses.** Chełmski's messenger found that of two summonses of Prusimski's against Chełmski only one, of November 1782, had been declared at Konin [[3]]. On 18 March 1783 Prusimski, Maszew"
+  },
+  {
+   "file": "units/app53170koningr119/about_de.md",
+   "line": 13,
+   "text": "**Nachsuchen und Gegenladungen.** Am 18. März 1783 fragte Chełmskis Gerichtsbote beim Amt, ob über zwei Ladungen Prusimskis gegen seinen Herrn berichtet worden sei; das Amt fand einen Bericht, vom 29."
+  }
+ ],
+ "app53170koningr119-6": [
+  {
+   "file": "site/guide/court-books/reports.md",
+   "line": 152,
+   "text": "**What changed from Szepczyński's report**: the summoner came from Łukomia, Chełmski's side; the citation was left at a farm, not a manor house, on the chest, not the table; and the witness was the mo"
+  },
+  {
+   "file": "units/app53170koningr119/about.md",
+   "line": 12,
+   "text": "**Counter-summonses.** Chełmski's messenger found that of two summonses of Prusimski's against Chełmski only one, of November 1782, had been declared at Konin [[3]]. On 18 March 1783 Prusimski, Maszew"
+  },
+  {
+   "file": "units/app53170koningr119/about_de.md",
+   "line": 13,
+   "text": "**Nachsuchen und Gegenladungen.** Am 18. März 1783 fragte Chełmskis Gerichtsbote beim Amt, ob über zwei Ladungen Prusimskis gegen seinen Herrn berichtet worden sei; das Amt fand einen Bericht, vom 29."
+  }
+ ],
+ "app53170koningr119-7": [
+  {
+   "file": "units/app53170koningr119/about.md",
+   "line": 14,
+   "text": "**Prusimski's protest, October 1783.** Cited before the land court to produce certain men and to answer for an act of violence, Prusimski protested that, if those men did it, it was done without his k"
+  },
+  {
+   "file": "units/app53170koningr119/about_de.md",
+   "line": 15,
+   "text": "**Prusimskis Protest, Oktober 1783.** Vor das Landgericht geladen, um bestimmte Leute zu stellen und sich wegen einer Gewalttat zu verantworten, protestierte Prusimski: Falls diese Leute sie begangen "
+  }
+ ],
+ "app53170koningr119-8": [
+  {
+   "file": "units/app53170koningr119/about.md",
+   "line": 16,
+   "text": "**1784.** In September 1784 Chełmski summoned Prusimski before the Crown Tribunal; Maszewski, now commissioner of the Trąbczyn estates, found a week later that the summons had not been declared at Kon"
+  },
+  {
+   "file": "units/app53170koningr119/about_de.md",
+   "line": 17,
+   "text": "**Eine Nachsuche 1784.** Am 15. September 1784 fragte Maszewski, nun als Kommissar der Trąbczyner Güter bezeichnet, ob der Bericht über eine Ladung Chełmskis vor das Krontribunal, die eine Woche zuvor"
+  }
+ ],
+ "app53170koningr120-1": [
+  {
+   "file": "site/guide/court-books/reports.md",
+   "line": 163,
+   "text": "- **Not every entry in a Relationes book is a summoner's report.** An injured man could come to the office himself and show his wounds: the entry headed *Obduxit*, \"he showed [his wounds]\", records ho"
+  },
+  {
+   "file": "units/app53170koningr120/about.md",
+   "line": 11,
+   "text": "**The beating of Andrzej Kinos.** On 14 March 1785 Andrzej Kinos of Trąbczyn showed the office a bloodshot and swollen right eye, a bloodshot left eye, a swollen face and a swollen right shoulder, and"
+  },
+  {
+   "file": "units/app53170koningr120/about_de.md",
+   "line": 11,
+   "text": "**Die Misshandlung von Andrzej Kinos.** Am 14. März 1785 zeigte Andrzej Kinos aus Trąbczyn dem Amt ein blutunterlaufenes und geschwollenes rechtes Auge, ein blutunterlaufenes linkes Auge, ein geschwol"
+  }
+ ],
+ "app53170koningr120-2": [
+  {
+   "file": "reference/connections.yml",
+   "line": 536,
+   "text": "- uid: app53170koningr120-2"
+  },
+  {
+   "file": "site/guide/court-books/reports.md",
+   "line": 84,
+   "text": "When a summons came from the king's chancery, the summoner's report copies it whole, so that the record holds the citation word for word. A report of 1786 in the Konin register runs on from the summon"
+  },
+  {
+   "file": "units/app53170koningr120/about.md",
+   "line": 13,
+   "text": "**Chełmski's summons of October 1786.** Chełmski summoned Prusimski before the Crown Tribunal at Piotrków. Prusimski was to swear to and produce the contract for the sale of an oak wood made with Trac"
+  },
+  {
+   "file": "units/app53170koningr120/about_de.md",
+   "line": 13,
+   "text": "**Chełmskis Ladung vom Oktober 1786.** Ein Gerichtsbote meldete, er habe Prusimski eine Ladung vor das Krontribunal zugestellt, ausgestellt in Petrikau am 2. Oktober 1786. Chełmski verlangt, dass Prus"
+  }
+ ],
+ "app53170koningr121-1": [
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 304,
+   "text": "url: /documents/app53170koningr121/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 98,
+   "text": "([der Eintrag]({{ '/documents/app53170koningr121/1/' | relative_url }})). Sechs Jahre"
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 90,
+   "text": "([the entry]({{ '/documents/app53170koningr121/1/' | relative_url }})). Six years later"
+  },
+  {
+   "file": "units/app53170koningr121/about.md",
+   "line": 9,
+   "text": "Ludwik Żurawski, in Prusimski's service, presented a cart, two oxen, a cow and a mare. They belonged to Marcin Gryndel, a peasant of Łomowo, an estate of Chełmski's that belongs to Łukom. Gryndel had "
+  },
+  {
+   "file": "units/app53170koningr121/about_de.md",
+   "line": 11,
+   "text": "Ludwik Żurawski, im Dienst Prusimskis, führt einen Wagen mit unbeschlagenen Vorder- und beschlagenen Hinterrädern vor, zwei Ochsen, einen fahlen und einen scheckigen, eine gestreifte Kuh und eine kast"
+  }
+ ],
+ "app53170koningr136-1": [
+  {
+   "file": "literature/links.yml",
+   "line": 849,
+   "text": "- app53170koningr136-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 898,
+   "text": "- app53170koningr136-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1292,
+   "text": "- app53170koningr136-1"
+  },
+  {
+   "file": "reference/english_corrections.yml",
+   "line": 231,
+   "text": "- {pad: app53170koningr136-001, page: 4, find: \"before czarny bród and\", replace: \"before Czarny Bród and\", why: \"czarny bród: place name Czarny Bród (Black Ford) as in the other uses\"}"
+  },
+  {
+   "file": "reference/estate_tree.yml",
+   "line": 43,
+   "text": "url: /documents/app53170koningr136/1/"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 958,
+   "text": "source: \"app53170koningr118-23; app53170koningr136-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 993,
+   "text": "source: \"app53170koningr136-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1005,
+   "text": "died_source: \"app53170koningr136-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1023,
+   "text": "source: \"app53170koningr117-3; app53170koningr136-1; app5320pozgr1181-1\""
+  },
+  {
+   "file": "units/app53170koningr136/about.md",
+   "line": 11,
+   "text": "**The manor farm.** The old manor house is bad from the ground up and cannot be repaired. A new one stands finished in the frame, roofed in part, with two small rooms not quite done. Then come the kit"
+  },
+  {
+   "file": "units/app53170koningr136/about.md",
+   "line": 13,
+   "text": "**The settlers and the people.** At Nowa Wieś there are fifteen Olęder settlers; the sixteenth plot is empty, and some have built well while others have only huts dug into the ground. A count of the p"
+  },
+  {
+   "file": "units/app53170koningr136/about.md",
+   "line": 15,
+   "text": "**The woods.** Two noblemen who went round with the court messenger, Kazimierz Świerczewski and Józef Puchalski, found that in the pine woods of Trąbczyn that run from Osiny along the Drzewce boundary"
+  },
+  {
+   "file": "units/app53170koningr136/about.md",
+   "line": 17,
+   "text": "**Who asked, and who went.** Katarzyna Prusimska was the widow of Paweł Prusimski, the King's chamberlain and heir of Trąbczyn, not long dead, and held her dower and a life interest in all his estates"
+  },
+  {
+   "file": "units/app53170koningr136/about_de.md",
+   "line": 11,
+   "text": "**Der Gutshof.** Die Besichtigung vom 9. Juli 1754 geht die Gebäude in Trąbczyn eines nach dem anderen durch und sagt, woraus jedes gebaut und in welchem Zustand es ist. Das alte Herrenhaus ist von Gr"
+  },
+  {
+   "file": "units/app53170koningr136/about_de.md",
+   "line": 13,
+   "text": "**Die Siedler und die Leute.** In Nowa Wieś sitzen fünfzehn Olęder; die sechzehnte Hufe ist leer, und einige haben gut gebaut, während andere nur Erdhütten haben. Es folgt eine Zählung der dienstpflic"
+  },
+  {
+   "file": "units/app53170koningr136/about_de.md",
+   "line": 15,
+   "text": "**Die Wälder.** Zwei Adlige, die mit dem Gerichtsboten umhergingen, Kazimierz Świerczewski und Józef Puchalski, unterzeichnen eine Erklärung. In den Kiefernwäldern von Trąbczyn, die sich von Osiny an "
+  },
+  {
+   "file": "units/app53170koningr136/about_de.md",
+   "line": 17,
+   "text": "**Der Vermerk.** Am Freitag, dem 12. Juli 1754, erschien der Gerichtsbote Bartłomiej Szeptycki von Trąbczyn vor dem Burgamt in Konin und erklärte, er sei am Dienstag zuvor auf Verlangen der Katarzyna "
+  }
+ ],
+ "app53170koningr153-1": [
+  {
+   "file": "literature/links.yml",
+   "line": 1431,
+   "text": "- app53170koningr153-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1684,
+   "text": "- app53170koningr153-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1747,
+   "text": "- app53170koningr153-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 2341,
+   "text": "- app53170koningr153-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 2386,
+   "text": "- app53170koningr153-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 2409,
+   "text": "- app53170koningr153-1"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 56,
+   "text": "source: \"app53170koningr114-1; app53150kaliszgr414-1; app53170koningr145-1; app53170koningr153-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 287,
+   "text": "source: \"app53150kaliszgr414-1; app53170koningr115-7; app53170koningr145-1; app53170koningr153-1\""
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 239,
+   "text": "url: /documents/app53170koningr153/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 79,
+   "text": "([das Dekret des Tribunals]({{ '/documents/app53170koningr153/1/' | relative_url }}))."
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 72,
+   "text": "([the Tribunal's decree]({{ '/documents/app53170koningr153/1/' | relative_url }}))."
+  },
+  {
+   "file": "units/app53170koningr153/about.md",
+   "line": 11,
+   "text": "**The Tribunal's decree of 17 October 1782.** In January 1782 the Tribunal had taken the two end points of the boundary as the map of 1775 showed them, confirming on that point the decree of Prusimski"
+  },
+  {
+   "file": "units/app53170koningr153/about.md",
+   "line": 13,
+   "text": "When the two boundary officers came to the ground in May, the sworn surveyor drew the line, and Hunt was not on Chełmski's side of it. Each side had engaged a boundary officer to carry out the decree;"
+  },
+  {
+   "file": "units/app53170koningr153/about.md",
+   "line": 15,
+   "text": "The Tribunal now rules that the line stands as drawn. A sworn surveyor, it says, measures boundary lines and boundary signs; houses he marks only by their position, so the place of a house on the map "
+  },
+  {
+   "file": "units/app53170koningr153/about.md",
+   "line": 17,
+   "text": "**The execution, 28 November to 3 December 1782.** Franciszek Ksawery Jasiński, boundary chamberlain of the palatinate of Gniezno, opened his court at the three corner mounds on 28 November. Chełmski "
+  },
+  {
+   "file": "units/app53170koningr153/about_de.md",
+   "line": 11,
+   "text": "**Das Dekret des Tribunals vom 17. Oktober 1782.** Das Tribunal ruft zunächst sein Dekret vom 23. Januar 1782 in Erinnerung. Jenes hatte die beiden Endpunkte der Grenze so genommen, wie die Karte von "
+  },
+  {
+   "file": "units/app53170koningr153/about_de.md",
+   "line": 13,
+   "text": "Als die beiden Grenzkämmerer im Mai ins Gelände kamen, zog der vereidigte Geometer die Linie, und Hunt lag nicht auf Chełmskis Seite. Der von Chełmski beigezogene Kämmerer verwies die Sache an das Tri"
+  },
+  {
+   "file": "units/app53170koningr153/about_de.md",
+   "line": 15,
+   "text": "Das Tribunal entscheidet nun, dass die Linie so bleibt, wie sie gezogen ist. Ein vereidigter Geometer, sagt es, vermisst Grenzzüge und Grenzzeichen; Häuser trägt er nur der Lage nach ein, sodass die S"
+  },
+  {
+   "file": "units/app53170koningr153/about_de.md",
+   "line": 17,
+   "text": "**Der Vollzug, 28. November bis 3. Dezember 1782.** Franciszek Ksawery Jasiński, Grenzkämmerer der Woiwodschaft Gnesen, eröffnete sein Gericht am 28. November bei den drei Eckhügeln. Chełmski begegnet"
+  },
+  {
+   "file": "units/app53170koningr153/about_de.md",
+   "line": 19,
+   "text": "**Die Eintragung in Konin.** Leon Maszewski, Prusimskis Verwalter in Trąbczyn, brachte das Dekret am 7. Dezember 1782 zum Burgamt Konin, und das Original wurde in das Buch eingeheftet [[1]]."
+  }
+ ],
+ "app53170koningr153-2": [
+  {
+   "file": "literature/links.yml",
+   "line": 900,
+   "text": "- app53170koningr153-2"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1432,
+   "text": "- app53170koningr153-2"
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 265,
+   "text": "url: /documents/app53170koningr153/2/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 88,
+   "text": "([das Dekret]({{ '/documents/app53170koningr153/2/' | relative_url }})). Zweihundert"
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 81,
+   "text": "([the decree]({{ '/documents/app53170koningr153/2/' | relative_url }})). Two centuries of"
+  },
+  {
+   "file": "units/app53170koningr153/about.md",
+   "line": 19,
+   "text": "**Martin Hunt.** On 28 November 1782, at Hunt's house in the Olęder settlement of Trąbczyn, Józef Łukaszewicz, general commissioner of the palatinate of Greater Poland, delivered Hunt into the possess"
+  },
+  {
+   "file": "units/app53170koningr153/about_de.md",
+   "line": 21,
+   "text": "**Martin Hunt.** Am 28. November 1782 wies Józef Łukaszewicz, Generalkommissar der großpolnischen Woiwodschaft, im Haus Hunts in der Trąbczyner Olęder-Siedlung Hunt in den Besitz Prusimskis ein, der a"
+  }
+ ],
+ "app5320pozgr1181-1": [
+  {
+   "file": "reference/estate_tree.yml",
+   "line": 35,
+   "text": "url: /documents/app5320pozgr1181/1/"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 47,
+   "text": "source: \"app53170koningr115-2; app53170koningr118-23; app5320pozgr1181-1; adwl85-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 759,
+   "text": "source: \"tekidworzaczka/c03; tekidworzaczka/c06; app53170koningr145-1; app5320pozgr1181-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 820,
+   "text": "source: \"tekidworzaczka/c04; app5320pozgr1181-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 876,
+   "text": "source: \"tekidworzaczka/c05; tekidworzaczka/c07; app5320pozgr1181-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 883,
+   "text": "source: \"tekidworzaczka/c07; app5320pozgr1181-1; tekidworzaczka/c04; minakowska2026prusimski/c02\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 887,
+   "text": "source: \"tekidworzaczka/c10; app5320pozgr1181-1; tekidworzaczka/c08\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 890,
+   "text": "source: \"app5320pozgr1181-1; minakowska2026prusimski/c02\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 893,
+   "text": "source: \"app5320pozgr1181-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 899,
+   "text": "source: \"app5320pozgr1181-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 916,
+   "text": "source: \"app5320pozgr1181-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 926,
+   "text": "source: \"app53170koningr145-1; app536040-1; app5320pozgr1181-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 938,
+   "text": "source: \"app5320pozgr1181-1; minakowska2026prusimski/c02\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 940,
+   "text": "source: \"app5320pozgr1181-1; minakowska2026prusimski/c02\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 944,
+   "text": "source: \"app5320pozgr1181-1; app53170koningr118-23\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 984,
+   "text": "source: \"app5320pozgr1181-1; app539680783-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1014,
+   "text": "source: \"app5320pozgr1181-1; app539680783-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1023,
+   "text": "source: \"app53170koningr117-3; app53170koningr136-1; app5320pozgr1181-1\""
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 291,
+   "text": "url: /documents/app5320pozgr1181/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 113,
+   "text": "Niszczewice ([das Dekret]({{ '/documents/app5320pozgr1181/1/' | relative_url }}))."
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 105,
+   "text": "([the decree]({{ '/documents/app5320pozgr1181/1/' | relative_url }}))."
+  },
+  {
+   "file": "units/app5320pozgr1181/about.md",
+   "line": 1,
+   "text": "The brothers Antoni and Paweł Prusimski died without children, and their estates had to be divided between their nephew Antoni Prusimski, the owner of Trąbczyn, and the heirs of their three sisters. I"
+  },
+  {
+   "file": "units/app5320pozgr1181/about.md",
+   "line": 3,
+   "text": "On one side stood Antoni Prusimski of Kolno, starost of Niszczewice, knight of the Order of St Stanisław, the brothers' nephew and heir; on the other the Zakrzewski, Tomicki, Taczanowski, Kołaczkowski"
+  },
+  {
+   "file": "units/app5320pozgr1181/about.md",
+   "line": 5,
+   "text": "First, Ignacy Zakrzewski had sworn at Konin in December 1783 that his side had produced all the documents the Crown Tribunal had ordered in 1782 [[1]]."
+  },
+  {
+   "file": "units/app5320pozgr1181/about.md",
+   "line": 7,
+   "text": "Then the court went through the history of the inheritance. In 1740 the brothers had divided their father's estates into three shares: Kolno and Kamionna, valued at 250,000 Polish złoty; Trąbczyn with"
+  },
+  {
+   "file": "units/app5320pozgr1181/about.md",
+   "line": 9,
+   "text": "Then it decided. The mother's estate, the Golińska inheritance, worth 98,379 złoty 5 groszy clear of debts, was to be shared equally by all six children, three sons and three daughters, at 16,396 złot"
+  },
+  {
+   "file": "units/app5320pozgr1181/about.md",
+   "line": 11,
+   "text": "Last, the court turned to what the brothers had given away outside the division of 1740: the 40,000 złoty secured in 1745 on Peczyska and Dubno for Paweł's widow, Katarzyna, born Rozdrażewska; the sit"
+  },
+  {
+   "file": "units/app5320pozgr1181/about_de.md",
+   "line": 1,
+   "text": "Die Brüder Antoni und Paweł Prusimski starben kinderlos, und ihre Güter mussten zwischen ihrem Neffen Antoni Prusimski, dem Besitzer von Trąbczyn, und den Erben ihrer drei Schwestern geteilt werden. I"
+  },
+  {
+   "file": "units/app5320pozgr1181/about_de.md",
+   "line": 10,
+   "text": "Prusimski-Hauses, im Schatz des Konvents niedergelegt [[1]]."
+  },
+  {
+   "file": "units/app5320pozgr1181/about_de.md",
+   "line": 32,
+   "text": "Gericht [[1]]."
+  },
+  {
+   "file": "units/app5320pozgr1181/about_de.md",
+   "line": 41,
+   "text": "Generalleutnant, endet der Eintrag, mitten im Satz [[1]]."
+  }
+ ],
+ "app5321pyzdrygr75-1": [
+  {
+   "file": "reference/connections.yml",
+   "line": 484,
+   "text": "- uid: app5321pyzdrygr75-1"
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 181,
+   "text": "url: /documents/app5321pyzdrygr75/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 57,
+   "text": "([die Übertragung]({{ '/documents/app5321pyzdrygr75/1/' | relative_url }})). Auf diese Forderungen hin verklagte Chełmski"
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 52,
+   "text": "([the transfer]({{ '/documents/app5321pyzdrygr75/1/' | relative_url }})). On those claims Chełmski sued Antoni"
+  },
+  {
+   "file": "units/app5321pyzdrygr75/about.md",
+   "line": 5,
+   "text": "Tracholz, \"sound in mind and body\", declared that he ceded his claims to Chełmski, who paid him for them [[1]]. The first sum, 1,053 imperials, 13 groszy and (it seems) 6 Pfennig, was for trees Tracho"
+  },
+  {
+   "file": "units/app5321pyzdrygr75/about_de.md",
+   "line": 5,
+   "text": "Tracholz, „gesund an Geist und Körper“, erklärte, er trete seine Forderungen an Chełmski ab, der sie ihm bezahle [[1]]. Die erste Summe, 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Pfennig, be"
+  }
+ ],
+ "app534062-1": [
+  {
+   "file": "units/app534062/about.md",
+   "line": 5,
+   "text": "Szetlewicz, \"of the village of Szetlewko\", declared that on the Thursday before the sitting he had taken a summons to the estate of Szetlew and left it on the table in the heated room, before a member"
+  },
+  {
+   "file": "units/app534062/about_de.md",
+   "line": 5,
+   "text": "Der allgemeine königliche Bote Sebastian Szetlewicz aus dem Dorf Szetlewko trägt dem Gericht vor, dass er eine Ladung zum Gut des Dorfes Szetlew, an die Wohnung des Geladenen gebracht und am vorvergan"
+  }
+ ],
+ "app536017-1": [
+  {
+   "file": "reference/genealogy.yml",
+   "line": 501,
+   "text": "source: \"app53170koningr145-1; app536017-1\""
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 116,
+   "text": "url: /documents/app536017/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 19,
+   "text": "([die Anordnung einer Besichtigung]({{ '/documents/app536017/1/' | relative_url }}))."
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 18,
+   "text": "Osiny ([the order for an inspection]({{ '/documents/app536017/1/' | relative_url }}))."
+  },
+  {
+   "file": "units/app536017/about.md",
+   "line": 15,
+   "text": "**The claim.** Albertus Trąmpczyński Otha, plaintiff, has cited Thomas Łukomski for the second time, after a first default. He charges that in the present year Łukomski, with other neighbours against "
+  },
+  {
+   "file": "units/app536017/about.md",
+   "line": 17,
+   "text": "**The order.** The court has heard both sides. At the defendant's request it orders a judicial inspection, and it adds one of the land court's messengers, whom the defendant is to choose, to see in wh"
+  },
+  {
+   "file": "units/app536017/about_de.md",
+   "line": 15,
+   "text": "**Die Klage.** Albertus Trąmpczyński Otha hat als Kläger Thomas Łukomski zum zweiten Mal geladen, nachdem dieser beim ersten Mal ausgeblieben war. Er wirft ihm vor, er habe im laufenden Jahr mit ander"
+  },
+  {
+   "file": "units/app536017/about_de.md",
+   "line": 17,
+   "text": "**Die Anordnung.** Das Gericht hat beide Seiten gehört. Auf Antrag des Beklagten ordnet es eine gerichtliche Besichtigung an und gibt einen Boten des Landgerichts bei, den der Beklagte wählen soll; er"
+  }
+ ],
+ "app536036-1": [
+  {
+   "file": "literature/links.yml",
+   "line": 1581,
+   "text": "- app536036-1"
+  },
+  {
+   "file": "reference/estate_tree.yml",
+   "line": 51,
+   "text": "url: /documents/app536036/1/"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 512,
+   "text": "source: \"adwl85-1; app536036-1; app53170koningr145-1; app53150kaliszgr425-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 691,
+   "text": "source: \"tekidworzaczka/c01; tekidworzaczka/c02; app536036-1; app53170koningr145-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 694,
+   "text": "source: \"app536036-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 697,
+   "text": "source: \"app536036-1; minakowska2026ottotrampczynski/c01\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 700,
+   "text": "source: \"app536036-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 702,
+   "text": "source: \"app536036-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 753,
+   "text": "source: \"app536036-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 755,
+   "text": "source: \"app536036-1\""
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 129,
+   "text": "url: /documents/app536036/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 26,
+   "text": "([die Urteile]({{ '/documents/app536036/1/' | relative_url }})). Von da an geht der Streit"
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 25,
+   "text": "([the judgments]({{ '/documents/app536036/1/' | relative_url }})). From then on the"
+  },
+  {
+   "file": "units/app536036/about.md",
+   "line": 15,
+   "text": "**The notches.** Jerzy Chełmski, plaintiff, had cited the four brothers Marcin, Wojciech, Władysław and Andrzej Trąmpczyński, sons of the late Stanisław, and Stanisław's widow Anna of Słończyce, who h"
+  },
+  {
+   "file": "units/app536036/about_de.md",
+   "line": 15,
+   "text": "**Die Kerben.** Jerzy Chełmski hatte als Kläger die vier Brüder Marcin, Wojciech, Władysław und Andrzej Trąmpczyński geladen, Söhne des verstorbenen Stanisław, und Stanisławs Witwe Anna von Słończyce,"
+  }
+ ],
+ "app536036-2": [
+  {
+   "file": "units/app536036/about.md",
+   "line": 17,
+   "text": "**The timber.** In a second suit Chełmski charged the same defendants with having lately felled about a hundred trees fit for building, chiefly pines, and about three hundred cartloads of firewood in "
+  },
+  {
+   "file": "units/app536036/about_de.md",
+   "line": 17,
+   "text": "**Das Holz.** Der zweite Eintrag ist ein gleiches Urteil gegen dieselben Beklagten. Ihnen wird vorgeworfen, sie hätten vor kurzem in den Wäldern von Łukom etwa hundert zum Bauen taugliche Bäume, vor a"
+  }
+ ],
+ "app536040-1": [
+  {
+   "file": "literature/links.yml",
+   "line": 899,
+   "text": "- app536040-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1582,
+   "text": "- app536040-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1631,
+   "text": "- app536040-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1637,
+   "text": "- app536040-1"
+  },
+  {
+   "file": "reference/estate_tree.yml",
+   "line": 59,
+   "text": "url: /documents/app536040/1/"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 210,
+   "text": "note_source: \"app536040-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 306,
+   "text": "note_source: \"app536040-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 926,
+   "text": "source: \"app53170koningr145-1; app536040-1; app5320pozgr1181-1\""
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 142,
+   "text": "url: /documents/app536040/1/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 35,
+   "text": "([das Dekret]({{ '/documents/app536040/1/' | relative_url }})). 1767 erfährt der neue"
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 33,
+   "text": "([the decree]({{ '/documents/app536040/1/' | relative_url }})). In 1767 the new heir,"
+  },
+  {
+   "file": "units/app536040/about.md",
+   "line": 15,
+   "text": "**The parties.** Franciszek and Józef Ścibor Chełmski, heirs of Łukom, Łomowo and other villages, had sued Krzysztof Prusimski, his son Antoni, six noblemen in his service and subjects of Trąbczyn who"
+  },
+  {
+   "file": "units/app536040/about.md",
+   "line": 17,
+   "text": "**The charges.** Prusimski, the plaintiffs say, set neighbourly friendship aside. Earlier wrongs they had kept out of the public records for the sake of that friendship. Now he had a hundred threescor"
+  },
+  {
+   "file": "units/app536040/about.md",
+   "line": 19,
+   "text": "**The decree.** Because the question of the ground belongs before its own court, the land court finds that a sworn commissioner of the provinces of Poznań and Kalisz must go onto the ground, with two "
+  },
+  {
+   "file": "units/app536040/about_de.md",
+   "line": 15,
+   "text": "**Die Sitzung.** Die erste Seite trägt die Überschrift der Gerichtssitzung: gehalten in Konin am Montag nach dem Sonntag Septuagesima 1728, durch Vertagung von der Sitzung am Montag nach St. Matthäus "
+  },
+  {
+   "file": "units/app536040/about_de.md",
+   "line": 17,
+   "text": "**Die Parteien.** Franciszek und Józef Ścibor Chełmski, Erbherren und Besitzer von Łukom, Łomowo und anderen Dörfern, sind Kläger. Sie hatten Krzysztof Prusimski als Hauptbeklagten geladen, seinen Soh"
+  },
+  {
+   "file": "units/app536040/about_de.md",
+   "line": 19,
+   "text": "**Die Vorwürfe.** Prusimski, so die Kläger, habe die nachbarliche Freundschaft hintangesetzt. Früheres Unrecht hätten sie um dieser Freundschaft willen nicht in die öffentlichen Akten gebracht. Nun ha"
+  },
+  {
+   "file": "units/app536040/about_de.md",
+   "line": 21,
+   "text": "**Das Dekret.** Józef Chełmski erschien persönlich für sich und seinen Bruder; die Prusimski und die übrigen erschienen durch Konstanty Marszyński. Weil die Frage des Grundes vor ihr eigenes Gericht g"
+  }
+ ],
+ "app536045-1": [
+  {
+   "file": "literature/links.yml",
+   "line": 1683,
+   "text": "- app536045-1"
+  },
+  {
+   "file": "literature/links.yml",
+   "line": 1729,
+   "text": "- app536045-1"
+  },
+  {
+   "file": "reference/estate_tree.yml",
+   "line": 55,
+   "text": "url: /documents/app536045/1/"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 225,
+   "text": "note_source: \"app53170koningr117-4; app536045-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 276,
+   "text": "source: \"app536045-1; app53150kaliszgr414-1; app536046-2; app53170koningr117-4\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 976,
+   "text": "died_source: \"app536045-1; app53170koningr115-1\""
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 1001,
+   "text": "source: \"app536045-1; adwl85-1; app53170koningr118-14\""
+  },
+  {
+   "file": "units/app536045/about.md",
+   "line": 13,
+   "text": "**The parties.** Katarzyna Prusimska, born Rozdrażewska, the widow of Paweł Prusimski, with Joseph Puchalski, and Stanisław Ścibor Chełmski of Łukom, with one Czajkowski, had each sued the other. The "
+  },
+  {
+   "file": "units/app536045/about.md",
+   "line": 15,
+   "text": "**What the testimony showed.** In 1761 Prusimska sent potash-burners off with potash; when it had been made is not established. Chełmski, on his way to Poznań, came upon them near the town of Pyzdry a"
+  },
+  {
+   "file": "units/app536045/about.md",
+   "line": 17,
+   "text": "**The decree.** The court does not decide the claim. The suit over the boundary between Trąbczyn and Łukom is pending before the Crown Tribunal between the same parties, and only the fixing of that bo"
+  },
+  {
+   "file": "units/app536045/about_de.md",
+   "line": 13,
+   "text": "**Die Parteien.** Katarzyna Prusimska, geborene Rozdrażewska, eine Witwe, tritt mit Joseph Puchalski durch Albert Żurawski auf; Stanisław Ścibor Chełmski mit einem Czajkowski durch Ignatius Byszewski."
+  },
+  {
+   "file": "units/app536045/about_de.md",
+   "line": 15,
+   "text": "**Das Zeugenverhör.** Das Gericht befindet, dass sich die Ansprüche ohne beeidete Aussagen nicht entscheiden lassen. Es weist jede Seite an, ihre Zeugen noch während der Sitzung vorzuführen, und besti"
+  },
+  {
+   "file": "units/app536045/about_de.md",
+   "line": 17,
+   "text": "**Was die Aussagen ergaben.** 1761 schickte die Prusimska Pottaschebrenner mit Pottasche auf den Weg; wann diese hergestellt worden war, steht nicht fest. Chełmski, der nach Posen reiste, traf sie nah"
+  },
+  {
+   "file": "units/app536045/about_de.md",
+   "line": 19,
+   "text": "**Das Dekret.** Das Gericht entscheidet den Anspruch nicht. Der Streit um die Grenze zwischen Trąbczyn und Łukom ist zwischen denselben Parteien vor dem Krontribunal anhängig, und erst die Festlegung "
+  }
+ ],
+ "app536046-1": [
+  {
+   "file": "units/app536046/about.md",
+   "line": 13,
+   "text": "**The claim.** At the land court's sitting at Konin on 20 October 1777 Stanisław Chełmski, heir of Łukomia, demanded that Antoni Prusimski, Starost of Niszczewice, produce the \"so-called boundary act\""
+  },
+  {
+   "file": "units/app536046/about.md",
+   "line": 15,
+   "text": "**The answer.** Prusimski answered with a search of his own, made at the municipal court of Brześć in Kuyavia on 10 October 1777 and entered at Konin on 16 October. It shows that the commission's decr"
+  },
+  {
+   "file": "units/app536046/about.md",
+   "line": 17,
+   "text": "**The decree.** Rights, settlements and decrees must be brought in for entry in their own province. The court therefore orders Prusimski to bring the decree to the municipal court records at Konin wit"
+  },
+  {
+   "file": "units/app536046/about_de.md",
+   "line": 13,
+   "text": "**Die Klage.** Stanisław Chełmski, Erbherr von Łukomia, Kläger, durch Melchior Krzyzanowski, gegen Antoni Prusimski, Starost von Niszczewice, geladen und persönlich anwesend. Chełmski verlangt, dass P"
+  },
+  {
+   "file": "units/app536046/about_de.md",
+   "line": 15,
+   "text": "**Die Antwort.** Prusimski legt, um sich von der Forderung zu befreien, eine eigene Nachsuche vor, die am 10. Oktober 1777 beim Burggericht Brześć in Kujawien vorgenommen und am 16. Oktober in Konin e"
+  },
+  {
+   "file": "units/app536046/about_de.md",
+   "line": 17,
+   "text": "**Das Dekret.** Rechte, Vergleiche und Dekrete müssen in der eigenen Woiwodschaft zur Eintragung vorgelegt werden. Das Gericht verpflichtet deshalb Prusimski, das Dekret binnen vier Wochen zu den Burg"
+  }
+ ],
+ "app536046-2": [
+  {
+   "file": "reference/connections.yml",
+   "line": 493,
+   "text": "- uid: app536046-2"
+  },
+  {
+   "file": "reference/genealogy.yml",
+   "line": 276,
+   "text": "source: \"app536045-1; app53150kaliszgr414-1; app536046-2; app53170koningr117-4\""
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 184,
+   "text": "url: /documents/app536046/2/"
+  },
+  {
+   "file": "site/_data/timeline.yml",
+   "line": 226,
+   "text": "url: /documents/app536046/2/"
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 59,
+   "text": "([das Dekret]({{ '/documents/app536046/2/' | relative_url }}))."
+  },
+  {
+   "file": "site/de/epochen/prusimski-boundary.md",
+   "line": 71,
+   "text": "([der Prozess]({{ '/documents/app536046/2/' | relative_url }}))."
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 54,
+   "text": "([the decree]({{ '/documents/app536046/2/' | relative_url }}))."
+  },
+  {
+   "file": "site/eras/prusimski-boundary.md",
+   "line": 65,
+   "text": "([the suit]({{ '/documents/app536046/2/' | relative_url }}))."
+  },
+  {
+   "file": "units/app536046/about.md",
+   "line": 19,
+   "text": "**The debt bought from Tracholz.** In a second suit between the same parties Chełmski sued under a transfer acknowledged at the municipal court of Pyzdry in 1768, by which the merchant Jan Tracholz ma"
+  },
+  {
+   "file": "units/app536046/about_de.md",
+   "line": 19,
+   "text": "**Der nächste Eintrag: die von Tracholz gekaufte Forderung.** Der Eintrag Nr. 17 betrifft dieselben Parteien. Chełmski klagt aus einer Übertragung, die 1768 vor dem Burggericht Pyzdry anerkannt wurde:"
+  }
+ ],
+ "app536047-1": [
+  {
+   "file": "units/app536047/about.md",
+   "line": 13,
+   "text": "**Standing.** At the land court's sitting at Konin in October 1783 Chełmski held the judgment of 1780 against Prusimski. Prusimski could not show his right to be heard and left it to the court, which "
+  },
+  {
+   "file": "units/app536047/about.md",
+   "line": 15,
+   "text": "**The inquiry.** Because the cause concerned acts of violence, both parties had witnesses examined on oath [[1]]."
+  },
+  {
+   "file": "units/app536047/about.md",
+   "line": 17,
+   "text": "**What the court finds.** Men serving Prusimski's household came from Trąbczyn, off their road, to the deserted settlement of Smoleniec, which belongs to Chełmski's Łukom. They asked the Olęder settle"
+  },
+  {
+   "file": "units/app536047/about.md",
+   "line": 19,
+   "text": "**The decree.** The acts were done on Chełmski's ground. The inquiry does not show whether Prusimski knew of them or ordered them, and only the coachman Józef and the under-coachman Walenty are accuse"
+  },
+  {
+   "file": "units/app536047/about_de.md",
+   "line": 13,
+   "text": "**Das Recht, gehört zu werden.** Chełmski, Kläger, vertreten durch Józef Stablewski, hält Prusimski, dem Geladenen, die Verurteilung von 1780 entgegen. Prusimski weist sein Recht, gehört zu werden, ni"
+  },
+  {
+   "file": "units/app536047/about_de.md",
+   "line": 15,
+   "text": "**Die Untersuchung.** Weil es um Gewalttaten geht, ordnet das Gericht an, dass beide Parteien Zeugen unter Eid vernehmen, mit vorher ausgetauschten schriftlichen Fragen. Beide beschwören, dass ihre Ze"
+  },
+  {
+   "file": "units/app536047/about_de.md",
+   "line": 17,
+   "text": "**Was das Gericht feststellt.** Leute im Dienst des Hofes Prusimskis kamen aus Trąbczyn, vom Weg abgeirrt, zur Wüstung Smoleniec, die zu Chełmskis Łukom gehört. Sie fragten den Olęder Jan Kłonica, wem"
+  },
+  {
+   "file": "units/app536047/about_de.md",
+   "line": 19,
+   "text": "**Das Dekret.** Die Taten geschahen auf Chełmskis Grund. Die Untersuchung zeigt nicht, ob Prusimski davon wusste oder sie befahl, und beschuldigt sind nur der Kutscher Józef und der Unterkutscher Wale"
+  }
+ ],
+ "oe1bu14526-29": [
+  {
+   "file": "reference/english_corrections.yml",
+   "line": 185,
+   "text": "- {pad: oe1bu14526-029, page: 5, find: \"mpp.\", replace: \"(own hand).\", why: \"mpp.: Latin abbreviation (manu propria) given in English\"}"
+  }
+ ]
+}

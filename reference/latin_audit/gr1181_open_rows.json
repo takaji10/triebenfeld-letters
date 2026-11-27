@@ -1,0 +1,788 @@
+{
+ "note": "The open spot sheet of Poznan Gr.1181 (units/app5320pozgr1181/intake/spot_rows.py, 2026-10-26), taken over by the Latin audit at the editor's word (2026-11-27, \"You can try it\"). Each row is read first on the original scan; what the page settles is applied as a row of intake/latin_audit.json, what it does not goes on the audit's one sheet. The two Principles rows are answered in part by the ruling of 2026-11-27 (EDITORIAL_RULES): an ending certain from its sentence is bracketed (Nieszczevicen[sem]), an uncertain one keeps the editor's mark; the 108 withdrawn completions (intake/split_and_settle.py) are not re-applied wholesale but re-derived one by one on the scans.",
+ "rows": [
+  {
+   "id": "heading_year",
+   "section": "Dates",
+   "page_id": "0161_a",
+   "y_hint": 130,
+   "question": "The register heading \"4ta Martii\" - does a year follow it on the page?",
+   "options": [
+    "no year",
+    "1785",
+    "1786",
+    "other year (write it)"
+   ],
+   "note": "The entry records an actum of 29 March 1784 (the weekday formula fits 1784 exactly, and its own narrative says \"anno immediate elapso 1783\" for the December terminus - the year 1783 now read on the page). If the heading carries a year, it says when the relation was registered."
+  },
+  {
+   "id": "termilis",
+   "section": "Names",
+   "page_id": "0163_a",
+   "y_hint": 2050,
+   "question": "The estate name before \"Kanino\" - read it (\"Termilis\"? \"Ternilis\"?)",
+   "options": [
+    "Ternilis",
+    "Termilis",
+    "other (write it)"
+   ],
+   "note": "It stands again on 163v (\"Bona Ternilis[?] Kanino Swiątniki et Jaryszki\"), disposed of in other hands before 1729. Read the letters."
+  },
+  {
+   "id": "odechowski",
+   "section": "Names",
+   "page_id": "0163_b",
+   "y_hint": 2280,
+   "question": "The husband of Victoria in \"3tio voto ... Odechowski\" - read the word",
+   "options": [
+    "Caroli",
+    "Michaeli",
+    "other (write it)"
+   ],
+   "note": "On 164v the same couple stands as \"Magnificorum Caroli et Victoriae itidem de Prusimskie Odechowskich conjugum\". If the word here is \"Michaeli\", the two passages disagree and the genealogy follows the better attested one."
+  },
+  {
+   "id": "zabriski",
+   "section": "Names",
+   "page_id": "0163_b",
+   "y_hint": 2350,
+   "question": "The name after \"Magnifici Casimiri\" - Mariana's second husband",
+   "options": [
+    "Zabriski",
+    "Zawadzki",
+    "other (write it)"
+   ],
+   "note": "\"subalterno connubio Magnifici Casimiri Zabriski[?] Judicio Terrestris Brestensis\" - the surname to read."
+  },
+  {
+   "id": "strzalko",
+   "section": "Names",
+   "page_id": "0163_b",
+   "y_hint": 980,
+   "question": "The name after \"a succ~oribus\" - who held Szetlewek before Golinski?",
+   "options": [
+    "Strzałkowski",
+    "Strzałkow + other word",
+    "other (write it)"
+   ],
+   "note": "\"a succ~oribus Strzałko[?]iamis[?]\" - the two words after \"successoribus\" both stand open."
+  },
+  {
+   "id": "rzekicka",
+   "section": "Names",
+   "page_id": "0166_a",
+   "y_hint": 1300,
+   "question": "The widow's name and her husband's - \"Generosae Rzek[?]icka olim Generosi Jacobi Rzechicki[?]\"",
+   "options": [
+    "Rzekucka / Rzechicki",
+    "Raczycka / Raczycki",
+    "other (write it)"
+   ],
+   "note": "A Raczycki family stands in the entry already (a load of 7,000 fl.); if these are they, the index joins them."
+  },
+  {
+   "id": "obiesierski",
+   "section": "Names",
+   "page_id": "0166_a",
+   "y_hint": 1750,
+   "question": "The husband of Apollonia - \"Generosi Sigismundi Obiesierski[?]\"",
+   "options": [
+    "Obiesierski",
+    "Oborski",
+    "other (write it)"
+   ],
+   "note": "The surname to read."
+  },
+  {
+   "id": "obierunskie",
+   "section": "Names",
+   "page_id": "0166_a",
+   "y_hint": 2450,
+   "question": "The family name - \"a Generosis Obierun[?]skie\" (it stands twice)",
+   "options": [
+    "Obierzunski",
+    "Obierunski",
+    "other (write it)"
+   ],
+   "note": "The family that released the 6,000 fl. to the Trąmpczyńskis in 1727."
+  },
+  {
+   "id": "keszycki",
+   "section": "Names",
+   "page_id": "0164_b",
+   "y_hint": 420,
+   "question": "The name after \"successoribus\" - \"Kęszy[?]ciami[?]\"",
+   "options": [
+    "Kęszyckiami",
+    "Kęszygórami",
+    "other (write it)"
+   ],
+   "note": "The successors holding the 30,000 fl. charge on Pawłowo / Zernik."
+  },
+  {
+   "id": "schedas_word",
+   "section": "Names",
+   "page_id": "0164_a",
+   "y_hint": 1700,
+   "question": "The word before \"schaedas trinas\" - read it",
+   "options": [
+    "[nothing - just schedas]",
+    "tres",
+    "other (write it)"
+   ],
+   "note": "\"Fratram natu majorem [?]sc[h/t?]aedas trinas ... porrexisse\" - what stands before \"schaedas\"?"
+  },
+  {
+   "id": "ittis",
+   "section": "Names",
+   "page_id": "0164_a",
+   "y_hint": 2500,
+   "question": "The word after \"Se~ Rae~\" - the office of Paul Prusimski",
+   "options": [
+    "Succamararii",
+    "Subthesaurarii",
+    "other (write it)"
+   ],
+   "note": "\"Se~ Rae~ [?]ittis Fratrum intermedium\" - on 162 the same man is \"Succamarariis\" (podskarbi). Read what stands here."
+  },
+  {
+   "id": "costensem",
+   "section": "Names",
+   "page_id": "0165_a",
+   "y_hint": 2820,
+   "question": "The court of the Oporowo condescensio - \"actis Castrensis Costensem[?]\"",
+   "options": [
+    "Costinens[ibus?]",
+    "Gostinens[ibus?]",
+    "other (write it)"
+   ],
+   "note": "Oporowo lay in the Poznań palatinate; read the court's name."
+  },
+  {
+   "id": "skoli",
+   "section": "Names",
+   "page_id": "0167_b",
+   "y_hint": 300,
+   "question": "The estate name - \"in Fundo Bonorum Skoli[s?]\"",
+   "options": [
+    "Skoki",
+    "Skoli[n]i",
+    "other (write it)"
+   ],
+   "note": "The grounds where the condescensio termini were held before the decree of Gniezno remitted the cause. Read the name."
+  },
+  {
+   "id": "flottowa",
+   "section": "Names",
+   "page_id": "0167_b",
+   "y_hint": 800,
+   "question": "The name after \"Magnificam\" - \"[Fl/H?]ottowa\"",
+   "options": [
+    "Flottowa",
+    "Hottowa",
+    "other (write it)"
+   ],
+   "note": "She stands beside the Radoliński successors disputing the letter of 1736. Read the name."
+  },
+  {
+   "id": "mokronos",
+   "section": "Names",
+   "page_id": "0167_b",
+   "y_hint": 850,
+   "question": "The village of Peter Florkiewicz - \"de Villa Mokronos[??]\"",
+   "options": [
+    "Mokronosi",
+    "Mokronosy",
+    "other (write it)"
+   ],
+   "note": "Read the ending of the village name."
+  },
+  {
+   "id": "lubraniecki",
+   "section": "Names",
+   "page_id": "0167_b",
+   "y_hint": 2350,
+   "question": "The name of the Kalisz chamber judge - \"Magnificis Lu[s?]br[?]co Bogdanski\"",
+   "options": [
+    "Lubraniecki Bogdański",
+    "Lubomirski Bogdański",
+    "other (write it)"
+   ],
+   "note": "He took part with Theresia née Rozdrażewska in the act of 3 June 1782. Read both name words."
+  },
+  {
+   "id": "marszlyn",
+   "section": "Names",
+   "page_id": "0167_b",
+   "y_hint": 2900,
+   "question": "Joanna's family name - \"Marszłynowna[?]\" (the mother of Katarzyna Rozdrażewska)",
+   "options": [
+    "Marszłynówna",
+    "other (write it)"
+   ],
+   "note": "A patronymic in -ówna would be the only one in the entry. Read the letters."
+  },
+  {
+   "id": "sadi",
+   "section": "Names",
+   "page_id": "0167_b",
+   "y_hint": 3000,
+   "question": "The word after \"Feliciani Parys\" - \"sa[is/m?]di\"?",
+   "options": [
+    "secundi",
+    "samdi",
+    "other (write it)"
+   ],
+   "note": "The sense points to \"secundi (voti)\" - of her second marriage, to Karol Rozdrażewski - after \"primi ... Feliciani Parys\". Read the letters."
+  },
+  {
+   "id": "nierzychow_sum",
+   "section": "Sums",
+   "page_id": "0162_a",
+   "y_hint": 1550,
+   "question": "The widow Nierzychowska's load - \"[?]ginta millium fp\"",
+   "options": [
+    "octoginta (80,000)",
+    "triginta (30,000)",
+    "other (write it)"
+   ],
+   "note": "The same widow's claim is \"Triginta millium fp\" on p. 167, and on 164 her load is \"Triginta Millium fp\". If the page says octoginta here, the scribe slipped; if triginta, the reading is settled."
+  },
+  {
+   "id": "triginta_veto",
+   "section": "Sums",
+   "page_id": "0162_a",
+   "y_hint": 1830,
+   "question": "The word after \"nongentorum Triginta\" - \"veto[?]\"?",
+   "options": [
+    "octo (41,938 fl.)",
+    "other (write it)"
+   ],
+   "note": "The share of each fraternal caput: 41,930 fl. + this word. \"octo\" would complete the figure."
+  },
+  {
+   "id": "kowski_name",
+   "section": "Sums",
+   "page_id": "0162_a",
+   "y_hint": 1680,
+   "question": "The name before \"-kowski\" (a load of 700 fl.)",
+   "options": [
+    "(read the name - write it)",
+    "Zaleski again",
+    "other (write it)"
+   ],
+   "note": "\"Generos[?] [?]kowski septingentorum fp\" - the surname is cut at its start. Read what stands."
+  },
+  {
+   "id": "bowski_name",
+   "section": "Sums",
+   "page_id": "0162_a",
+   "y_hint": 1730,
+   "question": "The name before \"-bowski\" (a load of 666 fl. g. 20)",
+   "options": [
+    "(read the name - write it)",
+    "other (write it)"
+   ],
+   "note": "\"Generos[?] [?]bowski sexcentorum sexuginta sex fl.\" - read the surname."
+  },
+  {
+   "id": "money_formula",
+   "section": "Sums",
+   "page_id": "0162_a",
+   "y_hint": 700,
+   "question": "The money formula after the figures - here \"sex tlor~[??] ge~[?]\"",
+   "options": [
+    "flor~ gross~",
+    "fl. gr.",
+    "other (write it)"
+   ],
+   "note": "Elsewhere the entry writes \"fl. g~ 20 Polonicalium\" and \"flor~ gros~ 5 Polon~\". Read what stands in this line (the same question covers \"fl. gn[?] 20\" two lines below)."
+  },
+  {
+   "id": "pawlowa_word",
+   "section": "Sums",
+   "page_id": "0162_a",
+   "y_hint": 1900,
+   "question": "The word before \"Pawłowa\" - \"ex [?]tio Pawłowa\"",
+   "options": [
+    "praedio",
+    "fund[o]",
+    "other (write it)"
+   ],
+   "note": "The 12,000 fl. charge \"from the ... of Pawłowa\" - read the word."
+  },
+  {
+   "id": "reponidem",
+   "section": "Words",
+   "page_id": "0162_b",
+   "y_hint": 1230,
+   "question": "\"quietatio ... non reponi[dem?]\" - the verb form",
+   "options": [
+    "reponendam",
+    "repositam",
+    "other (write it)"
+   ],
+   "note": "The quietation of the 3,500 ducats and the silver was not brought back into court. Read the ending."
+  },
+  {
+   "id": "procet",
+   "section": "Words",
+   "page_id": "0162_b",
+   "y_hint": 1400,
+   "question": "\"procet[?] divisionem perfecerant et procet[?] Decretum\" - the word (it stands twice)",
+   "options": [
+    "profectum",
+    "praecise",
+    "other (write it)"
+   ],
+   "note": "Read the word: the division was completed \"in that quality and quantity\" ..."
+  },
+  {
+   "id": "quirrimo",
+   "section": "Words",
+   "page_id": "0162_b",
+   "y_hint": 1750,
+   "question": "\"nulli casui fortuito subjectus quirrimo[?]\" - the word",
+   "options": [
+    "quirimo",
+    "usurario",
+    "other (write it)"
+   ],
+   "note": "The sums had out-run their provisions for more than sixty years; read the word after \"subjectus\"."
+  },
+  {
+   "id": "quani",
+   "section": "Words",
+   "page_id": "0163_a",
+   "y_hint": 500,
+   "question": "\"libertatemque sui a quani[?] eorundem successorum impetitione\" - the word",
+   "options": [
+    "quanta",
+    "quavis",
+    "other (write it)"
+   ],
+   "note": "Read the word after \"a\"."
+  },
+  {
+   "id": "brtis",
+   "section": "Words",
+   "page_id": "0164_a",
+   "y_hint": 1980,
+   "question": "The word between \"Oporowa\" and \"Oporowka\" - \"[br?]tis\"",
+   "options": [
+    "sortis",
+    "cum sortibus",
+    "other (write it)"
+   ],
+   "note": "The second scheda lists \"Oporowa [br?]tis Oporowka Kałowa\" - the Oporowo with its parts Oporówka and Kałowo. Read the word."
+  },
+  {
+   "id": "hisc_e",
+   "section": "Words",
+   "page_id": "0162_a",
+   "y_hint": 300,
+   "question": "\"liberi pronunciatis, hisc[e?] partibus negotium inducere jubet\" - the word",
+   "options": [
+    "hisce",
+    "ipsis",
+    "other (write it)"
+   ],
+   "note": "Read the word before \"partibus\"."
+  },
+  {
+   "id": "auguratem",
+   "section": "Words",
+   "page_id": "0161_b",
+   "y_hint": 950,
+   "question": "\"terminus ... in augurat[em?] intercessit\" - the word",
+   "options": [
+    "augurationem",
+    "augustam",
+    "other (write it)"
+   ],
+   "note": "The summons term lapsed \"in ...\" - read the word."
+  },
+  {
+   "id": "addidem",
+   "section": "Words",
+   "page_id": "0161_b",
+   "y_hint": 2700,
+   "question": "\"adjudante et addi[dem?] mae[s?] ad prostrandum Juramentum\" - the two words",
+   "options": [
+    "(read them - write it)",
+    "other (write it)"
+   ],
+   "note": "Before the oath was taken. Read both words."
+  },
+  {
+   "id": "adpsit",
+   "section": "Words",
+   "page_id": "0161_b",
+   "y_hint": 1800,
+   "question": "\"aliquod documenta ad[?]psit et subscripsit\" - the verb",
+   "options": [
+    "adhaesit",
+    "adspexit",
+    "other (write it)"
+   ],
+   "note": "He attached some documents to his summary and subscribed. Read the letters in the middle."
+  },
+  {
+   "id": "minipali",
+   "section": "Words",
+   "page_id": "0162_a",
+   "y_hint": 480,
+   "question": "\"agentibus ulteri[us?] in minipali[?] negotio\" - the word after \"in\"",
+   "options": [
+    "principali",
+    "minipali",
+    "other (write it)"
+   ],
+   "note": "The session continues \"in the ... business\". \"principali\" is proposed from sense; read the letters."
+  },
+  {
+   "id": "go_naniae",
+   "section": "Words",
+   "page_id": "0164_a",
+   "y_hint": 280,
+   "question": "\"Feria 2da ante Festum Assumptionis in actum[?] Go[?]naniae[?] anno 1737\" - the two words",
+   "options": [
+    "(read them - write it)",
+    "other (write it)"
+   ],
+   "note": "The complanatio of Mariana's dowry was levied at Poznań on the Monday before the Assumption. Read the two words after \"in actum\"."
+  },
+  {
+   "id": "eisneunt",
+   "section": "Words",
+   "page_id": "0167_a",
+   "y_hint": 1000,
+   "question": "\"transactionesque posteriores praemissam summam non eisneunt[?]\" - the verb",
+   "options": [
+    "tangunt",
+    "eunt",
+    "other (write it)"
+   ],
+   "note": "The later transactions do not ... the sum of 30,000 fl. Read the verb."
+  },
+  {
+   "id": "hendo",
+   "section": "Words",
+   "page_id": "0167_a",
+   "y_hint": 250,
+   "question": "\"portionem Maturnam extra hendo[?]\" - the word",
+   "options": [
+    "[h]endo",
+    "ordinem",
+    "other (write it)"
+   ],
+   "note": "Read the word after \"extra\"."
+  },
+  {
+   "id": "compin",
+   "section": "Words",
+   "page_id": "0167_a",
+   "y_hint": 380,
+   "question": "\"si Judicio suo co[m/ns]pin[dem?]\" - the word",
+   "options": [
+    "comprend[er]e",
+    "compingere",
+    "other (write it)"
+   ],
+   "note": "Read the word after \"co\"."
+  },
+  {
+   "id": "arbitatem",
+   "section": "Words",
+   "page_id": "0167_a",
+   "y_hint": 1450,
+   "question": "\"Judicium Arbita[tem?]\" - the word",
+   "options": [
+    "arbitratum",
+    "arbitri",
+    "other (write it)"
+   ],
+   "note": "Read the ending."
+  },
+  {
+   "id": "insto",
+   "section": "Words",
+   "page_id": "0167_a",
+   "y_hint": 1900,
+   "question": "\"anno 1736to insto[?] profectitiam\" - the two words",
+   "options": [
+    "(read them - write it)",
+    "other (write it)"
+   ],
+   "note": "Read what stands before \"profectitiam\"."
+  },
+  {
+   "id": "subtam",
+   "section": "Words",
+   "page_id": "0166_a",
+   "y_hint": 700,
+   "question": "\"pro debito subta~am Golinscianam maturnam gravante\" - the word",
+   "options": [
+    "subnatam",
+    "substantam",
+    "other (write it)"
+   ],
+   "note": "Read the word: the maternal Golinscian debt bearing down."
+  },
+  {
+   "id": "ressibilibus",
+   "section": "Words",
+   "page_id": "0166_a",
+   "y_hint": 1350,
+   "question": "\"res[s?]ibilibus ad varias [E?]ulesias\" - the two words",
+   "options": [
+    "responsalibus / ecclesiis",
+    "other (write it)"
+   ],
+   "note": "The inscriptiones of Oporowo ran to various churches. Read both words."
+  },
+  {
+   "id": "exdiuim",
+   "section": "Words",
+   "page_id": "0166_b",
+   "y_hint": 1100,
+   "question": "\"Determinata ... Maturnae substantiae exdiuim[?]\" - the word",
+   "options": [
+    "extra",
+    "ex divisione",
+    "other (write it)"
+   ],
+   "note": "Read the word after \"substantiae\"."
+  },
+  {
+   "id": "illas_manente",
+   "section": "Words",
+   "page_id": "0166_b",
+   "y_hint": 1250,
+   "question": "\"quo ad fortunam utramque illa[s/m?] manente\" - the word",
+   "options": [
+    "illas",
+    "illam",
+    "other (write it)"
+   ],
+   "note": "Read the word after \"utramque\"."
+  },
+  {
+   "id": "pro_mimixta",
+   "section": "Words",
+   "page_id": "0166_b",
+   "y_hint": 1600,
+   "question": "\"soli donum binorum et midii pro[??]\" - the two letters",
+   "options": [
+    "(read them - write it)",
+    "other (write it)"
+   ],
+   "note": "After \"duorum et medii\" - read what stands before \"mimixta\"."
+  },
+  {
+   "id": "summus",
+   "section": "Words",
+   "page_id": "0167_b",
+   "y_hint": 1500,
+   "question": "\"in uni originalis summ[us?]\" - the ending",
+   "options": [
+    "summus",
+    "summa",
+    "other (write it)"
+   ],
+   "note": "Read the ending of the word."
+  },
+  {
+   "id": "scriptuis",
+   "section": "Words",
+   "page_id": "0167_b",
+   "y_hint": 1100,
+   "question": "\"numeraris scriptu[?]is\" - the ending",
+   "options": [
+    "scripturis",
+    "scriptis",
+    "other (write it)"
+   ],
+   "note": "Read the ending."
+  },
+  {
+   "id": "differ",
+   "section": "Words",
+   "page_id": "0167_b",
+   "y_hint": 1150,
+   "question": "\"differ[?]itatem scriptionis\" - the word",
+   "options": [
+    "diversitatem",
+    "differentiam",
+    "other (write it)"
+   ],
+   "note": "The hand of the letter of 1736 was not that of the late Andrew Radoliński. Read the word."
+  },
+  {
+   "id": "gmae",
+   "section": "Words",
+   "page_id": "0167_b",
+   "y_hint": 2000,
+   "question": "\"post Dominicam [?]gmae~ anno 1745\" - the word",
+   "options": [
+    "Gaudete",
+    "Judica",
+    "other (write it)"
+   ],
+   "note": "The Sunday before which Katarzyna's 40,000 fl. were inscribed. Read the word."
+  },
+  {
+   "id": "prodisse",
+   "section": "Words",
+   "page_id": "0167_b",
+   "y_hint": 2450,
+   "question": "\"[?]bus~ pro[?]isse\" - the two words",
+   "options": [
+    "(read them - write it)",
+    "other (write it)"
+   ],
+   "note": "Before \"verum hoc Decreto Condicionali\" - read what stands."
+  },
+  {
+   "id": "subdapiferida",
+   "section": "Words",
+   "page_id": "0161_a",
+   "y_hint": 500,
+   "question": "\"Dominico Zboinatis Subdapifinda[?] Bidgostiensi\" - the office form and the family name",
+   "options": [
+    "Subdapiferida",
+    "other (write it)"
+   ],
+   "note": "The scribe's office forms run -ida: \"Castellanida\" here, \"Dapiferidae\" in Konin Gr.118, \"Thesaurarida\" in Gr.117. Read the letters after \"Subdapifer\" and the name before it."
+  },
+  {
+   "id": "p_diversae",
+   "section": "Proposals",
+   "page_id": "0164_b",
+   "y_hint": 700,
+   "question": "\"dive[n/r?]ae formae\" - proposed: \"diversae formae\" - rule",
+   "options": [
+    "diversae",
+    "divinae",
+    "other (write it)"
+   ],
+   "note": "The silverware of the late Stephen Paul and Antoni, \"of ... form\"."
+  },
+  {
+   "id": "p_conges",
+   "section": "Proposals",
+   "page_id": "0163_b",
+   "y_hint": 2500,
+   "question": "\"[?]ges~\" (three places) - proposed: \"con~ges~\" (conjuges) - rule",
+   "options": [
+    "con~ges~",
+    "other (write it)"
+   ],
+   "note": "The couples of the complanatio lines; the sibling units write \"conjuges\" unflagged."
+  },
+  {
+   "id": "p_solutam",
+   "section": "Proposals",
+   "page_id": "0165_b",
+   "y_hint": 850,
+   "question": "\"[lu?]atam\" - proposed: \"solutam\" (\"as if paid over by Kałowski\") - rule",
+   "options": [
+    "solutam",
+    "l[u]atam",
+    "other (write it)"
+   ],
+   "note": "Read the letters before \"atam\"."
+  },
+  {
+   "id": "p_sororem",
+   "section": "Proposals",
+   "page_id": "0163_b",
+   "y_hint": 2600,
+   "question": "\"fororem[?]\" - proposed: \"sororem\" (\"this last sister\") - rule",
+   "options": [
+    "sororem",
+    "fororem",
+    "other (write it)"
+   ],
+   "note": "Mariana is the third daughter; \"soror\" fits the sense. Read the first letter."
+  },
+  {
+   "id": "p_kotarbski",
+   "section": "Proposals",
+   "page_id": "0164_a",
+   "y_hint": 2050,
+   "question": "\"Kołarbski[?]\" - proposed: \"Kotarbski\" (the family as on p. 165) - rule",
+   "options": [
+    "Kotarbski",
+    "Kołarbski",
+    "other (write it)"
+   ],
+   "note": "Read the fourth letter (ł or t)."
+  },
+  {
+   "id": "p_alterius",
+   "section": "Proposals",
+   "page_id": "0163_a",
+   "y_hint": 1430,
+   "question": "\"altenius [post/parte?]\" - proposed: \"alterius post\" (the second wadion, made after the sterile death of 1708) - rule",
+   "options": [
+    "alterius post",
+    "altenius post",
+    "other (write it)"
+   ],
+   "note": "\"altenius\" is not a Latin word. Read both words."
+  },
+  {
+   "id": "p_actis",
+   "section": "Proposals",
+   "page_id": "0167_b",
+   "y_hint": 2050,
+   "question": "\"coram autis[?] Castrensis\" - proposed: \"coram actis Castrensis\" - rule",
+   "options": [
+    "actis",
+    "autis",
+    "other (write it)"
+   ],
+   "note": "The formula \"coram actis Castrensis\" stands four times in the entry. Read the letters."
+  },
+  {
+   "id": "p_autem",
+   "section": "Proposals",
+   "page_id": "0164_a",
+   "y_hint": 1200,
+   "question": "\"jam autoni[?] indictionem\" - proposed: \"jam autem\" - rule",
+   "options": [
+    "autem",
+    "other (write it)"
+   ],
+   "note": "Read the word: \"now however the indiction ... was removed\"."
+  },
+  {
+   "id": "pr_nieszwiez",
+   "section": "Principles",
+   "page_id": "0161_a",
+   "y_hint": 1450,
+   "question": "The endings of \"Nieszczeviec-\" (the starost of Niszczewice, 12 places) were PROPOSED to be completed by the grammar of each sentence (dative -i, accusative -em, genitive -is), the scribe's stem kept - not applied; your fresh transcription keeps the doubts. Rule on the principle",
+   "options": [
+    "accept the completions (they go back in)",
+    "leave the doubts as they stand",
+    "review each on a later sheet"
+   ],
+   "note": "Sample rows: \"Capitaneo Niszczeviens[em?]\" here; \"Capitaneum Nieszczevice[m?]\" on 161v; \"in archivo ... Nieszczevicen[em?]\" on 161v. The same rule would complete ~100 other flagged case endings (the list with its witnesses: intake/split_and_settle.py)."
+  },
+  {
+   "id": "pr_changes",
+   "section": "Principles",
+   "page_id": null,
+   "y_hint": null,
+   "question": "The 108 readings applied in the morning session (case endings completed where the grammar admits one reading, formulas completed, the scribe's spellings kept) were WITHDRAWN when your fresh transcription of p. 161 kept the original doubts; they wait in intake/split_and_settle.py with the witness for each. Accept the lot (re-apply), or leave the text as you transcribed it?",
+   "options": [
+    "re-apply the lot",
+    "leave withdrawn",
+    "I will review the list before it stands",
+    "revert some (write which)"
+   ],
+   "note": "This row needs no scan - it rules on the principle and the record."
+  }
+ ]
+}
