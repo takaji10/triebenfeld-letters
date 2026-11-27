@@ -5406,3 +5406,20 @@ The commit "Holding pages to the rules: Oe 1 Bü 14526" (064634c7) left raw `>>>
   of its kind (the harvest has them, `reference/guide/formulas.yml`), not a sample; a formula is quoted from one
   named document.** The reader was itself wrong once ("praesente Economo" is attested, Konin Gr.117): its
   findings are checked before acting.
+
+## The Latin audit planned (2026-11-27)
+
+The editor asked for a full audit of the Latin transcriptions with the tilde forms expanded, and for the
+plan to say which public texts change with the corrections: `docs/LATIN_AUDIT_PLAN.md`, to-do t907. Two
+things learned while measuring it:
+- **Counting the Latin**: a document's language is in its holding's `rulings.yml` (`documents.language`)
+  or, failing that, the first of `languages:` in `unit.yml`; `dataset/letters.json` gives the text. Of
+  132 Latin documents, 31 are the Kodeks (printed, never corrected), so the audit is 101 documents on 191
+  pages.
+- **A correction is not finished when the transcription is right.** The same fact sits in the English,
+  both summaries, the holding page, the era essays, the timeline, the connections, the index patterns, the
+  dates and the reading guide's quotations. Each batch of corrections gets an impact list (the plan's
+  section 5) before anything is published.
+- The to-do builder has no link type for a file in `docs/`: name the file in the item's text and link a
+  unit or document instead.
+

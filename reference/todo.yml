@@ -91,18 +91,24 @@ items:
     label: Konin Gr.145
   nc: APP 53/21/0/-/Pyzdry Gr.115
   audit_note: The old text still listed Poznań Gr.1181 as missing; it is built (units/app5320pozgr1181).
-- id: t900-pyzdry-gr75-supply-files
-  group: APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
-  title: Put the Pyzdry Gr.75 scans, transcription and translation where the session can read them
-  kind: task
-  text: You ruled on 2026-11-26 that the correct folder is Inscriptiones [protocollon] 1768-1781 (the
-    Relationes 1768-1771 folder was a duplicate and is deleted), that its two scans are the whole extent,
-    that no cropping is needed, and that your transcription is used and checked. The cloud session cannot
-    read the J drive, so the two scans, your Latin transcription and your English translation have to be
-    in the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a desktop session.
-    Nothing further on the holding can start until they are.
-  options: []
-  links: []
+- id: t907-latin-audit
+  group: The Latin transcriptions, all court books
+  title: Rule on the plan for a full audit of the Latin transcriptions
+  kind: decision
+  text: You asked (2026-11-27) for a full audit of the Latin on the site, to find and fix transcription
+    errors and expand the ~ forms where certain, and for the plan to say which summaries, holding pages,
+    era essays and other texts must change with the corrections. The plan covers 101 Latin documents on
+    191 pages in 24 holdings (the Kodeks left out as printed text), two readers for every page, Claude
+    settling each finding, a spot sheet for what the page does not prove, and a script that lists every
+    public text a correction touches. It begins with a pilot on Konin Gr.115. The plan is docs/LATIN_AUDIT_PLAN.md; six questions in its section 8 need your answer first, the main one being how an expansion is written (Cit[ationes] or
+    Citt[ationes]).
+  options:
+  - Go ahead with the pilot on Konin Gr.115, my answers to section 8 attached
+  - Change the plan first
+  links:
+  - type: unit
+    slug: app53170koningr115
+    label: Konin Gr.115, the pilot
   nc: ''
   audit_note: ''
 - id: t906-jm-illustris-magnificus
@@ -1630,6 +1636,10 @@ items:
   nc: The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
   audit_note: ''
 done:
+- id: t900-pyzdry-gr75-supply-files
+  title: Put the Pyzdry Gr.75 scans, transcription and translation where the session can read them
+  date: '2026-11-26'
+  how: The editor uploaded the two scans and the Latin and English files to the session on 2026-11-26; the holding was built from them and published the same day.
 - id: t905-court-records-guide
   title: Rule on the plan for a newcomer's guide to the court books
   date: '2026-11-26'

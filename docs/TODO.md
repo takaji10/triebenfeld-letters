@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-89 open: 21 question, 23 decision, 25 task, 11 claude, 9 waiting.
+89 open: 21 question, 24 decision, 24 task, 11 claude, 9 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -55,15 +55,20 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       Concerns: [Konin Gr.145](/sources/app53170koningr145/)
       Full discussion: NEEDS_CONFIRMATION, "APP 53/21/0/-/Pyzdry Gr.115".
 
-## APP 53/21/0/-/Pyzdry Gr.75, Inscriptiones 1768-1781 (new holding)
+## The Latin transcriptions, all court books
 
-- [ ] **Put the Pyzdry Gr.75 scans, transcription and translation where the session can read them** (`t900-pyzdry-gr75-supply-files`, task). You ruled on 2026-11-26 that the correct folder is Inscriptiones [protocollon] 1768-1781
-      (the Relationes 1768-1771 folder was a duplicate and is deleted), that its two
-      scans are the whole extent, that no cropping is needed, and that your
-      transcription is used and checked. The cloud session cannot read the J drive, so
-      the two scans, your Latin transcription and your English translation have to be in
-      the repository (units/app5321pyzdrygr75/intake/) or the intake has to be run in a
-      desktop session. Nothing further on the holding can start until they are.
+- [ ] **Rule on the plan for a full audit of the Latin transcriptions** (`t907-latin-audit`, decision). You asked (2026-11-27) for a full audit of the Latin on the site, to find and fix
+      transcription errors and expand the ~ forms where certain, and for the plan to say
+      which summaries, holding pages, era essays and other texts must change with the
+      corrections. The plan covers 101 Latin documents on 191 pages in 24 holdings (the
+      Kodeks left out as printed text), two readers for every page, Claude settling each
+      finding, a spot sheet for what the page does not prove, and a script that lists
+      every public text a correction touches. It begins with a pilot on Konin Gr.115.
+      The plan is docs/LATIN_AUDIT_PLAN.md; six questions in its section 8 need your
+      answer first, the main one being how an expansion is written (Cit[ationes] or
+      Citt[ationes]).
+      Options: Go ahead with the pilot on Konin Gr.115, my answers to section 8 attached / Change the plan first
+      Concerns: [Konin Gr.115, the pilot](/sources/app53170koningr115/)
 
 ## Prusimski-era court books, 1589-1788
 
