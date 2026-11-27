@@ -54,3 +54,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summary
 
 The summary was written in German from the Latin and translated into English. Each of its four statements was then checked against the document. All held.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader on the original scans: the entry agrees with the page. The five prepared tilde expansions applied. The margin words "super Requisitionem" below the signature on leaf 323 verso are not transcribed (an office note).

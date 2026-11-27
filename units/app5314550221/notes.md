@@ -150,3 +150,7 @@ Each document is a copy and takes the date of what it copies. Documents 1, 2 and
 ### Summary and translation
 
 The summaries were written in German from the Latin and translated into English; each of their 80 statements was then checked against the text, and nothing in them rests on a word read with doubt. The English translation was made in the same session. Christian names are given in their Polish form; surnames and the names of places not identified stand as written.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader and a Sonnet blind reader on the original photographs; Claude settled on the bands. Five marks of doubt lifted (Odsuć, gadibus, Vito, Stenis, Casanis). Kept, where the blind reader read otherwise: suffragio, Czaten, Siemenci, Retch, Rasko, Dobrogosto, Tczenaczmy, Bechovien., transmitti.

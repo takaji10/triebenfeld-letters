@@ -29,3 +29,8 @@ changes:
   what: "The inquiry is on \"the contents of the protestations and of the terms\"; the parties' claims are \"joined\"."
   was: "regarding the contents of past matters and of sessions"
   now: "regarding the contents of the protestations and of the terms"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 673 verso: \"praevenire\" (the page ends -ire), and the toll is \"Thelonei\", not \"Thaelonei\". Latin audit."
+  was: "prope oppidum Pyzdry praevenisse ... apud notarium Thaelonei"
+  now: "prope oppidum Pyzdry praevenire ... apud notarium Thelonei"

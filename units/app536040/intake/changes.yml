@@ -37,3 +37,8 @@ changes:
   what: "Dates: the sitting opened on 26 January 1728; the hearing on the ground was set for 12 April 1728 (Monday after Misericordia Sunday). The decree of 1775 cites this decree and the testimony taken on it, and calls Krzysztof Prusimski the Starost's grandfather and the Antoni named here his uncle."
   was: "1728"
   now: "26 January 1728; Konin Gr.145, English pages 15, 18, 31, 109, 115, 121"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 373: the word left doubtful before \"curare\" is \"Levati\" on the page, not \"devehi\". Latin audit."
+  was: "ad bona Trąpczyn devehi[?] curare"
+  now: "ad bona Trąpczyn Levati curare"

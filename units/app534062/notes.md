@@ -164,3 +164,7 @@ The entry is filed as a report, in Latin, under the estates of Szetlew and Szetl
 The entry is the first text that tells Szetlew and Szetlewek apart: its "Szetlewko" is Szetlewek, its "Szetlewo" Szetlew. The editor confirmed this on 26 October 2026. With it, one earlier mention moved from Szetlewek to Szetlew: the row "Szetlewo z Częś: Jaroszew:" of the hearth-tax table (APP 53/64/0/-/Kalisz Tab.21), as the editors of the Kodeks identify the place. Two mentions are newly matched: the Kodeks's own gloss "Szetlewo" in its entries of 1173 and 1261.
 
 No event is added to the timeline: the entry names no party and bears directly on no owner.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader and a Sonnet blind reader on the original scan; Claude settled on band s07. Corrected: "Citt~ detulisse" for "praeterita[?] detulisse[?]" (the abbreviation as in the line above); "firma" with a lower-case f, which answers the open question Firma/Forma. The English should be read against "Citt~" in the impact sweep.

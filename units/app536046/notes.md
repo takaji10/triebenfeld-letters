@@ -82,3 +82,7 @@ The editor's English had been made from the first reading and marked ten places 
 ### Summary
 
 The summary was written in German from the Latin and translated into English. Each of its seven statements was then checked against the document. One was weakened, because the day of one search is not surely read; the rest held. The summary of the second entry has seven statements, checked the same way; all held.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader and a Sonnet blind reader on the original scans; Claude settled on band s06 of leaf 182. Corrected: the day of the Konin search is 20 October 1777, not 28. **Impact, after the editor's review:** the English of document 1 ("the 28th day of the month of October") and the dating notes in `rulings.yml` ("a search made later in that October") are to be revised: the search fell on the day the sitting opened. Thirteen prepared tilde expansions applied.

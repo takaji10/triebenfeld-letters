@@ -21,3 +21,8 @@ changes:
   what: "The office searched \"the books of reports, where papers brought in are received\"; the commissioners were brought \"onto the ground\" of the estates."
   was: "the Protocols of the Relation ... brought to the fund of those estates"
   now: "brought onto the ground of those estates"
+- importance: wording
+  new: "2026-11-27"
+  what: "Five tilde forms expanded where the case is certain: praesen[ti], praesen[tia], praesen[tis], Nieszczevicen[si], attinen[tiis]. Latin audit, expansion."
+  was: "praesen~ ... Nieszczevicen~ ... attinen~"
+  now: "praesen[ti] ... Nieszczevicen[si] ... attinen[tiis]"

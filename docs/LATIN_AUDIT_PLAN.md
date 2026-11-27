@@ -34,6 +34,15 @@ language), except the Kodeks:
 | Konin Gr.120 | 2026-11-27 | 2026-11-27: 1 correction, 10 expansions | 2026-11-27 |
 | Konin Gr.121 | 2026-11-27 | 2026-11-27: 4 corrections (one changes the English, after the review) | 2026-11-27 |
 | Konin Gr.136 (the Latin record only) | 2026-11-27 | 2026-11-27: 2 corrections | 2026-11-27 |
+| Kalisz Gr.414 | 2026-11-27 | 1 correction | 2026-11-27 |
+| Kalisz Gr.424 | 2026-11-27 | 5 expansions | 2026-11-27 |
+| Kalisz Gr.425 | 2026-11-27 | nothing to change in the Latin (one Polish reading, "kładamy", for the Polish audit) | 2026-11-27 |
+| Land court of Konin 53/6/0/-/17, 36 | 2026-11-27 | nothing proved: the 1589 and 1644 hands read "unsure" throughout | 2026-11-27 |
+| Land court of Konin 53/6/0/-/40 | 2026-11-27 | 1 correction | 2026-11-27 |
+| Land court of Konin 53/6/0/-/45 | 2026-11-27 | 2 corrections | 2026-11-27 |
+| Land court of Konin 53/6/0/-/46 | 2026-11-27 | 1 correction (a date: the 20th, not the 28th), 13 expansions | 2026-11-27 |
+| Land court of Kalisz 53/4/0/-/62 | 2026-11-27 | 2 corrections | 2026-11-27 |
+| The Ląd copy-book | 2026-11-27 | 5 doubts lifted | 2026-11-27 |
 | Oe 1 Bü 14526, the Latin deed | 1 | 5 | 965 | 0 | 0 | light |
 | **Total** | **101** | **191** | **32,653** | **837** | **510** | |
 

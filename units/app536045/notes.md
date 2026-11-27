@@ -134,3 +134,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summary
 
 The summary was written in German from the corrected Latin and translated into English. Each of its ten statements was then checked against the document. All held.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader and a Sonnet blind reader on the original scans; Claude settled on band s04 of leaf 673 verso. Corrected: "praevenire", "Thelonei". Not changed: "praesentibus eisdem" (the readers saw "partibus esse..." but could not read it), "quandoquidem" (the page has "quando q~", the transcription's written-out form).

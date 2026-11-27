@@ -25,3 +25,8 @@ changes:
   what: "Not compared with the scans: the middle of the recital of the Tribunal's decrees (the foot of leaf 402 and the head of leaf 402 verso, about 200 words)."
   was: "(not noted)"
   now: "units/app53150kaliszgr414/notes.md"
+- importance: wording
+  new: "2026-11-27"
+  what: "Leaf 403: \"Condescesionis\" as the clerk wrote it, without an n; the doubt \"[n?]\" is lifted. Latin audit, read on the original scan."
+  was: "in termino Condesce[n?]sionis"
+  now: "in termino Condescesionis"

@@ -1,0 +1,11 @@
+
+# What the Latin audit changed in this holding, for anyone who has written from the earlier text.
+# Read by pipeline/review/changes_page.py. importance: significant | fact | wording.
+
+unit: "app5314550221"
+changes:
+- importance: wording
+  new: "2026-11-27"
+  what: "Five marks of doubt lifted where the page is plain: Odsuć, gadibus (p. 13), Vito (p. 13), Stenis (p. 14), Casanis (p. 15). Latin audit."
+  was: "Odsuć[?] ... gadibus[?] ... Vito[?] ... Stenis[?] ... Casanis[?]"
+  now: "Odsuć ... gadibus ... Vito ... Stenis ... Casanis"

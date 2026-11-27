@@ -103,3 +103,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summary
 
 The summary was written in German from the corrected Latin and translated into English. Each of its twelve statements was then checked against the document. One was weakened, because the word for what was done with the hay is not surely read; the rest held.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader and a Sonnet blind reader on the original scans; Claude settled on band s06 of leaf 373. Corrected: "Levati" for the doubtful "devehi[?]". Not changed: the surname spelled Prusimski in the transcription, which both readers took for "Prusinski" (m and n are look-alikes here; a question for a later pass), "in ibidemque".

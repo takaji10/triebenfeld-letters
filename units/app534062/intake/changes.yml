@@ -1,0 +1,11 @@
+
+# What the Latin audit changed in this holding, for anyone who has written from the earlier text.
+# Read by pipeline/review/changes_page.py. importance: significant | fact | wording.
+
+unit: "app534062"
+changes:
+- importance: fact
+  new: "2026-11-27"
+  what: "Page 222: the messenger carried \"Citt~\", the citation, on the Thursday last past: your text's \"praeterita[?]\" is the abbreviation \"Citt~\", as in the line above, and \"detulisse\" is plain. The f of \"firma\" is lower-case, so the question Firma/Forma is answered: \"firma\". Latin audit."
+  was: "Feria Quinta proxima praeterita[?] detulisse[?] ... de Ju¬ ris [F?]irma"
+  now: "Feria Quinta proxima Citt~ detulisse ... de Ju¬ ris firma"

@@ -69,3 +69,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summary
 
 The summary was written in German from the Latin and Polish and translated into English. Each of its eight statements was then checked against the document. All held.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader and a Sonnet blind reader on the original scans; Claude settled on band s02 of leaf 403. Corrected: "Condescesionis" (the doubt lifted). The other findings were "unsure" names (Łomowa, Klinczper, Welner, Serlatkowski) and stay as transcribed.

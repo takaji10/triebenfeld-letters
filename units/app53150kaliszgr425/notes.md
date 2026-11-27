@@ -59,3 +59,7 @@ The English is the editor's own translation and was not made again. It was chang
 ### Summary
 
 The summary was written in German from the Polish and Latin and translated into English. Each of its six statements was then checked against the document. All held.
+
+## The Latin audit (2026-11-27)
+
+Read by a Sonnet led reader on the original scans. Nothing was proved against the transcription: the reader's findings were "unsure" readings of abbreviation strokes and of names, struck words rightly left out, and (Kalisz Gr.425) one Polish word, "kładamy" for "kłodamy", kept for the later Polish audit. The text stands as it was. The findings are in review/latin_audit/app53150kaliszgr425/reader_a.json (not committed).
