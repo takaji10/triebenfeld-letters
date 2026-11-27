@@ -1,0 +1,2739 @@
+{
+ "note": "Tilde expansions prepared in the cloud (2026-11-27) for the Latin audit (docs/LATIN_AUDIT_PLAN.md, section 11). Each was expanded twice, independently: the guide's draft (reference/guide/abbreviations_expanded.yml) and a blind Sonnet reader given only the sentence; only those both marked certain and agreed on are here, three disagreements settled by Claude, every group read by Claude. Rows are [page id, old, new, why], in the form latin_audit.py apply takes (EXPAND). \"ready\": one gap, the editor's form (Cit[ationes]). \"two_gaps\": wait on the editor's ruling on the bracketing of a contraction with two or more gaps (v[e]n[ien]tis). The desktop session copies a holding's rows into units/<slug>/intake/latin_audit.json, less any the page shows to be otherwise.",
+ "ready": {
+  "app53150kaliszgr424": [
+   [
+    "0323_a2",
+    "praesen~ utrum",
+    "praesen[ti] utrum",
+    "praesen~: praesenti (draft and blind reader agree)"
+   ],
+   [
+    "0323_a2",
+    "Nieszczevicen~",
+    "Nieszczevicen[si]",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0323_a2",
+    "attinen~",
+    "attinen[tiis]",
+    "attinen~: attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0323_a2",
+    "praesen~ per",
+    "praesen[tia] per",
+    "praesen~: praesentia (draft and blind reader agree)"
+   ],
+   [
+    "0323_a2",
+    "praesen~ ad",
+    "praesen[tis] ad",
+    "praesen~: praesentis (draft and blind reader agree)"
+   ]
+  ],
+  "app53170koningr115": [
+   [
+    "0037_a2",
+    "Castren~",
+    "Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0037_a2",
+    "Bidgosten~",
+    "Bidgosten[sibus]",
+    "Bidgosten~: Bidgostensibus (draft and blind reader agree)"
+   ],
+   [
+    "0242_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0242_a1",
+    "Trąmpczynen~",
+    "Trąmpczynen[ses]",
+    "Trąmpczynen~: Trąmpczynenses (draft and blind reader agree)"
+   ],
+   [
+    "0242_a1",
+    "praesen~",
+    "praesen[ti]",
+    "praesen~: praesenti (draft and blind reader agree)"
+   ]
+  ],
+  "app53170koningr116": [
+   [
+    "0090_a1",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0090_a1",
+    "Kovale~",
+    "Kovale[nsis]",
+    "Kovale~: Kovalensis (draft and blind reader agree)"
+   ],
+   [
+    "0090_a1",
+    "Niszczevicen~",
+    "Niszczevicen[sis]",
+    "Niszczevicen~: Niszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0096_a1",
+    "Int~",
+    "Int[er]",
+    "Int~: Inter (draft and blind reader agree)"
+   ],
+   [
+    "0132_a1",
+    "sibiq~",
+    "sibiq[ue]",
+    "sibiq~: sibique (draft and blind reader agree)"
+   ],
+   [
+    "0336_a1",
+    "Nieszczevice~",
+    "Nieszczevice[nsis]",
+    "Nieszczevice~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0336_a1",
+    "praetens~",
+    "praetens[um]",
+    "praetens~: praetensum (draft and blind reader agree)"
+   ]
+  ],
+  "app53170koningr117": [
+   [
+    "0083_a1",
+    "Niszczevicen~",
+    "Niszczevicen[sis]",
+    "Niszczevicen~: Niszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0055_a2",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0055_a2",
+    "Ma~antem",
+    "Ma[nifest]antem",
+    "Ma~antem: Manifestantem (draft and blind reader agree)"
+   ],
+   [
+    "0035_a2",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0035_a2",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0035_a2",
+    "editt~",
+    "edit[as]",
+    "editt~: editas (draft and blind reader agree)"
+   ],
+   [
+    "0035_a2",
+    "Nieszczevicen~",
+    "Nieszczevicen[si]",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0035_a2",
+    "attinen~",
+    "attinen[tiis]",
+    "attinen~: attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0035_a2",
+    "Cittone~",
+    "Cit[ati]one",
+    "Cittone~: Citatione (draft and blind reader agree)"
+   ],
+   [
+    "0035_a2",
+    "hippi~",
+    "hipp[ocaust]i",
+    "hippi~: hippocausti (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "Calissien~",
+    "Calissien[se]",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "editt~",
+    "edit[as]",
+    "editt~: editas (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "Litha~",
+    "Litha[niae]",
+    "Litha~: Lithaniae (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "Citt~ recte",
+    "Cit[ationis] recte",
+    "Citt~: Citationis (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "Coninen~",
+    "Coninen[se]",
+    "Coninen~: Coninense (draft and blind reader agree)"
+   ],
+   [
+    "0055_a1",
+    "ra~one",
+    "ra[ti]one",
+    "ra~one: ratione (draft and blind reader agree)"
+   ],
+   [
+    "0058_a1",
+    "Attinen~ sui",
+    "Attinen[tiis] sui",
+    "Attinen~: Attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a1",
+    "Attinen~ JM",
+    "Attinen[tiis] JM",
+    "Attinen~: Attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a1",
+    "Nieszczevicen~ haereditatis",
+    "Nieszczevicen[sis] haereditatis",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a1",
+    "Nieszczevicen~ conductos",
+    "Nieszczevicen[si] conductos",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0058_a1",
+    "Nieszczevicen~ Personas",
+    "Nieszczevicen[sis] Personas",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "Capitanei Nieszczevicen~",
+    "Capitanei Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "Coninen~",
+    "Coninen[sis]",
+    "Coninen~: Coninensis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "Capitaneum Nieszczevicen~",
+    "Capitaneum Nieszczevicen[sem]",
+    "Nieszczevicen~: Nieszczevicensem (draft and blind reader agree)"
+   ],
+   [
+    "0071_a2",
+    "Nieszcevicen~",
+    "Nieszcevicen[si]",
+    "Nieszcevicen~: Nieszcevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0071_a2",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0071_a2",
+    "Subj~",
+    "Subj[udicem]",
+    "Subj~: Subjudicem (draft and blind reader agree)"
+   ],
+   [
+    "0071_a2",
+    "Calissien~ Causae",
+    "Calissien[sem] Causae",
+    "Calissien~: Calissiensem (draft and blind reader agree)"
+   ],
+   [
+    "0071_a2",
+    "Calissien~ Feria",
+    "Calissien[se] Feria",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0072_a1",
+    "Calissien~ faciendam",
+    "Calissien[sem] faciendam",
+    "Calissien~: Calissiensem (draft and blind reader agree)"
+   ],
+   [
+    "0072_a1",
+    "Calissien~ Loco",
+    "Calissien[sis] Loco",
+    "Calissien~: Calissiensis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a1",
+    "Calissien~ editis,",
+    "Calissien[se] editis,",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0072_a1",
+    "Calissien~ prosecutum",
+    "Calissien[se] prosecutum",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Litts~",
+    "Litt[era]s",
+    "Litts~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Authen~ unius",
+    "Authen[ticas] unius",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Petricovien~ edittis",
+    "Petricovien[sis] edittis",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Calissien~ Causae",
+    "Calissien[sibus] Causae",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Petricovien~ Seu",
+    "Petricovien[sis] Seu",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Nieszczevice~",
+    "Nieszczevice[nsis]",
+    "Nieszczevice~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Attinenti~",
+    "Attinenti[is]",
+    "Attinenti~: Attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Calissien~ ad",
+    "Calissien[sem] ad",
+    "Calissien~: Calissiensem (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Calissien~ prosecutum",
+    "Calissien[se] prosecutum",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "ex~ntem",
+    "ex[iste]ntem",
+    "ex~ntem: existentem (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Authen~ oblatuata)",
+    "Authen[ticis] oblatuata)",
+    "Authen~: Authenticis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Calissien~ sed",
+    "Calissien[se] sed",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Calissien~ et",
+    "Calissien[se] et",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "hucu~",
+    "hucu[sque]",
+    "hucu~: hucusque (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Calissien~ Remissionis",
+    "Calissien[sis] Remissionis",
+    "Calissien~: Calissiensis (draft and blind reader agree)"
+   ],
+   [
+    "0073_a1",
+    "Trąmpczynen~",
+    "Trąmpczynen[si]",
+    "Trąmpczynen~: Trąmpczynensi (draft and blind reader agree)"
+   ],
+   [
+    "0073_a1",
+    "Calissien~",
+    "Calissien[sis]",
+    "Calissien~: Calissiensis (draft and blind reader agree)"
+   ],
+   [
+    "0078_a2",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0078_a2",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0078_a2",
+    "editt~",
+    "edit[as]",
+    "editt~: editas (draft and blind reader agree)"
+   ],
+   [
+    "0079_a1",
+    "Cittum~",
+    "Cit[at]um",
+    "Cittum~: Citatum (draft and blind reader agree)"
+   ],
+   [
+    "0079_a1",
+    "dila~nibus",
+    "dila[tio]nibus",
+    "dila~nibus: dilationibus (draft and blind reader agree)"
+   ],
+   [
+    "0079_a1",
+    "ra~nibus",
+    "ra[tio]nibus",
+    "ra~nibus: rationibus (draft and blind reader agree)"
+   ],
+   [
+    "0359_a2",
+    "Attinen~",
+    "Attinen[tiis]",
+    "Attinen~: Attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0359_a2",
+    "Nieszczevicen~",
+    "Nieszczevicen[si]",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0359_a2",
+    "Calissien~",
+    "Calissien[sis]",
+    "Calissien~: Calissiensis (draft and blind reader agree)"
+   ],
+   [
+    "0360_a1",
+    "Trąpczynen~",
+    "Trąpczynen[si]",
+    "Trąpczynen~: Trąpczynensi (draft and blind reader agree)"
+   ],
+   [
+    "0360_a1",
+    "Manifest~ns",
+    "Manifest[a]ns",
+    "Manifest~ns: Manifestans (draft and blind reader agree)"
+   ]
+  ],
+  "app53170koningr118": [
+   [
+    "0173_a1",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0267_a1",
+    "Nieszczevicen~ Relatio",
+    "Nieszczevicen[sem] Relatio",
+    "Nieszczevicen~: Nieszczevicensem (draft and blind reader agree)"
+   ],
+   [
+    "0267_a1",
+    "Calissien~",
+    "Calissien[sis]",
+    "Calissien~: Calissiensis (draft and blind reader agree)"
+   ],
+   [
+    "0267_a1",
+    "Nieszczevicen~ pro",
+    "Nieszczevicen[sem] pro",
+    "Nieszczevicen~: Nieszczevicensem (draft and blind reader agree)"
+   ],
+   [
+    "0344_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a1",
+    "Bidgostien~ Skorzewski",
+    "Bidgostien[sis] Skorzewski",
+    "Bidgostien~: Bidgostiensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a1",
+    "Posnan~",
+    "Posnan[iensis]",
+    "Posnan~: Posnaniensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a1",
+    "Bidgostien~ anteacti",
+    "Bidgostien[sis] anteacti",
+    "Bidgostien~: Bidgostiensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a1",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a2",
+    "Thesaurarium Vschoven~",
+    "Thesaurarium Vschoven[sem]",
+    "Vschoven~: Vschovensem (draft and blind reader agree)"
+   ],
+   [
+    "0383_a2",
+    "Nieszczevicen~ Relatio",
+    "Nieszczevicen[sis] Relatio",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a2",
+    "Thesaurarii Vschoven~",
+    "Thesaurarii Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a2",
+    "Nieszczevicen~ pro",
+    "Nieszczevicen[sis] pro",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0383_a2",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0368_a1",
+    "Nieszczevicen~ contra MM",
+    "Nieszczevicen[sis] contra MM",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0368_a1",
+    "Calissien~ ad Tribunal Relatio",
+    "Calissien[se] ad Tribunal Relatio",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0368_a1",
+    "Nieszczevicen~ contra Magnificos",
+    "Nieszczevicen[sis] contra Magnificos",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0368_a1",
+    "Calissien~ ad Tribunal Regni",
+    "Calissien[se] ad Tribunal Regni",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0381_a2",
+    "Nieszczevicen~ et",
+    "Nieszczevicen[sis] et",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0381_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0381_a2",
+    "Nieszczevicen~ pro",
+    "Nieszczevicen[sis] pro",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0381_a2",
+    "Ordin~",
+    "Ordin[ariis]",
+    "Ordin~: Ordinariis (draft and blind reader agree)"
+   ],
+   [
+    "0381_a2",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0398_a2",
+    "T~",
+    "T[ermino]",
+    "T~: Termino (draft and blind reader agree)"
+   ],
+   [
+    "0398_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0475_a2",
+    "Nieszczevicen~ contra",
+    "Nieszczevicen[sis] contra",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0475_a2",
+    "Calissien~ Manifestatur",
+    "Calissien[se] Manifestatur",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0475_a2",
+    "Nieszczevicen~ (pro",
+    "Nieszczevicen[sis] (pro",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0475_a2",
+    "Calissien~ Districtualiter",
+    "Calissien[sis] Districtualiter",
+    "Calissien~: Calissiensis (draft and blind reader agree)"
+   ],
+   [
+    "0475_a2",
+    "Calissien~ minime",
+    "Calissien[se] minime",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0476_a1",
+    "Petricovien~ contra",
+    "Petricovien[sis] contra",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0476_a1",
+    "Calissien~ ob",
+    "Calissien[se] ob",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0476_a1",
+    "Plocen~ in",
+    "Plocen[sis] in",
+    "Plocen~: Plocensis (draft and blind reader agree)"
+   ],
+   [
+    "0476_a1",
+    "Plocen~ se",
+    "Plocen[sis] se",
+    "Plocen~: Plocensis (draft and blind reader agree)"
+   ],
+   [
+    "0476_a1",
+    "Petricovien~ est",
+    "Petricovien[sis] est",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0476_a1",
+    "Calissien~ atque",
+    "Calissien[se] atque",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Vschoven~ contra",
+    "Vschoven[sem] contra",
+    "Vschoven~: Vschovensem (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Nieszczevicen~ Relatio",
+    "Nieszczevicen[sis] Relatio",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Citt~",
+    "Cit[ationes]",
+    "Citt~: Citationes (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Cond~nis in",
+    "Cond[escensio]nis in",
+    "Cond~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Nieszczevicen~ Insignis",
+    "Nieszczevicen[sis] Insignis",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Cittos~",
+    "Cit[at]os",
+    "Cittos~: Citatos (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "praesen~ 1782",
+    "praesen[ti] 1782",
+    "praesen~: praesenti (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Thaesaurarii Vschoven~",
+    "Thaesaurarii Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Actt~ Qui",
+    "Act[oris] Qui",
+    "Actt~: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "viden~",
+    "viden[dum]",
+    "viden~: videndum (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Audien~",
+    "Audien[dum]",
+    "Audien~: audiendum (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Actt~ Officiose",
+    "Act[ori] Officiose",
+    "Actt~: Actori (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Calissien~ institutum",
+    "Calissien[se] institutum",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Cond~nis non",
+    "Cond[escensio]nis non",
+    "Cond~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Actt~ una",
+    "Act[oris] una",
+    "Actt~: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "Actt~ quanta",
+    "Act[oris] quanta",
+    "Actt~: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "paritt~",
+    "parit[uri]",
+    "paritt~: parituri (draft and blind reader agree)"
+   ],
+   [
+    "0496_a1",
+    "praesen~ Scriba",
+    "praesen[te] Scriba",
+    "praesen~: praesente (draft and blind reader agree)"
+   ],
+   [
+    "0617_a2",
+    "Nieszczevicen~ ad",
+    "Nieszczevicen[sis] ad",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0617_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0617_a2",
+    "Nieszczevicen~ et",
+    "Nieszczevicen[sem] et",
+    "Nieszczevicen~: Nieszczevicensem (draft and blind reader agree)"
+   ],
+   [
+    "0617_a2",
+    "Junivladislav~",
+    "Junivladislav[iensem]",
+    "Junivladislav~: Junivladislaviensem (draft and blind reader agree)"
+   ],
+   [
+    "0617_a2",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0672_a1",
+    "se Citt~",
+    "se Cit[ationes]",
+    "Citt~: Citationes (draft and blind reader agree)"
+   ],
+   [
+    "0672_a1",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0672_a1",
+    "authen~",
+    "authen[ticas]",
+    "authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0672_a1",
+    "Calissien~ Celebrandem",
+    "Calissien[si] Celebrandem",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0672_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0672_a1",
+    "Vschoven~",
+    "Vschoven[sem]",
+    "Vschoven~: Vschovensem (draft and blind reader agree)"
+   ],
+   [
+    "0672_a1",
+    "r~ne",
+    "r[atio]ne",
+    "r~ne: ratione (draft and blind reader agree)"
+   ],
+   [
+    "0416_a2",
+    "Nieszczevicen~ Relatio",
+    "Nieszczevicen[sis] Relatio",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0416_a2",
+    "Citt~",
+    "Cit[ationes]",
+    "Citt~: Citationes (draft and blind reader agree)"
+   ],
+   [
+    "0416_a2",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0416_a2",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0416_a2",
+    "Petricovien~ Infrascripti",
+    "Petricovien[sis] Infrascripti",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0416_a2",
+    "Nieszczevicen~ Bonorum",
+    "Nieszczevicen[si] Bonorum",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0416_a2",
+    "Petricovien~ recte",
+    "Petricovien[sis] recte",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0416_a2",
+    "Landen~",
+    "Landen[sis]",
+    "Landen~: Landensis (draft and blind reader agree)"
+   ],
+   [
+    "0417_a1",
+    "viden~",
+    "viden[dum]",
+    "viden~: videndum (draft and blind reader agree)"
+   ],
+   [
+    "0417_a1",
+    "Audien~",
+    "Audien[dum]",
+    "Audien~: audiendum (draft and blind reader agree)"
+   ],
+   [
+    "0417_a1",
+    "praesen~",
+    "praesen[te]",
+    "praesen~: praesente (draft and blind reader agree)"
+   ],
+   [
+    "0460_a2",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0460_a2",
+    "Vschoven~",
+    "Vschoven[sem]",
+    "Vschoven~: Vschovensem (draft and blind reader agree)"
+   ],
+   [
+    "0469_a2",
+    "Nieszczevicen~ contra",
+    "Nieszczevicen[sis] contra",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0469_a2",
+    "Calissien~ Relatio",
+    "Calissien[se] Relatio",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0469_a2",
+    "Nieszczevicen~ Insignis",
+    "Nieszczevicen[sis] Insignis",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0469_a2",
+    "Calissien~ pro",
+    "Calissien[se] pro",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0515_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Vschoven~ Manifestatur",
+    "Vschoven[sis] Manifestatur",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Junivladislav~ adhaerendo",
+    "Junivladislav[iensis] adhaerendo",
+    "Junivladislav~: Junivladislaviensis (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Vschoven~ Bonorum",
+    "Vschoven[sem] Bonorum",
+    "Vschoven~: Vschovensem (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "attinent~",
+    "attinent[iis]",
+    "attinent~: attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Cond~nis Campestris",
+    "Cond[escensio]nis Campestris",
+    "Cond~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Cond~nis Condescenderet,",
+    "Cond[escensio]nis Condescenderet,",
+    "Cond~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Septuag~mi",
+    "Septuag[esi]mi",
+    "Septuag~mi: Septuagesimi (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Came~",
+    "Came[rarius]",
+    "Came~: Camerarius (draft and blind reader agree)"
+   ],
+   [
+    "0524_a1",
+    "Granicial~",
+    "Granicial[is]",
+    "Granicial~: Granicialis (draft and blind reader agree)"
+   ],
+   [
+    "0527_a1",
+    "Nieszczevicen~ Loci",
+    "Nieszczevicen[sis] Loci",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0527_a1",
+    "Antonii Prusimski Capitanei Nieszczevicen~",
+    "Antonii Prusimski Capitanei Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0519_a2",
+    "Nieszczevicen~ contra M Chełmski",
+    "Nieszczevicen[sis] contra M Chełmski",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0519_a2",
+    "Nieszczevicen~ contra Magnificum",
+    "Nieszczevicen[sis] contra Magnificum",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0519_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0519_a2",
+    "Cond~nis",
+    "Cond[escensio]nis",
+    "Cond~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "Junivladislav~ Manifestur",
+    "Junivladislav[iensis] Manifestur",
+    "Junivladislav~: Junivladislaviensis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "attinen~",
+    "attinen[tiis]",
+    "attinen~: attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "praesent~",
+    "praesent[ia]",
+    "praesent~: praesentia (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "Junivladislav~ Idque",
+    "Junivladislav[iensem] Idque",
+    "Junivladislav~: Junivladislaviensem (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "Junivladislav~,",
+    "Junivladislav[iensis],",
+    "Junivladislav~,: Junivladislaviensis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "praesen~ Oblatuato",
+    "praesen[tibus] Oblatuato",
+    "praesen~: praesentibus (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "Cond~nis",
+    "Cond[escensio]nis",
+    "Cond~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "Dobrinen~",
+    "Dobrinen[sis]",
+    "Dobrinen~: Dobrinensis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "Castrens~",
+    "Castrens[is]",
+    "Castrens~: Castrensis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "Gnesnen~",
+    "Gnesnen[sis]",
+    "Gnesnen~: Gnesnensis (draft and blind reader agree)"
+   ],
+   [
+    "0530_a2",
+    "praesen~ Oblatuatis",
+    "praesen[tibus] Oblatuatis",
+    "praesen~: praesentibus (draft and blind reader agree)"
+   ],
+   [
+    "0531_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0586_a1",
+    "Nieszczevicen~ Relationis",
+    "Nieszczevicen[sis] Relationis",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0586_a1",
+    "Antonii Prusimski Capitanei Nieszczevicen~",
+    "Antonii Prusimski Capitanei Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0586_a1",
+    "Nieszczevicen~ Insignis",
+    "Nieszczevicen[sis] Insignis",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0586_a1",
+    "praesen~ cum",
+    "praesen[tem] cum",
+    "praesen~: praesentem (draft and blind reader agree)"
+   ],
+   [
+    "0586_a1",
+    "praesen~ Requisivit",
+    "praesen[ti] Requisivit",
+    "praesen~: praesenti (draft and blind reader agree)"
+   ],
+   [
+    "0586_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0586_a2",
+    "haered~",
+    "haered[is]",
+    "haered~: haeredis (draft and blind reader agree)"
+   ],
+   [
+    "0586_a2",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0586_a2",
+    "praesen~ Recognita",
+    "praesen[tibus] Recognita",
+    "praesen~: praesentibus (draft and blind reader agree)"
+   ],
+   [
+    "0622_a2",
+    "Capitaneum Nieszczevicen~ contra",
+    "Capitaneum Nieszczevicen[sem] contra",
+    "Nieszczevicen~: Nieszczevicensem (draft and blind reader agree)"
+   ],
+   [
+    "0622_a2",
+    "Nieszczevicen~ Ordinis",
+    "Nieszczevicen[sem] Ordinis",
+    "Nieszczevicen~: Nieszczevicensem (draft and blind reader agree)"
+   ],
+   [
+    "0622_a2",
+    "Petricovien~ pro",
+    "Petricovien[sis] pro",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0622_a2",
+    "Capitanei Nieszczevicen~",
+    "Capitanei Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0622_a2",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0622_a2",
+    "Tribunalis Regni Petricovien~",
+    "Tribunalis Regni Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Braesten~",
+    "Braesten[si]",
+    "Braesten~: Braestensi (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Castren~",
+    "Castren[si]",
+    "Castren~: Castrensi (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Radziejovien~",
+    "Radziejovien[si]",
+    "Radziejovien~: Radziejoviensi (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Bresten~",
+    "Bresten[sis]",
+    "Bresten~: Brestensis (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Trębivolien~",
+    "Trębivolien[sis]",
+    "Trębivolien~: Trębivoliensis (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Calissien~",
+    "Calissien[sibus]",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Actt~,",
+    "Act[oris],",
+    "Actt~,: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Actt~ germanorum",
+    "Act[oris] germanorum",
+    "Actt~: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "facien~",
+    "facien[dae]",
+    "facien~: faciendae (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Actt~ ac",
+    "Act[orem] ac",
+    "Actt~: Actorem (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Cittos~ etiam",
+    "Cit[at]os etiam",
+    "Cittos~: Citatos (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "fulcien~",
+    "fulcien[tibus]",
+    "fulcien~: fulcientibus (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "viden~",
+    "viden[dum]",
+    "viden~: videndum (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Audien~",
+    "Audien[dum]",
+    "Audien~: audiendum (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Calissien~ primo",
+    "Calissien[sibus] primo",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Actt~ in",
+    "Act[oris] in",
+    "Actt~: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Cittos~ et se",
+    "Cit[at]os et se",
+    "Cittos~: Citatos (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Actt~ gravaminose",
+    "Act[orem] gravaminose",
+    "Actt~: Actorem (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Calissien~ Ipso",
+    "Calissien[si] Ipso",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Actt~que",
+    "Act[ore]que",
+    "Actt~que: Actoreque (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Caliss~",
+    "Caliss[iensium]",
+    "Caliss~: Calissiensium (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Actt~, Patruos",
+    "Act[oris], Patruos",
+    "Actt~,: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0623_a2",
+    "Actt~, steriliter",
+    "Act[oris], steriliter",
+    "Actt~,: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Calissien~ extendi,",
+    "Calissien[si] extendi,",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "paritt~",
+    "parit[uri]",
+    "paritt~: parituri (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Calissien~ In",
+    "Calissien[se] In",
+    "Calissien~: Calissiense (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Coninen~",
+    "Coninen[sis]",
+    "Coninen~: Coninensis (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Calissien~ sub",
+    "Calissien[si] sub",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0626_a2",
+    "Nieszczevicen~ Relatio",
+    "Nieszczevicen[sis] Relatio",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0626_a2",
+    "Nieszczevicen~ pro",
+    "Nieszczevicen[sis] pro",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0626_a2",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0675_a1",
+    "Nieszczevicen~ et",
+    "Nieszczevicen[sis] et",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0675_a1",
+    "Nieszczevicen~ Hollandri",
+    "Nieszczevicen[sis] Hollandri",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0675_a1",
+    "Nieszczevicen~ Honesti",
+    "Nieszczevicen[sis] Honesti",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0675_a1",
+    "Trąmpczynen~",
+    "Trąmpczynen[sis]",
+    "Trąmpczynen~: Trąmpczynensis (draft and blind reader agree)"
+   ]
+  ],
+  "app53170koningr119": [
+   [
+    "0062_a2",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "Authe~",
+    "Authe[nticas]",
+    "Authe~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "Nieszczevicen~",
+    "Nieszczevicen[si]",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "Castren~",
+    "Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "Calissien~ primis",
+    "Calissien[sibus] primis",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "Vschoven~ Bonorum",
+    "Vschoven[sis] Bonorum",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "viden~",
+    "viden[dum]",
+    "viden~: videndum (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "Audien~",
+    "Audien[dum]",
+    "Audien~: audiendum (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "Actt~ Possessione",
+    "Act[oris] Possessione",
+    "Actt~: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0062_a2",
+    "Trąmpczynen~",
+    "Trąmpczynen[sis]",
+    "Trąmpczynen~: Trąmpczynensis (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Datt~",
+    "Dat[um]",
+    "Datt~: Datum (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Calissien~ Die",
+    "Calissien[si] Die",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "praesen~",
+    "praesen[te]",
+    "praesen~: praesente (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Nieszczevicen~ Relatio",
+    "Nieszczevicen[sis] Relatio",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Judiciis Castren~",
+    "Judiciis Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Calissien~ Infracripti",
+    "Calissien[sibus] Infracripti",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Nieszczevicen~ Bonorum",
+    "Nieszczevicen[si] Bonorum",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Nostrus Castren~",
+    "Nostrus Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Calissien~ proxime",
+    "Calissien[sibus] proxime",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "proxime in Castro Calissien~",
+    "proxime in Castro Calissien[si]",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Celebran~",
+    "Celebran[dis]",
+    "Celebran~: Celebrandis (draft and blind reader agree)"
+   ],
+   [
+    "0063_a1",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0063_a2",
+    "Audien~",
+    "Audien[dum]",
+    "Audien~: audiendum (draft and blind reader agree)"
+   ],
+   [
+    "0063_a2",
+    "Sui Actt~",
+    "Sui Act[oris]",
+    "Actt~: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0063_a2",
+    "paritt~",
+    "parit[urus]",
+    "paritt~: pariturus (draft and blind reader agree)"
+   ],
+   [
+    "0063_a2",
+    "Calissien~",
+    "Calissien[si]",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0063_a2",
+    "praesen~",
+    "praesen[te]",
+    "praesen~: praesente (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Coninen~",
+    "Coninen[sia]",
+    "Coninen~: Coninensia (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Vschoven~ Bonorum",
+    "Vschoven[sis] Bonorum",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "attinen~",
+    "attinen[tiis]",
+    "attinen~: attinentiis (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Capitanei Nieszczevicen~",
+    "Capitanei Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Dominum pro Judiciis Castren~",
+    "Dominum pro Judiciis Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Calissien~ editarum",
+    "Calissien[sibus] editarum",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "praesen~",
+    "praesen[tibus]",
+    "praesen~: praesentibus (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Callisien~",
+    "Callisien[sibus]",
+    "Callisien~: Callisiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Castro Calissien~",
+    "Castro Calissien[si]",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Celebrand~",
+    "Celebrand[is]",
+    "Celebrand~: Celebrandis (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Vschoven~ Aliosque",
+    "Vschoven[sem] Aliosque",
+    "Vschoven~: Vschovensem (draft and blind reader agree)"
+   ],
+   [
+    "0073_a2",
+    "Cittos~",
+    "Cit[at]os",
+    "Cittos~: Citatos (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Castren~",
+    "Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Calissien~ proxime",
+    "Calissien[sibus] proxime",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Castro Calissien~",
+    "Castro Calissien[si]",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Celebran~",
+    "Celebran[dis]",
+    "Celebran~: Celebrandis (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Vschoven~ Aliorumque",
+    "Vschoven[sis] Aliorumque",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Niesczevicen~",
+    "Niesczevicen[sem]",
+    "Niesczevicen~: Niesczevicensem (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "Cittos~",
+    "Cit[at]os",
+    "Cittos~: Citatos (draft and blind reader agree)"
+   ],
+   [
+    "0131_a2",
+    "praesen~",
+    "praesen[te]",
+    "praesen~: praesente (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Nieszczevicen~ contra",
+    "Nieszczevicen[sis] contra",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Judiciis Castren~",
+    "Judiciis Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Calissien~ Infrascripti",
+    "Calissien[sibus] Infrascripti",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Vschoven~ de",
+    "Vschoven[si] de",
+    "Vschoven~: Vschovensi (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "haben~",
+    "haben[dis]",
+    "haben~: habendis (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Nris~",
+    "N[ost]ris",
+    "Nris~: Nostris (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Calissien~ proxime",
+    "Calissien[sibus] proxime",
+    "Calissien~: Calissiensibus (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Celebran~",
+    "Celebran[dis]",
+    "Celebran~: Celebrandis (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "perempto~",
+    "perempto[rie]",
+    "perempto~: peremptorie (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Kolno Prusimski Capitanei Nieszczevicen~",
+    "Kolno Prusimski Capitanei Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Actt~ Qui",
+    "Act[oris] Qui",
+    "Actt~: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0128_a2",
+    "Calissien~ Die",
+    "Calissien[si] Die",
+    "Calissien~: Calissiensi (draft and blind reader agree)"
+   ],
+   [
+    "0305_a1",
+    "Nieszczevicen~ contra",
+    "Nieszczevicen[sis] contra",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0305_a1",
+    "Nieszczevicen~ Insignis",
+    "Nieszczevicen[sis] Insignis",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0305_a1",
+    "Vschoven~",
+    "Vschoven[sem]",
+    "Vschoven~: Vschovensem (draft and blind reader agree)"
+   ],
+   [
+    "0305_a1",
+    "Celebran~",
+    "Celebran[dis]",
+    "Celebran~: Celebrandis (draft and blind reader agree)"
+   ],
+   [
+    "0305_a1",
+    "igit~",
+    "igit[ur]",
+    "igit~: igitur (draft and blind reader agree)"
+   ],
+   [
+    "0305_a1",
+    "praesen~ querela",
+    "praesen[ti] querela",
+    "praesen~: praesenti (draft and blind reader agree)"
+   ],
+   [
+    "0685_a2",
+    "Nieszczevicen~ requisitio",
+    "Nieszczevicen[sis] requisitio",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0685_a2",
+    "Trąmpczynen~",
+    "Trąmpczynen[sis]",
+    "Trąmpczynen~: Trąmpczynensis (draft and blind reader agree)"
+   ],
+   [
+    "0685_a2",
+    "Nieszczevicen~ Eorundem",
+    "Nieszczevicen[sis] Eorundem",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0685_a2",
+    "Petricovien~",
+    "Petricovien[sis]",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0685_a2",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ]
+  ],
+  "app53170koningr120": [
+   [
+    "0624_a1",
+    "Litt~",
+    "Litt[eras]",
+    "Litt~: Litteras (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Authen~",
+    "Authen[ticas]",
+    "Authen~: Authenticas (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Judiciis Ordin~",
+    "Judiciis Ordin[ariis]",
+    "Ordin~: Ordinariis (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Nieszczevicen~",
+    "Nieszczevicen[si]",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Nris~",
+    "N[ost]ris",
+    "Nris~: Nostris (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Petricovien~ recte",
+    "Petricovien[sis] recte",
+    "Petricovien~: Petricoviensis (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Vschoven~",
+    "Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Actt~,",
+    "Act[oris],",
+    "Actt~,: Actoris (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Viden~",
+    "Viden[dum]",
+    "Viden~: Videndum (draft and blind reader agree)"
+   ],
+   [
+    "0624_a1",
+    "Audien~",
+    "Audien[dum]",
+    "Audien~: audiendum (draft and blind reader agree)"
+   ],
+   [
+    "0624_a2",
+    "Calissien~",
+    "Calissien[sia]",
+    "Calissien~: Calissiensia (draft and blind reader agree)"
+   ]
+  ],
+  "app5320pozgr1181": [
+   [
+    "0161_a",
+    "cittis~ per eundem",
+    "cit[at]is per eundem",
+    "cittis~: citatis (draft and blind reader agree)"
+   ],
+   [
+    "0161_a",
+    "cittis~ per Magnificum",
+    "cit[at]is per Magnificum",
+    "cittis~: citatis (draft and blind reader agree)"
+   ],
+   [
+    "0161_a",
+    "citto~ per",
+    "cit[at]o per",
+    "citto~: citato (draft and blind reader agree)"
+   ],
+   [
+    "0161_a",
+    "citto~ et",
+    "cit[at]o et",
+    "citto~: citato (draft and blind reader agree)"
+   ],
+   [
+    "0161_b",
+    "g~lem",
+    "g[enera]lem",
+    "g~lem: Generalem (draft and blind reader agree)"
+   ],
+   [
+    "0161_b",
+    "Predecen~",
+    "Predecen[sis]",
+    "Predecen~: Predecensis (draft and blind reader agree)"
+   ],
+   [
+    "0162_a",
+    "sae~",
+    "sa[cra]e",
+    "sae~: Sacrae (draft and blind reader agree)"
+   ],
+   [
+    "0162_a",
+    "Rae~",
+    "R[egi]ae",
+    "Rae~: Regiae (draft and blind reader agree)"
+   ],
+   [
+    "0162_a",
+    "Mcum~",
+    "M[agnifi]cum",
+    "Mcum~: Magnificum (draft and blind reader agree)"
+   ],
+   [
+    "0162_a",
+    "tal~r",
+    "tal[ite]r",
+    "tal~r: taliter (draft and blind reader agree)"
+   ],
+   [
+    "0162_a",
+    "quo~",
+    "quo[que]",
+    "quo~: quoque (draft and blind reader agree)"
+   ],
+   [
+    "0162_b",
+    "cittos~",
+    "cit[at]os",
+    "cittos~: Citatos (draft and blind reader agree)"
+   ],
+   [
+    "0162_b",
+    "Magnif~",
+    "Magnif[icos]",
+    "Magnif~: Magnificos (draft and blind reader agree; Claude: Antonium et Paulum (acc. pl.))"
+   ],
+   [
+    "0163_a",
+    "Posn~ae Feria",
+    "Posn[ani]ae Feria",
+    "Posn~ae: Posnaniae (draft and blind reader agree)"
+   ],
+   [
+    "0163_a",
+    "Posn~ae die",
+    "Posn[ani]ae die",
+    "Posn~ae: Posnaniae (draft and blind reader agree)"
+   ],
+   [
+    "0163_b",
+    "Coninen~",
+    "Coninen[sis]",
+    "Coninen~: Coninensis (draft and blind reader agree)"
+   ],
+   [
+    "0163_b",
+    "succ~oribus",
+    "succ[ess]oribus",
+    "succ~oribus: successoribus (draft and blind reader agree)"
+   ],
+   [
+    "0164_a",
+    "Rae~",
+    "R[egi]ae",
+    "Rae~: Regiae (draft and blind reader agree)"
+   ],
+   [
+    "0164_b",
+    "n~nis",
+    "n[omi]nis",
+    "n~nis: nominis (draft and blind reader agree)"
+   ],
+   [
+    "0164_b",
+    "cittorum~",
+    "cit[at]orum",
+    "cittorum~: citatorum (draft and blind reader agree)"
+   ],
+   [
+    "0164_b",
+    "actt~",
+    "act[orum]",
+    "actt~: actorum (draft and blind reader agree)"
+   ],
+   [
+    "0165_b",
+    "con~tem",
+    "con[sor]tem",
+    "con~tem: consortem (draft and blind reader agree)"
+   ],
+   [
+    "0165_b",
+    "Pol~",
+    "Pol[onicalium]",
+    "Pol~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "flor~",
+    "flor[enorum]",
+    "flor~: florenorum (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "substa~am Golinscianam",
+    "substa[nti]am Golinscianam",
+    "substa~am: substantiam (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "substa~am non",
+    "substa[nti]am non",
+    "substa~am: substantiam (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "Ins~ione",
+    "Ins[cript]ione",
+    "Ins~ione: Inscriptione (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "con~tis relictae",
+    "con[sor]tis relictae",
+    "con~tis: consortis (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "con~tis suae",
+    "con[sor]tis suae",
+    "con~tis: consortis (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "Pol~",
+    "Pol[onicalium]",
+    "Pol~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "quindecem flor~",
+    "quindecem flor[enorum]",
+    "flor~: florenorum (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Polon~ efficien[dem?]",
+    "Polon[icalium] efficien[dem?]",
+    "Polon~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "novem flor~",
+    "novem flor[enorum]",
+    "flor~: florenorum (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Polon~ mundae",
+    "Polon[icalium] mundae",
+    "Polon~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Pol~ soli",
+    "Pol[onicalium] soli",
+    "Pol~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Polon~ ab",
+    "Polon[icalium] ab",
+    "Polon~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Pol~ juxta",
+    "Pol[onicalium] juxta",
+    "Pol~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Polon~ restantem",
+    "Polon[icalium] restantem",
+    "Polon~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Polon~ Paturnae",
+    "Polon[icalium] Paturnae",
+    "Polon~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Jud~m liquidat:",
+    "Jud[iciu]m liquidat:",
+    "Jud~m: Judicium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Pol~ binis",
+    "Pol[onicalium] binis",
+    "Pol~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Trium flor~",
+    "Trium flor[enorum]",
+    "flor~: florenorum (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Pol~ mundae",
+    "Pol[onicalium] mundae",
+    "Pol~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0166_b",
+    "Jud~m connotat",
+    "Jud[iciu]m connotat",
+    "Jud~m: Judicium (draft and blind reader agree)"
+   ],
+   [
+    "0167_a",
+    "Polon~",
+    "Polon[icalium]",
+    "Polon~: Polonicalium (draft and blind reader agree)"
+   ],
+   [
+    "0167_a",
+    "Confes~",
+    "Confes[soris]",
+    "Confes~: Confessoris (draft and blind reader agree)"
+   ],
+   [
+    "0167_a",
+    "n~nis",
+    "n[omi]nis",
+    "n~nis: nominis (draft and blind reader agree)"
+   ],
+   [
+    "0167_a",
+    "Confess~",
+    "Confess[oris]",
+    "Confess~: Confessoris (draft and blind reader agree)"
+   ],
+   [
+    "0167_a",
+    "n~ne",
+    "n[omi]ne",
+    "n~ne: nomine (draft and blind reader agree)"
+   ],
+   [
+    "0167_a",
+    "Rae~",
+    "R[egi]ae",
+    "Rae~: Regiae (draft and blind reader agree)"
+   ],
+   [
+    "0167_b",
+    "succ~ores",
+    "succ[ess]ores",
+    "succ~ores: successores (draft and blind reader agree)"
+   ],
+   [
+    "0167_b",
+    "con~tem",
+    "con[sor]tem",
+    "con~tem: consortem (draft and blind reader agree)"
+   ],
+   [
+    "0167_b",
+    "sabbo~",
+    "sabb[at]o",
+    "sabbo~: sabbato (draft and blind reader agree)"
+   ]
+  ],
+  "app536046": [
+   [
+    "0182_b1",
+    "Castren~",
+    "Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0182_b1",
+    "Coninen~",
+    "Coninen[sibus]",
+    "Coninen~: Coninensibus (draft and blind reader agree)"
+   ],
+   [
+    "0182_b1",
+    "Capitaneu~",
+    "Capitaneu[s]",
+    "Capitaneu~: Capitaneus (draft and blind reader agree)"
+   ],
+   [
+    "0182_b1",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0182_b2",
+    "Bresten~",
+    "Bresten[sibus]",
+    "Bresten~: Brestensibus (draft and blind reader agree)"
+   ],
+   [
+    "0182_b2",
+    "praesen~ factam",
+    "praesen[ti] factam",
+    "praesen~: praesenti (draft and blind reader agree)"
+   ],
+   [
+    "0182_b2",
+    "praesen~ oblatuatam",
+    "praesen[ti] oblatuatam",
+    "praesen~: praesenti (draft and blind reader agree)"
+   ],
+   [
+    "0182_b2",
+    "Castren~",
+    "Castren[sia]",
+    "Castren~: Castrensia (draft and blind reader agree)"
+   ],
+   [
+    "0182_b2",
+    "Coninen~",
+    "Coninen[sia]",
+    "Coninen~: Coninensia (draft and blind reader agree; Claude: ad acta (neut. pl. acc.))"
+   ],
+   [
+    "0183_a2",
+    "Vitkovien~",
+    "Vitkovien[sem]",
+    "Vitkovien~: Vitkoviensem (draft and blind reader agree)"
+   ],
+   [
+    "0183_a2",
+    "Nieszczevicen~ instituendo",
+    "Nieszczevicen[si] instituendo",
+    "Nieszczevicen~: Nieszczevicensi (draft and blind reader agree)"
+   ],
+   [
+    "0183_a2",
+    "Trąbczynen~",
+    "Trąbczynen[sis]",
+    "Trąbczynen~: Trąbczynensis (draft and blind reader agree)"
+   ],
+   [
+    "0183_a2",
+    "Nieszczevicen~ demandabit",
+    "Nieszczevicen[sem] demandabit",
+    "Nieszczevicen~: Nieszczevicensem (draft and blind reader agree)"
+   ]
+  ],
+  "app536047": [
+   [
+    "0240_b1",
+    "Terrae Vschoven~",
+    "Terrae Vschoven[sis]",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "Act~",
+    "Act[or]",
+    "Act~: Actor (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "Kolno Prusimski Capit~",
+    "Kolno Prusimski Capit[aneus]",
+    "Capit~: Capitaneus (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "Nieszczevicen~ Citatus",
+    "Nieszczevicen[sis] Citatus",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "Vschoven~ super",
+    "Vschoven[sis] super",
+    "Vschoven~: Vschovensis (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "proinde Decernit Jud~m",
+    "proinde Decernit Jud[iciu]m",
+    "Jud~m: Judicium (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "Illus~",
+    "Illus[tris]",
+    "Illus~: Illustris (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "M. Prusimski Capit~",
+    "M. Prusimski Capit[aneus]",
+    "Capit~: Capitaneus (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "Nieszczevicen~ in",
+    "Nieszczevicen[sis] in",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "banit~",
+    "banit[ionis]",
+    "banit~: banitionis (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "Illust~",
+    "Illust[rem]",
+    "Illust~: Illustrem (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "M. Capit~",
+    "M. Capit[aneum]",
+    "Capit~: Capitaneum (draft and blind reader agree)"
+   ],
+   [
+    "0240_b1",
+    "Nieszczevicen~ habere",
+    "Nieszczevicen[sem] habere",
+    "Nieszczevicen~: Nieszczevicensem (draft and blind reader agree; Claude: subject of habere after adinvenit (acc.))"
+   ],
+   [
+    "0240_b1",
+    "Jud~m Quatenus Partes",
+    "Jud[iciu]m Quatenus Partes",
+    "Jud~m: Judicium (draft and blind reader agree)"
+   ],
+   [
+    "0240_b2",
+    "Illust~",
+    "Illust[ris]",
+    "Illust~: Illustris (draft and blind reader agree)"
+   ],
+   [
+    "0240_b2",
+    "Capit~",
+    "Capit[aneus]",
+    "Capit~: Capitaneus (draft and blind reader agree)"
+   ],
+   [
+    "0240_b2",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0240_b2",
+    "Jud~m",
+    "Jud[iciu]m",
+    "Jud~m: Judicium (draft and blind reader agree)"
+   ],
+   [
+    "0240_b3",
+    "manifestatione coram Actis Castren~",
+    "manifestatione coram Actis Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0240_b3",
+    "Coninen~, sub",
+    "Coninen[sibus], sub",
+    "Coninen~,: Coninensibus (draft and blind reader agree)"
+   ],
+   [
+    "0240_b3",
+    "Nieszczevicen~",
+    "Nieszczevicen[sis]",
+    "Nieszczevicen~: Nieszczevicensis (draft and blind reader agree)"
+   ],
+   [
+    "0240_b3",
+    "septimanis coram Actis Castren~",
+    "septimanis coram Actis Castren[sibus]",
+    "Castren~: Castrensibus (draft and blind reader agree)"
+   ],
+   [
+    "0240_b3",
+    "Coninen~, evadat",
+    "Coninen[sibus], evadat",
+    "Coninen~,: Coninensibus (draft and blind reader agree)"
+   ]
+  ]
+ },
+ "two_gaps": {
+  "app53170koningr117": [
+   [
+    "0035_a2",
+    "Condsnis~",
+    "Cond[e]s[ce]n[s]i[oni]s",
+    "Condsnis~: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a1",
+    "vn~tis",
+    "v[e]n[ien]tis",
+    "vn~tis: venientis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "vn~tis conductos",
+    "v[e]n[ien]tis conductos",
+    "vn~tis: venientis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "Vn~tem",
+    "V[e]n[ien]tem",
+    "Vn~tem: Venientem (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "vn~tis scopulos",
+    "v[e]n[ien]tis scopulos",
+    "vn~tis: venientis (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "vn~tem ad",
+    "v[e]n[ien]tem ad",
+    "vn~tem: venientem (draft and blind reader agree)"
+   ],
+   [
+    "0058_a2",
+    "mentionatum) de praestito per vn~tem",
+    "mentionatum) de praestito per v[e]n[ien]tem",
+    "vn~tem: venientem (draft and blind reader agree)"
+   ],
+   [
+    "0072_a1",
+    "Mgco~",
+    "M[a]g[nifi]co",
+    "Mgco~: Magnifico (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Conds~nis Infrascriptae",
+    "Cond[e]s[censio]nis Infrascriptae",
+    "Conds~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "pnltr~",
+    "p[erso]n[a]l[i]t[e]r",
+    "pnltr~: personaliter (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Conds~nis in",
+    "Cond[e]s[censio]nis in",
+    "Conds~nis: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0072_a2",
+    "Conds~nis factae",
+    "Cond[e]s[censio]nis factae",
+    "Conds~nis: Condescensionis (draft and blind reader agree)"
+   ]
+  ],
+  "app53170koningr118": [
+   [
+    "0398_a2",
+    "Condnis~",
+    "Cond[esce]n[s]i[oni]s",
+    "Condnis~: Condescensionis (draft and blind reader agree)"
+   ],
+   [
+    "0531_a1",
+    "Mafnis~",
+    "Ma[ni]f[estatio]nis",
+    "Mafnis~: Manifestationis (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Cong~bus Taczanowskim,",
+    "Con[ju]g[i]bus Taczanowskim,",
+    "Cong~bus: Conjugibus (draft and blind reader agree)"
+   ],
+   [
+    "0623_a1",
+    "Cong~bus Kołaczkowskim,",
+    "Con[ju]g[i]bus Kołaczkowskim,",
+    "Cong~bus: Conjugibus (draft and blind reader agree)"
+   ]
+  ],
+  "app5320pozgr1181": [
+   [
+    "0161_a",
+    "Ssmae~",
+    "S[ancti]s[si]mae",
+    "Ssmae~: Sanctissimae (draft and blind reader agree)"
+   ],
+   [
+    "0162_a",
+    "Mttis~",
+    "M[ajes]t[a]tis",
+    "Mttis~: Majestatis (draft and blind reader agree)"
+   ],
+   [
+    "0166_a",
+    "subta~am",
+    "sub[s]ta[nti]am",
+    "subta~am: substantiam (draft and blind reader agree)"
+   ],
+   [
+    "0167_a",
+    "Mttis~",
+    "M[ajes]t[a]tis",
+    "Mttis~: Majestatis (draft and blind reader agree)"
+   ],
+   [
+    "0167_b",
+    "Ss~mi",
+    "S[ancti]s[si]mi",
+    "Ss~mi: Sanctissimi (draft and blind reader agree)"
+   ]
+  ]
+ }
+}

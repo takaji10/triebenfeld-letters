@@ -157,7 +157,7 @@ def bracket(written, full):
     i = 0
     while i < len(head):
         ch = head[i]
-        if i + 1 < len(head) and head[i + 1].lower() == ch.lower() and ch.lower() not in 'aeiouy' and \
+        if i + 1 < len(head) and head[i + 1] == ch and ch.lower() not in 'aeiouy' and \
                 j < len(fh) and fh[j].lower() == ch.lower() and not (j + 1 < len(fh) and fh[j + 1].lower() == ch.lower()):
             i += 1                       # the clerk's doubled consonant, written once
             continue
@@ -213,6 +213,7 @@ def cmd_tildes():
                 hit = next((c for c in cands if c['before'] == before), None) or \
                     next((c for c in cands if c['after'] == after), None)
                 e = {'uid': l['uid'], 'page_id': p['page_id'], 'line': i + 1, 'form': w,
+                     'word': sum(1 for ii, _ in words[:k] if ii == i),
                      'context': ' '.join(x for _, x in words[max(0, k - 12):k]) + ' [[' + w + ']] ' +
                                 ' '.join(x for _, x in words[k + 1:k + 13])}
                 if hit:

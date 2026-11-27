@@ -31,7 +31,7 @@ language), except the Kodeks:
 | Pyzdry Gr.75 | 1 | 2 | 352 | 1 | 12 | full (2026-11-26) |
 | Ląd copy-book 53/1455/0/2/21 | 6 | 9 | 2,198 | 0 | 22 | light |
 | Oe 1 Bü 14526, the Latin deed | 1 | 5 | 965 | 0 | 0 | light |
-| **Total** | **101** | **191** | **32,653** | **840** | **510** | |
+| **Total** | **101** | **191** | **32,653** | **837** | **510** | |
 
 **Out of scope:**
 - **The Kodeks Dyplomatyczny Wielkopolski** (31 documents, 12,620 words): printed text, taken from
@@ -63,10 +63,9 @@ abbreviations are expanded in square brackets **where certain**. Certainty comes
 itself, a witness, or the one possible sense. Where the expansion is not certain, the abbreviation stands
 as written and the possibility goes in the holding's `intake/unresolved.md`.
 
-**What exists already.** All 816 tilde occurrences of the court books are expanded by case, with the
-reason for each, in `reference/guide/abbreviations_expanded.yml`: 588 sure and 228 not. This is the
-draft. Claude checks every sure one against its own sentence before it is applied. The unsure ones stay
-as written, unless the audit's reading of the page settles them.
+**Prepared in the cloud (2026-11-27; section 11).** The 837 tilde forms were expanded twice,
+independently, and the 430 that both readings give the same way with certainty are ready to apply
+(`reference/latin_audit/expansions.json`). The rest keep their tilde unless the page settles them.
 
 **The form of an expansion (the editor, 2026-11-27).** The tilde is dropped and the supplied letters
 stand in square brackets, with no mark of doubt:
@@ -221,3 +220,38 @@ worktree (WORKING_NOTES, "Two sessions, one working copy").
 | Holding | Read | Settled | Committed |
 |---|---|---|---|
 | (none yet) | | | |
+
+## 11. Prepared in the cloud (2026-11-27)
+
+What a cloud session could do without the scans, so that the desktop sitting only reads the pages.
+
+- **The tools**: `pipeline/review/latin_audit.py` (`scope`, `manifest`, `tildes`, `refs`, `strips`,
+  `apply`, `impact`, `sheet`; its docstring has the usage). The strip cutter was tried on the web copies
+  of Konin Gr.115; `apply` was tried, without writing, on every holding with expansions.
+- **`reference/latin_audit/manifest.json`**: for every page in scope, its document, page id, the name of
+  its scan in the holding's scan folder, its web copy, its tilde forms and its marks of doubt.
+- **`reference/latin_audit/references.json`**: every authored text that cites each of the 101 documents
+  (396 lines: holding pages, era essays, the timeline, connections, the family pages, the guide,
+  literature links). `impact` reads it.
+- **`reference/latin_audit/briefs.md`**: the two readers' briefs.
+- **`reference/latin_audit/gr1181_open_rows.json`**: the 61 open rows of Poznań Gr.1181's old sheet.
+- **The tilde expansions** (`reference/latin_audit/tildes.json`, every occurrence with its context, and
+  `expansions.json`, the rows to apply). Each of the 837 forms was expanded twice: the guide's draft and
+  a blind Sonnet reader given only the sentence (four readers, about 210 forms each). Then:
+  - **430 ready** (`expansions.json`, `ready`): both readings certain and the same, one gap, in the
+    editor's form (`Cit[ationes]`, `Calissien[sibus]`, `Cond[escensio]nis`); every group of them read by
+    Claude; three disagreements settled by Claude on the grammar (`ad acta Castren[sia] Coninen[sia]`,
+    `Eundem Illust[rem] M. Capit[aneum] Nieszczevicen[sem] habere`, `olim Magnif[icos] Antonium et
+    Paulum`). Each row is anchored on words without a tilde so that it stands exactly once on its page.
+  - **21 with two or more gaps** (`two_gaps`, e.g. `vn~tis` = v[e]n[ien]tis, `Mttis~` =
+    M[ajes]t[a]tis): wait on the editor's ruling on how such a contraction is bracketed.
+  - **5 certain but not anchored** (on Konin Gr.118, 119, 120: the same words twice on the page): the
+    desktop session writes them by hand.
+  - **381 keep their tilde**: one of the two readings unsure, or no draft (35), or a form whose letters
+    are not the full word's in order (103: `ott~` for *olim*, the *JM* forms), settled by hand or left.
+  The desktop session copies a holding's `ready` rows into its `latin_audit.json` (`EXPAND`), less any
+  the page shows to be otherwise (a stroke or superscript with more letters).
+- **A slip found and fixed**: Poznań Gr.1181, a Latin decree, was shown as German (its language stood
+  under a key nothing reads); fixed in its `rulings.yml` and its data rebuilt (published with the next
+  publish).
+
