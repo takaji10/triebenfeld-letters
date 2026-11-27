@@ -62,3 +62,8 @@ changes:
   what: "Your answer on the spot sheet: the starost's place on leaf 245 verso is written \"Nieszczevic~\"."
   was: "Capitaneum Nieszczevensis Bonorum"
   now: "Capitaneum Nieszczevic~ Bonorum"
+- importance: wording
+  new: "2026-11-27"
+  what: "Nothing dropped (your ruling): on leaf 36 the \"…\" after \"Bydgostiensem\" stood for four or five words not read, now [...]; and the left-out \"Illmum et Rdmum\" before \"Abbatem\" is written, expanded at your word (Illustrissimum et Reverendissimum)."
+  was: "Capitaneum Bydgostiensem … Abbatem"
+  now: "Capitaneum Bydgostiensem [...] Ill[ustrissi]mum et R[everen]d[issi]mum Abbatem"

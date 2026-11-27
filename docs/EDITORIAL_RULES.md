@@ -202,7 +202,7 @@ than where it sits.
   **A contraction with letters missing in more than one place brackets each
   gap** (the editor, 2026-11-27: "Each gap should be bracketed"):
   `vn~tis` is `v[e]n[ien]tis`, `Mttis~` is `M[ajes]t[a]tis`, `Cong~bus` is
-  `Con[ju]g[i]bus`. Where the clerk's letters could be placed in the word in
+  `Con[ju]g[i]bus`, `Illmum et Rdmum` is `Ill[ustrissi]mum et R[everen]d[issi]mum` (the editor, 2026-11-27: "Illustrissimum et Reverendissimum"). Where the clerk's letters could be placed in the word in
   more than one way, the placing with fewer brackets is taken
   (`Condsnis~` is `Cond[escen]s[io]nis`).
   **No modern name beside a word** (the editor, 2026-11-27: "I don't want to see
