@@ -62,11 +62,84 @@ matched:
   kalisz:
     place: Kalisz
     forms:
-    - form: Kalisz
+    - form: Calissien
+      count: 52
+      docs:
+      - app53170koningr115-1
+      - app53170koningr117-2
+      - app53170koningr117-3
+      - app53170koningr117-7
+      - app53170koningr117-8
+      - app53170koningr117-12
+      - app53170koningr118-2
+      - app53170koningr118-4
+      - app53170koningr118-12
+      - app53170koningr118-13
+      - app53170koningr118-14
+      - app53170koningr118-23
+      - app53170koningr118-25
+      - app53170koningr119-1
+      - app53170koningr119-2
+      - app53170koningr119-3
+      - app53170koningr119-4
+      - app53170koningr119-5
+      - app53170koningr119-6
+      - app53170koningr120-2
+    - form: Calissiensis
+      count: 19
+      docs:
+      - app53170koningr117-1
+      - app53170koningr117-7
+      - app53170koningr118-1
+      - app53170koningr118-2
+      - app53170koningr118-9
+      - app5320pozgr1181-1
+      - app536040-1
+    - form: Calissiensi
+      count: 9
+      docs:
+      - app53150kaliszgr424-1
+      - app53170koningr117-2
+      - app53170koningr117-5
+      - app53170koningr117-7
+      - app53170koningr117-9
+      - app53170koningr119-5
+    - form: Calissiens
+      count: 9
+      docs:
+      - app53170koningr117-2
+      - app53170koningr117-3
+      - app53170koningr117-9
+      - app5320pozgr1181-1
+    - form: Calissii
       count: 2
       docs:
-      - app53170koningr153-1
+      - app53170koningr117-9
       - app5320pozgr1181-1
+    - form: Calissiensia
+      count: 1
+      docs:
+      - app53150kaliszgr424-1
+    - form: Callisien
+      count: 1
+      docs:
+      - app53170koningr119-4
+    - form: Kalisz
+      count: 1
+      docs:
+      - app53170koningr153-1
+    - form: Calis
+      count: 1
+      docs:
+      - app5320pozgr1181-1
+    - form: Calissiense
+      count: 1
+      docs:
+      - app536040-1
+    - form: Calissiensibu
+      count: 1
+      docs:
+      - app536046-1
   kamionno:
     place: Kamionna
     forms:
@@ -119,12 +192,146 @@ matched:
   konin:
     place: Konin
     forms:
-    - form: Konin
+    - form: Conin
+      count: 44
+      docs:
+      - app53170koningr115-2
+      - app53170koningr115-4
+      - app53170koningr115-5
+      - app53170koningr115-7
+      - app53170koningr115-8
+      - app53170koningr116-2
+      - app53170koningr116-6
+      - app53170koningr116-8
+      - app53170koningr117-1
+      - app53170koningr117-2
+      - app53170koningr117-3
+      - app53170koningr117-7
+      - app53170koningr117-8
+      - app53170koningr117-9
+      - app53170koningr117-12
+      - app53170koningr118-4
+      - app53170koningr118-5
+      - app53170koningr118-11
+      - app53170koningr118-12
+      - app53170koningr118-13
+      - app53170koningr118-15
+      - app53170koningr118-16
+      - app53170koningr118-19
+      - app53170koningr118-23
+      - app53170koningr118-24
+      - app53170koningr119-3
+      - app53170koningr119-5
+      - app53170koningr119-7
+      - app53170koningr119-8
+      - app53170koningr120-1
+      - app53170koningr153-1
+      - app5320pozgr1181-1
+      - app536017-1
+      - app536040-1
+    - form: Coninensia
+      count: 19
+      docs:
+      - app53170koningr115-5
+      - app53170koningr115-7
+      - app53170koningr115-8
+      - app53170koningr115-9
+      - app53170koningr116-12
+      - app53170koningr117-1
+      - app53170koningr117-2
+      - app53170koningr117-4
+      - app53170koningr117-5
+      - app53170koningr117-7
+      - app53170koningr117-8
+      - app53170koningr117-12
+      - app53170koningr118-10
+      - app53170koningr118-13
+      - app53170koningr118-17
+      - app53170koningr118-19
+      - app53170koningr118-23
+      - app53170koningr119-2
+      - app53170koningr119-8
+    - form: Coninensis
+      count: 13
+      docs:
+      - app53170koningr117-7
+      - app53170koningr120-2
+      - app53170koningr153-1
+      - app5320pozgr1181-1
+      - app536040-1
+    - form: Coninen
+      count: 10
+      docs:
+      - app53170koningr117-2
+      - app53170koningr117-5
+      - app53170koningr118-23
+      - app53170koningr119-3
+      - app5320pozgr1181-1
+      - app536046-1
+      - app536047-1
+    - form: Coninensi
+      count: 6
+      docs:
+      - app53170koningr116-8
+      - app53170koningr117-3
+      - app53170koningr117-9
+      - app53170koningr118-20
+      - app5320pozgr1181-1
+    - form: Coninense
       count: 3
+      docs:
+      - app53170koningr116-8
+      - app536017-1
+      - app536036-1
+    - form: Konin
+      count: 2
       docs:
       - app53170koningr117-2
       - app53170koningr117-8
+    - form: Coninensem
+      count: 2
+      docs:
       - app5320pozgr1181-1
+      - app536017-1
+    - form: Coninensibus
+      count: 2
+      docs:
+      - app536017-1
+      - app536046-1
+  lad:
+    place: Ląd
+    forms:
+    - form: Landensis
+      count: 12
+      docs:
+      - app53170koningr118-24
+      - app53170koningr153-1
+      - app5320pozgr1181-1
+    - form: Landensem
+      count: 11
+      docs:
+      - app53170koningr115-2
+      - app53170koningr116-2
+      - app53170koningr118-10
+      - app53170koningr118-22
+      - app53170koningr118-24
+      - app53170koningr153-1
+      - app5320pozgr1181-1
+    - form: Landen
+      count: 1
+      docs:
+      - app53170koningr118-10
+  lenschitz:
+    place: Łęczyca
+    forms:
+    - form: Lanciciensi
+      count: 2
+      docs:
+      - app53170koningr153-1
+    - form: Lanciciensis
+      count: 1
+      docs:
+      - app53170koningr153-1
   lukom:
     place: Łukom
     forms:
@@ -252,6 +459,41 @@ matched:
       docs:
       - app53170koningr116-12
       - app5320pozgr1181-1
+  posen:
+    place: Poznań
+    forms:
+    - form: Posnaniensis
+      count: 15
+      docs:
+      - app53170koningr118-6
+      - app53170koningr153-1
+      - app5320pozgr1181-1
+      - app536040-1
+    - form: Posnan
+      count: 2
+      docs:
+      - app53170koningr118-6
+      - app5320pozgr1181-1
+    - form: Posn[ani]ae
+      count: 2
+      docs:
+      - app5320pozgr1181-1
+    - form: Posnaniensia
+      count: 1
+      docs:
+      - app53170koningr153-1
+    - form: Posn~
+      count: 1
+      docs:
+      - app5320pozgr1181-1
+    - form: Posnaniensen
+      count: 1
+      docs:
+      - app5320pozgr1181-1
+    - form: Posnaniam
+      count: 1
+      docs:
+      - app536045-1
   prusinowo:
     place: Prusinowo
     forms:
@@ -267,11 +509,26 @@ matched:
     place: Pyzdry
     forms:
     - form: Pyzdry
-      count: 4
+      count: 3
       docs:
       - app53170koningr153-1
-      - app5320pozgr1181-1
       - app536045-1
+    - form: Pyzdrensis
+      count: 2
+      docs:
+      - app5320pozgr1181-1
+    - form: Pyzdrensem
+      count: 1
+      docs:
+      - app53170koningr153-1
+    - form: Pyzdra
+      count: 1
+      docs:
+      - app5320pozgr1181-1
+    - form: Pyzdrensibus
+      count: 1
+      docs:
+      - app536046-2
   radolin:
     place: Radolin
     forms:
@@ -290,7 +547,7 @@ matched:
     place: Świątniki
     forms:
     - form: Swiątniki
-      count: 1
+      count: 2
       docs:
       - app5320pozgr1181-1
   szetlew:
@@ -385,10 +642,6 @@ matched:
       docs:
       - app53170koningr153-1
       - app5320pozgr1181-1
-    - form: Wieluń
-      count: 1
-      docs:
-      - app5320pozgr1181-1
   wierzbno:
     place: Wierzbno
     forms:
@@ -412,78 +665,6 @@ matched:
       docs:
       - app5320pozgr1181-1
 candidates:
-- form: Nieszczevicen~
-  count: 73
-  docs:
-  - app53150kaliszgr424-1
-  - app53170koningr115-8
-  - app53170koningr117-1
-  - app53170koningr117-3
-  - app53170koningr117-4
-  - app53170koningr117-5
-  - app53170koningr117-7
-  - app53170koningr117-12
-  - app53170koningr118-2
-  - app53170koningr118-3
-  - app53170koningr118-4
-  - app53170koningr118-5
-  - app53170koningr118-6
-  - app53170koningr118-7
-  - app53170koningr118-10
-  - app53170koningr118-11
-  - app53170koningr118-12
-  - app53170koningr118-13
-  - app53170koningr118-14
-  - app53170koningr118-16
-  - app53170koningr118-17
-  - app53170koningr118-18
-  - app53170koningr118-19
-  - app53170koningr118-20
-  - app53170koningr118-21
-  - app53170koningr118-22
-  - app53170koningr118-23
-  - app53170koningr118-24
-  - app53170koningr118-25
-  - app53170koningr118-28
-  - app53170koningr118-29
-  - app53170koningr119-1
-  - app53170koningr119-2
-  - app53170koningr119-3
-  - app53170koningr119-4
-  - app53170koningr119-5
-  - app53170koningr119-6
-  - app53170koningr119-7
-  - app53170koningr119-8
-  - app53170koningr120-2
-  - app536046-1
-  - app536046-2
-  - app536047-1
-  context: Re~ pro parte Magnifici Antonii a Kolno Prusimski Capitaneo Nieszczevicen~ Bonorum Trąpczyna cum attinen~
-    Haeredis
-- form: Calissien~
-  count: 51
-  docs:
-  - app53170koningr115-1
-  - app53170koningr117-2
-  - app53170koningr117-7
-  - app53170koningr117-8
-  - app53170koningr117-12
-  - app53170koningr118-2
-  - app53170koningr118-4
-  - app53170koningr118-12
-  - app53170koningr118-13
-  - app53170koningr118-14
-  - app53170koningr118-23
-  - app53170koningr118-25
-  - app53170koningr119-1
-  - app53170koningr119-2
-  - app53170koningr119-3
-  - app53170koningr119-4
-  - app53170koningr119-5
-  - app53170koningr119-6
-  - app53170koningr120-2
-  context: icae olim de Rozdrażewskie Prusimska pro Judiciis Terrestre Calissien~ hic Celebran~ editt~ Relatio in
-    Product
 - form: Mensis
   count: 49
   docs:
@@ -523,95 +704,6 @@ candidates:
   - app5320pozgr1181-1
   context: et Jud~ Ma~at~ Exparata Copia Ad officium et Acta praesenti Castrensis Coninensis personaliter veniens
     M Anton
-- form: Vschoven~
-  count: 33
-  docs:
-  - app53170koningr116-3
-  - app53170koningr117-5
-  - app53170koningr118-1
-  - app53170koningr118-5
-  - app53170koningr118-7
-  - app53170koningr118-9
-  - app53170koningr118-11
-  - app53170koningr118-14
-  - app53170koningr118-15
-  - app53170koningr118-16
-  - app53170koningr118-17
-  - app53170koningr118-19
-  - app53170koningr118-20
-  - app53170koningr118-21
-  - app53170koningr118-25
-  - app53170koningr119-1
-  - app53170koningr119-2
-  - app53170koningr119-3
-  - app53170koningr119-4
-  - app53170koningr119-5
-  - app53170koningr119-6
-  - app53170koningr119-7
-  - app53170koningr119-8
-  - app53170koningr120-2
-  - app536047-1
-  context: si[?] Dąmbski Vexilliferi Bresto Cujaviae Kwilecki Dapiferi Vschoven~ Umiński Dapiferi Kovale~ contra
-    M Chełm
-- form: Petricovien~
-  count: 24
-  docs:
-  - app53170koningr117-8
-  - app53170koningr118-4
-  - app53170koningr118-5
-  - app53170koningr118-6
-  - app53170koningr118-7
-  - app53170koningr118-10
-  - app53170koningr118-12
-  - app53170koningr118-13
-  - app53170koningr118-14
-  - app53170koningr118-17
-  - app53170koningr118-20
-  - app53170koningr118-21
-  - app53170koningr118-22
-  - app53170koningr118-23
-  - app53170koningr118-24
-  - app53170koningr119-5
-  - app53170koningr119-8
-  - app53170koningr120-2
-  context: frascripto Judicium ordinariis Generalibus Tribunalis Regni Petricovien~ edittis tenoris talis Stanislaus
-    August
-- form: Calissiensis
-  count: 19
-  docs:
-  - app53170koningr117-1
-  - app53170koningr117-7
-  - app53170koningr118-1
-  - app53170koningr118-2
-  - app53170koningr118-9
-  - app5320pozgr1181-1
-  - app536040-1
-  context: andamus ut In Termino Condescensionis vi Decreti Terrestris Calissiensis in Conin Feria Secunda post
-    Festum Sanc
-- form: Posnaniensis
-  count: 15
-  docs:
-  - app53170koningr118-6
-  - app53170koningr153-1
-  - app5320pozgr1181-1
-  - app536040-1
-  context: tris Magnifici Michaelis Drogosław Skorzewski Succamerariuu Posnaniensis Praesentanei Bonorum Biskupice
-    Haearedu
-- form: Castren~
-  count: 14
-  docs:
-  - app53170koningr115-3
-  - app53170koningr118-23
-  - app53170koningr119-1
-  - app53170koningr119-2
-  - app53170koningr119-3
-  - app53170koningr119-4
-  - app53170koningr119-5
-  - app53170koningr119-6
-  - app536046-1
-  - app536047-1
-  context: ctae Oblata Videatur hoc Loco Extractus Authentici ex Actis Castren~ Bidgosten~ Deprompti et Approbationem
-    T
 - form: Gnesniensis
   count: 14
   docs:
@@ -619,59 +711,13 @@ candidates:
   - app53170koningr153-2
   context: ' Xaverio à Jasien Jasinski Camerario Graniciali Palatinatus Gnesniensis Praesentibus Perillustrissimo
     Reverendi'
-- form: Authen~
-  count: 13
-  docs:
-  - app53170koningr117-1
-  - app53170koningr117-2
-  - app53170koningr117-8
-  - app53170koningr117-9
-  - app53170koningr118-10
-  - app53170koningr118-14
-  - app53170koningr118-23
-  - app53170koningr119-2
-  - app53170koningr119-4
-  - app53170koningr119-5
-  - app53170koningr119-6
-  - app53170koningr120-2
-  context: is Regni Generalis Sanus existens Recognovit se Citt~ Litt~ Authen~ pro Terminum Condescensionis in Fundo
-    B
-- form: Coninensis
-  count: 13
-  docs:
-  - app53170koningr117-7
-  - app53170koningr120-2
-  - app53170koningr153-1
-  - app5320pozgr1181-1
-  - app536040-1
-  context: at~ Exparata Copia Ad officium et Acta praesenti Castrensis Coninensis personaliter veniens M Antonius
-    in Koln
-- form: Landensis
-  count: 12
-  docs:
-  - app53170koningr118-24
-  - app53170koningr153-1
-  - app5320pozgr1181-1
-  context: 'io Videatur hoc loco Relatio ex parte Venerabilis Conventus Landensis contra J Magnificum Antonium Prusimski '
 - form: Nieszczeviensem
-  count: 12
+  count: 11
   docs:
   - app53170koningr115-3
   - app5320pozgr1181-1
   context: ionem per Magnificum Antonium in Kolno Prusimski Capitaneum Nieszczeviensem Coram Actis Castrensibus
-    Bidgostiensibu
-- form: Landensem
-  count: 11
-  docs:
-  - app53170koningr115-2
-  - app53170koningr116-2
-  - app53170koningr118-10
-  - app53170koningr118-22
-  - app53170koningr118-24
-  - app53170koningr153-1
-  - app5320pozgr1181-1
-  context: 'Capitaneum Bydgostiensem … Abbatem et Venerabilem Conventum Landensem pro Judiciis Tribunalis Regni
-    Bidg~ ad '
+    Bydgostiensibu
 - form: Nieszczeviensis
   count: 10
   docs:
@@ -681,28 +727,6 @@ candidates:
   - app53170koningr153-2
   context: nis ex Parte Magnifici Antonii de Kolno Prusimski Capitanei Nieszczeviensis In et Contra Magnificos Chełmski
     Succes
-- form: Calissiensi
-  count: 9
-  docs:
-  - app53150kaliszgr424-1
-  - app53170koningr117-2
-  - app53170koningr117-5
-  - app53170koningr117-7
-  - app53170koningr117-9
-  - app53170koningr119-5
-  context: Actum in Castro Calissiensi Sabbatho post Festum Praesentationis Gl
-- form: Coninen~
-  count: 9
-  docs:
-  - app53170koningr117-2
-  - app53170koningr117-5
-  - app53170koningr118-23
-  - app53170koningr119-3
-  - app5320pozgr1181-1
-  - app536046-1
-  - app536047-1
-  context: 'itat ad viden[?] et audien[?] Decretum suprafatum Terrestre Coninen~ in Contrarium priori, non relevato
-    nec '
 - form: Vschoviensis
   count: 9
   docs:
@@ -717,25 +741,13 @@ candidates:
   - app53170koningr153-1
   context: ' Magnificum Alojsium Orławski Camerarium Granicialem Terrae Dobrinensis ex officio ___ per Generosum
     Ludovicum '
-- form: Audien~
-  count: 7
-  docs:
-  - app53170koningr117-9
-  - app53170koningr118-10
-  - app53170koningr118-14
-  - app53170koningr118-23
-  - app53170koningr119-1
-  - app53170koningr119-2
-  - app53170koningr120-2
-  context: et Te Cittum~ parte ab altera prolatum adcitt~ ad viden~ et Audien~ actoratum Sui Actoris tibi Institutum
-    n
 - form: Castrensibus
   count: 7
   docs:
   - app53170koningr115-3
   - app536046-1
   - app536046-2
-  context: m in Kolno Prusimski Capitaneum Nieszczeviensem Coram Actis Castrensibus Bidgostiensibus Recognitam in
+  context: m in Kolno Prusimski Capitaneum Nieszczeviensem Coram Actis Castrensibus Bydgostiensibus Recognitam in
     se comple
 - form: Petricoviensis
   count: 7
@@ -754,26 +766,15 @@ candidates:
   - app5320pozgr1181-1
   context: s In et contra Magnificum Stanislaum Chełmski Thaesaurarium Vschovensem Bonorum Łukomia Łomowa et Aliorum
     Haere
-- form: Coninensi
+- form: Petricovien~
   count: 6
   docs:
-  - app53170koningr116-8
-  - app53170koningr117-3
-  - app53170koningr117-9
-  - app53170koningr118-20
-  - app5320pozgr1181-1
-  context: 'orialis Requisitio Ad officium et Acta praesenti Castrensia Coninensi personaliter veniens Generosi
-    Antonius '
-- form: Trąmpczynen~
-  count: 6
-  docs:
-  - app53170koningr115-8
-  - app53170koningr117-8
-  - app53170koningr118-29
-  - app53170koningr119-1
-  - app53170koningr119-8
-  context: pitanei Nieszczevicen~ Bonorum Trąmpczyn Haeredis Ad Borras Trąmpczynen~ et Prata ad Bona eadem Spectantia
-    perso
+  - app53170koningr118-4
+  - app53170koningr118-12
+  - app53170koningr118-17
+  - app53170koningr118-23
+  - app53170koningr120-2
+  context: ki atque Judicium Terrestre Calissien[se] ad Tribunal Regni Petricovien~ prout Copia in productis.
 - form: Vschovensis
   count: 6
   docs:
@@ -787,13 +788,6 @@ candidates:
   - app53170koningr153-1
   context: llustrissimi Magnifici Antonii in Kolno Prusimski Capitanei Niszczeviensis Ordinis Sancti Stanislai Equitis,
     contr
-- form: Attinen~
-  count: 4
-  docs:
-  - app53170koningr117-4
-  - app53170koningr117-12
-  context: us Bonorum Łukomia, Łomova, Imielno et Bukowo aliorumque eo Attinen~ haeres licet si praebelle noverit
-    Decre
 - form: Inciden~
   count: 4
   docs:
@@ -801,22 +795,22 @@ candidates:
   - app53170koningr118-2
   - app53170koningr118-14
   - app53170koningr118-16
-  context: mino Eodem Condsnis~ praefixo et In fundo Bonorum Trąmpczyn Inciden~ Laboriosos Albertum Livoy Andream
-    Ratay
+  context: ' Cond[escen]s[io]nis praefixo et In fundo Bonorum Trąmpczyn Inciden~ Laboriosos Albertum Livoy Andream
+    Ratay'
+- form: Vschoven~
+  count: 4
+  docs:
+  - app53170koningr119-1
+  - app53170koningr119-3
+  - app53170koningr119-5
+  - app53170koningr119-6
+  context: Ex Parte Magnifici Chełmski Thesaurarium Vschoven~ contra JM Prusimski Relatio Personalite
 - form: Cistersiensis
   count: 3
   docs:
   - app53170koningr153-1
   context: ollateralis Drzewce Venerabilis Conventus Landensis Ordinis Cistersiensis haereditariorum, in borra pinatica
     circ
-- form: Coninense
-  count: 3
-  docs:
-  - app53170koningr116-8
-  - app536017-1
-  - app536036-1
-  context: atae porrectum Cui Requisitioni Officium praesens Castrense Coninense Annuendo Decretum Commissoriale
-    Graniti
 - form: Covaliensis
   count: 3
   docs:
@@ -828,8 +822,8 @@ candidates:
   docs:
   - app53170koningr116-7
   - app536046-1
-  context: 'komia Haeredis In et Contra M Antonium Prusimski Capitaneum Nieszczevicensem et Actum Commissionis Granitialis
-    Int~ '
+  context: komia Haeredis In et Contra M Antonium Prusimski Capitaneum Nieszczevicensem et Actum Commissionis Granitialis
+    Int[e
 - form: Trąmpczynensium
   count: 3
   docs:
@@ -838,37 +832,19 @@ candidates:
   - app53170koningr153-2
   context: rcepta extracta et ad Bona Trąmpczyn cum Caterva Subditorum Trąmpczynensium ad Attentandos Tumultus Instructorum
     ev
-- form: Bidgostien~
-  count: 2
-  docs:
-  - app53170koningr118-6
-  context: Ex Parte MM Gałecki Capitanei Bidgostien~ Skorzewski Succamerarius Posnan~ contra
-- form: Bresten~
-  count: 2
-  docs:
-  - app53170koningr118-23
-  - app536046-1
-  context: to Ejusdem Magnifici Casimiri Zakrzewski Judicis Terrestris Bresten~ Cujaviae Consorte, in Secundo Matrimoni
 - form: Castrensem
   count: 2
   docs:
   - app5320pozgr1181-1
   context: ecima sexta Men- sis Junii anno praeterito 1783 per Officia Castrensem Gostinense Judicatus et camera-
     riali T
-- form: Coninensem
+- form: Castren~
   count: 2
   docs:
-  - app5320pozgr1181-1
-  - app536017-1
-  context: ugatis et Generoso Casimirum Bardski inito actis Castrensem Coninensem Feria 2da post Ferium Conversionis
-    S. P
-- form: Coninensibus
-  count: 2
-  docs:
-  - app536017-1
-  - app536046-1
-  context: s ambae praefatae in proximis futuris terminis terrestribus Coninensibus proxime et immediate in Conin
-    celebrand
+  - app53170koningr119-4
+  - app53170koningr119-5
+  context: s Recognovit se Citt~ Litt[eras] Authen[ticas] pro Judiciis Castren~ Callisien[sibus] proxime in Castro
+    Cali
 - form: Junivladislaviensi
   count: 2
   docs:
@@ -876,19 +852,6 @@ candidates:
   - app5320pozgr1181-1
   context: 'icorum Dąmbski Palatini Bresto Cujavia Brzezinski Capitanei Junivladislaviensi[?] Dąmbski Vexilliferi
     Bresto Cujaviae '
-- form: Lanciciensi
-  count: 2
-  docs:
-  - app53170koningr153-1
-  context: rillustrissimo Reverendissimo Benedicto Woronowski Canonico Lanciciensi Praeposito Svarządzensi Geomethra
-    Jurat
-- form: Nieszczevensis
-  count: 2
-  docs:
-  - app53170koningr115-7
-  - app53170koningr115-9
-  context: e de Mandato Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevensis Bonorum Trąmpczyn Haeredis
-    Violento mod
 - form: Nieszczevicensis
   count: 2
   docs:
@@ -896,34 +859,18 @@ candidates:
   - app536047-1
   context: lustrissimus Magnifici Antonii Ostroróg Prusimski Capitanei Nieszczevicensis Insignis Sancti Stanislai
     Equitis Bonor
-- form: Niszczevicen~
+- form: Nieszczevicen~
   count: 2
   docs:
-  - app53170koningr116-4
-  - app53170koningr117-10
-  context: ersonali Comparitione Magnifici Antonii Prusimski Capitanei Niszczevicen~ Bonorum Trąmpczyn Haeredis
-    In et Contra
+  - app53170koningr119-4
+  - app5320pozgr1181-1
+  context: am Illustris Magnifici Antonii in Kolno Prusimski Capitaneo Nieszczevicen~ Bonorum Trąmpczyna Haeredis,
+    tum Genero
 - form: Plens~
   count: 2
   docs:
   - app53170koningr118-13
-  context: Plens~ JM Prusimski Capitanei Nieszczevicen~ c
-- form: Plocen~
-  count: 2
-  docs:
-  - app53170koningr118-13
-  context: ovenda [?]datur jam autem ad praesens Regestrum Palatinatus Plocen~ in Judiciis Eisdem Tribunaliis Judicatu
-- form: Predecen~
-  count: 2
-  docs:
-  - app5320pozgr1181-1
-  context: omucen  Judica Castrensen Radziejoviensem Ignatio E[v?sifen Predecen~ et Ludovico Judic[?]da Terrestri
-    Bre- s
-- form: Pyzdrensis
-  count: 2
-  docs:
-  - app5320pozgr1181-1
-  context: uper bonis Prusinowa Ins~ione offusa coram actis Castrensis Pyzdrensis Feria 3tia post Decretum quinquagesimae
+  context: Plens~ JM Prusimski Capitanei Nieszczevicen[si
 - form: Radziejoviensis
   count: 2
   docs:
@@ -936,30 +883,24 @@ candidates:
   - app53170koningr153-1
   context: do Vschovensis, vel Brestensis Cujaviae, aut Plocensis, sit Siradensis, vel Vielunensis, aut Ravensis
     sive Gos
-- form: Bidgosten~
+- form: Attinen~
   count: 1
   docs:
-  - app53170koningr115-3
-  context: ta Videatur hoc Loco Extractus Authentici ex Actis Castren~ Bidgosten~ Deprompti et Approbationem Termini
-    ad C
+  - app53170koningr117-4
+  context: us Bonorum Łukomia, Łomova, Imielno et Bukowo aliorumque eo Attinen~ haeres licet si praebelle noverit
+    Decre
+- form: Audien~
+  count: 1
+  docs:
+  - app53170koningr117-9
+  context: ' Te Cit[at]um parte ab altera prolatum adcitt~ ad viden~ et Audien~ actoratum Sui Actoris tibi Institutum
+    n'
 - form: Bidgostiensi
   count: 1
   docs:
   - app5320pozgr1181-1
-  context: 'bio Castrensis Coninensi Dominico Zboinatis Subdapifinda[?] Bidgostiensi Ignatio  Łaszkowski Valentino
+  context: 'a- bio Castrensis Coninensi Dominico Zboinski Subdapiferida Bidgostiensi Ignatio  Łaszkowski Valentino
     Zeromski '
-- form: Bidgostiensibus
-  count: 1
-  docs:
-  - app53170koningr115-3
-  context: usimski Capitaneum Nieszczeviensem Coram Actis Castrensibus Bidgostiensibus Recognitam in se complectentem
-    Oblata a
-- form: Braesten~
-  count: 1
-  docs:
-  - app53170koningr118-23
-  context: ' Dei Gratia etc… Vobis Magnificis Casimiro Judici Terrestri Braesten~ Cujaviae Parenti, Nepomuceno Judici
-    Cas'
 - form: Brestensem
   count: 1
   docs:
@@ -981,36 +922,24 @@ candidates:
   count: 1
   docs:
   - app5320pozgr1181-1
-  context: ' connubio Magnifici Casimiri Zabriski[?] Judicio Terrestris Brestensis[?] Cujaviae Testamentaria Parentali
-    dis'
+  context: rno connubio Magnifici Casimiri Zabricki Judicio Terrestris Brestensis[?] Cujaviae Testamentaria Parentali
+    dis
 - form: Bydgostiensem
   count: 1
   docs:
   - app53170koningr115-2
-  context: ełmski Successores Żychlinianos Ignatium Gałecki Capitaneum Bydgostiensem … Abbatem et Venerabilem Conventum
-    Land
-- form: Calissiense
+  context: ełmski Successores Żychlinianos Ignatium Gałecki Capitaneum Bydgostiensem [...] Ill[ustrissi]mum et R[everen]d[is
+- form: Bydgostiensibus
   count: 1
   docs:
-  - app536040-1
-  context: pecuniis habitis et habendis in judicium praesens terrestre Calissiense terminosque terrestres particulares
-    dis
-- form: Callisien~
-  count: 1
-  docs:
-  - app53170koningr119-4
-  context: nus Recognovit se Citt~ Litt~ Authen~ pro Judiciis Castren~ Callisien~ proxime in Castro Calissien~ Celebrand~
+  - app53170koningr115-3
+  context: usimski Capitaneum Nieszczeviensem Coram Actis Castrensibus Bydgostiensibus Recognitam in se complectentem
+    Oblata a
 - form: Castrense
   count: 1
   docs:
   - app53170koningr116-8
   context: i more Oblatae porrectum Cui Requisitioni Officium praesens Castrense Coninense Annuendo Decretum Commissoria
-- form: Castrens~
-  count: 1
-  docs:
-  - app53170koningr118-19
-  context: Execut[a?]is verum etiam et ex Eodem emanatis Actis Officii Castrens~ Gnesnen~ similiter Actis praesen~
-    Oblat
 - form: Cernensis
   count: 1
   docs:
@@ -1035,11 +964,12 @@ candidates:
   - app536046-1
   context: nomine Magnifici Chełmski secundam coram actis Castrensibus Costenensibus Die 2da mensis Januarii per
     Generosum A
-- form: Costensem
+- form: Costen~
   count: 1
   docs:
   - app5320pozgr1181-1
-  context: ne?] BVM robore Decreti Tribunalii prolato actis Castrensis Costensem[?] Feria 2da post Ferium S. Margarethae
+  context: 'ne?] BVM robore Decreti Tribunalii prolato actis Castrensis Costen~ Feria 2da post Ferium S. Margarethae
+    V '
 - form: Cracoviensis
   count: 1
   docs:
@@ -1049,18 +979,13 @@ candidates:
   count: 1
   docs:
   - app53170koningr118-10
-  context: ' Reverendissimi Ludovici Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen~ Abbatis totiusque
-    eju'
+  context: ' Reverendissimi Ludovici Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen[sis] Abbatis
+    totiusque'
 - form: Dobrinensem
   count: 1
   docs:
   - app53170koningr118-22
   context: ' Vschovensem et Joannem Oloisium Orłowski Camerarium Terrae Dobrinensem nec non Illustrissimum et REverendissim'
-- form: Dobrinen~
-  count: 1
-  docs:
-  - app53170koningr118-19
-  context: aescriptum excedendo et cum Officio itidem Campestri Terrae Dobrinen~ inconvenienter discrepando in interpret
 - form: Eden~
   count: 1
   docs:
@@ -1076,14 +1001,8 @@ candidates:
   count: 1
   docs:
   - app5320pozgr1181-1
-  context: enionis in Fundo Bonorum Skoli[s?] mente Decreti Terrestris Gnesnensis[?] agitatae Termino adcitatoris
+  context: descenionis in Fundo Bonorum Skoki mente Decreti Terrestris Gnesnensis[?] agitatae Termino adcitatoris
     coram a
-- form: Gnesnen~
-  count: 1
-  docs:
-  - app53170koningr118-19
-  context: is verum etiam et ex Eodem emanatis Actis Officii Castrens~ Gnesnen~ similiter Actis praesen~ Oblatuatis
-    pro
 - form: Gostinense
   count: 1
   docs:
@@ -1096,6 +1015,12 @@ candidates:
   - app53170koningr153-1
   context: ocensis, sit Siradensis, vel Vielunensis, aut Ravensis sive Gostinensis, modo Łomzensis, aut Cernensis
     vel Vars
+- form: Heren~
+  count: 1
+  docs:
+  - app5320pozgr1181-1
+  context: ' Magnificae Catharinae de Rozdrazewskie super eorumq~ bonis Heren~[?] jam ad Judicia Tribu~lia deventum
+    He'
 - form: Innotescen~
   count: 1
   docs:
@@ -1138,18 +1063,6 @@ candidates:
   - app5320pozgr1181-1
   context: t Oppidi Kamionna cum libera suissura in Goraj[?] scensi et Krobielevien~ borris juxta dispositionem
     antinorum di
-- form: Lanciciensis
-  count: 1
-  docs:
-  - app53170koningr153-1
-  context: ctat Perillustrissimum Reverendissimum Woronowski Canonicum Lanciciensis Geomethram Privilegiatum et
-    Juratum gas
-- form: Landen~
-  count: 1
-  docs:
-  - app53170koningr118-10
-  context: ci Benedicti Lubstowski Sacri Ordinis Cystercien~ Conventus Landen~ Abbatis totiusque ejusdem Conventus
-    Bon
 - form: Lusnensem
   count: 1
   docs:
@@ -1161,24 +1074,18 @@ candidates:
   - app53170koningr117-3
   context: o Inserta. Super Manifestationem Antonii Prusimski Starosti Niesczevicensis Ex parata Copia Ad officium
     et Acta pra
-- form: Niesczevicen~
-  count: 1
-  docs:
-  - app53170koningr119-6
-  context: Illustrem Magnificum Antonium In Kolno Prusimski Capitaneum Niesczevicen~ Aliosque Cittos~ Copiae et
-    essentiae fu
 - form: Niesczeviensem
   count: 1
   docs:
   - app5320pozgr1181-1
   context: ' suo constat Illustrissimum Magnificum Prusimski Capitaneum Niesczeviensem pro Terminis Condescenionis
     in Fundo Bo'
-- form: Nieszcevicen~
+- form: Nieszczevensis
   count: 1
   docs:
-  - app53170koningr117-7
-  context: ' 15 Mensis Aprilis Anno Domini 1778uo M Prusimski Capitaneo Nieszcevicen~ contra M Chełmski et Jud~
-    Ma~at~ Expara'
+  - app53170koningr115-7
+  context: e de Mandato Magnifici Antonii de Kolno Prusimski Capitanei Nieszczevensis Bonorum Trąmpczyn Haeredis
+    Violento mod
 - form: Nieszczeviensi
   count: 1
   docs:
@@ -1189,7 +1096,7 @@ candidates:
   count: 1
   docs:
   - app53170koningr116-8
-  context: ibiq~ nomine Magnifici Antonii de Kolno Prusimski Capitanei Niszczevicensis Bonorum Trąmpczyn cum attinentiis
+  context: q[ue] nomine Magnifici Antonii de Kolno Prusimski Capitanei Niszczevicensis Bonorum Trąmpczyn cum attinentiis
     extra
 - form: Petricoviensem
   count: 1
@@ -1201,8 +1108,8 @@ candidates:
   count: 1
   docs:
   - app53170koningr117-2
-  context: uthen~ pro Judiciis Ordinariis Generalibus Tribunalis Regni Petricoviensi Infrascripto editt~ binas tenoris
-    talis
+  context: ticas] pro Judiciis Ordinariis Generalibus Tribunalis Regni Petricoviensi Infrascripto edit[as] binas
+    tenoris tal
 - form: Plocensis
   count: 1
   docs:
@@ -1227,18 +1134,12 @@ candidates:
   - app5320pozgr1181-1
   context: amentum Prastiterunt Magnificus Ignatius Zakrzewski Ensifer Praedicen~ unus et actoribus et Illustrissimus
     Mag
-- form: Pyzdrensem
+- form: Predecen~
   count: 1
   docs:
-  - app53170koningr153-1
-  context: Cistersiensis haereditariorum, in borra pinatica circa vias Pyzdrensem, et aliam de Zagurowo et Drzewce
-    ad Cho
-- form: Pyzdrensibus
-  count: 1
-  docs:
-  - app536046-2
-  context: 'aus Chełmski virtute transfusionis coram actis Castrensibus Pyzdrensibus Feria 4ta in Vigilia Festi
-    Nativitatis '
+  - app5320pozgr1181-1
+  context: omucen  Judica Castrensen Radziejoviensem Ignatio E[v?sifen Predecen~ et Ludovico Judic[?]da Terrestri
+    Bre- s
 - form: Radziejoviensem
   count: 1
   docs:
@@ -1251,12 +1152,6 @@ candidates:
   - app53170koningr153-1
   context: ationis Sanctae Crucis. Alteram ejusdem essentiae in Castro Radziejoviensi omnes anno praesenti recognitas,
     decide
-- form: Radziejovien~
-  count: 1
-  docs:
-  - app53170koningr118-23
-  context: stri Braesten~ Cujaviae Parenti, Nepomuceno Judici Castren~ Radziejovien~ Ignatio Camerario Terrestri
-    et Ludovico
 - form: Radziejviensis
   count: 1
   docs:
@@ -1303,35 +1198,24 @@ candidates:
   - app536047-1
   context: lenter surripuisse, eundem converberasse, seque ad Cauponam Tomicensem perduci jussisse, in viaque eundem
     famu
+- form: Trąmpczynen~
+  count: 1
+  docs:
+  - app53170koningr117-8
+  context: ero ejusdem Judicii ex[iste]ntem ex Termino condescensionis Trąmpczynen~ Indebite facta in Actis Authen[ticis]
+    o
 - form: Trąmpczyniensem
   count: 1
   docs:
   - app53170koningr115-7
   context: sa Sabbattho Immediate elapso per Nobilem Lipinski Economum Trąmpczyniensem Radzewski Notatorem Proventualem
     Vladar
-- form: Trębivolien~
-  count: 1
-  docs:
-  - app53170koningr118-23
-  context: dlachiae, Elisabethi Magnifici Jacobi Taczanowski Venatoris Trębivolien~ Consorti, Fratri et Sorori Inter
-    vos Ge
 - form: Varsaviensis
   count: 1
   docs:
   - app53170koningr153-1
   context: avensis sive Gostinensis, modo Łomzensis, aut Cernensis vel Varsaviensis, in sex ab actu praesenti decreti
     septi
-- form: Viden~
-  count: 1
-  docs:
-  - app53170koningr120-2
-  context: d paratas Inscriptiones Connexas et Competentes Citt~ et ad Viden~ et Audien~ Te ad Comportationem Specifi
-- form: Vitkovien~
-  count: 1
-  docs:
-  - app536046-2
-  context: 1768 per Excellentem Joannem Tracholz mercatorem et Incolam Vitkovien~ super summas varias ab olim Magnifico
-    P
 - form: Witkoviensi
   count: 1
   docs:

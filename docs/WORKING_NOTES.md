@@ -5593,6 +5593,8 @@ things learned while measuring it:
   Calisius (`(?!us\b)`), the Polish adjective "Pyzdrska" (Puszcza Pyzdrska is the forest, not the town: only
   the Latin forms and the town's own Polish cases Pyzdrach, Pyzdrom are taken), and the German noun "Landen"
   (only "Landen[sis]", "Landen~" or after Monasterii/Coenobium). Places the court books name but the register
-  lacks (Gniezno, Bydgoszcz, Wschowa, Piotrków, Radziejów, Inowrocław, Sieradz, Kościan) were not added. Before
+  lacks (Gniezno, Bydgoszcz, Wschowa, Piotrków, Radziejów, Inowrocław, Sieradz, Kościan, Kowal) get no
+  entry (the editor, 2026-11-27): their Latin forms are kept in `reference/guide/places_latin.yml`, each entry
+  marked `index:` yes or no; look there first when a court-book place adjective needs identifying. Before
   a pattern goes in, list every surface form it catches in units, literature and newspapers, then rule the new
   literature and newspaper pairs (`literature_index.py --check`, `newspapers_index.py --check`).

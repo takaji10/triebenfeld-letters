@@ -4,7 +4,9 @@
 # A place adjective changes its ending with its case (Calissiensis, -i, -em, -ium, -ibus) and is
 # often abbreviated after the stem (Calissien~), so each entry lists every form found.
 # Fields: polish (the place), note (what it is and where), forms (as written, the commonest first),
-# phrase (how it usually stands), sure.
+# phrase (how it usually stands), sure; index: whether the place index (reference/places.yml) finds the
+# place by these forms. The court towns the register has no entry for are kept here only (the editor,
+# 2026-11-27: "don't make entries for them"): a reader of the Latin finds them here, the index does not.
 
 places:
 - polish: Niszczewice
@@ -12,89 +14,114 @@ places:
   forms: [Nieszczevicen~, Nieszczeviensem, Nieszczeviensis, Niszczeviensis, Nieszczevicensem, Nieszczevensis, Nieszczevicensis, Niszczevicen~, Niesczevicensis, Niesczevicen~, Niesczeviensem, Nieszcevicen~, Nieszczeviensi, Niszczevicensis]
   phrase: "Capitaneus Nieszczevicensis (Starost of Niszczewice)"
   sure: yes
+  index: "no: not in the place register"
 - polish: Kalisz
   note: "the palatinate and its land court; also 'Terrestris Calissiensis', 'Palatinatus Calissiensis'"
-  forms: [Calissien~, Calissiensis, Calissiensi, Calissiense, Callisien~]
+  forms: [Calissien~, Calissiensis, Calissiensi, Calissiense, Callisien~, Calissiensia, Calissiensibus, Calissii, Calisiensis, Calisiensi, Calisien~, Calisia, "Calis[siensi]"]
   phrase: "Judicium Terrestre Calissiense (the land court of Kalisz)"
   sure: yes
+  index: "yes: reference/places.yml, kalisz"
 - polish: Wschowa
   note: "in the title of Stanisław Chełmski, Treasurer of Wschowa"
-  forms: [Vschoven~, Vschoviensis, Vschovensem, Vschovensis]
+  forms: [Vschoven~, Vschoviensis, Vschovensem, Vschovensis, Vschovensii, Vschovensius, "Vschova[nis?]"]
   phrase: "Thesaurarius Vschovensis (Treasurer of Wschowa, skarbnik wschowski)"
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Piotrków
   note: "seat of the Crown Tribunal, to which the royal citations summon"
-  forms: [Petricovien~, Petricoviensis, Petricoviensem, Petricoviensi]
+  forms: [Petricovien~, Petricoviensis, Petricoviensem, Petricoviensi, Petricoviae]
   phrase: "in Judiciis Tribunalis Regni Petricoviensis (before the Crown Tribunal at Piotrków)"
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Konin
   note: "the municipal court whose books are the edition's Konin registers"
-  forms: [Coninensis, Coninen~, Coninensi, Coninense, Coninensem, Coninensibus]
+  forms: [Coninensis, Coninen~, Coninensi, Coninense, Coninensem, Coninensibus, Conin, Coninensia]
   phrase: "Acta Castrensia Coninensia (the records of the municipal court of Konin)"
   sure: yes
+  index: "yes: reference/places.yml, konin"
 - polish: Poznań
-  forms: [Posnaniensis, Ponaniensis]
+  forms: [Posnaniensis, Ponaniensis, Posnaniae, Posnanien~, Posnaniensia, Posnaniensibus, Posnaniam, "Posn[ani]ae", Posn~]
   phrase: "Palatinatus Posnaniensis"
   sure: yes
+  index: "yes: reference/places.yml, posen"
 - polish: Gniezno
-  forms: [Gnesniensis, Gnesiensis, Gnesnensis, Gnesnen~]
+  forms: [Gnesniensis, Gnesiensis, Gnesnensis, Gnesnen~, Gnesnae, Gnesna, Gneznensis, Gneznensi, Gnesni~]
   phrase: "Archidioecesis / Palatinatus Gnesnensis"
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Ląd
   note: "the Cistercian abbey on the Warta"
-  forms: [Landensis, Landensem, Landen~]
+  forms: [Landensis, Landensem, Landen~, Landensi, Landense, "Landen."]
   phrase: "Venerabilis Conventus Landensis (the convent of Ląd)"
   sure: yes
+  index: "yes: reference/places.yml, lad"
 - polish: Trąbczyn
   forms: [Trąmpczynen~, Trąmpczynensium, Trąpczynensi, Trąmpczynenses, Trąmpczyniensem, Trąpczynensis, Trąpczynen~, Trąbczynen~]
   phrase: "in Borris et sylvis Trąpczynensi (in the pine forests and woods of Trąbczyn)"
   sure: yes
+  index: "yes: reference/places.yml, trabczyn"
 - polish: Zagórów
   forms: ["Zagorowien[sem?]", "Zagorowiens[i?]"]
   sure: yes
+  index: "yes: reference/places.yml, zagorowo"
 - polish: Dobrzyń
   note: "the land of Dobrzyń (terra Dobrinensis)"
   forms: [Dobrinensis, Dobrinensem, Dobrinen~]
   phrase: "Camerarius Granicialis Terrae Dobrinensis (boundary chamberlain of the land of Dobrzyń)"
   sure: yes
 - polish: Brześć Kujawski
-  forms: [Bresten~, Braesten~, Brestensis, Brestensem, Brestensi, Brestensibus]
+  forms: [Bresten~, Braesten~, Brestensis, Brestensem, Brestensi, Brestensibus, Bresti, Bresto]
   phrase: "Acta Castrensia Brestensia Cujaviae"
   sure: yes
+  index: "yes: reference/places.yml, brzesc-kujawski"
 - polish: Bydgoszcz
-  forms: [Bidgostien~, Bidgosten~, Bidgostiensi, Bidgostiensibus, Bydgostiensem]
+  forms: [Bidgostien~, Bidgosten~, Bidgostiensi, Bidgostiensibus, Bydgostiensem, Bidgostiae, "Bydgost[iensibus]", Bydgostiensibus]
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Inowrocław
   note: "Latin Junivladislavia"
-  forms: [Junivladislaviensi, Junivladislav~, Iunivladislaviense, Iunivladislaviensis, Iunivladislaviensium]
+  forms: [Junivladislaviensi, Junivladislav~, Iunivladislaviense, Iunivladislaviensis, Iunivladislaviensium, Junivladislavem, Junivladislaviae]
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Łęczyca
-  forms: [Lanciciensi, Lanciciensis]
+  forms: [Lanciciensi, Lanciciensis, Lancicien~, Lanciciae, Lancicie, Lanciciense]
   sure: yes
+  index: "yes: reference/places.yml, lenschitz"
+- polish: Wieluń
+  forms: [Vielunensis, "Vielun[ensi]"]
+  phrase: "Regens Terrestris Vielunensis"
+  sure: yes
+  index: "yes: reference/places.yml, wielun"
 - polish: Płock
   forms: [Plocen~, Plocensis]
   sure: yes
 - polish: Pyzdry
-  forms: [Pyzdrensis, Pyzdrensem, Pyzdrensibus]
+  forms: [Pyzdrensis, Pyzdrensem, Pyzdrensibus, Pyzdrensi, Pyzdra]
   phrase: "Acta Castrensia Pyzdrensia"
   sure: yes
+  index: "yes: reference/places.yml, pyzdry"
 - polish: Radziejów
   forms: [Radziejoviensis, Radziejoviensem, Radziejoviensi, Radziejovien~, Radziejviensis]
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Sieradz
-  forms: [Siradensis, Siradiensi]
+  forms: [Siradensis, Siradiensi, Siradiae]
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Kraków
   forms: [Cracoviensis]
   sure: yes
 - polish: Kościan
-  forms: [Costenensibus, Costensem]
+  note: "'Costen~' in Poznań Gr.1181, leaf 165 (the editor, 2026-11-27: 'Costen~ is what's written ... represents Kościan'); it had been taken for Gostynin."
+  forms: [Costenensibus, Costensem, Costen~]
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Kowal
   note: "the municipal court of Kowal"
   forms: [Covaliensis]
   phrase: "coram actis Castrensibus Covaliensibus"
   sure: yes
+  index: "no: known here only (the editor, 2026-11-27: no entry in the place register)"
 - polish: Rawa, Gostynin, Łomża, Czersk, Warszawa
   note: "the Masovian lands named together in one decree (53/6/0/-/40)"
   forms: [Ravensis, Gostinensis, Gostinense, Łomzensis, Cernensis, Varsaviensis]
@@ -122,6 +149,7 @@ places:
   forms: [Lusnensem]
   phrase: "Taberna Cauponatoria Lusnensis (the tavern of Lusnia)"
   sure: yes
+  index: "no: not in the place register"
 - polish: Trembowla (Terebovlia)
   note: "in an office: Venator Trębovliensis, Master of the Hunt of Trembowla"
   forms: [Trębivolien~]
