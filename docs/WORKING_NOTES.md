@@ -5438,3 +5438,14 @@ things learned while measuring it:
   alike; `reference/latin_audit/` holds the manifest, the tilde list, the citing texts, the briefs and the
   Gr.1181 open rows. The strip cutter cuts eight bands per page whatever the entry's line count: a
   two-line entry on a full page gave one useless band when it went by lines.
+- **Anchoring a change to a word that stands twice on a line**: take the occurrence by its position
+  (`word` in `tildes.json`), never the first match on the line. The first build of the expansion rows
+  anchored two different `Calissien~` of one line on the first, and gave the same anchor two different
+  endings; a duplicate check caught it. Anchor on neighbouring words that will not change (no tilde), and
+  test the rows in order on a copy of the text before writing (`latin_audit.py apply` without `--write`).
+- **Two independent readings for expansions work**: the guide's draft and a blind Sonnet reader given
+  only the sentence agreed with certainty on 435 of 837 forms; of the rest, most were marked unsure by one
+  side, and only three were real disagreements of case. Agreement must compare the whole word: comparing
+  only the last bracketed gap failed every form with a gap inside (`Cit[at]os`).
+- **The doubled-consonant rule must match the same letter in the same case**: `Ssmae~` (Sanctissimae) is
+  S with a superscript s, not a doubled consonant; a case-blind test dropped the capital.
