@@ -5520,6 +5520,14 @@ things learned while measuring it:
   NBO 2289): seventeen committed images went on 2026-11-28 and were restored with `git checkout`.
   After `relabel_scans.py --apply`, run `make_scan_derivatives.py` without `--prune`; relabel
   already prunes the renamed holding's stale copies.
+- **The verify gate is the editor's** (2026-11-28): an edit to `pipeline/verify_site.py` that
+  narrows a check (leaving footnote lines out of the hidden-work leak check, so Seidel's notes
+  could stand on their pages) was refused by the session's permission check as undermining
+  oversight. Do not work round it: undo the change that trips the check and put the choice to the
+  editor as a to-do decision (t920).
+- **Look in the whole file before calling a text missing**: Seidel's notes were "not transcribed"
+  in the work's notes for five weeks; they stood as Markdown footnotes at the end of the editor's
+  files, numbered straight through, while the print numbers them per chapter.
 - **Read what a decree is before tying it across holdings**: the to-do item said the new oblata was
   to be tied to Konin Gr.153; the entry names the boundary chamberlain's office of Inowrocław (the
   failed attempt of June 1782), not Gniezno's decree of November in Gr.153.

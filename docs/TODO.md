@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-64 open: 15 question, 9 decision, 14 task, 18 claude, 8 waiting.
+64 open: 15 question, 10 decision, 14 task, 17 claude, 8 waiting.
 
 ## APP 53/17/0/-/Konin Gr.145 and the Prusimski era folders
 
@@ -112,12 +112,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       separately.
       Concerns: [Wąsicki (1953)](/literature/wasicki1953/)
 
-- [ ] **Add Seidel's notes (pp. 257-266) from your Markdown file** (`t920-add-seidel-s-notes`, claude). You said (2026-11-27) that the notes of Seidel (2018) are in the Markdown file in
-      J:\Documents\Archive\Texts\Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen (2018,
-      Seidel), and that they should be included. Claude is to take them in; the book
-      stays summary-only on the site, and the leak check covers the notes too.
-      Concerns: [Seidel (2018)](/literature/seidel2018/)
-
 - [ ] **Propose timeline events from the books, for you to choose** (`t922-propose-timeline-events-from`, claude). You said yes (2026-11-27) to timeline events drawn from the books, selectively, and
       asked Claude to propose them since you do not know what should go in. Claude is to
       list the dated events in the literature that the documents do not already give,
@@ -133,6 +127,19 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       documents first and give each a proposal with its grounds, as items you can
       answer.
       Concerns: [Weigel](/people/weigel/), [Breyer (1938)](/literature/breyer1938/)
+      Full discussion: NEEDS_CONFIRMATION, "The literature".
+
+- [ ] **Allow Seidel's notes onto their printed pages?** (`t920-add-seidel-s-notes`, decision). Seidel's 168 notes are in the edition: your files carry them as footnotes at the end,
+      and they have been in the edition's copy since October (its notes wrongly said
+      they were missing). Claude moved them onto their printed pages 257-266 under the
+      chapter headings, matched to your page photographs, so a note can be cited with
+      its page and its number in the print. That makes the site check that a hidden
+      work's text is not shown fail: a note cites the title of Kraus (2001), which the
+      Literature page shows. The check could leave note lines ("[^52]: ...") out of what
+      it looks for; Claude was not allowed to change the check without you. Say whether
+      to change it and move the notes.
+      Options: Change the check and move the notes onto their pages / Leave the notes at the end (as now)
+      Concerns: [Seidel (2018)](/literature/seidel2018/)
       Full discussion: NEEDS_CONFIRMATION, "The literature".
 
 ## The place pages: Zagórów

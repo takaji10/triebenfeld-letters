@@ -1088,20 +1088,6 @@ items:
     label: Wąsicki (1953)
   nc: ''
   audit_note: ''
-- id: t920-add-seidel-s-notes
-  group: The literature (begun 2026-10-19)
-  title: Add Seidel's notes (pp. 257-266) from your Markdown file
-  kind: claude
-  text: You said (2026-11-27) that the notes of Seidel (2018) are in the Markdown file in J:\Documents\Archive\Texts\Friedrich
-    Ludwig, Fürst zu Hohenlohe-Ingelfingen (2018, Seidel), and that they should be included. Claude is
-    to take them in; the book stays summary-only on the site, and the leak check covers the notes too.
-  options: []
-  links:
-  - type: lit
-    slug: seidel2018
-    label: Seidel (2018)
-  nc: ''
-  audit_note: ''
 - id: t921-read-the-bruntsch-and
   group: APP 53/968/0/-/669 - Breyer's notebooks
   title: Read the Bruntsch and Honrichs entries in the other Breyer notebooks
@@ -1149,6 +1135,26 @@ items:
   - type: lit
     slug: breyer1938
     label: Breyer (1938)
+  nc: The literature
+  audit_note: ''
+- id: t920-add-seidel-s-notes
+  group: The literature (begun 2026-10-19)
+  title: Allow Seidel's notes onto their printed pages?
+  kind: decision
+  text: 'Seidel''s 168 notes are in the edition: your files carry them as footnotes at the end, and they
+    have been in the edition''s copy since October (its notes wrongly said they were missing). Claude
+    moved them onto their printed pages 257-266 under the chapter headings, matched to your page photographs,
+    so a note can be cited with its page and its number in the print. That makes the site check that a
+    hidden work''s text is not shown fail: a note cites the title of Kraus (2001), which the Literature
+    page shows. The check could leave note lines ("[^52]: ...") out of what it looks for; Claude was not
+    allowed to change the check without you. Say whether to change it and move the notes.'
+  options:
+  - Change the check and move the notes onto their pages
+  - Leave the notes at the end (as now)
+  links:
+  - type: lit
+    slug: seidel2018
+    label: Seidel (2018)
   nc: The literature
   audit_note: ''
 done:

@@ -6595,3 +6595,6 @@ sources-icon.html`).
 - Konin Gr.116, document 1 dated by the heading the editor then supplied (p. 77, Monday 14 August 1775; t924 closed).
 - `merge_documents.py` and `merge_check.py`: renumbering without a merge (a document put in), the `sitting:` dates, `sitting_headings.yml`, and pages that already held two entries.
 
+## 2026-11-28 - Seidel (2018): the notes were there all along
+
+- The 168 notes of Seidel's biography are in the edition's copy since 2026-10-19, as the footnotes at the end of the editor's files (cut with the last passage); the work's notes wrongly said they were missing, and now say so. Putting them on their printed pages 257-266 was done and undone the same day: it trips the check that a hidden work's text is not on the site (a note cites Kraus's title, which the Literature page shows). The page breaks and the key to the print's per-chapter numbering are in `literature/seidel2018/notes.md`; the move waits on the editor (to-do t920).
