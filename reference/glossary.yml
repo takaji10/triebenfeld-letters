@@ -204,8 +204,8 @@ entries:
 - id: imperial
   kind: money
   lang: la
-  head_en: imperial
-  head_de: Imperial
+  head_en: imperial (plural imperials)
+  head_de: Imperial (Plural Imperialen)
   orig: Imperialium (Latin, genitive plural)
   # Added 2026-11-26 with Pyzdry Gr.75, where Tracholz's first claim is reckoned in imperials
   # (HOUSE_STYLE, "Units of measurement and money": a unit is in the glossary before it is

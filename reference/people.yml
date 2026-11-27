@@ -880,7 +880,8 @@ people:
     # In the decree of 1728 (APP 53/6/0/-/40) "Prusimski" is Krzysztof, his
     # grandfather, and "Antonio Prusimski filio" the uncle of the same name:
     # prusimski-krzysztof.
-    not_in: [app536040-1, app53170koningr136-1]
+    # In Pyzdry Gr.75 (the transfer of 1768) "Prusimski" is Paweł and his late brother, the elder Antoni.
+    not_in: [app536040-1, app53170koningr136-1, app5321pyzdrygr75-1]
     tier: "Text-confirmed (Anton von Prusimski, Starost); full name user-provided"
     identity: >-
       Antoni Ostroróg-Prusimski, Starost of Niszczewice, the owner of the
@@ -916,7 +917,7 @@ people:
     # "Pana Pawłá Pruſińſkie¬go" in the Kuryer Polski of 1754, the line broken
     # in the name.
     match: 'Pru[sz]+ie?mski(?![a-zà-ÿ])|(?<=Kolna )Prusiński|(?<=Pawłá )Prusińskie'
-    only_in: [app53170koningr136-1, app53170koningr117-3, app53170koningr117-7, app53170koningr118-23, app539680783-1, kuryerpolski1754075-1]
+    only_in: [app53170koningr136-1, app53170koningr117-3, app53170koningr117-7, app53170koningr118-23, app539680783-1, kuryerpolski1754075-1, app5321pyzdrygr75-1]
     tier: "Text-confirmed"
     variants: []
     identity: "Paweł Prusimski, chamberlain of His Royal Majesty and heir of Trąbczyn with its appurtenances, who died not long before July 1754; husband of Katarzyna, born Rozdrażewska (APP 53/17/0/-/Konin Gr.136: 'olim Magnifici Pauli Prusimski Succamerarii suae Regiae Majestatis non pridem vita functi Bonorum Trąmpczyn cum attinentiis Haeredis'). Antoni Prusimski, the Starost, calls him his paternal uncle in his protest of March 1778 ('apud olim Magnificum Paulum Prusimski, sui Manifestantis Patruum', APP 53/17/0/-/Konin Gr.117), where a contract of 1744 for oak timber between him and the townsman Jan Tracholz is the ground of a suit. A citation of 1782 names him among the sons of Krzysztof Prusimski and Teresa Golińska, with Jan, Bogumił, Antoni and Stefan, the Starost's father, and says that he died childless (APP 53/17/0/-/Konin Gr.118, document 23). Added 2026-10-07."
@@ -1045,7 +1046,8 @@ people:
     # in the Konin register of 1781-82 the feast of SS Simon and Jude and the messenger Simon Głabik.
     # In the Kodeks Dyplomatyczny Wielkopolski "Simon" is the castellan of Gniezno (1261) and the
     # father of Janko (1276).
-    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10, app53170koningr119-1, kdw-4, kdw-5]
+    # In Pyzdry Gr.75 "Simon" is the merchant of Szczecin to whom Paweł Prusimski sold the timber.
+    not_in: [app53170koningr145-1, app53170koningr118-5, app53170koningr118-10, app53170koningr119-1, kdw-4, kdw-5, app5321pyzdrygr75-1]
     tier: ""
     variants: []
     identity: "The merchant Simon, for whom an asset was registered on Kolno and Kamionna; the bank official Leixner borrowed on it (III. HA MdA, III Nr. 12765, document 5). Identity added 2026-10-01."

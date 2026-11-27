@@ -157,7 +157,7 @@ PAGES = [
     'No. 39: The Excellent Jan Tracholz, merchant and inhabitant of Witkowo, sound in mind and body, '
     'openly, withdrawing, etc., acknowledged that he himself, wholly and entirely, his own '
     'monetary sums, one of them being 1,053 imperials, 13 groszy and 6 Pfennig[?], '
-    'owed through the late Right Honourable Paweł Prusimski, for trees bought by the present acknowledger, the '
+    'due from the late Right Honourable Paweł Prusimski, for trees bought by the present acknowledger, the '
     'honourable Tracholz, in the pine forests and woods of Trąbczyn by means of a contract written out for '
     'the said late Right Honourable Prusimski for the purchase of those same trees [...], worked out from the '
     'honourable acknowledger Tracholz\'s own funds and care (although the same late Right Honourable '
@@ -168,7 +168,7 @@ PAGES = [
     'written acknowledgement of the same honourable Simon, merchant of Szczecin, commonly called an '
     '*Auscuk* [the German Auszug, an extract of account], attests);\n\n'
     'and then a second sum, of 1,513 złoty, spent by the same honourable Tracholz, the present '
-    'acknowledger, partly on the making of sawn goods, that is, nine stacks of *Klapek* [a kind of sawn timber], commonly called '
+    'acknowledger, partly on the making of sawn goods, that is, nine stacks[?] of *Klapek* [a trade name of sawn timber], commonly called '
     '*Rynek*, likewise seized by the late Right Honourable Antoni Prusimski, full brother of the same late '
     'Right Honourable Paweł Prusimski, by reason of what followed upon the pine forests and '
     'woods in controversy and inquiry between them, seized in this pine forest; spent by the acknowledger, '
@@ -189,7 +189,7 @@ PAGES = [
     'successors of the Prusimskis; and by the present act [...] and conceding [...], '
     'this his personal acknowledgement freely assenting to the foregoing.\n\n'
     'Jan Tracholz, by his held hand\n\n'
-    'On the transfer of his right in the person of M. Chełmski',
+    'On the transfer of his right in[?] the person of the Right Honourable Chełmski',
 ]
 
 
@@ -200,22 +200,26 @@ def english():
 # ---------------------------------------------------------------- the summaries
 S = {
  1: ('Der Kaufmann Jan Tracholz aus Witkowo erklärt vor dem Burggericht in Pyzdry, dass er an Stanisław '
-     'Chełmski, der ihn dafür bezahlt, seine eigenen Geldforderungen an den verstorbenen Paweł Prusimski '
-     'abtritt. Die erste Summe, 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Pfennig, betrifft Bäume aus '
-     'den Kiefernwäldern von Trąbczyn, die er aufgrund eines schriftlichen Vertrags gekauft hatte und die '
-     'Prusimski ihm gewaltsam wegnahm und an einen Kaufmann Simon aus Stettin verkaufte. Die zweite, 1513 Złoty, '
-     'hatte er teils für die Herstellung von Schnittware (neun Stapel) aufgewendet, die Pawełs leiblicher Bruder '
-     'Antoni Prusimski ebenfalls wegnahm, teils zu Pawełs Nutzen ausgelegt. Mit den Summen gehen die Rechte '
-     'daran, die Zinsen und das von Tracholz gegen Paweł Prusimskis Nachfolger eingeleitete Verfahren über. '
-     'Tracholz unterschreibt mit „gehaltener Hand“, von einer fremden Hand geführt.',
+     'Chełmski, Besitzer von Łukom neben Trąbczyn, der ihn dafür bezahlt, seine eigenen Forderungen an den '
+     'verstorbenen Paweł Prusimski, den Erben von Trąbczyn, abtritt. Die erste Summe, 1053 Imperialen, 13 Groschen '
+     'und (wie es scheint) 6 Pfennig, betrifft Bäume aus den Kiefernwäldern von Trąbczyn, die Tracholz aufgrund '
+     'eines schriftlichen Vertrags gekauft hatte und die Paweł Prusimski ihm gewaltsam wegnahm und an einen '
+     'Kaufmann Simon aus Stettin verkaufte. Die zweite, 1513 Złoty, hatte Tracholz teils für die Herstellung von '
+     'Schnittware (neun Stapel) aufgewendet, die Pawełs verstorbener leiblicher Bruder, der ältere Antoni '
+     'Prusimski, ebenfalls wegnahm, teils zu Pawełs Nutzen ausgelegt; dazu kommen weitere Summen aus seinen '
+     'Schriften und Registern. Mit den Forderungen übergibt Tracholz die Rechte daran, die Zinsen und das von ihm '
+     'gegen Paweł Prusimskis Nachfolger eingeleitete Verfahren. Tracholz unterschreibt mit „gehaltener Hand“, '
+     'von einer fremden Hand geführt.',
      'The merchant Jan Tracholz of Witkowo declares before the municipal court of Pyzdry that he makes over to '
-     'Stanisław Chełmski, who pays him for them, his own monetary claims against the late Paweł Prusimski. The '
-     'first sum, 1,053 imperials, 13 groszy and (it seems) 6 Pfennig, concerns trees from the pine forests of '
-     'Trąbczyn that he had bought under a written contract and which Prusimski seized from him by force and '
-     'sold to a merchant Simon of Szczecin. The second, 1,513 złoty, he had spent partly on the making of sawn '
-     'goods (nine stacks), which Paweł\'s full brother Antoni Prusimski likewise seized, and partly laid out for '
-     'Paweł\'s benefit. With the sums pass the rights to them, the interest, and the proceedings Tracholz had '
-     'begun against Paweł Prusimski\'s successors. Tracholz signs "by his held hand", another hand guiding his.'),
+     'Stanisław Chełmski, owner of Łukom beside Trąbczyn, who pays him for them, his own claims against the late '
+     'Paweł Prusimski, heir of Trąbczyn. The first sum, 1,053 imperials, 13 groszy and (it seems) 6 Pfennig, '
+     'concerns trees from the pine forests of Trąbczyn that Tracholz had bought under a written contract and '
+     'which Paweł Prusimski seized from him by force and sold to a merchant Simon of Szczecin. The second, 1,513 '
+     'złoty, Tracholz had spent partly on the making of sawn goods (nine stacks), which Paweł\'s late full brother, '
+     'the elder Antoni Prusimski, likewise seized, and partly laid out for Paweł\'s benefit; other sums set out in '
+     'his writings and registers go with them. With the claims Tracholz hands over the rights to them, the '
+     'interest, and the proceedings he had begun against Paweł Prusimski\'s successors. Tracholz signs "by his '
+     'held hand", another hand guiding his.'),
 }
 HOW = ('written in the working session from the corrected transcription (2026-11-26).')
 

@@ -149,8 +149,8 @@
 - id: "imperial"
   kind: "money"
   lang: "la"
-  head_en: "imperial"
-  head_de: "Imperial"
+  head_en: "imperial (plural imperials)"
+  head_de: "Imperial (Plural Imperialen)"
   orig: "Imperialium (Latin, genitive plural)"
   short_en: "The thaler of the Holy Roman Empire, in Polish talar imperialny: a large silver coin of German minting that circulated in Poland beside the złoty and the grosz. The merchant Jan Tracholz's claim of 1768 for timber from the Trąbczyn forests is reckoned in it."
   short_de: "Der Taler des Heiligen Römischen Reiches, polnisch talar imperialny: eine große Silbermünze deutscher Prägung, die in Polen neben dem Złoty und dem Groschen umlief. Die Forderung des Kaufmanns Jan Tracholz von 1768 für Holz aus den Wäldern von Trąbczyn ist in ihr gerechnet."
@@ -161,9 +161,9 @@
   lang_note_en: ""
   source_html: ""
   checked: false
-  sort_en: "imperial"
+  sort_en: "imperial (plural imperials)"
   initial_en: "I"
-  sort_de: "imperial"
+  sort_de: "imperial (plural imperialen)"
   initial_de: "I"
   docs: 1
   docs_list: [{"url": "/documents/app5321pyzdrygr75/1/", "text": "53/21/0/-/Pyzdry Gr.75, 1"}]

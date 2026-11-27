@@ -5,16 +5,15 @@ slug: app5321pyzdrygr75
 ref: 53/21/0/-/Pyzdry Gr.75
 archive: Archiwum Państwowe w Poznaniu (APP)
 title: >-
-  The declaration of the merchant Jan Tracholz of Witkowo before the Pyzdry
-  court in 1768, by which he made over to Stanisław Chełmski his claims against
-  the late Paweł Prusimski and the Prusimski heirs: 1,053 imperials, 13 groszy and (it seems) 6 Pfennig for pine timber from the Trąbczyn forests, and 1,513 złoty for
-  sawn goods.
+  The merchant Jan Tracholz of Witkowo makes over to Stanisław Chełmski, before the municipal
+  court of Pyzdry in 1768, his claims against the late Paweł Prusimski of Trąbczyn: 1,053
+  imperials, 13 groszy and (it seems) 6 Pfennig for pine timber from the Trąbczyn forests, and
+  1,513 złoty for sawn goods and other outlays.
 title_de: >-
-  Die Erklärung des Kaufmanns Jan Tracholz aus Witkowo vor dem Gericht in
-  Pyzdry im Jahr 1768, mit der er seine Forderungen an den verstorbenen Paweł
-  Prusimski und die Prusimski-Erben an Stanisław Chełmski abtrat: 1053 Imperialen, 13 Groschen und (wie es scheint) 6 Pfennig für Kiefernholz aus den Wäldern von Trąbczyn und
-  1513 Złoty für Schnittware.
-# The archive's own title of the unit, as the editor's folder gives it.
+  Der Kaufmann Jan Tracholz aus Witkowo tritt 1768 vor dem Burggericht in Pyzdry Stanisław
+  Chełmski seine Forderungen an den verstorbenen Paweł Prusimski von Trąbczyn ab: 1053 Imperialen,
+  13 Groschen und (wie es scheint) 6 Pfennig für Kiefernholz aus den Wäldern von Trąbczyn und
+  1513 Złoty für Schnittware und andere Auslagen.
 archive_title: >-
   Inscriptiones [protocollon] 1768-1781
 card_title: "Pyzdry Municipal Court: Inscriptiones [protocollon] 1768-1781"
@@ -45,43 +44,34 @@ scans:
 corpus: corpus.txt
 
 description: >-
-  One entry of the register of the municipal court and office of Pyzdry, on leaves
-  19 and 19 verso of the volume Inscriptiones [protocollon] 1768-1781: entry
-  no. 39, in Latin with a Polish closing formula, the declaration made
-  before the court by the merchant Jan Tracholz (written Traholtz in the
-  entry), inhabitant of Witkowo. He declares that he makes over to the Right
-  Honourable Stanisław Chełmski, who pays him for them, his own sums claimed
-  from the late Paweł Prusimski: first 1,053 imperials, 13 groszy and (it seems) 6 Pfennig for
-  pine trees he had bought in the Trąbczyn forests under a written contract
-  and which Prusimski had seized by force and sold to a merchant of Stettin,
-  and then 1,513 złoty spent on nine stacks of sawn goods, seized in the
-  same way by Antoni Prusimski, Paweł's full brother, after the pine forest
-  was cut. With the sums he hands over the rights, ownership and legal
-  proceedings brought against the Prusimski successors. The merchant signs
-  "by his held hand", with another's hand guiding his. The entry has no date
-  on its page; the transfer is dated by another entry of the edition
-  (rulings.yml).
-
+  The merchant Jan Tracholz, inhabitant of Witkowo (written Traholtz), declares before the
+  municipal court of Pyzdry that he makes over to Stanisław Chełmski, Treasurer of Wschowa and
+  owner of Łukom beside Trąbczyn, who pays him for them, his own claims against the late Paweł
+  Prusimski, heir of Trąbczyn: first 1,053 imperials, 13 groszy and (it seems) 6 Pfennig for pine
+  trees he had bought in the Trąbczyn forests under a written contract and which Paweł Prusimski
+  had seized by force and sold to a merchant of Szczecin; then 1,513 złoty, spent partly on nine
+  stacks of sawn goods, which Paweł's late brother, the elder Antoni Prusimski, seized likewise
+  after a dispute over the forests, and partly laid out for Paweł's benefit; and other sums set out
+  in his papers. With the claims he hands over the rights to them and the legal proceedings he had
+  begun against Paweł Prusimski's successors. The merchant signs "by his held hand", with another's
+  hand guiding his. In Latin, with a Polish closing formula. The Konin land court's decree of
+  October 1777 (APP 53/6/0/-/46, document 2) dates the transfer to 7 September 1768.
 translation_note: >-
-  A declaration of 1768 in the abbreviated Latin of a Polish municipal (grod)
-  court. "Recognovit" begins the acknowledgement made before the court;
-  "transfusio" is the transfer (cession) of a claim to another, here to
-  Chełmski, who pays for it; "jus legati" a right by legacy. The "Excellens"
-  and "honoratus" are the clerk's courtesies, as in the other court books.
-  "Borra" is a pine forest and "sylva" woodland; "secamina" sawn goods;
-  "Klapek" and "Rynek" are trade names of sawn timber that the transcription
-  leaves unexplained, as written. "Auscuk" in the transcription is the
-  German Auszug, an extract or statement of account. The merchant's name
-  stands here as Traholtz; the edition's form of it is Tracholz. Stettin is
-  Szczecin. The closing "ręką trzymaną" ("by his held hand") is Polish, the
-  formula of a signature made with another's hand guiding the writer's.
-
+  A declaration of 1768 in the abbreviated Latin of a Polish municipal court (sąd grodzki, in
+  Latin iudicium castrense). "Recognovit" begins the acknowledgement made before the court;
+  "transfusio" is the transfer (cession) of a claim to another, here to Chełmski, who pays for it;
+  "jus legati" a right by legacy. "Excellens" and "honoratus" are courtesies, as in the other court
+  books. "Borra" is a pine forest and "sylva" woodland; "secamina" sawn goods; "Klapek" and "Rynek"
+  are trade names of sawn timber whose meaning is not known. "Auscuk" is the German Auszug, an
+  extract or statement of account. The merchant's name is written Traholtz here and Tracholz in the
+  other documents; the English uses Tracholz. Stettin is Szczecin. "Floreni" are złoty; "grossi"
+  are groszy. The closing "ręką trzymaną" ("by his held hand") is Polish, the formula of a signature
+  made with another's hand guiding the writer's.
 prepared:
   transcription:
   - t-editor
-  - en: Claude then compared the editor's text with the two page images, line by line, with two further readers, and corrected it where the page is plain; among the corrections are words the transcription had passed over. The editor then ruled on the places that were not plain, and changed several of Claude's corrections back. A few words remain doubtful and are marked so.
-    de: Claude verglich anschließend den Text des Herausgebers Zeile für Zeile mit den beiden Seitenbildern, zusammen mit zwei weiteren Lesern, und korrigierte ihn, wo die Seite eindeutig ist; unter den Korrekturen sind Wörter, die die Transkription übergangen hatte. Der Herausgeber entschied danach über die unklaren Stellen und nahm mehrere von Claudes Korrekturen zurück. Einige Wörter bleiben zweifelhaft und sind so gekennzeichnet.
-  - t-latin-expanded
+  - en: Claude then compared the editor's text with the two page images, line by line, with two further readers working by AI, and corrected it where the page is plain; among the corrections are words the transcription had passed over. The editor settled the places that were not plain. A few words remain doubtful and are marked so.
+    de: Claude verglich anschließend den Text des Herausgebers Zeile für Zeile mit den beiden Seitenbildern, zusammen mit zwei weiteren KI-Lesern, und korrigierte ihn, wo die Seite eindeutig ist; unter den Korrekturen sind Wörter, die die Transkription übergangen hatte. Der Herausgeber entschied über die unklaren Stellen. Einige Wörter bleiben zweifelhaft und sind so gekennzeichnet.
   translation:
   - l-claude
   - s-claude

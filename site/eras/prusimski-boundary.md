@@ -46,10 +46,11 @@ of more than thirty Trąbczyn subjects in Prusimski's presence
 ([the reports]({{ '/documents/app53170koningr115/5/' | relative_url }})).
 
 Stanisław Chełmski's claims on Trąbczyn were not only about land. In September 1768 a merchant of Witkowo, Jan Tracholz,
-made over to him, before the court of Pyzdry, what he claimed from the late Paweł Prusimski for pine
-timber seized in the Trąbczyn forests: 1,053 imperials, 13 groszy and (it seems) 6 Pfennig, and 1,513 złoty
-([the transfer]({{ '/documents/app5321pyzdrygr75/1/' | relative_url }})). On that claim Chełmski sued Antoni
-Prusimski, in the decree of October 1777 and the citations that followed, until 1786
+made over to him, before the municipal court of Pyzdry, what he claimed from the late Paweł Prusimski, Antoni's uncle and
+heir of Trąbczyn before him: 1,053 imperials, 13 groszy and (it seems) 6 Pfennig for pine timber Paweł had seized in the
+Trąbczyn forests, and 1,513 złoty for sawn goods and other outlays
+([the transfer]({{ '/documents/app5321pyzdrygr75/1/' | relative_url }})). On those claims Chełmski sued Antoni
+Prusimski, in the decree of October 1777 and the citations that followed; the suit was still before the courts in 1786
 ([the decree]({{ '/documents/app536046/2/' | relative_url }})).
 
 The Polish parliament tried to end the matter. The commission it appointed met in the

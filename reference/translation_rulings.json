@@ -23,7 +23,8 @@
   "app5321pyzdrygr75-001|2|marker-check|5 in German": "Claude, 2026-11-26 (for the editor to confirm): the German's \"fun[d?]u[m?]\" is two letter-level marks in one word; the English marks the word once ([uncertain: the capital]).",
   "app5321pyzdrygr75-001|2|glossary-mismatch|Dominium": "Claude, 2026-11-26 (for the editor to confirm): \"jure suo Dominio proprietato et competentia\" is the legal series right, dominion, ownership; Dominium here is the jurist's dominion, not the manorial lordship the termbase rule renders, so the English reads \"dominion\".",
   "app5321pyzdrygr75-001|1|marker-check|4 in German": "Claude, 2026-11-26 (for the editor to confirm): the fourth German mark is \"Stru[i]um\", a letter-level doubt (the editor: it should be Struium, 'stacks'); the English reads 'stacks' with no doubt.",
-  "app5321pyzdrygr75-001|2|marker-check|8 in German": "Claude, 2026-11-26 (for the editor to confirm): the German's 8 marks include letter-level doubts inside words whose sense is fixed (\"un[s?][u?][o?]n\", \"ac[u?]um\", \"process[ae?]\"); the English marks each such word once or not at all, by the rule of 2026-11-22 (EDITORIAL_RULES, \"An unread word in the English\")."
+  "app5321pyzdrygr75-001|2|marker-check|8 in German": "Claude, 2026-11-26 (for the editor to confirm): the German's 8 marks include letter-level doubts inside words whose sense is fixed (\"un[s?][u?][o?]n\", \"ac[u?]um\", \"process[ae?]\"); the English marks each such word once or not at all, by the rule of 2026-11-22 (EDITORIAL_RULES, \"An unread word in the English\").",
+  "app5321pyzdrygr75-001|1|unmarked-in-german|4 marked": "Claude, 2026-11-26 (for the editor to confirm): the fifth English mark, \"stacks[?]\", stands for the transcription's \"Stru[i]um\", whose bracketed letter the checker does not count as a mark of doubt."
  },
  "cleared": [
   "adwl85-002|1|name-check|Olesnica",
@@ -149,6 +150,7 @@
   "app5320pozgr1181-001|9|number-check|1727",
   "app5320pozgr1181-001|9|number-check|27",
   "app5321pyzdrygr75-001|1|marker-check|4 in German",
+  "app5321pyzdrygr75-001|1|unmarked-in-german|4 marked",
   "app5321pyzdrygr75-001|2|glossary-mismatch|Dominium",
   "app5321pyzdrygr75-001|2|marker-check|5 in German",
   "app5321pyzdrygr75-001|2|marker-check|8 in German",
