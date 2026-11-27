@@ -2323,12 +2323,12 @@ people:
 # --- APP 53/20/0/-/Poznań Gr.1181 (added 2026-10-26) ---
 
 skarbek-gora:
-  display: "Eugeniusz de Góra Skarbek, castellan of Uniejów"
+  display: "Eugeniusz de Góra Skarbek, son of the castellan of Inowrocław"
   render: "Eugeniusz Skarbek"
   match: "Skarbek\\w*"
   tier: "Text-confirmed"
   variants: []
-  identity: "Eugeniusz de Góra Skarbek, castellan [written 'Castellanida'] of Uniejów (Junivladislavia), a witness at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181). The castellany of Uniejów sat in the palatinate of Łęczyca; the scribe's 'Junivladislaviensis' is its Latin. Not known further to the edition. Added 2026-10-26."
+  identity: "Eugeniusz de Góra Skarbek, son of the castellan [written 'Castellanida', the Polish kasztelanic] of Inowrocław (Junivladislavia), a witness at the condescensio of 29 March 1784 on the Trąbczyn grounds (Poznań Gr.1181). Iunivladislavia is the Latin of Inowrocław; the reading Uniejów of 2026-10-26 corrected 2026-11-27. Not known further to the edition. Added 2026-10-26."
   merge: false
 
 zelislawski:

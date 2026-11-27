@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-89 open: 21 question, 24 decision, 25 task, 11 claude, 8 waiting.
+88 open: 21 question, 24 decision, 24 task, 11 claude, 8 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -56,15 +56,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       Full discussion: NEEDS_CONFIRMATION, "APP 53/21/0/-/Pyzdry Gr.115".
 
 ## The Latin transcriptions, all court books
-
-- [ ] **Answer the Latin audit's spot sheet of 58 questions** (`t909-latin-audit-sheet`, task). The audit has read all the Latin on your original scans (but the Oe 1 Bü 14526 deed) and
-      corrected what two readers and Claude could prove; nothing is published. The spot
-      sheet holds what the pages did not settle, among them two questions for all the
-      court books (bracketing the routine abbreviations; writing out the king's titles)
-      and 49 rows of the old Poznań Gr.1181 sheet. Ask Claude to serve it
-      (latin_audit.py serve, then 127.0.0.1:4102 in the browser): click an answer on
-      each card, and the answers save as you go.
-      Concerns: [Poznań Gr.1181](/sources/app5320pozgr1181/)
 
 - [ ] **Should the index find the Latin place adjectives?** (`t911-latin-place-adjectives`, decision). The place index finds Kalisz, Konin and Pyzdry only in their Polish and German forms,
       never in the court books' Latin adjectives (Calissiensis, Coninensis, Pyzdrensis).

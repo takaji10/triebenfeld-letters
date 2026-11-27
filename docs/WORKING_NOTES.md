@@ -5565,3 +5565,20 @@ things learned while measuring it:
   `nocrop` in answers.json, listed by `serve --read` with the band last looked at) and shows "Show the part
   above / below", which move the three-band crop two bands up or down in place. The answer buttons carry
   class `ans`, so the crop buttons are not taken for answers.
+- **Republishing English after the faithfulness review** (2026-11-27, nearly done wrong). The review of
+  2026-11-04 corrected the English in the translation cache and in `site/_data/translations/`, never in the
+  holdings' `intake/translation/doc<N>.yml` nor in the court books' `holding.py` FIXES. Saving the cache from
+  doc<N>.yml (write_cache.py, `courtbook.save_cache`, `holding.py --cache`) and republishing undid those
+  corrections in 13 documents of five holdings (Inowrocław and 5,500 in Gr.1181 among them); caught only because
+  the site diff touched documents the sitting had not edited. The way now: save the cache (for the new
+  source_hash), run `pipeline/translate/cache_from_site.py <uid> --head` to put the live English back, apply the
+  edits to the cache, check, publish, and read `git diff --word-diff` of every site file: the new edits and
+  nothing else. **A site file changing that the sitting did not mean to change is a regression until shown not.**
+- **Konin Gr.118's `holding.py --english` is broken**: an older full-check fix ("and when the Appearing [party],
+  on behalf of the Manifesting") no longer matches the editor's English. Its doc<N>.yml are edited by hand.
+- **Read the answers of an editor's sheet against their typed text, not the option labels alone.** On the
+  Latin audit's sheet an answer typed on one card settled another (row 20's text gave the clause asked in
+  row 53, read differently from the option "as the reader reads it"); the typed reading wins. A slip in the
+  typing ("Quadragina") is checked on the band, not copied.
+- **The Bash tool cannot take a heredoc holding an odd number of apostrophes** ("unexpected EOF while looking
+  for matching `''"), quoted delimiter or not. Write the script to the scratchpad with the Write tool and run it.

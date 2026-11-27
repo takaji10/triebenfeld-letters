@@ -108,6 +108,14 @@ FIXES = [
      'the words restored: "Injungi. Caetera Secundum Conclusionem ponendam"'),
 ]
 
+# The king's titles and the words the transcription had shortened, written out (the editor on the Latin
+# audit's spot sheet, 2026-11-27: nothing on the page is dropped)
+FIXES += [
+    ('by the Grace of God King of Poland, etc. To you,',
+     'by the Grace of God King of Poland, Grand Duke of Lithuania, Russia, Prussia, Masovia, Samogitia, Kyiv, Volhynia, Podolia, Podlachia, Livonia, Smolensk, Severia and Chernihiv. To you,',
+     'the editor, 2026-11-27: nothing dropped'),
+]
+
 
 def english():
     f = glob.glob(os.path.join(glob.escape(RAW), '*(English).md'))

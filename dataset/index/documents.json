@@ -2085,8 +2085,8 @@
     "image": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg"
    }
   ],
-  "uncertainty_count": 1,
-  "has_damage": false,
+  "uncertainty_count": 2,
+  "has_damage": true,
   "rough_transcription": false,
   "mentions": 2,
   "places_named": 4,
@@ -4363,7 +4363,7 @@
     "image": "APP_53_17_0_Konin_Gr_117_0272_a2-L11_01.jpg"
    }
   ],
-  "uncertainty_count": 6,
+  "uncertainty_count": 4,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
@@ -6343,7 +6343,7 @@
     "image": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg"
    }
   ],
-  "uncertainty_count": 284,
+  "uncertainty_count": 242,
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,

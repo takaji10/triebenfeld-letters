@@ -28,3 +28,18 @@ changes:
   what: "At your word, no modern names beside the words: the place adjectives are expanded in the Latin, the ending from the sentence (in Palatinatu Calis[siensi] et Districtu Coninen[si]; in Palatinatu et Districtu Pos[naniensi]; Tribuni Covalien[sis]; Regente Terrestri Vielun[ensi]), Brm~ is B[ono]r[u]m, and \"Pyzdra\" keeps its letters alone."
   was: "Calis[ssens?][Kalisz] ... Coninen[sem?][Konin] ... Pos~[Poznan] ... Covalien[sis?][Kowal] ... Vielun[em?][Wieluń?] ... Brm~[Bonorum?] ... Pyzdra[Pyzdry?]"
   now: "Calis[siensi] ... Coninen[si] ... Pos[naniensi] ... Covalien[sis] ... Vielun[ensi] ... B[ono]r[u]m ... Pyzdra"
+- importance: significant
+  new: "2026-11-27"
+  what: "Your answers on the Latin audit's spot sheet. Two clauses your text skipped are restored: on 161 \"reliquis per eundem Magnificum Ludovicum Zakrzewski suo Parentis ac Fratris nunc personaliter,\", and on 162 \"Generosi Szkad[?]i Trium Millium fp tum ex Ins~ione [?]orcali Quadraginta millium fp\"; the line on 167 verso as Claude read it; \"Mca\" at the foot of 163."
+  was: "jam vero Magnificis Paulo ... Nierzychowska [?]ginta millium fp atque ... super eisdem bonii[?] JMcum~ Prusimski ... cum olim"
+  now: "jam vero reliquis per eundem ... personaliter, Magnificis Paulo ... Nierzychowska Triginta millium fp Generosi Szkad[?]i ... Quadraginta millium fp atque ... super eorumq~ bonis Heren~[?] ... Illmum Prusimski ... cum olim Mca"
+- importance: fact
+  new: "2026-11-27"
+  what: "Your answers on the spot sheet, names: Zerniki (163 and 163 verso), Micaeli Odechowski (163 verso; Caroli on 164 verso stands), Zabricki, Strzałkowianis, Rzechcicka / Rzechcicki, Obiesierski, Kęszyccianis[?], Skoki, Mokronos, Ludovico, Marszłynówna, Zboinski Subdapiferida, Dziembowski, Radolinscianorum, Costen~."
+  was: "Termilis[?] / Ternilis[?] ... Mica[w?]li ... Zabriski[?] ... Strzałko[?]iamis[?] ... Rzek[?]icka / Rzechicki[?] ... Obiesierski[?] / Obierun[?]skie ... Kęszy[?]ciami[?] ... Skoli[s?] ... Mokronos[??] ... Lu[s?]br[?]co ... Marszłynowna[?] ... Zboinatis Subdapifinda[?] ... [?]bowski ... Radolensianorum[?] ... Costensem[?]"
+  now: "Zerniki ... Micaeli ... Zabricki ... Strzałkowianis ... Rzechcicka / Rzechcicki ... Obiesierski / Obiesierskie ... Kęszyccianis[?] ... Skoki ... Mokronos ... Ludovico ... Marszłynówna ... Zboinski Subdapiferida ... Dziembowski ... Radolinscianorum ... Costen~"
+- importance: wording
+  new: "2026-11-27"
+  what: "Your answers on the spot sheet, words: Triginta, pretio, principali, quietationibus ... reponidem, prout (twice), quinimo, sortis, inaugurat~, adscripsit, addidem MRS, in Caelem GV Mariae anno 1737, Arbitratum, sororem, alterius post, actis, [conjuges?], Generosae Nierzychowska; Se~ Re~ Mtis is written S[acra]e R[egia]e M[ajes]t[at]is."
+  was: "(see the list in transcription_decisions.csv)"
+  now: "(see the list)"

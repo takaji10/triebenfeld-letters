@@ -98,23 +98,6 @@ groups:
     h: d8a9e057
 - name: The Latin transcriptions, all court books
   items:
-  - id: t909-latin-audit-sheet
-    title: Answer the Latin audit's spot sheet of 58 questions
-    kind: task
-    text: 'The audit has read all the Latin on your original scans (but the Oe 1 Bü 14526 deed) and corrected
-      what two readers and Claude could prove; nothing is published. The spot sheet holds what the pages
-      did not settle, among them two questions for all the court books (bracketing the routine abbreviations;
-      writing out the king''s titles) and 49 rows of the old Poznań Gr.1181 sheet. Ask Claude to serve
-      it (latin_audit.py serve, then 127.0.0.1:4102 in the browser): click an answer on each card, and
-      the answers save as you go.'
-    options: []
-    links:
-    - label: Poznań Gr.1181
-      href: /sources/app5320pozgr1181/
-    nc: ''
-    note: ''
-    editor_note: ''
-    h: 4081347e
   - id: t911-latin-place-adjectives
     title: Should the index find the Latin place adjectives?
     kind: decision
@@ -1659,7 +1642,7 @@ groups:
 counts:
   question: 21
   decision: 24
-  task: 25
+  task: 24
   claude: 11
   waiting: 8
-total: 89
+total: 88

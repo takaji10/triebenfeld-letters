@@ -272,3 +272,38 @@ modern name in brackets are now expanded in the Latin, the ending from the sente
 Covalien[sis]; "Pyzdra" keeps its letters alone. The place index had matched the bracketed modern names, so
 the holding is no longer listed under Kalisz, Konin and Pyzdry (to-do t911 asks whether the index should
 learn the Latin adjectives).
+
+**The editor's answers on the audit's spot sheet** (2026-11-27; 47 of 57 answered, the rest left as they stand
+at the editor's word). Applied by `intake/latin_audit_sheet.json` (38 rows) and
+`intake/latin_audit_sheet_expand.json` (S[acra]e R[egia]e M[ajes]t[at]is on 164), each logged in
+transcription_decisions.csv; the English follows (doc1.yml, republished).
+- **Two clauses the transcription skipped are restored.** On 161, after "jam vero": "reliquis per eundem
+  Magnificum Ludovicum Zakrzewski suo Parentis ac Fratris nunc personaliter," (the editor's reading; a reader
+  had "pro Parenti ac Fratri nunc ph~"). On 162, after the widow Nierzychowska's 30,000: "Generosi Szkad[?]i
+  Trium Millium fp tum ex Ins~ione [?]orcali Quadraginta millium fp" (the editor typed "Quadragina"; the next
+  line on band s05 opens "-draginta", so Quadraginta). On 167 verso Claude's line stands as read, with its two
+  doubtful words ("Heren~[?]", "Ppali[?] Bru~"); and "Mca" at the foot of 163.
+- **Names**: Zerniki (163, and 163 verso, where Claude read the same letters on band s01, the final -ki as in
+  Jaryszki beside it), Zabricki, Strzałkowianis, Rzechcicka / Rzechcicki, Obiesierski (the family on 166 twice,
+  "Obiesierskie", the ending as transcribed), Kęszyccianis[?], Skoki, Mokronos, Ludovico Bogdanski,
+  Marszłynówna, Zboinski Subdapiferida, Dziembowski (162, Claude on band s05: Dziem-/bowski), Radolinscianorum.
+  **Victoria's third husband is "Micaeli" Odechowski on 163 verso and "Caroli" on 164 verso**: both stand as
+  written; the owners' tree records both (reference/estate_tree.yml, T045).
+- **Readings**: Triginta (162), pretio Pawłowa, principali, quietationibus ... reponidem, prout (twice),
+  quinimo, sortis, inaugurat~, adscripsit, "addidem MRS" (the editor's letters, the sense open), "in Caelem GV
+  Mariae anno 1737" (164), Arbitratum, sororem, alterius post, actis, Costen~ (the editor: "Costen~ is what's
+  written"; it stands for Kościan), "[conjuges?]" on 163 verso (the editor: "conjuges, probably"; the other
+  "[?]ges" of 163 and 167 verso were not asked and are left).
+- **The endings of Nieszczeviec-** (row 51): the editor took the reader's observation that the scribe writes
+  the stem with a stroke and never a full case ending. No ending is completed; the forms stand as the editor
+  typed them.
+- **Left open by the editor**: "quani[?]" (163), "co[m/ns]pin[dem?]" (167: conspindem, compindem,
+  conipindem), "[?]gmae~" before anno 1745 (the editor: "Possibly Vigesima"; Claude notes that the Sunday
+  names in -gesima are Septuagesima, Sexagesima and Quinquagesima, and "Sexagmae~" would fit the letters), and
+  "[?]bus~ pro[?]isse" on 167 verso (the editor's guess, "invicem successoribus"); and the ten rows not answered
+  (35-42, 44, 47 of the sheet). All keep their marks of doubt.
+- **Skarbek's office** (found while carrying the answers into the English): "Castellanida Junivladislaviensi"
+  is the son of the castellan (kasztelanic) of Inowrocław, Iunivladislavia; the October reading "castellan of
+  Uniejów" was Claude's and is corrected in the English, reference/people.yml and people_bios.yml
+  (`intake/add_people.py` is the October record and is not re-run). "Subdapiferida" likewise is the son of the
+  sub-dapifer.

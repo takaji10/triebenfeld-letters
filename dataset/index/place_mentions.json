@@ -46267,7 +46267,7 @@
  {
   "entity": "swiatniki",
   "display": "Świątniki",
-  "count": 32,
+  "count": 33,
   "documents": [
    "agad1169011745-1",
    "app5320pozgr1181-1",
@@ -46313,6 +46313,15 @@
     "scan": "",
     "line": 55,
     "doc_line": 16
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Swiątniki",
+    "page": 5,
+    "page_id": "0163_a",
+    "scan": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
+    "line": 53,
+    "doc_line": 42
    },
    {
     "uid": "app5320pozgr1181-1",

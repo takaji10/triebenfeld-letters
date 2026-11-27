@@ -57,3 +57,8 @@ changes:
   what: "Leaf 242 (document 8): two tilde forms expanded where the case is certain: \"Capitanei Nieszczevicen[sis]\" and \"Ad Borras Trąmpczynen[ses]\". Latin audit, expansion."
   was: "Capitanei Nieszczevicen~ ... Ad Borras Trąmpczynen~"
   now: "Capitanei Nieszczevicen[sis] ... Ad Borras Trąmpczynen[ses]"
+- importance: wording
+  new: "2026-11-27"
+  what: "Your answer on the spot sheet: the starost's place on leaf 245 verso is written \"Nieszczevic~\"."
+  was: "Capitaneum Nieszczevensis Bonorum"
+  now: "Capitaneum Nieszczevic~ Bonorum"

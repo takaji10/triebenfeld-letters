@@ -163,3 +163,8 @@ changes:
   what: "Latin audit (lighter pass): \"permiserunt\" (leaf 58 verso), \"pro\" (leaf 72), \"&c\" (leaf 78 verso); 76 tilde forms expanded."
   was: "pro commiserunt[?] ... ejus [?]e Causam ... Prussiae [etc.?]"
   now: "permiserunt ... ejus pro Causam ... Prussiae &c"
+- importance: fact
+  new: "2026-11-27"
+  what: "Your answer on the spot sheet: the witness on leaf 272 verso is Joachimowski, both times."
+  was: "Thoma Joachimenski[?] ... Generosi Joachimczyki[?]"
+  now: "Thoma Joachimowski ... Generosi Joachimowski"

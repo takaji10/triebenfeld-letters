@@ -215,6 +215,17 @@ than where it sits.
   (`Pyzdra[Pyzdry?]`), the clerk's letters stand alone. The modern name belongs
   in the English and the index, never in the transcription. Applied to Poznań
   Gr.1181 the same day (seven words).
+  **The court books' routine forms written out stay as they are** (the editor,
+  2026-11-27, on the Latin audit's spot sheet): where the transcriptions write
+  the clerk's routine abbreviations out without brackets ("Pro Parte" for
+  "Pro Pte", "Ministerialis Regni Generalis" for "M. R. G.", "Domini",
+  "Bonorum"), they are left so; the audit brackets only the tilde forms.
+  **Nothing on the page is ever dropped** (the editor, 2026-11-27: "Write the
+  titles out in every royal citation if they were there to begin with ... You
+  should not be considering dropping anything in the transcribed text,
+  ever!"). Where the page writes the king's titles out, the transcription
+  gives every one of them; "etc." stands only where the page writes it. No
+  shortening, "…" or "etc." of the transcriber's own is left in a text.
 - **An initial that is read, with the name supplied**, is written with the
   supplied letters in square brackets and no mark of doubt (`G[oldbeck]`,
   `A[lvensleben]`), and only where the name follows from something other

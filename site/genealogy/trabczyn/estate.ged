@@ -1,7 +1,7 @@
 0 HEAD
 1 SOUR estate_tree.yml
 2 NAME build_estate.py
-1 DATE 13 NOV 2026
+1 DATE 27 NOV 2026
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -770,7 +770,8 @@
 2 GIVN Wiktoria
 2 SURN Prusimska
 1 SEX F
-1 NOTE Married first Michał Wysocki, then Michał Tworowicz, and a third time an Odechowski (Karol, in two readings); her children Franciszek and Elżbieta Tworowicz were parties of 1784.
+1 NOTE Married first Michał Wysocki, then Michał Tworowicz, and a third time an Odechowski (Michał on p. 163v of the decree of 1784, Karol on p. 164v); her children Franciszek and Elżbieta Tworowicz were par
+2 CONC ties of 1784.
 1 FAMC @F013@
 0 @T046@ INDI
 1 NAME Konstancja /Prusimska/
@@ -1676,15 +1677,15 @@
 1 NOTE Kind: document
 0 @S_pleading1818@ SOUR
 1 TITL III. HA MdA III Nr. 12366, doc. 2: memoir of 29 April 1818
-1 WWW /documents/iiihamdaiiinr12366/2/
+1 WWW /documents/iiihamdaiiinr12366/1/
 1 NOTE Kind: document
 0 @S_note1819@ SOUR
 1 TITL III. HA MdA III Nr. 12366, doc. 3: Prussian note of 1819
-1 WWW /documents/iiihamdaiiinr12366/3/
+1 WWW /documents/iiihamdaiiinr12366/2/
 1 NOTE Kind: document
 0 @S_judgment1827@ SOUR
 1 TITL III. HA MdA III Nr. 12366, doc. 6: judgments of 1826-1828
-1 WWW /documents/iiihamdaiiinr12366/6/
+1 WWW /documents/iiihamdaiiinr12366/5/
 1 NOTE Kind: document
 0 @S_agad1807@ SOUR
 1 TITL AGAD 1/174/0/1/6, doc. 2: resolution of the Governing Commission, 21 July 1807

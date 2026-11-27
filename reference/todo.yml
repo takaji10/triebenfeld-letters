@@ -91,18 +91,6 @@ items:
     label: Konin Gr.145
   nc: APP 53/21/0/-/Pyzdry Gr.115
   audit_note: The old text still listed Poznań Gr.1181 as missing; it is built (units/app5320pozgr1181).
-- id: t909-latin-audit-sheet
-  group: The Latin transcriptions, all court books
-  title: Answer the Latin audit's spot sheet of 58 questions
-  kind: task
-  text: 'The audit has read all the Latin on your original scans (but the Oe 1 Bü 14526 deed) and corrected what two readers and Claude could prove; nothing is published. The spot sheet holds what the pages did not settle, among them two questions for all the court books (bracketing the routine abbreviations; writing out the king''s titles) and 49 rows of the old Poznań Gr.1181 sheet. Ask Claude to serve it (latin_audit.py serve, then 127.0.0.1:4102 in the browser): click an answer on each card, and the answers save as you go.'
-  options: []
-  links:
-  - type: unit
-    slug: app5320pozgr1181
-    label: Poznań Gr.1181
-  nc: ''
-  audit_note: ''
 - id: t911-latin-place-adjectives
   group: The Latin transcriptions, all court books
   title: Should the index find the Latin place adjectives?
@@ -1622,6 +1610,10 @@ items:
   nc: The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
   audit_note: ''
 done:
+- id: t909-latin-audit-sheet
+  title: Answer the Latin audit's spot sheet of 58 questions
+  date: '2026-11-27'
+  how: 'The editor answered 47 of 57 the same day and left the rest. Applied: Poznań Gr.1181 (two skipped clauses restored, on 161 and 162, the line on 167 verso and "Mca" on 163; some twenty names and readings; the English follows), Konin Gr.117 (the witness Joachimowski) and Gr.115 (Nieszczevic~). Two rulings for all court books, now in EDITORIAL_RULES: the routine forms written out stay; nothing on the page is dropped, so the king''s titles were read on the scans and written out in Konin Gr.118 (twice) and Gr.120, Gr.117 has the page''s "&c.", and Gr.115''s "…" is now [...] with "Illmum et Rdmum". Not published.'
 - id: t908-latin-audit-desktop
   title: Run the Latin audit in a desktop session
   date: '2026-11-27'

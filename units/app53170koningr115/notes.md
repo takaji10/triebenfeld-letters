@@ -96,3 +96,9 @@ and one Sonnet blind reader; Claude settled every change on the bands.
   question of the court books' silently written-out routine abbreviations.
 - No English, summary or page text changed: the English already had "felled trees" and "the estates
   of Łukomia".
+
+**The editor's answers on the spot sheet** (2026-11-27): the starost's place on leaf 245 verso is
+"Nieszczevic~" (`intake/latin_audit_sheet.json`); and the routine forms the transcription writes out ("Pro
+Parte", "Ministerialis Regni Generalis") stay written out in every court book (EDITORIAL_RULES).
+
+**Nothing dropped: the king's titles** (the editor, 2026-11-27, on the audit's spot sheet: "Write the titles out in every royal citation if they were there to begin with ... You should not be considering dropping anything in the transcribed text, ever!"). Every "etc.", "&c" and "…" of the court books was read on the scan by two Sonnet readers, each place settled by Claude on the band (`intake/latin_audit_titles.json`, logged in transcription_decisions.csv). Leaf 36: the "…" after "Bydgostiensem" stood for words not read. Four or five words, which neither reader nor Claude could read on band s05 (the letters suggest "Item ... Agn... Wężyk(?) Ensifer... Vil..."), are now marked [...], and "Illmum et Rdmum" before "Abbatem", which the transcription had left out, is written. The English of document 2 follows.

@@ -357,6 +357,13 @@ COUNTS_EN = [('35', 5), ('54v', 10), ('55', 4), ('55v', 4), ('57v', 4), ('58', 5
              ('72v', 2), ('78', 3), ('78v', 3), ('82v', 2), ('272', 5), ('359', 3), ('359v', 4), ('507v', 2)]
 
 
+# The witness of document 11, twice: Joachimowski (the editor on the Latin audit's spot sheet, 2026-11-27)
+FIXES += [
+    ('Tomasz Joachimski, present here', 'Tomasz Joachimowski, present here', 'the editor, 2026-11-27: "Joachimowski"'),
+    ('the Honourable Joachimski received', 'the Honourable Joachimowski received', 'the editor, 2026-11-27: "Joachimowski"'),
+]
+
+
 def english():
     f = glob.glob(os.path.join(glob.escape(RAW), '*(English).md'))
     assert len(f) == 1, f

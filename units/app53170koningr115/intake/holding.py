@@ -190,7 +190,7 @@ EARLY = {
         'Tomice — Report of a Citation\n\n'
         'Let there be seen here, among the produced documents, the report of the citation issued on the part of the Right '
         'Honourable Antoni Prusimski of Kolno, Starost of Niszczewice, against the Right Honourables Chełmski, the '
-        'Żychliński successors, Ignacy Gałecki, Starost of Bydgoszcz, … the Abbot and the venerable Convent of Ląd, for the '
+        'Żychliński successors, Ignacy Gałecki, Starost of Bydgoszcz, [...] the Illustrious and Most Reverend Abbot and the venerable Convent of Ląd, for the '
         'courts of the Crown Tribunal at Bydgoszcz, for the fixing of the boundary.\n\n'
         'On the part of the Right Honourable Chełmski against the heirs and possessors of Tomice, Drzewce, Trąbczyn, Nowa '
         'Wieś — Report of a Citation\n\n'
