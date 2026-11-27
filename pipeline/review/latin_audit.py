@@ -621,6 +621,13 @@ def cmd_serve(port=4102, read=False):
                    '__unsure__': "can't tell"}.get(x['reading'], x['reading'])
             print('  %d. %s %s: %s -> %s%s' % (k, r['holding'], r['page_id'], r['transcribed'][:60], got,
                                                '  [%s]' % x['note'] if x.get('note') else ''))
+        flagged = [(k, r) for k, r in enumerate(rows, 1) if answers.get(_qkey(r), {}).get('nocrop')]
+        if flagged:
+            print('%d marked "text not on the crop" (give these a better crop):' % len(flagged))
+            for k, r in flagged:
+                x = answers[_qkey(r)]
+                print('  %d. %s %s, crop band %s, last band looked at %s' % (k, r['holding'], r['page_id'], r.get('band'),
+                                                                          x.get('band_seen') or r.get('band')))
         return
 
     def page():
@@ -633,7 +640,7 @@ def cmd_serve(port=4102, read=False):
                'button{font:inherit;padding:4px 12px;margin:0 6px 6px 0;cursor:pointer;border-radius:4px;border:1px solid var(--line);'
                'background:var(--bg);color:var(--fg);text-align:left}button.on{background:var(--fg);color:var(--bg)}'
                'input{font:inherit;width:100%;box-sizing:border-box;margin-top:4px;padding:4px 6px;background:var(--bg);color:var(--fg);'
-               'border:1px solid var(--line)}#status{position:sticky;top:0;background:var(--bg);padding:6px 0;color:var(--mute)}h2{margin-top:2.2rem}a{color:var(--link)}a:visited{color:var(--visited)}mark{background:var(--mark);color:var(--markfg);padding:0 2px;border-radius:2px}')
+               'border:1px solid var(--line)}#status{position:sticky;top:0;background:var(--bg);padding:6px 0;color:var(--mute)}h2{margin-top:2.2rem}a{color:var(--link)}a:visited{color:var(--visited)}mark{background:var(--mark);color:var(--markfg);padding:0 2px;border-radius:2px}.cropctl button{font-size:14px}button.flag.on{background:var(--mark);color:var(--markfg)}')
         out = ['<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">',
                '<title>Latin audit questions</title><style>%s</style>' % css,
                '<h1>The Latin audit: %d questions</h1>' % len(rows),
@@ -648,20 +655,27 @@ def cmd_serve(port=4102, read=False):
             key = _qkey(r)
             a = answers.get(key, {})
             opts = [o.strip() for o in r['options'].split('|') if o.strip()]
-            btns = ''.join('<button data-v="%s">%s</button>' % (html.escape(o, True), html.escape(o)) for o in opts)
-            btns += '<button data-v="__unsure__">Can\'t tell</button><button data-v="__other__">Something else</button>'
+            btns = ''.join('<button class="ans" data-v="%s">%s</button>' % (html.escape(o, True), html.escape(o)) for o in opts)
+            btns += '<button class="ans" data-v="__unsure__">Can\'t tell</button><button class="ans" data-v="__other__">Something else</button>'
             slug = _row_slug(r)
             img = ''
             if slug and r['page_id']:
-                cu = '/crop/%s/%s/%s' % (slug, html.escape(r['page_id']), html.escape(r.get('band') or '4'))
-                img = ('<a href="%s" target="_blank"><img src="%s" alt="part of the page" loading="lazy"></a>'
+                band = str(a.get('band_seen') or r.get('band') or '4')
+                cu = '/crop/%s/%s/%s' % (slug, html.escape(r['page_id']), html.escape(band))
+                fl = a.get('nocrop')
+                img = ('<div class="cropbox" data-base="/crop/%s/%s/" data-band="%s"><a href="%s" target="_blank">'
+                       '<img src="%s" alt="part of the page" loading="lazy"></a></div>'
+                       '<div class="cropctl"><button type="button" class="flag%s">Text not on the crop</button>'
+                       '<span class="move"%s><button type="button" class="mv" data-d="-2">Show the part above</button>'
+                       '<button type="button" class="mv" data-d="2">Show the part below</button></span></div>'
                        '<p><a href="/page/%s/%s" target="_blank">Open the whole page (%s) in a new tab</a></p>'
-                       % (cu, cu, slug, html.escape(r['page_id']), html.escape(r['page_id'])))
-            out.append('<div class="row" data-key="%s" data-v="%s"><b>%d.</b> <small>%s, page %s</small>%s'
+                       % (slug, html.escape(r['page_id']), html.escape(band), cu, cu, ' on' if fl else '',
+                          '' if fl else ' hidden', slug, html.escape(r['page_id']), html.escape(r['page_id'])))
+            out.append('<div class="row" data-key="%s" data-v="%s" data-nocrop="%s"><b>%d.</b> <small>%s, page %s</small>%s'
                        '<p>Transcribed: %s</p><p>%s</p><div>%s</div>'
                        '<input placeholder="Something else: type the reading" value="%s" %s>'
                        '<input placeholder="Note (optional)" value="%s"></div>' % (
-                           key, html.escape(a.get('reading', ''), True), k, html.escape(r['uid']), html.escape(r['page_id']),
+                           key, html.escape(a.get('reading', ''), True), '1' if a.get('nocrop') else '', k, html.escape(r['uid']), html.escape(r['page_id']),
                            img, _context_html(slug, r['page_id'], r.get('find') or r['transcribed']), html.escape(r['question']), btns,
                            html.escape(a.get('other', ''), True), '' if a.get('reading') == '__other__' else 'hidden',
                            html.escape(a.get('note', ''), True)))
@@ -670,12 +684,20 @@ const st=document.getElementById('status');
 function count(){const r=document.querySelectorAll('.row'),d=[...r].filter(x=>x.dataset.v).length;st.textContent=d+' of '+r.length+' answered';}
 async function save(row){
   const [other,note]=row.querySelectorAll('input');
-  const body={key:row.dataset.key,reading:row.dataset.v||'',other:other.value,note:note.value};
+  const box=row.querySelector('.cropbox');
+  const body={key:row.dataset.key,reading:row.dataset.v||'',other:other.value,note:note.value,
+              nocrop:row.dataset.nocrop==='1',band_seen:box?box.dataset.band:''};
   try{const r=await fetch('/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
       if(!r.ok)throw 0;count();}catch(e){st.textContent='Not saved - is latin_audit.py serve still running?';}
 }
 document.querySelectorAll('.row').forEach(row=>{
-  const bs=[...row.querySelectorAll('button')],[other,note]=row.querySelectorAll('input');
+  const bs=[...row.querySelectorAll('button.ans')],[other,note]=row.querySelectorAll('input');
+  const box=row.querySelector('.cropbox'),flag=row.querySelector('.flag'),mv=row.querySelector('.move');
+  if(flag){flag.onclick=()=>{const on=row.dataset.nocrop!=='1';row.dataset.nocrop=on?'1':'';
+    flag.classList.toggle('on',on);mv.hidden=!on;save(row);};
+    row.querySelectorAll('.mv').forEach(b=>b.onclick=()=>{
+      const n=Math.min(8,Math.max(1,parseInt(box.dataset.band)+parseInt(b.dataset.d)));box.dataset.band=n;
+      const u=box.dataset.base+n;box.querySelector('img').src=u;box.querySelector('a').href=u;save(row);});}
   function set(v){row.dataset.v=v;row.classList.toggle('done',!!v);
     bs.forEach(b=>b.classList.toggle('on',b.dataset.v===v));other.hidden=v!=='__other__';if(v==='__other__')other.focus();}
   if(row.dataset.v)set(row.dataset.v);
@@ -730,7 +752,8 @@ count();
 
         def do_POST(self):
             d = json.loads(self.rfile.read(int(self.headers['Content-Length'])))
-            answers[d['key']] = {'reading': d.get('reading', ''), 'other': d.get('other', ''), 'note': d.get('note', '')}
+            answers[d['key']] = {'reading': d.get('reading', ''), 'other': d.get('other', ''), 'note': d.get('note', ''),
+                                 'nocrop': bool(d.get('nocrop')), 'band_seen': d.get('band_seen', '')}
             with io.open(store, 'w', encoding='utf-8', newline='\n') as f:
                 json.dump(answers, f, ensure_ascii=False, indent=1)
             self.send_response(204)

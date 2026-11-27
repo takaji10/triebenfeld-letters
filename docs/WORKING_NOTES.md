@@ -5561,3 +5561,7 @@ things learned while measuring it:
   Pyzdry only because "[Kalisz]", "[Konin]", "[Pyzdry?]" stood in brackets after the Latin words; the places'
   patterns (`reference/places.yml`) match no Latin adjective (Calissiensis, Coninensis, Pyzdrensis) anywhere.
   When brackets come out of a text, compare `site/_data/places_named.yml` before and after the rebuild.
+- **A "Text not on the crop" button on every card** (the editor, 2026-11-27). It marks the card (saved as
+  `nocrop` in answers.json, listed by `serve --read` with the band last looked at) and shows "Show the part
+  above / below", which move the three-band crop two bands up or down in place. The answer buttons carry
+  class `ans`, so the crop buttons are not taken for answers.
