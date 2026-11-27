@@ -61,15 +61,6 @@ person:
     - key: c01
       en: 2.976.162-176
       de: 2.976.162-176
-    - key: c03
-      en: 2.976.183, 196-198, 209-210
-      de: 2.976.183, 196-198, 209-210
-    - key: c04
-      en: 2.976.211-220
-      de: 2.976.211-220
-    - key: c06
-      en: 2.976.226-240
-      de: 2.976.226-240
   - work: rusinski1947
     cite: Rusiński (1947)
     pages:
@@ -82,24 +73,6 @@ person:
     - key: '102'
       en: p. 102
       de: S. 102
-  - work: lukasiewicz1997
-    cite: Łukasiewicz (1997)
-    pages:
-    - key: '49'
-      en: p. 49
-      de: S. 49
-  - work: chodyla2015
-    cite: Chodyła (2015)
-    pages:
-    - key: '28'
-      en: p. 28
-      de: S. 28
-  - work: minakowska2026zielonacka
-    cite: Minakowska (2026, Helena Zielonacka)
-    pages:
-    - key: c02
-      en: Spouses and children, the grandchildren, and up to the great-grandchildren
-      de: Spouses and children, the grandchildren, and up to the great-grandchildren
   constantin:
   - work: breyer1935gaue
     cite: Breyer (1935a)
@@ -572,6 +545,12 @@ person:
     - key: '159'
       en: p. 159
       de: S. 159
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c29
+      en: Michalinów Oleśnicki [Słownik geograficzny, t. XV, p. 471]
+      de: Michalinów Oleśnicki [Słownik geograficzny, t. XV, p. 471]
   - work: karwowski1900
     cite: Karwowski (1900)
     pages:
@@ -605,6 +584,12 @@ person:
     - key: '583'
       en: p. 583
       de: S. 583
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c12
+      en: Chruściki [Nazwy miejscowe Polski, t. 2, p. 92]
+      de: Chruściki [Nazwy miejscowe Polski, t. 2, p. 92]
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -3333,12 +3318,24 @@ person:
       de: S. 51
 place:
   adamierz:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c31
+      en: Adamierz [Słownik geograficzny, t. XV, p. 8]
+      de: Adamierz [Słownik geograficzny, t. XV, p. 8]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
     - key: '266'
       en: p. 266
       de: S. 266
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c02
+      en: Adamierz [Nazwy miejscowe Polski, t. 1, p. 44]
+      de: Adamierz [Nazwy miejscowe Polski, t. 1, p. 44]
   batkowo:
   - work: ostensacken2001
     cite: Kraus (2001)
@@ -3415,6 +3412,12 @@ place:
     - key: '123'
       en: p. 123
       de: S. 123
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c11
+      en: Drzewce [Nazwy miejscowe Polski, t. 2, p. 442]
+      de: Drzewce [Nazwy miejscowe Polski, t. 2, p. 442]
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -3435,6 +3438,12 @@ place:
       en: p. 145
       de: S. 145
   gradzyn:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c05
+      en: Grądzeń [Słownik geograficzny, t. II, p. 807]
+      de: Grądzeń [Słownik geograficzny, t. II, p. 807]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
@@ -3447,6 +3456,12 @@ place:
     - key: '47'
       en: p. 47
       de: S. 47
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c13
+      en: Grądzeń [Nazwy miejscowe Polski, t. 3, p. 362]
+      de: Grądzeń [Nazwy miejscowe Polski, t. 3, p. 362]
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -3454,6 +3469,15 @@ place:
       en: p. 146
       de: S. 146
   imielno:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c06
+      en: Imielno [Słownik geograficzny, t. III, p. 276, sub 3]
+      de: Imielno [Słownik geograficzny, t. III, p. 276, sub 3]
+    - key: c19
+      en: Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
+      de: Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
   - work: boniecki1900
     cite: Boniecki (1900)
     pages:
@@ -3466,6 +3490,12 @@ place:
     - key: '258'
       en: p. 258
       de: S. 258
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c14
+      en: Imielno [Nazwy miejscowe Polski, t. 3, p. 529]
+      de: Imielno [Nazwy miejscowe Polski, t. 3, p. 529]
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -3586,6 +3616,18 @@ place:
       en: Nr. 1176 (1720)
       de: Nr. 1176 (1720)
   kopojno:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c07
+      en: Kopojno [Słownik geograficzny, t. IV, p. 382]
+      de: Kopojno [Słownik geograficzny, t. IV, p. 382]
+    - key: c18
+      en: Skokum [Słownik geograficzny, t. X, p. 689]
+      de: Skokum [Słownik geograficzny, t. X, p. 689]
+    - key: c32
+      en: Kopojno [Słownik geograficzny, t. XVI, p. 120]
+      de: Kopojno [Słownik geograficzny, t. XVI, p. 120]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
@@ -3616,6 +3658,12 @@ place:
     - key: '174'
       en: p. 174
       de: S. 174
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c15
+      en: Kopojno [Nazwy miejscowe Polski, t. 5, p. 127]
+      de: Kopojno [Nazwy miejscowe Polski, t. 5, p. 127]
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -3992,6 +4040,21 @@ place:
       en: p. 145
       de: S. 145
   lukom:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c06
+      en: Imielno [Słownik geograficzny, t. III, p. 276, sub 3]
+      de: Imielno [Słownik geograficzny, t. III, p. 276, sub 3]
+    - key: c13
+      en: Łukom [Słownik geograficzny, t. V, p. 817]
+      de: Łukom [Słownik geograficzny, t. V, p. 817]
+    - key: c19
+      en: Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
+      de: Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
+    - key: c33
+      en: Łukom [Słownik geograficzny, t. XVI, p. 282]
+      de: Łukom [Słownik geograficzny, t. XVI, p. 282]
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -4035,7 +4098,22 @@ place:
     - key: '28'
       en: p. 28
       de: S. 28
+  - work: slowinski2023
+    cite: Słowiński (2023)
+    pages:
+    - key: '8'
+      en: p. 8
+      de: S. 8
   olesnica:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c28
+      en: Chruściki [Słownik geograficzny, t. XV, p. 328]
+      de: Chruściki [Słownik geograficzny, t. XV, p. 328]
+    - key: c38
+      en: Zalesie [Słownik geograficzny, t. XVI, p. 711, sub 1]
+      de: Zalesie [Słownik geograficzny, t. XVI, p. 711, sub 1]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
@@ -4075,6 +4153,12 @@ place:
     - key: '174'
       en: p. 174
       de: S. 174
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c22
+      en: Oleśnica [Nazwy miejscowe Polski, t. 8, p. 83]
+      de: Oleśnica [Nazwy miejscowe Polski, t. 8, p. 83]
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -4089,6 +4173,12 @@ place:
       en: p. 41
       de: S. 41
   osiny:
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c20
+      en: Osiny [Nazwy miejscowe Polski, t. 8, p. 178]
+      de: Osiny [Nazwy miejscowe Polski, t. 8, p. 178]
   - work: chodyla2015
     cite: Chodyła (2015)
     pages:
@@ -4148,6 +4238,18 @@ place:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c09
+      en: Pyzdry [Słownik geograficzny, t. IX, p. 332]
+      de: Pyzdry [Słownik geograficzny, t. IX, p. 332]
+    - key: c13
+      en: Łukom [Słownik geograficzny, t. V, p. 817]
+      de: Łukom [Słownik geograficzny, t. V, p. 817]
+    - key: c36
+      en: Pyzdry [Słownik geograficzny, t. XVI, p. 530]
+      de: Pyzdry [Słownik geograficzny, t. XVI, p. 530]
   - work: werner1904
     cite: Werner (1904)
     pages:
@@ -4235,6 +4337,15 @@ place:
   - work: muszynska1947
     cite: Muszyńska-Zygmańska (1947)
     pages:
+    - key: '12'
+      en: p. 12
+      de: S. 12
+    - key: '80'
+      en: p. 80
+      de: S. 80
+    - key: '104'
+      en: p. 104
+      de: S. 104
     - key: '111'
       en: p. 111
       de: S. 111
@@ -4256,6 +4367,12 @@ place:
     - key: '93'
       en: p. 93
       de: S. 93
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c24
+      en: Białobrzeg [Nazwy miejscowe Polski, t. 1, p. 192]
+      de: Białobrzeg [Nazwy miejscowe Polski, t. 1, p. 192]
   - work: lukasiewicz1997
     cite: Łukasiewicz (1997)
     pages:
@@ -4440,6 +4557,12 @@ place:
       en: p. 55
       de: S. 55
   rzgow:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c21
+      en: Szetlewek [Słownik geograficzny, t. XI, p. 911]
+      de: Szetlewek [Słownik geograficzny, t. XI, p. 911]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
@@ -4532,6 +4655,12 @@ place:
       en: p. 42
       de: S. 42
   skokum:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c18
+      en: Skokum [Słownik geograficzny, t. X, p. 689]
+      de: Skokum [Słownik geograficzny, t. X, p. 689]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
@@ -4567,6 +4696,12 @@ place:
       en: p. 42
       de: S. 42
   swiatniki:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c07
+      en: Kopojno [Słownik geograficzny, t. IV, p. 382]
+      de: Kopojno [Słownik geograficzny, t. IV, p. 382]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
@@ -4682,6 +4817,12 @@ place:
     - key: '159'
       en: p. 159
       de: S. 159
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c21
+      en: Szetlewek [Słownik geograficzny, t. XI, p. 911]
+      de: Szetlewek [Słownik geograficzny, t. XI, p. 911]
   - work: zychlinski1891
     cite: Żychliński (1891)
     pages:
@@ -4713,6 +4854,69 @@ place:
     - key: '159'
       en: p. 159
       de: S. 159
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c01
+      en: Dziadolina [Słownik geograficzny, t. II, p. 261]
+      de: Dziadolina [Słownik geograficzny, t. II, p. 261]
+    - key: c02
+      en: Garbin [Słownik geograficzny, t. II, p. 487, sub 1]
+      de: Garbin [Słownik geograficzny, t. II, p. 487, sub 1]
+    - key: c04
+      en: Grabina [Słownik geograficzny, t. II, p. 771, sub 10]
+      de: Grabina [Słownik geograficzny, t. II, p. 771, sub 10]
+    - key: c06
+      en: Imielno [Słownik geograficzny, t. III, p. 276, sub 3]
+      de: Imielno [Słownik geograficzny, t. III, p. 276, sub 3]
+    - key: c08
+      en: Koszelewska Łąka [Słownik geograficzny, t. IV, p. 484]
+      de: Koszelewska Łąka [Słownik geograficzny, t. IV, p. 484]
+    - key: c12
+      en: Łomów [Słownik geograficzny, t. V, p. 697]
+      de: Łomów [Słownik geograficzny, t. V, p. 697]
+    - key: c13
+      en: Łukom [Słownik geograficzny, t. V, p. 817]
+      de: Łukom [Słownik geograficzny, t. V, p. 817]
+    - key: c14
+      en: Łukomin [Słownik geograficzny, t. V, p. 818]
+      de: Łukomin [Słownik geograficzny, t. V, p. 818]
+    - key: c15
+      en: Myszaków [Słownik geograficzny, t. VI, p. 838]
+      de: Myszaków [Słownik geograficzny, t. VI, p. 838]
+    - key: c16
+      en: Noga [Słownik geograficzny, t. VII, p. 172]
+      de: Noga [Słownik geograficzny, t. VII, p. 172]
+    - key: c17
+      en: Porąbki [Słownik geograficzny, t. VIII, p. 815, sub 1]
+      de: Porąbki [Słownik geograficzny, t. VIII, p. 815, sub 1]
+    - key: c19
+      en: Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
+      de: Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
+    - key: c21
+      en: Szetlewek [Słownik geograficzny, t. XI, p. 911]
+      de: Szetlewek [Słownik geograficzny, t. XI, p. 911]
+    - key: c22
+      en: Trąbczyn [Słownik geograficzny, t. XII, p. 448]
+      de: Trąbczyn [Słownik geograficzny, t. XII, p. 448]
+    - key: c23
+      en: Huta Trąbczyńska [Słownik geograficzny, t. XII, p. 449]
+      de: Huta Trąbczyńska [Słownik geograficzny, t. XII, p. 449]
+    - key: c24
+      en: Włodzimirów [Słownik geograficzny, t. XIII, p. 718, sub 1]
+      de: Włodzimirów [Słownik geograficzny, t. XIII, p. 718, sub 1]
+    - key: c31
+      en: Adamierz [Słownik geograficzny, t. XV, p. 8]
+      de: Adamierz [Słownik geograficzny, t. XV, p. 8]
+    - key: c40
+      en: Tumidaj [Słownik geograficzny, t. XII, p. 623, sub 5]
+      de: Tumidaj [Słownik geograficzny, t. XII, p. 623, sub 5]
+    - key: c41
+      en: Wielki Las [Słownik geograficzny, t. XIII, p. 340, sub 2]
+      de: Wielki Las [Słownik geograficzny, t. XIII, p. 340, sub 2]
+    - key: c46
+      en: Mariantów [Słownik geograficzny, t. VI, p. 153, sub 2]
+      de: Mariantów [Słownik geograficzny, t. VI, p. 153, sub 2]
   - work: zychlinski1885
     cite: Żychliński (1885)
     pages:
@@ -4890,6 +5094,24 @@ place:
     - key: '56'
       en: p. 56
       de: S. 56
+  - work: slowinski2023
+    cite: Słowiński (2023)
+    pages:
+    - key: '7'
+      en: p. 7
+      de: S. 7
+    - key: '8'
+      en: p. 8
+      de: S. 8
+    - key: '95'
+      en: p. 95
+      de: S. 95
+    - key: '97'
+      en: p. 97
+      de: S. 97
+    - key: '98'
+      en: p. 98
+      de: S. 98
   - work: minakowska2026miaczynski
     cite: Minakowska (2026, Stanisław Adam Miączyński)
     pages:
@@ -4949,6 +5171,24 @@ place:
       en: Before the first page
       de: Vor der ersten Seite
   wrabczyn:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c25
+      en: Wrąbczyn [Słownik geograficzny, t. XIV, p. 16]
+      de: Wrąbczyn [Słownik geograficzny, t. XIV, p. 16]
+    - key: c36
+      en: Pyzdry [Słownik geograficzny, t. XVI, p. 530]
+      de: Pyzdry [Słownik geograficzny, t. XVI, p. 530]
+    - key: c43
+      en: Wrąbczyn (Jarmuszewek) [Słownik geograficzny, t. III, p. 451]
+      de: Wrąbczyn (Jarmuszewek) [Słownik geograficzny, t. III, p. 451]
+    - key: c44
+      en: Wrąbczyn (Wójtowstwo Jarmużówka) [Słownik geograficzny, t. XIII, p. 773, sub 11]
+      de: Wrąbczyn (Wójtowstwo Jarmużówka) [Słownik geograficzny, t. XIII, p. 773, sub 11]
+    - key: c45
+      en: Kolonia Wrąbczyn (Wrąbczyńskie Holendry) [Słownik geograficzny, t. XIV, p. 16]
+      de: Kolonia Wrąbczyn (Wrąbczyńskie Holendry) [Słownik geograficzny, t. XIV, p. 16]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:
@@ -5059,6 +5299,87 @@ place:
       en: p. 137
       de: S. 137
   zagorowo:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c01
+      en: Dziadolina [Słownik geograficzny, t. II, p. 261]
+      de: Dziadolina [Słownik geograficzny, t. II, p. 261]
+    - key: c03
+      en: Wymysłów [Słownik geograficzny, t. XIV, p. 98, sub 13]
+      de: Wymysłów [Słownik geograficzny, t. XIV, p. 98, sub 13]
+    - key: c05
+      en: Grądzeń [Słownik geograficzny, t. II, p. 807]
+      de: Grądzeń [Słownik geograficzny, t. II, p. 807]
+    - key: c06
+      en: Imielno [Słownik geograficzny, t. III, p. 276, sub 3]
+      de: Imielno [Słownik geograficzny, t. III, p. 276, sub 3]
+    - key: c07
+      en: Kopojno [Słownik geograficzny, t. IV, p. 382]
+      de: Kopojno [Słownik geograficzny, t. IV, p. 382]
+    - key: c08
+      en: Koszelewska Łąka [Słownik geograficzny, t. IV, p. 484]
+      de: Koszelewska Łąka [Słownik geograficzny, t. IV, p. 484]
+    - key: c10
+      en: Rogal [Słownik geograficzny, t. IX, p. 658]
+      de: Rogal [Słownik geograficzny, t. IX, p. 658]
+    - key: c11
+      en: Lisewska Kolonia [Słownik geograficzny, t. V, p. 301]
+      de: Lisewska Kolonia [Słownik geograficzny, t. V, p. 301]
+    - key: c12
+      en: Łomów [Słownik geograficzny, t. V, p. 697]
+      de: Łomów [Słownik geograficzny, t. V, p. 697]
+    - key: c13
+      en: Łukom [Słownik geograficzny, t. V, p. 817]
+      de: Łukom [Słownik geograficzny, t. V, p. 817]
+    - key: c14
+      en: Łukomin [Słownik geograficzny, t. V, p. 818]
+      de: Łukomin [Słownik geograficzny, t. V, p. 818]
+    - key: c15
+      en: Myszaków [Słownik geograficzny, t. VI, p. 838]
+      de: Myszaków [Słownik geograficzny, t. VI, p. 838]
+    - key: c18
+      en: Skokum [Słownik geograficzny, t. X, p. 689]
+      de: Skokum [Słownik geograficzny, t. X, p. 689]
+    - key: c19
+      en: Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
+      de: Stawisko [Słownik geograficzny, t. XI, p. 295, sub 2]
+    - key: c20
+      en: Olchowo [Słownik geograficzny, t. XI, p. 8]
+      de: Olchowo [Słownik geograficzny, t. XI, p. 8]
+    - key: c25
+      en: Wrąbczyn [Słownik geograficzny, t. XIV, p. 16]
+      de: Wrąbczyn [Słownik geograficzny, t. XIV, p. 16]
+    - key: c26
+      en: Wrąbczynkowskie Holendry [Słownik geograficzny, t. XIV, p. 16]
+      de: Wrąbczynkowskie Holendry [Słownik geograficzny, t. XIV, p. 16]
+    - key: c27
+      en: Zagórów [Słownik geograficzny, t. XIV, p. 261]
+      de: Zagórów [Słownik geograficzny, t. XIV, p. 261]
+    - key: c30
+      en: Augustynów [Słownik geograficzny, t. XV, p. 51, sub 2]
+      de: Augustynów [Słownik geograficzny, t. XV, p. 51, sub 2]
+    - key: c31
+      en: Adamierz [Słownik geograficzny, t. XV, p. 8]
+      de: Adamierz [Słownik geograficzny, t. XV, p. 8]
+    - key: c39
+      en: Odpadki [Słownik geograficzny, t. VII, p. 386, sub 1]
+      de: Odpadki [Słownik geograficzny, t. VII, p. 386, sub 1]
+    - key: c40
+      en: Tumidaj [Słownik geograficzny, t. XII, p. 623, sub 5]
+      de: Tumidaj [Słownik geograficzny, t. XII, p. 623, sub 5]
+    - key: c42
+      en: Białobrzeg [Słownik geograficzny, t. XV, p. 125, sub 3]
+      de: Białobrzeg [Słownik geograficzny, t. XV, p. 125, sub 3]
+    - key: c43
+      en: Wrąbczyn (Jarmuszewek) [Słownik geograficzny, t. III, p. 451]
+      de: Wrąbczyn (Jarmuszewek) [Słownik geograficzny, t. III, p. 451]
+    - key: c44
+      en: Wrąbczyn (Wójtowstwo Jarmużówka) [Słownik geograficzny, t. XIII, p. 773, sub 11]
+      de: Wrąbczyn (Wójtowstwo Jarmużówka) [Słownik geograficzny, t. XIII, p. 773, sub 11]
+    - key: c45
+      en: Kolonia Wrąbczyn (Wrąbczyńskie Holendry) [Słownik geograficzny, t. XIV, p. 16]
+      de: Kolonia Wrąbczyn (Wrąbczyńskie Holendry) [Słownik geograficzny, t. XIV, p. 16]
   - work: karwowski1900
     cite: Karwowski (1900)
     pages:
@@ -5239,6 +5560,78 @@ place:
     - key: '257'
       en: p. 257
       de: S. 257
+  - work: nmpol
+    cite: Nazwy miejscowe Polski
+    pages:
+    - key: c01
+      en: Biskupice [Nazwy miejscowe Polski, t. 1, p. 247]
+      de: Biskupice [Nazwy miejscowe Polski, t. 1, p. 247]
+    - key: c02
+      en: Adamierz [Nazwy miejscowe Polski, t. 1, p. 44]
+      de: Adamierz [Nazwy miejscowe Polski, t. 1, p. 44]
+    - key: c03
+      en: Bukowe [Nazwy miejscowe Polski, t. 1, p. 491]
+      de: Bukowe [Nazwy miejscowe Polski, t. 1, p. 491]
+    - key: c04
+      en: Anielewo [Nazwy miejscowe Polski, t. 1, p. 66]
+      de: Anielewo [Nazwy miejscowe Polski, t. 1, p. 66]
+    - key: c05
+      en: Augustynów [Nazwy miejscowe Polski, t. 1, p. 84]
+      de: Augustynów [Nazwy miejscowe Polski, t. 1, p. 84]
+    - key: c06
+      en: Smoleniec [Nazwy miejscowe Polski, t. 14, p. 176]
+      de: Smoleniec [Nazwy miejscowe Polski, t. 14, p. 176]
+    - key: c07
+      en: Stanisławów [Nazwy miejscowe Polski, t. 15, p. 139]
+      de: Stanisławów [Nazwy miejscowe Polski, t. 15, p. 139]
+    - key: c08
+      en: Stawisko [Nazwy miejscowe Polski, t. 15, p. 223]
+      de: Stawisko [Nazwy miejscowe Polski, t. 15, p. 223]
+    - key: c09
+      en: Czarnybród [Nazwy miejscowe Polski, t. 2, p. 196]
+      de: Czarnybród [Nazwy miejscowe Polski, t. 2, p. 196]
+    - key: c10
+      en: Długa Górka [Nazwy miejscowe Polski, t. 2, p. 347]
+      de: Długa Górka [Nazwy miejscowe Polski, t. 2, p. 347]
+    - key: c11
+      en: Drzewce [Nazwy miejscowe Polski, t. 2, p. 442]
+      de: Drzewce [Nazwy miejscowe Polski, t. 2, p. 442]
+    - key: c12
+      en: Chruściki [Nazwy miejscowe Polski, t. 2, p. 92]
+      de: Chruściki [Nazwy miejscowe Polski, t. 2, p. 92]
+    - key: c14
+      en: Imielno [Nazwy miejscowe Polski, t. 3, p. 529]
+      de: Imielno [Nazwy miejscowe Polski, t. 3, p. 529]
+    - key: c15
+      en: Kopojno [Nazwy miejscowe Polski, t. 5, p. 127]
+      de: Kopojno [Nazwy miejscowe Polski, t. 5, p. 127]
+    - key: c16
+      en: Łomów [Nazwy miejscowe Polski, t. 6, p. 358]
+      de: Łomów [Nazwy miejscowe Polski, t. 6, p. 358]
+    - key: c17
+      en: Mariantów [Nazwy miejscowe Polski, t. 6, p. 523]
+      de: Mariantów [Nazwy miejscowe Polski, t. 6, p. 523]
+    - key: c18
+      en: Myszaków [Nazwy miejscowe Polski, t. 7, p. 309]
+      de: Myszaków [Nazwy miejscowe Polski, t. 7, p. 309]
+    - key: c19
+      en: Myszakówek [Nazwy miejscowe Polski, t. 7, p. 309]
+      de: Myszakówek [Nazwy miejscowe Polski, t. 7, p. 309]
+    - key: c20
+      en: Osiny [Nazwy miejscowe Polski, t. 8, p. 178]
+      de: Osiny [Nazwy miejscowe Polski, t. 8, p. 178]
+    - key: c21
+      en: Olchowo [Nazwy miejscowe Polski, t. 8, p. 76]
+      de: Olchowo [Nazwy miejscowe Polski, t. 8, p. 76]
+    - key: c22
+      en: Oleśnica [Nazwy miejscowe Polski, t. 8, p. 83]
+      de: Oleśnica [Nazwy miejscowe Polski, t. 8, p. 83]
+    - key: c23
+      en: Podbiel [Nazwy miejscowe Polski, t. 9, p. 16]
+      de: Podbiel [Nazwy miejscowe Polski, t. 9, p. 16]
+    - key: c24
+      en: Białobrzeg [Nazwy miejscowe Polski, t. 1, p. 192]
+      de: Białobrzeg [Nazwy miejscowe Polski, t. 1, p. 192]
   - work: ostensacken2001
     cite: Kraus (2001)
     pages:
@@ -5329,3 +5722,57 @@ place:
     - key: '48'
       en: p. 48
       de: S. 48
+  - work: slowinski2023
+    cite: Słowiński (2023)
+    pages:
+    - key: '7'
+      en: p. 7
+      de: S. 7
+    - key: '8'
+      en: p. 8
+      de: S. 8
+    - key: '10'
+      en: p. 10
+      de: S. 10
+    - key: '12'
+      en: p. 12
+      de: S. 12
+    - key: '19'
+      en: p. 19
+      de: S. 19
+    - key: '20'
+      en: p. 20
+      de: S. 20
+    - key: '30'
+      en: p. 30
+      de: S. 30
+    - key: '31'
+      en: p. 31
+      de: S. 31
+    - key: '40'
+      en: p. 40
+      de: S. 40
+    - key: '45'
+      en: p. 45
+      de: S. 45
+    - key: '68'
+      en: p. 68
+      de: S. 68
+    - key: '86'
+      en: p. 86
+      de: S. 86
+    - key: '93'
+      en: p. 93
+      de: S. 93
+    - key: '96'
+      en: p. 96
+      de: S. 96
+    - key: '97'
+      en: p. 97
+      de: S. 97
+    - key: '98'
+      en: p. 98
+      de: S. 98
+    - key: '99'
+      en: p. 99
+      de: S. 99

@@ -171,6 +171,28 @@
    "doc_line": 3
   },
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissien[sia]",
+   "page": 2,
+   "page_id": "0624_a2",
+   "scan": "APP_53_17_0_Konin_Gr_120_0624_a2-L2_02.jpg",
+   "line": 12,
+   "doc_line": 4
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensis",
+   "page": 2,
+   "page_id": "0624_a2",
+   "scan": "APP_53_17_0_Konin_Gr_120_0624_a2-L2_02.jpg",
+   "line": 12,
+   "doc_line": 4
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",

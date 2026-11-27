@@ -13,7 +13,7 @@
  "date_precision": "year",
  "date_source": "sitting",
  "date_display": "1777",
- "date_inferred_from": "The sitting opened at Konin on 20 October 1777. Its heading is on a page not among the scans; the entry itself has no date, and it mentions a search made later in that October.",
+ "date_inferred_from": "The sitting opened at Konin on 20 October 1777. Its heading is on a page not among the scans; the entry itself has no date, and it mentions a search in the Konin records made that same day.",
  "year": 1777,
  "month": "",
  "day": "",
@@ -202,6 +202,28 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissiensibu",
+   "page": 1,
+   "page_id": "0182_b1",
+   "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninen[sibus]",
+   "page": 1,
+   "page_id": "0182_b1",
+   "scan": "APP_53_6_0_46_0182_b1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
@@ -261,6 +283,28 @@
    "display": "Drzewce",
    "kind": "place",
    "surface": "Drzewiec",
+   "page": 2,
+   "page_id": "0182_b2",
+   "scan": "APP_53_6_0_46_0182_b2-L1_02.jpg",
+   "line": 6,
+   "doc_line": 3
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensibus",
+   "page": 2,
+   "page_id": "0182_b2",
+   "scan": "APP_53_6_0_46_0182_b2-L1_02.jpg",
+   "line": 6,
+   "doc_line": 3
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninen[sia]",
    "page": 2,
    "page_id": "0182_b2",
    "scan": "APP_53_6_0_46_0182_b2-L1_02.jpg",

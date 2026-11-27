@@ -96,40 +96,6 @@ groups:
     note: The old text still listed Poznań Gr.1181 as missing; it is built (units/app5320pozgr1181).
     editor_note: ''
     h: d8a9e057
-- name: The Latin transcriptions, all court books
-  items:
-  - id: t911-latin-place-adjectives
-    title: Should the index find the Latin place adjectives?
-    kind: decision
-    text: The place index finds Kalisz, Konin and Pyzdry only in their Polish and German forms, never
-      in the court books' Latin adjectives (Calissiensis, Coninensis, Pyzdrensis). Poznań Gr.1181 was
-      on those places' lists only through the modern names in brackets, which came out at your word on
-      2026-11-27, so it has dropped off them. Teaching the index the Latin forms would bring in every
-      court book's court and district formulas, each read before it is adopted.
-    options:
-    - Leave the index as it is
-    - Index the Latin adjectives too (Claude reads every new match first)
-    links:
-    - label: Poznań Gr.1181
-      href: /sources/app5320pozgr1181/
-    nc: ''
-    note: ''
-    editor_note: ''
-    h: fcf13514
-  - id: t910-oe1bu14526-scans
-    title: Where are the scans of Oe 1 Bü 14526 now?
-    kind: task
-    text: The Latin deed in Oe 1 Bü 14526 could not be audited. Its scans were recorded in your Downloads
-      folder ("Oe 1_Bue 14526"), which no longer has them, and a search of the C, D and J drives found
-      no copy. Say where they are, and the audit reads its five pages.
-    options: []
-    links:
-    - label: Oe 1 Bü 14526
-      href: /sources/oe1bu14526/
-    nc: ''
-    note: ''
-    editor_note: ''
-    h: 2494a041
 - name: Prusimski-era court books, 1589-1788
   items:
   - id: t906-jm-illustris-magnificus
@@ -1641,8 +1607,8 @@ groups:
     h: 715308a8
 counts:
   question: 21
-  decision: 24
-  task: 24
+  decision: 23
+  task: 23
   claude: 11
   waiting: 8
-total: 88
+total: 86

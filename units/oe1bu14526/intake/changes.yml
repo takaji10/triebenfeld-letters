@@ -8,3 +8,8 @@ changes:
   what: 'Document 27, page 0162_a2: the date moved from between the closing''s salutation and the rest of the closing to after the signature (the editor, 2026-11-23: the date goes after the signature). No word changed.'
   was: will auch hier wohnen bleiben. / Zagorowo / d. 16. Aprill 1799. / gantz gehorsamste Diener / Titz / Bancke
   now: will auch hier wohnen bleiben. / gantz gehorsamste Diener / Titz / Bancke / Zagorowo / d. 16. Aprill 1799.
+- importance: wording
+  new: "2026-11-27"
+  what: "Latin audit: in the deed of document 29, leaf 168, the page has \"zatym\", not \"czzatym\"."
+  was: "obiecuiemy czzatym naszem"
+  now: "obiecuiemy zatym naszem"

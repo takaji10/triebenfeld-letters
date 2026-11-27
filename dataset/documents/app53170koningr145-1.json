@@ -7287,6 +7287,17 @@
    "doc_line": 34
   },
   {
+   "entity": "pyzdry",
+   "display": "Pyzdry (Peisern)",
+   "kind": "place",
+   "surface": "Pyzdrom",
+   "page": 15,
+   "page_id": "0662_a1",
+   "scan": "APP_53_17_0_Konin_Gr_145_0662_a1-L1_15.jpg",
+   "line": 50,
+   "doc_line": 34
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -9542,6 +9553,17 @@
    "doc_line": 69
   },
   {
+   "entity": "pyzdry",
+   "display": "Pyzdry (Peisern)",
+   "kind": "place",
+   "surface": "Pyzdrach",
+   "page": 32,
+   "page_id": "0670_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0670_a2-L1_32.jpg",
+   "line": 102,
+   "doc_line": 69
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -10574,6 +10596,17 @@
    "scan": "APP_53_17_0_Konin_Gr_145_0676_a1-L1_43.jpg",
    "line": 136,
    "doc_line": 92
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensis",
+   "page": 44,
+   "page_id": "0676_a2",
+   "scan": "APP_53_17_0_Konin_Gr_145_0676_a2-L1_44.jpg",
+   "line": 138,
+   "doc_line": 93
   },
   {
    "entity": "lukomia",

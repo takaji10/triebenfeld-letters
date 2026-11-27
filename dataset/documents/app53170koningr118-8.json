@@ -119,6 +119,28 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 1,
+   "page_id": "0396_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0396_a2-L8_01.jpg",
+   "line": 34,
+   "doc_line": 1
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landens",
+   "page": 1,
+   "page_id": "0396_a2",
+   "scan": "APP_53_17_0_Konin_Gr_118_0396_a2-L8_01.jpg",
+   "line": 35,
+   "doc_line": 2
+  },
+  {
    "entity": "drzewce",
    "display": "Drzewce",
    "kind": "place",

@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-88 open: 21 question, 24 decision, 24 task, 11 claude, 8 waiting.
+86 open: 21 question, 23 decision, 23 task, 11 claude, 8 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -54,23 +54,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       headings remain open in NEEDS_CONFIRMATION.
       Concerns: [Konin Gr.145](/sources/app53170koningr145/)
       Full discussion: NEEDS_CONFIRMATION, "APP 53/21/0/-/Pyzdry Gr.115".
-
-## The Latin transcriptions, all court books
-
-- [ ] **Should the index find the Latin place adjectives?** (`t911-latin-place-adjectives`, decision). The place index finds Kalisz, Konin and Pyzdry only in their Polish and German forms,
-      never in the court books' Latin adjectives (Calissiensis, Coninensis, Pyzdrensis).
-      Poznań Gr.1181 was on those places' lists only through the modern names in
-      brackets, which came out at your word on 2026-11-27, so it has dropped off them.
-      Teaching the index the Latin forms would bring in every court book's court and
-      district formulas, each read before it is adopted.
-      Options: Leave the index as it is / Index the Latin adjectives too (Claude reads every new match first)
-      Concerns: [Poznań Gr.1181](/sources/app5320pozgr1181/)
-
-- [ ] **Where are the scans of Oe 1 Bü 14526 now?** (`t910-oe1bu14526-scans`, task). The Latin deed in Oe 1 Bü 14526 could not be audited. Its scans were recorded in your
-      Downloads folder ("Oe 1_Bue 14526"), which no longer has them, and a search of the
-      C, D and J drives found no copy. Say where they are, and the audit reads its five
-      pages.
-      Concerns: [Oe 1 Bü 14526](/sources/oe1bu14526/)
 
 ## Prusimski-era court books, 1589-1788
 

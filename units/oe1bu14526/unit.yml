@@ -67,7 +67,7 @@ repository: hzan-neuenstein
 # The finished pages are in pages/, and the intake records (manifest, fold,
 # trim and skew decisions) are kept in units/<slug>/intake/.
 scans:
-  raw_dir: C:/Users/Tersnaus/Downloads/Oe 1_Bue 14526
+  raw_dir: J:/Documents/Archive/Genealogy/References/Hohenlohe-Zentralarchiv Neuenstein/Oe 1_Bue 14526
   raw_glob: Oe 1_Bü 14526_*.jpg
 
   # Web derivatives are copied into site/assets/scans/ under an ASCII-safe

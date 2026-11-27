@@ -125,6 +125,28 @@
  "place_canonical": "Kalisz",
  "place_mentions": [
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissiensi",
+   "page": 1,
+   "page_id": "0323_a1",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a1-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissiensia",
+   "page": 2,
+   "page_id": "0323_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  },
+  {
    "entity": "kolno",
    "display": "Kolno (Kulm)",
    "kind": "place",

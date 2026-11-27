@@ -1224,6 +1224,10 @@ places:
   italien: {Italien: yes}
   jena: {Jena: yes}
   kalisz:
+    # The Latin and older forms the place index learnt on 2026-11-27 (the editor: index the Latin adjectives).
+    Calisch: yes
+    Calisia: yes
+    Calissiensis: "no: Rusiński (1947), a title in the list of sources, not the place in the text"
     # Muszyńska-Zygmańska (1947): the city.
     Kaliszem: True
     Kaliszowi: True
@@ -1344,7 +1348,22 @@ places:
       default: yes
       except:
         werner1904/424: "only the birthplace of the parish's pastor Schiffmann, an incidental mention"
+  lenschitz:
+    # The Latin forms, 2026-11-27: in Paciorkowski (1776) only blank formulas of the boundary court
+    # ("Coram ... NN. Lanciciensi"), the office named as an example, not Łęczyca.
+    Lanciciense: "no: a blank formula of the handbook, the office named as an example"
+    Lanciciensi: "no: a blank formula of the handbook, the office named as an example"
+    Lanciciensis: "no: a blank formula of the handbook, the office named as an example"
   posen:
+    # The Latin forms, 2026-11-27 (as for Kalisz). Rusiński (1947), pp. VI-VII, is the list of sources.
+    Posnaniae: "no: the imprint of a print in the list of sources (Rusiński 1947)"
+    Posnanienis: "no: Rusiński (1947), a title in the list of sources, not the place in the text"
+    Posnanienses: "no: Rusiński (1947), the key to an abbreviation in the list of sources"
+    Posnaniensi: "no: Rusiński (1947), a title in the list of sources, not the place in the text"
+    Posnaniensis:
+      default: yes
+      except:
+        rusinski1947/VI: "a title in the list of sources, not the place in the text"
     Posen:
       default: yes
       except:
@@ -1368,6 +1387,10 @@ places:
         muszynska1947/123: "Praga, the suburb of Warsaw stormed in 1794 (Muszyńska-Zygmańska 1947), not Prague"
   pressburg: {Preßburg: yes}
   pyzdry:
+    # The Latin and Polish case forms, 2026-11-27.
+    Pyzdrach: yes
+    Pyzdrom: yes
+    Pyzdrensis: "no: Rusiński (1947), a title in the list of sources, not the place in the text"
     Peisern: yes
     # Kneifel (1937): "die Peiserner Evangelischen" (p. 262), "im Peiserner
     # Hauland" (p. 264) - the town's people and its Hauland.

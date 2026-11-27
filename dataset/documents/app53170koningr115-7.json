@@ -116,10 +116,32 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 32,
+   "doc_line": 1
+  },
+  {
    "entity": "kolno",
    "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kolno",
+   "page": 1,
+   "page_id": "0226_a2",
+   "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",
+   "line": 34,
+   "doc_line": 3
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensia",
    "page": 1,
    "page_id": "0226_a2",
    "scan": "APP_53_17_0_Konin_Gr_115_0226_a2-L7_01.jpg",

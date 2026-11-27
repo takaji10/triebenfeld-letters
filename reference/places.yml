@@ -570,7 +570,7 @@ places:
     display: Poznań
     german: Posen
     kind: city
-    match: Posen\b
+    match: 'Posen\b|Posn(?:an\w*|\[ani\]ae|~)'
     tier: Established
     variants:
     - Poser
@@ -638,7 +638,7 @@ places:
     german: Peisern
     kind: town
     area: trabczyn-zagorow
-    match: Pyzdry\w*|Pe[iy]sern\w*
+    match: 'Pyzdry\w*|Pe[iy]sern\w*|Pyzdr(?:a\b|ach\b|om\b|ens)\w*'
     tier: Established
     variants:
     - Peysern
@@ -650,7 +650,7 @@ places:
     german: Kalisch
     kind: city
     area: trabczyn-zagorow
-    match: Kalis(?:z|ch)\w*|Калиш\w*
+    match: 'Kalis(?:z|ch)\w*|Калиш\w*|Call?iss?i(?!us\b)\w*|Calis(?=\[)|Calisch\w*'
     tier: Established
     variants:
     - form: Kalisch
@@ -664,7 +664,7 @@ places:
     display: Konin
     kind: city
     area: trabczyn-zagorow
-    match: Konin\w*|Konińsk\w*|Конин\w*
+    match: 'Konin\w*|Konińsk\w*|Конин\w*|Conin\w*'
     not_in:
     - agad1169011745-1
     tier: Established
@@ -1172,7 +1172,7 @@ places:
     - '1414: Landensis, Landa'
     - '1415: Landensis'
     - '1418: Landensis, Landa'
-    match: Łędzk\w*|Ląd(?:zk\w*)?(?![a-zà-ÿ])
+    match: 'Łędzk\w*|Ląd(?:zk\w*)?(?![a-zà-ÿ])|Landens\w*|Landen(?=\[|~)|(?<=Monasterii )Landen|(?<=Coenobium )Landen'
     tier: Text-confirmed
     variants: []
   sachsen:
@@ -1867,7 +1867,7 @@ places:
     display: Łęczyca
     german: Lenschitz
     kind: town
-    match: Lenschitz|Lenczyc\w*
+    match: 'Lenschitz|Lenczyc\w*|Lancici\w*'
     tier: Established
     variants: []
   rypin:

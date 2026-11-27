@@ -155,6 +155,17 @@
    "doc_line": 2
   },
   {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniam",
+   "page": 2,
+   "page_id": "0673_a2",
+   "scan": "APP_53_6_0_45_0673_a2-L1_02.jpg",
+   "line": 5,
+   "doc_line": 2
+  },
+  {
    "entity": "pyzdry",
    "display": "Pyzdry (Peisern)",
    "kind": "place",

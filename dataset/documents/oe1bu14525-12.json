@@ -635,6 +635,17 @@
    "doc_line": 51
   },
   {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensibus",
+   "page": 2,
+   "page_id": "0033_a1",
+   "scan": "Oe_1_Bu_14525_0033_a1-L12_02.jpg",
+   "line": 1320,
+   "doc_line": 54
+  },
+  {
    "entity": "kamionno",
    "display": "Kamionna (Kaemen)",
    "kind": "place",

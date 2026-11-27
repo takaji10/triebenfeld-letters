@@ -539,7 +539,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "wrabczyn",
    "lad"
@@ -663,7 +663,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "wrabczyn"
   ],
@@ -709,7 +709,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 2,
+  "places_named": 7,
   "estates": [
    "wrabczynek",
    "drzewce",
@@ -878,7 +878,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "wrabczyn",
    "lad"
@@ -1006,7 +1006,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 1,
+  "places_named": 4,
   "estates": [
    "lad"
   ],
@@ -1089,7 +1089,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 1,
+  "places_named": 3,
   "estates": [
    "zagorowo",
    "lad"
@@ -1216,7 +1216,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "lad"
   ],
@@ -1431,7 +1431,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 2,
+  "places_named": 7,
   "estates": [
    "lukom",
    "gradzyn",
@@ -1479,7 +1479,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 5,
+  "places_named": 7,
   "estates": [
    "lukom",
    "gradzyn",
@@ -1529,7 +1529,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -1576,7 +1576,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -1722,7 +1722,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 2,
+  "places_named": 5,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -1779,7 +1779,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn"
   ],
@@ -1820,7 +1820,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 6,
+  "places_named": 7,
   "estates": [
    "lukom",
    "gradzyn",
@@ -1870,7 +1870,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -1917,7 +1917,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -1964,7 +1964,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -2006,7 +2006,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2089,7 +2089,7 @@
   "has_damage": true,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 6,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2187,7 +2187,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 4,
+  "places_named": 7,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2229,7 +2229,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2271,7 +2271,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2313,7 +2313,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2355,7 +2355,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2402,7 +2402,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -2444,7 +2444,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2486,7 +2486,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -2575,7 +2575,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 6,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -2743,7 +2743,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -2832,7 +2832,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -3568,7 +3568,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 8,
-  "places_named": 17,
+  "places_named": 18,
   "estates": [
    "trabczyn",
    "lukomia",
@@ -3621,7 +3621,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -3668,7 +3668,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -3757,7 +3757,7 @@
   "has_damage": false,
   "rough_transcription": true,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 6,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -3799,7 +3799,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "trabczyn"
   ],
@@ -3840,7 +3840,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -3934,7 +3934,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 3,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -3976,7 +3976,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 6,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4018,7 +4018,7 @@
   "has_damage": true,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 6,
+  "places_named": 7,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4060,7 +4060,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -4102,7 +4102,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 2,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -4144,7 +4144,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "trabczyn"
   ],
@@ -4190,7 +4190,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 5,
-  "places_named": 3,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4237,7 +4237,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 5,
-  "places_named": 5,
+  "places_named": 6,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4284,7 +4284,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4367,7 +4367,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "rzgow"
@@ -4414,7 +4414,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 2,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "rzgow"
@@ -4456,7 +4456,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4498,7 +4498,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4582,7 +4582,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [
    "trabczyn"
   ],
@@ -4665,7 +4665,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 0,
+  "places_named": 2,
   "estates": [
    "trabczyn"
   ],
@@ -4706,7 +4706,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4753,7 +4753,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4795,7 +4795,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4842,7 +4842,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 0,
+  "places_named": 2,
   "estates": [
    "trabczyn"
   ],
@@ -4883,7 +4883,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -4967,7 +4967,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5014,7 +5014,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 3,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5056,7 +5056,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5098,7 +5098,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 0,
+  "places_named": 2,
   "estates": [
    "trabczyn"
   ],
@@ -5144,7 +5144,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 0,
+  "places_named": 1,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5186,7 +5186,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5269,7 +5269,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5316,7 +5316,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5363,7 +5363,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5405,7 +5405,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5462,7 +5462,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 4,
-  "places_named": 3,
+  "places_named": 5,
   "estates": [
    "trabczyn"
   ],
@@ -5503,7 +5503,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 1,
-  "places_named": 0,
+  "places_named": 2,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5665,7 +5665,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 10,
+  "places_named": 14,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5832,7 +5832,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -5936,7 +5936,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -5983,7 +5983,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 4,
+  "places_named": 5,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -6030,7 +6030,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 5,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -6072,7 +6072,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 2,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -6114,7 +6114,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -6156,7 +6156,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -6198,7 +6198,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 3,
+  "places_named": 5,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -6240,7 +6240,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -6347,7 +6347,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 18,
+  "places_named": 23,
   "estates": [],
   "translation_status": "draft",
   "has_summary": true,
@@ -6386,7 +6386,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "lukomia",
    "trabczyn"
@@ -6428,7 +6428,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 1,
+  "places_named": 2,
   "estates": [
    "trabczyn"
   ],
@@ -6474,7 +6474,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 3,
-  "places_named": 2,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -6521,7 +6521,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 2,
-  "places_named": 3,
+  "places_named": 4,
   "estates": [
    "trabczyn",
    "lukomia"
@@ -6700,7 +6700,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 12,
-  "places_named": 9,
+  "places_named": 10,
   "estates": [
    "trabczyn"
   ],
@@ -19907,7 +19907,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 6,
-  "places_named": 2,
+  "places_named": 3,
   "estates": [
    "trabczyn"
   ],
@@ -34323,7 +34323,7 @@
   "has_damage": false,
   "rough_transcription": false,
   "mentions": 0,
-  "places_named": 0,
+  "places_named": 2,
   "estates": [
    "drzewce",
    "lad"

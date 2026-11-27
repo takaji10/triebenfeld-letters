@@ -110,6 +110,17 @@
    "doc_line": 1
   },
   {
+   "entity": "lenschitz",
+   "display": "Łęczyca (Lenschitz)",
+   "kind": "place",
+   "surface": "Lanciciae",
+   "page": 1,
+   "page_id": "0014_a",
+   "scan": "APP_53_1455_0_2_21_0014_a-L3_01.jpg",
+   "line": 16,
+   "doc_line": 2
+  },
+  {
    "entity": "gradzyn",
    "display": "Grądzyń",
    "kind": "place",
@@ -121,10 +132,76 @@
    "doc_line": 4
   },
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calisiensi",
+   "page": 2,
+   "page_id": "0015_a",
+   "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+   "line": 19,
+   "doc_line": 4
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninen",
+   "page": 2,
+   "page_id": "0015_a",
+   "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+   "line": 19,
+   "doc_line": 4
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landen",
+   "page": 2,
+   "page_id": "0015_a",
+   "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+   "line": 19,
+   "doc_line": 4
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensi",
+   "page": 2,
+   "page_id": "0015_a",
+   "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+   "line": 19,
+   "doc_line": 4
+  },
+  {
    "entity": "lukomia",
    "display": "Łukomia",
    "kind": "place",
    "surface": "Lukomia",
+   "page": 2,
+   "page_id": "0015_a",
+   "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+   "line": 19,
+   "doc_line": 4
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnanien",
+   "page": 2,
+   "page_id": "0015_a",
+   "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+   "line": 19,
+   "doc_line": 4
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnanien",
    "page": 2,
    "page_id": "0015_a",
    "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",

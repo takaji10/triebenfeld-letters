@@ -133,10 +133,43 @@
    "doc_line": 4
   },
   {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 1,
+   "page_id": "0011_a",
+   "scan": "",
+   "line": 111,
+   "doc_line": 5
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landense",
+   "page": 1,
+   "page_id": "0011_a",
+   "scan": "",
+   "line": 111,
+   "doc_line": 5
+  },
+  {
    "entity": "adamierz",
    "display": "Adamierz",
    "kind": "place",
    "surface": "Adamierz",
+   "page": 1,
+   "page_id": "0011_a",
+   "scan": "",
+   "line": 112,
+   "doc_line": 6
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
    "page": 1,
    "page_id": "0011_a",
    "scan": "",

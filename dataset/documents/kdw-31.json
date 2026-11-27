@@ -108,6 +108,39 @@
    "doc_line": 3
   },
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calisiensi",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "",
+   "line": 329,
+   "doc_line": 4
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "",
+   "line": 329,
+   "doc_line": 4
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensi",
+   "page": 1,
+   "page_id": "0031_a",
+   "scan": "",
+   "line": 329,
+   "doc_line": 4
+  },
+  {
    "entity": "konin",
    "display": "Konin",
    "kind": "place",

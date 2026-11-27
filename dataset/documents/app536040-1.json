@@ -378,6 +378,50 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 1,
+   "page_id": "0368_a2",
+   "scan": "APP_53_6_0_40_0368_a2-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissiense",
+   "page": 2,
+   "page_id": "0372_a2",
+   "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+   "line": 6,
+   "doc_line": 3
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 2,
+   "page_id": "0372_a2",
+   "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+   "line": 6,
+   "doc_line": 3
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensis",
+   "page": 2,
+   "page_id": "0372_a2",
+   "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
+   "line": 6,
+   "doc_line": 3
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
@@ -398,6 +442,28 @@
    "scan": "APP_53_6_0_40_0372_a2-L1_02.jpg",
    "line": 6,
    "doc_line": 3
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissiensis",
+   "page": 3,
+   "page_id": "0373_a1",
+   "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+   "line": 8,
+   "doc_line": 4
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensis",
+   "page": 3,
+   "page_id": "0373_a1",
+   "scan": "APP_53_6_0_40_0373_a1-L1_03.jpg",
+   "line": 8,
+   "doc_line": 4
   },
   {
    "entity": "lukom",
@@ -422,10 +488,32 @@
    "doc_line": 4
   },
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissiensis",
+   "page": 4,
+   "page_id": "0373_a2",
+   "scan": "APP_53_6_0_40_0373_a2-L1_04.jpg",
+   "line": 10,
+   "doc_line": 5
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
    "surface": "Łukom",
+   "page": 4,
+   "page_id": "0373_a2",
+   "scan": "APP_53_6_0_40_0373_a2-L1_04.jpg",
+   "line": 10,
+   "doc_line": 5
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
    "page": 4,
    "page_id": "0373_a2",
    "scan": "APP_53_6_0_40_0373_a2-L1_04.jpg",

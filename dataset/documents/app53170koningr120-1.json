@@ -70,6 +70,17 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 1,
+   "page_id": "0063_a2",
+   "scan": "APP_53_17_0_Konin_Gr_120_0063_a2-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",

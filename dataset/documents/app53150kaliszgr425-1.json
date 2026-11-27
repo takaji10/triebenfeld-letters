@@ -246,6 +246,28 @@
    "doc_line": 2
   },
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissien",
+   "page": 3,
+   "page_id": "0498_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
+   "line": 12,
+   "doc_line": 8
+  },
+  {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissiensia",
+   "page": 3,
+   "page_id": "0498_a2",
+   "scan": "APP_53_15_0_Kalisz_Gr_425_0498_a2-L1_03.jpg",
+   "line": 13,
+   "doc_line": 9
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",

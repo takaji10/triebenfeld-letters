@@ -5588,3 +5588,11 @@ things learned while measuring it:
   holding (translate.py rewraps stdout on import, and a second import in one process closes it). Read the
   word-diff afterwards. It leaves doc<N>.yml and holding.py FIXES alone: note the edit in the holding's notes.
   The Latin audit's impact sweep is the first use (reference/latin_audit/english_impact*.json).
+- **The place index reads the Latin court formulas** (the editor, 2026-11-27, t911). Kalisz, Konin, Pyzdry,
+  Poznań, Ląd and Łęczyca match their Latin forms (`reference/places.yml`). Kept out on purpose: the surname
+  Calisius (`(?!us\b)`), the Polish adjective "Pyzdrska" (Puszcza Pyzdrska is the forest, not the town: only
+  the Latin forms and the town's own Polish cases Pyzdrach, Pyzdrom are taken), and the German noun "Landen"
+  (only "Landen[sis]", "Landen~" or after Monasterii/Coenobium). Places the court books name but the register
+  lacks (Gniezno, Bydgoszcz, Wschowa, Piotrków, Radziejów, Inowrocław, Sieradz, Kościan) were not added. Before
+  a pattern goes in, list every surface form it catches in units, literature and newspapers, then rule the new
+  literature and newspaper pairs (`literature_index.py --check`, `newspapers_index.py --check`).

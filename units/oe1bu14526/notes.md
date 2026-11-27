@@ -281,3 +281,13 @@ An AI model (Claude) read all the pages. It worked through every word the transc
 ### Summaries and translation
 
 The model translated each document into English. The summaries were first written from those translations. In October 2026 they were written again, in German, from a reading of each document in its German text, and each of their 182 statements was then checked against the document. All held as finally worded; where a statement rested on a word not read with certainty, it was cut or left general. The English summaries are translations of the German.
+
+## The Latin audit (2026-11-27)
+
+The scans are on J: (the editor, 2026-11-27: "J:\Documents\Archive\Genealogy\References\Hohenlohe-Zentralarchiv
+Neuenstein\Oe 1_Bue 14526"; unit.yml's raw_dir changed from the old Downloads folder). The deed of document 29
+(leaves 166-169, Latin with Polish) was read in the audit's lighter pass by a Sonnet reader on the cut pages in
+`processed/`: nothing skipped, no marks of doubt, no tilde forms. One correction, seen by Claude on band s02 of
+leaf 168: "zatym", not "czzatym" (`intake/latin_audit.json`). Left as transcribed: "de Actio et Anno inse" (the
+page has "Actio" and "inse"), "Teodor na Klewaniu y Żukowie" (the Czartoryskis' style, "of Klewań and Żuków"), and
+the reader's unsure points on leaf 167 ("Dies # 30", "neh[mlich]"). The English is unaffected.

@@ -5,7 +5,7 @@ fix and identify any transcription errors, and to resolve any ~ or similar marks
 you make a plan for this that also determines if any summaries or texts (e.g. Eras) would need to be
 amended based on the corrections?"
 
-**Status (2026-11-27): every holding read on the desktop the same day but Oe 1 Bü 14526 (scans missing); the spot sheet answered by the editor and applied the same day (47 of 57; section 10), with the two rulings for all court books (routine forms stay written out; nothing dropped, the king's titles written out); the impact sweep done the same day (the English and the dating notes; reference/latin_audit/english_impact*.json).** The editor's answers are in section 8. The
+**Status (2026-11-27): every holding read on the desktop the same day (Oe 1 Bü 14526 once the editor named where its scans are); the spot sheet answered by the editor and applied the same day (47 of 57; section 10), with the two rulings for all court books (routine forms stay written out; nothing dropped, the king's titles written out); the impact sweep done the same day (the English and the dating notes; reference/latin_audit/english_impact*.json).** The editor's answers are in section 8. The
 audit is to be **run in a desktop session on the editor's PC**, where the original scans are; section 9
 is the procedure for that session. A cloud session cannot do the reading: it has only the site's web
 copies.
@@ -242,7 +242,7 @@ worktree (WORKING_NOTES, "Two sessions, one working copy").
 | Holding | Read | Settled | Committed |
 |---|---|---|---|
 | Konin Gr.115 (pilot) | 2026-11-27 | 2026-11-27: 5 corrections, 2 expansions, 2 questions | 2026-11-27 |
-| Oe 1 Bü 14526, the Latin deed | not possible: its scans are no longer in Downloads, nor found on C:, D: or J: (2026-11-27) | | |
+| Oe 1 Bü 14526, the Latin deed | done 2026-11-27 (the scans on J:, the editor's word): lighter pass, one Sonnet reader, Claude on the band | 1 correction ("zatym") | none |
 
 ## 11. Prepared in the cloud (2026-11-27)
 

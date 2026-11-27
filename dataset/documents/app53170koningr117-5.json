@@ -193,6 +193,39 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calissiensi",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensia",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninen[sis]",
+   "page": 1,
+   "page_id": "0058_a2",
+   "scan": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
+   "line": 28,
+   "doc_line": 2
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",

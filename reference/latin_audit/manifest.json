@@ -42,9 +42,6 @@
      "[?]",
      "[?]",
      "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
      "[?]"
     ]
    },
@@ -70,7 +67,6 @@
      "[?]",
      "[?]",
      "[?]",
-     "[?]",
      "[?]"
     ]
    },
@@ -93,7 +89,6 @@
     "lines": 2,
     "tildes": 0,
     "doubts": [
-     "[?]",
      "[?]",
      "[?]",
      "[?]"
@@ -204,12 +199,8 @@
     "web": "APP_53_4_0_62_0222_a-L1_01.jpg",
     "scan": "0222_a.jpg",
     "lines": 6,
-    "tildes": 3,
-    "doubts": [
-     "[?]",
-     "[?]",
-     "[F?]"
-    ]
+    "tildes": 4,
+    "doubts": []
    }
   ]
  },
@@ -246,9 +237,7 @@
     "scan": "0373_a1.jpg",
     "lines": 1,
     "tildes": 0,
-    "doubts": [
-     "[?]"
-    ]
+    "doubts": []
    },
    {
     "uid": "app536040-1",
@@ -375,9 +364,7 @@
     "scan": "0298_a1.jpg",
     "lines": 1,
     "tildes": 0,
-    "doubts": [
-     "[dem?]"
-    ]
+    "doubts": []
    },
    {
     "uid": "app53170koningr114-2",
@@ -425,7 +412,7 @@
     "web": "APP_53_17_0_Konin_Gr_115_0037_a2-L3_01.jpg",
     "scan": "0037_a2.jpg",
     "lines": 2,
-    "tildes": 3,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -437,7 +424,8 @@
     "lines": 5,
     "tildes": 4,
     "doubts": [
-     "[?]"
+     "[?]",
+     "[...]"
     ]
    },
    {
@@ -448,9 +436,7 @@
     "scan": "0186_a1.jpg",
     "lines": 3,
     "tildes": 0,
-    "doubts": [
-     "[?]"
-    ]
+    "doubts": []
    },
    {
     "uid": "app53170koningr115-5",
@@ -499,7 +485,7 @@
     "web": "APP_53_17_0_Konin_Gr_115_0242_a1-L8_02.jpg",
     "scan": "0242_a1.jpg",
     "lines": 1,
-    "tildes": 3,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -509,7 +495,7 @@
     "web": "APP_53_17_0_Konin_Gr_115_0245_a2-L10_01.jpg",
     "scan": "0245_a2.jpg",
     "lines": 3,
-    "tildes": 0,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -591,7 +577,6 @@
     "lines": 3,
     "tildes": 0,
     "doubts": [
-     "[n?]",
      "[ielmożnemu?]",
      "[Jegomości?]"
     ]
@@ -658,7 +643,7 @@
     "web": "APP_53_17_0_Konin_Gr_116_0090_a1-L4_01.jpg",
     "scan": "0090_a1.jpg",
     "lines": 7,
-    "tildes": 3,
+    "tildes": 1,
     "doubts": [
      "[?]",
      "[?]",
@@ -673,7 +658,7 @@
     "web": "APP_53_17_0_Konin_Gr_116_0090_a1-L4_01.jpg",
     "scan": "0090_a1.jpg",
     "lines": 3,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": [
      "[?]"
     ]
@@ -707,7 +692,7 @@
     "web": "APP_53_17_0_Konin_Gr_116_0096_a1-L7_01.jpg",
     "scan": "0096_a1.jpg",
     "lines": 3,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -717,12 +702,8 @@
     "web": "APP_53_17_0_Konin_Gr_116_0132_a1-L8_01.jpg",
     "scan": "0132_a1.jpg",
     "lines": 3,
-    "tildes": 1,
-    "doubts": [
-     "[t?]",
-     "[?]",
-     "[u?]"
-    ]
+    "tildes": 0,
+    "doubts": []
    },
    {
     "uid": "app53170koningr116-8",
@@ -784,9 +765,8 @@
     "web": "APP_53_17_0_Konin_Gr_116_0336_a1-L12_01.jpg",
     "scan": "0336_a1.jpg",
     "lines": 3,
-    "tildes": 3,
+    "tildes": 1,
     "doubts": [
-     "[?]",
      "[?]",
      "[?]",
      "[?]"
@@ -853,7 +833,7 @@
     "web": "APP_53_15_0_Kalisz_Gr_424_0323_a2-L1_02.jpg",
     "scan": "0323_a2.jpg",
     "lines": 2,
-    "tildes": 6,
+    "tildes": 1,
     "doubts": []
    }
   ]
@@ -870,7 +850,7 @@
     "web": "APP_53_6_0_46_0182_b1-L1_01.jpg",
     "scan": "0182_b1.jpg",
     "lines": 2,
-    "tildes": 7,
+    "tildes": 3,
     "doubts": [
      "[?]",
      "[?]",
@@ -886,7 +866,7 @@
     "web": "APP_53_6_0_46_0182_b2-L1_02.jpg",
     "scan": "0182_b2.jpg",
     "lines": 1,
-    "tildes": 6,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -896,7 +876,7 @@
     "web": "APP_53_6_0_46_0183_a2-L2_01.jpg",
     "scan": "0183_a2.jpg",
     "lines": 1,
-    "tildes": 6,
+    "tildes": 3,
     "doubts": []
    }
   ]
@@ -913,7 +893,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0083_a1-L10_01.jpg",
     "scan": "0083_a1.jpg",
     "lines": 2,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -923,7 +903,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
     "scan": "0055_a1.jpg",
     "lines": 3,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -933,7 +913,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0055_a2-L3_02.jpg",
     "scan": "0055_a2.jpg",
     "lines": 2,
-    "tildes": 4,
+    "tildes": 2,
     "doubts": [
      "[i?]",
      "[i?]",
@@ -964,7 +944,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0035_a2-L1_01.jpg",
     "scan": "0035_a2.jpg",
     "lines": 3,
-    "tildes": 13,
+    "tildes": 5,
     "doubts": [
      "[os?]",
      "[?]",
@@ -982,7 +962,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0055_a1-L3_01.jpg",
     "scan": "0055_a1.jpg",
     "lines": 3,
-    "tildes": 15,
+    "tildes": 7,
     "doubts": [
      "[i?]",
      "[i?]",
@@ -1003,7 +983,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0058_a1-L4_01.jpg",
     "scan": "0058_a1.jpg",
     "lines": 2,
-    "tildes": 12,
+    "tildes": 6,
     "doubts": [
      "[?]",
      "[?]",
@@ -1018,10 +998,8 @@
     "web": "APP_53_17_0_Konin_Gr_117_0058_a2-L5_01.jpg",
     "scan": "0058_a2.jpg",
     "lines": 3,
-    "tildes": 20,
-    "doubts": [
-     "[?]"
-    ]
+    "tildes": 11,
+    "doubts": []
    },
    {
     "uid": "app53170koningr117-6",
@@ -1043,7 +1021,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0071_a2-L7_01.jpg",
     "scan": "0071_a2.jpg",
     "lines": 4,
-    "tildes": 7,
+    "tildes": 2,
     "doubts": []
    },
    {
@@ -1053,9 +1031,8 @@
     "web": "APP_53_17_0_Konin_Gr_117_0072_a1-L7_02.jpg",
     "scan": "0072_a1.jpg",
     "lines": 2,
-    "tildes": 5,
+    "tildes": 0,
     "doubts": [
-     "[?]",
      "[?]",
      "[?]"
     ]
@@ -1067,7 +1044,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0072_a2-L8_01.jpg",
     "scan": "0072_a2.jpg",
     "lines": 2,
-    "tildes": 26,
+    "tildes": 8,
     "doubts": [
      "[?]"
     ]
@@ -1079,7 +1056,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0073_a1-L8_02.jpg",
     "scan": "0073_a1.jpg",
     "lines": 1,
-    "tildes": 2,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -1089,10 +1066,9 @@
     "web": "APP_53_17_0_Konin_Gr_117_0078_a2-L9_01.jpg",
     "scan": "0078_a2.jpg",
     "lines": 2,
-    "tildes": 9,
+    "tildes": 6,
     "doubts": [
      "[ibus?]",
-     "[etc.?]",
      "[si?]",
      "[bus?]"
     ]
@@ -1104,7 +1080,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0079_a1-L9_02.jpg",
     "scan": "0079_a1.jpg",
     "lines": 1,
-    "tildes": 11,
+    "tildes": 8,
     "doubts": []
    },
    {
@@ -1126,11 +1102,9 @@
     "lines": 3,
     "tildes": 3,
     "doubts": [
-     "[?]",
      "[i?]",
      "[S?]",
      "[s?]",
-     "[?]",
      "[s?]"
     ]
    },
@@ -1141,7 +1115,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0359_a2-L12_01.jpg",
     "scan": "0359_a2.jpg",
     "lines": 2,
-    "tildes": 4,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -1151,7 +1125,7 @@
     "web": "APP_53_17_0_Konin_Gr_117_0360_a1-L12_02.jpg",
     "scan": "0360_a1.jpg",
     "lines": 2,
-    "tildes": 2,
+    "tildes": 0,
     "doubts": []
    }
   ]
@@ -1168,7 +1142,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0173_a1-L1_01.jpg",
     "scan": "0173_a1.jpg",
     "lines": 2,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -1178,7 +1152,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0267_a1-L2_01.jpg",
     "scan": "0267_a1.jpg",
     "lines": 2,
-    "tildes": 5,
+    "tildes": 2,
     "doubts": []
    },
    {
@@ -1188,7 +1162,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0344_a1-L3_01.jpg",
     "scan": "0344_a1.jpg",
     "lines": 3,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": [
      "[?]"
     ]
@@ -1200,7 +1174,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0383_a1-L6_01.jpg",
     "scan": "0383_a1.jpg",
     "lines": 2,
-    "tildes": 6,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -1210,7 +1184,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0383_a2-L7_01.jpg",
     "scan": "0383_a2.jpg",
     "lines": 2,
-    "tildes": 5,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -1220,7 +1194,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0368_a1-L4_01.jpg",
     "scan": "0368_a1.jpg",
     "lines": 3,
-    "tildes": 5,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -1230,7 +1204,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0381_a2-L5_01.jpg",
     "scan": "0381_a2.jpg",
     "lines": 3,
-    "tildes": 6,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -1265,7 +1239,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0398_a2-L9_01.jpg",
     "scan": "0398_a2.jpg",
     "lines": 2,
-    "tildes": 5,
+    "tildes": 3,
     "doubts": []
    },
    {
@@ -1275,7 +1249,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0475_a2-L13_01.jpg",
     "scan": "0475_a2.jpg",
     "lines": 2,
-    "tildes": 8,
+    "tildes": 3,
     "doubts": [
      "[c?]"
     ]
@@ -1287,7 +1261,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0476_a1-L13_02.jpg",
     "scan": "0476_a1.jpg",
     "lines": 2,
-    "tildes": 7,
+    "tildes": 1,
     "doubts": [
      "[?]",
      "[?]"
@@ -1300,7 +1274,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0496_a1-L14_01.jpg",
     "scan": "0496_a1.jpg",
     "lines": 2,
-    "tildes": 32,
+    "tildes": 11,
     "doubts": []
    },
    {
@@ -1310,7 +1284,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0617_a2-L21_01.jpg",
     "scan": "0617_a2.jpg",
     "lines": 2,
-    "tildes": 6,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -1320,7 +1294,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0672_a1-L25_01.jpg",
     "scan": "0672_a1.jpg",
     "lines": 2,
-    "tildes": 14,
+    "tildes": 7,
     "doubts": [
      "[o?]"
     ]
@@ -1332,7 +1306,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
     "scan": "0416_a2.jpg",
     "lines": 2,
-    "tildes": 12,
+    "tildes": 4,
     "doubts": []
    },
    {
@@ -1342,7 +1316,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0417_a1-L10_02.jpg",
     "scan": "0417_a1.jpg",
     "lines": 1,
-    "tildes": 8,
+    "tildes": 5,
     "doubts": [
      "[A?]"
     ]
@@ -1354,7 +1328,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0460_a2-L11_01.jpg",
     "scan": "0460_a2.jpg",
     "lines": 3,
-    "tildes": 6,
+    "tildes": 4,
     "doubts": []
    },
    {
@@ -1364,7 +1338,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0469_a2-L12_01.jpg",
     "scan": "0469_a2.jpg",
     "lines": 3,
-    "tildes": 7,
+    "tildes": 3,
     "doubts": []
    },
    {
@@ -1384,7 +1358,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0515_a2-L15_02.jpg",
     "scan": "0515_a2.jpg",
     "lines": 3,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": [
      "[?]"
     ]
@@ -1396,7 +1370,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0524_a1-L17_01.jpg",
     "scan": "0524_a1.jpg",
     "lines": 3,
-    "tildes": 14,
+    "tildes": 4,
     "doubts": []
    },
    {
@@ -1406,7 +1380,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0527_a1-L18_01.jpg",
     "scan": "0527_a1.jpg",
     "lines": 2,
-    "tildes": 7,
+    "tildes": 5,
     "doubts": []
    },
    {
@@ -1416,7 +1390,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0519_a2-L16_01.jpg",
     "scan": "0519_a2.jpg",
     "lines": 3,
-    "tildes": 6,
+    "tildes": 2,
     "doubts": []
    },
    {
@@ -1426,7 +1400,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0530_a2-L19_01.jpg",
     "scan": "0530_a2.jpg",
     "lines": 3,
-    "tildes": 13,
+    "tildes": 1,
     "doubts": [
      "[a?]"
     ]
@@ -1438,10 +1412,8 @@
     "web": "APP_53_17_0_Konin_Gr_118_0531_a1-L19_02.jpg",
     "scan": "0531_a1.jpg",
     "lines": 5,
-    "tildes": 4,
-    "doubts": [
-     "[i?]"
-    ]
+    "tildes": 2,
+    "doubts": []
    },
    {
     "uid": "app53170koningr118-20",
@@ -1450,7 +1422,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0586_a1-L20_01.jpg",
     "scan": "0586_a1.jpg",
     "lines": 2,
-    "tildes": 9,
+    "tildes": 4,
     "doubts": [
      "[?]",
      "[?]"
@@ -1463,7 +1435,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0586_a2-L20_02.jpg",
     "scan": "0586_a2.jpg",
     "lines": 2,
-    "tildes": 8,
+    "tildes": 4,
     "doubts": [
      "[?]"
     ]
@@ -1475,7 +1447,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
     "scan": "0622_a2.jpg",
     "lines": 2,
-    "tildes": 6,
+    "tildes": 3,
     "doubts": []
    },
    {
@@ -1485,7 +1457,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
     "scan": "0622_a2.jpg",
     "lines": 3,
-    "tildes": 6,
+    "tildes": 3,
     "doubts": []
    },
    {
@@ -1495,7 +1467,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0623_a1-L23_02.jpg",
     "scan": "0623_a1.jpg",
     "lines": 1,
-    "tildes": 31,
+    "tildes": 19,
     "doubts": []
    },
    {
@@ -1505,7 +1477,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0623_a2-L23_03.jpg",
     "scan": "0623_a2.jpg",
     "lines": 1,
-    "tildes": 22,
+    "tildes": 8,
     "doubts": []
    },
    {
@@ -1515,7 +1487,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0624_a1-L23_04.jpg",
     "scan": "0624_a1.jpg",
     "lines": 1,
-    "tildes": 9,
+    "tildes": 4,
     "doubts": []
    },
    {
@@ -1525,7 +1497,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg",
     "scan": "0626_a2.jpg",
     "lines": 3,
-    "tildes": 4,
+    "tildes": 1,
     "doubts": []
    },
    {
@@ -1535,7 +1507,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg",
     "scan": "0675_a1.jpg",
     "lines": 2,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -1545,7 +1517,7 @@
     "web": "APP_53_17_0_Konin_Gr_118_0675_a1-L29_01.jpg",
     "scan": "0675_a1.jpg",
     "lines": 2,
-    "tildes": 3,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -1877,7 +1849,7 @@
     "web": "APP_53_6_0_47_0240_b1-L1_01.jpg",
     "scan": "0240_b1.jpg",
     "lines": 1,
-    "tildes": 18,
+    "tildes": 4,
     "doubts": []
    },
    {
@@ -1887,7 +1859,7 @@
     "web": "APP_53_6_0_47_0240_b2-L1_02.jpg",
     "scan": "0240_b2.jpg",
     "lines": 3,
-    "tildes": 4,
+    "tildes": 0,
     "doubts": []
    },
    {
@@ -1897,7 +1869,7 @@
     "web": "APP_53_6_0_47_0240_b3-L1_03.jpg",
     "scan": "0240_b3.jpg",
     "lines": 2,
-    "tildes": 5,
+    "tildes": 0,
     "doubts": []
    }
   ]
@@ -1914,7 +1886,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0062_a2-L1_01.jpg",
     "scan": "0062_a2.jpg",
     "lines": 2,
-    "tildes": 25,
+    "tildes": 15,
     "doubts": [
      "[?]",
      "[d?]"
@@ -1927,7 +1899,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0063_a1-L2_01.jpg",
     "scan": "0063_a1.jpg",
     "lines": 1,
-    "tildes": 6,
+    "tildes": 3,
     "doubts": [
      "[m?]",
      "[i?]",
@@ -1941,7 +1913,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0063_a1-L2_01.jpg",
     "scan": "0063_a1.jpg",
     "lines": 2,
-    "tildes": 13,
+    "tildes": 2,
     "doubts": []
    },
    {
@@ -1951,7 +1923,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0063_a2-L2_02.jpg",
     "scan": "0063_a2.jpg",
     "lines": 1,
-    "tildes": 14,
+    "tildes": 9,
     "doubts": [
      "[?]",
      "[?]",
@@ -1966,7 +1938,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0073_a2-L4_01.jpg",
     "scan": "0073_a2.jpg",
     "lines": 4,
-    "tildes": 13,
+    "tildes": 6,
     "doubts": []
    },
    {
@@ -1976,7 +1948,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0073_a2-L4_01.jpg",
     "scan": "0073_a2.jpg",
     "lines": 2,
-    "tildes": 15,
+    "tildes": 8,
     "doubts": []
    },
    {
@@ -1986,7 +1958,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0131_a2-L6_01.jpg",
     "scan": "0131_a2.jpg",
     "lines": 2,
-    "tildes": 16,
+    "tildes": 5,
     "doubts": []
    },
    {
@@ -1996,7 +1968,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0128_a2-L5_01.jpg",
     "scan": "0128_a2.jpg",
     "lines": 3,
-    "tildes": 28,
+    "tildes": 13,
     "doubts": [
      "[d?]"
     ]
@@ -2008,7 +1980,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0305_a1-L7_01.jpg",
     "scan": "0305_a1.jpg",
     "lines": 3,
-    "tildes": 11,
+    "tildes": 5,
     "doubts": []
    },
    {
@@ -2018,7 +1990,7 @@
     "web": "APP_53_17_0_Konin_Gr_119_0685_a2-L8_01.jpg",
     "scan": "0685_a2.jpg",
     "lines": 4,
-    "tildes": 6,
+    "tildes": 1,
     "doubts": []
    }
   ]
@@ -2035,16 +2007,12 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
     "scan": "0161_a.jpg",
     "lines": 38,
-    "tildes": 10,
+    "tildes": 5,
     "doubts": [
-     "[?]",
      "[sem?]",
-     "[??]",
      "[us??]",
      "[?]",
      "[n?]",
-     "[em?]",
-     "[Wieluń?]",
      "[em?]",
      "[cum?]",
      "[em?]",
@@ -2060,23 +2028,17 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
     "scan": "0161_b.jpg",
     "lines": 1,
-    "tildes": 9,
+    "tildes": 7,
     "doubts": [
      "[?]",
      "[em?]",
      "[m?]",
-     "[em?]",
      "[dem?]",
      "[?]",
-     "[?]",
-     "[r?]",
      "[em?]",
      "[sem?]",
-     "[?]",
      "[dem?]",
-     "[?]",
-     "[dem?]",
-     "[s?]"
+     "[?]"
     ]
    },
    {
@@ -2086,21 +2048,13 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
     "scan": "0162_a.jpg",
     "lines": 1,
-    "tildes": 19,
+    "tildes": 16,
     "doubts": [
-     "[?]",
-     "[e?]",
      "[?]",
      "[us?]",
      "[?]",
-     "[eo?]",
      "[?]",
      "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[??]",
      "[?]",
      "[s?]",
      "[?]",
@@ -2113,19 +2067,9 @@
      "[?]",
      "[?]",
      "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
      "[m?]",
-     "[?]",
      "[m?]",
      "[que?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[h/st?]",
      "[?]",
      "[?]",
      "[?]",
@@ -2142,26 +2086,17 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
     "scan": "0162_b.jpg",
     "lines": 1,
-    "tildes": 9,
+    "tildes": 6,
     "doubts": [
      "[a?]",
      "[?]",
-     "[c?]",
      "[?]",
-     "[di?]",
      "[s?]",
      "[u?]",
      "[?]",
      "[f?]",
      "[s?]",
      "[?]",
-     "[dem?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[Bonorum?]",
      "[?]",
      "[?]",
      "[?]",
@@ -2169,8 +2104,7 @@
      "[?]",
      "[?]",
      "[?]",
-     "[ue?]",
-     "[?]"
+     "[ue?]"
     ]
    },
    {
@@ -2180,28 +2114,18 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0163_a-L1_05.jpg",
     "scan": "0163_a.jpg",
     "lines": 1,
-    "tildes": 9,
+    "tildes": 6,
     "doubts": [
      "[?]",
-     "[?]",
-     "[?]",
-     "[r?]",
      "[?]",
      "[?]",
      "[ius?]",
      "[dem?]",
      "[?]",
-     "[ssens?]",
-     "[sem?]",
-     "[?]",
-     "[?]",
-     "[niki?]",
      "[?]",
      "[?]",
      "[?]",
      "[i?]",
-     "[?]",
-     "[post/parte?]",
      "[m?]",
      "[?]",
      "[mis?]",
@@ -2216,9 +2140,8 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0163_b-L1_06.jpg",
     "scan": "0163_b.jpg",
     "lines": 1,
-    "tildes": 5,
+    "tildes": 2,
     "doubts": [
-     "[?]",
      "[s?]",
      "[n?]",
      "[?]",
@@ -2230,19 +2153,11 @@
      "[?]",
      "[?]",
      "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
      "[n?]",
-     "[?]",
-     "[w?]",
-     "[?]",
      "[?]",
      "[?]",
      "[auto?]",
-     "[?]",
-     "[?]"
+     "[conjuges?]"
     ]
    },
    {
@@ -2252,24 +2167,16 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0164_a-L1_07.jpg",
     "scan": "0164_a.jpg",
     "lines": 1,
-    "tildes": 8,
+    "tildes": 6,
     "doubts": [
      "[?]",
      "[?]",
      "[?]",
      "[?]",
-     "[3?]",
-     "[?]",
-     "[?]",
-     "[?]",
      "[er/ra?]",
-     "[?]",
      "[st/h?]",
      "[?]",
      "[??]",
-     "[?]",
-     "[h/t?]",
-     "[?]",
      "[?]",
      "[?]",
      "[?]",
@@ -2280,12 +2187,8 @@
      "[?]",
      "[?]",
      "[sch?]",
-     "[br?]",
-     "[?]",
-     "[tt?]",
      "[?]",
      "[per/pra?]",
-     "[?]",
      "[?]",
      "[?]",
      "[?]",
@@ -2300,23 +2203,15 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0164_b-L1_08.jpg",
     "scan": "0164_b.jpg",
     "lines": 1,
-    "tildes": 6,
+    "tildes": 4,
     "doubts": [
-     "[?]",
-     "[per?]",
      "[or?]",
      "[?]",
-     "[?]",
      "[r?]",
-     "[?]",
-     "[?]",
-     "[?]",
      "[?]",
      "[?]",
      "[s/f?]",
      "[?]",
-     "[r?]",
-     "[n/r?]",
      "[dem?]",
      "[P/V?]",
      "[?]",
@@ -2325,14 +2220,10 @@
      "[?]",
      "[?]",
      "[?]",
-     "[Pyzdry?]",
      "[?]",
      "[?]",
-     "[?]",
-     "[sis?]",
      "[sis?]",
      "[o?]",
-     "[?]",
      "[?]",
      "[?]",
      "[?]",
@@ -2347,16 +2238,13 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0165_a-L1_09.jpg",
     "scan": "0165_a.jpg",
     "lines": 1,
-    "tildes": 4,
+    "tildes": 6,
     "doubts": [
      "[?]",
      "[post?]",
      "[?]",
      "[per?]",
-     "[?]",
      "[2va?]",
-     "[r?]",
-     "[?]",
      "[?]",
      "[?]",
      "[roboratione?]",
@@ -2366,10 +2254,6 @@
      "[?]",
      "[?]",
      "[?]",
-     "[?]",
-     "[?]",
-     "[?]",
-     "[un?]",
      "[?]",
      "[r?]"
     ]
@@ -2381,9 +2265,8 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0165_b-L1_10.jpg",
     "scan": "0165_b.jpg",
     "lines": 1,
-    "tildes": 6,
+    "tildes": 4,
     "doubts": [
-     "[?]",
      "[?]",
      "[?]",
      "[lu?]",
@@ -2400,7 +2283,6 @@
      "[?]",
      "[j?]",
      "[dem?]",
-     "[?]",
      "[n/m?]",
      "[?]",
      "[?]",
@@ -2415,9 +2297,8 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0166_a-L1_11.jpg",
     "scan": "0166_a.jpg",
     "lines": 1,
-    "tildes": 16,
+    "tildes": 8,
     "doubts": [
-     "[?]",
      "[l?]",
      "[?]",
      "[e?]",
@@ -2425,21 +2306,13 @@
      "[s?]",
      "[E?]",
      "[inscriptam?]",
-     "[3/E?]",
      "[u?]",
-     "[r?]",
      "[sem?]",
-     "[ostri?]",
      "[i?]",
-     "[?]",
-     "[?]",
      "[u?]",
-     "[?]",
      "[?]",
      "[sem/dem??]",
      "[9/G?]",
-     "[?]",
-     "[?]",
      "[?]"
     ]
    },
@@ -2450,13 +2323,11 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0166_b-L1_12.jpg",
     "scan": "0166_b.jpg",
     "lines": 1,
-    "tildes": 25,
+    "tildes": 12,
     "doubts": [
      "[dem?]",
-     "[?]",
      "[p/j?]",
      "[a?]",
-     "[j/p?]",
      "[?]",
      "[em?]",
      "[s/m?]",
@@ -2474,20 +2345,16 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0167_a-L1_13.jpg",
     "scan": "0167_a.jpg",
     "lines": 1,
-    "tildes": 14,
+    "tildes": 8,
     "doubts": [
-     "[?]",
      "[dem?]",
      "[?]",
      "[dem?]",
      "[?]",
-     "[?]",
-     "[tem?]",
      "[m?]",
      "[?]",
      "[?]",
      "[tis?]",
-     "[?]",
      "[?]",
      "[?]",
      "[?]",
@@ -2502,13 +2369,10 @@
     "web": "APP_53_20_0_Poznan_Gr_1181_0167_b-L1_14.jpg",
     "scan": "0167_b.jpg",
     "lines": 1,
-    "tildes": 15,
+    "tildes": 17,
     "doubts": [
-     "[s?]",
      "[?]",
      "[er?]",
-     "[??]",
-     "[Fl/H?]",
      "[?]",
      "[?]",
      "[?]",
@@ -2516,11 +2380,8 @@
      "[?]",
      "[us?]",
      "[?]",
-     "[u?]",
      "[os?]",
      "[?]",
-     "[?]",
-     "[is/m?]",
      "[nis?]",
      "[honorific?]",
      "[?]",
@@ -2528,10 +2389,7 @@
      "[?]",
      "[?]",
      "[dem?]",
-     "[s?]",
-     "[?]",
      "[i?]",
-     "[?]",
      "[?]",
      "[?]",
      "[?]"
@@ -2561,7 +2419,7 @@
     "web": "APP_53_17_0_Konin_Gr_120_0624_a1-L2_01.jpg",
     "scan": "0624_a1.jpg",
     "lines": 3,
-    "tildes": 15,
+    "tildes": 6,
     "doubts": []
    },
    {
@@ -2571,7 +2429,7 @@
     "web": "APP_53_17_0_Konin_Gr_120_0624_a2-L2_02.jpg",
     "scan": "0624_a2.jpg",
     "lines": 1,
-    "tildes": 1,
+    "tildes": 0,
     "doubts": []
    }
   ]
@@ -2605,7 +2463,7 @@
  },
  "oe1bu14526": {
   "ref": "Oe 1 Bü 14526",
-  "raw": "C:/Users/Tersnaus/Downloads/Oe 1_Bue 14526",
+  "raw": "J:/Documents/Archive/Genealogy/References/Hohenlohe-Zentralarchiv Neuenstein/Oe 1_Bue 14526",
   "folds": false,
   "pages": [
    {

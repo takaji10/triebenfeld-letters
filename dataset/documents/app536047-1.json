@@ -372,6 +372,28 @@
    "doc_line": 3
   },
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninen[sibus]",
+   "page": 3,
+   "page_id": "0240_b3",
+   "scan": "APP_53_6_0_47_0240_b3-L1_03.jpg",
+   "line": 10,
+   "doc_line": 6
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninen[sibus]",
+   "page": 3,
+   "page_id": "0240_b3",
+   "scan": "APP_53_6_0_47_0240_b3-L1_03.jpg",
+   "line": 10,
+   "doc_line": 6
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",

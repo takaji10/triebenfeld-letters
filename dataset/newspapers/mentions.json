@@ -309,6 +309,17 @@
  },
  {
   "kind": "place",
+  "entity": "pyzdry",
+  "display": "Pyzdry (Peisern)",
+  "surface": "Pyzdrach",
+  "work": "kuryerpolski1754075",
+  "cite": "Kuryer Polski (1754)",
+  "passage": "item",
+  "line": 19,
+  "context": "Pyzdrach, Koninie, Kaźmierzu, zá"
+ },
+ {
+  "kind": "place",
   "entity": "konin",
   "display": "Konin",
   "surface": "Koninie",

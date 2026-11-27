@@ -116,6 +116,17 @@
  "place_canonical": "Konin",
  "place_mentions": [
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 1,
+   "page_id": "0334_a2",
+   "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+   "line": 10,
+   "doc_line": 1
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -131,6 +142,17 @@
    "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kolno",
+   "page": 1,
+   "page_id": "0334_a2",
+   "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",
+   "line": 12,
+   "doc_line": 3
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensia",
    "page": 1,
    "page_id": "0334_a2",
    "scan": "APP_53_17_0_Konin_Gr_114_0334_a2-L2_01.jpg",

@@ -75,6 +75,10 @@ places:
     "Konina": true        # the road from Oleśnica to Konin (1937)
     "Konin": true         # the Kreisstadt Konin on the Warta, where the 1942
                           # article's walk to the Amtsbezirk Drommin begins
+  pyzdry:
+    # Kuryer Polski (1754): the Masses for Paweł Prusimski at the monasteries of Pyzdry, Konin and Kaźmierz
+    # (the Polish locative, matched since the place index learnt the Latin and case forms, 2026-11-27).
+    Pyzdrach: yes
   schlesien:
     "Schlesien": true     # the region the fourteen founding families of the
                           # 1942 article set out from ("aus dem Schlesierlande"

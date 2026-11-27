@@ -91,32 +91,6 @@ items:
     label: Konin Gr.145
   nc: APP 53/21/0/-/Pyzdry Gr.115
   audit_note: The old text still listed Poznań Gr.1181 as missing; it is built (units/app5320pozgr1181).
-- id: t911-latin-place-adjectives
-  group: The Latin transcriptions, all court books
-  title: Should the index find the Latin place adjectives?
-  kind: decision
-  text: 'The place index finds Kalisz, Konin and Pyzdry only in their Polish and German forms, never in the court books'' Latin adjectives (Calissiensis, Coninensis, Pyzdrensis). Poznań Gr.1181 was on those places'' lists only through the modern names in brackets, which came out at your word on 2026-11-27, so it has dropped off them. Teaching the index the Latin forms would bring in every court book''s court and district formulas, each read before it is adopted.'
-  options:
-  - Leave the index as it is
-  - Index the Latin adjectives too (Claude reads every new match first)
-  links:
-  - type: unit
-    slug: app5320pozgr1181
-    label: Poznań Gr.1181
-  nc: ''
-  audit_note: ''
-- id: t910-oe1bu14526-scans
-  group: The Latin transcriptions, all court books
-  title: Where are the scans of Oe 1 Bü 14526 now?
-  kind: task
-  text: 'The Latin deed in Oe 1 Bü 14526 could not be audited. Its scans were recorded in your Downloads folder ("Oe 1_Bue 14526"), which no longer has them, and a search of the C, D and J drives found no copy. Say where they are, and the audit reads its five pages.'
-  options: []
-  links:
-  - type: unit
-    slug: oe1bu14526
-    label: Oe 1 Bü 14526
-  nc: ''
-  audit_note: ''
 - id: t906-jm-illustris-magnificus
   group: Prusimski-era court books, 1589-1788
   title: Correct "His Honour" for JM in the English of Konin Gr.119
@@ -1610,6 +1584,14 @@ items:
   nc: The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
   audit_note: ''
 done:
+- id: t911-latin-place-adjectives
+  title: Should the index find the Latin place adjectives?
+  date: '2026-11-27'
+  how: 'The editor: yes. The patterns of Kalisz, Konin, Pyzdry, Poznań, Ląd and Łęczyca in reference/places.yml learnt the Latin forms (Calissiensis, Conin and Coninensis, Pyzdrensis, Posnaniensis, Landensis, Lanciciensis), every new match read first: the documents gain 115 places in the index (Poznań Gr.1181 is back under Kalisz, Konin and Pyzdry); in the literature 10 new hits stand and 12 are ruled out (titles in a list of sources, blank formulas); the surname Calisius and the Polish Puszcza Pyzdrska are not matched.'
+- id: t910-oe1bu14526-scans
+  title: Where are the scans of Oe 1 Bü 14526?
+  date: '2026-11-27'
+  how: 'The editor: J:, Hohenlohe-Zentralarchiv Neuenstein, Oe 1_Bue 14526 (unit.yml now points there). The deed''s five pages (leaves 166-169) read in the audit''s lighter pass: nothing skipped; one correction, "zatym" for "czzatym" (leaf 168), seen by Claude on the band.'
 - id: t909-latin-audit-sheet
   title: Answer the Latin audit's spot sheet of 58 questions
   date: '2026-11-27'

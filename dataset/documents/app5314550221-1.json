@@ -68,10 +68,43 @@
  "place_canonical": "Ląd",
  "place_mentions": [
   {
+   "entity": "kalisz",
+   "display": "Kalisz (Kalisch)",
+   "kind": "place",
+   "surface": "Calisiensis",
+   "page": 1,
+   "page_id": "0013_a",
+   "scan": "APP_53_1455_0_2_21_0013_a-L2_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensi",
+   "page": 1,
+   "page_id": "0013_a",
+   "scan": "APP_53_1455_0_2_21_0013_a-L2_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
    "surface": "Lukomski",
+   "page": 1,
+   "page_id": "0013_a",
+   "scan": "APP_53_1455_0_2_21_0013_a-L2_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
+   "entity": "pyzdry",
+   "display": "Pyzdry (Peisern)",
+   "kind": "place",
+   "surface": "Pyzdrensi",
    "page": 1,
    "page_id": "0013_a",
    "scan": "APP_53_1455_0_2_21_0013_a-L2_01.jpg",

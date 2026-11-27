@@ -114,6 +114,17 @@
    "entity": "lad",
    "display": "Ląd",
    "kind": "place",
+   "surface": "Landensis",
+   "page": 1,
+   "page_id": "0013_a",
+   "scan": "",
+   "line": 134,
+   "doc_line": 2
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
    "surface": "Ląd",
    "page": 1,
    "page_id": "0013_a",
@@ -153,6 +164,28 @@
    "scan": "",
    "line": 135,
    "doc_line": 3
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 1,
+   "page_id": "0013_a",
+   "scan": "",
+   "line": 136,
+   "doc_line": 4
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 1,
+   "page_id": "0013_a",
+   "scan": "",
+   "line": 136,
+   "doc_line": 4
   },
   {
    "entity": "trabczyn",
@@ -197,6 +230,17 @@
    "scan": "",
    "line": 136,
    "doc_line": 4
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 1,
+   "page_id": "0013_a",
+   "scan": "",
+   "line": 138,
+   "doc_line": 6
   },
   {
    "entity": "lad",

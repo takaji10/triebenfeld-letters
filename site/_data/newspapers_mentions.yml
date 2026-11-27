@@ -70,6 +70,13 @@ place:
     - key: item
       en: The item
       de: Das Stück
+  pyzdry:
+  - slug: kuryerpolski1754075
+    cite: Kuryer Polski (1754)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
   trabczyn:
   - slug: dziennikpoznanski18791220
     cite: Dziennik Poznański (1879)

@@ -1935,10 +1935,32 @@
    "doc_line": 1
   },
   {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 1,
+   "page_id": "1391_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
    "surface": "Łukom",
+   "page": 1,
+   "page_id": "1391_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+   "line": 3,
+   "doc_line": 1
+  },
+  {
+   "entity": "pyzdry",
+   "display": "Pyzdry (Peisern)",
+   "kind": "place",
+   "surface": "Pyzdrensem",
    "page": 1,
    "page_id": "1391_a2",
    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
@@ -1979,6 +2001,17 @@
    "doc_line": 1
   },
   {
+   "entity": "lenschitz",
+   "display": "Łęczyca (Lenschitz)",
+   "kind": "place",
+   "surface": "Lanciciensi",
+   "page": 1,
+   "page_id": "1391_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+   "line": 4,
+   "doc_line": 2
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -1990,10 +2023,76 @@
    "doc_line": 4
   },
   {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 2,
+   "page_id": "1392_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1392_a1-L1_02.jpg",
+   "line": 8,
+   "doc_line": 5
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensem",
+   "page": 2,
+   "page_id": "1392_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1392_a1-L1_02.jpg",
+   "line": 8,
+   "doc_line": 5
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 3,
+   "page_id": "1392_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+   "line": 10,
+   "doc_line": 6
+  },
+  {
    "entity": "kolno",
    "display": "Kolno (Kulm)",
    "kind": "place",
    "surface": "Kolno",
+   "page": 3,
+   "page_id": "1392_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+   "line": 11,
+   "doc_line": 7
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 3,
+   "page_id": "1392_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+   "line": 11,
+   "doc_line": 7
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 3,
+   "page_id": "1392_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+   "line": 11,
+   "doc_line": 7
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
    "page": 3,
    "page_id": "1392_a2",
    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
@@ -2021,6 +2120,28 @@
    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
    "line": 12,
    "doc_line": 8
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 4,
+   "page_id": "1393_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1393_a1-L1_04.jpg",
+   "line": 14,
+   "doc_line": 9
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 4,
+   "page_id": "1393_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1393_a1-L1_04.jpg",
+   "line": 14,
+   "doc_line": 9
   },
   {
    "entity": "trabczyn",
@@ -2056,6 +2177,61 @@
    "doc_line": 10
   },
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensis",
+   "page": 5,
+   "page_id": "1393_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1393_a2-L1_05.jpg",
+   "line": 17,
+   "doc_line": 11
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 5,
+   "page_id": "1393_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1393_a2-L1_05.jpg",
+   "line": 17,
+   "doc_line": 11
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensia",
+   "page": 5,
+   "page_id": "1393_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1393_a2-L1_05.jpg",
+   "line": 17,
+   "doc_line": 11
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 5,
+   "page_id": "1393_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1393_a2-L1_05.jpg",
+   "line": 17,
+   "doc_line": 11
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 5,
+   "page_id": "1393_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1393_a2-L1_05.jpg",
+   "line": 17,
+   "doc_line": 11
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -2067,6 +2243,28 @@
    "doc_line": 11
   },
   {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 6,
+   "page_id": "1394_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1394_a1-L1_06.jpg",
+   "line": 20,
+   "doc_line": 13
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 6,
+   "page_id": "1394_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1394_a1-L1_06.jpg",
+   "line": 20,
+   "doc_line": 13
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
@@ -2153,6 +2351,17 @@
    "scan": "APP_53_17_0_Konin_Gr_153_1394_a2-L1_07.jpg",
    "line": 25,
    "doc_line": 17
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensis",
+   "page": 8,
+   "page_id": "1395_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1395_a1-L1_08.jpg",
+   "line": 28,
+   "doc_line": 19
   },
   {
    "entity": "drzewce",
@@ -2265,6 +2474,17 @@
    "doc_line": 22
   },
   {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensis",
+   "page": 9,
+   "page_id": "1395_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1395_a2-L1_09.jpg",
+   "line": 33,
+   "doc_line": 23
+  },
+  {
    "entity": "lukom",
    "display": "Łukom",
    "kind": "place",
@@ -2296,6 +2516,17 @@
    "scan": "APP_53_17_0_Konin_Gr_153_1396_a1-L1_10.jpg",
    "line": 35,
    "doc_line": 24
+  },
+  {
+   "entity": "lenschitz",
+   "display": "Łęczyca (Lenschitz)",
+   "kind": "place",
+   "surface": "Lanciciensis",
+   "page": 10,
+   "page_id": "1396_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1396_a1-L1_10.jpg",
+   "line": 36,
+   "doc_line": 25
   },
   {
    "entity": "lukom",
@@ -2419,6 +2650,72 @@
    "doc_line": 33
   },
   {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 14,
+   "page_id": "1398_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1398_a1-L1_14.jpg",
+   "line": 55,
+   "doc_line": 40
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 15,
+   "page_id": "1398_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1398_a2-L1_15.jpg",
+   "line": 57,
+   "doc_line": 41
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 15,
+   "page_id": "1398_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1398_a2-L1_15.jpg",
+   "line": 59,
+   "doc_line": 43
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 17,
+   "page_id": "1399_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1399_a2-L1_17.jpg",
+   "line": 66,
+   "doc_line": 48
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 17,
+   "page_id": "1399_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1399_a2-L1_17.jpg",
+   "line": 67,
+   "doc_line": 49
+  },
+  {
+   "entity": "posen",
+   "display": "Poznań (Posen)",
+   "kind": "place",
+   "surface": "Posnaniensis",
+   "page": 17,
+   "page_id": "1399_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1399_a2-L1_17.jpg",
+   "line": 67,
+   "doc_line": 49
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -2507,6 +2804,28 @@
    "doc_line": 59
   },
   {
+   "entity": "lenschitz",
+   "display": "Łęczyca (Lenschitz)",
+   "kind": "place",
+   "surface": "Lanciciensi",
+   "page": 20,
+   "page_id": "1401_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1401_a1-L1_20.jpg",
+   "line": 81,
+   "doc_line": 60
+  },
+  {
+   "entity": "lad",
+   "display": "Ląd",
+   "kind": "place",
+   "surface": "Landensis",
+   "page": 21,
+   "page_id": "1401_a2",
+   "scan": "APP_53_17_0_Konin_Gr_153_1401_a2-L1_21.jpg",
+   "line": 86,
+   "doc_line": 64
+  },
+  {
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
@@ -2560,6 +2879,28 @@
    "scan": "APP_53_17_0_Konin_Gr_153_1402_a2-L1_23.jpg",
    "line": 100,
    "doc_line": 76
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Coninensis",
+   "page": 25,
+   "page_id": "1404_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1404_a1-L1_25.jpg",
+   "line": 107,
+   "doc_line": 81
+  },
+  {
+   "entity": "konin",
+   "display": "Konin",
+   "kind": "place",
+   "surface": "Conin",
+   "page": 25,
+   "page_id": "1404_a1",
+   "scan": "APP_53_17_0_Konin_Gr_153_1404_a1-L1_25.jpg",
+   "line": 109,
+   "doc_line": 83
   }
  ],
  "translation_status": "draft",
