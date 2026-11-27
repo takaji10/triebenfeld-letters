@@ -591,10 +591,10 @@ Consideres ergo Lector, has reflexiones, & observa, si vis quiete vivere, quod t
 
 * * *
 
+[p. 82]
+
 ## DE COMMISSIONIBUS,
 ### *Seu Fundorum Terrestrium, cum Bonis Regalibus.*
-
-[p. 82]
 
 Antequam norma, & idea Actus Commissionalis, ratione Granicierum inter Bona Sacræ Regiæ Majestatis ab una, & Terrestria Nobilium Hereditaria, ab altera Parte erectorum, erigendorumve exponatur, differentia, imprimis quantum videlicet Commissiones, a Disterminio, sive Dislimitatione Bonorum ab utrinque; Terrestrium, supra explicato distant, consideranda, quæ ex inferius annotatis facile colligi potest.
 

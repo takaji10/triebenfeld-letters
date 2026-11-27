@@ -37,6 +37,21 @@ UNITS = unitlib.load_units()
 
 _CITATIONS = {}
 _FOOTNOTES = {}
+_LEAVES = {}
+
+
+def leaf_of(slug, page_id):
+    """The leaf or page number of a manuscript page ('172v'), from units/<slug>/leaves.yml
+    (pipeline/intake/make_leaves.py; the editor, 2026-11-27: "[p. 585v]" in the transcriptions
+    and translations), or ''."""
+    if slug not in _LEAVES:
+        import yaml
+        p = os.path.join(ROOT, 'units', slug, 'leaves.yml')
+        _LEAVES[slug] = {}
+        if os.path.isfile(p):
+            with open(p, encoding='utf-8') as f:
+                _LEAVES[slug] = {str(k): str(v) for k, v in (yaml.safe_load(f) or {}).items()}
+    return _LEAVES[slug].get(str(page_id or ''), '')
 
 
 
@@ -723,6 +738,11 @@ def main():
             # the width.
 
             body.append('<div class="pane-text">')
+            # The leaf of the book this page is, as the transcription files mark it ("[p. 585v]"),
+            # above every view: transcription, reading text and translation alike.
+            _leaf = leaf_of(r['unit'], p.get('page_id'))
+            if _leaf:
+                body.append(f'<p class="leaf-mark">[p. {html.escape(_leaf)}]</p>')
             # view 1 - the transcription: manuscript line breaks kept, line-end
             # marks resolved per the recorded decisions. Numbered to the
             # archival line so it can still be cited line by line.
@@ -946,6 +966,17 @@ def main():
                 if lg not in UNIT_LANGS:
                     raise SystemExit(f'{u.slug}: unknown language {lg!r} (reference/languages.yml)')
             f.write(f'  languages: [{", ".join(lgs)}]\n')
+            # Where the source itself is online (unit.yml `online:`, a URL or {url, label}; the
+            # editor, 2026-11-27: "include a link to the original source if it was found online").
+            onl = u.get('online') or ''
+            if isinstance(onl, dict):
+                onl_url, onl_label = str(onl.get('url') or ''), str(onl.get('label') or '')
+            else:
+                onl_url, onl_label = str(onl), ''
+            if onl_url and not onl_url.startswith(('http://', 'https://')):
+                raise SystemExit(f'{u.slug}: online: is not a web address: {onl_url!r}')
+            f.write(f'  online_url: {yaml_str(onl_url)}\n')
+            f.write(f'  online_label: {yaml_str(onl_label)}\n')
             f.write(f'  description_de: {yaml_str((u.get("description_de") or "").strip())}\n')
             f.write(f'  repository: {yaml_str(u.get("repository") or "")}\n')
             f.write(f'  era: {yaml_str(u.get("era") or "")}\n')

@@ -49,6 +49,9 @@ layout: default
           {%- endfor -%}
         </dd></div>
       {% endif %}
+      {% if u.online_url and u.online_url != "" %}
+        <div><dt>{{ t.sources_online }}</dt><dd><a href="{{ u.online_url }}" rel="noopener">{% if u.online_label != "" %}{{ u.online_label }}{% else %}{{ u.online_url | remove: 'https://' | remove: 'http://' | remove: 'www.' | split: '/' | first }}{% endif %}</a></dd></div>
+      {% endif %}
     </dl>
   </header>
 

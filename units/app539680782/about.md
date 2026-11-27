@@ -1,4 +1,4 @@
-In 1820 the elected heads of Tropiczyner Holland, the old Olęder colony on the Trąbczyn estate, engaged Samuel Adolph as the teacher of the colony's own school, giving him a dwelling, land and grain, and fees for teaching the children, for confirmations and for funerals. <!-- context -->
+In 1820 the elected heads of the old Olęder colony on the Trąbczyn estate engaged Samuel Adolph as the teacher of the colony's own school, giving him a dwelling, land and grain, and fees for teaching the children, for confirmations and for funerals. <!-- context -->
 
 ### Historical background
 

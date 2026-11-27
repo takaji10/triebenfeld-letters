@@ -56,8 +56,8 @@ excerpt_separator: ""
 <li class="l3"><a href="#p-77"><span class="toc-e">Boundaries Between Terrestrial Estates, Made by Mutual Consent of the Parties by Virtue of an Amicable Settlement.</span><span class="toc-o" lang="la">Granicies inter Bona Terrestria, de mutuo Partium consensu, vigore Complanationis, amicabilis factæ.</span> <span class="toc-p">S. 77</span></a></li>
 <li class="l2"><a href="#p-79"><span class="toc-e">FOREWARNING</span><span class="toc-o" lang="la">PRÆMONITIO</span> <span class="toc-p">S. 79</span></a></li>
 <li class="l3"><a href="#p-79"><span class="toc-e">To the Reader Who Would Stir up Litigation.</span><span class="toc-o" lang="la">Ad Lectorem, Litem Excitantem.</span> <span class="toc-p">S. 79</span></a></li>
-<li class="l2"><a href="#p-81"><span class="toc-e">ON ROYAL COMMISSIONS,</span><span class="toc-o" lang="la">DE COMMISSIONIBUS,</span> <span class="toc-p">S. 81</span></a></li>
-<li class="l3"><a href="#p-81"><span class="toc-e">Or the Delimitation of Terrestrial Estates with Royal Estates.</span><span class="toc-o" lang="la">Seu Fundorum Terrestrium, cum Bonis Regalibus.</span> <span class="toc-p">S. 81</span></a></li>
+<li class="l2"><a href="#p-82"><span class="toc-e">ON ROYAL COMMISSIONS,</span><span class="toc-o" lang="la">DE COMMISSIONIBUS,</span> <span class="toc-p">S. 82</span></a></li>
+<li class="l3"><a href="#p-82"><span class="toc-e">Or the Delimitation of Terrestrial Estates with Royal Estates.</span><span class="toc-o" lang="la">Seu Fundorum Terrestrium, cum Bonis Regalibus.</span> <span class="toc-p">S. 82</span></a></li>
 <li class="l3"><a href="#p-85"><span class="toc-e">Commissarial Decree on Serious Contested Matters of the Parties, Issued by the Moderation of the Court.</span><span class="toc-o" lang="la">Decretum Commissoriale, ex Serijs Partium Controversijs, per Moderamen Judicij prolatum.</span> <span class="toc-p">S. 85</span></a></li>
 <li class="l3"><a href="#p-104"><span class="toc-e">Commissarial Decree on Serious Contested Matters of the Parties, with the Oath Enjoined upon the Party That Has Won the Boundary Path.</span><span class="toc-o" lang="la">Decretum Commissoriale, ex ferijs Partium Controversijs, una cum Juramento, Parti Ductum Lucrati, injuncto.</span> <span class="toc-p">S. 104</span></a></li>
 <li class="l3"><a href="#p-114"><span class="toc-e">As Regards the Delimitation of Terrestrial Estates with Royal Ones, in the Contumacy of the Leaseholder.</span><span class="toc-o" lang="la">Quo ad Dislimitationem Bonorum Terrestrium cum Regalibus, in Contumaciam Tenutarij.</span> <span class="toc-p">S. 114</span></a></li>
@@ -1833,9 +1833,6 @@ Consideres ergo Lector, has reflexiones, & observa, si vis quiete vivere, quod t
 
 * * *
 
-### DE COMMISSIONIBUS,
-#### *Seu Fundorum Terrestrium, cum Bonis Regalibus.*
-
 </div>
 <div class="lit-en" lang="en" markdown="1">
 
@@ -1851,9 +1848,6 @@ Consider therefore, Reader, these reflections, and take note of them if you wish
 
 * * *
 
-### ON ROYAL COMMISSIONS,
-#### *Or the Delimitation of Terrestrial Estates with Royal Estates.*
-
 </div>
 </section>
 
@@ -1861,12 +1855,18 @@ Consider therefore, Reader, these reflections, and take note of them if you wish
 <div class="pg" id="p82"><a href="#p82">S. 82</a></div>
 <div class="lit-orig" lang="la" markdown="1">
 
+### DE COMMISSIONIBUS,
+#### *Seu Fundorum Terrestrium, cum Bonis Regalibus.*
+
 Antequam norma, & idea Actus Commissionalis, ratione Granicierum inter Bona Sacræ Regiæ Majestatis ab una, & Terrestria Nobilium Hereditaria, ab altera Parte erectorum, erigendorumve exponatur, differentia, imprimis quantum videlicet Commissiones, a Disterminio, sive Dislimitatione Bonorum ab utrinque; Terrestrium, supra explicato distant, consideranda, quæ ex inferius annotatis facile colligi potest.
 
 Et imprimis quod ad Actum futurum Commissorialem, Remisso Judicij Terrestris ad Campum, quæ in Processu supra exarato, inter Bona ab utrinque; Terrestria, pro fundamento est posita, non fit necessaria, imo vero loco Remissionis ipsa sola a Sacra Regia Majestate, ex Cancellaria Regni, super Personas certas ^[*Commissarij Quinque adsint cum Succamerario.*] præcipuas, binas, Ordinis Dignitarij, binas Officialium Terrestrium, quintam Succamerarij, sive Camerarij cujuscunque; Palatinatus vel Terræ, qui facilius conduci poterint, (qui propter absentiam unius, duorumve, plures poni solent) impetranda in ordine Dislimitationis Bonorum & sipationis Scopulorum Commissio, seu Instrumentum Commissionis, quod potest emanare etiam, extra fines Regni, una
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
+
+### ON ROYAL COMMISSIONS,
+#### *Or the Delimitation of Terrestrial Estates with Royal Estates.*
 
 Before the form and model of a commissarial act — in respect of the boundaries between the estates of His Sacred Royal Majesty on the one part and the hereditary terrestrial estates of the nobility on the other, erected or to be erected — is set forth, the difference, in particular how far royal commissions differ from the termination or delimitation of estates on both sides terrestrial, explained above, must first be considered; which may readily be gathered from the notes below.
 

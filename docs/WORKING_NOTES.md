@@ -5598,3 +5598,13 @@ things learned while measuring it:
   marked `index:` yes or no; look there first when a court-book place adjective needs identifying. Before
   a pattern goes in, list every surface form it catches in units, literature and newspapers, then rule the new
   literature and newspaper pairs (`literature_index.py --check`, `newspapers_index.py --check`).
+- **Page numbers in the texts** (the editor, 2026-11-27). Each court record's page shows its leaf ("[p. 585v]")
+  above its transcription, reading text and translation. The numbers are in `units/<slug>/leaves.yml`, made by
+  `pipeline/intake/make_leaves.py` from the LEAF dicts the intake scripts kept (and a rule for Gr.145, Gr.1181,
+  53/4/0/-/62 and Pyzdry Gr.115); build_site_data.py reads them. A new holding: give its intake script a LEAF dict
+  from the editor's "\[172v\]" marks and run make_leaves.py --write.
+- **"Online" on a holding's page** comes from `online:` in unit.yml (a URL, or {url, label}). Record the address
+  of a source found online when the holding comes in; it was not done before 2026-11-27 (to-do t912).
+- **"Back to top"** is a button in the default layout (`assets/totop.js`), shown once a reader is a screen down.
+- **Check the editor's report of a fault against the source before changing it.** Paciorkowski's page 1 break,
+  reported as wrong, follows the printed page (catchword and all); the decision went to the editor (t913).

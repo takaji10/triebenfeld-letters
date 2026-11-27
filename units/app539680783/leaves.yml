@@ -1,0 +1,7 @@
+# The leaf (or page) number of each page of this holding, as the transcription files give it:
+# shown as "[p. N]" at the head of each page's text (pipeline/intake/make_leaves.py, the editor,
+# 2026-11-27). The record: correct a number here by hand.
+0005_a: '1'
+0006_a1: '2'
+0006_a2: '3'
+0007_a1: '4'

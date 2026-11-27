@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-86 open: 21 question, 23 decision, 23 task, 11 claude, 8 waiting.
+89 open: 21 question, 25 decision, 24 task, 11 claude, 8 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -757,3 +757,37 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       Options: Keep / Mark as from reference works / Remove
       Concerns: [Kościuszko](/people/kosciuszko/), [Lubecki](/people/lubecki/)
       Full discussion: NEEDS_CONFIRMATION, "The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)".
+
+## Links to the sources online
+
+- [ ] **Give the web addresses of the sources that are online** (`t912-online-addresses`, task). Every holding page now has an "Online" line for a link to the source where it can be
+      seen online, but the project has the address of only one archival holding
+      (53/4/0/-/62 in Szukaj w Archiwach). Nine Konin and Kalisz court books came from
+      Skanoteka, but their volumes' own addresses were never recorded; for every other
+      holding no online copy is noted. The literature has 19 links (Dorow's Berlin
+      digitisation added) and every newspaper item has one. Send the addresses you have,
+      holding by holding, and Claude adds them (units/<slug>/unit.yml, "online:").
+      Concerns: [app53150kaliszgr424](/sources/app53150kaliszgr424/), [app53150kaliszgr425](/sources/app53150kaliszgr425/), [app53170koningr115](/sources/app53170koningr115/), [app53170koningr116](/sources/app53170koningr116/), [app53170koningr117](/sources/app53170koningr117/), [app53170koningr118](/sources/app53170koningr118/), [app53170koningr119](/sources/app53170koningr119/), [app53170koningr120](/sources/app53170koningr120/), [app53170koningr121](/sources/app53170koningr121/)
+
+## Paciorkowski (1776)
+
+- [ ] **Where does page 1 of Paciorkowski end?** (`t913-paciorkowski-page-1`, decision). You asked to move the break of page 1 to after "...scopulos Causae Remissio." In the
+      printed book (the Harvard copy in your PDF) page 1 ends "fitq; illico", with the
+      catchword "a Judi-" under the last line, and page 2 begins "a Judicio Terrestri
+      ... Causae Remissio."; the edition's text follows the print there, and on every
+      page Claude compared with the PDF. The one misplaced break found, the heading "De
+      Commissionibus" at the foot of page 81 that the print sets at the head of page 82,
+      is corrected, in your files on J: too. Should page 1 end as the print does, or at
+      the end of the sentence?
+      Options: Keep the printed page break (page 1 ends "fitq; illico") / End page 1 at the end of the sentence, after "Causae Remissio."
+      Concerns: [Paciorkowski (1776)](/literature/paciorkowski1776/)
+
+## Page numbers in the texts
+
+- [ ] **Which other holdings should show page numbers?** (`t914-page-numbers-other`, decision). The court records now show their leaf numbers ("[p. 585v]") at the head of each page's
+      text, in every view: 29 holdings, from the numbers your transcription files give.
+      The others (the Hohenlohe letters, the Prussian and Polish government files,
+      Breyer's papers) are numbered in the edition by their scans only; their own folio
+      numbers are not recorded. If you want them too, send the transcription files that
+      carry them.
+      Options: The court records are enough / Add them for the other holdings too (I will send the files)

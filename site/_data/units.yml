@@ -14,6 +14,8 @@
   listed_in: null
   types: [church-records]
   languages: [pl, la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "adwl-wloclawek"
   era: "prusimski-boundary"
@@ -38,6 +40,8 @@
   listed_in: null
   types: [registers-tables]
   languages: [de, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "agad-warszawa"
   era: "hohenlohe"
@@ -62,6 +66,8 @@
   listed_in: null
   types: [government-files]
   languages: [pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "agad-warszawa"
   era: "hohenlohe"
@@ -86,6 +92,8 @@
   listed_in: null
   types: [government-files]
   languages: [pl, fr]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "agad-warszawa"
   era: "hohenlohe"
@@ -110,6 +118,8 @@
   listed_in: null
   types: [court-records, government-files]
   languages: [fr]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "agad-warszawa"
   era: "restitution"
@@ -134,6 +144,8 @@
   listed_in: null
   types: [church-records]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "agad-warszawa"
   era: "wlodzimierz"
@@ -158,6 +170,8 @@
   listed_in: null
   types: [government-files, registers-tables]
   languages: [pl, ru]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "apl-lodz"
   era: "wlodzimierz"
@@ -182,6 +196,8 @@
   listed_in: null
   types: [registers-tables]
   languages: [ru]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "apl-lodz"
   era: "wlodzimierz"
@@ -206,6 +222,8 @@
   listed_in: null
   types: [charters-privileges]
   languages: [la, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "medieval"
@@ -230,6 +248,8 @@
   listed_in: null
   types: [court-records]
   languages: [la, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -254,6 +274,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -278,6 +300,8 @@
   listed_in: null
   types: [court-records]
   languages: [pl, la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -302,6 +326,8 @@
   listed_in: null
   types: [court-records]
   languages: [la, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -326,6 +352,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -350,6 +378,8 @@
   listed_in: null
   types: [court-records]
   languages: [la, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -374,6 +404,8 @@
   listed_in: null
   types: [court-records]
   languages: [la, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -398,6 +430,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -422,6 +456,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -446,6 +482,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -470,6 +508,8 @@
   listed_in: null
   types: [court-records]
   languages: [la, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -494,6 +534,8 @@
   listed_in: null
   types: [court-records]
   languages: [pl, la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -518,6 +560,8 @@
   listed_in: null
   types: [court-records]
   languages: [pl, la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -542,6 +586,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -566,6 +612,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -590,6 +638,8 @@
   listed_in: null
   types: [court-records]
   languages: [pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -614,6 +664,8 @@
   listed_in: null
   types: [court-records]
   languages: [la, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -638,6 +690,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/980058"
+  online_label: "Szukaj w Archiwach"
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -662,6 +716,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -686,6 +742,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -710,6 +768,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -734,6 +794,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -758,6 +820,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -782,6 +846,8 @@
   listed_in: null
   types: [court-records]
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -806,6 +872,8 @@
   listed_in: null
   types: [registers-tables]
   languages: [pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "prusimski-boundary"
@@ -830,6 +898,8 @@
   listed_in: null
   types: [deeds-contracts, court-records]
   languages: [de, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "hohenlohe"
@@ -854,6 +924,8 @@
   listed_in: null
   types: [researchers-papers]
   languages: [de, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "twentieth-century"
@@ -878,6 +950,8 @@
   listed_in: null
   types: [researchers-papers]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "twentieth-century"
@@ -902,6 +976,8 @@
   listed_in: null
   types: [researchers-papers]
   languages: [ru, de, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "twentieth-century"
@@ -914,9 +990,9 @@
 - slug: "app539680782"
   ref: "53/968/0/-/782"
   archive: "Archiwum Państwowe w Poznaniu (APP)"
-  title: "The contract of 14 March 1820 by which the village board of Tropiczyner Holland, the Olęder colony on the Trąbczyn estate, engaged a teacher, Samuel Adolph: his taking over the village school, the dwelling, land and grain the community gives him, and his fees for teaching the children, for confirmations and for funerals."
-  description: "One photographed document of two pages: the contract of 14 March 1820 between the village board of Tropiczyner Holland, the Olęder colony of the Trąbczyn estate, and Samuel Adolph, the school teacher engaged for the village school, written in German. The board - the Schulze Johann George Lindner, the Beisitzer Christoph Rimpel and the Gerichten Samuel Gellert - engages the teacher to take over the village school, having tried him; ten numbered terms follow: free dwelling; three Morgen of land with some meadow, which he may use without payment and which the community tills for him; five Viertel of grain and a half Viertel of seed, which he must carry at his going; school money of 3 gr. for a child learning from the a b c to reading and 6 gr. for writing and reckoning; a present of 1 St. from every child that is confirmed; item 7 stands with its number and nothing after it; fees of 7 Böhm 3 gr. for the burial of an old corpse and 1 St. for a child; at the high feasts of Christmas, Easter and Whitsun an Opfertorium of 6 gl. from every Wirt; and the New Year's rounds, 6 gr. at New Year and 3 gr. on Green Thursday. The teacher binds himself to continue his office, the Sunday school and the children's teaching for one year, and the board binds itself to keep its side of the contract."
-  title_de: "Der Kontrakt vom 14. März 1820 zwischen der Gemeinde von Tropiczyner Holland und dem Schul Lehrer Samuel Adolph: seine Übernahme der Dorfschule, Wohnung, Land und Korn, die ihm die Gemeinde gibt, und seine Gebühren für den Unterricht der Kinder, die Einsegnungen und die Begräbnisse."
+  title: "The contract of 14 March 1820 by which the village board of the Olęder colony on the Trąbczyn estate engaged a teacher, Samuel Adolph: his taking over the village school, the dwelling, land and grain the community gives him, and his fees for teaching the children, for confirmations and for funerals."
+  description: "One photographed document of two pages: the contract of 14 March 1820 between the village board of the Olęder colony on the Trąbczyn estate and Samuel Adolph, the school teacher engaged for the village school, written in German. The board - the Schulze Johann George Lindner, the Beisitzer Christoph Rimpel and the Gerichten Samuel Gellert - engages the teacher to take over the village school, having tried him; ten numbered terms follow: free dwelling; three Morgen of land with some meadow, which he may use without payment and which the community tills for him; five Viertel of grain and a half Viertel of seed, which he must carry at his going; school money of 3 gr. for a child learning from the a b c to reading and 6 gr. for writing and reckoning; a present of 1 St. from every child that is confirmed; item 7 stands with its number and nothing after it; fees of 7 Böhm 3 gr. for the burial of an old corpse and 1 St. for a child; at the high feasts of Christmas, Easter and Whitsun an Opfertorium of 6 gl. from every Wirt; and the New Year's rounds, 6 gr. at New Year and 3 gr. on Green Thursday. The teacher binds himself to continue his office, the Sunday school and the children's teaching for one year, and the board binds itself to keep its side of the contract."
+  title_de: "Der Kontrakt vom 14. März 1820 zwischen der Gemeinde der Olęder-Kolonie auf dem Gut Trąbczyn und dem Schul Lehrer Samuel Adolph: seine Übernahme der Dorfschule, Wohnung, Land und Korn, die ihm die Gemeinde gibt, und seine Gebühren für den Unterricht der Kinder, die Einsegnungen und die Begräbnisse."
   card_title: "Agreement concluded between the teacher Samuel Adolph 1820"
   card_title_de: "Vertrag, abgeschlossen zwischen dem Lehrer Samuel Adolph 1820"
   full_title: null
@@ -926,6 +1002,8 @@
   listed_in: null
   types: [deeds-contracts]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "restitution"
@@ -950,6 +1028,8 @@
   listed_in: null
   types: [court-records]
   languages: [pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "wlodzimierz"
@@ -974,6 +1054,8 @@
   listed_in: null
   types: [deeds-contracts]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "app-poznan"
   era: "hohenlohe"
@@ -998,6 +1080,8 @@
   listed_in: null
   types: [government-files, correspondence]
   languages: [fr, de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1022,6 +1106,8 @@
   listed_in: null
   types: [government-files]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1046,6 +1132,8 @@
   listed_in: null
   types: [government-files]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1070,6 +1158,8 @@
   listed_in: null
   types: [deeds-contracts, government-files]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1094,6 +1184,8 @@
   listed_in: null
   types: [government-files, deeds-contracts]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1118,6 +1210,8 @@
   listed_in: null
   types: [government-files]
   languages: [de, fr]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1142,6 +1236,8 @@
   listed_in: null
   types: [government-files]
   languages: [de, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1166,6 +1262,8 @@
   listed_in: null
   types: [deeds-contracts, government-files]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1190,6 +1288,8 @@
   listed_in: null
   types: [government-files, correspondence]
   languages: [fr, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1214,6 +1314,8 @@
   listed_in: null
   types: [government-files, correspondence]
   languages: [fr, pl, de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1238,6 +1340,8 @@
   listed_in: null
   types: [government-files]
   languages: [de, fr]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "gstapk-berlin"
   era: "hohenlohe"
@@ -1262,6 +1366,8 @@
   listed_in: "literature"
   types: []
   languages: [la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "bkpan-kornik"
   era: "medieval"
@@ -1286,6 +1392,8 @@
   listed_in: null
   types: [deeds-contracts, government-files]
   languages: [de, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "hzan-neuenstein"
   era: "hohenlohe"
@@ -1310,6 +1418,8 @@
   listed_in: null
   types: [deeds-contracts]
   languages: [de, pl, la]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "hzan-neuenstein"
   era: "hohenlohe"
@@ -1334,6 +1444,8 @@
   listed_in: null
   types: [correspondence]
   languages: [de, fr, pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "hzan-neuenstein"
   era: "hohenlohe"
@@ -1358,6 +1470,8 @@
   listed_in: null
   types: [charters-privileges]
   languages: [de]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "hzan-neuenstein"
   era: "hohenlohe"
@@ -1382,6 +1496,8 @@
   listed_in: null
   types: [correspondence]
   languages: [pl]
+  online_url: ""
+  online_label: ""
   description_de: ""
   repository: "ossolineum-wroclaw"
   era: "insurgency"

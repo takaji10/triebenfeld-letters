@@ -165,3 +165,7 @@ The English was written in a working session under the same rules as the other h
 ### Summary
 
 The summary was written in English and German. Its 18 statements were then checked against the document, and all are supported. One was corrected in the draft: the one-year term belongs to the contract the board issues, not to the teacher's obligation.
+
+**The colony named in the description** (the editor, 2026-11-27): the title, the description, the summaries and the
+holding page's opening say "the village board of the Olęder colony on the Trąbczyn estate", not "of Tropiczyner
+Holland, the Olęder colony ..."; the name Tropiczyner Holland is explained once in the About text.

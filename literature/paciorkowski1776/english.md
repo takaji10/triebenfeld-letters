@@ -605,10 +605,10 @@ Consider therefore, Reader, these reflections, and take note of them if you wish
 
 * * *
 
+[p. 82]
+
 ## ON ROYAL COMMISSIONS,
 ### *Or the Delimitation of Terrestrial Estates with Royal Estates.*
-
-[p. 82]
 
 Before the form and model of a commissarial act — in respect of the boundaries between the estates of His Sacred Royal Majesty on the one part and the hereditary terrestrial estates of the nobility on the other, erected or to be erected — is set forth, the difference, in particular how far royal commissions differ from the termination or delimitation of estates on both sides terrestrial, explained above, must first be considered; which may readily be gathered from the notes below.
 

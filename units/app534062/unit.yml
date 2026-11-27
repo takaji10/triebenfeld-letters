@@ -57,6 +57,11 @@ era: prusimski-boundary
 
 # Which archive holds it - reference/repositories.yml.
 repository: app-poznan
+# The volume online: the archive's own presentation (Szukaj w Archiwach, jednostka 980058; the entry is
+# scan 231 of 349). Shown on the holding's page (the editor, 2026-11-27).
+online:
+  url: https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/980058
+  label: Szukaj w Archiwach
 
 # One scan from the archive's online unit (szukajwarchiwach.gov.pl,
 # jednostka 980058): scan 231 of 349, manuscript page 222, the editor's
