@@ -38,7 +38,7 @@ Kept from the work's account, which said it on the page until the voice review o
 
 The editor asked to move the end of page 1 to after "...scopulos Causae Remissio." (on page 2). The PDF in the
 editor's folder (the Harvard copy) shows page 1 ending "fitq; illico" with the catchword "a Judi-", and page 2
-beginning "a Judicio Terrestri"; the text follows the print, so nothing was moved there (to-do t913 asks). Every
+beginning "a Judicio Terrestri"; the text follows the print, so nothing was moved there (the editor, the same day: a false alarm, another source had been looked at). Every
 page's first and last words were compared with the PDF's text layer; the one misplaced break was the heading
 "DE COMMISSIONIBUS, Seu Fundorum Terrestrium, cum Bonis Regalibus" (and its English), set at the foot of page 81
 where the print has it at the head of page 82: moved, in original.md, english.md and the editor's two files on J:.

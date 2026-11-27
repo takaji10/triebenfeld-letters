@@ -1640,28 +1640,6 @@ groups:
     note: ''
     editor_note: ''
     h: 9f9b2360
-- name: Paciorkowski (1776)
-  items:
-  - id: t913-paciorkowski-page-1
-    title: Where does page 1 of Paciorkowski end?
-    kind: decision
-    text: 'You asked to move the break of page 1 to after "...scopulos Causae Remissio." In the printed
-      book (the Harvard copy in your PDF) page 1 ends "fitq; illico", with the catchword "a Judi-" under
-      the last line, and page 2 begins "a Judicio Terrestri ... Causae Remissio."; the edition''s text
-      follows the print there, and on every page Claude compared with the PDF. The one misplaced break
-      found, the heading "De Commissionibus" at the foot of page 81 that the print sets at the head of
-      page 82, is corrected, in your files on J: too. Should page 1 end as the print does, or at the end
-      of the sentence?'
-    options:
-    - Keep the printed page break (page 1 ends "fitq; illico")
-    - End page 1 at the end of the sentence, after "Causae Remissio."
-    links:
-    - label: Paciorkowski (1776)
-      href: /literature/paciorkowski1776/
-    nc: ''
-    note: ''
-    editor_note: ''
-    h: 2d3c1fdd
 - name: Page numbers in the texts
   items:
   - id: t914-page-numbers-other
@@ -1682,8 +1660,8 @@ groups:
     h: 54449aca
 counts:
   question: 21
-  decision: 25
+  decision: 24
   task: 24
   claude: 11
   waiting: 8
-total: 89
+total: 88
