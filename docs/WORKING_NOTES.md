@@ -5487,3 +5487,23 @@ things learned while measuring it:
   bracket the transcription's letters, so a reader's look at the page comes before applying them.
 - `latin_audit.py` gained `texts` (each page's text, numbered, for the briefs) and `crop` (a tight cut
   into `review/latin_audit/crops/`, the sheet's folder).
+- **The blind reader works when given three bands and the words on either side** (the second and third
+  batches, 2026-11-27): briefed with the band, its neighbours and "between the words X and Y", it read 8
+  of 11 items "likely" and found every place; given one band and a vague place it had read 13 of 16
+  "unsure". Make its items with `nb(page, n)` and the guide words from `pages/<page>.txt`
+  (`review/latin_audit/batch3_items_b.json` is the pattern).
+- **Two readers agreeing can both be wrong at a line end.** On Konin Gr.121 both read "ho-" + the next
+  line as "ho nunc"; the band shows "ho-/rumce", and the transcription's "horumce" stood. Claude's look
+  at the band also found what neither reported (the clerk's "Extradionis" without -ti-). Settle on the
+  band, never on the readers' agreement alone.
+- **A led reader's "doubt_settled" is not a settlement**: it was shown the doubtful reading and agrees
+  with it. Lift a mark of doubt only when the blind reader gives the same letters and Claude sees them
+  (the Ląd copy-book: 5 of 13 lifted, the other 8 kept, where the blind reader read otherwise).
+- **The doubled-consonant rule is for plurals only**: a prepared expansion "Actt~" → "Act[oris]"
+  (Konin Gr.120, one plaintiff) was not applied; it would drop a letter the clerk wrote.
+- **Saving the main session's tokens on images**: the copy-book's text fills the left half of its pages,
+  so the left halves of three bands stacked into one image (PIL, `review/latin_audit/crops/`) settled
+  three readings in one look.
+- **A reader's English consequence waits**: a correction that moves the sense (Gr.121, "praesentatos"
+  to "presenttes") is noted in the holding's changes and notes, and the English is changed in the impact
+  sweep after the editor's review (plan, section 5), not at once.
