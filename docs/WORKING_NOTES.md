@@ -5422,4 +5422,9 @@ things learned while measuring it:
   section 5) before anything is published.
 - The to-do builder has no link type for a file in `docs/`: name the file in the item's text and link a
   unit or document instead.
+- **The editor's rulings on the plan (2026-11-27)**: `Cit[ationes]` (the doubled plural consonant written
+  once), uncertain tilde forms keep the tilde, one spot sheet at the end, and the reading done **on the
+  desktop from the original scans**, not from the site's 1,100-pixel copies. Every Latin holding records
+  where its scans are: `RAW` in `intake/holding.py` or `raw_dir` in `unit.yml` (Oe 1 Bü 14526's are in
+  Downloads, not on J:). The desktop procedure is the plan's section 9; the trigger phrase is in CLAUDE.md.
 

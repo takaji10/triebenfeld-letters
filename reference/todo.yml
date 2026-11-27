@@ -91,24 +91,23 @@ items:
     label: Konin Gr.145
   nc: APP 53/21/0/-/Pyzdry Gr.115
   audit_note: The old text still listed Poznań Gr.1181 as missing; it is built (units/app5320pozgr1181).
-- id: t907-latin-audit
+- id: t908-latin-audit-desktop
   group: The Latin transcriptions, all court books
-  title: Rule on the plan for a full audit of the Latin transcriptions
-  kind: decision
-  text: You asked (2026-11-27) for a full audit of the Latin on the site, to find and fix transcription
-    errors and expand the ~ forms where certain, and for the plan to say which summaries, holding pages,
-    era essays and other texts must change with the corrections. The plan covers 101 Latin documents on
-    191 pages in 24 holdings (the Kodeks left out as printed text), two readers for every page, Claude
-    settling each finding, a spot sheet for what the page does not prove, and a script that lists every
-    public text a correction touches. It begins with a pilot on Konin Gr.115. The plan is docs/LATIN_AUDIT_PLAN.md; six questions in its section 8 need your answer first, the main one being how an expansion is written (Cit[ationes] or
-    Citt[ationes]).
-  options:
-  - Go ahead with the pilot on Konin Gr.115, my answers to section 8 attached
-  - Change the plan first
+  title: Run the Latin audit in a desktop session
+  kind: task
+  text: The full audit of the Latin transcriptions is planned and ruled (docs/LATIN_AUDIT_PLAN.md). It has
+    to be read from your original scans, which only your PC has. Start Claude Code in the repository on
+    the PC and say "Run the Latin audit"; the session follows section 9 of the plan, holding by holding,
+    starting with Konin Gr.115 and taking over the open Poznań Gr.1181 spot sheet, commits each holding
+    and publishes nothing. You get one spot sheet at the end.
+  options: []
   links:
   - type: unit
     slug: app53170koningr115
-    label: Konin Gr.115, the pilot
+    label: Konin Gr.115, the first holding
+  - type: unit
+    slug: app5320pozgr1181
+    label: Poznań Gr.1181
   nc: ''
   audit_note: ''
 - id: t906-jm-illustris-magnificus
@@ -983,38 +982,6 @@ items:
     label: APP 53/4/0/-/62
   nc: Readings, the other holdings
   audit_note: ''
-- id: t088-answer-the-62-row
-  group: 'APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784'
-  title: Answer the 62-row spot sheet for Poznań Gr.1181
-  kind: task
-  text: 'The spot sheet for the decree of 29 March 1784 has 62 rows of doubtful readings, live at https://takaji10.github.io/triebenfeld-spot/sheets/app5320pozgr1181/
-    (your answers stay on the phone until you paste the block back into the chat). The crops were placed
-    by machine and are unchecked: tap "wrong line" where a picture misses its line, or "not shown on crop"
-    where the word is not there. Four rows are gone after your fresh p. 161 pass; the two principle rows
-    ask whether the 108 completions proposed in session (applied, then withdrawn to match your transcription)
-    go back in.'
-  options: []
-  links:
-  - type: unit
-    slug: app5320pozgr1181
-    label: APP 53/20/0/-/Poznań Gr.1181
-  nc: Readings, the other holdings
-  audit_note: No record that the sheet's answers were applied; some names are not indexed until it settles
-    them.
-- id: t089-apply-the-sheet-s
-  group: 'APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784'
-  title: Apply the sheet's answers and rebuild Poznań Gr.1181 (after the sheet)
-  kind: waiting
-  text: Once you answer the 62-row spot sheet, Claude applies the answers to the text and re-crops or
-    widens the rows you marked "wrong line" or "not shown", then republishes the sheet if needed and rebuilds
-    the affected pages. Nothing can be done until your answers come.
-  options: []
-  links:
-  - type: unit
-    slug: app5320pozgr1181
-    label: APP 53/20/0/-/Poznań Gr.1181
-  nc: Readings, the other holdings
-  audit_note: Depends on the spot sheet; nothing applied yet.
 - id: t090-approve-the-list-of
   group: 'The place pages: Chodyła and the documents'' own figures (2026-10-28)'
   title: Approve the list of Chodyła's facts for place pages
@@ -1636,6 +1603,18 @@ items:
   nc: The relevant people's pages (2026-11-25, docs/PLACES_PEOPLE_GLOSSARY_PLAN.md, C6-C7)
   audit_note: ''
 done:
+- id: t907-latin-audit
+  title: Rule on the plan for a full audit of the Latin transcriptions
+  date: '2026-11-27'
+  how: 'The editor ruled (2026-11-27): Cit[ationes] (tilde dropped, a doubled plural consonant written once); uncertain forms keep their tilde; run it on the PC where the scans are; the audit takes over the Poznań Gr.1181 sheet; one review at the end; publish batch by batch at their word. The plan is updated (sections 8-10) and the rule is in EDITORIAL_RULES. Next: t908.'
+- id: t088-answer-the-62-row
+  title: Answer the 62-row spot sheet for Poznań Gr.1181
+  date: '2026-11-27'
+  how: 'Taken over by the Latin audit at the editor''s word ("You can try it", 2026-11-27): its rows are read again on the original scans, and what the pages do not settle goes on the audit''s one spot sheet (docs/LATIN_AUDIT_PLAN.md, section 6).'
+- id: t089-apply-the-sheet-s
+  title: Apply the sheet's answers and rebuild Poznań Gr.1181 (after the sheet)
+  date: '2026-11-27'
+  how: Taken over by the Latin audit with t088 (docs/LATIN_AUDIT_PLAN.md).
 - id: t900-pyzdry-gr75-supply-files
   title: Put the Pyzdry Gr.75 scans, transcription and translation where the session can read them
   date: '2026-11-26'

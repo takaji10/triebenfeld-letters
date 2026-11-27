@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-89 open: 21 question, 24 decision, 24 task, 11 claude, 9 waiting.
+87 open: 21 question, 23 decision, 24 task, 11 claude, 8 waiting.
 
 ## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
 
@@ -57,18 +57,13 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
 ## The Latin transcriptions, all court books
 
-- [ ] **Rule on the plan for a full audit of the Latin transcriptions** (`t907-latin-audit`, decision). You asked (2026-11-27) for a full audit of the Latin on the site, to find and fix
-      transcription errors and expand the ~ forms where certain, and for the plan to say
-      which summaries, holding pages, era essays and other texts must change with the
-      corrections. The plan covers 101 Latin documents on 191 pages in 24 holdings (the
-      Kodeks left out as printed text), two readers for every page, Claude settling each
-      finding, a spot sheet for what the page does not prove, and a script that lists
-      every public text a correction touches. It begins with a pilot on Konin Gr.115.
-      The plan is docs/LATIN_AUDIT_PLAN.md; six questions in its section 8 need your
-      answer first, the main one being how an expansion is written (Cit[ationes] or
-      Citt[ationes]).
-      Options: Go ahead with the pilot on Konin Gr.115, my answers to section 8 attached / Change the plan first
-      Concerns: [Konin Gr.115, the pilot](/sources/app53170koningr115/)
+- [ ] **Run the Latin audit in a desktop session** (`t908-latin-audit-desktop`, task). The full audit of the Latin transcriptions is planned and ruled
+      (docs/LATIN_AUDIT_PLAN.md). It has to be read from your original scans, which only
+      your PC has. Start Claude Code in the repository on the PC and say "Run the Latin
+      audit"; the session follows section 9 of the plan, holding by holding, starting
+      with Konin Gr.115 and taking over the open Poznań Gr.1181 spot sheet, commits each
+      holding and publishes nothing. You get one spot sheet at the end.
+      Concerns: [Konin Gr.115, the first holding](/sources/app53170koningr115/), [Poznań Gr.1181](/sources/app5320pozgr1181/)
 
 ## Prusimski-era court books, 1589-1788
 
@@ -490,26 +485,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       Szetlew and Szetlewek apart.
       Options: Add an event / Leave it off the timeline
       Concerns: [APP 53/4/0/-/62](/sources/app534062/)
-      Full discussion: NEEDS_CONFIRMATION, "Readings, the other holdings".
-
-## APP 53/20/0/-/Poznań Gr.1181: the condescensio decree of 1784
-
-- [ ] **Answer the 62-row spot sheet for Poznań Gr.1181** (`t088-answer-the-62-row`, task). The spot sheet for the decree of 29 March 1784 has 62 rows of doubtful readings, live at
-      https://takaji10.github.io/triebenfeld-spot/sheets/app5320pozgr1181/ (your answers
-      stay on the phone until you paste the block back into the chat). The crops were
-      placed by machine and are unchecked: tap "wrong line" where a picture misses its
-      line, or "not shown on crop" where the word is not there. Four rows are gone after
-      your fresh p. 161 pass; the two principle rows ask whether the 108 completions
-      proposed in session (applied, then withdrawn to match your transcription) go back
-      in.
-      Concerns: [APP 53/20/0/-/Poznań Gr.1181](/sources/app5320pozgr1181/)
-      Full discussion: NEEDS_CONFIRMATION, "Readings, the other holdings".
-
-- [ ] **Apply the sheet's answers and rebuild Poznań Gr.1181 (after the sheet)** (`t089-apply-the-sheet-s`, waiting). Once you answer the 62-row spot sheet, Claude applies the answers to the text and re-
-      crops or widens the rows you marked "wrong line" or "not shown", then republishes
-      the sheet if needed and rebuilds the affected pages. Nothing can be done until
-      your answers come.
-      Concerns: [APP 53/20/0/-/Poznań Gr.1181](/sources/app5320pozgr1181/)
       Full discussion: NEEDS_CONFIRMATION, "Readings, the other holdings".
 
 ## The place pages: Chodyła and the documents' own figures (2026-10-28)

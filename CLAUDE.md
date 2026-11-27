@@ -123,6 +123,16 @@ so check them.
    `python3 pipeline/verify_site.py`. Commit, and update `docs/NEEDS_CONFIRMATION.md`
    (Glossary section) and the changelog.
 
+## "Run the Latin audit"
+
+Desktop sessions only (the original scans are on the editor's PC). Follow
+`docs/LATIN_AUDIT_PLAN.md`, section 9: holding by holding from section 6,
+two Sonnet readers per page on strips of the original scans, Claude settles,
+proved corrections and certain tilde expansions applied (`Cit[ationes]`;
+uncertain forms keep the tilde: EDITORIAL_RULES), each holding committed,
+nothing published, the progress table of section 10 kept current, and one
+spot sheet for the editor at the end.
+
 ## "Apply my layout file"
 
 The editor lays out the English (and the German reading text's paragraphs and

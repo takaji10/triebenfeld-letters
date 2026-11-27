@@ -193,6 +193,12 @@ than where it sits.
   2026-11-22: "W[ielmożnemu]J[egomości]Panu - remember that this is three
   words, so there should be a space"): `W[ielmożnemu] J[egomości] Panu`,
   `pro C[ent].`.
+  **The Latin tilde forms** (the editor, 2026-11-27): the tilde is dropped and
+  the supplied letters follow in brackets, as the case requires
+  (`Calissien[sibus]`, `Cond[escensio]nis`); **a doubled consonant that marks
+  the plural is written once**: `Citt~` is `Cit[ationes]`. **A form whose
+  expansion is not certain keeps its tilde** ("Leave them with a tilde"), and
+  no doubtful expansion such as `notificat[am?]` is written.
 - **An initial that is read, with the name supplied**, is written with the
   supplied letters in square brackets and no mark of doubt (`G[oldbeck]`,
   `A[lvensleben]`), and only where the name follows from something other

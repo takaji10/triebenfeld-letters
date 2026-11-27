@@ -5,7 +5,10 @@ fix and identify any transcription errors, and to resolve any ~ or similar marks
 you make a plan for this that also determines if any summaries or texts (e.g. Eras) would need to be
 amended based on the corrections?"
 
-Nothing is done yet. Section 8 holds the questions for the editor.
+**Status (2026-11-27): ruled by the editor, not begun.** The editor's answers are in section 8. The
+audit is to be **run in a desktop session on the editor's PC**, where the original scans are; section 9
+is the procedure for that session. A cloud session cannot do the reading: it has only the site's web
+copies.
 
 ## 1. What is in scope (counted 2026-11-27)
 
@@ -65,12 +68,15 @@ reason for each, in `reference/guide/abbreviations_expanded.yml`: 588 sure and 2
 draft. Claude checks every sure one against its own sentence before it is applied. The unsure ones stay
 as written, unless the audit's reading of the page settles them.
 
-**The form of the brackets needs the editor's ruling** (section 8, question 1). The tilde stands in
-three kinds of place:
-- **after a stem:** *Calissien~* would become *Calissien[sibus]*;
-- **inside a word:** *Cond~nis* would become *Cond[escensio]nis*, as *recog[ni]tioni* in Pyzdry Gr.75;
-- **after a doubled consonant that marks the plural:** for *Citt~* (*Citationes*), either *Cit[ationes]*,
-  dropping the clerk's second t, or *Citt[ationes]*, keeping it.
+**The form of an expansion (the editor, 2026-11-27).** The tilde is dropped and the supplied letters
+stand in square brackets, with no mark of doubt:
+- **after a stem:** *Calissien~* becomes *Calissien[sibus]*;
+- **inside a word:** *Cond~nis* becomes *Cond[escensio]nis*, as *recog[ni]tioni* in Pyzdry Gr.75;
+- **a doubled consonant that marks the plural is written once:** *Citt~* becomes *Cit[ationes]* (the
+  editor: "Cit[ationes]"), *praesen~* by the same rule as the case requires.
+
+**An uncertain form keeps its tilde** (the editor, 2026-11-27: "Leave them with a tilde"): no
+*notificat[am?]*. The possibilities go in the holding's `intake/unresolved.md`.
 
 **Other marks:**
 - **The 510 marks of doubt** (`[?]`, `[word?]`, `[...]`) are each read again on the page. A doubt the
@@ -80,9 +86,10 @@ three kinds of place:
 
 ## 4. The method, holding by holding (sub-agents first)
 
-1. **Strips.** A script cuts every page image into overlapping strips at 2x, from the site's page images
-   (`site/assets/scans/`). These are the web copies, 1,100 pixels wide, which were enough for Pyzdry
-   Gr.75. Where a line cannot be read on them, the page goes on a list for the editor's original scan.
+1. **Strips from the original scans** (the editor, 2026-11-27: run on the PC where the scans are). A
+   script cuts every page into overlapping strips from the editor's original scan, turned and cut at the
+   editor's folds (`intake/folds.json`), not from the 1,100-pixel web copies. Section 9 says where each
+   holding's scans are.
 2. **Two readers for each page** (WORKING_NOTES, "Sub-agents and token use"):
    - **A led reader (Sonnet)** compares the transcription with the strips, word by word. Its output is a
      table of differences, omissions, struck words and insertions, and it says which strips it did not
@@ -93,8 +100,11 @@ three kinds of place:
      names the strip files one by one. Both readers write files only, and never commit.
 3. **Claude settles every finding on a crop.** What the page proves is applied. What rests on grammar or
    sense, or where the two readers disagree, goes to the spot sheet.
-4. **The spot sheet** is the HTML form the editor uses (images as CSS backgrounds, no script; WORKING_NOTES),
-   with a card per question. It covers a batch of holdings at a time.
+4. **One spot sheet at the end** (the editor, 2026-11-27: "All at once"): the questions of every holding
+   are gathered as the holdings are read, and the editor answers them in one review after the last holding,
+   as in the Prusimski-era run of October. Until then each holding is built on the reading as transcribed,
+   with the proved corrections in; a question's default is the transcription. The sheet is the HTML form
+   (images as CSS backgrounds, no script; WORKING_NOTES), a card per question, grouped by holding.
 5. **Applying the rulings** follows each holding's usual procedure. The corrections become rows in its
    `intake/holding.py` (`ROWS`), applied once and logged in `transcription_decisions.csv`. The graded list
    goes in `intake/changes.yml` (marked `new:`), so the page of changes shows the editor what moved.
@@ -121,43 +131,82 @@ for each changed document it lists:
 | **The reading guide** | Latin quoted from a changed document | The guide's quotation check (WORKING_NOTES, "The reading guide, chapter 3") is re-run, and quotations are corrected. |
 | **The literature links and NEEDS_CONFIRMATION** | notes that quote the old reading | Corrected, or the question closed. |
 
-The impact list for each batch is reported to the editor with the corrections, so the editor sees which
-public texts changed and why.
+The impact list is kept per holding as the work goes and reported to the editor with the one spot sheet
+at the end, so the editor sees which public texts changed and why. The rewriting of English, summaries and
+pages is done after the editor's review, so that the answers are in it.
 
 ## 6. Order of work
 
-1. **A pilot holding: Konin Gr.115.** It has ten documents on eleven pages, had only the light check,
-   and has few tilde forms. The pilot measures how much the two readers find, whether the web images are
-   enough, and the cost in tokens. The editor sees one spot sheet and one impact list before the rest.
+1. **A first holding: Konin Gr.115.** It has ten documents on eleven pages, had only the light check,
+   and has few tilde forms. It shows how much the two readers find and what a holding costs in tokens; the
+   session writes the rate into WORKING_NOTES and goes on without waiting (the review is at the end).
 2. **The holdings checked lightly**, smallest first:
    - Konin Gr.114, 120, 121, 136;
    - Kalisz Gr.414, 424, 425;
    - the land court of Konin (53/6/0/-/17, 36, 40, 45, 46) and of Kalisz (53/4/0/-/62);
    - the Ląd copy-book;
    - the Latin deed of Oe 1 Bü 14526.
-3. **Poznań Gr.1181**, after the editor has answered its open spot sheet of 61 rows (or folded into this
-   audit, as the editor chooses): it has 355 marks of doubt and 14 pages.
+3. **Poznań Gr.1181**, its open spot sheet taken over by the audit (the editor, 2026-11-27: "You can try
+   it"): its 62 rows, the 108 completions withdrawn in October, and its 355 marks of doubt are read on the
+   original scans; what the pages settle is applied, and what they do not goes on the one sheet at the end.
+   The old sheet (to-do t088, t089) is closed.
 4. **The holdings checked fully**: Konin Gr.116-119, 153 and 53/6/0/-/47. A lighter pass, for the marks
    of doubt, the tilde forms and words skipped, which the earlier checks did not look for in the same way.
-5. **The impact sweep and the publishing**, batch by batch, each with a second reader's audit of any
-   rewritten public prose before it is published.
+5. **The editor's review**, the one spot sheet for all holdings.
+6. **The impact sweep**: the answers applied, the English, summaries, pages, era essays and the rest
+   rewritten as section 5 lists, every rewritten text audited by a second reader.
+7. **Publishing**, at the editor's word (the editor, 2026-11-27: yes, batch by batch at their word).
 
 ## 7. The cost
 
 No paid run is needed: the readers are sub-agents of the working session. Figures from the Gr.75 work:
 two readers and Claude's settling took about an hour for two pages. The pilot will give the real rate.
 
-## 8. Questions for the editor
+## 8. The editor's answers (2026-11-27)
 
-1. **The form of an expansion.** For a word ending in a tilde, write *Calissien[sibus]*, with the tilde
-   dropped and the supplied letters bracketed. For a doubled consonant, *Cit[ationes]* or *Citt[ationes]*?
-   For a contraction, *Cond[escensio]nis*?
-2. **Uncertain tilde forms.** Leave them with the tilde (the rule), or expand them with a doubt mark,
-   e.g. *notificat[am?]*?
-3. **The images.** Are the web copies enough for this audit? Where a line cannot be read on them, will
-   you supply the original scan for that page?
-4. **Poznań Gr.1181.** Answer its open spot sheet first, or let the audit take it over?
-5. **The review.** One spot sheet per batch, as above, or everything held for one review at the end, as
-   in the Prusimski-era run of October?
-6. **Publishing.** May the corrected English, summaries and pages be published batch by batch, at your
-   word each time?
+1. **The form of an expansion:** "Cit[ationes]" - the tilde dropped, the letters in brackets, a doubled
+   plural consonant written once. Recorded in EDITORIAL_RULES.
+2. **Uncertain tilde forms:** "Leave them with a tilde."
+3. **The images:** "Update the plan so I can run it on my local PC where the scans are stored." Section 9.
+4. **Poznań Gr.1181:** "You can try it" - the audit takes its open spot sheet over.
+5. **The review:** "All at once" - one spot sheet at the end.
+6. **Publishing:** "Yes" - the corrected texts published batch by batch, at the editor's word each time.
+
+## 9. Running it on the desktop
+
+The editor starts a desktop session (Claude Code in the repository on the PC with the J: drive) and says
+**"Run the Latin audit"**. That session:
+
+1. **Pulls `main`** (and this branch, if the plan is not yet merged), reads CLAUDE.md, WORKING_NOTES and
+   this plan, and checks the state in section 10 to see where a previous sitting stopped.
+2. **Finds each holding's original scans** where they are recorded: `RAW` in the holding's
+   `intake/holding.py` (the court books of Konin, Kalisz and the land court of Konin) or `raw_dir` in its
+   `unit.yml` (Poznań Gr.1181, Pyzdry Gr.75, Kalisz 53/4/0/-/62, the Ląd copy-book, Oe 1 Bü 14526, whose
+   scans are in Downloads, not on J:). `scan_rename_map.json` and `page_scan_map.csv` tie each page of the
+   site to its scan; `intake/folds.json` gives the fold and the turn. If a folder is missing, the session
+   says which and goes on with the next holding.
+3. **Cuts the strips** with a script written for the audit, `pipeline/review/latin_strips.py <slug>`
+   (to be written in the first sitting): each page turned and cut at its folds, then strips of about eight
+   lines, overlapping by one, at the scan's full resolution, into `review/latin_audit/<slug>/strips/`
+   (not committed; review/ is generated). Pillow is enough; OpenCV is not needed.
+4. **Runs the two readers** (section 4) as Sonnet sub-agents, holding by holding, in the order of
+   section 6. Each writes `review/latin_audit/<slug>/reader_a.json` and `reader_b.json`.
+5. **Settles** each finding on a crop and writes, for each holding: the proved corrections and the certain
+   expansions as rows in its `intake/holding.py` (two lists, `ROWS_AUDIT` and `EXPAND_AUDIT`, applied by
+   `--correct`, logged in `transcription_decisions.csv`), the graded list in `intake/changes.yml` with
+   `new:`, the questions for the editor in `review/latin_audit/questions.csv` (one file for all holdings,
+   with a crop for each row), and the impact list (section 5) in `review/latin_audit/<slug>/impact.md`.
+6. **Rebuilds the holding** (its `holding.py` steps, then the later steps of `regenerate.py`, which do run
+   on the desktop), runs `verify_site.py`, and **commits the holding** before starting the next, so a
+   sitting can stop anywhere. It does not publish.
+7. After the last holding, makes **the one spot sheet** from `questions.csv`, and tells the editor it is
+   ready. The impact sweep (section 6, step 6) follows the editor's answers.
+
+**Two sessions in one working copy**: if another session is working in the checkout, the audit runs in a
+worktree (WORKING_NOTES, "Two sessions, one working copy").
+
+## 10. Progress
+
+| Holding | Read | Settled | Committed |
+|---|---|---|---|
+| (none yet) | | | |
