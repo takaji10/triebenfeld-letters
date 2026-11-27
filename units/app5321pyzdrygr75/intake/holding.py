@@ -168,7 +168,7 @@ PAGES = [
     'written acknowledgement of the same honourable Simon, merchant of Szczecin, commonly called an '
     '*Auscuk* [the German Auszug, an extract of account], attests);\n\n'
     'and then a second sum, of 1,513 złoty, spent by the same honourable Tracholz, the present '
-    'acknowledger, partly on the making of sawn goods, that is, nine stacks[?] of *Klapek* [a trade name of sawn timber], commonly called '
+    'acknowledger, partly on the making of sawn goods, that is, nine stacks of *Klapek* [a trade name of sawn timber], commonly called '
     '*Rynek*, likewise seized by the late Right Honourable Antoni Prusimski, full brother of the same late '
     'Right Honourable Paweł Prusimski, by reason of what followed upon the pine forests and '
     'woods in controversy and inquiry between them, seized in this pine forest; spent by the acknowledger, '

@@ -6,6 +6,8 @@ lang: de
 alt_url: /about/
 ---
 
+<p class="standfirst"><strong>Neu:</strong> <a href="{{ '/guide/court-books/' | relative_url }}">Reading the Latin court books of Greater Poland</a>, ein englischsprachiger Leitfaden zu den Einträgen der Burg- und Landgerichte von Konin, Kalisch, Pyzdry und Posen: wie jede Art von Eintrag aufgebaut ist, ihre Abkürzungen und Formeln, und ganze Einträge Teil für Teil gelesen.</p>
+
 ## Die Dokumente
 
 *Traces in the Sand* veröffentlicht die Schriftstücke, die über eine Gruppe von Gütern um

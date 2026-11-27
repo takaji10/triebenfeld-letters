@@ -34,10 +34,10 @@ repository; they are on the working machine.
   (Konin Gr.117, doc. 3) says the 1744 contract was for oak timber ("silvae Quercineae"),
   and Gr.120, doc. 2 "an oak wood". The edition keeps each document's word.
 - **Tilde forms:** expanded in brackets where certain (the editor, 2026-11-26); only "recog[ni]tioni" was; "alisculi~" is unresolved and stands.
-- **Three rows of `reference/translation_rulings.json` are Claude's own** (not the editor's), each
+- **Two rows of `reference/translation_rulings.json` are Claude's own** (not the editor's), each
   clearing a row the translation check would raise: "Dominium" rendered "dominion" (a legal sense, not the
   manorial lordship); page 2's eight marks of doubt in the Latin against six in the English (letter-level
-  marks inside one word); "stacks[?]" in the English for the Latin "Stru[i]um". Two earlier rows (the marks
+  marks inside one word). "Stru[i]um" is "stacks" with no mark (the editor, 2026-11-26: "Just write stacks"). Two earlier rows (the marks
   of "fun[d?]u[m?]" and a count on page 1) were removed 2026-11-26: the text they cleared had changed.
 
 ## The site overhaul (2026-11-24, docs/SITE_OVERHAUL_PLAN.md)
