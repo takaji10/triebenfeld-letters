@@ -5527,3 +5527,9 @@ things learned while measuring it:
   limit: start the reruns once the first wave is in.
 - **For the short entries of a register a reader may open only the bands that hold the entry** (Konin
   Gr.118: 26 of 96 bands, the rest blank paper or other entries), provided it says which it skipped and why.
+- **A sheet the editor answers has buttons** (the editor, 2026-11-27: "The spot sheet does not have clickable
+  buttons"). The audit's first sheet was a static page with its pictures inside and no script (the rule for
+  pages opened in the app's viewer); a sheet of questions is answered, so it is served like queries.py's:
+  `python pipeline/review/latin_audit.py serve` (http://127.0.0.1:4102/), a button per option plus "Can't
+  tell" and "Something else", every answer saved at once to review/latin_audit/answers.json, read back with
+  `serve --read`. Testing a save writes into the server's memory too: restart it after a test.

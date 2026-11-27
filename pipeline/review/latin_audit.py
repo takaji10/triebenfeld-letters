@@ -11,6 +11,7 @@
     python pipeline/review/latin_audit.py apply <slug> [--write]
     python pipeline/review/latin_audit.py impact <slug>       # what else a holding's applied audit touches
     python pipeline/review/latin_audit.py sheet               # the one spot sheet, from questions.csv
+    python pipeline/review/latin_audit.py serve [--read]      # the same with buttons; answers saved at once
 
 In scope: every document whose language (dataset/letters.json) includes Latin, the Kodeks left out
 (printed text, never corrected).
@@ -502,6 +503,121 @@ def cmd_sheet():
     print('written', p, '-', len(rows), 'questions')
 
 
+def _qkey(r):
+    return hashlib.md5(('%s|%s|%s|%s' % (r['holding'], r['page_id'], r['transcribed'], r['question'][:80]))
+                       .encode('utf-8')).hexdigest()[:10]
+
+
+def cmd_serve(port=4102, read=False):
+    """The spot sheet with buttons, as queries.py serves its sheets: every answer is saved at once to
+    review/latin_audit/answers.json. `--read` prints the answers. The page needs this program running
+    (it is opened in the browser at the address it prints, not as a file)."""
+    from http.server import HTTPServer, BaseHTTPRequestHandler
+    import html
+    rows = list(csv.DictReader(io.open(os.path.join(REVIEW, 'questions.csv'), encoding='utf-8-sig')))
+    store = os.path.join(REVIEW, 'answers.json')
+    answers = json.load(io.open(store, encoding='utf-8')) if os.path.exists(store) else {}
+    if read:
+        done = [(k, r) for k, r in enumerate(rows, 1) if answers.get(_qkey(r), {}).get('reading')]
+        print('%d of %d answered' % (len(done), len(rows)))
+        for k, r in done:
+            x = answers[_qkey(r)]
+            got = {'__other__': 'other: %s' % (x.get('other') or '(not given)'),
+                   '__unsure__': "can't tell"}.get(x['reading'], x['reading'])
+            print('  %d. %s %s: %s -> %s%s' % (k, r['holding'], r['page_id'], r['transcribed'][:60], got,
+                                               '  [%s]' % x['note'] if x.get('note') else ''))
+        return
+
+    def page():
+        css = (':root{--bg:#fbfaf7;--fg:#222;--mute:#666;--line:#ddd;--ok:#2a6b2a;--card:#fff}'
+               '@media (prefers-color-scheme:dark){:root{--bg:#1b1a18;--fg:#e8e6e1;--mute:#9a968e;--line:#3a3834;--ok:#7fc27f;--card:#242320}}'
+               'body{font:16px/1.5 Georgia,serif;max-width:60rem;margin:2em auto;padding:0 16px;background:var(--bg);color:var(--fg)}'
+               '.row{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:12px 14px;margin:14px 0}'
+               '.row.done{border-left:5px solid var(--ok)}img{max-width:100%;border:1px solid var(--line);margin:.5em 0}'
+               'code{font-family:ui-monospace,Consolas,monospace;font-size:14px;overflow-wrap:anywhere}'
+               'button{font:inherit;padding:4px 12px;margin:0 6px 6px 0;cursor:pointer;border-radius:4px;border:1px solid var(--line);'
+               'background:var(--bg);color:var(--fg);text-align:left}button.on{background:var(--fg);color:var(--bg)}'
+               'input{font:inherit;width:100%;box-sizing:border-box;margin-top:4px;padding:4px 6px;background:var(--bg);color:var(--fg);'
+               'border:1px solid var(--line)}#status{position:sticky;top:0;background:var(--bg);padding:6px 0;color:var(--mute)}h2{margin-top:2.2rem}')
+        out = ['<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">',
+               '<title>Latin audit questions</title><style>%s</style>' % css,
+               '<h1>The Latin audit: %d questions</h1>' % len(rows),
+               '<p>Each card shows the place on the page, what the transcription has, and the question. Pick an answer, '
+               'or type it under "Something else". "Can\'t tell" is a fine answer. Answers save as you go.</p>',
+               '<div id="status"></div>']
+        cur = None
+        for k, r in enumerate(rows, 1):
+            if r['holding'] != cur:
+                cur = r['holding']
+                out.append('<h2>%s</h2>' % html.escape(cur))
+            key = _qkey(r)
+            a = answers.get(key, {})
+            opts = [o.strip() for o in r['options'].split('|') if o.strip()]
+            btns = ''.join('<button data-v="%s">%s</button>' % (html.escape(o, True), html.escape(o)) for o in opts)
+            btns += '<button data-v="__unsure__">Can\'t tell</button><button data-v="__other__">Something else</button>'
+            img = '<img src="/img/%s" alt="">' % html.escape(os.path.basename(r['crop'])) if r['crop'] else ''
+            out.append('<div class="row" data-key="%s" data-v="%s"><b>%d.</b> <small>%s, page %s</small>%s'
+                       '<p>Transcribed: <code>%s</code></p><p>%s</p><div>%s</div>'
+                       '<input placeholder="Something else: type the reading" value="%s" %s>'
+                       '<input placeholder="Note (optional)" value="%s"></div>' % (
+                           key, html.escape(a.get('reading', ''), True), k, html.escape(r['uid']), html.escape(r['page_id']),
+                           img, html.escape(r['transcribed']), html.escape(r['question']), btns,
+                           html.escape(a.get('other', ''), True), '' if a.get('reading') == '__other__' else 'hidden',
+                           html.escape(a.get('note', ''), True)))
+        out.append('''<script>
+const st=document.getElementById('status');
+function count(){const r=document.querySelectorAll('.row'),d=[...r].filter(x=>x.dataset.v).length;st.textContent=d+' of '+r.length+' answered';}
+async function save(row){
+  const [other,note]=row.querySelectorAll('input');
+  const body={key:row.dataset.key,reading:row.dataset.v||'',other:other.value,note:note.value};
+  try{const r=await fetch('/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+      if(!r.ok)throw 0;count();}catch(e){st.textContent='Not saved - is latin_audit.py serve still running?';}
+}
+document.querySelectorAll('.row').forEach(row=>{
+  const bs=[...row.querySelectorAll('button')],[other,note]=row.querySelectorAll('input');
+  function set(v){row.dataset.v=v;row.classList.toggle('done',!!v);
+    bs.forEach(b=>b.classList.toggle('on',b.dataset.v===v));other.hidden=v!=='__other__';if(v==='__other__')other.focus();}
+  if(row.dataset.v)set(row.dataset.v);
+  bs.forEach(b=>b.onclick=()=>{set(b.dataset.v);save(row);});
+  let t;[other,note].forEach(i=>i.oninput=()=>{clearTimeout(t);t=setTimeout(()=>save(row),400);});
+});
+count();
+</script></html>''')
+        return '\n'.join(out)
+
+    class H(BaseHTTPRequestHandler):
+        def log_message(self, *_):
+            pass
+
+        def do_GET(self):
+            if self.path.startswith('/img/'):
+                p = os.path.join(REVIEW, 'crops', os.path.basename(self.path))
+                if not os.path.isfile(p):
+                    self.send_error(404)
+                    return
+                self.send_response(200)
+                self.send_header('Content-Type', 'image/jpeg')
+                self.end_headers()
+                self.wfile.write(open(p, 'rb').read())
+                return
+            body = page().encode('utf-8')
+            self.send_response(200)
+            self.send_header('Content-Type', 'text/html; charset=utf-8')
+            self.end_headers()
+            self.wfile.write(body)
+
+        def do_POST(self):
+            d = json.loads(self.rfile.read(int(self.headers['Content-Length'])))
+            answers[d['key']] = {'reading': d.get('reading', ''), 'other': d.get('other', ''), 'note': d.get('note', '')}
+            with io.open(store, 'w', encoding='utf-8', newline='\n') as f:
+                json.dump(answers, f, ensure_ascii=False, indent=1)
+            self.send_response(204)
+            self.end_headers()
+
+    print('the Latin audit questions at http://127.0.0.1:%d/  -  answers go to %s' % (port, store))
+    HTTPServer(('127.0.0.1', port), H).serve_forever()
+
+
 if __name__ == '__main__':
     sys.stdout.reconfigure(encoding='utf-8')
     a = sys.argv[1:]
@@ -527,5 +643,7 @@ if __name__ == '__main__':
         cmd_impact(a[1])
     elif a[0] == 'sheet':
         cmd_sheet()
+    elif a[0] == 'serve':
+        cmd_serve(int(a[a.index('--port') + 1]) if '--port' in a else 4102, '--read' in a)
     else:
         sys.exit(__doc__)
