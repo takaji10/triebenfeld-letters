@@ -140,3 +140,15 @@ The summary was written in German from the corrected Latin and translated into E
 Read by a Sonnet led reader and a Sonnet blind reader on the original scans; Claude settled on band s04 of leaf 673 verso. Corrected: "praevenire", "Thelonei". Not changed: "praesentibus eisdem" (the readers saw "partibus esse..." but could not read it), "quandoquidem" (the page has "quando q~", the transcription's written-out form).
 
 **The impact sweep** (2026-11-27, after the editor's review of the audit): the translator's note on the customs post now says the page writes "Thelonei" both times.
+
+## The headings of the sittings (2026-11-27)
+
+The editor photographed and transcribed the heading of the sitting ("Actum in
+...") that each undated entry stands under, with its page (to-do t915).
+`sitting_headings.yml` keeps each heading as the editor wrote it, its page and
+its English; the site shows it at the head of the entry's first page in every
+view, marked "[p. ...]", set apart from the entry's own text (it is not on the
+entry's page image). The entries are dated by them (`dates: sitting:` in
+`rulings.yml`). Every heading's feast reckoning agrees with the weekday and the
+day of the month it states, which checks the readings; where an entry's date
+was a month or a year, it is now the day of its sitting.

@@ -33,15 +33,18 @@ dates:
   twin: {}
 
   # [year, month, day, precision, basis]; the basis is shown to the reader.
-  # Three entries stand under a sitting whose heading is on a page that is
-  # not among the scans. They are placed between the dated headings before
-  # and after them in the book.
-  inferred:
-    "1": [1768, 1, null, "month", "Entered on leaf 3 verso of the book for 1768, above the heading of the sitting of 15 January 1768; the heading of its own sitting is on an earlier page, not among the scans."]
-    "3": [1768, 5, null, "month", "Entered between the headings of the sittings of 18 May 1768 (leaf 35 verso) and 27 May 1768 (leaf 37); the heading of its own sitting is on a page not among the scans."]
-    "9": [1773, 3, null, "month", "Entered on leaf 245, between the headings of the sittings of 2 March 1773 (leaf 242) and 13 March 1773 (leaf 246); the heading of its own sitting is on a page not among the scans."]
-    "10": [1773, 3, null, "month", "Entered on leaf 245, between the headings of the sittings of 2 March 1773 (leaf 242) and 13 March 1773 (leaf 246); the heading of its own sitting is on a page not among the scans."]
-  sitting: {}
+  # Three entries stood under a sitting whose heading is on a page that is
+  # not among the scans, and were placed between the dated headings before and
+  # after them. The editor transcribed those headings (2026-11-27): the entries
+  # are dated by them (sitting:), and the headings are in sitting_headings.yml.
+  inferred: {}
+  # The date of the sitting the entry stands under, where the heading is not
+  # part of the transcription: [year, month, day, precision, basis].
+  sitting:
+    "1": [1768, 1, 2, "day", "The heading of the sitting, on p. 1 (shown above the text): Saturday 2 January 1768."]
+    "3": [1768, 5, 25, "day", "The heading of the sitting, on p. 36v (shown above the text): Wednesday 25 May 1768."]
+    "9": [1773, 3, 12, "day", "The heading of the sitting, on p. 243v (shown above the text): Friday 12 March 1773."]
+    "10": [1773, 3, 12, "day", "The heading of the sitting, on p. 243v (shown above the text): Friday 12 March 1773."]
   no_date: []
 
 documents:

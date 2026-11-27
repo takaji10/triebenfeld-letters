@@ -1120,31 +1120,28 @@ groups:
     note: ''
     editor_note: ''
     h: 54449aca
-- name: 'The court books: dating the documents by their sittings (2026-11-27)'
+- name: Konin Gr.116 - Relationes 1775-1777
   items:
-  - id: t915-date-the-court-book
-    title: Date the court-book documents by the sitting headings you transcribed
-    kind: claude
-    text: On 2026-11-27 you supplied the heading of the sitting ("Actum in ...") for 53/6/0/-/17, -/36,
-      -/45, -/46, -/47 and for the documents of Konin Gr.115 to Gr.120 that were dated only by inference.
-      Claude is to reckon each date from its heading, replace the inferred dates, show the headings on
-      the documents' pages, and then search every place the old date stood (summaries, holding pages,
-      dating notes, era essays and era boundaries, the timeline, person bios, the owners' tree, connections,
-      literature links, notes) and correct what follows. You get a list of every date that changed and
-      of every sentence it changed. This is done before the new document of Konin Gr.118 is added, so
-      that the numbering does not move under the dates.
-    options: []
+  - id: t924-which-sitting-is-konin
+    title: Which sitting does Konin Gr.116, document 1 belong to?
+    kind: question
+    text: You gave Konin Gr.116, document 1 (the oblata of the extract of the 1775 boundary commission)
+      the heading of the sitting of 16 August 1775 on p. 78v. On the scan (0079_a1) the entry stands above
+      that heading, and the heading opens document 2; in these books an entry belongs to the heading above
+      it, so Claude has left document 1 under an earlier sitting, dated August 1775 as inferred. If you
+      see something Claude does not (for instance that this register writes the heading after an oblata),
+      say so.
+    options:
+    - Keep it under an earlier sitting (as now)
+    - It belongs to the sitting of 16 August 1775
+    - The heading of its own sitting is elsewhere (give the page)
     links:
-    - label: 53/6/0/-/17
-      href: /sources/app536017/
-    - label: Konin Gr.115
-      href: /sources/app53170koningr115/
-    - label: Konin Gr.118
-      href: /sources/app53170koningr118/
+    - label: Konin Gr.116, document 1
+      href: /documents/app53170koningr116/1/
     nc: ''
     note: ''
     editor_note: ''
-    h: 0b9eec3f
+    h: 8ce3ae64
 - name: Konin Gr.118 - Relationes 1780-1782
   items:
   - id: t916-add-the-oblata-of
@@ -1221,9 +1218,9 @@ groups:
     editor_note: ''
     h: 114e8484
 counts:
-  question: 15
+  question: 16
   decision: 9
   task: 14
-  claude: 20
+  claude: 19
   waiting: 8
 total: 66

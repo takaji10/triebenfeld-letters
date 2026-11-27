@@ -1,0 +1,32 @@
+# The heading of the sitting each entry stands under, where the heading is not
+# part of the entry's transcription (on an earlier page, or higher on the page
+# above other entries): the editor's transcription of the heading with its page
+# (2026-11-27, to-do t915), kept as written, and its English. The site shows it
+# above the entry's text in every view, marked with its page
+# (pipeline/build/build_site_data.py). The entry's date is set from it in
+# rulings.yml (`dates: sitting:`).
+
+"1":
+  page: "60"
+  la: "Actum in Conin Feria Secunda post Dominicam Reminiscere Quadragesimalem proxima Die scilicet Decima Septima Mensis Martii Anno Domini 1783"
+  en: "Done at Konin on the Monday next after Reminiscere Sunday, namely 17 March 1783."
+
+"2":
+  page: "60"
+  la: "Actum in Conin Feria Secunda post Dominicam Reminiscere Quadragesimalem proxima Die scilicet Decima Septima Mensis Martii Anno Domini 1783"
+  en: "Done at Konin on the Monday next after Reminiscere Sunday, namely 17 March 1783."
+
+"4":
+  page: "73"
+  la: "Actum in Conin Feria Tertia post Dominicam Reminiscere Quadragesimalem proxima Die scilicet 18ua Mensis Martii Anno Domini 1783"
+  en: "Done at Konin on the Tuesday next after Reminiscere Sunday, namely 18 March 1783."
+
+"6":
+  page: "130"
+  la: "Actum in Conin Feria Secunda post Dominicam Rogationum proxima Die scilicet Vigesima Sexta Mensis Maii Anno Domini 1783tio"
+  en: "Done at Konin on the Monday next after Rogation Sunday, namely 26 May 1783."
+
+"7":
+  page: "302"
+  la: "Actum in Conin Feria Tertia Ipso Die Festi Sancta Ursulae Virginis et Martyris proxima scilicet 21 Mensis 8bris Anno Domini 1783"
+  en: "Done at Konin on the Tuesday, on the very day of the feast of Saint Ursula, Virgin and Martyr, namely 21 October 1783."

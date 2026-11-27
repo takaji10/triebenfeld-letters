@@ -166,7 +166,9 @@
   }
   window.tfLayout = { para: layoutPara, box: boxFor, fill: fillLayout, KINDS: KINDS, CONTINUES: CONTINUES };
 
-  document.querySelectorAll('.text-view[data-view="translation"]').forEach(function (el) {
+  // Only a page's own translation view (data-seg): the heading of the sitting
+  // above a court-book entry carries its English already (sitting_headings.yml).
+  document.querySelectorAll('.text-view[data-view="translation"][data-seg]').forEach(function (el) {
     var seg = byPage[el.getAttribute('data-seg')];
     // A tabulated document's English arrives as a built table, from our own
     // data file.

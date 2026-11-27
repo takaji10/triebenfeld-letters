@@ -60,3 +60,17 @@ The summaries were written in German from the Latin and translated into English.
 Read by a Sonnet led reader on the original scans; Claude settled. Corrected the slip "Miniterialis". Ten of the cloud's eleven prepared expansions applied; "Actt~" was left with its tilde: "Act[oris]" would drop a t the clerk wrote, and the doubled consonant is written once only for a plural (`intake/unresolved.md`). Not changed: "a Judiciis Condescensoriali" on 624 verso (the two readers disagree between -iis and -io), the blotted day of the Piotrków date, "hippercausti".
 
 **Nothing dropped: the king's titles** (the editor, 2026-11-27, on the audit's spot sheet: "Write the titles out in every royal citation if they were there to begin with ... You should not be considering dropping anything in the transcribed text, ever!"). Every "etc.", "&c" and "…" of the court books was read on the scan by two Sonnet readers, each place settled by Claude on the band (`intake/latin_audit_titles.json`, logged in transcription_decisions.csv). Leaf 624: the titles written out in full where the transcription had "Rex Poloniae etc."; the English of document 2 gives them.
+
+## The headings of the sittings (2026-11-27)
+
+The editor photographed and transcribed the heading of the sitting ("Actum in
+...") that each undated entry stands under, with its page (to-do t915).
+`sitting_headings.yml` keeps each heading as the editor wrote it, its page and
+its English; the site shows it at the head of the entry's first page in every
+view, marked "[p. ...]", set apart from the entry's own text (it is not on the
+entry's page image). The entries are dated by them (`dates: sitting:` in
+`rulings.yml`). Every heading's feast reckoning agrees with the weekday and the
+day of the month it states, which checks the readings; where an entry's date
+was a month or a year, it is now the day of its sitting.
+
+- Document 2 was "the end of 1786"; its sitting is 5 October 1786.

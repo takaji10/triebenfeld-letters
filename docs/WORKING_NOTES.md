@@ -5487,6 +5487,27 @@ things learned while measuring it:
   `holding.py --english --cache`, check_translations and publish_translations.
 - **Links that seem missing on a document page** are in the "About this document" panel, which is
   closed by default (the editor saw none on letter 85).
+- **The headings of the sittings** (t915). A heading from another page, or higher on the page above
+  other entries, is not written into `corpus.txt` (it is not on the entry's page image and would
+  break the line-to-image match): it goes in `units/<slug>/sitting_headings.yml` (`page`, `la` as
+  the editor wrote it, `en`), and `build_site_data.py` (`sitting_heading_html`) shows it at the
+  head of the entry's first page in all three views, marked "[p. ...]" (the editor, 2026-11-28:
+  "the dates I supplied come with page numbers, which should be included when you insert the
+  transcribed dates into the transcriptions and the translations"). letter.js fills only
+  translation views with a `data-seg`, so the block keeps its English. The date goes to
+  `dates: sitting:` with a basis "The heading of the sitting, on p. X (shown above the text):
+  ..."; give each new basis its German in `reference/site_notes_de.yml`.
+- **Check a heading by its own calendar**: reckon the feast ("Feria Sexta post Dominicam
+  Reminiscere") and compare it with the day it states ("Die Duodecima Mensis Martii"); 47 of 47
+  agreed, which checked the editor's readings without the photographs. Then check the page order:
+  an entry belongs to the heading ABOVE it (Gr.116 doc 1 stands above the heading it was given),
+  and a heading higher on the entry's own page beats one on the facing page (Gr.118 doc 9: the
+  October reading took the facing page's 4 December and missed 7 December on the page itself).
+- **The summaries are kept in four places**: `site/_data/summaries.yml` (English, the source since
+  the rewrite of 2026-11-25), `site/_data/summaries_de.yml` and `units/<slug>/summaries_de.yml`
+  (German), and the holding's `intake/holding.py` S dict (both languages, written out again by
+  `--summaries`); the claim check quotes them in `intake/claim_check.yml`. A date correction goes
+  into all of them.
 
 ## The Latin audit begun on the desktop (2026-11-27)
 

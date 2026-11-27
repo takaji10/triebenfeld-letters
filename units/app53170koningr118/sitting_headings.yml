@@ -1,0 +1,72 @@
+# The heading of the sitting each entry stands under, where the heading is not
+# part of the entry's transcription (on an earlier page, or higher on the page
+# above other entries): the editor's transcription of the heading with its page
+# (2026-11-27, to-do t915), kept as written, and its English. The site shows it
+# above the entry's text in every view, marked with its page
+# (pipeline/build/build_site_data.py). The entry's date is set from it in
+# rulings.yml (`dates: sitting:`).
+
+"1":
+  page: "170"
+  la: "Actum in Conin Sabatho post Festum Sanctae Haedvigis Viduae Electae Dei proximo Die Scilicet Vigesima Prima Mensis 8bris Anno Domini 1780"
+  en: "Done at Konin on the Saturday next after the feast of Saint Hedwig, widow, chosen of God, namely 21 October 1780."
+
+"2":
+  page: "266"
+  la: "Actum in Conin Feria 3tia post Dominicam Jubilate proxima Die scilicet Octava Mensis Maii Anno Domini 1781"
+  en: "Done at Konin on the Tuesday next after Jubilate Sunday, namely 8 May 1781."
+
+"3":
+  page: "341"
+  la: "Actum in Conin Feria Tertia ante Festum Nativitatis Beatissimae Mariae Virginis proxima Die scilicet Quarta Mensis 7bris Anno Domini 1781mo"
+  en: "Done at Konin on the Tuesday next before the feast of the Nativity of the Most Blessed Virgin Mary, namely 4 September 1781."
+
+"6":
+  page: "382"
+  la: "Actum in Conin Feria Sexta post Festum Omnium Sanctorum proxima Die scilicet Secunda Mensis 9bris Anno Domini 1781mo"
+  en: "Done at Konin on the Friday next after the feast of All Saints, namely 2 November 1781."
+
+"7":
+  page: "382"
+  la: "Actum in Conin Feria Sexta post Festum Omnium Sanctorum proxima Die scilicet Secunda Mensis 9bris Anno Domini 1781mo"
+  en: "Done at Konin on the Friday next after the feast of All Saints, namely 2 November 1781."
+
+"9":
+  page: "398"
+  la: "Actum in Conin Feria Sexta in Vigilia Festi Immaculatae Conceptionis Beatissimae Virginis Mariae scilicet Die Septima Mensis Decembris Anno Domini 1781mo"
+  en: "Done at Konin on the Friday, on the eve of the feast of the Immaculate Conception of the Most Blessed Virgin Mary, namely 7 December 1781."
+
+"10":
+  page: "415"
+  la: "Actum in Conin Feria Secunda ante Festum Sancti Pauli Primi Eremitae proxima Die scilicet Decima Quarta Mensis Januarii Anno Domini 1782do"
+  en: "Done at Konin on the Monday next before the feast of Saint Paul the First Hermit, namely 14 January 1782."
+
+"13":
+  page: "470v"
+  la: "Actum in Conin Feria Secunda post Dominicam Jubilate proxima Die scilicet Vigesima Secunda Mensis Aprilis Anno Domini 1782o"
+  en: "Done at Konin on the Monday next after Jubilate Sunday, namely 22 April 1782."
+
+"14":
+  page: "489v"
+  la: "Actum in Conin Feria Secunda post Dominicam Rogationum proxima Die scilicet Sexta Mensis Maii Anno Domini 1782"
+  en: "Done at Konin on the Monday next after Rogation Sunday, namely 6 May 1782."
+
+"17":
+  page: "523"
+  la: "Actum in Conin Sabbatho post Octavas Festi Sacratissimi Corporis [Chri]sti Domini proximo Die scilicet Octava Mensis Junii Anno Ejusdem 1782"
+  en: "Done at Konin on the Saturday next after the octave of the feast of the Most Holy Body of Christ the Lord, namely 8 June 1782."
+
+"18":
+  page: "525"
+  la: "Actum in Conin Feria Secunda post Octavas Festi Sacratissimi Corporis Christi Domini proxima Die scilicet Decima Mensis Junii Anno Ejusdem 1782"
+  en: "Done at Konin on the Monday next after the octave of the feast of the Most Holy Body of Christ the Lord, namely 10 June 1782."
+
+"20":
+  page: "585v"
+  la: "Actum in Conin Feria Sexta post Festum Sancti Laurentii Martyris proxima Die Scilicet Decima Sexta Mensis Augusti Anno Domini 1782"
+  en: "Done at Konin on the Friday next after the feast of Saint Lawrence the Martyr, namely 16 August 1782."
+
+"21":
+  page: "615v"
+  la: "Actum in Conin Feria Secunda post Festum Exaltationis Sanctae Crucis proxima Die Scilicet Decima Sexta Mensis Septembris Anno Domini 1782do"
+  en: "Done at Konin on the Monday next after the feast of the Exaltation of the Holy Cross, namely 16 September 1782."

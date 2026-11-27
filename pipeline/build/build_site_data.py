@@ -37,6 +37,36 @@ UNITS = unitlib.load_units()
 
 _CITATIONS = {}
 _FOOTNOTES = {}
+_SITTING = {}
+
+
+def sitting_heading_html(slug, lid):
+    """The heading of the sitting a court-book entry stands under, where it is not part of the
+    entry's transcription (units/<slug>/sitting_headings.yml: the editor's transcription with
+    its page, and its English; the editor, 2026-11-27/28: "the dates I supplied come with page
+    numbers, which should be included when you insert the transcribed dates into the
+    transcriptions and the translations"). Shown at the head of the entry's first page in every
+    view, marked with its page, and set apart from the entry's own lines: it is not on the
+    entry's page image, so it is kept out of the numbered transcription, which verify_site reads
+    back against corpus.txt. '' where the entry has none."""
+    if slug not in _SITTING:
+        import yaml
+        p = os.path.join(ROOT, 'units', slug, 'sitting_headings.yml')
+        _SITTING[slug] = {}
+        if os.path.isfile(p):
+            with open(p, encoding='utf-8') as f:
+                _SITTING[slug] = {str(k): v for k, v in (yaml.safe_load(f) or {}).items()}
+    h = _SITTING[slug].get(str(lid))
+    if not h:
+        return ''
+    la, en, page = html.escape(h['la']), html.escape(h['en']), html.escape(str(h['page']))
+    return ('<div class="sitting-head">'
+            f'<p class="leaf-mark">[p. {page}]</p>'
+            '<div class="sitting-note" data-i18n="sitting_head">The heading of the sitting</div>'
+            f'<p class="text-view" data-view="diplomatic">{la}</p>'
+            f'<p class="text-view" data-view="reading" hidden>{la}</p>'
+            f'<p class="text-view" data-view="translation" hidden>{en}</p>'
+            '</div>')
 _LEAVES = {}
 
 
@@ -740,6 +770,10 @@ def main():
             body.append('<div class="pane-text">')
             # The leaf of the book this page is, as the transcription files mark it ("[p. 585v]"),
             # above every view: transcription, reading text and translation alike.
+            if p is pages[0]:
+                _sh = sitting_heading_html(r['unit'], lid)
+                if _sh:
+                    body.append(_sh)
             _leaf = leaf_of(r['unit'], p.get('page_id'))
             if _leaf:
                 body.append(f'<p class="leaf-mark">[p. {html.escape(_leaf)}]</p>')

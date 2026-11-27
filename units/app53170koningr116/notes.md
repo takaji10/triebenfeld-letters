@@ -95,3 +95,25 @@ The summaries were written in German from the Latin and translated into English.
 Read again in the audit's lighter pass (2026-11-27): Sonnet readers on the original scans, at most four pages each, looking only for skipped words, marks of doubt and tilde forms (the holding was checked word by word in October); a Sonnet blind reader read the places that would change the text; two readers agreeing was taken as proof for these small changes, which Claude did not each see on the band. No skipped words. Corrected: "Commissis" written above the line on leaf 336 (between "Eodem" and "Decretum"), "Annuendo", "Petierunt", "eousque" (the marks of doubt lifted). Seven prepared expansions applied.
 
 **Nothing dropped: the king's titles** (the editor, 2026-11-27, on the audit's spot sheet: "Write the titles out in every royal citation if they were there to begin with ... You should not be considering dropping anything in the transcribed text, ever!"). Every "etc.", "&c" and "…" of the court books was read on the scan by two Sonnet readers, each place settled by Claude on the band (`intake/latin_audit_titles.json`, logged in transcription_decisions.csv). Leaf 90: "Haeredes &c." is the page's own "&c.": no change.
+
+## The headings of the sittings (2026-11-27)
+
+The editor photographed and transcribed the heading of the sitting ("Actum in
+...") that each undated entry stands under, with its page (to-do t915).
+`sitting_headings.yml` keeps each heading as the editor wrote it, its page and
+its English; the site shows it at the head of the entry's first page in every
+view, marked "[p. ...]", set apart from the entry's own text (it is not on the
+entry's page image). The entries are dated by them (`dates: sitting:` in
+`rulings.yml`). Every heading's feast reckoning agrees with the weekday and the
+day of the month it states, which checks the readings; where an entry's date
+was a month or a year, it is now the day of its sitting.
+
+- **Document 1 is not dated by the heading the editor gave it.** The editor
+  gave it the heading of 16 August 1775 (p. 78v), but on the page (scan
+  0079_a1) the entry stands above that heading, which opens document 2: an
+  entry belongs to the heading above it, so document 1 stands under an earlier
+  sitting, and keeps "August 1775, inferred". Put to the editor (to-do t924).
+- Documents 11 and 12 were "undated, probably of 1777" and "probably of October
+  1777": they are now 24 April 1777 and 20 October 1777; the summaries and the
+  claim check follow. Document 12 is the search the land court's decree of the
+  same day cites (APP 53/6/0/-/46, sitting of 20 October 1777).

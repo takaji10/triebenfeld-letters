@@ -1,0 +1,47 @@
+# The heading of the sitting each entry stands under, where the heading is not
+# part of the entry's transcription (on an earlier page, or higher on the page
+# above other entries): the editor's transcription of the heading with its page
+# (2026-11-27, to-do t915), kept as written, and its English. The site shows it
+# above the entry's text in every view, marked with its page
+# (pipeline/build/build_site_data.py). The entry's date is set from it in
+# rulings.yml (`dates: sitting:`).
+
+"3":
+  page: "88v"
+  la: "Actum in Conin Feria Sexta posi[v?]idie Festi Sancti Matthaei Apostoli et Evangelistae Videlicet Die Vigesima Secunda Mensis Septembris Anno Domini 1775"
+  en: "Done at Konin on the Friday, the day after the feast of Saint Matthew the Apostle and Evangelist, namely 22 September 1775."
+
+"4":
+  page: "88v"
+  la: "Actum in Conin Feria Sexta posi[v?]idie Festi Sancti Matthaei Apostoli et Evangelistae Videlicet Die Vigesima Secunda Mensis Septembris Anno Domini 1775"
+  en: "Done at Konin on the Friday, the day after the feast of Saint Matthew the Apostle and Evangelist, namely 22 September 1775."
+
+"5":
+  page: "88v"
+  la: "Actum in Conin Feria Sexta posi[v?]idie Festi Sancti Matthaei Apostoli et Evangelistae Videlicet Die Vigesima Secunda Mensis Septembris Anno Domini 1775"
+  en: "Done at Konin on the Friday, the day after the feast of Saint Matthew the Apostle and Evangelist, namely 22 September 1775."
+
+"7":
+  page: "95"
+  la: "Actum in Conin Feria Secunda post Festum Sancti Francisci Confessoris proxima Videlicet Die Nona Mensis Octobris Anno Domini 1775"
+  en: "Done at Konin on the Monday next after the feast of Saint Francis the Confessor, namely 9 October 1775."
+
+"9":
+  page: "175"
+  la: "Actum in Conin Feria Secunda post Festum Sanctorum Petri et Pauli Apostolarum proxima Videlicet Die Prima Mensis Julii Anno Domini 1776"
+  en: "Done at Konin on the Monday next after the feast of Saints Peter and Paul the Apostles, namely 1 July 1776."
+
+"10":
+  page: "201v"
+  la: "Actum in Conin Feria Quinta post Festum Sancti Agidii Abbatis proxima Scilicet Die Quinta Mensis Septembris Anno Domini 1776to"
+  en: "Done at Konin on the Thursday next after the feast of Saint Giles the Abbot, namely 5 September 1776."
+
+"11":
+  page: "266"
+  la: "Actum in Conin Feria Quinta post Dominicam Jubilate proxima Scilicet Die Vigesima Quarta Mensis Aprilis Anno Domini 1777"
+  en: "Done at Konin on the Thursday next after Jubilate Sunday, namely 24 April 1777."
+
+"12":
+  page: "333v"
+  la: "Actum in Conin Feria Secunda post Festum Sancti Lucae Evangelistae proxima Scilicet Die Vigesima Mensis Octobris Anno Domini 1777"
+  en: "Done at Konin on the Monday next after the feast of Saint Luke the Evangelist, namely 20 October 1777."

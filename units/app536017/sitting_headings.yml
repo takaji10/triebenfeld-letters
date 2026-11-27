@@ -1,0 +1,12 @@
+# The heading of the sitting each entry stands under, where the heading is not
+# part of the entry's transcription (on an earlier page, or higher on the page
+# above other entries): the editor's transcription of the heading with its page
+# (2026-11-27, to-do t915), kept as written, and its English. The site shows it
+# above the entry's text in every view, marked with its page
+# (pipeline/build/build_site_data.py). The entry's date is set from it in
+# rulings.yml (`dates: sitting:`).
+
+"1":
+  page: "2"
+  la: "Actum in terminis terrestribus particularibus Coninensibus feria sexta ante festum Sancti Vitt[i?] Martyris proxima Anno Domini 1589 in Conin celebratis"
+  en: "Done at the particular land terms of Konin, held at Konin on the Friday next before the feast of Saint Vitus the Martyr in the year of the Lord 1589."

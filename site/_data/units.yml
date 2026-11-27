@@ -359,8 +359,8 @@
   era: "prusimski-boundary"
   count: 10
   pages: 11
-  first: "1768-01"
-  last: "1773-03"
+  first: "1768-01-02"
+  last: "1773-03-12"
   span: "1768–1773"
   thumb: "/assets/thumbs/holding-app53170koningr115.jpg"
 - slug: "app53170koningr116"
@@ -386,7 +386,7 @@
   count: 12
   pages: 15
   first: "1775-08"
-  last: "1777-10"
+  last: "1777-10-20"
   span: "1775–1777"
   thumb: "/assets/thumbs/holding-app53170koningr116.jpg"
 - slug: "app53170koningr117"
@@ -411,8 +411,8 @@
   era: "prusimski-boundary"
   count: 13
   pages: 19
-  first: "1778"
-  last: "1779-05-01"
+  first: "1778-03-07"
+  last: "1779-10-18"
   span: "1778–1779"
   thumb: "/assets/thumbs/holding-app53170koningr117.jpg"
 - slug: "app53170koningr118"
@@ -437,7 +437,7 @@
   era: "prusimski-boundary"
   count: 29
   pages: 40
-  first: "1780"
+  first: "1780-10-21"
   last: "1782-12-07"
   span: "1780–1782"
   thumb: "/assets/thumbs/holding-app53170koningr118.jpg"
@@ -463,7 +463,7 @@
   era: "prusimski-boundary"
   count: 8
   pages: 10
-  first: "1783-03"
+  first: "1783-03-17"
   last: "1784-09-15"
   span: "1783–1784"
   thumb: "/assets/thumbs/holding-app53170koningr119.jpg"
@@ -490,7 +490,7 @@
   count: 2
   pages: 3
   first: "1785-03-14"
-  last: "1786"
+  last: "1786-10-05"
   span: "1785–1786"
   thumb: "/assets/thumbs/holding-app53170koningr120.jpg"
 - slug: "app53170koningr121"
@@ -749,8 +749,8 @@
   era: "prusimski-boundary"
   count: 2
   pages: 3
-  first: "1644"
-  last: "1644"
+  first: "1644-06-06"
+  last: "1644-06-06"
   span: "1644"
   thumb: "/assets/thumbs/holding-app536036.jpg"
 - slug: "app536040"
@@ -801,8 +801,8 @@
   era: "prusimski-boundary"
   count: 1
   pages: 2
-  first: "1763"
-  last: "1763"
+  first: "1763-05-30"
+  last: "1763-05-30"
   span: "1763"
   thumb: "/assets/thumbs/holding-app536045.jpg"
 - slug: "app536046"
@@ -827,8 +827,8 @@
   era: "prusimski-boundary"
   count: 2
   pages: 3
-  first: "1777"
-  last: "1777"
+  first: "1777-10-20"
+  last: "1777-10-20"
   span: "1777"
   thumb: "/assets/thumbs/holding-app536046.jpg"
 - slug: "app536047"
@@ -853,8 +853,8 @@
   era: "prusimski-boundary"
   count: 1
   pages: 3
-  first: "1783"
-  last: "1783"
+  first: "1783-10-20"
+  last: "1783-10-20"
   span: "1783"
   thumb: "/assets/thumbs/holding-app536047.jpg"
 - slug: "app53640kalisztab21"

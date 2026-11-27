@@ -1390,3 +1390,8 @@ h1 .ipa { font-family: var(--sans, system-ui, sans-serif); font-size: .45em; fon
 
 /* The leaf of the book a page is ("[p. 585v]", units/<slug>/leaves.yml), at the head of the page's text. */
 .leaf-mark { font: 0.85rem/1.3 var(--sans); color: var(--ink-soft); margin: 0 0 0.6rem; }
+/* The heading of the sitting a court-book entry stands under, from another page (sitting_headings.yml). */
+.sitting-head { border-left: 3px solid var(--rule); padding-left: .8em; margin: 0 0 1rem; }
+.sitting-head .leaf-mark { margin-bottom: .2rem; }
+.sitting-note { font-family: var(--sans); font-size: .8em; font-style: italic; color: var(--ink-soft); }
+.sitting-head p.text-view { margin: .2em 0 0; }

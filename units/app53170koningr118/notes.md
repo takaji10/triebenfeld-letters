@@ -104,3 +104,25 @@ The summaries were written in German from the Latin and Polish and translated in
 Read again in the audit's lighter pass (2026-11-27): Sonnet readers on the original scans, at most four pages each, looking only for skipped words, marks of doubt and tilde forms (the holding was checked word by word in October); a Sonnet blind reader read the places that would change the text; two readers agreeing was taken as proof for these small changes, which Claude did not each see on the band. No skipped words in the transcribed entries (other entries on the pages were left aside). Corrected: "Ordin~" (not "Orind~"), "facti". 171 of the 172 prepared expansions applied ("T~" on leaf 398 verso is "T" with a superscript o, "Tmo", and keeps its tilde). The king's titles, which the transcription gives as "etc…" where the page writes them out (leaves 496, 623), are one question on the spot sheet for all the court books.
 
 **Nothing dropped: the king's titles** (the editor, 2026-11-27, on the audit's spot sheet: "Write the titles out in every royal citation if they were there to begin with ... You should not be considering dropping anything in the transcribed text, ever!"). Every "etc.", "&c" and "…" of the court books was read on the scan by two Sonnet readers, each place settled by Claude on the band (`intake/latin_audit_titles.json`, logged in transcription_decisions.csv). Leaf 496: the titles written out ("Rex Poloniae Magnus Dux Lithoaniae Russiae Prussiae Masoviae Samogitiae Kijoviae Smolenskiae Severiae Czerniechoviaeq[ue]": this citation names no Volhynia, Podolia, Podlachia or Livonia); leaf 623: the full list, from "Rex Poloniae" (the transcription had "Dei Gratia etc…"). The English of documents 14 and 23 gives the titles; it was changed in its cache and site file only, since this holding's `holding.py --english` stops on an older full-check fix that no longer matches the editor's English ("and when the Appearing [party], on behalf of the Manifesting"), and doc14.yml and doc23.yml were edited by hand.
+
+## The headings of the sittings (2026-11-27)
+
+The editor photographed and transcribed the heading of the sitting ("Actum in
+...") that each undated entry stands under, with its page (to-do t915).
+`sitting_headings.yml` keeps each heading as the editor wrote it, its page and
+its English; the site shows it at the head of the entry's first page in every
+view, marked "[p. ...]", set apart from the entry's own text (it is not on the
+entry's page image). The entries are dated by them (`dates: sitting:` in
+`rulings.yml`). Every heading's feast reckoning agrees with the weekday and the
+day of the month it states, which checks the readings; where an entry's date
+was a month or a year, it is now the day of its sitting.
+
+- **Document 9 is of 7 December 1781, not 4 December.** Its own heading, "Actum
+  in Conin Feria Sexta in Vigilia Festi Immaculatae Conceptionis ... Die
+  Septima Mensis Decembris Anno Domini 1781mo", stands on the same page (leaf
+  398) above it, with one entry between; the dating of October took the
+  heading of 4 December on the facing page, leaf 397 verso. Seen on the scan
+  (2026-11-28). The summaries, the claim check, the change record and the
+  guide follow.
+- The new entry of p. 524v (the oblata of the boundary decree, 8 June 1782) is
+  added after these dates, as the editor asked (to-do t916).

@@ -1,0 +1,32 @@
+# The heading of the sitting each entry stands under, where the heading is not
+# part of the entry's transcription (on an earlier page, or higher on the page
+# above other entries): the editor's transcription of the heading with its page
+# (2026-11-27, to-do t915), kept as written, and its English. The site shows it
+# above the entry's text in every view, marked with its page
+# (pipeline/build/build_site_data.py). The entry's date is set from it in
+# rulings.yml (`dates: sitting:`).
+
+"1":
+  page: "1"
+  la: "Actum in Conin Sabbatho Post Festa [...]cumissioris Domini Nostri Jesu [...] Anno Ejusdem 1768"
+  en: "Done at Konin on the Saturday after the feasts of the [...]cumcision of Our Lord Jesus [...], in the year of the same 1768."
+
+"3":
+  page: "36v"
+  la: "Actum in Conin Feria Quarta post Festa Sollemnia Sacri Pentecostem Proxima Anno Domini 1768"
+  en: "Done at Konin on the Wednesday next after the solemn feasts of Holy Pentecost in the year of the Lord 1768."
+
+"6":
+  page: "186v"
+  la: "Actum in Conin Feria Sexta pridie Festi Sancti Thomae Apostoli Anno Domini 1771"
+  en: "Done at Konin on the Friday, the eve of the feast of Saint Thomas the Apostle, in the year of the Lord 1771."
+
+"9":
+  page: "243v"
+  la: "Actum in Conin Feria Sexta post Dominicam Reminiscere Quadragesimalem proxima videlicet Die Duodecima Mensis Martii Anno Domini 1773"
+  en: "Done at Konin on the Friday next after Reminiscere Sunday, namely 12 March 1773."
+
+"10":
+  page: "243v"
+  la: "Actum in Conin Feria Sexta post Dominicam Reminiscere Quadragesimalem proxima videlicet Die Duodecima Mensis Martii Anno Domini 1773"
+  en: "Done at Konin on the Friday next after Reminiscere Sunday, namely 12 March 1773."

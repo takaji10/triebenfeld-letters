@@ -92,3 +92,15 @@ Read by a Sonnet led reader and a Sonnet blind reader on the original scans; Cla
 **The impact sweep** (2026-11-27, after the editor's review of the audit): the English of document 1 gives the 20th of October; the dating notes of documents 1 and 2 say the search was made in the Konin records on the day the sitting opened (document 2's note had no German: added).
 
 The word before "Judicium etc." on leaf 183 (document 2) is "ad prt~" (the editor, 2026-11-27: "personaliter" was a guess; read by Claude on band s01 with the two readers' "ad pr..."); the abbreviation (ad praesens or ad praetactum) keeps its tilde. The English follows.
+
+## The headings of the sittings (2026-11-27)
+
+The editor photographed and transcribed the heading of the sitting ("Actum in
+...") that each undated entry stands under, with its page (to-do t915).
+`sitting_headings.yml` keeps each heading as the editor wrote it, its page and
+its English; the site shows it at the head of the entry's first page in every
+view, marked "[p. ...]", set apart from the entry's own text (it is not on the
+entry's page image). The entries are dated by them (`dates: sitting:` in
+`rulings.yml`). Every heading's feast reckoning agrees with the weekday and the
+day of the month it states, which checks the readings; where an entry's date
+was a month or a year, it is now the day of its sitting.

@@ -102,3 +102,15 @@ and one Sonnet blind reader; Claude settled every change on the bands.
 Parte", "Ministerialis Regni Generalis") stay written out in every court book (EDITORIAL_RULES).
 
 **Nothing dropped: the king's titles** (the editor, 2026-11-27, on the audit's spot sheet: "Write the titles out in every royal citation if they were there to begin with ... You should not be considering dropping anything in the transcribed text, ever!"). Every "etc.", "&c" and "…" of the court books was read on the scan by two Sonnet readers, each place settled by Claude on the band (`intake/latin_audit_titles.json`, logged in transcription_decisions.csv). Leaf 36: the "…" after "Bydgostiensem" stood for words not read. Four or five words, which neither reader nor Claude could read on band s05 (the letters suggest "Item ... Agn... Wężyk(?) Ensifer... Vil..."), are now marked [...], and "Illmum et Rdmum" before "Abbatem", which the transcription had left out, is written, expanded at the editor's word as Ill[ustrissi]mum et R[everen]d[issi]mum ("Illustrissimum et Reverendissimum"); Gr.1181's "Illmum" on 167 verso likewise. The English of document 2 follows.
+
+## The headings of the sittings (2026-11-27)
+
+The editor photographed and transcribed the heading of the sitting ("Actum in
+...") that each undated entry stands under, with its page (to-do t915).
+`sitting_headings.yml` keeps each heading as the editor wrote it, its page and
+its English; the site shows it at the head of the entry's first page in every
+view, marked "[p. ...]", set apart from the entry's own text (it is not on the
+entry's page image). The entries are dated by them (`dates: sitting:` in
+`rulings.yml`). Every heading's feast reckoning agrees with the weekday and the
+day of the month it states, which checks the readings; where an entry's date
+was a month or a year, it is now the day of its sitting.

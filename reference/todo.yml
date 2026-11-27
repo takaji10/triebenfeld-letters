@@ -1041,29 +1041,25 @@ items:
   links: []
   nc: ''
   audit_note: ''
-- id: t915-date-the-court-book
-  group: 'The court books: dating the documents by their sittings (2026-11-27)'
-  title: Date the court-book documents by the sitting headings you transcribed
-  kind: claude
-  text: On 2026-11-27 you supplied the heading of the sitting ("Actum in ...") for 53/6/0/-/17, -/36,
-    -/45, -/46, -/47 and for the documents of Konin Gr.115 to Gr.120 that were dated only by inference.
-    Claude is to reckon each date from its heading, replace the inferred dates, show the headings on the
-    documents' pages, and then search every place the old date stood (summaries, holding pages, dating
-    notes, era essays and era boundaries, the timeline, person bios, the owners' tree, connections, literature
-    links, notes) and correct what follows. You get a list of every date that changed and of every sentence
-    it changed. This is done before the new document of Konin Gr.118 is added, so that the numbering does
-    not move under the dates.
-  options: []
+- id: t924-which-sitting-is-konin
+  group: Konin Gr.116 - Relationes 1775-1777
+  title: Which sitting does Konin Gr.116, document 1 belong to?
+  kind: question
+  text: You gave Konin Gr.116, document 1 (the oblata of the extract of the 1775 boundary commission)
+    the heading of the sitting of 16 August 1775 on p. 78v. On the scan (0079_a1) the entry stands above
+    that heading, and the heading opens document 2; in these books an entry belongs to the heading above
+    it, so Claude has left document 1 under an earlier sitting, dated August 1775 as inferred. If you
+    see something Claude does not (for instance that this register writes the heading after an oblata),
+    say so.
+  options:
+  - Keep it under an earlier sitting (as now)
+  - It belongs to the sitting of 16 August 1775
+  - The heading of its own sitting is elsewhere (give the page)
   links:
-  - type: unit
-    slug: app536017
-    label: 53/6/0/-/17
-  - type: unit
-    slug: app53170koningr115
-    label: Konin Gr.115
-  - type: unit
-    slug: app53170koningr118
-    label: Konin Gr.118
+  - type: doc
+    slug: app53170koningr116
+    n: 1
+    label: Konin Gr.116, document 1
   nc: ''
   audit_note: ''
 - id: t916-add-the-oblata-of
@@ -1547,3 +1543,11 @@ done:
   date: '2026-11-27'
   answer: Yes, extend them
   note: ''
+- id: t915-date-the-court-book
+  title: Date the court-book documents by the sitting headings you transcribed
+  date: '2026-11-28'
+  answer: Done
+  note: '47 headings worked in (sitting_headings.yml in eleven holdings, shown above each entry in every
+    view with its page; the dates in rulings.yml); every feast reckoning agrees with the stated day. Corrected:
+    Konin Gr.118 doc 9 is 7 December 1781 (not 4 December); the summaries of Gr.116 docs 11 and 12 and
+    Gr.120 doc 2 rewritten to their dates. Not applied: Gr.116 doc 1 (t924).'

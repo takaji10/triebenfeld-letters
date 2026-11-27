@@ -139,3 +139,20 @@ The summary was written in German from the Latin as read again and translated in
 ## The Latin audit (2026-11-27)
 
 Read by a Sonnet led reader on the original scans. Nothing was proved against the transcription: the reader's findings were "unsure" readings of abbreviation strokes and of names, struck words rightly left out, and (Kalisz Gr.425) one Polish word, "kładamy" for "kłodamy", kept for the later Polish audit. The text stands as it was. The findings are in review/latin_audit/app536017/reader_a.json (not committed).
+
+## The headings of the sittings (2026-11-27)
+
+The editor photographed and transcribed the heading of the sitting ("Actum in
+...") that each undated entry stands under, with its page (to-do t915).
+`sitting_headings.yml` keeps each heading as the editor wrote it, its page and
+its English; the site shows it at the head of the entry's first page in every
+view, marked "[p. ...]", set apart from the entry's own text (it is not on the
+entry's page image). The entries are dated by them (`dates: sitting:` in
+`rulings.yml`). Every heading's feast reckoning agrees with the weekday and the
+day of the month it states, which checks the readings; where an entry's date
+was a month or a year, it is now the day of its sitting.
+
+- The heading opens the land court's term at Konin on the Friday before St
+  Vitus 1589, 9 June. The entry keeps 12 June: the boundary decree of 1775
+  cites the decrees of this sitting as given on the Monday before St Vitus,
+  inside the term.

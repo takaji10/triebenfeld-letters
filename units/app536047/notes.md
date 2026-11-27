@@ -86,3 +86,15 @@ The summary was written in German from the Latin and translated into English. Ea
 ## The Latin audit (2026-11-27)
 
 Read again in the audit's lighter pass (2026-11-27): Sonnet readers on the original scans, at most four pages each, looking only for skipped words, marks of doubt and tilde forms (the holding was checked word by word in October); a Sonnet blind reader read the places that would change the text; two readers agreeing was taken as proof for these small changes, which Claude did not each see on the band. 23 prepared expansions applied; nothing else changed (the struck words and the margin note on leaf 240 are rightly not transcribed).
+
+## The headings of the sittings (2026-11-27)
+
+The editor photographed and transcribed the heading of the sitting ("Actum in
+...") that each undated entry stands under, with its page (to-do t915).
+`sitting_headings.yml` keeps each heading as the editor wrote it, its page and
+its English; the site shows it at the head of the entry's first page in every
+view, marked "[p. ...]", set apart from the entry's own text (it is not on the
+entry's page image). The entries are dated by them (`dates: sitting:` in
+`rulings.yml`). Every heading's feast reckoning agrees with the weekday and the
+day of the month it states, which checks the readings; where an entry's date
+was a month or a year, it is now the day of its sitting.
