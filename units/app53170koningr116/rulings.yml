@@ -35,13 +35,13 @@ dates:
 
   # [year, month, day, precision, basis]; the basis is shown to the reader.
   # Entries with no heading of a sitting on a photographed page.
-  inferred:
-    "1": [1775, 8, null, "month", "Entered on leaf 78 verso directly above the heading of the sitting of 16 August 1775; the heading of its own sitting is on an earlier page, not among the scans. The office sat every few days, so the entry is placed in the same month."]
+  inferred: {}
 
   # The date of the sitting the entry stands under, where the heading is not
   # directly above it and is not part of the transcription:
   # [year, month, day, precision, basis].
   sitting:
+    "1": [1775, 8, 14, "day", "The heading of the sitting, on p. 77 (shown above the text): Monday 14 August 1775."]
     "3": [1775, 9, 22, "day", "The heading of the sitting, on p. 88v (shown above the text): Friday 22 September 1775."]
     "4": [1775, 9, 22, "day", "The heading of the sitting, on p. 88v (shown above the text): Friday 22 September 1775."]
     "5": [1775, 9, 22, "day", "The heading of the sitting, on p. 88v (shown above the text): Friday 22 September 1775."]

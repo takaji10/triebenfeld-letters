@@ -1041,27 +1041,6 @@ items:
   links: []
   nc: ''
   audit_note: ''
-- id: t924-which-sitting-is-konin
-  group: Konin Gr.116 - Relationes 1775-1777
-  title: Which sitting does Konin Gr.116, document 1 belong to?
-  kind: question
-  text: You gave Konin Gr.116, document 1 (the oblata of the extract of the 1775 boundary commission)
-    the heading of the sitting of 16 August 1775 on p. 78v. On the scan (0079_a1) the entry stands above
-    that heading, and the heading opens document 2; in these books an entry belongs to the heading above
-    it, so Claude has left document 1 under an earlier sitting, dated August 1775 as inferred. If you
-    see something Claude does not (for instance that this register writes the heading after an oblata),
-    say so.
-  options:
-  - Keep it under an earlier sitting (as now)
-  - It belongs to the sitting of 16 August 1775
-  - The heading of its own sitting is elsewhere (give the page)
-  links:
-  - type: doc
-    slug: app53170koningr116
-    n: 1
-    label: Konin Gr.116, document 1
-  nc: ''
-  audit_note: ''
 - id: t916-add-the-oblata-of
   group: Konin Gr.118 - Relationes 1780-1782
   title: Add the oblata of the 1782 boundary decree to Konin Gr.118
@@ -1551,3 +1530,9 @@ done:
     view with its page; the dates in rulings.yml); every feast reckoning agrees with the stated day. Corrected:
     Konin Gr.118 doc 9 is 7 December 1781 (not 4 December); the summaries of Gr.116 docs 11 and 12 and
     Gr.120 doc 2 rewritten to their dates. Not applied: Gr.116 doc 1 (t924).'
+- id: t924-which-sitting-is-konin
+  title: Which sitting does Konin Gr.116, document 1 belong to?
+  date: '2026-11-28'
+  answer: The heading of its own sitting is elsewhere (give the page)
+  note: 'The editor, in chat: p. 77, Monday on the eve of the Assumption, 14 August 1775. Worked in: sitting_headings.yml,
+    the date, the German note.'

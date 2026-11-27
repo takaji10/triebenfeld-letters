@@ -6585,6 +6585,5 @@ sources-icon.html`).
 - The editor's transcriptions of 47 headings of sittings (to-do t011/t915) worked into eleven court-book holdings (53/6/0/-/17, -/36, -/45, -/46, -/47; Konin Gr.115 to Gr.120): each heading, with its page, in `units/<slug>/sitting_headings.yml`, shown at the head of the entry's first page in the transcription, the reading text and the English ("[p. 243v]", under "The heading of the sitting"); the entries dated by them (`dates: sitting:`), with German notes. 38 entries move from a month or a year to the day of their sitting.
 - Every heading checked by its own calendar: the feast reckoning agrees with the stated day in all 47.
 - Corrected: Konin Gr.118, document 9 is of 7 December 1781 (its own heading on leaf 398, missed in October), not 4 December; Gr.117's dating notes misread a heading at the foot of leaf 58 verso as 2 April 1778 (it is 3 April). The claims that followed from the old dates rewritten: the summaries of Gr.118 doc 9, Gr.116 docs 11 and 12, Gr.120 doc 2, in English and German, with the claim checks; no era, timeline event or connection changed.
-- Not applied: Gr.116, document 1, which stands above the heading the editor gave it (to-do t924).
+- Gr.116, document 1, which stands above the heading first given it, dated by the heading the editor then supplied (p. 77, 14 August 1775; t924 closed).
 - `build_site_data.py`: `sitting_heading_html`; `assets/letter.js`: only a page's own translation view is filled; style and the label `sitting_head` in both languages.
-

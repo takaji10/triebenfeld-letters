@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-66 open: 16 question, 9 decision, 14 task, 19 claude, 8 waiting.
+65 open: 15 question, 9 decision, 14 task, 19 claude, 8 waiting.
 
 ## APP 53/17/0/-/Konin Gr.145 and the Prusimski era folders
 
@@ -536,18 +536,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       numbers are not recorded. If you want them too, send the transcription files that
       carry them.
       Options: The court records are enough / Add them for the other holdings too (I will send the files)
-
-## Konin Gr.116 - Relationes 1775-1777
-
-- [ ] **Which sitting does Konin Gr.116, document 1 belong to?** (`t924-which-sitting-is-konin`, question). You gave Konin Gr.116, document 1 (the oblata of the extract of the 1775 boundary
-      commission) the heading of the sitting of 16 August 1775 on p. 78v. On the scan
-      (0079_a1) the entry stands above that heading, and the heading opens document 2;
-      in these books an entry belongs to the heading above it, so Claude has left
-      document 1 under an earlier sitting, dated August 1775 as inferred. If you see
-      something Claude does not (for instance that this register writes the heading
-      after an oblata), say so.
-      Options: Keep it under an earlier sitting (as now) / It belongs to the sitting of 16 August 1775 / The heading of its own sitting is elsewhere (give the page)
-      Concerns: [Konin Gr.116, document 1](/documents/app53170koningr116/1/)
 
 ## Konin Gr.118 - Relationes 1780-1782
 

@@ -108,11 +108,13 @@ entry's page image). The entries are dated by them (`dates: sitting:` in
 day of the month it states, which checks the readings; where an entry's date
 was a month or a year, it is now the day of its sitting.
 
-- **Document 1 is not dated by the heading the editor gave it.** The editor
-  gave it the heading of 16 August 1775 (p. 78v), but on the page (scan
-  0079_a1) the entry stands above that heading, which opens document 2: an
-  entry belongs to the heading above it, so document 1 stands under an earlier
-  sitting, and keeps "August 1775, inferred". Put to the editor (to-do t924).
+- **Document 1.** The editor first gave it the heading of 16 August 1775
+  (p. 78v), but on the page (scan 0079_a1) the entry stands above that
+  heading, which opens document 2, so it was left under an earlier sitting
+  and put to the editor (to-do t924). The editor then supplied its own
+  heading (2026-11-28): p. 77, "Feria Secunda in Vigilia Festi Assumptionis
+  ... Die 14 Mensis Augusti", Monday 14 August 1775 (the Assumption fell on a
+  Tuesday that year); the entry is dated by it.
 - Documents 11 and 12 were "undated, probably of 1777" and "probably of October
   1777": they are now 24 April 1777 and 20 October 1777; the summaries and the
   claim check follow. Document 12 is the search the land court's decree of the

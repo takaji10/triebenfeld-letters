@@ -6,6 +6,11 @@
 # (pipeline/build/build_site_data.py). The entry's date is set from it in
 # rulings.yml (`dates: sitting:`).
 
+"1":
+  page: "77"
+  la: "Actum in Conin Feria Secunda in Vigilia Festi Assumptionis in Caelum Gloriosissimae Virginis Mariae Videlicet Die 14 Mensis Augusti Anno Domini 1775"
+  en: "Done at Konin on the Monday, on the eve of the feast of the Assumption of the Most Glorious Virgin Mary into Heaven, namely 14 August 1775."
+
 "3":
   page: "88v"
   la: "Actum in Conin Feria Sexta posi[v?]idie Festi Sancti Matthaei Apostoli et Evangelistae Videlicet Die Vigesima Secunda Mensis Septembris Anno Domini 1775"
