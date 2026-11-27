@@ -14,7 +14,7 @@ is listed for a second look, not applied.
 The answer to a question is only recorded here. Claude then writes it where it belongs (the holding's
 rulings.yml or notes.md, NEEDS_CONFIRMATION, the changelog), as for any ruling from the editor.
 """
-import os, sys, json, datetime, hashlib
+import os, sys, json, datetime, hashlib, subprocess
 import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -75,7 +75,9 @@ def main():
     src['done'] = done
     open(SRC, 'w', encoding='utf-8', newline='\n').write(
         hdr + yaml.safe_dump({'items': src['items'], 'done': done}, allow_unicode=True, sort_keys=False, width=100))
-    os.system(f'"{sys.executable}" "{os.path.join(ROOT, "pipeline", "todo", "build_todo.py")}"')
+    # subprocess, not os.system: on Windows cmd strips the outer quotes of a line that starts with one,
+    # and the rebuild silently failed ("The filename, directory name, or volume label syntax is incorrect").
+    subprocess.run([sys.executable, os.path.join(ROOT, 'pipeline', 'todo', 'build_todo.py')], check=True)
 
 
 if __name__ == '__main__':

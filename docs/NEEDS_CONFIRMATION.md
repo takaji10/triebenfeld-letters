@@ -777,11 +777,12 @@ read, translate and summarise.
 - **Files still to add from the Geheimes Staatsarchiv** (the editor's folder
   list, 2026-10-02; state of 2026-10-05). Scans are in the editor's folders
   and no transcription is with them: Minor Prusimska's claims to her father's
-  estates (Nr. 1413, 8 images); Hohenlohe operations after Jena (VI. HA, Nl
-  Scharnhorst, Nr. 98, 56 images); Miaczynska compensation for confiscation
-  (I. HA Rep. 74, Nr. 4680, 12 images). Capital on the Zagorow estates (I. HA
-  Rep. 162, Nr. 295) is in. The
-  Biography of Hohenlohe (IV. HA) is not among the folders. The two Klage der
+  estates (Nr. 1413, 8 images); Miaczynska compensation for confiscation
+  (I. HA Rep. 74, Nr. 4680, 12 images; the editor will supply it later,
+  2026-11-27). Hohenlohe operations after Jena (VI. HA, Nl Scharnhorst,
+  Nr. 98) and the IV. HA biography of Hohenlohe will not be added (the
+  editor, 2026-11-27). Capital on the Zagorow estates (I. HA
+  Rep. 162, Nr. 295) is in. The two Klage der
   Gräfin Michalina von Miączyńska files are in (Nr. 12366, Nr. 12367). Each
   is worked into the Hohenlohe-Ingelfingen years page as
   `docs/HOHENLOHE_ERA_PLAN.md` says, and three may open the restitution era

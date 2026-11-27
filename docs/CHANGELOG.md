@@ -6559,3 +6559,11 @@ sources-icon.html`).
 ## 2026-11-26 - "Document order" back in the Order dropdown
 
 - The Order dropdown of the Manuscripts list, the Documents page and a holding's page has "Document order" again (the old "Archival number", lost in the search-bar overhaul of 2026-11-24): by holding reference, then by the archive's own number within it (1, 2, ... 10, 72a, 72b). On the Manuscripts list it also puts the holding tiles in order of their reference (`data-ref` on the card). `_includes/browse.html`, `assets/browse.js`, `f_order_doc` in i18n.yml.
+
+## 2026-11-27 - The editor's first to-do answers recorded
+
+- `todo_answers_2026-11-27.json`: 33 answers. 31 were final and the items moved to `done:` in reference/todo.yml; two stay open with the editor's note (t017, t031). The 55 items not answered stay open as they were.
+- t017 rewritten: the Hohenlohe operations after Jena (VI. HA, Nl Scharnhorst, Nr. 98) and the IV. HA biography of Hohenlohe will not be added (the editor); Nr. 1413 stays, and I. HA Rep. 74, Nr. 4680 comes later. docs/HOHENLOHE_ERA_PLAN.md and NEEDS_CONFIRMATION follow.
+- Nine items for Claude added (t915-t923) for the answers that ask for further work: the sitting dates of the court books with a sweep of every claim they change, the new oblata of Konin Gr.118, a test reading of 53/6/0/-/17, the rest of the ADWł 85 visitation, Wąsicki's table, Seidel's notes, the Bruntsch and Honrichs entries, proposals for timeline events and for the questions left from the second set of books.
+- `pipeline/todo/import_answers.py`: the page rebuild now runs through `subprocess` (it failed silently on Windows).
+- The rulings themselves are written where they belong in the following commits.

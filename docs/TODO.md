@@ -6,43 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-88 open: 21 question, 24 decision, 24 task, 11 claude, 8 waiting.
-
-## III. HA MdA, III. Nr. 12366 and 12367: Michalina Miączyńska's suit and Weigel's compensation, 1818-1832
-
-- [ ] **Choose the era for Nr. 12366 and Nr. 12367** (`t001-choose-the-era-for`, decision). Nr. 12366 (1818-1827) and Nr. 12367 (1828-1832) are the Prussian state files on Countess
-      Michalina Miączyńska's suit and the banker Weigel's compensation. Both stand in
-      the Hohenlohe-Ingelfingen years for now. The alternative is the restitution era
-      (1807 onward), the years of the Prusimski estates' return to Michalina. Which era
-      should they belong to?
-      Options: Keep in the Hohenlohe-Ingelfingen years / Move to the restitution era
-      Concerns: [Nr. 12366](/sources/iiihamdaiiinr12366/), [Nr. 12367](/sources/iiihamdaiiinr12367/)
-      Full discussion: NEEDS_CONFIRMATION, "The eras".
-
-## AGAD 1/174/0/2/73 and 1/174/0/1/6: the Governing Commission's resolutions, July 1807
-
-- [ ] **Look at the eight page crops of the 1807 holdings** (`t002-look-at-the-eight`, task). Each page of the two AGAD holdings (Michalina Dąbska's petitions and the Governing
-      Commission's resolution of July 1807) was cut out of its opening by a box Claude
-      placed. The eight page images are on the documents' pages of the live site. Please
-      say whether any cut is too close to the text or leaves too much around it.
-      Concerns: [AGAD 1/174/0/1/6](/sources/agad1174016/), [AGAD 1/174/0/2/73](/sources/agad11740273/)
-
-- [ ] **Choose the era for the two Governing Commission holdings** (`t004-choose-the-era-for`, decision). Both holdings are placed in the Hohenlohe-Ingelfingen years for now, as the act that
-      ended Prince Hohenlohe's possession of the estates. By the project's own
-      definition they are the first documents of the restitution era (the return of the
-      Prusimski estates to Michalina Dąbska). Moving them there would also mean
-      rewriting the story page, which says that era is not yet published.
-      Options: Keep in the Hohenlohe-Ingelfingen years / Move to the restitution era
-      Concerns: [AGAD 1/174/0/1/6](/sources/agad1174016/), [AGAD 1/174/0/2/73](/sources/agad11740273/)
-      Full discussion: NEEDS_CONFIRMATION, "The eras".
-
-## I. HA GR, Rep. 7 C, Nr. 1414: Prusimski at Venice (1796-1797)
-
-- [ ] **Look at the four page crops of Nr. 1414** (`t006-look-at-the-four`, task). The four pages of this file (the Prussian resident's dispatch from Venice about Antoni
-      Prusimski, the foreign department's draft and Schrötter's reply) were each cut to
-      the written side from an opening. Please look at the four page images on the site
-      and say whether any cut is too close to the text.
-      Concerns: [Nr. 1414](/sources/ihagrrep7cnr1414/)
+66 open: 14 question, 9 decision, 15 task, 20 claude, 8 waiting.
 
 ## APP 53/17/0/-/Konin Gr.145 and the Prusimski era folders
 
@@ -74,35 +38,21 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       until the transcriptions are in.
       Full discussion: NEEDS_CONFIRMATION, "The eras".
 
-- [ ] **Photograph the headings of sittings to date documents surely** (`t011-photograph-the-headings-of`, task). Several court-book documents are dated only by inference from the sitting they belong
-      to. If you photograph the page carrying the heading of the sitting, the date
-      becomes certain and the heading can be shown. Where to look: 53/6/0/-/17, leaf 2;
-      53/6/0/-/36, leaf 612; 53/6/0/-/45, leaf 638; 53/6/0/-/46, the page headed "Actum
-      in Judiciis Terrestribus ... Die 20 mensis Octobris Anno 1777", some leaves before
-      leaf 182; 53/6/0/-/47, leaves 213 (20 October 1783) and 273 (3 May 1784). In the
-      Konin registers Gr.115 to Gr.121, for each document whose page says its date is
-      "inferred", look at the nearest page before it with a line "Actum in Conin ...";
-      each holding's rulings.yml names the leaf under inferred:.
-      Concerns: [53/6/0/-/17](/sources/app536017/), [Konin Gr.136](/sources/app53170koningr136/)
-
 - [ ] **Transcribe the middle of Konin Gr.136 for completeness** (`t012-transcribe-the-middle-of`, task). The middle of Konin Gr.136 (leaves 121 verso to 122 verso) is a house-by-house list that
       is not relevant to the boundary dispute and has not been transcribed. It is to be
       transcribed only for completeness, if you want the volume whole.
       Concerns: [Konin Gr.136](/sources/app53170koningr136/)
 
-- [ ] **Transcribe three more entries of 53/6/0/-/17?** (`t013-transcribe-three-more-entries`, decision). Three more entries on your scans of 53/6/0/-/17 (leaves 27 verso to 29) are not
-      transcribed. Nothing is needed for what is built; the question is only whether you
-      want them added.
-      Options: Transcribe them / Leave them out
-      Concerns: [53/6/0/-/17](/sources/app536017/)
-
 ## The Hohenlohe-Ingelfingen years: files from the Geheimes Staatsarchiv
 
-- [ ] **Supply the remaining Geheimes Staatsarchiv files** (`t017-supply-the-remaining-geheimes`, task). Further files from the Geheimes Staatsarchiv (Berlin) remain to be added to the
-      Hohenlohe-Ingelfingen years: Nr. 1413 (the minor Prusimska's claims to her
-      father's estate, 1796-1798), the Hohenlohe operations after Jena, the IV. HA
-      biography of Hohenlohe and Rep. 74 Nr. 4680. The table is in
-      docs/HOHENLOHE_ERA_PLAN.md. "Capital on the Zagorow estates" is already in.
+- [ ] **Supply the remaining Geheimes Staatsarchiv files** (`t017-supply-the-remaining-geheimes`, task). Two files from the Geheimes Staatsarchiv (Berlin) remain to be added: Nr. 1413 (the
+      minor Prusimska's claims to her father's estate, 1796-1798, for the Hohenlohe-
+      Ingelfingen years) and I. HA Rep. 74, Nr. 4680 (Michalina Miączyńska's
+      compensation for the confiscation, which you will supply later; its era is to be
+      confirmed when it comes). Your scans of both are in your folders, with no
+      transcription. The table is in docs/HOHENLOHE_ERA_PLAN.md. You ruled on 2026-11-27
+      that the Hohenlohe operations after Jena and the IV. HA biography of Hohenlohe
+      will not be added.
       Concerns: [Nr. 1414 (already in)](/sources/ihagrrep7cnr1414/)
 
 ## The site as a whole
@@ -117,84 +67,7 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       apart from the main text (EDITORS_VOICE.md, "Side roads on the site"). The site
       has no such element yet. Nothing is built until you say so.
 
-## AGAD 1/169/0/1/1745: the table of villages of about 1797
-
-- [ ] **Want modern names for the 164 villages of the 1797 table?** (`t020-want-modern-names-for`, decision). The Prussian table of villages around Konin of about 1797 lists 164 villages (Trąbczyn
-      is entry 291), and none yet carries its modern name. Adding them, and a sentence
-      on the table in the Hohenlohe-Ingelfingen years account, is offered, not required.
-      Do you want them?
-      Options: Add modern names and the sentence / Add the sentence only / Neither
-      Concerns: [AGAD 1/169/0/1/1745](/sources/agad1169011745/)
-
-## APP 53/968/0/-/783: the summons of 1860
-
-- [ ] **Name the era of Włodzimierz Miączyński's years** (`t021-name-the-era-of`, decision). Count Włodzimierz Miączyński's years (1858-1897, the colonists' land and forest rights,
-      including the summons of 1860) stand under the working name `wlodzimierz`. Claude
-      proposed the name "The colonists' land and forest rights" or a name by period.
-      Which name should the era carry?
-      Options: The colonists' land and forest rights / A name by owner and period / Your own name
-      Concerns: [Summons of 1860](/sources/app539680783/)
-      Full discussion: NEEDS_CONFIRMATION, "The eras".
-
-## APP 53/968/0/-/669: Albert Breyer's notebook of July 1936
-
-- [ ] **Read 36 doubtful readings on covers and photo log (optional)** (`t022-read-36-doubtful-readings`, task). Of the notebook's 70 marks of doubt, 29 are on the two inside covers and 7 in the
-      photograph log; these 36 were never put to you. Read them only if you want them
-      settled.
-      Concerns: [Breyer's notebook, July 1936](/sources/app539680669/)
-      Full discussion: NEEDS_CONFIRMATION, "APP 53/968/0/-/669".
-
-- [ ] **Place the folds of the seventeen notebook openings (optional)** (`t023-place-the-folds-of`, task). The seventeen openings of this notebook have no fold placed by you, so they stay cut as
-      proposed. If you want to place them, open review/app539680669/folds/index.html and
-      save the file.
-      Concerns: [Breyer's notebook, July 1936](/sources/app539680669/)
-
-- [ ] **Name the twentieth-century era** (`t024-name-the-twentieth-century`, decision). Albert Breyer's notebook and the other twentieth-century documents stand in the era
-      `twentieth-century`, a working name; the era ends with the expulsion of the German
-      settlers in 1945. Claude proposed "The German villages to 1945". Which name should
-      it carry?
-      Options: The German villages to 1945 / Keep "The twentieth century" / Your own name
-      Concerns: [Breyer's notebook, July 1936](/sources/app539680669/)
-      Full discussion: NEEDS_CONFIRMATION, "The eras".
-
-- [ ] **Add the other Breyer notebooks (Grodziec 1938, Białobłoty, Dembe)?** (`t026-add-the-other-breyer`, decision). Three further notebooks of Breyer's from the same folder are not yet in the edition:
-      Grodziec 1938, Białobłoty and Dembe. Do you want them added?
-      Options: Add all three / Add some of them / None
-      Concerns: [Breyer's notebook, July 1936](/sources/app539680669/)
-
-## ADWł 85: the visitation of the parish of Trąbczyn, 1790-1791
-
-- [ ] **Read the ADWł 85 entry on the page of changes** (`t027-read-the-adw-85`, task). The page of changes (review/changes/index.html) lists what the check against the scans
-      altered in your transcript of this church visitation. The chief points: the
-      distance of Kalisz and Konin on leaf 24, and the titles ("JWo Mści"). Please read
-      the entry and say whether you agree.
-      Concerns: [ADWł 85](/sources/adwl85/)
-
-- [ ] **Add the rest of the Trąbczyn visitation?** (`t028-add-the-rest-of`, decision). Offered, not asked for: the rest of the visitation of Trąbczyn (leaves 26 to 28 recto
-      and what follows 29 verso) and the description of the Zagórów church under its
-      table. All are already photographed. Do you want them transcribed and added?
-      Options: Add them / Leave them out
-      Concerns: [ADWł 85](/sources/adwl85/)
-
-## Kodeks Dyplomatyczny Wielkopolski
-
-- [ ] **Name the medieval era** (`t029-name-the-medieval-era`, decision). The era of the Kodeks Dyplomatyczny Wielkopolski (twenty-one entries, 1173-1440) carries
-      the working name "Trąbczyn in the Middle Ages" (`medieval`). Claude proposes to
-      keep it. Do you accept it or want another?
-      Options: Keep "Trąbczyn in the Middle Ages" / Another name
-      Concerns: [Kodeks Dyplomatyczny Wielkopolski](/sources/kdw/)
-      Full discussion: NEEDS_CONFIRMATION, "The eras".
-
 ## The literature (begun 2026-10-19)
-
-- [ ] **Look at the 'In the literature' lists on People and Places pages** (`t030-look-at-the-in`, task). The edition now matches names of people and places in the literature works (books and
-      articles) and lists the matching passages as an 'In the literature' box on the
-      People and Places pages. Please look at those lists, for example Triebenfeld and
-      Hoym on the People page and Trąbczyn and Krotoszyn on the Places page, to see that
-      they read well and point to the right passages. The five identifications Claude
-      proposed for this index were accepted by you on 2026-10-19.
-      Concerns: [Triebenfeld](/people/triebenfeld/), [Hoym](/people/hoym/), [Trąbczyn](/places/trabczyn/), [Krotoszyn](/places/krotoszyn/)
-      Full discussion: NEEDS_CONFIRMATION, "The literature".
 
 - [ ] **Read the four link sentences on the live site** (`t031-read-the-four-link`, task). Claude wrote four hand-made links between passages of the literature and documents, each
       with one sentence saying why the two belong together. They appear beside documents
@@ -219,35 +92,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       Concerns: [Paciorkowski (1776)](/literature/paciorkowski1776/)
       Full discussion: NEEDS_CONFIRMATION, "The literature".
 
-- [ ] **Supply the notes of Seidel's book, if you want them** (`t034-supply-the-notes-of`, decision). The notes of Seidel's book (2018), pages 257 to 266, are empty in both the Polish/German
-      and English files you supplied, so they are not in the edition. Say whether you
-      want them transcribed and supplied; the book is under copyright and shows only a
-      summary on the site, so this matters mainly for Claude's own questions about the
-      work.
-      Options: Yes, I will supply them / No, leave them out
-      Concerns: [Seidel (2018)](/literature/seidel2018/)
-      Full discussion: NEEDS_CONFIRMATION, "The literature".
-
-- [ ] **Later: add timeline events drawn from the books** (`t035-later-add-timeline-events`, decision). The literature works contain dated events that could be added to the site's timeline,
-      but so far none have been, because the timeline is built from the documents first.
-      This is a standing idea for later: say whether, and which, book events should go
-      onto the timeline, selectively and only where the documents do not already give
-      them.
-      Options: Yes, selectively, later / No, documents only
-
-- [ ] **Rule what remains from the second set of books** (`t036-rule-what-remains-from`, question). The second set of books (Breyer 1935 and 1938, Żychliński 1885 and 1891, the PSB entry)
-      raised several questions. Michalina Prusimska's marriage (settled: August 1810),
-      her mother's death (the edition keeps to the dispatch of 1796) and Włodzimierz
-      Miączyński's death (18 December 1879) are settled. Still open: who held Trąbczyn
-      between 1809 and 1879 (Żychliński has Michalina pass it to Stanisław, then to his
-      son Mieczysław, then to Włodzimierz; the edition has Michalina until 1851, then
-      Włodzimierz); whether K. G. von Weigel of Hennersdorf, owner of Zagórów from 1828,
-      is the banker Carl Ferdinand Weigel of Breslau or someone of his family; and
-      Claude's unaccepted identifications of Wieniec and Świątniki.
-      Options: Keep the edition's line (Michalina to 1851, then Włodzimierz) / Follow Żychliński's line / Weigel of Hennersdorf is the banker Weigel / Weigel of Hennersdorf is another man
-      Concerns: [Michalina Prusimska](/people/prusimska/), [Weigel](/people/weigel/), [Włodzimierz Miączyński](/people/miaczynski-wlodzimierz/), [Breyer (1938)](/literature/breyer1938/)
-      Full discussion: NEEDS_CONFIRMATION, "The literature".
-
 - [ ] **Check Breyer (1938) pp. 38-47 against the Łazińsk holdings** (`t037-check-breyer-1938-pp`, claude). Breyer's 1938 book has a section on pp. 38-47 (Ludwigslust, Święcia, Schwenz, the
       villages in 1921) on the German colonies near Łazińsk. Claude is to compare it
       with the edition's Łazińsk holdings, reading each figure in the documents first
@@ -255,127 +99,36 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       Concerns: [Breyer (1938)](/literature/breyer1938/), [APŁ 39/98/0/-/6603](/sources/apl399806603/)
       Full discussion: NEEDS_CONFIRMATION, "The literature".
 
-- [ ] **Look at the Literature page; judge Mączak and Szwiec** (`t038-look-at-the-literature`, task). The Literature page was published on 2026-10-20 with three new works: Pachoński (1973)
-      on Polish émigrés at Venice, Mączak (1968) on the grain export 1550-1650, and
-      Szwiec (2009), the catalogue of Olęder architecture. Please look at the page and
-      tell Claude how useful Mączak and Szwiec are to the edition, so it knows whether
-      works like them are worth adding.
-      Options: Both useful / Mączak useful, Szwiec not / Szwiec useful, Mączak not / Neither useful
-      Concerns: [Mączak (1968)](/literature/maczak1968/), [Szwiec (2009)](/literature/szwiec2009/), [Pachoński (1973)](/literature/pachonski1973/)
+- [ ] **Transcribe Wąsicki's Poznań table into a spreadsheet for you** (`t919-transcribe-wasicki-s-poznan`, claude). You asked (2026-11-27) for the table on pp. 162-167 of Wąsicki (1953), now only a
+      picture, to be transcribed, carefully, because vertical braces show a figure
+      shared by two rows. Claude is to transcribe it into a spreadsheet that marks each
+      shared figure, for you to review; only after your review does it go on the work's
+      page as a table. The link from pp. 174-176 to the lease of 1806 is made
+      separately.
+      Concerns: [Wąsicki (1953)](/literature/wasicki1953/)
+
+- [ ] **Add Seidel's notes (pp. 257-266) from your Markdown file** (`t920-add-seidel-s-notes`, claude). You said (2026-11-27) that the notes of Seidel (2018) are in the Markdown file in
+      J:\Documents\Archive\Texts\Friedrich Ludwig, Fürst zu Hohenlohe-Ingelfingen (2018,
+      Seidel), and that they should be included. Claude is to take them in; the book
+      stays summary-only on the site, and the leak check covers the notes too.
+      Concerns: [Seidel (2018)](/literature/seidel2018/)
+
+- [ ] **Propose timeline events from the books, for you to choose** (`t922-propose-timeline-events-from`, claude). You said yes (2026-11-27) to timeline events drawn from the books, selectively, and
+      asked Claude to propose them since you do not know what should go in. Claude is to
+      list the dated events in the literature that the documents do not already give,
+      each with its passage and why it matters, and hand them to you as a list to choose
+      from.
+
+- [ ] **Propose rulings on what remains from the second set of books** (`t923-propose-rulings-on-the`, claude). You asked (2026-11-27) for proposals on the questions left from the second set of books:
+      who held Trąbczyn between 1809 and 1879 (Żychliński's line through Stanisław and
+      Mieczysław against the edition's Michalina to 1851, then Włodzimierz); whether K.
+      G. von Weigel of Hennersdorf, owner of Zagórów from 1828 (whom you ruled the same
+      man as Karwowski's Karol Bogumił Weygel), is the banker Carl Ferdinand Weigel; and
+      Claude's identifications of Wieniec and Świątniki. Claude is to look in the
+      documents first and give each a proposal with its grounds, as items you can
+      answer.
+      Concerns: [Weigel](/people/weigel/), [Breyer (1938)](/literature/breyer1938/)
       Full discussion: NEEDS_CONFIRMATION, "The literature".
-
-- [ ] **Link Wąsicki to the 1806 lease; transcribe his Poznań table?** (`t039-link-wasicki-to-the`, decision). Wąsicki (1953), on Prussian colonisation in South Prussia, names the Hohenlohe colonies
-      on pp. 174-176. Claude offered a hand-made link from those pages to the lease of
-      1806 (APP 53/968/0/-/801, document 3: 100 Hufen of the Drzewce forest to eighteen
-      settlers). It also offered to transcribe his Poznań table on pp. 162-167, which is
-      now only a picture. Neither has been done; say whether you want either.
-      Options: Link only / Transcribe the table only / Both / Neither
-      Concerns: [Wąsicki (1953)](/literature/wasicki1953/), [APP 53/968/0/-/801, document 3](/documents/app539680801/3/)
-      Full discussion: NEEDS_CONFIRMATION, "The literature".
-
-- [ ] **Rule three Karwowski identifications** (`t040-rule-three-karwowski-identifications`, question). Karwowski (1900), on the Ołobok convent, p. 87, names three men not yet tied to the
-      edition. (1) Ignacy Trzciński, who bought Zagórów from the Prince in 1812 and lost
-      it at auction in 1827: is he the letters' Ignatz von Trzciński, who owed the
-      Prince on bills from 1813 and whose death was reported in December 1815? (2) Karol
-      Bogumił Weygel, the Wrocław banker who bought the Zagórów estates at auction on 1
-      September 1827: the letters' Carl Ferdinand Weigel, his son, another Weigel, or
-      Breyer's K. G. von Weigel? (3) Minister Sobolewski, who told Prussia on 23 October
-      1828 that the convent's 40,000 złp. was lost: Claude takes him for the Kingdom of
-      Poland's minister secretary of state, but this is only offered.
-      Options: Trzciński is the letters' Ignatz / Trzciński is another man / Weygel is Carl Ferdinand Weigel / Weygel is his son or another Weigel / Sobolewski is the Warsaw minister
-      Concerns: [Karwowski (1900)](/literature/karwowski1900/), [Weigel](/people/weigel/)
-      Full discussion: NEEDS_CONFIRMATION, "The literature".
-
-- [ ] **Link Karwowski's passage to the Weigel compensation documents?** (`t041-link-karwowski-s-passage`, decision). Claude offered, but you did not ask for, a hand-made link from Karwowski's passage on
-      the lost 40,000 złp. to the Weigel compensation documents: III. HA MdA III. Nr.
-      12367 and letters 220 and 284 of Oe 1 Bü 9454. Each figure would be read on both
-      sides first. Say whether the link should be made.
-      Options: Yes, make the link / No
-      Concerns: [Karwowski (1900)](/literature/karwowski1900/), [III. HA MdA III. Nr. 12367](/sources/iiihamdaiiinr12367/), [Oe 1 Bü 9454, letter 220](/documents/oe1bu9454/220/), [Oe 1 Bü 9454, letter 284](/documents/oe1bu9454/284/)
-      Full discussion: NEEDS_CONFIRMATION, "The literature".
-
-- [ ] **Check the Janocki transcription, 'Miedzyborze' and the citation bracket** (`t042-check-the-janocki-transcription`, question). Janocki (1779), the entry on Stanisław Lochowski, says Paciorkowski's handbook is
-      Lochowski's 'Processus iuris limitanei' of 1641 printed under another name. Please
-      look at Claude's transcription of the two pages from your PDF, and the doubtful
-      word at the end of p. 160, the place of Lochowski's subscription: the Google
-      copy's OCR reads 'Miedzy- ioreae', the Jagiellonian copy 'Miedzyborege', and
-      Claude read 'Miedzyborze'. Also say whether the citation bracket '[= Lochowski
-      1641]' (Claude's wording, chosen without you) is acceptable.
-      Options: Miedzyborze is right / Another reading (give it) / Bracket acceptable / Bracket to be reworded
-      Concerns: [Janocki (1779)](/literature/janocki1779/), [Paciorkowski (1776)](/literature/paciorkowski1776/)
-      Full discussion: NEEDS_CONFIRMATION, "The literature".
-
-- [ ] **Rule three Łukasiewicz identifications** (`t043-rule-three-ukasiewicz-identifications`, question). Łukasiewicz (1997), on the black register, names three men Claude has not tied to the
-      edition. (1) The donatary Grävenitz of his Tabela 4: is he the edition's
-      Kammergerichtsrat von Grevenitz of Berlin, Triebenfeld's friend? (2) The chamber
-      councillor Schmaling dismissed in 1804/5: is he the Landrat von Schmaling, owner
-      of the Głażewo Vorwerk? (3) The Freiherr von der Reck to whom Voß wrote on 12
-      January 1804 about church funds: which of the several Recks, and is it the
-      minister of state and justice Eberhard von der Reck? The hits are refused in the
-      index until you rule.
-      Options: Grävenitz is Grevenitz / Schmaling is the Landrat / Reck is Eberhard von der Reck / Not the same / unknown (say which)
-      Concerns: [Łukasiewicz (1997)](/literature/lukasiewicz1997/)
-      Full discussion: NEEDS_CONFIRMATION, "The literature".
-
-- [ ] **Look at the Dorow (1843) work page** (`t045-look-at-the-dorow`, task). Dorow (1843) was published on 2026-11-01: Triebenfeld's own memoir on Poland under
-      Frederick II and Frederick William II, printed in Dorow's 'Erlebtes', read by
-      Fraktur OCR. Please look at the work's page on the site and say whether anything
-      is wrong or missing.
-      Concerns: [Dorow (1843)](/literature/dorow1843/), [Triebenfeld](/people/triebenfeld/)
-
-## APP 53/1455/0/2/21: the copy-book of the privileges of Ląd
-
-- [ ] **Look at the six Ląd pages; confirm the year 1447 of no. 16** (`t046-look-at-the-six`, question). This holding is six pages of the abbey of Ląd's copy-book of privileges. Please look at
-      the six cut pages and the holding's page. In particular, no. 16 is King
-      Kazimierz's confirmation of the abbot's purchase of three mansi of Łukom and the
-      forest of Grądzyń; its year is written over, a later hand wrote 1447 in pencil in
-      the margin, and the witnesses fit 1447. Claude dated it 8 August 1447 as inferred;
-      confirm or correct.
-      Options: 1447 is right / Another year (give it)
-      Concerns: [APP 53/1455/0/2/21](/sources/app5314550221/)
-
-## The newspapers: Dziennik Poznański, 7 August 1937
-
-- [ ] **Confirm the 1937 item's Oleśnica is the register's Oleśnica** (`t047-confirm-the-1937-item`, question). The 1937 'Z Zagórowa' column in Dziennik Poznański names an Oleśnica. Claude ruled it to
-      the register's Oleśnica (Oleszyno, 1261), the village and commune on the highway
-      from Zagórów to Konin, on its geography alone; this is Claude's identification and
-      you have not confirmed it. Confirm or correct.
-      Options: Yes, the register's Oleśnica / No, another place (give it)
-      Concerns: [Dziennik Poznański, 7 August 1937](/newspapers/dziennikpoznanski19370807/), [Oleśnica](/places/olesnica/)
-      Full discussion: NEEDS_CONFIRMATION, "The newspapers".
-
-## The newspapers: Słowo 1892 notice of Trąbczyn's sale
-
-- [ ] **One woman or two: Władysławowa and Maria Wielopolska?** (`t048-one-woman-or-two`, question). The Słowo notice of 4 January 1892 says Trąbczyn was bought by 'hr. Władysławowa
-      Wielopolska', the wife of a Władysław Wielopolski. The edition's ownership line
-      for the Włodzimierz era has 'Countess Maria Wielopolska' as owner by 1892. Are
-      these one woman (Maria, the wife the married form points to) or two people?
-      Confirm or correct.
-      Options: One woman (Maria) / Two different women
-      Concerns: [Słowo, 4 January 1892](/newspapers/slowo18920104/), [Trąbczyn](/places/trabczyn/)
-      Full discussion: NEEDS_CONFIRMATION, "The newspapers".
-
-## The newspapers: TwojaSłupca, 6 July 2015
-
-- [ ] **Attach the 2015 report's Miączyński heirs to person pages?** (`t049-attach-the-2015-report`, decision). The 2015 TwojaSłupca jubilee report names 'Stanisław hrabia Miączyński, czy Aleksander i
-      Włodzimierz Miączyński' among Trąbczyn's heirs who took part in the wars of
-      national liberation. Włodzimierz is the register's Count, but 'Stanisław hrabia'
-      is not identified with Michalina's husband Stanisław by anything the edition
-      holds, and 'Aleksander' by nothing at all, so no mention stands on a person page.
-      Say whether to attach them anyway, and whether a newspapers-only pattern should
-      set Włodzimierz's apart.
-      Options: Attach all three / Attach Włodzimierz only / Attach none (as now)
-      Concerns: [TwojaSłupca, 6 July 2015](/newspapers/twojaslupca20150706/), [Włodzimierz Miączyński](/people/miaczynski-wlodzimierz/), [Stanisław Miączyński](/people/miaczynski/)
-      Full discussion: NEEDS_CONFIRMATION, "The newspapers".
-
-- [ ] **Extend name patterns for Lądzie, lądzki and Trampczin?** (`t050-extend-name-patterns-for`, decision). The register's name patterns do not catch three forms in the 2015 report: 'Lądzie' and
-      'lądzki' (the count's title, from Ląd) and the medieval 'Trampczin'. The Ląd
-      pattern takes 'Ląd' bare and 'Lądzk...' only with a capital, built for the 1754
-      Kuryer Polski; the same gap appears in the parish chronicle's 'Lądu'. Say whether
-      to widen the patterns so such forms are indexed.
-      Options: Yes, extend them / No, leave as is
-      Concerns: [TwojaSłupca, 6 July 2015](/newspapers/twojaslupca20150706/), [Ląd](/places/lad/)
-      Full discussion: NEEDS_CONFIRMATION, "The newspapers".
 
 ## The place pages: Zagórów
 
@@ -778,3 +531,58 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       numbers are not recorded. If you want them too, send the transcription files that
       carry them.
       Options: The court records are enough / Add them for the other holdings too (I will send the files)
+
+## The court books: dating the documents by their sittings (2026-11-27)
+
+- [ ] **Date the court-book documents by the sitting headings you transcribed** (`t915-date-the-court-book`, claude). On 2026-11-27 you supplied the heading of the sitting ("Actum in ...") for 53/6/0/-/17,
+      -/36, -/45, -/46, -/47 and for the documents of Konin Gr.115 to Gr.120 that were
+      dated only by inference. Claude is to reckon each date from its heading, replace
+      the inferred dates, show the headings on the documents' pages, and then search
+      every place the old date stood (summaries, holding pages, dating notes, era essays
+      and era boundaries, the timeline, person bios, the owners' tree, connections,
+      literature links, notes) and correct what follows. You get a list of every date
+      that changed and of every sentence it changed. This is done before the new
+      document of Konin Gr.118 is added, so that the numbering does not move under the
+      dates.
+      Concerns: [53/6/0/-/17](/sources/app536017/), [Konin Gr.115](/sources/app53170koningr115/), [Konin Gr.118](/sources/app53170koningr118/)
+
+## Konin Gr.118 - Relationes 1780-1782
+
+- [ ] **Add the oblata of the 1782 boundary decree to Konin Gr.118** (`t916-add-the-oblata-of`, claude). You found a new entry on p. 524v of Konin Gr.118 (scan 530): the oblata of the boundary
+      decree between Trąbczyn (Antoni Prusimski, Starost of Nieszawa) and Łukom
+      (Stanisław Chełmski, Treasurer of Wschowa), entered at the sitting of 8 June 1782;
+      the decree itself is Konin Gr.153. Claude is to check your transcription against
+      the scan with two readers, add it as document 18 (the present 18 to 21 become 19
+      to 22, and every reference to them follows), translate and summarise it, and tie
+      it to Konin Gr.153. This waits until the sitting dates (t915) are done.
+      Concerns: [Konin Gr.118](/sources/app53170koningr118/), [Konin Gr.153](/sources/app53170koningr153/)
+
+## APP 53/6/0/-/17 (1589)
+
+- [ ] **Test whether the three entries of 53/6/0/-/17 can be read reliably** (`t917-test-whether-the-three`, claude). You asked (2026-11-27) whether the three untranscribed entries on leaves 27 verso to 29
+      of 53/6/0/-/17 can be transcribed without a mass of errors, since the hand is very
+      hard. Claude is to have two readers transcribe them independently from the scans,
+      measure how far they agree, and give you an honest verdict with a sample. Nothing
+      is added to the edition unless you then say so.
+      Concerns: [53/6/0/-/17](/sources/app536017/)
+
+## ADWł 85 - the visitation of the Konin deanery, 1790-1791
+
+- [ ] **Add the rest of the Trąbczyn visitation and the Zagórów church** (`t918-add-the-rest-of`, claude). You asked (2026-11-27) for the rest of the visitation of Trąbczyn (leaves 26 to 28 recto
+      and what follows 29 verso) and the description of the Zagórów church under its
+      table to be added. Claude is to transcribe them with two readers per page, settle
+      the differences, add them to documents 1 and 2, translate, summarise and claim-
+      check them, and put the readings that stay doubtful on a spot sheet for you.
+      Concerns: [ADWł 85](/sources/adwl85/)
+
+## APP 53/968/0/-/669 - Breyer's notebooks
+
+- [ ] **Read the Bruntsch and Honrichs entries in the other Breyer notebooks** (`t921-read-the-bruntsch-and`, claude). You named (2026-11-27) two entries in the other Breyer notebooks: on IMG_5189, right
+      page, under the line, a marriage of 1838 of Bruntsch, a holder in the Trąbczyn
+      Olędry born at Bentschen(?) in Prussia, and Brüllow, of the distillery at
+      Gosławice, born in Berlin, which bears on where the Olęders came from; and on
+      IMG_5190 (and again IMG_5208) a Honrichs, commissary to Hohenlohe-Ingelfingen,
+      perhaps a marriage of 1808. Claude is to read both with two readers and propose:
+      Bruntsch to be added, Honrichs reported for your ruling. Nothing else from those
+      notebooks is to be added.
+      Concerns: [Breyer's notebook, July 1936](/sources/app539680669/)

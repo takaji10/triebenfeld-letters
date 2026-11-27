@@ -174,8 +174,8 @@ Sources: AGAD 1/174/0/2/73 and 1/174/0/1/6 (the petitions and the resolution
 of July 1807); Oe 1 Bü 9454 (letters 26, 27, 28, 265b); Nr. 12765 (the petition of
 March 1815, which states the sequence); Oe 1 Bü 14526 (contracts 6 and 7).
 
-Incoming: *Hohenlohe operations after Jena* gives one or two sentences at
-most, and only if it bears on the estates.
+*Hohenlohe operations after Jena* will not be added (the editor,
+2026-11-27).
 
 ### VI. Lawsuits and arrears, 1808 to 1812 (*written*)
 
@@ -247,10 +247,10 @@ some cut short). "In" means already in the edition.
 | Anton Prusimski Venice Residence | I. HA GR, Rep. 7 C, Nr. 1414 (1796-1797), in | I |
 | Minor Prusimska's claims to father's ... | to add: I. HA GR, Rep. 7 C, Nr. 1413 (1796-1798) | I or II |
 | Capital on the Zagorow estates | I. HA Rep. 162, Nr. 295 (copies of 1805), in | III |
-| Hohenlohe operations after Jena | to add | V, a sentence at most |
-| Biography of Hohenlohe (IV. HA) | to add | Opening, for his life; not a source for the estates |
+| Hohenlohe operations after Jena | not to be added (the editor, 2026-11-27) | - |
+| Biography of Hohenlohe (IV. HA) | not to be added (the editor, 2026-11-27) | - |
 | Klage der Gräfin Michalina von Miac... (two) | both in: III. HA MdA, III. Nr. 12366 (1818-1827) and Nr. 12367 (1828-1832), placed in the Hohenlohe era for now | VIII; the editor to confirm the era (Hohenlohe or restitution) |
-| Miaczynska compensation for confisc... | to add | VI or VII, or the restitution era: confirm |
+| Miaczynska compensation for confisc... | to add later (the editor, 2026-11-27): I. HA Rep. 74, Nr. 4680 | VI or VII, or the restitution era: confirm |
 
 Also in, from the AGAD side (2026-10-21): **1/185/0/1/169** (II Rada Stanu
 Królestwa Polskiego), the Instruction Commission's report of 28 October 1834
