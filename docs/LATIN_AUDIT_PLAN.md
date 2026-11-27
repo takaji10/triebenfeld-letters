@@ -43,6 +43,7 @@ language), except the Kodeks:
 | Land court of Konin 53/6/0/-/46 | 2026-11-27 | 1 correction (a date: the 20th, not the 28th), 13 expansions | 2026-11-27 |
 | Land court of Kalisz 53/4/0/-/62 | 2026-11-27 | 2 corrections | 2026-11-27 |
 | The Ląd copy-book | 2026-11-27 | 5 doubts lifted | 2026-11-27 |
+| Poznań Gr.1181 | 2026-11-27 | 75 corrections (a skipped line with 40,000 fp; three figures), 57 expansions, 53 questions (49 of the old sheet's rows) | 2026-11-27 |
 | Oe 1 Bü 14526, the Latin deed | 1 | 5 | 965 | 0 | 0 | light |
 | **Total** | **101** | **191** | **32,653** | **837** | **510** | |
 

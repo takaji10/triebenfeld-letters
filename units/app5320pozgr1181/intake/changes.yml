@@ -1,0 +1,25 @@
+# What the Latin audit changed in this holding.
+# Read by pipeline/review/changes_page.py.
+
+unit: "APP 53/20/0/-/Poznań Gr.1181"
+changes:
+- importance: significant
+  new: "2026-11-27"
+  what: "Leaf 167 verso: a line your text skipped is restored. After \"repetende\" the page goes on \"ejusq~ summe Quadraginta Millium fp demonstratum esse quinimo in Termino ejusq~ Cond~nis\": the sum of 40,000 złoty and the sitting (\"in Termino ... Cond~nis\") were missing, and \"Condicionalis\" was the misreading that bridged the gap. Latin audit, read on the original scan by two readers and Claude."
+  was: "exaratuno[?] in ordine repetandae ejusdem Condicionalis Illustrissimus"
+  now: "exaratum in ordine repetende ejusq~ summe Quadraginta Millium fp demonstratum esse quinimo in Termino ejusq~ Cond~nis Illustrissimus"
+- importance: fact
+  new: "2026-11-27"
+  what: "Leaf 162: three figures. The Starost's sum is \"septuaginta duorum millium octingentorum septuaginta sex Flor~ gr~ 24\", 72,876 złoty 24 groszy (the 24 groszy were missing); \"octingentorum quindecem\" (815), not \"octuagento\"; and the doubtful \"veto\" is \"octo\" (41,938). Latin audit, two readers."
+  was: "octuigentorum[?] septuaginta sex tlor~[??] ge~[?] ... octuagento quindecem ... Triginta veto[?] fl."
+  now: "octingentorum septuaginta sex Flor~ gr~ 24 ... octingentorum quindecem ... Triginta octo fl."
+- importance: fact
+  new: "2026-11-27"
+  what: "Names and words of your open sheet settled where two readers read the same letters: Kotarbski, Flottowa, schedas trinas (no word before it), jam autem, diverse forme, extrahendo, eximunt, inito, Hisce. Latin audit."
+  was: "Kołarbski[?] ... [Fl/H?]ottowa ... [?]sc[h/t?]aedas ... autoni[?] ... dive[n/r?]ae formae ... extra hendo[?] ... eisneunt[?] ... insto[?] ... hisc[e?]"
+  now: "Kotarbski ... Flottowa ... schedas ... autem ... diverse forme ... extrahendo ... eximunt ... inito ... Hisce"
+- importance: wording
+  new: "2026-11-27"
+  what: "About sixty further words read again where both readers agree, most of them marks of doubt lifted (millium, efficere, non plus, centum, quadringentorum, interregni, praecipue, permisit, evidenter, cessisse, competere ...) and some misreadings (Canitaneum for Capnei, praecisse for praecipue, Patrini for Patrui, Undeum for Undecem, ex lige for ex lege). The full list with the reasons is in the holding's transcription_decisions.csv. 57 tilde forms expanded where the case is certain. Latin audit."
+  was: "(see the list)"
+  now: "(see the list)"

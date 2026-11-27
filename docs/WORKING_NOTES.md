@@ -5507,3 +5507,14 @@ things learned while measuring it:
 - **A reader's English consequence waits**: a correction that moves the sense (Gr.121, "praesentatos"
   to "presenttes") is noted in the holding's changes and notes, and the English is changed in the impact
   sweep after the editor's review (plan, section 5), not at once.
+- **A large holding's blind reading is made by script** (Poznań Gr.1181, 2026-11-27): the led readers'
+  sure/likely findings (247) became blind items automatically, the transcription's three words before
+  and after each place as guides (marks of doubt stripped), the named band and its neighbours, grouped by
+  page so each reader opens few pages (`review/latin_audit/app5320pozgr1181/items_b_*.json`). A comparison
+  script (fuzzy word match, `scratchpad/compare_ab.py`, now `pipeline/review/latin_audit_compare.py <slug>`) sorted
+  the 234 pairs into agree / differ / the blind reader unsure / with the transcription. Claude then read
+  the agreements as a list and dropped those that only looked alike (7 of 82). Thirteen findings could
+  not be located by their quoted words (the led reader quoted across a line join).
+- **A led reader's band number can be wrong**: for the skipped clause on Gr.1181 leaf 161 the named band
+  holds another passage. An omission the blind reader did not confirm goes to the sheet with the band
+  and its neighbours, never into the text.
