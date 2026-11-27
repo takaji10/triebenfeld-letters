@@ -5428,3 +5428,13 @@ things learned while measuring it:
   where its scans are: `RAW` in `intake/holding.py` or `raw_dir` in `unit.yml` (Oe 1 Bü 14526's are in
   Downloads, not on J:). The desktop procedure is the plan's section 9; the trigger phrase is in CLAUDE.md.
 
+- **A document's language sits under `documents:` in `rulings.yml`, as `language: {"1": la}`.** Poznań
+  Gr.1181 had a top-level `languages: {"1": latin}`, which nothing reads; the build fell back to German and
+  the Latin decree showed as German until 2026-11-27. When counting by language, check the dataset's
+  `language` against each holding's `languages:` in unit.yml (a script did it in a minute: only Gr.1181 was
+  wrong).
+- **The audit's cloud preparation** (2026-11-27): `pipeline/review/latin_audit.py` does every step
+  (scope, manifest, tildes, refs, strips, apply, impact, sheet) and works for court books and the rest
+  alike; `reference/latin_audit/` holds the manifest, the tilde list, the citing texts, the briefs and the
+  Gr.1181 open rows. The strip cutter cuts eight bands per page whatever the entry's line count: a
+  two-line entry on a full page gave one useless band when it went by lines.
