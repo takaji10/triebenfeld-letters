@@ -97,9 +97,12 @@ them to `processed/`.
 
 - The reference stays "ADWł 85": the archive's holdings have no series
   name to put before it (editor, 2026-10-16).
-- Offered: the rest of the visitation of Trąbczyn (leaves 26 to 28 recto,
-  and the parsonage and income after leaf 29 verso) and the text under the
-  Zagórów table, all photographed.
+- The rest of the visitation of Trąbczyn (leaves 26 to 28 recto, and the
+  parsonage and income after leaf 29 verso) and the text under the Zagórów
+  table, all photographed: to be added (the editor, 2026-11-27: "Add
+  them"; to-do t918).
+- The editor read this holding's entry on the page of changes and agrees
+  with it (2026-11-27).
 
 ## Form and language (taken off the public page, 2026-10-30)
 

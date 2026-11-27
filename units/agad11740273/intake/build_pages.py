@@ -66,6 +66,11 @@ CROPS = [
     ('047.jpg', '0047_a2', (1790, 40, 3480, 2740)),    # the petition of 23 July
 ]
 
+# Pages turned after the cut, so that their writing reads across: the address
+# on 0008_a1 is written up the leaf (the editor, 2026-11-27: "rotate page 2
+# 90 degrees clockwise"). PIL's transpose: ROTATE_270 turns clockwise.
+TURN = {'0008_a1': 'clockwise'}
+
 # (the source's mark, document number or None to continue the document before,
 #  [(page id, the words the page begins with)]).
 PAGES = [
@@ -130,9 +135,12 @@ def crop(unit):
     for src, pid, box in CROPS:
         im = Image.open(os.path.join(unit.raw_dir, src)).convert('RGB')
         out = pid + '.jpg'
-        im.crop(box).save(os.path.join(pdir, out), quality=97)
+        page = im.crop(box)
+        if TURN.get(pid) == 'clockwise':
+            page = page.transpose(Image.Transpose.ROTATE_270)
+        page.save(os.path.join(pdir, out), quality=97)
         manifest[src] = [{'file': out, 'bbox_original': list(box),
-                          'size': [box[2] - box[0], box[3] - box[1]],
+                          'size': list(page.size),
                           'fold_confidence': 'manual'}]
         print(f'  {src} -> processed/{out}  {box}')
     with open(os.path.join(pdir, 'manifest.json'), 'w', encoding='utf-8') as f:

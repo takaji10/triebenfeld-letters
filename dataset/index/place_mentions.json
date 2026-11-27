@@ -2,7 +2,7 @@
  {
   "entity": "trabczyn",
   "display": "Trąbczyn",
-  "count": 900,
+  "count": 908,
   "documents": [
    "adwl85-1",
    "agad1169011745-1",
@@ -266,6 +266,15 @@
   "mentions": [
    {
     "uid": "kdw-2",
+    "surface": "Trampczino",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "",
+    "line": 14,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-2",
     "surface": "Trąbczyn",
     "page": 1,
     "page_id": "0002_a",
@@ -320,6 +329,24 @@
    },
    {
     "uid": "kdw-9",
+    "surface": "Trampczino",
+    "page": 1,
+    "page_id": "0009_a",
+    "scan": "",
+    "line": 96,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-9",
+    "surface": "Trampczino",
+    "page": 1,
+    "page_id": "0009_a",
+    "scan": "",
+    "line": 97,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-9",
     "surface": "Trąbczyn",
     "page": 1,
     "page_id": "0009_a",
@@ -335,6 +362,24 @@
     "scan": "",
     "line": 101,
     "doc_line": 2
+   },
+   {
+    "uid": "kdw-10",
+    "surface": "Trampczino",
+    "page": 1,
+    "page_id": "0010_a",
+    "scan": "",
+    "line": 103,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-10",
+    "surface": "Trampczino",
+    "page": 1,
+    "page_id": "0010_a",
+    "scan": "",
+    "line": 104,
+    "doc_line": 5
    },
    {
     "uid": "kdw-10",
@@ -464,6 +509,15 @@
    },
    {
     "uid": "kdw-19",
+    "surface": "Trampczino",
+    "page": 1,
+    "page_id": "0019_a",
+    "scan": "",
+    "line": 212,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-19",
     "surface": "Trąbczyn",
     "page": 1,
     "page_id": "0019_a",
@@ -497,6 +551,15 @@
     "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
     "line": 3,
     "doc_line": 1
+   },
+   {
+    "uid": "app536036-1",
+    "surface": "Trampczyno",
+    "page": 2,
+    "page_id": "0642_a2",
+    "scan": "APP_53_6_0_36_0642_a2-L2_01.jpg",
+    "line": 6,
+    "doc_line": 3
    },
    {
     "uid": "app536040-1",
@@ -4466,6 +4529,15 @@
     "scan": "APP_53_17_0_Konin_Gr_118_0673_a2-L27_01.jpg",
     "line": 146,
     "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-27",
+    "surface": "Trampczyna",
+    "page": 2,
+    "page_id": "0674_a1",
+    "scan": "APP_53_17_0_Konin_Gr_118_0674_a1-L27_02.jpg",
+    "line": 148,
+    "doc_line": 3
    },
    {
     "uid": "app53170koningr118-27",
@@ -33593,6 +33665,1194 @@
   ]
  },
  {
+  "entity": "lad",
+  "display": "Ląd",
+  "count": 126,
+  "documents": [
+   "agad1169011745-1",
+   "app5314550221-1",
+   "app5314550221-2",
+   "app5314550221-3",
+   "app5314550221-4",
+   "app5314550221-5",
+   "app5314550221-6",
+   "app53170koningr115-2",
+   "app53170koningr116-2",
+   "app53170koningr118-10",
+   "app53170koningr118-22",
+   "app53170koningr118-24",
+   "app53170koningr118-8",
+   "app53170koningr145-1",
+   "app53170koningr153-1",
+   "app5320pozgr1181-1",
+   "kdw-1",
+   "kdw-11",
+   "kdw-12",
+   "kdw-13",
+   "kdw-14",
+   "kdw-15",
+   "kdw-16",
+   "kdw-17",
+   "kdw-18",
+   "kdw-2",
+   "kdw-22",
+   "kdw-23",
+   "kdw-26",
+   "kdw-27",
+   "kdw-28",
+   "kdw-29",
+   "kdw-30",
+   "kdw-31",
+   "kdw-4",
+   "kdw-5",
+   "kdw-6",
+   "kdw-7",
+   "kdw-8",
+   "oe1bu14526-10",
+   "oe1bu14526-11",
+   "oe1bu14526-12",
+   "oe1bu14526-14",
+   "oe1bu14526-8",
+   "oe1bu14526-9"
+  ],
+  "mentions": [
+   {
+    "uid": "kdw-1",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0001_a",
+    "scan": "",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-1",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0001_a",
+    "scan": "",
+    "line": 8,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-2",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "",
+    "line": 12,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-2",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "",
+    "line": 13,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-2",
+    "surface": "Landense",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "",
+    "line": 14,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-2",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "",
+    "line": 15,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-2",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0002_a",
+    "scan": "",
+    "line": 15,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-22",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0022_a",
+    "scan": "",
+    "line": 264,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-22",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0022_a",
+    "scan": "",
+    "line": 264,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-22",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0022_a",
+    "scan": "",
+    "line": 266,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-22",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0022_a",
+    "scan": "",
+    "line": 267,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-22",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0022_a",
+    "scan": "",
+    "line": 267,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 26,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 27,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 28,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 28,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 29,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 29,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-4",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0004_a",
+    "scan": "",
+    "line": 29,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-5",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "",
+    "line": 33,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-5",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0005_a",
+    "scan": "",
+    "line": 37,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-6",
+    "surface": "Lądzie",
+    "page": 1,
+    "page_id": "0006_a",
+    "scan": "",
+    "line": 42,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-6",
+    "surface": "Lądu",
+    "page": 1,
+    "page_id": "0006_a",
+    "scan": "",
+    "line": 49,
+    "doc_line": 10
+   },
+   {
+    "uid": "kdw-23",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0023_a",
+    "scan": "",
+    "line": 271,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-23",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0023_a",
+    "scan": "",
+    "line": 274,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-7",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0007_a",
+    "scan": "",
+    "line": 78,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-7",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0007_a",
+    "scan": "",
+    "line": 82,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-8",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0008_a",
+    "scan": "",
+    "line": 88,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-26",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0026_a",
+    "scan": "",
+    "line": 292,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-26",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0026_a",
+    "scan": "",
+    "line": 295,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-27",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0027_a",
+    "scan": "",
+    "line": 299,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-27",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0027_a",
+    "scan": "",
+    "line": 302,
+    "doc_line": 5
+   },
+   {
+    "uid": "app5314550221-4",
+    "surface": "Landen",
+    "page": 1,
+    "page_id": "0025_a",
+    "scan": "APP_53_1455_0_2_21_0025_a-L4_01.jpg",
+    "line": 23,
+    "doc_line": 2
+   },
+   {
+    "uid": "app5314550221-4",
+    "surface": "Landen",
+    "page": 1,
+    "page_id": "0025_a",
+    "scan": "APP_53_1455_0_2_21_0025_a-L4_01.jpg",
+    "line": 23,
+    "doc_line": 2
+   },
+   {
+    "uid": "app5314550221-4",
+    "surface": "Landensi",
+    "page": 1,
+    "page_id": "0025_a",
+    "scan": "APP_53_1455_0_2_21_0025_a-L4_01.jpg",
+    "line": 23,
+    "doc_line": 2
+   },
+   {
+    "uid": "app5314550221-4",
+    "surface": "Landen",
+    "page": 2,
+    "page_id": "0026_a",
+    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
+    "line": 26,
+    "doc_line": 4
+   },
+   {
+    "uid": "app5314550221-4",
+    "surface": "Landen",
+    "page": 2,
+    "page_id": "0026_a",
+    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
+    "line": 26,
+    "doc_line": 4
+   },
+   {
+    "uid": "app5314550221-4",
+    "surface": "Landen",
+    "page": 2,
+    "page_id": "0026_a",
+    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
+    "line": 26,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-28",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0028_a",
+    "scan": "",
+    "line": 306,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-28",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0028_a",
+    "scan": "",
+    "line": 307,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-28",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0028_a",
+    "scan": "",
+    "line": 308,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-28",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0028_a",
+    "scan": "",
+    "line": 308,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-28",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0028_a",
+    "scan": "",
+    "line": 309,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-28",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0028_a",
+    "scan": "",
+    "line": 309,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-29",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0029_a",
+    "scan": "",
+    "line": 313,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-29",
+    "surface": "Landensi",
+    "page": 1,
+    "page_id": "0029_a",
+    "scan": "",
+    "line": 315,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-29",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0029_a",
+    "scan": "",
+    "line": 316,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-30",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0030_a",
+    "scan": "",
+    "line": 320,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-30",
+    "surface": "Landensi",
+    "page": 1,
+    "page_id": "0030_a",
+    "scan": "",
+    "line": 322,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-31",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0031_a",
+    "scan": "",
+    "line": 327,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-31",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0031_a",
+    "scan": "",
+    "line": 329,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-31",
+    "surface": "Landensi",
+    "page": 1,
+    "page_id": "0031_a",
+    "scan": "",
+    "line": 329,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-31",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0031_a",
+    "scan": "",
+    "line": 330,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-11",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0011_a",
+    "scan": "",
+    "line": 108,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-11",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0011_a",
+    "scan": "",
+    "line": 111,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-11",
+    "surface": "Landense",
+    "page": 1,
+    "page_id": "0011_a",
+    "scan": "",
+    "line": 111,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-11",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0011_a",
+    "scan": "",
+    "line": 112,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-11",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0011_a",
+    "scan": "",
+    "line": 112,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-12",
+    "surface": "Lądzie",
+    "page": 1,
+    "page_id": "0012_a",
+    "scan": "",
+    "line": 117,
+    "doc_line": 3
+   },
+   {
+    "uid": "app5314550221-1",
+    "surface": "Landensi",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "APP_53_1455_0_2_21_0013_a-L2_01.jpg",
+    "line": 4,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 134,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 134,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 135,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 136,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 136,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 138,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-13",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0013_a",
+    "scan": "",
+    "line": 138,
+    "doc_line": 6
+   },
+   {
+    "uid": "kdw-14",
+    "surface": "Landensi",
+    "page": 1,
+    "page_id": "0014_a",
+    "scan": "",
+    "line": 143,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-14",
+    "surface": "lądzkich",
+    "page": 1,
+    "page_id": "0014_a",
+    "scan": "",
+    "line": 145,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-15",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0015_a",
+    "scan": "",
+    "line": 150,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-15",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0015_a",
+    "scan": "",
+    "line": 151,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-15",
+    "surface": "lądzkicb",
+    "page": 1,
+    "page_id": "0015_a",
+    "scan": "",
+    "line": 153,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-16",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0016_a",
+    "scan": "",
+    "line": 159,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-16",
+    "surface": "Lądzie",
+    "page": 1,
+    "page_id": "0016_a",
+    "scan": "",
+    "line": 160,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-16",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0016_a",
+    "scan": "",
+    "line": 162,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-16",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0016_a",
+    "scan": "",
+    "line": 162,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-16",
+    "surface": "Landensi",
+    "page": 1,
+    "page_id": "0016_a",
+    "scan": "",
+    "line": 162,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-16",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0016_a",
+    "scan": "",
+    "line": 162,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-17",
+    "surface": "Lądu",
+    "page": 1,
+    "page_id": "0017_a",
+    "scan": "",
+    "line": 183,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-17",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0017_a",
+    "scan": "",
+    "line": 184,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-17",
+    "surface": "Landensis3",
+    "page": 1,
+    "page_id": "0017_a",
+    "scan": "",
+    "line": 185,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-17",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0017_a",
+    "scan": "",
+    "line": 185,
+    "doc_line": 5
+   },
+   {
+    "uid": "kdw-18",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0018_a",
+    "scan": "",
+    "line": 199,
+    "doc_line": 2
+   },
+   {
+    "uid": "kdw-18",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0018_a",
+    "scan": "",
+    "line": 200,
+    "doc_line": 3
+   },
+   {
+    "uid": "kdw-18",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0018_a",
+    "scan": "",
+    "line": 201,
+    "doc_line": 4
+   },
+   {
+    "uid": "kdw-18",
+    "surface": "lądzkich",
+    "page": 1,
+    "page_id": "0018_a",
+    "scan": "",
+    "line": 202,
+    "doc_line": 5
+   },
+   {
+    "uid": "app5314550221-3",
+    "surface": "Landen",
+    "page": 2,
+    "page_id": "0015_a",
+    "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+    "line": 19,
+    "doc_line": 4
+   },
+   {
+    "uid": "app5314550221-3",
+    "surface": "Landensi",
+    "page": 2,
+    "page_id": "0015_a",
+    "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
+    "line": 19,
+    "doc_line": 4
+   },
+   {
+    "uid": "app5314550221-2",
+    "surface": "Landen",
+    "page": 2,
+    "page_id": "0014_a",
+    "scan": "APP_53_1455_0_2_21_0014_a-L3_01.jpg",
+    "line": 11,
+    "doc_line": 4
+   },
+   {
+    "uid": "app5314550221-6",
+    "surface": "Landensem",
+    "page": 1,
+    "page_id": "0066_a",
+    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
+    "line": 34,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr115-2",
+    "surface": "Landensem",
+    "page": 1,
+    "page_id": "0036_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
+    "line": 9,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr115-2",
+    "surface": "Landensem",
+    "page": 1,
+    "page_id": "0036_a1",
+    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
+    "line": 11,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr116-2",
+    "surface": "Landensem",
+    "page": 1,
+    "page_id": "0079_a1",
+    "scan": "APP_53_17_0_Konin_Gr_116_0079_a1-L2_01.jpg",
+    "line": 11,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Lądzkiego",
+    "page": 2,
+    "page_id": "0655_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
+    "line": 9,
+    "doc_line": 6
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Lądzki",
+    "page": 61,
+    "page_id": "0685_a1",
+    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
+    "line": 189,
+    "doc_line": 127
+   },
+   {
+    "uid": "app53170koningr145-1",
+    "surface": "Lądzkiem",
+    "page": 62,
+    "page_id": "0685_a2",
+    "scan": "APP_53_17_0_Konin_Gr_145_0685_a2-L1_62.jpg",
+    "line": 192,
+    "doc_line": 129
+   },
+   {
+    "uid": "app53170koningr118-8",
+    "surface": "Landens",
+    "page": 1,
+    "page_id": "0396_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0396_a2-L8_01.jpg",
+    "line": 35,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-10",
+    "surface": "Landensem",
+    "page": 1,
+    "page_id": "0416_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
+    "line": 46,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr118-10",
+    "surface": "Landen[sis]",
+    "page": 1,
+    "page_id": "0416_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
+    "line": 47,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-22",
+    "surface": "Landensem",
+    "page": 1,
+    "page_id": "0622_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+    "line": 117,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-22",
+    "surface": "Landensem",
+    "page": 1,
+    "page_id": "0622_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
+    "line": 117,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-24",
+    "surface": "Landensem",
+    "page": 1,
+    "page_id": "0626_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg",
+    "line": 132,
+    "doc_line": 2
+   },
+   {
+    "uid": "app53170koningr118-24",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0626_a2",
+    "scan": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg",
+    "line": 133,
+    "doc_line": 3
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "1391_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
+    "line": 3,
+    "doc_line": 1
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 2,
+    "page_id": "1392_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1392_a1-L1_02.jpg",
+    "line": 8,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensem",
+    "page": 2,
+    "page_id": "1392_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1392_a1-L1_02.jpg",
+    "line": 8,
+    "doc_line": 5
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 3,
+    "page_id": "1392_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+    "line": 11,
+    "doc_line": 7
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 3,
+    "page_id": "1392_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
+    "line": 11,
+    "doc_line": 7
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 5,
+    "page_id": "1393_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1393_a2-L1_05.jpg",
+    "line": 17,
+    "doc_line": 11
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 6,
+    "page_id": "1394_a1",
+    "scan": "APP_53_17_0_Konin_Gr_153_1394_a1-L1_06.jpg",
+    "line": 20,
+    "doc_line": 13
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 17,
+    "page_id": "1399_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1399_a2-L1_17.jpg",
+    "line": 66,
+    "doc_line": 48
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 17,
+    "page_id": "1399_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1399_a2-L1_17.jpg",
+    "line": 67,
+    "doc_line": 49
+   },
+   {
+    "uid": "app53170koningr153-1",
+    "surface": "Landensis",
+    "page": 21,
+    "page_id": "1401_a2",
+    "scan": "APP_53_17_0_Konin_Gr_153_1401_a2-L1_21.jpg",
+    "line": 86,
+    "doc_line": 64
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Landensis",
+    "page": 1,
+    "page_id": "0161_a",
+    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
+    "line": 40,
+    "doc_line": 38
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Landensis",
+    "page": 2,
+    "page_id": "0161_b",
+    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
+    "line": 44,
+    "doc_line": 39
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Landensem",
+    "page": 2,
+    "page_id": "0161_b",
+    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
+    "line": 44,
+    "doc_line": 39
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Landensem",
+    "page": 3,
+    "page_id": "0162_a",
+    "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
+    "line": 47,
+    "doc_line": 40
+   },
+   {
+    "uid": "app5320pozgr1181-1",
+    "surface": "Landensem",
+    "page": 4,
+    "page_id": "0162_b",
+    "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
+    "line": 50,
+    "doc_line": 41
+   },
+   {
+    "uid": "agad1169011745-1",
+    "surface": "Ląd",
+    "page": 1,
+    "page_id": "0401_a1",
+    "scan": "AGAD_1_169_0_1_1745_0401_a1-L1_01.jpg",
+    "line": 17,
+    "doc_line": 15
+   },
+   {
+    "uid": "oe1bu14526-14",
+    "surface": "Ląd",
+    "page": 5,
+    "page_id": "0084_a2",
+    "scan": "Oe_1_Bu_14526_0084_a2-L14_05.jpg",
+    "line": 4532,
+    "doc_line": 163
+   },
+   {
+    "uid": "oe1bu14526-11",
+    "surface": "Ląd",
+    "page": 5,
+    "page_id": "0068_a2",
+    "scan": "Oe_1_Bu_14526_0068_a2-L11_05.jpg",
+    "line": 3510,
+    "doc_line": 157
+   },
+   {
+    "uid": "oe1bu14526-12",
+    "surface": "Ląd",
+    "page": 5,
+    "page_id": "0074_a2",
+    "scan": "Oe_1_Bu_14526_0074_a2-L12_05.jpg",
+    "line": 3948,
+    "doc_line": 195
+   },
+   {
+    "uid": "oe1bu14526-10",
+    "surface": "Ląd",
+    "page": 6,
+    "page_id": "0060_a1",
+    "scan": "Oe_1_Bu_14526_0060_a1-L10_06.jpg",
+    "line": 3082,
+    "doc_line": 174
+   },
+   {
+    "uid": "oe1bu14526-9",
+    "surface": "Ląd",
+    "page": 5,
+    "page_id": "0051_a2",
+    "scan": "Oe_1_Bu_14526_0051_a2-L9_05.jpg",
+    "line": 2643,
+    "doc_line": 115
+   },
+   {
+    "uid": "oe1bu14526-8",
+    "surface": "Ląd",
+    "page": 20,
+    "page_id": "0047_a1",
+    "scan": "Oe_1_Bu_14526_0047_a1-L8_20.jpg",
+    "line": 2446,
+    "doc_line": 646
+   },
+   {
+    "uid": "app5314550221-5",
+    "surface": "Landen",
+    "page": 1,
+    "page_id": "0026_a",
+    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
+    "line": 30,
+    "doc_line": 2
+   }
+  ]
+ },
+ {
   "entity": "warschau",
   "display": "Warszawa (Warschau)",
   "count": 125,
@@ -34802,1120 +36062,6 @@
     "page_id": "0032_a",
     "scan": "APP_53_968_0_545_0032_a.jpg",
     "line": 197,
-    "doc_line": 2
-   }
-  ]
- },
- {
-  "entity": "lad",
-  "display": "Ląd",
-  "count": 118,
-  "documents": [
-   "agad1169011745-1",
-   "app5314550221-1",
-   "app5314550221-2",
-   "app5314550221-3",
-   "app5314550221-4",
-   "app5314550221-5",
-   "app5314550221-6",
-   "app53170koningr115-2",
-   "app53170koningr116-2",
-   "app53170koningr118-10",
-   "app53170koningr118-22",
-   "app53170koningr118-24",
-   "app53170koningr118-8",
-   "app53170koningr145-1",
-   "app53170koningr153-1",
-   "app5320pozgr1181-1",
-   "kdw-1",
-   "kdw-11",
-   "kdw-13",
-   "kdw-14",
-   "kdw-15",
-   "kdw-16",
-   "kdw-17",
-   "kdw-18",
-   "kdw-2",
-   "kdw-22",
-   "kdw-23",
-   "kdw-26",
-   "kdw-27",
-   "kdw-28",
-   "kdw-29",
-   "kdw-30",
-   "kdw-31",
-   "kdw-4",
-   "kdw-5",
-   "kdw-7",
-   "kdw-8",
-   "oe1bu14526-10",
-   "oe1bu14526-11",
-   "oe1bu14526-12",
-   "oe1bu14526-14",
-   "oe1bu14526-8",
-   "oe1bu14526-9"
-  ],
-  "mentions": [
-   {
-    "uid": "kdw-1",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0001_a",
-    "scan": "",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-1",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0001_a",
-    "scan": "",
-    "line": 8,
-    "doc_line": 6
-   },
-   {
-    "uid": "kdw-2",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0002_a",
-    "scan": "",
-    "line": 12,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-2",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0002_a",
-    "scan": "",
-    "line": 13,
-    "doc_line": 3
-   },
-   {
-    "uid": "kdw-2",
-    "surface": "Landense",
-    "page": 1,
-    "page_id": "0002_a",
-    "scan": "",
-    "line": 14,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-2",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0002_a",
-    "scan": "",
-    "line": 15,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-2",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0002_a",
-    "scan": "",
-    "line": 15,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-22",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0022_a",
-    "scan": "",
-    "line": 264,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-22",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0022_a",
-    "scan": "",
-    "line": 264,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-22",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0022_a",
-    "scan": "",
-    "line": 266,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-22",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0022_a",
-    "scan": "",
-    "line": 267,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-22",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0022_a",
-    "scan": "",
-    "line": 267,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-4",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0004_a",
-    "scan": "",
-    "line": 26,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-4",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0004_a",
-    "scan": "",
-    "line": 27,
-    "doc_line": 3
-   },
-   {
-    "uid": "kdw-4",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0004_a",
-    "scan": "",
-    "line": 28,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-4",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0004_a",
-    "scan": "",
-    "line": 28,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-4",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0004_a",
-    "scan": "",
-    "line": 29,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-4",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0004_a",
-    "scan": "",
-    "line": 29,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-4",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0004_a",
-    "scan": "",
-    "line": 29,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-5",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "",
-    "line": 33,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-5",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0005_a",
-    "scan": "",
-    "line": 37,
-    "doc_line": 6
-   },
-   {
-    "uid": "kdw-23",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0023_a",
-    "scan": "",
-    "line": 271,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-23",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0023_a",
-    "scan": "",
-    "line": 274,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-7",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0007_a",
-    "scan": "",
-    "line": 78,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-7",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0007_a",
-    "scan": "",
-    "line": 82,
-    "doc_line": 6
-   },
-   {
-    "uid": "kdw-8",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0008_a",
-    "scan": "",
-    "line": 88,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-26",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0026_a",
-    "scan": "",
-    "line": 292,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-26",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0026_a",
-    "scan": "",
-    "line": 295,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-27",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0027_a",
-    "scan": "",
-    "line": 299,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-27",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0027_a",
-    "scan": "",
-    "line": 302,
-    "doc_line": 5
-   },
-   {
-    "uid": "app5314550221-4",
-    "surface": "Landen",
-    "page": 1,
-    "page_id": "0025_a",
-    "scan": "APP_53_1455_0_2_21_0025_a-L4_01.jpg",
-    "line": 23,
-    "doc_line": 2
-   },
-   {
-    "uid": "app5314550221-4",
-    "surface": "Landen",
-    "page": 1,
-    "page_id": "0025_a",
-    "scan": "APP_53_1455_0_2_21_0025_a-L4_01.jpg",
-    "line": 23,
-    "doc_line": 2
-   },
-   {
-    "uid": "app5314550221-4",
-    "surface": "Landensi",
-    "page": 1,
-    "page_id": "0025_a",
-    "scan": "APP_53_1455_0_2_21_0025_a-L4_01.jpg",
-    "line": 23,
-    "doc_line": 2
-   },
-   {
-    "uid": "app5314550221-4",
-    "surface": "Landen",
-    "page": 2,
-    "page_id": "0026_a",
-    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
-    "line": 26,
-    "doc_line": 4
-   },
-   {
-    "uid": "app5314550221-4",
-    "surface": "Landen",
-    "page": 2,
-    "page_id": "0026_a",
-    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
-    "line": 26,
-    "doc_line": 4
-   },
-   {
-    "uid": "app5314550221-4",
-    "surface": "Landen",
-    "page": 2,
-    "page_id": "0026_a",
-    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
-    "line": 26,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-28",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0028_a",
-    "scan": "",
-    "line": 306,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-28",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0028_a",
-    "scan": "",
-    "line": 307,
-    "doc_line": 3
-   },
-   {
-    "uid": "kdw-28",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0028_a",
-    "scan": "",
-    "line": 308,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-28",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0028_a",
-    "scan": "",
-    "line": 308,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-28",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0028_a",
-    "scan": "",
-    "line": 309,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-28",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0028_a",
-    "scan": "",
-    "line": 309,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-29",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0029_a",
-    "scan": "",
-    "line": 313,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-29",
-    "surface": "Landensi",
-    "page": 1,
-    "page_id": "0029_a",
-    "scan": "",
-    "line": 315,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-29",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0029_a",
-    "scan": "",
-    "line": 316,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-30",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0030_a",
-    "scan": "",
-    "line": 320,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-30",
-    "surface": "Landensi",
-    "page": 1,
-    "page_id": "0030_a",
-    "scan": "",
-    "line": 322,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-31",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0031_a",
-    "scan": "",
-    "line": 327,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-31",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0031_a",
-    "scan": "",
-    "line": 329,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-31",
-    "surface": "Landensi",
-    "page": 1,
-    "page_id": "0031_a",
-    "scan": "",
-    "line": 329,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-31",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0031_a",
-    "scan": "",
-    "line": 330,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-11",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0011_a",
-    "scan": "",
-    "line": 108,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-11",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0011_a",
-    "scan": "",
-    "line": 111,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-11",
-    "surface": "Landense",
-    "page": 1,
-    "page_id": "0011_a",
-    "scan": "",
-    "line": 111,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-11",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0011_a",
-    "scan": "",
-    "line": 112,
-    "doc_line": 6
-   },
-   {
-    "uid": "kdw-11",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0011_a",
-    "scan": "",
-    "line": 112,
-    "doc_line": 6
-   },
-   {
-    "uid": "app5314550221-1",
-    "surface": "Landensi",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "APP_53_1455_0_2_21_0013_a-L2_01.jpg",
-    "line": 4,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-13",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "",
-    "line": 134,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-13",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "",
-    "line": 134,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-13",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "",
-    "line": 135,
-    "doc_line": 3
-   },
-   {
-    "uid": "kdw-13",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "",
-    "line": 136,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-13",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "",
-    "line": 136,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-13",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "",
-    "line": 138,
-    "doc_line": 6
-   },
-   {
-    "uid": "kdw-13",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0013_a",
-    "scan": "",
-    "line": 138,
-    "doc_line": 6
-   },
-   {
-    "uid": "kdw-14",
-    "surface": "Landensi",
-    "page": 1,
-    "page_id": "0014_a",
-    "scan": "",
-    "line": 143,
-    "doc_line": 3
-   },
-   {
-    "uid": "kdw-15",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0015_a",
-    "scan": "",
-    "line": 150,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-15",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0015_a",
-    "scan": "",
-    "line": 151,
-    "doc_line": 3
-   },
-   {
-    "uid": "kdw-16",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0016_a",
-    "scan": "",
-    "line": 159,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-16",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0016_a",
-    "scan": "",
-    "line": 162,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-16",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0016_a",
-    "scan": "",
-    "line": 162,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-16",
-    "surface": "Landensi",
-    "page": 1,
-    "page_id": "0016_a",
-    "scan": "",
-    "line": 162,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-16",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0016_a",
-    "scan": "",
-    "line": 162,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-17",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0017_a",
-    "scan": "",
-    "line": 184,
-    "doc_line": 4
-   },
-   {
-    "uid": "kdw-17",
-    "surface": "Landensis3",
-    "page": 1,
-    "page_id": "0017_a",
-    "scan": "",
-    "line": 185,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-17",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0017_a",
-    "scan": "",
-    "line": 185,
-    "doc_line": 5
-   },
-   {
-    "uid": "kdw-18",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0018_a",
-    "scan": "",
-    "line": 199,
-    "doc_line": 2
-   },
-   {
-    "uid": "kdw-18",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0018_a",
-    "scan": "",
-    "line": 200,
-    "doc_line": 3
-   },
-   {
-    "uid": "kdw-18",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0018_a",
-    "scan": "",
-    "line": 201,
-    "doc_line": 4
-   },
-   {
-    "uid": "app5314550221-3",
-    "surface": "Landen",
-    "page": 2,
-    "page_id": "0015_a",
-    "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
-    "line": 19,
-    "doc_line": 4
-   },
-   {
-    "uid": "app5314550221-3",
-    "surface": "Landensi",
-    "page": 2,
-    "page_id": "0015_a",
-    "scan": "APP_53_1455_0_2_21_0015_a-L3_02.jpg",
-    "line": 19,
-    "doc_line": 4
-   },
-   {
-    "uid": "app5314550221-2",
-    "surface": "Landen",
-    "page": 2,
-    "page_id": "0014_a",
-    "scan": "APP_53_1455_0_2_21_0014_a-L3_01.jpg",
-    "line": 11,
-    "doc_line": 4
-   },
-   {
-    "uid": "app5314550221-6",
-    "surface": "Landensem",
-    "page": 1,
-    "page_id": "0066_a",
-    "scan": "APP_53_1455_0_2_21_0066_a-L6_01.jpg",
-    "line": 34,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr115-2",
-    "surface": "Landensem",
-    "page": 1,
-    "page_id": "0036_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-    "line": 9,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr115-2",
-    "surface": "Landensem",
-    "page": 1,
-    "page_id": "0036_a1",
-    "scan": "APP_53_17_0_Konin_Gr_115_0036_a1-L2_01.jpg",
-    "line": 11,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr116-2",
-    "surface": "Landensem",
-    "page": 1,
-    "page_id": "0079_a1",
-    "scan": "APP_53_17_0_Konin_Gr_116_0079_a1-L2_01.jpg",
-    "line": 11,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Lądzkiego",
-    "page": 2,
-    "page_id": "0655_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0655_a2-L1_02.jpg",
-    "line": 9,
-    "doc_line": 6
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Lądzki",
-    "page": 61,
-    "page_id": "0685_a1",
-    "scan": "APP_53_17_0_Konin_Gr_145_0685_a1-L1_61.jpg",
-    "line": 189,
-    "doc_line": 127
-   },
-   {
-    "uid": "app53170koningr145-1",
-    "surface": "Lądzkiem",
-    "page": 62,
-    "page_id": "0685_a2",
-    "scan": "APP_53_17_0_Konin_Gr_145_0685_a2-L1_62.jpg",
-    "line": 192,
-    "doc_line": 129
-   },
-   {
-    "uid": "app53170koningr118-8",
-    "surface": "Landens",
-    "page": 1,
-    "page_id": "0396_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0396_a2-L8_01.jpg",
-    "line": 35,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr118-10",
-    "surface": "Landensem",
-    "page": 1,
-    "page_id": "0416_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
-    "line": 46,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr118-10",
-    "surface": "Landen[sis]",
-    "page": 1,
-    "page_id": "0416_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0416_a2-L10_01.jpg",
-    "line": 47,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr118-22",
-    "surface": "Landensem",
-    "page": 1,
-    "page_id": "0622_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
-    "line": 117,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr118-22",
-    "surface": "Landensem",
-    "page": 1,
-    "page_id": "0622_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0622_a2-L23_01.jpg",
-    "line": 117,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr118-24",
-    "surface": "Landensem",
-    "page": 1,
-    "page_id": "0626_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg",
-    "line": 132,
-    "doc_line": 2
-   },
-   {
-    "uid": "app53170koningr118-24",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0626_a2",
-    "scan": "APP_53_17_0_Konin_Gr_118_0626_a2-L24_01.jpg",
-    "line": 133,
-    "doc_line": 3
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "1391_a2",
-    "scan": "APP_53_17_0_Konin_Gr_153_1391_a2-L1_01.jpg",
-    "line": 3,
-    "doc_line": 1
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 2,
-    "page_id": "1392_a1",
-    "scan": "APP_53_17_0_Konin_Gr_153_1392_a1-L1_02.jpg",
-    "line": 8,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensem",
-    "page": 2,
-    "page_id": "1392_a1",
-    "scan": "APP_53_17_0_Konin_Gr_153_1392_a1-L1_02.jpg",
-    "line": 8,
-    "doc_line": 5
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 3,
-    "page_id": "1392_a2",
-    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
-    "line": 11,
-    "doc_line": 7
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 3,
-    "page_id": "1392_a2",
-    "scan": "APP_53_17_0_Konin_Gr_153_1392_a2-L1_03.jpg",
-    "line": 11,
-    "doc_line": 7
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 5,
-    "page_id": "1393_a2",
-    "scan": "APP_53_17_0_Konin_Gr_153_1393_a2-L1_05.jpg",
-    "line": 17,
-    "doc_line": 11
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 6,
-    "page_id": "1394_a1",
-    "scan": "APP_53_17_0_Konin_Gr_153_1394_a1-L1_06.jpg",
-    "line": 20,
-    "doc_line": 13
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 17,
-    "page_id": "1399_a2",
-    "scan": "APP_53_17_0_Konin_Gr_153_1399_a2-L1_17.jpg",
-    "line": 66,
-    "doc_line": 48
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 17,
-    "page_id": "1399_a2",
-    "scan": "APP_53_17_0_Konin_Gr_153_1399_a2-L1_17.jpg",
-    "line": 67,
-    "doc_line": 49
-   },
-   {
-    "uid": "app53170koningr153-1",
-    "surface": "Landensis",
-    "page": 21,
-    "page_id": "1401_a2",
-    "scan": "APP_53_17_0_Konin_Gr_153_1401_a2-L1_21.jpg",
-    "line": 86,
-    "doc_line": 64
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Landensis",
-    "page": 1,
-    "page_id": "0161_a",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_a-L1_01.jpg",
-    "line": 40,
-    "doc_line": 38
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Landensis",
-    "page": 2,
-    "page_id": "0161_b",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-    "line": 44,
-    "doc_line": 39
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Landensem",
-    "page": 2,
-    "page_id": "0161_b",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0161_b-L1_02.jpg",
-    "line": 44,
-    "doc_line": 39
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Landensem",
-    "page": 3,
-    "page_id": "0162_a",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0162_a-L1_03.jpg",
-    "line": 47,
-    "doc_line": 40
-   },
-   {
-    "uid": "app5320pozgr1181-1",
-    "surface": "Landensem",
-    "page": 4,
-    "page_id": "0162_b",
-    "scan": "APP_53_20_0_Poznan_Gr_1181_0162_b-L1_04.jpg",
-    "line": 50,
-    "doc_line": 41
-   },
-   {
-    "uid": "agad1169011745-1",
-    "surface": "Ląd",
-    "page": 1,
-    "page_id": "0401_a1",
-    "scan": "AGAD_1_169_0_1_1745_0401_a1-L1_01.jpg",
-    "line": 17,
-    "doc_line": 15
-   },
-   {
-    "uid": "oe1bu14526-14",
-    "surface": "Ląd",
-    "page": 5,
-    "page_id": "0084_a2",
-    "scan": "Oe_1_Bu_14526_0084_a2-L14_05.jpg",
-    "line": 4532,
-    "doc_line": 163
-   },
-   {
-    "uid": "oe1bu14526-11",
-    "surface": "Ląd",
-    "page": 5,
-    "page_id": "0068_a2",
-    "scan": "Oe_1_Bu_14526_0068_a2-L11_05.jpg",
-    "line": 3510,
-    "doc_line": 157
-   },
-   {
-    "uid": "oe1bu14526-12",
-    "surface": "Ląd",
-    "page": 5,
-    "page_id": "0074_a2",
-    "scan": "Oe_1_Bu_14526_0074_a2-L12_05.jpg",
-    "line": 3948,
-    "doc_line": 195
-   },
-   {
-    "uid": "oe1bu14526-10",
-    "surface": "Ląd",
-    "page": 6,
-    "page_id": "0060_a1",
-    "scan": "Oe_1_Bu_14526_0060_a1-L10_06.jpg",
-    "line": 3082,
-    "doc_line": 174
-   },
-   {
-    "uid": "oe1bu14526-9",
-    "surface": "Ląd",
-    "page": 5,
-    "page_id": "0051_a2",
-    "scan": "Oe_1_Bu_14526_0051_a2-L9_05.jpg",
-    "line": 2643,
-    "doc_line": 115
-   },
-   {
-    "uid": "oe1bu14526-8",
-    "surface": "Ląd",
-    "page": 20,
-    "page_id": "0047_a1",
-    "scan": "Oe_1_Bu_14526_0047_a1-L8_20.jpg",
-    "line": 2446,
-    "doc_line": 646
-   },
-   {
-    "uid": "app5314550221-5",
-    "surface": "Landen",
-    "page": 1,
-    "page_id": "0026_a",
-    "scan": "APP_53_1455_0_2_21_0026_a-L5_01.jpg",
-    "line": 30,
     "doc_line": 2
    }
   ]

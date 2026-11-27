@@ -88,13 +88,21 @@ conscription); *sołtys* sołtys (village headman); *podymne* hearth tax.
   Drzewce forest to eighteen settlers. Nowa Wieś here is the estate's
   manor farm, in Wąsicki's list of the estate's farms (the editor's rule on
   the common name).
-- No hand-made link has been written yet.
+- **The hand-made link** `wasicki-lease-1806` (the editor's yes, 2026-11-27):
+  pp. 174-176 against the lease of 1806 (APP 53/968/0/-/801, document 3).
+  Every figure was read in the lease and agrees: 100 Magdeburg Hufen, eighteen
+  takers (sixteen of 5 Hufen, two of 10), four free years, 30 Reichsthaler a
+  Hufe at Midsummer and Christmas, 15 + 5 + 1 = 21 Morgen for the teacher, the
+  Schulz and the churchyard. Wąsicki's "1805" for the settlers' coming fits
+  the lease, whose free years run to Christmas 1808; it was engrossed in
+  March 1806.
 
 ## Open
 
 - The editor's look, and the word to publish.
-- The Poznań department's table (pp. 162-167) could be transcribed if it is
-  wanted for questions.
+- The Poznań department's table (pp. 162-167) is to be transcribed (the
+  editor, 2026-11-27), into a spreadsheet first for their review, the
+  vertical braces that share a figure between two rows marked (to-do t919).
 - Copyright: the article (1953) is presumably still protected; the Licences
   page says the modern works on the Literature page are outside CC BY.
 

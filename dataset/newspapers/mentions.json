@@ -1,5 +1,27 @@
 [
  {
+  "kind": "person",
+  "entity": "miaczynski",
+  "display": "Stanisław Miączyński",
+  "surface": "Miączyński",
+  "work": "dziennikpoznanski18791220",
+  "cite": "Dziennik Poznański (1879)",
+  "passage": "item",
+  "line": 1,
+  "context": "Włodzimierz hr. Miączyński,"
+ },
+ {
+  "kind": "person",
+  "entity": "miaczynski",
+  "display": "Stanisław Miączyński",
+  "surface": "Miączyński",
+  "work": "dziennikpoznanski18791220",
+  "cite": "Dziennik Poznański (1879)",
+  "passage": "item",
+  "line": 10,
+  "context": "Władysław hr. Miączyński"
+ },
+ {
   "kind": "place",
   "entity": "trabczyn",
   "display": "Trąbczyn",
@@ -353,6 +375,17 @@
  },
  {
   "kind": "place",
+  "entity": "lad",
+  "display": "Ląd",
+  "surface": "Lądu",
+  "work": "luteraniezagorow",
+  "cite": "Luteranie Konin, bd. (the site © 2011)",
+  "passage": "item",
+  "line": 5,
+  "context": "W XVI wieku ruch reformacyjny prowadzony przez zakonników z Lądu."
+ },
+ {
+  "kind": "place",
   "entity": "grodziec",
   "display": "Grodziec",
   "surface": "Grodźca",
@@ -540,9 +573,42 @@
  },
  {
   "kind": "person",
+  "entity": "miaczynski",
+  "display": "Stanisław Miączyński",
+  "surface": "Miączyński",
+  "work": "twojaslupca20150706",
+  "cite": "TwojaSłupca (2015)",
+  "passage": "item",
+  "line": 9,
+  "context": "Historia Trąbczyna jest bardzo bogata. Po raz pierwszy miejscowość Trąbczyn, a raczej Trampczin wymieniana jest w średniowiecznym dokumencie z 1240 roku. Dotyczy on nadania przez arcybiskupa gnieźnieńskiego dziesięcin klasztorowi Cystersów w Lądzie z kilku wsi, w tym z Trąbczyna. Pierwszym udokumentowanym właścicielem wsi z nadania księcia Bolesława Pobożnego był Janek, syn Szymona. Po nim następują kolejni dziedzice: komes lądzki Mikołaj, komes Jan i Przedpełk. Do końca XVII w. dobra Trąbczyńskie znajdują się w rękach rodu Trąbczyńskich herbu Dryja. Później właściciele zmieniali się jeszcze kilkakrotnie. Wielu dziedziców Trąbczyna i ich potomków brało czynny udział w walkach narodowo- wyzwoleńczych. Byli to m.in. Antoni Prusimski, Stanisław hrabia Miączyński, czy Aleksander i Włodzimierz Miączyński. Aby uczcić ich pamięć i przybliżyć młodemu pokoleniu historię małej Ojczyzny wczoraj w Trąbczynie zorganizowano obchody 775- lecia powstania wsi."
+ },
+ {
+  "kind": "person",
+  "entity": "miaczynski",
+  "display": "Stanisław Miączyński",
+  "surface": "Miączyński",
+  "work": "twojaslupca20150706",
+  "cite": "TwojaSłupca (2015)",
+  "passage": "item",
+  "line": 9,
+  "context": "Historia Trąbczyna jest bardzo bogata. Po raz pierwszy miejscowość Trąbczyn, a raczej Trampczin wymieniana jest w średniowiecznym dokumencie z 1240 roku. Dotyczy on nadania przez arcybiskupa gnieźnieńskiego dziesięcin klasztorowi Cystersów w Lądzie z kilku wsi, w tym z Trąbczyna. Pierwszym udokumentowanym właścicielem wsi z nadania księcia Bolesława Pobożnego był Janek, syn Szymona. Po nim następują kolejni dziedzice: komes lądzki Mikołaj, komes Jan i Przedpełk. Do końca XVII w. dobra Trąbczyńskie znajdują się w rękach rodu Trąbczyńskich herbu Dryja. Później właściciele zmieniali się jeszcze kilkakrotnie. Wielu dziedziców Trąbczyna i ich potomków brało czynny udział w walkach narodowo- wyzwoleńczych. Byli to m.in. Antoni Prusimski, Stanisław hrabia Miączyński, czy Aleksander i Włodzimierz Miączyński. Aby uczcić ich pamięć i przybliżyć młodemu pokoleniu historię małej Ojczyzny wczoraj w Trąbczynie zorganizowano obchody 775- lecia powstania wsi."
+ },
+ {
+  "kind": "person",
   "entity": "prusimski",
   "display": "Antoni Prusimski, Starost of Niszczewice",
   "surface": "Prusimski",
+  "work": "twojaslupca20150706",
+  "cite": "TwojaSłupca (2015)",
+  "passage": "item",
+  "line": 9,
+  "context": "Historia Trąbczyna jest bardzo bogata. Po raz pierwszy miejscowość Trąbczyn, a raczej Trampczin wymieniana jest w średniowiecznym dokumencie z 1240 roku. Dotyczy on nadania przez arcybiskupa gnieźnieńskiego dziesięcin klasztorowi Cystersów w Lądzie z kilku wsi, w tym z Trąbczyna. Pierwszym udokumentowanym właścicielem wsi z nadania księcia Bolesława Pobożnego był Janek, syn Szymona. Po nim następują kolejni dziedzice: komes lądzki Mikołaj, komes Jan i Przedpełk. Do końca XVII w. dobra Trąbczyńskie znajdują się w rękach rodu Trąbczyńskich herbu Dryja. Później właściciele zmieniali się jeszcze kilkakrotnie. Wielu dziedziców Trąbczyna i ich potomków brało czynny udział w walkach narodowo- wyzwoleńczych. Byli to m.in. Antoni Prusimski, Stanisław hrabia Miączyński, czy Aleksander i Włodzimierz Miączyński. Aby uczcić ich pamięć i przybliżyć młodemu pokoleniu historię małej Ojczyzny wczoraj w Trąbczynie zorganizowano obchody 775- lecia powstania wsi."
+ },
+ {
+  "kind": "person",
+  "entity": "miaczynski-wlodzimierz",
+  "display": "Włodzimierz Miączyński",
+  "surface": "Miączyński",
   "work": "twojaslupca20150706",
   "cite": "TwojaSłupca (2015)",
   "passage": "item",
@@ -573,6 +639,28 @@
  },
  {
   "kind": "place",
+  "entity": "lad",
+  "display": "Ląd",
+  "surface": "Lądzie",
+  "work": "twojaslupca20150706",
+  "cite": "TwojaSłupca (2015)",
+  "passage": "item",
+  "line": 9,
+  "context": "Historia Trąbczyna jest bardzo bogata. Po raz pierwszy miejscowość Trąbczyn, a raczej Trampczin wymieniana jest w średniowiecznym dokumencie z 1240 roku. Dotyczy on nadania przez arcybiskupa gnieźnieńskiego dziesięcin klasztorowi Cystersów w Lądzie z kilku wsi, w tym z Trąbczyna. Pierwszym udokumentowanym właścicielem wsi z nadania księcia Bolesława Pobożnego był Janek, syn Szymona. Po nim następują kolejni dziedzice: komes lądzki Mikołaj, komes Jan i Przedpełk. Do końca XVII w. dobra Trąbczyńskie znajdują się w rękach rodu Trąbczyńskich herbu Dryja. Później właściciele zmieniali się jeszcze kilkakrotnie. Wielu dziedziców Trąbczyna i ich potomków brało czynny udział w walkach narodowo- wyzwoleńczych. Byli to m.in. Antoni Prusimski, Stanisław hrabia Miączyński, czy Aleksander i Włodzimierz Miączyński. Aby uczcić ich pamięć i przybliżyć młodemu pokoleniu historię małej Ojczyzny wczoraj w Trąbczynie zorganizowano obchody 775- lecia powstania wsi."
+ },
+ {
+  "kind": "place",
+  "entity": "lad",
+  "display": "Ląd",
+  "surface": "lądzki",
+  "work": "twojaslupca20150706",
+  "cite": "TwojaSłupca (2015)",
+  "passage": "item",
+  "line": 9,
+  "context": "Historia Trąbczyna jest bardzo bogata. Po raz pierwszy miejscowość Trąbczyn, a raczej Trampczin wymieniana jest w średniowiecznym dokumencie z 1240 roku. Dotyczy on nadania przez arcybiskupa gnieźnieńskiego dziesięcin klasztorowi Cystersów w Lądzie z kilku wsi, w tym z Trąbczyna. Pierwszym udokumentowanym właścicielem wsi z nadania księcia Bolesława Pobożnego był Janek, syn Szymona. Po nim następują kolejni dziedzice: komes lądzki Mikołaj, komes Jan i Przedpełk. Do końca XVII w. dobra Trąbczyńskie znajdują się w rękach rodu Trąbczyńskich herbu Dryja. Później właściciele zmieniali się jeszcze kilkakrotnie. Wielu dziedziców Trąbczyna i ich potomków brało czynny udział w walkach narodowo- wyzwoleńczych. Byli to m.in. Antoni Prusimski, Stanisław hrabia Miączyński, czy Aleksander i Włodzimierz Miączyński. Aby uczcić ich pamięć i przybliżyć młodemu pokoleniu historię małej Ojczyzny wczoraj w Trąbczynie zorganizowano obchody 775- lecia powstania wsi."
+ },
+ {
+  "kind": "place",
   "entity": "trabczyn",
   "display": "Trąbczyn",
   "surface": "Trąbczyna",
@@ -587,6 +675,17 @@
   "entity": "trabczyn",
   "display": "Trąbczyn",
   "surface": "Trąbczyn",
+  "work": "twojaslupca20150706",
+  "cite": "TwojaSłupca (2015)",
+  "passage": "item",
+  "line": 9,
+  "context": "Historia Trąbczyna jest bardzo bogata. Po raz pierwszy miejscowość Trąbczyn, a raczej Trampczin wymieniana jest w średniowiecznym dokumencie z 1240 roku. Dotyczy on nadania przez arcybiskupa gnieźnieńskiego dziesięcin klasztorowi Cystersów w Lądzie z kilku wsi, w tym z Trąbczyna. Pierwszym udokumentowanym właścicielem wsi z nadania księcia Bolesława Pobożnego był Janek, syn Szymona. Po nim następują kolejni dziedzice: komes lądzki Mikołaj, komes Jan i Przedpełk. Do końca XVII w. dobra Trąbczyńskie znajdują się w rękach rodu Trąbczyńskich herbu Dryja. Później właściciele zmieniali się jeszcze kilkakrotnie. Wielu dziedziców Trąbczyna i ich potomków brało czynny udział w walkach narodowo- wyzwoleńczych. Byli to m.in. Antoni Prusimski, Stanisław hrabia Miączyński, czy Aleksander i Włodzimierz Miączyński. Aby uczcić ich pamięć i przybliżyć młodemu pokoleniu historię małej Ojczyzny wczoraj w Trąbczynie zorganizowano obchody 775- lecia powstania wsi."
+ },
+ {
+  "kind": "place",
+  "entity": "trabczyn",
+  "display": "Trąbczyn",
+  "surface": "Trampczin",
   "work": "twojaslupca20150706",
   "cite": "TwojaSłupca (2015)",
   "passage": "item",

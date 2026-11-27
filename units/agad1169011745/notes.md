@@ -190,9 +190,10 @@ spreadsheet again and refuses while the editor's file is in `review/`.
 
 ## Still to do
 
-Nothing waits on the editor. Offered on 2026-10-13 and not answered: the
-modern name of each village (nothing here identifies the 164 places), and a
-sentence on the table in the account of the Hohenlohe-Ingelfingen years.
+Nothing waits on the editor. Offered on 2026-10-13: the modern name of each
+village (nothing here identifies the 164 places), and a sentence on the
+table in the account of the Hohenlohe-Ingelfingen years. The editor declined
+both (2026-11-27).
 
 ## Form and language (taken off the public page, 2026-10-30)
 

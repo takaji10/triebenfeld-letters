@@ -118,12 +118,17 @@ groups:
   items:
   - id: t031-read-the-four-link
     title: Read the four link sentences on the live site
-    kind: task
-    text: Claude wrote four hand-made links between passages of the literature and documents, each with
-      one sentence saying why the two belong together. They appear beside documents 85 and 103 of Oe 1
-      Bü 9454 (Prince Hohenlohe's letters) and under p. 145 of the Materialien (the 1861 collection).
-      When convenient, read these four sentences on the live site and say whether they are right and clear.
-    options: []
+    kind: question
+    text: 'Claude wrote four hand-made links between passages of the literature and documents, each with
+      one sentence saying why the two belong together. On a document''s page they stand in the "About
+      this document" panel at the top, which is closed until you click it, under the heading "In the literature":
+      you saw none on document 85 because the panel was closed (Claude, 2026-11-27). They are beside documents
+      85 and 103 of Oe 1 Bü 9454 (Prince Hohenlohe''s letters) and under p. 145 of the Materialien. Please
+      read the four sentences, and say whether the "In the literature" box should stay in the closed panel
+      or stand open under the document''s text.'
+    options:
+    - Keep it in the closed panel
+    - Show it open under the text
     links:
     - label: Oe 1 Bü 9454, document 85
       href: /documents/oe1bu9454/85/
@@ -133,8 +138,9 @@ groups:
       href: /literature/materialien1861/
     nc: The literature
     note: No record of the editor having read the link sentences.
-    editor_note: I don't see any links when looking at document 85?
-    h: abc0cbcc
+    editor_note: 'I don''t see any links when looking at document 85? / Claude (2026-11-27): the links
+      are in the closed "About this document" panel.'
+    h: ed85ce98
   - id: t032-correct-guradze-s-text
     title: Correct Guradze's text and add its page numbers
     kind: task
@@ -1215,9 +1221,9 @@ groups:
     editor_note: ''
     h: 114e8484
 counts:
-  question: 14
+  question: 15
   decision: 9
-  task: 15
+  task: 14
   claude: 20
   waiting: 8
 total: 66

@@ -200,6 +200,17 @@
    "scan": "APP_53_6_0_36_0642_a1-L1_01.jpg",
    "line": 4,
    "doc_line": 2
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
+   "surface": "Trampczyno",
+   "page": 2,
+   "page_id": "0642_a2",
+   "scan": "APP_53_6_0_36_0642_a2-L2_01.jpg",
+   "line": 6,
+   "doc_line": 3
   }
  ],
  "translation_status": "draft",

@@ -82,11 +82,12 @@ only. Both holdings' pages say so.
 
 As for AGAD 1/174/0/2/73: summaries written in session, claim-checked in
 session on 2026-10-05 (`intake/claim_check.yml`, 14 statements, all supported);
-people Małachowski and Łuszczewski added; era `hohenlohe` for now.
+people Małachowski and Łuszczewski added; era `hohenlohe` at first, the
+restitution era since 2026-11-27 (the editor). The crops approved by the
+editor the same day.
 
 ## Still to do
 
-- The editor's ruling on the era, with 1/174/0/2/73.
 - Reading the English against the scans. (Translated in session on
   2026-10-05 like 1/174/0/2/73: pages in `intake/translation/`, status
   `translated`, untagged; check_translations.py and uncanonical_names.py

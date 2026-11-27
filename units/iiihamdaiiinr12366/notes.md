@@ -233,8 +233,8 @@ February and July 1827) and the timeline's range extended to 1827; a
 paragraph in section VIII of the era essay, whose heading now runs to 1827,
 in both languages; biographies for the new people and additions to those of
 Weigel, the Lichnowski brothers, Grotowski, Schöler, Alopeus and Nesselrode.
-The era is `hohenlohe` for now: the plan leaves it to the editor whether this
-file belongs there or in the restitution era.
+The era was `hohenlohe` until the editor moved the file to the restitution
+era (2026-11-27).
 
 ## Translation (2026-10-04)
 
@@ -291,7 +291,6 @@ statement that document 4 is a copy rests on the scan's hand, not the text.
 
 ## Still to do
 
-- The editor's ruling on the era.
 - The words in `intake/unresolved.md` stand as written. On the three words
   of the Polish judgment ("Assistant", "Rozdayczer[?]", "Likrę[?]") the
   editor has no further reading (2026-10-05); the question is closed.

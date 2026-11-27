@@ -11,6 +11,14 @@
 # 2015), slowo18920104 (the sale notice of 4 January 1892) and
 # luteraniezagorow (the parish's own chronicle of the Zagórów filial, on
 # the Konin parish's website, undated).
+# Forms of the press the register's patterns do not take, kept here so the
+# edition's own matching is not changed by them (as literature/index.yml's
+# `patterns:`).
+patterns:
+  person:
+    # The 2015 report: "czy Aleksander i Włodzimierz Miączyński" - the Count of
+    # the register (the editor, 2026-11-27).
+    miaczynski-wlodzimierz: '(?<=Aleksander i Włodzimierz )Miączyński'
 people:
   glowiecki:
     "Głowiecki": true     # the abbot of Ląd at the funeral (1754): the item is
@@ -29,17 +37,18 @@ people:
                           # the register's man.
   miaczynski:
     # The 2015 report's heirs-list names "Stanisław hrabia Miączyński, czy
-    # Aleksander i Włodzimierz Miączyński". Włodzimierz is the register's
-    # other entry (miaczynski-wlodzimierz, the Count, whose pattern is
-    # pinned to the summons of 1860 and cannot match here); "Stanisław
-    # hrabia Miączyński" and "Aleksander" no ruling of the edition
-    # identifies, and the register's own precedent keeps an unidentified
-    # later Miączyński off Stanisław's entry (not_in app539680669-2, "Graf
-    # Miączyński, owner of Trąbczyn about 1911"). Ruled out until the
-    # editor says otherwise (NEEDS_CONFIRMATION, "The newspapers").
-    "Miączyński": "no: the 2015 report's heirs-list, taken bare; Włodzimierz
-      is the register's miaczynski-wlodzimierz, and 'Stanisław hrabia' and
-      'Aleksander' are identified by nothing the edition holds"
+    # Aleksander i Włodzimierz Miączyński". The editor (2026-11-27): all three
+    # are the edition's - Stanisław is Michalina's husband (this entry);
+    # Aleksander their son, Aleksander Adam Stanisław (1810-1869, in his
+    # father's family block in reference/genealogy.yml, no page of his own);
+    # Włodzimierz the Count (miaczynski-wlodzimierz, through the pattern
+    # above). The report lists them among the heirs who fought in the wars
+    # of national liberation; genealogy.yml has Aleksander an officer of the
+    # November Uprising (Minakowska), and says nothing of the kind of the
+    # other two.
+    "Miączyński": true
+  miaczynski-wlodzimierz:
+    "Miączyński": true    # the report's "Aleksander i Włodzimierz Miączyński"
   prusimski-pawel:
     "Pruſińſkie": true    # "Pana Pawłá Pruſińſkie-go": the dead chamberlain,
                           # the form the pattern was written for
@@ -88,12 +97,17 @@ places:
     "Łędzkiego": true     # the Cistercian convent of Ląd (the print's Łędz-
                           # is Ląd: the editor, 2026-10-16)
     "Łędzki": true        # "Opat Łędzki", the abbot of Ląd
+    # The forms the register's pattern took in from 2026-11-27 (the editor:
+    # "Yes, extend them"):
+    "Lądzie": true        # the 2015 report: "klasztorowi Cystersów w Lądzie"
+    "lądzki": true        # the 2015 report: "komes lądzki Mikołaj", count of Ląd
+    "Lądu": true          # the parish chronicle: "zakonników z Lądu", the monks of Ląd
   olesnica:
     # The village and commune of Oleśnica of the 1937 item, on the highway
     # from Zagórów to Konin: the register's Oleśnica (Oleszyno 1261, the
     # KDW's), the village the gmina of that name was seated at. Claude's
-    # identification from the item's own geography; the editor has not
-    # confirmed it (NEEDS_CONFIRMATION, "The newspapers").
+    # identification from the item's own geography, confirmed by the editor
+    # (2026-11-27).
     "Oleśnica": true
     "Oleśnicę": true
   trabczyn:
@@ -102,19 +116,24 @@ places:
     # the honours' name "Zasłużony dla wsi Trąbczyn" (twice) and the
     # exhibition "775 lat Trąbczyna". The genitive "Trąbczyna" covers the
     # history paragraph's forms and the exhibition's title. The medieval
-    # form "Trampczin" of the report's history paragraph is matched by no
-    # pattern of the register (NEEDS_CONFIRMATION, "The newspapers").
+    # form "Trampczin" of the report's history paragraph is matched since the
+    # register's pattern was widened (the editor, 2026-11-27).
     # Słowo (1892): the estate's sale announced in the press — "Majątek
     # Trąbczyn, w pow. słupeckim, 150 włók, nabyła od hr. Miączyńskiego hr.
     # Władysławowa Wielopolska za 225,000 rs." The transfer the wlodzimierz
     # era's ownership line records ("by 1892 Countess Maria Wielopolska");
     # the count selling is the Miączyński of the years between 1879 and
-    # that transfer, the nephew Władysław.
+    # that transfer, the nephew Władysław. "Władysławowa" is the buyer by her
+    # husband's name: Maria, born Plater-Zyberk, wife of Władysław hr.
+    # Wielopolski (reference/estate_tree.yml) - one woman (settled from the
+    # edition's own record, 2026-11-27, at the editor's word that it was there).
     "Trąbczyn": true
     "Trąbczyna": true
     "Trąbczynie": true    # the funeral at Trąbczyn (1754); the jubilee of
                           # 2015 ("w Trąbczynie zorganizowano obchody", the
                           # ground by the school)
+    "Trampczin": true     # the 2015 report: "Trąbczyn, a raczej Trampczin",
+                          # the medieval form (the pattern widened 2026-11-27)
     "Drommin": true       # the Amtsbezirk Drommin of the 1942 article: the
                           # occupation's name for the commune of Trąbczyn
                           # (the register's renamed name; the editor,

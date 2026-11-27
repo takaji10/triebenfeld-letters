@@ -98,33 +98,31 @@ The index of people and places runs over the items (the editor,
 - **Trąbczyn** ("Trąbczyn", "Trąbczyna", "Trąbczynie" — the headline, the
   lead, the history paragraph, the honours' name twice, the exhibition's
   title, the celebrations): the village the edition stands at; every
-  spelling ruled in. The **"Trampczin"** of the history paragraph is
-  matched by no pattern of the register (whether to extend the pattern
-  waits on the editor, NEEDS_CONFIRMATION, "The newspapers").
-- **Ląd** ("w Lądzie", the count's title "lądzki"): matched by no pattern
-  either — the register's pattern takes "Ląd" bare and "Lądzk..." with the
-  initial capital only, both built for the Kuryer Polski's print; the
-  portal's lower-case and inflected forms slip past it (NEEDS_CONFIRMATION,
-  "The newspapers", with the same question for the 1942 item's Łazinsk and
-  Drommin).
+  spelling ruled in. The **"Trampczin"** of the history paragraph was
+  matched by no pattern of the register until the editor had the pattern
+  widened (2026-11-27); ruled in.
+- **Ląd** ("w Lądzie", the count's title "lądzki"): the register's pattern
+  took "Ląd" bare and "Lądzk..." with the initial capital only, built for
+  the Kuryer Polski's print; widened at the editor's word (2026-11-27) to
+  the inflected forms and the lower-case adjective; both hits ruled in.
 - **Antoni Prusimski** ("Prusimski"): ruled in. The article names him among
   the heirs of Trąbczyn who took part in the wars of national liberation;
   the register's man is Antoni Ostroróg-Prusimski, the Starost of
   Niszczewice, owner of the Trąbczyn estate, of whom the entry's own
   identity says he took part in the uprising of 1794 and lost the estate
   for it — the article's context and the register's man agree.
-- **Miączyński** ("Miączyński", twice): ruled out. The article's
-  heirs-list names "Stanisław hrabia Miączyński, czy Aleksander i
-  Włodzimierz Miączyński". Włodzimierz is the register's other entry
-  (miaczynski-wlodzimierz, the Count of the summons of 1860), whose pattern
-  is pinned to that document and cannot match here; "Stanisław hrabia" and
-  "Aleksander" no ruling of the edition identifies. The register's own
-  precedent keeps an unidentified later Miączyński off Stanisław's entry
-  (its `not_in` for Breyer's "Graf Miączyński" of 1936), and the ruling
-  follows it — ruling the bare surname in would attach Włodzimierz's
-  mention to the person page of Michalina's husband. Whether the editor
-  wants the mentions attached (and to whom) is open (NEEDS_CONFIRMATION,
-  "The newspapers").
+- **Miączyński** ("Miączyński", twice): ruled in (the editor, 2026-11-27:
+  "These are Stanisław Miączyński, Aleksander Miączyński, and Włodzimierz
+  Miączyński, whom I believe are all identified"). "Stanisław hrabia
+  Miączyński" is Michalina's husband (`miaczynski`); Aleksander is their son
+  Aleksander Adam Stanisław (1810-1869), named in his father's family block
+  and with no page of his own; Włodzimierz is the Count
+  (`miaczynski-wlodzimierz`), whose register pattern is pinned to the
+  summons of 1860, so a pattern of the newspapers' own takes the second
+  "Miączyński" for him ("(?<=Aleksander i Włodzimierz )Miączyński",
+  `newspapers/index.yml`). Until 2026-11-27 both hits were ruled out, on
+  the register's precedent of keeping an unidentified Miączyński off
+  Stanisław's entry.
 - **"Wolicki"** — the surname of Józef Wolicki, one of the villagers
   honoured — is caught by the register's pattern for the place Wolica
   (`Wolic\w*`): ruled out as the surname it is, the place not of the

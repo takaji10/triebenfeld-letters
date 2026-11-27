@@ -39,7 +39,7 @@ places:
       source: Rolf Jehke, Territoriale Veränderungen in Deutschland und deutsch verwalteten
         Gebieten 1874-1945, s.v. Amtsbezirk Drommin (last changed 7 February 2021)
       url: https://www.territorial.de/wart//konin/drommin.htm
-    match: Tr[ąa][bmp]c?z[yi]n\w*|Tr[ąa]mbczyn\w*|Trompczyn\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner|Тромбчин\w*
+    match: Tr[ąa][bmp]c?z[yi]n\w*|Tr[ąa]mbczyn\w*|Trampcz[iy]n\w*|Trompczyn\w*|Tromb(?:czin|schino)\w*|Trabryn\w*|Tr(?:ä|ae)bczyn\w*|Prosrzyner|Тромбчин\w*
     tier: Book-confirmed
     variants:
     - Trąbczin
@@ -1172,7 +1172,7 @@ places:
     - '1414: Landensis, Landa'
     - '1415: Landensis'
     - '1418: Landensis, Landa'
-    match: 'Łędzk\w*|Ląd(?:zk\w*)?(?![a-zà-ÿ])|Landens\w*|Landen(?=\[|~)|(?<=Monasterii )Landen|(?<=Coenobium )Landen'
+    match: 'Łędzk\w*|Ląd(?:zk\w*|zie|u|em|owi)?(?![a-zà-ÿ])|lądzk\w*|Landens\w*|Landen(?=\[|~)|(?<=Monasterii )Landen|(?<=Coenobium )Landen'
     tier: Text-confirmed
     variants: []
   sachsen:

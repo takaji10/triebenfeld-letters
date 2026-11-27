@@ -30,8 +30,8 @@
 # straight answer about which part of that is here.
 
 eras:
-  # A working name until the editor names it (the editor, 2026-10-16: a new
-  # era for the Kodeks Dyplomatyczny Wielkopolski). Its one holding is kdw,
+  # Named by the editor on 2026-11-27 ("Trąbczyn in the Middle Ages"; the
+  # era opened 2026-10-16 for the Kodeks Dyplomatyczny Wielkopolski). Its one holding is kdw,
   # twenty-one entries of 1173 to 1440.
   medieval:
     order: 0
@@ -284,8 +284,8 @@ eras:
   # and the servitudes" (slug `liquidation`), and made one on 2026-10-20 at
   # the editor's word, "for better clarity": the lawsuit of 1859 over the
   # colonists' rights in the forest and the liquidation that fixed and then
-  # bought out those rights are one story. Its name is a WORKING NAME until
-  # the editor names it; the slug can stay.
+  # bought out those rights are one story. Its name, "The colonists' land and
+  # forest rights", is the editor's (2026-11-27); the slug stays.
   wlodzimierz:
     order: 5
     status: populated
@@ -360,6 +360,8 @@ eras:
       Morgen herrschaftliches Land aufgegeben, und 1896 wurde der ganze
       Anteil vermessen.
 
+  # Its name, "The twentieth century", is the editor's (2026-11-27: kept,
+  # against Claude's proposal "The German villages to 1945").
   twentieth-century:
     order: 6
     status: populated

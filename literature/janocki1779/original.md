@@ -26,4 +26,4 @@ III.) DE CORRECTURA IURIUM, ET PROCESSUS IUDICIARII TERRESTRIS COMPENDIO: Brevis
 
 IV.) COMITIORUM regni Poloniæ generalium FORMA, VIS, ET EFFECTUS. CRACOVIÆ, in Officina Typographica FRANCISCI CÆSARII, Anno a partu Virginis 1644. 4.
 
-Libellus rarissimus. Praemissa ad CHRISTOPHORUM SULOWSKI, Ravensem Palatinum, Epistolam: auctor ipse, STANISLAUS LOCHOWSKI, Castri Opocznensis Notarius, Miedzyborze xi mensis Ianuarii, MDCXLIIII. subscripsit.
+Libellus rarissimus. Praemissa ad CHRISTOPHORUM SULOWSKI, Ravensem Palatinum, Epistolam: auctor ipse, STANISLAUS LOCHOWSKI, Castri Opocznensis Notarius, Miedzyboreae xi mensis Ianuarii, MDCXLIIII. subscripsit.

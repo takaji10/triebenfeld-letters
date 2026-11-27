@@ -589,6 +589,22 @@ app539680801-3:
       en: VI. Kapitel.
       key: c08
     work: guradze1898
+- de: 'Wąsicki (1953) berichtet von den achtzehn Kolonistenfamilien, die 1805 auf die Güter des Fürsten Hohenlohe-Ingelfingen geholt wurden, und von den 100 łany, meist Wald, die für sie bestimmt wurden. Der am 21. März 1806 ausgefertigte Erbpachtvertrag (APP 53/968/0/-/801, Dokument 3) ist dieser Vertrag: 100 Magdeburgische Hufen des Waldes von Drzewce an achtzehn namentlich genannte Siedler, vier Freijahre, danach 30 Reichstaler je Hufe im Jahr zu Johanni und Weihnachten, und 21 Morgen für den Lehrer, den Schulzen und den Kirchhof, wie Wąsicki sie angibt.'
+  en: 'Wąsicki (1953) tells of the eighteen families of colonists brought in on Prince Hohenlohe-Ingelfingen''s estates in 1805 and of the 100 łany set aside for them, mostly forest. The hereditary lease engrossed on 21 March 1806 (APP 53/968/0/-/801, document 3) is that contract: 100 Magdeburg Hufen of the forest of Drzewce let to eighteen named settlers, four free years, then 30 Reichsthaler a Hufe a year at Midsummer and Christmas, and 21 Morgen for the teacher, the Schulz and the churchyard, as Wąsicki gives them.'
+  id: wasicki-lease-1806
+  works:
+  - cite: Wąsicki (1953)
+    pages:
+    - de: S. 174
+      en: p. 174
+      key: '174'
+    - de: S. 175
+      en: p. 175
+      key: '175'
+    - de: S. 176
+      en: p. 176
+      key: '176'
+    work: wasicki1953
 ihagrrep7cnr1414-1:
 - de: Der Polski Słownik Biograficzny (Pachoński, 1982) sagt, Antoni Prusimski sei Ende 1794 mit seiner Frau nach Venedig geflohen, dort auch nach dem Basler Frieden tätig geblieben, wie Hoym am 9. Mai 1796 meldete, und Mitte März 1797 von den Österreichern nach Mantua vertrieben worden. Die Akte des auswärtigen Departements fällt in diese Monate. Sie enthält die Depesche des preußischen Residenten in Venedig, Graf Cattaneo, vom 14. Dezember 1796 über Prusimskis zerrüttete Gesundheit und seine Bitte um ein Attest, dass er nicht reisen könne, und das Schreiben des Departements vom 11. Januar 1797, das sie den Ministern Hoym und Schroetter mitteilt. Schrötter antwortete am 29. Januar 1797, es stehe nicht fest, ob Prusimski in Neuostpreußen oder in Südpreußen angesessen sei. Hoyms Bericht vom Mai 1796 ist nicht in der Akte.
   en: The Polski Słownik Biograficzny (Pachoński, 1982) says that Antoni Prusimski fled to Venice with his wife at the end of 1794, stayed active there after the Peace of Basel, as Hoym reported on 9 May 1796, and was driven out to Mantua by the Austrians in the middle of March 1797. The file of the foreign department falls in those months. It holds the dispatch of the Prussian resident at Venice, Count Cattaneo, of 14 December 1796, on Prusimski's ruined health and his request for a certificate that he could not travel, and the department's letter of 11 January 1797 passing it to the ministers Hoym and Schroetter. Schrötter replied on 29 January 1797 that it was not known whether Prusimski was settled in New East Prussia or in South Prussia. Hoym's report of May 1796 is not in the file.
@@ -690,6 +706,17 @@ ihagrrep7cnr3570-1:
       en: p. 583
       key: '583'
     work: pachonski1982
+iiihamdaiiinr12367-6:
+- de: Karwowski (1900) schreibt auf S. 87, dass Karol Bogumił Weygel, ein Breslauer Bankier, die Güter von Zagórów am 1. September 1827 in der Versteigerung kaufte und von den 120.000 złp., die er darauf stehen hatte, nur 56.879 rettete, so dass die Zisterzienserinnen von Ołobok ihre 40.000 złp. verloren. In den Briefen soll der Breslauer Bankier Weigel die Hypothek auf die Güter von Zagórów übernehmen (Oe 1 Bü 9454, Brief 220, 1811), und 1815 meldet Triebenfeld, „Weigel seine 30000 rt“ seien auf Zagórów übertragen (Brief 284); 1830 verlangt Weigel von Warschau Ersatz für seine 30.000 Taler, die aus den Gütern von Trąbczyn gelöscht worden waren (III. HA MdA, III. Nr. 12367, Dokument 6). Das Buch sagt nicht, dass sein Weygel der Weigel der Briefe ist, und die Dokumente erwähnen die Versteigerung nicht.
+  en: Karwowski (1900), p. 87, says that Karol Bogumił Weygel, a banker of Wrocław, bought the Zagórów estates at auction on 1 September 1827 and saved only 56,879 of the 120,000 złp. he had on them, so that the Cistercian nuns of Ołobok lost their 40,000 złp. In the letters the banker Weigel of Breslau is to take over the mortgage on the Zagórów estates (Oe 1 Bü 9454, letter 220, 1811), and in 1815 Triebenfeld reports that "Weigel's 30,000 Reichsthaler" have been moved onto Zagórów (letter 284); in 1830 Weigel asks Warsaw to make good his 30,000 thalers struck off the Trąbczyn estates (III. HA MdA, III. Nr. 12367, document 6). The book does not say that its Weygel is the letters' Weigel, and the documents do not mention the auction.
+  id: karwowski-weigel
+  works:
+  - cite: Karwowski (1900)
+    pages:
+    - de: S. 87
+      en: p. 87
+      key: '87'
+    work: karwowski1900
 oe1bu9454-1:
 - de: Żychliński (1891) sagt, Michalina geborene Prusimska, die Witwe des Grafen Józef Dąmbski, habe im August 1809 den Grafen Stanisław Miączyński geheiratet und ihm die Güter von Trąbczyn zugebracht. In den Briefen an und von dem Fürsten Hohenlohe aus den Jahren 1814 und 1815 ist sie "die Moscinska geborene Prusimska", die die ihr 1807 zurückgegebenen Güter besitzt und beim russischen Generalgouverneur Lanskoy in hoher Gunst steht; ein Brief vom 2. Februar 1815 sagt, "Moscinski, Ehemann der geborenen Prusimska; und Graf Lanskoy, sind Busenfreunde". Moscinski ist die Form, in der die Briefe Miączyński schreiben. Die Briefe nennen kein Datum der Heirat.
   en: Żychliński (1891) says that Michalina, born Prusimska, the widow of Count Józef Dąmbski, married Count Stanisław Miączyński in August 1809 and brought him the Trąbczyn estates. In the letters to and from the Prince of Hohenlohe of 1814 and 1815 she is "the Moscinska born Prusimska", who holds the estates given back to her in 1807 and stands high in favour with the Russian governor general Lanskoy; a letter of 2 February 1815 says that "Moscinski, husband of the born Prusimska" and Lanskoy are bosom friends. Moscinski is the letters' form of Miączyński. The letters give no date for the marriage.
@@ -958,6 +985,16 @@ oe1bu9454-220:
       en: p. 22
       key: '22'
     work: breyer1938
+- de: Karwowski (1900) schreibt auf S. 87, dass Karol Bogumił Weygel, ein Breslauer Bankier, die Güter von Zagórów am 1. September 1827 in der Versteigerung kaufte und von den 120.000 złp., die er darauf stehen hatte, nur 56.879 rettete, so dass die Zisterzienserinnen von Ołobok ihre 40.000 złp. verloren. In den Briefen soll der Breslauer Bankier Weigel die Hypothek auf die Güter von Zagórów übernehmen (Oe 1 Bü 9454, Brief 220, 1811), und 1815 meldet Triebenfeld, „Weigel seine 30000 rt“ seien auf Zagórów übertragen (Brief 284); 1830 verlangt Weigel von Warschau Ersatz für seine 30.000 Taler, die aus den Gütern von Trąbczyn gelöscht worden waren (III. HA MdA, III. Nr. 12367, Dokument 6). Das Buch sagt nicht, dass sein Weygel der Weigel der Briefe ist, und die Dokumente erwähnen die Versteigerung nicht.
+  en: Karwowski (1900), p. 87, says that Karol Bogumił Weygel, a banker of Wrocław, bought the Zagórów estates at auction on 1 September 1827 and saved only 56,879 of the 120,000 złp. he had on them, so that the Cistercian nuns of Ołobok lost their 40,000 złp. In the letters the banker Weigel of Breslau is to take over the mortgage on the Zagórów estates (Oe 1 Bü 9454, letter 220, 1811), and in 1815 Triebenfeld reports that "Weigel's 30,000 Reichsthaler" have been moved onto Zagórów (letter 284); in 1830 Weigel asks Warsaw to make good his 30,000 thalers struck off the Trąbczyn estates (III. HA MdA, III. Nr. 12367, document 6). The book does not say that its Weygel is the letters' Weigel, and the documents do not mention the auction.
+  id: karwowski-weigel
+  works:
+  - cite: Karwowski (1900)
+    pages:
+    - de: S. 87
+      en: p. 87
+      key: '87'
+    work: karwowski1900
 oe1bu9454-242:
 - de: Żychliński (1891) sagt, Michalina geborene Prusimska, die Witwe des Grafen Józef Dąmbski, habe im August 1809 den Grafen Stanisław Miączyński geheiratet und ihm die Güter von Trąbczyn zugebracht. In den Briefen an und von dem Fürsten Hohenlohe aus den Jahren 1814 und 1815 ist sie "die Moscinska geborene Prusimska", die die ihr 1807 zurückgegebenen Güter besitzt und beim russischen Generalgouverneur Lanskoy in hoher Gunst steht; ein Brief vom 2. Februar 1815 sagt, "Moscinski, Ehemann der geborenen Prusimska; und Graf Lanskoy, sind Busenfreunde". Moscinski ist die Form, in der die Briefe Miączyński schreiben. Die Briefe nennen kein Datum der Heirat.
   en: Żychliński (1891) says that Michalina, born Prusimska, the widow of Count Józef Dąmbski, married Count Stanisław Miączyński in August 1809 and brought him the Trąbczyn estates. In the letters to and from the Prince of Hohenlohe of 1814 and 1815 she is "the Moscinska born Prusimska", who holds the estates given back to her in 1807 and stands high in favour with the Russian governor general Lanskoy; a letter of 2 February 1815 says that "Moscinski, husband of the born Prusimska" and Lanskoy are bosom friends. Moscinski is the letters' form of Miączyński. The letters give no date for the marriage.
@@ -1013,6 +1050,16 @@ oe1bu9454-284:
       en: p. 22
       key: '22'
     work: breyer1938
+- de: Karwowski (1900) schreibt auf S. 87, dass Karol Bogumił Weygel, ein Breslauer Bankier, die Güter von Zagórów am 1. September 1827 in der Versteigerung kaufte und von den 120.000 złp., die er darauf stehen hatte, nur 56.879 rettete, so dass die Zisterzienserinnen von Ołobok ihre 40.000 złp. verloren. In den Briefen soll der Breslauer Bankier Weigel die Hypothek auf die Güter von Zagórów übernehmen (Oe 1 Bü 9454, Brief 220, 1811), und 1815 meldet Triebenfeld, „Weigel seine 30000 rt“ seien auf Zagórów übertragen (Brief 284); 1830 verlangt Weigel von Warschau Ersatz für seine 30.000 Taler, die aus den Gütern von Trąbczyn gelöscht worden waren (III. HA MdA, III. Nr. 12367, Dokument 6). Das Buch sagt nicht, dass sein Weygel der Weigel der Briefe ist, und die Dokumente erwähnen die Versteigerung nicht.
+  en: Karwowski (1900), p. 87, says that Karol Bogumił Weygel, a banker of Wrocław, bought the Zagórów estates at auction on 1 September 1827 and saved only 56,879 of the 120,000 złp. he had on them, so that the Cistercian nuns of Ołobok lost their 40,000 złp. In the letters the banker Weigel of Breslau is to take over the mortgage on the Zagórów estates (Oe 1 Bü 9454, letter 220, 1811), and in 1815 Triebenfeld reports that "Weigel's 30,000 Reichsthaler" have been moved onto Zagórów (letter 284); in 1830 Weigel asks Warsaw to make good his 30,000 thalers struck off the Trąbczyn estates (III. HA MdA, III. Nr. 12367, document 6). The book does not say that its Weygel is the letters' Weigel, and the documents do not mention the auction.
+  id: karwowski-weigel
+  works:
+  - cite: Karwowski (1900)
+    pages:
+    - de: S. 87
+      en: p. 87
+      key: '87'
+    work: karwowski1900
 oe1bu9454-85:
 - de: Das schwarze Register führt die dem Fürsten Hohenlohe geschenkten Güter, darunter Trąbczyn, mit einem Wert von etwa 800.000 Talern und 50.000 Talern Jahresertrag, wo der verstorbene König nur eine Schenkung von 6.000 Talern Ertrag gemeint habe. Es sagt, der Fürst habe diesen Ertrag selbst im Kabinett angegeben, als er die Güter gegen die Domäne Krotoszyn tauschen wollte, und der Kabinettsrat Beyme habe den Tausch verhindert. Cölln hielt 1807 dagegen, der Minister Voss habe ihn vereitelt, und die Briefe geben ihm recht. Sie enthalten die Schenkung von 1796; die Ablehnung des Königs vom Dezember 1798 auf den Bericht von Voss, nach dem die auf 8.650 Taler Jahresertrag veranschlagten Güter jetzt 40.500 brächten; die Antwort des Fürsten, seine Güter trügen 41.500 und die Pacht von Krotoszyn sei 30.100; und seine spätere Eingabe.
   en: The black register lists the estates given to the Prince of Hohenlohe, Trąbczyn among them, as worth about 800,000 Thaler and yielding 50,000 a year, where the late King had meant a gift yielding 6,000. It says that the Prince himself gave the cabinet that yield when he tried to exchange the estates for the crown domain of Krotoszyn, and that the cabinet councillor Beyme stopped the exchange. Cölln answered in 1807 that it was the minister Voss who stopped it, and the letters bear him out. They hold the gift of 1796; the King's refusal of December 1798 on Voss's report, by which estates valued at a yield of 8,650 a year now brought 40,500; the Prince's answer, that his estates yielded 41,500 and Krotoszyn's rent was 30,100; and his later petition.

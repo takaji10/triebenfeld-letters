@@ -52,9 +52,9 @@
 - slug: "hohenlohe"
   order: 3
   status: "populated"
-  count: 477
+  count: 456
   first: "1794"
-  last: "1832"
+  last: "1820"
   label_en: "The Hohenlohe-Ingelfingen years"
   label_de: "Die Hohenlohe-Ingelfingener Jahre"
   blurb_en: "Prussia took the region in the Second Partition of Poland in 1793, and in 1796 the King gave the confiscated estate of a Polish insurgent to a Prussian general. He held it for eleven years, sold parts of it and let the rest out to settlers in hereditary lease, and lost it in 1807; his claim to it was argued until 1820. His agent, Peter Friedrich von Triebenfeld, reported on all of it in his letters. One of the estates has two names: Pszczew, which the German papers call Betsche."
@@ -68,8 +68,8 @@
 - slug: "restitution"
   order: 4
   status: "populated"
-  count: 2
-  first: "1820"
+  count: 23
+  first: "1807"
   last: "1834"
   label_en: "The Miączyńska restitution"
   label_de: "Die Restitution der Miączyńska"

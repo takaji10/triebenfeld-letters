@@ -69,7 +69,7 @@ III.) DE CORRECTURA IURIUM, ET PROCESSUS IUDICIARII TERRESTRIS COMPENDIO: Brevis
 
 IV.) COMITIORUM regni Poloniæ generalium FORMA, VIS, ET EFFECTUS. CRACOVIÆ, in Officina Typographica FRANCISCI CÆSARII, Anno a partu Virginis 1644. 4.
 
-Libellus rarissimus. Praemissa ad CHRISTOPHORUM SULOWSKI, Ravensem Palatinum, Epistolam: auctor ipse, STANISLAUS LOCHOWSKI, Castri Opocznensis Notarius, Miedzyborze xi mensis Ianuarii, MDCXLIIII. subscripsit.
+Libellus rarissimus. Praemissa ad CHRISTOPHORUM SULOWSKI, Ravensem Palatinum, Epistolam: auctor ipse, STANISLAUS LOCHOWSKI, Castri Opocznensis Notarius, Miedzyboreae xi mensis Ianuarii, MDCXLIIII. subscripsit.
 
 </div>
 <div class="lit-en" lang="en" markdown="1">
@@ -88,7 +88,7 @@ III.) ON THE CORRECTION OF THE LAWS, AND A COMPENDIUM OF THE TERRESTRIAL JUDICIA
 
 IV.) THE FORM, FORCE AND EFFECT OF THE GENERAL ASSEMBLIES OF THE KINGDOM OF POLAND. Cracow, in the printing shop of Franciscus Caesarius, in the year from the Virgin's childbirth 1644. Quarto.
 
-A most rare little book. The letter prefixed to it, to CHRISTOPHORUS SULOWSKI, Palatine of Rawa: the author himself, STANISLAUS LOCHOWSKI, notary of the castle of Opoczno, subscribed it at Miedzyborze on the eleventh day of the month of January, 1644.
+A most rare little book. The letter prefixed to it, to CHRISTOPHORUS SULOWSKI, Palatine of Rawa: the author himself, STANISLAUS LOCHOWSKI, notary of the castle of Opoczno, subscribed it at Miedzyboreae on the eleventh day of the month of January, 1644.
 
 </div>
 </section>

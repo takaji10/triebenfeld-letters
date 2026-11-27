@@ -159,6 +159,8 @@ confiscation.
 
 - The English has not been read against the scans.
 
+The four crops were approved by the editor (2026-11-27).
+
 ## Form and language (taken off the public page, 2026-10-30)
 
 The editor ruled the section too descriptive: the languages went to the header, and what changes how a document is read stays in "Contents". The old text:

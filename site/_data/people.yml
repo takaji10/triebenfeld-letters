@@ -31,7 +31,7 @@
   heading_de: "Alopaeus, David"
   count: 7
   docs: 3
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "d. 1831"
   life_de: "gest. 1831"
   bio: "Russian envoy at Berlin, who signed the note of 31 January 1820 refusing the claim of Prince Hohenlohe-Ingelfingen's heirs to compensation for Trąbczyn. A year earlier, on 20 January 1819, he had sent the Prussian ministry a report from Warsaw supporting Michalina Miączyńska's claim against Prussia."
@@ -239,7 +239,7 @@
   heading_de: "Bernstorff, Christian Günther, Graf von"
   count: 2
   docs: 1
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "1769-1835"
   life_de: "1769-1835"
   bio: "Count, Prussian minister of foreign affairs from 1818 to 1832. In 1819 the Russian envoy Alopeus sent him a report from Warsaw supporting Michalina Miączyńska's claim against Prussia, and Prussia's refusal was drafted in his name."
@@ -330,7 +330,7 @@
   heading_de: "Bischoffwerder"
   count: 4
   docs: 4
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "documented 1803-1810"
   life_de: "belegt 1803-1810"
   bio: "Prussian general whom Michalina Dąbska named in July 1807, beside Prince Hohenlohe-Ingelfingen and Sanitz, among those given her father's confiscated estates; no other source counts him among them. Probably Johann Rudolf von Bischoffwerder, the favourite of King Friedrich Wilhelm II."
@@ -525,7 +525,7 @@
   heading_de: "Cattaneo, Count"
   count: 3
   docs: 3
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "documented 1796-1819"
   life_de: "belegt 1796-1819"
   bio: "Count, the Prussian resident (envoy) at Venice. In December 1796 Antoni Prusimski, the exiled owner of Trąbczyn, came to him ill and grieving, and he gave him a certificate that he was unfit to travel."
@@ -761,7 +761,7 @@
   heading_de: "Drake"
   count: 1
   docs: 1
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "documented 1832"
   life_de: "belegt 1832"
   bio: "Commissioner in the department of state domains at Warsaw. On 29 February 1832 the finance commission charged him with valuing the Trąbczyn estates, so that the banker Weigel's loss could be reckoned."
@@ -774,7 +774,7 @@
   heading_de: "Drucki-Lubecki, Franciszek Ksawery, Fürst"
   count: 5
   docs: 4
-  eras: ["hohenlohe", "restitution"]
+  eras: ["restitution"]
   relevant: true
   relevant_rank: 25
   life: "1778-1846"
@@ -828,7 +828,7 @@
   heading_de: "Eisenhardt"
   count: 2
   docs: 2
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "documented 1830"
   life_de: "belegt 1830"
   bio: "Partner of the banker Weigel at Wrocław; the Warsaw authorities called Weigel's claim over Trąbczyn the affair of \"Weigel & Eisenhardt\"."
@@ -841,7 +841,7 @@
   heading_de: "Engel, Fyodor"
   count: 1
   docs: 1
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "documented 1832"
   life_de: "belegt 1832"
   bio: "President of the Provisional Government that Russia set over the Kingdom of Poland after the rising of 1830 and 1831. On 13 March 1832 he told the Prussian consul general Schmidt that Józef Lubowidzki was to settle the banker Weigel's claim over Trąbczyn."
@@ -1855,7 +1855,7 @@
   heading_de: "Konstantin Pawlowitsch, Großfürst von Russland"
   count: 15
   docs: 13
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "1779-1831"
   life_de: "1779-1831"
   bio: "Brother of Tsar Alexander I and from 1815 commander of the army of the Kingdom of Poland. Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, hoped to reach the Tsar through him with the claim to Trąbczyn."
@@ -2013,7 +2013,7 @@
   heading_de: "Leixner, George Conrad"
   count: 64
   docs: 22
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "d. by 1816"
   life_de: "gest. spätestens 1816"
   bio: "Official of the royal bank at Frankfurt an der Oder, who bought the estates of Kamionna and Kolno from Prince Hohenlohe-Ingelfingen for 142,000 Reichsthaler in 1805. He lost them in 1807, when the Duchy of Warsaw returned them to Michalina Prusimska, and came under judicial investigation; he had died by April 1816."
@@ -2026,7 +2026,7 @@
   heading_de: "Lichnowski (Brüder)"
   count: 31
   docs: 22
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "documented 1804-1830"
   life_de: "belegt 1804-1830"
   bio: "Brothers, creditors with 42,000 Reichsthaler registered on Trąbczyn while Prince Hohenlohe-Ingelfingen held it. In 1804 one of them demanded arrears of interest and threatened to have the estate sequestered. In 1827 the civil tribunal at Kalisz struck their mortgage out at the suit of Michalina Miączyńska; they were Karl Franz and Maximilian Jaroslaw, heirs of Karl Heinrich Lichnowski."
@@ -2086,7 +2086,7 @@
   heading_de: "Lubowidzki, Józef"
   count: 1
   docs: 1
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "documented 1832"
   life_de: "belegt 1832"
   bio: "Councillor of state and president of the Bank of Poland. In March 1832 he was charged with carrying out the convention between Russia and Prussia of 29 May 1830 and with settling the banker Weigel's claim over Trąbczyn."
@@ -2138,7 +2138,7 @@
   heading_de: "Łuszczewski, Jan Paweł"
   count: 2
   docs: 2
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "1764-1812"
   life_de: "1764-1812"
   bio: "Secretary general of the Governing Commission in 1807 and afterwards minister of the interior of the Duchy of Warsaw. He countersigned the commission's order of 12 July and its resolution of 21 July 1807 returning the Prusimski estates to Michalina Dąbska."
@@ -2164,7 +2164,7 @@
   heading_de: "Małachowski, Stanisław"
   count: 5
   docs: 4
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "1736-1809"
   life_de: "1736-1809"
   bio: "President of the Governing Commission, the provisional Polish government that Napoleon set up in January 1807. Its resolution of 21 July 1807, which returned the confiscated Prusimski estates to Michalina Dąbska, was issued under his name, and her petition to the Emperor was addressed to him."
@@ -2330,7 +2330,7 @@
   heading_de: "Miączyński, Stanisław"
   count: 5
   docs: 5
-  eras: ["hohenlohe", "wlodzimierz"]
+  eras: ["hohenlohe", "restitution", "wlodzimierz"]
   relevant: true
   relevant_rank: 23
   life: "1780–1845"
@@ -2455,7 +2455,7 @@
   heading_de: "Mitschke"
   count: 5
   docs: 3
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "documented 1808-1819"
   life_de: "belegt 1808-1819"
   bio: "Justice commissioner and advocate at Kalisz, instructed in 1811 to sue on behalf of the Invalids' Fund for the interest on its loan to Prince Hohenlohe-Ingelfingen."
@@ -2481,7 +2481,7 @@
   heading_de: "Mohrenheim, Paul, Baron von"
   count: 4
   docs: 4
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "1785-1832"
   life_de: "1785-1832"
   bio: "Baron, general secretary and director of the diplomatic office of Grand Duke Constantine at Warsaw. In 1828 and 1830 he answered the Prussian consul general Schmidt on the claim of the banker Weigel, whose mortgage on Trąbczyn the Polish courts had struck out, and once told Schmidt privately that the council had agreed that Weigel must be paid."
@@ -2520,7 +2520,7 @@
   heading_de: "Napoleon I., Kaiser der Franzosen"
   count: 37
   docs: 22
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "1769-1821"
   life_de: "1769-1821"
   bio: "Emperor of the French. The Duchy of Warsaw that he created in 1807 took in Prince Hohenlohe-Ingelfingen's Polish estates and returned Trąbczyn to the Prusimski heiress, and his return from Elba in March 1815 interrupted the Congress of Vienna, where the Prince's claim to them was pressed."
@@ -2546,7 +2546,7 @@
   heading_de: "Nesselrode, Karl Robert von"
   count: 10
   docs: 7
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "1780-1862"
   life_de: "1780-1862"
   bio: "Count, Russian foreign minister. Peter Friedrich von Triebenfeld approached him at Vienna in 1815 on Prince Hohenlohe-Ingelfingen's claim to Trąbczyn, and the Prussian envoy Schöler delivered Prussia's notes on the claim to him in 1816. In 1827 Schöler asked him to have the Polish judgment against the banker Weigel's mortgage annulled."
@@ -2585,7 +2585,7 @@
   heading_de: "Niemojewski"
   count: 7
   docs: 4
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "documented 1797-1819"
   life_de: "belegt 1797-1819"
   bio: "General, who in 1807 recovered free of debt an estate that Prussia had confiscated and given away. In 1818 the commission at Warsaw cited his case in support of Michalina Miączyńska's claim that Trąbczyn had come back to her free of the debts charged on it."
@@ -2987,7 +2987,7 @@
   heading_de: "Rembowski, Antoni"
   count: 4
   docs: 2
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "documented 1812-1827"
   life_de: "belegt 1812-1827"
   bio: "President of the civil tribunal of first instance at Kalisz, who signed the judgment of 30 July 1827 striking out the mortgages of the Lichnowski brothers and of Grotowski's widow on Trąbczyn, at Michalina Miączyńska's suit."
@@ -3091,7 +3091,7 @@
   heading_de: "Sanitz, von"
   count: 22
   docs: 9
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "documented 1796-1827"
   life_de: "belegt 1796-1827"
   bio: "Colonel, later major general, of Prince Hohenlohe-Ingelfingen's regiment. He too was given estates confiscated from Antoni Prusimski in 1796, lost them in 1807, and was still claiming compensation in 1826."
@@ -3208,7 +3208,7 @@
   heading_de: "Schmidt, Julius (Generalkonsul)"
   count: 7
   docs: 7
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "documented 1828-1832"
   life_de: "belegt 1828-1832"
   bio: "Prussian consul general in the Kingdom of Poland at Warsaw from 1817 to 1832, with the rank of privy councillor of legation. From 1828 to 1832 he pressed the Warsaw authorities to compensate the banker Weigel for the mortgage on Trąbczyn that the Polish courts had struck out, and Mohrenheim, Fuhrmann and Engel answered him."
@@ -3221,7 +3221,7 @@
   heading_de: "Schöler, Friedrich von"
   count: 12
   docs: 10
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "1772-1840"
   life_de: "1772-1840"
   bio: "Prussian general and envoy at St Petersburg. In 1816 he was instructed to put Prince Hohenlohe-Ingelfingen's claim to compensation for Trąbczyn before the Tsar, and reported the Russian refusal. In 1827 he protested to the Russian foreign minister, Nesselrode, against the Polish judgments that struck out the banker Weigel's mortgage on Trąbczyn."
@@ -3639,7 +3639,7 @@
   heading_de: "Tarczewski, M."
   count: 1
   docs: 1
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "documented 1819"
   life_de: "belegt 1819"
   bio: "Advocate at Warsaw. In November 1819 he reported to a client on a suit against Michalina Miączyńska, the owner of Trąbczyn, that was going to the court of appeal, and asked for the mortgage certificates in the original or in certified copies."
@@ -3881,7 +3881,7 @@
   heading_de: "Wichrowski"
   count: 6
   docs: 3
-  eras: ["hohenlohe"]
+  eras: ["restitution"]
   life: "documented 1807-1819"
   life_de: "belegt 1807-1819"
   bio: "Landowner who in 1807 recovered his estate, written Beskyn, free of debt. In 1818 the commission at Warsaw cited his case in support of Michalina Miączyńska's claim that Trąbczyn had come back to her free of the debts charged on it."
@@ -4024,7 +4024,7 @@
   heading_de: "Wybicki, Józef"
   count: 18
   docs: 9
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "1747-1822"
   life_de: "1747-1822"
   bio: "Senator and voivode in the Duchy of Warsaw and the Kingdom of Poland. Prussia had confiscated his estate of Manieczki and given it to General von Zastrow; it was returned to him in 1807, and in 1818 the commission at Warsaw cited his case beside Michalina Miączyńska's."
@@ -4065,7 +4065,7 @@
   heading_de: "Zastrow, Friedrich Wilhelm Christian von"
   count: 38
   docs: 27
-  eras: ["hohenlohe"]
+  eras: ["hohenlohe", "restitution"]
   life: "1752-1830"
   life_de: "1752-1830"
   bio: "Prussian general, adjutant to the King in 1798 and briefly foreign minister in 1807. He stood surety for Peter Friedrich von Triebenfeld, agent of Prince Hohenlohe-Ingelfingen, in 1808. He too had been given estates in South Prussia, and in 1820 the Prince's heirs cited the compensation he received for their loss as a precedent for their own claim."

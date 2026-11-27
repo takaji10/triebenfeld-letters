@@ -370,6 +370,12 @@ person:
     - key: notes
       en: Notes
       de: Anmerkungen
+  - work: lukasiewicz1997
+    cite: Łukasiewicz (1997)
+    pages:
+    - key: '61'
+      en: p. 61
+      de: S. 61
   hardenberg:
   - work: dorow1843
     cite: Dorow (1843)
@@ -2846,6 +2852,19 @@ person:
     - key: '61'
       en: p. 61
       de: S. 61
+  trzcinski:
+  - work: karwowski1900
+    cite: Karwowski (1900)
+    pages:
+    - key: '87'
+      en: p. 87
+      de: S. 87
+  - work: minakowska2026miaczynski
+    cite: Minakowska (2026, Stanisław Adam Miączyński)
+    pages:
+    - key: c04
+      en: Wnuki
+      de: Wnuki
   voss:
   - work: dorow1843
     cite: Dorow (1843)
@@ -4014,6 +4033,21 @@ place:
       en: p. 127
       de: S. 127
   lad:
+  - work: slownik
+    cite: Słownik geograficzny Królestwa Polskiego
+    pages:
+    - key: c31
+      en: Adamierz [Słownik geograficzny, t. XV, p. 8]
+      de: Adamierz [Słownik geograficzny, t. XV, p. 8]
+    - key: c32
+      en: Kopojno [Słownik geograficzny, t. XVI, p. 120]
+      de: Kopojno [Słownik geograficzny, t. XVI, p. 120]
+    - key: c33
+      en: Łukom [Słownik geograficzny, t. XVI, p. 282]
+      de: Łukom [Słownik geograficzny, t. XVI, p. 282]
+    - key: c36
+      en: Pyzdry [Słownik geograficzny, t. XVI, p. 530]
+      de: Pyzdry [Słownik geograficzny, t. XVI, p. 530]
   - work: kneifel1937
     cite: Kneifel (1937)
     pages:

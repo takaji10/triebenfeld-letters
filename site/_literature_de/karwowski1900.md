@@ -18,7 +18,7 @@ excerpt_separator: ""
 </details>
 <div class="lit-text">
 
-<section class="lit-passage" id="p-87" data-page="87">
+<section class="lit-passage has-related" id="p-87" data-page="87">
 <div class="pg" id="p87"><a href="#p87">S. 87</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -42,6 +42,11 @@ Thus the sum of 40,000 Polish gulden was lost to the Cistercian Nuns, together w
 […]
 
 </div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Karwowski (1900) schreibt auf S. 87, dass Karol Bogumił Weygel, ein Breslauer Bankier, die Güter von Zagórów am 1. September 1827 in der Versteigerung kaufte und von den 120.000 złp., die er darauf stehen hatte, nur 56.879 rettete, so dass die Zisterzienserinnen von Ołobok ihre 40.000 złp. verloren. In den Briefen soll der Breslauer Bankier Weigel die Hypothek auf die Güter von Zagórów übernehmen (Oe 1 Bü 9454, Brief 220, 1811), und 1815 meldet Triebenfeld, „Weigel seine 30000 rt“ seien auf Zagórów übertragen (Brief 284); 1830 verlangt Weigel von Warschau Ersatz für seine 30.000 Taler, die aus den Gütern von Trąbczyn gelöscht worden waren (III. HA MdA, III. Nr. 12367, Dokument 6). Das Buch sagt nicht, dass sein Weygel der Weigel der Briefe ist, und die Dokumente erwähnen die Versteigerung nicht.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/220/' | relative_url }}">Oe 1 Bü 9454, Dokument 220 (31. Oktober 1811)</a><a href="{{ '/documents/oe1bu9454/284/' | relative_url }}">Oe 1 Bü 9454, Dokument 284 (27. März 1815)</a><a href="{{ '/documents/iiihamdaiiinr12367/6/' | relative_url }}">III. HA MdA, III. Nr. 12367, Dokument 6 (22. September 1830)</a></p>
+</aside>{% raw %}
 </section>
 </div>
 </div>

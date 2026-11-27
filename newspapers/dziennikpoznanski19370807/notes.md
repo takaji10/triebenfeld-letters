@@ -102,9 +102,9 @@ The item is set in the era `twentieth-century` (its working name). The index
 of people and places runs over the items (the editor, 2026-10-22): the item
 names Zagórów (the estate's place) and Konin, ruled yes in
 `newspapers/index.yml`; Oleśnica is ruled to the register's Oleśnica on the
-item's own geography — Claude's identification, waiting for the editor's
-confirmation (NEEDS_CONFIRMATION); the three people are not in the register
-and are matched by no pattern.
+item's own geography — Claude's identification, confirmed by the editor
+(2026-11-27); the three people are not in the register and are matched by
+no pattern.
 
 ## Rights
 

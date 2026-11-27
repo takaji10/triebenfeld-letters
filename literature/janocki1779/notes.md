@@ -63,7 +63,7 @@ English-printed 1779 lexicon, out of copyright).
   the edition's rendering of the castle court as the municipal court
   (paciorkowski1776's English).
 - The 1779 print's orthography kept: "diflimitanda" (as in Paciorkowski's own
-  title), "Sandomiriensi", "pernecessarium", "Miedzyborze" (see Open).
+  title), "Sandomiriensi", "pernecessarium", "Miedzyboreae" (the editor's reading).
 
 ## The English
 
@@ -77,11 +77,15 @@ the Polish works).
 
 ## Doubtful readings
 
-- **"Miedzyborze"** (the place of Lochowski's subscription to item IV, the
+- **"Miedzyboreae"** (the place of Lochowski's subscription to item IV, the
   last line of p. 160): the print is worn; the Google copy's OCR reads
-  "Miedzy- ioreae", the Jagiellonian copy's "Miedzyborege". Read as
-  "Miedzyborze" (a Polish place name in -borze); the year "MDCXLIIII" (1644)
-  and "xi mensis Ianuarii" (11 January) are sure. NEEDS_CONFIRMATION.
+  "Miedzy- ioreae", the Jagiellonian copy's "Miedzyborege", and Claude read
+  "Miedzyborze". **Settled by the editor (2026-11-27)** from their PDF: "The
+  passage reads as 'Miedzyboreae XI mensis Ianuarii'" - a Latin locative,
+  which the English keeps as printed, the place not identified. The day
+  stands as the print's "xi" (the editor's capitals are a question of type,
+  not of the reading). The year "MDCXLIIII" (1644) is sure. The citation
+  bracket "[= Lochowski 1641]" is accepted (the editor, the same day).
 - **"1737"** (the heirs of Caesarius Junior's edition of the Regulæ): the
   Google copy and the page image read 1737; the Jagiellonian copy's OCR reads
   1727. Kept 1737.

@@ -465,7 +465,7 @@ What rests on Claude's reading rather than a document's statement:
   - **The Oleśnica of the 1937 item** is ruled to the register's Oleśnica
     (Oleszyno 1261) on the village's geography — the village and commune of
     that name on the highway from Zagórów to Konin. Claude's
-    identification, not confirmed by the editor.
+    identification, **confirmed by the editor (2026-11-27)**.
   - **Głowiecki** stands on /people/ with no documents named by them (the
     report is his only witness, and it left the corpus): the People page
     learned to carry a person of the newspapers. The editor's eye on that
@@ -500,33 +500,29 @@ What rests on Claude's reading rather than a document's statement:
     colony's "Łazińskie"; matching them would bring Breyer's Łazinsk of
     1936 in) — the editor's word.
   - **The 2015 report's Miączyński heirs, and the Ląd and Trampczin
-    spellings.** The report names "Stanisław hrabia Miączyński, czy
-    Aleksander i Włodzimierz Miączyński" among the heirs of Trąbczyn who
-    took part in the wars of national liberation. Włodzimierz is the
-    register's own Count (miaczynski-wlodzimierz), but his pattern is
-    pinned to the summons of 1860; "Stanisław hrabia" is not identified
-    with the register's Stanisław Miączyński (Michalina's husband) by
-    anything the edition holds, and "Aleksander" by nothing at all — the
-    bare surname is ruled out for the item (the register's own precedent,
-    its `not_in` for Breyer's "Graf Miączyński" of 1936), so no mention
-    stands on a person page. Whether the editor wants the mentions attached
-    — and a pattern for the newspapers that would set Włodzimierz's apart —
-    waits on them. The report's "Lądzie" and "lądzki" (the count's title)
-    and its medieval "Trampczin" are likewise matched by no pattern: the
-    register's Ląd pattern takes "Ląd" bare and "Lądzk..." with the initial
-    capital only, both built for the Kuryer Polski's print. Same question,
-    whether to extend the register's patterns. The parish chronicle of the
-    Zagórów filial (`luteraniezagorow`, added 2026-10-22) brings the same
-    gap two more witnesses: its "zakonników z Lądu" (the genitive) and its
-    Polish region names "Śląska, Pomorza, Prus" are matched by no pattern —
-    the register's Schlesien pattern is the German word only, built for the
-    1942 article.
-  - **The buyer in the Słowo notice of 4 January 1892** (added 2026-10-22):
-    the press names her "hr. Władysławowa Wielopolska" — by her husband's
-    name, the wife of a Władysław Wielopolski — where the wlodzimierz era's
-    ownership line has "Countess Maria Wielopolska". Whether the two name
-    one woman (Maria the wife the married form points to) is the editor's
-    to confirm or correct (`newspapers/slowo18920104/notes.md`).
+    spellings — settled by the editor (2026-11-27).** The report's
+    "Stanisław hrabia Miączyński, czy Aleksander i Włodzimierz Miączyński"
+    are Michalina's husband Stanisław (`miaczynski`), their son Aleksander
+    Adam Stanisław (1810-1869, named in his father's family block in
+    `reference/genealogy.yml`, no page of his own) and the Count Włodzimierz
+    (`miaczynski-wlodzimierz`, through a pattern of the newspapers' own in
+    `newspapers/index.yml`, since the register's is pinned to the summons
+    of 1860). The item now stands on Stanisław's and Włodzimierz's pages.
+    The register's patterns were widened at the editor's word: Ląd takes
+    "Lądzie", "Lądu", "Lądem", "Lądowi" and the lower-case adjective
+    "lądzk...", Trąbczyn takes "Trampczin"/"Trampczino"; every new hit in
+    the documents (the Kodeks), the literature (the Słownik geograficzny)
+    and the press was read and is right. The lower-case "ląd", "lądu",
+    "lądzie" stay out (the common noun, land). Still unmatched, and not
+    asked: the parish chronicle's Polish region names "Śląska, Pomorza,
+    Prus" (the register's Schlesien pattern is the German word only, built
+    for the 1942 article).
+  - **The buyer in the Słowo notice of 4 January 1892** — settled: one
+    woman. "hr. Władysławowa Wielopolska" names her by her husband: Maria,
+    born Plater-Zyberk, wife of Władysław hr. Wielopolski, the identity the
+    editor accepted on 2026-11-12 ("The Wielopolski question", above; the
+    to-do item asked it again, and the editor pointed to the record,
+    2026-11-27).
   - **The Lidmanowski items** (added 2026-10-22; the three texts of
     Zdrowie 1912 and 1914 and the Jutrzenka digest of April 1913):
     - **The Jutrzenka signature.** The digest names Dr. Lidmanowski in the
@@ -827,10 +823,6 @@ read, translate and summarise.
 - **III. HA MdA, III. Nr. 12366** is in (2026-10-04): six documents,
   corrected, summarised in both languages, translated and its summaries
   claim-checked in session. Still open:
-  - **its era**: it is placed in the Hohenlohe-Ingelfingen years because it
-    is about his debts, but its documents run to 1827 and the last is
-    Miączyńska's own lawsuit. The era plan left this for the editor to
-    confirm (Hohenlohe or the restitution era);
   Closed on 2026-10-05: three words of the Polish judgment ("Assistant",
   "Rozdayczer[?]", "Likrę[?]") stand as transcribed; the editor has no
   further reading.
@@ -839,8 +831,6 @@ read, translate and summarise.
   1828 to 1832 from the second volume of the same file, corrected,
   summarised in both languages, translated and its summaries claim-checked
   in session (2026-10-05). Still open:
-  - **its era**, with Nr. 12366's: it is placed in the Hohenlohe-Ingelfingen
-    years because it is about a debt of his, though he died in 1818;
   - **the signature on the letter of 29 September 1830** (scan 0007) is not
     read, so that letter has no sender. Tried again on enlargements on
     2026-10-05 at the editor's word; it is not Mohrenheim's or Fuhrmann's;
@@ -959,15 +949,14 @@ read, translate and summarise.
   of July 1807, the petitions of Michalina Dąbska and the Governing
   Commission's resolution returning her father's estates, translated and
   their summaries claim-checked in session (2026-10-05). Still open:
-  - **their era**: placed in the Hohenlohe-Ingelfingen years for now. By
-    `reference/eras.yml` they are the first documents of the restitution
-    era, which would then stop being empty; `site/the-story.md` says that
-    era is not yet published and would need rewriting;
   - **image 06** of 1/174/0/2/73 is used though the editor named only 05,
     07, 08 and 047: their numbers are leaf numbers, and leaf 7 is on image
     06. To be confirmed;
-  - **the crops**: each page was cut out of its opening by a box placed in
-    the session, not by the editor.
+  Settled on 2026-11-27 (the editor): both holdings and Nr. 12366 and
+  12367 stand in the restitution era; the crops are right, but for
+  page 2 of document 3 of 1/174/0/2/73, turned a quarter clockwise
+  (done the same day, `intake/build_pages.py`, TURN). The four crops of
+  I. HA GR, Rep. 7 C, Nr. 1414 are right too.
   Settled on 2026-10-05: struck-out text is not transcribed (editor;
   EDITORIAL_RULES.md), so the clause struck out at the end of the draft
   resolution ("z zachowaniem praw Im służących") stays out.
@@ -1218,28 +1207,20 @@ read, translate and summarise.
   published 2026-10-21; `literature/karwowski1900/notes.md`): the two paragraphs of
   p. 87 the editor named, on the debts of Zagórów and the lost 40,000 złp. of
   the nuns.
-  - **Ignacy Trzciński.** Karwowski has him buying Zagórów from the Prince in
-    1812 with debts of 2,000,000 złp. on it, mortgaging the nuns' 40,000 złp.
-    on it in 1814 (radzca of the department of Kalisz), and losing the
-    estates at auction in 1827. The letters' Ignatz von Trzciński owed the
-    Prince on bills from 1813 and his death was reported in December 1815.
-    The dates and the purchase would fit the buyer of 1812; the identity is
-    not settled (the letters also have a "Major Trzciński"). **For the
-    editor**; ruled out in the index until it is settled.
+  - **Settled by the editor (2026-11-27)**: Ignacy Trzciński, who bought
+    Zagórów from the Prince in 1812, is the letters' Ignatz von Trzciński
+    (dead by December 1815, so the auction of 1827 came after his death);
+    Minister Sobolewski is the Kingdom of Poland's minister secretary of
+    state; the hand-made link to the Weigel compensation documents is to be
+    made.
   - **Karol Bogumił Weygel**, banker of Wrocław, who bought the Zagórów
-    estates at auction on 1 September 1827 and saved 56,879 of the 120,000
-    złp. he had mortgaged on them: the letters' Carl Ferdinand Weigel, his
-    son ("Weigel und Sohn"), Breyer's K. G. von Weigel (a question already
-    open), or another Weigel? The given names differ from Carl Ferdinand's.
-    **For the editor**; ruled out in the index.
-  - **Minister Sobolewski**, who informed the Prussian government from
-    Warsaw on 23 October 1828 that the 40,000 złp. was lost: Claude takes
-    him for the Kingdom of Poland's minister secretary of state, the
-    Sobolewski of the edition's reply of 1820, who sat at Warsaw. Offered,
-    not accepted; ruled in on that basis.
-  - Offered, not asked for: a hand-made link from the passage to the Weigel
-    compensation documents (III. HA MdA III. Nr. 12367; Oe 1 Bü 9454,
-    letters 220 and 284), every figure read on both sides first.
+    estates at auction on 1 September 1827: the same man as Breyer's K. G.
+    von Weigel of Hennersdorf (the editor, 2026-11-27; they write the
+    initial "G[ottfried]", where Bogumił is usually the Polish form of
+    Gottlieb). Still open: whether he is the letters' Carl Ferdinand
+    Weigel or his son ("Weigel und Sohn"); the given names differ from Carl
+    Ferdinand's. Claude is to propose (to-do t923); ruled out in the index
+    until then.
   **Janocki (1779)** (`janocki1779`, added and published 2026-10-21;
   `literature/janocki1779/notes.md`): the entry "Stanislaus Lochowski"
   (LXXVII, printed pp. 159-160) of the *Ianociana*, a sub-item attached to
@@ -1247,14 +1228,9 @@ read, translate and summarise.
   limitanei* of 1641, which Paciorkowski printed under his own name; the
   citation of the parent work now reads "Paciorkowski (1776) [= Lochowski
   1641]".
-  - **"Miedzyborze"**, the place of Lochowski's subscription (item IV, the
-    last line of p. 160): the print is worn there; the Google copy's OCR
-    reads "Miedzy- ioreae", the Jagiellonian Library copy's "Miedzyborege".
-    Read as "Miedzyborze". **For the editor** (the PDF is theirs; the line is
-    the last of p. 160).
-  - The transcription of the whole entry (read from the editor's PDF, page
-    image by page image) waits on their look; the doubtful spots are listed
-    in the work's `notes.md` ("Doubtful readings"). **For the editor**.
+  - **Settled by the editor (2026-11-27)**: the place of Lochowski's
+    subscription reads "Miedzyboreae" (not Claude's "Miedzyborze"), and the
+    citation bracket "[= Lochowski 1641]" stands.
   **Kucharski (2023)** (`kucharski2023`, added 2026-10-22;
   `literature/kucharski2023/notes.md`): Robert Kucharski, "Sądownictwo
   szlacheckie od XV do XVIII wieku", *Consilium Iuridicum* 1(3-4) 2022,
@@ -1730,7 +1706,9 @@ written until there is a witness or a better scan.
   2026-10-14): read from the scans by Claude; the editor read 39 doubtful
   readings on two spot sheets (2026-10-14). 70 marks of doubt remain, 29
   of them on the two faint inside covers and 7 in the photograph log,
-  not put to the editor. A third sheet settled Swięcia on page 22. Open:
+  not put to the editor: not needed (the editor, 2026-11-27), nor placing
+  the folds of the seventeen openings, which stay cut as proposed. A third
+  sheet settled Swięcia on page 22. Open:
   whether the photograph log headed "Juli 1935" was written a year before
   the notes; whether "Łazinsk" of 1936 is both Łazińskie colonies.
 - **APP 53/968/0/-/716** (Albert Breyer's Łazińsk notebook and the sheet of
@@ -1751,6 +1729,13 @@ written until there is a witness or a better scan.
   of the four joined openings approved by the editor. In the statement of 1896 four rows do not
   add up as written (notes).
 - **The eras** (the editor, 2026-10-20: "Let's better define the eras").
+  **Named by the editor on 2026-11-27**: `medieval` "Trąbczyn in the Middle
+  Ages", `wlodzimierz` "The colonists' land and forest rights" (the
+  working name kept, against Claude's "The liquidation: the colonists
+  become owners"), `twentieth-century` "The twentieth century" (kept,
+  against "The German villages to 1945"). Still open: the names of
+  `prusimski-boundary`, `restitution` and `insurgency` (Claude's
+  proposals below).
   The liquidation era (`liquidation`) is made one with Włodzimierz
   Miączyński's years (`wlodzimierz`), at the editor's word, under the
   working name "The colonists' land and forest rights": 14 documents,
@@ -1811,7 +1796,8 @@ written until there is a witness or a better scan.
   Miączyńska, when her son Włodzimierz ran the estate (`wlodzimierz`, APP
   53/968/0/-/783), and the twentieth century of the estate
   (`twentieth-century`, APP 53/968/0/-/669 and -/716). Both carry working
-  names in `reference/eras.yml` until the editor names them. Breyer's
+  names in `reference/eras.yml` until the editor names them (named
+  2026-11-27, above). Breyer's
   copies in -/716 of papers of 1858 to 1892 stand in `wlodzimierz` (a copy
   takes the era of what it copies: editor, 2026-10-14). Michalina died on
   19 January 1851, Włodzimierz on 18 December 1879 (the 20th of 2026-10-15
@@ -1990,9 +1976,8 @@ Places (`reference/places.yml`, `open_questions`):
 - **Łukasiewicz (1997)** (added 2026-10-22; its rulings in
   `literature/index.yml` carry the reasons):
   - The donatary **Grävenitz** of the article's Tabela 4 (p. 61, the affair
-    Cölln's Feuerbrände carried): not read as the edition's Kammergerichtsrat
-    von Grevenitz of Berlin, Triebenfeld's friend - the hit is refused for
-    now. Whether the donatary is the same man is open.
+    Cölln's Feuerbrände carried) is the edition's von Grevenitz, Triebenfeld's
+    friend: settled by the editor (2026-11-27), the hit ruled in.
   - The chamber councillor **Schmaling** the article dismisses for
     malversations in 1804/5: the edition's Schmaling is the Landrat von
     Schmaling, owner of the Głażewo Vorwerk (Oe 1 Bü 14526, letter 19). No
@@ -2001,6 +1986,9 @@ Places (`reference/places.yml`, `open_questions`):
     church funds: which Freiherr von der Reck of the several of the name is
     not settled, and the hit is not ruled to the edition's minister of state
     and justice Eberhard von der Reck.
+  - Schmaling and Reck stay refused: the editor does not know either and
+    asks that nothing be done with them (2026-11-27). Kept here only as
+    unresolved, with no further work planned.
 
 - **Werner (1904)** (added 2026-10-23; its rulings in `literature/index.yml`
   carry the reasons):
@@ -2219,7 +2207,8 @@ rulings on the pilot").
   contents is left out; Mączak's tables are HTML tables; the Literature page's
   new order and layout (the editor's) is applied to all fourteen works, and
   the anonymous Materialien is listed under its title as "Anonymous". Each
-  work's `notes.md` says the rest.
+  work's `notes.md` says the rest. The editor's judgement of how useful
+  Mączak and Szwiec are, once asked, is not needed (2026-11-27).
 
 - ~~**Muszyńska-Zygmańska (1947)**: whether to publish~~ **Settled (editor,
   2026-11-01): publish in full.** `visible: true`, the text on the site; the

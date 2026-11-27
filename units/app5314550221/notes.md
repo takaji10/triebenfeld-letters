@@ -84,8 +84,9 @@ a kind added to the pipeline for it: `pipeline/build/corpus_pages.py`,
 
 ## Readings
 
-Twenty-two words read with doubt, all names or words of the Latin the
-photographs do not settle: in doc. 3, on p. 15, "Casanis", the year "1447",
+Twenty-one words read with doubt, all names or words of the Latin the
+photographs do not settle: in doc. 3, on p. 15, "Casanis" (the year "1447"
+was one of them until the editor confirmed it, 2026-11-27),
 "Rasko", "Dobrogosto", "Tczenaczmy"; in doc. 1 "suffragio", "gadibus", "Odsuć"
 (underlined, a Polish word), "postmo" (across a line, perhaps "postmodo"),
 the witnesses' "Czaten", "Siemenci", "Retch", "Vito"; in doc. 2 "Barlyus" and

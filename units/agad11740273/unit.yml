@@ -46,11 +46,9 @@ status: translated        # draft | transcribed | translated | published
 # (cache/translation-raw), as Nr. 12366 was: see notes.md.
 published_tag: ""
 
-# Which era this holding belongs to - reference/eras.yml. Placed with the
-# Hohenlohe-Ingelfingen years for now, as the act that ended his possession;
-# by the definitions in eras.yml it could open the restitution era, which the
-# editor has still to rule on (docs/NEEDS_CONFIRMATION.md).
-era: hohenlohe
+# Which era this holding belongs to - reference/eras.yml. The restitution
+# era (the editor, 2026-11-27): Michalina Dąbska's petitions open it.
+era: restitution
 
 # Which archive holds it - reference/repositories.yml.
 repository: agad-warszawa

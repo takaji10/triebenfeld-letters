@@ -52,8 +52,9 @@ the editor added to finish it (2026-10-21: "you can add page 15 to finish
 the king's confirmation"); p. 15 is cut below its end, above the heading of
 no. 17 ("Privilegium donationis 2dae partis Wrabczyno"), which is not in the
 edition. On p. 15 the year of the dating clause is written over: "1.4"
-and two figures inked over, read as 1447 with doubt; a later hand wrote
-1447 in pencil in the margin. No. 26 begins at the foot of p. 26 and runs
+and two figures inked over, read as 1447 (with doubt until the editor
+confirmed it, 2026-11-27: "1447 is right"); a later hand wrote 1447 in
+pencil in the margin. No. 26 begins at the foot of p. 26 and runs
 on to p. 27, which the editor has not photographed; it is given as far as
 p. 26 goes.
 """
@@ -151,7 +152,7 @@ TEXT = {
   'omnium pertinentiarum, sicut superius tactum est per ipsum Abbatem et suum Conventum factae Nostram benignam '
   'adhibuimus Voluntatem. assensimus quoque et praesentibus assentimus decernentes ipsum robur obtinere perpetuae '
   'firmitatis In cujus rei fidem sigillum nostrum est praesentibus supappensum Actum Gnesnae feria tertia ante '
-  'festum S. Laurentii Martyris Anno Domini 1447[?] Praesentibus Reverendo Patre Domino Andrea Episcopo et '
+  'festum S. Laurentii Martyris Anno Domini 1447 Praesentibus Reverendo Patre Domino Andrea Episcopo et '
   'Magnificis ac Nobilibus Luca de Gorka Posnanien. Martino de Rasko[?] Calisiensi Palatinis, Dobrogosto[?] de '
   'Szamotuly Posnanien. Praedborio de Koniecpole Sandomirien. Petro de Kurow Sandecensi Castellanis et aliis '
   'compluribus fide dignis testibus circa praesentia Datum per manus Magnificorum Joannis de Koniecpole '

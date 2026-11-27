@@ -222,8 +222,8 @@ Zarobna, for want of a firm identification.
 (February and September 1830, March 1832) and the timeline's range extended
 to 1832; a paragraph in section VIII of the era essay, whose heading now
 runs to 1832, in both languages; biographies for the new people and a
-sentence added to Weigel's. The era is `hohenlohe` for now, as for Nr.
-12366.
+sentence added to Weigel's. The era was `hohenlohe`, as for Nr. 12366, until
+the editor moved both files to the restitution era (2026-11-27).
 
 ## "Mardi" put back with document 3 (2026-10-05)
 
@@ -303,7 +303,6 @@ transcription and the translation.
 
 ## Still to do
 
-- The editor's ruling on the era, with Nr. 12366's.
 - Reading the English against the scans, as for every holding.
 - Settled by the editor on 2026-10-05: the German translation columns are
   not transcribed.

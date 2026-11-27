@@ -18,7 +18,7 @@ excerpt_separator: ""
 </details>
 <div class="lit-text">
 
-<section class="lit-passage" id="p-87" data-page="87">
+<section class="lit-passage has-related" id="p-87" data-page="87">
 <div class="pg" id="p87"><a href="#p87">p. 87</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -42,6 +42,11 @@ Thus the sum of 40,000 Polish gulden was lost to the Cistercian Nuns, together w
 […]
 
 </div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Related</p>
+<p>Karwowski (1900), p. 87, says that Karol Bogumił Weygel, a banker of Wrocław, bought the Zagórów estates at auction on 1 September 1827 and saved only 56,879 of the 120,000 złp. he had on them, so that the Cistercian nuns of Ołobok lost their 40,000 złp. In the letters the banker Weigel of Breslau is to take over the mortgage on the Zagórów estates (Oe 1 Bü 9454, letter 220, 1811), and in 1815 Triebenfeld reports that "Weigel's 30,000 Reichsthaler" have been moved onto Zagórów (letter 284); in 1830 Weigel asks Warsaw to make good his 30,000 thalers struck off the Trąbczyn estates (III. HA MdA, III. Nr. 12367, document 6). The book does not say that its Weygel is the letters' Weigel, and the documents do not mention the auction.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/oe1bu9454/220/' | relative_url }}">Oe 1 Bü 9454, document 220 (31 October 1811)</a><a href="{{ '/documents/oe1bu9454/284/' | relative_url }}">Oe 1 Bü 9454, document 284 (27 March 1815)</a><a href="{{ '/documents/iiihamdaiiinr12367/6/' | relative_url }}">III. HA MdA, III. Nr. 12367, document 6 (22 September 1830)</a></p>
+</aside>{% raw %}
 </section>
 </div>
 </div>

@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-66 open: 14 question, 9 decision, 15 task, 20 claude, 8 waiting.
+66 open: 15 question, 9 decision, 14 task, 20 claude, 8 waiting.
 
 ## APP 53/17/0/-/Konin Gr.145 and the Prusimski era folders
 
@@ -69,11 +69,16 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
 ## The literature (begun 2026-10-19)
 
-- [ ] **Read the four link sentences on the live site** (`t031-read-the-four-link`, task). Claude wrote four hand-made links between passages of the literature and documents, each
-      with one sentence saying why the two belong together. They appear beside documents
-      85 and 103 of Oe 1 Bü 9454 (Prince Hohenlohe's letters) and under p. 145 of the
-      Materialien (the 1861 collection). When convenient, read these four sentences on
-      the live site and say whether they are right and clear.
+- [ ] **Read the four link sentences on the live site** (`t031-read-the-four-link`, question). Claude wrote four hand-made links between passages of the literature and documents, each
+      with one sentence saying why the two belong together. On a document's page they
+      stand in the "About this document" panel at the top, which is closed until you
+      click it, under the heading "In the literature": you saw none on document 85
+      because the panel was closed (Claude, 2026-11-27). They are beside documents 85
+      and 103 of Oe 1 Bü 9454 (Prince Hohenlohe's letters) and under p. 145 of the
+      Materialien. Please read the four sentences, and say whether the "In the
+      literature" box should stay in the closed panel or stand open under the document's
+      text.
+      Options: Keep it in the closed panel / Show it open under the text
       Concerns: [Oe 1 Bü 9454, document 85](/documents/oe1bu9454/85/), [Oe 1 Bü 9454, document 103](/documents/oe1bu9454/103/), [Materialien (1861)](/literature/materialien1861/)
       Full discussion: NEEDS_CONFIRMATION, "The literature".
 

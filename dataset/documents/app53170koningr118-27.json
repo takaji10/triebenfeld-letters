@@ -329,6 +329,17 @@
    "entity": "trabczyn",
    "display": "Trąbczyn",
    "kind": "place",
+   "surface": "Trampczyna",
+   "page": 2,
+   "page_id": "0674_a1",
+   "scan": "APP_53_17_0_Konin_Gr_118_0674_a1-L27_02.jpg",
+   "line": 148,
+   "doc_line": 3
+  },
+  {
+   "entity": "trabczyn",
+   "display": "Trąbczyn",
+   "kind": "place",
    "surface": "Trąmpczyn",
    "page": 2,
    "page_id": "0674_a1",

@@ -2407,3 +2407,112 @@
       documents:
         - app53170koningr117-4
         - app53170koningr153-1
+
+# Karwowski (1900), p. 87: the Zagórów estates bought at auction in 1827 by
+# the Wrocław banker Karol Bogumił Weygel, and the nuns' 40,000 złp. lost. The
+# editor asked for the link (2026-11-27). Whether Karwowski's Weygel (Breyer's
+# K. G. von Weigel, the editor's ruling of the same day) is the letters'
+# Carl Ferdinand Weigel or his son is not settled (to-do t923), so the
+# sentence names the two separately. Figures read on both sides: the 30,000
+# of letter 284 ("Weigel seine 30000 rt sind auf Zagorowo übertragen") and of
+# Nr. 12367, document 6 ("wierżytelności 30.000 Tal. z dóbr Trąpczyn"); the
+# Zagórów mortgage of letter 220 ("die Hypotheque auf die Zagorower Güter").
+- id: karwowski-weigel
+  passages:
+    - karwowski1900/87
+  documents:
+    - oe1bu9454-220
+    - oe1bu9454-284
+    - iiihamdaiiinr12367-6
+  en: >-
+    Karwowski (1900), p. 87, says that Karol Bogumił Weygel, a banker of
+    Wrocław, bought the Zagórów estates at auction on 1 September 1827 and
+    saved only 56,879 of the 120,000 złp. he had on them, so that the
+    Cistercian nuns of Ołobok lost their 40,000 złp. In the letters the
+    banker Weigel of Breslau is to take over the mortgage on the Zagórów
+    estates (Oe 1 Bü 9454, letter 220, 1811), and in 1815 Triebenfeld reports
+    that "Weigel's 30,000 Reichsthaler" have been moved onto Zagórów (letter
+    284); in 1830 Weigel asks Warsaw to make good his 30,000 thalers struck
+    off the Trąbczyn estates (III. HA MdA, III. Nr. 12367, document 6). The
+    book does not say that its Weygel is the letters' Weigel, and the
+    documents do not mention the auction.
+  de: >-
+    Karwowski (1900) schreibt auf S. 87, dass Karol Bogumił Weygel, ein
+    Breslauer Bankier, die Güter von Zagórów am 1. September 1827 in der
+    Versteigerung kaufte und von den 120.000 złp., die er darauf stehen
+    hatte, nur 56.879 rettete, so dass die Zisterzienserinnen von Ołobok ihre
+    40.000 złp. verloren. In den Briefen soll der Breslauer Bankier Weigel die
+    Hypothek auf die Güter von Zagórów übernehmen (Oe 1 Bü 9454, Brief 220,
+    1811), und 1815 meldet Triebenfeld, „Weigel seine 30000 rt“ seien auf
+    Zagórów übertragen (Brief 284); 1830 verlangt Weigel von Warschau Ersatz
+    für seine 30.000 Taler, die aus den Gütern von Trąbczyn gelöscht worden
+    waren (III. HA MdA, III. Nr. 12367, Dokument 6). Das Buch sagt nicht,
+    dass sein Weygel der Weigel der Briefe ist, und die Dokumente erwähnen
+    die Versteigerung nicht.
+
+# Wąsicki (1953), pp. 174-176: the Hohenlohe colonists of 1805 and their
+# contract, which Wąsicki has from Breyer. The editor asked for the link
+# (2026-11-27). Every figure read in the lease of 1806 (APP 53/968/0/-/801,
+# document 3): "100 Hufen ... Magdeburgischen Maases" of the Drzewiec forest,
+# eighteen named takers, "vier Freyjahre", "30 rth. ... pro hufe",
+# payable "in Johanni" and "in Weynachten", and 15 + 5 + 1 = "21 Morgen" for
+# the schoolteacher, the Schulz and the churchyard.
+- id: wasicki-lease-1806
+  passages:
+    - wasicki1953/174
+    - wasicki1953/175
+    - wasicki1953/176
+  documents:
+    - app539680801-3
+  en: >-
+    Wąsicki (1953) tells of the eighteen families of colonists brought in on
+    Prince Hohenlohe-Ingelfingen's estates in 1805 and of the 100 łany set
+    aside for them, mostly forest. The hereditary lease engrossed on 21 March
+    1806 (APP 53/968/0/-/801, document 3) is that contract: 100 Magdeburg
+    Hufen of the forest of Drzewce let to eighteen named settlers, four free
+    years, then 30 Reichsthaler a Hufe a year at Midsummer and Christmas, and
+    21 Morgen for the teacher, the Schulz and the churchyard, as Wąsicki
+    gives them.
+  de: >-
+    Wąsicki (1953) berichtet von den achtzehn Kolonistenfamilien, die 1805 auf
+    die Güter des Fürsten Hohenlohe-Ingelfingen geholt wurden, und von den
+    100 łany, meist Wald, die für sie bestimmt wurden. Der am 21. März 1806
+    ausgefertigte Erbpachtvertrag (APP 53/968/0/-/801, Dokument 3) ist dieser
+    Vertrag: 100 Magdeburgische Hufen des Waldes von Drzewce an achtzehn
+    namentlich genannte Siedler, vier Freijahre, danach 30 Reichstaler je
+    Hufe im Jahr zu Johanni und Weihnachten, und 21 Morgen für den Lehrer,
+    den Schulzen und den Kirchhof, wie Wąsicki sie angibt.
+  about:
+    wasicki1953/174:
+      en: >-
+        Wąsicki names the Zagórów and Trąbczyn estates the Prince received in
+        1796 and the eighteen families of colonists of 1805; the lease of 1806
+        names the eighteen.
+      de: >-
+        Wąsicki nennt die Güter Zagórów und Trąbczyn, die der Fürst 1796
+        erhielt, und die achtzehn Kolonistenfamilien von 1805; der Pachtvertrag
+        von 1806 nennt die achtzehn mit Namen.
+      documents:
+        - app539680801-3
+    wasicki1953/175:
+      en: >-
+        The 100 łany set aside for only eighteen families, which Wąsicki finds
+        curious: the lease lets 100 Magdeburg Hufen to eighteen takers, sixteen
+        of 5 Hufen and two of 10.
+      de: >-
+        Die 100 łany für nur achtzehn Familien, die Wąsicki merkwürdig findet:
+        der Vertrag verpachtet 100 Magdeburgische Hufen an achtzehn Annehmer,
+        sechzehn zu 5 Hufen und zwei zu 10.
+      documents:
+        - app539680801-3
+    wasicki1953/176:
+      en: >-
+        The terms Wąsicki gives, four free years, 30 thalers a Magdeburg łan at
+        Christmas and St John's, 21 morgen for the teacher, the sołtys and the
+        cemetery, are the lease's own.
+      de: >-
+        Die Bedingungen bei Wąsicki, vier Freijahre, 30 Taler je
+        Magdeburgischem łan zu Weihnachten und Johanni, 21 Morgen für Lehrer,
+        Schulzen und Friedhof, sind die des Vertrags selbst.
+      documents:
+        - app539680801-3

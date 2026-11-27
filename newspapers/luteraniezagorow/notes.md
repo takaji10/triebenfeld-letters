@@ -131,6 +131,11 @@ The index of people and places runs over the items (the editor,
 (`review/newspapers/mentions.md`). Recorded in the sheet's order below
 once the run is made.
 
+- **"Lądu"** ("zakonników z Lądu", the monks of Ląd): matched since the
+  editor had the register's Ląd pattern widened to the inflected forms
+  (2026-11-27), and ruled in. The Polish region names "Śląska, Pomorza,
+  Prus" are still matched by no pattern; nobody has asked for them.
+
 ## Rights
 
 The page is the parish's own, on a site whose footer reads © Walrom 2011,

@@ -60,8 +60,10 @@ published_tag: "" # untagged: cache/translation-raw
 # Polish judgment, French and Polish being a new kind of source here.
 translation_pilot: [1, 6]
 
-# Which era this holding belongs to - reference/eras.yml.
-era: hohenlohe
+# Which era this holding belongs to - reference/eras.yml. The restitution
+# era (the editor, 2026-11-27; it stood in the Hohenlohe-Ingelfingen years
+# until then, as a file about his debts).
+era: restitution
 
 # Which archive holds it - reference/repositories.yml.
 repository: gstapk-berlin

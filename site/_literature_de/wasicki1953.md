@@ -1508,7 +1508,7 @@ The political situation at the time favoured the recruiting of colonists, and so
 </div>
 </section>
 
-<section class="lit-passage" id="p-174" data-page="174">
+<section class="lit-passage has-related" id="p-174" data-page="174">
 <div class="pg" id="p174"><a href="#p174">S. 174</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/174.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/174.jpg' | relative_url }}" alt="Wąsicki (1953), S. 174" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1541,9 +1541,14 @@ The Prince of Hohenlohe-Ingelfingen likewise received in 1796 the Zagórów and 
 <span class="lit-note" id="n-en-87">85</span> Komornicki, o. c., s. 180.
 
 </div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Wąsicki nennt die Güter Zagórów und Trąbczyn, die der Fürst 1796 erhielt, und die achtzehn Kolonistenfamilien von 1805; der Pachtvertrag von 1806 nennt die achtzehn mit Namen.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/app539680801/3/' | relative_url }}">53/968/0/-/801, Dokument 3 (21. März 1806)</a></p>
+</aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-175" data-page="175">
+<section class="lit-passage has-related" id="p-175" data-page="175">
 <div class="pg" id="p175"><a href="#p175">S. 175</a></div>
 {% endraw %}<figure class="lit-figure"><a href="{{ '/assets/literature/wasicki1953/175.jpg' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/literature/wasicki1953/175.jpg' | relative_url }}" alt="Wąsicki (1953), S. 175" loading="lazy"></a></figure>{% raw %}
 <div class="lit-orig" lang="pl" markdown="1">
@@ -1564,9 +1569,14 @@ Pasture set aside for the settling of 4 smallholder colonists at Główna. Domai
 hired labourers were settled. The initiative in winning further settlers and settling them beside the larger colonies was left to the colonists who held considerable areas of land. In the Warta valley near Zagórów there thus arose
 
 </div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Die 100 łany für nur achtzehn Familien, die Wąsicki merkwürdig findet: der Vertrag verpachtet 100 Magdeburgische Hufen an achtzehn Annehmer, sechzehn zu 5 Hufen und zwei zu 10.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/app539680801/3/' | relative_url }}">53/968/0/-/801, Dokument 3 (21. März 1806)</a></p>
+</aside>{% raw %}
 </section>
 
-<section class="lit-passage" id="p-176" data-page="176">
+<section class="lit-passage has-related" id="p-176" data-page="176">
 <div class="pg" id="p176"><a href="#p176">S. 176</a></div>
 <div class="lit-orig" lang="pl" markdown="1">
 
@@ -1622,6 +1632,11 @@ Already in 1793, immediately after the entry of the Prussian troops, when the ac
 <span class="lit-note" id="n-en-93">91</span> Prümers R., Das Jahr 1793. s. 89.
 
 </div>
+{% endraw %}<aside class="lit-related">
+<p class="lit-related-head">Bezüge</p>
+<p>Die Bedingungen bei Wąsicki, vier Freijahre, 30 Taler je Magdeburgischem łan zu Weihnachten und Johanni, 21 Morgen für Lehrer, Schulzen und Friedhof, sind die des Vertrags selbst.</p>
+<p class="lit-related-docs"><a href="{{ '/documents/app539680801/3/' | relative_url }}">53/968/0/-/801, Dokument 3 (21. März 1806)</a></p>
+</aside>{% raw %}
 </section>
 
 <section class="lit-passage" id="p-176-u1">

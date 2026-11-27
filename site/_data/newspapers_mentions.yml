@@ -15,6 +15,26 @@ person:
     - key: item
       en: The item
       de: Das Stück
+  miaczynski:
+  - slug: dziennikpoznanski18791220
+    cite: Dziennik Poznański (1879)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
+  - slug: twojaslupca20150706
+    cite: TwojaSłupca (2015)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
+  miaczynski-wlodzimierz:
+  - slug: twojaslupca20150706
+    cite: TwojaSłupca (2015)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
   mielke:
   - slug: ostdeutscherbeobachter19420197
     cite: Ostdeutscher Beobachter (1942)
@@ -53,6 +73,18 @@ place:
   lad:
   - slug: kuryerpolski1754075
     cite: Kuryer Polski (1754)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
+  - slug: luteraniezagorow
+    cite: Luteranie Konin, bd. (the site © 2011)
+    pages:
+    - key: item
+      en: The item
+      de: Das Stück
+  - slug: twojaslupca20150706
+    cite: TwojaSłupca (2015)
     pages:
     - key: item
       en: The item

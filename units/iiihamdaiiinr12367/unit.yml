@@ -58,10 +58,9 @@ status: translated            # draft | transcribed | translated | published
 # (cache/translation-raw), as Nr. 12366 was: see notes.md.
 published_tag: ""
 
-# Which era this holding belongs to - reference/eras.yml. As for Nr. 12366,
-# the editor has still to say whether this file belongs here or in the
-# restitution era.
-era: hohenlohe
+# Which era this holding belongs to - reference/eras.yml. The restitution
+# era, with Nr. 12366 (the editor, 2026-11-27).
+era: restitution
 
 # Which archive holds it - reference/repositories.yml.
 repository: gstapk-berlin

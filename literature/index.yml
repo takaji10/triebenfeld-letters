@@ -220,11 +220,12 @@ people:
       except:
         feuerbraende1807/2-71: the government councillor at Posen, given Tarnowo
         feuerbraende1807/2-74: the government councillor, in the Gurowski divorce
+        lukasiewicz1997/61: the donatary of Tabela 4, the edition's Grevenitz (the editor, 2026-11-27)
     # Łukasiewicz (1997), Tabela 4 n. 7 (p. 61): the donatary Grävenitz, whose
     # affair Cölln's Feuerbrände carried (I, 132; V, 66, 109, 110; Grünhagen
-    # s. 294-295). Not read as the edition's Kammergerichtsrat von Grevenitz
-    # of Berlin; the identity is open (NEEDS_CONFIRMATION, "The literature").
-    Grävenitza: "no: the donatary Grävenitz of Tabela 4 and his affair in Cölln's Feuerbrände, not read as the edition's Kammergerichtsrat von Grevenitz"
+    # s. 294-295), is the edition's von Grevenitz (the editor, 2026-11-27:
+    # "Grävenitz is Grevenitz").
+    Grävenitza: yes
   grimm:
     # Kneifel (1964) p. 93: "Pastor Grimm in Stawiszyn", who wrote the report
     # on the schools of the Kalisch land for the Posen consistory about 1800 -
@@ -581,8 +582,7 @@ people:
     # government, from Warsaw on 23 October 1828, that the Cistercian Nuns'
     # 40,000 złp. on Zagórów was lost. The Kingdom of Poland's minister
     # secretary of state, the Sobolewski of the edition's reply of 1820, sat
-    # at Warsaw. Claude's identification, not yet accepted by the editor
-    # (docs/NEEDS_CONFIRMATION.md).
+    # at Warsaw. Claude's identification, accepted by the editor (2026-11-27).
     Sobolewski:
       default: yes
       except:
@@ -605,11 +605,10 @@ people:
     # with debts of 2,000,000 złp. resting on it, mortgaged the Cistercian
     # Nuns' 40,000 złp. on it in 1814, and lost the estates at auction in
     # 1827. The letters' Ignatz von Trzciński owed the Prince on bills from
-    # 1813 and died in December 1815; the dates and the purchase would fit
-    # the buyer of 1812, but the identity is not settled (the letters also
-    # have a "Major Trzciński"). Claude's question, ruled out until it is
-    # (docs/NEEDS_CONFIRMATION.md).
-    Trzciński: "no: Karwowski's Ignacy Trzciński, buyer of Zagórów 1812, not shown to be the letters' Ignatz von Trzciński"
+    # 1813 and died in December 1815. The same man (the editor, 2026-11-27:
+    # "Trzciński is the letters' Ignatz"); the auction of 1827 came after
+    # his death.
+    Trzciński: yes
   voss:
     Voss:
       default: yes
@@ -627,11 +626,12 @@ people:
   weigel:
     Weigel: "no: the brandy clerk Weigelt (Held p. 191), not the banker Weigel"
     # Karwowski (1900): "Karol Bogumił Weygel, bankier wrocławski", who bought
-    # the Zagórów estates at auction on 1 September 1827. Whether he is the
-    # letters' Carl Ferdinand Weigel, his son ("Weigel und Sohn") or Breyer's
-    # K. G. von Weigel is not shown, and the given names differ from Carl
-    # Ferdinand's (docs/NEEDS_CONFIRMATION.md).
-    Weygel: "no: Karwowski's Karol Bogumił Weygel, not shown to be the banker Weigel or his son"
+    # the Zagórów estates at auction on 1 September 1827. He is Breyer's
+    # K. G. von Weigel of Hennersdorf, owner of Zagórów from 1828 (the editor,
+    # 2026-11-27). Whether that man is the letters' Carl Ferdinand Weigel or
+    # his son ("Weigel und Sohn") is still not shown, and the given names
+    # differ from Carl Ferdinand's (docs/NEEDS_CONFIRMATION.md; to-do t923).
+    Weygel: "no: Karwowski's Karol Bogumił Weygel (Breyer's K. G. von Weigel), not shown to be the banker Carl Ferdinand Weigel or his son"
   werner:
     Werner: "no: the city president Werner at Breslau, and Olęders named Werner (Chodyła 2015); not the cabinet councillor of 1804"
   wybicki:
@@ -675,14 +675,15 @@ people:
     # Łukasiewicz (1997), p. 51: the chamber councillor Schmaling, dismissed
     # for malversations in 1804/5. The edition's Schmaling is the Landrat von
     # Schmaling, owner of the Głażewo Vorwerk (Oe 1 Bü 14526, letter 19); no
-    # reading ties the two men (NEEDS_CONFIRMATION, "The literature").
+    # reading ties the two men; the editor does not know either (2026-11-27:
+    # nothing to be done with it).
     Schmaling: "no: the Poznań chamber councillor dismissed for malversations in 1804/5; not read as the edition's Landrat von Schmaling of Głażewo"
   von-der-reck:
     # Łukasiewicz (1997), p. 33 n. 9: the Freiherr v. d. Reck addressed by
     # Voß on 12 I 1804 about the church funds. Which Freiherr von der Reck of
     # the several of the name is not settled; not ruled to the edition's
-    # minister of state and justice Eberhard von der Reck
-    # (NEEDS_CONFIRMATION, "The literature").
+    # minister of state and justice Eberhard von der Reck; the editor does
+    # not know either (2026-11-27: nothing to be done with it).
     Reck: "no: the Freiherr v. d. Reck of Voß's letter of 12 I 1804, not settled which of the name, not read as the edition's Eberhard von der Reck"
   albrecht:
     # Kraus (2001) p. 35: "der allein regierende Albrecht von Hohenlohe"
@@ -1013,6 +1014,11 @@ places:
   tarmowo:
     Tarnowo: "no: the Tarnowo two miles from Posen given to Lüttichau and Grävenitz; not shown to be the Tarnowo of the Prince's grant of 1797"
   trabczyn:
+    # The Słownik geograficzny's old forms in the head of its Trąbczyn entry
+    # (c22: "r. 1240 Trampczino ... w XVI w. Trampczyno"), matched since the
+    # register's pattern was widened (the editor, 2026-11-27).
+    Trampczino: yes
+    Trampczyno: yes
     Trombczyn: yes
     Trobozyn: yes
     Trąbczyn: yes
@@ -1280,6 +1286,12 @@ places:
     # Zagórów, and whose German monks fled with the records to Heinrichau
     # in 1553 - the monastery at the edition's village of Ląd.
     Ląd: yes
+    # The forms the register took in on 2026-11-27 (the editor: "Yes, extend
+    # them"), each read: the Słownik geograficzny's "klasztorowi w Lądzie",
+    # "przy grodzie w Lądzie", "klasztoru w Lądzie" (c31, c32, c33, c36) and
+    # "klasztorowi lądzkiemu" (c32) - the abbey of Ląd.
+    Lądzie: yes
+    lądzkiemu: yes
   liegnitz:
     # The Prince's Liegnitz (and any work's) stands; Werner (1904) names it
     # only as the birthplace and government district of two pastors of the

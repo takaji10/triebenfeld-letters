@@ -73,7 +73,7 @@ def hits(patterns=None):
     edition_rx = collections.defaultdict(list)
     for kind, auth in authority.items():
         for slug, _, rx in auth:
-            edition_rx[(kind, slug)].append(getattr(rx, 'rx', rx))
+            edition_rx[(kind, slug)].append(rx)
     out = []
     for it in items():
         slug = it['slug']
@@ -86,8 +86,13 @@ def hits(patterns=None):
                'pages': [{'diplomatic': text, 'page': '1', 'line_start': 1}]}
         for kind, auth in authority.items():
             found = entities._mentions(rec, auth, kind)
+            # a press-only form the edition's own pattern already takes is
+            # dropped, but only where that pattern may match in this item: an
+            # entry pinned to other documents (only_in) never matched here
+            # (as literature_index.hits; the 2015 report's Włodzimierz, 2026-11-27)
             found += [m for m in entities._mentions(rec, extra.get(kind, []), kind)
-                      if not any(rx.fullmatch(m['surface'])
+                      if not any(getattr(rx, 'rx', rx).fullmatch(m['surface'])
+                                 and literature_index._applies_or_true(rx, rec['uid'])
                                  for rx in edition_rx[(kind, m['entity'])])]
             for m in sorted(found, key=lambda m: m['line']):
                 out.append({'kind': kind, 'entity': m['entity'], 'display': m['display'],

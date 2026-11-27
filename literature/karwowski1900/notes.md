@@ -98,6 +98,27 @@ Cysterskom" is dative: "lost to the Cistercian Nuns". Names keep the Polish
 forms: Hohenlohe-Ingelfingen, Ignacy Trzciński, Karol Bogumił Weygel (the
 letters spell "Weigel"), Sobolewski.
 
+## The editor's rulings (2026-11-27)
+
+- **Ignacy Trzciński** is the letters' Ignatz von Trzciński (the index rules
+  the hit in). The letters report his death in December 1815, so the
+  auction of 1827 that Karwowski tells came after it.
+- **Karol Bogumił Weygel** is the same man as Breyer's (1938) K. G. von
+  Weigel of Hennersdorf. The editor writes the initial "G[ottfried]"; Bogumił
+  is usually the Polish form of Gottlieb, so the expansion is not taken over.
+  Whether he is the letters' Carl Ferdinand Weigel or his son is still open
+  (to-do t923); the index keeps the hit refused until then.
+- **Minister Sobolewski** is the Kingdom of Poland's minister secretary of
+  state (Claude's identification, accepted).
+- **The hand-made link** `karwowski-weigel` to the Weigel documents
+  (Oe 1 Bü 9454, letters 220 and 284; III. HA MdA, III. Nr. 12367,
+  document 6). The book's figures (the auction of 1 September 1827, the
+  56,879 of 120,000 złp., the 40,000) are not in those documents; the link
+  says what each side says and that the book does not tie its Weygel to the
+  letters' Weigel. The 30,000 Reichsthaler moved onto Zagórów (letter 284)
+  and the 30,000 thalers struck off Trąbczyn (12367, 6) were read in the
+  originals.
+
 ## Copyright
 
 Karwowski died in 1917; the work is of 1900. Out of copyright, hence

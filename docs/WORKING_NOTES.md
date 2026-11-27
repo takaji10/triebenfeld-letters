@@ -5457,6 +5457,37 @@ things learned while measuring it:
   `Cond[e]s[ce]n[s]i[oni]s`). Two gaps are left as matched left to right, so that a gap stands where the
   tilde is (`v[e]n[ien]tis`, the form the editor approved).
 
+## The editor's to-do answers applied (2026-11-27)
+
+- **A holding's era is written into its database by `build_db.py`**, not read from `unit.yml`
+  when the site is built: after changing `era:` run `build_db.py --unit <slug>` for each holding,
+  then merge_corpus, build_dataset and build_site_data, and check `dataset/documents/<uid>.json`
+  and the `site/_letters/` front matter say the new era. A timeline event carries its own `era:`
+  in `site/_data/timeline.yml`; move it with its documents.
+- **`pattern_impact.py` prints six lines and "... and N more"**: the unprinted lines are hits too.
+  Widening Trąbczyn's pattern to `Trampcz[iy]n` caught two court-book documents besides the
+  Kodeks's that the sample hid (Konin Gr.118, 27, "Dziedziny Trampczyna"; 53/6/0/-/36, 1,
+  "Villae Trampczyno"). Read the changed `dataset/documents/*.json` after the rebuild: every
+  document that gains a mention is listed there.
+- **A widened register pattern reaches the literature and the press as well**: rerun
+  `literature_index.py --check` and `newspapers_index.py --check`, and rule each new pair after
+  reading it (`literature_index.py --sheet`, review/literature/mentions.md).
+- **A press-only pattern for a person whose register pattern is pinned (`only_in`) was dropped**
+  by `newspapers_index.py`: it threw away any extra hit the edition's pattern could fullmatch,
+  without asking whether that pattern applies to the item. Fixed as the literature index was
+  (`_applies_or_true`); the 2015 report's Włodzimierz Miączyński now stands.
+- **The literature index already fails its `--check`** on the morning's place forms (43 pairs:
+  Łukomie, Maryantów, Olesnicza, Osina, Rogal, "Chełmskie" and a stale `chemski` block, after "the
+  place index reads the Latin"): not from this work, and verify_site does not run it, but
+  `regenerate.py` will stop there until they are ruled.
+- **The doubt mark of a reading the editor confirms** is lifted in `corpus.txt` in place (the one
+  file no build rewrites), with a row in the holding's `transcription_decisions.csv` saying why;
+  a holding whose corrections are logged refuses `holding.py --write`. Then resolve_linebreaks,
+  resolve_paragraphs, build_db for that holding, its English in `intake/english.py`,
+  `holding.py --english --cache`, check_translations and publish_translations.
+- **Links that seem missing on a document page** are in the "About this document" panel, which is
+  closed by default (the editor saw none on letter 85).
+
 ## The Latin audit begun on the desktop (2026-11-27)
 
 - **The pilot, Konin Gr.115** (9 scans, 11 entries): two Sonnet led readers (half the pages each) used
@@ -5469,7 +5500,11 @@ things learned while measuring it:
   build_db (each `--unit <slug>`), then merge_corpus, build_dataset, check_mentions_join,
   connections_site, build_site_data, person_pages --quiet, search_indexes. An in-line correction moves no
   line, so match_scans is not needed. `build_site_data.py` again rewrote four unrelated
-  `site/_holdings/*.md`: check them out before committing.
+  `site/_holdings/*.md`: **keep them** (corrected 2026-11-27). They are agad14320139,
+  app53170koningr153, ihagrrep7cnr3709 and iiihamdaiiinr12367, whose `about.md` lost its merge
+  markers on 2026-11-25 ("Merge markers in a holding page"); the site copies were never rebuilt, so
+  the live pages still printed the `>>>`/`<<<`/`===` blocks, and checking the rewrite out put the
+  markers back each time. Read the diff: a rewrite that removes markers is the fix.
 - **`verify_site.py` fails on the desktop** on `site/genealogy/node_modules/fdir/README.md` (a link that
   bypasses relative_url): the folder is git-ignored and exists only on this PC, so CI does not see it.
   Read past that one failure.

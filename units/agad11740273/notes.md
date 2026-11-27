@@ -89,10 +89,15 @@ Document 1 answers 3 (the case "referred to us by the Emperor"); 4 answers 1
 `reference/correspondents.yml` (Regierungskommission, Michalina Dąbska,
 Napoleon).
 
-**Era.** `hohenlohe` for now, as the act that ended his possession. By
-`reference/eras.yml` the two AGAD holdings are the first documents of the
-restitution era, which is still empty; moving them there needs the editor's
-word and a rewrite of `site/the-story.md`.
+**Era.** `hohenlohe` at first, as the act that ended his possession; the
+editor moved both AGAD holdings to the restitution era on 2026-11-27, of
+which they are the first documents.
+
+**The crops.** Approved by the editor (2026-11-27), with one change: page 2
+of document 3 (0008_a1, the address on the back of the French petition)
+turned a quarter clockwise so that the address reads across
+(`intake/build_pages.py`, TURN; the original in pages/ and the site's copy
+turned with it).
 
 ## Worth knowing from the reading
 
@@ -157,7 +162,6 @@ in `intake/translation/doc<N>.yml`, written into the untagged cache by
 
 ## Still to do
 
-- The editor's ruling on the era.
 - Reading the English against the scans.
 - The words in `intake/unresolved.md`. The struck clause of the draft is
   settled: the editor ruled on 2026-10-05 that struck-out text is not
