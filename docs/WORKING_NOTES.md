@@ -5533,3 +5533,6 @@ things learned while measuring it:
   `python pipeline/review/latin_audit.py serve` (http://127.0.0.1:4102/), a button per option plus "Can't
   tell" and "Something else", every answer saved at once to review/latin_audit/answers.json, read back with
   `serve --read`. Testing a save writes into the server's memory too: restart it after a test.
+- **`reference/todo.yml`: quote any text with a colon in it** ("C:, D:", an address with "http:"); twice in
+  one sitting a plain text broke the YAML. And `build_todo.py | tail -1 && git commit` commits even when the
+  build fails (the pipe hides the exit code): run the build, then `--check`, then commit.
