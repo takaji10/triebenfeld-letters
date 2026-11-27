@@ -5582,3 +5582,9 @@ things learned while measuring it:
   typing ("Quadragina") is checked on the band, not copied.
 - **The Bash tool cannot take a heredoc holding an odd number of apostrophes** ("unexpected EOF while looking
   for matching `''"), quoted delimiter or not. Write the script to the scratchpad with the Write tool and run it.
+- **Edit the English with `pipeline/translate/edit_english.py`** (2026-11-27). It takes a JSON of
+  {uid: [[old, new], ...]}, applies each edit once on the committed site file (matched across line wraps),
+  writes the cache with the current source hash, then checks and publishes the holding, one process per
+  holding (translate.py rewraps stdout on import, and a second import in one process closes it). Read the
+  word-diff afterwards. It leaves doc<N>.yml and holding.py FIXES alone: note the edit in the holding's notes.
+  The Latin audit's impact sweep is the first use (reference/latin_audit/english_impact*.json).

@@ -111,3 +111,5 @@ follows by two FIXES in `intake/holding.py`. The same man is Jachimowicz and Joa
 which stand as written.
 
 **Nothing dropped: the king's titles** (the editor, 2026-11-27, on the audit's spot sheet: "Write the titles out in every royal citation if they were there to begin with ... You should not be considering dropping anything in the transcribed text, ever!"). Every "etc.", "&c" and "…" of the court books was read on the scan by two Sonnet readers, each place settled by Claude on the band (`intake/latin_audit_titles.json`, logged in transcription_decisions.csv). Leaf 35 verso: the page writes "&c." where the transcription had "[etcetera]"; leaf 78 verso already reads "&c". The English "etc." stands for both.
+
+**The impact sweep** (2026-11-27, after the editor's review of the audit): the dating notes of documents 4, 5 and 6 now give the bounding sitting as 2 April 1778 (foot of leaf 58 verso), in rulings.yml, the German in reference/site_notes_de.yml and the claim check.

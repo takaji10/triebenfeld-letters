@@ -138,3 +138,5 @@ The summary was written in German from the corrected Latin and translated into E
 ## The Latin audit (2026-11-27)
 
 Read by a Sonnet led reader and a Sonnet blind reader on the original scans; Claude settled on band s04 of leaf 673 verso. Corrected: "praevenire", "Thelonei". Not changed: "praesentibus eisdem" (the readers saw "partibus esse..." but could not read it), "quandoquidem" (the page has "quando q~", the transcription's written-out form).
+
+**The impact sweep** (2026-11-27, after the editor's review of the audit): the translator's note on the customs post now says the page writes "Thelonei" both times.

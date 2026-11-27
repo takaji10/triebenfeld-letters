@@ -307,3 +307,5 @@ transcription_decisions.csv; the English follows (doc1.yml, republished).
   Uniejów" was Claude's and is corrected in the English, reference/people.yml and people_bios.yml
   (`intake/add_people.py` is the October record and is not re-run). "Subdapiferida" likewise is the son of the
   sub-dapifer.
+
+**The impact sweep** (2026-11-27, after the editor's review of the audit): the English follows the audit's 75 corrections, 35 edits by `pipeline/translate/edit_english.py` (`reference/latin_audit/english_impact_1181.json`) on the live English: the Starost's 72,876 złoty 24 groszy, 41,938, "to be ceded", "especially by the late Antoni", "while both parents were still in life", "Moreover the sum of eight thousand", "the Eleven Thousand Virgins", Kościan for the court of "Costen~" (it had been Gostynin), the line restored on 167 verso, and some twenty doubt marks the corrections settled. doc1.yml is behind the live English (the faithfulness review of 2026-11-04 and these edits are in the cache and the site file only).

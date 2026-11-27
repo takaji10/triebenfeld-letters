@@ -103,3 +103,5 @@ The summaries were written in German from the Latin and translated into English.
 ## The Latin audit (2026-11-27)
 
 Read again in the audit's lighter pass (2026-11-27): Sonnet readers on the original scans, at most four pages each, looking only for skipped words, marks of doubt and tilde forms (the holding was checked word by word in October); a Sonnet blind reader read the places that would change the text; two readers agreeing was taken as proof for these small changes, which Claude did not each see on the band. Every band of the 26 pages read (after first readers had read only the whole pages: WORKING_NOTES). No skipped words. Corrected: "item alneaticum" (not "iterum", leaf 1402), and the clerk's doubled "Chełmski Chełmski" (leaf 1400 verso, across a line end), kept as written. On the spot sheet: an insertion at the foot of leaf 1401 verso ("quaevis cubitus … complectens") that the reader could not read.
+
+**The impact sweep** (2026-11-27, after the editor's review of the audit): the English: "likewise alder the 22nd" (item, not iterum).

@@ -55,3 +55,5 @@ The summary was written in German from the Latin and Polish and translated into 
 ## The Latin audit (2026-11-27)
 
 Read on the original scans by a Sonnet led reader and a Sonnet blind reader; Claude settled on bands s06 and s07 of leaf 564. Corrected: "Coninensem", "Suprascripto", "presenttes" (for "praesentatos": the animals stood "present" before the chancery, not "presented"; the English follows after the editor's review), and the clerk's spelling "Extradionis", "Extradionem", which Claude saw on the band and the readers did not report. Both readers read "ho-" at a line end as "ho nunc"; the next line begins "rumce", so "horumce" stands.
+
+**The impact sweep** (2026-11-27, after the editor's review of the audit): the English: the animals "stood present before the Chancellery" (for "[he] presented").

@@ -168,3 +168,5 @@ No event is added to the timeline: the entry names no party and bears directly o
 ## The Latin audit (2026-11-27)
 
 Read by a Sonnet led reader and a Sonnet blind reader on the original scan; Claude settled on band s07. Corrected: "Citt~ detulisse" for "praeterita[?] detulisse[?]" (the abbreviation as in the line above); "firma" with a lower-case f, which answers the open question Firma/Forma. The English should be read against "Citt~" in the impact sweep.
+
+**The impact sweep** (2026-11-27, after the editor's review of the audit): the English: "that he had carried it", and "on the Thursday next" with the page's second "Citt~" noted (the doubtful "past" was the misreading).
