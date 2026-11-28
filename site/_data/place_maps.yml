@@ -2,8 +2,32 @@
 # Per place of the gazetteer: the maps that show it, the appearances in date
 # order; absent items are not appearances and are not here (docs/MAPS_SITE_PLAN.md,
 # section 4).
+adamierz:
+  appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Adamierz
+    note: null
+    label: reymann1834-041
+    crop: /assets/maps/crops/reymann1834/reymann1834-041.jpg
+    refs: []
+  maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-041
 anielewo:
   appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Engelfingen
+    note: null
+    label: reymann1834-049
+    crop: /assets/maps/crops/reymann1834/reymann1834-049.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -14,6 +38,9 @@ anielewo:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-030.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-049
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-030
@@ -22,11 +49,11 @@ augustinow:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: Hol. Augustinow
     note: null
-    label: null
-    crop: null
+    label: reymann1834-003
+    crop: /assets/maps/crops/reymann1834/reymann1834-003.jpg
     refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
@@ -38,6 +65,9 @@ augustinow:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-016.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-003
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-016
@@ -88,11 +118,11 @@ biskupice-karczma:
   - map: pambo1803
     cited_as: Pambo 1803
     year: 1801
-    in_project: false
+    in_project: true
     form: null
     note: labelled as a tavern and field belonging to Biskupice [estate]
-    label: null
-    crop: null
+    label: pambo1803-002
+    crop: /assets/maps/crops/pambo1803/pambo1803-002.jpg
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -112,7 +142,10 @@ biskupice-karczma:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: pambo1803
+    cited_as: Pambo 1803
+    label: pambo1803-002
 budy:
   appearances:
   - map: lukom1766
@@ -127,11 +160,20 @@ budy:
   - map: hollring1804
     cited_as: Hollring 1804
     year: 1805
-    in_project: false
+    in_project: true
     form: Budy Łukomskie
     note: null
-    label: null
-    crop: null
+    label: hollring1804-002
+    crop: /assets/maps/crops/hollring1804/hollring1804-002.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Lukomskie budy
+    note: null
+    label: reymann1834-047
+    crop: /assets/maps/crops/reymann1834/reymann1834-047.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -164,6 +206,12 @@ budy:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-002
+  - map: hollring1804
+    cited_as: Hollring 1804
+    label: hollring1804-002
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-047
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-028
@@ -178,6 +226,15 @@ bukowe:
     label: null
     crop: null
     refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Bukowo
+    note: null
+    label: reymann1834-057
+    crop: /assets/maps/crops/reymann1834/reymann1834-057.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -188,9 +245,27 @@ bukowe:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-018.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-057
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-018
+chrusciki:
+  appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Adelow
+    note: null
+    label: reymann1834-091
+    crop: /assets/maps/crops/reymann1834/reymann1834-091.jpg
+    refs: []
+  maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-091
 cygany:
   appearances:
   - map: krolikow1800
@@ -227,6 +302,15 @@ czarnybrod:
     label: null
     crop: null
     refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Czarny Brod
+    note: null
+    label: reymann1834-079
+    crop: /assets/maps/crops/reymann1834/reymann1834-079.jpg
+    refs: []
   - map: richter1843
     cited_as: Richter 1843
     year: 1843
@@ -236,7 +320,10 @@ czarnybrod:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-079
 czerwonka:
   appearances:
   - map: kozlowski1861
@@ -263,6 +350,15 @@ dluga-gorka:
     label: null
     crop: null
     refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Długa Górka
+    note: null
+    label: reymann1834-031
+    crop: /assets/maps/crops/reymann1834/reymann1834-031.jpg
+    refs: []
   - map: zagorow1841
     cited_as: Zagórów 1841
     year: 1841
@@ -282,6 +378,9 @@ dluga-gorka:
     crop: null
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-031
   - map: zagorow1841
     cited_as: Zagórów 1841
     label: zagorow1841-004
@@ -290,11 +389,20 @@ drzewce:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Drziwza
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-003
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-003.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Drzewce
+    note: null
+    label: reymann1834-059
+    crop: /assets/maps/crops/reymann1834/reymann1834-059.jpg
     refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
@@ -306,21 +414,42 @@ drzewce:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-014.jpg
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-003
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-059
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-014
 drzezgi:
   appearances:
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Dręzgi
+    note: null
+    label: trabczyn1790-012
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-012.jpg
+    refs: []
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: reymann1834-005
+    crop: /assets/maps/crops/reymann1834/reymann1834-005.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-012
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-005
 dziadolina:
   appearances:
   - map: gilly1802
@@ -492,11 +621,20 @@ gradzyn:
   - map: hollring1804
     cited_as: Hollring 1804
     year: 1805
-    in_project: false
+    in_project: true
     form: Haulanderei Grądzyn
     note: as part of the Kopojno estate
-    label: null
-    crop: null
+    label: hollring1804-004
+    crop: /assets/maps/crops/hollring1804/hollring1804-004.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Gradzin
+    note: null
+    label: reymann1834-055
+    crop: /assets/maps/crops/reymann1834/reymann1834-055.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -520,6 +658,12 @@ gradzyn:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-004
+  - map: hollring1804
+    cited_as: Hollring 1804
+    label: hollring1804-004
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-055
 huta-lukomska:
   appearances:
   - map: lukom1766
@@ -564,6 +708,15 @@ huta-lukomska:
     label: lukom1766-006
 huta-trabczynska:
   appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Stara Huta Olędry
+    note: null
+    label: reymann1834-075
+    crop: /assets/maps/crops/reymann1834/reymann1834-075.jpg
+    refs: []
   - map: richter1843
     cited_as: Richter 1843
     year: 1843
@@ -601,11 +754,23 @@ huta-trabczynska:
     crop: null
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-075
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-053
 imielanka:
   appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Jemielanka
+    note: null
+    label: reymann1834-035
+    crop: /assets/maps/crops/reymann1834/reymann1834-035.jpg
+    refs: []
   - map: richter1843
     cited_as: Richter 1843
     year: 1843
@@ -624,7 +789,10 @@ imielanka:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-035
 imielno:
   appearances:
   - map: lukom1766
@@ -635,6 +803,15 @@ imielno:
     note: 'shown as deserted (the entry: "dezerta is Polish for an abandoned place")'
     label: lukom1766-009
     crop: /assets/maps/crops/lukom1766/lukom1766-009.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Jemielna
+    note: null
+    label: reymann1834-037
+    crop: /assets/maps/crops/reymann1834/reymann1834-037.jpg
     refs: []
   - map: zagorow1841
     cited_as: Zagórów 1841
@@ -658,6 +835,9 @@ imielno:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-009
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-037
   - map: zagorow1841
     cited_as: Zagórów 1841
     label: zagorow1841-006
@@ -690,11 +870,11 @@ koczogowa:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: vonpfau1770-005
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-005.jpg
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -705,7 +885,10 @@ koczogowa:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-005
 kolonia-wrabczyn:
   appearances:
   - map: mapadrogi1890
@@ -726,11 +909,11 @@ kopojno:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Kopaino
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-007
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-007.jpg
     refs: []
   - map: perthees1798
     cited_as: Perthées 1798
@@ -749,6 +932,15 @@ kopojno:
     note: with a windmill
     label: null
     crop: null
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Kopoino
+    note: null
+    label: reymann1834-087
+    crop: /assets/maps/crops/reymann1834/reymann1834-087.jpg
     refs: []
   - map: chrzanowski1858
     cited_as: Chrzanowski 1858
@@ -778,6 +970,12 @@ kopojno:
     crop: null
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-007
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-087
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-062
@@ -807,11 +1005,11 @@ kosciolkow:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: Kosciółki
     note: null
-    label: null
-    crop: null
+    label: reymann1834-007
+    crop: /assets/maps/crops/reymann1834/reymann1834-007.jpg
     refs: []
   - map: zagorow1841
     cited_as: Zagórów 1841
@@ -832,6 +1030,9 @@ kosciolkow:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-012.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-007
   - map: zagorow1841
     cited_as: Zagórów 1841
     label: zagorow1841-002
@@ -894,13 +1095,16 @@ kuzoi:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: vonpfau1770-009
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-009.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-009
 laski:
   appearances:
   - map: kozlowski1861
@@ -921,11 +1125,11 @@ lazinskie-oledry:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: Lazinskie Hol.
     note: null
-    label: null
-    crop: null
+    label: reymann1834-009
+    crop: /assets/maps/crops/reymann1834/reymann1834-009.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -964,6 +1168,9 @@ lazinskie-oledry:
     crop: null
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-009
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-011
@@ -975,20 +1182,20 @@ lazy-trabczyn:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Lase
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-011
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-011.jpg
     refs: []
   - map: trabczyn1790
     cited_as: Trąbczyn 1790
     year: 1790
-    in_project: false
+    in_project: true
     form: Lasy
     note: null
-    label: null
-    crop: null
+    label: trabczyn1790-002
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-002.jpg
     refs: []
   - map: kozlowski1861
     cited_as: Kozłowski 1861
@@ -1009,6 +1216,12 @@ lazy-trabczyn:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-040.jpg
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-011
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-002
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-043
@@ -1044,11 +1257,11 @@ lomow:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Lumowo
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-013
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-013.jpg
     refs: []
   - map: perthees1798
     cited_as: Perthées 1798
@@ -1071,11 +1284,11 @@ lomow:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: Łamowo
     note: null
-    label: null
-    crop: null
+    label: reymann1834-011
+    crop: /assets/maps/crops/reymann1834/reymann1834-011.jpg
     refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
@@ -1090,11 +1303,26 @@ lomow:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-012
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-013
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-011
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-026
 ludwigslust:
   appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Kolonia Ludwigslust
+    note: null
+    label: reymann1834-085
+    crop: /assets/maps/crops/reymann1834/reymann1834-085.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -1114,6 +1342,9 @@ ludwigslust:
     crop: null
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-085
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-068
@@ -1140,11 +1371,11 @@ lukom:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: null
     note: with a tavern
-    label: null
-    crop: null
+    label: reymann1834-013
+    crop: /assets/maps/crops/reymann1834/reymann1834-013.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -1168,6 +1399,9 @@ lukom:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-014
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-013
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-020
@@ -1206,6 +1440,15 @@ lutow:
   maps_on_site: []
 malgorzatow:
   appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Małgorsatów
+    note: null
+    label: reymann1834-039
+    crop: /assets/maps/crops/reymann1834/reymann1834-039.jpg
+    refs: []
   - map: richter1843
     cited_as: Richter 1843
     year: 1843
@@ -1225,6 +1468,9 @@ malgorzatow:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-024.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-039
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-024
@@ -1233,13 +1479,16 @@ maly:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: reymann1834-015
+    crop: /assets/maps/crops/reymann1834/reymann1834-015.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-015
 maradz:
   appearances:
   - map: kozlowski1861
@@ -1275,6 +1524,15 @@ mariantow:
     label: null
     crop: null
     refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Maryantow
+    note: null
+    label: reymann1834-067
+    crop: /assets/maps/crops/reymann1834/reymann1834-067.jpg
+    refs: []
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
@@ -1294,6 +1552,9 @@ mariantow:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-054.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-067
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-065
@@ -1368,11 +1629,11 @@ michalinow-olesnicki:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: Hol. Emilienhain
     note: null
-    label: null
-    crop: null
+    label: reymann1834-017
+    crop: /assets/maps/crops/reymann1834/reymann1834-017.jpg
     refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
@@ -1384,6 +1645,9 @@ michalinow-olesnicki:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-044.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-017
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-044
@@ -1401,11 +1665,20 @@ myszakow:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Miszokowo
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-015
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-015.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Myszakow
+    note: null
+    label: reymann1834-043
+    crop: /assets/maps/crops/reymann1834/reymann1834-043.jpg
     refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
@@ -1429,6 +1702,12 @@ myszakow:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-016
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-015
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-043
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-022
@@ -1482,6 +1761,33 @@ noga:
     label: pelzucki1896-012
 nowawies-trabczyn:
   appearances:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    year: 1770
+    in_project: true
+    form: Nowawies
+    note: null
+    label: vonpfau1770-047
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-047.jpg
+    refs: []
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Nowawies
+    note: null
+    label: trabczyn1790-020
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-020.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Nowawies
+    note: null
+    label: reymann1834-063
+    crop: /assets/maps/crops/reymann1834/reymann1834-063.jpg
+    refs: []
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
@@ -1501,6 +1807,15 @@ nowawies-trabczyn:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-046.jpg
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-047
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-020
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-063
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-037
@@ -1512,11 +1827,11 @@ olchowo:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: Hol. Sophienthal
     note: null
-    label: null
-    crop: null
+    label: reymann1834-019
+    crop: /assets/maps/crops/reymann1834/reymann1834-019.jpg
     refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
@@ -1528,11 +1843,32 @@ olchowo:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-070.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-019
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-070
 olesnica:
   appearances:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    year: 1770
+    in_project: true
+    form: Olisniza
+    note: null
+    label: vonpfau1770-045
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-045.jpg
+    refs: []
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Olesnica
+    note: null
+    label: trabczyn1790-018
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-018.jpg
+    refs: []
   - map: gilly1802
     cited_as: Gilly 1802
     year: 1802
@@ -1541,6 +1877,15 @@ olesnica:
     note: First appeared with a windmill
     label: null
     crop: null
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Olesnica
+    note: null
+    label: reymann1834-081
+    crop: /assets/maps/crops/reymann1834/reymann1834-081.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -1570,6 +1915,15 @@ olesnica:
     crop: null
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-045
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-018
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-081
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-066
@@ -1590,11 +1944,20 @@ osiny:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Oszin
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-017
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-017.jpg
+    refs: []
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Osiny
+    note: null
+    label: trabczyn1790-014
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-014.jpg
     refs: []
   - map: perthees1798
     cited_as: Perthées 1798
@@ -1604,6 +1967,15 @@ osiny:
     note: von Pfau 1770)
     label: null
     crop: null
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Osiny
+    note: null
+    label: reymann1834-071
+    crop: /assets/maps/crops/reymann1834/reymann1834-071.jpg
     refs: []
   - map: kozlowski1861
     cited_as: Kozłowski 1861
@@ -1624,6 +1996,15 @@ osiny:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-042.jpg
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-017
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-014
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-071
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-039
@@ -1644,6 +2025,33 @@ ostrowiec:
   maps_on_site: []
 podbiel:
   appearances:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    year: 1770
+    in_project: true
+    form: Podbialla
+    note: null
+    label: vonpfau1770-037
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-037.jpg
+    refs: []
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Podbiele
+    note: null
+    label: trabczyn1790-028
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-028.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Podbiel
+    note: null
+    label: reymann1834-095
+    crop: /assets/maps/crops/reymann1834/reymann1834-095.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -1663,11 +2071,38 @@ podbiel:
     crop: null
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-037
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-028
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-095
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-052
 porabki:
   appearances:
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Porąbki
+    note: null
+    label: trabczyn1790-010
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-010.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Porabki
+    note: null
+    label: reymann1834-069
+    crop: /assets/maps/crops/reymann1834/reymann1834-069.jpg
+    refs: []
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     year: 1861
@@ -1678,6 +2113,12 @@ porabki:
     crop: /assets/maps/crops/kozlowski1861/kozlowski1861-034.jpg
     refs: []
   maps_on_site:
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-010
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-069
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-034
@@ -1773,11 +2214,11 @@ rosciszewo:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Rostrziczewo
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-019
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-019.jpg
     refs: []
   - map: krolikow1800
     cited_as: Królików 1800
@@ -1791,11 +2232,20 @@ rosciszewo:
   - map: pambo1803
     cited_as: Pambo 1803
     year: 1801
-    in_project: false
+    in_project: true
     form: Vorwerk Rosciszew
     note: null
-    label: null
-    crop: null
+    label: pambo1803-004
+    crop: /assets/maps/crops/pambo1803/pambo1803-004.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Rosciszewo
+    note: null
+    label: reymann1834-051
+    crop: /assets/maps/crops/reymann1834/reymann1834-051.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -1810,6 +2260,15 @@ rosciszewo:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-018
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-019
+  - map: pambo1803
+    cited_as: Pambo 1803
+    label: pambo1803-004
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-051
 rydlowa-gora:
   appearances:
   - map: messtischblatt1940
@@ -1827,25 +2286,31 @@ ryjew:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: Ryiewo
     note: null
-    label: null
-    crop: null
+    label: reymann1834-021
+    crop: /assets/maps/crops/reymann1834/reymann1834-021.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-021
 sadornicz:
   appearances:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: vonpfau1770-021
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-021.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-021
 sklanna-huta:
   appearances:
   - map: gilly1802
@@ -1863,11 +2328,11 @@ skokamskie-oledry:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: null
     note: First appeared on
-    label: null
-    crop: null
+    label: reymann1834-023
+    crop: /assets/maps/crops/reymann1834/reymann1834-023.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -1878,9 +2343,30 @@ skokamskie-oledry:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-023
 skokum:
   appearances:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    year: 1770
+    in_project: true
+    form: Skokum
+    note: null
+    label: vonpfau1770-041
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-041.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Skokum
+    note: null
+    label: reymann1834-083
+    crop: /assets/maps/crops/reymann1834/reymann1834-083.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -1891,11 +2377,26 @@ skokum:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-064.jpg
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-041
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-083
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-064
 smoleniec:
   appearances:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    year: 1770
+    in_project: true
+    form: Smoleniec
+    note: null
+    label: vonpfau1770-033
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-033.jpg
+    refs: []
   - map: perthees1798
     cited_as: Perthées 1798
     year: 1798
@@ -1905,7 +2406,22 @@ smoleniec:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Jmoleniec
+    note: null
+    label: reymann1834-045
+    crop: /assets/maps/crops/reymann1834/reymann1834-045.jpg
+    refs: []
+  maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-033
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-045
 stanislawow:
   appearances:
   - map: kozlowski1861
@@ -1950,6 +2466,15 @@ stawisko:
     label: lukom1766-020
     crop: /assets/maps/crops/lukom1766/lukom1766-020.jpg
     refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Stawisko
+    note: null
+    label: reymann1834-053
+    crop: /assets/maps/crops/reymann1834/reymann1834-053.jpg
+    refs: []
   - map: richter1843
     cited_as: Richter 1843
     year: 1843
@@ -1973,6 +2498,9 @@ stawisko:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-020
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-053
 studzianka:
   appearances:
   - map: lukom1766
@@ -1983,6 +2511,24 @@ studzianka:
     note: null
     label: lukom1766-022
     crop: /assets/maps/crops/lukom1766/lukom1766-022.jpg
+    refs: []
+  - map: pambo1803
+    cited_as: Pambo 1803
+    year: 1801
+    in_project: true
+    form: Olędry Studzinska
+    note: null
+    label: pambo1803-006
+    crop: /assets/maps/crops/pambo1803/pambo1803-006.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Holendry Studzianka
+    note: null
+    label: reymann1834-101
+    crop: /assets/maps/crops/reymann1834/reymann1834-101.jpg
     refs: []
   - map: pelzucki1896
     cited_as: Pełzucki 1896
@@ -1997,11 +2543,44 @@ studzianka:
   - map: lukom1766
     cited_as: Łukom 1766
     label: lukom1766-022
+  - map: pambo1803
+    cited_as: Pambo 1803
+    label: pambo1803-006
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-101
   - map: pelzucki1896
     cited_as: Pełzucki 1896
     label: pelzucki1896-006
 swiatniki:
   appearances:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    year: 1770
+    in_project: true
+    form: Swontniki
+    note: null
+    label: vonpfau1770-039
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-039.jpg
+    refs: []
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Swiątniki
+    note: null
+    label: trabczyn1790-026
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-026.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Swiatniki
+    note: null
+    label: reymann1834-093
+    crop: /assets/maps/crops/reymann1834/reymann1834-093.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -2012,11 +2591,38 @@ swiatniki:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-060.jpg
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-039
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-026
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-093
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-060
 szetlew:
   appearances:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    year: 1770
+    in_project: true
+    form: Szetlew
+    note: null
+    label: vonpfau1770-035
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-035.jpg
+    refs: []
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Szelkow
+    note: null
+    label: trabczyn1790-024
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-024.jpg
+    refs: []
   - map: perthees1798
     cited_as: Perthées 1798
     year: 1798
@@ -2026,26 +2632,44 @@ szetlew:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Szetlewo
+    note: null
+    label: reymann1834-097
+    crop: /assets/maps/crops/reymann1834/reymann1834-097.jpg
+    refs: []
+  maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-035
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-024
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-097
 szetlewek:
   appearances:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Szetlewka
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-023
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-023.jpg
     refs: []
   - map: trabczyn1790
     cited_as: Trąbczyn 1790
     year: 1790
-    in_project: false
+    in_project: true
     form: Szelkowek
     note: null
-    label: null
-    crop: null
+    label: trabczyn1790-004
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-004.jpg
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -2055,6 +2679,15 @@ szetlewek:
     note: null
     label: null
     crop: null
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Szetlewek
+    note: null
+    label: reymann1834-099
+    crop: /assets/maps/crops/reymann1834/reymann1834-099.jpg
     refs: []
   - map: kozlowski1861
     cited_as: Kozłowski 1861
@@ -2075,6 +2708,15 @@ szetlewek:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-058.jpg
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-023
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-004
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-099
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-030
@@ -2086,23 +2728,26 @@ tarczewo:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: null
     note: Only one map noted this feature
-    label: null
-    crop: null
+    label: reymann1834-025
+    crop: /assets/maps/crops/reymann1834/reymann1834-025.jpg
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-025
 tarszew-mlyn:
   appearances:
   - map: trabczyn1790
     cited_as: Trąbczyn 1790
     year: 1790
-    in_project: false
+    in_project: true
     form: null
     note: First appeared on
-    label: null
-    crop: null
+    label: trabczyn1790-006
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-006.jpg
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -2122,9 +2767,21 @@ tarszew-mlyn:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-006
 tarszewo:
   appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Friedrichsfeld
+    note: null
+    label: reymann1834-108
+    crop: /assets/maps/crops/reymann1834/reymann1834-108.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -2135,6 +2792,9 @@ tarszewo:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-072.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-108
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-072
@@ -2143,20 +2803,29 @@ trabczyn:
   - map: blaeu1665
     cited_as: Blaeu 1665
     year: 1664
-    in_project: false
+    in_project: true
     form: Trąmbczino
     note: null
-    label: null
-    crop: null
+    label: blaeu1665-002
+    crop: /assets/maps/crops/blaeu1665/blaeu1665-002.jpg
     refs: []
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Trompzin
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-025
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-025.jpg
+    refs: []
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Trąpczyn
+    note: null
+    label: trabczyn1790-022
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-022.jpg
     refs: []
   - map: perthees1798
     cited_as: Perthées 1798
@@ -2175,6 +2844,15 @@ trabczyn:
     note: with a windmill and chapel/church
     label: null
     crop: null
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Trąbczyn
+    note: null
+    label: reymann1834-065
+    crop: /assets/maps/crops/reymann1834/reymann1834-065.jpg
     refs: []
   - map: kozlowski1861
     cited_as: Kozłowski 1861
@@ -2213,6 +2891,18 @@ trabczyn:
     crop: null
     refs: []
   maps_on_site:
+  - map: blaeu1665
+    cited_as: Blaeu 1665
+    label: blaeu1665-002
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-025
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-022
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-065
   - map: kozlowski1861
     cited_as: Kozłowski 1861
     label: kozlowski1861-045
@@ -2293,20 +2983,20 @@ trabczynskie-stare-oledry:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Hollendry
     note: First appeared as an unlabeled
-    label: null
-    crop: null
+    label: vonpfau1770-027
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-027.jpg
     refs: []
   - map: trabczyn1790
     cited_as: Trąbczyn 1790
     year: 1790
-    in_project: false
+    in_project: true
     form: Holendry Lusnia Stara
     note: null
-    label: null
-    crop: null
+    label: trabczyn1790-008
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-008.jpg
     refs: []
   - map: perthees1798
     cited_as: Perthées 1798
@@ -2326,7 +3016,13 @@ trabczynskie-stare-oledry:
     label: null
     crop: null
     refs: []
-  maps_on_site: []
+  maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-027
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-008
 trzcianne:
   appearances:
   - map: kozlowski1861
@@ -2488,11 +3184,11 @@ wrabczyn:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Wromszin
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-029
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-029.jpg
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -2502,6 +3198,15 @@ wrabczyn:
     note: with a windmill
     label: null
     crop: null
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Wrąbczyn
+    note: null
+    label: reymann1834-029
+    crop: /assets/maps/crops/reymann1834/reymann1834-029.jpg
     refs: []
   - map: richter1843
     cited_as: Richter 1843
@@ -2522,6 +3227,12 @@ wrabczyn:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-004.jpg
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-029
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-029
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-004
@@ -2542,11 +3253,20 @@ wrabczynek:
   - map: vonpfau1770
     cited_as: von Pfau 1770
     year: 1770
-    in_project: false
+    in_project: true
     form: Wromsziniek
     note: null
-    label: null
-    crop: null
+    label: vonpfau1770-031
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-031.jpg
+    refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Wrąbczynek
+    note: null
+    label: reymann1834-033
+    crop: /assets/maps/crops/reymann1834/reymann1834-033.jpg
     refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
@@ -2567,6 +3287,12 @@ wrabczynek:
     crop: null
     refs: []
   maps_on_site:
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-031
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-033
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-010
@@ -2581,6 +3307,15 @@ wrabczynkowskie-holendry:
     label: null
     crop: null
     refs: []
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Holendry Wrąbczynkowskie
+    note: null
+    label: reymann1834-103
+    crop: /assets/maps/crops/reymann1834/reymann1834-103.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -2591,6 +3326,9 @@ wrabczynkowskie-holendry:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-074.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-103
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-074
@@ -2620,11 +3358,11 @@ wymyslow:
   - map: zagorowo1799
     cited_as: Zagorowo 1799
     year: 1799
-    in_project: false
+    in_project: true
     form: Wimislaw
     note: as a tavern
-    label: null
-    crop: null
+    label: zagorowo1799-002
+    crop: /assets/maps/crops/zagorowo1799/zagorowo1799-002.jpg
     refs: []
   - map: gilly1802
     cited_as: Gilly 1802
@@ -2645,11 +3383,50 @@ wymyslow:
     crop: /assets/maps/crops/zagorow1841/zagorow1841-008.jpg
     refs: []
   maps_on_site:
+  - map: zagorowo1799
+    cited_as: Zagorowo 1799
+    label: zagorowo1799-002
   - map: zagorow1841
     cited_as: Zagórów 1841
     label: zagorow1841-008
 zagorowo:
   appearances:
+  - map: blaeu1665
+    cited_as: Blaeu 1665
+    year: 1664
+    in_project: true
+    form: Zagorowo
+    note: null
+    label: blaeu1665-004
+    crop: /assets/maps/crops/blaeu1665/blaeu1665-004.jpg
+    refs: []
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    year: 1770
+    in_project: true
+    form: Zagorowo
+    note: null
+    label: vonpfau1770-043
+    crop: /assets/maps/crops/vonpfau1770/vonpfau1770-043.jpg
+    refs: []
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    year: 1790
+    in_project: true
+    form: Zagorowo
+    note: null
+    label: trabczyn1790-016
+    crop: /assets/maps/crops/trabczyn1790/trabczyn1790-016.jpg
+    refs: []
+  - map: zagorowo1799
+    cited_as: Zagorowo 1799
+    year: 1799
+    in_project: true
+    form: Zagórów
+    note: null
+    label: zagorowo1799-004
+    crop: /assets/maps/crops/zagorowo1799/zagorowo1799-004.jpg
+    refs: []
   - map: gilly1802
     cited_as: Gilly 1802
     year: 1802
@@ -2662,11 +3439,11 @@ zagorowo:
   - map: reymann1834
     cited_as: Reymann 1834
     year: 1834
-    in_project: false
+    in_project: true
     form: null
     note: with four windmills
-    label: null
-    crop: null
+    label: reymann1834-027
+    crop: /assets/maps/crops/reymann1834/reymann1834-027.jpg
     refs: []
   - map: zagorow1841
     cited_as: Zagórów 1841
@@ -2705,6 +3482,21 @@ zagorowo:
     crop: null
     refs: []
   maps_on_site:
+  - map: blaeu1665
+    cited_as: Blaeu 1665
+    label: blaeu1665-004
+  - map: vonpfau1770
+    cited_as: von Pfau 1770
+    label: vonpfau1770-043
+  - map: trabczyn1790
+    cited_as: Trąbczyn 1790
+    label: trabczyn1790-016
+  - map: zagorowo1799
+    cited_as: Zagorowo 1799
+    label: zagorowo1799-004
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-027
   - map: zagorow1841
     cited_as: Zagórów 1841
     label: zagorow1841-012
@@ -2725,6 +3517,15 @@ zagorowskie-oledry:
   maps_on_site: []
 zalesie:
   appearances:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    year: 1834
+    in_project: true
+    form: Adolpsberg
+    note: null
+    label: reymann1834-061
+    crop: /assets/maps/crops/reymann1834/reymann1834-061.jpg
+    refs: []
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     year: 1890
@@ -2735,6 +3536,9 @@ zalesie:
     crop: /assets/maps/crops/mapadrogi1890/mapadrogi1890-048.jpg
     refs: []
   maps_on_site:
+  - map: reymann1834
+    cited_as: Reymann 1834
+    label: reymann1834-061
   - map: mapadrogi1890
     cited_as: Mapa dróg 1890
     label: mapadrogi1890-048

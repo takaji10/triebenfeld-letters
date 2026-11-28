@@ -1,0 +1,70 @@
+# The editor's marks on the map pambo1803, from the labelling page, imported from
+# labels_pambo1803_20261127-2139.json on 2026-11-28 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: pambo1803
+width: 24801
+height: 19218
+saved: '2026-11-27T20:39:16.425Z'
+labels:
+- id: pambo1803-002
+  role: place
+  place: biskupice-karczma
+  new_place: null
+  form: Biskupice
+  point: [8712, 13675]
+  trace:
+  - [7404, 13254]
+  - [8403, 13270]
+  - [7606, 13427]
+  - [8374, 13437]
+  - [7829, 13592]
+  - [8287, 13576]
+  height: 240
+  shows: tavern
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: pambo1803-004
+  role: place
+  place: rosciszewo
+  new_place: null
+  form: Vorwerk Rosciszew
+  point: [15557, 14335]
+  trace:
+  - [14241, 13631]
+  - [15999, 13716]
+  height: 460
+  shows: folwark
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: pambo1803-006
+  role: place
+  place: studzianka
+  new_place: null
+  form: Olędry Studzinska
+  point: [8404, 11540]
+  trace:
+  - [6943, 9894]
+  - [7741, 9872]
+  - [7677, 11619]
+  - [9017, 11578]
+  - [9017, 11582]
+  height: 400
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null

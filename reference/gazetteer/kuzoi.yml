@@ -12,8 +12,7 @@ location:
   precision: unknown
   lat: null
   lon: null
-text_en: Unknown place which existed south of Myszaków. Only one map noted this feature
-  (von Pfau 1770).
+text_en: Unknown place which existed south of Myszaków. Only one map noted this feature (von Pfau 1770).
 names:
 - form: Kuzoi
   year: null
@@ -24,5 +23,6 @@ maps:
 - map: vonpfau1770
   form: null
   note: Only one map noted this feature
+  label: vonpfau1770-009
 footnotes: []
 review: []

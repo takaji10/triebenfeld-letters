@@ -85,7 +85,9 @@ def prepare_workdir():
                       encoding="utf-8", newline="\n") as f:
                 json.dump({"name": "triebenfeld-mobilecheck",
                            "private": True}, f)
-        r = subprocess.run(["npm", "install", "puppeteer-core",
+        # shutil.which finds npm.cmd on Windows, which a bare "npm" without a
+        # shell does not (FileNotFoundError, 2026-11-28)
+        r = subprocess.run([shutil.which("npm"), "install", "puppeteer-core",
                             "--no-audit", "--no-fund", "--silent"],
                            cwd=WORK, capture_output=True, text=True)
         if r.returncode:

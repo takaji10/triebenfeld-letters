@@ -40,6 +40,7 @@ maps:
 - map: vonpfau1770
   form: Miszokowo
   note: null
+  label: vonpfau1770-015
 - map: wreschen1901
   form: null
   note: with a windmill
@@ -51,6 +52,10 @@ maps:
   form: Мышаковъ
   note: null
   label: mapadrogi1890-022
+- map: reymann1834
+  form: Myszakow
+  note: null
+  label: reymann1834-043
 footnotes:
 - n: 49
   text: Chodyła 70

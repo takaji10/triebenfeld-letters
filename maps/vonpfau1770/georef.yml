@@ -1,0 +1,34 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). vonpfau1770 is not on MapWarper: the map
+# is placed from the editor's marks alone (MAPS_PLAN, section 5), which
+# georef.py appends here as mk-* rows. Rows with `from: mapwarper` would be
+# replaced on every fetch (none here); any other rows are kept. `fit:` is
+# written by pipeline/maps/georef.py.
+map: vonpfau1770
+fetched: '2026-11-28'
+width: 12556
+height: 8304
+gcps: []
+fit:
+  transformation: polynomial
+  order: 1
+  n: 16
+  rms_m: 1140.98
+  inverse_rms_px: 149.2
+  residuals_m:
+    mk-vonpfau1770-003: 410.91
+    mk-vonpfau1770-007: 531.57
+    mk-vonpfau1770-011: 1286.64
+    mk-vonpfau1770-013: 2354.71
+    mk-vonpfau1770-015: 1559.06
+    mk-vonpfau1770-017: 361.23
+    mk-vonpfau1770-023: 767.66
+    mk-vonpfau1770-025: 736.59
+    mk-vonpfau1770-029: 850.92
+    mk-vonpfau1770-031: 1218.81
+    mk-vonpfau1770-037: 218.69
+    mk-vonpfau1770-039: 1812.54
+    mk-vonpfau1770-041: 431.71
+    mk-vonpfau1770-043: 849.98
+    mk-vonpfau1770-045: 734.28
+    mk-vonpfau1770-047: 1579.29

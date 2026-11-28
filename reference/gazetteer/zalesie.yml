@@ -13,14 +13,8 @@ location:
   precision: surveyed
   lat: 52.145075
   lon: 17.927257
-  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Zalesie, gmina Zagórów, powiat
-    słupecki, województwo wielkopolskie, 62-410, Polska'
-text_en: Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and founded as
-  a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818)
-  who named it after one of his children. Renamed to Zalesie in 1891 as part of efforts by the
-  Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny
-  records it as a colony, gmina Oleśnica, powiat słupecki, with 5 houses and 59 inhabitants,
-  called *Adolfberg* until 1891.[^1]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Zalesie, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village northwest of Nowa Wieś. Originally named *Kolonia Adolfsberg* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Zalesie in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, gmina Oleśnica, powiat słupecki, with 5 houses and 59 inhabitants, called *Adolfberg* until 1891.[^1]
 names:
 - form: Zalesie
   year: null
@@ -45,6 +39,10 @@ maps:
   form: Колонія Адольфсбергъ
   note: null
   label: mapadrogi1890-048
+- map: reymann1834
+  form: Adolpsberg
+  note: null
+  label: reymann1834-061
 footnotes:
 - n: 1
   text: Słownik geograficzny, t. XVI, p. 711, sub 1
@@ -52,7 +50,6 @@ footnotes:
   - source: slownik
     locator: t. XVI, p. 711, sub 1
     status: missing
-  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "parish of Sarnowo" belongs
-    to sub-entry 2, a village in powiat mławski; sub-entry 1 names no parish.'
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "parish of Sarnowo" belongs to sub-entry 2, a village in powiat mławski; sub-entry 1 names no parish.'
 review: []
 german: Adolfsberg

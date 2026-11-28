@@ -40,6 +40,7 @@ maps:
 - map: vonpfau1770
   form: Oszin
   note: null
+  label: vonpfau1770-017
 - map: perthees1798
   form: Oszin
   note: von Pfau 1770)
@@ -51,6 +52,14 @@ maps:
   form: Осины
   note: null
   label: mapadrogi1890-042
+- map: trabczyn1790
+  form: Osiny
+  note: null
+  label: trabczyn1790-014
+- map: reymann1834
+  form: Osiny
+  note: null
+  label: reymann1834-071
 footnotes:
 - n: 56
   text: '*Parafja Trąbczyn (Słupca): Akta Małżeństw 1597-1775* Page 8/Image 342'

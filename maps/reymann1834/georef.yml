@@ -1,0 +1,50 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). reymann1834 is not on MapWarper: the map
+# is placed from the editor's marks alone (MAPS_PLAN, section 5), which
+# georef.py appends here as mk-* rows. Rows with `from: mapwarper` would be
+# replaced on every fetch (none here); any other rows are kept. `fit:` is
+# written by pipeline/maps/georef.py.
+map: reymann1834
+fetched: '2026-11-28'
+width: 9722
+height: 7260
+gcps: []
+fit:
+  transformation: polynomial
+  order: 1
+  n: 32
+  rms_m: 773.21
+  inverse_rms_px: 89.7
+  residuals_m:
+    mk-reymann1834-003: 441.19
+    mk-reymann1834-007: 381.82
+    mk-reymann1834-009: 3033.97
+    mk-reymann1834-011: 322.25
+    mk-reymann1834-013: 337.92
+    mk-reymann1834-017: 433.13
+    mk-reymann1834-019: 804.85
+    mk-reymann1834-027: 98.41
+    mk-reymann1834-029: 317.13
+    mk-reymann1834-031: 181.8
+    mk-reymann1834-033: 856.57
+    mk-reymann1834-037: 741.65
+    mk-reymann1834-039: 400.71
+    mk-reymann1834-043: 311.53
+    mk-reymann1834-047: 818.53
+    mk-reymann1834-049: 856.64
+    mk-reymann1834-057: 1077.6
+    mk-reymann1834-059: 270.47
+    mk-reymann1834-061: 414.74
+    mk-reymann1834-063: 344.7
+    mk-reymann1834-065: 360.04
+    mk-reymann1834-067: 231.78
+    mk-reymann1834-071: 996.25
+    mk-reymann1834-081: 393.98
+    mk-reymann1834-083: 327.8
+    mk-reymann1834-085: 656.49
+    mk-reymann1834-087: 543.09
+    mk-reymann1834-093: 488.54
+    mk-reymann1834-095: 488.96
+    mk-reymann1834-099: 760.28
+    mk-reymann1834-103: 447.03
+    mk-reymann1834-108: 706.25

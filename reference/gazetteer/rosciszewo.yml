@@ -25,15 +25,21 @@ maps:
 - map: vonpfau1770
   form: Rostrziczewo
   note: null
+  label: vonpfau1770-019
 - map: krolikow1800
   form: null
   note: as part of the Łukom estate
 - map: pambo1803
   form: Vorwerk Rosciszew
   note: null
+  label: pambo1803-004
 - map: richter1843
   form: Roscisewo
   note: null
+- map: reymann1834
+  form: Rosciszewo
+  note: null
+  label: reymann1834-051
 footnotes:
 - n: 64
   text: Minakowska, “Helena Zielonacka”

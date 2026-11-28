@@ -32,6 +32,7 @@ maps:
 - map: vonpfau1770
   form: Wromsziniek
   note: null
+  label: vonpfau1770-031
 - map: wreschen1901
   form: null
   note: with a windmill
@@ -39,6 +40,10 @@ maps:
   form: Вромбчинекъ
   note: null
   label: mapadrogi1890-010
+- map: reymann1834
+  form: Wrąbczynek
+  note: null
+  label: reymann1834-033
 footnotes:
 - n: 109
   text: Zakrzewski, vol. 1, No. 20

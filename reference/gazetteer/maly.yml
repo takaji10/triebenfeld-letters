@@ -10,11 +10,7 @@ location:
   relative_to: anielewo
   belongs_to: null
   precision: described
-text_en: 'Settlement that existed west of Anielewo (Ingelfingen). Likely part of Anielewo.
-  Only one map noted this feature (Reymann 1834). Not to be confused with the colony
-  renamed *Mały Las* in 1891 (see Ludwigslust): the SG entry for that renaming belongs
-  to the Ludwigslust colony, while this settlement is recorded separately next to
-  Anielewo.'
+text_en: 'Settlement that existed west of Anielewo (Ingelfingen). Likely part of Anielewo. Only one map noted this feature (Reymann 1834). Not to be confused with the colony renamed *Mały Las* in 1891 (see Ludwigslust): the SG entry for that renaming belongs to the Ludwigslust colony, while this settlement is recorded separately next to Anielewo.'
 names:
 - form: Maly
   year: null
@@ -25,5 +21,6 @@ maps:
 - map: reymann1834
   form: null
   note: Only one map noted this feature
+  label: reymann1834-015
 footnotes: []
 review: []

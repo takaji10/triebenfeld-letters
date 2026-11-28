@@ -45,9 +45,11 @@ maps:
 - map: blaeu1665
   form: Trąmbczino
   note: null
+  label: blaeu1665-002
 - map: vonpfau1770
   form: Trompzin
   note: null
+  label: vonpfau1770-025
 - map: perthees1798
   form: Trąpczin
   note: null
@@ -62,6 +64,14 @@ maps:
   form: Тромбчинъ
   note: null
   label: mapadrogi1890-050
+- map: trabczyn1790
+  form: Trąpczyn
+  note: null
+  label: trabczyn1790-022
+- map: reymann1834
+  form: Trąbczyn
+  note: null
+  label: reymann1834-065
 footnotes:
 - n: 81
   text: Zakrzewski, vol. 1, No. 222

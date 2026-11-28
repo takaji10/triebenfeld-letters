@@ -1,0 +1,45 @@
+# The editor's marks on the map blaeu1665, from the labelling page, imported from
+# labels_blaeu1665_20261127-1650.json on 2026-11-28 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: blaeu1665
+width: 7588
+height: 6573
+saved: '2026-11-27T15:50:39.552Z'
+labels:
+- id: blaeu1665-002
+  role: place
+  place: trabczyn
+  new_place: null
+  form: Trąmbczino
+  point: [6221, 3871]
+  trace:
+  - [6199, 3844]
+  - [6368, 3845]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: blaeu1665-004
+  role: place
+  place: zagorowo
+  new_place: null
+  form: Zagorowo
+  point: [6114, 3849]
+  trace:
+  - [5987, 3920]
+  - [6141, 3916]
+  height: 40
+  shows: town
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null

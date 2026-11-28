@@ -38,6 +38,7 @@ maps:
 - map: reymann1834
   form: Hol. Sophienthal
   note: null
+  label: reymann1834-019
 - map: mapadrogi1890
   form: Колонія Софиенталь
   note: null
@@ -49,7 +50,7 @@ footnotes:
   - source: slownik
     locator: t. XVI, p. 405
     status: missing
-  note: "Corrected 2026-11-21 at the editor's word: the sentence of 2026-10-26 gave gmina Kołki, 141 houses and 776 inhabitants, which belong to Olejniki, the next entry on the page; the entry for Olechowo says only that it was called Sophienthal until 1891."
+  note: 'Corrected 2026-11-21 at the editor''s word: the sentence of 2026-10-26 gave gmina Kołki, 141 houses and 776 inhabitants, which belong to Olejniki, the next entry on the page; the entry for Olechowo says only that it was called Sophienthal until 1891.'
 - n: 2
   text: Słownik geograficzny, t. XI, p. 8
   refs:

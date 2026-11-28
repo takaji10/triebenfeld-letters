@@ -13,14 +13,7 @@ location:
   precision: identified
   lat: 52.163192
   lon: 18.002985
-text_en: Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a German
-  colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named
-  it after one of his children. Renamed to Chruściki in 1891 as part of efforts by the Polish
-  authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records
-  it as a colony, in gmina Oleśnica, powiat słupecki, with 242 inhabitants at the time of the
-  Słownik.[^1] Nazwy miejscowe Polski records it as *Adelhof* in 1802 and *Chruściki* from 1900;
-  the German name was from Adela, a daughter of the Prince of Hohenlohe-Ingelfingen, and the
-  Polish name was introduced officially in 1891.[^2]
+text_en: Village east of Kopojno. Originally named *Kolonia Adelhof* and founded as a German colony by Friedrich Ludwig, Prince of Hohenlohe-Ingelfingen and Öhringen (1746-1818) who named it after one of his children. Renamed to Chruściki in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. The Słownik geograficzny records it as a colony, in gmina Oleśnica, powiat słupecki, with 242 inhabitants at the time of the Słownik.[^1] Nazwy miejscowe Polski records it as *Adelhof* in 1802 and *Chruściki* from 1900; the German name was from Adela, a daughter of the Prince of Hohenlohe-Ingelfingen, and the Polish name was introduced officially in 1891.[^2]
 names:
 - form: Chruściki
   year: null
@@ -60,7 +53,11 @@ names:
   footnote: 2
 aliases:
 - Adelhof/Adelów, Kolonia
-maps: []
+maps:
+- map: reymann1834
+  form: Adelow
+  note: null
+  label: reymann1834-091
 footnotes:
 - n: 1
   text: Słownik geograficzny, t. XV, p. 328
@@ -75,7 +72,6 @@ footnotes:
   - source: nmpol
     locator: t. 2, p. 92
     status: missing
-  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "Crosczino" (1386) belonged
-    to the next entry, Chruścin near Dąbie.'
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "Crosczino" (1386) belonged to the next entry, Chruścin near Dąbie.'
 review: []
 german: Adelhof

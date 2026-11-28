@@ -44,6 +44,7 @@ maps:
 - map: reymann1834
   form: null
   note: with four windmills
+  label: reymann1834-027
 - map: hohensalza1942
   form: Hinterberg
   note: renamed to during Nazi Germany occupation
@@ -55,6 +56,22 @@ maps:
   form: Zagórów
   note: null
   label: zagorow1841-012
+- map: blaeu1665
+  form: Zagorowo
+  note: null
+  label: blaeu1665-004
+- map: zagorowo1799
+  form: Zagórów
+  note: null
+  label: zagorowo1799-004
+- map: trabczyn1790
+  form: Zagorowo
+  note: null
+  label: trabczyn1790-016
+- map: vonpfau1770
+  form: Zagorowo
+  note: null
+  label: vonpfau1770-043
 footnotes:
 - n: 115
   text: Zakrzewski, vol. 1, No. 222

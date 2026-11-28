@@ -1658,6 +1658,23 @@ questions the batch leaves:
   the editor's eye at the overlay settles whether the mark, the modern
   coordinates, or the map's schematic road geometry is the mover.
 
+### The maps marked on 2026-11-27
+
+The editor's marks on seven maps imported 2026-11-28 (Blaeu 1665, Hollring 1804,
+Pambo 1803, Reymann 1834, Trąbczyn 1790, von Pfau 1770, Zagorowo 1799), all now
+`in_project: true`; each map's `notes.md` has the detail.
+
+- **Forms typed that differ from the lettering** (to-do t927): fifteen on Reymann
+  1834, three on von Pfau 1770, one on Zagorowo 1799; the labels keep the typed
+  forms until the editor rules.
+- **New places** (t928): four on Reymann (Hol. Michalinowo, Kopczyk, Tarczew M.,
+  Buda) and one on von Pfau (the second Holl.); Claude proposes Hol. Michalinowo =
+  `michalinow-oledry` and Tarczew M. = `tarszew-mlyn`.
+- **A misfit** (t929): Reymann's Lazinskie Hol. lies 3.0 km from the fit; the
+  gazetteer's point for `lazinskie-oledry` is OpenStreetMap's, not surveyed.
+- **No georeference** for Blaeu 1665 and Zagorowo 1799: two marks each, and a fit
+  needs three; neither is on MapWarper. Their pages have no overlay link.
+
 ## Readings, Oe 1 Bü 9454
 
 The editor could not settle these from the page (2026-09-28). They stay as
@@ -1923,12 +1940,15 @@ Places (`reference/places.yml`, `open_questions`):
   decree's doubtful names Termilis[?] and Kanino[?] are not indexed until
   the sheet settles them.
 - "Borwiezer Holland", the colony the school teacher Samuel Adolph came
-  from (the contract of 1820, APP 53/968/0/-/782): not identified. Borowiec
-  (named in APP 53/968/0/-/669 as a source of marriage partners for the
-  colonies) is a candidate; Breyer's other notebook writes "Grontzer
-  Holland, Borowetzer Gemeine" (IMG_5190, left page; read 2026-11-28,
-  `units/app539680669/intake/other_notebooks_2026-11-28.md`), a second
-  hint towards Borowiec; nothing more.
+  from (the contract of 1820, APP 53/968/0/-/782): **identified by the
+  editor (2026-11-28)** as the nearby Olęder colony of Borowiec ("Borowice
+  or Borowiec - not sure of the spelling"). The spelling is Borowiec: Chodyła
+  (2015) has the Borowieckie Stare and Nowe Olędry (today Stary and Nowy
+  Borowiec), the Olęder colonies of the Grodziec estate, and Breyer's other
+  notebook pairs "Grontzer Holland" (Grodziec) with "Borowetzer Gemeine"
+  (IMG_5190). Still open: which of the two colonies, old or new, the
+  contract means (it does not say), and whether Borowiec becomes a place of
+  the register (the transcription keeps "Borwiezer Holland" either way).
 - The same ruling, one spelling over: "Trąbczyner Holländ" (oe1bu14526-17),
   recorded in the canon as a form seen without asserting the identity, now
   looks covered by the editor's ruling of 2026-10-26 ("Tropiczyner Holl." =

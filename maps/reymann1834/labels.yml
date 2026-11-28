@@ -1,0 +1,977 @@
+# The editor's marks on the map reymann1834, from the labelling page, imported from
+# labels_reymann1834_20261127-1649.json on 2026-11-28 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: reymann1834
+width: 9722
+height: 7260
+saved: '2026-11-27T15:49:09.615Z'
+labels:
+- id: reymann1834-003
+  role: place
+  place: augustinow
+  new_place: null
+  form: Hol. Augustinow
+  point: [5871, 4280]
+  trace:
+  - [5884, 4287]
+  - [6202, 4262]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-005
+  role: place
+  place: drzezgi
+  new_place: null
+  form: Drzęzgi
+  point: [6607, 4309]
+  trace:
+  - [6552, 4305]
+  - [6744, 4292]
+  height: 40
+  shows: water-mill
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-007
+  role: place
+  place: kosciolkow
+  new_place: null
+  form: Kosciółki
+  point: [5655, 4011]
+  trace:
+  - [5566, 4063]
+  - [5733, 4044]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-009
+  role: place
+  place: lazinskie-oledry
+  new_place: null
+  form: Lazinskie Hol.
+  point: [6082, 4669]
+  trace:
+  - [5984, 4732]
+  - [6182, 4716]
+  - [6002, 4763]
+  - [6086, 4756]
+  height: 40
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-011
+  role: place
+  place: lomow
+  new_place: null
+  form: Łamowo
+  point: [5658, 4496]
+  trace:
+  - [5638, 4474]
+  - [5877, 4446]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-013
+  role: place
+  place: lukom
+  new_place: null
+  form: Łukom
+  point: [5606, 4347]
+  trace:
+  - [5381, 4400]
+  - [5567, 4383]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-015
+  role: place
+  place: maly
+  new_place: null
+  form: Maly
+  point: [5263, 4678]
+  trace:
+  - [5201, 4659]
+  - [5324, 4650]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-017
+  role: place
+  place: michalinow-olesnicki
+  new_place: null
+  form: Hol. Emilienhain
+  point: [6044, 4326]
+  trace:
+  - [5938, 4342]
+  - [6018, 4337]
+  - [5932, 4374]
+  - [6181, 4355]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-019
+  role: place
+  place: olchowo
+  new_place: null
+  form: Hol. Sophienthal
+  point: [6473, 3622]
+  trace:
+  - [6417, 3587]
+  - [6497, 3582]
+  - [6395, 3621]
+  - [6629, 3602]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-021
+  role: place
+  place: ryjew
+  new_place: null
+  form: Ryiewo
+  point: [5585, 4673]
+  trace:
+  - [5524, 4726]
+  - [5701, 4713]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-023
+  role: place
+  place: skokamskie-oledry
+  new_place: null
+  form: Skokamskie Olędry
+  point: [6451, 3714]
+  trace:
+  - [6375, 3701]
+  - [6680, 3677]
+  height: 40
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-025
+  role: place
+  place: tarczewo
+  new_place: null
+  form: Tarczewo
+  point: [6764, 3853]
+  trace:
+  - [6539, 3953]
+  - [6678, 3908]
+  - [6780, 3860]
+  height: 40
+  shows: folwark
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-027
+  role: place
+  place: zagorowo
+  new_place: null
+  form: Zagórów
+  point: [5994, 3870]
+  trace:
+  - [5702, 3999]
+  - [6052, 3966]
+  height: 80
+  shows: town
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-029
+  role: place
+  place: wrabczyn
+  new_place: null
+  form: Wrąbczyn
+  point: [5610, 3876]
+  trace:
+  - [5602, 3933]
+  - [5829, 3908]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-031
+  role: place
+  place: dluga-gorka
+  new_place: null
+  form: Długa Górka
+  point: [5584, 3984]
+  trace:
+  - [5419, 4009]
+  - [5659, 3985]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-033
+  role: place
+  place: wrabczynek
+  new_place: null
+  form: Wrąbczynek
+  point: [5261, 3787]
+  trace:
+  - [5059, 3858]
+  - [5332, 3834]
+  height: 60
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-035
+  role: place
+  place: imielanka
+  new_place: null
+  form: Jemielanka
+  point: [5545, 4164]
+  trace:
+  - [5560, 4156]
+  - [5756, 4135]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-037
+  role: place
+  place: imielno
+  new_place: null
+  form: Jemielna
+  point: [5560, 4204]
+  trace:
+  - [5426, 4258]
+  - [5584, 4242]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-039
+  role: place
+  place: malgorzatow
+  new_place: null
+  form: Małgorsatów
+  point: [5387, 4303]
+  trace:
+  - [5395, 4308]
+  - [5624, 4289]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-041
+  role: place
+  place: adamierz
+  new_place: null
+  form: Adamierz
+  point: [5188, 4211]
+  trace:
+  - [5124, 4197]
+  - [5344, 4179]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-043
+  role: place
+  place: myszakow
+  new_place: null
+  form: Myszakow
+  point: [5205, 4292]
+  trace:
+  - [4922, 4351]
+  - [5184, 4325]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-045
+  role: place
+  place: smoleniec
+  new_place: null
+  form: Jmoleniec
+  point: [5131, 4492]
+  trace:
+  - [4921, 4491]
+  - [5155, 4467]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-047
+  role: place
+  place: budy
+  new_place: null
+  form: Lukomskie budy
+  point: [5420, 4577]
+  trace:
+  - [5232, 4575]
+  - [5518, 4551]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-049
+  role: place
+  place: anielewo
+  new_place: null
+  form: Engelfingen
+  point: [5378, 4692]
+  trace:
+  - [5182, 4755]
+  - [5484, 4730]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-051
+  role: place
+  place: rosciszewo
+  new_place: null
+  form: Rosciszewo
+  point: [5746, 4849]
+  trace:
+  - [5566, 4841]
+  - [5778, 4822]
+  height: 40
+  shows: folwark
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-053
+  role: place
+  place: stawisko
+  new_place: null
+  form: Stawisko
+  point: [5862, 4596]
+  trace:
+  - [5801, 4643]
+  - [5971, 4623]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-055
+  role: place
+  place: gradzyn
+  new_place: null
+  form: Gradzin
+  point: [5530, 4650]
+  trace:
+  - [5556, 4646]
+  - [5742, 4628]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-057
+  role: place
+  place: bukowe
+  new_place: null
+  form: Bukowo
+  point: [5836, 4352]
+  trace:
+  - [5689, 4396]
+  - [5836, 4379]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-059
+  role: place
+  place: drzewce
+  new_place: null
+  form: Drzewce
+  point: [5967, 4214]
+  trace:
+  - [5795, 4203]
+  - [6019, 4182]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-061
+  role: place
+  place: zalesie
+  new_place: null
+  form: Adolpsberg
+  point: [6273, 4120]
+  trace:
+  - [6064, 4114]
+  - [6335, 4090]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-063
+  role: place
+  place: nowawies-trabczyn
+  new_place: null
+  form: Nowawies
+  point: [6343, 4149]
+  trace:
+  - [6082, 4196]
+  - [6319, 4175]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-065
+  role: place
+  place: trabczyn
+  new_place: null
+  form: Trąbczyn
+  point: [6474, 4153]
+  trace:
+  - [6263, 4235]
+  - [6540, 4208]
+  height: 60
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-067
+  role: place
+  place: mariantow
+  new_place: null
+  form: Maryantow
+  point: [6568, 4236]
+  trace:
+  - [6342, 4271]
+  - [6549, 4253]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-069
+  role: place
+  place: porabki
+  new_place: null
+  form: Porabki
+  point: [6483, 4328]
+  trace:
+  - [6368, 4326]
+  - [6506, 4312]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-071
+  role: place
+  place: osiny
+  new_place: null
+  form: Osiny
+  point: [6382, 4364]
+  trace:
+  - [6253, 4383]
+  - [6348, 4373]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-073
+  role: place
+  place: null
+  new_place: Holendry Michalinowo
+  form: Holendry Michalinowo
+  point: [6379, 4502]
+  trace:
+  - [6177, 4463]
+  - [6423, 4444]
+  - [6281, 4490]
+  - [6385, 4482]
+  height: 40
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-075
+  role: place
+  place: huta-trabczynska
+  new_place: null
+  form: Stara Huta Olędry
+  point: [6262, 4591]
+  trace:
+  - [6260, 4628]
+  - [6605, 4602]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-077
+  role: place
+  place: null
+  new_place: Kopczyk
+  form: Kopczyk
+  point: [6333, 4780]
+  trace:
+  - [6299, 4821]
+  - [6456, 4808]
+  height: 40
+  shows: other
+  note: Forester's house
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-079
+  role: place
+  place: czarnybrod
+  new_place: null
+  form: Czarny Brod
+  point: [6505, 4790]
+  trace:
+  - [6373, 4862]
+  - [6707, 4834]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-081
+  role: place
+  place: olesnica
+  new_place: null
+  form: Olesnica
+  point: [6161, 3903]
+  trace:
+  - [6078, 3963]
+  - [6270, 3949]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-083
+  role: place
+  place: skokum
+  new_place: null
+  form: Skokum
+  point: [6445, 3860]
+  trace:
+  - [6313, 3936]
+  - [6515, 3917]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-085
+  role: place
+  place: ludwigslust
+  new_place: null
+  form: Kolonia Ludwigslust
+  point: [6319, 3789]
+  trace:
+  - [6137, 3844]
+  - [6391, 3825]
+  height: 40
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-087
+  role: place
+  place: kopojno
+  new_place: null
+  form: Kopoino
+  point: [6725, 3797]
+  trace:
+  - [6547, 3903]
+  - [6660, 3866]
+  - [6734, 3835]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-089
+  role: place
+  place: null
+  new_place: Tarszewo Młyn
+  form: Tarszewo Młyn
+  point: [6805, 3927]
+  trace:
+  - [6597, 3970]
+  - [6683, 3941]
+  - [6741, 3924]
+  - [6772, 3920]
+  height: 40
+  shows: water-mill
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-091
+  role: place
+  place: chrusciki
+  new_place: null
+  form: Adelow
+  point: [6802, 3827]
+  trace:
+  - [6816, 3832]
+  - [6994, 3818]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-093
+  role: place
+  place: swiatniki
+  new_place: null
+  form: Swiatniki
+  point: [6978, 3929]
+  trace:
+  - [6885, 3907]
+  - [7122, 3885]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-095
+  role: place
+  place: podbiel
+  new_place: null
+  form: Podbiel
+  point: [6703, 4152]
+  trace:
+  - [6714, 4158]
+  - [6909, 4144]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-097
+  role: place
+  place: szetlew
+  new_place: null
+  form: Szetlewo
+  point: [6765, 4203]
+  trace:
+  - [6790, 4222]
+  - [6994, 4209]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-099
+  role: place
+  place: szetlewek
+  new_place: null
+  form: Szetlewek
+  point: [6821, 4309]
+  trace:
+  - [6845, 4314]
+  - [7067, 4297]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-101
+  role: place
+  place: studzianka
+  new_place: null
+  form: Holendry Studzianka
+  point: [5962, 5084]
+  trace:
+  - [5867, 5065]
+  - [5942, 5061]
+  - [5736, 5107]
+  - [5951, 5091]
+  height: 40
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-103
+  role: place
+  place: wrabczynkowskie-holendry
+  new_place: null
+  form: Holendry Wrąbczynkowskie
+  point: [5136, 4020]
+  trace:
+  - [4922, 4005]
+  - [5397, 3958]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-106
+  role: place
+  place: null
+  new_place: Buda
+  form: Buda
+  point: [5249, 4019]
+  trace:
+  - [5255, 4009]
+  - [5354, 3999]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: reymann1834-108
+  role: place
+  place: tarszewo
+  new_place: null
+  form: Friedrichsfeld
+  point: [6965, 3719]
+  trace:
+  - [6858, 3696]
+  - [7144, 3672]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null

@@ -41,10 +41,11 @@ gcps:
 fit:
   transformation: polynomial
   order: 1
-  n: 3
-  rms_m: 0.0
-  inverse_rms_px: 0.0
+  n: 4
+  rms_m: 173.75
+  inverse_rms_px: 597.1
   residuals_m:
-    mw690625: 0.0
-    mw690626: 0.0
-    mw690631: 0.0
+    mw690625: 68.08
+    mw690626: 257.72
+    mw690631: 31.11
+    mk-hollring1804-002: 220.75

@@ -59,5 +59,5 @@ IMG_5208, left page, lower half:
   January 1808 (docs/HOHENLOHE_ERA_PLAN.md, section V). The editor leaned "not relevant" on the
   thought that it was his marriage.
 - Also on IMG_5190 (not asked, not added): "Olendry Łukomskie 1776" and, on the left page,
-  "Grontzer Holland, Borowetzer Gemeine" - perhaps a lead for "Borwiezer Holland" of 53/968/0/-/782
-  (NEEDS_CONFIRMATION).
+  "Grontzer Holland, Borowetzer Gemeine" - a lead for "Borwiezer Holland" of 53/968/0/-/782,
+  which the editor identified the same day as the nearby colony of Borowiec (NEEDS_CONFIRMATION).

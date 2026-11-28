@@ -12,11 +12,8 @@ location:
   precision: surveyed
   lat: 52.130278
   lon: 17.966944
-  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Mariantów, gmina Zagórów,
-    powiat słupecki, województwo wielkopolskie, 62-410, Polska'
-text_en: Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill
-  were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski records it as *Marjantów*
-  in 1877, *Maryantów* in 1885, *Marjantów* in 1921 and *Mariantów* in 1981.[^1]
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Mariantów, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-410, Polska'
+text_en: Village east of Łazy. A wrought iron workshop (Ger. *Eisenhammer*) and a watermill were located in the same vicinity on Gilly 1802. Nazwy miejscowe Polski records it as *Marjantów* in 1877, *Maryantów* in 1885, *Marjantów* in 1921 and *Mariantów* in 1981.[^1]
 names:
 - form: Mariantów
   year: null
@@ -43,6 +40,10 @@ maps:
   form: Марьяновъ
   note: null
   label: mapadrogi1890-054
+- map: reymann1834
+  form: Maryantow
+  note: null
+  label: reymann1834-067
 footnotes:
 - n: 1
   text: Nazwy miejscowe Polski, t. 6, p. 523
@@ -50,6 +51,5 @@ footnotes:
   - source: nmpol
     locator: t. 6, p. 523
     status: missing
-  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "Marjantów tów" was a
-    garbled reading; the 1921 form is Marjantów.'
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "Marjantów tów" was a garbled reading; the 1921 form is Marjantów.'
 review: []

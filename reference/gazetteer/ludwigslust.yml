@@ -13,17 +13,8 @@ location:
   precision: surveyed
   lat: 52.171389
   lon: 17.951111
-  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Mały Las, Olchowo, gmina Zagórów,
-    powiat słupecki, województwo wielkopolskie, 62-406, Polska'
-text_en: 'Hamlet south of and belonging to Olchowo. The German colony *Kolonia Ludwigslust*
-  was likely integrated into the smaller Mały Las settlement immediately south in 1891 as part
-  of efforts by the Polish authorities to remove traces of previous Prussian occupation. A hand-drawn
-  map from the 1990s by descendants/former residents of Olchowo listed them as two separate
-  places (Map 26, Tab. 26). First appeared on Messtischblatt 1940. The settlement map found
-  in the Lutheran church in Zagórów included a list of settlers, along with the text: “These
-  are the names of the families who lived here as the last generation. The numbers are randomly
-  assigned and are not identical to the official house numbers.” The Słownik geograficzny records
-  it as a colony, powiat słupecki, called *Ludwigslust* until 1891.[^1]'
+  check: 'OSM (Nominatim) 2026-11-06 confirms the entry''s point: Mały Las, Olchowo, gmina Zagórów, powiat słupecki, województwo wielkopolskie, 62-406, Polska'
+text_en: 'Hamlet south of and belonging to Olchowo. The German colony *Kolonia Ludwigslust* was likely integrated into the smaller Mały Las settlement immediately south in 1891 as part of efforts by the Polish authorities to remove traces of previous Prussian occupation. A hand-drawn map from the 1990s by descendants/former residents of Olchowo listed them as two separate places (Map 26, Tab. 26). First appeared on Messtischblatt 1940. The settlement map found in the Lutheran church in Zagórów included a list of settlers, along with the text: “These are the names of the families who lived here as the last generation. The numbers are randomly assigned and are not identical to the official house numbers.” The Słownik geograficzny records it as a colony, powiat słupecki, called *Ludwigslust* until 1891.[^1]'
 names:
 - form: Mały Las
   year: null
@@ -43,6 +34,10 @@ maps:
   form: Колонія Людвигслюстъ
   note: null
   label: mapadrogi1890-068
+- map: reymann1834
+  form: Kolonia Ludwigslust
+  note: null
+  label: reymann1834-085
 footnotes:
 - n: 1
   text: Słownik geograficzny, t. XVI, p. 298
@@ -50,9 +45,7 @@ footnotes:
   - source: slownik
     locator: t. XVI, p. 298
     status: missing
-  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): the entry says only that
-    it was called Ludwigslust until 1891 (with a reference to Emilienheim); the colonies renamed
-    in 1891 were those of the gmina of Emilienheim, not of the Łukom estate.'
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): the entry says only that it was called Ludwigslust until 1891 (with a reference to Emilienheim); the colonies renamed in 1891 were those of the gmina of Emilienheim, not of the Łukom estate.'
 review:
 - 'figure: refers to a figure of the editor''s book: Map 26, Tab. 26'
 german: Ludwigslust

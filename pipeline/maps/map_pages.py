@@ -209,7 +209,12 @@ def main():
             'reference': m.get('reference'),
             'url': m.get('url'),
             'tiles': m.get('tiles'),
-            'warp': f'{TILE_BASE}/warp.html?map={key}',
+            # the overlay on OpenStreetMap needs the map's annotation in the
+            # tiles repository; a map with too few marks for a fit (Blaeu
+            # 1665, Zagorowo 1799: two each) has none, and no link
+            'warp': (f'{TILE_BASE}/warp.html?map={key}'
+                     if os.path.isfile(os.path.join(MAPS_REPO, key, 'georef.json'))
+                     else None),
             # the satellite overlay page (pipeline/maps/sat_overlay.py,
             # beside the map's tiles in the tiles repository), linked from
             # the map's page when it has been built - a map with no farms.yml

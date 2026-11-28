@@ -28,6 +28,7 @@ maps:
 - map: hollring1804
   form: Budy Łukomskie
   note: null
+  label: hollring1804-002
 - map: richter1843
   form: Lukamske Budy
   note: null
@@ -38,5 +39,9 @@ maps:
   form: Лукомские Буды
   note: null
   label: mapadrogi1890-028
+- map: reymann1834
+  form: Lukomskie budy
+  note: null
+  label: reymann1834-047
 footnotes: []
 review: []

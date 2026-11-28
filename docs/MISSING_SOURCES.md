@@ -162,6 +162,7 @@ Wanted: the entries cited (1920 nos. 12-13, 1921 no. 25)
 
 Wanted: the entries cited (vols 1-6 from the clean transcription; 7-18 from RCIN)
 
+- t. 1, p. 192 - Białobrzeg
 - t. 1, p. 247 - Biskupice
 - t. 1, p. 44 - Adamierz
 - t. 1, p. 491 - Bukowe
@@ -191,10 +192,13 @@ Wanted: the entries cited (the editor's drive has Trąbczyn and Łukom as text)
 
 - t. XI, p. 8 - Olchowo
 - t. XV, p. 8 - Adamierz
-- t. XIV, p. 16 - Wrąbczyn
+- t. XIV, p. 16 - Kolonia Wrąbczyn, Wrąbczyn
 - t. XV, p. 51, sub 2 - Augustynów
+- t. XIV, p. 98 - Wymysłów
 - "Pietrzyków", p. 119 - Wrąbczynkowskie Holendry
 - t. XVI, p. 120 - Kopojno
+- t. XV, p. 125 - Białobrzeg
+- t. VI, p. 153 - Czarna Struga
 - "Noga", p. 172 - Noga
 - "Dziadolina", p. 260 - Dziadolina
 - t. XIV, p. 261 - Zagórów
@@ -204,28 +208,38 @@ Wanted: the entries cited (the editor's drive has Trąbczyn and Łukom as text)
 - t. V, p. 301 - Lisewska Kolonia
 - t. XV, p. 328 - Chruściki
 - t. IX, p. 332 - Pyzdry
+- t. XIII, p. 340 - Wielki Las
 - t. IV, p. 382 - Kopojno
+- t. VII, p. 386 - Odpadki
 - t. XVI, p. 405 - Olchowo
 - "Trąbczyn", pp. 448-449 - Czerwonka, Grabina, Kowaliska, Posada, Trąbczyn
+- t. XII, p. 448 - Czarna Struga
 - t. XII, p. 449 - Huta Trąbczyńska
+- t. III, p. 451 - Wrąbczyn
 - t. XV, p. 471 - Michalinów Oleśnicki
 - "Garbin", p. 484 - Garbin
 - t. IV, p. 484 - Koszelewska Łąka
+- t. XIV, p. 516 - Zbiersk Kolonia
 - t. XVI, p. 530 - Pyzdry
 - "Siergiejewo", p. 588 - Wincentowo
+- t. XII, p. 623 - Tumidaj
 - t. XVI, p. 653 - Tarszewo
 - t. IX, p. 658 - Rogal
 - t. X, p. 689 - Skokum
 - t. V, p. 697 - Łomów
 - t. XVI, p. 711, sub 1 - Zalesie
 - t. XIII, p. 718, sub 1 - Włodzimirów
-- t. II, p. 765 - Wymysłów
+- t. XIII, p. 773 - Wrąbczyn
 - t. II, p. 807 - Grądzeń
 - t. VIII, p. 815, sub 1 - Porąbki
 - "Łukom", p. 818 - Łukom
 - t. V, p. 818 - Łukomin
 - t. VI, p. 838 - Myszaków
-- t. XI, p. 911 - Szetlewek
+- t. XI, p. 911 - Czarna Struga, Szetlewek
+
+### OpenStreetMap (the stream's name there, given by the editor, 2026-11-21)
+
+- Bawół - Czarna Struga
 
 ## Maps cited
 
@@ -233,19 +247,12 @@ The maps the gazetteer cites and the edition does not hold. They are not all wan
 
 | Map | Places citing it | Headings |
 |---|---|---|
-| Blaeu 1665 | 1 | Trąbczyn |
-| von Pfau 1770 | 15 | Drzewce, Koczogowa, Kopojno, Kuzoi, Łazy, Łomów, Myszaków, Osiny, Rosciszewo, Sadornicz, Szetlewek, Trąbczyn, Trąbczyńskie Stare Olędry, Wrąbczyn, Wrąbczynek |
-| Trąbczyn 1790 | 4 | Łazy, Szetlewek, Tarszew, Trąbczyńskie Stare Olędry |
 | Perthées 1798 | 13 | Biskupice, Grądzeń, Kopojno, Łomów, Łukomskie Olędry, Myszakówek, Osiny, Smoleniec, Szetlew, Trąbczyn, Trąbczyńskie Stare Olędry, Wrąbczynkowskie Holendry, Wymysłów |
-| Zagorowo 1799 | 1 | Wymysłów |
 | Królików 1800 | 2 | Cygany, Rosciszewo |
 | Slupetsk 1800 | 1 | Michalinów Trąbczyński |
-| Pambo 1803 | 2 | Biskupice, Rosciszewo |
 | Gilly 1802 | 29 | Beźsług, Biskupice, Bukowe, Czarna Struga, Czarnybród, Długa Górka, Dziadolina, Grądzeń, Huta Łukomska, Koczogowa, Kopojno, Kościołków, Koszelewska Łąka, Łomów, Łukom, Łukomskie Olędry, Mariantów, Myszakówek, Oleśnica, Sklanna Huta, Szetlewek, Tarszew, Trąbczyn, Trąbczyńskie Nowe Olędry, Trąbczyńskie Stare Olędry, Wrąbczyn, Wymysłów, Zagórów, Zagórowskie Olędry |
 | Weydner 1804 | 2 | Koszelewska Łąka, Ostrowiec |
-| Hollring 1804 | 2 | Budy, Grądzeń |
 | Colberg 1827 | 1 | Michalinów Trąbczyński |
-| Reymann 1834 | 13 | Augustynów, Drzęzgi, Kościołków, Łazińskie Olędry, Łomów, Łukom, Maly, Michalinów Oleśnicki, Olchowo, Ryjew, Skokamskie Olędry, Tarczewo, Zagórów |
 | Richter 1843 | 29 | Beźsług, Bieganszczyzna, Osada, Budy, Czarnybród, Długa Górka, Grabina, Grądzeń, Huta Łukomska, Huta Trąbczyńska, Imielanka, Imielno, Jeziorko, Koszelewska Łąka, Łazińskie Olędry, Łukom, Łutow, Małgorzatów, Michalinów Trąbczyński, Oleśnica, Przybysław, Rosciszewo, Skokamskie Olędry, Stawisko, Tarszew, Trąbczyn Dworski, Włodzimirów, Wrąbczyn, Wygoda, Zagórów |
 | Chrzanowski 1858 | 6 | Biskupice, Grądzeń, Huta Łukomska, Huta Trąbczyńska, Kopojno, Koszelewska Łąka |
 | Wreschen 1901 | 5 | Kopojno, Myszaków, Podbiel, Stanisławów, Wrąbczynek |

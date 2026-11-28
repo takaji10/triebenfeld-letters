@@ -1,0 +1,47 @@
+# The editor's marks on the map hollring1804, from the labelling page, imported from
+# labels_hollring1804_20261127-2134.json on 2026-11-28 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: hollring1804
+width: 18001
+height: 13822
+saved: '2026-11-27T20:34:46.142Z'
+labels:
+- id: hollring1804-002
+  role: place
+  place: budy
+  new_place: null
+  form: Budy Łukomskie
+  point: [9930, 1760]
+  trace:
+  - [9128, 1454]
+  - [10243, 1398]
+  - [10365, 2351]
+  - [12422, 2342]
+  height: 80
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: hollring1804-004
+  role: place
+  place: gradzyn
+  new_place: null
+  form: Haulanderei Grądzyn
+  point: [9418, 5607]
+  trace:
+  - [6637, 4105]
+  - [11966, 4150]
+  height: 520
+  shows: oleder-settlement
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null

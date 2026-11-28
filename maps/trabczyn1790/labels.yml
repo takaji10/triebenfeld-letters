@@ -1,0 +1,266 @@
+# The editor's marks on the map trabczyn1790, from the labelling page, imported from
+# labels_trabczyn1790_20261127-2146.json on 2026-11-28 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: trabczyn1790
+width: 4590
+height: 5319
+saved: '2026-11-27T20:46:21.751Z'
+labels:
+- id: trabczyn1790-002
+  role: place
+  place: lazy-trabczyn
+  new_place: null
+  form: Lasy
+  point: [2139, 2370]
+  trace:
+  - [1984, 2395]
+  - [2084, 2396]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-004
+  role: place
+  place: szetlewek
+  new_place: null
+  form: Szelkowek
+  point: [2441, 2560]
+  trace:
+  - [2474, 2579]
+  - [2718, 2572]
+  height: 60
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-006
+  role: place
+  place: tarszew-mlyn
+  new_place: null
+  form: Mł. Tarszewo
+  point: [2542, 2225]
+  trace:
+  - [2393, 2203]
+  - [2427, 2212]
+  - [2451, 2236]
+  - [2482, 2245]
+  - [2518, 2246]
+  height: 80
+  shows: water-mill
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-008
+  role: place
+  place: trabczynskie-stare-oledry
+  new_place: null
+  form: Holendry Lusnia Stara z Hutą
+  point: [1892, 2602]
+  trace:
+  - [1846, 2657]
+  - [2026, 2658]
+  - [1783, 2713]
+  - [2165, 2717]
+  height: 60
+  shows: oleder-settlement
+  note: Indicates multiple places including Huta Trąbczyńska
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-010
+  role: place
+  place: porabki
+  new_place: null
+  form: Porąbki
+  point: [2311, 2390]
+  trace:
+  - [2333, 2392]
+  - [2440, 2397]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-012
+  role: place
+  place: drzezgi
+  new_place: null
+  form: Dręzgi
+  point: [2378, 2358]
+  trace:
+  - [2389, 2348]
+  - [2478, 2322]
+  height: 40
+  shows: water-mill
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-014
+  role: place
+  place: osiny
+  new_place: null
+  form: Osiny
+  point: [2093, 2346]
+  trace:
+  - [1978, 2333]
+  - [2060, 2332]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-016
+  role: place
+  place: zagorowo
+  new_place: null
+  form: Zagorowo
+  point: [1920, 2123]
+  trace:
+  - [1666, 2216]
+  - [1918, 2207]
+  height: 60
+  shows: town
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-018
+  role: place
+  place: olesnica
+  new_place: null
+  form: Olesnica
+  point: [2104, 2130]
+  trace:
+  - [2060, 2102]
+  - [2173, 2118]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-020
+  role: place
+  place: nowawies-trabczyn
+  new_place: null
+  form: Nowawies
+  point: [2111, 2203]
+  trace:
+  - [2030, 2257]
+  - [2140, 2241]
+  height: 20
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-022
+  role: place
+  place: trabczyn
+  new_place: null
+  form: Trąpczyn
+  point: [2274, 2288]
+  trace:
+  - [1994, 2296]
+  - [2247, 2289]
+  height: 60
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-024
+  role: place
+  place: szetlew
+  new_place: null
+  form: Szelkow
+  point: [2445, 2447]
+  trace:
+  - [2463, 2467]
+  - [2640, 2464]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-026
+  role: place
+  place: swiatniki
+  new_place: null
+  form: Swiątniki
+  point: [2680, 2192]
+  trace:
+  - [2624, 2166]
+  - [2745, 2168]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: trabczyn1790-028
+  role: place
+  place: podbiel
+  new_place: null
+  form: Podbiele
+  point: [2483, 2361]
+  trace:
+  - [2501, 2336]
+  - [2633, 2304]
+  height: 40
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null

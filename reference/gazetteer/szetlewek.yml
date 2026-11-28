@@ -28,9 +28,11 @@ maps:
 - map: vonpfau1770
   form: Szetlewka
   note: null
+  label: vonpfau1770-023
 - map: trabczyn1790
   form: Szelkowek
   note: null
+  label: trabczyn1790-004
 - map: gilly1802
   form: Szedlewek
   note: null
@@ -42,6 +44,10 @@ maps:
   form: Шетлевекъ
   note: null
   label: mapadrogi1890-058
+- map: reymann1834
+  form: Szetlewek
+  note: null
+  label: reymann1834-099
 footnotes:
 - n: 76
   text: “Relationes [protocollon],” 1786, 163v

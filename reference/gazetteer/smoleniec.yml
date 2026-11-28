@@ -12,11 +12,7 @@ location:
   precision: identified
   lat: 52.119624
   lon: 17.790422
-text_en: Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was
-  made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe Polski records it
-  as *Smoliniec* in 1783-84 and *Smoleniec* from 1802; the name was taken over from a meadow
-  called *Smolieniecz* "between Łukom and Myszków" (1578), from *smolany*, tarry, and probably
-  first named a forest of which the meadow remained.[^68]
+text_en: Hamlet east of and belonging to Koszelewska Łąka. May have been a place where tar was made (Pl. *smolarnia*).[^67] *Smoliniec* (Perthées 1798). Nazwy miejscowe Polski records it as *Smoliniec* in 1783-84 and *Smoleniec* from 1802; the name was taken over from a meadow called *Smolieniecz* "between Łukom and Myszków" (1578), from *smolany*, tarry, and probably first named a forest of which the meadow remained.[^68]
 names:
 - form: Smoleniec
   year: null
@@ -35,6 +31,14 @@ maps:
 - map: perthees1798
   form: Smoliniec
   note: null
+- map: vonpfau1770
+  form: Smoleniec
+  note: null
+  label: vonpfau1770-033
+- map: reymann1834
+  form: Jmoleniec
+  note: null
+  label: reymann1834-045
 footnotes:
 - n: 67
   text: Szwiec 11
@@ -50,6 +54,5 @@ footnotes:
   - source: nmpol
     locator: t. 14, p. 176
     status: missing
-  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "Łukomiem a Myszkowem"
-    is the meadow''s location in the record of 1578, not a form of the name.'
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "Łukomiem a Myszkowem" is the meadow''s location in the record of 1578, not a form of the name.'
 review: []

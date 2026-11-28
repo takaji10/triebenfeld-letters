@@ -6607,3 +6607,14 @@ sources-icon.html`).
 
 - Two blind readers on leaves 27 verso to 29 agree on 38%, 42% and 63% of the words, mostly formulas: the entries cannot be transcribed reliably as things stand. The readings kept as a record (`units/app536017/intake/test_reading_2026-11-28/`); the choice put to the editor (to-do t926).
 
+## 2026-11-28 - Seven maps marked and in the edition
+
+- The editor's label files of 2026-11-27 imported: Blaeu 1665 (2 marks), Hollring 1804 (2), Pambo 1803 (3), Reymann 1834 (53), Trąbczyn 1790 (14), von Pfau 1770 (24), Zagorowo 1799 (2); crops cut, the gazetteer's map appearances linked, `in_project: true`, each map's `notes.md`.
+- The fits: Hollring 1804 RMS 174 m (MapWarper and one mark), Pambo 1803 RMS 1.4 m (MapWarper), and from the marks alone Trąbczyn 1790 777 m, von Pfau 1770 1141 m, Reymann 1834 773 m (one misfit, Łazińskie Olędry, t929). Blaeu 1665 and Zagorowo 1799 have two marks each, too few for a fit.
+- `map_pages.py`: the "over OpenStreetMap" link only where the map's annotation exists. `mobile_check.py`: finds npm on Windows (npm.cmd). All seven pages fit at 390, 360 and 320 px.
+- Forms that differ from the lettering (t927) and five new places (t928) put to the editor.
+
+## 2026-11-28 - "Borwiezer Holland" is Borowiec
+
+- The editor identified the teacher Samuel Adolph's home in the contract of 1820 (APP 53/968/0/-/782) as the nearby colony of Borowiec; spelled after Chodyła's Borowieckie Stare and Nowe Olędry of the Grodziec estate (Breyer: "Borowetzer Gemeine" beside "Grontzer Holland"). The holding's page names it; the transcription keeps "Borwiezer Holland".
+

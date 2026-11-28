@@ -133,14 +133,14 @@ dluga-gorka:
   span: ''
   letters: []
 trabczyn:
-  docs: 253
+  docs: 255
   span: 1240–1936
   letters:
   - id: '2'
     uid: kdw-2
     url: /documents/kdw/2/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
+    n: 2
   - id: '5'
     uid: kdw-5
     url: /documents/kdw/5/
@@ -155,12 +155,12 @@ trabczyn:
     uid: kdw-9
     url: /documents/kdw/9/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 2
+    n: 4
   - id: '10'
     uid: kdw-10
     url: /documents/kdw/10/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 2
+    n: 4
   - id: '13'
     uid: kdw-13
     url: /documents/kdw/13/
@@ -175,12 +175,12 @@ trabczyn:
     uid: kdw-19
     url: /documents/kdw/19/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 6
+    n: 7
   - id: '1'
     uid: app536036-1
     url: /documents/app536036/1/
     unit_label: APP 53/6/0/-/36
-    n: 1
+    n: 2
   - id: '1'
     uid: app536040-1
     url: /documents/app536040/1/
@@ -211,6 +211,11 @@ trabczyn:
     url: /documents/app53170koningr115/2/
     unit_label: 53/17/0/-/Konin Gr.115
     n: 1
+  - id: '1'
+    uid: app5321pyzdrygr75-1
+    url: /documents/app5321pyzdrygr75/1/
+    unit_label: 53/21/0/-/Pyzdry Gr.75
+    n: 2
   - id: '1'
     uid: app53150kaliszgr414-1
     url: /documents/app53150kaliszgr414/1/
@@ -306,6 +311,11 @@ trabczyn:
     url: /documents/app53150kaliszgr424/1/
     unit_label: 53/15/0/-/Kalisz Gr.424
     n: 2
+  - id: '12'
+    uid: app53170koningr116-12
+    url: /documents/app53170koningr116/12/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
   - id: '1'
     uid: app536046-1
     url: /documents/app536046/1/
@@ -316,26 +326,16 @@ trabczyn:
     url: /documents/app536046/2/
     unit_label: APP 53/6/0/-/46
     n: 2
-  - id: '12'
-    uid: app53170koningr116-12
-    url: /documents/app53170koningr116/12/
-    unit_label: 53/17/0/-/Konin Gr.116
-    n: 1
-  - id: '10'
-    uid: app53170koningr117-10
-    url: /documents/app53170koningr117/10/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
-  - id: '3'
-    uid: app53170koningr117-3
-    url: /documents/app53170koningr117/3/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 3
   - id: '1'
     uid: app53170koningr117-1
     url: /documents/app53170koningr117/1/
     unit_label: 53/17/0/-/Konin Gr.117
     n: 5
+  - id: '3'
+    uid: app53170koningr117-3
+    url: /documents/app53170koningr117/3/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 3
   - id: '2'
     uid: app53170koningr117-2
     url: /documents/app53170koningr117/2/
@@ -371,6 +371,11 @@ trabczyn:
     url: /documents/app53170koningr117/9/
     unit_label: 53/17/0/-/Konin Gr.117
     n: 3
+  - id: '10'
+    uid: app53170koningr117-10
+    url: /documents/app53170koningr117/10/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
   - id: '11'
     uid: app53170koningr117-11
     url: /documents/app53170koningr117/11/
@@ -391,14 +396,9 @@ trabczyn:
     url: /documents/app53170koningr118/8/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 2
-  - id: '14'
-    uid: app53170koningr118-14
-    url: /documents/app53170koningr118/14/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 2
-  - id: '25'
-    uid: app53170koningr118-25
-    url: /documents/app53170koningr118/25/
+  - id: '26'
+    uid: app53170koningr118-26
+    url: /documents/app53170koningr118/26/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
   - id: '10'
@@ -411,6 +411,11 @@ trabczyn:
     url: /documents/app53170koningr118/11/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 2
+  - id: '14'
+    uid: app53170koningr118-14
+    url: /documents/app53170koningr118/14/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
   - id: '17'
     uid: app53170koningr118-17
     url: /documents/app53170koningr118/17/
@@ -420,7 +425,7 @@ trabczyn:
     uid: app53170koningr118-18
     url: /documents/app53170koningr118/18/
     unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
+    n: 2
   - id: '19'
     uid: app53170koningr118-19
     url: /documents/app53170koningr118/19/
@@ -430,10 +435,15 @@ trabczyn:
     uid: app53170koningr118-20
     url: /documents/app53170koningr118/20/
     unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '21'
+    uid: app53170koningr118-21
+    url: /documents/app53170koningr118/21/
+    unit_label: 53/17/0/-/Konin Gr.118
     n: 3
-  - id: '23'
-    uid: app53170koningr118-23
-    url: /documents/app53170koningr118/23/
+  - id: '24'
+    uid: app53170koningr118-24
+    url: /documents/app53170koningr118/24/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
   - id: '1'
@@ -446,31 +456,26 @@ trabczyn:
     url: /documents/app53170koningr153/2/
     unit_label: 53/17/0/-/Konin Gr.153
     n: 2
-  - id: '28'
-    uid: app53170koningr118-28
-    url: /documents/app53170koningr118/28/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 2
   - id: '29'
     uid: app53170koningr118-29
     url: /documents/app53170koningr118/29/
     unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '26'
-    uid: app53170koningr118-26
-    url: /documents/app53170koningr118/26/
+    n: 2
+  - id: '30'
+    uid: app53170koningr118-30
+    url: /documents/app53170koningr118/30/
     unit_label: 53/17/0/-/Konin Gr.118
-    n: 4
+    n: 1
   - id: '27'
     uid: app53170koningr118-27
     url: /documents/app53170koningr118/27/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 4
-  - id: '1'
-    uid: app536047-1
-    url: /documents/app536047/1/
-    unit_label: APP 53/6/0/-/47
-    n: 2
+  - id: '28'
+    uid: app53170koningr118-28
+    url: /documents/app53170koningr118/28/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 5
   - id: '1'
     uid: app53170koningr119-1
     url: /documents/app53170koningr119/1/
@@ -496,6 +501,11 @@ trabczyn:
     url: /documents/app53170koningr119/5/
     unit_label: 53/17/0/-/Konin Gr.119
     n: 1
+  - id: '1'
+    uid: app536047-1
+    url: /documents/app536047/1/
+    unit_label: APP 53/6/0/-/47
+    n: 2
   - id: '1'
     uid: app5320pozgr1181-1
     url: /documents/app5320pozgr1181/1/
@@ -1465,9 +1475,9 @@ drzewce:
     url: /documents/app53170koningr153/1/
     unit_label: 53/17/0/-/Konin Gr.153
     n: 8
-  - id: '27'
-    uid: app53170koningr118-27
-    url: /documents/app53170koningr118/27/
+  - id: '28'
+    uid: app53170koningr118-28
+    url: /documents/app53170koningr118/28/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
   - id: '2'
@@ -1816,7 +1826,7 @@ jeziorko:
   span: ''
   letters: []
 kalisz:
-  docs: 118
+  docs: 154
   span: 1280–1897
   letters:
   - id: '6'
@@ -1824,20 +1834,195 @@ kalisz:
     url: /documents/kdw/6/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
+  - id: '27'
+    uid: kdw-27
+    url: /documents/kdw/27/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '4'
+    uid: app5314550221-4
+    url: /documents/app5314550221/4/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '31'
+    uid: kdw-31
+    url: /documents/kdw/31/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '1'
+    uid: app5314550221-1
+    url: /documents/app5314550221/1/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '3'
+    uid: app5314550221-3
+    url: /documents/app5314550221/3/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '1'
+    uid: app536040-1
+    url: /documents/app536040/1/
+    unit_label: APP 53/6/0/-/40
+    n: 3
+  - id: '1'
+    uid: app53170koningr115-1
+    url: /documents/app53170koningr115/1/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '1'
+    uid: app53150kaliszgr414-1
+    url: /documents/app53150kaliszgr414/1/
+    unit_label: 53/15/0/-/Kalisz Gr.414
+    n: 4
   - id: '1'
     uid: app53170koningr145-1
     url: /documents/app53170koningr145/1/
     unit_label: 53/17/0/-/Konin Gr.145
     n: 8
   - id: '1'
+    uid: app53150kaliszgr425-1
+    url: /documents/app53150kaliszgr425/1/
+    unit_label: 53/15/0/-/Kalisz Gr.425
+    n: 2
+  - id: '1'
+    uid: app53150kaliszgr424-1
+    url: /documents/app53150kaliszgr424/1/
+    unit_label: 53/15/0/-/Kalisz Gr.424
+    n: 2
+  - id: '1'
+    uid: app536046-1
+    url: /documents/app536046/1/
+    unit_label: APP 53/6/0/-/46
+    n: 1
+  - id: '1'
+    uid: app53170koningr117-1
+    url: /documents/app53170koningr117/1/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '3'
+    uid: app53170koningr117-3
+    url: /documents/app53170koningr117/3/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 7
+  - id: '2'
+    uid: app53170koningr117-2
+    url: /documents/app53170koningr117/2/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 3
+  - id: '5'
+    uid: app53170koningr117-5
+    url: /documents/app53170koningr117/5/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '7'
+    uid: app53170koningr117-7
+    url: /documents/app53170koningr117/7/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 12
+  - id: '8'
+    uid: app53170koningr117-8
+    url: /documents/app53170koningr117/8/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 7
+  - id: '9'
+    uid: app53170koningr117-9
+    url: /documents/app53170koningr117/9/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 3
+  - id: '12'
+    uid: app53170koningr117-12
+    url: /documents/app53170koningr117/12/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '1'
+    uid: app53170koningr118-1
+    url: /documents/app53170koningr118/1/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '2'
+    uid: app53170koningr118-2
+    url: /documents/app53170koningr118/2/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '4'
+    uid: app53170koningr118-4
+    url: /documents/app53170koningr118/4/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '9'
+    uid: app53170koningr118-9
+    url: /documents/app53170koningr118/9/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '26'
+    uid: app53170koningr118-26
+    url: /documents/app53170koningr118/26/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '12'
+    uid: app53170koningr118-12
+    url: /documents/app53170koningr118/12/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '13'
+    uid: app53170koningr118-13
+    url: /documents/app53170koningr118/13/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 5
+  - id: '14'
+    uid: app53170koningr118-14
+    url: /documents/app53170koningr118/14/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '24'
+    uid: app53170koningr118-24
+    url: /documents/app53170koningr118/24/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 6
+  - id: '1'
     uid: app53170koningr153-1
     url: /documents/app53170koningr153/1/
     unit_label: 53/17/0/-/Konin Gr.153
     n: 1
   - id: '1'
+    uid: app53170koningr119-1
+    url: /documents/app53170koningr119/1/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 3
+  - id: '2'
+    uid: app53170koningr119-2
+    url: /documents/app53170koningr119/2/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 4
+  - id: '3'
+    uid: app53170koningr119-3
+    url: /documents/app53170koningr119/3/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '4'
+    uid: app53170koningr119-4
+    url: /documents/app53170koningr119/4/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 2
+  - id: '5'
+    uid: app53170koningr119-5
+    url: /documents/app53170koningr119/5/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 4
+  - id: '6'
+    uid: app53170koningr119-6
+    url: /documents/app53170koningr119/6/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 2
+  - id: '1'
     uid: app5320pozgr1181-1
     url: /documents/app5320pozgr1181/1/
     unit_label: 53/20/0/-/Poznań Gr.1181
+    n: 13
+  - id: '2'
+    uid: app53170koningr120-2
+    url: /documents/app53170koningr120/2/
+    unit_label: 53/17/0/-/Konin Gr.120
     n: 1
   - id: '1'
     uid: adwl85-1
@@ -2409,6 +2594,11 @@ kalisz:
     url: /documents/apl399806603/5/
     unit_label: APŁ 39/98/0/-/6603
     n: 2
+  - id: '5'
+    uid: app5314550221-5
+    url: /documents/app5314550221/5/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
 kirchol:
   docs: 0
   span: ''
@@ -2422,7 +2612,7 @@ kolonia-wrabczyn:
   span: ''
   letters: []
 konin:
-  docs: 45
+  docs: 101
   span: 1280–1936
   letters:
   - id: '6'
@@ -2435,6 +2625,11 @@ konin:
     url: /documents/kdw/27/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 3
+  - id: '4'
+    uid: app5314550221-4
+    url: /documents/app5314550221/4/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
   - id: '28'
     uid: kdw-28
     url: /documents/kdw/28/
@@ -2455,31 +2650,306 @@ konin:
     url: /documents/kdw/19/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
+  - id: '3'
+    uid: app5314550221-3
+    url: /documents/app5314550221/3/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '1'
+    uid: app536017-1
+    url: /documents/app536017/1/
+    unit_label: APP 53/6/0/-/17
+    n: 4
+  - id: '1'
+    uid: app536036-1
+    url: /documents/app536036/1/
+    unit_label: APP 53/6/0/-/36
+    n: 1
+  - id: '1'
+    uid: app536040-1
+    url: /documents/app536040/1/
+    unit_label: APP 53/6/0/-/40
+    n: 4
+  - id: '1'
+    uid: app53170koningr136-1
+    url: /documents/app53170koningr136/1/
+    unit_label: 53/17/0/-/Konin Gr.136
+    n: 1
+  - id: '1'
+    uid: app53170koningr114-1
+    url: /documents/app53170koningr114/1/
+    unit_label: 53/17/0/-/Konin Gr.114
+    n: 2
+  - id: '2'
+    uid: app53170koningr114-2
+    url: /documents/app53170koningr114/2/
+    unit_label: 53/17/0/-/Konin Gr.114
+    n: 2
+  - id: '2'
+    uid: app53170koningr115-2
+    url: /documents/app53170koningr115/2/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '1'
+    uid: app53150kaliszgr414-1
+    url: /documents/app53150kaliszgr414/1/
+    unit_label: 53/15/0/-/Kalisz Gr.414
+    n: 1
+  - id: '4'
+    uid: app53170koningr115-4
+    url: /documents/app53170koningr115/4/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '5'
+    uid: app53170koningr115-5
+    url: /documents/app53170koningr115/5/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 2
+  - id: '6'
+    uid: app53170koningr115-6
+    url: /documents/app53170koningr115/6/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '7'
+    uid: app53170koningr115-7
+    url: /documents/app53170koningr115/7/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 2
+  - id: '8'
+    uid: app53170koningr115-8
+    url: /documents/app53170koningr115/8/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 2
+  - id: '9'
+    uid: app53170koningr115-9
+    url: /documents/app53170koningr115/9/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '10'
+    uid: app53170koningr115-10
+    url: /documents/app53170koningr115/10/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '2'
+    uid: app53170koningr116-2
+    url: /documents/app53170koningr116/2/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '6'
+    uid: app53170koningr116-6
+    url: /documents/app53170koningr116/6/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '8'
+    uid: app53170koningr116-8
+    url: /documents/app53170koningr116/8/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 3
   - id: '1'
     uid: app53170koningr145-1
     url: /documents/app53170koningr145/1/
     unit_label: 53/17/0/-/Konin Gr.145
-    n: 6
+    n: 7
+  - id: '12'
+    uid: app53170koningr116-12
+    url: /documents/app53170koningr116/12/
+    unit_label: 53/17/0/-/Konin Gr.116
+    n: 1
+  - id: '1'
+    uid: app536046-1
+    url: /documents/app536046/1/
+    unit_label: APP 53/6/0/-/46
+    n: 3
+  - id: '1'
+    uid: app53170koningr117-1
+    url: /documents/app53170koningr117/1/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 4
+  - id: '3'
+    uid: app53170koningr117-3
+    url: /documents/app53170koningr117/3/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 2
   - id: '2'
     uid: app53170koningr117-2
     url: /documents/app53170koningr117/2/
     unit_label: 53/17/0/-/Konin Gr.117
+    n: 5
+  - id: '4'
+    uid: app53170koningr117-4
+    url: /documents/app53170koningr117/4/
+    unit_label: 53/17/0/-/Konin Gr.117
     n: 1
+  - id: '5'
+    uid: app53170koningr117-5
+    url: /documents/app53170koningr117/5/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 2
+  - id: '6'
+    uid: app53170koningr117-6
+    url: /documents/app53170koningr117/6/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '7'
+    uid: app53170koningr117-7
+    url: /documents/app53170koningr117/7/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 6
   - id: '8'
     uid: app53170koningr117-8
     url: /documents/app53170koningr117/8/
     unit_label: 53/17/0/-/Konin Gr.117
+    n: 3
+  - id: '9'
+    uid: app53170koningr117-9
+    url: /documents/app53170koningr117/9/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 3
+  - id: '11'
+    uid: app53170koningr117-11
+    url: /documents/app53170koningr117/11/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 2
+  - id: '12'
+    uid: app53170koningr117-12
+    url: /documents/app53170koningr117/12/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 2
+  - id: '4'
+    uid: app53170koningr118-4
+    url: /documents/app53170koningr118/4/
+    unit_label: 53/17/0/-/Konin Gr.118
     n: 1
+  - id: '5'
+    uid: app53170koningr118-5
+    url: /documents/app53170koningr118/5/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '8'
+    uid: app53170koningr118-8
+    url: /documents/app53170koningr118/8/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '10'
+    uid: app53170koningr118-10
+    url: /documents/app53170koningr118/10/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '11'
+    uid: app53170koningr118-11
+    url: /documents/app53170koningr118/11/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '12'
+    uid: app53170koningr118-12
+    url: /documents/app53170koningr118/12/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '13'
+    uid: app53170koningr118-13
+    url: /documents/app53170koningr118/13/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '15'
+    uid: app53170koningr118-15
+    url: /documents/app53170koningr118/15/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '16'
+    uid: app53170koningr118-16
+    url: /documents/app53170koningr118/16/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '17'
+    uid: app53170koningr118-17
+    url: /documents/app53170koningr118/17/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '20'
+    uid: app53170koningr118-20
+    url: /documents/app53170koningr118/20/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '21'
+    uid: app53170koningr118-21
+    url: /documents/app53170koningr118/21/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '24'
+    uid: app53170koningr118-24
+    url: /documents/app53170koningr118/24/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 4
+  - id: '25'
+    uid: app53170koningr118-25
+    url: /documents/app53170koningr118/25/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '1'
+    uid: app53170koningr153-1
+    url: /documents/app53170koningr153/1/
+    unit_label: 53/17/0/-/Konin Gr.153
+    n: 7
   - id: '27'
     uid: app53170koningr118-27
     url: /documents/app53170koningr118/27/
     unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '28'
+    uid: app53170koningr118-28
+    url: /documents/app53170koningr118/28/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '2'
+    uid: app53170koningr119-2
+    url: /documents/app53170koningr119/2/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '3'
+    uid: app53170koningr119-3
+    url: /documents/app53170koningr119/3/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 2
+  - id: '5'
+    uid: app53170koningr119-5
+    url: /documents/app53170koningr119/5/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '1'
+    uid: app536047-1
+    url: /documents/app536047/1/
+    unit_label: APP 53/6/0/-/47
+    n: 2
+  - id: '7'
+    uid: app53170koningr119-7
+    url: /documents/app53170koningr119/7/
+    unit_label: 53/17/0/-/Konin Gr.119
     n: 1
   - id: '1'
     uid: app5320pozgr1181-1
     url: /documents/app5320pozgr1181/1/
     unit_label: 53/20/0/-/Poznań Gr.1181
+    n: 10
+  - id: '8'
+    uid: app53170koningr119-8
+    url: /documents/app53170koningr119/8/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 2
+  - id: '1'
+    uid: app53170koningr120-1
+    url: /documents/app53170koningr120/1/
+    unit_label: 53/17/0/-/Konin Gr.120
     n: 1
+  - id: '2'
+    uid: app53170koningr120-2
+    url: /documents/app53170koningr120/2/
+    unit_label: 53/17/0/-/Konin Gr.120
+    n: 1
+  - id: '1'
+    uid: app53170koningr121-1
+    url: /documents/app53170koningr121/1/
+    unit_label: 53/17/0/-/Konin Gr.121
+    n: 4
   - id: '1'
     uid: adwl85-1
     url: /documents/adwl85/1/
@@ -2887,7 +3357,7 @@ lazinsk-pierwszy:
   span: ''
   letters: []
 lad:
-  docs: 28
+  docs: 45
   span: 1173–1806
   letters:
   - id: '1'
@@ -2899,20 +3369,25 @@ lad:
     uid: kdw-2
     url: /documents/kdw/2/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 3
+    n: 5
   - id: '22'
     uid: kdw-22
     url: /documents/kdw/22/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 2
+    n: 5
   - id: '4'
     uid: kdw-4
     url: /documents/kdw/4/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 4
+    n: 7
   - id: '5'
     uid: kdw-5
     url: /documents/kdw/5/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '6'
+    uid: kdw-6
+    url: /documents/kdw/6/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 2
   - id: '23'
@@ -2940,61 +3415,136 @@ lad:
     url: /documents/kdw/27/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 2
+  - id: '4'
+    uid: app5314550221-4
+    url: /documents/app5314550221/4/
+    unit_label: APP 53/1455/0/2/21
+    n: 6
   - id: '28'
     uid: kdw-28
     url: /documents/kdw/28/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 3
+    n: 6
   - id: '29'
     uid: kdw-29
     url: /documents/kdw/29/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 2
+    n: 3
   - id: '30'
     uid: kdw-30
     url: /documents/kdw/30/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
+    n: 2
   - id: '31'
     uid: kdw-31
     url: /documents/kdw/31/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 2
+    n: 4
   - id: '11'
     uid: kdw-11
     url: /documents/kdw/11/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 2
+    n: 5
+  - id: '12'
+    uid: kdw-12
+    url: /documents/kdw/12/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '1'
+    uid: app5314550221-1
+    url: /documents/app5314550221/1/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
   - id: '13'
     uid: kdw-13
     url: /documents/kdw/13/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 3
+    n: 7
+  - id: '14'
+    uid: kdw-14
+    url: /documents/kdw/14/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
   - id: '15'
     uid: kdw-15
     url: /documents/kdw/15/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
+    n: 3
   - id: '16'
     uid: kdw-16
     url: /documents/kdw/16/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
+    n: 6
   - id: '17'
     uid: kdw-17
     url: /documents/kdw/17/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
-    n: 1
+    n: 4
   - id: '18'
     uid: kdw-18
     url: /documents/kdw/18/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 4
+  - id: '3'
+    uid: app5314550221-3
+    url: /documents/app5314550221/3/
+    unit_label: APP 53/1455/0/2/21
+    n: 2
+  - id: '2'
+    uid: app5314550221-2
+    url: /documents/app5314550221/2/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '6'
+    uid: app5314550221-6
+    url: /documents/app5314550221/6/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '2'
+    uid: app53170koningr115-2
+    url: /documents/app53170koningr115/2/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 2
+  - id: '2'
+    uid: app53170koningr116-2
+    url: /documents/app53170koningr116/2/
+    unit_label: 53/17/0/-/Konin Gr.116
     n: 1
   - id: '1'
     uid: app53170koningr145-1
     url: /documents/app53170koningr145/1/
     unit_label: 53/17/0/-/Konin Gr.145
     n: 3
+  - id: '8'
+    uid: app53170koningr118-8
+    url: /documents/app53170koningr118/8/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '10'
+    uid: app53170koningr118-10
+    url: /documents/app53170koningr118/10/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '23'
+    uid: app53170koningr118-23
+    url: /documents/app53170koningr118/23/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '25'
+    uid: app53170koningr118-25
+    url: /documents/app53170koningr118/25/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '1'
+    uid: app53170koningr153-1
+    url: /documents/app53170koningr153/1/
+    unit_label: 53/17/0/-/Konin Gr.153
+    n: 10
+  - id: '1'
+    uid: app5320pozgr1181-1
+    url: /documents/app5320pozgr1181/1/
+    unit_label: 53/20/0/-/Poznań Gr.1181
+    n: 5
   - id: '1'
     uid: agad1169011745-1
     url: /documents/agad1169011745/1/
@@ -3029,6 +3579,11 @@ lad:
     uid: oe1bu14526-8
     url: /documents/oe1bu14526/8/
     unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: '5'
+    uid: app5314550221-5
+    url: /documents/app5314550221/5/
+    unit_label: APP 53/1455/0/2/21
     n: 1
 lipowa-gorka:
   docs: 0
@@ -3094,7 +3649,7 @@ lomow:
   span: ''
   letters: []
 lukom:
-  docs: 58
+  docs: 59
   span: 1240–1936
   letters:
   - id: '2'
@@ -3242,26 +3797,26 @@ lukom:
     url: /documents/app53150kaliszgr424/1/
     unit_label: 53/15/0/-/Kalisz Gr.424
     n: 1
-  - id: '1'
-    uid: app536046-1
-    url: /documents/app536046/1/
-    unit_label: APP 53/6/0/-/46
-    n: 1
   - id: '12'
     uid: app53170koningr116-12
     url: /documents/app53170koningr116/12/
     unit_label: 53/17/0/-/Konin Gr.116
     n: 2
-  - id: '3'
-    uid: app53170koningr117-3
-    url: /documents/app53170koningr117/3/
-    unit_label: 53/17/0/-/Konin Gr.117
+  - id: '1'
+    uid: app536046-1
+    url: /documents/app536046/1/
+    unit_label: APP 53/6/0/-/46
     n: 1
   - id: '1'
     uid: app53170koningr117-1
     url: /documents/app53170koningr117/1/
     unit_label: 53/17/0/-/Konin Gr.117
     n: 2
+  - id: '3'
+    uid: app53170koningr117-3
+    url: /documents/app53170koningr117/3/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
   - id: '2'
     uid: app53170koningr117-2
     url: /documents/app53170koningr117/2/
@@ -3292,9 +3847,9 @@ lukom:
     url: /documents/app53170koningr117/9/
     unit_label: 53/17/0/-/Konin Gr.117
     n: 1
-  - id: '25'
-    uid: app53170koningr118-25
-    url: /documents/app53170koningr118/25/
+  - id: '26'
+    uid: app53170koningr118-26
+    url: /documents/app53170koningr118/26/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 2
   - id: '17'
@@ -3302,25 +3857,25 @@ lukom:
     url: /documents/app53170koningr118/17/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 2
+  - id: '18'
+    uid: app53170koningr118-18
+    url: /documents/app53170koningr118/18/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
   - id: '1'
     uid: app53170koningr153-1
     url: /documents/app53170koningr153/1/
     unit_label: 53/17/0/-/Konin Gr.153
     n: 19
+  - id: '29'
+    uid: app53170koningr118-29
+    url: /documents/app53170koningr118/29/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
   - id: '28'
     uid: app53170koningr118-28
     url: /documents/app53170koningr118/28/
     unit_label: 53/17/0/-/Konin Gr.118
-    n: 2
-  - id: '27'
-    uid: app53170koningr118-27
-    url: /documents/app53170koningr118/27/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '1'
-    uid: app536047-1
-    url: /documents/app536047/1/
-    unit_label: APP 53/6/0/-/47
     n: 1
   - id: '1'
     uid: app53170koningr119-1
@@ -3341,6 +3896,11 @@ lukom:
     uid: app53170koningr119-5
     url: /documents/app53170koningr119/5/
     unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '1'
+    uid: app536047-1
+    url: /documents/app536047/1/
+    unit_label: APP 53/6/0/-/47
     n: 1
   - id: '1'
     uid: app53170koningr121-1
@@ -4106,7 +4666,7 @@ przycierz:
   span: ''
   letters: []
 pyzdry:
-  docs: 23
+  docs: 29
   span: 1291–1936
   letters:
   - id: '24'
@@ -4128,10 +4688,20 @@ pyzdry:
     uid: app5314550221-4
     url: /documents/app5314550221/4/
     unit_label: APP 53/1455/0/2/21
-    n: 2
+    n: 4
   - id: '11'
     uid: kdw-11
     url: /documents/kdw/11/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '1'
+    uid: app5314550221-1
+    url: /documents/app5314550221/1/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '17'
+    uid: kdw-17
+    url: /documents/kdw/17/
     unit_label: Kodeks Dyplomatyczny Wielkopolski
     n: 1
   - id: '20'
@@ -4143,7 +4713,7 @@ pyzdry:
     uid: app5314550221-2
     url: /documents/app5314550221/2/
     unit_label: APP 53/1455/0/2/21
-    n: 1
+    n: 2
   - id: '6'
     uid: app5314550221-6
     url: /documents/app5314550221/6/
@@ -4155,20 +4725,35 @@ pyzdry:
     unit_label: APP 53/6/0/-/45
     n: 2
   - id: '1'
+    uid: app53170koningr145-1
+    url: /documents/app53170koningr145/1/
+    unit_label: 53/17/0/-/Konin Gr.145
+    n: 2
+  - id: '2'
+    uid: app536046-2
+    url: /documents/app536046/2/
+    unit_label: APP 53/6/0/-/46
+    n: 1
+  - id: '1'
     uid: app53170koningr153-1
     url: /documents/app53170koningr153/1/
     unit_label: 53/17/0/-/Konin Gr.153
-    n: 1
+    n: 2
   - id: '1'
     uid: app5320pozgr1181-1
     url: /documents/app5320pozgr1181/1/
     unit_label: 53/20/0/-/Poznań Gr.1181
-    n: 1
+    n: 3
   - id: '1'
     uid: app53640kalisztab21-1
     url: /documents/app53640kalisztab21/1/
     unit_label: 53/64/0/-/Kalisz Tab.21
     n: 1
+  - id: '1'
+    uid: adwl85-1
+    url: /documents/adwl85/1/
+    unit_label: ADWł 85
+    n: 2
   - id: '6'
     uid: ihagrrep7cnr421-6
     url: /documents/ihagrrep7cnr421/6/
@@ -4197,6 +4782,11 @@ pyzdry:
   - id: '8'
     uid: oe1bu14526-8
     url: /documents/oe1bu14526/8/
+    unit_label: Oe 1 Bü 14526
+    n: 1
+  - id: '7'
+    uid: oe1bu14526-7
+    url: /documents/oe1bu14526/7/
     unit_label: Oe 1 Bü 14526
     n: 1
   - id: '28'
@@ -4502,14 +5092,14 @@ szetlewek:
     url: /documents/app53170koningr117/11/
     unit_label: 53/17/0/-/Konin Gr.117
     n: 1
-  - id: '25'
-    uid: app53170koningr118-25
-    url: /documents/app53170koningr118/25/
+  - id: '26'
+    uid: app53170koningr118-26
+    url: /documents/app53170koningr118/26/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
-  - id: '19'
-    uid: app53170koningr118-19
-    url: /documents/app53170koningr118/19/
+  - id: '20'
+    uid: app53170koningr118-20
+    url: /documents/app53170koningr118/20/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
   - id: '1'
@@ -4710,7 +5300,7 @@ swiatniki:
     uid: app5320pozgr1181-1
     url: /documents/app5320pozgr1181/1/
     unit_label: 53/20/0/-/Poznań Gr.1181
-    n: 1
+    n: 2
   - id: '1'
     uid: agad1169011745-1
     url: /documents/agad1169011745/1/
@@ -8490,14 +9080,14 @@ kolno:
     url: /documents/app53170koningr114/2/
     unit_label: 53/17/0/-/Konin Gr.114
     n: 1
-  - id: '3'
-    uid: app53170koningr115-3
-    url: /documents/app53170koningr115/3/
-    unit_label: 53/17/0/-/Konin Gr.115
-    n: 1
   - id: '2'
     uid: app53170koningr115-2
     url: /documents/app53170koningr115/2/
+    unit_label: 53/17/0/-/Konin Gr.115
+    n: 1
+  - id: '3'
+    uid: app53170koningr115-3
+    url: /documents/app53170koningr115/3/
     unit_label: 53/17/0/-/Konin Gr.115
     n: 1
   - id: '1'
@@ -8535,14 +9125,14 @@ kolno:
     url: /documents/app53150kaliszgr424/1/
     unit_label: 53/15/0/-/Kalisz Gr.424
     n: 1
-  - id: '3'
-    uid: app53170koningr117-3
-    url: /documents/app53170koningr117/3/
-    unit_label: 53/17/0/-/Konin Gr.117
-    n: 1
   - id: '1'
     uid: app53170koningr117-1
     url: /documents/app53170koningr117/1/
+    unit_label: 53/17/0/-/Konin Gr.117
+    n: 1
+  - id: '3'
+    uid: app53170koningr117-3
+    url: /documents/app53170koningr117/3/
     unit_label: 53/17/0/-/Konin Gr.117
     n: 1
   - id: '2'
@@ -8570,9 +9160,9 @@ kolno:
     url: /documents/app53170koningr117/11/
     unit_label: 53/17/0/-/Konin Gr.117
     n: 1
-  - id: '25'
-    uid: app53170koningr118-25
-    url: /documents/app53170koningr118/25/
+  - id: '26'
+    uid: app53170koningr118-26
+    url: /documents/app53170koningr118/26/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
   - id: '16'
@@ -8580,24 +9170,24 @@ kolno:
     url: /documents/app53170koningr118/16/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
-  - id: '19'
-    uid: app53170koningr118-19
-    url: /documents/app53170koningr118/19/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
   - id: '20'
     uid: app53170koningr118-20
     url: /documents/app53170koningr118/20/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
-  - id: '22'
-    uid: app53170koningr118-22
-    url: /documents/app53170koningr118/22/
+  - id: '21'
+    uid: app53170koningr118-21
+    url: /documents/app53170koningr118/21/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
   - id: '23'
     uid: app53170koningr118-23
     url: /documents/app53170koningr118/23/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '24'
+    uid: app53170koningr118-24
+    url: /documents/app53170koningr118/24/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
   - id: '1'
@@ -8610,19 +9200,19 @@ kolno:
     url: /documents/app53170koningr153/2/
     unit_label: 53/17/0/-/Konin Gr.153
     n: 1
-  - id: '26'
-    uid: app53170koningr118-26
-    url: /documents/app53170koningr118/26/
+  - id: '27'
+    uid: app53170koningr118-27
+    url: /documents/app53170koningr118/27/
     unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
-  - id: '1'
-    uid: app536047-1
-    url: /documents/app536047/1/
-    unit_label: APP 53/6/0/-/47
     n: 1
   - id: '4'
     uid: app53170koningr119-4
     url: /documents/app53170koningr119/4/
+    unit_label: 53/17/0/-/Konin Gr.119
+    n: 1
+  - id: '5'
+    uid: app53170koningr119-5
+    url: /documents/app53170koningr119/5/
     unit_label: 53/17/0/-/Konin Gr.119
     n: 1
   - id: '6'
@@ -8630,10 +9220,10 @@ kolno:
     url: /documents/app53170koningr119/6/
     unit_label: 53/17/0/-/Konin Gr.119
     n: 1
-  - id: '5'
-    uid: app53170koningr119-5
-    url: /documents/app53170koningr119/5/
-    unit_label: 53/17/0/-/Konin Gr.119
+  - id: '1'
+    uid: app536047-1
+    url: /documents/app536047/1/
+    unit_label: APP 53/6/0/-/47
     n: 1
   - id: '7'
     uid: app53170koningr119-7
@@ -9624,9 +10214,34 @@ lyon:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 lenschitz:
-  docs: 2
-  span: 1797–1805
+  docs: 7
+  span: 1324–1805
   letters:
+  - id: '26'
+    uid: kdw-26
+    url: /documents/kdw/26/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 1
+  - id: '4'
+    uid: app5314550221-4
+    url: /documents/app5314550221/4/
+    unit_label: APP 53/1455/0/2/21
+    n: 2
+  - id: '14'
+    uid: kdw-14
+    url: /documents/kdw/14/
+    unit_label: Kodeks Dyplomatyczny Wielkopolski
+    n: 2
+  - id: '3'
+    uid: app5314550221-3
+    url: /documents/app5314550221/3/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '1'
+    uid: app53170koningr153-1
+    url: /documents/app53170koningr153/1/
+    unit_label: 53/17/0/-/Konin Gr.153
+    n: 3
   - id: '1'
     uid: ihagrrep7cnr3067-1
     url: /documents/ihagrrep7cnr3067/1/
@@ -9804,14 +10419,14 @@ lukomia:
     url: /documents/app53170koningr118/17/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
-  - id: '19'
-    uid: app53170koningr118-19
-    url: /documents/app53170koningr118/19/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
   - id: '20'
     uid: app53170koningr118-20
     url: /documents/app53170koningr118/20/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '21'
+    uid: app53170koningr118-21
+    url: /documents/app53170koningr118/21/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 1
   - id: '1'
@@ -9819,14 +10434,14 @@ lukomia:
     url: /documents/app53170koningr153/1/
     unit_label: 53/17/0/-/Konin Gr.153
     n: 1
-  - id: '26'
-    uid: app53170koningr118-26
-    url: /documents/app53170koningr118/26/
-    unit_label: 53/17/0/-/Konin Gr.118
-    n: 1
   - id: '27'
     uid: app53170koningr118-27
     url: /documents/app53170koningr118/27/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 1
+  - id: '28'
+    uid: app53170koningr118-28
+    url: /documents/app53170koningr118/28/
     unit_label: 53/17/0/-/Konin Gr.118
     n: 5
   - id: '1'
@@ -10685,9 +11300,54 @@ potsdam:
     unit_label: HZAN Oe 1 Bü 9454
     n: 1
 posen:
-  docs: 73
-  span: 1794–1936
+  docs: 82
+  span: 1362–1936
   letters:
+  - id: '4'
+    uid: app5314550221-4
+    url: /documents/app5314550221/4/
+    unit_label: APP 53/1455/0/2/21
+    n: 1
+  - id: '3'
+    uid: app5314550221-3
+    url: /documents/app5314550221/3/
+    unit_label: APP 53/1455/0/2/21
+    n: 2
+  - id: '2'
+    uid: app5314550221-2
+    url: /documents/app5314550221/2/
+    unit_label: APP 53/1455/0/2/21
+    n: 2
+  - id: '1'
+    uid: app536040-1
+    url: /documents/app536040/1/
+    unit_label: APP 53/6/0/-/40
+    n: 1
+  - id: '1'
+    uid: app536045-1
+    url: /documents/app536045/1/
+    unit_label: APP 53/6/0/-/45
+    n: 1
+  - id: '1'
+    uid: app53150kaliszgr414-1
+    url: /documents/app53150kaliszgr414/1/
+    unit_label: 53/15/0/-/Kalisz Gr.414
+    n: 2
+  - id: '6'
+    uid: app53170koningr118-6
+    url: /documents/app53170koningr118/6/
+    unit_label: 53/17/0/-/Konin Gr.118
+    n: 2
+  - id: '1'
+    uid: app53170koningr153-1
+    url: /documents/app53170koningr153/1/
+    unit_label: 53/17/0/-/Konin Gr.153
+    n: 10
+  - id: '1'
+    uid: app5320pozgr1181-1
+    url: /documents/app5320pozgr1181/1/
+    unit_label: 53/20/0/-/Poznań Gr.1181
+    n: 9
   - id: '13'
     uid: oe1bu14525-13
     url: /documents/oe1bu14525/13/
@@ -10712,7 +11372,7 @@ posen:
     uid: oe1bu14526-29
     url: /documents/oe1bu14526/29/
     unit_label: Oe 1 Bü 14526
-    n: 3
+    n: 7
   - id: '44'
     uid: oe1bu14525-44
     url: /documents/oe1bu14525/44/
@@ -10897,7 +11557,7 @@ posen:
     uid: oe1bu14525-12
     url: /documents/oe1bu14525/12/
     unit_label: Oe 1 Bü 14525
-    n: 1
+    n: 2
   - id: '25'
     uid: oe1bu14525-25
     url: /documents/oe1bu14525/25/
@@ -13890,7 +14550,7 @@ wielun:
     uid: app5320pozgr1181-1
     url: /documents/app5320pozgr1181/1/
     unit_label: 53/20/0/-/Poznań Gr.1181
-    n: 3
+    n: 2
   - id: '1'
     uid: ihagrrep7cnr3067-1
     url: /documents/ihagrrep7cnr3067/1/

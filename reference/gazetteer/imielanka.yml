@@ -12,8 +12,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Settlement which existed north of Łukom. Only one map noted this feature
-  (Richter 1843). Possibly *Kol. Imielno* (Messtischblatt 1940).
+text_en: Settlement which existed north of Łukom. Only one map noted this feature (Richter 1843). Possibly *Kol. Imielno* (Messtischblatt 1940).
 names:
 - form: Imielanka
   year: null
@@ -27,5 +26,9 @@ maps:
 - map: messtischblatt1940
   form: Kol. Imielno
   note: Possibly
+- map: reymann1834
+  form: Jemielanka
+  note: null
+  label: reymann1834-035
 footnotes: []
 review: []

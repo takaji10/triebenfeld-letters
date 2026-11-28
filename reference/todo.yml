@@ -1100,6 +1100,81 @@ items:
     label: Honrichs
   nc: ''
   audit_note: ''
+- id: t927-map-forms-that-differ
+  group: The maps
+  title: 'Seven maps marked: forms typed that differ from the lettering. Take the map''s spelling?'
+  kind: decision
+  text: 'Your marks on the seven maps are in. Claude read every form against the picture of its lettering.
+    Most agree; these differ (map, label: as written on the map / as typed). Reymann 1834: 027 Zagurów
+    / Zagórów; 031 Dluga goorka / Długa Górka; 041 Adamirz / Adamierz; 045 Jmoliniec / Jmoleniec; 089
+    Tarczew M. / Tarszewo Młyn; 101 Hol. Studzianki / Holendry Studzianka; and abbreviations written out,
+    023 Hol. Skokamskie / Skokamskie Olędry, 025 Fol. Tarczewo / Tarczewo, 073 Hol. Michalinowo / Holendry
+    Michalinowo, 075 Stara Huta / Stara Huta Olędry, 085 Ludwigslust / Kolonia Ludwigslust, 103 Hol. Wrąbczynkowskie
+    / Holendry Wrąbczynkowskie. Von Pfau 1770: 033 Smolince / Smoleniec; 027 and 049 Holl. / Hollendry.
+    Zagorowo 1799: 004 Zagorowo / Zagórów. The form is meant to be the map''s own spelling, which the gazetteer
+    and the map page show; the labels keep what you typed until you say.'
+  options:
+  - Take the map's spelling for all of them
+  - Take the map's spelling, but keep the abbreviations written out
+  - Keep what I typed
+  links:
+  - type: map
+    slug: reymann1834
+    label: Reymann 1834
+  - type: map
+    slug: vonpfau1770
+    label: von Pfau 1770
+  - type: map
+    slug: zagorowo1799
+    label: Zagorowo 1799
+  nc: The maps marked on 2026-11-27
+  audit_note: ''
+- id: t928-map-new-places
+  group: The maps
+  title: 'Five labels marked as new places: are two of them places the gazetteer has?'
+  kind: decision
+  text: 'On Reymann 1834 you marked four labels as new places, and one on von Pfau 1770. Two look like
+    entries the gazetteer already has: Hol. Michalinowo (Reymann 073) reads like Michalinów Trąbczyński
+    (michalinow-oledry, Hol. Michalinowo on Richter 1843 and Słupca 1800), and the mill Tarczew M. (Reymann
+    089) like the Tarszew mill (tarszew-mlyn, Osada Tarszew Ml. on Richter 1843, and the mill you marked
+    on Trąbczyn 1790). The other three have no entry to match: Kopczyk (Reymann 077, a forester''s house),
+    Buda (Reymann 106, not Budy, which you marked separately as Lukomskie budy) and the second Holl. on
+    von Pfau (049; the first, 027, is the old colony of Trąbczyn).'
+  options:
+  - Link the two as proposed; the other three new gazetteer entries
+  - Link the two as proposed; leave the other three as labels only
+  - Leave all five as they are
+  links:
+  - type: map
+    slug: reymann1834
+    label: Reymann 1834
+  - type: map
+    slug: vonpfau1770
+    label: von Pfau 1770
+  nc: The maps marked on 2026-11-27
+  audit_note: ''
+- id: t929-lazinskie-misfit
+  group: The maps
+  title: Reymann 1834 puts the Łazińskie colony 3 km from where the gazetteer has it
+  kind: question
+  text: 'When Reymann 1834 is fitted to the ground from your marks, one place stands well off: Lazinskie
+    Hol. (label 009) lies 3.0 km from where the gazetteer''s point puts it, four times the usual error
+    of the other 31. The gazetteer''s point for Łazińskie Olędry is not surveyed: it is OpenStreetMap''s
+    point, taken for an entry that only describes where the colony lay and flagged as uncertain in November.
+    So the point is the likelier fault, not your mark. Where did the colony lie?'
+  options:
+  - Move the gazetteer's point to where Reymann puts it
+  - Keep the point; it is right and Reymann is off
+  - I will look and say
+  links:
+  - type: map
+    slug: reymann1834
+    label: Reymann 1834
+  - type: place
+    slug: lazinskie-oledry
+    label: Łazińskie Olędry
+  nc: The maps marked on 2026-11-27
+  audit_note: ''
 - id: t926-the-three-entries-of
   group: APP 53/6/0/-/17 (1589)
   title: 'The three hard entries of 53/6/0/-/17: leave them out, or a careful attempt?'

@@ -77,9 +77,11 @@ of the comma and drops the row as "not found again".
   reference/places.yml as a matched variant of the settlement. The place of
   writing carries the manuscript's own form and the build shows the
   canonical name it resolves to. "Borwiezer Holland" (the teacher's home)
-  keeps the manuscript's spelling; its identification stays open
-  (NEEDS_CONFIRMATION; Borowiec, named in APP 53/968/0/-/669, is a
-  candidate).
+  keeps the manuscript's spelling. The editor identified it on 2026-11-28
+  as the nearby Olęder colony of Borowiec (the Borowieckie Stare and Nowe
+  Olędry of the Grodziec estate, Chodyła 2015; Breyer writes "Borowetzer
+  Gemeine" beside "Grontzer Holland"). Old or new colony is not known
+  (NEEDS_CONFIRMATION).
 
 ## Damage
 

@@ -5694,3 +5694,28 @@ things learned while measuring it:
 - **"Back to top"** is a button in the default layout (`assets/totop.js`), shown once a reader is a screen down.
 - **Check the editor's report of a fault against the source before changing it.** Paciorkowski's page 1 break,
   reported as wrong, follows the printed page (catchword and all); the decision went to the editor (t913).
+
+## Seven maps from the editor's label files (2026-11-28)
+
+- **Read every typed form against its crop.** The labelling page's form is meant
+  to be the map's own spelling, but the editor often types the place's proper
+  form or writes abbreviations out ("Hol." as "Holendry", "Tarczew M." as
+  "Tarszewo Młyn", "die Stadt Zagorowo" as "Zagórów"). The import does not see
+  this. A contact sheet of the crops with their forms (one image per map, the
+  crops under their labels) shows every difference in one look; the differences
+  go to the editor, and the labels keep the typed forms until they rule.
+- **A "new place" may be a place the gazetteer has.** The editor marks a label
+  new when the place list does not offer the entry under the form they type
+  (Reymann's "Hol. Michalinowo" is `michalinow-oledry`, whose heading is
+  Michalinów Trąbczyński). Search the gazetteer's map forms for the label's
+  form before reporting it as new, and propose the link; do not relink without
+  the editor's word.
+- **A map with fewer than three marks has no fit** (and none from MapWarper if
+  it is not there). `map_pages.py` used to give every map the overlay link to
+  `warp.html`, which for such a map opened on nothing; it now gives it only when
+  `triebenfeld-maps/<map>/georef.json` exists. Do not leave an empty
+  `georef.yml` behind for such a map.
+- **`mobile_check.py` on Windows**: `subprocess.run(["npm", ...])` without a
+  shell does not find `npm.cmd` (FileNotFoundError, though `which npm`
+  succeeds); the script now calls `shutil.which("npm")`. The puppeteer install in
+  the system temp had been cleared, so the check reinstalled it.

@@ -35,7 +35,11 @@ names:
   note: Recorded (with ladonlyerz) in the Liber beneficiorum as
   footnote: 3
 aliases: []
-maps: []
+maps:
+- map: reymann1834
+  form: Adamierz
+  note: null
+  label: reymann1834-041
 footnotes:
 - n: 1
   text: Zakrzewski, vol. 3, No. 1739

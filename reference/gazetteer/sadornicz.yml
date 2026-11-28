@@ -12,8 +12,7 @@ location:
   precision: unknown
   lat: null
   lon: null
-text_en: Unknown place which existed between Wrąbczynek and Myszaków. Only one map
-  noted this feature (von Pfau 1770).
+text_en: Unknown place which existed between Wrąbczynek and Myszaków. Only one map noted this feature (von Pfau 1770).
 names:
 - form: Sadornicz
   year: null
@@ -24,6 +23,7 @@ maps:
 - map: vonpfau1770
   form: null
   note: Only one map noted this feature
+  label: vonpfau1770-021
 footnotes: []
 review:
 - 'location: between "Wrąbczynek" and "Myszaków": relative_to left null'

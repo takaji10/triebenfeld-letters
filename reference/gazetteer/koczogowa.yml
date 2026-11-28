@@ -12,10 +12,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Water mill which existed east of Myszaków. Possibly located at Łukom, which
-  was recorded as having a mill (Gilly 1802) and was mentioned in a 1775 court document
-  concerning a property dispute between the Trąbczyn and Łukom estates.[^31] Only
-  one map noted this feature (von Pfau 1770).
+text_en: Water mill which existed east of Myszaków. Possibly located at Łukom, which was recorded as having a mill (Gilly 1802) and was mentioned in a 1775 court document concerning a property dispute between the Trąbczyn and Łukom estates.[^31] Only one map noted this feature (von Pfau 1770).
 names:
 - form: Koczogowa
   year: null
@@ -29,6 +26,7 @@ maps:
 - map: vonpfau1770
   form: null
   note: Only one map noted this feature
+  label: vonpfau1770-005
 footnotes:
 - n: 31
   text: “Relationes-oblatae [protocollon],” 1776, 668v

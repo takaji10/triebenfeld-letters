@@ -8,7 +8,7 @@ After 1815 the estate lay in the Kingdom of Poland, under the Russian emperor, a
 
 ### Contents
 
-Tropiczyner Holland is the Olęder colony later called Łazińsk, the Trąbczyńskie Stare Olędry. On 14 March 1820 its village board, the headman (Schulze) Johann George Lindner and his two assessors, Christoph Rimpel and Samuel Gellert, took on Samuel Adolph, a teacher from Borwiezer Holland, who had offered to take over their school; they had examined him and found him fit [[1]].
+Tropiczyner Holland is the Olęder colony later called Łazińsk, the Trąbczyńskie Stare Olędry. On 14 March 1820 its village board, the headman (Schulze) Johann George Lindner and his two assessors, Christoph Rimpel and Samuel Gellert, took on Samuel Adolph, a teacher from Borwiezer Holland (the Olęder colony of Borowiec near Grodziec), who had offered to take over their school; they had examined him and found him fit [[1]].
 
 The colony gave him a free dwelling, three Morgen of land and some meadow for the school, the land tilled for him by the community, and five Viertel of grain and half a Viertel of seed. The parents paid 3 groschen for a child learning from the ABC to reading and 6 for writing and reckoning; every child confirmed gave him a present; he was paid for burials, more for an adult than for a child; every householder gave him an offering at Christmas, Easter and Whitsun; and on his rounds of the colony he was given 6 groschen at New Year and 3 on Maundy Thursday, in Polish money [[1]].
 

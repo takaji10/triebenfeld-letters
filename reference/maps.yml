@@ -43,7 +43,7 @@ maps:
     height: 6573
     crop: null          # the atlas plate whole
     tiles: "https://takaji10.github.io/triebenfeld-maps/blaeu1665/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true
   lukom1766:
     cited_as: "Łukom 1766"
     year: 1766
@@ -99,7 +99,7 @@ maps:
     height: 8304
     crop: null          # the full sheet (the editor's word)
     tiles: "https://takaji10.github.io/triebenfeld-maps/vonpfau1770/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true
   trabczyn1790:
     cited_as: "Trąbczyn 1790"
     year: 1790
@@ -120,7 +120,7 @@ maps:
     height: 5319
     crop: null
     tiles: "https://takaji10.github.io/triebenfeld-maps/trabczyn1790/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true
   perthees1798:
     cited_as: "Perthées 1798"
     year: 1798
@@ -163,7 +163,7 @@ maps:
     height: 10850
     crop: null
     tiles: "https://takaji10.github.io/triebenfeld-maps/zagorowo1799/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true
   krolikow1800:
     cited_as: "Królików 1800"
     year: 1800
@@ -251,7 +251,7 @@ maps:
     crop: null
     mapwarper: 71123
     tiles: "https://takaji10.github.io/triebenfeld-maps/pambo1803/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true
   hollring1804:
     cited_as: "Hollring 1804"
     year: 1805
@@ -277,7 +277,7 @@ maps:
     crop: null
     mapwarper: 75568
     tiles: "https://takaji10.github.io/triebenfeld-maps/hollring1804/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true
   weydner1804:
     cited_as: "Weydner 1804"
     year: 1804
@@ -325,7 +325,7 @@ maps:
     height: 7260
     crop: null          # the sheet whole
     tiles: "https://takaji10.github.io/triebenfeld-maps/reymann1834/info.json"
-    in_project: false   # tiles published; the editor's marks pending (2026-11-06)
+    in_project: true
   zagorow1841:
     cited_as: "Zagórów 1841"
     year: 1841

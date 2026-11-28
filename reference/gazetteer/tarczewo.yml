@@ -12,8 +12,7 @@ location:
   precision: described
   lat: null
   lon: null
-text_en: Folwark which existed south of Kopojno. Only one map noted this feature (Reymann
-  1834).
+text_en: Folwark which existed south of Kopojno. Only one map noted this feature (Reymann 1834).
 names:
 - form: Tarczewo
   year: null
@@ -24,5 +23,6 @@ maps:
 - map: reymann1834
   form: null
   note: Only one map noted this feature
+  label: reymann1834-025
 footnotes: []
 review: []

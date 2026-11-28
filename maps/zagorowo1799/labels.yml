@@ -1,0 +1,49 @@
+# The editor's marks on the map zagorowo1799, from the labelling page, imported from
+# labels_zagorowo1799_20261127-2133.json on 2026-11-28 by pipeline/maps/import_labels.py.
+# The saved file is the editor's and wins; marks are in the pixels of the
+# original image (reference/maps.yml). Docs: docs/MAPS_PLAN.md, sections 3-4.
+map: zagorowo1799
+width: 9729
+height: 10850
+saved: '2026-11-27T20:33:23.567Z'
+labels:
+- id: zagorowo1799-002
+  role: place
+  place: wymyslow
+  new_place: null
+  form: Wimislaw
+  point: [4441, 4861]
+  trace:
+  - [4578, 4560]
+  - [5092, 4565]
+  - [4811, 4741]
+  - [5438, 4758]
+  height: 180
+  shows: village
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null
+- id: zagorowo1799-004
+  role: place
+  place: zagorowo
+  new_place: null
+  form: Zagórów
+  point: [5011, 8429]
+  trace:
+  - [6473, 8123]
+  - [7439, 8149]
+  - [5888, 8435]
+  - [7402, 8486]
+  height: 360
+  shows: town
+  note: null
+  refs: null
+  letter: null
+  from: null
+  to: null
+  n: null
+  skipped: null

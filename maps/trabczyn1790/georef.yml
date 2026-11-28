@@ -1,0 +1,27 @@
+# Control points of one map: a pixel of the original image tied to a point on
+# the ground (docs/MAPS_PLAN.md, section 5). trabczyn1790 is not on MapWarper: the map
+# is placed from the editor's marks alone (MAPS_PLAN, section 5), which
+# georef.py appends here as mk-* rows. Rows with `from: mapwarper` would be
+# replaced on every fetch (none here); any other rows are kept. `fit:` is
+# written by pipeline/maps/georef.py.
+map: trabczyn1790
+fetched: '2026-11-28'
+width: 4590
+height: 5319
+gcps: []
+fit:
+  transformation: polynomial
+  order: 1
+  n: 9
+  rms_m: 776.69
+  inverse_rms_px: 54.5
+  residuals_m:
+    mk-trabczyn1790-002: 702.75
+    mk-trabczyn1790-004: 861.11
+    mk-trabczyn1790-014: 926.24
+    mk-trabczyn1790-016: 936.13
+    mk-trabczyn1790-018: 846.26
+    mk-trabczyn1790-020: 1117.72
+    mk-trabczyn1790-022: 263.29
+    mk-trabczyn1790-026: 459.68
+    mk-trabczyn1790-028: 462.05

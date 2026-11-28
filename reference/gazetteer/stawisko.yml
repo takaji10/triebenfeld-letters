@@ -12,16 +12,7 @@ location:
   precision: identified
   lat: 52.108889
   lon: 17.868889
-text_en: Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing
-  existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from
-  1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described
-  as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area
-  north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service
-  1962). The Słownik geograficzny records it as a village and forestry settlement, gmina Trąbczyn,
-  parish of Zagórów, powiat słupecki, 21 versts from Słupca, with 6 houses, and 381 inhabitants
-  together with the villages of Bukowa and Imielno; the village, of 7 holdings and 64 Morgen,
-  belonged to the Łukom estate.[^69] Nazwy miejscowe Polski records it as *Stawisko* from 1834
-  ("na Stawisku"), a folwark in 1839.[^70]
+text_en: Isolated dwellings southeast of and belonging to Łomów. A significant swamp crossing existed west from here called *Brod Kaliski* and was shown on a map of the Łukom estate from 1766 (Łukom 1766). Appeared as a folwark (Richter 1843). In Polish, a *stawisko* is described as a large mud pond, or an area formerly occupied by a pond.[^68] The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s (Army Map Service 1962). The Słownik geograficzny records it as a village and forestry settlement, gmina Trąbczyn, parish of Zagórów, powiat słupecki, 21 versts from Słupca, with 6 houses, and 381 inhabitants together with the villages of Bukowa and Imielno; the village, of 7 holdings and 64 Morgen, belonged to the Łukom estate.[^69] Nazwy miejscowe Polski records it as *Stawisko* from 1834 ("na Stawisku"), a folwark in 1839.[^70]
 names:
 - form: Stawisko
   year: null
@@ -42,8 +33,11 @@ maps:
   note: Appeared as a folwark
 - map: ams1962
   form: null
-  note: The low-lying, marshy area north of Stawisko was being used for peat cuttings as late
-    as the 1960s
+  note: The low-lying, marshy area north of Stawisko was being used for peat cuttings as late as the 1960s
+- map: reymann1834
+  form: Stawisko
+  note: null
+  label: reymann1834-053
 footnotes:
 - n: 68
   text: Arct, “Stawisko,” 774
@@ -59,14 +53,12 @@ footnotes:
   - source: slownik
     locator: t. XI, p. 295, sub 2
     status: missing
-  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): the 381 inhabitants are
-    the entry''s figure for Stawisko together with Bukowa and Imielno.'
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): the 381 inhabitants are the entry''s figure for Stawisko together with Bukowa and Imielno.'
 - n: 70
   text: Nazwy miejscowe Polski, t. 15, p. 223
   refs:
   - source: nmpol
     locator: t. 15, p. 223
     status: missing
-  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "Stawisku" is the locative
-    of the record of 1834 ("na Stawisku"), not a form of the name.'
+  note: 'Corrected 2026-11-21 (the audit of the dictionary citations): "Stawisku" is the locative of the record of 1834 ("na Stawisku"), not a form of the name.'
 review: []
