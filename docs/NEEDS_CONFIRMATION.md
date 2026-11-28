@@ -1925,7 +1925,10 @@ Places (`reference/places.yml`, `open_questions`):
 - "Borwiezer Holland", the colony the school teacher Samuel Adolph came
   from (the contract of 1820, APP 53/968/0/-/782): not identified. Borowiec
   (named in APP 53/968/0/-/669 as a source of marriage partners for the
-  colonies) is a candidate; nothing more.
+  colonies) is a candidate; Breyer's other notebook writes "Grontzer
+  Holland, Borowetzer Gemeine" (IMG_5190, left page; read 2026-11-28,
+  `units/app539680669/intake/other_notebooks_2026-11-28.md`), a second
+  hint towards Borowiec; nothing more.
 - The same ruling, one spelling over: "Trąbczyner Holländ" (oe1bu14526-17),
   recorded in the canon as a form seen without asserting the identity, now
   looks covered by the editor's ruling of 2026-10-26 ("Tropiczyner Holl." =

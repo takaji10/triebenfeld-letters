@@ -1088,21 +1088,31 @@ items:
     label: Wąsicki (1953)
   nc: ''
   audit_note: ''
-- id: t921-read-the-bruntsch-and
+- id: t925-add-the-bruntsch-list
   group: APP 53/968/0/-/669 - Breyer's notebooks
-  title: Read the Bruntsch and Honrichs entries in the other Breyer notebooks
-  kind: claude
-  text: 'You named (2026-11-27) two entries in the other Breyer notebooks: on IMG_5189, right page, under
-    the line, a marriage of 1838 of Bruntsch, a holder in the Trąbczyn Olędry born at Bentschen(?) in
-    Prussia, and Brüllow, of the distillery at Gosławice, born in Berlin, which bears on where the Olęders
-    came from; and on IMG_5190 (and again IMG_5208) a Honrichs, commissary to Hohenlohe-Ingelfingen, perhaps
-    a marriage of 1808. Claude is to read both with two readers and propose: Bruntsch to be added, Honrichs
-    reported for your ruling. Nothing else from those notebooks is to be added.'
-  options: []
+  title: Add the Bruntsch list and the Honrichs permission of 1808?
+  kind: decision
+  text: 'Claude and two readers read the two passages you named in Breyer''s other notebooks (units/app539680669/intake/other_notebooks_2026-11-28.md).
+    (1) IMG_5189: a list of 1838, each line one person: ''Bruntsch, okup. Tromp. Hol., Benssen, Pr. 58''
+    and ''Brüllow, gorzel. w Gosławicach, ur. Berlin 24'' are its first two lines. They read as two separate
+    men, each with his own trade, place and age (the second is a distiller), not as a couple, and the
+    page does not say what the list records. (2) IMG_5190 and IMG_5208: not Honrichs''s marriage, but
+    the banns of 1808 at Sophiental, one of the Prince''s colonies, of the schoolmaster Peter Abraham
+    Piper, for which ''die Erlaubnis hierzu'' was given by Honrichs, the Prince''s commissary at Trąbczyn,
+    in 1808: the Prince''s man still acting there after the estates were returned in 1807. Claude proposes
+    adding both passages, and only them, as document 3 of this holding.'
+  options:
+  - Add both passages as document 3
+  - Add the Honrichs passage only
+  - Add the Bruntsch lines only
+  - Add neither
   links:
   - type: unit
     slug: app539680669
     label: Breyer's notebook, July 1936
+  - type: person
+    slug: honrichs
+    label: Honrichs
   nc: ''
   audit_note: ''
 - id: t922-propose-timeline-events-from
@@ -1530,3 +1540,9 @@ done:
     p. 523; the documents after it renumbered 19-30 everywhere. Read blind by two Sonnet readers; ''Ejusq[ue]''
     for ''Ejusdem''. The decree is the Inowrocław chamberlain office''s of the attempt of June 1782, not
     Konin Gr.153''s: no connection to Gr.153.'
+- id: t921-read-the-bruntsch-and
+  title: Read the Bruntsch and Honrichs entries in the other Breyer notebooks
+  date: '2026-11-28'
+  answer: Done
+  note: Read by Claude and two blind Sonnet readers; settled in units/app539680669/intake/other_notebooks_2026-11-28.md.
+    The decision is t925.

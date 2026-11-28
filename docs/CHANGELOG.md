@@ -6598,3 +6598,8 @@ sources-icon.html`).
 ## 2026-11-28 - Seidel (2018): the notes were there all along
 
 - The 168 notes of Seidel's biography are in the edition's copy since 2026-10-19, as the footnotes at the end of the editor's files (cut with the last passage); the work's notes wrongly said they were missing, and now say so. Putting them on their printed pages 257-266 was done and undone the same day: it trips the check that a hidden work's text is not on the site (a note cites Kraus's title, which the Literature page shows). The page breaks and the key to the print's per-chapter numbering are in `literature/seidel2018/notes.md`; the move waits on the editor (to-do t920).
+
+## 2026-11-28 - Breyer's other notebooks: the Bruntsch list and the Honrichs permission read
+
+- The two passages the editor named (IMG_5189; IMG_5190 and IMG_5208) read by Claude and two blind readers and recorded in `units/app539680669/intake/other_notebooks_2026-11-28.md`. The Honrichs passage is not his marriage but his permission, as the Prince's commissary at Trąbczyn, for the banns of 1808 of the Sophiental schoolmaster Peter Abraham Piper; the Bruntsch and Brüllow lines read as two separate men of a list of 1838. Nothing added yet: the editor decides (to-do t925).
+

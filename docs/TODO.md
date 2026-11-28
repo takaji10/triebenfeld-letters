@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-64 open: 15 question, 10 decision, 14 task, 17 claude, 8 waiting.
+64 open: 15 question, 11 decision, 14 task, 16 claude, 8 waiting.
 
 ## APP 53/17/0/-/Konin Gr.145 and the Prusimski era folders
 
@@ -564,12 +564,17 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
 ## APP 53/968/0/-/669 - Breyer's notebooks
 
-- [ ] **Read the Bruntsch and Honrichs entries in the other Breyer notebooks** (`t921-read-the-bruntsch-and`, claude). You named (2026-11-27) two entries in the other Breyer notebooks: on IMG_5189, right
-      page, under the line, a marriage of 1838 of Bruntsch, a holder in the Trąbczyn
-      Olędry born at Bentschen(?) in Prussia, and Brüllow, of the distillery at
-      Gosławice, born in Berlin, which bears on where the Olęders came from; and on
-      IMG_5190 (and again IMG_5208) a Honrichs, commissary to Hohenlohe-Ingelfingen,
-      perhaps a marriage of 1808. Claude is to read both with two readers and propose:
-      Bruntsch to be added, Honrichs reported for your ruling. Nothing else from those
-      notebooks is to be added.
-      Concerns: [Breyer's notebook, July 1936](/sources/app539680669/)
+- [ ] **Add the Bruntsch list and the Honrichs permission of 1808?** (`t925-add-the-bruntsch-list`, decision). Claude and two readers read the two passages you named in Breyer's other notebooks
+      (units/app539680669/intake/other_notebooks_2026-11-28.md). (1) IMG_5189: a list of
+      1838, each line one person: 'Bruntsch, okup. Tromp. Hol., Benssen, Pr. 58' and
+      'Brüllow, gorzel. w Gosławicach, ur. Berlin 24' are its first two lines. They read
+      as two separate men, each with his own trade, place and age (the second is a
+      distiller), not as a couple, and the page does not say what the list records. (2)
+      IMG_5190 and IMG_5208: not Honrichs's marriage, but the banns of 1808 at
+      Sophiental, one of the Prince's colonies, of the schoolmaster Peter Abraham Piper,
+      for which 'die Erlaubnis hierzu' was given by Honrichs, the Prince's commissary at
+      Trąbczyn, in 1808: the Prince's man still acting there after the estates were
+      returned in 1807. Claude proposes adding both passages, and only them, as document
+      3 of this holding.
+      Options: Add both passages as document 3 / Add the Honrichs passage only / Add the Bruntsch lines only / Add neither
+      Concerns: [Breyer's notebook, July 1936](/sources/app539680669/), [Honrichs](/people/honrichs/)
