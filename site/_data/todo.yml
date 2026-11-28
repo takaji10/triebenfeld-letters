@@ -1126,23 +1126,6 @@ groups:
     note: ''
     editor_note: ''
     h: 54449aca
-- name: APP 53/6/0/-/17 (1589)
-  items:
-  - id: t917-test-whether-the-three
-    title: Test whether the three entries of 53/6/0/-/17 can be read reliably
-    kind: claude
-    text: You asked (2026-11-27) whether the three untranscribed entries on leaves 27 verso to 29 of 53/6/0/-/17
-      can be transcribed without a mass of errors, since the hand is very hard. Claude is to have two
-      readers transcribe them independently from the scans, measure how far they agree, and give you an
-      honest verdict with a sample. Nothing is added to the edition unless you then say so.
-    options: []
-    links:
-    - label: 53/6/0/-/17
-      href: /sources/app536017/
-    nc: ''
-    note: ''
-    editor_note: ''
-    h: '23474424'
 - name: ADWł 85 - the visitation of the Konin deanery, 1790-1791
   items:
   - id: t918-add-the-rest-of
@@ -1189,10 +1172,33 @@ groups:
     note: ''
     editor_note: ''
     h: 7f290157
+- name: APP 53/6/0/-/17 (1589)
+  items:
+  - id: t926-the-three-entries-of
+    title: 'The three hard entries of 53/6/0/-/17: leave them out, or a careful attempt?'
+    kind: decision
+    text: 'You asked whether the three untranscribed entries on leaves 27 verso to 29 can be read without
+      a mass of errors. Two readers read them blind: they agree on only 38%, 42% and 63% of the words,
+      mostly the court''s repeated formulas, and part where it matters, at the names, the Polish glosses
+      and the facts; the top of leaf 28 verso is under a stain. So not reliably as things stand. A careful
+      attempt is possible: Claude reading band by band at high zoom against the formulas already read
+      in the transcribed entry, with a long spot sheet for you, and the names and Polish would still carry
+      marks of doubt. The notes of the holding have the details.'
+    options:
+    - Leave them out
+    - Make the careful attempt (all three)
+    - Make the careful attempt on entry 3 only (the clearest)
+    links:
+    - label: 53/6/0/-/17
+      href: /sources/app536017/
+    nc: ''
+    note: ''
+    editor_note: ''
+    h: b1489c72
 counts:
   question: 15
-  decision: 11
+  decision: 12
   task: 14
-  claude: 16
+  claude: 15
   waiting: 8
 total: 64

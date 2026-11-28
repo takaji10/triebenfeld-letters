@@ -6603,3 +6603,7 @@ sources-icon.html`).
 
 - The two passages the editor named (IMG_5189; IMG_5190 and IMG_5208) read by Claude and two blind readers and recorded in `units/app539680669/intake/other_notebooks_2026-11-28.md`. The Honrichs passage is not his marriage but his permission, as the Prince's commissary at Trąbczyn, for the banns of 1808 of the Sophiental schoolmaster Peter Abraham Piper; the Bruntsch and Brüllow lines read as two separate men of a list of 1838. Nothing added yet: the editor decides (to-do t925).
 
+## 2026-11-28 - 53/6/0/-/17: the test reading of the three hard entries
+
+- Two blind readers on leaves 27 verso to 29 agree on 38%, 42% and 63% of the words, mostly formulas: the entries cannot be transcribed reliably as things stand. The readings kept as a record (`units/app536017/intake/test_reading_2026-11-28/`); the choice put to the editor (to-do t926).
+

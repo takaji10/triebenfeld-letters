@@ -1041,21 +1041,6 @@ items:
   links: []
   nc: ''
   audit_note: ''
-- id: t917-test-whether-the-three
-  group: APP 53/6/0/-/17 (1589)
-  title: Test whether the three entries of 53/6/0/-/17 can be read reliably
-  kind: claude
-  text: You asked (2026-11-27) whether the three untranscribed entries on leaves 27 verso to 29 of 53/6/0/-/17
-    can be transcribed without a mass of errors, since the hand is very hard. Claude is to have two readers
-    transcribe them independently from the scans, measure how far they agree, and give you an honest verdict
-    with a sample. Nothing is added to the edition unless you then say so.
-  options: []
-  links:
-  - type: unit
-    slug: app536017
-    label: 53/6/0/-/17
-  nc: ''
-  audit_note: ''
 - id: t918-add-the-rest-of
   group: ADWł 85 - the visitation of the Konin deanery, 1790-1791
   title: Add the rest of the Trąbczyn visitation and the Zagórów church
@@ -1113,6 +1098,27 @@ items:
   - type: person
     slug: honrichs
     label: Honrichs
+  nc: ''
+  audit_note: ''
+- id: t926-the-three-entries-of
+  group: APP 53/6/0/-/17 (1589)
+  title: 'The three hard entries of 53/6/0/-/17: leave them out, or a careful attempt?'
+  kind: decision
+  text: 'You asked whether the three untranscribed entries on leaves 27 verso to 29 can be read without
+    a mass of errors. Two readers read them blind: they agree on only 38%, 42% and 63% of the words, mostly
+    the court''s repeated formulas, and part where it matters, at the names, the Polish glosses and the
+    facts; the top of leaf 28 verso is under a stain. So not reliably as things stand. A careful attempt
+    is possible: Claude reading band by band at high zoom against the formulas already read in the transcribed
+    entry, with a long spot sheet for you, and the names and Polish would still carry marks of doubt.
+    The notes of the holding have the details.'
+  options:
+  - Leave them out
+  - Make the careful attempt (all three)
+  - Make the careful attempt on entry 3 only (the clearest)
+  links:
+  - type: unit
+    slug: app536017
+    label: 53/6/0/-/17
   nc: ''
   audit_note: ''
 - id: t922-propose-timeline-events-from
@@ -1546,3 +1552,9 @@ done:
   answer: Done
   note: Read by Claude and two blind Sonnet readers; settled in units/app539680669/intake/other_notebooks_2026-11-28.md.
     The decision is t925.
+- id: t917-test-whether-the-three
+  title: Test whether the three entries of 53/6/0/-/17 can be read reliably
+  date: '2026-11-28'
+  answer: Done
+  note: Two blind readers agree on 38%, 42% and 63% of the words, mostly formulas; verdict in units/app536017/notes.md;
+    the decision is t926.

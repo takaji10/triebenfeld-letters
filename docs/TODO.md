@@ -6,7 +6,7 @@ The same list is the page /todo/ on the site, where the questions are answered
 [archive/TODO_2026-11-25.md](archive/TODO_2026-11-25.md). Open questions about readings and
 identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
 
-64 open: 15 question, 11 decision, 14 task, 16 claude, 8 waiting.
+64 open: 15 question, 12 decision, 14 task, 15 claude, 8 waiting.
 
 ## APP 53/17/0/-/Konin Gr.145 and the Prusimski era folders
 
@@ -544,15 +544,6 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       carry them.
       Options: The court records are enough / Add them for the other holdings too (I will send the files)
 
-## APP 53/6/0/-/17 (1589)
-
-- [ ] **Test whether the three entries of 53/6/0/-/17 can be read reliably** (`t917-test-whether-the-three`, claude). You asked (2026-11-27) whether the three untranscribed entries on leaves 27 verso to 29
-      of 53/6/0/-/17 can be transcribed without a mass of errors, since the hand is very
-      hard. Claude is to have two readers transcribe them independently from the scans,
-      measure how far they agree, and give you an honest verdict with a sample. Nothing
-      is added to the edition unless you then say so.
-      Concerns: [53/6/0/-/17](/sources/app536017/)
-
 ## ADWł 85 - the visitation of the Konin deanery, 1790-1791
 
 - [ ] **Add the rest of the Trąbczyn visitation and the Zagórów church** (`t918-add-the-rest-of`, claude). You asked (2026-11-27) for the rest of the visitation of Trąbczyn (leaves 26 to 28 recto
@@ -578,3 +569,16 @@ identifications stay in [NEEDS_CONFIRMATION.md](NEEDS_CONFIRMATION.md).
       3 of this holding.
       Options: Add both passages as document 3 / Add the Honrichs passage only / Add the Bruntsch lines only / Add neither
       Concerns: [Breyer's notebook, July 1936](/sources/app539680669/), [Honrichs](/people/honrichs/)
+
+## APP 53/6/0/-/17 (1589)
+
+- [ ] **The three hard entries of 53/6/0/-/17: leave them out, or a careful attempt?** (`t926-the-three-entries-of`, decision). You asked whether the three untranscribed entries on leaves 27 verso to 29 can be read
+      without a mass of errors. Two readers read them blind: they agree on only 38%, 42%
+      and 63% of the words, mostly the court's repeated formulas, and part where it
+      matters, at the names, the Polish glosses and the facts; the top of leaf 28 verso
+      is under a stain. So not reliably as things stand. A careful attempt is possible:
+      Claude reading band by band at high zoom against the formulas already read in the
+      transcribed entry, with a long spot sheet for you, and the names and Polish would
+      still carry marks of doubt. The notes of the holding have the details.
+      Options: Leave them out / Make the careful attempt (all three) / Make the careful attempt on entry 3 only (the clearest)
+      Concerns: [53/6/0/-/17](/sources/app536017/)

@@ -44,6 +44,20 @@ the decree of 1775 cites them:
 With ours read, 1 could be transcribed with the same confidence; 2 and 3
 are the same formulas round new facts and would need more care.
 
+**The test reading (2026-11-28, to-do t917)**: the editor asked whether the
+three can be transcribed without a mass of errors. Two Sonnet readers read
+them blind from the scans (`intake/test_reading_2026-11-28/readerA.txt`,
+`readerB.txt`; machine readings, not checked, not the edition's text). They
+agree word for word, in order, on 38% of entry 1, 42% of entry 2 and 63% of
+entry 3, and the agreement is mostly the court's repeated formulas; the
+names, the Polish glosses ("zalial dezena pospolitego rodzayne go dembiny
+buchiny" in one reading) and the facts of each entry are where they part.
+Each reader was sure of about half its words (A 55-60%, B 45-50%); the top
+of leaf 28 verso is under a stain and a pasted slip. Verdict: not without a
+mass of doubt. A usable text would need a band-by-band reading by Claude at
+high zoom against entry 1's known formulas, and a long spot sheet for the
+editor, and would still leave the names and the Polish doubtful.
+
 ## The re-reading (2026-10-07)
 
 `intake/corrections.py`: the three paragraphs replaced whole by a reading
